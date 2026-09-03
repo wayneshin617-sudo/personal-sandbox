@@ -154,7 +154,13 @@ div.stButton > button:disabled {
   border-radius: 14px !important;
 }
 
-[data-testid="stCaption"] { color: #a1a1aa !important; }
+.stCaption, [data-testid="stCaptionContainer"] {
+  color: #a1a1aa !important;
+}
+
+[data-testid="stButtonGroup"] {
+  flex-wrap: wrap !important;
+}
 
 .stRadio [role="radiogroup"] {
   gap: 8px;

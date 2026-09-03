@@ -292,6 +292,7 @@ def main() -> None:
             MODE_IMAGE: "예: 이 얼굴이 영상 속 주인공이 되게 해 주세요. 배경과 동작은 유지.",
             MODE_TEXT: "원하는 장면을 적어 주세요. 텍스트만으로는 영상을 만들지 않습니다. 영상과 얼굴 사진이 필요합니다.",
         }[mode]
+        st.caption("프롬프트")
         prompt = st.text_area("프롬프트", placeholder=prompt_ph, height=140, label_visibility="collapsed")
         st.caption("원본 영상의 인물을, 올린 얼굴로 바꿉니다. 동작·배경·소리는 그대로입니다.")
 
@@ -309,22 +310,19 @@ def main() -> None:
             video_url = st.text_input("영상 URL", placeholder="https://...", key="video_url_input")
             video_path_in = st.text_input("이 컴퓨터 경로", placeholder="/data/clip.mp4", key="video_path_input")
 
-        d1, d2, d3 = st.columns(3)
-        with d1:
-            duration_choice = st.pills(
-                "길이", DURATION_OPTIONS, default="전체", key="duration_choice", selection_mode="single"
-            ) or "전체"
-        with d2:
-            aspect_choice = st.pills(
-                "화면 비율", ASPECT_OPTIONS, default="원본", key="aspect_choice", selection_mode="single"
-            ) or "원본"
-        with d3:
-            res_choice = st.pills(
-                "해상도", RES_OPTIONS, default="원본", key="res_choice", selection_mode="single"
-            ) or "원본"
+        duration_choice = st.pills(
+            "길이", DURATION_OPTIONS, default="전체", key="duration_choice", selection_mode="single"
+        ) or "전체"
+        aspect_choice = st.pills(
+            "화면 비율", ASPECT_OPTIONS, default="원본", key="aspect_choice", selection_mode="single"
+        ) or "원본"
+        res_choice = st.pills(
+            "해상도", RES_OPTIONS, default="원본", key="res_choice", selection_mode="single"
+        ) or "원본"
 
         watermark = st.toggle(f"결과에 {WATERMARK_TEXT} 표시", value=True)
         generate = st.button("생성하기", type="primary", use_container_width=True, disabled=(mode == MODE_TEXT))
+        notice = st.empty()
 
     video_path = _ingest_video(work, video_file, video_url, video_path_in)
     ref_paths = _ingest_refs(work, ref_files)
@@ -403,18 +401,18 @@ def main() -> None:
     if not generate:
         return
     if mode == MODE_TEXT:
-        st.warning("영상과 얼굴 사진을 올린 뒤 생성해 주세요.")
+        notice.warning("영상과 얼굴 사진을 올린 뒤 생성해 주세요.")
         return
     if video_path is None or info is None:
-        st.warning("원본 영상을 올려 주세요.")
+        notice.warning("원본 영상을 올려 주세요.")
         return
     if not ref_paths:
-        st.warning("얼굴 사진을 한 장 이상 올려 주세요.")
+        notice.warning("얼굴 사진을 한 장 이상 올려 주세요.")
         return
     try:
         runtime = _runtime()
     except Exception as exc:  # noqa: BLE001
-        st.error(str(exc))
+        notice.error(str(exc))
         return
     if selection is None:
         try:
@@ -425,7 +423,7 @@ def main() -> None:
         except Exception:
             selection = None
     if selection is None:
-        st.warning("영상에서 얼굴을 찾지 못했습니다. 오른쪽 장면을 옮겨 보세요.")
+        notice.warning("영상에서 얼굴을 찾지 못했습니다. 오른쪽 장면을 옮겨 보세요.")
         return
 
     caps = _export_caps()
@@ -474,10 +472,10 @@ def main() -> None:
         st.session_state.last_result = result
         if result.ok:
             st.rerun()
-        st.error(result.message)
+            notice.error(result.message)
     except Exception as exc:  # noqa: BLE001
         LOGGER.exception("generate failed")
-        st.error("생성에 실패했습니다.")
+        notice.error("생성에 실패했습니다.")
         LOGGER.error("%s", exc)
 
 
