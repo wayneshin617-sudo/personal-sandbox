@@ -23,7 +23,7 @@ if errorlevel 1 (
 )
 
 echo Starting Streamlit...
-python -m streamlit run app.py --server.headless true
+python -m streamlit run app.py --server.headless true --server.address 0.0.0.0 --server.port 8501
 if errorlevel 1 goto :fail
 exit /b 0
 
