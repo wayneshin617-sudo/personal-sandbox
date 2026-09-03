@@ -1,0 +1,17 @@
+# Pinned for Python 3.10–3.12 on Windows and Linux.
+# Install into a dedicated venv. GPU extra: pip install onnxruntime-gpu==1.20.1
+# (uninstall onnxruntime first if you switch to the GPU wheel).
+
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+onnx==1.17.0
+onnxruntime==1.20.1
+pillow==10.4.0
+streamlit==1.40.2
+streamlit-image-coordinates==0.1.9
+scipy==1.14.1
+scikit-image==0.24.0
+protobuf==5.28.3
+requests==2.32.3
+tqdm==4.67.1
+pytest==8.3.4
