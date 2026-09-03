@@ -2,8 +2,8 @@
 
 from __future__ import annotations
 
-import os
 import subprocess
+import threading
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterator
@@ -31,6 +31,17 @@ def _terminate(proc: subprocess.Popen[bytes] | None) -> None:
         proc.wait(timeout=5)
 
 
+def _drain_stderr(proc: subprocess.Popen[bytes], bucket: list[bytes]) -> None:
+    if proc.stderr is None:
+        return
+    try:
+        data = proc.stderr.read() or b""
+        if data:
+            bucket.append(data)
+    except OSError:
+        return
+
+
 @dataclass
 class FramePacket:
     index: int
@@ -47,6 +58,7 @@ class VideoFrameReader:
         info: MediaInfo | None = None,
         start_sec: float = 0.0,
         end_sec: float | None = None,
+        max_frames: int | None = None,
     ):
         self.path = Path(path)
         self.info = info or probe_and_validate_video(self.path)
@@ -59,15 +71,20 @@ class VideoFrameReader:
         self.fps = float(self.info.avg_fps or self.info.fps or 25.0)
         self.start_sec = max(0.0, float(start_sec))
         self.end_sec = end_sec
+        self.max_frames = max_frames
         self.frame_bytes = self.width * self.height * 3
         self._proc: subprocess.Popen[bytes] | None = None
+        self._stderr_chunks: list[bytes] = []
+        self._stderr_thread: threading.Thread | None = None
 
     def __enter__(self) -> "VideoFrameReader":
         argv = [ffmpeg_bin(), "-hide_banner", "-loglevel", "error"]
         if self.start_sec > 0:
             argv += ["-ss", f"{self.start_sec:.6f}"]
         argv += ["-i", str(self.path)]
-        if self.end_sec is not None and self.end_sec > self.start_sec:
+        if self.max_frames is not None:
+            argv += ["-frames:v", str(int(self.max_frames))]
+        elif self.end_sec is not None and self.end_sec > self.start_sec:
             argv += ["-t", f"{self.end_sec - self.start_sec:.6f}"]
         argv += [
             "-an",
@@ -84,6 +101,10 @@ class VideoFrameReader:
             stderr=subprocess.PIPE,
             stdin=subprocess.DEVNULL,
         )
+        self._stderr_thread = threading.Thread(
+            target=_drain_stderr, args=(self._proc, self._stderr_chunks), daemon=True
+        )
+        self._stderr_thread.start()
         return self
 
     def __exit__(self, exc_type, exc, tb) -> None:
@@ -92,17 +113,14 @@ class VideoFrameReader:
     def close(self) -> None:
         if self._proc is None:
             return
-        stderr = b""
-        if self._proc.stderr:
-            try:
-                stderr = self._proc.stderr.read() or b""
-            except OSError:
-                stderr = b""
         _terminate(self._proc)
+        if self._stderr_thread is not None:
+            self._stderr_thread.join(timeout=2)
         code = self._proc.returncode
+        stderr = b"".join(self._stderr_chunks)
         self._proc = None
-        if exc_type is None and code not in (0, None) and code != 0:
-            LOGGER.warning("ffmpeg reader exit=%s stderr=%s", code, stderr[-500:])
+        if code not in (0, None):
+            LOGGER.debug("ffmpeg reader exit=%s stderr=%s", code, stderr[-500:])
 
     def frames(self) -> Iterator[FramePacket]:
         if self._proc is None or self._proc.stdout is None:
@@ -151,6 +169,8 @@ class VideoFrameWriter:
         self.high_quality = high_quality
         self.frames_written = 0
         self._proc: subprocess.Popen[bytes] | None = None
+        self._stderr_chunks: list[bytes] = []
+        self._stderr_thread: threading.Thread | None = None
 
     def _quality_args(self) -> list[str]:
         enc = self.video_encoder
@@ -204,6 +224,10 @@ class VideoFrameWriter:
             stdout=subprocess.DEVNULL,
             stderr=subprocess.PIPE,
         )
+        self._stderr_thread = threading.Thread(
+            target=_drain_stderr, args=(self._proc, self._stderr_chunks), daemon=True
+        )
+        self._stderr_thread.start()
         return self
 
     def write(self, frame_bgr: np.ndarray) -> None:
@@ -222,22 +246,20 @@ class VideoFrameWriter:
         try:
             self._proc.stdin.write(np.ascontiguousarray(frame_bgr).tobytes())
         except BrokenPipeError as exc:
-            err = b""
-            if self._proc.stderr:
-                err = self._proc.stderr.read() or b""
+            err = b"".join(self._stderr_chunks)
             raise VideoIOError(f"인코더 파이프가 끊겼습니다: {err.decode('utf-8', 'ignore')}") from exc
         self.frames_written += 1
 
     def close(self) -> None:
         if self._proc is None:
             return
-        stderr = b""
         try:
             if self._proc.stdin:
                 self._proc.stdin.close()
-            if self._proc.stderr:
-                stderr = self._proc.stderr.read() or b""
             code = self._proc.wait(timeout=120)
+            if self._stderr_thread is not None:
+                self._stderr_thread.join(timeout=2)
+            stderr = b"".join(self._stderr_chunks)
         except Exception:
             _terminate(self._proc)
             raise
@@ -257,11 +279,20 @@ class VideoFrameWriter:
 
 
 def extract_frame_at(path: str | Path, timestamp_sec: float, info: MediaInfo | None = None) -> np.ndarray:
-    with VideoFrameReader(path, info=info, start_sec=max(0.0, timestamp_sec), end_sec=max(0.0, timestamp_sec) + 1.0 / 8.0) as reader:
+    with VideoFrameReader(
+        path,
+        info=info,
+        start_sec=max(0.0, timestamp_sec),
+        max_frames=1,
+    ) as reader:
         for packet in reader.frames():
             return packet.image_bgr
-    # Fallback: grab the first frame from a slightly wider window
-    with VideoFrameReader(path, info=info, start_sec=max(0.0, timestamp_sec - 0.05), end_sec=timestamp_sec + 0.5) as reader:
+    with VideoFrameReader(
+        path,
+        info=info,
+        start_sec=max(0.0, timestamp_sec - 0.05),
+        max_frames=1,
+    ) as reader:
         for packet in reader.frames():
             return packet.image_bgr
     raise VideoIOError(f"{timestamp_sec:.3f}s 위치에서 프레임을 추출하지 못했습니다.")

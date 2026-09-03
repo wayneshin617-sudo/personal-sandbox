@@ -3,6 +3,9 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 echo "=== Identity Face Swap Studio - Linux install ==="
+if ! python3 -c "import venv, ensurepip" 2>/dev/null; then
+  echo "python3-venv / ensurepip 가 필요합니다. 예: sudo apt-get install -y python3.12-venv python3-pip"
+fi
 python3 - <<'PY'
 import sys
 print("Python", sys.version)

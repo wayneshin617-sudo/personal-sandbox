@@ -36,8 +36,8 @@ class ExportPlan:
     output_name: str = "result"
 
 
-_MUXER_RE = re.compile(r"^\s*[D\s]E([A-Z\s]{1,3})\s+(\S+)\s+(.*)$")
-_ENCODER_RE = re.compile(r"^\s*([VASD]{1,6})\s+(\S+)\s+(.*)$")
+_MUXER_RE = re.compile(r"^ ([D ])([E ]) (\S+)\s+(.*)$")
+_ENCODER_RE = re.compile(r"^ ([VAS])([F.])([S.])([X.])([B.])([D.]) (\S+)\s+(.*)$")
 
 
 def _ffmpeg_list(kind: str) -> str:
@@ -49,21 +49,11 @@ def list_muxers() -> list[CodecOption]:
     items: list[CodecOption] = []
     for line in _ffmpeg_list("muxers").splitlines():
         match = _MUXER_RE.match(line)
-        if not match:
+        if not match or match.group(2) != "E":
             continue
-        flags, name, desc = match.group(1), match.group(2), match.group(3)
-        if "E" not in flags.replace(" ", ""):
-            # The first group is noisy; accept lines under "E" column by presence of name.
-            pass
+        name, desc = match.group(3), match.group(4)
         items.append(CodecOption(name=name, description=desc.strip(), kind="muxer"))
-    if not items:
-        # Fallback parse: " E mp4"
-        for line in _ffmpeg_list("muxers").splitlines():
-            parts = line.strip().split()
-            if len(parts) >= 2 and parts[0].endswith("E") or (len(parts) >= 2 and "E" in parts[0]):
-                items.append(CodecOption(name=parts[1], description=" ".join(parts[2:]), kind="muxer"))
-    # unique
-    seen = set()
+    seen: set[str] = set()
     unique: list[CodecOption] = []
     for item in items:
         if item.name in seen:
@@ -79,19 +69,22 @@ def list_encoders(kind: str | None = None) -> list[CodecOption]:
         match = _ENCODER_RE.match(line)
         if not match:
             continue
-        flags, name, desc = match.group(1), match.group(2), match.group(3)
-        if kind == "video" and "V" not in flags:
+        flags = "".join(match.group(i) for i in range(1, 7))
+        name, desc = match.group(7), match.group(8)
+        if kind == "video" and not flags.startswith("V"):
             continue
-        if kind == "audio" and "A" not in flags:
+        if kind == "audio" and not flags.startswith("A"):
             continue
-        codec_kind = "video" if "V" in flags else "audio" if "A" in flags else "other"
+        if name.startswith("=") or name in {"Audio", "Video", "Subtitle"}:
+            continue
+        codec_kind = "video" if flags.startswith("V") else "audio" if flags.startswith("A") else "other"
         items.append(CodecOption(name=name, description=desc.strip(), kind=codec_kind))
     return items
 
 
 def preferred_muxers(all_muxers: Iterable[CodecOption]) -> list[CodecOption]:
     names = {m.name: m for m in all_muxers}
-    order = ["mp4", "mov", "mkv", "webm", "avi", "gif", "webp"]
+    order = ["mp4", "mov", "matroska", "mkv", "webm", "avi", "gif", "webp"]
     picked = [names[n] for n in order if n in names]
     extras = [m for m in all_muxers if m.name not in {p.name for p in picked}]
     return picked + extras

@@ -146,7 +146,7 @@ class FaceSwapJob:
             # Seed tracker on the selection frame first so IDs are stable.
             seed_ts = max(cfg.start_sec, 0.0)
             seed_frame = None
-            with VideoFrameReader(cfg.source_video, info=source_info, start_sec=seed_ts, end_sec=seed_ts + 0.15) as seed_reader:
+            with VideoFrameReader(cfg.source_video, info=source_info, start_sec=seed_ts, max_frames=1) as seed_reader:
                 for packet in seed_reader.frames():
                     seed_frame = packet.image_bgr
                     break
