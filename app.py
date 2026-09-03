@@ -42,9 +42,51 @@ ensure_runtime_dirs()
 
 def _save_upload(upload, dest_dir: Path) -> Path:
     dest_dir.mkdir(parents=True, exist_ok=True)
-    name = upload.name or "upload.bin"
+    name = Path(upload.name or "upload.bin").name or "upload.bin"
     path = dest_dir / name
-    path.write_bytes(upload.getbuffer())
+    LOGGER.info("saving upload name=%s size=%s -> %s", name, getattr(upload, "size", "?"), path)
+    if hasattr(upload, "seek"):
+        try:
+            upload.seek(0)
+        except Exception:
+            pass
+    written = 0
+    with path.open("wb") as handle:
+        reader = getattr(upload, "read", None)
+        if callable(reader):
+            while True:
+                chunk = reader(8 * 1024 * 1024)
+                if not chunk:
+                    break
+                handle.write(chunk)
+                written += len(chunk)
+        else:
+            data = upload.getbuffer()
+            handle.write(data)
+            written = len(data)
+    if written <= 0:
+        raise RuntimeError(f"업로드 파일이 비었습니다: {name}")
+    LOGGER.info("saved upload %s (%s bytes)", path, written)
+    return path
+
+
+def _download_url(url: str, dest_dir: Path) -> Path:
+    from urllib.parse import unquote, urlparse
+    from urllib.request import Request, urlopen
+
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    parsed = urlparse(url.strip())
+    name = Path(unquote(parsed.path)).name or "download.bin"
+    path = dest_dir / name
+    req = Request(url.strip(), headers={"User-Agent": "identity-face-swap-studio/1.0"})
+    with urlopen(req, timeout=180) as resp, path.open("wb") as handle:
+        while True:
+            chunk = resp.read(8 * 1024 * 1024)
+            if not chunk:
+                break
+            handle.write(chunk)
+    if not path.exists() or path.stat().st_size <= 0:
+        raise RuntimeError("URL에서 받은 파일이 비었습니다.")
     return path
 
 
@@ -129,32 +171,66 @@ def main() -> None:
                     st.exception(exc)
         st.stop()
 
-    try:
-        runtime = _runtime()
-    except ModelUnavailable as exc:
-        st.error(str(exc))
-        st.stop()
-    except Exception as exc:  # noqa: BLE001
-        st.error(f"모델 로드 실패: {exc}")
-        LOGGER.exception("runtime load failed")
-        st.stop()
-
     work = Path(st.session_state.setdefault("work_dir", str(make_work_dir("ui"))))
 
     st.header("1. 입력")
-    video_file = st.file_uploader("원본 영상 (확장자 제한 없음 — 실제 디코딩으로 판정)", type=None)
+    st.caption(
+        "파일 선택기는 확장자를 막지 않습니다. 공개 터널은 큰 영상에서 끊길 수 있으니, "
+        "실패하면 아래 URL 또는 서버 경로를 쓰세요. 현재 업로드 한도는 2GB입니다."
+    )
+    video_file = st.file_uploader(
+        "원본 영상 (모든 파일 선택 가능 — 실제 디코딩으로 판정)",
+        accept_multiple_files=False,
+        key="source_video_uploader",
+    )
+    video_url = st.text_input("또는 영상 URL", placeholder="https://... 또는 직접 접근 가능한 파일 URL")
+    video_path_in = st.text_input("또는 이 컴퓨터/서버의 영상 경로", placeholder=r"C:\Videos\clip.mp4  /  /data/clip.mp4")
+
+    if video_file is not None:
+        st.caption(f"선택됨: {video_file.name} / {getattr(video_file, 'size', 0)} bytes")
+
     ref_files = st.file_uploader(
-        "기준 이미지 1장 이상 (확장자 제한 없음 — Pillow/OpenCV 디코딩으로 판정)",
-        type=None,
+        "기준 이미지 1장 이상 (모든 파일 선택 가능 — Pillow/OpenCV 디코딩으로 판정)",
         accept_multiple_files=True,
+        key="ref_image_uploader",
     )
 
-    if video_file is None:
-        st.info("영상을 올리면 컨테이너/코덱 분석과 미리보기가 표시됩니다.")
+    video_path = None
+    try:
+        if video_file is not None:
+            sig = (video_file.name, int(getattr(video_file, "size", 0) or 0))
+            if st.session_state.get("video_sig") != sig:
+                with st.spinner("영상을 디스크에 저장하는 중..."):
+                    video_path = _save_upload(video_file, work / "uploads")
+                st.session_state["saved_video"] = str(video_path)
+                st.session_state["video_sig"] = sig
+            else:
+                video_path = Path(st.session_state["saved_video"])
+        elif video_url.strip():
+            with st.spinner("URL에서 영상을 받는 중..."):
+                video_path = _download_url(video_url.strip(), work / "uploads")
+                st.session_state["saved_video"] = str(video_path)
+        elif video_path_in.strip():
+            candidate = Path(video_path_in.strip()).expanduser()
+            if not candidate.exists():
+                st.error(f"경로에 파일이 없습니다: {candidate}")
+                st.stop()
+            video_path = candidate
+            st.session_state["saved_video"] = str(video_path)
+        elif st.session_state.get("saved_video") and Path(st.session_state["saved_video"]).exists():
+            video_path = Path(st.session_state["saved_video"])
+            st.info(f"이전에 받은 영상을 다시 사용합니다: {video_path.name}")
+    except Exception as exc:  # noqa: BLE001
+        LOGGER.exception("video ingest failed")
+        st.error(f"영상을 받지 못했습니다: {exc}")
         st.stop()
 
-    video_path = _save_upload(video_file, work / "uploads")
-    video_val = validate_video_input(video_path)
+    if video_path is None:
+        st.info("영상을 올리거나 URL/경로를 입력하면 컨테이너/코덱 분석이 표시됩니다.")
+        st.stop()
+
+    with st.spinner("FFprobe/FFmpeg로 영상을 검사하는 중..."):
+        video_val = validate_video_input(video_path)
     if not video_val.ok:
         st.error(video_val.message)
         st.json(video_val.details)
@@ -164,6 +240,8 @@ def main() -> None:
     with st.expander("FFprobe 상세"):
         st.json(
             {
+                "path": str(video_path),
+                "size_bytes": info.size_bytes,
                 "format": info.format_name,
                 "duration": info.duration,
                 "fps": info.fps,
@@ -181,13 +259,27 @@ def main() -> None:
         st.stop()
     ref_paths = []
     for upload in ref_files:
-        path = _save_upload(upload, work / "refs")
-        val = validate_image_input(path)
+        try:
+            path = _save_upload(upload, work / "refs")
+            val = validate_image_input(path)
+        except Exception as exc:  # noqa: BLE001
+            st.error(f"{upload.name}: {exc}")
+            st.stop()
         if not val.ok:
             st.error(f"{upload.name}: {val.message}")
             st.stop()
         st.write(f"기준 이미지 통과: {upload.name} — {val.message}")
         ref_paths.append(path)
+
+    try:
+        runtime = _runtime()
+    except ModelUnavailable as exc:
+        st.error(str(exc))
+        st.stop()
+    except Exception as exc:  # noqa: BLE001
+        st.error(f"모델 로드 실패: {exc}")
+        LOGGER.exception("runtime load failed")
+        st.stop()
 
     duration = float(info.duration or 0.0)
     st.header("2. 대상 인물 선택")
