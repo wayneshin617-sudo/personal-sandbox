@@ -198,10 +198,18 @@ def _ingest_video(work: Path, dropped: list[Path], video_url: str, video_path_in
             st.session_state["video_sig"] = (video_path.name, int(video_path.stat().st_size))
             return video_path
         if video_url.strip():
-            with st.spinner("링크로 영상을 가져오는 중..."):
-                video_path = _download_url(video_url.strip(), work / "uploads")
-            st.session_state["saved_video"] = str(video_path)
-            return video_path
+            raw = video_url.strip()
+            if raw.startswith(("http://", "https://")):
+                with st.spinner("링크로 영상을 가져오는 중..."):
+                    video_path = _download_url(raw, work / "uploads")
+                st.session_state["saved_video"] = str(video_path)
+                return video_path
+            candidate = Path(raw).expanduser()
+            if candidate.exists():
+                st.session_state["saved_video"] = str(candidate)
+                return candidate
+            st.error("영상 주소 또는 경로를 확인하세요.")
+            return None
         if video_path_in.strip():
             candidate = Path(video_path_in.strip()).expanduser()
             if not candidate.exists():
