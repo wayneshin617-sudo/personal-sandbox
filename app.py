@@ -12,8 +12,11 @@ if str(ROOT) not in sys.path:
 
 import numpy as np
 import streamlit as st
+import cv2
 
 from config import CONSENT_TEXT, OUTPUTS_DIR, WATERMARK_TEXT, ensure_runtime_dirs
+from src.chunk_drop import chunk_drop
+from src.chunk_upload import install_chunk_route
 from src.export_manager import (
     build_export_plan,
     list_encoders,
@@ -27,6 +30,7 @@ from src.image_io import bgr_to_rgb
 from src.media_probe import ProbeError, ffmpeg_bin, ffprobe_bin, probe_and_validate_video
 from src.model_manager import download_models, inspect_models
 from src.pipeline import JobConfig
+from src.preview_click import fit_preview_size, map_click_to_frame
 from src.runtime import RuntimeBundle, create_runtime
 from src.studio_options import duration_window, output_size
 from src.target_selector import draw_candidates, select_by_click, select_by_number
@@ -134,14 +138,27 @@ def _runtime() -> RuntimeBundle:
     return create_runtime()
 
 
-def _try_image_click(image_rgb: np.ndarray, key: str):
+def _try_image_click(image_rgb: np.ndarray, key: str, frame_wh: tuple[int, int]):
     try:
         from streamlit_image_coordinates import streamlit_image_coordinates
 
-        return streamlit_image_coordinates(image_rgb, key=key)
+        click = streamlit_image_coordinates(image_rgb, key=key, use_column_width="always")
     except Exception:
         st.image(image_rgb, use_container_width=True)
         return None
+    if click and "x" in click:
+        x, y = map_click_to_frame(click, frame_wh)
+        return {"x": x, "y": y}
+    return None
+
+
+def _preview_overlay(frame_bgr: np.ndarray) -> np.ndarray:
+    h, w = frame_bgr.shape[:2]
+    nw, nh = fit_preview_size(w, h, 1280)
+    if (nw, nh) == (w, h):
+        return bgr_to_rgb(frame_bgr)
+    resized = cv2.resize(frame_bgr, (nw, nh), interpolation=cv2.INTER_AREA)
+    return bgr_to_rgb(resized)
 
 
 def _face_area(candidate) -> float:
@@ -173,16 +190,13 @@ def _header() -> None:
     )
 
 
-def _ingest_video(work: Path, video_file, video_url: str, video_path_in: str) -> Path | None:
+def _ingest_video(work: Path, dropped: list[Path], video_url: str, video_path_in: str) -> Path | None:
     try:
-        if video_file is not None:
-            sig = (video_file.name, int(getattr(video_file, "size", 0) or 0))
-            if st.session_state.get("video_sig") != sig:
-                with st.spinner("영상을 준비하는 중..."):
-                    video_path = _save_upload(video_file, work / "uploads")
-                st.session_state["saved_video"] = str(video_path)
-                st.session_state["video_sig"] = sig
-            return Path(st.session_state["saved_video"])
+        if dropped:
+            video_path = dropped[0]
+            st.session_state["saved_video"] = str(video_path)
+            st.session_state["video_sig"] = (video_path.name, int(video_path.stat().st_size))
+            return video_path
         if video_url.strip():
             with st.spinner("링크로 영상을 가져오는 중..."):
                 video_path = _download_url(video_url.strip(), work / "uploads")
@@ -206,24 +220,19 @@ def _ingest_video(work: Path, video_file, video_url: str, video_path_in: str) ->
     return None
 
 
-def _ingest_refs(work: Path, ref_files) -> list[Path]:
-    if not ref_files:
-        saved = st.session_state.get("saved_refs") or []
-        return [Path(p) for p in saved if Path(p).exists()]
-    sig = tuple((f.name, int(getattr(f, "size", 0) or 0)) for f in ref_files)
-    if st.session_state.get("ref_sig") != sig:
-        paths = []
-        for upload in ref_files:
-            path = _save_upload(upload, work / "refs")
+def _ingest_refs(work: Path, dropped: list[Path]) -> list[Path]:
+    if dropped:
+        ok_paths = []
+        for path in dropped:
             val = validate_image_input(path)
             if not val.ok:
                 st.error("이 파일은 이미지로 열 수 없습니다.")
                 return []
-            paths.append(path)
-        st.session_state["saved_refs"] = [str(p) for p in paths]
-        st.session_state["ref_sig"] = sig
-        return paths
-    return [Path(p) for p in st.session_state.get("saved_refs", [])]
+            ok_paths.append(path)
+        st.session_state["saved_refs"] = [str(p) for p in ok_paths]
+        return ok_paths
+    saved = st.session_state.get("saved_refs") or []
+    return [Path(p) for p in saved if Path(p).exists()]
 
 
 def _pick_selection(frame, candidates):
@@ -232,12 +241,27 @@ def _pick_selection(frame, candidates):
     auto = _auto_select(candidates)
     current = st.session_state.get("selected_index", auto.index if auto else candidates[0].index)
     overlay = draw_candidates(frame, candidates, selected=current, studio=True)
-    click = _try_image_click(bgr_to_rgb(overlay), key="face_pick")
+    preview = _preview_overlay(overlay)
+    orig_h, orig_w = frame.shape[:2]
+    click = _try_image_click(preview, key="face_pick", frame_wh=(orig_w, orig_h))
     if click and "x" in click:
         hit = select_by_click(candidates, int(click["x"]), int(click["y"]))
         if hit:
             current = hit.person_index
             st.session_state.selected_index = current
+            st.session_state.person_select = current
+    numbers = [c.index for c in candidates]
+    if "person_select" not in st.session_state or st.session_state.person_select not in numbers:
+        st.session_state.person_select = int(current) if int(current) in numbers else numbers[0]
+    picked = st.selectbox(
+        "사람 선택",
+        options=numbers,
+        format_func=lambda n: f"사람 {n}",
+        key="person_select",
+    )
+    if picked is not None:
+        current = int(picked)
+        st.session_state.selected_index = current
     selection = select_by_number(candidates, int(current))
     if selection is None and auto is not None:
         selection = select_by_number(candidates, int(auto.index))
@@ -248,6 +272,7 @@ def _pick_selection(frame, candidates):
 
 def main() -> None:
     _inject_css()
+    install_chunk_route()
     cleanup_old_temps()
     _header()
     ready = _studio_ready()
@@ -300,11 +325,11 @@ def main() -> None:
             st.info("텍스트로만 새 영상을 만들지는 않습니다. 영상과 얼굴 사진을 올리면 바로 만들 수 있습니다.")
 
         if mode == MODE_IMAGE:
-            ref_files = st.file_uploader("얼굴 사진", accept_multiple_files=True, key="ref_image_uploader")
-            video_file = st.file_uploader("움직임이 담긴 원본 영상", accept_multiple_files=False, key="source_video_uploader")
+            dropped_refs = chunk_drop("얼굴 사진", key="ref_drop", multiple=True)
+            dropped_video = chunk_drop("움직임이 담긴 원본 영상", key="video_drop")
         else:
-            video_file = st.file_uploader("원본 영상", accept_multiple_files=False, key="source_video_uploader")
-            ref_files = st.file_uploader("얼굴 사진", accept_multiple_files=True, key="ref_image_uploader")
+            dropped_video = chunk_drop("원본 영상", key="video_drop")
+            dropped_refs = chunk_drop("얼굴 사진", key="ref_drop", multiple=True)
 
         with st.expander("링크로 가져오기"):
             video_url = st.text_input("영상 URL", placeholder="https://...", key="video_url_input")
@@ -324,8 +349,8 @@ def main() -> None:
         generate = st.button("생성하기", type="primary", use_container_width=True, disabled=(mode == MODE_TEXT))
         notice = st.empty()
 
-    video_path = _ingest_video(work, video_file, video_url, video_path_in)
-    ref_paths = _ingest_refs(work, ref_files)
+    video_path = _ingest_video(work, dropped_video, video_url, video_path_in)
+    ref_paths = _ingest_refs(work, dropped_refs)
 
     info = None
     if video_path is not None:
@@ -380,13 +405,13 @@ def main() -> None:
 
             if not candidates:
                 try:
-                    st.image(bgr_to_rgb(extract_frame_at(video_path, pick_ts, info=info)), use_container_width=True)
+                    st.image(_preview_overlay(extract_frame_at(video_path, pick_ts, info=info)), use_container_width=True)
                 except Exception:
                     pass
                 st.caption("이 장면에서 얼굴을 찾지 못했습니다. 장면을 조금 옮겨 보세요.")
             else:
                 selection = _pick_selection(frame, candidates)
-                st.caption("바꿀 사람을 화면에서 누르세요. 누르지 않으면 가장 큰 얼굴을 사용합니다.")
+                st.caption("화면 전체를 보고 바꿀 사람을 누르세요. 아래 목록으로도 고를 수 있습니다.")
         else:
             st.markdown(
                 """
@@ -472,7 +497,7 @@ def main() -> None:
         st.session_state.last_result = result
         if result.ok:
             st.rerun()
-            notice.error(result.message)
+        notice.error(result.message)
     except Exception as exc:  # noqa: BLE001
         LOGGER.exception("generate failed")
         notice.error("생성에 실패했습니다.")

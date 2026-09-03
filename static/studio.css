@@ -166,7 +166,18 @@ div.stButton > button:disabled {
   gap: 8px;
 }
 
+[data-testid="stCustomComponentV1"] {
+  width: 100%;
+}
+[data-testid="stCustomComponentV1"] iframe {
+  width: 100% !important;
+}
+[data-testid="stImage"] img {
+  max-width: 100% !important;
+  height: auto !important;
+}
 video {
+  width: 100% !important;
   border-radius: 16px;
   background: #000;
 }

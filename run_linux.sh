@@ -8,4 +8,4 @@ fi
 # shellcheck disable=SC1091
 source .venv/bin/activate
 python check_environment.py
-exec python -m streamlit run app.py --server.headless true --server.address 0.0.0.0 --server.port 8501
+exec python run_studio.py --server.headless true --server.address 0.0.0.0 --server.port 8501
