@@ -12,7 +12,7 @@ TEMP_DIR = ROOT_DIR / "temp"
 LOGS_DIR = ROOT_DIR / "logs"
 TESTS_DIR = ROOT_DIR / "tests"
 
-APP_NAME = "Identity Face Swap Studio"
+APP_NAME = "Studio"
 APP_VERSION = "1.0.0"
 
 CONSENT_TEXT = (

@@ -20,17 +20,24 @@ class Selection:
     kps: np.ndarray | None
 
 
-def draw_candidates(image_bgr: np.ndarray, candidates: list[PersonCandidate], selected: int | None = None) -> np.ndarray:
+def draw_candidates(
+    image_bgr: np.ndarray,
+    candidates: list[PersonCandidate],
+    selected: int | None = None,
+    *,
+    studio: bool = False,
+) -> np.ndarray:
     canvas = image_bgr.copy()
     for cand in candidates:
         color = (40, 220, 40) if selected == cand.index else (40, 180, 255)
         x1, y1, x2, y2 = [int(v) for v in cand.face.box]
         px1, py1, px2, py2 = [int(v) for v in cand.person_box]
-        cv2.rectangle(canvas, (px1, py1), (px2, py2), (80, 80, 80), 1)
+        if not studio:
+            cv2.rectangle(canvas, (px1, py1), (px2, py2), (80, 80, 80), 1)
         cv2.rectangle(canvas, (x1, y1), (x2, y2), color, 2)
-        label = f"#{cand.index}  score={cand.face.score:.2f}"
+        label = f"#{cand.index}" if studio else f"#{cand.index}  score={cand.face.score:.2f}"
         cv2.putText(canvas, label, (x1, max(16, y1 - 8)), cv2.FONT_HERSHEY_SIMPLEX, 0.55, color, 2, cv2.LINE_AA)
-        if cand.face.kps is not None:
+        if not studio and cand.face.kps is not None:
             for pt in cand.face.kps:
                 cv2.circle(canvas, (int(pt[0]), int(pt[1])), 2, (0, 0, 255), -1)
     return canvas

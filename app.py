@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Local Streamlit app: identity-preserving face swap on a selected tracked person."""
+"""Consumer video studio UI. Face-swap pipeline stays behind the generate button."""
 
 from __future__ import annotations
 
@@ -13,8 +13,7 @@ if str(ROOT) not in sys.path:
 import numpy as np
 import streamlit as st
 
-from check_environment import collect_environment
-from config import CONSENT_TEXT, OUTPUTS_DIR, TEMP_DIR, WATERMARK_TEXT, ensure_runtime_dirs
+from config import CONSENT_TEXT, OUTPUTS_DIR, WATERMARK_TEXT, ensure_runtime_dirs
 from src.export_manager import (
     build_export_plan,
     list_encoders,
@@ -22,22 +21,39 @@ from src.export_manager import (
     preferred_audio_encoders,
     preferred_muxers,
     preferred_video_encoders,
-    suffix_for_container,
 )
 from src.face_swapper import ModelUnavailable
 from src.image_io import bgr_to_rgb
-from src.media_probe import probe_and_validate_video, summarize_media
+from src.media_probe import ProbeError, ffmpeg_bin, ffprobe_bin, probe_and_validate_video
 from src.model_manager import download_models, inspect_models
 from src.pipeline import JobConfig
 from src.runtime import RuntimeBundle, create_runtime
+from src.studio_options import duration_window, output_size
 from src.target_selector import draw_candidates, select_by_click, select_by_number
 from src.utils import LOGGER, cleanup_old_temps, make_work_dir, safe_stem
 from src.validators import validate_image_input, validate_video_input
 from src.video_io import extract_frame_at
 
 
-st.set_page_config(page_title="Identity Face Swap Studio", layout="wide")
+st.set_page_config(
+    page_title="Studio · AI 영상 생성기",
+    layout="wide",
+    initial_sidebar_state="collapsed",
+)
 ensure_runtime_dirs()
+
+MODE_MEDIA = "미디어 → 영상"
+MODE_IMAGE = "이미지 → 영상"
+MODE_TEXT = "텍스트 → 영상"
+DURATION_OPTIONS = ["5초", "10초", "15초", "전체"]
+ASPECT_OPTIONS = ["원본", "16:9", "9:16", "1:1"]
+RES_OPTIONS = ["원본", "720p", "1080p"]
+
+
+def _inject_css() -> None:
+    css_path = ROOT / "static" / "studio.css"
+    css = css_path.read_text(encoding="utf-8") if css_path.exists() else ""
+    st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
 
 
 def _save_upload(upload, dest_dir: Path) -> Path:
@@ -65,8 +81,7 @@ def _save_upload(upload, dest_dir: Path) -> Path:
             handle.write(data)
             written = len(data)
     if written <= 0:
-        raise RuntimeError(f"업로드 파일이 비었습니다: {name}")
-    LOGGER.info("saved upload %s (%s bytes)", path, written)
+        raise RuntimeError("올린 파일이 비어 있습니다.")
     return path
 
 
@@ -78,7 +93,7 @@ def _download_url(url: str, dest_dir: Path) -> Path:
     parsed = urlparse(url.strip())
     name = Path(unquote(parsed.path)).name or "download.bin"
     path = dest_dir / name
-    req = Request(url.strip(), headers={"User-Agent": "identity-face-swap-studio/1.0"})
+    req = Request(url.strip(), headers={"User-Agent": "studio/1.0"})
     with urlopen(req, timeout=180) as resp, path.open("wb") as handle:
         while True:
             chunk = resp.read(8 * 1024 * 1024)
@@ -86,13 +101,32 @@ def _download_url(url: str, dest_dir: Path) -> Path:
                 break
             handle.write(chunk)
     if not path.exists() or path.stat().st_size <= 0:
-        raise RuntimeError("URL에서 받은 파일이 비었습니다.")
+        raise RuntimeError("링크에서 파일을 받지 못했습니다.")
     return path
 
 
 @st.cache_resource(show_spinner=False)
-def _env() -> dict:
-    return collect_environment()
+def _studio_ready() -> dict:
+    models = inspect_models()
+    ffmpeg_ok = True
+    try:
+        ffmpeg_bin()
+        ffprobe_bin()
+    except ProbeError:
+        ffmpeg_ok = False
+    return {"ffmpeg_ok": ffmpeg_ok, "models_ok": bool(models.ready_for_faceswap)}
+
+
+@st.cache_resource(show_spinner=False)
+def _export_caps() -> dict:
+    muxers = preferred_muxers(list_muxers())
+    vencs = preferred_video_encoders(list_encoders("video"))
+    aencs = preferred_audio_encoders(list_encoders("audio"))
+    return {
+        "muxers": [m.name for m in muxers],
+        "video": [e.name for e in vencs],
+        "audio": [e.name for e in aencs],
+    }
 
 
 @st.cache_resource(show_spinner=True)
@@ -106,392 +140,345 @@ def _try_image_click(image_rgb: np.ndarray, key: str):
 
         return streamlit_image_coordinates(image_rgb, key=key)
     except Exception:
-        st.image(image_rgb, caption="클릭 선택 패키지가 없으면 아래 번호로 선택하세요.")
+        st.image(image_rgb, use_container_width=True)
         return None
 
 
-def main() -> None:
-    cleanup_old_temps()
-    env = _env()
+def _face_area(candidate) -> float:
+    x1, y1, x2, y2 = [float(v) for v in candidate.face.box]
+    return max(0.0, x2 - x1) * max(0.0, y2 - y1)
 
-    st.title("Identity Face Swap Studio")
-    st.caption("원본 동작·배경·오디오를 유지한 채, 선택한 인물만 InsightFace INSwapper로 변환합니다.")
 
-    with st.expander("실행 환경", expanded=True):
-        c1, c2, c3 = st.columns(3)
-        c1.write(f"**Python**: {env['python']}")
-        c1.write(f"**OS**: {env['os']}")
-        c2.write(f"**GPU**: {env['gpu'].get('gpu_name') or '없음 (CPU 모드)'}")
-        c2.write(f"**CUDA**: {env['gpu'].get('cuda_available')}")
-        c3.write(f"**ONNX providers**: {env['onnxruntime'].get('available_providers')}")
-        c3.write(f"**선택 provider**: {env.get('selected_provider')}")
-        ff = env["ffmpeg"]
-        if ff.get("ok"):
-            st.success(f"FFmpeg/FFprobe 정상: {ff.get('ffmpeg_version')}")
-            st.write(
-                "사용 가능 muxer 예시:",
-                ", ".join(ff.get("sample_muxers", [])),
-            )
-            st.write(
-                "비디오 인코더 예시:",
-                ", ".join(ff.get("sample_video_encoders", [])),
-            )
-            st.write(
-                "오디오 인코더 예시:",
-                ", ".join(ff.get("sample_audio_encoders", [])),
-            )
-        else:
-            st.error(ff.get("ffmpeg_error") or ff.get("ffprobe_error") or "FFmpeg가 없습니다.")
-            st.stop()
-        st.write("패키지 버전:", env["packages"])
-        for item in env["models"]["files"]:
-            icon = "✅" if item["present"] else "❌"
-            st.write(f"{icon} {item['name']} — {item['source']} / {item['license']}")
-        for msg in env["models"]["messages"]:
-            st.warning(msg)
-        st.info("전체 인물 변환(Advanced): " + env["person_transform"]["reason"])
+def _auto_select(candidates):
+    if not candidates:
+        return None
+    return max(candidates, key=_face_area)
 
-    if not st.session_state.get("consent"):
-        st.subheader("사용 동의")
-        agreed = st.checkbox(CONSENT_TEXT)
-        if st.button("동의하고 계속", disabled=not agreed):
-            st.session_state.consent = True
-            st.rerun()
-        st.stop()
 
-    if not env["models"]["ready_for_faceswap"]:
-        st.error("필수 face-swap 모델이 없어 처리를 시작할 수 없습니다. 단순 합성으로 대체하지 않습니다.")
-        if st.button("모델 다운로드 시도"):
-            with st.spinner("모델 다운로드 중..."):
-                try:
-                    download_models()
-                    st.cache_resource.clear()
-                    st.success("다운로드 완료. 페이지를 새로고침하세요.")
-                except Exception as exc:  # noqa: BLE001
-                    st.exception(exc)
-        st.stop()
-
-    work = Path(st.session_state.setdefault("work_dir", str(make_work_dir("ui"))))
-
-    st.header("1. 입력")
-    st.caption(
-        "파일 선택기는 확장자를 막지 않습니다. 공개 터널은 큰 영상에서 끊길 수 있으니, "
-        "실패하면 아래 URL 또는 서버 경로를 쓰세요. 현재 업로드 한도는 2GB입니다."
-    )
-    video_file = st.file_uploader(
-        "원본 영상 (모든 파일 선택 가능 — 실제 디코딩으로 판정)",
-        accept_multiple_files=False,
-        key="source_video_uploader",
-    )
-    video_url = st.text_input("또는 영상 URL", placeholder="https://... 또는 직접 접근 가능한 파일 URL")
-    video_path_in = st.text_input("또는 이 컴퓨터/서버의 영상 경로", placeholder=r"C:\Videos\clip.mp4  /  /data/clip.mp4")
-
-    if video_file is not None:
-        st.caption(f"선택됨: {video_file.name} / {getattr(video_file, 'size', 0)} bytes")
-
-    ref_files = st.file_uploader(
-        "기준 이미지 1장 이상 (모든 파일 선택 가능 — Pillow/OpenCV 디코딩으로 판정)",
-        accept_multiple_files=True,
-        key="ref_image_uploader",
+def _header() -> None:
+    st.markdown(
+        """
+        <div class="studio-top">
+          <div class="studio-brand">
+            <div class="studio-logo">S</div>
+            <div>
+              <div class="studio-name">Studio</div>
+              <div class="studio-tag">AI 영상 생성기</div>
+            </div>
+          </div>
+          <div class="studio-chip">원본 동작 · 배경 · 소리 유지</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
 
-    video_path = None
+
+def _ingest_video(work: Path, video_file, video_url: str, video_path_in: str) -> Path | None:
     try:
         if video_file is not None:
             sig = (video_file.name, int(getattr(video_file, "size", 0) or 0))
             if st.session_state.get("video_sig") != sig:
-                with st.spinner("영상을 디스크에 저장하는 중..."):
+                with st.spinner("영상을 준비하는 중..."):
                     video_path = _save_upload(video_file, work / "uploads")
                 st.session_state["saved_video"] = str(video_path)
                 st.session_state["video_sig"] = sig
-            else:
-                video_path = Path(st.session_state["saved_video"])
-        elif video_url.strip():
-            with st.spinner("URL에서 영상을 받는 중..."):
+            return Path(st.session_state["saved_video"])
+        if video_url.strip():
+            with st.spinner("링크로 영상을 가져오는 중..."):
                 video_path = _download_url(video_url.strip(), work / "uploads")
-                st.session_state["saved_video"] = str(video_path)
-        elif video_path_in.strip():
+            st.session_state["saved_video"] = str(video_path)
+            return video_path
+        if video_path_in.strip():
             candidate = Path(video_path_in.strip()).expanduser()
             if not candidate.exists():
-                st.error(f"경로에 파일이 없습니다: {candidate}")
-                st.stop()
-            video_path = candidate
-            st.session_state["saved_video"] = str(video_path)
-        elif st.session_state.get("saved_video") and Path(st.session_state["saved_video"]).exists():
-            video_path = Path(st.session_state["saved_video"])
-            st.info(f"이전에 받은 영상을 다시 사용합니다: {video_path.name}")
+                st.error("그 경로에 영상이 없습니다.")
+                return None
+            st.session_state["saved_video"] = str(candidate)
+            return candidate
+        saved = st.session_state.get("saved_video")
+        if saved and Path(saved).exists():
+            return Path(saved)
     except Exception as exc:  # noqa: BLE001
         LOGGER.exception("video ingest failed")
-        st.error(f"영상을 받지 못했습니다: {exc}")
-        st.stop()
+        st.error("영상을 받지 못했습니다.")
+        LOGGER.error("%s", exc)
+        return None
+    return None
 
-    if video_path is None:
-        st.info("영상을 올리거나 URL/경로를 입력하면 컨테이너/코덱 분석이 표시됩니다.")
-        st.stop()
 
-    with st.spinner("FFprobe/FFmpeg로 영상을 검사하는 중..."):
-        video_val = validate_video_input(video_path)
-    if not video_val.ok:
-        st.error(video_val.message)
-        st.json(video_val.details)
-        st.stop()
-    info = probe_and_validate_video(video_path)
-    st.success(summarize_media(info))
-    with st.expander("FFprobe 상세"):
-        st.json(
-            {
-                "path": str(video_path),
-                "size_bytes": info.size_bytes,
-                "format": info.format_name,
-                "duration": info.duration,
-                "fps": info.fps,
-                "avg_fps": info.avg_fps,
-                "rotation": info.rotation,
-                "display": [info.display_width, info.display_height],
-                "video": info.video.__dict__ if info.video else None,
-                "audio": info.audio.__dict__ if info.audio else None,
-                "warnings": info.warnings,
-            }
-        )
-
+def _ingest_refs(work: Path, ref_files) -> list[Path]:
     if not ref_files:
-        st.info("기준 이미지를 한 장 이상 올리세요.")
-        st.stop()
-    ref_paths = []
-    for upload in ref_files:
-        try:
+        saved = st.session_state.get("saved_refs") or []
+        return [Path(p) for p in saved if Path(p).exists()]
+    sig = tuple((f.name, int(getattr(f, "size", 0) or 0)) for f in ref_files)
+    if st.session_state.get("ref_sig") != sig:
+        paths = []
+        for upload in ref_files:
             path = _save_upload(upload, work / "refs")
             val = validate_image_input(path)
-        except Exception as exc:  # noqa: BLE001
-            st.error(f"{upload.name}: {exc}")
-            st.stop()
-        if not val.ok:
-            st.error(f"{upload.name}: {val.message}")
-            st.stop()
-        st.write(f"기준 이미지 통과: {upload.name} — {val.message}")
-        ref_paths.append(path)
+            if not val.ok:
+                st.error("이 파일은 이미지로 열 수 없습니다.")
+                return []
+            paths.append(path)
+        st.session_state["saved_refs"] = [str(p) for p in paths]
+        st.session_state["ref_sig"] = sig
+        return paths
+    return [Path(p) for p in st.session_state.get("saved_refs", [])]
 
-    try:
-        runtime = _runtime()
-    except ModelUnavailable as exc:
-        st.error(str(exc))
-        st.stop()
-    except Exception as exc:  # noqa: BLE001
-        st.error(f"모델 로드 실패: {exc}")
-        LOGGER.exception("runtime load failed")
-        st.stop()
 
-    duration = float(info.duration or 0.0)
-    st.header("2. 대상 인물 선택")
-    pick_ts = st.slider("대상 선택 시점 (초)", 0.0, max(0.1, duration), min(0.2, duration), 0.05)
-    try:
-        frame = extract_frame_at(video_path, pick_ts, info=info)
-    except Exception as exc:  # noqa: BLE001
-        st.error(f"프레임 추출 실패: {exc}")
-        st.stop()
-    candidates = runtime.person_detector.candidates(frame)
+def _pick_selection(frame, candidates):
     if not candidates:
-        st.error("이 시점에서 얼굴을 찾지 못했습니다. 다른 시점을 선택하세요.")
-        st.image(bgr_to_rgb(frame), caption="검출 실패 프레임")
-        st.stop()
-
-    overlay = draw_candidates(frame, candidates, selected=st.session_state.get("selected_index"))
+        return None
+    auto = _auto_select(candidates)
+    current = st.session_state.get("selected_index", auto.index if auto else candidates[0].index)
+    overlay = draw_candidates(frame, candidates, selected=current, studio=True)
     click = _try_image_click(bgr_to_rgb(overlay), key="face_pick")
-    numbers = [c.index for c in candidates]
-    default_idx = st.session_state.get("selected_index") or numbers[0]
-    selected_number = st.number_input("대상 번호", min_value=min(numbers), max_value=max(numbers), value=int(default_idx))
     if click and "x" in click:
         hit = select_by_click(candidates, int(click["x"]), int(click["y"]))
         if hit:
-            selected_number = hit.person_index
-            st.session_state.selected_index = selected_number
-            st.write(f"클릭으로 Person #{selected_number} 선택")
-    selection = select_by_number(candidates, int(selected_number))
+            current = hit.person_index
+            st.session_state.selected_index = current
+    selection = select_by_number(candidates, int(current))
+    if selection is None and auto is not None:
+        selection = select_by_number(candidates, int(auto.index))
+    if selection is not None:
+        st.session_state.selected_index = selection.person_index
+    return selection
+
+
+def main() -> None:
+    _inject_css()
+    cleanup_old_temps()
+    _header()
+    ready = _studio_ready()
+    work = Path(st.session_state.setdefault("work_dir", str(make_work_dir("ui"))))
+
+    if not st.session_state.get("consent"):
+        st.checkbox(CONSENT_TEXT, key="consent_box")
+        if st.button("동의하고 시작", disabled=not st.session_state.get("consent_box")):
+            st.session_state.consent = True
+            st.rerun()
+        st.stop()
+
+    if not ready["ffmpeg_ok"]:
+        st.error("이 컴퓨터에서 영상을 처리할 준비가 되지 않았습니다.")
+        st.stop()
+    if not ready["models_ok"]:
+        st.error("생성에 필요한 모델이 없습니다.")
+        if st.button("모델 받기"):
+            with st.spinner("모델을 받는 중..."):
+                try:
+                    download_models()
+                    st.cache_resource.clear()
+                    st.success("다시 생성을 눌러 주세요.")
+                except Exception as exc:  # noqa: BLE001
+                    st.error(str(exc))
+        st.stop()
+
+    mode = st.segmented_control(
+        "생성 방식",
+        options=[MODE_MEDIA, MODE_IMAGE, MODE_TEXT],
+        default=MODE_MEDIA,
+        key="gen_mode",
+        selection_mode="single",
+        label_visibility="collapsed",
+    ) or MODE_MEDIA
+
+    left, right = st.columns([0.42, 0.58], gap="large")
+
+    with left:
+        prompt_ph = {
+            MODE_MEDIA: "예: 영상 속 가운데 사람을 올린 얼굴로 바꿔 주세요. 춤과 카메라는 그대로.",
+            MODE_IMAGE: "예: 이 얼굴이 영상 속 주인공이 되게 해 주세요. 배경과 동작은 유지.",
+            MODE_TEXT: "원하는 장면을 적어 주세요. 텍스트만으로는 영상을 만들지 않습니다. 영상과 얼굴 사진이 필요합니다.",
+        }[mode]
+        prompt = st.text_area("프롬프트", placeholder=prompt_ph, height=140, label_visibility="collapsed")
+        st.caption("원본 영상의 인물을, 올린 얼굴로 바꿉니다. 동작·배경·소리는 그대로입니다.")
+
+        if mode == MODE_TEXT:
+            st.info("텍스트로만 새 영상을 만들지는 않습니다. 영상과 얼굴 사진을 올리면 바로 만들 수 있습니다.")
+
+        if mode == MODE_IMAGE:
+            ref_files = st.file_uploader("얼굴 사진", accept_multiple_files=True, key="ref_image_uploader")
+            video_file = st.file_uploader("움직임이 담긴 원본 영상", accept_multiple_files=False, key="source_video_uploader")
+        else:
+            video_file = st.file_uploader("원본 영상", accept_multiple_files=False, key="source_video_uploader")
+            ref_files = st.file_uploader("얼굴 사진", accept_multiple_files=True, key="ref_image_uploader")
+
+        with st.expander("링크로 가져오기"):
+            video_url = st.text_input("영상 URL", placeholder="https://...", key="video_url_input")
+            video_path_in = st.text_input("이 컴퓨터 경로", placeholder="/data/clip.mp4", key="video_path_input")
+
+        d1, d2, d3 = st.columns(3)
+        with d1:
+            duration_choice = st.pills(
+                "길이", DURATION_OPTIONS, default="전체", key="duration_choice", selection_mode="single"
+            ) or "전체"
+        with d2:
+            aspect_choice = st.pills(
+                "화면 비율", ASPECT_OPTIONS, default="원본", key="aspect_choice", selection_mode="single"
+            ) or "원본"
+        with d3:
+            res_choice = st.pills(
+                "해상도", RES_OPTIONS, default="원본", key="res_choice", selection_mode="single"
+            ) or "원본"
+
+        watermark = st.toggle(f"결과에 {WATERMARK_TEXT} 표시", value=True)
+        generate = st.button("생성하기", type="primary", use_container_width=True, disabled=(mode == MODE_TEXT))
+
+    video_path = _ingest_video(work, video_file, video_url, video_path_in)
+    ref_paths = _ingest_refs(work, ref_files)
+
+    info = None
+    if video_path is not None:
+        video_val = validate_video_input(video_path)
+        if video_val.ok:
+            try:
+                info = probe_and_validate_video(video_path)
+            except Exception as exc:  # noqa: BLE001
+                LOGGER.exception("probe failed")
+                st.error("영상을 열 수 없습니다.")
+                LOGGER.error("%s", exc)
+        else:
+            st.error("이 파일은 영상으로 열리지 않습니다.")
+
+    selection = None
+    with right:
+        result = st.session_state.get("last_result")
+        if result is not None and getattr(result, "ok", False) and result.output_path:
+            st.video(str(result.output_path))
+            st.download_button(
+                "결과 저장",
+                data=Path(result.output_path).read_bytes(),
+                file_name=Path(result.output_path).name,
+                mime="video/mp4",
+                use_container_width=True,
+            )
+            if st.button("다른 장면으로 다시 만들기", use_container_width=True):
+                st.session_state.last_result = None
+                st.rerun()
+        elif info is not None and video_path is not None:
+            duration = float(info.duration or 0.0)
+            pick_ts = st.slider(
+                "장면",
+                0.0,
+                max(0.1, duration),
+                min(0.4, duration) if duration else 0.0,
+                0.05,
+                key="scene_t",
+            )
+            try:
+                runtime = _runtime()
+                frame = extract_frame_at(video_path, pick_ts, info=info)
+                candidates = runtime.person_detector.candidates(frame)
+            except ModelUnavailable as exc:
+                st.error(str(exc))
+                candidates = []
+            except Exception as exc:  # noqa: BLE001
+                LOGGER.exception("frame pick failed")
+                st.error("장면을 열 수 없습니다.")
+                LOGGER.error("%s", exc)
+                candidates = []
+
+            if not candidates:
+                try:
+                    st.image(bgr_to_rgb(extract_frame_at(video_path, pick_ts, info=info)), use_container_width=True)
+                except Exception:
+                    pass
+                st.caption("이 장면에서 얼굴을 찾지 못했습니다. 장면을 조금 옮겨 보세요.")
+            else:
+                selection = _pick_selection(frame, candidates)
+                st.caption("바꿀 사람을 화면에서 누르세요. 누르지 않으면 가장 큰 얼굴을 사용합니다.")
+        else:
+            st.markdown(
+                """
+                <div class="studio-empty">
+                  <h3>미리보기</h3>
+                  <p>왼쪽에서 원본 영상과 얼굴 사진을 올리면, 여기에서 주인공을 고르고 결과를 봅니다.</p>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+
+    if not generate:
+        return
+    if mode == MODE_TEXT:
+        st.warning("영상과 얼굴 사진을 올린 뒤 생성해 주세요.")
+        return
+    if video_path is None or info is None:
+        st.warning("원본 영상을 올려 주세요.")
+        return
+    if not ref_paths:
+        st.warning("얼굴 사진을 한 장 이상 올려 주세요.")
+        return
+    try:
+        runtime = _runtime()
+    except Exception as exc:  # noqa: BLE001
+        st.error(str(exc))
+        return
     if selection is None:
-        st.error("선택한 번호의 인물이 없습니다.")
-        st.stop()
-    st.session_state.selected_index = selection.person_index
-    st.image(bgr_to_rgb(draw_candidates(frame, candidates, selected=selection.person_index)), caption="선택 결과")
+        try:
+            frame = extract_frame_at(video_path, float(st.session_state.get("scene_t", 0.2)), info=info)
+            candidates = runtime.person_detector.candidates(frame)
+            auto = _auto_select(candidates)
+            selection = select_by_number(candidates, int(auto.index)) if auto else None
+        except Exception:
+            selection = None
+    if selection is None:
+        st.warning("영상에서 얼굴을 찾지 못했습니다. 오른쪽 장면을 옮겨 보세요.")
+        return
 
-    st.header("3. 모드 및 품질")
-    mode = st.radio(
-        "처리 모드",
-        ["얼굴 교체", "전체 인물 변환 (Advanced)"],
-        index=0,
-        help="전체 인물 변환은 현재 환경에서 비활성화될 수 있습니다.",
+    caps = _export_caps()
+    res_mode, custom_size = output_size(info, aspect_choice, res_choice)
+    start_sec, end_sec = duration_window(
+        duration_choice,
+        float(info.duration or 0.0),
+        float(st.session_state.get("scene_t", 0.0)),
     )
-    if mode.startswith("전체"):
-        st.warning(env["person_transform"]["reason"])
-        st.write("필요 모델:", env["person_transform"]["required_models"])
-        st.write("필요 패키지:", env["person_transform"]["required_packages"])
-        st.stop()
-
-    col_a, col_b, col_c = st.columns(3)
-    restore = col_a.slider("얼굴 복원 강도", 0.0, 1.0, 0.0 if not runtime.restorer_ready else 0.35, 0.05)
-    if not runtime.restorer_ready:
-        col_a.caption("GFPGAN 모델이 없어 복원은 적용되지 않습니다.")
-        restore = 0.0
-    mask_range = col_b.slider("마스크 범위", 0.2, 1.0, 0.70, 0.05)
-    blend = col_c.slider("합성 강도", 0.2, 1.0, 0.90, 0.05)
-    track_thresh = st.slider("추적 신뢰도 기준", 0.15, 0.85, 0.35, 0.05)
-    watermark = st.checkbox(f"결과 좌측 하단에 '{WATERMARK_TEXT}' 워터마크", value=True)
-    purpose = st.text_input("사용 목적 / 동의 기록 (선택)", placeholder="예: 본인 영상 편집, 당사자 동의 확보")
-
-    st.header("4. 미리보기 구간 / 전체 처리")
-    preview_end_default = min(duration, 2.0) if duration else 2.0
-    p1, p2 = st.columns(2)
-    preview_start = p1.number_input("미리보기 시작(초)", 0.0, max(0.0, duration), 0.0, 0.1)
-    preview_end = p2.number_input("미리보기 끝(초)", 0.0, max(0.1, duration), preview_end_default, 0.1)
-
-    st.header("5.보내기 설정 (런타임 muxer/encoder)")
-    muxers = preferred_muxers(list_muxers())
-    vencs = preferred_video_encoders(list_encoders("video"))
-    aencs = preferred_audio_encoders(list_encoders("audio"))
-    mux_names = ["auto"] + [m.name for m in muxers]
-    v_names = ["auto"] + [e.name for e in vencs]
-    a_names = ["auto", "copy", "none"] + [e.name for e in aencs]
-    e1, e2, e3 = st.columns(3)
-    container = e1.selectbox("출력 컨테이너", mux_names, index=0)
-    video_enc = e2.selectbox("영상 코덱", v_names, index=0)
-    audio_enc = e3.selectbox("오디오 코덱", a_names, index=0)
-    if container in {"gif", "webp", "apng"} or audio_enc == "none":
-        st.info("GIF/WebP 등 애니메이션 이미지 또는 오디오 없음 선택 시 결과물에 소리가 없습니다.")
-    out_name = st.text_input("출력 파일명 (확장자 없이)", value="swapped")
-    fps_mode = st.radio("FPS", ["원본 유지", "사용자 지정"], horizontal=True)
-    custom_fps = st.number_input("지정 FPS", 1.0, 120.0, float(info.avg_fps or info.fps or 25.0), 0.1)
-    res_mode = st.radio("해상도", ["원본 유지", "사용자 지정"], horizontal=True)
-    custom_w = st.number_input("너비", 64, 7680, int(info.display_width or 1280), 2)
-    custom_h = st.number_input("높이", 64, 4320, int(info.display_height or 720), 2)
-    quality = st.radio("품질", ["고품질", "무손실"], horizontal=True)
-
-    def _plan():
-        return build_export_plan(
-            source=info,
-            container=container,
-            video_encoder=video_enc,
-            audio_encoder=audio_enc,
-            fps_mode="custom" if fps_mode == "사용자 지정" else "source",
-            custom_fps=custom_fps,
-            resolution_mode="custom" if res_mode == "사용자 지정" else "source",
-            custom_size=(int(custom_w), int(custom_h)),
-            lossless=quality == "무손실",
-            high_quality=True,
-            output_name=safe_stem(out_name),
-            available_video=[e.name for e in vencs],
-            available_audio=[e.name for e in aencs],
-            available_muxers=[m.name for m in muxers],
-        )
-
-    plan_preview = _plan()
-    for warn in plan_preview.warnings:
-        st.warning(warn)
-    st.caption(
-        f"실제 인코딩 예정: container={plan_preview.container} video={plan_preview.video_encoder} "
-        f"audio={plan_preview.audio_encoder} {plan_preview.width}x{plan_preview.height} @ {plan_preview.fps:.3f}fps"
+    plan = build_export_plan(
+        source=info,
+        container="auto",
+        video_encoder="auto",
+        audio_encoder="auto",
+        fps_mode="source",
+        custom_fps=None,
+        resolution_mode=res_mode,
+        custom_size=custom_size,
+        lossless=False,
+        high_quality=True,
+        output_name=safe_stem("studio"),
+        available_video=caps["video"],
+        available_audio=caps["audio"],
+        available_muxers=caps["muxers"],
     )
-
-    log_box = st.empty()
-    progress_bar = st.progress(0.0, text="대기")
-    status = st.empty()
+    cfg = JobConfig(
+        source_video=video_path,
+        reference_images=ref_paths,
+        selection=selection,
+        plan=plan,
+        start_sec=start_sec,
+        end_sec=end_sec,
+        watermark=bool(watermark),
+        purpose_note=prompt or "",
+        output_dir=OUTPUTS_DIR,
+    )
+    progress_bar = st.progress(0.0, text="생성 중")
 
     def _progress(ev):
         progress_bar.progress(ev.ratio, text=ev.message)
-        status.write(ev.message)
 
-    def _run(start: float, end: float | None, name_suffix: str):
+    try:
         runtime.engine.records.clear()
         runtime.engine.swapper.call_count = 0
-        plan = _plan()
-        plan.output_name = f"{safe_stem(out_name)}{name_suffix}"
-        cfg = JobConfig(
-            source_video=video_path,
-            reference_images=ref_paths,
-            selection=selection,
-            plan=plan,
-            start_sec=start,
-            end_sec=end,
-            track_thresh=track_thresh,
-            mask_range=mask_range,
-            blend_strength=blend,
-            restore_strength=restore,
-            watermark=watermark,
-            purpose_note=purpose,
-            output_dir=OUTPUTS_DIR,
-        )
         result = runtime.job.run(cfg, progress=_progress)
         st.session_state.last_result = result
-        return result
-
-    c_prev, c_full = st.columns(2)
-    run_preview = c_prev.button("짧은 구간 테스트 렌더링")
-    run_full = c_full.button("전체 영상 처리")
-
-    result = st.session_state.get("last_result")
-    if run_preview:
-        if preview_end <= preview_start:
-            st.error("미리보기 끝 시각이 시작보다 커야 합니다.")
-        else:
-            result = _run(float(preview_start), float(preview_end), "_preview")
-    if run_full:
-        result = _run(0.0, None, "")
-
-    st.header("6. 결과")
-    if result is None:
-        st.info("아직 처리 결과가 없습니다.")
-    else:
-        if result.ok and result.output_path:
-            st.success(result.message)
-            st.video(str(result.output_path))
-            st.write(
-                {
-                    "output": str(result.output_path),
-                    "frames_total": result.frames_total,
-                    "frames_swapped": result.frames_swapped,
-                    "frames_kept_original": result.frames_kept_original,
-                    "track_id": result.track_id,
-                    "inferences": result.inference_count,
-                }
-            )
-            if result.output_probe:
-                st.write("출력 FFprobe 요약")
-                vp = result.output_probe
-                st.json(
-                    {
-                        "format": vp.get("format_name"),
-                        "duration": vp.get("duration"),
-                        "fps": vp.get("fps"),
-                        "avg_fps": vp.get("avg_fps"),
-                        "display": [vp.get("display_width"), vp.get("display_height")],
-                        "has_audio": vp.get("has_audio"),
-                    }
-                )
-            with open(result.output_path, "rb") as handle:
-                st.download_button(
-                    "결과 파일 저장",
-                    data=handle.read(),
-                    file_name=result.output_path.name,
-                    mime="application/octet-stream",
-                )
-        else:
-            st.error(result.message)
-        with st.expander("처리 로그 / inference 기록", expanded=True):
-            st.write(result.inference_log)
-            st.write(result.similarity_samples)
-            if result.log_path and result.log_path.exists():
-                st.download_button(
-                    "로그 JSON 저장",
-                    data=result.log_path.read_text(encoding="utf-8"),
-                    file_name=result.log_path.name,
-                    mime="application/json",
-                )
-            log_text = "\n".join(str(x) for x in result.inference_log)
-            st.text_area("로그 보기", log_text, height=180)
-
-    if st.button("오래된 임시 파일 정리"):
-        removed = cleanup_old_temps(0.0)
-        st.write(f"정리된 항목: {removed} (현재 세션 작업 폴더는 제외될 수 있음)")
-        # also sweep TEMP_DIR files older than now-0
-        st.write(f"temp 경로: {TEMP_DIR}")
+        if result.ok:
+            st.rerun()
+        st.error(result.message)
+    except Exception as exc:  # noqa: BLE001
+        LOGGER.exception("generate failed")
+        st.error("생성에 실패했습니다.")
+        LOGGER.error("%s", exc)
 
 
 if __name__ == "__main__":
