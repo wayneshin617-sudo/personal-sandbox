@@ -26,8 +26,9 @@ from src.export_manager import (
 )
 from src.media_probe import ProbeError, ffmpeg_bin, ffprobe_bin, probe_and_validate_video
 from src.model_manager import download_models, inspect_models
+from src.job_runner import running_job, start_job
+from src.job_store import refresh_job
 from src.pipeline import JobConfig
-from src.runtime import RuntimeBundle, create_runtime
 from src.utils import LOGGER, cleanup_old_temps, make_work_dir, safe_stem
 from src.validators import validate_image_input, validate_video_input
 
@@ -76,11 +77,6 @@ def _export_caps() -> dict:
         "video": [e.name for e in vencs],
         "audio": [e.name for e in aencs],
     }
-
-
-@st.cache_resource(show_spinner=True)
-def _runtime() -> RuntimeBundle:
-    return create_runtime()
 
 
 def _ingest_video(work: Path, dropped: list[Path], video_url: str, video_path_in: str) -> Path | None:
@@ -231,7 +227,8 @@ def main() -> None:
         video_url = st.text_input("또는 영상 URL", placeholder="https://...", key="video_url_input")
         video_path_in = st.text_input("또는 이 컴퓨터 경로", placeholder="/data/clip.mp4", key="video_path_input")
         watermark = st.toggle(f"결과에 {WATERMARK_TEXT} 표시", value=True)
-        generate = st.button("생성하기", type="primary", use_container_width=True)
+        busy = running_job() is not None
+        generate = st.button("생성하기", type="primary", use_container_width=True, disabled=busy)
         notice = st.empty()
         last = st.session_state.get("last_result") or st.session_state.get("prev_download")
         if isinstance(last, dict) and last.get("path") and last.get("token") and Path(last["path"]).exists():
@@ -283,74 +280,87 @@ def main() -> None:
                 unsafe_allow_html=True,
             )
 
-    if not generate:
-        return
-    if video_path is None or info is None:
-        notice.warning("원본 영상을 올려 주세요.")
-        return
-    if not ref_paths:
-        notice.warning("얼굴 사진을 한 장 이상 올려 주세요.")
-        return
-    try:
-        runtime = _runtime()
-    except Exception as exc:  # noqa: BLE001
-        notice.error(str(exc))
-        return
-
-    caps = _export_caps()
-    plan = build_export_plan(
-        source=info,
-        container="auto",
-        video_encoder="auto",
-        audio_encoder="auto",
-        fps_mode="source",
-        custom_fps=None,
-        resolution_mode="source",
-        custom_size=None,
-        lossless=False,
-        high_quality=True,
-        output_name=safe_stem("studio"),
-        available_video=caps["video"],
-        available_audio=caps["audio"],
-        available_muxers=caps["muxers"],
-    )
-    cfg = JobConfig(
-        source_video=video_path,
-        reference_images=ref_paths,
-        plan=plan,
-        watermark=bool(watermark),
-        output_dir=OUTPUTS_DIR,
-    )
-    progress_bar = st.progress(0.0, text="준비 중")
-    last_tick = {"t": 0.0, "ratio": -1.0}
-
-    def _progress(ev):
-        now = time.monotonic()
-        if ev.ratio >= 0.999 or ev.ratio - last_tick["ratio"] >= 0.02 or now - last_tick["t"] >= 0.35:
-            progress_bar.progress(ev.ratio, text=ev.message)
-            last_tick["t"] = now
-            last_tick["ratio"] = ev.ratio
-
-    try:
-        runtime.engine.records.clear()
-        runtime.engine.swapper.call_count = 0
-        result = runtime.job.run(cfg, progress=_progress)
-        path = result.output_path
-        usable = bool(path and Path(path).exists() and Path(path).stat().st_size > 0)
-        if usable:
-            stored = remember_result(Path(path), result.message, source_sig=_file_sig(video_path))
-            st.session_state.last_result = stored
-            st.session_state.active_video_sig = stored.get("source_sig")
-            progress_bar.progress(1.0, text="완료")
-            notice.success(result.message or "완료. 아래 버튼으로 영상을 받으세요.")
-            st.video(str(path))
-            st.markdown(_download_markup(stored["token"]), unsafe_allow_html=True)
+    current_sig = _file_sig(video_path) if video_path is not None and video_path.exists() else None
+    job = refresh_job()
+    if generate:
+        if video_path is None or info is None:
+            notice.warning("원본 영상을 올려 주세요.")
             return
-        notice.error(result.message or "결과를 저장하지 못했습니다. 다시 생성해 주세요.")
-    except Exception as exc:  # noqa: BLE001
-        LOGGER.exception("generate failed")
-        notice.error("생성에 실패했습니다. 다시 눌러 주세요.")
-        LOGGER.error("%s", exc)
+        if not ref_paths:
+            notice.warning("얼굴 사진을 한 장 이상 올려 주세요.")
+            return
+        if running_job() is not None:
+            notice.info("이미 생성이 진행 중입니다. 탭을 닫아도 이어서 돌아갑니다.")
+        else:
+            caps = _export_caps()
+            plan = build_export_plan(
+                source=info,
+                container="auto",
+                video_encoder="auto",
+                audio_encoder="auto",
+                fps_mode="source",
+                custom_fps=None,
+                resolution_mode="source",
+                custom_size=None,
+                lossless=False,
+                high_quality=True,
+                output_name=safe_stem("studio"),
+                available_video=caps["video"],
+                available_audio=caps["audio"],
+                available_muxers=caps["muxers"],
+            )
+            cfg = JobConfig(
+                source_video=video_path,
+                reference_images=ref_paths,
+                plan=plan,
+                watermark=bool(watermark),
+                output_dir=OUTPUTS_DIR,
+            )
+            try:
+                start_job(cfg, source_sig=_file_sig(video_path))
+                st.session_state.last_result = None
+            except Exception as exc:  # noqa: BLE001
+                LOGGER.exception("failed to start background job")
+                notice.error("생성을 시작하지 못했습니다. 다시 눌러 주세요.")
+                LOGGER.error("%s", exc)
+                return
+        st.rerun()
+
+    job = refresh_job()
+    if not job:
+        return
+    job_sig = job.get("source_sig")
+    if job.get("status") == "running":
+        current = int(job.get("current_frame") or 0)
+        total = max(int(job.get("total_frames") or 0), current, 1)
+        ratio = min(1.0, current / total) if total else 0.0
+        detail = str(job.get("detail") or job.get("message") or "생성하는 중")
+        notice.info("탭을 닫아도 생성은 서버에서 이어집니다.")
+        st.progress(ratio, text=detail)
+        time.sleep(1.5)
+        st.rerun()
+        return
+    if job.get("status") == "done" and job_sig and job_sig == current_sig:
+        path = Path(str(job.get("output_path") or ""))
+        if path.is_file() and path.stat().st_size > 0:
+            existing = st.session_state.get("last_result")
+            already = (
+                isinstance(existing, dict)
+                and existing.get("path") == str(path)
+                and existing.get("source_sig") == current_sig
+            )
+            if already:
+                notice.success(str(existing.get("message") or "완료. 아래 버튼으로 영상을 받으세요."))
+                return
+            stored = remember_result(path, str(job.get("message") or "완료. 영상을 받으세요."), source_sig=current_sig)
+            st.session_state.last_result = stored
+            st.session_state.active_video_sig = current_sig
+            st.rerun()
+            return
+        notice.error("결과는 끝났는데 파일을 찾지 못했습니다. 다시 생성해 주세요.")
+        return
+    if job.get("status") == "error" and (not job_sig or job_sig == current_sig):
+        notice.error(str(job.get("message") or job.get("detail") or "생성에 실패했습니다. 다시 눌러 주세요."))
 
 
 if __name__ == "__main__":
