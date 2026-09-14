@@ -60,8 +60,8 @@ class JobConfig:
     mask_range: float = 0.70
     blend_strength: float = 0.90
     restore_strength: float = 0.0
-    skip_profiles: bool = True
-    min_face_width: float = 56.0
+    skip_profiles: bool = False
+    min_face_width: float = 24.0
     watermark: bool = True
     purpose_note: str = ""
     output_dir: Path = OUTPUTS_DIR

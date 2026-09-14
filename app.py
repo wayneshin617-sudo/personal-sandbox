@@ -315,7 +315,8 @@ def main() -> None:
                 plan=plan,
                 watermark=bool(watermark),
                 restore_strength=0.0,
-                skip_profiles=True,
+                skip_profiles=False,
+                min_face_width=24.0,
                 output_dir=OUTPUTS_DIR,
             )
             try:

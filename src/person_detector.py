@@ -37,7 +37,7 @@ class PersonDetector:
         )
 
     def detect_faces(self, image_bgr: np.ndarray) -> list[Face]:
-        return self.analysis.get(image_bgr, det_thresh=0.42)
+        return self.analysis.get(image_bgr, det_thresh=0.35)
 
     def candidates(self, image_bgr: np.ndarray) -> list[PersonCandidate]:
         h, w = image_bgr.shape[:2]

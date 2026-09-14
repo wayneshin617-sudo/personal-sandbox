@@ -79,7 +79,7 @@ def test_payload_roundtrip_keeps_plan(tmp_path: Path) -> None:
     assert restored.plan.video_encoder == "libx264"
     assert restored.plan.extra_args == ["-movflags", "+faststart"]
     assert restored.watermark is True
-    assert restored.skip_profiles is True
+    assert restored.skip_profiles is False
     assert payload["source_sig"] == "sig-1"
 
 
