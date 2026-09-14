@@ -21,7 +21,6 @@ from src.media_probe import ffmpeg_bin, probe_and_validate_video, probe_media
 from src.model_manager import download_models, inspect_models
 from src.pipeline import JobConfig
 from src.runtime import create_runtime
-from src.target_selector import select_by_number
 from src.utils import LOGGER, run_command, write_json
 
 
@@ -172,18 +171,6 @@ def main() -> int:
         info.audio.codec_name if info.audio else None,
     )
 
-    from src.video_io import extract_frame_at
-
-    frame0 = extract_frame_at(video, 0.0, info=info)
-    cands = runtime.person_detector.candidates(frame0)
-    if not cands:
-        print("No faces on frame 0")
-        return 3
-    cands_sorted = sorted(cands, key=lambda c: c.face.box[0])
-    selection = select_by_number(cands, cands_sorted[0].index)
-    if selection is None:
-        return 3
-
     muxers = [m.name for m in list_muxers()]
     venc = [e.name for e in list_encoders("video")]
     aenc = [e.name for e in list_encoders("audio")]
@@ -209,7 +196,6 @@ def main() -> int:
         JobConfig(
             source_video=video,
             reference_images=[identity_path],
-            selection=selection,
             plan=plan,
             start_sec=0.0,
             end_sec=None,
