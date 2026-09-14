@@ -685,6 +685,11 @@ button {
   color: #1a120c;
 }
 
+#cross-ui button {
+  white-space: nowrap;
+  font-size: 18px;
+}
+
 #cross-ui #btn-press {
   background: #3d7cff;
   color: #fff;
@@ -798,6 +803,7 @@ button {
 }
 #splash.hold .stamp {
   background: #3d7cff;
+  font-size: clamp(36px, 7vw, 88px);
 }
 #splash.take .stamp {
   background: #d48a12;

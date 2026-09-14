@@ -1,4 +1,4 @@
-const SAVE_KEY = "reversal-gonan-v2";
+const SAVE_KEY = "reversal-gonan-v3";
 
 const ART = {
   gonan: {
@@ -166,7 +166,7 @@ function portrait(id, mood = "normal", extra = "") {
 }
 
 function setBg(name) {
-  ui.stage.className = `bg-${name || "court"}`;
+  ui.stage.className = `bg-${name || "museum"}`;
 }
 
 function setActors(who, mood, extra) {
@@ -328,10 +328,10 @@ async function runLine() {
 
 function splashText(kind) {
   return {
-    objection: "이의 있음!",
-    hold: "기다려!",
+    objection: "진실은!",
+    hold: "거짓말이다!",
     take: "받아라!",
-    guilty: "유죄",
+    guilty: "연행",
     reveal: "범인은 바로 너야!",
   }[kind];
 }
@@ -385,7 +385,7 @@ function goScene(id) {
   hidePlayUi();
   ui.title.hidden = true;
   ui.recordBtn.hidden = false;
-  setBg(scene.bg || "court");
+  setBg(scene.bg || "museum");
   if (scene.type === "talk") {
     playLines(scene.lines, () => {
       if (scene.choice) showChoices(scene.choice);
@@ -464,7 +464,7 @@ function enterLocation(id) {
             {
               who: "gonan",
               mood: "sweat",
-              text: "아직이다. 단서도 없이 법정에 들어가면 평민만 감방 간다. 이 몸의 헬멧은 감옥 규격이 아니야.",
+              text: "아직이다. 단서도 없이 전원 집합하면 무명한만 연행된다. 이 몸의 헬멧은 지구대 규격이 아니야.",
             },
           ],
           () => enterLocation(id)
@@ -510,9 +510,9 @@ function startCross(scene) {
   state.stmt = 0;
   state.checkpoint = { type: "scene", id: scene.id || state.sceneId };
   save();
-  setBg(scene.bg || "court");
+  setBg(scene.bg || "museum");
   renderHp();
-  playLines(scene.intro || [{ who: "judge", text: "증인을 심문하시오." }], () => showStatement());
+  playLines(scene.intro || [{ who: "judge", text: "증언을 들어 보시오." }], () => showStatement());
 }
 
 function currentStmt() {
@@ -543,7 +543,7 @@ function moveStmt(dir) {
 async function pressStmt() {
   if (state.mode !== "cross") return;
   const s = currentStmt();
-  await showSplash("hold", "기다려!");
+  await showSplash("hold", "거짓말이다!");
   const fallback = [
     { who: "gonan", mood: "smirk", text: "그거 진짜야? 아니면 그냥 입에서 나온 거야." },
     { who: state.cross.witness, text: "…사실입니다. 아마도." },
@@ -554,7 +554,7 @@ async function pressStmt() {
       s.press.added = true;
       state.cross.statements.splice(state.stmt + 1, 0, s.press.add);
       playLines(
-        [{ who: "yujoe", mood: "angry", text: "증언을 정정하겠다. 쓸데없는 추궁 덕분에 시간만 버렸군." }],
+        [{ who: "yujoe", mood: "angry", text: "증언을 정정한다. 쓸데없는 추궁 덕분에 시간만 버렸군." }],
         () => {
           state.stmt += 1;
           showStatement();
@@ -605,7 +605,7 @@ function renderRecord() {
 async function submitEvidence() {
   const id = state.selectedItem;
   if (!id || state.recordTab !== "evidence") {
-    playLines([{ who: "inner", text: "제출할 증거를 골라." }], () => {});
+    playLines([{ who: "inner", text: "들이밀 증거를 골라." }], () => {});
     return;
   }
   ui.record.hidden = true;
@@ -623,7 +623,7 @@ async function submitEvidence() {
   const s = currentStmt();
   const hit = s.present && s.present[id];
   if (hit) {
-    await showSplash("objection", "이의 있음!");
+    await showSplash("objection", "진실은!");
     follow(typeof hit === "string" ? hit : hit.next);
     return;
   }
@@ -639,16 +639,16 @@ async function wrongPresent() {
   ui.stage.classList.add("shake");
   setTimeout(() => ui.stage.classList.remove("shake"), 420);
   if (state.hp <= 0) {
-    await showSplash("guilty", "유죄");
+    await showSplash("guilty", "연행");
     goScene("gameover");
     return;
   }
   await new Promise((r) => {
     playLines(
       [
-        { who: "yujoe", mood: "smirk", text: "그게 모순이라고? 유치하군. 명탐정 맞나?" },
-        { who: "judge", text: "변호인, 근거가 부족하오. 인내심이 남아 있을 때 제대로 내놓으시오." },
-        { who: "gonan", mood: "sweat", text: "……착수금은 이미 썼는데." },
+        { who: "yujoe", mood: "smirk", text: "그게 모순이라고? 다잉메시지가 있는데. 명탐정 맞나?" },
+        { who: "judge", text: "근거가 부족하오. 이 경부의 인내심이 바닥나면 무명한은 연행이오." },
+        { who: "gonan", mood: "sweat", text: "평민 추리가 틀린 거지 이 몸이 틀린 게 아니야." },
       ],
       r
     );
@@ -750,17 +750,16 @@ function fillForCourt() {
     talked_muhyeong: true,
     got_tranq: true,
     examined_body: true,
-    examined_prints: true,
     talked_baksa: true,
   };
-  state.checkpoint = { type: "scene", id: "trial_intro" };
+  state.checkpoint = { type: "scene", id: "gather_intro" };
   save();
 }
 
 bind();
 
-if (new URLSearchParams(location.search).has("court")) {
+if (new URLSearchParams(location.search).has("court") || new URLSearchParams(location.search).has("gather")) {
   ui.title.hidden = true;
   fillForCourt();
-  goScene("trial_intro");
+  goScene("gather_intro");
 }
