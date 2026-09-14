@@ -49,7 +49,7 @@ def main() -> int:
         }
     )
     try:
-        runtime = create_runtime()
+        runtime = create_runtime(load_restorer=bool(config.restore_strength > 0.01))
         runtime.engine.records.clear()
         runtime.engine.swapper.call_count = 0
         result = runtime.job.run(config, progress=_progress)

@@ -22,6 +22,9 @@ def is_profile(yaw: float, thresh: float = 0.32) -> bool:
 
 
 def profile_restore(yaw: float, base: float) -> float:
+    # Speed path: restore_strength 0 means skip GFPGAN entirely, including profiles.
+    if float(base) <= 0.01:
+        return 0.0
     extra = 0.22 if is_profile(yaw, 0.45) else 0.12 if is_profile(yaw) else 0.0
     return float(min(0.65, max(base, 0.28) + extra))
 

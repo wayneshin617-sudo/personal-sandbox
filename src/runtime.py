@@ -36,7 +36,11 @@ class RuntimeBundle:
     restorer_ready: bool
 
 
-def create_runtime(det_size: tuple[int, int] = (640, 640), det_thresh: float = 0.42) -> RuntimeBundle:
+def create_runtime(
+    det_size: tuple[int, int] = (640, 640),
+    det_thresh: float = 0.42,
+    load_restorer: bool = False,
+) -> RuntimeBundle:
     bundle = inspect_models()
     if not bundle.ready_for_faceswap:
         raise ModelUnavailable(" ".join(bundle.messages))
@@ -50,10 +54,13 @@ def create_runtime(det_size: tuple[int, int] = (640, 640), det_thresh: float = 0
         det_size=det_size,
         det_thresh=det_thresh,
     )
+    restorer_path = None
+    if load_restorer and paths["gfpgan"].exists():
+        restorer_path = paths["gfpgan"]
     engine = load_swap_engine(
         paths["inswapper"],
         analysis,
-        paths["gfpgan"] if paths["gfpgan"].exists() else None,
+        restorer_path,
         providers,
     )
     person_detector = PersonDetector(analysis)

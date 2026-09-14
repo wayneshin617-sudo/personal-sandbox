@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import time
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -283,6 +284,8 @@ def load_swap_engine(
         )
     so = ort.SessionOptions()
     so.graph_optimization_level = ort.GraphOptimizationLevel.ORT_ENABLE_ALL
+    so.intra_op_num_threads = max(1, os.cpu_count() or 4)
+    so.inter_op_num_threads = 1
     session = ort.InferenceSession(str(swapper_path), so, providers=providers)
     swapper = INSwapper(swapper_path, session)
     restorer = None

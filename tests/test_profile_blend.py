@@ -32,3 +32,8 @@ def test_profile_mask_fades_hidden_side() -> None:
 
 def test_profile_uses_stronger_restore() -> None:
     assert profile_restore(0.7, 0.2) > profile_restore(0.0, 0.2)
+
+
+def test_disabled_restore_stays_off_on_profile() -> None:
+    assert profile_restore(0.8, 0.0) == 0.0
+    assert profile_restore(0.8, 0.01) == 0.0

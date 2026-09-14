@@ -314,6 +314,8 @@ def main() -> None:
                 reference_images=ref_paths,
                 plan=plan,
                 watermark=bool(watermark),
+                restore_strength=0.0,
+                skip_profiles=True,
                 output_dir=OUTPUTS_DIR,
             )
             try:

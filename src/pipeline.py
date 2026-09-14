@@ -16,6 +16,7 @@ from src.face_detector import Face, FaceAnalysis
 from src.face_swapper import FaceSwapEngine, InferenceRecord
 from src.media_probe import MediaInfo, probe_and_validate_video
 from src.person_detector import PersonDetector
+from src.profile_blend import estimate_yaw, is_profile
 from src.target_selector import Selection
 from src.utils import (
     LOGGER,
@@ -58,7 +59,9 @@ class JobConfig:
     reid_thresh: float = 0.45
     mask_range: float = 0.70
     blend_strength: float = 0.90
-    restore_strength: float = 0.32
+    restore_strength: float = 0.0
+    skip_profiles: bool = True
+    min_face_width: float = 56.0
     watermark: bool = True
     purpose_note: str = ""
     output_dir: Path = OUTPUTS_DIR
@@ -151,6 +154,12 @@ class FaceSwapJob:
                     for face_i, target_face in enumerate(faces, start=1):
                         if target_face.kps is None:
                             continue
+                        box_w = float(target_face.box[2] - target_face.box[0])
+                        if box_w < cfg.min_face_width:
+                            continue
+                        yaw = estimate_yaw(target_face.kps)
+                        if cfg.skip_profiles and is_profile(yaw):
+                            continue
                         out, rec = self.engine.swap_face(
                             out,
                             target_face,
@@ -162,20 +171,6 @@ class FaceSwapJob:
                             restore_strength=cfg.restore_strength,
                         )
                         swapped_this += 1
-                        if (packet.index % 8 == 0 or packet.index < 2) and face_i == 1:
-                            after_faces = self.analysis.get(out)
-                            sample = _similarity_sample(
-                                after_faces,
-                                faces,
-                                target_face,
-                                source_face,
-                                face_i,
-                                packet.index,
-                            )
-                            if sample:
-                                samples.append(sample)
-                                rec.source_sim_before = sample.get("target_to_source_before")
-                                rec.source_sim_after = sample.get("target_to_source_after")
                     if swapped_this:
                         frames_swapped += 1
                     else:
