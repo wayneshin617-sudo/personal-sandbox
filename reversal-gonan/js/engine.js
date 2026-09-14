@@ -274,6 +274,7 @@ function typeLine(who, text) {
 
 function skipOrAdvance() {
   if (ui.record.hidden === false || ui.help.hidden === false) return;
+  if (!ui.splash.hidden) return;
   if (state.mode === "title") return;
   if (state.typing) {
     state.typing = false;
