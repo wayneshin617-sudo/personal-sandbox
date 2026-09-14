@@ -6,6 +6,7 @@ from src.identity_gallery import (
     IdentityHit,
     assign_identities,
     format_times,
+    join_thumbs,
     match_identity,
     sample_times,
     scene_near,
@@ -64,6 +65,15 @@ def test_two_faces_get_stable_ids() -> None:
     assert matched is not None
     later = match_identity(np.array(a, dtype=np.float32), people)
     assert later is not None and later.id == matched.id
+
+
+def test_join_thumbs_makes_one_wide_image() -> None:
+    left = np.zeros((20, 10, 3), dtype=np.uint8)
+    right = np.ones((20, 12, 3), dtype=np.uint8) * 200
+    strip = join_thumbs([left, right], gap=4)
+    assert strip.shape[0] == 20
+    assert strip.shape[1] == 10 + 4 + 12
+    assert strip.ndim == 3
 
 
 def test_format_times_is_short() -> None:

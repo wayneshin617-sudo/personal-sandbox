@@ -21,6 +21,7 @@ from src.chunk_upload import install_chunk_route, load_latest, remember_result, 
 from src.identity_gallery import (
     build_gallery,
     format_times,
+    join_thumbs,
     match_identity,
     scene_near,
     scenes_from_identities,
@@ -277,11 +278,7 @@ def _label_candidates(candidates, identities):
 
 
 def _download_markup(token: str, label: str = "영상 받기") -> str:
-    return (
-        f'<a class="studio-dl" href="/_studio/file/{token}?download=1" download>{label}</a>'
-        f'<video class="studio-player" controls preload="metadata" '
-        f'src="/_studio/file/{token}"></video>'
-    )
+    return f'<a class="studio-dl" href="/_studio/file/{token}?download=1" download>{label}</a>'
 
 
 def _selection_for_identity(identities, identity_id: int, candidates) -> Selection | None:
@@ -320,13 +317,8 @@ def _render_gallery(identities, current_t: float) -> None:
         cols = st.columns(len(row))
         for ident, col in zip(row, cols):
             with col:
-                thumbs = ident.angle_hits(3)
-                if len(thumbs) == 1:
-                    st.image(thumbs[0].crop_rgb, use_container_width=True)
-                else:
-                    tcols = st.columns(len(thumbs))
-                    for thumb, tcol in zip(thumbs, tcols):
-                        tcol.image(thumb.crop_rgb, use_container_width=True)
+                thumbs = [hit.crop_rgb for hit in ident.angle_hits(3)]
+                st.image(join_thumbs(thumbs), use_container_width=True)
                 here = any(abs(hit.time_sec - current_t) < 0.8 for hit in ident.hits)
                 title = f"사람 {ident.id}" + (" · 지금" if here else "")
                 if st.button(title, key=f"pick_id_{ident.id}", use_container_width=True):
@@ -352,15 +344,12 @@ def _render_gallery(identities, current_t: float) -> None:
             st.caption("컷이 바뀌면 화면 속 순서는 달라져도, 사람 번호는 같습니다.")
             for scene in scenes:
                 ids = ", ".join(f"사람 {pid}" for pid, _hit in scene.people) or "없음"
-                row = st.columns([0.22, 0.48, 0.30])
-                row[0].markdown(f"**{scene.time_sec:.1f}초**")
-                row[1].caption(ids)
-                if row[2].button("이 장면", key=f"jump_scene_{scene.time_sec}", use_container_width=True):
+                if st.button(f"{scene.time_sec:.1f}초 · {ids}", key=f"jump_scene_{scene.time_sec}", use_container_width=True):
                     st.session_state.scene_t = float(scene.time_sec)
                     st.rerun()
-                thumbs = st.columns(max(1, min(4, len(scene.people))))
-                for (pid, hit), tcol in zip(scene.people, thumbs):
-                    tcol.image(hit.crop_rgb, caption=f"사람 {pid}", use_container_width=True)
+                faces = [hit.crop_rgb for _pid, hit in scene.people]
+                if faces:
+                    st.image(join_thumbs(faces), caption=ids, use_container_width=True)
 
 
 def _show_result(result: dict) -> None:
@@ -371,6 +360,7 @@ def _show_result(result: dict) -> None:
             stored = remember_result(path, result.get("message") or "완료. 영상을 받으세요.")
             result.update(stored)
             token = stored["token"]
+        st.video(str(path))
         st.markdown(_download_markup(str(token)), unsafe_allow_html=True)
         if result.get("message"):
             st.caption(result["message"])
@@ -537,6 +527,10 @@ def main() -> None:
             _show_result(result)
         elif info is not None and video_path is not None:
             duration = float(info.duration or 0.0)
+            try:
+                st.video(str(video_path))
+            except Exception as exc:  # noqa: BLE001
+                LOGGER.warning("source video preview failed: %s", exc)
             pick_ts = st.slider(
                 "장면",
                 0.0,
@@ -545,6 +539,8 @@ def main() -> None:
                 0.05,
                 key="scene_t",
             )
+            frame = None
+            candidates = []
             try:
                 runtime = _runtime()
                 identities = _load_gallery(video_path, info, runtime)
@@ -552,28 +548,25 @@ def main() -> None:
                 candidates = runtime.person_detector.candidates(frame)
             except ModelUnavailable as exc:
                 st.error(str(exc))
-                candidates = []
             except Exception as exc:  # noqa: BLE001
                 LOGGER.exception("frame pick failed")
                 st.error("장면을 열 수 없습니다.")
                 LOGGER.error("%s", exc)
-                candidates = []
 
-            _render_gallery(identities, float(pick_ts))
-            if not candidates:
-                try:
-                    st.image(_preview_overlay(extract_frame_at(video_path, pick_ts, info=info)), use_container_width=True)
-                except Exception:
-                    pass
+            if frame is None:
+                st.caption("이 장면을 열지 못했습니다. 장면 막대를 옮겨 보세요.")
+            elif not candidates:
+                st.image(_preview_overlay(frame), use_container_width=True)
                 st.caption("이 장면에서는 얼굴을 못 찾았습니다. 사람을 위에서 고르거나 장면을 옮기세요.")
             else:
                 selection = _pick_selection(frame, candidates, identities)
                 who = st.session_state.get("selected_identity")
                 st.caption(
-                    f"지금 장면에서는 사람 {who}입니다. 박스를 누르거나 위에서 같은 사람을 고르세요."
+                    f"지금 장면에서는 사람 {who}입니다. 박스를 누르거나 아래에서 같은 사람을 고르세요."
                     if who
                     else "바꿀 사람을 고르세요. 번호는 영상 전체에서 유지됩니다."
                 )
+            _render_gallery(identities, float(pick_ts))
         else:
             st.markdown(
                 """
@@ -676,6 +669,7 @@ def main() -> None:
             st.session_state.last_result = stored
             progress_bar.progress(1.0, text="완료")
             notice.success(result.message or "완료. 아래 버튼으로 영상을 받으세요.")
+            st.video(str(path))
             st.markdown(_download_markup(stored["token"]), unsafe_allow_html=True)
             return
         st.session_state.last_result = {

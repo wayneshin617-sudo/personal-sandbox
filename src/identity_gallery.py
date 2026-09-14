@@ -179,6 +179,25 @@ def build_gallery(video_path, info, detector, extract_frame) -> list[Identity]:
     return identities
 
 
+def join_thumbs(images: list[np.ndarray], gap: int = 6) -> np.ndarray:
+    """Put several face crops in one image so Streamlit columns stay un-nested."""
+    if not images:
+        return np.zeros((16, 16, 3), dtype=np.uint8)
+    ready = [np.asarray(im) for im in images if im is not None and getattr(im, "size", 0)]
+    if not ready:
+        return np.zeros((16, 16, 3), dtype=np.uint8)
+    height = min(int(im.shape[0]) for im in ready)
+    parts: list[np.ndarray] = []
+    spacer = np.full((height, max(1, gap), 3), 28, dtype=np.uint8)
+    for i, im in enumerate(ready):
+        if i:
+            parts.append(spacer)
+        src_h = max(1, int(im.shape[0]))
+        width = max(1, int(round(im.shape[1] * (height / src_h))))
+        parts.append(cv2.resize(im, (width, height), interpolation=cv2.INTER_AREA))
+    return np.concatenate(parts, axis=1)
+
+
 def format_times(times: list[float]) -> str:
     if not times:
         return ""
