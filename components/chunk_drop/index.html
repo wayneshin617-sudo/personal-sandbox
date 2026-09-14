@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      html, body { margin: 0; padding: 0; background: transparent; font-family: Pretendard, "Apple SD Gothic Neo", sans-serif; color: #f4f4f5; }
+      .box {
+        border: 1px dashed #3f3f46;
+        border-radius: 16px;
+        background: #101012;
+        padding: 18px 16px;
+        text-align: center;
+        cursor: pointer;
+      }
+      .box:hover { border-color: #8b7cff; }
+      .title { font-size: 14px; font-weight: 600; margin-bottom: 6px; }
+      .hint { font-size: 12px; color: #a1a1aa; line-height: 1.45; }
+      .bar { height: 6px; background: #27272a; border-radius: 99px; margin-top: 12px; overflow: hidden; }
+      .fill { height: 100%; width: 0; background: linear-gradient(90deg, #8b7cff, #4f46e5); }
+      .err { color: #fca5a5; font-size: 12px; margin-top: 8px; }
+      .ok { color: #86efac; font-size: 12px; margin-top: 8px; }
+      input { display: none; }
+    </style>
+  </head>
+  <body>
+    <div class="box" id="box">
+      <div class="title" id="title">파일을 여기에 놓거나 누르세요</div>
+      <div class="hint" id="hint">한 번에 보내지 않고 잘게 나눠 올립니다. 2GB까지.</div>
+      <div class="bar"><div class="fill" id="fill"></div></div>
+      <div class="ok" id="ok"></div>
+      <div class="err" id="err"></div>
+    </div>
+    <input id="file" type="file" />
+    <script>
+      function sendMessageToStreamlitClient(type, data) {
+        const outData = Object.assign({ isStreamlitMessage: true, type: type }, data);
+        window.parent.postMessage(outData, "*");
+      }
+      const Streamlit = {
+        setComponentReady() { sendMessageToStreamlitClient("streamlit:componentReady", { apiVersion: 1 }); },
+        setFrameHeight(height) { sendMessageToStreamlitClient("streamlit:setFrameHeight", { height: height }); },
+        setComponentValue(value) { sendMessageToStreamlitClient("streamlit:setComponentValue", { value: value }); },
+        RENDER_EVENT: "streamlit:render",
+        events: {
+          addEventListener(type, callback) {
+            window.addEventListener("message", function (event) {
+              if (event.data.type === type) {
+                event.detail = event.data;
+                callback(event);
+              }
+            });
+          },
+        },
+      };
+
+      const CHUNK = 1024 * 1024;
+      const box = document.getElementById("box");
+      const input = document.getElementById("file");
+      const fill = document.getElementById("fill");
+      const ok = document.getElementById("ok");
+      const err = document.getElementById("err");
+      const title = document.getElementById("title");
+      const hint = document.getElementById("hint");
+      let multiple = false;
+      let busy = false;
+
+      function uid() {
+        const a = new Uint8Array(12);
+        crypto.getRandomValues(a);
+        return Array.from(a, (b) => b.toString(16).padStart(2, "0")).join("");
+      }
+
+      function setProgress(p) { fill.style.width = Math.max(0, Math.min(100, p * 100)) + "%"; }
+
+      function mb(n) {
+        return (n / (1024 * 1024)).toFixed(1);
+      }
+
+      async function postChunk(id, file, index, total, buf) {
+        let lastErr = null;
+        for (let attempt = 0; attempt < 5; attempt++) {
+          try {
+            const res = await fetch("/_studio/chunk", {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/octet-stream",
+                "X-Upload-Id": id,
+                "X-Chunk-Index": String(index),
+                "X-Chunk-Total": String(total),
+                "X-File-Name": encodeURIComponent(file.name || "upload.bin"),
+              },
+              body: buf,
+            });
+            if (res.ok) return await res.json();
+            lastErr = new Error("업로드가 거절되었습니다. (" + res.status + ")");
+          } catch (e) {
+            lastErr = new Error("네트워크가 잠시 끊겼습니다. 다시 올리는 중…");
+          }
+          await new Promise((r) => setTimeout(r, 400 * Math.pow(2, attempt)));
+        }
+        throw lastErr || new Error("업로드에 실패했습니다.");
+      }
+
+      async function sendFile(file) {
+        const id = uid() + "aa";
+        const total = Math.max(1, Math.ceil(file.size / CHUNK));
+        for (let i = 0; i < total; i++) {
+          const blob = file.slice(i * CHUNK, Math.min(file.size, (i + 1) * CHUNK));
+          const buf = await blob.arrayBuffer();
+          const data = await postChunk(id, file, i, total, buf);
+          setProgress((i + 1) / total);
+          hint.textContent = mb(Math.min(file.size, (i + 1) * CHUNK)) + " / " + mb(file.size) + " MB";
+          if (i + 1 === total) return data;
+        }
+        throw new Error("업로드가 끝나지 않았습니다.");
+      }
+
+      async function handleFiles(fileList) {
+        if (busy || !fileList || !fileList.length) return;
+        busy = true;
+        err.textContent = "";
+        ok.textContent = "";
+        const files = multiple ? Array.from(fileList) : [fileList[0]];
+        const out = [];
+        try {
+          for (const file of files) {
+            title.textContent = file.name;
+            hint.textContent = "올리는 중…";
+            const data = await sendFile(file);
+            if (!data || !data.done || !data.path) throw new Error("서버가 파일을 끝내지 못했습니다.");
+            out.push({ path: data.path, name: data.name || file.name, size: data.size || file.size });
+          }
+          ok.textContent = out.map((f) => f.name).join(", ") + " 준비됨";
+          hint.textContent = "다시 누르면 다른 파일로 바꿀 수 있습니다.";
+          Streamlit.setComponentValue({ files: out });
+        } catch (e) {
+          err.textContent = e.message || "업로드에 실패했습니다.";
+          hint.textContent = "파일을 다시 선택해 주세요.";
+          Streamlit.setComponentValue({ error: err.textContent });
+        } finally {
+          busy = false;
+          Streamlit.setFrameHeight(document.body.scrollHeight);
+        }
+      }
+
+      box.addEventListener("click", () => input.click());
+      box.addEventListener("dragover", (e) => { e.preventDefault(); });
+      box.addEventListener("drop", (e) => {
+        e.preventDefault();
+        handleFiles(e.dataTransfer && e.dataTransfer.files);
+      });
+      input.addEventListener("change", () => handleFiles(input.files));
+
+      Streamlit.events.addEventListener(Streamlit.RENDER_EVENT, (event) => {
+        const args = (event.detail && event.detail.args) || {};
+        multiple = !!args.multiple;
+        input.multiple = multiple;
+        if (args.label) title.textContent = args.label;
+        Streamlit.setFrameHeight(document.body.scrollHeight + 8);
+      });
+      Streamlit.setComponentReady();
+      Streamlit.setFrameHeight(120);
+    </script>
+  </body>
+</html>

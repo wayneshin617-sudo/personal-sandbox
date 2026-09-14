@@ -1,0 +1,37 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+
+# Local runtime artifacts
+temp/*
+!temp/.gitkeep
+outputs/*
+!outputs/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Large model weights (downloaded at install / first run)
+models/*.onnx
+models/*.pth
+models/*.pt
+models/*.zip
+models/*.bin
+models/buffalo_l/
+models/.cache/
+
+# Test media generated locally
+tests/artifacts/
+scripts/.cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
