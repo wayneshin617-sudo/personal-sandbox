@@ -58,7 +58,7 @@ class JobConfig:
     reid_thresh: float = 0.45
     mask_range: float = 0.70
     blend_strength: float = 0.90
-    restore_strength: float = 0.0
+    restore_strength: float = 0.32
     watermark: bool = True
     purpose_note: str = ""
     output_dir: Path = OUTPUTS_DIR

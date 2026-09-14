@@ -153,7 +153,7 @@ def resolve_download(token: str) -> Path | None:
     return path
 
 
-def remember_result(path: Path, message: str = "") -> dict:
+def remember_result(path: Path, message: str = "", source_sig: str | None = None) -> dict:
     path = Path(path)
     token = register_download(path)
     payload = {
@@ -163,6 +163,7 @@ def remember_result(path: Path, message: str = "") -> dict:
         "message": message,
         "name": path.name,
         "size": int(path.stat().st_size) if path.exists() else 0,
+        "source_sig": source_sig,
     }
     OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")

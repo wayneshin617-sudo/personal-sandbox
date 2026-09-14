@@ -50,6 +50,10 @@ def _download_markup(token: str, label: str = "영상 받기") -> str:
     return f'<a class="studio-dl" href="/_studio/file/{token}?download=1" download>{label}</a>'
 
 
+def _file_sig(path: Path) -> str:
+    return f"{path.resolve()}::{int(path.stat().st_size)}"
+
+
 @st.cache_resource(show_spinner=False)
 def _studio_ready() -> dict:
     models = inspect_models()
@@ -83,6 +87,10 @@ def _ingest_video(work: Path, dropped: list[Path], video_url: str, video_path_in
     try:
         if dropped:
             video_path = dropped[0]
+            sig = _file_sig(video_path)
+            if st.session_state.get("active_video_sig") != sig:
+                st.session_state.active_video_sig = sig
+                st.session_state.last_result = None
             st.session_state["saved_video"] = str(video_path)
             return video_path
         if video_url.strip():
@@ -107,6 +115,10 @@ def _ingest_video(work: Path, dropped: list[Path], video_url: str, video_path_in
                 return path
             candidate = Path(raw).expanduser()
             if candidate.exists():
+                sig = _file_sig(candidate)
+                if st.session_state.get("active_video_sig") != sig:
+                    st.session_state.active_video_sig = sig
+                    st.session_state.last_result = None
                 st.session_state["saved_video"] = str(candidate)
                 return candidate
             st.error("영상 주소 또는 경로를 확인하세요.")
@@ -116,6 +128,10 @@ def _ingest_video(work: Path, dropped: list[Path], video_url: str, video_path_in
             if not candidate.exists():
                 st.error("그 경로에 영상이 없습니다.")
                 return None
+            sig = _file_sig(candidate)
+            if st.session_state.get("active_video_sig") != sig:
+                st.session_state.active_video_sig = sig
+                st.session_state.last_result = None
             st.session_state["saved_video"] = str(candidate)
             return candidate
         saved = st.session_state.get("saved_video")
@@ -138,6 +154,7 @@ def _ingest_refs(dropped: list[Path]) -> list[Path]:
                 return []
             ok_paths.append(path)
         st.session_state["saved_refs"] = [str(p) for p in ok_paths]
+        st.session_state.last_result = None
         return ok_paths
     saved = st.session_state.get("saved_refs") or []
     return [Path(p) for p in saved if Path(p).exists()]
@@ -163,10 +180,9 @@ def main() -> None:
     _inject_css()
     install_chunk_route()
     cleanup_old_temps()
-    if not st.session_state.get("last_result"):
-        latest = load_latest()
-        if latest:
-            st.session_state.last_result = latest
+    latest = load_latest()
+    if latest:
+        st.session_state["prev_download"] = latest
 
     st.markdown(
         """
@@ -217,9 +233,9 @@ def main() -> None:
         watermark = st.toggle(f"결과에 {WATERMARK_TEXT} 표시", value=True)
         generate = st.button("생성하기", type="primary", use_container_width=True)
         notice = st.empty()
-        last = st.session_state.get("last_result")
+        last = st.session_state.get("last_result") or st.session_state.get("prev_download")
         if isinstance(last, dict) and last.get("path") and last.get("token") and Path(last["path"]).exists():
-            st.markdown(_download_markup(last["token"]), unsafe_allow_html=True)
+            st.markdown(_download_markup(last["token"], "이전 결과 받기"), unsafe_allow_html=True)
 
     video_path = _ingest_video(work, dropped_video, video_url, video_path_in)
     ref_paths = _ingest_refs(dropped_refs)
@@ -239,7 +255,14 @@ def main() -> None:
 
     with right:
         result = st.session_state.get("last_result")
-        if isinstance(result, dict) and result.get("path"):
+        current_sig = _file_sig(video_path) if video_path is not None and video_path.exists() else None
+        result_for_this = (
+            isinstance(result, dict)
+            and result.get("path")
+            and Path(result["path"]).exists()
+            and result.get("source_sig") == current_sig
+        )
+        if result_for_this:
             _show_result(result)
         elif video_path is not None:
             try:
@@ -315,8 +338,9 @@ def main() -> None:
         path = result.output_path
         usable = bool(path and Path(path).exists() and Path(path).stat().st_size > 0)
         if usable:
-            stored = remember_result(Path(path), result.message)
+            stored = remember_result(Path(path), result.message, source_sig=_file_sig(video_path))
             st.session_state.last_result = stored
+            st.session_state.active_video_sig = stored.get("source_sig")
             progress_bar.progress(1.0, text="완료")
             notice.success(result.message or "완료. 아래 버튼으로 영상을 받으세요.")
             st.video(str(path))

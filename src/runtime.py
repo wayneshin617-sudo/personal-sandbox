@@ -36,7 +36,7 @@ class RuntimeBundle:
     restorer_ready: bool
 
 
-def create_runtime(det_size: tuple[int, int] = (640, 640), det_thresh: float = 0.5) -> RuntimeBundle:
+def create_runtime(det_size: tuple[int, int] = (640, 640), det_thresh: float = 0.42) -> RuntimeBundle:
     bundle = inspect_models()
     if not bundle.ready_for_faceswap:
         raise ModelUnavailable(" ".join(bundle.messages))

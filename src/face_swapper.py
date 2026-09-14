@@ -14,6 +14,13 @@ import onnxruntime as ort
 from onnx import numpy_helper
 
 from src.face_detector import Face, FaceAnalysis, norm_crop
+from src.profile_blend import (
+    estimate_yaw,
+    fade_occluded_side,
+    profile_mask_range,
+    profile_restore,
+    soften_profile_edge,
+)
 from src.utils import LOGGER
 
 
@@ -166,6 +173,9 @@ def paste_swapped_face(
 
     landmark_mask = build_face_mask(frame.shape, target_face.kps, target_face.landmarks106, mask_range)
     mask = np.minimum(model_mask, landmark_mask)
+    yaw = estimate_yaw(target_face.kps)
+    mask = fade_occluded_side(mask, target_face.box, yaw)
+    mask = soften_profile_edge(mask, yaw)
     if color_match:
         warped = color_match_lab(warped, frame, mask)
     alpha = (mask.astype(np.float32) / 255.0) * float(np.clip(blend_strength, 0.0, 1.0))
@@ -223,6 +233,9 @@ class FaceSwapEngine:
         restore_strength: float,
     ) -> tuple[np.ndarray, InferenceRecord]:
         t0 = time.perf_counter()
+        yaw = estimate_yaw(target.kps)
+        mask_range = profile_mask_range(yaw, mask_range)
+        restore_strength = profile_restore(yaw, restore_strength)
         aligned, matrix = norm_crop(frame, target.kps, self.swapper.input_size[0])
         latent = self.swapper.source_latent(source)
         fake = self.swapper.swap_aligned(aligned, latent)
