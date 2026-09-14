@@ -10,8 +10,9 @@ from __future__ import annotations
 import gc
 import json
 import re
+import secrets
 from pathlib import Path
-from urllib.parse import unquote
+from urllib.parse import quote, unquote
 
 import tornado.web
 from tornado.routing import PathMatches, Rule
@@ -19,6 +20,8 @@ from tornado.web import Application
 
 from config import TEMP_DIR
 from src.utils import LOGGER, safe_stem
+
+DOWNLOADS: dict[str, Path] = {}
 
 CHUNK_ROOT = TEMP_DIR / "chunks"
 DONE_ROOT = TEMP_DIR / "assembled"
@@ -115,17 +118,56 @@ class ChunkUploadHandler(tornado.web.RequestHandler):
         self.finish({"ok": True, "done": True, "path": str(dest), "name": name, "size": dest.stat().st_size})
 
 
+def register_download(path: Path) -> str:
+    token = secrets.token_hex(16)
+    DOWNLOADS[token] = Path(path)
+    return token
+
+
+class FileDownloadHandler(tornado.web.RequestHandler):
+    def set_default_headers(self) -> None:
+        self.set_header("Access-Control-Allow-Origin", "*")
+        self.set_header("Cache-Control", "no-store")
+
+    def get(self, token: str) -> None:
+        path = DOWNLOADS.get((token or "").strip())
+        if path is None or not path.exists():
+            self.set_status(404)
+            self.finish("없음")
+            return
+        name = path.name or "result.mp4"
+        self.set_header("Content-Type", "video/mp4")
+        self.set_header("Content-Disposition", f"attachment; filename*=UTF-8''{quote(name)}")
+        self.set_header("Content-Length", str(path.stat().st_size))
+        with path.open("rb") as handle:
+            while True:
+                chunk = handle.read(1024 * 1024)
+                if not chunk:
+                    break
+                self.write(chunk)
+                self.flush()
+        self.finish()
+
+
+def _route_patterns(router) -> str:
+    bits = []
+    for rule in getattr(router, "rules", []) or []:
+        matcher = getattr(rule, "matcher", None)
+        bits.append(str(getattr(matcher, "regex", getattr(matcher, "path", "")) or ""))
+    return " ".join(bits)
+
+
 def _insert_route(app: Application) -> bool:
     router = getattr(app, "wildcard_router", None)
     if router is None or not getattr(router, "rules", None):
         return False
-    for rule in router.rules:
-        matcher = getattr(rule, "matcher", None)
-        pattern = str(getattr(matcher, "regex", getattr(matcher, "path", "")) or "")
-        if "_studio/chunk" in pattern:
-            return True
-    router.rules.insert(0, Rule(PathMatches(r"/_studio/chunk/?"), ChunkUploadHandler))
-    LOGGER.info("installed /_studio/chunk upload route")
+    patterns = _route_patterns(router)
+    if "_studio/chunk" not in patterns:
+        router.rules.insert(0, Rule(PathMatches(r"/_studio/chunk/?"), ChunkUploadHandler))
+        LOGGER.info("installed /_studio/chunk upload route")
+    if "_studio/file" not in patterns:
+        router.rules.insert(0, Rule(PathMatches(r"/_studio/file/([A-Za-z0-9_-]+)/?"), FileDownloadHandler))
+        LOGGER.info("installed /_studio/file download route")
     return True
 
 

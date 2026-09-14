@@ -16,7 +16,13 @@ import cv2
 
 from config import CONSENT_TEXT, OUTPUTS_DIR, WATERMARK_TEXT, ensure_runtime_dirs
 from src.chunk_drop import chunk_drop
-from src.chunk_upload import install_chunk_route
+from src.chunk_upload import install_chunk_route, register_download
+from src.identity_gallery import (
+    build_gallery,
+    format_times,
+    match_identity,
+)
+from src.target_selector import Selection, draw_candidates, select_by_click, select_by_number
 from src.export_manager import (
     build_export_plan,
     list_encoders,
@@ -33,7 +39,6 @@ from src.pipeline import JobConfig
 from src.preview_click import fit_preview_size, map_click_to_frame
 from src.runtime import RuntimeBundle, create_runtime
 from src.studio_options import duration_window, output_size
-from src.target_selector import draw_candidates, select_by_click, select_by_number
 from src.utils import LOGGER, cleanup_old_temps, make_work_dir, safe_stem
 from src.validators import validate_image_input, validate_video_input
 from src.video_io import extract_frame_at
@@ -243,39 +248,134 @@ def _ingest_refs(work: Path, dropped: list[Path]) -> list[Path]:
     return [Path(p) for p in saved if Path(p).exists()]
 
 
-def _pick_selection(frame, candidates):
+def _load_gallery(video_path: Path, info, runtime):
+    sig = (str(video_path), int(video_path.stat().st_size), round(float(info.duration or 0.0), 2))
+    if st.session_state.get("gallery_sig") != sig:
+        with st.spinner("여러 장면에서 같은 사람을 묶는 중..."):
+            gallery = build_gallery(video_path, info, runtime.person_detector, extract_frame_at)
+        st.session_state.gallery = gallery
+        st.session_state.gallery_sig = sig
+        if gallery and st.session_state.get("selected_identity") not in {i.id for i in gallery}:
+            st.session_state.selected_identity = gallery[0].id
+    return st.session_state.get("gallery") or []
+
+
+def _label_candidates(candidates, identities):
+    labels: dict[int, str] = {}
+    mapping: dict[int, int] = {}
+    for cand in candidates:
+        ident = match_identity(cand.face.normed_embedding, identities)
+        if ident is not None:
+            labels[cand.index] = f"사람 {ident.id}"
+            mapping[cand.index] = ident.id
+        else:
+            labels[cand.index] = "새 얼굴"
+    return labels, mapping
+
+
+def _selection_for_identity(identities, identity_id: int, candidates) -> Selection | None:
+    ident = next((item for item in identities if item.id == int(identity_id)), None)
+    if ident is None:
+        return None
+    for cand in candidates or []:
+        if match_identity(cand.face.normed_embedding, [ident], thresh=0.35) is not None:
+            return Selection(
+                person_index=ident.id,
+                box=list(cand.face.box),
+                person_box=list(cand.person_box),
+                embedding=ident.embedding,
+                kps=cand.face.kps,
+            )
+    hit = ident.hits[0]
+    return Selection(
+        person_index=ident.id,
+        box=list(hit.box),
+        person_box=list(hit.person_box),
+        embedding=ident.embedding,
+        kps=hit.kps,
+    )
+
+
+def _render_gallery(identities, current_t: float) -> None:
+    if not identities:
+        st.caption("여러 장면을 봐도 얼굴을 찾지 못했습니다.")
+        return
+    st.markdown("**이 영상의 사람**")
+    st.caption("앵글이 바뀌어도 번호는 같은 사람을 가리킵니다. 이 장면에 있는 사람은 표시됩니다.")
+    for start in range(0, len(identities), 4):
+        row = identities[start : start + 4]
+        cols = st.columns(len(row))
+        for ident, col in zip(row, cols):
+            with col:
+                st.image(ident.thumb_rgb, use_container_width=True)
+                here = any(abs(hit.time_sec - current_t) < 0.7 for hit in ident.hits)
+                title = f"사람 {ident.id}" + (" · 지금" if here else "")
+                if st.button(title, key=f"pick_id_{ident.id}", use_container_width=True):
+                    st.session_state.selected_identity = ident.id
+                    st.rerun()
+                st.caption(format_times(ident.times))
+
+
+def _show_result(result: dict) -> None:
+    path = Path(result["path"]) if result.get("path") else None
+    if path is not None and path.exists():
+        st.video(str(path))
+        token = result.get("token") or register_download(path)
+        result["token"] = token
+        st.markdown(
+            f'<a class="studio-dl" href="/_studio/file/{token}" download>영상 받기</a>',
+            unsafe_allow_html=True,
+        )
+        if result.get("message"):
+            st.caption(result["message"])
+        if st.button("다른 장면으로 다시 만들기", use_container_width=True):
+            st.session_state.last_result = None
+            st.rerun()
+        return
+    st.error(result.get("message") or "결과를 저장하지 못했습니다. 다시 생성해 주세요.")
+
+
+def _pick_selection(frame, candidates, identities):
     if not candidates:
         return None
-    auto = _auto_select(candidates)
-    current = st.session_state.get("selected_index", auto.index if auto else candidates[0].index)
-    overlay = draw_candidates(frame, candidates, selected=current, studio=True)
+    labels, mapping = _label_candidates(candidates, identities)
+    selected_id = st.session_state.get("selected_identity")
+    if selected_id is None and identities:
+        selected_id = identities[0].id
+        st.session_state.selected_identity = selected_id
+    selected_local = next((idx for idx, ident_id in mapping.items() if ident_id == selected_id), None)
+    if selected_local is None:
+        auto = _auto_select(candidates)
+        selected_local = auto.index if auto else candidates[0].index
+    overlay = draw_candidates(frame, candidates, selected=selected_local, studio=True, labels=labels)
     preview = _preview_overlay(overlay)
     orig_h, orig_w = frame.shape[:2]
     click = _try_image_click(preview, key="face_pick", frame_wh=(orig_w, orig_h))
     if click and "x" in click:
         hit = select_by_click(candidates, int(click["x"]), int(click["y"]))
         if hit:
-            current = hit.person_index
-            st.session_state.selected_index = current
-            st.session_state.person_select = current
-    numbers = [c.index for c in candidates]
-    if "person_select" not in st.session_state or st.session_state.person_select not in numbers:
-        st.session_state.person_select = int(current) if int(current) in numbers else numbers[0]
+            selected_local = hit.person_index
+            if hit.person_index in mapping:
+                st.session_state.selected_identity = mapping[hit.person_index]
+                selected_id = mapping[hit.person_index]
+    identity_ids = [item.id for item in identities] or [1]
+    if selected_id not in identity_ids:
+        selected_id = identity_ids[0]
+        st.session_state.selected_identity = selected_id
+    if "person_select_id" not in st.session_state or st.session_state.person_select_id not in identity_ids:
+        st.session_state.person_select_id = selected_id
+    if st.session_state.get("selected_identity") in identity_ids:
+        st.session_state.person_select_id = st.session_state.selected_identity
     picked = st.selectbox(
         "사람 선택",
-        options=numbers,
+        options=identity_ids,
         format_func=lambda n: f"사람 {n}",
-        key="person_select",
+        key="person_select_id",
     )
     if picked is not None:
-        current = int(picked)
-        st.session_state.selected_index = current
-    selection = select_by_number(candidates, int(current))
-    if selection is None and auto is not None:
-        selection = select_by_number(candidates, int(auto.index))
-    if selection is not None:
-        st.session_state.selected_index = selection.person_index
-    return selection
+        st.session_state.selected_identity = int(picked)
+        selected_id = int(picked)
+    return _selection_for_identity(identities, int(selected_id), candidates)
 
 
 def main() -> None:
@@ -356,6 +456,12 @@ def main() -> None:
         watermark = st.toggle(f"결과에 {WATERMARK_TEXT} 표시", value=True)
         generate = st.button("생성하기", type="primary", use_container_width=True, disabled=(mode == MODE_TEXT))
         notice = st.empty()
+        last = st.session_state.get("last_result")
+        if isinstance(last, dict) and last.get("path") and last.get("token"):
+            st.markdown(
+                f'<a class="studio-dl" href="/_studio/file/{last["token"]}" download>영상 받기</a>',
+                unsafe_allow_html=True,
+            )
 
     video_path = _ingest_video(work, dropped_video, video_url, video_path_in)
     ref_paths = _ingest_refs(work, dropped_refs)
@@ -374,20 +480,11 @@ def main() -> None:
             st.error("이 파일은 영상으로 열리지 않습니다.")
 
     selection = None
+    identities = []
     with right:
         result = st.session_state.get("last_result")
-        if result is not None and getattr(result, "ok", False) and result.output_path:
-            st.video(str(result.output_path))
-            st.download_button(
-                "결과 저장",
-                data=Path(result.output_path).read_bytes(),
-                file_name=Path(result.output_path).name,
-                mime="video/mp4",
-                use_container_width=True,
-            )
-            if st.button("다른 장면으로 다시 만들기", use_container_width=True):
-                st.session_state.last_result = None
-                st.rerun()
+        if isinstance(result, dict) and result.get("path"):
+            _show_result(result)
         elif info is not None and video_path is not None:
             duration = float(info.duration or 0.0)
             pick_ts = st.slider(
@@ -400,6 +497,7 @@ def main() -> None:
             )
             try:
                 runtime = _runtime()
+                identities = _load_gallery(video_path, info, runtime)
                 frame = extract_frame_at(video_path, pick_ts, info=info)
                 candidates = runtime.person_detector.candidates(frame)
             except ModelUnavailable as exc:
@@ -411,15 +509,21 @@ def main() -> None:
                 LOGGER.error("%s", exc)
                 candidates = []
 
+            _render_gallery(identities, float(pick_ts))
             if not candidates:
                 try:
                     st.image(_preview_overlay(extract_frame_at(video_path, pick_ts, info=info)), use_container_width=True)
                 except Exception:
                     pass
-                st.caption("이 장면에서 얼굴을 찾지 못했습니다. 장면을 조금 옮겨 보세요.")
+                st.caption("이 장면에서는 얼굴을 못 찾았습니다. 사람을 위에서 고르거나 장면을 옮기세요.")
             else:
-                selection = _pick_selection(frame, candidates)
-                st.caption("화면 전체를 보고 바꿀 사람을 누르세요. 아래 목록으로도 고를 수 있습니다.")
+                selection = _pick_selection(frame, candidates, identities)
+                who = st.session_state.get("selected_identity")
+                st.caption(
+                    f"지금 장면에서는 사람 {who}입니다. 박스를 누르거나 위에서 같은 사람을 고르세요."
+                    if who
+                    else "바꿀 사람을 고르세요. 번호는 영상 전체에서 유지됩니다."
+                )
         else:
             st.markdown(
                 """
@@ -449,14 +553,22 @@ def main() -> None:
         return
     if selection is None:
         try:
+            if not identities:
+                identities = _load_gallery(video_path, info, runtime)
+            identity_id = st.session_state.get("selected_identity")
+            if identity_id is None and identities:
+                identity_id = identities[0].id
             frame = extract_frame_at(video_path, float(st.session_state.get("scene_t", 0.2)), info=info)
             candidates = runtime.person_detector.candidates(frame)
-            auto = _auto_select(candidates)
-            selection = select_by_number(candidates, int(auto.index)) if auto else None
+            if identity_id is not None:
+                selection = _selection_for_identity(identities, int(identity_id), candidates)
+            if selection is None:
+                auto = _auto_select(candidates)
+                selection = select_by_number(candidates, int(auto.index)) if auto else None
         except Exception:
             selection = None
     if selection is None:
-        notice.warning("영상에서 얼굴을 찾지 못했습니다. 오른쪽 장면을 옮겨 보세요.")
+        notice.warning("영상에서 얼굴을 찾지 못했습니다. 오른쪽에서 사람을 골라 주세요.")
         return
 
     caps = _export_caps()
@@ -502,8 +614,16 @@ def main() -> None:
         runtime.engine.records.clear()
         runtime.engine.swapper.call_count = 0
         result = runtime.job.run(cfg, progress=_progress)
-        st.session_state.last_result = result
-        if result.ok:
+        path = result.output_path
+        usable = bool(path and Path(path).exists())
+        token = register_download(Path(path)) if usable else None
+        st.session_state.last_result = {
+            "ok": usable,
+            "path": str(path) if usable else None,
+            "message": "완료. 오른쪽에서 보고, 영상 받기로 저장하세요." if usable else result.message,
+            "token": token,
+        }
+        if usable:
             st.rerun()
         notice.error(result.message)
     except Exception as exc:  # noqa: BLE001

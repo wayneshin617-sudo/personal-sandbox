@@ -26,6 +26,7 @@ def draw_candidates(
     selected: int | None = None,
     *,
     studio: bool = False,
+    labels: dict[int, str] | None = None,
 ) -> np.ndarray:
     canvas = image_bgr.copy()
     for cand in candidates:
@@ -35,7 +36,10 @@ def draw_candidates(
         if not studio:
             cv2.rectangle(canvas, (px1, py1), (px2, py2), (80, 80, 80), 1)
         cv2.rectangle(canvas, (x1, y1), (x2, y2), color, 2)
-        label = f"#{cand.index}" if studio else f"#{cand.index}  score={cand.face.score:.2f}"
+        if labels and cand.index in labels:
+            label = labels[cand.index]
+        else:
+            label = f"#{cand.index}" if studio else f"#{cand.index}  score={cand.face.score:.2f}"
         cv2.putText(canvas, label, (x1, max(16, y1 - 8)), cv2.FONT_HERSHEY_SIMPLEX, 0.55, color, 2, cv2.LINE_AA)
         if not studio and cand.face.kps is not None:
             for pt in cand.face.kps:

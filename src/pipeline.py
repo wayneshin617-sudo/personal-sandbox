@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 from pathlib import Path
+from shutil import copy2
 from typing import Callable
 
 import cv2
@@ -136,6 +137,8 @@ class FaceSwapJob:
             fps = cfg.plan.fps
             silent_path = work / f"silent{suffix_for_container(cfg.plan.container)}"
             dest = unique_path(cfg.output_dir, cfg.plan.output_name, suffix_for_container(cfg.plan.container))
+            if progress:
+                progress(ProgressEvent(current=0, total=1, message="준비 중"))
 
             target_track_id: int | None = None
             frames_total = 0
@@ -264,11 +267,12 @@ class FaceSwapJob:
                     writer.write(out)
                     frames_total += 1
                     if progress:
+                        total = max(estimated, frames_total)
                         progress(
                             ProgressEvent(
                                 current=frames_total,
-                                total=max(estimated, frames_total),
-                                message=f"frame {frames_total} swapped={int(swapped_this)} track={target_track_id}",
+                                total=total,
+                                message=f"바꾸는 중 {frames_total} / {total}",
                                 extra={"swapped": swapped_this, "track_id": target_track_id},
                             )
                         )
@@ -283,7 +287,18 @@ class FaceSwapJob:
                     "원본을 결과로 복사하지 않고 중단합니다. 대상 얼굴 검출/추적을 확인하세요.",
                 )
 
-            dest = finalize_output(silent_path, cfg.source_video, dest, cfg.plan, source_info)
+            if progress:
+                progress(ProgressEvent(current=1, total=1, message="영상 저장 중"))
+            try:
+                dest = finalize_output(silent_path, cfg.source_video, dest, cfg.plan, source_info)
+            except Exception as exc:  # noqa: BLE001
+                LOGGER.exception("finalize failed")
+                if silent_path.exists():
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    copy2(silent_path, dest)
+                    LOGGER.warning("saved video without remux after finalize error: %s", exc)
+                else:
+                    raise
             expect_audio = bool(source_info.has_audio) and not cfg.plan.drop_audio
             validation = validate_output_media(
                 dest,
