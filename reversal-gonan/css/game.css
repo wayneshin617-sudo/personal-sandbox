@@ -58,6 +58,23 @@ button {
   pointer-events: none;
 }
 
+#bg-fx {
+  z-index: 1;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.08) 40%, transparent 58%);
+}
+#scene-art {
+  z-index: 0;
+}
+#actors {
+  z-index: 2;
+}
+#hotspots {
+  z-index: 4;
+}
+#splash {
+  z-index: 20;
+}
+
 #hotspots {
   pointer-events: none;
 }
@@ -103,104 +120,8 @@ button {
   }
 }
 
-/* backgrounds */
-.bg-title #scene-art {
-  background:
-    radial-gradient(1200px 420px at 50% 0%, rgba(227, 28, 35, 0.28), transparent 55%),
-    linear-gradient(180deg, #1a1028 0%, #0a1022 42%, #2a150c 100%);
-}
+/* painted backgrounds */
 
-.bg-title #scene-art::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: repeating-linear-gradient(
-    -18deg,
-    transparent 0 18px,
-    rgba(255, 255, 255, 0.015) 18px 19px
-  );
-}
-
-.bg-night #scene-art {
-  background:
-    radial-gradient(circle at 18% 18%, #6d7dff 0 3px, transparent 4px),
-    radial-gradient(circle at 72% 12%, #fff 0 2px, transparent 3px),
-    linear-gradient(180deg, #12182f, #3d2418 70%, #1a120c);
-}
-
-.bg-office #scene-art {
-  background:
-    linear-gradient(#8b5a32, #8b5a32) 0 0 / 100% 38%,
-    repeating-linear-gradient(90deg, #5a3318 0 42px, #4a2913 42px 46px) 0 38% / 100% 62%,
-    #4a2913;
-}
-
-.bg-office #scene-art::after {
-  content: "";
-  position: absolute;
-  left: 8%;
-  top: 18%;
-  width: 28%;
-  height: 22%;
-  background: linear-gradient(#203050, #152033);
-  border: 6px solid #3b2414;
-  box-shadow: inset 0 0 20px rgba(80, 140, 255, 0.2);
-}
-
-.bg-museum #scene-art {
-  background:
-    linear-gradient(#2c241c, #2c241c) 0 0 / 100% 28%,
-    linear-gradient(#d9c39a, #d9c39a) 0 28% / 100% 8%,
-    linear-gradient(#5a4632, #2a1c12);
-}
-
-.bg-museum #scene-art::before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 6%;
-  width: 18%;
-  height: 16%;
-  transform: translateX(-50%);
-  background: #7ec8ff;
-  border: 8px solid #3a2a1c;
-  box-shadow: 0 0 30px rgba(120, 200, 255, 0.35);
-}
-
-.bg-cell #scene-art {
-  background:
-    repeating-linear-gradient(90deg, transparent 0 38px, #1a1a1a 38px 46px),
-    linear-gradient(#2a3038, #11141a);
-}
-
-.bg-lab #scene-art {
-  background:
-    radial-gradient(circle at 80% 30%, rgba(80, 255, 160, 0.18), transparent 22%),
-    linear-gradient(#dfe7ea, #8ea0a8 40%, #44555c);
-}
-
-.bg-court #scene-art {
-  background:
-    radial-gradient(900px 240px at 50% 0%, rgba(255, 220, 140, 0.18), transparent 50%),
-    linear-gradient(#5b2e18 0 18%, #3f1f10 18% 22%, #6e4024 22% 100%);
-}
-
-.bg-court #scene-art::before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 4%;
-  width: 34%;
-  height: 18%;
-  transform: translateX(-50%);
-  background: #7a4a28;
-  border: 5px solid #2a160c;
-  box-shadow: inset 0 0 0 6px #c4a06a;
-}
-
-.bg-ending #scene-art {
-  background: radial-gradient(circle at 50% 30%, #3a2048, #090b14 70%);
-}
 
 .shake {
   animation: shake 0.42s linear;
@@ -226,11 +147,92 @@ button {
 }
 
 /* portraits */
+#scene-art {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg-title #scene-art,
+.bg-night #scene-art {
+  background-image: url("../art/bg/night.png");
+}
+.bg-office #scene-art {
+  background-image: url("../art/bg/office.png");
+}
+.bg-museum #scene-art {
+  background-image: url("../art/bg/museum.png");
+}
+.bg-cell #scene-art {
+  background-image: url("../art/bg/cell.png");
+}
+.bg-lab #scene-art {
+  background-image: url("../art/bg/lab.png");
+}
+.bg-court #scene-art {
+  background-image: url("../art/bg/court.png");
+}
+.bg-ending #scene-art {
+  background-image: url("../art/bg/ending.png");
+}
+
+.bg-office #scene-art::after,
+.bg-court #scene-art::before,
+.bg-museum #scene-art::before,
+.bg-title #scene-art::before {
+  content: none !important;
+  display: none !important;
+}
+
 #actors {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  padding: 0 6% 22%;
+  padding: 0 3% 19%;
+}
+
+#actors.solo {
+  justify-content: center;
+}
+
+#actors.split {
+  justify-content: space-between;
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
+.portrait-img {
+  height: 84%;
+  max-width: 54%;
+  object-fit: contain;
+  object-position: bottom center;
+  filter: drop-shadow(0 22px 28px rgba(0, 0, 0, 0.7));
+  transform-origin: bottom center;
+  animation: actorIn 0.32s cubic-bezier(0.16, 1.4, 0.3, 1);
+  pointer-events: none;
+  user-select: none;
+  -webkit-mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+}
+
+.portrait-img.gonan {
+  height: 92%;
+  max-width: 70%;
+}
+
+.portrait-img.flip {
+  transform: scaleY(-1);
+}
+
+@keyframes actorIn {
+  from {
+    opacity: 0;
+    transform: translateY(36px) scale(1.06);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 #actors.solo {

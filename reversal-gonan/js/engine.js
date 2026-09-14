@@ -1,4 +1,39 @@
-const SAVE_KEY = "reversal-gonan-v1";
+const SAVE_KEY = "reversal-gonan-v2";
+
+const ART = {
+  gonan: {
+    normal: "art/chars/gonan-normal.png",
+    think: "art/chars/gonan-normal.png",
+    smirk: "art/chars/gonan-smirk.png",
+    angry: "art/chars/gonan-angry.png",
+    shock: "art/chars/gonan-angry.png",
+    sweat: "art/chars/gonan-sweat.png",
+  },
+  muhyeong: {
+    normal: "art/chars/muhyeong-normal.png",
+    angry: "art/chars/muhyeong-normal.png",
+    shock: "art/chars/muhyeong-normal.png",
+    sleep: "art/chars/muhyeong-sleep.png",
+  },
+  yujoe: {
+    normal: "art/chars/yujoe-smug.png",
+    smirk: "art/chars/yujoe-smug.png",
+    angry: "art/chars/yujoe-angry.png",
+    shock: "art/chars/yujoe-angry.png",
+  },
+  judge: { normal: "art/chars/judge-normal.png", angry: "art/chars/judge-normal.png" },
+  baksa: { normal: "art/chars/baksa-normal.png", angry: "art/chars/baksa-normal.png" },
+  miryeon: { normal: "art/chars/miryeon-normal.png", angry: "art/chars/miryeon-normal.png" },
+  jeong: { normal: "art/chars/jeong-normal.png", sweat: "art/chars/jeong-normal.png", shock: "art/chars/jeong-normal.png" },
+  meseu: { normal: "art/chars/meseu-normal.png", sweat: "art/chars/meseu-normal.png", shock: "art/chars/meseu-normal.png" },
+  jeondoman: {
+    normal: "art/chars/jeondoman-normal.png",
+    smirk: "art/chars/jeondoman-normal.png",
+    shock: "art/chars/jeondoman-normal.png",
+    sweat: "art/chars/jeondoman-normal.png",
+    angry: "art/chars/jeondoman-normal.png",
+  },
+};
 
 const $ = (id) => document.getElementById(id);
 
@@ -115,21 +150,19 @@ function hasSave() {
   return Boolean(loadSave());
 }
 
+function artSrc(id, mood = "normal", extra = "") {
+  const pack = ART[id] || ART.gonan;
+  if (String(extra).includes("sleep") && pack.sleep) return pack.sleep;
+  return pack[mood] || pack.normal;
+}
+
 function portrait(id, mood = "normal", extra = "") {
-  const el = document.createElement("div");
-  el.className = `portrait ${id} mood-${mood} ${extra}`.trim();
-  if (id === "gonan") el.classList.add("tiny");
-  el.innerHTML = `
-    <div class="hair"></div>
-    <div class="head">
-      <div class="glass"></div>
-      <div class="eye l"></div>
-      <div class="eye r"></div>
-      <div class="mouth"></div>
-    </div>
-    <div class="body"><div class="badge"></div></div>
-  `;
-  return el;
+  const img = document.createElement("img");
+  img.className = `portrait-img ${id} ${extra || ""}`.trim();
+  img.src = artSrc(id, mood, extra);
+  img.alt = id;
+  img.draggable = false;
+  return img;
 }
 
 function setBg(name) {
@@ -208,7 +241,7 @@ function showTextbox(who, text, done = false) {
   ui.textbox.hidden = false;
   ui.speaker.textContent = names(who) || (who === "narrator" ? "" : who);
   ui.speaker.className = who === "narrator" || who === "inner" ? "narrator" : "";
-  if (who === "inner") ui.speaker.textContent = "고난의 속마음";
+  if (who === "inner") ui.speaker.textContent = names("inner");
   ui.line.textContent = text;
   ui.cont.style.opacity = done ? "1" : "0";
 }
@@ -431,7 +464,7 @@ function enterLocation(id) {
             {
               who: "gonan",
               mood: "sweat",
-              text: "아직이다. 단서도 없는데 법정에 들어가면 무명한만 감방 구경이야. 내가 아니라 그 새끼가.",
+              text: "아직이다. 단서도 없이 법정에 들어가면 평민만 감방 간다. 이 몸의 헬멧은 감옥 규격이 아니야.",
             },
           ],
           () => enterLocation(id)
