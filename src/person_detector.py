@@ -45,7 +45,7 @@ class PersonDetector:
         out: list[PersonCandidate] = []
         for i, face in enumerate(faces):
             pbox = face.person_box or expand_face_to_person_box(face.box, w, h)
-            out.append(PersonCandidate(index=i + 1, face=face, person_box=pbox, label=f"Person {i + 1}"))
+            out.append(PersonCandidate(index=i + 1, face=face, person_box=pbox, label="얼굴"))
         return out
 
     def to_detections(self, image_bgr: np.ndarray, faces: list[Face] | None = None) -> list[Detection]:

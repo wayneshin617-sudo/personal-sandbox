@@ -2,7 +2,15 @@ from __future__ import annotations
 
 import numpy as np
 
-from src.identity_gallery import IdentityHit, assign_identities, format_times, match_identity, sample_times
+from src.identity_gallery import (
+    IdentityHit,
+    assign_identities,
+    format_times,
+    match_identity,
+    sample_times,
+    scene_near,
+    scenes_from_identities,
+)
 
 
 def _hit(t: float, emb, local: int = 1) -> IdentityHit:
@@ -62,3 +70,38 @@ def test_format_times_is_short() -> None:
     text = format_times([1.0, 1.05, 8.2, 15.0])
     assert "1.0초" in text
     assert "8.2초" in text
+
+
+def test_scene_cards_keep_stable_ids_when_local_order_flips() -> None:
+    a = [1.0, 0.0, 0.0]
+    b = [0.0, 1.0, 0.0]
+    people = assign_identities(
+        [
+            _hit(0.5, a, local=1),
+            _hit(0.5, b, local=2),
+            _hit(9.0, b, local=1),
+            _hit(9.0, a, local=2),
+        ]
+    )
+    scenes = scenes_from_identities(people)
+    assert [round(s.time_sec, 1) for s in scenes] == [0.5, 9.0]
+    first_ids = [pid for pid, _hit in scenes[0].people]
+    later_ids = [pid for pid, _hit in scenes[1].people]
+    assert first_ids == later_ids == [1, 2]
+    later = scene_near(scenes, 9.0)
+    assert later is not None
+    assert {pid for pid, _hit in later.people} == {1, 2}
+
+
+def test_ids_follow_first_appearance_not_local_number() -> None:
+    late_star = [0.0, 1.0, 0.0]
+    early_extra = [1.0, 0.0, 0.0]
+    people = assign_identities(
+        [
+            _hit(1.0, early_extra, local=1),
+            _hit(8.0, late_star, local=1),
+        ]
+    )
+    assert people[0].id == 1
+    assert people[1].id == 2
+    assert match_identity(np.array(late_star, dtype=np.float32), people).id == 2

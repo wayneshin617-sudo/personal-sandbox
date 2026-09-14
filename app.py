@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import sys
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -16,11 +17,13 @@ import cv2
 
 from config import CONSENT_TEXT, OUTPUTS_DIR, WATERMARK_TEXT, ensure_runtime_dirs
 from src.chunk_drop import chunk_drop
-from src.chunk_upload import install_chunk_route, register_download
+from src.chunk_upload import install_chunk_route, load_latest, remember_result, resolve_download
 from src.identity_gallery import (
     build_gallery,
     format_times,
     match_identity,
+    scene_near,
+    scenes_from_identities,
 )
 from src.target_selector import Selection, draw_candidates, select_by_click, select_by_number
 from src.export_manager import (
@@ -269,8 +272,16 @@ def _label_candidates(candidates, identities):
             labels[cand.index] = f"사람 {ident.id}"
             mapping[cand.index] = ident.id
         else:
-            labels[cand.index] = "새 얼굴"
+            labels[cand.index] = "이 장면만"
     return labels, mapping
+
+
+def _download_markup(token: str, label: str = "영상 받기") -> str:
+    return (
+        f'<a class="studio-dl" href="/_studio/file/{token}?download=1" download>{label}</a>'
+        f'<video class="studio-player" controls preload="metadata" '
+        f'src="/_studio/file/{token}"></video>'
+    )
 
 
 def _selection_for_identity(identities, identity_id: int, candidates) -> Selection | None:
@@ -300,32 +311,67 @@ def _render_gallery(identities, current_t: float) -> None:
     if not identities:
         st.caption("여러 장면을 봐도 얼굴을 찾지 못했습니다.")
         return
+    scenes = scenes_from_identities(identities)
+    current_scene = scene_near(scenes, current_t)
     st.markdown("**이 영상의 사람**")
-    st.caption("앵글이 바뀌어도 번호는 같은 사람을 가리킵니다. 이 장면에 있는 사람은 표시됩니다.")
+    st.caption("앵글이 바뀌어도 번호는 그대로입니다. 아래 장면마다 누가 나오는지도 보여 줍니다.")
     for start in range(0, len(identities), 4):
         row = identities[start : start + 4]
         cols = st.columns(len(row))
         for ident, col in zip(row, cols):
             with col:
-                st.image(ident.thumb_rgb, use_container_width=True)
-                here = any(abs(hit.time_sec - current_t) < 0.7 for hit in ident.hits)
+                thumbs = ident.angle_hits(3)
+                if len(thumbs) == 1:
+                    st.image(thumbs[0].crop_rgb, use_container_width=True)
+                else:
+                    tcols = st.columns(len(thumbs))
+                    for thumb, tcol in zip(thumbs, tcols):
+                        tcol.image(thumb.crop_rgb, use_container_width=True)
+                here = any(abs(hit.time_sec - current_t) < 0.8 for hit in ident.hits)
                 title = f"사람 {ident.id}" + (" · 지금" if here else "")
                 if st.button(title, key=f"pick_id_{ident.id}", use_container_width=True):
                     st.session_state.selected_identity = ident.id
                     st.rerun()
                 st.caption(format_times(ident.times))
 
+    st.markdown("**이 장면의 사람**")
+    if current_scene is None:
+        st.caption(f"{current_t:.1f}초 근처에서는 얼굴을 못 찾았습니다. 장면을 조금 옮겨 보세요.")
+    else:
+        st.caption(f"{current_scene.time_sec:.1f}초 · 이 앵글에 보이는 번호입니다.")
+        cols = st.columns(max(1, min(4, len(current_scene.people))))
+        for (pid, hit), col in zip(current_scene.people, cols):
+            with col:
+                st.image(hit.crop_rgb, use_container_width=True)
+                if st.button(f"사람 {pid}", key=f"scene_pick_{current_scene.time_sec}_{pid}", use_container_width=True):
+                    st.session_state.selected_identity = pid
+                    st.rerun()
+
+    if len(scenes) > 1:
+        with st.expander("다른 앵글 / 장면의 사람", expanded=False):
+            st.caption("컷이 바뀌면 화면 속 순서는 달라져도, 사람 번호는 같습니다.")
+            for scene in scenes:
+                ids = ", ".join(f"사람 {pid}" for pid, _hit in scene.people) or "없음"
+                row = st.columns([0.22, 0.48, 0.30])
+                row[0].markdown(f"**{scene.time_sec:.1f}초**")
+                row[1].caption(ids)
+                if row[2].button("이 장면", key=f"jump_scene_{scene.time_sec}", use_container_width=True):
+                    st.session_state.scene_t = float(scene.time_sec)
+                    st.rerun()
+                thumbs = st.columns(max(1, min(4, len(scene.people))))
+                for (pid, hit), tcol in zip(scene.people, thumbs):
+                    tcol.image(hit.crop_rgb, caption=f"사람 {pid}", use_container_width=True)
+
 
 def _show_result(result: dict) -> None:
     path = Path(result["path"]) if result.get("path") else None
     if path is not None and path.exists():
-        st.video(str(path))
-        token = result.get("token") or register_download(path)
-        result["token"] = token
-        st.markdown(
-            f'<a class="studio-dl" href="/_studio/file/{token}" download>영상 받기</a>',
-            unsafe_allow_html=True,
-        )
+        token = result.get("token")
+        if not token or resolve_download(str(token)) is None:
+            stored = remember_result(path, result.get("message") or "완료. 영상을 받으세요.")
+            result.update(stored)
+            token = stored["token"]
+        st.markdown(_download_markup(str(token)), unsafe_allow_html=True)
         if result.get("message"):
             st.caption(result["message"])
         if st.button("다른 장면으로 다시 만들기", use_container_width=True):
@@ -382,6 +428,10 @@ def main() -> None:
     _inject_css()
     install_chunk_route()
     cleanup_old_temps()
+    if not st.session_state.get("last_result"):
+        latest = load_latest()
+        if latest:
+            st.session_state.last_result = latest
     _header()
     ready = _studio_ready()
     work = Path(st.session_state.setdefault("work_dir", str(make_work_dir("ui"))))
@@ -457,9 +507,9 @@ def main() -> None:
         generate = st.button("생성하기", type="primary", use_container_width=True, disabled=(mode == MODE_TEXT))
         notice = st.empty()
         last = st.session_state.get("last_result")
-        if isinstance(last, dict) and last.get("path") and last.get("token"):
+        if isinstance(last, dict) and last.get("path") and last.get("token") and Path(last["path"]).exists():
             st.markdown(
-                f'<a class="studio-dl" href="/_studio/file/{last["token"]}" download>영상 받기</a>',
+                f'<a class="studio-dl" href="/_studio/file/{last["token"]}?download=1" download>영상 받기</a>',
                 unsafe_allow_html=True,
             )
 
@@ -605,30 +655,39 @@ def main() -> None:
         purpose_note=prompt or "",
         output_dir=OUTPUTS_DIR,
     )
-    progress_bar = st.progress(0.0, text="생성 중")
+    progress_bar = st.progress(0.0, text="준비 중")
+    last_tick = {"t": 0.0, "ratio": -1.0}
 
     def _progress(ev):
-        progress_bar.progress(ev.ratio, text=ev.message)
+        now = time.monotonic()
+        if ev.ratio >= 0.999 or ev.ratio - last_tick["ratio"] >= 0.02 or now - last_tick["t"] >= 0.35:
+            progress_bar.progress(ev.ratio, text=ev.message)
+            last_tick["t"] = now
+            last_tick["ratio"] = ev.ratio
 
     try:
         runtime.engine.records.clear()
         runtime.engine.swapper.call_count = 0
         result = runtime.job.run(cfg, progress=_progress)
         path = result.output_path
-        usable = bool(path and Path(path).exists())
-        token = register_download(Path(path)) if usable else None
-        st.session_state.last_result = {
-            "ok": usable,
-            "path": str(path) if usable else None,
-            "message": "완료. 오른쪽에서 보고, 영상 받기로 저장하세요." if usable else result.message,
-            "token": token,
-        }
+        usable = bool(path and Path(path).exists() and Path(path).stat().st_size > 0)
         if usable:
-            st.rerun()
-        notice.error(result.message)
+            stored = remember_result(Path(path), result.message)
+            st.session_state.last_result = stored
+            progress_bar.progress(1.0, text="완료")
+            notice.success(result.message or "완료. 아래 버튼으로 영상을 받으세요.")
+            st.markdown(_download_markup(stored["token"]), unsafe_allow_html=True)
+            return
+        st.session_state.last_result = {
+            "ok": False,
+            "path": None,
+            "message": result.message,
+            "token": None,
+        }
+        notice.error(result.message or "결과를 저장하지 못했습니다. 다시 생성해 주세요.")
     except Exception as exc:  # noqa: BLE001
         LOGGER.exception("generate failed")
-        notice.error("생성에 실패했습니다.")
+        notice.error("생성에 실패했습니다. 다시 눌러 주세요.")
         LOGGER.error("%s", exc)
 
 

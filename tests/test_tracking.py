@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import numpy as np
 
+from src.target_selector import Selection, bind_track_id
 from src.tracker import Detection, MultiObjectTracker
 
 
@@ -51,3 +52,30 @@ def test_low_confidence_lost_track_is_not_replaced_by_stranger() -> None:
     # Stranger should become a new ID, not steal the lost target.
     assert tid not in tracker.tracks
     assert list(tracker.tracks.values())[0].track_id != tid
+
+
+def test_bind_track_follows_embedding_after_local_numbers_flip() -> None:
+    a = np.array([1.0, 0.0, 0.0], dtype=np.float32)
+    b = np.array([0.0, 1.0, 0.0], dtype=np.float32)
+    tracker = MultiObjectTracker(match_thresh=0.3, reid_thresh=0.4)
+    first = tracker.update(
+        [_det([10, 10, 40, 40], a), _det([80, 10, 140, 80], b)],
+        0,
+        (200, 120),
+    )
+    selection = Selection(
+        person_index=1,
+        box=[10, 10, 40, 40],
+        person_box=[10, 10, 40, 40],
+        embedding=a,
+        kps=None,
+    )
+    first_id = bind_track_id(first, selection)
+    later = tracker.update(
+        [_det([12, 12, 42, 42], b), _det([90, 12, 130, 70], a)],
+        1,
+        (200, 120),
+    )
+    later_id = bind_track_id(later, selection, current_id=None)
+    assert first_id is not None and later_id is not None
+    assert first_id == later_id

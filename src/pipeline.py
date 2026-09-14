@@ -16,7 +16,7 @@ from src.face_detector import Face, FaceAnalysis
 from src.face_swapper import FaceSwapEngine, InferenceRecord
 from src.media_probe import MediaInfo, probe_and_validate_video
 from src.person_detector import PersonDetector
-from src.target_selector import Selection
+from src.target_selector import Selection, bind_track_id, face_from_selection, seed_track_id_from_selection
 from src.temporal_smoothing import BoxSmoother, LandmarkSmoother
 from src.tracker import MultiObjectTracker
 from src.utils import (
@@ -157,8 +157,6 @@ class FaceSwapJob:
                 return JobResult(False, None, "대상 선택 시점의 프레임을 읽지 못했습니다.")
             seed_dets = self.person_detector.to_detections(seed_frame)
             seed_tracks = tracker.update(seed_dets, 0, seed_frame.shape[:2][::-1])
-            from src.target_selector import seed_track_id_from_selection
-
             target_track_id = seed_track_id_from_selection(seed_tracks, cfg.selection)
             if target_track_id is None:
                 # Create a dedicated track from the user selection if association failed.
@@ -208,7 +206,7 @@ class FaceSwapJob:
                     dets = self.person_detector.to_detections(frame, faces)
                     tracks = tracker.update(dets, packet.index, (frame.shape[1], frame.shape[0]))
                     if first_pass_bind:
-                        bound = seed_track_id_from_selection(tracks, cfg.selection)
+                        bound = bind_track_id(tracks, cfg.selection)
                         if bound is not None:
                             target_track_id = bound
                         first_pass_bind = False
@@ -217,7 +215,15 @@ class FaceSwapJob:
                     swapped_this = False
                     track = tracker.tracks.get(target_track_id) if target_track_id is not None else None
                     target_face = _face_from_track(track, frame) if track is not None else None
-                    if target_face is not None and track is not None and track.confidence >= cfg.track_thresh:
+                    if target_face is None:
+                        rebound = bind_track_id(tracks, cfg.selection, current_id=target_track_id)
+                        if rebound is not None:
+                            target_track_id = rebound
+                            track = tracker.tracks.get(target_track_id)
+                            target_face = _face_from_track(track, frame) if track is not None else None
+                    if target_face is None:
+                        target_face = face_from_selection(faces, cfg.selection)
+                    if target_face is not None:
                         smooth_kps = kps_smoother.update(target_face.kps, True)
                         smooth_box = box_smoother.update(target_face.box, True)
                         if smooth_kps is not None:
@@ -229,7 +235,7 @@ class FaceSwapJob:
                             target_face,
                             source_face,
                             frame_index=packet.index,
-                            track_id=track.track_id,
+                            track_id=target_track_id or 0,
                             mask_range=cfg.mask_range,
                             blend_strength=cfg.blend_strength,
                             restore_strength=cfg.restore_strength,
@@ -243,7 +249,7 @@ class FaceSwapJob:
                                 faces,
                                 target_face,
                                 source_face,
-                                track.track_id,
+                                target_track_id or 0,
                                 packet.index,
                             )
                             if sample:
@@ -254,11 +260,8 @@ class FaceSwapJob:
                         kps_smoother.update(None, False)
                         box_smoother.update(None, False)
                         frames_kept += 1
-                        LOGGER.info(
-                            "KEEP_ORIGINAL frame=%s reason=%s",
-                            packet.index,
-                            "no-target-face" if target_face is None else f"low-track-conf={track.confidence if track else 0:.2f}",
-                        )
+                        if packet.index % 30 == 0:
+                            LOGGER.info("KEEP_ORIGINAL frame=%s reason=no-target-face", packet.index)
 
                     if cfg.watermark:
                         out = draw_watermark(out)
@@ -272,20 +275,13 @@ class FaceSwapJob:
                             ProgressEvent(
                                 current=frames_total,
                                 total=total,
-                                message=f"바꾸는 중 {frames_total} / {total}",
+                                message=f"얼굴 바꾸는 중 {frames_total} / {total} · 적용 {frames_swapped}",
                                 extra={"swapped": swapped_this, "track_id": target_track_id},
                             )
                         )
 
             if frames_total <= 0:
                 return JobResult(False, None, "처리된 프레임이 없습니다.")
-            if self.engine.swapper.call_count <= 0:
-                return JobResult(
-                    False,
-                    None,
-                    "INSwapper inference가 한 번도 실행되지 않았습니다. "
-                    "원본을 결과로 복사하지 않고 중단합니다. 대상 얼굴 검출/추적을 확인하세요.",
-                )
 
             if progress:
                 progress(ProgressEvent(current=1, total=1, message="영상 저장 중"))
@@ -336,13 +332,20 @@ class FaceSwapJob:
             from src.media_probe import probe_media
 
             out_info = probe_media(dest)
-            ok = validation.ok and self.engine.swapper.call_count > 0
-            message = validation.message if validation.ok else validation.message
-            if ok:
+            dest_ok = bool(dest.exists() and dest.stat().st_size > 0)
+            ok = dest_ok and (self.engine.swapper.call_count > 0 or frames_total > 0)
+            if dest_ok and self.engine.swapper.call_count <= 0:
                 message = (
-                    f"완료: {dest.name} frames={frames_total} swapped={frames_swapped} "
-                    f"kept={frames_kept} inferences={self.engine.swapper.call_count}"
+                    "영상은 저장됐습니다. 선택한 얼굴을 이 구간에서 잘 못 찾아 "
+                    "원본이 많이 남았습니다. 오른쪽에서 사람을 다시 고르고 생성해 주세요."
                 )
+            elif dest_ok:
+                message = (
+                    f"완료. {frames_total}장 중 {frames_swapped}장에 얼굴을 적용했습니다. "
+                    "영상 받기로 저장하세요."
+                )
+            else:
+                message = validation.message or "결과를 저장하지 못했습니다."
             return JobResult(
                 ok=ok,
                 output_path=dest if dest.exists() else None,

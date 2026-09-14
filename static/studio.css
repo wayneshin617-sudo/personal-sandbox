@@ -190,8 +190,10 @@ a.studio-dl {
   margin: 10px 0 14px;
   box-shadow: 0 10px 28px rgba(79, 70, 229, 0.28);
 }
-video {
+video,
+video.studio-player {
   width: 100% !important;
   border-radius: 16px;
   background: #000;
+  margin: 0 0 12px;
 }

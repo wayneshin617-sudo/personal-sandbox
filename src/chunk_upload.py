@@ -18,13 +18,15 @@ import tornado.web
 from tornado.routing import PathMatches, Rule
 from tornado.web import Application
 
-from config import TEMP_DIR
+from config import OUTPUTS_DIR, TEMP_DIR
 from src.utils import LOGGER, safe_stem
 
 DOWNLOADS: dict[str, Path] = {}
 
 CHUNK_ROOT = TEMP_DIR / "chunks"
 DONE_ROOT = TEMP_DIR / "assembled"
+TOKEN_ROOT = TEMP_DIR / "dl_tokens"
+LATEST_PATH = OUTPUTS_DIR / "latest.json"
 MAX_UPLOAD_BYTES = 2 * 1024 * 1024 * 1024
 _SAFE_ID = re.compile(r"^[A-Za-z0-9_-]{8,80}$")
 _ROUTE_INSTALLED = False
@@ -119,31 +121,141 @@ class ChunkUploadHandler(tornado.web.RequestHandler):
 
 
 def register_download(path: Path) -> str:
+    path = Path(path)
     token = secrets.token_hex(16)
-    DOWNLOADS[token] = Path(path)
+    DOWNLOADS[token] = path
+    TOKEN_ROOT.mkdir(parents=True, exist_ok=True)
+    (TOKEN_ROOT / f"{token}.json").write_text(
+        json.dumps({"path": str(path), "name": path.name}),
+        encoding="utf-8",
+    )
     return token
+
+
+def resolve_download(token: str) -> Path | None:
+    key = (token or "").strip()
+    if not key:
+        return None
+    path = DOWNLOADS.get(key)
+    if path is not None and path.exists():
+        return path
+    marker = TOKEN_ROOT / f"{key}.json"
+    if not marker.exists():
+        return None
+    try:
+        data = json.loads(marker.read_text(encoding="utf-8"))
+        path = Path(data.get("path") or "")
+    except Exception:
+        return None
+    if not path.exists():
+        return None
+    DOWNLOADS[key] = path
+    return path
+
+
+def remember_result(path: Path, message: str = "") -> dict:
+    path = Path(path)
+    token = register_download(path)
+    payload = {
+        "ok": True,
+        "path": str(path),
+        "token": token,
+        "message": message,
+        "name": path.name,
+        "size": int(path.stat().st_size) if path.exists() else 0,
+    }
+    OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+    LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+    return payload
+
+
+def load_latest() -> dict | None:
+    if not LATEST_PATH.exists():
+        return None
+    try:
+        data = json.loads(LATEST_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    path = Path(data.get("path") or "")
+    if not path.exists():
+        return None
+    token = str(data.get("token") or "")
+    if resolve_download(token) is None:
+        token = register_download(path)
+    data["ok"] = True
+    data["path"] = str(path)
+    data["token"] = token
+    data["name"] = path.name
+    data["size"] = int(path.stat().st_size)
+    return data
+
+
+def recent_outputs(limit: int = 5) -> list[Path]:
+    files = [p for p in OUTPUTS_DIR.glob("*.mp4") if p.is_file() and p.stat().st_size > 0]
+    files.sort(key=lambda item: item.stat().st_mtime, reverse=True)
+    return files[:limit]
+
+
+def parse_byte_range(header: str | None, size: int) -> tuple[int, int] | None:
+    if not header or not header.startswith("bytes=") or size <= 0:
+        return None
+    spec = header.split("=", 1)[1].split(",")[0].strip()
+    start_s, _, end_s = spec.partition("-")
+    try:
+        if start_s == "" and end_s:
+            length = int(end_s)
+            start = max(0, size - length)
+            end = size - 1
+        elif start_s and end_s == "":
+            start = int(start_s)
+            end = size - 1
+        elif start_s and end_s:
+            start = int(start_s)
+            end = min(int(end_s), size - 1)
+        else:
+            return None
+    except ValueError:
+        return None
+    if start < 0 or start > end or start >= size:
+        return None
+    return start, end
 
 
 class FileDownloadHandler(tornado.web.RequestHandler):
     def set_default_headers(self) -> None:
         self.set_header("Access-Control-Allow-Origin", "*")
         self.set_header("Cache-Control", "no-store")
+        self.set_header("Accept-Ranges", "bytes")
 
     def get(self, token: str) -> None:
-        path = DOWNLOADS.get((token or "").strip())
-        if path is None or not path.exists():
+        path = resolve_download(token)
+        if path is None:
             self.set_status(404)
             self.finish("없음")
             return
         name = path.name or "result.mp4"
+        size = path.stat().st_size
+        as_download = (self.get_query_argument("download", "0") or "0") in {"1", "true", "yes"}
+        disposition = "attachment" if as_download else "inline"
         self.set_header("Content-Type", "video/mp4")
-        self.set_header("Content-Disposition", f"attachment; filename*=UTF-8''{quote(name)}")
-        self.set_header("Content-Length", str(path.stat().st_size))
+        self.set_header("Content-Disposition", f"{disposition}; filename*=UTF-8''{quote(name)}")
+        span = parse_byte_range(self.request.headers.get("Range"), size)
+        if span is None:
+            start, end = 0, size - 1
+            self.set_header("Content-Length", str(size))
+        else:
+            start, end = span
+            self.set_status(206)
+            self.set_header("Content-Range", f"bytes {start}-{end}/{size}")
+            self.set_header("Content-Length", str(end - start + 1))
+        remaining = end - start + 1
         with path.open("rb") as handle:
-            while True:
-                chunk = handle.read(1024 * 1024)
+            handle.seek(start)
+            while remaining > 0:
+                chunk = handle.read(min(1024 * 1024, remaining))
                 if not chunk:
                     break
+                remaining -= len(chunk)
                 self.write(chunk)
                 self.flush()
         self.finish()

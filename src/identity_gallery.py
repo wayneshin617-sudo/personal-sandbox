@@ -10,8 +10,9 @@ import numpy as np
 from src.utils import LOGGER, clip_box, cosine_similarity
 
 
-IDENTITY_THRESH = 0.42
-MAX_SAMPLES = 10
+IDENTITY_THRESH = 0.38
+MATCH_THRESH = 0.32
+MAX_SAMPLES = 14
 THUMB = 96
 
 
@@ -39,6 +40,19 @@ class Identity:
     @property
     def thumb_rgb(self) -> np.ndarray:
         return self.hits[0].crop_rgb
+
+    def angle_hits(self, limit: int = 3) -> list[IdentityHit]:
+        if len(self.hits) <= limit:
+            return list(self.hits)
+        first_t = self.hits[0].time_sec
+        last_t = self.hits[-1].time_sec
+        picked: list[IdentityHit] = []
+        for i in range(limit):
+            target = first_t + (last_t - first_t) * (i / max(1, limit - 1))
+            best = min(self.hits, key=lambda hit: abs(hit.time_sec - target))
+            if best not in picked:
+                picked.append(best)
+        return picked
 
 
 def sample_times(duration: float, count: int = MAX_SAMPLES) -> list[float]:
@@ -87,13 +101,41 @@ def assign_identities(hits: list[IdentityHit], thresh: float = IDENTITY_THRESH) 
         mean = stacked.mean(axis=0)
         nrm = float(np.linalg.norm(mean))
         ident.embedding = mean / nrm if nrm > 1e-8 else mean
-    identities.sort(key=lambda ident: (-len(ident.hits), ident.hits[0].time_sec))
+    identities.sort(key=lambda ident: (ident.hits[0].time_sec, -len(ident.hits)))
     for i, ident in enumerate(identities, start=1):
         ident.id = i
     return identities
 
 
-def match_identity(embedding: np.ndarray | None, identities: list[Identity], thresh: float = IDENTITY_THRESH) -> Identity | None:
+@dataclass
+class SceneView:
+    time_sec: float
+    people: list[tuple[int, IdentityHit]]
+
+
+def scenes_from_identities(identities: list[Identity]) -> list[SceneView]:
+    by_time: dict[float, list[tuple[int, IdentityHit]]] = {}
+    for ident in identities:
+        for hit in ident.hits:
+            key = round(float(hit.time_sec), 2)
+            by_time.setdefault(key, []).append((ident.id, hit))
+    scenes: list[SceneView] = []
+    for ts in sorted(by_time):
+        members = sorted(by_time[ts], key=lambda item: item[0])
+        scenes.append(SceneView(time_sec=ts, people=members))
+    return scenes
+
+
+def scene_near(scenes: list[SceneView], time_sec: float, window: float = 0.8) -> SceneView | None:
+    if not scenes:
+        return None
+    best = min(scenes, key=lambda scene: abs(scene.time_sec - time_sec))
+    if abs(best.time_sec - time_sec) > window:
+        return None
+    return best
+
+
+def match_identity(embedding: np.ndarray | None, identities: list[Identity], thresh: float = MATCH_THRESH) -> Identity | None:
     if embedding is None or not identities:
         return None
     best = None

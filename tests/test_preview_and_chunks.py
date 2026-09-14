@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from src.chunk_upload import assemble_parts
+from src.chunk_upload import assemble_parts, parse_byte_range, register_download, resolve_download
 from src.preview_click import fit_preview_size, map_click_to_frame
 
 
@@ -34,3 +34,23 @@ def test_assemble_parts_writes_in_order(tmp_path: Path) -> None:
     dest = tmp_path / "out.bin"
     assemble_parts(part_dir, dest)
     assert dest.read_bytes() == b"AAABBB"
+
+
+def test_parse_byte_range_supports_suffix_and_open_end() -> None:
+    assert parse_byte_range("bytes=0-99", 200) == (0, 99)
+    assert parse_byte_range("bytes=150-", 200) == (150, 199)
+    assert parse_byte_range("bytes=-20", 200) == (180, 199)
+    assert parse_byte_range(None, 200) is None
+
+
+def test_download_token_survives_memory_clear(tmp_path: Path, monkeypatch) -> None:
+    from src import chunk_upload
+
+    monkeypatch.setattr(chunk_upload, "TOKEN_ROOT", tmp_path / "tokens")
+    video = tmp_path / "result.mp4"
+    video.write_bytes(b"mp4-bytes")
+    token = register_download(video)
+    chunk_upload.DOWNLOADS.clear()
+    restored = resolve_download(token)
+    assert restored is not None
+    assert restored.read_bytes() == b"mp4-bytes"
