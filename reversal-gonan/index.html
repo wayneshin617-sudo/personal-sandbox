@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <link rel="icon" href="data:," />
+    <title>명탐정 고난 — 제1화 두 얼굴의 누명</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&family=Noto+Sans+KR:wght@400;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/game.css" />
+  </head>
+  <body>
+    <div id="frame">
+      <div id="stage" class="bg-title">
+        <div id="bg-fx"></div>
+        <div id="scene-art"></div>
+        <div id="actors"></div>
+        <div id="hotspots"></div>
+        <div id="hp-bar" hidden></div>
+        <button id="btn-record" class="hud-btn" type="button" hidden>기록</button>
+        <div id="location-tag" hidden></div>
+        <div id="splash" hidden></div>
+        <div id="textbox" hidden>
+          <div id="speaker"></div>
+          <p id="line"></p>
+          <span id="cont">▼</span>
+        </div>
+        <div id="choices" hidden></div>
+        <div id="cross-ui" hidden>
+          <button type="button" id="btn-press">거짓말이다!</button>
+          <div id="stmt-nav">
+            <button type="button" id="btn-prev">◀</button>
+            <span id="stmt-count">1 / 1</span>
+            <button type="button" id="btn-next">▶</button>
+          </div>
+          <button type="button" id="btn-present">진실은!</button>
+        </div>
+        <div id="invest-ui" hidden>
+          <div id="move-row"></div>
+        </div>
+        <div id="title-ui">
+          <p class="series">진실은 언제나 하나!</p>
+          <h1>명탐정 고난</h1>
+          <p class="episode">제1화　두 얼굴의 누명</p>
+          <p class="tagline">방울 헬멧 쓴 그새끼가, 현장에서 추리한다.</p>
+          <div class="title-actions">
+            <button type="button" id="btn-new">게임 시작</button>
+            <button type="button" id="btn-continue">이어하기</button>
+            <button type="button" id="btn-help">조작법</button>
+          </div>
+          <p class="hint">거짓말을 잡고 증거를 들이밀어. 아니면 무명한만 연행된다.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="record" class="modal" hidden>
+      <div class="modal-card">
+        <header>
+          <h2>사건 기록</h2>
+          <div class="tabs">
+            <button type="button" class="tab on" data-tab="evidence">증거</button>
+            <button type="button" class="tab" data-tab="profiles">인물</button>
+          </div>
+          <button type="button" class="close" id="record-close">닫기</button>
+        </header>
+        <div class="modal-body">
+          <ul id="record-list"></ul>
+          <article id="record-detail">
+            <h3>항목을 선택하세요</h3>
+            <p>거짓말이 보이는 증언에 증거를 들이밀면 진실이 열립니다.</p>
+          </article>
+        </div>
+        <footer>
+          <button type="button" id="record-present" hidden>이 증거를 들이민다</button>
+        </footer>
+      </div>
+    </div>
+
+    <div id="help" class="modal" hidden>
+      <div class="modal-card narrow">
+        <header>
+          <h2>조작법</h2>
+          <button type="button" class="close" id="help-close">닫기</button>
+        </header>
+        <div class="modal-body help-body">
+          <p><b>클릭 / Z / Space / Enter</b> — 대사 진행</p>
+          <p><b>조사</b> — 반짝이는 지점을 눌러 단서를 줍니다.</p>
+          <p><b>거짓말이다!</b> — 증언을 추궁. 페널티 없음. 전부 눌러보세요.</p>
+          <p><b>진실은!</b> — 지금 문장과 모순되는 증거를 들이밀기.</p>
+          <p><b>기록 / R</b> — 증거와 인물 확인.</p>
+          <p>틀린 증거를 들이밀면 경부의 인내심이 깎입니다. 5번 실패하면 무명한이 연행됩니다.</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/case1.js"></script>
+    <script src="js/engine.js"></script>
+  </body>
+</html>
