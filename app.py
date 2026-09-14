@@ -209,12 +209,11 @@ def main() -> None:
 
     left, right = st.columns([0.42, 0.58], gap="large")
     with left:
-        st.caption("영상에서 보이는 모든 얼굴을, 올린 사진의 얼굴로 바꿉니다. 동작·배경·소리는 그대로입니다.")
-        dropped_video = chunk_drop("원본 영상", key="video_drop")
+        st.caption("영상에서 보이는 모든 얼굴을, 올린 사진의 얼굴로 바꿉니다. 큰 원본은 채팅이 아니라 아래 칸에 놓으세요. 2GB까지입니다.")
+        dropped_video = chunk_drop("원본 영상 (큰 파일도 여기)", key="video_drop")
         dropped_refs = chunk_drop("얼굴 사진", key="ref_drop", multiple=True)
-        with st.expander("링크로 가져오기"):
-            video_url = st.text_input("영상 URL", placeholder="https://...", key="video_url_input")
-            video_path_in = st.text_input("이 컴퓨터 경로", placeholder="/data/clip.mp4", key="video_path_input")
+        video_url = st.text_input("또는 영상 URL", placeholder="https://...", key="video_url_input")
+        video_path_in = st.text_input("또는 이 컴퓨터 경로", placeholder="/data/clip.mp4", key="video_path_input")
         watermark = st.toggle(f"결과에 {WATERMARK_TEXT} 표시", value=True)
         generate = st.button("생성하기", type="primary", use_container_width=True)
         notice = st.empty()

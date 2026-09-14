@@ -15,7 +15,7 @@
       }
       .box:hover { border-color: #8b7cff; }
       .title { font-size: 14px; font-weight: 600; margin-bottom: 6px; }
-      .hint { font-size: 12px; color: #a1a1aa; }
+      .hint { font-size: 12px; color: #a1a1aa; line-height: 1.45; }
       .bar { height: 6px; background: #27272a; border-radius: 99px; margin-top: 12px; overflow: hidden; }
       .fill { height: 100%; width: 0; background: linear-gradient(90deg, #8b7cff, #4f46e5); }
       .err { color: #fca5a5; font-size: 12px; margin-top: 8px; }
@@ -54,7 +54,7 @@
         },
       };
 
-      const CHUNK = 2 * 1024 * 1024;
+      const CHUNK = 1024 * 1024;
       const box = document.getElementById("box");
       const input = document.getElementById("file");
       const fill = document.getElementById("fill");
@@ -73,31 +73,44 @@
 
       function setProgress(p) { fill.style.width = Math.max(0, Math.min(100, p * 100)) + "%"; }
 
+      function mb(n) {
+        return (n / (1024 * 1024)).toFixed(1);
+      }
+
+      async function postChunk(id, file, index, total, buf) {
+        let lastErr = null;
+        for (let attempt = 0; attempt < 5; attempt++) {
+          try {
+            const res = await fetch("/_studio/chunk", {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/octet-stream",
+                "X-Upload-Id": id,
+                "X-Chunk-Index": String(index),
+                "X-Chunk-Total": String(total),
+                "X-File-Name": encodeURIComponent(file.name || "upload.bin"),
+              },
+              body: buf,
+            });
+            if (res.ok) return await res.json();
+            lastErr = new Error("업로드가 거절되었습니다. (" + res.status + ")");
+          } catch (e) {
+            lastErr = new Error("네트워크가 잠시 끊겼습니다. 다시 올리는 중…");
+          }
+          await new Promise((r) => setTimeout(r, 400 * Math.pow(2, attempt)));
+        }
+        throw lastErr || new Error("업로드에 실패했습니다.");
+      }
+
       async function sendFile(file) {
         const id = uid() + "aa";
         const total = Math.max(1, Math.ceil(file.size / CHUNK));
         for (let i = 0; i < total; i++) {
           const blob = file.slice(i * CHUNK, Math.min(file.size, (i + 1) * CHUNK));
           const buf = await blob.arrayBuffer();
-          let res;
-          try {
-            res = await fetch("/_studio/chunk", {
-              method: "POST",
-              headers: {
-                "Content-Type": "application/octet-stream",
-                "X-Upload-Id": id,
-                "X-Chunk-Index": String(i),
-                "X-Chunk-Total": String(total),
-                "X-File-Name": encodeURIComponent(file.name || "upload.bin"),
-              },
-              body: buf,
-            });
-          } catch (e) {
-            throw new Error("네트워크가 업로드를 막았습니다. 다시 올려 주세요.");
-          }
-          if (!res.ok) throw new Error("업로드가 거절되었습니다. (" + res.status + ")");
-          const data = await res.json();
+          const data = await postChunk(id, file, i, total, buf);
           setProgress((i + 1) / total);
+          hint.textContent = mb(Math.min(file.size, (i + 1) * CHUNK)) + " / " + mb(file.size) + " MB";
           if (i + 1 === total) return data;
         }
         throw new Error("업로드가 끝나지 않았습니다.");
