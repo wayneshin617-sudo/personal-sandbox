@@ -237,6 +237,7 @@ def finalize_output(
         dest_path,
         audio_encoder=plan.audio_encoder,
         source_info=source_info,
+        shortest=True,
     )
     return dest_path
 
