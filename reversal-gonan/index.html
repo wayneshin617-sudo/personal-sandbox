@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>역전고난 — 제1화 두 얼굴의 누명</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&family=Noto+Sans+KR:wght@400;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/game.css" />
+  </head>
+  <body>
+    <div id="frame">
+      <div id="stage" class="bg-title">
+        <div id="bg-fx"></div>
+        <div id="scene-art"></div>
+        <div id="actors"></div>
+        <div id="hotspots"></div>
+        <div id="hp-bar" hidden></div>
+        <button id="btn-record" class="hud-btn" type="button" hidden>기록</button>
+        <div id="location-tag" hidden></div>
+        <div id="splash" hidden></div>
+        <div id="textbox" hidden>
+          <div id="speaker"></div>
+          <p id="line"></p>
+          <span id="cont">▼</span>
+        </div>
+        <div id="choices" hidden></div>
+        <div id="cross-ui" hidden>
+          <button type="button" id="btn-press">기다려!</button>
+          <div id="stmt-nav">
+            <button type="button" id="btn-prev">◀</button>
+            <span id="stmt-count">1 / 1</span>
+            <button type="button" id="btn-next">▶</button>
+          </div>
+          <button type="button" id="btn-present">이의 있음!</button>
+        </div>
+        <div id="invest-ui" hidden>
+          <div id="move-row"></div>
+        </div>
+        <div id="title-ui">
+          <p class="series">역전재판 시스템 × 명탐정 고난</p>
+          <h1>역전고난</h1>
+          <p class="episode">제1화　두 얼굴의 누명</p>
+          <p class="tagline">졸라 노잼이던 추리를, 공판으로 뒤집는다.</p>
+          <div class="title-actions">
+            <button type="button" id="btn-new">게임 시작</button>
+            <button type="button" id="btn-continue">이어하기</button>
+            <button type="button" id="btn-help">조작법</button>
+          </div>
+          <p class="hint">증거로 증언을 부숴. 아니면 무명한만 감옥 간다.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="record" class="modal" hidden>
+      <div class="modal-card">
+        <header>
+          <h2>재판 기록</h2>
+          <div class="tabs">
+            <button type="button" class="tab on" data-tab="evidence">증거</button>
+            <button type="button" class="tab" data-tab="profiles">인물</button>
+          </div>
+          <button type="button" class="close" id="record-close">닫기</button>
+        </header>
+        <div class="modal-body">
+          <ul id="record-list"></ul>
+          <article id="record-detail">
+            <h3>항목을 선택하세요</h3>
+            <p>모순이 보이는 증언에 증거를 들이밀면 공판이 뒤집힙니다.</p>
+          </article>
+        </div>
+        <footer>
+          <button type="button" id="record-present" hidden>이 증거를 제출한다</button>
+        </footer>
+      </div>
+    </div>
+
+    <div id="help" class="modal" hidden>
+      <div class="modal-card narrow">
+        <header>
+          <h2>조작법</h2>
+          <button type="button" class="close" id="help-close">닫기</button>
+        </header>
+        <div class="modal-body help-body">
+          <p><b>클릭 / Z / Space / Enter</b> — 대사 진행</p>
+          <p><b>조사</b> — 반짝이는 지점을 눌러 단서를 줍니다.</p>
+          <p><b>기다려!</b> — 증언을 추궁. 페널티 없음. 전부 눌러보세요.</p>
+          <p><b>이의 있음!</b> — 지금 문장과 모순되는 증거를 제출.</p>
+          <p><b>기록 / R</b> — 증거와 인물 확인.</p>
+          <p>틀린 증거를 제출하면 재판장의 인내심이 깎입니다. 5번 실패하면 유죄.</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/case1.js"></script>
+    <script src="js/engine.js"></script>
+  </body>
+</html>
