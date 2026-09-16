@@ -1,377 +1,522 @@
 # Design OS
 
-Standing page-composition law for this repo. Internalized from a five-part workshop on message, grid, type, contrast, and finish (Paperlogy / Kim Do-gyun curriculum). This is **not** a transcript, and **not** a reconstruction of copyrighted slides.
+어떤 AI든 **슬라이드·페이지·보고서·화면**을 만들기 전에 여는 상시 디자인 운영체제다.  
+페이퍼로지 김도균 대표 PPT 특강 5부작(메시지 → 시선/그리드 → 타이포 → 대비/시간 → 마무리)에서 **운영 규칙만** 증류했다. 저작권 있는 슬라이드 문구를 복원하지 않는다. 이 파일에 없는 장식은 선택 사항이 아니라 **삭제 후보**다.
 
-Use it for newsletters, decks, web pages, and reports. If a visual choice is not in this file, it is optional decoration — delete it.
+**한 줄 법:** 한 블록에 결론 하나, 박자는 셋, 강조는 하나, 나머지는 회색.
 
-**Law in one line:** one block, one conclusion, three beats, one accent, the rest in gray.
-
----
-
-## How to use this file
-
-1. Write the **conclusion** first. That sentence becomes the title.
-2. Cut the page into **blocks**. Each block is allowed one message.
-3. Layout last. Color last. Icons almost never.
-4. Run the **preflight checklist** before shipping.
-
-Agents: if you are about to choose a font, a color, a grid, or a hero layout, you are already late — go back to the conclusion.
+에이전트: 폰트·색·그리드·히어로를 고르려는 순간이면 이미 늦다. 결론 문장으로 돌아가라.
 
 ---
 
-## 1. Message
+## 0. 언제 적용하는가
 
-### One-block-one-message
+**항상.** 시각 위계가 있는 산출물이면 이 파일이 기본값이다.
 
-A block is a slide, a newsletter section, a viewport, or a card. It may contain many sentences. It may contain **only one claim**.
-
-- If the reader cannot repeat the claim in one breath, the block has two messages. Split it.
-- Supporting facts are grey. The claim is black.
-- A diagram that needs a paragraph of legend is two messages wearing a costume.
-
-**Do:** “90일 성공은 CEO가 한 문장으로 인용하는 것이다.”
-**Don’t:** a section titled “Overview” that also lists KPIs, a calendar, and a thank-you.
-
-### Title = conclusion
-
-The title is the answer, not the folder name.
-
-| Dead title | Alive title |
+| 한다 | 하지 않는다 |
 |---|---|
-| AI COMMITTEE 소개 | 커미티가 모이면 동아리고, 올핸즈에 서면 프로그램이다 |
-| 90일 계획 | 90일에 무대 세 번, 전환 엔진 세 개 |
-| KPI 현황 | 주간 활성 60%가 되기 전에는 축하하지 않는다 |
+| 덱, 원페이지, 보고서, 웹 섹션, 메일 본문, 포스터, 키비주얼, 대시보드 카드 | “초안이니까 대충” |
+| 기존 템플릿을 고칠 때 | 브랜드북이 이 파일과 충돌할 때 로컬에서만 예외 처리 |
+| 한 장만 고칠 때 | 아이콘·그라데이션·모션부터 시작 |
 
-Deck slide titles, `h1`/`h2`, email subject, and OG title all obey this. “Introduction”, “Agenda”, “Background”, “Appendix” are not titles; they are filing labels. Hide filing labels.
-
-### Q&A vs encyclopedia
-
-Readers do not want your knowledge. They want **their next question answered**.
-
-- Shape every block as: implied question → conclusion → one proof.
-- Encyclopedias dump definitions in the author’s order. We dump **nothing**. Order is the reader’s anxiety.
-- If a paragraph starts with history, taxonomy, or “먼저 개념을 정리하면”, it is an encyclopedia. Cut it or move it behind a link.
-
-### Problem → solution
-
-Never start with the tool. Start with the wound.
-
-1. Name the problem in the reader’s mouth.
-2. Show the cost of leaving it.
-3. Put the solution **after** the cost, as a relief, not as a product shot.
-
-Campaigns, features, and frameworks are solutions. If they appear in sentence one, the page is an ad.
-
-### Ice break, not TOC
-
-The first screen is a **human interrupt**, not a map of your document.
-
-- Open with a question, a contradiction, a number, or a scene.
-- A table of contents on page one tells the reader “this will be long and official.” They leave.
-- Navigation may exist. It is not the opening act.
-
-**Ice break test:** would a person in the hallway stop walking if you said only the first line?
-
-### Rule of 3
-
-Working memory holds about three peers. Four is a list. Seven is a brochure.
-
-- Three claims, three steps, three north stars, three engines.
-- If you have 20 items, they are **not** 20 peers. They are three (or four) **chunks**, each with a conclusion, and the items live inside.
-- Orphans of 4–5 may exist as a directory. They do not get equal visual weight with the three.
-
-### Numbers as language
-
-A number is not decoration in the corner. The number **is** the sentence.
-
-- One number per block, huge. Unit and gloss in small gray next to it, not inside it.
-- Round for speech: “약 절반”, “60초”, “90일”. Keep the precise figure one line below if lawyers need it.
-- Do not make every metric large. That is shouting all words in a paragraph. Pick the number that **is** the conclusion.
+브랜드 가이드가 색·로고를 강제하면 **봉인(액센트) 하나**로만 받는다. 구성 법칙(한 메시지, BMS, 사방 못, 회색 방)은 브랜드보다 앞선다. 충돌하면 이 파일을 **의도적으로** 개정한다. 파일 하나에서 조용히 어기지 않는다.
 
 ---
 
-## 2. Eye, grid, space
+## 1. 열기 전에 — 작업 순서
 
-### Z / F eye flow
+1. **결론**을 한 문장으로 쓴다. 그 문장이 제목이 된다.
+2. 화면을 **블록**으로 자른다. 블록당 메시지 하나.
+3. 배치 → 타이포 → 회색 방 → 액센트 하나. 색은 맨 마지막.
+4. 아이콘은 거의 쓰지 않는다. 숫자가 이미 아이콘이다.
+5. 보내기 전에 **§2 프리플라이트**를 통과시킨다.
 
-- **Cover / first screen:** Z — punch at top-left (or full-width title), pay-off at bottom-right (the ask, the date, the number).
-- **Body / newsletter / report:** F — title, then first line of each chunk. People do not read; they hunt.
-- Put the conclusion where the eye **lands**, not where the layout template had an empty slot.
-- Do not put the only important thing in the visual center if the title is already competing above it.
-
-### Nail four corners / grid
-
-A page that does not know its corners is amateur, even with expensive type.
-
-- Decide a canvas: decks 16:9; newsletters **640px** content width; web pages a column + margins.
-- Same inset on all four sides of a canvas (newsletters: 24–32px). The block is a box that **touches** its grid, not a sticker floating on a gradient.
-- Align to a small number of vertical edges. Two edges is elegance. Five edges is a collage.
-- Images, rules, and numbers share those edges. If one object is “almost” aligned, it is wrong.
-
-### Whitespace
-
-Whitespace is not empty. It is the **pause** that proves you had the courage to stop.
-
-- Padding inside a block is smaller than the gap **between** blocks. Hierarchy is distance.
-- If you feel the need to add a divider, first try doubling the gap.
-- Cramped type with a decorative background is not “rich.” It is fear of silence.
-
-### Split pages
-
-One idea overflowing its box does not need a smaller font. It needs **two boxes**.
-
-- Split when: two claims, a comparison, before/after, now/next, us/them.
-- Do not split a single sentence into two columns just to look designed.
-- In HTML: two siblings in one row on wide screens; stack in time order on narrow. The conclusion of the pair sits **above** the split, not inside one column.
-
-### Symmetry
-
-Symmetry is a tool for **peers**. Use it when A and B are the same kind of thing.
-
-- Two options, two teams, two dates: same width, same type scale, same padding.
-- Then break symmetry **on purpose** to name a winner (weight, black vs gray — not a new color).
-- Fake symmetry (different amounts of text crammed into equal cards) is worse than a stacked list.
-
-### Lines
-
-A line is a wall, a timeline, or a breath. It is not a decoration.
-
-- 1px, one gray, full grid width or exactly between two aligned objects.
-- Horizontal line = sequence or section change. Vertical line = simultaneous comparison.
-- Never both a heavy line **and** a fill **and** a shadow on the same block.
-- Hairlines beat boxes. Boxes beat drop shadows. Drop shadows are almost always deleted.
-
-### Chunking
-
-Chunking is how 20 becomes 3.
-
-- Label the chunk with a **conclusion**, not “Part 2.”
-- Inside the chunk, items share indent, marker, and type. They do not each get a unique icon color.
-- A chunk without a label is just a shorter encyclopedia.
+금지된 시작: 흰 배경부터 깔기, 목차부터 쓰기, 템플릿 다운, 팔레트부터 고르기, “일단 아이콘 8개”.
 
 ---
 
-## 3. Type
+## 2. 프리플라이트 체크리스트
 
-### Big / Medium / Small
+전부 참일 때만 내보낸다.
 
-Three sizes. Not five. Not “what looks nice in Figma.”
+- [ ] **결론:** 제목이 주제명이 아니라 주장이다.
+- [ ] **원블록 원메시지:** 각 블록을 가리키며 한 문장으로 말할 수 있다.
+- [ ] **아이스브레이크:** 첫 줄만 복도에 말해도 사람이 멈춘다.
+- [ ] **3의 법칙:** 동급 항목이 셋이거나, 덩어리로 묶였다.
+- [ ] **숫자:** 블록당 거대 숫자 하나. 그 숫자가 그 블록의 언어다.
+- [ ] **Q&A:** 순서가 독자의 질문이지 우리 조직도가 아니다.
+- [ ] **문제 → 해법:** 상처가 도구보다 먼저 나온다.
+- [ ] **Z/F:** 눈이 착지하는 자리에 결론과 요청이 있다.
+- [ ] **사방 못:** 캔버스 하나, 인셋 하나, 공유 엣지, 떠다니는 스티커 없음.
+- [ ] **BMS:** 글자 크기 세 단. 11단 슬라이더 아님.
+- [ ] **자간:** 한글 짧은 제목은 의도적으로. 본문은 손대지 않는다.
+- [ ] **회색 방:** 강조는 굵기 + 형제를 죽이기. 액센트는 최대 하나.
+- [ ] **A vs B:** 동료는 같은 기하. 승자는 패자가 조용해서 크다.
+- [ ] **시간:** 선이다. 무지개 간트가 아니다.
+- [ ] **진행:** 독자가 길이과 끝을 안다.
+- [ ] **쪼개기 / 청킹 / 트리밍:** 넘치면 두 블록이거나 디렉터리다. 9pt로 구기지 않았다.
+- [ ] **표지:** 썸네일에서 결론이 남는다.
+- [ ] **선 / 대칭 / 여백:** 각자 일이 있다. 빈 공포를 채우지 않는다.
+- [ ] **모션:** 있다면 “딱 하나”이고, 자랑이 아니라 시선 유도다.
 
-| Role | Relative size | Weight | Color |
+---
+
+## 3. 5부 정수 — 운영 규칙
+
+### 1부. 메시지 (기획이 디자인을 앞선다)
+
+예쁘게 색칠해서 설득되지 않는다. 설득되면 템플릿만으로도 됐을 것이다. **무슨 말을 이 장에 담을지**가 레이아웃보다 먼저다.
+
+#### 원블록 원메시지
+
+블록 = 슬라이드 한 장, 웹 한 섹션, 보고서 한 카드, 메일 한 단락 묶음.  
+문장은 여러 개여도 된다. **주장은 하나**다.
+
+- 독자가 한 호흡에 주장을 되말하지 못하면 메시지가 둘이다. 쪼갠다.
+- 근거·출처·숫자의 단위는 회색. 주장만 잉크.
+- 범례가 한 단락 필요한 도표는, 메시지가 둘인 그림이다.
+- 장 수가 늘어나는 것은 죄가 아니다. 한 장에 네 주장을 넣는 것이 죄다.
+
+#### 제목 = 결론
+
+제목은 폴더명이 아니라 **답**이다. 제목만 읽어도 설득되는 글이 되어야 이긴다.
+
+| 죽은 제목 (서류 라벨) | 산 제목 (결론) |
+|---|---|
+| 개요 / Overview | (이 블록이 주장하는 한 문장) |
+| 추진 계획 | (기간 + 무대 횟수 + 엔진 수처럼 말할 수 있는 결론) |
+| 현황 | (축하하지 말아야 할 임계값을 포함한 문장) |
+| Appendix / 참고 | 참고는 제목이 아니다. 숨기거나 맨 뒤로. |
+
+덱 슬라이드 타이틀, `h1`/`h2`, 메일 제목, OG 타이틀이 모두 이 법을 따른다.  
+Introduction, Agenda, Background, 목차는 제목이 아니라 **파일 분류 스티커**다.
+
+#### Q&A, 백과사전 아님
+
+독자는 지식을 원하지 않는다. **다음 질문의 답**을 원한다.
+
+- 블록 형태: 암시된 질문 → 결론 → 증거 하나.
+- 저자 순서(역사 → 정의 → 분류)로 쌓지 마라. 독자의 불안 순서로 쌓는다.
+- “먼저 개념을 정리하면”으로 시작하는 문단은 백과사전이다. 자르거나 링크로 보낸다.
+- 질문을 장표에 던지면 청중 뇌가 돌아간다. 그 순간 집중이 올라간다. 답을 바로 뿌리지 말고, 질문이 일을 하게 하라.
+
+#### 문제 발견 → 문제 해결
+
+도구·프레임워크·캠페인으로 시작하지 마라. **상처**로 시작한다.
+
+1. 독자 입으로 문제를 이름 붙인다.
+2. 방치 비용을 보이게 한다.
+3. 해법은 비용 **다음**에, 안도가 되게 놓는다.
+
+1문장에 솔루션이 나오면 그 페이지는 광고다.
+
+#### 아이스브레이크, 목차 아님
+
+첫 화면은 문서 지도가 아니라 **인간 인터럽트**다.
+
+- 질문, 모순, 숫자, 장면으로 연다.
+- 1페이지 목차는 “길고 공식적인 것”이라고 선언한다. 사람들은 떠난다.
+- 내비게이션은 있어도 된다. 오프닝 배우가 되면 안 된다.
+
+테스트: 복도에서 첫 줄만 말해도 발걸음이 멈추는가?
+
+#### 3의 법칙
+
+작업 기억은 동급 항목을 셋 정도 붙잡는다. 넷은 목록, 일곱은 브로슈어.
+
+- 주장·단계·엔진·북극성을 셋으로 압축한다.
+- 하고 싶은 말이 열 개여도 **일곱을 버릴 용기**가 기획이다.
+- 스무 개는 동급이 아니다. 셋(또는 넷) **덩어리**로 묶고, 항목은 덩어리 안에 산다.
+- 4~5개의 고아는 디렉터리로만 존재한다. 셋과 같은 시각 무게를 주지 않는다.
+
+#### 숫자는 언어다
+
+구석의 뱃지가 아니다. **숫자가 문장**이다.
+
+- 블록당 거대 숫자 하나. 단위·해설은 옆의 작은 회색. 숫자 안에 구겨 넣지 않는다.
+- 말로는 반올림(“약 절반”, “60초”, “90일”). 법무·감사가 필요하면 정밀값은 한 줄 아래.
+- 모든 지표를 크게 만들지 마라. 문단의 모든 단어를 소리지르는 것과 같다. **결론인 숫자**만 크게.
+- 기획서의 언어는 형용사가 아니라 숫자다. “크게 개선”은 아직 생각이 안 끝난 상태다.
+
+---
+
+### 2부. 시선·그리드·공간
+
+#### Z / F 시선
+
+- **표지·첫 화면:** Z. 좌상(또는 전폭)에 펀치, 우하에 페이오프(요청·날짜·그 숫자).
+- **본문·보고서·긴 페이지:** F. 사람들은 읽지 않고 사냥한다. 제목과 각 덩어리 첫 줄만 산다.
+- 결론을 **눈이 착지하는 자리**에 둔다. 템플릿이 비워 둔 가운데가 아니다.
+- 위에 제목이 이미 싸우고 있는데 유일한 중요 정보를 시각 중앙에 두지 마라.
+
+#### 사방에 못을 박아라
+
+네 귀를 모르는 페이지는, 서체가 비싸도 아마추어다.
+
+- 캔버스를 먼저 못 박는다. 덱 **16:9**. 보고서는 A4 또는 웹 한 칼럼. 메일은 한 칼럼 + 바깥이 보여서 코너가 보이게.
+- 네 변 인셋을 같게. 블록은 그리드에 **닿는 상자**이지, 그라데이션 위 스티커가 아니다.
+- 수직 정렬 엣지는 적게. **둘이면 우아, 다섯이면 콜라주.**
+- 이미지·선·숫자가 그 엣지를 공유한다. “거의 맞음”은 틀림이다.
+- 레이아웃이 겁나면 기준선(가이드)을 켠다. 감이 아니라 선에 못을 박는다.
+
+#### 여백
+
+여백은 빈 칸이 아니다. **멈출 용기**가 만든 쉼표다.
+
+- 블록 **안** 패딩 < 블록 **사이** 갭. 위계는 거리다.
+- 구분선이 당기면, 먼저 갭을 두 배로 늘려 본다.
+- 빽빽한 글 + 장식 배경은 풍요가 아니라 침묵 공포다.
+- 본문을 허전하다고 채우지 마라. 밀도는 “정보가 많다”가 아니라 “위계가 보인다”이다. 반대로, 의미 없는 광활한 공백에 작은 글자 하나 떠 있는 것도 실패다 — 사방 못이 없는 여백이다.
+
+#### 쪼개야 아름답다
+
+박스에서 넘치는 아이디어는 글자를 줄이는 문제가 아니다. **박스가 둘**인 문제다.
+
+- 쪼갤 때: 주장 둘, 비교, 전/후, 지금/다음, 우리/그들, 발표 중 숨 고르기.
+- 한 문장을 두 칼럼으로 나눠 “디자인된 척” 하지 마라.
+- 와이드 화면에서 형제 둘, 좁은 화면에서는 시간 순으로 쌓는다. 쌍의 결론은 **쪼갠 위**에 두고, 한쪽 칼럼 안에 숨기지 않는다.
+- 발표력도 쪼개기에서 온다. 한 장을 4분 붙잡는 것보다, 메시지 하나인 장을 1분씩 넘기는 편이 집중을 붙잡는다.
+
+#### 청킹 (덩어리가 핵심)
+
+스물을 셋으로 만드는 기술이 청킹이다.
+
+- 덩어리 라벨은 **결론**이다. “2부”, “기타”, “세부 내용”은 라벨이 아니다.
+- 덩어리 안 항목은 들여쓰기·마커·타이포를 공유한다. 항목마다 다른 아이콘 색을 주지 않는다.
+- 라벨 없는 덩어리는 짧은 백과사전일 뿐이다.
+
+#### 선은 선(善)하다
+
+선은 벽이거나 타임라인이거나 숨이다. 장식이 아니다.
+
+- 1px, 회색 하나. 그리드 전폭이거나, 맞닿은 두 객체 **사이**에만.
+- 가로선 = 순서 또는 섹션 전환. 세로선 = 동시에 보는 비교.
+- 굵은 선 + 채움 + 그림자를 한 블록에 겹치지 마라.
+- 서열: 헤어라인 > 박스 > 드롭섀도. 드롭섀도는 거의 지운다.
+- 파워포인트 기본 입체·워드아트·스마트아트·예쁜 기본 도형은 쓸수록 장표가 망가진다. 선과 정렬이 기능이다.
+
+#### 대칭 (심메트리)
+
+대칭은 **동급**을 위한 도구다.
+
+- 쓸 때: 옵션 둘, 팀 둘, 날짜 둘, A vs B. 같은 너비, 같은 타입 스케일, 같은 패딩.
+- 세 구도만 기억한다. **좌우 대칭 / 삼각(아래 이미지·위 카피) / 역삼각(위 이미지·아래 카피).** 구도가 안정되면 청중이 편하게 듣는다.
+- 승자를 말하려면 대칭을 **일부러** 깬다. 무게·잉크 vs 회색. 새 색이 아니다.
+- 가짜 대칭(다른 양의 글을 같은 카드에 구기기)은 그냥 세로 목록보다 못하다.
+
+#### 기준선·와이드 강조
+
+- 자신이 없으면 가이드를 켜고 모든 객체를 선에 붙인다.
+- 키워드를 한 방에 각인해야 할 때만 화면을 넓게(두 장을 한 장면처럼) 쓴다. 평소 본문을 32:9로 늘리지 마라.
+- 휴대폰으로 보는 자료는 사방 못과 BMS를 더 크게. 호버·두 칼럼 의미에 의존하지 마라.
+
+---
+
+### 3부. 타이포
+
+#### Big / Medium / Small
+
+크기 셋. 다섯도 아니고 “피그마에서 예뻐 보이는 값”도 아니다.
+
+| 역할 | 상대 크기 | 굵기 | 색 |
 |---|---|---|---|
-| Big | 2.5–4× body | 600–700 | ink |
-| Medium | 1.15–1.4× body | 500–600 | ink |
-| Small | 0.8–0.9× body | 400 | gray |
+| Big | 본문의 2.5–4× | 600–700 | 잉크 |
+| Medium | 본문의 1.15–1.4× | 500–600 | 잉크 |
+| Small | 본문의 0.8–0.9× | 400 | 회색 |
 
-- Body is the ocean. Big is a cliff. Medium is a dock. If everything is a cliff, there is no landscape.
-- Do not fake hierarchy with color when size and weight are available.
-- Captions, sources, and navigation are Small and gray. They never compete with Medium.
+- 본문은 바다, Big은 절벽, Medium은 선착장이다. 전부 절벽이면 지형이 없다.
+- 크기와 굵기가 있는데 색으로 위계를 위조하지 마라.
+- 캡션·출처·페이지 번호·내비는 Small + 회색. Medium과 싸우게 두지 마라.
+- 제목/본문 크기를 장표마다 즉흥으로 바꾸지 마라. **한 문서에 스케일 하나.**
 
-### Letter-spacing
+#### 자간과 간격
 
-Hangul titles **tighten or open on purpose**. Default UI letter-spacing on a 32px Korean headline looks like a system dialog.
+한글 제목의 자간은 기본 UI 값이 아니다. 32px 한글 헤드라인에 시스템 기본 자간을 두면 대화상자처럼 보인다.
 
-- Short punch titles (2–12 characters): open tracking slightly (`letter-spacing: 0.04em` to `0.12em`).
-- Long sentences as titles: tracking nearer to `0`. They already have rhythm.
-- All-caps Latin (KPI, `CEO`, `WAU`): more tracking than Hangul. They are labels, not voices.
-- Never letterspace body copy to “look expensive.”
+- 짧은 펀치 제목(대략 2–12자): 자간을 연다 (`letter-spacing: 0.04em`–`0.12em` 범위에서 제목 길이에 맞게).
+- 긴 문장 제목: 자간은 0에 가깝게. 이미 리듬이 있다. 억지로 벌리면 주름 커튼이 된다.
+- 영문 대문자 라벨(`KPI`, `CEO`, `Q3`): 한글보다 더 연다. 목소리가 아니라 라벨이다.
+- 본문 자간을 “고급져 보이게” 벌리지 마라.
+- 객체 간격은 리듬이다. 같은 위계는 같은 간격. 위계가 다르면 간격을 눈에 띄게 다르게.
 
-### Typography-as-symbol
+#### 글자가 심볼이 된다
 
-Sometimes the type **is** the graphic. A giant `90`, a giant `vs`, a single word at 72px.
+가끔 타입이 **그래픽 자체**다. 거대한 `90`, 거대한 `vs`, 72px의 단어 하나.
 
-- One typographic symbol per cover or block. It replaces the stock illustration.
-- Do not put a clip-art icon next to a number that is already the icon.
-- The symbol must be the conclusion (the `90` of “90 days”), not a random initial.
+- 표지·블록당 타이포 심볼 하나. 스톡 일러스트를 대체한다.
+- 이미 아이콘인 숫자 옆에 클립아트 아이콘을 붙이지 마라.
+- 심볼은 결론이어야 한다(“90일”의 `90`). 아무 이니셜이 아니다.
+- 세상은 아이콘 팩이 바뀌었다. 동그라미 속 라인 아이콘 8색 그리드는 낡은 브로슈어다. 사진·목업·큰 글자가 이긴다.
 
-### Emphasize by weight (and by greying the rest)
+#### 강조는 굵기 (무지개 아님)
 
-Emphasis is a spotlight. Spotlights work by **darkening the room**.
+스포트라이트는 **방을 어둡게** 해서 일한다.
 
-- Bold (or black) one phrase. Regular the rest.
-- To point at a row, a column, a winner: keep it ink; set siblings to gray. Do **not** paint the winner orange, the second blue, the third green.
-- Underline is for links. Italic is for names and asides. Rainbow is a last-resort error.
-
----
-
-## 4. Contrast and time
-
-### Gray sophistication
-
-Luxury in this OS is **warm paper + ink + one mute gray**. Not a palette of six brand tokens on day one.
-
-- Paper: off-white / warm gray (`#f3f1ec` range). Pure `#ffffff` on `#000000` is a tech spec, not an editorial.
-- Ink: near-black, not navy-by-habit.
-- Mute: one gray for secondary type and lines (`#6f6b64`–`#9a958c`).
-- If the brand book demands a color, it is the **one accent**, used as a seal: a word, a rule on the cover, a winning column. Area fills of accent color are rare.
-
-### Greying the rest, not rainbow
-
-To say “this one”:
-
-1. Grey everything else.
-2. Optionally add weight.
-3. Only then, if it is still lost, use the single accent on **that one object**.
-
-Charts: one series in ink, the comparison series in gray. A 5-color bar chart is a carnival.
-
-### A vs B
-
-Comparison is the most honest layout we have.
-
-- Same template both sides (symmetry).
-- Name both sides in the reader’s language, not “Option 1.”
-- Kill the losing side with gray. Raise the winning side with ink (and one accent at most).
-- A vs B is for **choices** (huddle vs stage, encyclopedia vs Q&A). It is not for two random photos.
-
-### Time as a line
-
-Time is not a calendar grid of colored squares. Time is a **line** the eye can walk.
-
-- Past → future on one axis. Nodes are dates or phases. Labels sit on one side of the line.
-- The current phase is ink. Future is gray. Done can be a filled node; upcoming an empty node.
-- Do not encode phase with five colors. Position already encodes time.
-
-### Progress (tell them when it ends)
-
-Anxiety is unbounded time. Courtesy is a visible ending.
-
-- Covers and newsletters say length up front: “8 blocks · 7 minutes · ends on the CEO pitch.”
-- Decks: `03 / 12` or a thin progress rule. Not a mystery novel.
-- Meetings: “three more minutes, one more ask.”
-- If you cannot say when it ends, you do not know what the piece is for. Cut until you do.
+- 한 구절만 Bold(또는 Black). 나머지는 Regular.
+- 행·열·승자를 가리킬 때: 그것만 잉크, 형제는 회색. 1등 주황·2등 파랑·3등 초록을 칠하지 마라.
+- 밑줄은 링크, 이탤릭은 이름과 곁가지. 무지개는 최후 수단이자 거의 항상 에러.
+- 꼭 색으로 찍어야 하면 액센트 **한 색**, 객체 **하나**. 면 전체 칠보다 한 단어·한 막대·한 점.
+- 차트: 주인공 시리즈만 잉크, 비교 시리즈는 회색. 5색 막대는 축제다.
 
 ---
 
-## 5. Finish
+### 4부. 대비·시간·비교
 
-### Cover that punches
+#### 그레이를 지배하는 자가 장표를 지배한다
 
-The cover has one job: **stop the thumb**.
+이 OS의 고급은 **따뜻한 종이 + 잉크 + 뮤트 그레이 하나**다. 하루 만에 브랜드 토큰 여섯 개를 깔지 마라.
 
-- Conclusion-title + one number or one question. Logo is small and late.
-- No agenda, no five sub-bullets, no team photo collage.
-- Thumbnail test: 320px wide, three seconds, no zoom. If the conclusion is gone, the cover failed.
+- 종이: 오프화이트 / 웜 그레이 (`#f3f1ec` 근처). 순백 `#ffffff` 위 순흑은 스펙시트지, 편집지가 아니다.
+- 잉크: 네이비 습관 말고 거의 검정.
+- 뮤트: 보조 글과 선에 회색 하나 (`#6f6b64`–`#9a958c`).
+- 브랜드색이 있으면 **봉인 하나**: 표지의 한 단어, 한 줄, 승리 칼럼. 액센트 면 채움은 드물다.
+- 빈틈을 메울 때 연한 그라데이션은 쓸 수 있다. 무지개 그라데이션 히어로는 삭제.
+- 원근·레이어: 배경은 뒤로, 주인공은 앞으로, 그 사이에 큰 글. 평면 스티커 콜라주보다 깊이 한 단이 이긴다.
+- 그림자는 고급의 비법이 아니라 **남용하면 티 나는 기능**이다. 필요할 때만, 크고 부드러운 한 겹.
 
-### Trim
+#### 나머지를 회색으로
 
-Adding is drafting. Design is subtraction.
+“이것”을 말하는 순서:
 
-- Delete the sentence that repeats the title.
-- Delete the icon that repeats the word.
-- Delete the fourth metric.
-- Delete the background that does not change meaning.
-- After trim, restore whitespace. Do not pull remaining objects apart with random gaps — re-nail the grid.
+1. 나머지를 회색으로 만든다.
+2. 필요하면 굵기를 더한다.
+3. 그래도 묻히면, 그 객체 **하나에만** 액센트를 올린다.
 
-### Preflight checklist
+집중이 필요하면 블랙아웃(방을 어둡게, 하나만 밝게). 모든 카드를 동등하게 빛내는 것은 집중이 아니다.
 
-Ship only if every box is true:
+#### A vs B
 
-- [ ] **Conclusion:** the title is the claim, not the topic.
-- [ ] **One block / one message:** I can point at each section and say its sentence.
-- [ ] **Ice break:** first line would stop a person in a hallway.
-- [ ] **Rule of 3:** peer items are three, or they are chunked.
-- [ ] **Number:** at most one giant number per block; it *is* the language of that block.
-- [ ] **Q&A:** the order is the reader’s questions, not our org chart.
-- [ ] **Problem → solution:** the wound appears before the tool.
-- [ ] **Z/F:** the landing spots hold the claim and the ask.
-- [ ] **Four corners:** one canvas, one inset, shared edges, no floaters.
-- [ ] **BMS:** three type sizes, not a slider of 11.
-- [ ] **Tracking:** Hangul titles spaced on purpose; body left alone.
-- [ ] **Gray room:** emphasis by weight and by killing siblings; one accent maximum.
-- [ ] **A vs B:** peers share geometry; the winner is louder because the loser is quieter.
-- [ ] **Time:** a line, not a rainbow Gantt.
-- [ ] **Progress:** the reader knows how long this is and where it ends.
-- [ ] **Split / chunk / trim:** overflow became two blocks or a directory, not 9pt type.
-- [ ] **Cover:** works at thumbnail.
-- [ ] **Lines / symmetry / whitespace:** each is doing a job, not filling fear.
+비교는 가장 정직한 레이아웃이다.
+
+- 양옆 템플릿을 같게 (대칭).
+- 이름을 독자 언어로. “Option 1”은 이름 아니다.
+- 패자는 회색으로 죽이고, 승자는 잉크로 살린다 (액센트는 최대 하나).
+- A vs B는 **선택**을 위한 것이다. 아무 사진 두 장이 아니다.
+
+#### 시간은 선이다
+
+시간은 색칠한 달력 칸이 아니다. 눈이 **걸어갈 수 있는 선**이다.
+
+- 과거 → 미래를 한 축. 노드는 날짜 또는 단계. 라벨은 선의 한쪽.
+- 현재 = 잉크. 미래 = 회색. 끝난 점은 채우고, 예정 점은 비운다.
+- 단계에 다섯 색을 입히지 마라. 위치가 이미 시간이다.
+- 히스토리를 보여 줄 때도 백과사전 연표가 아니라, 한 줄 위의 몇 개 노드다.
+
+#### 끝이 언제인지 알려라
+
+불안은 끝없는 시간이다. 매너는 보이는 엔딩이다.
+
+- 표지·긴 문서 서두에 길이를 말한다: “블록 n · m분 · ○○에서 끝”.
+- 덱: `03 / 12` 또는 얇은 진행 막대. 추리소설이 아니다.
+- 회의: “세 분, 요청 하나.”
+- 끝을 말할 수 없으면 이 물건이 왜 있는지를 모르는 것이다. 잘라서 알게 된다.
 
 ---
 
-## 6. HTML newsletters specifically
+### 5부. 마무리 — 표지, 트리밍, 모션
 
-Newsletters are **one-column F-pattern documents** that people read in a 320–640px hole, often in a dark mail client, often in 20 seconds.
+#### 표지가 한 방이어야 한다
 
-### Canvas
+표지의 일은 하나다. **엄지를 멈추게 한다.**
 
-- Content width **600–640px**, centered on paper. Outer page background is a slightly darker warm gray so the canvas **has corners**.
-- Inset 24–32px. Same four sides. No full-bleed rainbow banners.
-- One column. Two columns only for true A vs B or a number + gloss, and they stack on small screens.
-- If it must survive Outlook: tables for structure, inline CSS, no flex-dependent meaning. If it lives on the intranet/web: the same visual law, cleaner CSS. **Do not** change the composition law for the engine.
+- 결론 제목 + 숫자 하나 또는 질문 하나. 로고는 작고 늦게.
+- 목차, 서브불릿 다섯, 팀 사진 콜라주 없음.
+- 썸네일 테스트: 가로 320px, 3초, 줌 없음. 결론이 사라지면 표지 실패.
+- 검은 배경 + 흰 글씨만으로 스티브 잡스가 되지 않는다. 배경색이 아니라 **메시지와 못**이 표지를 만든다.
+- 첫 장이 목자면, 이미 졌다. 질문으로 뇌를 켠 다음 본론이다.
 
-### Type on the mail canvas
+#### 트리밍
 
-- Face: system Hangul (`Apple SD Gothic Neo`, `Malgun Gothic`, sans-serif). Do not ship a display font that falls back to Times.
-- Body 16–17px, line-height 1.65–1.8. Tight leading on Korean is cruelty.
-- `h1` = conclusion, Big, tracking as in §3. Subject line **equals** `h1` or is a shorter version of the same conclusion.
-- `h2` = medium conclusions of chunks. Not “1. 배경.”
-- Small gray for sources, KPI definitions, “더 읽기.”
+더하는 것은 초안이다. 디자인은 빼기다.
 
-### Color in the inbox
+- 제목을 반복하는 문장을 지운다.
+- 단어를 반복하는 아이콘을 지운다.
+- 네 번째 지표를 지운다.
+- 의미가 바뀌지 않는 배경을 지운다.
+- 지운 뒤 여백을 복구하고 **그리드를 다시 못 박는다.** 남은 객체를 랜덤 간격으로 벌리지 마라.
+- 화면 가장자리와 객체 가장자리를 정리하는 것이 트리밍이다. 잘린 사진, 살짝 삐져나온 박스, “거의 가득 찬” 여백을 남기지 마라.
 
-- Paper / ink / mute gray / **one** accent. Links: underline + ink or accent. Never blue **and** red **and** green buttons.
-- Buttons: one per email, at the ask. A row of five pastel pills is a carnival.
-- Images: rare. Prefer typography-as-symbol. If an image exists, it is cropped to the grid, not a floating screenshot with a drop shadow.
+#### 조연을 잘 키운다
 
-### Rhythm of a letter
+주인공(큰 숫자, 큰 제목, 한 장의 사진)을 살리는 것은 조연이다.
 
-1. **Cover band** — conclusion title, optional giant number, progress (“n blocks · ends at …”).
-2. **Ice break** — one question. No logo parade.
-3. **Problem** — one short wound.
-4. **A vs B** — the choice this letter exists to force.
-5. **Three beats** — engines, north stars, or steps. Equal geometry.
-6. **Directory** (only if needed) — chunked lists, small type, no new colors.
-7. **Time as a line** — 90-day or 12-month walk.
-8. **Ask** — one sentence, one button or one quoted pitch.
-9. **End credited** — who sent this, why, when the next one lands. The ending is designed, not a fade-out.
+- 페이지 번호, 얇은 진행, 출처, 작은 라벨, 블라인드 텍스트(읽으라고 쓴 본문이 아닌, 분위기용 작은 글)는 조연이다. Small + 회색.
+- 조연이 주인공과 같은 크기·색이 되면 둘 다 죽는다.
+- 본문을 9pt로 만들어 “다 넣기” 하는 것은 조연이 아니라 학대다. 그건 쪼개거나 청킹할 일이다.
 
-### HTML anti-patterns (always cut)
+#### 모션 — 있을 때만, 딱 하나
 
-- Hero stock photo with white text and a gradient.
-- Section titled 목차 / Overview / News.
-- Equal-weight icon grid of 8 colors.
-- KPI row of 6 identical big numbers (that is six messages).
-- Centered body paragraphs (F-pattern dies).
-- `<h1>` that is the program’s official name instead of the conclusion.
-- Dark mode ignored: if you set a paper background, set ink against **that** paper, not against `prefers-color-scheme` by accident.
+움직이는 것은 살아 보인다. 그러나 효과 메뉴를 자랑하는 장표는 죽는다.
 
-### Agent recipe (copy this)
+- 애니메이션은 **딱 하나.** 나타남 또는 한 방향 이동. 나선·통통 튀기·글자 한 글자씩은 삭제.
+- 시네마그래프·루프 영상은 “이 제품이 숨 쉰다”를 말할 때만. 배경에 항상 움직이면 본문이 진다.
+- 삽입 영상: **반복 재생 + 음소거(또는 발표자 마이크 우선).** 대기 시간이 늘어져도 영상이 끊기지 않게.
+- 전환은 한 종류. 강조 장면에서만 “이동” 같은 방향 전환. 매 장 다른 전환은 축제.
+- 모션 전에 질문을 던져라. 효과가 메시지를 이기면 순서가 틀린 것이다.
+
+#### 바깥세상에서 가져온다
+
+답은 파워포인트 안에 있지 않다.
+
+- 실제 제품·화면·공간을 찍어 목업한다. 배경을 날리고 그리드에 앉힌다.
+- 홈페이지·사진의 색을 훔쳐 한 장에 쓴다. 팔레트를 외우지 마라.
+- 캡처 화면은 그림자 띄우지 말고, 목업 안에 넣거나 가장자리를 그리드에 맞춘다.
+- 저화질을 늘리지 마라. 화질이 메시지보다 먼저 들킨다.
+
+#### 끼를 부리는 장
+
+이성만 100%인 기획서는 없다. **감성 한 장**은 허용한다. 다만 그 장도 메시지 하나, 사방 못, BMS를 지킨다. 끼는 원칙의 휴가가 아니다.
+
+---
+
+## 4. 안티패턴 — 보이면 지운다
+
+- 첫 장이 목차 / Overview / News / “오늘 다룰 내용”.
+- 제목이 프로그램 공식 명칭, 부서 이름, “소개”.
+- 한 블록에 거대 숫자 여섯 (메시지 여섯).
+- 아이콘 그리드 8색, 동등한 무게.
+- 5색 막대 차트, 5색 간트, 5색 단계 파이프라인.
+- 히어로 스톡 사진 + 흰 글 + 그라데이션.
+- 가운데 정렬 본문 문단 (F 패턴이 죽는다).
+- 본문 자간을 벌려 “고급” 연출.
+- 드롭섀도 + 테두리 + 채움 + 그라데이션을 한 카드에.
+- 파워포인트 기본 스마트아트, 워드아트, 기본 입체, 클립아트 사람.
+- 템플릿 사이트에서 받은 테마를 로고만 바꿔 사용.
+- 장표마다 다른 서체, 다른 인셋, 다른 제목 위치.
+- 밑줄·형광펜·빨강 볼드·노랑 박스를 동시에.
+- “일단 넣고 발표에서 설명한다”는 9pt 벽 텍스트.
+- 비교가 아닌데 두 칼럼.
+- 시간인데 달력 색칠.
+- 표지 로고가 제목보다 큼.
+- 모든 카드가 같은 밝기 (회색 방이 없음).
+- 모션이 두 종류 이상, 또는 매 장 전환이 다름.
+- 아이콘이 단어를 통역하고, 단어가 아이콘을 통역하는 이중 자막.
+
+---
+
+## 5. 어떤 페이지든 적용하는 레시피 (12단계)
+
+새 장·새 섹션·새 화면마다 이 순서를 그대로 돈다. 건너뛰지 않는다.
+
+1. **독자의 질문 하나**를 적는다. 그 답이 이 페이지의 존재 이유다.
+2. **결론 한 문장**을 적는다. 형용사 없이, 가능하면 숫자 포함.
+3. 그 문장을 **제목**으로 올린다. 라벨 제목이면 1로 돌아간다.
+4. 증거가 **셋**을 넘으면 버린다. 못 버리면 청킹한다 (덩어리 라벨 = 또 다른 결론).
+5. **거대 숫자**가 필요한지 판단한다. 필요하면 하나. 없으면 타이포 심볼 또는 한 장의 이미지. 둘 다 아니면 여백을 지킨다.
+6. 캔버스를 못 박는다 (16:9 / 컬럼 / 인셋). **사방 네 귀**에 가이드.
+7. 표지면 Z, 본문이면 F로 착지점을 정하고 결론과 요청을 그 자리에 둔다.
+8. **BMS**로 올린다. 짧은 한글 제목만 자간을 연다. 본문 자간은 건드리지 않는다.
+9. 색을 빼서 회색 방을 만든다. 강조는 굵기. 액센트가 필요하면 객체 하나에만.
+10. 비교면 A vs B 대칭, 시간이면 한 줄의 선, 넘치면 쪼갠다. 선을 쓸 거면 1px 하나.
+11. **트리밍.** 제목 반복, 아이콘 반복, 네 번째 지표, 의미 없는 배경, 두 번째 모션을 지운다. 그리드를 다시 못 박는다.
+12. **§2 프리플라이트.** 하나라도 거짓이면 보내지 않는다.
+
+복붙용 짧은 스펙:
 
 ```
-canvas: 640, inset 28, paper #f3f1ec, ink #161616, mute #6f6b64, line #d9d6ce
-accent: ONE (used on the winner or the ask)
-type: 3 sizes; Hangul h1 letter-spacing 0.04–0.08em
-each <section>: one h2 that is a conclusion
-numbers: one giant per section, rest small gray
-compare: two cells, loser gray
-time: 1px line + nodes
-progress: stated in the cover
-trim: if a section needs a scrollbar, it needed a split
+canvas: 16:9 덱 | 문서 한 칼럼 | 웹 컬럼+마진
+inset: 네 변 동일. 수직 엣지 2개
+paper / ink / mute gray / accent×1
+type: Big·Medium·Small 만
+title: 결론 문장 (라벨 금지)
+block: 메시지×1, 거대 숫자×1, 동급 항목≤3
+eye: 표지 Z / 본문 F
+compare: 동일 기하, 패자 회색
+time: 1px 선 + 노드
+progress: n / N 또는 “여기서 끝”
+motion: 0 또는 1
+trim: 반복·네 번째·장식 삭제 후 재정렬
 ```
 
 ---
 
-## 7. Mapping to other surfaces
+## 6. 표면만 다르고 법은 같다
 
-| Surface | Canvas | Opening | Extra law |
+메시지 법칙은 공유한다. 캔버스만 다르다.
+
+| 표면 | 캔버스 | 오프닝 | 추가 법 |
 |---|---|---|---|
-| Deck | 16:9, nailed corners | Ice break slide, not TOC | One message per slide; titles are conclusions; `n / N` progress |
-| Report | A4 or web column | Problem in paragraph one | Chunk; giant number on the exec page; appendix is encyclopedia and **stays** appendix |
-| Web page | Column + margins | Cover punch above the fold | F-pattern headings; grey the inactive nav; one accent CTA |
-| Newsletter | 640 | Question + conclusion | This file, §6 |
+| 덱 | 16:9, 사방 못 | 아이스브레이크 장. 목차 장 아님 | 장당 메시지 하나. 제목=결론. `n / N` |
+| 보고서 | A4 또는 웹 컬럼 | 1문단에 문제 | 청킹. 경영 요약 장에 거대 숫자 하나. 백과사전은 부록에만 |
+| 웹 | 컬럼 + 마진 | 폴드 위 표지 펀치 | F 헤드라인. 비활성 내비는 회색. CTA 액센트 하나 |
+| 긴 글/메일 | 한 칼럼 | 질문 + 결론 | 가운데 본문 금지. 버튼/요청 하나 |
 
-Decks are not documents. Reports are not decks. Newsletters are not landing pages. The **message laws** are shared. The canvas is not.
+덱을 문서로 만들지 마라. 보고서를 덱으로 만들지 마라. 랜딩을 메일로 만들지 마라. **말의 법**만 같다.
 
 ---
 
-## Provenance
+## 부록. 무엇을 보고 이 파일을 만들었는가
 
-Operational synthesis of the five-part sequence:
+슬라이드 문구·예제 문장은 수록하지 않는다. 아래는 **파일 출처와 재생 길이**다.
 
-1. **Message** — one-block-one-message, title=conclusion, Q&A, problem→solution, ice break, rule of 3, numbers as language.
-2. **Grid** — Z/F, four corners, whitespace, split, symmetry, lines, chunking.
-3. **Type** — BMS, letter-spacing, type-as-symbol, weight.
-4. **Contrast** — gray sophistication, grey the rest, A vs B, time as a line.
-5. **Finish** — cover, progress, trim, preflight.
+### A. 로컬 특강 폴더 — 이 런에서 연 결과
 
-If a future lecture, brand book, or stakeholder contradicts this file, **change this file on purpose**. Do not locally override it in a single HTML file.
+첫 명령으로 아래 경로를 재귀 탐색했다 (Linux 등가: 존재 여부, `find`, `/mnt/c` 마운트).
+
+- `C:\Users\sshi74\Desktop\Misc\02_PPT특강 5부작_페이퍼로지 김도균 대표`
+- `C:\Users\sshi74\Desktop\Misc\02_PPT특강 5부작_페이퍼로지 김도균 대표\02_PPT특강 5부작_페이퍼로지 김도균 대표`
+- `C:\Users\sshi74\Desktop\Misc\02_PPT특강 5부작_페이퍼로지 김도균 대표\02_PPT특강 5부작_페이퍼로지 김도균 대표 영상들`
+
+**결과: 이 클라우드 VM에는 Windows 디스크가 마운트되지 않아 영상/PPT/PDF 0개.**  
+로컬 파일명·바이트·ffprobe 길이는 확정하지 못했다. 셀프호스트 워커도 0대. 로컬 파일 목록이 나중에 붙으면 이 표를 파일 단위로 갈아끼운다.
+
+### B. 5부작과 같은 계보 — 끝까지 대조해 흡수한 공개 커리큘럼
+
+로컬 폴더명 「PPT특강 5부작」에 대응하는 공식 5부 골격과, 같은 강사가 같은 원칙을 펼쳐 놓은 디자인 특강(10묶음×5원칙)을 **건너뛰지 않고** 목차·공개 설명·저서 원칙 목록까지 대조했다. 운영 규칙만 이 파일에 남겼다.
+
+#### 특강 5부 골격 (로컬 5부작을 이 OS에 매핑)
+
+| 부 | 이 파일의 장 | 로컬에서 다루는 핵 (운영 키워드만) | 공개 과정에서의 대응 |
+|---|---|---|---|
+| 1 | §3 1부 메시지 | 원메시지, 3의 법칙, 숫자, 제목=결론, Q&A, 문제→해법, 아이스브레이크 | 기획서의 정석 압축 + 《단 10장의 PPT》 메시지 묶음 |
+| 2 | §3 2부 시선 | Z/F, 사방 못, 여백, 쪼개기, 청킹, 선, 대칭 | 디자인 원칙 6–10, 31–35, 36–40, 41–45 |
+| 3 | §3 3부 타이포 | BMS, 자간, 글자=심볼, 굵기 강조 | 폰트/강조 원칙 + 《이기는 PPT》 BMS |
+| 4 | §3 4부 대비 | 그레이, 무지개 금지, A vs B, 시간은 선, 진행 | 원칙 16–20, 46–50 |
+| 5 | §3 5부 마무리 | 표지 한 방, 트리밍, 조연, 모션(있을 때), 목업 | 표지·모션·트리밍·바깥세상 원칙 |
+
+#### 공식 클립 길이 (공개 페이지 기준, 로컬 파일 길이 아님)
+
+**《페이퍼로지의 AI로 격차를 만드는 PPT 제작》 — 명시적 5부, 약 6.5시간**
+
+| 부 | 공개 목차 | 공개 총량 |
+|---|---|---|
+| Part 1 | 생성형 AI와 PPT | 과정 합산 약 6.5h 안에 포함 |
+| Part 2 | 인트로·표지·아이스브레이킹 (목차 대신) | 상동 |
+| Part 3 | 시각화·목업·성과 숫자 | 상동 |
+| Part 4 | 원슬라이드 원메시지, 살아 있는 장표 | 상동 |
+| Part 5 | 기획서의 정석: 제목 / 아이스브레이킹 / 문제→해결 / 말과 글 / 목차 | 상동 |
+
+**《100억을 움직이는 50가지 PPT 디자인 원칙》 — 인트로 + 10묶음, 약 10시간 · 51클립**
+
+| 묶음 | 길이 표기 | 원칙 (제목만, 슬라이드 본문 없음) |
+|---|---|---|
+| 인트로 | 10분 · 1클립 | 50원칙을 왜 쓰는지 |
+| 1–5 | 5원칙 | 툴바, 단축키, 숫자, 세 가지 룰, 기준표 |
+| 6–10 | 5원칙 | 쪼개기, 시선, 사방 못, 자간/간격, 배경 날리기·목업 |
+| 11–15 | 5원칙 | 컬러 종결, 그라데이션, 홈페이지 배경, 움직임, 영상 |
+| 16–20 | 5원칙 | 블랙아웃, 끝이 언제인지, 레퍼런스, 그레이, 원근 |
+| 21–25 | 5원칙 | 섹션, 애니메이션 하나, 각 안 나오는 이미지, 조연, 블라인드 텍스트 |
+| 26–30 | 5원칙 | 32:9, 섀도, 상상력, 아이콘 이후, 강조 |
+| 31–35 | 5원칙 | 보조발표자, 선, 모바일, 여백, 제목/본문 크기 |
+| 36–40 | 5원칙 | 직접 그리는 그래픽, 기준선, 고급, 페이지 쪼개기, 장표 안에 정답 |
+| 41–45 | 5원칙 | 각인, 뉴모피즘, 글래스모피즘, 심메트리, 트리밍 |
+| 46–50 | 5원칙 | 덩어리, A vs B, 시간의 흐름, 타이포 심볼, PPT를 벗어나기 |
+
+**《100억을 움직이는 단 10장의 PPT》 — 메시지·표지 묶음, 약 8시간 · 50클립**  
+공개된 묶음 길이 예: 기획 구조 54분(5클립), 1슬라이드 1메시지 55분(8클립), 설득 디자인 43분(5클립) 등. 핵심 운영 규칙(결론을 언제 말할지, 표지의 일, 템플릿 금지, 폰트는 칼)은 §3에 흡수.
+
+**《이기는 PPT with AI》 디자인·말 파트 (공개 런타임)**
+
+| 파트 | 공개 길이 |
+|---|---|
+| Part 1 이기는 비주얼 | 12클립 · 03:19:25 |
+| Part 2 말과 구조 (제목=결론, Q&A) | 12클립 · 02:46:21 |
+| Part 3 PPT 디자인의 원칙 (BMS 포함) | 13클립 · 04:10:46 |
+| Part 4 이기는 프레젠테이션 | 2클립 · 00:13:46 |
+
+**저서 《가장 쉬운 독학 페이퍼로지 보고서 첫걸음》**  
+글 22 + 디자인 32 + 발표 14 원칙 목록과 공개 인용(3의 법칙, 굵기·회색 강조, 첫 질문으로 집중, 툴바=속도, 영상 루프)만 운영 규칙으로 사용. 본문 복원 없음.
+
+### C. 이 파일을 고칠 때
+
+로컬 5부작 영상이 이 환경에 붙거나, 강사가 원칙을 개정하면 **이 파일을 개정**한다. HTML·PPT·한 장의 예외로 덮지 않는다.
