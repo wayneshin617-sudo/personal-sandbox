@@ -35,6 +35,10 @@
     .block { padding: 36px 28px 8px; }
     .block-end { padding: 36px 28px 48px; }
     h1, h2, h3, p, ul, ol { margin: 0; }
+    .page, h1, h2, h3, .q, .tri h3, .ab h3, ol.dir strong, .phases h3 {
+      word-break: keep-all;
+      overflow-wrap: break-word;
+    }
     h1 {
       font-size: 32px;
       line-height: 1.35;
@@ -45,7 +49,7 @@
     h2 {
       font-size: 22px;
       line-height: 1.4;
-      font-weight: 650;
+      font-weight: 600;
       letter-spacing: 0.02em;
     }
     .kicker {
@@ -97,7 +101,7 @@
     .q {
       font-size: 26px;
       line-height: 1.45;
-      font-weight: 650;
+      font-weight: 600;
       letter-spacing: 0.01em;
     }
     .ab {
@@ -125,7 +129,7 @@
     .ab h3 {
       font-size: 18px;
       line-height: 1.4;
-      font-weight: 650;
+      font-weight: 600;
       letter-spacing: 0.02em;
     }
     .ab p { font-size: 14px; line-height: 1.6; margin-top: 10px; }
@@ -151,10 +155,11 @@
     }
     .tri h3 {
       font-size: 18px;
-      font-weight: 650;
+      font-weight: 600;
       margin-top: 6px;
       letter-spacing: 0.02em;
     }
+    .tri article { min-width: 0; }
     .numrow {
       display: grid;
       grid-template-columns: 1fr;
@@ -176,7 +181,7 @@
       font-size: 13px;
       color: var(--accent);
       letter-spacing: 0.08em;
-      font-weight: 650;
+      font-weight: 600;
       margin: 28px 0 6px;
     }
     ol.dir {
@@ -203,7 +208,7 @@
       color: var(--faint);
       padding-top: 4px;
     }
-    ol.dir strong { font-weight: 650; }
+    ol.dir strong { font-weight: 600; }
     ol.dir .why {
       display: block;
       font-size: 13px;
@@ -242,7 +247,7 @@
     }
     .phases h3 {
       font-size: 16px;
-      font-weight: 650;
+      font-weight: 600;
       letter-spacing: 0.02em;
     }
     .phases p { font-size: 14px; color: var(--mute); margin-top: 6px; line-height: 1.6; }
@@ -287,8 +292,8 @@
   <article class="page">
     <header class="cover">
       <p class="kicker">AI Committee · Recognition Brief</p>
-      <h1>커미티가 모이면 동아리고, 올핸즈에 서면 전사입니다.</h1>
-      <p class="progress">8블록 · 읽기 7분 · 끝은 CEO 한 장 피치</p>
+      <h1>커미티가 모이면 동아리고,<br>올핸즈에 서면 전사입니다.</h1>
+      <p class="progress">9블록 · 읽기 8분 · 끝은 CEO 한 장 피치</p>
       <div class="rule"></div>
     </header>
 
@@ -359,15 +364,15 @@
       <h2 id="kpi">90일 가이던스는 세 숫자면 충분합니다.</h2>
       <div class="numrow">
         <div>
-          <p class="n">70<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;"> %</span></p>
+          <p class="n">70<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;">%</span></p>
           <p class="gloss">캠페인 이름 인지. 이름 없는 운동은 기억되지 않습니다.</p>
         </div>
         <div>
-          <p class="n">40<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;"> %</span></p>
+          <p class="n">40<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;">%</span></p>
           <p class="gloss">대상의 첫 과업 완료. 이론 이수와 바꾸지 않습니다.</p>
         </div>
         <div>
-          <p class="n">25<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;"> %</span></p>
+          <p class="n">25<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;">%</span></p>
           <p class="gloss">첫 시도자 중 7일 완주. 습관은 첫 주에 갈립니다.</p>
         </div>
       </div>
