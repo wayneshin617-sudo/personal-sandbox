@@ -1,0 +1,30 @@
+---
+description: Standing page-composition OS. Load design.md before any newsletter, deck, web page, or report layout.
+globs: "**/*.{html,css,scss,less,mdx,vue,tsx,jsx,svelte,php}"
+alwaysApply: true
+---
+
+# Design OS is mandatory
+
+Before you design, restyle, space, color, or compose **any** page, newsletter, deck, report, landing view, or UI surface, read [`design.md`](../../design.md) at the repo root. That file is standing composition law.
+
+Do not invent a parallel visual system. Do not start with a palette, a component library, or a hero template.
+
+## Order of work
+
+1. Write the **conclusion** (it becomes the title).
+2. Cut the surface into **one-message blocks**.
+3. Apply grid, BMS type, gray room, one accent.
+4. Run the preflight checklist in `design.md`.
+
+## Non-negotiables (if you remember nothing else)
+
+- Title = conclusion. Ice break, not table of contents.
+- One block, one message. Rule of 3, or chunk until it is.
+- Numbers are language: one giant number per block.
+- Emphasize by weight and by greying the rest. No rainbow.
+- Nail four corners. Whitespace is a pause, not leftover.
+- Time is a line. Tell the reader when it ends.
+- HTML newsletters: 640 canvas, F-pattern, one column, one ask.
+
+If `design.md` and a stakeholder request conflict, update `design.md` on purpose — do not silently override it in a single file.

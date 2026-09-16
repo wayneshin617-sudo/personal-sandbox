@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>커미티가 모이면 동아리고, 올핸즈에 서면 전사입니다</title>
+  <style>
+    :root {
+      --paper: #f3f1ec;
+      --page: #e8e4db;
+      --ink: #161616;
+      --mute: #6f6b64;
+      --faint: #9a958c;
+      --line: #d9d6ce;
+      --accent: #8f2d21;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: var(--page);
+      color: var(--ink);
+      font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+      font-size: 16px;
+      line-height: 1.75;
+      -webkit-font-smoothing: antialiased;
+    }
+    .page {
+      width: 100%;
+      max-width: 640px;
+      margin: 0 auto;
+      background: var(--paper);
+    }
+    .pad { padding: 28px 28px 0; }
+    .pad-x { padding-left: 28px; padding-right: 28px; }
+    .block { padding: 36px 28px 8px; }
+    .block-end { padding: 36px 28px 48px; }
+    h1, h2, h3, p, ul, ol { margin: 0; }
+    h1 {
+      font-size: 32px;
+      line-height: 1.35;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      font-kerning: none;
+    }
+    h2 {
+      font-size: 22px;
+      line-height: 1.4;
+      font-weight: 650;
+      letter-spacing: 0.02em;
+    }
+    .kicker {
+      font-size: 12px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--mute);
+      font-weight: 500;
+      margin-bottom: 14px;
+    }
+    .progress {
+      font-size: 13px;
+      color: var(--mute);
+      letter-spacing: 0.02em;
+      margin-top: 18px;
+    }
+    .rule {
+      height: 1px;
+      background: var(--line);
+      border: 0;
+      margin: 0;
+    }
+    .rule-wide { margin: 8px 0 0; }
+    .mute { color: var(--mute); }
+    .faint { color: var(--faint); }
+    .ask { color: var(--accent); }
+    .body { margin-top: 14px; }
+    .body + .body { margin-top: 10px; }
+    .giant {
+      font-size: 72px;
+      line-height: 0.95;
+      font-weight: 700;
+      letter-spacing: -0.04em;
+      margin-top: 8px;
+    }
+    .giant-unit {
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      color: var(--mute);
+      margin-left: 6px;
+    }
+    .gloss {
+      font-size: 14px;
+      color: var(--mute);
+      margin-top: 8px;
+      line-height: 1.6;
+    }
+    .q {
+      font-size: 26px;
+      line-height: 1.45;
+      font-weight: 650;
+      letter-spacing: 0.01em;
+    }
+    .ab {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      margin-top: 22px;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+    .ab > div { padding: 22px 18px 24px; }
+    .ab .lose {
+      color: var(--mute);
+      border-right: 1px solid var(--line);
+    }
+    .ab .win { color: var(--ink); }
+    .ab .tag {
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .ab .lose .tag { color: var(--faint); }
+    .ab .win .tag { color: var(--accent); letter-spacing: 0.14em; }
+    .ab h3 {
+      font-size: 18px;
+      line-height: 1.4;
+      font-weight: 650;
+      letter-spacing: 0.02em;
+    }
+    .ab p { font-size: 14px; line-height: 1.6; margin-top: 10px; }
+    .ab .vs {
+      display: none;
+    }
+    .tri {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0;
+      margin-top: 8px;
+    }
+    .tri article {
+      padding: 20px 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .tri article:last-child { border-bottom: 0; }
+    .idx {
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      color: var(--faint);
+      text-transform: uppercase;
+    }
+    .tri h3 {
+      font-size: 18px;
+      font-weight: 650;
+      margin-top: 6px;
+      letter-spacing: 0.02em;
+    }
+    .numrow {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0;
+      margin-top: 4px;
+    }
+    .numrow > div {
+      padding: 18px 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .numrow > div:last-child { border-bottom: 0; }
+    .n {
+      font-size: 40px;
+      line-height: 1;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+    }
+    .chunk-label {
+      font-size: 13px;
+      color: var(--accent);
+      letter-spacing: 0.08em;
+      font-weight: 650;
+      margin: 28px 0 6px;
+    }
+    ol.dir {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      counter-reset: item;
+    }
+    ol.dir li {
+      counter-increment: item;
+      display: grid;
+      grid-template-columns: 28px 1fr;
+      column-gap: 10px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--line);
+      font-size: 15px;
+      line-height: 1.55;
+    }
+    ol.dir li:last-child { border-bottom: 0; }
+    ol.dir li::before {
+      content: counter(item, decimal-leading-zero);
+      font-size: 12px;
+      letter-spacing: 0.06em;
+      color: var(--faint);
+      padding-top: 4px;
+    }
+    ol.dir strong { font-weight: 650; }
+    ol.dir .why {
+      display: block;
+      font-size: 13px;
+      color: var(--mute);
+      margin-top: 2px;
+    }
+    .tl {
+      margin: 28px 0 8px;
+      padding: 8px 0 0;
+    }
+    .tl-line {
+      position: relative;
+      height: 1px;
+      background: var(--line);
+      margin: 14px 0 22px;
+    }
+    .tl-line span {
+      position: absolute;
+      top: -4px;
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--paper);
+      border: 1px solid var(--ink);
+    }
+    .tl-line span.now { background: var(--ink); }
+    .tl-line span.later { border-color: var(--faint); }
+    .tl-line span:nth-child(1) { left: 0; }
+    .tl-line span:nth-child(2) { left: 33%; }
+    .tl-line span:nth-child(3) { left: 66%; }
+    .tl-line span:nth-child(4) { left: calc(100% - 9px); }
+    .phases {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+    .phases h3 {
+      font-size: 16px;
+      font-weight: 650;
+      letter-spacing: 0.02em;
+    }
+    .phases p { font-size: 14px; color: var(--mute); margin-top: 6px; line-height: 1.6; }
+    .pitch {
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+      padding: 28px 0;
+      font-size: 18px;
+      line-height: 1.65;
+      font-weight: 500;
+      letter-spacing: 0.01em;
+    }
+    .sign {
+      font-size: 13px;
+      color: var(--mute);
+      margin-top: 22px;
+      line-height: 1.6;
+    }
+    a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+    .cover {
+      padding: 48px 28px 36px;
+    }
+    .cover .rule { margin-top: 28px; background: var(--ink); height: 1px; }
+    @media (min-width: 520px) {
+      h1 { font-size: 36px; }
+      .giant { font-size: 88px; }
+      .ab { grid-template-columns: 1fr 1fr; }
+      .tri { grid-template-columns: 1fr 1fr 1fr; gap: 0; }
+      .tri article {
+        padding: 8px 16px 8px 0;
+        border-bottom: 0;
+        border-right: 1px solid var(--line);
+      }
+      .tri article:last-child { border-right: 0; padding-right: 0; }
+      .numrow { grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+      .numrow > div { border-bottom: 0; }
+      .phases { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <article class="page">
+    <header class="cover">
+      <p class="kicker">AI Committee · Recognition Brief</p>
+      <h1>커미티가 모이면 동아리고, 올핸즈에 서면 전사입니다.</h1>
+      <p class="progress">8블록 · 읽기 7분 · 끝은 CEO 한 장 피치</p>
+      <div class="rule"></div>
+    </header>
+
+    <section class="block" aria-labelledby="ice">
+      <p class="kicker">01 / Ice break</p>
+      <h2 id="ice" class="q">지난 올핸즈에서, 우리 이름이 몇 번 불렸습니까?</h2>
+      <p class="body mute">슬랙에 프롬프트를 나눠 준 날은 기억나지 않습니다. 무대에서 어제 비사용자가 전후를 보여 준 날은 남습니다. 리코그니션은 콘텐츠가 아니라 무대에서 생깁니다.</p>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="wound">
+      <p class="kicker">02 / Problem</p>
+      <h2 id="wound">비사용자는 도구를 거부하는 것이 아닙니다. 자기 일과 아직 안 붙은 것입니다.</h2>
+      <p class="giant">51<span class="giant-unit">%</span></p>
+      <p class="gloss">미국 성인 챗봇 비사용자 비율(Pew, 2026). 그중 “앞으로 1년 안에 쓸 가능성 매우 높음”은 5%뿐입니다. 강의로는 안 넘어옵니다.</p>
+      <p class="body">관심 없음 60%, 개인정보 54%, 정확성 불신 45%, 사용법 모름 29%. 세 장벽을 한 번에 넘어야 합니다. 네 번째 장벽은 우리 쪽에 있습니다. <strong>커미티가 자기들끼리 끝나면, 전사는 이름을 모릅니다.</strong></p>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="choice">
+      <p class="kicker">03 / A vs B</p>
+      <h2 id="choice">같은 90일, 무대가 다릅니다.</h2>
+      <div class="ab">
+        <div class="lose">
+          <p class="tag">A · Huddle</p>
+          <h3>커미티 단톡의 으쌰으쌰</h3>
+          <p>멤버 단체 사진. 프롬프트 수 랭킹. 시상 후 산출물 방치. “AI가 미래를 바꿉니다.” 비사용자는 더 숨습니다.</p>
+        </div>
+        <div class="win">
+          <p class="tag">B · Stage</p>
+          <h3>올핸즈 3분의 주인공</h3>
+          <p>어제까지 안 쓴 사람이 전후를 보여 줍니다. CEO가 이름을 부릅니다. 주간 코너가 12주를 갑니다. 외부가 케이스로 가져갑니다.</p>
+        </div>
+      </div>
+      <p class="gloss">이 편지는 B를 고르자는 결론입니다. A는 이미 하고 있는 일입니다.</p>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="stars">
+      <p class="kicker">04 / North stars</p>
+      <h2 id="stars">1년의 성공은 세 문장으로 끝납니다.</h2>
+      <div class="tri">
+        <article>
+          <p class="idx">전환</p>
+          <h3>자기 업무로, 주 1회</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">구경이 아니라 습관. 데스크 주간 활성 60–80%를 벤치마크로 둡니다.</p>
+        </article>
+        <article>
+          <p class="idx">내부 인정</p>
+          <h3>올핸즈가 반복 호명</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">CEO·타운홀·인트라넷 메인. 커미티 채널의 좋아요는 인정이 아닙니다.</p>
+        </article>
+        <article>
+          <p class="idx">외부 인정</p>
+          <h3>뉴스룸 또는 어워드 1</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">수상이 목표가 아닙니다. 수상 가능한 증거 밀도가 목표입니다.</p>
+        </article>
+      </div>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="kpi">
+      <p class="kicker">05 / Numbers</p>
+      <h2 id="kpi">90일 가이던스는 세 숫자면 충분합니다.</h2>
+      <div class="numrow">
+        <div>
+          <p class="n">70<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;"> %</span></p>
+          <p class="gloss">캠페인 이름 인지. 이름 없는 운동은 기억되지 않습니다.</p>
+        </div>
+        <div>
+          <p class="n">40<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;"> %</span></p>
+          <p class="gloss">대상의 첫 과업 완료. 이론 이수와 바꾸지 않습니다.</p>
+        </div>
+        <div>
+          <p class="n">25<span style="font-size:16px;letter-spacing:0.06em;color:#6f6b64;font-weight:500;"> %</span></p>
+          <p class="gloss">첫 시도자 중 7일 완주. 습관은 첫 주에 갈립니다.</p>
+        </div>
+      </div>
+      <p class="body mute">그다음만 경영진 장부에 올립니다. 주간 활성, 비사용자 잔존 하락, K-factor 0.4, Adopt 3건, CEO 원문장 인용. ROI를 100일에 과장하지 않습니다.</p>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="engines">
+      <p class="kicker">06 / Rule of 3 · 지금 돌릴 것</p>
+      <h2 id="engines">유인책 20개는 메뉴입니다. 90일 엔진은 세 개입니다.</h2>
+      <p class="giant">60<span class="giant-unit">초</span></p>
+      <p class="gloss">첫 경험의 길이. 이론 금지. 자기 반복 업무 1건이 끝나야 “썼다”입니다.</p>
+      <div class="tri" style="margin-top:12px;">
+        <article>
+          <p class="idx">엔진 1</p>
+          <h3>24시간 지명</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">쓴 사람이 안 쓴 사람 한 명을 지명합니다. CEO가 1호 지명자입니다.</p>
+        </article>
+        <article>
+          <p class="idx">엔진 2</p>
+          <h3>하루 한 장 전후</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">왼쪽 원본, 오른쪽 결과, 하단 절감 n분. 월간 베스트는 CEO 뉴스레터 1쪽.</p>
+        </article>
+        <article>
+          <p class="idx">엔진 3</p>
+          <h3>카페 + 온램프</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">예약 없이 90분. “미워하는 일 1개”는 24시간 안에 맞춤 회신.</p>
+        </article>
+      </div>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="twenty">
+      <p class="kicker">07 / Directory · 20</p>
+      <h2 id="twenty">나머지는 분기 실험 메뉴입니다. 동등한 포스터가 아닙니다.</h2>
+      <p class="body mute">각 줄의 회색은 왜 움직이는지와, 전사가 어디에 남는지를 한 번에 적습니다.</p>
+
+      <p class="chunk-label">문턱을 없앤다</p>
+      <ol class="dir">
+        <li><div><strong>24시간 지명 온보딩</strong><span class="why">강의 대신 동료의 초대. CEO가 1호, 일일 인증 피드.</span></div></li>
+        <li><div><strong>60초 전후 카드</strong><span class="why">하루에 한 장. 인트라넷 갤러리, LinkedIn 익명 버전.</span></div></li>
+        <li><div><strong>「어제까지 안 썼습니다」</strong><span class="why">3분, 5편. 캠페인 얼굴은 현업. 채용 필름으로 재사용.</span></div></li>
+        <li><div><strong>리버스 멘토링 10분</strong><span class="why">주니어가 임원 업무 프롬프트 1개. 참여 임원 수가 KPI.</span></div></li>
+        <li><div><strong>가족 사진 복원 데이</strong><span class="why">관심 없음은 감정으로 우회. 원본 보존·동의 필수. 동정 뉴스룸.</span></div></li>
+        <li><div><strong>스캠·딥페이크 클리닉</strong><span class="why">불신을 숨기지 않음. 보안과 공동 주최가 임원 스폰서십.</span></div></li>
+      </ol>
+
+      <p class="chunk-label">습관으로 붙인다</p>
+      <ol class="dir" start="7" style="counter-reset:item 6;">
+        <li><div><strong>올핸즈 사람 vs AI 3분</strong><span class="why">초심자+AI 대 베테랑. 전사 시선이 모이는 유일한 슬롯.</span></div></li>
+        <li><div><strong>Gift Prompt</strong><span class="why">할인이 아니라 그 사람 업무용 선물. 페어를 월간 표창.</span></div></li>
+        <li><div><strong>AI 카페 90분</strong><span class="why">등록 문턱 삭제. 방문 히트맵을 타운홀에서 호명.</span></div></li>
+        <li><div><strong>미워하는 일 1개</strong><span class="why">추상적 활용 금지. 평균 회신 시간을 서비스 KPI로 공개.</span></div></li>
+        <li><div><strong>7일 스트릭</strong><span class="why">이탈은 첫 주에 갈림. 완주자만 공식·LinkedIn 배지.</span></div></li>
+        <li><div><strong>부서 리그 = 전환율</strong><span class="why">프롬프트 수가 아님. 우승 소감은 “가장 많은 동료를 건졌다”.</span></div></li>
+      </ol>
+
+      <p class="chunk-label">무대로 고정한다</p>
+      <ol class="dir" start="13" style="counter-reset:item 12;">
+        <li><div><strong>피플스초이스 + Adopt</strong><span class="why">시상에서 끝내지 않음. 90일 현업 여부를 다음 타운홀에서 재보고.</span></div></li>
+        <li><div><strong>직원 웹툰 5편</strong><span class="why">보고서가 아니라 닮은 이야기. 엘리베이터 스크린이 아이덴티티.</span></div></li>
+        <li><div><strong>Literacy Day</strong><span class="why">반나절 본업 정지. 선택가가 아니라 운영 이벤트라는 외부 메시지.</span></div></li>
+        <li><div><strong>실패 박람회</strong><span class="why">틀린 날을 수집. 똑똑한 비사용자가 존중하는 포맷. 거버넌스 공동 브랜드.</span></div></li>
+        <li><div><strong>둘이서 하나</strong><span class="why">혼자는 안 열림. 캠페인 메시지는 고수가 아니라 같이 쓰는 문화.</span></div></li>
+        <li><div><strong>현장 보이스 트랙</strong><span class="why">화이트칼라 잔치를 끊음. 현장 1건이 올핸즈에 오르면 전사성이 증명됨.</span></div></li>
+        <li><div><strong>배지 3단 + 평가</strong><span class="why">L1 7일 · L2 동료 3명 · L3 현업 1건. HR과 공동 발표가 아니면 스티커.</span></div></li>
+        <li><div><strong>주간 위너 고정 코너</strong><span class="why">같은 요일, 같은 포맷. 비사용자 출신 절반. 12주면 연말 릴이 됨.</span></div></li>
+      </ol>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="pde">
+      <p class="kicker">Flagship · PDE급</p>
+      <h2 id="pde">해커톤은 점입니다. 이름이 남는 것은 2–3년입니다.</h2>
+      <div class="tri">
+        <article>
+          <p class="idx">본체</p>
+          <h3>Peer-Driven Experimentation</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">분기마다 비사용자 표본 서베이, 메뉴 중 2개 A/B, 산 것만 스케일. 임원 보고는 1페이지.</p>
+        </article>
+        <article>
+          <p class="idx">제품</p>
+          <h3>해커톤 → 현업 파이프라인</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">연 2회. 종료 즉시 Adopt / Incubate / Shelve. Adopt는 90일 내 프로덕션.</p>
+        </article>
+        <article>
+          <p class="idx">사람</p>
+          <h3>현장 셰르파 아카데미</h3>
+          <p class="body mute" style="font-size:14px;line-height:1.6;">커미티를 행사 스태프가 아니라 사내 FDE 1기로 부릅니다.</p>
+        </article>
+      </div>
+      <p class="body faint" style="font-size:14px;margin-top:18px;">회색으로 두는 네 개 — Time-Saved Ledger(CFO 장부), 사내 AI 시민의회(90일 내 수용/보류 공개), 외부 수상 증거 엔진, 직무별 플레이북 출판(저자는 현업, 커미티는 편집).</p>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block" aria-labelledby="days">
+      <p class="kicker">08 / 90 days</p>
+      <h2 id="days">끝나는 날이 보여야, 사람들이 들어옵니다.</h2>
+      <div class="tl">
+        <div class="tl-line" aria-hidden="true">
+          <span class="now"></span>
+          <span></span>
+          <span></span>
+          <span class="later"></span>
+        </div>
+      </div>
+      <div class="phases">
+        <div>
+          <h3>0–2주 · 브랜드와 무대</h3>
+          <p>이름. 스폰서 CEO 또는 CHRO 한 명. 커뮤니케이션·HR·보안 공동 크레딧. 대시보드 v0. 증거 폴더 포맷.</p>
+        </div>
+        <div>
+          <h3>3–6주 · 엔진 3만</h3>
+          <p>지명, 전후 카드+주간 위너, 카페+온램프. 이 기간 올핸즈에 비사용자 1명.</p>
+        </div>
+        <div>
+          <h3>7–10주 · 신뢰</h3>
+          <p>클리닉, 7일 스트릭, 임원 10분 리버스 멘토링.</p>
+        </div>
+        <div>
+          <h3>11–13주 · 무대에서 닫기</h3>
+          <p>미니 해커톤 또는 사람 vs AI. Adopt 판정 공개. 1페이지 리포트를 올핸즈에서 읽게 함. 외부 3분 필름.</p>
+        </div>
+      </div>
+    </section>
+
+    <hr class="rule pad-x">
+
+    <section class="block-end" aria-labelledby="ceo">
+      <p class="kicker">End · CEO pitch</p>
+      <h2 id="ceo">임원에게는 이 네 문장만 읽힙니다.</h2>
+      <blockquote class="pitch">
+        AI COMMITTEE는 스터디가 아니라 전사 비사용자 전환 프로그램의 운영 주체입니다.
+        90일 동안 이름 있는 캠페인으로 첫 과업과 7일 습관을 만들고, 그 과정을 올핸즈와 주간 코너에 고정합니다.
+        1년 안에는 해커톤 산출물을 현업 자산으로 넣고, 전환·신뢰·절감 시간을 한 장부로 보고합니다.
+        성공의 증명은 커미티가 뿌듯한 것이 아니라, CEO가 인용하고 전사가 이름을 알고 외부에 케이스로 나가는 것입니다.
+      </blockquote>
+      <p class="sign">
+        90일 성공의 다섯 조건 — 고유 이름을 과반이 안다 · 어제 비사용자가 올핸즈에 선다 · 주간 코너 8주 무결 · Adopt 3건 · CEO 또는 CHRO의 원 문장.<br>
+        상세 수치와 사례 원문은 사내 플레이북에 있습니다. 이 편지는 결론만 남겼습니다.<br><br>
+        AI Committee · 다음 편은 캠페인명 확정 주
+      </p>
+    </section>
+  </article>
+</body>
+</html>
