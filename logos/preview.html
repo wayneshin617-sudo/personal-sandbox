@@ -5,141 +5,57 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CSC 물류센터 로고</title>
   <style>
-    :root {
-      --ink: #111111;
-      --paper: #f4f4f1;
-      --white: #ffffff;
-      --line: #e3e3de;
-      --muted: #5c5c5c;
-    }
+    :root { --ink: #111; --paper: #f3f3f0; --muted: #5e5e5e; }
     * { box-sizing: border-box; }
-    html, body { margin: 0; padding: 0; }
     body {
+      margin: 0;
       background: var(--paper);
       color: var(--ink);
       font-family: Inter, "Noto Sans", sans-serif;
-      line-height: 1.5;
     }
-    .wrap { max-width: 1120px; margin: 0 auto; padding: 72px 40px 96px; }
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 64px 36px 80px; }
     .eyebrow {
-      margin: 0 0 16px;
+      margin: 0 0 12px;
       font-size: 12px;
-      font-weight: 600;
-      letter-spacing: 0.22em;
+      font-weight: 650;
+      letter-spacing: 0.2em;
     }
-    h1 {
-      margin: 0;
-      font-size: 92px;
-      line-height: 0.9;
-      letter-spacing: -0.045em;
-      font-weight: 700;
-    }
-    .lead {
-      max-width: 560px;
-      margin: 28px 0 0;
-      font-size: 18px;
-      color: var(--muted);
-    }
+    h1 { margin: 0; font-size: 64px; letter-spacing: -0.045em; line-height: 0.95; }
+    .lead { margin: 18px 0 0; max-width: 460px; color: var(--muted); font-size: 17px; }
     .hero {
-      display: grid;
-      grid-template-columns: 1.4fr 0.8fr;
-      gap: 16px;
-      margin-top: 48px;
+      margin-top: 36px;
+      background: #fff;
+      padding: 56px 40px;
+      display: flex;
+      justify-content: center;
     }
-    .panel {
+    .hero img { width: min(100%, 760px); height: auto; }
+    .row { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 16px; margin-top: 16px; }
+    .dark, .light {
+      min-height: 220px;
       display: flex;
       align-items: center;
       justify-content: center;
-      min-height: 280px;
-      padding: 48px;
+      padding: 32px;
     }
-    .panel.light { background: var(--white); }
-    .panel.dark { background: var(--ink); }
-    .panel img { width: min(100%, 520px); height: auto; }
-    .panel.dark img { filter: invert(1); width: min(100%, 420px); }
-    .label {
-      margin: 40px 0 14px;
-      font-size: 12px;
-      font-weight: 600;
-      letter-spacing: 0.18em;
-    }
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 16px;
-    }
-    .card { background: var(--white); padding: 28px 24px 24px; }
-    .card .stage {
-      height: 168px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 20px;
-    }
-    .card img.mark { height: 112px; }
-    .card img.word { width: 100%; max-width: 240px; }
-    .card img.badge { height: 148px; }
-    .card h2 { margin: 0 0 6px; font-size: 18px; letter-spacing: -0.02em; }
+    .dark { background: var(--ink); }
+    .dark img { width: min(100%, 420px); filter: invert(1); }
+    .light { background: #fff; }
+    .light img { width: min(100%, 280px); }
+    .three { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 16px; margin-top: 16px; }
+    .card { background: #fff; padding: 28px; }
+    .card h2 { margin: 18px 0 6px; font-size: 16px; }
     .card p { margin: 0; color: var(--muted); font-size: 14px; }
-    .uses {
-      display: grid;
-      grid-template-columns: 1.4fr 0.8fr;
-      gap: 16px;
-    }
-    .trailer {
-      background: var(--ink);
-      min-height: 220px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 40px 48px;
-    }
-    .trailer img { width: min(100%, 460px); filter: invert(1); }
-    .sign {
-      background: var(--white);
-      min-height: 220px;
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      justify-content: space-between;
-      padding: 28px;
-    }
-    .sign img { height: 72px; }
-    .sign span {
-      font-size: 13px;
-      letter-spacing: 0.16em;
-      font-weight: 600;
-    }
-    .parcel-row {
-      display: grid;
-      grid-template-columns: 280px 1fr;
-      gap: 28px;
-      align-items: center;
-      background: var(--white);
-      padding: 36px;
-    }
-    .parcel-row img { width: 100%; }
-    .parcel-row h2 { margin: 0 0 8px; font-size: 22px; letter-spacing: -0.03em; }
-    .parcel-row p { margin: 0; color: var(--muted); max-width: 460px; }
-    .sizes {
-      display: flex;
-      align-items: flex-end;
-      gap: 36px;
-      background: var(--white);
-      padding: 32px 36px;
-    }
-    .sizes img { height: 96px; }
-    .sizes img.m { height: 56px; }
+    .card .stage { min-height: 140px; display: flex; align-items: center; justify-content: center; }
+    .card img.word { width: min(100%, 420px); }
+    .card img.mark { height: 140px; }
+    .sizes { margin-top: 16px; background: #fff; padding: 28px 32px; display: flex; align-items: flex-end; gap: 28px; }
+    .sizes img { height: 84px; }
+    .sizes img.m { height: 48px; }
     .sizes img.s { height: 32px; }
-    footer {
-      margin-top: 28px;
-      color: var(--muted);
-      font-size: 13px;
-    }
     @media (max-width: 800px) {
-      .wrap { padding: 40px 20px 64px; }
-      h1 { font-size: 64px; }
-      .hero, .grid, .uses, .parcel-row { grid-template-columns: 1fr; }
+      .row, .three { grid-template-columns: 1fr; }
+      h1 { font-size: 44px; }
     }
   </style>
 </head>
@@ -147,65 +63,35 @@
   <main class="wrap">
     <p class="eyebrow">NIKE · LOGISTICS CENTER</p>
     <h1>CSC</h1>
-    <p class="lead">상차 도크, 이니셜, 스우시를 한 마크에 모았습니다. 멀리서 봐도 물류센터로 읽히게 했습니다.</p>
-
-    <section class="hero" aria-label="기본 로고">
-      <div class="panel light">
-        <img src="csc-lockup.svg" alt="CSC 물류센터 기본 로고. 도크 심볼, CSC, 스우시.">
+    <p class="lead">컨테이너 골판, CSC, 스우시를 한 사인으로 묶었습니다.</p>
+    <div class="hero">
+      <img src="csc-lockup.svg" alt="CSC 물류센터 로고. 골판 컨테이너, 스우시, CSC.">
+    </div>
+    <div class="row">
+      <div class="dark">
+        <img src="csc-lockup.svg" alt="흰 배경에 뒤집은 로고가 아니라, 어두운 사인 위의 로고">
       </div>
-      <div class="panel dark">
-        <img src="csc-lockup.svg" alt="어두운 배경의 CSC 로고">
+      <div class="light">
+        <img src="csc-wordmark.svg" alt="스우시와 CSC 워드마크">
       </div>
-    </section>
-
-    <p class="label">구성</p>
-    <section class="grid">
+    </div>
+    <div class="three">
       <article class="card">
-        <div class="stage"><img class="mark" src="csc-mark.svg" alt="도크 심볼"></div>
-        <h2>심볼</h2>
-        <p>캐노피와 도크 두 면입니다. 게이트, 앱, 작은 사인에 단독으로 씁니다.</p>
-      </article>
-      <article class="card">
-        <div class="stage"><img class="word" src="csc-wordmark.svg" alt="CSC 워드마크"></div>
+        <div class="stage"><img class="word" src="csc-wordmark.svg" alt="워드마크"></div>
         <h2>워드마크</h2>
-        <p>CSC 아래에 스우시를 깔았습니다. 글자가 이름이고, 스우시가 나가는 흐름입니다.</p>
+        <p>문서와 벽 사인에 씁니다. 스우시가 이름 위에 있습니다.</p>
       </article>
       <article class="card">
-        <div class="stage"><img class="badge" src="csc-badge.svg" alt="CSC 원형 배지"></div>
-        <h2>배지</h2>
-        <p>차량, 출입증, 유니폼용입니다. 심볼과 이름, 스우시가 원 안에 들어갑니다.</p>
+        <div class="stage"><img class="mark" src="csc-mark.svg" alt="컨테이너 심볼"></div>
+        <h2>심볼</h2>
+        <p>게이트, 앱, 스탬프용입니다. 컨테이너와 스우시만 남깁니다.</p>
       </article>
-    </section>
-
-    <p class="label">쓰는 곳</p>
-    <section class="uses">
-      <div class="trailer" aria-label="트레일러 측면">
-        <img src="csc-lockup.svg" alt="트레일러 측면의 흰 로고">
-      </div>
-      <div class="sign">
-        <img src="csc-mark.svg" alt="안내 사인의 심볼">
-        <span>DOCK</span>
-      </div>
-    </section>
-
-    <p class="label">박스 라벨</p>
-    <section class="parcel-row">
-      <img src="csc-parcel.svg" alt="CSC가 스텐실된 상자 마크">
-      <div>
-        <h2>카톤 마크</h2>
-        <p>토트와 박스 라벨용입니다. 상자 앞면에 스우시와 CSC를 스텐실처럼 뺐습니다. 한눈에 화물로 보입니다.</p>
-      </div>
-    </section>
-
-    <p class="label">크기</p>
-    <div class="sizes" aria-label="축소 테스트">
+    </div>
+    <div class="sizes">
       <img src="csc-lockup.svg" alt="큰 로고">
       <img class="m" src="csc-lockup.svg" alt="중간 로고">
       <img class="s" src="csc-lockup.svg" alt="작은 로고">
-      <img class="s" src="csc-mark.svg" alt="작은 심볼">
     </div>
-
-    <footer>검정 한 색입니다. 밝은 바탕과 어두운 바탕 모두에서 그대로 뒤집어서 쓸 수 있습니다.</footer>
   </main>
 </body>
 </html>
