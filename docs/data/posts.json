@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T23:49:03+00:00",
+  "updatedAt": "2026-10-13T23:50:04+00:00",
   "posts": [
     {
       "id": 1,
@@ -284962,6 +284962,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T23:49:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39722,
+      "source": "yt",
+      "externalId": "UgybiQG12hDH2d1yJsV4AaABAg",
+      "title": "185~186 이겠지 별걸다;;;",
+      "excerpt": "솔로나라 도착해서 키가 1cm 자란 34기 영호 ㅋㅋ [나는솔로34기]",
+      "author": "@calmdown81",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=1Hpa6nEJFzQ&lc=UgybiQG12hDH2d1yJsV4AaABAg",
+      "postedLabel": "27분 전",
+      "postedAt": "2026-10-14T08:22:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T23:50:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39723,
+      "source": "dc",
+      "externalId": "6580737",
+      "title": "쥐우성 입가리고 꺼억꺼억 울때...... ㅠ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580737&page=1",
+      "postedLabel": "08:49",
+      "postedAt": "2026-10-14T08:49:11+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T23:50:04+00:00",
       "isSeed": false
     }
   ]
