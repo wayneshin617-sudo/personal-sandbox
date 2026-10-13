@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T07:07:52+00:00",
+  "updatedAt": "2026-10-13T07:10:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -221730,6 +221730,44 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-13T07:07:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11715,
+      "source": "dc",
+      "externalId": "6580002",
+      "title": "예능보면 병신들마냥 똑같은말하는애들 존나 병신같아 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580002&page=1",
+      "postedLabel": "16:10",
+      "postedAt": "2026-10-13T16:10:06+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:10:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11716,
+      "source": "dc",
+      "externalId": "6580003",
+      "title": "경수가 나서지 않는 이상 인플놀이는 힘들다고 봐야지",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580003&page=1",
+      "postedLabel": "16:10",
+      "postedAt": "2026-10-13T16:10:11+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:10:52+00:00",
       "isSeed": false
     }
   ]
