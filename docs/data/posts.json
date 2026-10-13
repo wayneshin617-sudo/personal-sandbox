@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T12:38:41+00:00",
+  "updatedAt": "2026-10-13T12:41:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -228285,6 +228285,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T12:38:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36739,
+      "source": "dc",
+      "externalId": "6580357",
+      "title": "계약결혼 폐지했으면 좋겠으면 개추",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580357&page=1",
+      "postedLabel": "21:40",
+      "postedAt": "2026-10-13T21:40:44+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T12:41:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36740,
+      "source": "dc",
+      "externalId": "6580358",
+      "title": "[부동산문학] 저는 부동산말고 미국주식 할건데요?",
+      "excerpt": "",
+      "author": "디귿",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580358&page=1",
+      "postedLabel": "21:40",
+      "postedAt": "2026-10-13T21:40:52+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T12:41:41+00:00",
       "isSeed": false
     }
   ]
