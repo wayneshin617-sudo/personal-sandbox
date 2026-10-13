@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T17:48:04+00:00",
+  "updatedAt": "2026-10-13T17:51:04+00:00",
   "posts": [
     {
       "id": 1,
@@ -273904,6 +273904,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T17:48:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39140,
+      "source": "dc",
+      "externalId": "6580575",
+      "title": "요번 이수만이 만든 걸그룹 13 14살이네 ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580575&page=1",
+      "postedLabel": "02:49",
+      "postedAt": "2026-10-14T02:49:57+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T17:51:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39141,
+      "source": "dc",
+      "externalId": "6580576",
+      "title": "폭렬이가 기괴한 이유",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580576&page=1",
+      "postedLabel": "02:50",
+      "postedAt": "2026-10-14T02:50:13+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T17:51:04+00:00",
       "isSeed": false
     }
   ]
