@@ -28,6 +28,7 @@ const SOURCES = {
   dc: { logo: "assets/logo-dc.png", alt: "디시", title: "디시인사이드" },
   blind: { logo: "assets/logo-blind.svg", alt: "블라인드", title: "블라인드" },
   qoo: { logo: "assets/logo-qoo.svg", alt: "더쿠", title: "더쿠" },
+  yt: { logo: "assets/logo-yt.svg", alt: "유튜브", title: "유튜브" },
 };
 
 const numberFormat = new Intl.NumberFormat("ko-KR");
@@ -321,8 +322,14 @@ function relative(iso) {
 }
 
 const STOP_WORDS = new Set(
-  "그리고 근데 그런데 그래서 하지만 이거 저거 그거 진짜 정말 너무 그냥 뭔가 좀 지금 오늘 어제 이번 계속 하는 하면 해서 한데 인데 거든 잖아 아니 아님 이게 그게 저게 뭐야 우리 너희 자기 사람 때문 위해 대해 관련 나는 솔로 있는 없는 같은 같이 이야 ㅋㅋ ㅎㅎ ㅠㅠ ㅜㅜ".split(" "),
+  "그리고 근데 그런데 그래서 하지만 이거 저거 그거 진짜 정말 너무 그냥 뭔가 좀 지금 오늘 어제 이번 계속 하는 하면 해서 한데 인데 거든 잖아 아니 아님 이게 그게 저게 뭐야 우리 너희 자기 사람 때문 위해 대해 관련 나는 솔로 있는 없는 같은 같이 이야 ㅋㅋ ㅎㅎ ㅠㅠ ㅜㅜ 남자 여자".split(" "),
 );
+const PASTELS = [
+  "#ffb4c8", "#ffd0a8", "#fff3a8", "#b8f2c2", "#9eecf5",
+  "#b7d0ff", "#d4c4ff", "#ffc2f2", "#ffb8b0", "#c9e4ff",
+  "#a8f0e0", "#ffe0a3", "#e4c6ff", "#ffc4d4", "#c8f5c4",
+  "#ffd0c2", "#cdd0ff", "#fff0b0", "#b7ead8", "#ffc9b8",
+];
 const PARTICLES = ["처럼", "보다", "에서", "으로", "라고", "은", "는", "이", "가", "을", "를", "도", "만", "와", "과", "의", "께", "랑", "들"];
 const WORD_RE = /[가-힣]{2,}|\d+기/g;
 const cloudEl = document.querySelector("#cloud");
@@ -366,10 +373,10 @@ function wordCounts(posts, since) {
   return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
 }
 
-function cloudOrder(items) {
+function packCenter(items) {
   const left = [];
   const right = [];
-  items.forEach((item, index) => (index % 2 === 0 ? left : right).push(item));
+  items.forEach((item, index) => (index % 2 === 0 ? right : left).push(item));
   return [...left.reverse(), ...right];
 }
 
@@ -387,21 +394,33 @@ function renderCloud(posts) {
   const key = `${posts.length}:${posts[posts.length - 1]?.id || 0}`;
   if (key === cloudKey && cloudEl.childElementCount) return;
   cloudKey = key;
-  const ranked = wordCounts(posts).slice(0, 20);
-  const max = ranked[0]?.[1] || 1;
-  const min = ranked[ranked.length - 1]?.[1] || 1;
-  cloudEl.replaceChildren();
-  for (const [word, count] of cloudOrder(ranked)) {
-    const ratio = max === min ? 1 : (count - min) / (max - min);
+  const ranked = wordCounts(posts).slice(0, 20).map(([word, count], index) => ({
+    word,
+    count,
+    color: PASTELS[index % PASTELS.length],
+  }));
+  const max = ranked[0]?.count || 1;
+  const min = ranked[ranked.length - 1]?.count || 1;
+  const core = packCenter(ranked.slice(0, 5));
+  const rest = ranked.slice(5);
+  cloudEl.replaceChildren(cloudRow(rest.filter((_, index) => index % 2 === 0), max, min), cloudRow(core, max, min), cloudRow(rest.filter((_, index) => index % 2 === 1), max, min));
+}
+
+function cloudRow(items, max, min) {
+  const row = document.createElement("div");
+  row.className = "cloud-row";
+  for (const item of items) {
+    const ratio = max === min ? 1 : (item.count - min) / (max - min);
     const button = document.createElement("button");
     button.type = "button";
-    button.textContent = word;
-    button.title = `${numberFormat.format(count)}번`;
-    button.style.fontSize = `${Math.round(14 + Math.pow(ratio, 0.6) * 28)}px`;
-    button.style.opacity = String(0.55 + ratio * 0.45);
-    button.addEventListener("click", () => applyQuery(word));
-    cloudEl.append(button);
+    button.textContent = item.word;
+    button.title = `${numberFormat.format(item.count)}번`;
+    button.style.setProperty("--u", (3 + ratio * 7).toFixed(2));
+    button.style.color = item.color;
+    button.addEventListener("click", () => applyQuery(item.word));
+    row.append(button);
   }
+  return row;
 }
 
 function deltaMark(word, rank, previous) {
@@ -415,7 +434,7 @@ function deltaMark(word, rank, previous) {
 
 function renderRealtime(posts) {
   const now = Date.now();
-  const ranked = wordCounts(posts, now - 30 * 60 * 1000).slice(0, 10);
+  const ranked = wordCounts(posts, now - 2 * 60 * 60 * 1000).slice(0, 10);
   const words = ranked.map(([word]) => word);
   let compare = null;
   if (!baselineWords) {
@@ -524,7 +543,7 @@ function renderStatus(board) {
   document.querySelector("#stat-live").textContent = numberFormat.format(
     posts.filter((post) => kstDay(post.postedAt || post.firstSeenAt) === today).length,
   );
-  for (const source of ["dc", "blind", "qoo"]) {
+  for (const source of ["dc", "blind", "qoo", "yt"]) {
     const el = document.querySelector("#source-" + source);
     const health = el.querySelector(".health");
     const detail = el.querySelector(".detail");
@@ -636,7 +655,7 @@ if (initialQuery) {
   state.q = initialQuery.trim();
   clearBtn.hidden = false;
 }
-if (initialSource === "dc" || initialSource === "blind" || initialSource === "qoo") state.source = initialSource;
+if (initialSource === "dc" || initialSource === "blind" || initialSource === "qoo" || initialSource === "yt") state.source = initialSource;
 chips.forEach((chip) => chip.setAttribute("aria-pressed", String(chip.dataset.source === state.source)));
 
 function syncUrl() {

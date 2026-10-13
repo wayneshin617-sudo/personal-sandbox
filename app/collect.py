@@ -15,7 +15,15 @@ from pathlib import Path
 
 import httpx
 
-from .parsers import parse_blind, parse_dc, parse_theqoo
+from .parsers import (
+    load_youtube_data,
+    parse_blind,
+    parse_dc,
+    parse_theqoo,
+    parse_youtube_comments,
+    parse_youtube_search,
+    youtube_newest_token,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "docs" / "data" / "posts.json"
@@ -34,6 +42,11 @@ DC_URL = "https://gall.dcinside.com/board/lists/?id=iamsolo&page={page}"
 BLIND_URL = "https://www.teamblind.com/kr/topics/Im%EC%86%94%EB%A1%9C"
 QOO_URL = "https://theqoo.net/iamsolo?page={page}"
 MAX_QOO_PAGES = 80
+YT_SEARCH_URL = "https://www.youtube.com/results?search_query=%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C&sp=CAI%3D"
+MAX_YT_SEARCH_PAGES = 4
+MAX_YT_COMMENT_PAGES = 20
+_YT_KEY = re.compile(r'INNERTUBE_API_KEY":"([^"]+)"')
+_YT_VER = re.compile(r'INNERTUBE_CLIENT_VERSION":"([^"]+)"')
 
 
 def utc_now() -> str:
@@ -96,15 +109,22 @@ def normalize_dc_time(value: str) -> str:
 
 def label_to_time(label: str, now: datetime) -> datetime:
     text = (label or "").strip().replace("작성시간", "").strip()
-    if text in ("", "방금", "조금 전"):
+    text = re.sub(r"\([^)]*\)$", "", text).strip()
+    if text.endswith("전"):
+        text = text[:-1].strip()
+    if text in ("", "방금", "조금"):
         return now
     if text == "어제":
         return now - timedelta(days=1)
     if text == "그저께":
         return now - timedelta(days=2)
-    for suffix, unit in (("분", "minutes"), ("시간", "hours"), ("일", "days")):
+    for suffix, unit in (("분", "minutes"), ("시간", "hours"), ("일", "days"), ("주", "weeks")):
         if text.endswith(suffix) and text[: -len(suffix)].isdigit():
             return now - timedelta(**{unit: int(text[: -len(suffix)])})
+    if text.endswith("개월") and text[:-2].isdigit():
+        return now - timedelta(days=30 * int(text[:-2]))
+    if text.endswith("년") and text[:-1].isdigit():
+        return now - timedelta(days=365 * int(text[:-1]))
     for fmt in ("%Y.%m.%d", "%Y-%m-%d", "%m.%d"):
         try:
             parsed = datetime.strptime(text, fmt)
@@ -325,12 +345,103 @@ def fetch_blind(client: httpx.Client, now: datetime) -> list[dict]:
     return posts
 
 
+def _yt_client_info(html: str) -> tuple[str, str]:
+    key = _YT_KEY.search(html)
+    version = _YT_VER.search(html)
+    if not key or not version:
+        raise RuntimeError("유튜브 화면을 읽지 못했습니다")
+    return key.group(1), version.group(1)
+
+
+def _yt_json(client: httpx.Client, key: str, version: str, endpoint: str, continuation: str) -> dict:
+    payload = {
+        "context": {"client": {"clientName": "WEB", "clientVersion": version, "hl": "ko", "gl": "KR"}},
+        "continuation": continuation,
+    }
+    response = client.post(
+        f"https://www.youtube.com/youtubei/v1/{endpoint}?key={key}&prettyPrint=false",
+        json=payload,
+        headers={"Content-Type": "application/json", "Referer": "https://www.youtube.com/"},
+    )
+    response.raise_for_status()
+    return response.json()
+
+
+def _youtube_comments(
+    client: httpx.Client,
+    key: str,
+    version: str,
+    video: dict,
+    known_ids: set[str],
+    now: datetime,
+    *,
+    backfill: bool,
+) -> list[dict]:
+    html = _get_text(client, f"https://www.youtube.com/watch?v={video['video_id']}", {"Referer": "https://www.youtube.com/"})
+    token = youtube_newest_token(load_youtube_data(html))
+    if not token:
+        return []
+    page_limit = MAX_YT_COMMENT_PAGES if backfill else 3
+    found: list[dict] = []
+    for _page in range(page_limit):
+        data = _yt_json(client, key, version, "next", token)
+        batch, token = parse_youtube_comments(data, video)
+        if not batch:
+            break
+        found.extend(batch)
+        oldest = label_to_time(batch[-1].get("posted_label") or "", now)
+        if oldest < CUTOFF:
+            break
+        if not backfill and any(item["external_id"] in known_ids for item in batch):
+            break
+        if not token:
+            break
+        time.sleep(0.05)
+    return found
+
+
+def fetch_youtube(client: httpx.Client, known_ids: set[str], *, backfill: bool, now: datetime) -> list[dict]:
+    html = _get_text(client, YT_SEARCH_URL, {"Referer": "https://www.youtube.com/"})
+    key, version = _yt_client_info(html)
+    data = load_youtube_data(html)
+    found: list[dict] = []
+    seen_videos: set[str] = set()
+    page_limit = MAX_YT_SEARCH_PAGES if backfill else 1
+    for _page in range(page_limit):
+        videos, token = parse_youtube_search(data)
+        if not videos:
+            break
+        stop_search = False
+        for video in videos:
+            if video["video_id"] in seen_videos:
+                continue
+            seen_videos.add(video["video_id"])
+            label = (video.get("published_label") or "").replace("스트리밍 시간:", "").replace("최초 공개:", "").strip()
+            published = label_to_time(label, now)
+            if published < CUTOFF - timedelta(hours=18):
+                stop_search = True
+                continue
+            batch = _youtube_comments(client, key, version, video, known_ids, now, backfill=backfill)
+            found.extend(batch)
+            print(f"yt {video['video_id']} {video.get('published_label')} comments {len(batch)}", flush=True)
+            time.sleep(0.08)
+        if stop_search or not backfill or not token:
+            break
+        data = _yt_json(client, key, version, "search", token)
+        time.sleep(0.08)
+    if found:
+        stamp_newest_first(found, now, label_to_time)
+    return found
+
+
 def fetch_sources(
     known_dc: set[str],
     known_qoo: set[str],
+    known_yt: set[str],
     *,
     dc_backfill: bool,
     qoo_backfill: bool,
+    yt_backfill: bool,
 ) -> dict[str, list[dict]]:
     headers = {
         "User-Agent": UA,
@@ -339,12 +450,13 @@ def fetch_sources(
     }
     timeout = httpx.Timeout(25.0, connect=8.0)
     now = datetime.now(KST).replace(microsecond=0)
-    fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": []}
+    fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": []}
     with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
         for name, loader in (
             ("dc", lambda: fetch_dc(client, known_dc, backfill=dc_backfill)),
             ("blind", lambda: fetch_blind(client, now)),
             ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now)),
+            ("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now)),
         ):
             try:
                 fetched[name] = loader()
@@ -360,19 +472,36 @@ def main() -> None:
     force = "--backfill" in sys.argv
     dc_backfill = force or source_needs_backfill(board, "dc")
     qoo_backfill = force or source_needs_backfill(board, "qoo")
-    if dc_backfill or qoo_backfill:
+    yt_backfill = force or source_needs_backfill(board, "yt")
+    if dc_backfill or qoo_backfill or yt_backfill:
         board["posts"] = [
             post
             for post in board["posts"]
             if not (
                 (dc_backfill and post.get("source") == "dc")
                 or (qoo_backfill and post.get("source") == "qoo")
+                or (yt_backfill and post.get("source") == "yt")
             )
         ]
-        print("backfill", "dc" if dc_backfill else "", "qoo" if qoo_backfill else "", CUTOFF.isoformat(), flush=True)
+        print(
+            "backfill",
+            "dc" if dc_backfill else "",
+            "qoo" if qoo_backfill else "",
+            "yt" if yt_backfill else "",
+            CUTOFF.isoformat(),
+            flush=True,
+        )
     known_dc = {post["externalId"] for post in board["posts"] if post.get("source") == "dc"}
     known_qoo = {post["externalId"] for post in board["posts"] if post.get("source") == "qoo"}
-    fetched = fetch_sources(known_dc, known_qoo, dc_backfill=dc_backfill, qoo_backfill=qoo_backfill)
+    known_yt = {post["externalId"] for post in board["posts"] if post.get("source") == "yt"}
+    fetched = fetch_sources(
+        known_dc,
+        known_qoo,
+        known_yt,
+        dc_backfill=dc_backfill,
+        qoo_backfill=qoo_backfill,
+        yt_backfill=yt_backfill,
+    )
     added = merge(board, fetched)
     save_board(DATA_PATH, board)
     print(f"added {added} total {len(board['posts'])}")

@@ -48,6 +48,11 @@
           <span class="health" data-health="wait">확인 중</span>
           <p class="detail"></p>
         </li>
+        <li id="source-yt">
+          <span class="mark yt"><img src="assets/logo-yt.svg" alt="">유튜브</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
       </ul>
 
       <p class="since" id="since">목록을 불러오고 있습니다</p>
@@ -64,6 +69,7 @@
           <button type="button" class="chip" data-source="dc" aria-pressed="false">디시</button>
           <button type="button" class="chip" data-source="blind" aria-pressed="false">블라인드</button>
           <button type="button" class="chip" data-source="qoo" aria-pressed="false">더쿠</button>
+          <button type="button" class="chip" data-source="yt" aria-pressed="false">유튜브</button>
         </div>
         <div class="search-row">
           <label class="search">
@@ -81,7 +87,7 @@
               <svg class="realtime-chevron" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.2 7.6 6 3.8l3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </button>
             <div class="realtime-panel" id="realtime-list" hidden>
-              <p class="realtime-head">실시간 검색어 <span>최근 30분</span></p>
+              <p class="realtime-head">실시간 검색어 <span>최근 2시간</span></p>
               <ol id="realtime-items"></ol>
             </div>
           </div>

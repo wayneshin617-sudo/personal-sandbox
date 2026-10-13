@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 from urllib.parse import urljoin, urlparse
 
@@ -221,3 +222,149 @@ def parse_theqoo(html: str) -> list[dict]:
             }
         )
     return posts
+
+
+def load_youtube_data(html: str) -> dict:
+    marker = html.find("ytInitialData")
+    if marker < 0:
+        return {}
+    start = html.find("{", marker)
+    if start < 0:
+        return {}
+    depth = 0
+    for index in range(start, len(html)):
+        char = html[index]
+        if char == "{":
+            depth += 1
+        elif char == "}":
+            depth -= 1
+            if depth == 0:
+                try:
+                    return json.loads(html[start : index + 1])
+                except json.JSONDecodeError:
+                    return {}
+    return {}
+
+
+def _yt_text(node: dict | None) -> str:
+    if not isinstance(node, dict):
+        return ""
+    if node.get("simpleText"):
+        return clean(node["simpleText"])
+    return clean("".join(run.get("text", "") for run in node.get("runs") or []))
+
+
+def _walk(node, visit, depth: int = 0) -> None:
+    if depth > 24:
+        return
+    if isinstance(node, dict):
+        visit(node)
+        for value in node.values():
+            _walk(value, visit, depth + 1)
+    elif isinstance(node, list):
+        for value in node:
+            _walk(value, visit, depth + 1)
+
+
+def parse_youtube_search(data: dict) -> tuple[list[dict], str]:
+    """업로드순 검색 결과에서 영상과 다음 페이지 토큰을 읽는다."""
+    videos: list[dict] = []
+    seen: set[str] = set()
+
+    def visit(node: dict) -> None:
+        renderer = node.get("videoRenderer")
+        if not isinstance(renderer, dict):
+            return
+        video_id = clean(renderer.get("videoId"))
+        title = _yt_text(renderer.get("title"))
+        if not video_id or not title or video_id in seen:
+            return
+        seen.add(video_id)
+        videos.append(
+            {
+                "video_id": video_id,
+                "title": title[:180],
+                "author": _yt_text(renderer.get("ownerText")) or "유튜브",
+                "published_label": _yt_text(renderer.get("publishedTimeText")),
+            }
+        )
+
+    _walk(data, visit)
+    return videos, _youtube_continuation(data)
+
+
+def parse_youtube_comments(data: dict, video: dict) -> tuple[list[dict], str]:
+    """최신순 댓글 응답에서 원댓글만 읽는다."""
+    comments: list[dict] = []
+    seen: set[str] = set()
+    video_id = video["video_id"]
+    video_title = video.get("title") or ""
+
+    def visit(node: dict) -> None:
+        payload = node.get("commentEntityPayload")
+        if not isinstance(payload, dict):
+            return
+        props = payload.get("properties") or {}
+        if props.get("replyLevel") not in (0, None):
+            return
+        comment_id = clean(props.get("commentId"))
+        content = clean((props.get("content") or {}).get("content"))
+        if not comment_id or not content or comment_id in seen:
+            return
+        seen.add(comment_id)
+        author = clean((payload.get("author") or {}).get("displayName")) or "유튜브"
+        comments.append(
+            {
+                "source": "yt",
+                "external_id": comment_id,
+                "title": content[:300],
+                "excerpt": video_title[:120],
+                "author": author[:80],
+                "company": "",
+                "ip": "",
+                "badge": "",
+                "url": f"https://www.youtube.com/watch?v={video_id}&lc={comment_id}",
+                "posted_label": clean(props.get("publishedTime")) or "방금",
+                "posted_at": "",
+                "views": None,
+                "recommends": None,
+                "comments": None,
+                "video_id": video_id,
+            }
+        )
+
+    _walk(data, visit)
+    return comments, _youtube_continuation(data)
+
+
+def youtube_newest_token(data: dict) -> str:
+    found = ""
+
+    def visit(node: dict) -> None:
+        nonlocal found
+        header = node.get("engagementPanelTitleHeaderRenderer")
+        if not isinstance(header, dict):
+            return
+        items = ((header.get("menu") or {}).get("sortFilterSubMenuRenderer") or {}).get("subMenuItems") or []
+        for item in items:
+            if item.get("title") == "최신순":
+                found = ((item.get("serviceEndpoint") or {}).get("continuationCommand") or {}).get("token") or found
+
+    _walk(data, visit)
+    return found
+
+
+def _youtube_continuation(data: dict) -> str:
+    found = ""
+
+    def visit(node: dict) -> None:
+        nonlocal found
+        renderer = node.get("continuationItemRenderer")
+        if not isinstance(renderer, dict):
+            return
+        token = ((renderer.get("continuationEndpoint") or {}).get("continuationCommand") or {}).get("token") or ""
+        if token:
+            found = token
+
+    _walk(data, visit)
+    return found

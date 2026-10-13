@@ -3,7 +3,7 @@ import unittest
 from datetime import datetime, timedelta, timezone
 
 from app.collect import assign_blind_times, empty_board, merge, qoo_label_time
-from app.parsers import parse_blind, parse_dc, parse_theqoo
+from app.parsers import parse_blind, parse_dc, parse_theqoo, parse_youtube_comments, parse_youtube_search
 
 DC_HTML = """
 <table>
@@ -116,6 +116,51 @@ class ParserTest(unittest.TestCase):
         self.assertEqual(post["views"], 131)
         self.assertEqual(post["comments"], 3)
         self.assertEqual(post["url"], "https://theqoo.net/iamsolo/4374217007")
+
+    def test_youtube_search_and_top_level_comments(self):
+        videos, _token = parse_youtube_search(
+            {
+                "videoRenderer": {
+                    "videoId": "abc123",
+                    "title": {"simpleText": "34기 예고"},
+                    "ownerText": {"runs": [{"text": "촌장"}]},
+                    "publishedTimeText": {"simpleText": "5일 전"},
+                }
+            }
+        )
+        self.assertEqual(videos[0]["video_id"], "abc123")
+        self.assertEqual(videos[0]["published_label"], "5일 전")
+        comments, _next = parse_youtube_comments(
+            {
+                "a": {
+                    "commentEntityPayload": {
+                        "properties": {
+                            "commentId": "cid1",
+                            "replyLevel": 0,
+                            "content": {"content": "영숙 미쳤다"},
+                            "publishedTime": "2시간 전",
+                        },
+                        "author": {"displayName": "@viewer"},
+                    }
+                },
+                "b": {
+                    "commentEntityPayload": {
+                        "properties": {
+                            "commentId": "cid2",
+                            "replyLevel": 1,
+                            "content": {"content": "답글"},
+                            "publishedTime": "1시간 전",
+                        },
+                        "author": {"displayName": "@reply"},
+                    }
+                },
+            },
+            videos[0],
+        )
+        self.assertEqual(len(comments), 1)
+        self.assertEqual(comments[0]["title"], "영숙 미쳤다")
+        self.assertEqual(comments[0]["source"], "yt")
+        self.assertIn("v=abc123", comments[0]["url"])
 
 
 def sample(external_id, title, posted_at="2026-10-13T12:00:00+09:00"):
