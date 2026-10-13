@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T20:17:24+00:00",
+  "updatedAt": "2026-10-13T20:29:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -281998,6 +281998,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T20:17:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39566,
+      "source": "dc",
+      "externalId": "6580642",
+      "title": "16상철 좀 웃긴게",
+      "excerpt": "",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580642&page=1",
+      "postedLabel": "05:28",
+      "postedAt": "2026-10-14T05:28:50+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T20:29:23+00:00",
       "isSeed": false
     }
   ]
