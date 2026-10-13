@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T11:01:26+00:00",
+  "updatedAt": "2026-10-13T11:02:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -226499,6 +226499,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T11:01:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26769,
+      "source": "dc",
+      "externalId": "6580267",
+      "title": "31기 경수 커플 미래",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580267&page=1",
+      "postedLabel": "20:01",
+      "postedAt": "2026-10-13T20:01:23+09:00",
+      "views": 14,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T11:02:25+00:00",
       "isSeed": false
     }
   ]
