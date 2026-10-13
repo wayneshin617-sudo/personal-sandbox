@@ -16,7 +16,7 @@
       <div class="brand">
         <p class="live"><span class="pulse"></span>LIVE</p>
         <h1><span>나는솔로</span><span>댓글 몰아보기</span></h1>
-        <p class="lede">디시인사이드 나는 솔로 갤러리, 블라인드 I'm솔로, 더쿠 나는 SOLO 글 제목입니다. 10월 7일 밤 10시 30분부터 모았고, 오래된 글이 위, 방금 올라온 글이 아래입니다.</p>
+        <p class="lede">나는솔로 이야기를 한자리에 모아 둡니다.</p>
       </div>
 
       <dl class="figures">
@@ -29,6 +29,8 @@
           <dd id="stat-live">0</dd>
         </div>
       </dl>
+
+      <section class="cloud" id="cloud" aria-label="많이 나오는 말"></section>
 
       <ul class="sources">
         <li id="source-dc">
@@ -63,12 +65,27 @@
           <button type="button" class="chip" data-source="blind" aria-pressed="false">블라인드</button>
           <button type="button" class="chip" data-source="qoo" aria-pressed="false">더쿠</button>
         </div>
-        <label class="search">
-          <span class="sr">키워드 검색</span>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.25" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 16.5 20 20.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
-          <input id="q" type="text" inputmode="search" enterkeyhint="search" placeholder="키워드를 입력하면 그 글만 모아 봅니다" maxlength="80">
-          <button id="clear" type="button" hidden>지우기</button>
-        </label>
+        <div class="search-row">
+          <label class="search">
+            <span class="sr">키워드 검색</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.25" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 16.5 20 20.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+            <input id="q" type="text" inputmode="search" enterkeyhint="search" placeholder="키워드를 입력하면 그 글만 모아 봅니다" maxlength="80">
+            <button id="clear" type="button" hidden>지우기</button>
+          </label>
+          <div class="realtime" id="realtime">
+            <button type="button" class="realtime-current" aria-expanded="false" aria-controls="realtime-list">
+              <span class="realtime-rank" id="realtime-rank">–</span>
+              <span class="realtime-window">
+                <span class="realtime-track" id="realtime-track"><span>집계 중</span></span>
+              </span>
+              <svg class="realtime-chevron" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.2 7.6 6 3.8l3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+            <div class="realtime-panel" id="realtime-list" hidden>
+              <p class="realtime-head">실시간 검색어 <span>최근 30분</span></p>
+              <ol id="realtime-items"></ol>
+            </div>
+          </div>
+        </div>
         <p id="result-note" hidden></p>
       </form>
     </section>
