@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:56:02+00:00",
+  "updatedAt": "2026-10-13T08:57:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -224143,6 +224143,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-13T08:56:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17570,
+      "source": "dc",
+      "externalId": "6580143",
+      "title": "정통보수인데 대구 경북 이 개새끼들이 ㄹㅇ 악질임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580143&page=1",
+      "postedLabel": "17:55",
+      "postedAt": "2026-10-13T17:55:58+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:57:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17571,
+      "source": "dc",
+      "externalId": "6580144",
+      "title": "31경수는 30영수랑 다르게 결혼에 대한 답변은 절때 안함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580144&page=1",
+      "postedLabel": "17:56",
+      "postedAt": "2026-10-13T17:56:46+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:57:01+00:00",
       "isSeed": false
     }
   ]
