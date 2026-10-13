@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T16:20:04+00:00",
+  "updatedAt": "2026-10-13T16:22:03+00:00",
   "posts": [
     {
       "id": 1,
@@ -273182,6 +273182,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T16:20:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39102,
+      "source": "dc",
+      "externalId": "6580525",
+      "title": "경기도 대학은 따로 묶는게 낫다고봄.",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580525&page=1",
+      "postedLabel": "01:21",
+      "postedAt": "2026-10-14T01:21:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T16:22:03+00:00",
       "isSeed": false
     }
   ]
