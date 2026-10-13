@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T12:59:41+00:00",
+  "updatedAt": "2026-10-13T13:01:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -228627,6 +228627,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T12:59:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36757,
+      "source": "dc",
+      "externalId": "6580377",
+      "title": "영수는 정우성이 아니라 철구가 보이는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580377&page=1",
+      "postedLabel": "22:00",
+      "postedAt": "2026-10-13T22:00:53+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:01:42+00:00",
       "isSeed": false
     }
   ]
