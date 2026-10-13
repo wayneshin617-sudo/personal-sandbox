@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T06:46:53+00:00",
+  "updatedAt": "2026-10-13T06:49:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -221426,6 +221426,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-13T06:46:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11699,
+      "source": "dc",
+      "externalId": "6579984",
+      "title": "순자 인스타 홍보전 올라온사진 순자벽에있고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6579984&page=1",
+      "postedLabel": "15:49",
+      "postedAt": "2026-10-13T15:49:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T06:49:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11700,
+      "source": "dc",
+      "externalId": "6579985",
+      "title": "돌싱 국화가 몇살임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6579985&page=1",
+      "postedLabel": "15:49",
+      "postedAt": "2026-10-13T15:49:50+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T06:49:53+00:00",
       "isSeed": false
     }
   ]
