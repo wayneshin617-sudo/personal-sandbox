@@ -436,6 +436,42 @@ function overlaps(a, b, pad) {
   return a.x < b.x + b.w + pad && a.x + a.w + pad > b.x && a.y < b.y + b.h + pad && a.y + a.h + pad > b.y;
 }
 
+function insideHeart(px, py, width, height) {
+  const nx = (px / width) * 2 - 1;
+  const ny = (py / height) * 2 - 1;
+  const x = nx * 1.02;
+  const y = -ny * 1.08 + 0.16;
+  const a = x * x + y * y - 1;
+  return a * a * a - x * x * y ** 3 <= 0;
+}
+
+function heartAnchorRank(anchor, index, total) {
+  const lobe = anchor[1] < 0.24;
+  const tip = anchor[1] > 0.82;
+  if (index < 7 && (lobe || tip)) return 8 + anchor[1];
+  const edge = Math.hypot(anchor[0] - 0.5, (anchor[1] - 0.46) * 0.85);
+  const want = total <= 1 ? 0 : index / (total - 1);
+  return Math.abs(edge - want * 0.72);
+}
+
+function crossesCleft(box, width, height) {
+  if (box.y > height * 0.24) return false;
+  const mid = width / 2;
+  return box.x < mid - 6 && box.x + box.w > mid + 6;
+}
+
+function boxInHeart(box, width, height) {
+  const inset = 1;
+  const points = [
+    [box.x + box.w / 2, box.y + box.h / 2],
+    [box.x + inset, box.y + inset],
+    [box.x + box.w - inset, box.y + inset],
+    [box.x + inset, box.y + box.h - inset],
+    [box.x + box.w - inset, box.y + box.h - inset],
+  ];
+  return points.every(([x, y]) => insideHeart(x, y, width, height));
+}
+
 function layoutCloud() {
   if (!cloudWords.length) {
     cloudEl.replaceChildren();
@@ -448,7 +484,7 @@ function layoutCloud() {
   cloudLayoutWidth = width;
   const max = cloudWords[0].count;
   const min = cloudWords[cloudWords.length - 1].count;
-  const baseMax = Math.max(34, Math.min(width * 0.24, height * 0.32, 60));
+  const baseMax = Math.max(30, Math.min(width * 0.19, height * 0.2, 48));
   const baseMin = Math.max(12, baseMax * 0.17);
   let scale = 1;
   let buttons = [];
@@ -468,28 +504,57 @@ function layoutCloud() {
     });
     cloudEl.replaceChildren(...buttons);
     const measures = buttons.map((button) => ({ w: button.offsetWidth, h: button.offsetHeight }));
-    const cx = width / 2;
-    const cy = height / 2;
-    const limit = Math.min(width, height) / 2 - 1;
+    const anchors = [
+      [0.5, 0.4],
+      [0.3, 0.2], [0.7, 0.2],
+      [0.18, 0.34], [0.82, 0.34],
+      [0.38, 0.28], [0.62, 0.28],
+      [0.5, 0.56],
+      [0.28, 0.5], [0.72, 0.5],
+      [0.4, 0.68], [0.6, 0.68],
+      [0.22, 0.58], [0.78, 0.58],
+      [0.5, 0.78],
+      [0.34, 0.78], [0.66, 0.78],
+      [0.5, 0.9],
+      [0.42, 0.16], [0.58, 0.16],
+    ];
     const placed = [];
     points = [];
     let missed = false;
+    const used = new Set();
     for (let index = 0; index < buttons.length; index += 1) {
       const w = measures[index].w;
       const h = measures[index].h;
       let spot = null;
-      for (let step = 0; step < 1600; step += 1) {
-        const angle = step * 0.42;
-        const radius = step * 0.38;
-        const px = cx + Math.cos(angle) * radius;
-        const py = cy + Math.sin(angle) * radius;
-        if (Math.hypot(px - cx, py - cy) > limit) continue;
+      const order = anchors
+        .map((anchor, anchorIndex) => ({ anchor, anchorIndex }))
+        .filter((item) => !used.has(item.anchorIndex))
+        .sort((a, b) => heartAnchorRank(a.anchor, index, buttons.length) - heartAnchorRank(b.anchor, index, buttons.length));
+      for (const item of order) {
+        const px = item.anchor[0] * width;
+        const py = item.anchor[1] * height;
         const box = { x: px - w / 2, y: py - h / 2, w, h };
-        if (box.x < -1 || box.y < -1 || box.x + box.w > width + 1 || box.y + box.h > height + 1) continue;
-        if (placed.some((item) => overlaps(item, box, 2))) continue;
+        if (box.x < 0 || box.y < 0 || box.x + box.w > width || box.y + box.h > height) continue;
+        if (!boxInHeart(box, width, height) || crossesCleft(box, width, height)) continue;
+        if (placed.some((other) => overlaps(other, box, 1))) continue;
         spot = { x: px, y: py };
+        used.add(item.anchorIndex);
         placed.push(box);
         break;
+      }
+      if (!spot) {
+        for (let step = 0; step < 1800 && !spot; step += 1) {
+          const angle = step * 0.4;
+          const radius = step * 0.36;
+          const px = width / 2 + Math.cos(angle) * radius;
+          const py = height * 0.46 + Math.sin(angle) * radius * 1.15;
+          const box = { x: px - w / 2, y: py - h / 2, w, h };
+          if (box.x < 0 || box.y < 0 || box.x + box.w > width || box.y + box.h > height) continue;
+          if (!boxInHeart(box, width, height) || crossesCleft(box, width, height)) continue;
+          if (placed.some((other) => overlaps(other, box, 1))) continue;
+          spot = { x: px, y: py };
+          placed.push(box);
+        }
       }
       if (!spot) {
         missed = true;
@@ -651,7 +716,8 @@ function renderStatus(board) {
     const count = posts.filter((post) => post.source === source).length;
     health.dataset.health = count ? "ok" : "wait";
     health.textContent = count ? `${numberFormat.format(count)}건` : "대기";
-    detail.textContent = relative(board.updatedAt);
+    const when = source === "yt" ? board.youtubeUpdatedAt || board.updatedAt : board.updatedAt;
+    detail.textContent = relative(when);
   }
   const since = document.querySelector("#since");
   if (board.startedAt) {
@@ -727,7 +793,7 @@ async function loadBoard() {
       if (state.ready && (meta.updatedAt || "") === stamp) {
         const extra = await loadYoutube();
         if ((extra?.updatedAt || "") === ytStamp) {
-          renderStatus({ ...meta, posts: allPosts });
+          renderStatus({ ...meta, posts: allPosts, youtubeUpdatedAt: ytStamp });
           return null;
         }
         ytStamp = extra?.updatedAt || "";
@@ -761,7 +827,8 @@ async function loadYoutube() {
 }
 
 function absorbYoutube(board, extra) {
-  if (!extra?.posts?.length) return board;
+  const youtubeUpdatedAt = extra?.updatedAt || board.youtubeUpdatedAt || "";
+  if (!extra?.posts?.length) return { ...board, youtubeUpdatedAt };
   const posts = [...(board.posts || [])];
   const seen = new Set(posts.map((post) => `${post.source}:${post.externalId}`));
   let next = posts.reduce((max, post) => Math.max(max, post.id || 0), 0);
@@ -771,7 +838,7 @@ function absorbYoutube(board, extra) {
     seen.add(`yt:${post.externalId}`);
     posts.push({ ...post, id: next });
   }
-  return { ...board, posts };
+  return { ...board, posts, youtubeUpdatedAt };
 }
 
 function scheduleSearch() {

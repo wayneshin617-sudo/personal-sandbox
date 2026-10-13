@@ -15,7 +15,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: solo-youtube
+  group: solo-youtube-live
   cancel-in-progress: false
 
 jobs:
@@ -37,18 +37,20 @@ jobs:
           set -u
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          export GIT_TERMINAL_PROMPT=0
           git fetch origin main
           git checkout -B main origin/main
           deadline=$((SECONDS + 170 * 60))
           while [ "$SECONDS" -lt "$deadline" ]; do
             start=$SECONDS
-            python -m app.collect --youtube-only || echo "유튜브 수집 실패, 다음 분에 다시 시도"
+            timeout 100 python -m app.collect --youtube-only || echo "유튜브 수집 실패, 다음 분에 다시 시도"
             git add docs/data/youtube.json
             if ! git diff --cached --quiet; then
               git commit -m "유튜브 댓글 반영"
               pushed=0
               for attempt in 1 2 3 4 5; do
-                if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+                git rebase --abort >/dev/null 2>&1 || true
+                if timeout 50 git pull --rebase --autostash origin main && timeout 40 git push origin HEAD:main; then
                   pushed=1
                   break
                 fi
