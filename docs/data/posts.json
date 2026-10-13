@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T09:45:24+00:00",
+  "updatedAt": "2026-10-13T09:46:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -225359,6 +225359,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T09:45:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26709,
+      "source": "dc",
+      "externalId": "6580202",
+      "title": "순자줌 벌써 40살이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580202&page=1",
+      "postedLabel": "18:45",
+      "postedAt": "2026-10-13T18:45:20+09:00",
+      "views": 14,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T09:46:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26710,
+      "source": "dc",
+      "externalId": "6580204",
+      "title": "혼인신고하는 순간 경수인생 쫑남..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580204&page=1",
+      "postedLabel": "18:45",
+      "postedAt": "2026-10-13T18:45:37+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T09:46:25+00:00",
       "isSeed": false
     }
   ]
