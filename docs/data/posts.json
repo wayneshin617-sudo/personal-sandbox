@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T17:39:04+00:00",
+  "updatedAt": "2026-10-13T17:43:03+00:00",
   "posts": [
     {
       "id": 1,
@@ -273828,6 +273828,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T17:39:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39136,
+      "source": "dc",
+      "externalId": "6580570",
+      "title": "34현숙 한소희 살짝 있네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580570&page=1",
+      "postedLabel": "02:42",
+      "postedAt": "2026-10-14T02:42:11+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T17:43:03+00:00",
       "isSeed": false
     }
   ]
