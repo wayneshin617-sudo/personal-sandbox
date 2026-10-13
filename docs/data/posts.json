@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T14:53:33+00:00",
+  "updatedAt": "2026-10-13T14:54:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -230337,6 +230337,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-13T14:53:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36847,
+      "source": "dc",
+      "externalId": "6580473",
+      "title": "삭제직전 유튭 링크좌표",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580473&page=1",
+      "postedLabel": "23:54",
+      "postedAt": "2026-10-13T23:54:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:54:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36848,
+      "source": "blind",
+      "externalId": "/kr/post/28%EA%B8%B0-%EC%98%81%EC%88%99%EC%9D%B4%EB%8A%94-oc8tluy0",
+      "title": "28기 영숙이는",
+      "excerpt": "남자 잘 만났으면 행복하게 살았을듯ㅋ 남자 잡도리좀 할거 같긴한데 집안일하는거나 남자챙기는거나 좀 맞는 사람 만났으면 하는 아쉬움이 있네",
+      "author": "B*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/28%EA%B8%B0-%EC%98%81%EC%88%99%EC%9D%B4%EB%8A%94-oc8tluy0",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T23:54:30+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T14:54:41+00:00",
       "isSeed": false
     }
   ]
