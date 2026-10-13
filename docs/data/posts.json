@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T13:57:41+00:00",
+  "updatedAt": "2026-10-13T14:00:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -229425,6 +229425,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-13T13:57:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36799,
+      "source": "dc",
+      "externalId": "6580421",
+      "title": "같은 9급끼리도 자격지심을 느끼나??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580421&page=1",
+      "postedLabel": "23:00",
+      "postedAt": "2026-10-13T23:00:16+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:00:42+00:00",
       "isSeed": false
     }
   ]
