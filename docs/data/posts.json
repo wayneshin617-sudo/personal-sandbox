@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T10:29:24+00:00",
+  "updatedAt": "2026-10-13T10:30:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -226100,6 +226100,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T10:29:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26748,
+      "source": "dc",
+      "externalId": "6580244",
+      "title": "28광수정희 진짜 왜 헤어진거야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580244&page=1",
+      "postedLabel": "19:29",
+      "postedAt": "2026-10-13T19:29:50+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T10:30:26+00:00",
       "isSeed": false
     }
   ]
