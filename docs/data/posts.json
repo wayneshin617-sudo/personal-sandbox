@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T15:55:04+00:00",
+  "updatedAt": "2026-10-13T15:59:04+00:00",
   "posts": [
     {
       "id": 1,
@@ -272897,6 +272897,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T15:55:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39087,
+      "source": "dc",
+      "externalId": "6580508",
+      "title": "31순자가 영자 버린 이유",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580508&page=1",
+      "postedLabel": "00:58",
+      "postedAt": "2026-10-14T00:58:09+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T15:59:04+00:00",
       "isSeed": false
     }
   ]
