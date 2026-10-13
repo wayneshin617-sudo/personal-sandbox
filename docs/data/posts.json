@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:19:02+00:00",
+  "updatedAt": "2026-10-13T08:21:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -223212,6 +223212,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T08:19:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17521,
+      "source": "dc",
+      "externalId": "6580095",
+      "title": "또 키작남이야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580095&page=1",
+      "postedLabel": "17:20",
+      "postedAt": "2026-10-13T17:20:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:21:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17522,
+      "source": "dc",
+      "externalId": "6580096",
+      "title": "댓글도배 진짜 심하다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580096&page=1",
+      "postedLabel": "17:20",
+      "postedAt": "2026-10-13T17:20:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:21:02+00:00",
       "isSeed": false
     }
   ]
