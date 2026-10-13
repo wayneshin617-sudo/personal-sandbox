@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T14:09:42+00:00",
+  "updatedAt": "2026-10-13T14:12:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -229634,6 +229634,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T14:09:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36810,
+      "source": "dc",
+      "externalId": "6580435",
+      "title": "의사, 한의사, 약사 이런데 외모랑 피지컬이 빼어나지 않으면 그냥",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.251",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580435&page=1",
+      "postedLabel": "23:11",
+      "postedAt": "2026-10-13T23:11:49+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:12:42+00:00",
       "isSeed": false
     }
   ]
