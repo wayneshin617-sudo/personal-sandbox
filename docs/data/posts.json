@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T14:31:41+00:00",
+  "updatedAt": "2026-10-13T14:33:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -229900,6 +229900,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-13T14:31:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36824,
+      "source": "dc",
+      "externalId": "6580450",
+      "title": "러시아에 기름대주고 브라질에 계란값800억 준",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580450&page=1",
+      "postedLabel": "23:33",
+      "postedAt": "2026-10-13T23:33:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:33:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36825,
+      "source": "dc",
+      "externalId": "6580451",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "169.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580451&page=1",
+      "postedLabel": "23:33",
+      "postedAt": "2026-10-13T23:33:24+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:33:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36826,
+      "source": "blind",
+      "externalId": "/kr/post/28%EC%98%81%EC%88%99-%EC%98%88%EC%81%98%EB%8B%A4-oh0cw56q",
+      "title": "28영숙 예쁘다",
+      "excerpt": "키크고 늘씬하고 피부도 좋고.. 근데 왜 16상철을…ㅠ",
+      "author": "i********",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/28%EC%98%81%EC%88%99-%EC%98%88%EC%81%98%EB%8B%A4-oh0cw56q",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T23:33:30+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T14:33:42+00:00",
       "isSeed": false
     }
   ]
