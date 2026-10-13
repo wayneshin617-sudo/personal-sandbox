@@ -1,0 +1,76 @@
+name: Collect YouTube
+
+# 다른 수집이 글을 쓰는 동안에도 유튜브 댓글만 1분마다 따로 갱신한다.
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/collect-yt.yml
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: solo-youtube
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Collect YouTube every minute
+        run: |
+          set -u
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -B main origin/main
+          deadline=$((SECONDS + 170 * 60))
+          while [ "$SECONDS" -lt "$deadline" ]; do
+            start=$SECONDS
+            python -m app.collect --youtube-only || echo "유튜브 수집 실패, 다음 분에 다시 시도"
+            git add docs/data/youtube.json
+            if ! git diff --cached --quiet; then
+              git commit -m "유튜브 댓글 반영"
+              pushed=0
+              for attempt in 1 2 3 4 5; do
+                if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+                  pushed=1
+                  break
+                fi
+                sleep $((attempt * 2))
+              done
+              if [ "$pushed" -eq 1 ]; then
+                gh workflow run "Publish website" --ref main || echo "사이트 배포 요청 실패"
+              else
+                echo "푸시 실패"
+              fi
+            else
+              echo "새 유튜브 댓글 없음"
+            fi
+            elapsed=$((SECONDS - start))
+            if [ "$elapsed" -lt 60 ]; then
+              sleep $((60 - elapsed))
+            fi
+          done
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Queue the next YouTube collect
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run collect-yt.yml --ref main

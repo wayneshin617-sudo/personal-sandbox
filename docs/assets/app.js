@@ -624,8 +624,13 @@ async function loadBoard() {
     if (metaResponse.ok) {
       const meta = await metaResponse.json();
       if (state.ready && (meta.updatedAt || "") === stamp) {
-        renderStatus({ ...meta, posts: allPosts });
-        return null;
+        const extra = await loadYoutube();
+        if ((extra?.updatedAt || "") === ytStamp) {
+          renderStatus({ ...meta, posts: allPosts });
+          return null;
+        }
+        ytStamp = extra?.updatedAt || "";
+        return absorbYoutube({ ...meta, posts: allPosts }, extra);
       }
     }
   } catch {
@@ -635,7 +640,37 @@ async function loadBoard() {
   url.searchParams.set("t", String(Date.now()));
   const response = await fetch(url, { cache: "no-store" });
   if (!response.ok) throw new Error("목록을 불러오지 못했습니다");
-  return response.json();
+  const extra = await loadYoutube();
+  ytStamp = extra?.updatedAt || "";
+  return absorbYoutube(await response.json(), extra);
+}
+
+let ytStamp = "";
+
+async function loadYoutube() {
+  const url = new URL("data/youtube.json", document.baseURI);
+  url.searchParams.set("t", String(Date.now()));
+  try {
+    const response = await fetch(url, { cache: "no-store" });
+    if (!response.ok) return null;
+    return response.json();
+  } catch {
+    return null;
+  }
+}
+
+function absorbYoutube(board, extra) {
+  if (!extra?.posts?.length) return board;
+  const posts = [...(board.posts || [])];
+  const seen = new Set(posts.map((post) => `${post.source}:${post.externalId}`));
+  let next = posts.reduce((max, post) => Math.max(max, post.id || 0), 0);
+  for (const post of extra.posts) {
+    if (post.source !== "yt" || seen.has(`yt:${post.externalId}`)) continue;
+    next += 1;
+    seen.add(`yt:${post.externalId}`);
+    posts.push({ ...post, id: next });
+  }
+  return { ...board, posts };
 }
 
 function scheduleSearch() {

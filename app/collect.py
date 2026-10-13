@@ -28,6 +28,7 @@ from .parsers import (
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "docs" / "data" / "posts.json"
 META_PATH = ROOT / "docs" / "data" / "meta.json"
+YT_PATH = ROOT / "docs" / "data" / "youtube.json"
 
 KST = timezone(timedelta(hours=9))
 CUTOFF = datetime(2026, 10, 7, 22, 30, tzinfo=KST)
@@ -507,5 +508,30 @@ def main() -> None:
     print(f"added {added} total {len(board['posts'])}")
 
 
+def export_youtube() -> None:
+    """유튜브 댓글만 따로 저장한다. 다른 수집이 글을 쓰는 중에도 겹치지 않게."""
+    board = load_board(YT_PATH) if YT_PATH.exists() else empty_board()
+    board["posts"] = [post for post in board["posts"] if post.get("source") == "yt"]
+    backfill = source_needs_backfill(board, "yt")
+    known = {post["externalId"] for post in board["posts"]}
+    headers = {
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
+    }
+    now = datetime.now(KST).replace(microsecond=0)
+    timeout = httpx.Timeout(25.0, connect=8.0)
+    with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
+        fetched = fetch_youtube(client, known, backfill=backfill, now=now)
+    added = merge(board, {"yt": fetched})
+    board["updatedAt"] = utc_now()
+    YT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    YT_PATH.write_text(json.dumps(board, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"youtube added {added} total {len(board['posts'])}")
+
+
 if __name__ == "__main__":
-    main()
+    if "--youtube-only" in sys.argv:
+        export_youtube()
+    else:
+        main()
