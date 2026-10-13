@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:55:02+00:00",
+  "updatedAt": "2026-10-13T08:56:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -224086,6 +224086,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-13T08:55:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17567,
+      "source": "dc",
+      "externalId": "6580141",
+      "title": "34기에 경.수 없지?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580141&page=1",
+      "postedLabel": "17:55",
+      "postedAt": "2026-10-13T17:55:25+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:56:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17568,
+      "source": "dc",
+      "externalId": "6580142",
+      "title": "[속보]새마을금고도 해킹…고객 400여 명 주민등록번호 등 민감 개인정보",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580142&page=1",
+      "postedLabel": "17:55",
+      "postedAt": "2026-10-13T17:55:42+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:56:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17569,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%97%AC%EC%B6%9C-%EB%B9%8C%EB%9F%B0-%EB%8B%A4%EB%93%A4-%EC%98%81%EC%88%99%EC%9D%BC%EA%BA%BC%EB%9D%BC-%ED%95%98%EC%A7%80%EB%A7%8C-%EC%98%81%EC%9E%90%EC%9D%BC%EA%BA%BC%EB%9D%BC%EB%B3%B8%EB%8B%A4-s5qeavgj",
+      "title": "34기 여출 빌런 다들 영숙일꺼라 하지만 영자일꺼라본다",
+      "excerpt": "촉이옴",
+      "author": "i********",
+      "company": "LS전선",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%97%AC%EC%B6%9C-%EB%B9%8C%EB%9F%B0-%EB%8B%A4%EB%93%A4-%EC%98%81%EC%88%99%EC%9D%BC%EA%BA%BC%EB%9D%BC-%ED%95%98%EC%A7%80%EB%A7%8C-%EC%98%81%EC%9E%90%EC%9D%BC%EA%BA%BC%EB%9D%BC%EB%B3%B8%EB%8B%A4-s5qeavgj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T17:55:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T08:56:02+00:00",
       "isSeed": false
     }
   ]
