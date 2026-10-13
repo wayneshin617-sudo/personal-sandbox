@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T07:57:01+00:00",
+  "updatedAt": "2026-10-13T07:58:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -222642,6 +222642,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T07:57:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17491,
+      "source": "dc",
+      "externalId": "6580062",
+      "title": "순자까글에 대한 반박은 5~6월 갤로 돌아가서 닥복이나 해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580062&page=1",
+      "postedLabel": "16:56",
+      "postedAt": "2026-10-13T16:56:58+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:58:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17492,
+      "source": "dc",
+      "externalId": "6580064",
+      "title": "미스터지 얼굴 주차는 잘된것 같은데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580064&page=1",
+      "postedLabel": "16:57",
+      "postedAt": "2026-10-13T16:57:50+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:58:01+00:00",
       "isSeed": false
     }
   ]
