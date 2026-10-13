@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:30:01+00:00",
+  "updatedAt": "2026-10-13T08:31:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -223478,6 +223478,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T08:30:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17535,
+      "source": "dc",
+      "externalId": "6580109",
+      "title": "솔직히 한녀가 나이들어도 이쁘긴함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580109&page=1",
+      "postedLabel": "17:30",
+      "postedAt": "2026-10-13T17:30:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:31:01+00:00",
       "isSeed": false
     }
   ]
