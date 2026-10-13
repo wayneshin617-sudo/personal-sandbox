@@ -1,2 +1,38 @@
-# personal-sandbox
-Personal sandbox for experiments and learning
+# 나는솔로 댓글 몰아보기
+
+디시인사이드 [나는 솔로 갤러리](https://gall.dcinside.com/board/lists/?id=iamsolo)와 블라인드 [I'm솔로](https://www.teamblind.com/kr/topics/Im%EC%86%94%EB%A1%9C) 공개 목록에 올라오는 글 제목을 모아, 숲(SOOP) 방송 댓글처럼 아래에서 올려 보여주는 화면입니다. 각 글 앞에는 디시·블라인드 로고가 채팅 프로필처럼 붙어, 어느 게시판에서 온 글인지 바로 구분됩니다.
+
+본문과 댓글 스레드는 가져오지 않습니다. 각 게시판의 첫 목록 페이지만 확인하며, 서버를 켠 뒤에 그 목록에 새로 잡힌 글만 `data/posts.db`에 쌓입니다. 이전 페이지는 따라가지 않습니다.
+
+## 실행
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python -m app
+```
+
+브라우저에서 http://localhost:8000 을 엽니다.
+
+- 전체 / 디시 / 블라인드 로 게시판을 고를 수 있습니다.
+- 아래 입력창에 키워드를 넣으면 제목, 미리보기, 닉네임, 회사명 안에서 그 글만 모아 봅니다. 이후에 올라오는 글도 같은 조건으로 바로 걸러집니다.
+- 글을 누르면 원문이 있는 게시판으로 이동합니다.
+- 스크롤을 올리면 자동으로 따라가지 않고, `새 댓글` 버튼으로 맨 아래에 다시 붙습니다. `/` 키로 검색창에 들어갑니다.
+
+## 설정
+
+| 환경 변수 | 기본값 | 설명 |
+| --- | --- | --- |
+| `PORT` | `8000` | 서버 포트 |
+| `POLL_INTERVAL` | `2` | 목록 확인 간격(초). 2초보다 짧게는 두지 않습니다. |
+| `DATA_DIR` | `./data` | SQLite 파일이 쌓이는 폴더 |
+| `CRAWL_ENABLED` | `1` | `0`이면 수집 없이 이미 쌓인 글만 보여 줍니다. |
+
+목록을 읽지 못하거나 요청이 막히면 해당 게시판만 잠시 쉬었다가 다시 시도합니다. 쌓인 글을 비우려면 서버를 멈추고 `data/posts.db`를 지우면 됩니다.
+
+## 테스트
+
+```bash
+python -m unittest tests.test_board
+```
