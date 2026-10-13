@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T17:21:05+00:00",
+  "updatedAt": "2026-10-13T17:23:04+00:00",
   "posts": [
     {
       "id": 1,
@@ -273695,6 +273695,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T17:21:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39129,
+      "source": "dc",
+      "externalId": "6580560",
+      "title": "씨발 우리집 한국에서 손님 오면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580560&page=1",
+      "postedLabel": "02:22",
+      "postedAt": "2026-10-14T02:22:46+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T17:23:04+00:00",
       "isSeed": false
     }
   ]
