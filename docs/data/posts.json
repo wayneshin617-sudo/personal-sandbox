@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T12:47:41+00:00",
+  "updatedAt": "2026-10-13T12:50:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -228475,6 +228475,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T12:47:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36749,
+      "source": "dc",
+      "externalId": "6580367",
+      "title": "경찰청 진짜 못되먹은것들 영수방송출연방해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580367&page=1",
+      "postedLabel": "21:50",
+      "postedAt": "2026-10-13T21:50:00+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T12:50:41+00:00",
       "isSeed": false
     }
   ]
