@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T13:15:41+00:00",
+  "updatedAt": "2026-10-13T13:17:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -228855,6 +228855,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T13:15:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36769,
+      "source": "dc",
+      "externalId": "6580388",
+      "title": "삭제직전 유튭 링크좌표",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "185.184",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580388&page=1",
+      "postedLabel": "22:16",
+      "postedAt": "2026-10-13T22:16:52+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:17:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36770,
+      "source": "dc",
+      "externalId": "6580389",
+      "title": "마당 뷰 괜찮더라",
+      "excerpt": "",
+      "author": "츄잉",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580389&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-10-13T22:17:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:17:42+00:00",
       "isSeed": false
     }
   ]
