@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T14:50:40+00:00",
+  "updatedAt": "2026-10-13T14:53:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -230318,6 +230318,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T14:50:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36846,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%A8%B8%EC%95%BC-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%ED%98%84%EC%88%99-oekoyp54",
+      "title": "머야 이번기수 현숙",
+      "excerpt": "이쁘네? 요즘은 얼굴만 이쁜거보다 늘씬하고 얼굴이 작아야 얼굴도 이뻐보이는듯",
+      "author": "i********",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A8%B8%EC%95%BC-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%ED%98%84%EC%88%99-oekoyp54",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T23:53:30+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T14:53:33+00:00",
       "isSeed": false
     }
   ]
