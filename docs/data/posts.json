@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T11:53:26+00:00",
+  "updatedAt": "2026-10-13T11:54:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -227601,6 +227601,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T11:53:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26827,
+      "source": "dc",
+      "externalId": "6580319",
+      "title": "아직도 결혼못한 출연자는 머냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580319&page=1",
+      "postedLabel": "20:53",
+      "postedAt": "2026-10-13T20:53:21+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T11:54:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26828,
+      "source": "dc",
+      "externalId": "6580321",
+      "title": "이야기좌가 정상적으로 있엇으면 딱인데 ㅎㅎ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.85",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580321&page=1",
+      "postedLabel": "20:53",
+      "postedAt": "2026-10-13T20:53:57+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T11:54:24+00:00",
       "isSeed": false
     }
   ]
