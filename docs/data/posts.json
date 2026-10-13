@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T07:20:53+00:00",
+  "updatedAt": "2026-10-13T07:22:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -221977,6 +221977,25 @@
       "recommends": 2,
       "comments": 0,
       "firstSeenAt": "2026-10-13T07:20:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11728,
+      "source": "dc",
+      "externalId": "6580018",
+      "title": "16영숙 산전수전 사연 뭔지 아는 사람 있어?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "175.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580018&page=1",
+      "postedLabel": "16:22",
+      "postedAt": "2026-10-13T16:22:33+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:22:52+00:00",
       "isSeed": false
     }
   ]
