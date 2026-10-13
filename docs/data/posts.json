@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T14:00:42+00:00",
+  "updatedAt": "2026-10-13T14:02:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -229444,6 +229444,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T14:00:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36800,
+      "source": "dc",
+      "externalId": "6580423",
+      "title": "요즘 아이돌판에서 남자키 180체감...",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580423&page=1",
+      "postedLabel": "23:01",
+      "postedAt": "2026-10-13T23:01:53+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:02:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36801,
+      "source": "dc",
+      "externalId": "6580424",
+      "title": "삭제직전 유튭 링크좌표",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "156.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580424&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-10-13T23:02:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:02:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36802,
+      "source": "dc",
+      "externalId": "6580425",
+      "title": "경수가 왜 순자랑 결혼을 해야하지?",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580425&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-10-13T23:02:22+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:02:42+00:00",
       "isSeed": false
     }
   ]
