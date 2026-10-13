@@ -45,6 +45,7 @@ button { cursor: pointer; }
   background: var(--rail);
   border-right: 1px solid var(--line);
   min-height: 0;
+  overflow-y: auto;
 }
 
 .live {
@@ -117,32 +118,24 @@ h1 span { display: block; }
 }
 
 .cloud {
-  container-type: inline-size;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2px;
+  position: relative;
+  height: 236px;
   margin: 0;
-  --cloud-max: clamp(30px, 18cqw, 56px);
-}
-
-.cloud-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  gap: 1px 8px;
+  container-type: inline-size;
 }
 
 .cloud button {
+  position: absolute;
+  left: 0;
+  top: 0;
   border: 0;
   background: none;
   padding: 0;
   font-weight: 750;
-  letter-spacing: -0.045em;
-  line-height: 1.05;
-  font-size: calc(var(--u) / 10 * var(--cloud-max));
+  letter-spacing: -0.05em;
+  line-height: 1;
+  white-space: nowrap;
+  transform: translate(-50%, -50%);
   transition: filter 0.16s ease, text-shadow 0.16s ease;
 }
 
@@ -663,7 +656,11 @@ mark {
 
   .figures dd { font-size: 22px; }
 
-  .cloud { gap: 4px 8px; }
+  .cloud {
+    width: min(100%, 280px);
+    height: 220px;
+    margin-inline: auto;
+  }
   .sources { flex-direction: row; flex-wrap: wrap; gap: 10px 12px; }
   .realtime { width: 146px; }
   .realtime-panel { width: min(280px, calc(100vw - 24px)); }

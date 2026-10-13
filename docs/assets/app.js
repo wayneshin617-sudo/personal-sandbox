@@ -322,15 +322,30 @@ function relative(iso) {
 }
 
 const STOP_WORDS = new Set(
-  "그리고 근데 그런데 그래서 하지만 이거 저거 그거 진짜 정말 너무 그냥 뭔가 좀 지금 오늘 어제 이번 계속 하는 하면 해서 한데 인데 거든 잖아 아니 아님 이게 그게 저게 뭐야 우리 너희 자기 사람 때문 위해 대해 관련 나는 솔로 있는 없는 같은 같이 이야 ㅋㅋ ㅎㅎ ㅠㅠ ㅜㅜ 남자 여자".split(" "),
+  `그리고 근데 그런데 그래서 하지만 그러나 그러면 그러니까 그래도 이거 저거 그거 이게 그게 저게
+진짜 정말 너무 그냥 뭔가 좀 지금 오늘 어제 내일 이번 저번 요즘 최근 현재 당시 계속 항상 아직 이미 벌써 방금
+하는 하면 해서 한데 인데 거든 잖아 아니 아님 뭐야 우리 너희 자기 사람 때문 위해 대해 관련 나는 솔로
+있는 없는 같은 같이 이야 ㅋㅋ ㅎㅎ ㅠㅠ ㅜㅜ 남자 여자 이런 그런 저런 어떤 모든 무슨 아무
+여기 거기 저기 어디 언제 누구 무엇 어떻게 왜 아주 매우 완전 굉장히 상당히 제법 은근 솔직히 사실 역시 어차피
+갑자기 드디어 과연 아마 혹시 만약 비록 설마 도대체 대체 물론 당연히 확실히 분명히 약간 조금 많이 잘 다시
+자주 가끔 별로 전혀 절대 결코 막 살짝 정도 만큼 바로 제일 이제 가장 먼저 나중 굳이 오히려 차라리 결국
+아무튼 어쨌든 하여튼 좀더 뭔가 거 것 곳 수 때 중 등 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽
+나솔 미방 미방분 여출 남출 다둥 다둥이 솔솔 몰표 몰표녀 여돌 남돌 솔로녀 솔로남 존버 억까 인싸 아싸 점메추
+존나 졸라 존내 좆나 씨발 시발 씨팔 시팔 씨벌 시벌 병신 븅신 병쉰 지랄 지럴 좆 좇 새끼 개새끼 미친 미쳤
+꺼져 닥쳐 죽어 디질 뒤질 씹 보지 자지 걸레 창녀 창년 썅 니미 애미 애비 등신 호로 또라이 싸가지 개소리
+좆밥 찌질 느금 느금마 염병 엠창 개년 개놈 개새 씨발롬 시발롬 환장 빡치 빡쳐 개자식 후레 쉬발 쉬벌 스발 슈발`.split(/\s+/),
 );
+const SWEAR_PARTS = ["씨발", "시발", "씨팔", "시팔", "씨벌", "시벌", "병신", "븅신", "지랄", "좆", "존나", "졸라", "새끼", "개새끼", "니미", "느금", "염병", "개소리", "쉬발", "쉬벌"];
+const BOUND_NOUNS = new Set("곳 것 수 거 때 중 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽".split(" "));
+const PRED_RE = /(?:습니다|입니다|합니다|했습니다|됐습니다|였습니다|겠습니다|어요|아요|여요|해요|돼요|예요|이에요|네요|군요|잖아요|거든요|는데요|인데요|었어요|았어요|였어요|겠어요|했어|됐어|였어|겠어|았어|었어|봐줘|해줘|주세요|한다|된다|인다|운다|간다|온다|본다|준다|친다|난다|만든다|싶다|같다|없다|있다|하다|되다|이다|아니다|않다|했다|됐다|였다|겠다|았다|었다|않았다|해서|돼서|여서|아서|어서|면서|지만|니까|려고|도록|하면|되면|이면|아니면|하며|되며|이며|하고|되고|이고|아니고|하는|되는|이는|라는|이라는|않는|없는|있는|할까|될까|인가|건가|거야|거예요|거죠|건데|인데|하네|되네|이네|하지|되지|이지|보면|으며|으니|겁니다|겠죠|거든|잖아|더라|던데|더라고|스러운|스럽게|스러워|적인|답게|다운|은데|는데|한데|같아|같지|같음|같아서|같으면)$/;
+const SHORT_RE = /(?:하|되|됐|했|돼|해)(?:다|요|까|지|네|면|며|고|서|니|게|라|어|아|여|죠|군|구|든|던|음)$|된$|될$/;
 const PASTELS = [
   "#ffb4c8", "#ffd0a8", "#fff3a8", "#b8f2c2", "#9eecf5",
   "#b7d0ff", "#d4c4ff", "#ffc2f2", "#ffb8b0", "#c9e4ff",
   "#a8f0e0", "#ffe0a3", "#e4c6ff", "#ffc4d4", "#c8f5c4",
   "#ffd0c2", "#cdd0ff", "#fff0b0", "#b7ead8", "#ffc9b8",
 ];
-const PARTICLES = ["처럼", "보다", "에서", "으로", "라고", "은", "는", "이", "가", "을", "를", "도", "만", "와", "과", "의", "께", "랑", "들"];
+const PARTICLES = ["께서는", "에서부터", "으로서", "로써", "처럼", "보다", "에서", "으로", "부터", "까지", "마저", "조차", "밖에", "마다", "에게", "한테", "이라고", "이든", "이나", "이랑", "라도", "라고", "이고", "은", "는", "이", "가", "을", "를", "도", "만", "와", "과", "의", "께", "랑", "에", "로", "들"];
 const WORD_RE = /[가-힣]{2,}|\d+기/g;
 const cloudEl = document.querySelector("#cloud");
 const realtimeBox = document.querySelector("#realtime");
@@ -349,12 +364,24 @@ let rollSignature = "";
 function stemWord(word) {
   if (/^\d+기$/.test(word)) return word;
   for (const particle of PARTICLES) {
-    if (word.endsWith(particle) && word.length - particle.length >= 2) return stemWord(word.slice(0, -particle.length));
-  }
-  for (const stop of STOP_WORDS) {
-    if (stop.length >= 2 && word.startsWith(stop) && word.length - stop.length >= 2) return stemWord(word.slice(stop.length));
+    if (!word.endsWith(particle) || word.length <= particle.length) continue;
+    const stem = word.slice(0, -particle.length);
+    if (stem.length >= 2 || BOUND_NOUNS.has(stem)) return stemWord(stem);
   }
   return word;
+}
+
+function isCountedWord(word) {
+  if (/^\d+기$/.test(word)) return true;
+  if (word.length < 2 || STOP_WORDS.has(word)) return false;
+  if (SWEAR_PARTS.some((part) => word.includes(part))) return false;
+  if (PRED_RE.test(word) || SHORT_RE.test(word)) return false;
+  return true;
+}
+
+function countedText(post) {
+  if (post.source === "yt") return post.title || "";
+  return `${post.title || ""} ${post.excerpt || ""}`;
 }
 
 function wordCounts(posts, since) {
@@ -362,22 +389,14 @@ function wordCounts(posts, since) {
   for (const post of posts) {
     if (since && timeValue(post) < since) continue;
     const seen = new Set();
-    const text = `${post.title || ""} ${post.excerpt || ""}`;
-    for (const raw of text.match(WORD_RE) || []) {
+    for (const raw of countedText(post).match(WORD_RE) || []) {
       const word = stemWord(raw);
-      if (word.length < 2 || STOP_WORDS.has(word)) continue;
+      if (!isCountedWord(word)) continue;
       seen.add(word);
     }
     for (const word of seen) counts.set(word, (counts.get(word) || 0) + 1);
   }
   return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
-}
-
-function packCenter(items) {
-  const left = [];
-  const right = [];
-  items.forEach((item, index) => (index % 2 === 0 ? right : left).push(item));
-  return [...left.reverse(), ...right];
 }
 
 function applyQuery(word) {
@@ -389,39 +408,121 @@ function applyQuery(word) {
 }
 
 let cloudKey = "";
+let cloudWords = [];
+let cloudLayoutWidth = 0;
 
 function renderCloud(posts) {
   const key = `${posts.length}:${posts[posts.length - 1]?.id || 0}`;
-  if (key === cloudKey && cloudEl.childElementCount) return;
-  cloudKey = key;
-  const ranked = wordCounts(posts).slice(0, 20).map(([word, count], index) => ({
-    word,
-    count,
-    color: PASTELS[index % PASTELS.length],
-  }));
-  const max = ranked[0]?.count || 1;
-  const min = ranked[ranked.length - 1]?.count || 1;
-  const core = packCenter(ranked.slice(0, 5));
-  const rest = ranked.slice(5);
-  cloudEl.replaceChildren(cloudRow(rest.filter((_, index) => index % 2 === 0), max, min), cloudRow(core, max, min), cloudRow(rest.filter((_, index) => index % 2 === 1), max, min));
+  if (key !== cloudKey) {
+    cloudKey = key;
+    cloudWords = wordCounts(posts).slice(0, 20).map(([word, count], index) => ({
+      word,
+      count,
+      color: PASTELS[index % PASTELS.length],
+    }));
+    cloudLayoutWidth = 0;
+  }
+  if (cloudEl.clientWidth && cloudEl.clientWidth !== cloudLayoutWidth) layoutCloud();
 }
 
-function cloudRow(items, max, min) {
-  const row = document.createElement("div");
-  row.className = "cloud-row";
-  for (const item of items) {
-    const ratio = max === min ? 1 : (item.count - min) / (max - min);
-    const button = document.createElement("button");
-    button.type = "button";
-    button.textContent = item.word;
-    button.title = `${numberFormat.format(item.count)}번`;
-    button.style.setProperty("--u", (3 + ratio * 7).toFixed(2));
-    button.style.color = item.color;
-    button.addEventListener("click", () => applyQuery(item.word));
-    row.append(button);
-  }
-  return row;
+function cloudFont(index, count, max, min, total, maxPx, minPx) {
+  const rankT = total <= 1 ? 1 : 1 - index / (total - 1);
+  const weight = max === min ? 1 : (count - min) / (max - min);
+  const mix = (rankT * 0.58 + weight * 0.42) ** 1.75;
+  return minPx + mix * (maxPx - minPx);
 }
+
+function overlaps(a, b, pad) {
+  return a.x < b.x + b.w + pad && a.x + a.w + pad > b.x && a.y < b.y + b.h + pad && a.y + a.h + pad > b.y;
+}
+
+function layoutCloud() {
+  if (!cloudWords.length) {
+    cloudEl.replaceChildren();
+    cloudLayoutWidth = cloudEl.clientWidth;
+    return;
+  }
+  const width = cloudEl.clientWidth;
+  const height = cloudEl.clientHeight;
+  if (width < 40 || height < 40) return;
+  cloudLayoutWidth = width;
+  const max = cloudWords[0].count;
+  const min = cloudWords[cloudWords.length - 1].count;
+  const baseMax = Math.max(34, Math.min(width * 0.24, height * 0.32, 60));
+  const baseMin = Math.max(12, baseMax * 0.17);
+  let scale = 1;
+  let buttons = [];
+  let points = [];
+  for (let attempt = 0; attempt < 6; attempt += 1) {
+    const maxPx = baseMax * scale;
+    const minPx = Math.max(11, baseMin * scale);
+    buttons = cloudWords.map((item, index) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.textContent = item.word;
+      button.title = `${numberFormat.format(item.count)}번`;
+      button.style.color = item.color;
+      button.style.fontSize = `${cloudFont(index, item.count, max, min, cloudWords.length, maxPx, minPx).toFixed(1)}px`;
+      button.addEventListener("click", () => applyQuery(item.word));
+      return button;
+    });
+    cloudEl.replaceChildren(...buttons);
+    const measures = buttons.map((button) => ({ w: button.offsetWidth, h: button.offsetHeight }));
+    const cx = width / 2;
+    const cy = height / 2;
+    const limit = Math.min(width, height) / 2 - 1;
+    const placed = [];
+    points = [];
+    let missed = false;
+    for (let index = 0; index < buttons.length; index += 1) {
+      const w = measures[index].w;
+      const h = measures[index].h;
+      let spot = null;
+      for (let step = 0; step < 1600; step += 1) {
+        const angle = step * 0.42;
+        const radius = step * 0.38;
+        const px = cx + Math.cos(angle) * radius;
+        const py = cy + Math.sin(angle) * radius;
+        if (Math.hypot(px - cx, py - cy) > limit) continue;
+        const box = { x: px - w / 2, y: py - h / 2, w, h };
+        if (box.x < -1 || box.y < -1 || box.x + box.w > width + 1 || box.y + box.h > height + 1) continue;
+        if (placed.some((item) => overlaps(item, box, 2))) continue;
+        spot = { x: px, y: py };
+        placed.push(box);
+        break;
+      }
+      if (!spot) {
+        missed = true;
+        break;
+      }
+      points.push(spot);
+    }
+    if (!missed) break;
+    scale *= 0.88;
+  }
+  buttons.forEach((button, index) => {
+    const spot = points[index];
+    if (!spot) {
+      button.remove();
+      return;
+    }
+    button.style.left = `${spot.x}px`;
+    button.style.top = `${spot.y}px`;
+  });
+}
+
+if (document.fonts?.ready) {
+  document.fonts.ready.then(() => {
+    cloudLayoutWidth = 0;
+    if (cloudWords.length && cloudEl?.clientWidth) layoutCloud();
+  });
+}
+
+new ResizeObserver(() => {
+  if (!cloudWords.length) return;
+  const width = cloudEl.clientWidth;
+  if (width && width !== cloudLayoutWidth) layoutCloud();
+}).observe(cloudEl);
 
 function deltaMark(word, rank, previous) {
   if (!previous) return { className: "same", text: "" };
