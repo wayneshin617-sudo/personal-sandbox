@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T10:58:25+00:00",
+  "updatedAt": "2026-10-13T10:59:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -226461,6 +226461,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-13T10:58:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26767,
+      "source": "dc",
+      "externalId": "6580265",
+      "title": "이거뭐야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580265&page=1",
+      "postedLabel": "19:58",
+      "postedAt": "2026-10-13T19:58:20+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T10:59:25+00:00",
       "isSeed": false
     }
   ]
