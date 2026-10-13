@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T18:29:23+00:00",
+  "updatedAt": "2026-10-13T18:41:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -281675,6 +281675,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T18:29:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39549,
+      "source": "dc",
+      "externalId": "6580596",
+      "title": "냄규홍 SRT 미는거만 봐도 감 떨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580596&page=1",
+      "postedLabel": "03:40",
+      "postedAt": "2026-10-14T03:40:57+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T18:41:30+00:00",
       "isSeed": false
     }
   ]
