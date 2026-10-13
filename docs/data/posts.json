@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T13:21:42+00:00",
+  "updatedAt": "2026-10-13T13:22:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -228912,6 +228912,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T13:21:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36772,
+      "source": "dc",
+      "externalId": "6580391",
+      "title": "31순자 이런 년이라고 아무리 외쳐도",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580391&page=1",
+      "postedLabel": "22:22",
+      "postedAt": "2026-10-13T22:22:15+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:22:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36773,
+      "source": "dc",
+      "externalId": "6580392",
+      "title": "계약결혼에 그나마 유익한점",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580392&page=1",
+      "postedLabel": "22:22",
+      "postedAt": "2026-10-13T22:22:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:22:42+00:00",
       "isSeed": false
     }
   ]
