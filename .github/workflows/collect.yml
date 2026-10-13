@@ -3,6 +3,10 @@ name: Collect posts
 # GitHub 예약은 워크플로당 5분이 최소이고, 늦거나 아예 빠지기도 한다.
 # 한 작업이 1분마다 직접 읽고, 끝나기 전에 다음 작업을 걸어 둔다.
 on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/collect.yml
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
