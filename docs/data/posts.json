@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T06:52:52+00:00",
+  "updatedAt": "2026-10-13T06:53:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -221521,6 +221521,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-13T06:52:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11704,
+      "source": "dc",
+      "externalId": "6579991",
+      "title": "영숙 기사 떴네 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6579991&page=1",
+      "postedLabel": "15:53",
+      "postedAt": "2026-10-13T15:53:00+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T06:53:52+00:00",
       "isSeed": false
     }
   ]
