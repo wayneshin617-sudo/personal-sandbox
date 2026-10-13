@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T07:25:53+00:00",
+  "updatedAt": "2026-10-13T07:26:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -222053,6 +222053,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T07:25:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11732,
+      "source": "dc",
+      "externalId": "6580024",
+      "title": "31순자 살인의 추억 향숙이 닮앇던데",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580024&page=1",
+      "postedLabel": "16:26",
+      "postedAt": "2026-10-13T16:26:19+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:26:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11733,
+      "source": "dc",
+      "externalId": "6580025",
+      "title": "근데 28영숙 애들은",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.228",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580025&page=1",
+      "postedLabel": "16:26",
+      "postedAt": "2026-10-13T16:26:30+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:26:52+00:00",
       "isSeed": false
     }
   ]
