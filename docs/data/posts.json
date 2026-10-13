@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T12:02:25+00:00",
+  "updatedAt": "2026-10-13T12:03:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -227810,6 +227810,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T12:02:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26838,
+      "source": "dc",
+      "externalId": "6580330",
+      "title": "사계보고잇느데 미조<<이새끼 왜이러냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.46",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580330&page=1",
+      "postedLabel": "21:02",
+      "postedAt": "2026-10-13T21:02:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T12:03:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26839,
+      "source": "dc",
+      "externalId": "6580331",
+      "title": "브라질 계란으로 선동질 하는 극우가 있네 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "115.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580331&page=1",
+      "postedLabel": "21:03",
+      "postedAt": "2026-10-13T21:03:02+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T12:03:24+00:00",
       "isSeed": false
     }
   ]
