@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T23:16:42+00:00",
+  "updatedAt": "2026-10-13T23:17:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -284069,6 +284069,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T23:16:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39675,
+      "source": "dc",
+      "externalId": "6580713",
+      "title": "미국 한달 살기 후기",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580713&page=1",
+      "postedLabel": "08:16",
+      "postedAt": "2026-10-14T08:16:39+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T23:17:41+00:00",
       "isSeed": false
     }
   ]
