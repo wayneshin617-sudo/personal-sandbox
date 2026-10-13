@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T19:21:23+00:00",
+  "updatedAt": "2026-10-13T19:38:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -281941,6 +281941,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T19:21:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39563,
+      "source": "dc",
+      "externalId": "6580625",
+      "title": "내 동창어머님들중에 돈떼먹은ㄴ 있었는디",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580625&page=1",
+      "postedLabel": "04:38",
+      "postedAt": "2026-10-14T04:38:02+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T19:38:22+00:00",
       "isSeed": false
     }
   ]
