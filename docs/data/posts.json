@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T07:32:52+00:00",
+  "updatedAt": "2026-10-13T07:33:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -222186,6 +222186,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-13T07:32:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11739,
+      "source": "qoo",
+      "externalId": "4374380816",
+      "title": "6기영숙님 암이었나보네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4374380816",
+      "postedLabel": "16:33",
+      "postedAt": "2026-10-13T16:33:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:33:53+00:00",
       "isSeed": false
     }
   ]
