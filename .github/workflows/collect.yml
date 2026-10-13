@@ -1,12 +1,15 @@
 name: Collect posts
 
+# GitHub 예약은 워크플로당 5분이 최소이고, 늦거나 아예 빠지기도 한다.
+# 한 작업이 1분마다 직접 읽고, 끝나기 전에 다음 작업을 걸어 둔다.
 on:
   schedule:
-    - cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: solo-collect
@@ -15,28 +18,56 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: 20
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
       - run: pip install -r requirements.txt
-      - run: python -m app.collect
-      - name: Publish new posts
+      - name: Collect every minute
         run: |
+          set -u
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/posts.json docs/data/meta.json
-          if git diff --cached --quiet; then
-            echo "새 글 없음"
-            exit 0
-          fi
-          git commit -m "새 글 반영"
-          for attempt in 1 2 3 4 5; do
-            git pull --rebase --autostash origin main && git push origin HEAD:main && exit 0
-            sleep $((attempt * 2))
+          git fetch origin main
+          git checkout -B main origin/main
+          deadline=$((SECONDS + 170 * 60))
+          while [ "$SECONDS" -lt "$deadline" ]; do
+            start=$SECONDS
+            python -m app.collect || echo "수집 실패, 다음 분에 다시 시도"
+            git add docs/data/posts.json docs/data/meta.json
+            if ! git diff --cached --quiet; then
+              git commit -m "새 글 반영"
+              pushed=0
+              for attempt in 1 2 3 4 5; do
+                if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+                  pushed=1
+                  break
+                fi
+                sleep $((attempt * 2))
+              done
+              if [ "$pushed" -eq 1 ]; then
+                gh workflow run "Publish website" --ref main || echo "사이트 배포 요청 실패"
+              else
+                echo "푸시 실패"
+              fi
+            else
+              echo "새 글 없음"
+            fi
+            elapsed=$((SECONDS - start))
+            if [ "$elapsed" -lt 60 ]; then
+              sleep $((60 - elapsed))
+            fi
           done
-          exit 1
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Queue the next collect
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run collect.yml --ref main

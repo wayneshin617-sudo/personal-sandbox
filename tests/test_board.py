@@ -2,8 +2,8 @@ import unittest
 
 from datetime import datetime, timedelta, timezone
 
-from app.collect import assign_blind_times, empty_board, merge
-from app.parsers import parse_blind, parse_dc
+from app.collect import assign_blind_times, empty_board, merge, qoo_label_time
+from app.parsers import parse_blind, parse_dc, parse_theqoo
 
 DC_HTML = """
 <table>
@@ -55,6 +55,26 @@ BLIND_HTML = """
 """
 
 
+QOO_HTML = """
+<table>
+<tr class="notice">
+  <td class="title"><a href="/iamsolo/4277558180">필독 공지</a></td>
+  <td class="time">26.07.13</td>
+</tr>
+<tr>
+  <td class="cate"><span>잡담</span></td>
+  <td class="title">
+    <a href="/iamsolo?group_srl=2944154583" class="preface">ㅇㄴㅅ)</a>
+    <a href="/iamsolo/4374217007">돌싱앤모솔 2기 하네 ㅋㅋ</a>
+    <a href="/iamsolo/4374217007#4374217007_comment" class="replyNum">3</a>
+  </td>
+  <td class="time">14:11</td>
+  <td class="m_no">131</td>
+</tr>
+</table>
+"""
+
+
 class ParserTest(unittest.TestCase):
     def test_dc_skips_notice_and_unsafe_link(self):
         posts = parse_dc(DC_HTML)
@@ -83,6 +103,19 @@ class ParserTest(unittest.TestCase):
         self.assertEqual(post["posted_label"], "어제")
         self.assertEqual(post["badge"], "NOW")
         self.assertTrue(post["url"].startswith("https://www.teamblind.com/kr/post/"))
+
+    def test_theqoo_skips_notice_and_preface(self):
+        posts = parse_theqoo(QOO_HTML)
+        self.assertEqual(len(posts), 1)
+        post = posts[0]
+        self.assertEqual(post["external_id"], "4374217007")
+        self.assertEqual(post["title"], "돌싱앤모솔 2기 하네 ㅋㅋ")
+        self.assertEqual(post["author"], "무명의 더쿠")
+        self.assertEqual(post["badge"], "잡담")
+        self.assertEqual(post["posted_label"], "14:11")
+        self.assertEqual(post["views"], 131)
+        self.assertEqual(post["comments"], 3)
+        self.assertEqual(post["url"], "https://theqoo.net/iamsolo/4374217007")
 
 
 def sample(external_id, title, posted_at="2026-10-13T12:00:00+09:00"):
@@ -148,6 +181,17 @@ class MergeTest(unittest.TestCase):
         assign_blind_times(items, now)
         self.assertGreater(items[1]["posted_at"], items[0]["posted_at"])
         self.assertGreater(items[0]["posted_at"], items[2]["posted_at"])
+
+    def test_theqoo_date_keeps_cutoff_day_and_drops_the_day_before(self):
+        now = datetime(2026, 10, 13, 15, 0, tzinfo=timezone(timedelta(hours=9)))
+        board = empty_board()
+        kept = sample("7", "7일", qoo_label_time("10.07", now).isoformat())
+        dropped = sample("6", "6일", qoo_label_time("10.06", now).isoformat())
+        kept["source"] = "qoo"
+        dropped["source"] = "qoo"
+        added = merge(board, {"qoo": [kept, dropped]})
+        self.assertEqual(added, 1)
+        self.assertEqual(board["posts"][0]["title"], "7일")
 
 
 if __name__ == "__main__":

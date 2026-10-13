@@ -24,6 +24,12 @@ const clearBtn = document.querySelector("#clear");
 const note = document.querySelector("#result-note");
 const chips = [...document.querySelectorAll(".chip")];
 
+const SOURCES = {
+  dc: { logo: "assets/logo-dc.png", alt: "디시", title: "디시인사이드" },
+  blind: { logo: "assets/logo-blind.svg", alt: "블라인드", title: "블라인드" },
+  qoo: { logo: "assets/logo-qoo.svg", alt: "더쿠", title: "더쿠" },
+};
+
 const numberFormat = new Intl.NumberFormat("ko-KR");
 let composing = false;
 let searchTimer = 0;
@@ -119,9 +125,10 @@ function renderMsg(post, animate) {
 
   const avatar = document.createElement("img");
   avatar.className = "avatar " + post.source;
-  avatar.src = asset(post.source === "dc" ? "assets/logo-dc.png" : "assets/logo-blind.svg");
-  avatar.alt = post.source === "dc" ? "디시" : "블라인드";
-  avatar.title = post.source === "dc" ? "디시인사이드" : "블라인드";
+  const source = SOURCES[post.source] || SOURCES.dc;
+  avatar.src = asset(source.logo);
+  avatar.alt = source.alt;
+  avatar.title = source.title;
 
   const who = document.createElement("div");
   who.className = "who";
@@ -320,7 +327,7 @@ function renderStatus(board) {
   document.querySelector("#stat-live").textContent = numberFormat.format(
     posts.filter((post) => kstDay(post.postedAt || post.firstSeenAt) === today).length,
   );
-  for (const source of ["dc", "blind"]) {
+  for (const source of ["dc", "blind", "qoo"]) {
     const el = document.querySelector("#source-" + source);
     const health = el.querySelector(".health");
     const detail = el.querySelector(".detail");
@@ -431,7 +438,7 @@ if (initialQuery) {
   state.q = initialQuery.trim();
   clearBtn.hidden = false;
 }
-if (initialSource === "dc" || initialSource === "blind") state.source = initialSource;
+if (initialSource === "dc" || initialSource === "blind" || initialSource === "qoo") state.source = initialSource;
 chips.forEach((chip) => chip.setAttribute("aria-pressed", String(chip.dataset.source === state.source)));
 
 function syncUrl() {

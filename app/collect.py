@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -14,7 +15,7 @@ from pathlib import Path
 
 import httpx
 
-from .parsers import parse_blind, parse_dc
+from .parsers import parse_blind, parse_dc, parse_theqoo
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "docs" / "data" / "posts.json"
@@ -31,6 +32,8 @@ UA = (
 
 DC_URL = "https://gall.dcinside.com/board/lists/?id=iamsolo&page={page}"
 BLIND_URL = "https://www.teamblind.com/kr/topics/Im%EC%86%94%EB%A1%9C"
+QOO_URL = "https://theqoo.net/iamsolo?page={page}"
+MAX_QOO_PAGES = 80
 
 
 def utc_now() -> str:
@@ -196,8 +199,16 @@ def merge(board: dict, fetched: dict[str, list[dict]], *, now: str | None = None
     return len(fresh)
 
 
-def needs_backfill(board: dict) -> bool:
-    times = [item for item in (parse_instant(post.get("postedAt") or "") for post in board["posts"]) if item]
+def source_needs_backfill(board: dict, source: str) -> bool:
+    times = [
+        item
+        for item in (
+            parse_instant(post.get("postedAt") or "")
+            for post in board["posts"]
+            if post.get("source") == source
+        )
+        if item
+    ]
     if not times:
         return True
     return min(times) > CUTOFF + timedelta(hours=3)
@@ -246,6 +257,64 @@ def fetch_dc(client: httpx.Client, known_ids: set[str], *, backfill: bool) -> li
     return found
 
 
+def qoo_label_time(label: str, now: datetime) -> datetime:
+    text = (label or "").strip()
+    clock = re.fullmatch(r"(\d{1,2}):(\d{2})", text)
+    if clock:
+        return now.replace(hour=int(clock.group(1)), minute=int(clock.group(2)), second=0, microsecond=0)
+    dated = re.fullmatch(r"(\d{2})\.(\d{2})\.(\d{2})", text)
+    if dated:
+        return datetime(2000 + int(dated.group(1)), int(dated.group(2)), int(dated.group(3)), 23, 59, tzinfo=KST)
+    month_day = re.fullmatch(r"(\d{1,2})\.(\d{1,2})", text)
+    if month_day:
+        year = now.year
+        try:
+            stamp = datetime(year, int(month_day.group(1)), int(month_day.group(2)), 23, 59, tzinfo=KST)
+        except ValueError:
+            return now
+        if stamp.date() > now.date():
+            stamp = stamp.replace(year=year - 1)
+        return stamp
+    return now
+
+
+def stamp_newest_first(items: list[dict], now: datetime, label_time) -> None:
+    used: dict[datetime, int] = {}
+    for item in items:
+        stamp = label_time(item.get("posted_label") or "", now)
+        offset = used.get(stamp, 0)
+        used[stamp] = offset + 1
+        item["posted_at"] = as_kst_iso(stamp - timedelta(seconds=offset))
+
+
+def fetch_qoo(client: httpx.Client, known_ids: set[str], *, backfill: bool, now: datetime) -> list[dict]:
+    headers = {"Referer": "https://theqoo.net/"}
+    found: list[dict] = []
+    seen_page: set[str] = set()
+    for page in range(1, MAX_QOO_PAGES + 1):
+        html = _get_text(client, QOO_URL.format(page=page), headers)
+        batch = parse_theqoo(html)
+        if not batch:
+            print(f"qoo page {page} empty", flush=True)
+            break
+        first_id = batch[0]["external_id"]
+        if first_id in seen_page:
+            break
+        seen_page.add(first_id)
+        found.extend(batch)
+        oldest = qoo_label_time(batch[-1].get("posted_label") or "", now)
+        print(f"qoo page {page} {batch[0]['posted_label']} -> {batch[-1]['posted_label']}", flush=True)
+        if oldest < CUTOFF:
+            break
+        if not backfill and any(item["external_id"] in known_ids for item in batch):
+            break
+        time.sleep(0.12)
+    stamp_newest_first(found, now, qoo_label_time)
+    if backfill and not found:
+        raise RuntimeError("더쿠 목록에서 글을 찾지 못했습니다")
+    return found
+
+
 def fetch_blind(client: httpx.Client, now: datetime) -> list[dict]:
     headers = {"Referer": "https://www.teamblind.com/"}
     html = _get_text(client, BLIND_URL, headers)
@@ -256,7 +325,13 @@ def fetch_blind(client: httpx.Client, now: datetime) -> list[dict]:
     return posts
 
 
-def fetch_sources(known_ids: set[str], *, backfill: bool) -> dict[str, list[dict]]:
+def fetch_sources(
+    known_dc: set[str],
+    known_qoo: set[str],
+    *,
+    dc_backfill: bool,
+    qoo_backfill: bool,
+) -> dict[str, list[dict]]:
     headers = {
         "User-Agent": UA,
         "Accept": "text/html,application/xhtml+xml",
@@ -264,22 +339,40 @@ def fetch_sources(known_ids: set[str], *, backfill: bool) -> dict[str, list[dict
     }
     timeout = httpx.Timeout(25.0, connect=8.0)
     now = datetime.now(KST).replace(microsecond=0)
+    fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": []}
     with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
-        return {
-            "dc": fetch_dc(client, known_ids, backfill=backfill),
-            "blind": fetch_blind(client, now),
-        }
+        for name, loader in (
+            ("dc", lambda: fetch_dc(client, known_dc, backfill=dc_backfill)),
+            ("blind", lambda: fetch_blind(client, now)),
+            ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now)),
+        ):
+            try:
+                fetched[name] = loader()
+            except Exception as exc:
+                print(f"{name} failed: {exc}", flush=True)
+    if not any(fetched.values()):
+        raise RuntimeError("모든 게시판을 읽지 못했습니다")
+    return fetched
 
 
 def main() -> None:
     board = load_board(DATA_PATH)
-    backfill = "--backfill" in sys.argv or needs_backfill(board)
-    known_ids = {post["externalId"] for post in board["posts"] if post["source"] == "dc"}
-    if backfill:
-        board["posts"] = []
-        known_ids = set()
-        print("backfill from", CUTOFF.isoformat(), flush=True)
-    fetched = fetch_sources(known_ids, backfill=backfill)
+    force = "--backfill" in sys.argv
+    dc_backfill = force or source_needs_backfill(board, "dc")
+    qoo_backfill = force or source_needs_backfill(board, "qoo")
+    if dc_backfill or qoo_backfill:
+        board["posts"] = [
+            post
+            for post in board["posts"]
+            if not (
+                (dc_backfill and post.get("source") == "dc")
+                or (qoo_backfill and post.get("source") == "qoo")
+            )
+        ]
+        print("backfill", "dc" if dc_backfill else "", "qoo" if qoo_backfill else "", CUTOFF.isoformat(), flush=True)
+    known_dc = {post["externalId"] for post in board["posts"] if post.get("source") == "dc"}
+    known_qoo = {post["externalId"] for post in board["posts"] if post.get("source") == "qoo"}
+    fetched = fetch_sources(known_dc, known_qoo, dc_backfill=dc_backfill, qoo_backfill=qoo_backfill)
     added = merge(board, fetched)
     save_board(DATA_PATH, board)
     print(f"added {added} total {len(board['posts'])}")

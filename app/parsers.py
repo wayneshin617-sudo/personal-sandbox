@@ -9,6 +9,8 @@ from bs4 import BeautifulSoup
 
 DC_BASE = "https://gall.dcinside.com"
 BLIND_BASE = "https://www.teamblind.com"
+QOO_BASE = "https://theqoo.net"
+_QOO_POST = re.compile(r"/iamsolo/(\d+)$")
 
 _WS = re.compile(r"\s+")
 _REPLY = re.compile(r"\[([\d,]+)\]")
@@ -165,6 +167,57 @@ def parse_blind(html: str) -> list[dict]:
                 "views": parse_int(_metric_text(node.select_one("a.pv"))),
                 "recommends": parse_int(_metric_text(node.select_one("span.like"))),
                 "comments": parse_int(_metric_text(node.select_one("a.cmt"))),
+            }
+        )
+    return posts
+
+
+def parse_theqoo(html: str) -> list[dict]:
+    """더쿠 나는 SOLO 목록을 최신순으로 돌려준다. 공지는 제외한다."""
+    posts: list[dict] = []
+    for tr in _soup(html).select("tr"):
+        if "notice" in (tr.get("class") or []):
+            continue
+        link = None
+        external_id = ""
+        for cand in tr.select("td.title a"):
+            classes = cand.get("class") or []
+            if "replyNum" in classes or "preface" in classes:
+                continue
+            href = (cand.get("href") or "").split("?")[0]
+            matched = _QOO_POST.search(href)
+            if not matched:
+                continue
+            link = cand
+            external_id = matched.group(1)
+            break
+        if link is None:
+            continue
+        title = clean(link.get_text(" ", strip=True))[:300]
+        url = _safe_https(urljoin(QOO_BASE, f"/iamsolo/{external_id}"), {"theqoo.net"})
+        if not title or not url:
+            continue
+        cate = tr.select_one("td.cate")
+        badge = clean(cate.get_text(" ", strip=True)) if cate is not None else ""
+        time_el = tr.select_one("td.time")
+        reply = tr.select_one("a.replyNum")
+        views_el = tr.select_one("td.m_no")
+        posts.append(
+            {
+                "source": "qoo",
+                "external_id": external_id,
+                "title": title,
+                "excerpt": "",
+                "author": "무명의 더쿠",
+                "company": "",
+                "ip": "",
+                "badge": badge,
+                "url": url,
+                "posted_label": clean(time_el.get_text()) if time_el is not None else "",
+                "posted_at": "",
+                "views": parse_int(views_el.get_text()) if views_el is not None else None,
+                "recommends": None,
+                "comments": parse_int(reply.get_text()) if reply is not None else None,
             }
         )
     return posts

@@ -8,6 +8,7 @@
   --lime: #3ee68a;
   --dc: #ff5c8a;
   --blind: #8ebfff;
+  --qoo: #ffb020;
   --hot: rgba(62, 230, 138, 0.1);
   --shadow: 0 1px 1px rgba(0, 0, 0, 0.55);
   color-scheme: dark;
@@ -160,6 +161,7 @@ h1 span { display: block; }
 
 .mark.dc { color: var(--dc); background: rgba(255, 92, 138, 0.12); }
 .mark.blind { color: var(--blind); background: rgba(142, 191, 255, 0.12); }
+.mark.qoo { color: var(--qoo); background: rgba(255, 176, 32, 0.14); }
 
 .health {
   font-size: 14px;
