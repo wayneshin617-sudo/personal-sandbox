@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T14:37:41+00:00",
+  "updatedAt": "2026-10-13T14:38:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -230052,6 +230052,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T14:37:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36832,
+      "source": "dc",
+      "externalId": "6580457",
+      "title": "33기 강화도도 갔었구나 ㅎㅎㅎ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580457&page=1",
+      "postedLabel": "23:37",
+      "postedAt": "2026-10-13T23:37:50+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:38:41+00:00",
       "isSeed": false
     }
   ]
