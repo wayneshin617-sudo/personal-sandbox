@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:38:01+00:00",
+  "updatedAt": "2026-10-13T08:41:04+00:00",
   "posts": [
     {
       "id": 1,
@@ -223649,6 +223649,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T08:38:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17544,
+      "source": "dc",
+      "externalId": "6580118",
+      "title": "친구사이 질문",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.174",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580118&page=1",
+      "postedLabel": "17:40",
+      "postedAt": "2026-10-13T17:40:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:41:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17545,
+      "source": "dc",
+      "externalId": "6580119",
+      "title": "솔로리액션 국화 미서 미조 7옥",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580119&page=1",
+      "postedLabel": "17:40",
+      "postedAt": "2026-10-13T17:40:31+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:41:04+00:00",
       "isSeed": false
     }
   ]
