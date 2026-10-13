@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T11:17:25+00:00",
+  "updatedAt": "2026-10-13T11:18:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -226879,6 +226879,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T11:17:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26789,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B5%AD%ED%99%94%EB%8A%94-%EB%B3%BC%EC%88%98%EB%A1%9D-%EC%9D%B4%EC%A7%80%EC%97%B0-%EB%8B%AE%EC%95%98%EB%84%A4-haw253vo",
+      "title": "국화는 볼수록 이지연 닮았네.",
+      "excerpt": "영수는 나솔 떄가 낫다.",
+      "author": "t*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%AD%ED%99%94%EB%8A%94-%EB%B3%BC%EC%88%98%EB%A1%9D-%EC%9D%B4%EC%A7%80%EC%97%B0-%EB%8B%AE%EC%95%98%EB%84%A4-haw253vo",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T20:18:13+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T11:18:25+00:00",
       "isSeed": false
     }
   ]
