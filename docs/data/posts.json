@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T10:17:25+00:00",
+  "updatedAt": "2026-10-13T10:18:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -225929,6 +225929,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T10:17:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26739,
+      "source": "dc",
+      "externalId": "6580234",
+      "title": "은근히 주지훈 닮았네",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580234&page=1",
+      "postedLabel": "19:17",
+      "postedAt": "2026-10-13T19:17:32+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T10:18:25+00:00",
       "isSeed": false
     }
   ]
