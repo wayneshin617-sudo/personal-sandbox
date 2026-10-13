@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T13:37:41+00:00",
+  "updatedAt": "2026-10-13T13:39:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -229140,6 +229140,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T13:37:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36784,
+      "source": "dc",
+      "externalId": "6580405",
+      "title": "33영자 33순자 둘이 싸움??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580405&page=1",
+      "postedLabel": "22:38",
+      "postedAt": "2026-10-13T22:38:38+09:00",
+      "views": 17,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:39:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36785,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B9%9C%EA%B5%AC%EC%B9%9C%EA%B5%AC-%ED%95%A0%EC%82%AC%EB%9E%8C-clac5q8v",
+      "title": "친구친구 할사람!?!?",
+      "excerpt": "나는 30대 중반 남자이고, 이런저런 이야기 잘 들어줄수 있을거같아!",
+      "author": "p*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B9%9C%EA%B5%AC%EC%B9%9C%EA%B5%AC-%ED%95%A0%EC%82%AC%EB%9E%8C-clac5q8v",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T22:39:30+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T13:39:41+00:00",
       "isSeed": false
     }
   ]
