@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:58:02+00:00",
+  "updatedAt": "2026-10-13T08:59:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -224200,6 +224200,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-13T08:58:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17573,
+      "source": "dc",
+      "externalId": "6580146",
+      "title": "경수는 이미 헤어지는걸 염두해두고있는걸지도",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "169.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580146&page=1",
+      "postedLabel": "17:58",
+      "postedAt": "2026-10-13T17:58:14+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:59:02+00:00",
       "isSeed": false
     }
   ]
