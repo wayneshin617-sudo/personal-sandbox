@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T10:35:25+00:00",
+  "updatedAt": "2026-10-13T10:37:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -226195,6 +226195,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-13T10:35:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26753,
+      "source": "dc",
+      "externalId": "6580250",
+      "title": "개텅령이 부캉이보러가는 한심한나라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580250&page=1",
+      "postedLabel": "19:37",
+      "postedAt": "2026-10-13T19:37:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T10:37:24+00:00",
       "isSeed": false
     }
   ]
