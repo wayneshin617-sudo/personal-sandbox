@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T12:44:41+00:00",
+  "updatedAt": "2026-10-13T12:45:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -228399,6 +228399,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T12:44:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36745,
+      "source": "dc",
+      "externalId": "6580363",
+      "title": "34기 출연자 폭로글 달리다가 갑자기 쉴드글",
+      "excerpt": "",
+      "author": "나솔",
+      "company": "",
+      "ip": "112.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580363&page=1",
+      "postedLabel": "21:45",
+      "postedAt": "2026-10-13T21:45:07+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T12:45:41+00:00",
       "isSeed": false
     }
   ]
