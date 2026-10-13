@@ -1,6 +1,8 @@
 import unittest
 
-from app.collect import empty_board, merge
+from datetime import datetime, timedelta, timezone
+
+from app.collect import assign_blind_times, empty_board, merge
 from app.parsers import parse_blind, parse_dc
 
 DC_HTML = """
@@ -83,7 +85,7 @@ class ParserTest(unittest.TestCase):
         self.assertTrue(post["url"].startswith("https://www.teamblind.com/kr/post/"))
 
 
-def sample(external_id, title):
+def sample(external_id, title, posted_at="2026-10-13T12:00:00+09:00"):
     return {
         "source": "dc",
         "external_id": external_id,
@@ -95,7 +97,7 @@ def sample(external_id, title):
         "badge": "",
         "url": f"https://gall.dcinside.com/board/view/?id=iamsolo&no={external_id}",
         "posted_label": "12:00",
-        "posted_at": "",
+        "posted_at": posted_at,
         "views": 1,
         "recommends": 0,
         "comments": 0,
@@ -103,17 +105,49 @@ def sample(external_id, title):
 
 
 class MergeTest(unittest.TestCase):
-    def test_seed_then_only_new_posts(self):
+    def test_appends_only_new_posts_in_time_order(self):
         board = empty_board()
-        added = merge(board, {"dc": [sample("2", "영호는 조용"), sample("1", "영숙 첫 글")]}, now="2026-10-13T00:00:00+00:00")
+        added = merge(
+            board,
+            {"dc": [sample("2", "영호는 조용", "2026-10-13T12:05:00+09:00"), sample("1", "영숙 첫 글", "2026-10-13T12:00:00+09:00")]},
+            now="2026-10-13T03:00:00+00:00",
+        )
         self.assertEqual(added, 2)
-        self.assertTrue(all(post["isSeed"] for post in board["posts"]))
+        self.assertEqual(board["startedAt"], "2026-10-07T22:30:00+09:00")
         self.assertEqual([post["externalId"] for post in board["posts"]], ["1", "2"])
-        added = merge(board, {"dc": [sample("3", "새 글"), sample("2", "영호는 조용")]}, now="2026-10-13T00:05:00+00:00")
+        added = merge(
+            board,
+            {"dc": [sample("3", "새 글", "2026-10-13T12:10:00+09:00"), sample("2", "영호는 조용", "2026-10-13T12:05:00+09:00")]},
+            now="2026-10-13T03:05:00+00:00",
+        )
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][-1]["title"], "새 글")
-        self.assertFalse(board["posts"][-1]["isSeed"])
         self.assertEqual(len(board["posts"]), 3)
+
+    def test_drops_posts_before_cutoff(self):
+        board = empty_board()
+        added = merge(
+            board,
+            {
+                "dc": [
+                    sample("3", "이후", "2026-10-07T22:30:00+09:00"),
+                    sample("2", "이전", "2026-10-07T22:29:00+09:00"),
+                ]
+            },
+        )
+        self.assertEqual(added, 1)
+        self.assertEqual(board["posts"][0]["title"], "이후")
+
+    def test_blind_relative_times_keep_recent_posts_ahead_of_yesterday(self):
+        now = datetime(2026, 10, 13, 15, 0, tzinfo=timezone(timedelta(hours=9)))
+        items = [
+            {"posted_label": "어제"},
+            {"posted_label": "28분"},
+            {"posted_label": "어제"},
+        ]
+        assign_blind_times(items, now)
+        self.assertGreater(items[1]["posted_at"], items[0]["posted_at"])
+        self.assertGreater(items[0]["posted_at"], items[2]["posted_at"])
 
 
 if __name__ == "__main__":

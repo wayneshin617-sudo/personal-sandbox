@@ -45,8 +45,24 @@ function matches(post) {
   return hay.includes(state.q.toLowerCase());
 }
 
-function matchingDesc() {
-  return allPosts.filter(matches).sort((a, b) => b.id - a.id);
+function timeValue(post) {
+  const parsed = Date.parse(post.postedAt || post.firstSeenAt || "");
+  return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function matchingAsc() {
+  return allPosts.filter(matches).sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
+}
+
+function kstDay(iso) {
+  const parsed = Date.parse(iso || "");
+  if (!Number.isFinite(parsed)) return "";
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Seoul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date(parsed));
 }
 
 function highlight(el, text) {
@@ -72,26 +88,33 @@ function highlight(el, text) {
   }
 }
 
+function postedClock(post) {
+  const parsed = Date.parse(post.postedAt || "");
+  if (!Number.isFinite(parsed)) return post.postedLabel || "";
+  return new Intl.DateTimeFormat("ko-KR", {
+    timeZone: "Asia/Seoul",
+    month: "numeric",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    hourCycle: "h23",
+  }).format(new Date(parsed));
+}
+
 function metaText(post) {
   const parts = [];
-  if (post.postedLabel) parts.push(post.postedLabel);
+  const clock = postedClock(post);
+  if (clock) parts.push(clock);
   if (post.comments) parts.push(`댓글 ${numberFormat.format(post.comments)}`);
   if (post.recommends) parts.push(`추천 ${numberFormat.format(post.recommends)}`);
   return parts.join(" · ");
-}
-
-function divider() {
-  const el = document.createElement("div");
-  el.className = "divider";
-  el.textContent = "여기서부터 새로 올라오는 글";
-  return el;
 }
 
 function renderMsg(post, animate) {
   const msg = document.createElement("article");
   msg.className = "msg" + (animate ? " enter" : "");
   msg.dataset.id = String(post.id);
-  msg.dataset.seed = post.isSeed ? "1" : "0";
+  msg.dataset.time = String(timeValue(post));
   if ((post.recommends || 0) >= 15 || (post.comments || 0) >= 40) msg.classList.add("hot");
 
   const avatar = document.createElement("img");
@@ -151,26 +174,6 @@ function renderMsg(post, animate) {
   return msg;
 }
 
-function ensureDividerBeforeLive() {
-  if (feed.querySelector(".divider")) return;
-  if (!feed.querySelector('.msg[data-seed="1"]')) return;
-  const firstLive = feed.querySelector('.msg[data-seed="0"]');
-  const line = divider();
-  if (firstLive) firstLive.before(line);
-  else feed.append(line);
-}
-
-function place(post, msg) {
-  const line = feed.querySelector(".divider");
-  if (post.isSeed) {
-    if (line) line.before(msg);
-    else feed.append(msg);
-    return;
-  }
-  ensureDividerBeforeLive();
-  feed.append(msg);
-}
-
 function showEmpty() {
   feed.querySelector(".empty")?.remove();
   if (feed.querySelector(".msg")) return;
@@ -193,12 +196,8 @@ function addOne(post, animate) {
   if (post.id > state.maxId) state.maxId = post.id;
   if (seen.has(post.id) || !matches(post)) return false;
   feed.querySelector(".empty")?.remove();
-  const msg = renderMsg(post, animate);
-  place(post, msg);
+  feed.append(renderMsg(post, animate));
   seen.add(post.id);
-  if (post.isSeed && !feed.querySelector('.msg[data-seed="0"]') && !feed.querySelector(".divider")) {
-    feed.append(divider());
-  }
   return true;
 }
 
@@ -229,28 +228,22 @@ function updateJump() {
 function renderAll(posts) {
   feed.replaceChildren();
   seen.clear();
-  const asc = posts.slice().reverse();
-  for (const post of asc) addOne(post, false);
-  if (posts.some((post) => post.isSeed) && !posts.some((post) => !post.isSeed)) {
-    ensureDividerBeforeLive();
-    if (!feed.querySelector(".divider")) feed.append(divider());
-  }
+  for (const post of posts) addOne(post, false);
   showEmpty();
   requestAnimationFrame(scrollToBottom);
 }
 
-function pageDesc() {
-  const desc = matchingDesc();
-  state.matched = desc.length;
-  return desc.slice(0, state.limit);
+function newestSlice() {
+  const asc = matchingAsc();
+  state.matched = asc.length;
+  const start = Math.max(0, asc.length - state.limit);
+  state.done = start === 0;
+  return asc.slice(start);
 }
 
 function reload() {
-  const posts = pageDesc();
-  const total = state.matched;
-  state.done = posts.length >= total;
   state.maxId = allPosts.reduce((max, post) => Math.max(max, post.id), 0);
-  renderAll(posts);
+  renderAll(newestSlice());
   syncUrl();
   updateNote();
 }
@@ -285,15 +278,27 @@ function loadOlder() {
   if (state.loadingOlder || state.done) return;
   const oldest = feed.querySelector(".msg");
   if (!oldest) return;
-  const older = matchingDesc().filter((post) => post.id < Number(oldest.dataset.id)).slice(0, 120);
-  if (!older.length) {
+  const asc = matchingAsc();
+  const index = asc.findIndex((post) => String(post.id) === oldest.dataset.id);
+  if (index <= 0) {
     state.done = true;
     return;
   }
+  const start = Math.max(0, index - 120);
+  const older = asc.slice(start, index);
   state.loadingOlder = true;
   const beforeHeight = scroller.scrollHeight;
-  for (const post of older.slice().reverse()) addOne(post, false);
-  if (older.length < 120) state.done = true;
+  const fragment = document.createDocumentFragment();
+  for (const post of older) {
+    if (seen.has(post.id) || !matches(post)) continue;
+    fragment.append(renderMsg(post, false));
+    seen.add(post.id);
+    if (post.id > state.maxId) state.maxId = post.id;
+  }
+  const first = feed.firstChild;
+  if (first) feed.insertBefore(fragment, first);
+  else feed.append(fragment);
+  if (start === 0) state.done = true;
   scroller.scrollTop += scroller.scrollHeight - beforeHeight;
   state.loadingOlder = false;
 }
@@ -311,7 +316,10 @@ function relative(iso) {
 function renderStatus(board) {
   const posts = board.posts || allPosts;
   document.querySelector("#stat-total").textContent = numberFormat.format(posts.length);
-  document.querySelector("#stat-live").textContent = numberFormat.format(posts.filter((post) => !post.isSeed).length);
+  const today = kstDay(new Date().toISOString());
+  document.querySelector("#stat-live").textContent = numberFormat.format(
+    posts.filter((post) => kstDay(post.postedAt || post.firstSeenAt) === today).length,
+  );
   for (const source of ["dc", "blind"]) {
     const el = document.querySelector("#source-" + source);
     const health = el.querySelector(".health");
@@ -331,7 +339,7 @@ function renderStatus(board) {
       minute: "2-digit",
       hourCycle: "h23",
     }).format(new Date(board.startedAt));
-    since.textContent = `${when}부터 이 주소에 글을 쌓고 있습니다. 화면은 2초마다 다시 읽고, 새 글은 몇 분 간격으로 더해집니다.`;
+    since.textContent = `${when}부터 모으고 있습니다. 오래된 글이 위, 최신이 아래입니다. 새 글은 1분마다 가져와 맨 아래에 붙입니다.`;
   }
 }
 
@@ -340,11 +348,8 @@ function replacePosts(posts) {
 }
 
 async function pull() {
-  const url = new URL("data/posts.json", document.baseURI);
-  url.searchParams.set("t", String(Date.now()));
-  const response = await fetch(url, { cache: "no-store" });
-  if (!response.ok) throw new Error("목록을 불러오지 못했습니다");
-  const board = await response.json();
+  const board = await loadBoard();
+  if (!board) return;
   renderStatus(board);
   const posts = board.posts || [];
   if (!state.ready) {
@@ -356,11 +361,57 @@ async function pull() {
   }
   if ((board.updatedAt || "") === stamp && posts.length === allPosts.length) return;
   const known = new Set(allPosts.map((post) => post.id));
+  const added = posts.filter((post) => !known.has(post.id)).sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
   replacePosts(posts);
   stamp = board.updatedAt || "";
-  state.matched = matchingDesc().length;
-  for (const post of posts.filter((post) => !known.has(post.id)).sort((a, b) => a.id - b.id)) onPost(post, true);
+  state.matched = matchingAsc().length;
+  if (!added.length) {
+    updateNote();
+    return;
+  }
+  if (!state.pinned) {
+    state.pending += added.filter(matches).length;
+    updateJump();
+    updateNote();
+    return;
+  }
+  const visibleTimes = [...feed.querySelectorAll(".msg")].map((el) => Number(el.dataset.time) || 0);
+  const oldestVisible = visibleTimes.length ? Math.min(...visibleTimes) : 0;
+  const newestVisible = visibleTimes.length ? Math.max(...visibleTimes) : 0;
+  const landsInside = added.some((post) => {
+    const at = timeValue(post);
+    return at > oldestVisible && at < newestVisible;
+  });
+  if (!visibleTimes.length || landsInside) {
+    reload();
+    return;
+  }
+  for (const post of added) {
+    if (timeValue(post) >= newestVisible) onPost(post, true);
+  }
   updateNote();
+}
+
+async function loadBoard() {
+  const metaUrl = new URL("data/meta.json", document.baseURI);
+  metaUrl.searchParams.set("t", String(Date.now()));
+  try {
+    const metaResponse = await fetch(metaUrl, { cache: "no-store" });
+    if (metaResponse.ok) {
+      const meta = await metaResponse.json();
+      if (state.ready && (meta.updatedAt || "") === stamp) {
+        renderStatus({ ...meta, posts: allPosts });
+        return null;
+      }
+    }
+  } catch {
+    /* 메타가 없으면 목록 파일을 그대로 읽는다. */
+  }
+  const url = new URL("data/posts.json", document.baseURI);
+  url.searchParams.set("t", String(Date.now()));
+  const response = await fetch(url, { cache: "no-store" });
+  if (!response.ok) throw new Error("목록을 불러오지 못했습니다");
+  return response.json();
 }
 
 function scheduleSearch() {
