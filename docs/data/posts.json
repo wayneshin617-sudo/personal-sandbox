@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T23:53:00+00:00",
+  "updatedAt": "2026-10-13T23:53:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -285152,6 +285152,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T23:53:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39732,
+      "source": "qoo",
+      "externalId": "4375004649",
+      "title": "계약결혼 영수 나쁜사람 같진 않은데...",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4375004649",
+      "postedLabel": "08:53",
+      "postedAt": "2026-10-14T08:53:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T23:53:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39733,
+      "source": "dc",
+      "externalId": "6580740",
+      "title": "쥐우성이 연대출신 회계사에 키187에 복근 있고 훈남인데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580740&page=1",
+      "postedLabel": "08:53",
+      "postedAt": "2026-10-14T08:53:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T23:53:58+00:00",
       "isSeed": false
     }
   ]
