@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T15:14:30+00:00",
+  "updatedAt": "2026-10-13T15:15:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -268546,6 +268546,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T15:14:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 38858,
+      "source": "dc",
+      "externalId": "6580485",
+      "title": "미지와 미공이 봤으면 하는 영상",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "49.172",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580485&page=1",
+      "postedLabel": "00:14",
+      "postedAt": "2026-10-14T00:14:10+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T15:15:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 38859,
+      "source": "dc",
+      "externalId": "6580486",
+      "title": "미스터공은 세일즈맨이면 연봉1억넘음?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580486&page=1",
+      "postedLabel": "00:14",
+      "postedAt": "2026-10-14T00:14:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T15:15:06+00:00",
       "isSeed": false
     }
   ]
