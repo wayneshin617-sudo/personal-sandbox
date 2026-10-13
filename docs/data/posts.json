@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T13:28:41+00:00",
+  "updatedAt": "2026-10-13T13:30:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -229026,6 +229026,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-13T13:28:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36778,
+      "source": "dc",
+      "externalId": "6580398",
+      "title": "순천지들은 지금도 경수가 순자랑 결혼해줄거라 믿냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580398&page=1",
+      "postedLabel": "22:29",
+      "postedAt": "2026-10-13T22:29:35+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:30:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36779,
+      "source": "dc",
+      "externalId": "6580399",
+      "title": "조희대 와인지랄하더니 김명수가 와인깡을 했네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580399&page=1",
+      "postedLabel": "22:30",
+      "postedAt": "2026-10-13T22:30:04+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T13:30:42+00:00",
       "isSeed": false
     }
   ]
