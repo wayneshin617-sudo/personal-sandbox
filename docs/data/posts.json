@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:00:01+00:00",
+  "updatedAt": "2026-10-13T08:02:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -222775,6 +222775,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-13T08:00:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17498,
+      "source": "dc",
+      "externalId": "6580069",
+      "title": "칼부림 한남들무서워서 길거리도못다니고 마트도못가겠네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580069&page=1",
+      "postedLabel": "17:01",
+      "postedAt": "2026-10-13T17:01:21+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:02:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17499,
+      "source": "dc",
+      "externalId": "6580070",
+      "title": "규홍아 출연자시청자 연애도 못하고 있는데 계약결혼?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580070&page=1",
+      "postedLabel": "17:01",
+      "postedAt": "2026-10-13T17:01:32+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:02:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17500,
+      "source": "dc",
+      "externalId": "6580071",
+      "title": "31경수 인스타에는 순자 얼굴사진이 없어",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580071&page=1",
+      "postedLabel": "17:01",
+      "postedAt": "2026-10-13T17:01:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:02:01+00:00",
       "isSeed": false
     }
   ]
