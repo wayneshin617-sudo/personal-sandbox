@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T06:55:52+00:00",
+  "updatedAt": "2026-10-13T06:57:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -221578,6 +221578,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T06:55:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11707,
+      "source": "dc",
+      "externalId": "6579994",
+      "title": "미친ㅋㅋ 도벽은 병 아니지않나??ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6579994&page=1",
+      "postedLabel": "15:57",
+      "postedAt": "2026-10-13T15:57:43+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T06:57:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11708,
+      "source": "dc",
+      "externalId": "6579995",
+      "title": "부여 출신 남자 공무원 그만 뽑아라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.230",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6579995&page=1",
+      "postedLabel": "15:57",
+      "postedAt": "2026-10-13T15:57:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T06:57:52+00:00",
       "isSeed": false
     }
   ]
