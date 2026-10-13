@@ -412,184 +412,241 @@ function applyQuery(word) {
 
 let cloudKey = "";
 let cloudWords = [];
-let cloudLayoutWidth = 0;
+let cloudLayoutKey = "";
 
 function renderCloud(posts) {
   const key = `${posts.length}:${posts[posts.length - 1]?.id || 0}`;
   if (key !== cloudKey) {
     cloudKey = key;
-    cloudWords = wordCounts(posts).slice(0, 20).map(([word, count], index) => ({
+    cloudWords = wordCounts(posts).slice(0, 72).map(([word, count], index) => ({
       word,
       count,
       color: PASTELS[index % PASTELS.length],
     }));
-    cloudLayoutWidth = 0;
+    cloudLayoutKey = "";
   }
-  if (cloudEl.clientWidth && cloudEl.clientWidth !== cloudLayoutWidth) layoutCloud();
+  const boxKey = `${cloudEl.clientWidth}x${cloudEl.clientHeight}`;
+  if (cloudEl.clientWidth && boxKey !== cloudLayoutKey) layoutCloud();
 }
 
-function cloudFont(index, count, max, min, total, maxPx, minPx) {
-  const rankT = total <= 1 ? 1 : 1 - index / (total - 1);
-  const weight = max === min ? 1 : (count - min) / (max - min);
-  const mix = (rankT * 0.58 + weight * 0.42) ** 1.75;
-  return minPx + mix * (maxPx - minPx);
-}
-
-function overlaps(a, b, pad) {
-  return a.x < b.x + b.w + pad && a.x + a.w + pad > b.x && a.y < b.y + b.h + pad && a.y + a.h + pad > b.y;
-}
-
-function insideHeart(px, py, width, height) {
-  const nx = (px / width) * 2 - 1;
-  const ny = (py / height) * 2 - 1;
-  const x = nx * 1.02;
-  const y = -ny * 1.08 + 0.16;
-  const a = x * x + y * y - 1;
-  return a * a * a - x * x * y ** 3 <= 0;
-}
-
-function heartAnchorRank(anchor, index, total) {
-  const lobe = anchor[1] < 0.24;
-  const tip = anchor[1] > 0.82;
-  if (index < 7 && (lobe || tip)) return 8 + anchor[1];
-  const edge = Math.hypot(anchor[0] - 0.5, (anchor[1] - 0.46) * 0.85);
-  const want = total <= 1 ? 0 : index / (total - 1);
-  return Math.abs(edge - want * 0.72);
-}
-
-function crossesCleft(box, width, height) {
-  if (box.y > height * 0.24) return false;
-  const mid = width / 2;
-  return box.x < mid - 6 && box.x + box.w > mid + 6;
-}
-
-function boxInHeart(box, width, height) {
-  const inset = 1;
-  const points = [
-    [box.x + box.w / 2, box.y + box.h / 2],
-    [box.x + inset, box.y + inset],
-    [box.x + box.w - inset, box.y + inset],
-    [box.x + inset, box.y + box.h - inset],
-    [box.x + box.w - inset, box.y + box.h - inset],
+const HEART_STEPS = 360;
+const HEART_PTS = Array.from({ length: HEART_STEPS }, (_, index) => {
+  const turn = (index / HEART_STEPS) * Math.PI * 2;
+  return [
+    16 * Math.sin(turn) ** 3,
+    13 * Math.cos(turn) - 5 * Math.cos(2 * turn) - 2 * Math.cos(3 * turn) - Math.cos(4 * turn),
   ];
-  return points.every(([x, y]) => insideHeart(x, y, width, height));
+});
+const HEART_LIMIT = HEART_PTS.reduce(
+  (box, [x, y]) => ({
+    minX: Math.min(box.minX, x),
+    maxX: Math.max(box.maxX, x),
+    minY: Math.min(box.minY, y),
+    maxY: Math.max(box.maxY, y),
+  }),
+  { minX: Infinity, maxX: -Infinity, minY: Infinity, maxY: -Infinity },
+);
+
+function rasterHeart(width, height) {
+  const pad = 2;
+  const spanX = HEART_LIMIT.maxX - HEART_LIMIT.minX;
+  const spanY = HEART_LIMIT.maxY - HEART_LIMIT.minY;
+  const fit = Math.min((width - pad * 2) / spanX, (height - pad * 2) / spanY);
+  const originX = (width - spanX * fit) / 2;
+  const originY = (height - spanY * fit) / 2;
+  const poly = HEART_PTS.map(([x, y]) => [
+    originX + (x - HEART_LIMIT.minX) * fit,
+    originY + (HEART_LIMIT.maxY - y) * fit,
+  ]);
+  const mask = new Uint8Array(width * height);
+  let top = height;
+  let bottom = 0;
+  for (let y = 0; y < height; y += 1) {
+    const sampleY = y + 0.5;
+    const crosses = [];
+    for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) {
+      const y1 = poly[j][1];
+      const y2 = poly[i][1];
+      if ((y1 > sampleY) === (y2 > sampleY)) continue;
+      crosses.push(poly[j][0] + ((poly[i][0] - poly[j][0]) * (sampleY - y1)) / (y2 - y1));
+    }
+    crosses.sort((a, b) => a - b);
+    for (let k = 0; k + 1 < crosses.length; k += 2) {
+      const from = Math.max(0, Math.ceil(crosses[k]));
+      const to = Math.min(width - 1, Math.floor(crosses[k + 1]));
+      if (from <= to) {
+        top = Math.min(top, y);
+        bottom = Math.max(bottom, y);
+      }
+      const row = y * width;
+      for (let x = from; x <= to; x += 1) mask[row + x] = 1;
+    }
+  }
+  return { mask, top, bottom };
+}
+
+function heartFont(t) {
+  let font;
+  if (t < 0.16) font = 12 + t * 10;
+  else if (t < 0.36) font = 14 + ((t - 0.16) / 0.2) * 17;
+  else if (t < 0.5) font = 31 - ((t - 0.36) / 0.14) * 6;
+  else if (t < 0.72) font = 24 - ((t - 0.5) / 0.22) * 11;
+  else font = 12.5 - ((t - 0.72) / 0.28) * 2;
+  return Math.max(11, Math.min(32, font));
+}
+
+function heartRuns(mask, width, y0, y1) {
+  const runs = [];
+  let start = -1;
+  const yStart = Math.max(0, y0);
+  const yEnd = Math.min(mask.length / width - 1, y1);
+  for (let x = 0; x <= width; x += 1) {
+    let solid = x < width;
+    if (solid) {
+      for (let y = yStart; y <= yEnd; y += 1) {
+        if (!mask[y * width + x]) {
+          solid = false;
+          break;
+        }
+      }
+    }
+    if (solid && start < 0) start = x;
+    if (!solid && start >= 0) {
+      const from = start + 1;
+      const to = x - 2;
+      if (to - from >= 16) runs.push({ x0: from, x1: to, w: to - from });
+      start = -1;
+    }
+  }
+  return runs;
+}
+
+function heartBands(mask, width, top, bottom) {
+  const bands = [];
+  let y = top;
+  while (y < bottom - 8) {
+    const t = (y - top) / Math.max(1, bottom - top);
+    const font = heartFont(t);
+    const bandHeight = Math.round(font + 1);
+    const y1 = Math.min(bottom, y + bandHeight);
+    const runs = heartRuns(mask, width, y, y1).filter((run) => run.w >= Math.max(18, font * 1.82));
+    if (!runs.length) {
+      y += 2;
+      continue;
+    }
+    bands.push({ y, y1, cy: (y + y1) / 2, font, runs });
+    y = y1 + 1;
+  }
+  return bands;
+}
+
+function estimateWidth(word, font) {
+  return Math.max(font, word.length * font * 0.94);
+}
+
+function assignHeart(words, bands) {
+  const pool = words.slice();
+  const rows = [];
+  const order = bands
+    .map((band, index) => index)
+    .sort((a, b) => bands[b].font - bands[a].font || bands[a].y - bands[b].y);
+  for (const bandIndex of order) {
+    const band = bands[bandIndex];
+    const gap = Math.max(2, band.font * 0.1);
+    for (const run of band.runs) {
+      const items = [];
+      let used = 0;
+      while (pool.length) {
+        let pick = -1;
+        const limit = Math.min(pool.length, 6);
+        for (let index = 0; index < limit; index += 1) {
+          const width = estimateWidth(pool[index].word, band.font);
+          if (used + (items.length ? gap : 0) + width <= run.w + 1) {
+            pick = index;
+            break;
+          }
+        }
+        if (pick < 0) break;
+        const item = pool.splice(pick, 1)[0];
+        items.push(item);
+        used += (items.length > 1 ? gap : 0) + estimateWidth(item.word, band.font);
+      }
+      if (items.length) rows.push({ band, run, gap, font: band.font, items });
+    }
+  }
+  return rows;
 }
 
 function layoutCloud() {
   if (!cloudWords.length) {
     cloudEl.replaceChildren();
-    cloudLayoutWidth = cloudEl.clientWidth;
+    cloudLayoutKey = `${cloudEl.clientWidth}x${cloudEl.clientHeight}`;
     return;
   }
   const width = cloudEl.clientWidth;
   const height = cloudEl.clientHeight;
   if (width < 40 || height < 40) return;
-  cloudLayoutWidth = width;
-  const max = cloudWords[0].count;
-  const min = cloudWords[cloudWords.length - 1].count;
-  const baseMax = Math.max(30, Math.min(width * 0.19, height * 0.2, 48));
-  const baseMin = Math.max(12, baseMax * 0.17);
-  let scale = 1;
-  let buttons = [];
-  let points = [];
-  for (let attempt = 0; attempt < 6; attempt += 1) {
-    const maxPx = baseMax * scale;
-    const minPx = Math.max(11, baseMin * scale);
-    buttons = cloudWords.map((item, index) => {
+  cloudLayoutKey = `${width}x${height}`;
+  const { mask, top, bottom } = rasterHeart(width, height);
+  if (bottom <= top) return;
+  const bands = heartBands(mask, width, top, bottom);
+  const rows = assignHeart(cloudWords, bands);
+  const buttons = [];
+  for (const row of rows) {
+    row.buttons = row.items.map((item) => {
       const button = document.createElement("button");
       button.type = "button";
       button.textContent = item.word;
       button.title = `${numberFormat.format(item.count)}번`;
       button.style.color = item.color;
-      button.style.fontSize = `${cloudFont(index, item.count, max, min, cloudWords.length, maxPx, minPx).toFixed(1)}px`;
+      button.style.fontSize = `${row.font.toFixed(1)}px`;
       button.addEventListener("click", () => applyQuery(item.word));
+      buttons.push(button);
       return button;
     });
-    cloudEl.replaceChildren(...buttons);
-    const measures = buttons.map((button) => ({ w: button.offsetWidth, h: button.offsetHeight }));
-    const anchors = [
-      [0.5, 0.4],
-      [0.3, 0.2], [0.7, 0.2],
-      [0.18, 0.34], [0.82, 0.34],
-      [0.38, 0.28], [0.62, 0.28],
-      [0.5, 0.56],
-      [0.28, 0.5], [0.72, 0.5],
-      [0.4, 0.68], [0.6, 0.68],
-      [0.22, 0.58], [0.78, 0.58],
-      [0.5, 0.78],
-      [0.34, 0.78], [0.66, 0.78],
-      [0.5, 0.9],
-      [0.42, 0.16], [0.58, 0.16],
-    ];
-    const placed = [];
-    points = [];
-    let missed = false;
-    const used = new Set();
-    for (let index = 0; index < buttons.length; index += 1) {
-      const w = measures[index].w;
-      const h = measures[index].h;
-      let spot = null;
-      const order = anchors
-        .map((anchor, anchorIndex) => ({ anchor, anchorIndex }))
-        .filter((item) => !used.has(item.anchorIndex))
-        .sort((a, b) => heartAnchorRank(a.anchor, index, buttons.length) - heartAnchorRank(b.anchor, index, buttons.length));
-      for (const item of order) {
-        const px = item.anchor[0] * width;
-        const py = item.anchor[1] * height;
-        const box = { x: px - w / 2, y: py - h / 2, w, h };
-        if (box.x < 0 || box.y < 0 || box.x + box.w > width || box.y + box.h > height) continue;
-        if (!boxInHeart(box, width, height) || crossesCleft(box, width, height)) continue;
-        if (placed.some((other) => overlaps(other, box, 1))) continue;
-        spot = { x: px, y: py };
-        used.add(item.anchorIndex);
-        placed.push(box);
-        break;
-      }
-      if (!spot) {
-        for (let step = 0; step < 1800 && !spot; step += 1) {
-          const angle = step * 0.4;
-          const radius = step * 0.36;
-          const px = width / 2 + Math.cos(angle) * radius;
-          const py = height * 0.46 + Math.sin(angle) * radius * 1.15;
-          const box = { x: px - w / 2, y: py - h / 2, w, h };
-          if (box.x < 0 || box.y < 0 || box.x + box.w > width || box.y + box.h > height) continue;
-          if (!boxInHeart(box, width, height) || crossesCleft(box, width, height)) continue;
-          if (placed.some((other) => overlaps(other, box, 1))) continue;
-          spot = { x: px, y: py };
-          placed.push(box);
-        }
-      }
-      if (!spot) {
-        missed = true;
-        break;
-      }
-      points.push(spot);
-    }
-    if (!missed) break;
-    scale *= 0.88;
   }
-  buttons.forEach((button, index) => {
-    const spot = points[index];
-    if (!spot) {
-      button.remove();
-      return;
+  cloudEl.replaceChildren(...buttons);
+  for (const row of rows) {
+    let guard = 0;
+    while (guard < 3) {
+      guard += 1;
+      const widths = row.buttons.map((button) => button.offsetWidth);
+      const sum = widths.reduce((total, item) => total + item, 0) + row.gap * Math.max(0, widths.length - 1);
+      if (sum <= row.run.w + 0.5 || row.buttons.length === 1) {
+        if (sum > row.run.w + 0.5) {
+          const scale = row.run.w / Math.max(1, widths[0]);
+          row.buttons[0].style.fontSize = `${Math.max(10, row.font * scale).toFixed(1)}px`;
+        }
+        break;
+      }
+      const extra = row.buttons.pop();
+      extra.remove();
     }
-    button.style.left = `${spot.x}px`;
-    button.style.top = `${spot.y}px`;
-  });
+  }
+  for (const row of rows) {
+    const widths = row.buttons.map((button) => button.offsetWidth);
+    const sum = widths.reduce((total, item) => total + item, 0) + row.gap * Math.max(0, widths.length - 1);
+    let x = row.run.x0 + Math.max(0, row.run.w - sum) / 2;
+    row.buttons.forEach((button, index) => {
+      const wordWidth = widths[index];
+      button.style.left = `${x + wordWidth / 2}px`;
+      button.style.top = `${row.band.cy}px`;
+      x += wordWidth + row.gap;
+    });
+  }
 }
 
 if (document.fonts?.ready) {
   document.fonts.ready.then(() => {
-    cloudLayoutWidth = 0;
+    cloudLayoutKey = "";
     if (cloudWords.length && cloudEl?.clientWidth) layoutCloud();
   });
 }
 
 new ResizeObserver(() => {
   if (!cloudWords.length) return;
-  const width = cloudEl.clientWidth;
-  if (width && width !== cloudLayoutWidth) layoutCloud();
+  const boxKey = `${cloudEl.clientWidth}x${cloudEl.clientHeight}`;
+  if (cloudEl.clientWidth && boxKey !== cloudLayoutKey) layoutCloud();
 }).observe(cloudEl);
 
 function deltaMark(word, rank, previous) {
