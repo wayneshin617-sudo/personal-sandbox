@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T07:59:01+00:00",
+  "updatedAt": "2026-10-13T08:00:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -222718,6 +222718,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T07:59:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17495,
+      "source": "dc",
+      "externalId": "6580067",
+      "title": "31경수는 아무에게도 반하지 않았다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.122",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580067&page=1",
+      "postedLabel": "16:58",
+      "postedAt": "2026-10-13T16:58:54+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:00:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17496,
+      "source": "dc",
+      "externalId": "6580068",
+      "title": "경수집은 이사간게 아니라고 순천지 병신들아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580068&page=1",
+      "postedLabel": "16:58",
+      "postedAt": "2026-10-13T16:58:59+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:00:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17497,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-4%EC%88%98%EC%83%9D-%ED%8A%B9%EC%A7%91-a3ardfpv",
+      "title": "나솔사계 4수생 특집",
+      "excerpt": "남자 24기 수의사 영수 18기 포스코 영호 17기 해바쏭 영수 여자 7기 모솔 옥순 14기 울산 영자 17기 우산 순자 그냥 엠티 되겠지? ㅋㅋㅋㅋ",
+      "author": "h********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-4%EC%88%98%EC%83%9D-%ED%8A%B9%EC%A7%91-a3ardfpv",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T16:59:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T08:00:01+00:00",
       "isSeed": false
     }
   ]
