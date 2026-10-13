@@ -1,8 +1,6 @@
-import tempfile
 import unittest
-from pathlib import Path
 
-from app.db import Store
+from app.collect import empty_board, merge
 from app.parsers import parse_blind, parse_dc
 
 DC_HTML = """
@@ -85,40 +83,37 @@ class ParserTest(unittest.TestCase):
         self.assertTrue(post["url"].startswith("https://www.teamblind.com/kr/post/"))
 
 
-class StoreTest(unittest.TestCase):
-    def test_seed_then_live_and_keyword_search(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            store = Store(Path(tmp) / "posts.db")
-            first = {
-                "source": "dc",
-                "external_id": "1",
-                "title": "영숙 첫 글",
-                "excerpt": "",
-                "author": "나갤러",
-                "company": "",
-                "ip": "1.1",
-                "badge": "",
-                "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=1",
-                "posted_label": "12:00",
-                "posted_at": "",
-                "views": 1,
-                "recommends": 0,
-                "comments": 0,
-            }
-            second = dict(first, external_id="2", title="영호는 조용")
-            seeded = store.insert_new([first], is_seed=store.count(source="dc") == 0)
-            lived = store.insert_new([second, first], is_seed=store.count(source="dc") == 0)
-            self.assertEqual(len(seeded), 1)
-            self.assertEqual(seeded[0]["is_seed"], 1)
-            self.assertEqual(len(lived), 1)
-            self.assertEqual(lived[0]["is_seed"], 0)
-            self.assertEqual(store.count(), 2)
-            found = store.list_posts(q="영숙")
-            self.assertEqual([row["title"] for row in found], ["영숙 첫 글"])
-            found_author = store.list_posts(q="나갤러", source="blind")
-            self.assertEqual(found_author, [])
-            older = store.list_posts(before_id=lived[0]["id"])
-            self.assertEqual(older[0]["external_id"], "1")
+def sample(external_id, title):
+    return {
+        "source": "dc",
+        "external_id": external_id,
+        "title": title,
+        "excerpt": "",
+        "author": "나갤러",
+        "company": "",
+        "ip": "1.1",
+        "badge": "",
+        "url": f"https://gall.dcinside.com/board/view/?id=iamsolo&no={external_id}",
+        "posted_label": "12:00",
+        "posted_at": "",
+        "views": 1,
+        "recommends": 0,
+        "comments": 0,
+    }
+
+
+class MergeTest(unittest.TestCase):
+    def test_seed_then_only_new_posts(self):
+        board = empty_board()
+        added = merge(board, {"dc": [sample("2", "영호는 조용"), sample("1", "영숙 첫 글")]}, now="2026-10-13T00:00:00+00:00")
+        self.assertEqual(added, 2)
+        self.assertTrue(all(post["isSeed"] for post in board["posts"]))
+        self.assertEqual([post["externalId"] for post in board["posts"]], ["1", "2"])
+        added = merge(board, {"dc": [sample("3", "새 글"), sample("2", "영호는 조용")]}, now="2026-10-13T00:05:00+00:00")
+        self.assertEqual(added, 1)
+        self.assertEqual(board["posts"][-1]["title"], "새 글")
+        self.assertFalse(board["posts"][-1]["isSeed"])
+        self.assertEqual(len(board["posts"]), 3)
 
 
 if __name__ == "__main__":
