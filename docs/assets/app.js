@@ -330,6 +330,9 @@ const STOP_WORDS = new Set(
 갑자기 드디어 과연 아마 혹시 만약 비록 설마 도대체 대체 물론 당연히 확실히 분명히 약간 조금 많이 잘 다시
 자주 가끔 별로 전혀 절대 결코 막 살짝 정도 만큼 바로 제일 이제 가장 먼저 나중 굳이 오히려 차라리 결국
 아무튼 어쨌든 하여튼 좀더 뭔가 거 것 곳 수 때 중 등 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽
+이유 근황 미국 한국 일본 중국 해외 느낌 생각 마음 이야기 얘기 본인 애들 미래 상황 문제
+댓글 영상 사진 유튜브 유튭 링크 좌표 링크좌표 친구 회사 학교 시간 다들 저렇게 내가 보고 멋진 나가서 삭제직전
+없음 같음 있음 얼마나 둘이
 나솔 미방 미방분 여출 남출 다둥 다둥이 솔솔 몰표 몰표녀 여돌 남돌 솔로녀 솔로남 존버 억까 인싸 아싸 점메추
 존나 졸라 존내 좆나 씨발 시발 씨팔 시팔 씨벌 시벌 병신 븅신 병쉰 지랄 지럴 좆 좇 새끼 개새끼 미친 미쳤
 꺼져 닥쳐 죽어 디질 뒤질 씹 보지 자지 걸레 창녀 창년 썅 니미 애미 애비 등신 호로 또라이 싸가지 개소리
@@ -600,7 +603,7 @@ function deltaMark(word, rank, previous) {
 
 function renderRealtime(posts) {
   const now = Date.now();
-  const ranked = wordCounts(posts, now - 2 * 60 * 60 * 1000).slice(0, 10);
+  const ranked = wordCounts(posts, now - 4 * 60 * 60 * 1000).slice(0, 10);
   const words = ranked.map(([word]) => word);
   let compare = null;
   if (!baselineWords) {
