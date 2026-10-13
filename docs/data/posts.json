@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T08:02:01+00:00",
+  "updatedAt": "2026-10-13T08:03:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -222832,6 +222832,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T08:02:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17501,
+      "source": "dc",
+      "externalId": "6580072",
+      "title": "순자랑 서로 확고했는데 편집탓이라고 했다면서요",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580072&page=1",
+      "postedLabel": "17:02",
+      "postedAt": "2026-10-13T17:02:14+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:03:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 17502,
+      "source": "dc",
+      "externalId": "6580073",
+      "title": "야망남 경수 순자 좋은일만 시킴ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "103.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580073&page=1",
+      "postedLabel": "17:02",
+      "postedAt": "2026-10-13T17:02:16+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T08:03:01+00:00",
       "isSeed": false
     }
   ]
