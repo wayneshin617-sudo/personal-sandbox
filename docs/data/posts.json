@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T14:23:41+00:00",
+  "updatedAt": "2026-10-13T14:27:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -229786,6 +229786,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T14:23:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36818,
+      "source": "dc",
+      "externalId": "6580445",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580445&page=1",
+      "postedLabel": "23:26",
+      "postedAt": "2026-10-13T23:26:59+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:27:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36819,
+      "source": "dc",
+      "externalId": "6580446",
+      "title": "국화가 영수보다 9살 어림",
+      "excerpt": "",
+      "author": "츄잉",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580446&page=1",
+      "postedLabel": "23:27",
+      "postedAt": "2026-10-13T23:27:03+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T14:27:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 36820,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%A4%80%EB%82%B4-%EC%8B%AB%EB%8B%A4-%ED%95%98-%EC%A3%BC%EA%B9%83%EB%82%A8-3aiemav2",
+      "title": "영철 진짜 준내 싫다.. 하... 주.깃.남",
+      "excerpt": "주댕이가 깃털같은 남자 심지어 지가 잘 먹힌다고 생각하는 근자감;;;; 회사에서도 개폐급이라며? 진짜........ 정신박힌 여자들이라면 무조건 거르는 st",
+      "author": "p*****",
+      "company": "존스랑라살",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%A4%80%EB%82%B4-%EC%8B%AB%EB%8B%A4-%ED%95%98-%EC%A3%BC%EA%B9%83%EB%82%A8-3aiemav2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T23:27:30+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T14:27:41+00:00",
       "isSeed": false
     }
   ]
