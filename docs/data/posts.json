@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T07:19:53+00:00",
+  "updatedAt": "2026-10-13T07:20:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -221939,6 +221939,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T07:19:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11726,
+      "source": "dc",
+      "externalId": "6580016",
+      "title": "코로나 강제 접종백신 한다는데도 ㄱㄷㅈ국민들은 뭐하나몰라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580016&page=1",
+      "postedLabel": "16:20",
+      "postedAt": "2026-10-13T16:20:24+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T07:20:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 11727,
+      "source": "blind",
+      "externalId": "/kr/post/33%EC%98%81%EC%88%98-%EC%84%B1%EC%88%98-%EB%93%B1%EC%9E%A5-7mquy7d6",
+      "title": "33영수 성수 등장",
+      "excerpt": "언제인지는 모름 ㅎ",
+      "author": "나****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/33%EC%98%81%EC%88%98-%EC%84%B1%EC%88%98-%EB%93%B1%EC%9E%A5-7mquy7d6",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-13T16:20:51+09:00",
+      "views": 3,
+      "recommends": 2,
+      "comments": 0,
+      "firstSeenAt": "2026-10-13T07:20:53+00:00",
       "isSeed": false
     }
   ]
