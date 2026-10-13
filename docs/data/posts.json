@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-13T11:39:25+00:00",
+  "updatedAt": "2026-10-13T11:40:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -227297,6 +227297,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-13T11:39:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26811,
+      "source": "dc",
+      "externalId": "6580302",
+      "title": "31순자 생일이 얼마나 도태녀도태남들한테 타격이었던거임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580302&page=1",
+      "postedLabel": "20:39",
+      "postedAt": "2026-10-13T20:39:42+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T11:40:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26812,
+      "source": "dc",
+      "externalId": "6580303",
+      "title": "희망은 영철뿐이다",
+      "excerpt": "",
+      "author": "츄잉",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580303&page=1",
+      "postedLabel": "20:40",
+      "postedAt": "2026-10-13T20:40:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-13T11:40:25+00:00",
       "isSeed": false
     }
   ]
