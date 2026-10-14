@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T01:58:58+00:00",
+  "updatedAt": "2026-10-14T02:00:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -286881,6 +286881,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T01:58:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39823,
+      "source": "dc",
+      "externalId": "6580853",
+      "title": "남자는 외모가 보정 되잖아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580853&page=1",
+      "postedLabel": "11:00",
+      "postedAt": "2026-10-14T11:00:21+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:00:59+00:00",
       "isSeed": false
     }
   ]
