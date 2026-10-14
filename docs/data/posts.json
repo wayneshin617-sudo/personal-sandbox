@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T02:09:58+00:00",
+  "updatedAt": "2026-10-14T02:10:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -287128,6 +287128,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T02:09:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39836,
+      "source": "qoo",
+      "externalId": "4375129802",
+      "title": "29기 33기 재밌게봤는데 다른기수 추천해줘",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4375129802",
+      "postedLabel": "11:10",
+      "postedAt": "2026-10-14T11:10:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:10:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39837,
+      "source": "dc",
+      "externalId": "6580864",
+      "title": "동거하면 재밌냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580864&page=1",
+      "postedLabel": "11:10",
+      "postedAt": "2026-10-14T11:10:09+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:10:59+00:00",
       "isSeed": false
     }
   ]
