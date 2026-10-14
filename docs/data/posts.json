@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T21:54:55+00:00",
+  "updatedAt": "2026-10-14T21:56:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -442453,6 +442453,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T21:54:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48011,
+      "source": "dc",
+      "externalId": "6587441",
+      "title": "남출들 선택지가 영숙 현숙 둘밖에 없잖아 ㅅㅂ ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587441&page=1",
+      "postedLabel": "06:56",
+      "postedAt": "2026-10-15T06:56:10+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:56:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48012,
+      "source": "dc",
+      "externalId": "6587442",
+      "title": "34영철처럼 돈자랑 계속 하는 거 본적이 없다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587442&page=1",
+      "postedLabel": "06:56",
+      "postedAt": "2026-10-15T06:56:16+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:56:55+00:00",
       "isSeed": false
     }
   ]
