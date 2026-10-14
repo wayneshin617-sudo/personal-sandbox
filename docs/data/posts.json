@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:30:23+00:00",
+  "updatedAt": "2026-10-14T18:31:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -435822,6 +435822,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:30:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47662,
+      "source": "dc",
+      "externalId": "6587284",
+      "title": "회계사 홍현희 vs 한의사 잇몸녀",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587284&page=1",
+      "postedLabel": "03:30",
+      "postedAt": "2026-10-15T03:30:35+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:31:23+00:00",
       "isSeed": false
     }
   ]
