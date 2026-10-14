@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:52:23+00:00",
+  "updatedAt": "2026-10-14T17:53:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -434606,6 +434606,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:52:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47598,
+      "source": "dc",
+      "externalId": "6587221",
+      "title": "상철 돈 많이 버는건 팩튼데 너무 꺼드럭 거린다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587221&page=1",
+      "postedLabel": "02:52",
+      "postedAt": "2026-10-15T02:52:17+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:53:23+00:00",
       "isSeed": false
     }
   ]
