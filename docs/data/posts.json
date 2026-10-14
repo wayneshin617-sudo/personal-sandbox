@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T04:27:21+00:00",
+  "updatedAt": "2026-10-14T04:29:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -288458,6 +288458,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T04:27:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39906,
+      "source": "dc",
+      "externalId": "6580952",
+      "title": "경수가 결혼 안해주면 순자는 언제까지 버틸까?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580952&page=1",
+      "postedLabel": "13:28",
+      "postedAt": "2026-10-14T13:28:27+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T04:29:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39907,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EB%B9%9A%ED%88%AC-%ED%84%B0%EC%A1%8C%EB%8D%98%EB%8D%B0-0c2osrvx",
+      "title": "34기 빚투 터졌던데...",
+      "excerpt": "한명 밖에 떠오르지 않던데, 껄껄껄...",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%B9%9A%ED%88%AC-%ED%84%B0%EC%A1%8C%EB%8D%98%EB%8D%B0-0c2osrvx",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T13:29:09+09:00",
+      "views": 16,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T04:29:21+00:00",
       "isSeed": false
     }
   ]
