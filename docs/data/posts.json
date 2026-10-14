@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T05:59:39+00:00",
+  "updatedAt": "2026-10-14T06:00:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -290871,6 +290871,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T05:59:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40033,
+      "source": "dc",
+      "externalId": "6581021",
+      "title": "34기 빚투 누구냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581021&page=1",
+      "postedLabel": "14:59",
+      "postedAt": "2026-10-14T14:59:31+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:00:38+00:00",
       "isSeed": false
     }
   ]
