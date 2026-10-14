@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T06:26:39+00:00",
+  "updatedAt": "2026-10-14T06:27:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -291365,6 +291365,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T06:26:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40059,
+      "source": "dc",
+      "externalId": "6581052",
+      "title": "33기도 31기랑 모임 하면 좋은데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581052&page=1",
+      "postedLabel": "15:26",
+      "postedAt": "2026-10-14T15:26:43+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:27:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40060,
+      "source": "dc",
+      "externalId": "6581053",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "212.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581053&page=1",
+      "postedLabel": "15:26",
+      "postedAt": "2026-10-14T15:26:52+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:27:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40061,
+      "source": "dc",
+      "externalId": "6581054",
+      "title": "헤르패스 아니라잖아 이 씨발새끼들아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581054&page=1",
+      "postedLabel": "15:27",
+      "postedAt": "2026-10-14T15:27:07+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:27:39+00:00",
       "isSeed": false
     }
   ]
