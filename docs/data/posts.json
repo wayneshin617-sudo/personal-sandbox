@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T07:20:39+00:00",
+  "updatedAt": "2026-10-14T07:22:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -292296,6 +292296,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-14T07:20:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40108,
+      "source": "dc",
+      "externalId": "6581106",
+      "title": "다 지나서 순자가 잘못했고 옥순은 잘못없다하면 누가 알아주노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581106&page=1",
+      "postedLabel": "16:21",
+      "postedAt": "2026-10-14T16:21:48+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T07:22:39+00:00",
       "isSeed": false
     }
   ]
