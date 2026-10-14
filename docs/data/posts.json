@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T01:08:58+00:00",
+  "updatedAt": "2026-10-14T01:10:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -286216,6 +286216,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T01:08:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39788,
+      "source": "dc",
+      "externalId": "6580809",
+      "title": "경수가 31순자랑 데이트 할때 느낌",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580809&page=1",
+      "postedLabel": "10:09",
+      "postedAt": "2026-10-14T10:09:54+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:10:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39789,
+      "source": "qoo",
+      "externalId": "4375066961",
+      "title": "계약결혼으로 28기 영숙 처음 봤는데 겁나 아름다우시다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4375066961",
+      "postedLabel": "10:10",
+      "postedAt": "2026-10-14T10:10:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:10:58+00:00",
       "isSeed": false
     }
   ]
