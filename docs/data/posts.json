@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T16:41:53+00:00",
+  "updatedAt": "2026-10-14T16:42:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -426132,6 +426132,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T16:41:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47152,
+      "source": "dc",
+      "externalId": "6587011",
+      "title": "여자 순자가 젤 낫네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587011&page=1",
+      "postedLabel": "01:41",
+      "postedAt": "2026-10-15T01:41:48+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:42:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47153,
+      "source": "dc",
+      "externalId": "6587012",
+      "title": "나솔 군기 잡는 11기영철",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587012&page=1",
+      "postedLabel": "01:42",
+      "postedAt": "2026-10-15T01:42:16+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:42:52+00:00",
       "isSeed": false
     }
   ]
