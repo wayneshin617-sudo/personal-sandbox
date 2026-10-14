@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T02:06:58+00:00",
+  "updatedAt": "2026-10-14T02:08:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -287090,6 +287090,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T02:06:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39834,
+      "source": "dc",
+      "externalId": "6580862",
+      "title": "사계는 관심에서 멀어지네 이상하게",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580862&page=1",
+      "postedLabel": "11:08",
+      "postedAt": "2026-10-14T11:08:14+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:08:58+00:00",
       "isSeed": false
     }
   ]
