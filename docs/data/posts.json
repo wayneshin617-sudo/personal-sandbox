@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T21:56:55+00:00",
+  "updatedAt": "2026-10-14T21:57:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -442491,6 +442491,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T21:56:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48013,
+      "source": "dc",
+      "externalId": "6587443",
+      "title": "28기 영숙이 나는솔로 출연자 여자중 가장",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587443&page=1",
+      "postedLabel": "06:57",
+      "postedAt": "2026-10-15T06:57:01+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:57:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48014,
+      "source": "dc",
+      "externalId": "6587444",
+      "title": "확실히 잘나가는 사람들 모아놓으니 숨막히긴하다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.163",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587444&page=1",
+      "postedLabel": "06:57",
+      "postedAt": "2026-10-15T06:57:27+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:57:55+00:00",
       "isSeed": false
     }
   ]
