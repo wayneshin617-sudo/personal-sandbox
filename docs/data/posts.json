@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T09:23:06+00:00",
+  "updatedAt": "2026-10-14T09:25:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -296837,6 +296837,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T09:23:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40347,
+      "source": "dc",
+      "externalId": "6581233",
+      "title": "제작진 장난꾸러기네 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581233&page=1",
+      "postedLabel": "18:23",
+      "postedAt": "2026-10-14T18:23:56+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:25:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40348,
+      "source": "dc",
+      "externalId": "6581234",
+      "title": "영자줌은 또 짧은치마 입었네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581234&page=1",
+      "postedLabel": "18:24",
+      "postedAt": "2026-10-14T18:24:13+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:25:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40349,
+      "source": "dc",
+      "externalId": "6581235",
+      "title": "7옥 미조 말고 미서 옆에 있는거 보면 현커는 아닌가보네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581235&page=1",
+      "postedLabel": "18:24",
+      "postedAt": "2026-10-14T18:24:24+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:25:06+00:00",
       "isSeed": false
     }
   ]
