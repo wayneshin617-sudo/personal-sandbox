@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T06:53:39+00:00",
+  "updatedAt": "2026-10-14T06:55:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -291916,6 +291916,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T06:53:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40088,
+      "source": "dc",
+      "externalId": "6581083",
+      "title": "솔직히 짝수기수마다 생얼특집으로 해야한다고 생각함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581083&page=1",
+      "postedLabel": "15:54",
+      "postedAt": "2026-10-14T15:54:40+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:55:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40089,
+      "source": "dc",
+      "externalId": "6581084",
+      "title": "31영숙 임마도 완전 불쌍하네 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581084&page=1",
+      "postedLabel": "15:55",
+      "postedAt": "2026-10-14T15:55:21+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:55:38+00:00",
       "isSeed": false
     }
   ]
