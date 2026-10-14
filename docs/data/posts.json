@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:59:28+00:00",
+  "updatedAt": "2026-10-14T13:00:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -302252,6 +302252,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:59:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40632,
+      "source": "dc",
+      "externalId": "6581527",
+      "title": "런닝 여왕벌 기대되노 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.245",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581527&page=1",
+      "postedLabel": "21:59",
+      "postedAt": "2026-10-14T21:59:52+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T13:00:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40633,
+      "source": "dc",
+      "externalId": "6581528",
+      "title": "영자 어뜨케 ㅠㅠ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581528&page=1",
+      "postedLabel": "22:00",
+      "postedAt": "2026-10-14T22:00:00+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T13:00:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40634,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AF%B8%EC%85%98-10%EC%8B%9C-30%EB%B6%84-%EA%B9%8C%EC%A7%80-%EB%8F%84%EC%B0%A9%ED%95%98%EA%B8%B0-iyo8ggr1",
+      "title": "미션 10시 30분 까지 도착하기",
+      "excerpt": "어플로 라이브 못 보게 되니 이거 참....... 신데렐라가 따로 없구만",
+      "author": "나솔더쿠",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AF%B8%EC%85%98-10%EC%8B%9C-30%EB%B6%84-%EA%B9%8C%EC%A7%80-%EB%8F%84%EC%B0%A9%ED%95%98%EA%B8%B0-iyo8ggr1",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T22:00:16+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T13:00:28+00:00",
       "isSeed": false
     }
   ]
