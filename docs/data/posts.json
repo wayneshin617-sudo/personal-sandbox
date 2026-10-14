@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T10:43:06+00:00",
+  "updatedAt": "2026-10-14T10:44:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -298528,6 +298528,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T10:43:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40436,
+      "source": "dc",
+      "externalId": "6581329",
+      "title": "오늘 34기 방송할 내용 안 봐도 알 것 같다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581329&page=1",
+      "postedLabel": "19:43",
+      "postedAt": "2026-10-14T19:43:20+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:44:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40437,
+      "source": "dc",
+      "externalId": "6581330",
+      "title": "삭제직전 유튭 링크좌표",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581330&page=1",
+      "postedLabel": "19:43",
+      "postedAt": "2026-10-14T19:43:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:44:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40438,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B9%84%EB%B2%88-%EC%9E%85%EB%A0%A5%ED%95%98%EB%9D%BC%EA%B3%A0-%EC%99%9C%EC%9E%90%EA%BE%B8%EB%9C%A8%EB%8A%94%EA%B1%B0%EC%95%BC-e7s1usbq",
+      "title": "비번 입력하라고 왜자꾸뜨는거야",
+      "excerpt": "나 잘못한거없는데ㅠㅠㅠ",
+      "author": "*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B9%84%EB%B2%88-%EC%9E%85%EB%A0%A5%ED%95%98%EB%9D%BC%EA%B3%A0-%EC%99%9C%EC%9E%90%EA%BE%B8%EB%9C%A8%EB%8A%94%EA%B1%B0%EC%95%BC-e7s1usbq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T19:43:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T10:44:06+00:00",
       "isSeed": false
     }
   ]
