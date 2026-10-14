@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T22:19:55+00:00",
+  "updatedAt": "2026-10-14T22:20:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -442947,6 +442947,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T22:19:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48037,
+      "source": "dc",
+      "externalId": "6587468",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "212.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587468&page=1",
+      "postedLabel": "07:20",
+      "postedAt": "2026-10-15T07:20:10+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:20:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48038,
+      "source": "dc",
+      "externalId": "6587469",
+      "title": "첫선택 남자들 시키면 순자 현숙한테 몰리니깐 여자 선택하라고 한듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587469&page=1",
+      "postedLabel": "07:20",
+      "postedAt": "2026-10-15T07:20:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:20:55+00:00",
       "isSeed": false
     }
   ]
