@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T06:52:39+00:00",
+  "updatedAt": "2026-10-14T06:53:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -291859,6 +291859,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T06:52:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40085,
+      "source": "dc",
+      "externalId": "6581080",
+      "title": "브라질 계란 4만원에사서 4900원에 파는게 진짜야 가짜뉴스야????",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581080&page=1",
+      "postedLabel": "15:52",
+      "postedAt": "2026-10-14T15:52:43+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:53:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40086,
+      "source": "dc",
+      "externalId": "6581081",
+      "title": "이거 번따당한거 맞음..?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "220.122",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581081&page=1",
+      "postedLabel": "15:53",
+      "postedAt": "2026-10-14T15:53:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:53:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40087,
+      "source": "dc",
+      "externalId": "6581082",
+      "title": "미조집에 모였던 사계 멤버들",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581082&page=1",
+      "postedLabel": "15:53",
+      "postedAt": "2026-10-14T15:53:14+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:53:39+00:00",
       "isSeed": false
     }
   ]
