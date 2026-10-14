@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T05:51:38+00:00",
+  "updatedAt": "2026-10-14T05:52:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -290795,6 +290795,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T05:51:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40029,
+      "source": "dc",
+      "externalId": "6581015",
+      "title": "31 순자가 뭐했네 경수랑 뭐하네 이런거 전부 글로리팸이 쓴거",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581015&page=1",
+      "postedLabel": "14:51",
+      "postedAt": "2026-10-14T14:51:58+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:52:38+00:00",
       "isSeed": false
     }
   ]
