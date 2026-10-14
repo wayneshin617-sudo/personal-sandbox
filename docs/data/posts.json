@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T06:30:39+00:00",
+  "updatedAt": "2026-10-14T06:31:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -291479,6 +291479,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T06:30:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40065,
+      "source": "dc",
+      "externalId": "6581058",
+      "title": "34영숙 블라인드 직업",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581058&page=1",
+      "postedLabel": "15:30",
+      "postedAt": "2026-10-14T15:30:31+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:31:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40066,
+      "source": "dc",
+      "externalId": "6581059",
+      "title": "순간 7옥순 가수 데뷔 한 줄",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581059&page=1",
+      "postedLabel": "15:31",
+      "postedAt": "2026-10-14T15:31:09+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:31:39+00:00",
       "isSeed": false
     }
   ]
