@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:07:21+00:00",
+  "updatedAt": "2026-10-14T17:08:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -432364,6 +432364,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:07:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47480,
+      "source": "dc",
+      "externalId": "6587109",
+      "title": "영철은 직업공개하고 나가리",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587109&page=1",
+      "postedLabel": "02:07",
+      "postedAt": "2026-10-15T02:07:42+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:08:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47481,
+      "source": "dc",
+      "externalId": "6587110",
+      "title": "순자는 콩나물국 파트에서 이미 다 뽀록 났네 뭐 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587110&page=1",
+      "postedLabel": "02:08",
+      "postedAt": "2026-10-15T02:08:04+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:08:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47482,
+      "source": "dc",
+      "externalId": "6587111",
+      "title": "이분은 짜장면만 드시다 갈꺼 같은데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587111&page=1",
+      "postedLabel": "02:08",
+      "postedAt": "2026-10-15T02:08:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:08:22+00:00",
       "isSeed": false
     }
   ]
