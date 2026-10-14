@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T23:20:27+00:00",
+  "updatedAt": "2026-10-14T23:21:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -447032,6 +447032,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T23:20:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48252,
+      "source": "dc",
+      "externalId": "6587546",
+      "title": "의외로 영수 인기 있네 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587546&page=1",
+      "postedLabel": "08:20",
+      "postedAt": "2026-10-15T08:20:51+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:21:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48253,
+      "source": "dc",
+      "externalId": "6587547",
+      "title": "목소리 덜덜 떠는거 개씹노간지더라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587547&page=1",
+      "postedLabel": "08:20",
+      "postedAt": "2026-10-15T08:20:55+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:21:27+00:00",
       "isSeed": false
     }
   ]
