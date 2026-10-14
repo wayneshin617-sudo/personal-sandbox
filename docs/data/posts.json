@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T03:16:22+00:00",
+  "updatedAt": "2026-10-14T03:17:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -288135,6 +288135,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T03:16:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39889,
+      "source": "dc",
+      "externalId": "6580916",
+      "title": "닮은꼴",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580916&page=1",
+      "postedLabel": "12:17",
+      "postedAt": "2026-10-14T12:17:00+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T03:17:22+00:00",
       "isSeed": false
     }
   ]
