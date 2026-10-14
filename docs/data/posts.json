@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:55:28+00:00",
+  "updatedAt": "2026-10-14T12:56:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -302176,6 +302176,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:55:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40628,
+      "source": "dc",
+      "externalId": "6581522",
+      "title": "영철은 키 큰 버전 임시완 같음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581522&page=1",
+      "postedLabel": "21:55",
+      "postedAt": "2026-10-14T21:55:44+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:56:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40629,
+      "source": "dc",
+      "externalId": "6581523",
+      "title": "김선호 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581523&page=1",
+      "postedLabel": "21:56",
+      "postedAt": "2026-10-14T21:56:01+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:56:27+00:00",
       "isSeed": false
     }
   ]
