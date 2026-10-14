@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T04:58:21+00:00",
+  "updatedAt": "2026-10-14T05:03:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -288800,6 +288800,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T04:58:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39924,
+      "source": "qoo",
+      "externalId": "4375304225",
+      "title": "21기 영철 연예인이랑 결혼한 거 알아?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4375304225",
+      "postedLabel": "14:02",
+      "postedAt": "2026-10-14T14:02:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:03:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39925,
+      "source": "dc",
+      "externalId": "6580973",
+      "title": "31기 순자 좀 놔줘라 ㅋㅋㅋ 미저리년들",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580973&page=1",
+      "postedLabel": "14:02",
+      "postedAt": "2026-10-14T14:02:19+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:03:21+00:00",
       "isSeed": false
     }
   ]
