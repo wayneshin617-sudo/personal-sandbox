@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:58:23+00:00",
+  "updatedAt": "2026-10-14T17:59:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -434815,6 +434815,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:58:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47609,
+      "source": "dc",
+      "externalId": "6587232",
+      "title": "니들 벌써 잊었냐",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587232&page=1",
+      "postedLabel": "02:58",
+      "postedAt": "2026-10-15T02:58:12+09:00",
+      "views": 23,
+      "recommends": 2,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T17:59:23+00:00",
       "isSeed": false
     }
   ]
