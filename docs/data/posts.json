@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T16:25:53+00:00",
+  "updatedAt": "2026-10-14T16:26:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -424878,6 +424878,63 @@
       "recommends": 1,
       "comments": 0,
       "firstSeenAt": "2026-10-14T16:25:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47086,
+      "source": "dc",
+      "externalId": "6586949",
+      "title": "나솔 34기 폭로 영상 올라왔는데 누구냐 .jpg",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6586949&page=1",
+      "postedLabel": "01:25",
+      "postedAt": "2026-10-15T01:25:44+09:00",
+      "views": 29,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:26:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47087,
+      "source": "dc",
+      "externalId": "6586950",
+      "title": "현숙 가짜선택은 짜치긴해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6586950&page=1",
+      "postedLabel": "01:25",
+      "postedAt": "2026-10-15T01:25:54+09:00",
+      "views": 27,
+      "recommends": 3,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T16:26:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47088,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%98%81%ED%98%B8-02ghkoj4",
+      "title": "영식이 영호",
+      "excerpt": "그나마 내 스타일",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%98%81%ED%98%B8-02ghkoj4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T01:26:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T16:26:53+00:00",
       "isSeed": false
     }
   ]
