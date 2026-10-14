@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T09:57:06+00:00",
+  "updatedAt": "2026-10-14T09:58:05+00:00",
   "posts": [
     {
       "id": 1,
@@ -297730,6 +297730,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T09:57:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40394,
+      "source": "dc",
+      "externalId": "6581280",
+      "title": "국화도 일반인중엔 존예급이지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581280&page=1",
+      "postedLabel": "18:57",
+      "postedAt": "2026-10-14T18:57:29+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:58:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40395,
+      "source": "dc",
+      "externalId": "6581281",
+      "title": "모솔? 웃기고 있네 설마 경험 없겠냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "218.52",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581281&page=1",
+      "postedLabel": "18:57",
+      "postedAt": "2026-10-14T18:57:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:58:05+00:00",
       "isSeed": false
     }
   ]
