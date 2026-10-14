@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T09:34:06+00:00",
+  "updatedAt": "2026-10-14T09:35:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -297236,6 +297236,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T09:34:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40368,
+      "source": "qoo",
+      "externalId": "4375581056",
+      "title": "14영자 옷스타일이 별로야?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4375581056",
+      "postedLabel": "18:34",
+      "postedAt": "2026-10-14T18:34:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:35:06+00:00",
       "isSeed": false
     }
   ]
