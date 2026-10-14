@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T13:17:28+00:00",
+  "updatedAt": "2026-10-14T13:18:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -302917,6 +302917,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T13:17:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40667,
+      "source": "dc",
+      "externalId": "6581559",
+      "title": "치킨 주문했다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581559&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-10-14T22:17:50+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T13:18:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40668,
+      "source": "dc",
+      "externalId": "6581560",
+      "title": "7옥 “최종선택은“ 이러네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581560&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-10-14T22:17:55+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T13:18:28+00:00",
       "isSeed": false
     }
   ]
