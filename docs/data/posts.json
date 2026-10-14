@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:18:23+00:00",
+  "updatedAt": "2026-10-14T18:19:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -435423,6 +435423,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:18:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47641,
+      "source": "dc",
+      "externalId": "6587264",
+      "title": "하이닉스 성격 ㅈㄴ별로던데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587264&page=1",
+      "postedLabel": "03:18",
+      "postedAt": "2026-10-15T03:18:27+09:00",
+      "views": 22,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:19:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47642,
+      "source": "dc",
+      "externalId": "6587265",
+      "title": "영숙이는 당연히 이성으로 느껴지지도 않는데 왜 나온거",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587265&page=1",
+      "postedLabel": "03:18",
+      "postedAt": "2026-10-15T03:18:32+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:19:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47643,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99-6q6k37lh",
+      "title": "정숙",
+      "excerpt": "영식 자기 소개때 본인 어머니는 그러실분 아니라고 믿는다고 하니 정숙: 그건 좀… 순자: 정숙 다리 잡고 절제시킴 정숙 무례하다 무례해",
+      "author": "u*********",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-6q6k37lh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T03:19:11+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T18:19:23+00:00",
       "isSeed": false
     }
   ]
