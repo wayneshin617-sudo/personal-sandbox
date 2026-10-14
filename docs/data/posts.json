@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:11:24+00:00",
+  "updatedAt": "2026-10-14T18:12:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -435100,6 +435100,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:11:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47624,
+      "source": "dc",
+      "externalId": "6587247",
+      "title": "8기 현숙 근황 충격이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587247&page=1",
+      "postedLabel": "03:11",
+      "postedAt": "2026-10-15T03:11:32+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:12:23+00:00",
       "isSeed": false
     }
   ]
