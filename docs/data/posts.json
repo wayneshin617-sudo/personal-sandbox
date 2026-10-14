@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T08:19:06+00:00",
+  "updatedAt": "2026-10-14T08:21:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -295488,6 +295488,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-14T08:19:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40276,
+      "source": "dc",
+      "externalId": "6581151",
+      "title": "삭제직전 유튭 링크좌표",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "212.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581151&page=1",
+      "postedLabel": "17:20",
+      "postedAt": "2026-10-14T17:20:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T08:21:06+00:00",
       "isSeed": false
     }
   ]
