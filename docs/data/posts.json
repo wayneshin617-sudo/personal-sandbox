@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T20:12:57+00:00",
+  "updatedAt": "2026-10-14T20:13:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -441237,6 +441237,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T20:12:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47947,
+      "source": "dc",
+      "externalId": "6587382",
+      "title": "한국 gdp 전망",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587382&page=1",
+      "postedLabel": "05:13",
+      "postedAt": "2026-10-15T05:13:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T20:13:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47948,
+      "source": "dc",
+      "externalId": "6587383",
+      "title": "남자가보는 34기 출연자들 짧은평가",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "119.67",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587383&page=1",
+      "postedLabel": "05:13",
+      "postedAt": "2026-10-15T05:13:38+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T20:13:55+00:00",
       "isSeed": false
     }
   ]
