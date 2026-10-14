@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T00:03:58+00:00",
+  "updatedAt": "2026-10-14T00:04:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -285285,6 +285285,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-14T00:03:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39739,
+      "source": "dc",
+      "externalId": "6580748",
+      "title": "16상철도 출연하는데, 육상줌 리즈모습 복구해서 출연했으면..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580748&page=1",
+      "postedLabel": "09:04",
+      "postedAt": "2026-10-14T09:04:41+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:04:58+00:00",
       "isSeed": false
     }
   ]
