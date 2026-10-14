@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T05:17:20+00:00",
+  "updatedAt": "2026-10-14T05:19:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -289009,6 +289009,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T05:17:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39935,
+      "source": "dc",
+      "externalId": "6580985",
+      "title": "삭제직전 유튭 링크좌표",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "89.187",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580985&page=1",
+      "postedLabel": "14:18",
+      "postedAt": "2026-10-14T14:18:50+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:19:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39936,
+      "source": "dc",
+      "externalId": "6580986",
+      "title": "34영숙 주인공 확정이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580986&page=1",
+      "postedLabel": "14:19",
+      "postedAt": "2026-10-14T14:19:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:19:21+00:00",
       "isSeed": false
     }
   ]
