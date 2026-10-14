@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T09:35:06+00:00",
+  "updatedAt": "2026-10-14T09:39:05+00:00",
   "posts": [
     {
       "id": 1,
@@ -297255,6 +297255,63 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-14T09:35:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40369,
+      "source": "dc",
+      "externalId": "6581256",
+      "title": "14영자는 넘 신기한게 청바지를 입어도",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581256&page=1",
+      "postedLabel": "18:38",
+      "postedAt": "2026-10-14T18:38:17+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:39:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40370,
+      "source": "dc",
+      "externalId": "6581257",
+      "title": "삭제직전 유튭 링크좌표",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "103.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581257&page=1",
+      "postedLabel": "18:38",
+      "postedAt": "2026-10-14T18:38:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:39:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40371,
+      "source": "dc",
+      "externalId": "6581258",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "195.242",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581258&page=1",
+      "postedLabel": "18:38",
+      "postedAt": "2026-10-14T18:38:51+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:39:05+00:00",
       "isSeed": false
     }
   ]
