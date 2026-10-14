@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T23:24:27+00:00",
+  "updatedAt": "2026-10-14T23:25:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -447146,6 +447146,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-14T23:24:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48258,
+      "source": "dc",
+      "externalId": "6587551",
+      "title": "영철은 그냥 창구라 존똑인데 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.230",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587551&page=1",
+      "postedLabel": "08:25",
+      "postedAt": "2026-10-15T08:25:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:25:27+00:00",
       "isSeed": false
     }
   ]
