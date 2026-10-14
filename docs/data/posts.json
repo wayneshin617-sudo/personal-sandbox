@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T20:20:56+00:00",
+  "updatedAt": "2026-10-14T20:23:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -441332,6 +441332,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T20:20:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47952,
+      "source": "dc",
+      "externalId": "6587388",
+      "title": "CIA 문서 \"프로젝트 블루버드\" (국민 만성 우울증 유도)",
+      "excerpt": "",
+      "author": "쇠렌스미러",
+      "company": "",
+      "ip": "222.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587388&page=1",
+      "postedLabel": "05:23",
+      "postedAt": "2026-10-15T05:23:21+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T20:23:55+00:00",
       "isSeed": false
     }
   ]
