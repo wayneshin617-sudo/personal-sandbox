@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T21:02:55+00:00",
+  "updatedAt": "2026-10-14T21:03:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -441636,6 +441636,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T21:02:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47968,
+      "source": "dc",
+      "externalId": "6587402",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "89.33",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587402&page=1",
+      "postedLabel": "06:03",
+      "postedAt": "2026-10-15T06:03:25+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:03:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47969,
+      "source": "dc",
+      "externalId": "6587403",
+      "title": "순자는 탕숙이+14옥 합친 얼굴이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587403&page=1",
+      "postedLabel": "06:03",
+      "postedAt": "2026-10-15T06:03:38+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:03:55+00:00",
       "isSeed": false
     }
   ]
