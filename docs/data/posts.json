@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T03:11:21+00:00",
+  "updatedAt": "2026-10-14T03:12:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -288059,6 +288059,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T03:11:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39885,
+      "source": "dc",
+      "externalId": "6580911",
+      "title": "이재명 재판 받야야 된다고 생각하면 개추!!",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580911&page=1",
+      "postedLabel": "12:11",
+      "postedAt": "2026-10-14T12:11:36+09:00",
+      "views": 4,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T03:12:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39886,
+      "source": "dc",
+      "externalId": "6580912",
+      "title": "28순자 코로나걸렸다더니 암살자보러갔네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580912&page=1",
+      "postedLabel": "12:12",
+      "postedAt": "2026-10-14T12:12:00+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T03:12:21+00:00",
       "isSeed": false
     }
   ]
