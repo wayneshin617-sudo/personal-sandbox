@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T23:09:27+00:00",
+  "updatedAt": "2026-10-14T23:10:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -446614,6 +446614,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T23:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48230,
+      "source": "dc",
+      "externalId": "6587530",
+      "title": "박위집 식탁 엄마의자 뭐야 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587530&page=1",
+      "postedLabel": "08:10",
+      "postedAt": "2026-10-15T08:10:02+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:10:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48231,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EB%A7%90%EB%9D%BC%EB%8F%84-%EC%9D%B8%EA%B8%B0%EB%A7%8E%EB%84%A4-kps07g5j",
+      "title": "영호 말라도 인기많네",
+      "excerpt": "멸치싫어한다던 영숙마저도 좋아함 남자는 암만 몸만들어봤자 얼굴이 다네",
+      "author": "한********",
+      "company": "한국과학기술연구원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EB%A7%90%EB%9D%BC%EB%8F%84-%EC%9D%B8%EA%B8%B0%EB%A7%8E%EB%84%A4-kps07g5j",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T08:10:16+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T23:10:27+00:00",
       "isSeed": false
     }
   ]
