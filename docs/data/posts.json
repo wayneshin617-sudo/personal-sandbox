@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T22:50:27+00:00",
+  "updatedAt": "2026-10-14T22:51:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -446158,6 +446158,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T22:50:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48206,
+      "source": "dc",
+      "externalId": "6587509",
+      "title": "천안정도면 위치로 어떤편이야???",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587509&page=1",
+      "postedLabel": "07:50",
+      "postedAt": "2026-10-15T07:50:51+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:51:28+00:00",
       "isSeed": false
     }
   ]
