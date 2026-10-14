@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:39:28+00:00",
+  "updatedAt": "2026-10-14T12:41:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -301663,6 +301663,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:39:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40601,
+      "source": "dc",
+      "externalId": "6581495",
+      "title": "34옥순 몽클레어 뭐꼬 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581495&page=1",
+      "postedLabel": "21:40",
+      "postedAt": "2026-10-14T21:40:32+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:41:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40602,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%B2%AB%EC%9D%B8%EC%83%81-%EC%84%A0%ED%83%9D-js6fw4wr",
+      "title": "34기 첫인상 선택",
+      "excerpt": "왜 여자 5명이야?? 6명 아냐??",
+      "author": "I*********",
+      "company": "한성엠에스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B2%AB%EC%9D%B8%EC%83%81-%EC%84%A0%ED%83%9D-js6fw4wr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T21:41:16+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T12:41:28+00:00",
       "isSeed": false
     }
   ]
