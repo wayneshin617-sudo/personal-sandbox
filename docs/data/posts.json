@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T21:37:55+00:00",
+  "updatedAt": "2026-10-14T21:38:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -442168,6 +442168,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T21:37:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47996,
+      "source": "dc",
+      "externalId": "6587428",
+      "title": "내 눈이 이상한건가?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.194",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587428&page=1",
+      "postedLabel": "06:37",
+      "postedAt": "2026-10-15T06:37:50+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:38:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47997,
+      "source": "dc",
+      "externalId": "6587429",
+      "title": "옥순 상철 선택은 죤나 의외네 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587429&page=1",
+      "postedLabel": "06:38",
+      "postedAt": "2026-10-15T06:38:42+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:38:55+00:00",
       "isSeed": false
     }
   ]
