@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T00:41:58+00:00",
+  "updatedAt": "2026-10-14T00:42:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -285855,6 +285855,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T00:41:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39769,
+      "source": "dc",
+      "externalId": "6580786",
+      "title": "진짜 얼평 해주는 프롬프트 : 여기서 칭찬받음 진짜 미인",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580786&page=1",
+      "postedLabel": "09:42",
+      "postedAt": "2026-10-14T09:42:03+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T00:42:58+00:00",
       "isSeed": false
     }
   ]
