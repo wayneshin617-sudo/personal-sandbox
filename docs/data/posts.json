@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:52:28+00:00",
+  "updatedAt": "2026-10-14T12:53:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -302119,6 +302119,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:52:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40625,
+      "source": "dc",
+      "externalId": "6581519",
+      "title": "아니 저샠키 잘생겻는데 왜 나대냐 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581519&page=1",
+      "postedLabel": "21:52",
+      "postedAt": "2026-10-14T21:52:59+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:53:29+00:00",
       "isSeed": false
     }
   ]
