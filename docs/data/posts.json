@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T23:19:28+00:00",
+  "updatedAt": "2026-10-14T23:20:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -446975,6 +446975,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T23:19:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48249,
+      "source": "dc",
+      "externalId": "6587543",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587543&page=1",
+      "postedLabel": "08:19",
+      "postedAt": "2026-10-15T08:19:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:20:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48250,
+      "source": "dc",
+      "externalId": "6587544",
+      "title": "영호순자는 안타깝게도 그림체가 너무 안맞음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587544&page=1",
+      "postedLabel": "08:20",
+      "postedAt": "2026-10-15T08:20:02+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:20:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48251,
+      "source": "dc",
+      "externalId": "6587545",
+      "title": "이규한 X 솔비 결혼",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587545&page=1",
+      "postedLabel": "08:20",
+      "postedAt": "2026-10-15T08:20:11+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:20:27+00:00",
       "isSeed": false
     }
   ]
