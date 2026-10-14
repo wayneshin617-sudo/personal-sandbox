@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T11:54:27+00:00",
+  "updatedAt": "2026-10-14T11:55:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -300276,6 +300276,44 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-14T11:54:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40528,
+      "source": "dc",
+      "externalId": "6581414",
+      "title": "여자들이 적극적인 기수가 재밌어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581414&page=1",
+      "postedLabel": "20:54",
+      "postedAt": "2026-10-14T20:54:20+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T11:55:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40529,
+      "source": "dc",
+      "externalId": "6581415",
+      "title": "32영수 아저씨는 텄네 텄어 담배랑 코골이 때문에",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.138",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581415&page=1",
+      "postedLabel": "20:54",
+      "postedAt": "2026-10-14T20:54:59+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T11:55:28+00:00",
       "isSeed": false
     }
   ]
