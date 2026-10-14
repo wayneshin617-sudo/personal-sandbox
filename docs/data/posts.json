@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T02:14:58+00:00",
+  "updatedAt": "2026-10-14T02:16:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -287242,6 +287242,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T02:14:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39842,
+      "source": "dc",
+      "externalId": "6580870",
+      "title": "211.36 친구없어서 여기다 일기쓰는 남자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580870&page=1",
+      "postedLabel": "11:15",
+      "postedAt": "2026-10-14T11:15:54+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:16:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39843,
+      "source": "dc",
+      "externalId": "6580871",
+      "title": "임신을 하면 뭐해 지금 나솔내 결혼 커플들 28영호네 말고 없어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580871&page=1",
+      "postedLabel": "11:16",
+      "postedAt": "2026-10-14T11:16:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:16:58+00:00",
       "isSeed": false
     }
   ]
