@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T08:10:40+00:00",
+  "updatedAt": "2026-10-14T08:12:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -292828,6 +292828,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T08:10:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40136,
+      "source": "dc",
+      "externalId": "6581144",
+      "title": "Srt탈때마다 국화찾는데 한번도안보이노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581144&page=1",
+      "postedLabel": "17:11",
+      "postedAt": "2026-10-14T17:11:57+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T08:12:39+00:00",
       "isSeed": false
     }
   ]
