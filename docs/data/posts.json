@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:27:28+00:00",
+  "updatedAt": "2026-10-14T12:28:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -301226,6 +301226,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:27:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40578,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-22%EC%98%81%EC%88%99-r6y5rhzn",
+      "title": "솔직히 22영숙",
+      "excerpt": "존예긴 하다.. 저 외모에 글래머면 수요 넘칠 듯",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-22%EC%98%81%EC%88%99-r6y5rhzn",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-14T21:27:16+09:00",
+      "views": 51,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T12:28:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40579,
+      "source": "dc",
+      "externalId": "6581470",
+      "title": "7옥줌들아 14영 억까할 시간에 마음의 준비나 해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581470&page=1",
+      "postedLabel": "21:27",
+      "postedAt": "2026-10-14T21:27:21+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:28:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40580,
+      "source": "dc",
+      "externalId": "6581472",
+      "title": "미조 저시절 옷가게면 돈 쓸어담음. 알만한 사람은",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581472&page=1",
+      "postedLabel": "21:28",
+      "postedAt": "2026-10-14T21:28:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:28:27+00:00",
       "isSeed": false
     }
   ]
