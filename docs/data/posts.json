@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:17:28+00:00",
+  "updatedAt": "2026-10-14T12:18:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -300865,6 +300865,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:17:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40559,
+      "source": "dc",
+      "externalId": "6581449",
+      "title": "1시간 좀 지나면 이분들 볼 수 있는거냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581449&page=1",
+      "postedLabel": "21:18",
+      "postedAt": "2026-10-14T21:18:07+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:18:29+00:00",
       "isSeed": false
     }
   ]
