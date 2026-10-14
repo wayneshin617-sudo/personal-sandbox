@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T05:29:38+00:00",
+  "updatedAt": "2026-10-14T05:30:46+00:00",
   "posts": [
     {
       "id": 1,
@@ -290510,6 +290510,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T05:29:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40014,
+      "source": "dc",
+      "externalId": "6580998",
+      "title": "인더존이 뭔데?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580998&page=1",
+      "postedLabel": "14:29",
+      "postedAt": "2026-10-14T14:29:59+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:30:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40015,
+      "source": "dc",
+      "externalId": "6580999",
+      "title": "진짜 ㅈㄴ잘생겼다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580999&page=1",
+      "postedLabel": "14:30",
+      "postedAt": "2026-10-14T14:30:21+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:30:46+00:00",
       "isSeed": false
     }
   ]
