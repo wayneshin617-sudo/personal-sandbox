@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T19:19:23+00:00",
+  "updatedAt": "2026-10-14T19:20:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -437133,6 +437133,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T19:19:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47731,
+      "source": "dc",
+      "externalId": "6587352",
+      "title": "영식 상철 각각 드립친거",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587352&page=1",
+      "postedLabel": "04:19",
+      "postedAt": "2026-10-15T04:19:28+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:20:23+00:00",
       "isSeed": false
     }
   ]
