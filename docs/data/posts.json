@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T00:56:58+00:00",
+  "updatedAt": "2026-10-14T00:57:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -286045,6 +286045,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T00:56:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39779,
+      "source": "dc",
+      "externalId": "6580799",
+      "title": "나만의작은 리센느 너무 인기많아져서 이제",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580799&page=1",
+      "postedLabel": "09:57",
+      "postedAt": "2026-10-14T09:57:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:57:58+00:00",
       "isSeed": false
     }
   ]
