@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T03:29:20+00:00",
+  "updatedAt": "2026-10-14T03:39:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -288211,6 +288211,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T03:29:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39893,
+      "source": "dc",
+      "externalId": "6580926",
+      "title": "국민의 힘 고맙습니다 감사합니다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580926&page=1",
+      "postedLabel": "12:38",
+      "postedAt": "2026-10-14T12:38:39+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T03:39:21+00:00",
       "isSeed": false
     }
   ]
