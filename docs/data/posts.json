@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T07:02:38+00:00",
+  "updatedAt": "2026-10-14T07:04:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -292087,6 +292087,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T07:02:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40097,
+      "source": "dc",
+      "externalId": "6581092",
+      "title": "40여년 살아보니 mz가문제가아니라 mz녀가 문제임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581092&page=1",
+      "postedLabel": "16:03",
+      "postedAt": "2026-10-14T16:03:38+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T07:04:39+00:00",
       "isSeed": false
     }
   ]
