@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T08:52:06+00:00",
+  "updatedAt": "2026-10-14T08:54:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -296039,6 +296039,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T08:52:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40305,
+      "source": "dc",
+      "externalId": "6581184",
+      "title": "크림 선크림은 꼭발라라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581184&page=1",
+      "postedLabel": "17:53",
+      "postedAt": "2026-10-14T17:53:29+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T08:54:06+00:00",
       "isSeed": false
     }
   ]
