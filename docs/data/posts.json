@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:05:27+00:00",
+  "updatedAt": "2026-10-14T12:06:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -300599,6 +300599,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:05:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40545,
+      "source": "dc",
+      "externalId": "6581432",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "185.107",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581432&page=1",
+      "postedLabel": "21:06",
+      "postedAt": "2026-10-14T21:06:02+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:06:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40546,
+      "source": "dc",
+      "externalId": "6581433",
+      "title": "오늘 30기 영수옥순 건대에서 봄",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581433&page=1",
+      "postedLabel": "21:06",
+      "postedAt": "2026-10-14T21:06:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:06:28+00:00",
       "isSeed": false
     }
   ]
