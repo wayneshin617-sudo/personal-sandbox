@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T01:49:58+00:00",
+  "updatedAt": "2026-10-14T01:50:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -286748,6 +286748,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T01:49:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39816,
+      "source": "qoo",
+      "externalId": "4375108141",
+      "title": "이번 기수 비주얼 좋다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4375108141",
+      "postedLabel": "10:49",
+      "postedAt": "2026-10-14T10:49:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:50:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39817,
+      "source": "dc",
+      "externalId": "6580843",
+      "title": "그럼 28영호는 키가 몇인거냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580843&page=1",
+      "postedLabel": "10:49",
+      "postedAt": "2026-10-14T10:49:59+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:50:58+00:00",
       "isSeed": false
     }
   ]
