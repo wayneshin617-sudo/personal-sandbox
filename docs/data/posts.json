@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T01:03:58+00:00",
+  "updatedAt": "2026-10-14T01:07:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -286159,6 +286159,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T01:03:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39785,
+      "source": "dc",
+      "externalId": "6580807",
+      "title": "34영자가 98년생이었구나",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580807&page=1",
+      "postedLabel": "10:07",
+      "postedAt": "2026-10-14T10:07:26+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:07:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39786,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EC%9D%80-%EB%81%8A%EC%96%B4%EB%8F%84-%EB%82%98%EC%86%94%EA%B2%8C%EB%8A%94-%EC%95%88%EB%81%8A%EB%8A%94-%EC%9D%B4%EC%9C%A0-jmq4xhv3",
+      "title": "나솔은 끊어도 나솔게는 안끊는 이유",
+      "excerpt": "자기들끼리 막 분석하는데 틀리는게 재밌음 난 참고로 첫인상 관상만으로 모든걸 다 파악하는중",
+      "author": "두*********",
+      "company": "서울교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%9D%80-%EB%81%8A%EC%96%B4%EB%8F%84-%EB%82%98%EC%86%94%EA%B2%8C%EB%8A%94-%EC%95%88%EB%81%8A%EB%8A%94-%EC%9D%B4%EC%9C%A0-jmq4xhv3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T10:07:46+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T01:07:58+00:00",
       "isSeed": false
     }
   ]
