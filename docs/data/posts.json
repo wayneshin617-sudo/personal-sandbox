@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T23:53:28+00:00",
+  "updatedAt": "2026-10-14T23:54:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -448001,6 +448001,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T23:53:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48303,
+      "source": "dc",
+      "externalId": "6587591",
+      "title": "근데 갤럼들은 산수도 못하는거임? 자꾸 9급이라네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587591&page=1",
+      "postedLabel": "08:53",
+      "postedAt": "2026-10-15T08:53:25+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:54:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48304,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%EC%A0%9C-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-6gn021i7",
+      "title": "어제 출연자들",
+      "excerpt": "명절에 온 가족 모인 느낌",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-6gn021i7",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T08:54:15+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T23:54:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48305,
+      "source": "dc",
+      "externalId": "6587592",
+      "title": "이규한 한결같은 소나무네 전여친 브브걸유정도 솔비느낌",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587592&page=1",
+      "postedLabel": "08:54",
+      "postedAt": "2026-10-15T08:54:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:54:28+00:00",
       "isSeed": false
     }
   ]
