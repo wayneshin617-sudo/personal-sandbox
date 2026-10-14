@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:53:23+00:00",
+  "updatedAt": "2026-10-14T17:54:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -434625,6 +434625,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:53:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47599,
+      "source": "dc",
+      "externalId": "6587222",
+      "title": "나는 영호가 좋아 !!",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "198.96",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587222&page=1",
+      "postedLabel": "02:53",
+      "postedAt": "2026-10-15T02:53:31+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:54:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47600,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9E%AC%EB%B0%A9-%ED%9B%84%EA%B8%B0-jori4h46",
+      "title": "재방 후기",
+      "excerpt": "영수-오해해서 미안. 집안일 좀 했구나. 영호-다 가진 toRl 영철-너가 갑일 때랑 을일 때랑 입에 달리는 모터가 다르네 영식-제작자 최대의 고민 지점 광수-술버릇 부터 부족한 메타 인지까지. 짜장면 많이 드시고 상철-무게의 아쉬움 보다는 깊이의 아쉬움이 크다. 책 좀 읽자 영숙-너 그러면 어릴 때는 사람들이 집안 욕하는데 서른 넘으면 너를 욕해 정숙-잘 놀다 가세요. 술이라도 취했으면 분량은 챙겼을 듯 한데 안타깝 순자-현명한 선택 할거라 믿음 영자-사람들이 대놓고 말하지 못하는 포인트에서 실패의 이유를 찾자. 쌍수 ㄱㄱ 옥",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%AC%EB%B0%A9-%ED%9B%84%EA%B8%B0-jori4h46",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T02:54:12+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T17:54:23+00:00",
       "isSeed": false
     }
   ]
