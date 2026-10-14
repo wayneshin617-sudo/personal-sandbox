@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T05:16:26+00:00",
+  "updatedAt": "2026-10-14T05:17:20+00:00",
   "posts": [
     {
       "id": 1,
@@ -288971,6 +288971,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-14T05:16:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39933,
+      "source": "dc",
+      "externalId": "6580982",
+      "title": "제작비 깎인거 같은 촌모텔방 같은데서",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "135.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580982&page=1",
+      "postedLabel": "14:16",
+      "postedAt": "2026-10-14T14:16:15+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:17:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39934,
+      "source": "dc",
+      "externalId": "6580983",
+      "title": "순자 출판사 사장 나빳다",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580983&page=1",
+      "postedLabel": "14:16",
+      "postedAt": "2026-10-14T14:16:31+09:00",
+      "views": 15,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:17:20+00:00",
       "isSeed": false
     }
   ]
