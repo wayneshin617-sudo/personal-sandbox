@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:49:23+00:00",
+  "updatedAt": "2026-10-14T17:50:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -434511,6 +434511,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:49:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47593,
+      "source": "dc",
+      "externalId": "6587216",
+      "title": "얘는 막내 티 너무남",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "148.113",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587216&page=1",
+      "postedLabel": "02:50",
+      "postedAt": "2026-10-15T02:50:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:50:25+00:00",
       "isSeed": false
     }
   ]
