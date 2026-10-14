@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T22:20:55+00:00",
+  "updatedAt": "2026-10-14T22:22:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -442985,6 +442985,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T22:20:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48039,
+      "source": "dc",
+      "externalId": "6587470",
+      "title": "영숙이 이마가 이상한데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587470&page=1",
+      "postedLabel": "07:22",
+      "postedAt": "2026-10-15T07:22:37+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:22:55+00:00",
       "isSeed": false
     }
   ]
