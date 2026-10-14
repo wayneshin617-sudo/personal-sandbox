@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T22:48:26+00:00",
+  "updatedAt": "2026-10-14T22:50:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -446139,6 +446139,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T22:48:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48205,
+      "source": "dc",
+      "externalId": "6587508",
+      "title": "나도 솔직히 첫 눈에 반함",
+      "excerpt": "",
+      "author": "줴줴이야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587508&page=1",
+      "postedLabel": "07:49",
+      "postedAt": "2026-10-15T07:49:34+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:50:27+00:00",
       "isSeed": false
     }
   ]
