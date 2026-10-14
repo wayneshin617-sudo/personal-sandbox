@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T21:23:55+00:00",
+  "updatedAt": "2026-10-14T21:25:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -441902,6 +441902,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T21:23:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47982,
+      "source": "dc",
+      "externalId": "6587416",
+      "title": "자꾸 9급 이라고 하는데... 7급이라고...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587416&page=1",
+      "postedLabel": "06:25",
+      "postedAt": "2026-10-15T06:25:17+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T21:25:55+00:00",
       "isSeed": false
     }
   ]
