@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:42:23+00:00",
+  "updatedAt": "2026-10-14T18:43:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -436126,6 +436126,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:42:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47678,
+      "source": "dc",
+      "externalId": "6587300",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "195.242",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587300&page=1",
+      "postedLabel": "03:42",
+      "postedAt": "2026-10-15T03:42:37+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:43:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47679,
+      "source": "dc",
+      "externalId": "6587302",
+      "title": "영숙줌은 진짜 아역배우 박민하 닮았다니까 ㄹㅇ",
+      "excerpt": "",
+      "author": "갈치얌ʕ••ʕ••ʔ",
+      "company": "",
+      "ip": "58.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587302&page=1",
+      "postedLabel": "03:43",
+      "postedAt": "2026-10-15T03:43:02+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:43:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47680,
+      "source": "dc",
+      "externalId": "6587301",
+      "title": "상철 정준하 젊었을때 존똑인데 꺼드럭 대박이네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587301&page=1",
+      "postedLabel": "03:43",
+      "postedAt": "2026-10-15T03:43:03+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:43:23+00:00",
       "isSeed": false
     }
   ]
