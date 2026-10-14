@@ -339,6 +339,15 @@ const STOP_WORDS = new Set(
 좆밥 찌질 느금 느금마 염병 엠창 개년 개놈 개새 씨발롬 시발롬 환장 빡치 빡쳐 개자식 후레 쉬발 쉬벌 스발 슈발`.split(/\s+/),
 );
 const SWEAR_PARTS = ["씨발", "시발", "씨팔", "시팔", "씨벌", "시벌", "병신", "븅신", "지랄", "좆", "존나", "졸라", "새끼", "개새끼", "니미", "느금", "염병", "개소리", "쉬발", "쉬벌"];
+const SCREEN_PARTS = [
+  "정치", "대통령", "민주당", "국민의힘", "국힘", "윤석열", "이재명", "문재인", "박근혜", "이명박",
+  "한동훈", "조국", "이준석", "홍준표", "탄핵", "좌파", "우파", "여당", "야당", "국회", "김정은",
+  "극우", "극좌", "친윤", "친문", "개딸", "보수", "선거",
+  "가슴", "엉덩이", "슴가", "유방", "젖꼭지", "유두", "섹스", "몰카", "도촬", "불법촬영",
+  "성희롱", "성추행", "성폭행", "성폭력", "성매매", "강간", "음란", "팬티", "속옷", "보빨", "호빠",
+  "꼴리", "변태", "자위", "젖", "섹드립",
+];
+const GENERIC_AUTHORS = new Set(["", "ㅇㅇ", "ㅇㅇㅇ", "ㅁㅁ", "익명", "무명의 더쿠", "유튜브"]);
 const BOUND_NOUNS = new Set("곳 것 수 거 때 중 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽".split(" "));
 const PRED_RE = /(?:습니다|입니다|합니다|했습니다|됐습니다|였습니다|겠습니다|어요|아요|여요|해요|돼요|예요|이에요|네요|군요|잖아요|거든요|는데요|인데요|었어요|았어요|였어요|겠어요|했어|됐어|였어|겠어|았어|었어|봐줘|해줘|주세요|한다|된다|인다|운다|간다|온다|본다|준다|친다|난다|만든다|싶다|같다|없다|있다|하다|되다|이다|아니다|않다|했다|됐다|였다|겠다|았다|었다|않았다|해서|돼서|여서|아서|어서|면서|지만|니까|려고|도록|하면|되면|이면|아니면|하며|되며|이며|하고|되고|이고|아니고|하는|되는|이는|라는|이라는|않는|없는|있는|할까|될까|인가|건가|거야|거예요|거죠|건데|인데|하네|되네|이네|하지|되지|이지|보면|으며|으니|겁니다|겠죠|거든|잖아|더라|던데|더라고|스러운|스럽게|스러워|적인|답게|다운|은데|는데|한데|같아|같지|같음|같아서|같으면)$/;
 const SHORT_RE = /(?:하|되|됐|했|돼|해)(?:다|요|까|지|네|면|며|고|서|니|게|라|어|아|여|죠|군|구|든|던|음)$|된$|될$/;
@@ -374,12 +383,28 @@ function stemWord(word) {
   return word;
 }
 
+function isScreenedWord(word) {
+  if (SCREEN_PARTS.some((part) => word.includes(part))) return true;
+  if (word.includes("북한") && !word.includes("거북한")) return true;
+  if (word.includes("진보") && !word.includes("사진")) return true;
+  if (word.includes("야동") && !word.includes("야동생")) return true;
+  return false;
+}
+
 function isCountedWord(word) {
   if (/^\d+기$/.test(word)) return true;
-  if (word.length < 2 || STOP_WORDS.has(word)) return false;
+  if (word.length < 2 || STOP_WORDS.has(word) || isScreenedWord(word)) return false;
   if (SWEAR_PARTS.some((part) => word.includes(part))) return false;
   if (PRED_RE.test(word) || SHORT_RE.test(word)) return false;
   return true;
+}
+
+function personKey(post) {
+  const author = (post.author || "").trim();
+  const ip = (post.ip || "").trim();
+  const company = (post.company || "").trim();
+  if (GENERIC_AUTHORS.has(author) && !ip && !company) return "";
+  return `${post.source || ""}:${author}:${ip}:${company}`;
 }
 
 function countedText(post) {
@@ -389,15 +414,26 @@ function countedText(post) {
 
 function wordCounts(posts, since) {
   const counts = new Map();
+  const people = new Map();
   for (const post of posts) {
     if (since && timeValue(post) < since) continue;
+    const person = personKey(post) || `post:${post.source || ""}:${post.id}`;
     const seen = new Set();
     for (const raw of countedText(post).match(WORD_RE) || []) {
       const word = stemWord(raw);
       if (!isCountedWord(word)) continue;
       seen.add(word);
     }
-    for (const word of seen) counts.set(word, (counts.get(word) || 0) + 1);
+    for (const word of seen) {
+      let group = people.get(word);
+      if (!group) {
+        group = new Set();
+        people.set(word, group);
+      }
+      if (group.has(person)) continue;
+      group.add(person);
+      counts.set(word, (counts.get(word) || 0) + 1);
+    }
   }
   return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
 }
