@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T16:58:22+00:00",
+  "updatedAt": "2026-10-14T16:59:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -431604,6 +431604,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T16:58:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47440,
+      "source": "dc",
+      "externalId": "6587070",
+      "title": "강남사는 영식이 돈 많을듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587070&page=1",
+      "postedLabel": "01:58",
+      "postedAt": "2026-10-15T01:58:32+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:59:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47441,
+      "source": "dc",
+      "externalId": "6587071",
+      "title": "영철이 한의사 잡으라는 거 딱 취집",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587071&page=1",
+      "postedLabel": "01:58",
+      "postedAt": "2026-10-15T01:58:34+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:59:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47442,
+      "source": "dc",
+      "externalId": "6587072",
+      "title": "영수같은 남자가 좀만 길들이면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587072&page=1",
+      "postedLabel": "01:58",
+      "postedAt": "2026-10-15T01:58:46+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:59:23+00:00",
       "isSeed": false
     }
   ]
