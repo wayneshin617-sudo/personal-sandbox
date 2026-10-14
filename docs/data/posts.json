@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T16:05:54+00:00",
+  "updatedAt": "2026-10-14T16:06:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -422560,6 +422560,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T16:05:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 46964,
+      "source": "dc",
+      "externalId": "6586831",
+      "title": "하닉이면 무조건 여자가 달려든다는건 뭘 모르는 얘기지 의사가",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.121",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6586831&page=1",
+      "postedLabel": "01:06",
+      "postedAt": "2026-10-15T01:06:15+09:00",
+      "views": 21,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:06:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 46965,
+      "source": "dc",
+      "externalId": "6586832",
+      "title": "영철 자기소개때 여출들 표정만 봐도 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6586832&page=1",
+      "postedLabel": "01:06",
+      "postedAt": "2026-10-15T01:06:41+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T16:06:54+00:00",
       "isSeed": false
     }
   ]
