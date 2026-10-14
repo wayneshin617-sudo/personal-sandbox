@@ -12,7 +12,7 @@
 </head>
 <body>
   <div class="app">
-    <aside class="rail">
+    <aside class="rail" id="rail">
       <div class="brand">
         <p class="live"><span class="pulse"></span>LIVE</p>
         <h1><span>나는솔로</span><span>댓글 몰아보기</span></h1>
@@ -57,6 +57,10 @@
 
       <p class="since" id="since">목록을 불러오고 있습니다</p>
     </aside>
+    <button type="button" class="rail-toggle" id="rail-toggle" aria-expanded="true" aria-controls="rail">
+      <span class="sr" id="rail-toggle-label">옆 화면 접기</span>
+      <svg viewBox="0 0 12 12" aria-hidden="true"><path d="M7.6 2.2 3.8 6l3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
 
     <section class="stage">
       <div id="scroller">

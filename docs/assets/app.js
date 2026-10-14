@@ -408,7 +408,41 @@ function isCountedWord(word, allowSwears) {
   return true;
 }
 
+let floodStamp = "";
+let floodTitles = new Set();
+
+function floodTitle(post) {
+  return `${post.source || ""}:${(post.title || "").replace(/\s+/g, " ").trim()}`;
+}
+
+function refreshFlood(posts) {
+  const list = posts && posts.length > allPosts.length ? posts : allPosts;
+  if (!list.length) return;
+  const last = list[list.length - 1];
+  const stamp = `${list.length}:${last?.id || 0}`;
+  if (stamp === floodStamp) return;
+  const counts = new Map();
+  for (const post of list) {
+    const key = floodTitle(post);
+    if (key.endsWith(":")) continue;
+    counts.set(key, (counts.get(key) || 0) + 1);
+  }
+  floodTitles = new Set();
+  for (const [key, count] of counts) {
+    if (count >= 4) floodTitles.add(key);
+  }
+  floodStamp = stamp;
+}
+
+function isFloodPost(post) {
+  const key = floodTitle(post);
+  if (key.endsWith(":")) return false;
+  refreshFlood(allPosts);
+  return floodTitles.has(key);
+}
+
 function isVisiblePost(post) {
+  if (isFloodPost(post)) return false;
   const text = countedText(post);
   if (OFFTOPIC_TALK.some((part) => text.includes(part))) return false;
   for (const raw of text.match(WORD_RE) || []) {
@@ -433,6 +467,7 @@ function countedText(post) {
 function wordCounts(posts, since, allowSwears) {
   const counts = new Map();
   const people = new Map();
+  refreshFlood(posts);
   for (const post of posts) {
     if (!isVisiblePost(post)) continue;
     if (since && timeValue(post) < since) continue;
@@ -540,14 +575,14 @@ function rasterHeart(width, height) {
   return { mask, top, bottom };
 }
 
-function heartFont(t) {
+function heartFont(t, scale = 1) {
   let font;
   if (t < 0.16) font = 12 + t * 10;
   else if (t < 0.36) font = 14 + ((t - 0.16) / 0.2) * 17;
   else if (t < 0.5) font = 31 - ((t - 0.36) / 0.14) * 6;
   else if (t < 0.72) font = 24 - ((t - 0.5) / 0.22) * 11;
   else font = 12.5 - ((t - 0.72) / 0.28) * 2;
-  return Math.max(11, Math.min(32, font));
+  return Math.max(10, Math.max(11, Math.min(32, font)) * scale);
 }
 
 function heartRuns(mask, width, y0, y1) {
@@ -576,12 +611,12 @@ function heartRuns(mask, width, y0, y1) {
   return runs;
 }
 
-function heartBands(mask, width, top, bottom) {
+function heartBands(mask, width, top, bottom, scale) {
   const bands = [];
   let y = top;
   while (y < bottom - 8) {
     const t = (y - top) / Math.max(1, bottom - top);
-    const font = heartFont(t);
+    const font = heartFont(t, scale);
     const bandHeight = Math.round(font + 1);
     const y1 = Math.min(bottom, y + bandHeight);
     const runs = heartRuns(mask, width, y, y1).filter((run) => run.w >= Math.max(18, font * 1.82));
@@ -644,7 +679,8 @@ function layoutCloud() {
   cloudLayoutKey = `${width}x${height}`;
   const { mask, top, bottom } = rasterHeart(width, height);
   if (bottom <= top) return;
-  const bands = heartBands(mask, width, top, bottom);
+  const scale = Math.min(1, width / 240, height / 240);
+  const bands = heartBands(mask, width, top, bottom, scale);
   const rows = assignHeart(cloudWords, bands);
   const buttons = [];
   for (const row of rows) {
@@ -851,20 +887,22 @@ function renderStatus(board) {
 
 function replacePosts(posts) {
   allPosts.splice(0, allPosts.length, ...posts);
+  floodStamp = "";
 }
 
 async function pull() {
   const board = await loadBoard();
   if (!board) return;
-  renderStatus(board);
   const posts = board.posts || [];
   if (!state.ready) {
     replacePosts(posts);
+    renderStatus(board);
     stamp = board.updatedAt || "";
     state.ready = true;
     reload();
     return;
   }
+  renderStatus(board);
   if ((board.updatedAt || "") === stamp && posts.length === allPosts.length) return;
   const known = new Set(allPosts.map((post) => post.id));
   const added = posts.filter((post) => !known.has(post.id)).sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
@@ -1020,6 +1058,16 @@ document.querySelector("#composer").addEventListener("submit", (event) => {
 });
 
 jump.addEventListener("click", scrollToBottom);
+
+const railToggle = document.querySelector("#rail-toggle");
+const appEl = document.querySelector(".app");
+function setRailOpen(open) {
+  appEl.classList.toggle("rail-closed", !open);
+  railToggle.setAttribute("aria-expanded", String(open));
+  document.querySelector("#rail-toggle-label").textContent = open ? "옆 화면 접기" : "옆 화면 열기";
+}
+railToggle.addEventListener("click", () => setRailOpen(appEl.classList.contains("rail-closed")));
+
 scroller.addEventListener("scroll", () => {
   const room = overflow();
   state.pinned = room <= 8 || distanceFromBottom() < 72;
