@@ -46,6 +46,7 @@ function nickColor(seed) {
 }
 
 function matches(post) {
+  if (!isVisiblePost(post)) return false;
   if (state.source !== "all" && post.source !== state.source) return false;
   if (!state.q) return true;
   const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();
@@ -335,6 +336,13 @@ const STOP_WORDS = new Set(
 없음 같음 있음 얼마나 둘이
 나솔 미방 미방분 여출 남출 다둥 다둥이 솔솔 몰표 몰표녀 여돌 남돌 솔로녀 솔로남 존버 억까 인싸 아싸 점메추`.split(/\s+/),
 );
+const SWEAR_WORDS = new Set(
+  `존나 졸라 존내 좆나 씨발 시발 씨팔 시팔 씨벌 시벌 병신 븅신 병쉰 지랄 지럴 좆 좇 새끼 개새끼 미친 미쳤
+꺼져 닥쳐 죽어 디질 뒤질 씹 보지 자지 걸레 창녀 창년 썅 니미 애미 애비 등신 호로 또라이 싸가지 개소리
+좆밥 찌질 느금 느금마 염병 엠창 개년 개놈 개새 씨발롬 시발롬 환장 빡치 빡쳐 개자식 후레 쉬발 쉬벌 스발 슈발`.split(/\s+/),
+);
+const SWEAR_PARTS = ["씨발", "시발", "씨팔", "시팔", "씨벌", "시벌", "병신", "븅신", "지랄", "좆", "존나", "졸라", "새끼", "개새끼", "니미", "느금", "염병", "개소리", "쉬발", "쉬벌"];
+const OFFTOPIC_TALK = ["근황", "미국", "일본", "중국", "해외"];
 const SCREEN_PARTS = [
   "정치", "대통령", "민주당", "국민의힘", "국힘", "윤석열", "이재명", "문재인", "박근혜", "이명박",
   "한동훈", "조국", "이준석", "홍준표", "탄핵", "좌파", "우파", "여당", "야당", "국회", "김정은",
@@ -387,10 +395,25 @@ function isScreenedWord(word) {
   return false;
 }
 
-function isCountedWord(word) {
+function isSwearWord(word) {
+  if (SWEAR_WORDS.has(word)) return true;
+  return SWEAR_PARTS.some((part) => word.includes(part));
+}
+
+function isCountedWord(word, allowSwears) {
   if (/^\d+기$/.test(word)) return true;
   if (word.length < 2 || STOP_WORDS.has(word) || isScreenedWord(word)) return false;
+  if (!allowSwears && isSwearWord(word)) return false;
   if (PRED_RE.test(word) || SHORT_RE.test(word)) return false;
+  return true;
+}
+
+function isVisiblePost(post) {
+  const text = countedText(post);
+  if (OFFTOPIC_TALK.some((part) => text.includes(part))) return false;
+  for (const raw of text.match(WORD_RE) || []) {
+    if (isScreenedWord(stemWord(raw))) return false;
+  }
   return true;
 }
 
@@ -407,16 +430,17 @@ function countedText(post) {
   return `${post.title || ""} ${post.excerpt || ""}`;
 }
 
-function wordCounts(posts, since) {
+function wordCounts(posts, since, allowSwears) {
   const counts = new Map();
   const people = new Map();
   for (const post of posts) {
+    if (!isVisiblePost(post)) continue;
     if (since && timeValue(post) < since) continue;
     const person = personKey(post) || `post:${post.source || ""}:${post.id}`;
     const seen = new Set();
     for (const raw of countedText(post).match(WORD_RE) || []) {
       const word = stemWord(raw);
-      if (!isCountedWord(word)) continue;
+      if (!isCountedWord(word, allowSwears)) continue;
       seen.add(word);
     }
     for (const word of seen) {
@@ -691,7 +715,7 @@ function deltaMark(word, rank, previous) {
 
 function renderRealtime(posts) {
   const now = Date.now();
-  const ranked = wordCounts(posts, now - 4 * 60 * 60 * 1000).slice(0, 10);
+  const ranked = wordCounts(posts, now - 4 * 60 * 60 * 1000, true).slice(0, 10);
   const words = ranked.map(([word]) => word);
   let compare = null;
   if (!baselineWords) {
