@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T00:06:58+00:00",
+  "updatedAt": "2026-10-14T00:07:57+00:00",
   "posts": [
     {
       "id": 1,
@@ -285342,6 +285342,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T00:06:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39742,
+      "source": "dc",
+      "externalId": "6580752",
+      "title": "창순오빠 인스스 깬다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580752&page=1",
+      "postedLabel": "09:06",
+      "postedAt": "2026-10-14T09:06:54+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:07:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39743,
+      "source": "dc",
+      "externalId": "6580753",
+      "title": "영호가 존잘이노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580753&page=1",
+      "postedLabel": "09:07",
+      "postedAt": "2026-10-14T09:07:19+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:07:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39744,
+      "source": "dc",
+      "externalId": "6580754",
+      "title": "문정시영아파트 리모델링사업에 대한 생각",
+      "excerpt": "",
+      "author": "근저당",
+      "company": "",
+      "ip": "222.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580754&page=1",
+      "postedLabel": "09:07",
+      "postedAt": "2026-10-14T09:07:41+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:07:57+00:00",
       "isSeed": false
     }
   ]
