@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T02:27:58+00:00",
+  "updatedAt": "2026-10-14T02:32:57+00:00",
   "posts": [
     {
       "id": 1,
@@ -287432,6 +287432,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T02:27:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39852,
+      "source": "dc",
+      "externalId": "6580885",
+      "title": "왜여자들은 늙는것에 순응못하냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580885&page=1",
+      "postedLabel": "11:31",
+      "postedAt": "2026-10-14T11:31:52+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:32:57+00:00",
       "isSeed": false
     }
   ]
