@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T05:42:39+00:00",
+  "updatedAt": "2026-10-14T05:44:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -290719,6 +290719,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T05:42:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40025,
+      "source": "dc",
+      "externalId": "6581009",
+      "title": "[부동산문학] 2-1. 저는 부동산말고 미국주식 할건데요?",
+      "excerpt": "",
+      "author": "근저당",
+      "company": "",
+      "ip": "121.167",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581009&page=1",
+      "postedLabel": "14:43",
+      "postedAt": "2026-10-14T14:43:40+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T05:44:39+00:00",
       "isSeed": false
     }
   ]
