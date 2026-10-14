@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:01:29+00:00",
+  "updatedAt": "2026-10-14T12:02:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -300466,6 +300466,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:01:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40538,
+      "source": "dc",
+      "externalId": "6581425",
+      "title": "자연슴은 이렇게 ㅣ 자로 모아짐 ㄹㅇ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581425&page=1",
+      "postedLabel": "21:01",
+      "postedAt": "2026-10-14T21:01:46+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:02:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40539,
+      "source": "dc",
+      "externalId": "6581427",
+      "title": "14영자단들 저번 사계때도 영자줌 여주 만들려고 여론 만들었어?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581427&page=1",
+      "postedLabel": "21:02",
+      "postedAt": "2026-10-14T21:02:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:02:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40540,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-8kat6uph",
+      "title": "나는 솔로 실시간",
+      "excerpt": "원래 sbs 어플에서 볼 수 잇는데 언제부터 막혔더라고... 돈 안내고는 실시간 못 보지 이제....?? 넷플은 목욜까지 기다려야하는뎅ㅠㅠ",
+      "author": "l*********",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-8kat6uph",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T21:02:16+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T12:02:28+00:00",
       "isSeed": false
     }
   ]
