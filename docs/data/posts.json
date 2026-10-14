@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:44:28+00:00",
+  "updatedAt": "2026-10-14T12:45:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -301815,6 +301815,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:44:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40609,
+      "source": "dc",
+      "externalId": "6581503",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581503&page=1",
+      "postedLabel": "21:44",
+      "postedAt": "2026-10-14T21:44:26+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:45:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40610,
+      "source": "dc",
+      "externalId": "6581504",
+      "title": "캐리어 저건 아직도하노 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581504&page=1",
+      "postedLabel": "21:44",
+      "postedAt": "2026-10-14T21:44:30+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:45:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40611,
+      "source": "dc",
+      "externalId": "6581505",
+      "title": "14기 남은 여자들 중에선 14영숙이 젤 낫지않냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581505&page=1",
+      "postedLabel": "21:44",
+      "postedAt": "2026-10-14T21:44:32+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:45:29+00:00",
       "isSeed": false
     }
   ]
