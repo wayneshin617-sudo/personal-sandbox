@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T10:05:06+00:00",
+  "updatedAt": "2026-10-14T10:07:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -297939,6 +297939,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T10:05:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40405,
+      "source": "dc",
+      "externalId": "6581294",
+      "title": "야이 씹빡쌔들아 헤르패스 아니라잖아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581294&page=1",
+      "postedLabel": "19:06",
+      "postedAt": "2026-10-14T19:06:04+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:07:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40406,
+      "source": "dc",
+      "externalId": "6581295",
+      "title": "김수현 아동법 혐의없음, 불송치 악플러 강력대응",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581295&page=1",
+      "postedLabel": "19:06",
+      "postedAt": "2026-10-14T19:06:47+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:07:06+00:00",
       "isSeed": false
     }
   ]
