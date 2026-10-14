@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:34:24+00:00",
+  "updatedAt": "2026-10-14T18:35:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -435917,6 +435917,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:34:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47667,
+      "source": "dc",
+      "externalId": "6587289",
+      "title": "상철 유영찬 닮아서 깜짝 놀랐네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "110.13",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587289&page=1",
+      "postedLabel": "03:34",
+      "postedAt": "2026-10-15T03:34:20+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:35:23+00:00",
       "isSeed": false
     }
   ]
