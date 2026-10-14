@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:35:23+00:00",
+  "updatedAt": "2026-10-14T17:36:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -434074,6 +434074,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:35:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47570,
+      "source": "dc",
+      "externalId": "6587196",
+      "title": "오히려 이런 애들이 미움 안받아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.158",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587196&page=1",
+      "postedLabel": "02:35",
+      "postedAt": "2026-10-15T02:35:16+09:00",
+      "views": 19,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T17:36:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47571,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EA%B9%80%EC%84%A0%ED%98%B8%EB%B3%B4%EB%8B%A8-%EC%8B%AC%ED%98%95%ED%83%81-%EB%8B%AE%EC%A7%80-%EC%95%8A%EC%95%98%EB%82%98-bp6s62fi",
+      "title": "영호는 김선호보단 심형탁 닮지 않았나",
+      "excerpt": "성격은 노잼이지만 노잼이 잘생겨서 분위기 있어보이네 부럽",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EA%B9%80%EC%84%A0%ED%98%B8%EB%B3%B4%EB%8B%A8-%EC%8B%AC%ED%98%95%ED%83%81-%EB%8B%AE%EC%A7%80-%EC%95%8A%EC%95%98%EB%82%98-bp6s62fi",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T02:36:11+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T17:36:23+00:00",
       "isSeed": false
     }
   ]
