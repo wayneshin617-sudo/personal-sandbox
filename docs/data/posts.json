@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T10:50:06+00:00",
+  "updatedAt": "2026-10-14T10:51:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -298718,6 +298718,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T10:50:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40446,
+      "source": "dc",
+      "externalId": "6581336",
+      "title": "영철아 9급이면 영자랑 잘해보는게 맞지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581336&page=1",
+      "postedLabel": "19:49",
+      "postedAt": "2026-10-14T19:49:56+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:51:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40447,
+      "source": "dc",
+      "externalId": "6581338",
+      "title": "현숙이 왤케 이쁘냐 ㅎㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581338&page=1",
+      "postedLabel": "19:50",
+      "postedAt": "2026-10-14T19:50:29+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:51:06+00:00",
       "isSeed": false
     }
   ]
