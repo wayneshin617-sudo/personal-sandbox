@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T10:15:06+00:00",
+  "updatedAt": "2026-10-14T10:16:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -298091,6 +298091,44 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-14T10:15:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40413,
+      "source": "dc",
+      "externalId": "6581301",
+      "title": "미서 솔리랑 같은 쟈켓인데 이것도 여친이",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581301&page=1",
+      "postedLabel": "19:15",
+      "postedAt": "2026-10-14T19:15:05+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:16:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40414,
+      "source": "dc",
+      "externalId": "6581302",
+      "title": "여자들만 들어와서 대답해줘",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581302&page=1",
+      "postedLabel": "19:15",
+      "postedAt": "2026-10-14T19:15:41+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:16:06+00:00",
       "isSeed": false
     }
   ]
