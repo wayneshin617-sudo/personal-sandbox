@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T19:08:23+00:00",
+  "updatedAt": "2026-10-14T19:09:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -436924,6 +436924,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T19:08:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47720,
+      "source": "dc",
+      "externalId": "6587341",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587341&page=1",
+      "postedLabel": "04:08",
+      "postedAt": "2026-10-15T04:08:12+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:09:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47721,
+      "source": "dc",
+      "externalId": "6587342",
+      "title": "첫인상 머슴형으로 대충 뽑고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587342&page=1",
+      "postedLabel": "04:08",
+      "postedAt": "2026-10-15T04:08:53+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:09:23+00:00",
       "isSeed": false
     }
   ]
