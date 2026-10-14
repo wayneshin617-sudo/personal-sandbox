@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T09:27:06+00:00",
+  "updatedAt": "2026-10-14T09:28:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -296989,6 +296989,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T09:27:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40355,
+      "source": "dc",
+      "externalId": "6581241",
+      "title": "싸우면 누가이길까 미나토 vs 키자루",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581241&page=1",
+      "postedLabel": "18:27",
+      "postedAt": "2026-10-14T18:27:36+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:28:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40356,
+      "source": "dc",
+      "externalId": "6581242",
+      "title": "7옥언냐 옷만보면 모솔이해감",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581242&page=1",
+      "postedLabel": "18:27",
+      "postedAt": "2026-10-14T18:27:46+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T09:28:06+00:00",
       "isSeed": false
     }
   ]
