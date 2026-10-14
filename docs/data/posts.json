@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T11:23:28+00:00",
+  "updatedAt": "2026-10-14T11:24:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -299687,6 +299687,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T11:23:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40497,
+      "source": "dc",
+      "externalId": "6581379",
+      "title": "개념글 34기 빚투 선언한 보배드림 작성자 댓글.jpg",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.202",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581379&page=1",
+      "postedLabel": "20:23",
+      "postedAt": "2026-10-14T20:23:38+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T11:24:28+00:00",
       "isSeed": false
     }
   ]
