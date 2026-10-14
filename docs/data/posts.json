@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T11:10:33+00:00",
+  "updatedAt": "2026-10-14T11:11:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -299345,6 +299345,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-14T11:10:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40479,
+      "source": "dc",
+      "externalId": "6581363",
+      "title": "근래 재밌었던 기수",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "220.92",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581363&page=1",
+      "postedLabel": "20:11",
+      "postedAt": "2026-10-14T20:11:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T11:11:32+00:00",
       "isSeed": false
     }
   ]
