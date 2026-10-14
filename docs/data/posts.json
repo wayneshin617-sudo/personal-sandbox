@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:50:28+00:00",
+  "updatedAt": "2026-10-14T12:51:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -302043,6 +302043,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:50:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40621,
+      "source": "dc",
+      "externalId": "6581515",
+      "title": "근데 ㄹㅇ 이쁘긴 존나게이뻣네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581515&page=1",
+      "postedLabel": "21:50",
+      "postedAt": "2026-10-14T21:50:24+09:00",
+      "views": 29,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:51:28+00:00",
       "isSeed": false
     }
   ]
