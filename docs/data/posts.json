@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:33:26+00:00",
+  "updatedAt": "2026-10-14T17:34:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -433960,6 +433960,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:33:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47564,
+      "source": "qoo",
+      "externalId": "4376079453",
+      "title": "나 아직 1화도 절반밖에 못봤는데 다들 직업 떴어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376079453",
+      "postedLabel": "02:33",
+      "postedAt": "2026-10-15T02:33:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:34:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47565,
+      "source": "dc",
+      "externalId": "6587191",
+      "title": "상철이 저 병신은영호 90도 비꼬는게 자기가유쾌한줄아는게",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587191&page=1",
+      "postedLabel": "02:33",
+      "postedAt": "2026-10-15T02:33:30+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:34:22+00:00",
       "isSeed": false
     }
   ]
