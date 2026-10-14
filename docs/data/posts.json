@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T02:17:58+00:00",
+  "updatedAt": "2026-10-14T02:18:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -287299,6 +287299,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T02:17:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39845,
+      "source": "dc",
+      "externalId": "6580875",
+      "title": "어제 하루종일 순자까글 쓴 새끼가 뭔 바람이 불어서 갑자기",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580875&page=1",
+      "postedLabel": "11:18",
+      "postedAt": "2026-10-14T11:18:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T02:18:58+00:00",
       "isSeed": false
     }
   ]
