@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T10:39:06+00:00",
+  "updatedAt": "2026-10-14T10:40:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -298433,6 +298433,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T10:39:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40431,
+      "source": "dc",
+      "externalId": "6581323",
+      "title": "34영자 한의사면 실수령 월 1500이상임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581323&page=1",
+      "postedLabel": "19:39",
+      "postedAt": "2026-10-14T19:39:06+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:40:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40432,
+      "source": "dc",
+      "externalId": "6581324",
+      "title": "여출 소개는 또 다음주겠지?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.228",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581324&page=1",
+      "postedLabel": "19:39",
+      "postedAt": "2026-10-14T19:39:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:40:06+00:00",
       "isSeed": false
     }
   ]
