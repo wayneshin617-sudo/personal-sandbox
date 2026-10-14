@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:37:28+00:00",
+  "updatedAt": "2026-10-14T12:38:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -301606,6 +301606,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:37:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40598,
+      "source": "dc",
+      "externalId": "6581491",
+      "title": "사계보고 시집, 장가 못간 사람들 특징 분석해봄ㅇㅇ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581491&page=1",
+      "postedLabel": "21:37",
+      "postedAt": "2026-10-14T21:37:33+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:38:28+00:00",
       "isSeed": false
     }
   ]
