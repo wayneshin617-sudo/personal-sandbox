@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:26:28+00:00",
+  "updatedAt": "2026-10-14T12:27:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -301188,6 +301188,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:26:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40576,
+      "source": "dc",
+      "externalId": "6581468",
+      "title": "영수 1찍이엇냐 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581468&page=1",
+      "postedLabel": "21:26",
+      "postedAt": "2026-10-14T21:26:29+09:00",
+      "views": 12,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:27:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40577,
+      "source": "dc",
+      "externalId": "6581469",
+      "title": "동대문 옷팔이 누나들한테도 걸러진게 미조임ㅇㅇ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581469&page=1",
+      "postedLabel": "21:26",
+      "postedAt": "2026-10-14T21:26:52+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:27:28+00:00",
       "isSeed": false
     }
   ]
