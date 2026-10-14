@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:58:28+00:00",
+  "updatedAt": "2026-10-14T12:59:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -302233,6 +302233,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T12:58:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40631,
+      "source": "dc",
+      "externalId": "6581526",
+      "title": "영숙이 얼굴 젤 이쁜거 같은데 성격도 시원시원하고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.187",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581526&page=1",
+      "postedLabel": "21:59",
+      "postedAt": "2026-10-14T21:59:00+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:59:28+00:00",
       "isSeed": false
     }
   ]
