@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T22:06:54+00:00",
+  "updatedAt": "2026-10-14T22:07:56+00:00",
   "posts": [
     {
       "id": 1,
@@ -442719,6 +442719,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T22:06:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48025,
+      "source": "dc",
+      "externalId": "6587455",
+      "title": "연봉이 7억이든 10억이든 고졸은 고졸 티가 나네;",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587455&page=1",
+      "postedLabel": "07:07",
+      "postedAt": "2026-10-15T07:07:07+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:07:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48026,
+      "source": "dc",
+      "externalId": "6587456",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587456&page=1",
+      "postedLabel": "07:07",
+      "postedAt": "2026-10-15T07:07:24+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:07:56+00:00",
       "isSeed": false
     }
   ]
