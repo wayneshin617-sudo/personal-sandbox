@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T19:16:23+00:00",
+  "updatedAt": "2026-10-14T19:17:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -437076,6 +437076,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T19:16:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47728,
+      "source": "dc",
+      "externalId": "6587349",
+      "title": "삼성이 하이닉스보다 인성은좋네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587349&page=1",
+      "postedLabel": "04:16",
+      "postedAt": "2026-10-15T04:16:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:17:23+00:00",
       "isSeed": false
     }
   ]
