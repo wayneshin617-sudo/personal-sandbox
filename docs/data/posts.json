@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T00:18:58+00:00",
+  "updatedAt": "2026-10-14T00:20:57+00:00",
   "posts": [
     {
       "id": 1,
@@ -285570,6 +285570,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T00:18:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39754,
+      "source": "dc",
+      "externalId": "6580764",
+      "title": "근데 기독교인들은 왜 나솔 나오는 거임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580764&page=1",
+      "postedLabel": "09:20",
+      "postedAt": "2026-10-14T09:20:02+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:20:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39755,
+      "source": "dc",
+      "externalId": "6580765",
+      "title": "여돌들에 남자가 붙으면 감사하고 좋아해야지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580765&page=1",
+      "postedLabel": "09:20",
+      "postedAt": "2026-10-14T09:20:17+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:20:57+00:00",
       "isSeed": false
     }
   ]
