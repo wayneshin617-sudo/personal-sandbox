@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T20:38:54+00:00",
+  "updatedAt": "2026-10-14T20:40:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -441484,6 +441484,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T20:38:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47960,
+      "source": "dc",
+      "externalId": "6587395",
+      "title": "영숙이보면서31옥생각남",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587395&page=1",
+      "postedLabel": "05:40",
+      "postedAt": "2026-10-15T05:40:04+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T20:40:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47961,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9E%90%EB%8B%A4%EA%B9%BC%EC%96%B4-%EC%88%98%EB%8B%A4%ED%95%A0%EA%B9%8C-5836755h",
+      "title": "자다깼어 수다할까?",
+      "excerpt": "30초남 잠결에 ㄷㅍㅁ 이야기할까 블라새벽수다",
+      "author": "s*****",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%90%EB%8B%A4%EA%B9%BC%EC%96%B4-%EC%88%98%EB%8B%A4%ED%95%A0%EA%B9%8C-5836755h",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T05:40:43+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T20:40:55+00:00",
       "isSeed": false
     }
   ]
