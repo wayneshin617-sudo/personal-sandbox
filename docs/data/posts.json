@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T22:03:55+00:00",
+  "updatedAt": "2026-10-14T22:06:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -442681,6 +442681,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T22:03:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48023,
+      "source": "dc",
+      "externalId": "6587453",
+      "title": "쉬매려 = ㅈㄴ 꼴림 포인트 아님?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587453&page=1",
+      "postedLabel": "07:06",
+      "postedAt": "2026-10-15T07:06:13+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:06:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48024,
+      "source": "dc",
+      "externalId": "6587454",
+      "title": "하이닉스 앞에 살면 대부분 하닉이라 생산직이면 조롱당함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587454&page=1",
+      "postedLabel": "07:06",
+      "postedAt": "2026-10-15T07:06:35+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T22:06:54+00:00",
       "isSeed": false
     }
   ]
