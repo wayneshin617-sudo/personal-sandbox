@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:50:25+00:00",
+  "updatedAt": "2026-10-14T17:51:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -434530,6 +434530,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:50:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47594,
+      "source": "dc",
+      "externalId": "6587217",
+      "title": "영철이 보면 조각이 떠올라 부동산 하던애",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587217&page=1",
+      "postedLabel": "02:50",
+      "postedAt": "2026-10-15T02:50:45+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:51:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47595,
+      "source": "dc",
+      "externalId": "6587218",
+      "title": "저는 소년미 있는 남자 좋아해요",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587218&page=1",
+      "postedLabel": "02:50",
+      "postedAt": "2026-10-15T02:50:51+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:51:23+00:00",
       "isSeed": false
     }
   ]
