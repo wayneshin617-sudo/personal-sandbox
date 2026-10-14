@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T13:15:28+00:00",
+  "updatedAt": "2026-10-14T13:16:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -302841,6 +302841,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T13:15:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40663,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%B9%98%EB%A9%B4-jgqabf0i",
+      "title": "그렇게 치면",
+      "excerpt": "둘은 형제냐?",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "NOW",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%B9%98%EB%A9%B4-jgqabf0i",
+      "postedLabel": "2일",
+      "postedAt": "2026-10-12T22:16:16+09:00",
+      "views": 6108,
+      "recommends": 47,
+      "comments": 26,
+      "firstSeenAt": "2026-10-14T13:16:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40664,
+      "source": "dc",
+      "externalId": "6581556",
+      "title": "송해나만 없으면 꿀잼일듯 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581556&page=1",
+      "postedLabel": "22:15",
+      "postedAt": "2026-10-14T22:15:40+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T13:16:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40665,
+      "source": "dc",
+      "externalId": "6581557",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581557&page=1",
+      "postedLabel": "22:16",
+      "postedAt": "2026-10-14T22:16:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T13:16:29+00:00",
       "isSeed": false
     }
   ]
