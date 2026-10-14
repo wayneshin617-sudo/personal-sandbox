@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:26:23+00:00",
+  "updatedAt": "2026-10-14T18:27:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -435670,6 +435670,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:26:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47654,
+      "source": "dc",
+      "externalId": "6587276",
+      "title": "호프 티비위키에 떳네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587276&page=1",
+      "postedLabel": "03:26",
+      "postedAt": "2026-10-15T03:26:43+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:27:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47655,
+      "source": "dc",
+      "externalId": "6587277",
+      "title": "여자들이 족같은게 사족을 존나 붙임",
+      "excerpt": "",
+      "author": "김크리에이터",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587277&page=1",
+      "postedLabel": "03:27",
+      "postedAt": "2026-10-15T03:27:00+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:27:23+00:00",
       "isSeed": false
     }
   ]
