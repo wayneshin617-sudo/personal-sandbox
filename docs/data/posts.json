@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T01:43:58+00:00",
+  "updatedAt": "2026-10-14T01:45:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -286653,6 +286653,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T01:43:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39811,
+      "source": "dc",
+      "externalId": "6580837",
+      "title": "젊은 여자는 직업 안보고 얼굴 본다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580837&page=1",
+      "postedLabel": "10:45",
+      "postedAt": "2026-10-14T10:45:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:45:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39812,
+      "source": "dc",
+      "externalId": "6580839",
+      "title": "망해버린 암살자들 근황ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580839&page=1",
+      "postedLabel": "10:45",
+      "postedAt": "2026-10-14T10:45:21+09:00",
+      "views": 5,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:45:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39813,
+      "source": "dc",
+      "externalId": "6580840",
+      "title": "야구는 ㅅㅂ 왜 보는걸까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580840&page=1",
+      "postedLabel": "10:45",
+      "postedAt": "2026-10-14T10:45:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T01:45:58+00:00",
       "isSeed": false
     }
   ]
