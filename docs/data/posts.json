@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T00:01:58+00:00",
+  "updatedAt": "2026-10-14T00:03:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -285266,6 +285266,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T00:01:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39738,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B5%AD%ED%86%A0%EA%B5%90%ED%86%B5%EB%B6%80-%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8-zt41fq6x",
+      "title": "국토교통부 마스코트",
+      "excerpt": "김정현 사무관ㅋㅋㅋㅋ",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%AD%ED%86%A0%EA%B5%90%ED%86%B5%EB%B6%80-%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8-zt41fq6x",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T09:03:46+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T00:03:58+00:00",
       "isSeed": false
     }
   ]
