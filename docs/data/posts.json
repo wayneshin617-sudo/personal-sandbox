@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T00:42:58+00:00",
+  "updatedAt": "2026-10-14T00:43:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -285874,6 +285874,63 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-14T00:42:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39770,
+      "source": "dc",
+      "externalId": "6580787",
+      "title": "일단 짝부터 봐온 내가 안본다는거에서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580787&page=1",
+      "postedLabel": "09:42",
+      "postedAt": "2026-10-14T09:42:50+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:43:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39771,
+      "source": "dc",
+      "externalId": "6580788",
+      "title": "장볼때 전두지휘 이 네글자에 수준 다 나옴 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580788&page=1",
+      "postedLabel": "09:43",
+      "postedAt": "2026-10-14T09:43:14+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:43:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39772,
+      "source": "dc",
+      "externalId": "6580789",
+      "title": "주식몰래보기팁",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580789&page=1",
+      "postedLabel": "09:43",
+      "postedAt": "2026-10-14T09:43:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T00:43:58+00:00",
       "isSeed": false
     }
   ]
