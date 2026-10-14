@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T12:02:28+00:00",
+  "updatedAt": "2026-10-14T12:04:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -300523,6 +300523,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-14T12:02:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40541,
+      "source": "dc",
+      "externalId": "6581428",
+      "title": "34기 영호는 왜 일본여자는 관심 없어하지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581428&page=1",
+      "postedLabel": "21:03",
+      "postedAt": "2026-10-14T21:03:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:04:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40542,
+      "source": "dc",
+      "externalId": "6581429",
+      "title": "이번 사계 끝나면 ㄹㅇ국결특집임?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581429&page=1",
+      "postedLabel": "21:03",
+      "postedAt": "2026-10-14T21:03:46+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T12:04:27+00:00",
       "isSeed": false
     }
   ]
