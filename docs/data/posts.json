@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T10:16:06+00:00",
+  "updatedAt": "2026-10-14T10:17:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -298129,6 +298129,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T10:16:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40415,
+      "source": "dc",
+      "externalId": "6581304",
+      "title": "사계 미남 두명 vs 나솔 34기 미남 두명",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581304&page=1",
+      "postedLabel": "19:16",
+      "postedAt": "2026-10-14T19:16:29+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:17:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40416,
+      "source": "dc",
+      "externalId": "6581303",
+      "title": "미서의외네 디엠받으러온줄알았더니 고졸비서랑연애중이라니",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581303&page=1",
+      "postedLabel": "19:16",
+      "postedAt": "2026-10-14T19:16:30+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T10:17:06+00:00",
       "isSeed": false
     }
   ]
