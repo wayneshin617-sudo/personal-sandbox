@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:33:23+00:00",
+  "updatedAt": "2026-10-14T18:34:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -435879,6 +435879,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:33:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47665,
+      "source": "dc",
+      "externalId": "6587287",
+      "title": "영자 성형하면 대박날 상인데 얼굴형이랑 얼굴비율 좋음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587287&page=1",
+      "postedLabel": "03:33",
+      "postedAt": "2026-10-15T03:33:48+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:34:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47666,
+      "source": "dc",
+      "externalId": "6587288",
+      "title": "웹소설 작가이자 웹소설 출판사 대표는 나솔나오면",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587288&page=1",
+      "postedLabel": "03:34",
+      "postedAt": "2026-10-15T03:34:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:34:24+00:00",
       "isSeed": false
     }
   ]
