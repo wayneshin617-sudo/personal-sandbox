@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T06:14:38+00:00",
+  "updatedAt": "2026-10-14T06:16:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -291118,6 +291118,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T06:14:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40046,
+      "source": "dc",
+      "externalId": "6581037",
+      "title": "싸울 때 벨트 푸는건 뭐여??;",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581037&page=1",
+      "postedLabel": "15:15",
+      "postedAt": "2026-10-14T15:15:38+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:16:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40047,
+      "source": "dc",
+      "externalId": "6581039",
+      "title": "어우 쥐우성 머리털 다 털렸네 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581039&page=1",
+      "postedLabel": "15:16",
+      "postedAt": "2026-10-14T15:16:16+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T06:16:39+00:00",
       "isSeed": false
     }
   ]
