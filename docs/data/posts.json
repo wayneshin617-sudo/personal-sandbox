@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T19:28:23+00:00",
+  "updatedAt": "2026-10-14T19:29:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -437323,6 +437323,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T19:28:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47741,
+      "source": "dc",
+      "externalId": "6587362",
+      "title": "5급광수랑 비교되는 하닉상철",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587362&page=1",
+      "postedLabel": "04:28",
+      "postedAt": "2026-10-15T04:28:21+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:29:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47742,
+      "source": "dc",
+      "externalId": "6587363",
+      "title": "그래서 정확히 뭐냐 9급임? 7급임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587363&page=1",
+      "postedLabel": "04:28",
+      "postedAt": "2026-10-15T04:28:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:29:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47743,
+      "source": "dc",
+      "externalId": "6587364",
+      "title": "14영자줌은 쌍수할 그게 아닌데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587364&page=1",
+      "postedLabel": "04:28",
+      "postedAt": "2026-10-15T04:28:38+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:29:24+00:00",
       "isSeed": false
     }
   ]
