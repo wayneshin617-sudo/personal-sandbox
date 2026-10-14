@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T19:04:23+00:00",
+  "updatedAt": "2026-10-14T19:06:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -436848,6 +436848,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T19:04:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47716,
+      "source": "dc",
+      "externalId": "6587337",
+      "title": "논산 9급은",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "139.64",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587337&page=1",
+      "postedLabel": "04:05",
+      "postedAt": "2026-10-15T04:05:24+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:06:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47717,
+      "source": "dc",
+      "externalId": "6587338",
+      "title": "존못녀는 진짜 너무 하잖아..",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587338&page=1",
+      "postedLabel": "04:05",
+      "postedAt": "2026-10-15T04:05:31+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:06:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47718,
+      "source": "dc",
+      "externalId": "6587339",
+      "title": "지는 남들한테 무례함을 넘어 개좃같이 하면서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587339&page=1",
+      "postedLabel": "04:06",
+      "postedAt": "2026-10-15T04:06:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:06:23+00:00",
       "isSeed": false
     }
   ]
