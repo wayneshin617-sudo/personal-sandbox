@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T04:49:21+00:00",
+  "updatedAt": "2026-10-14T04:51:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -288705,6 +288705,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T04:49:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39919,
+      "source": "dc",
+      "externalId": "6580968",
+      "title": "경수가 순자랑 키스도 안하는 건 와꾸 문제가 가장 큼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580968&page=1",
+      "postedLabel": "13:50",
+      "postedAt": "2026-10-14T13:50:18+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-14T04:51:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39920,
+      "source": "dc",
+      "externalId": "6580969",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "31.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6580969&page=1",
+      "postedLabel": "13:50",
+      "postedAt": "2026-10-14T13:50:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T04:51:22+00:00",
       "isSeed": false
     }
   ]
