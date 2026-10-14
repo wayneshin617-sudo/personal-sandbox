@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:04:32+00:00",
+  "updatedAt": "2026-10-14T18:06:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -434948,6 +434948,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:04:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47616,
+      "source": "dc",
+      "externalId": "6587239",
+      "title": "'마렵다' 단어는 병원에서 빈뇨 싱담 때나 사용해야 함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.113",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587239&page=1",
+      "postedLabel": "03:05",
+      "postedAt": "2026-10-15T03:05:40+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:06:23+00:00",
       "isSeed": false
     }
   ]
