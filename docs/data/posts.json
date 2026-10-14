@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T01:32:58+00:00",
+  "updatedAt": "2026-10-14T01:34:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -286558,6 +286558,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T01:32:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 39806,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88%ED%8E%B8-%EB%9F%B0%EB%8B%9D%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B0%80%EC%9A%94-vesnk0hd",
+      "title": "이번편 런닝하면서 볼만한가요?????????",
+      "excerpt": "조언좀요",
+      "author": "x*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%ED%8E%B8-%EB%9F%B0%EB%8B%9D%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B0%80%EC%9A%94-vesnk0hd",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-14T10:34:46+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T01:34:58+00:00",
       "isSeed": false
     }
   ]
