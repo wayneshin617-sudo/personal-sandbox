@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T08:47:05+00:00",
+  "updatedAt": "2026-10-14T08:48:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -295944,6 +295944,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-14T08:47:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 40300,
+      "source": "dc",
+      "externalId": "6581177",
+      "title": "28옥 키 164래",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6581177&page=1",
+      "postedLabel": "17:47",
+      "postedAt": "2026-10-14T17:47:25+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T08:48:06+00:00",
       "isSeed": false
     }
   ]
