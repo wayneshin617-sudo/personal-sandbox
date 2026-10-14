@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T18:28:23+00:00",
+  "updatedAt": "2026-10-14T18:29:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -435746,6 +435746,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T18:28:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47658,
+      "source": "dc",
+      "externalId": "6587280",
+      "title": "현숙 일라이릴리 다니노 ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "110.13",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587280&page=1",
+      "postedLabel": "03:28",
+      "postedAt": "2026-10-15T03:28:20+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:29:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47659,
+      "source": "dc",
+      "externalId": "6587281",
+      "title": "대졸도 바르는 고졸인데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587281&page=1",
+      "postedLabel": "03:28",
+      "postedAt": "2026-10-15T03:28:31+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:29:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47660,
+      "source": "dc",
+      "externalId": "6587282",
+      "title": "영철아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "23.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587282&page=1",
+      "postedLabel": "03:29",
+      "postedAt": "2026-10-15T03:29:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T18:29:23+00:00",
       "isSeed": false
     }
   ]
