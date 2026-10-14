@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:28:23+00:00",
+  "updatedAt": "2026-10-14T17:29:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -433751,6 +433751,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T17:28:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47553,
+      "source": "dc",
+      "externalId": "6587180",
+      "title": "영수같은헬창은 단백질음료안쳐먹음 계란삶더라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587180&page=1",
+      "postedLabel": "02:28",
+      "postedAt": "2026-10-15T02:28:32+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:29:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47554,
+      "source": "dc",
+      "externalId": "6587181",
+      "title": "영자 진짜 너무 못생겼다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587181&page=1",
+      "postedLabel": "02:28",
+      "postedAt": "2026-10-15T02:28:43+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:29:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47555,
+      "source": "dc",
+      "externalId": "6587182",
+      "title": "영식이는 딱 이 느낌",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587182&page=1",
+      "postedLabel": "02:28",
+      "postedAt": "2026-10-15T02:28:47+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:29:22+00:00",
       "isSeed": false
     }
   ]
