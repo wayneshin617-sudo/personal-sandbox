@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T17:54:23+00:00",
+  "updatedAt": "2026-10-14T17:55:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -434663,6 +434663,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-14T17:54:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47601,
+      "source": "dc",
+      "externalId": "6587223",
+      "title": "영자가 진짜 순박하고 착하다고 믿고는 싶은데...",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587223&page=1",
+      "postedLabel": "02:54",
+      "postedAt": "2026-10-15T02:54:41+09:00",
+      "views": 8,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:55:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47602,
+      "source": "dc",
+      "externalId": "6587224",
+      "title": "지금 삼전닉스 생산직들 다 상철같을거 생각하니 좀 그래",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587224&page=1",
+      "postedLabel": "02:54",
+      "postedAt": "2026-10-15T02:54:42+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T17:55:23+00:00",
       "isSeed": false
     }
   ]
