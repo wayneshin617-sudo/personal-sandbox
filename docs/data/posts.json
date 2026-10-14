@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T23:00:28+00:00",
+  "updatedAt": "2026-10-14T23:01:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -446367,6 +446367,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-14T23:00:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48217,
+      "source": "dc",
+      "externalId": "6587520",
+      "title": "찢재명 변호사들이 여기저기서 다 해처먹네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587520&page=1",
+      "postedLabel": "08:00",
+      "postedAt": "2026-10-15T08:00:32+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:01:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48218,
+      "source": "dc",
+      "externalId": "6587521",
+      "title": "다음주 스포 예상",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587521&page=1",
+      "postedLabel": "08:01",
+      "postedAt": "2026-10-15T08:01:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T23:01:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48219,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EA%B0%80-%EC%98%81%ED%98%B8%EC%98%80%EC%9C%BC%EB%A9%B4-357d4rob",
+      "title": "내가 영호였으면",
+      "excerpt": "일본에도 한국여자 많으니 소개 받거나 자연스럽게 만났거나 아니면 착한 일본여자 만났겠다 소개팅 나가거나 자만추로 들이대면 안좋아할 여자 거의 없을 것 같은데 굳이 한국여자 만나서 장거리 연애를 해야만 하나..ㅋㅋ",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B0%80-%EC%98%81%ED%98%B8%EC%98%80%EC%9C%BC%EB%A9%B4-357d4rob",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T08:01:15+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-14T23:01:28+00:00",
       "isSeed": false
     }
   ]
