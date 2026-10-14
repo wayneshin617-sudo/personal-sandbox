@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-14T19:02:25+00:00",
+  "updatedAt": "2026-10-14T19:04:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -436810,6 +436810,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-14T19:02:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47714,
+      "source": "dc",
+      "externalId": "6587335",
+      "title": "영호는 ㄱㅇ더 어떠냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587335&page=1",
+      "postedLabel": "04:03",
+      "postedAt": "2026-10-15T04:03:22+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:04:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 47715,
+      "source": "dc",
+      "externalId": "6587336",
+      "title": "정숙과 광수는 찰떡인데 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587336&page=1",
+      "postedLabel": "04:03",
+      "postedAt": "2026-10-15T04:03:51+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-14T19:04:23+00:00",
       "isSeed": false
     }
   ]
