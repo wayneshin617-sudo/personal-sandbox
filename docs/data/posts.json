@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:58:13+00:00",
+  "updatedAt": "2026-10-15T23:59:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -597531,6 +597531,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T23:58:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56173,
+      "source": "dc",
+      "externalId": "6593129",
+      "title": "이제 최커는 아무것도 아니게 된 나솔",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593129&page=1",
+      "postedLabel": "08:58",
+      "postedAt": "2026-10-16T08:58:50+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:59:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56174,
+      "source": "dc",
+      "externalId": "6593130",
+      "title": "33현숙 몸은 뭐가 문제같냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "125.130",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593130&page=1",
+      "postedLabel": "08:58",
+      "postedAt": "2026-10-16T08:58:51+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:59:22+00:00",
       "isSeed": false
     }
   ]
