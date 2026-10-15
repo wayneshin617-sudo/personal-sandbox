@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:29:06+00:00",
+  "updatedAt": "2026-10-15T03:30:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -464930,6 +464930,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:29:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49194,
+      "source": "dc",
+      "externalId": "6588204",
+      "title": "내가왜앉아서싸!!",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588204&page=1",
+      "postedLabel": "12:29",
+      "postedAt": "2026-10-15T12:29:26+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:30:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49195,
+      "source": "dc",
+      "externalId": "6588205",
+      "title": "오늘 14영자가 주제 파악 못하고 미서 선택안한다에 내가",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588205&page=1",
+      "postedLabel": "12:29",
+      "postedAt": "2026-10-15T12:29:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:30:06+00:00",
       "isSeed": false
     }
   ]
