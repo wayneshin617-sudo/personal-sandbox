@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:31:07+00:00",
+  "updatedAt": "2026-10-15T03:32:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -465044,6 +465044,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:31:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49200,
+      "source": "dc",
+      "externalId": "6588210",
+      "title": "쉬마려 = 쌀거같앙",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.198",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588210&page=1",
+      "postedLabel": "12:31",
+      "postedAt": "2026-10-15T12:31:39+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:32:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49201,
+      "source": "dc",
+      "externalId": "6588211",
+      "title": "상철이 말하는거 좀 이상한데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588211&page=1",
+      "postedLabel": "12:31",
+      "postedAt": "2026-10-15T12:31:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:32:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49202,
+      "source": "dc",
+      "externalId": "6588212",
+      "title": "영수 귀여워",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.157",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588212&page=1",
+      "postedLabel": "12:31",
+      "postedAt": "2026-10-15T12:31:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:32:06+00:00",
       "isSeed": false
     }
   ]
