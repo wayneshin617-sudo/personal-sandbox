@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:15:35+00:00",
+  "updatedAt": "2026-10-15T13:16:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -514843,6 +514843,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T13:15:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51821,
+      "source": "dc",
+      "externalId": "6589852",
+      "title": "34순자는 예쁘고 매력있다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.122",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589852&page=1",
+      "postedLabel": "22:16",
+      "postedAt": "2026-10-15T22:16:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:16:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51822,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%98%88%EC%9D%B8-y5xtaewy",
+      "title": "34기 영철 순자 닮은 연예인",
+      "excerpt": "어때?",
+      "author": "i*********",
+      "company": "현대자동차",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%98%88%EC%9D%B8-y5xtaewy",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T22:16:21+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T13:16:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51823,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%BA%BC%EB%93%9C%EB%9F%AD-%EA%B0%9C%EC%9B%83%EA%B8%B4%EB%8B%A4-v7cc2l83",
+      "title": "상철이 꺼드럭 개웃긴다",
+      "excerpt": "회사는 에스케이 하이닉스 말 하면서 당당한 느낌 ㅋㅋㅋ 욕 먹을 정돈 아니고 걍 귀여움",
+      "author": "i*********",
+      "company": "교보증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%BA%BC%EB%93%9C%EB%9F%AD-%EA%B0%9C%EC%9B%83%EA%B8%B4%EB%8B%A4-v7cc2l83",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T22:16:22+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T13:16:35+00:00",
       "isSeed": false
     }
   ]
