@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T20:43:25+00:00",
+  "updatedAt": "2026-10-15T20:46:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -590216,6 +590216,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-15T20:43:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55788,
+      "source": "dc",
+      "externalId": "6592939",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592939&page=1",
+      "postedLabel": "05:45",
+      "postedAt": "2026-10-16T05:45:47+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:46:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55789,
+      "source": "dc",
+      "externalId": "6592940",
+      "title": "은행 상담원 질문점.",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592940&page=1",
+      "postedLabel": "05:46",
+      "postedAt": "2026-10-16T05:46:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:46:27+00:00",
       "isSeed": false
     }
   ]
