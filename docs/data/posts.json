@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T01:37:06+00:00",
+  "updatedAt": "2026-10-15T01:38:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -457520,6 +457520,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T01:37:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48804,
+      "source": "dc",
+      "externalId": "6587813",
+      "title": "영수 땀흘려서 바닥에서 잤대",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "120.142",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587813&page=1",
+      "postedLabel": "10:37",
+      "postedAt": "2026-10-15T10:37:01+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:38:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48805,
+      "source": "dc",
+      "externalId": "6587814",
+      "title": "옥순 땡잡은건가?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587814&page=1",
+      "postedLabel": "10:37",
+      "postedAt": "2026-10-15T10:37:12+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:38:06+00:00",
       "isSeed": false
     }
   ]
