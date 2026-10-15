@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T02:33:06+00:00",
+  "updatedAt": "2026-10-15T02:34:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -461548,6 +461548,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T02:33:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49016,
+      "source": "dc",
+      "externalId": "6588020",
+      "title": "벙식이는 34영철보다 3살 어려도 지금 7급이라고 병신아줌마들",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588020&page=1",
+      "postedLabel": "11:33",
+      "postedAt": "2026-10-15T11:33:32+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T02:34:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49017,
+      "source": "dc",
+      "externalId": "6588021",
+      "title": "상철 하이닉스 생산직이야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.172",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588021&page=1",
+      "postedLabel": "11:33",
+      "postedAt": "2026-10-15T11:33:44+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T02:34:06+00:00",
       "isSeed": false
     }
   ]
