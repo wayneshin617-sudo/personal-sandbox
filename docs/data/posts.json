@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:20:46+00:00",
+  "updatedAt": "2026-10-15T06:21:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -479465,6 +479465,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:20:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49959,
+      "source": "dc",
+      "externalId": "6588719",
+      "title": "9급 남자는 잘생긴거 아니고는 결혼시장에서 인기 없어졌지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588719&page=1",
+      "postedLabel": "15:21",
+      "postedAt": "2026-10-15T15:21:29+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:21:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49960,
+      "source": "dc",
+      "externalId": "6588720",
+      "title": "영호는 광수 챙겨주는거 보니까 착한사람 맞는 듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588720&page=1",
+      "postedLabel": "15:21",
+      "postedAt": "2026-10-15T15:21:32+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:21:47+00:00",
       "isSeed": false
     }
   ]
