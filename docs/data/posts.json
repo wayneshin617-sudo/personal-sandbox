@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:41:29+00:00",
+  "updatedAt": "2026-10-15T17:42:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -581723,6 +581723,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:41:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55341,
+      "source": "dc",
+      "externalId": "6592762",
+      "title": "난 근데 나솔 나온거 자체가",
+      "excerpt": "",
+      "author": "39.15",
+      "company": "",
+      "ip": "211.60",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592762&page=1",
+      "postedLabel": "02:41",
+      "postedAt": "2026-10-16T02:41:55+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:42:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55342,
+      "source": "dc",
+      "externalId": "6592763",
+      "title": "미서같은 남자 진지하게 남편감으로 어떰?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592763&page=1",
+      "postedLabel": "02:42",
+      "postedAt": "2026-10-16T02:42:04+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:42:29+00:00",
       "isSeed": false
     }
   ]
