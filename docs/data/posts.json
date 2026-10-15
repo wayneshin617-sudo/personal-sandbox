@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T20:11:26+00:00",
+  "updatedAt": "2026-10-15T20:16:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -589874,6 +589874,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-15T20:11:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55770,
+      "source": "dc",
+      "externalId": "6592921",
+      "title": "미서는 소개팅 줄줄이라는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "79.116",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592921&page=1",
+      "postedLabel": "05:15",
+      "postedAt": "2026-10-16T05:15:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:16:25+00:00",
       "isSeed": false
     }
   ]
