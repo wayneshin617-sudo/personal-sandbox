@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:15:27+00:00",
+  "updatedAt": "2026-10-15T17:16:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -580602,6 +580602,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:15:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55282,
+      "source": "dc",
+      "externalId": "6592703",
+      "title": "계약결혼 예상멤버 내가 알려줄게",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.69",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592703&page=1",
+      "postedLabel": "02:15",
+      "postedAt": "2026-10-16T02:15:29+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:16:28+00:00",
       "isSeed": false
     }
   ]
