@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:09:27+00:00",
+  "updatedAt": "2026-10-15T00:10:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -448666,6 +448666,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T00:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48338,
+      "source": "dc",
+      "externalId": "6587623",
+      "title": "한의사 영자 여에스더 닮지 않았음?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.187",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587623&page=1",
+      "postedLabel": "09:09",
+      "postedAt": "2026-10-15T09:09:20+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:10:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48339,
+      "source": "dc",
+      "externalId": "6587624",
+      "title": "이번기수는 페미년도있더라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.128",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587624&page=1",
+      "postedLabel": "09:09",
+      "postedAt": "2026-10-15T09:09:23+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:10:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48340,
+      "source": "dc",
+      "externalId": "6587625",
+      "title": "이번 옥순 존재감 제로네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "66.164",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587625&page=1",
+      "postedLabel": "09:09",
+      "postedAt": "2026-10-15T09:09:24+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:10:27+00:00",
       "isSeed": false
     }
   ]
