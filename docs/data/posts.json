@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:04:06+00:00",
+  "updatedAt": "2026-10-15T03:05:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -463619,6 +463619,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:04:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49125,
+      "source": "dc",
+      "externalId": "6588133",
+      "title": "9급 개무시하는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588133&page=1",
+      "postedLabel": "12:04",
+      "postedAt": "2026-10-15T12:04:20+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:05:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49126,
+      "source": "dc",
+      "externalId": "6588134",
+      "title": "근데 갤 유툽 다 수상함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588134&page=1",
+      "postedLabel": "12:04",
+      "postedAt": "2026-10-15T12:04:42+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:05:06+00:00",
       "isSeed": false
     }
   ]
