@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T01:59:05+00:00",
+  "updatedAt": "2026-10-15T02:00:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -458660,6 +458660,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T01:59:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48864,
+      "source": "dc",
+      "externalId": "6587869",
+      "title": "영자 한의원 - 군산시청 1KM",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587869&page=1",
+      "postedLabel": "10:59",
+      "postedAt": "2026-10-15T10:59:12+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T02:00:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48865,
+      "source": "dc",
+      "externalId": "6587870",
+      "title": "영철 20대때 모은 2억 자랑은 대체 왜 하는거냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587870&page=1",
+      "postedLabel": "10:59",
+      "postedAt": "2026-10-15T10:59:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T02:00:06+00:00",
       "isSeed": false
     }
   ]
