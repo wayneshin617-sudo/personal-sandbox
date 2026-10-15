@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:39:28+00:00",
+  "updatedAt": "2026-10-15T17:40:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -581609,6 +581609,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:39:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55335,
+      "source": "dc",
+      "externalId": "6592755",
+      "title": "미서가 영자 7옥보고 대체 3번까지 왜 나왔냐고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592755&page=1",
+      "postedLabel": "02:39",
+      "postedAt": "2026-10-16T02:39:27+09:00",
+      "views": 24,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:40:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55336,
+      "source": "dc",
+      "externalId": "6592756",
+      "title": "남자는 관심없는 곳에 시간과 돈을 쓰지 않아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592756&page=1",
+      "postedLabel": "02:39",
+      "postedAt": "2026-10-16T02:39:32+09:00",
+      "views": 11,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:40:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55337,
+      "source": "dc",
+      "externalId": "6592758",
+      "title": "미서 인스스 홀가분한가봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592758&page=1",
+      "postedLabel": "02:40",
+      "postedAt": "2026-10-16T02:40:12+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:40:28+00:00",
       "isSeed": false
     }
   ]
