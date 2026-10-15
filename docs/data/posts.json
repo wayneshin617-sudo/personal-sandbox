@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:39:21+00:00",
+  "updatedAt": "2026-10-15T23:40:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -597094,6 +597094,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-15T23:39:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56150,
+      "source": "dc",
+      "externalId": "6593108",
+      "title": "도태남들아 외국언니들도 40대들같은데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593108&page=1",
+      "postedLabel": "08:39",
+      "postedAt": "2026-10-16T08:39:15+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:40:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56151,
+      "source": "dc",
+      "externalId": "6593109",
+      "title": "40대특집 재미없다는 애들아 너넨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593109&page=1",
+      "postedLabel": "08:39",
+      "postedAt": "2026-10-16T08:39:51+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:40:22+00:00",
       "isSeed": false
     }
   ]
