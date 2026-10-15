@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:08:29+00:00",
+  "updatedAt": "2026-10-15T18:09:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -582597,6 +582597,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T18:08:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55387,
+      "source": "dc",
+      "externalId": "6592807",
+      "title": "미서는 진짜 또 나오면 좋겟다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.34",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592807&page=1",
+      "postedLabel": "03:08",
+      "postedAt": "2026-10-16T03:08:28+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:09:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55388,
+      "source": "dc",
+      "externalId": "6592808",
+      "title": "미서랑 어울리는 여자스타일",
+      "excerpt": "",
+      "author": "■x",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592808&page=1",
+      "postedLabel": "03:09",
+      "postedAt": "2026-10-16T03:09:08+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:09:29+00:00",
       "isSeed": false
     }
   ]
