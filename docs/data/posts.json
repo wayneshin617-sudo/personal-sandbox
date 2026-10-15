@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:06:06+00:00",
+  "updatedAt": "2026-10-15T03:07:07+00:00",
   "posts": [
     {
       "id": 1,
@@ -463676,6 +463676,63 @@
       "recommends": 4,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:06:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49128,
+      "source": "dc",
+      "externalId": "6588136",
+      "title": "영수도 이번에 잘 나왔음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588136&page=1",
+      "postedLabel": "12:05",
+      "postedAt": "2026-10-15T12:05:55+09:00",
+      "views": 22,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:07:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49129,
+      "source": "dc",
+      "externalId": "6588137",
+      "title": "솔직히 얘도 인물 괜찮음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588137&page=1",
+      "postedLabel": "12:06",
+      "postedAt": "2026-10-15T12:06:16+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:07:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49130,
+      "source": "dc",
+      "externalId": "6588138",
+      "title": "나솔도 나솔인데 이거 필히 참고해라",
+      "excerpt": "",
+      "author": "줴줴이야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588138&page=1",
+      "postedLabel": "12:06",
+      "postedAt": "2026-10-15T12:06:26+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:07:07+00:00",
       "isSeed": false
     }
   ]
