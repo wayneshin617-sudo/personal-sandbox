@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T21:22:29+00:00",
+  "updatedAt": "2026-10-15T21:23:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -594168,6 +594168,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T21:22:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55996,
+      "source": "dc",
+      "externalId": "6592968",
+      "title": "난 밥보영 살빼기 전이 더 좋던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.178",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592968&page=1",
+      "postedLabel": "06:22",
+      "postedAt": "2026-10-16T06:22:36+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:23:22+00:00",
       "isSeed": false
     }
   ]
