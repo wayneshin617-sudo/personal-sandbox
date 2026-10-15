@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:45:06+00:00",
+  "updatedAt": "2026-10-15T03:47:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -465842,6 +465842,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:45:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49242,
+      "source": "dc",
+      "externalId": "6588250",
+      "title": "아 ㅡㅡ 상철팔꿈치 너무까맣다 ㅡㅡ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.156",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588250&page=1",
+      "postedLabel": "12:46",
+      "postedAt": "2026-10-15T12:46:06+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:47:06+00:00",
       "isSeed": false
     }
   ]
