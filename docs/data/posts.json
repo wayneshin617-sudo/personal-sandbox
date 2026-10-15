@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T21:51:23+00:00",
+  "updatedAt": "2026-10-15T21:53:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -594586,6 +594586,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T21:51:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56018,
+      "source": "dc",
+      "externalId": "6592989",
+      "title": "미조도 후회할까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592989&page=1",
+      "postedLabel": "06:53",
+      "postedAt": "2026-10-16T06:53:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:53:22+00:00",
       "isSeed": false
     }
   ]
