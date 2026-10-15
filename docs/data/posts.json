@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T22:26:21+00:00",
+  "updatedAt": "2026-10-15T22:27:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -595213,6 +595213,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T22:26:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56051,
+      "source": "dc",
+      "externalId": "6593022",
+      "title": "미스터 춘재 울산대두한테 낚여서 먼길로 돌아가고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593022&page=1",
+      "postedLabel": "07:27",
+      "postedAt": "2026-10-16T07:27:06+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:27:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56052,
+      "source": "dc",
+      "externalId": "6593023",
+      "title": "미서 아이돌 조미 닮았네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.178",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593023&page=1",
+      "postedLabel": "07:27",
+      "postedAt": "2026-10-16T07:27:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:27:23+00:00",
       "isSeed": false
     }
   ]
