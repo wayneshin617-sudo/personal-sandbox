@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T22:41:22+00:00",
+  "updatedAt": "2026-10-15T22:42:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -595707,6 +595707,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T22:41:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56077,
+      "source": "dc",
+      "externalId": "6593045",
+      "title": "나솔 편집 개같이 하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593045&page=1",
+      "postedLabel": "07:41",
+      "postedAt": "2026-10-16T07:41:31+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T22:42:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56078,
+      "source": "dc",
+      "externalId": "6593046",
+      "title": "사계는 마지막날되니까 얼굴들이 다 맛탱이가버렸네 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593046&page=1",
+      "postedLabel": "07:41",
+      "postedAt": "2026-10-16T07:41:44+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:42:23+00:00",
       "isSeed": false
     }
   ]
