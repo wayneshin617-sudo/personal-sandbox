@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T12:21:44+00:00",
+  "updatedAt": "2026-10-15T12:22:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -507680,6 +507680,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T12:21:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51444,
+      "source": "blind",
+      "externalId": "/kr/post/34-%EC%98%81%EC%B2%A0-abcdkylq",
+      "title": "34 영철",
+      "excerpt": "RM 닮음 야 랩몬스터 !!",
+      "author": "x********",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%B2%A0-abcdkylq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T21:22:32+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T12:22:44+00:00",
       "isSeed": false
     }
   ]
