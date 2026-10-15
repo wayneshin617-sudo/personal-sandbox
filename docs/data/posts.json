@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:30:46+00:00",
+  "updatedAt": "2026-10-15T06:31:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -479864,6 +479864,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:30:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49980,
+      "source": "dc",
+      "externalId": "6588741",
+      "title": "영숙은 곱창팔던 정숙이랑 성격비슷",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588741&page=1",
+      "postedLabel": "15:31",
+      "postedAt": "2026-10-15T15:31:01+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:31:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49981,
+      "source": "dc",
+      "externalId": "6588742",
+      "title": "매번보지만 남자 여자든 타고남에 제일중요한건",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.77",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588742&page=1",
+      "postedLabel": "15:31",
+      "postedAt": "2026-10-15T15:31:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:31:47+00:00",
       "isSeed": false
     }
   ]
