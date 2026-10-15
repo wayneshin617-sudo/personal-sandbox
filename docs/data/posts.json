@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:37:54+00:00",
+  "updatedAt": "2026-10-15T09:38:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -492138,6 +492138,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:37:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50626,
+      "source": "dc",
+      "externalId": "6589209",
+      "title": "34순자는 뭐랄까 좀 길티야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589209&page=1",
+      "postedLabel": "18:38",
+      "postedAt": "2026-10-15T18:38:19+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:38:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50627,
+      "source": "dc",
+      "externalId": "6589210",
+      "title": "미서♡7옥단 들어와봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589210&page=1",
+      "postedLabel": "18:38",
+      "postedAt": "2026-10-15T18:38:21+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:38:53+00:00",
       "isSeed": false
     }
   ]
