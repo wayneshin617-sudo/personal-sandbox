@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T08:51:54+00:00",
+  "updatedAt": "2026-10-15T08:52:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -489839,6 +489839,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T08:51:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50505,
+      "source": "dc",
+      "externalId": "6589087",
+      "title": "영호는 방송 끝나면 디엠폭주할듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589087&page=1",
+      "postedLabel": "17:51",
+      "postedAt": "2026-10-15T17:51:56+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:52:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50506,
+      "source": "dc",
+      "externalId": "6589088",
+      "title": "예쁨 예쁘장 보통",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589088&page=1",
+      "postedLabel": "17:52",
+      "postedAt": "2026-10-15T17:52:03+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:52:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50507,
+      "source": "dc",
+      "externalId": "6589089",
+      "title": "영수는 순자직진박다가 걍 나갈듯 ㅎㅎ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.85",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589089&page=1",
+      "postedLabel": "17:52",
+      "postedAt": "2026-10-15T17:52:08+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:52:55+00:00",
       "isSeed": false
     }
   ]
