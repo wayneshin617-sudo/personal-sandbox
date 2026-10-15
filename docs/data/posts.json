@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:45:55+00:00",
+  "updatedAt": "2026-10-15T09:46:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -492727,6 +492727,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:45:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50657,
+      "source": "dc",
+      "externalId": "6589235",
+      "title": "상철이 왜케 ㅈ밥처럼 행동하징",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.164",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589235&page=1",
+      "postedLabel": "18:46",
+      "postedAt": "2026-10-15T18:46:27+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:46:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50658,
+      "source": "dc",
+      "externalId": "6589236",
+      "title": "성별이 아니라 벌이에 따라 요리랑 집안일을 해야지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589236&page=1",
+      "postedLabel": "18:46",
+      "postedAt": "2026-10-15T18:46:35+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:46:55+00:00",
       "isSeed": false
     }
   ]
