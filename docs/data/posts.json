@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:23:54+00:00",
+  "updatedAt": "2026-10-15T07:24:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -485507,6 +485507,44 @@
       "recommends": 1,
       "comments": 3,
       "firstSeenAt": "2026-10-15T07:23:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50277,
+      "source": "dc",
+      "externalId": "6588864",
+      "title": "캡처를 이따구로 했냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588864&page=1",
+      "postedLabel": "16:23",
+      "postedAt": "2026-10-15T16:23:59+09:00",
+      "views": 16,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:24:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50278,
+      "source": "dc",
+      "externalId": "6588866",
+      "title": "광수 대중들 앞에서 춤 추는 동영상 올립니다.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588866&page=1",
+      "postedLabel": "16:24",
+      "postedAt": "2026-10-15T16:24:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:24:54+00:00",
       "isSeed": false
     }
   ]
