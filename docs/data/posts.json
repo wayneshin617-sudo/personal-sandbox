@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:58:54+00:00",
+  "updatedAt": "2026-10-15T07:59:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -487103,6 +487103,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T07:58:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50361,
+      "source": "dc",
+      "externalId": "6588947",
+      "title": "이것도 못하면 결혼할 자격이 없다고 봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588947&page=1",
+      "postedLabel": "16:58",
+      "postedAt": "2026-10-15T16:58:48+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:59:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50362,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%87%B4%EA%B7%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4-jee2hrqu",
+      "title": "퇴근하고 싶다",
+      "excerpt": "이러고 놀아도 아직이다. 34기 남출 자기 소개편 + 번외",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%87%B4%EA%B7%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4-jee2hrqu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T16:59:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T07:59:54+00:00",
       "isSeed": false
     }
   ]
