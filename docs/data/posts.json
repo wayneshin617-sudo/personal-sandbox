@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T19:25:28+00:00",
+  "updatedAt": "2026-10-15T19:27:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -589171,6 +589171,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T19:25:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55733,
+      "source": "dc",
+      "externalId": "6592887",
+      "title": "걍 미서랑 7옥이랑 됐으면 재밌었을텐데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.187",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592887&page=1",
+      "postedLabel": "04:26",
+      "postedAt": "2026-10-16T04:26:29+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T19:27:25+00:00",
       "isSeed": false
     }
   ]
