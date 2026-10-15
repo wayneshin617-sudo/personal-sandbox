@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T21:08:26+00:00",
+  "updatedAt": "2026-10-15T21:09:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -590501,6 +590501,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T21:08:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55803,
+      "source": "dc",
+      "externalId": "6592953",
+      "title": "근데 사계 진짜 재밌었다 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592953&page=1",
+      "postedLabel": "06:08",
+      "postedAt": "2026-10-16T06:08:44+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:09:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55804,
+      "source": "dc",
+      "externalId": "6592954",
+      "title": "밥보영줌 살짝 요요 온것같아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592954&page=1",
+      "postedLabel": "06:09",
+      "postedAt": "2026-10-16T06:09:13+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:09:26+00:00",
       "isSeed": false
     }
   ]
