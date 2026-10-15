@@ -1146,17 +1146,19 @@ function pairFacts(person) {
   return rows.map(([label, value]) => ({ label, value: value || "비공개", secret: !value }));
 }
 
-function pairCard(person, side) {
+function pairCard(person) {
   const button = document.createElement("button");
   button.type = "button";
   button.className = "pair-card";
   button.dataset.id = person.id;
+  const top = document.createElement("span");
+  top.className = "pair-top";
   const photo = document.createElement("img");
   photo.src = new URL(person.photo, document.baseURI).href;
   photo.alt = "";
-  const copy = document.createElement("span");
   const name = document.createElement("strong");
   name.textContent = person.name;
+  top.append(photo, name);
   const meta = document.createElement("span");
   meta.className = "pair-meta";
   for (const row of pairFacts(person)) {
@@ -1168,10 +1170,7 @@ function pairCard(person, side) {
     line.append(`${row.label}: `, value);
     meta.append(line);
   }
-  copy.append(name, meta);
-  button.append(side === "men" ? copy : photo, side === "men" ? photo : copy);
-  const detail = pairFacts(person).map((row) => `${row.label}: ${row.value}`).join(" · ");
-  if (detail) button.title = detail;
+  button.append(top, meta);
   button.addEventListener("click", () => pinPair(person.id));
   button.addEventListener("pointerenter", (event) => {
     if (event.pointerType === "mouse" && !pairPinned) focusPair(person.id);
@@ -1184,8 +1183,8 @@ function renderPairing(data) {
   document.querySelector("#pair-kicker").textContent = `${data.label} · ${data.asOf}`;
   const men = document.querySelector("#pair-men");
   const women = document.querySelector("#pair-women");
-  men.replaceChildren(...data.men.map((person) => pairCard(person, "men")));
-  women.replaceChildren(...data.women.map((person) => pairCard(person, "women")));
+  men.replaceChildren(...data.men.map((person) => pairCard(person)));
+  women.replaceChildren(...data.women.map((person) => pairCard(person)));
   const images = [...pairBoard.querySelectorAll("img")];
   let pending = images.length;
   const ready = () => {
@@ -1331,8 +1330,10 @@ function focusPair(id) {
   pairBoard.dataset.focus = id;
   for (const card of pairBoard.querySelectorAll(".pair-card")) {
     const on = near.has(card.dataset.id);
+    card.classList.toggle("near", on);
     card.classList.toggle("dim", !on);
     card.classList.toggle("lit", card.dataset.id === id);
+    card.style.setProperty("--glow", PAIR_COLORS[card.dataset.id] || "#ffd0e0");
     card.setAttribute("aria-pressed", String(card.dataset.id === id));
   }
   for (const line of pairLines.querySelectorAll(".pair-link")) {
@@ -1359,7 +1360,7 @@ function clearPairFocus() {
   pairBoard.classList.remove("focusing");
   pairBoard.dataset.focus = "";
   for (const card of pairBoard.querySelectorAll(".pair-card")) {
-    card.classList.remove("dim", "lit");
+    card.classList.remove("dim", "lit", "near");
     card.setAttribute("aria-pressed", "false");
   }
   for (const line of pairLines.querySelectorAll(".pair-link, .pair-heart")) line.classList.remove("on");
@@ -1380,7 +1381,6 @@ function setStageView(name) {
   document.querySelector(".stage").classList.toggle("show-pair", pair);
   document.querySelector("#tab-feed").setAttribute("aria-selected", String(!pair));
   document.querySelector("#tab-pair").setAttribute("aria-selected", String(pair));
-  document.querySelector("#rail-pair").setAttribute("aria-pressed", String(pair));
   document.querySelector("#pairing").hidden = !pair;
   const narrow = window.matchMedia("(max-width: 860px)").matches;
   if (pair && narrow && !appEl.classList.contains("rail-closed")) {
@@ -1397,7 +1397,6 @@ function setStageView(name) {
 
 document.querySelector("#tab-feed").addEventListener("click", () => setStageView("feed"));
 document.querySelector("#tab-pair").addEventListener("click", () => setStageView("pair"));
-document.querySelector("#rail-pair").addEventListener("click", () => setStageView(document.querySelector(".stage").classList.contains("show-pair") ? "feed" : "pair"));
 pairBoard.addEventListener("pointerleave", (event) => {
   if (event.pointerType === "mouse" && !pairPinned) clearPairFocus();
 });
