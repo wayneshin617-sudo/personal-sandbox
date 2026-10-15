@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:47:43+00:00",
+  "updatedAt": "2026-10-15T10:48:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -500783,6 +500783,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:47:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51081,
+      "source": "dc",
+      "externalId": "6589390",
+      "title": "남자순위",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.122",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589390&page=1",
+      "postedLabel": "19:48",
+      "postedAt": "2026-10-15T19:48:10+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:48:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51082,
+      "source": "blind",
+      "externalId": "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B-%EA%B7%BC%EB%8D%B0-%EC%82%AC%EB%9E%8C-%EB%B3%B8%EC%A7%80-%ED%95%98%EB%A3%A8%EB%8F%84-%EC%95%88%EC%A7%80%EB%82%AC%EB%8A%94%EB%8D%B0-1hq83foy",
+      "title": "ㅋㅋㅋ 근데 사람 본지 하루도 안지났는데",
+      "excerpt": "독하다를 면전에다 말하는 사람이 있네 ㅋㅋ 나이도 모르고 직업도 모르는데 ㄹㅈㄷ",
+      "author": "금*********",
+      "company": "KCC건설",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B-%EA%B7%BC%EB%8D%B0-%EC%82%AC%EB%9E%8C-%EB%B3%B8%EC%A7%80-%ED%95%98%EB%A3%A8%EB%8F%84-%EC%95%88%EC%A7%80%EB%82%AC%EB%8A%94%EB%8D%B0-1hq83foy",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T19:48:33+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T10:48:44+00:00",
       "isSeed": false
     }
   ]
