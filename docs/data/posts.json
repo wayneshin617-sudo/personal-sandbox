@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T21:10:25+00:00",
+  "updatedAt": "2026-10-15T21:11:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -590558,6 +590558,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T21:10:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55806,
+      "source": "dc",
+      "externalId": "6592956",
+      "title": "사계 시스템 자체가 많이~ 잘못 됐지 않음?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592956&page=1",
+      "postedLabel": "06:10",
+      "postedAt": "2026-10-16T06:10:26+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:11:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55807,
+      "source": "dc",
+      "externalId": "6592957",
+      "title": "해외편은 왜 와꾸가 다 이상하냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592957&page=1",
+      "postedLabel": "06:10",
+      "postedAt": "2026-10-16T06:10:36+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:11:25+00:00",
       "isSeed": false
     }
   ]
