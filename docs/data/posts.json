@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:51:44+00:00",
+  "updatedAt": "2026-10-15T10:52:43+00:00",
   "posts": [
     {
       "id": 1,
@@ -501049,6 +501049,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:51:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51095,
+      "source": "dc",
+      "externalId": "6589403",
+      "title": "34기 메인",
+      "excerpt": "",
+      "author": "시청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589403&page=1",
+      "postedLabel": "19:52",
+      "postedAt": "2026-10-15T19:52:09+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:52:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51096,
+      "source": "dc",
+      "externalId": "6589404",
+      "title": "상견례 프리패스 ㅎㄷㄷㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.169",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589404&page=1",
+      "postedLabel": "19:52",
+      "postedAt": "2026-10-15T19:52:16+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:52:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51097,
+      "source": "dc",
+      "externalId": "6589405",
+      "title": "하이닉스 성과급 생각보다 안많다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.126",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589405&page=1",
+      "postedLabel": "19:52",
+      "postedAt": "2026-10-15T19:52:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:52:43+00:00",
       "isSeed": false
     }
   ]
