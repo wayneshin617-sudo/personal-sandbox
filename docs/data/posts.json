@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:46:22+00:00",
+  "updatedAt": "2026-10-15T23:48:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -597265,6 +597265,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T23:46:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56159,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%ED%99%A9%EC%9D%B8%EB%B2%94%EB%8F%84-%EB%8B%AE%EC%9D%80%EB%93%AF-mwsh6ksu",
+      "title": "34기 영호 황인범도 닮은듯?",
+      "excerpt": "흠",
+      "author": "는********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%ED%99%A9%EC%9D%B8%EB%B2%94%EB%8F%84-%EB%8B%AE%EC%9D%80%EB%93%AF-mwsh6ksu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T08:48:11+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T23:48:23+00:00",
       "isSeed": false
     }
   ]
