@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:12:44+00:00",
+  "updatedAt": "2026-10-15T10:13:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -498845,6 +498845,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:12:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50979,
+      "source": "dc",
+      "externalId": "6589301",
+      "title": "너없어도 잘살아 오늘자 대결 근황 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589301&page=1",
+      "postedLabel": "19:12",
+      "postedAt": "2026-10-15T19:12:44+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T10:13:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50980,
+      "source": "dc",
+      "externalId": "6589302",
+      "title": "K장녀 한녀클라스",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589302&page=1",
+      "postedLabel": "19:13",
+      "postedAt": "2026-10-15T19:13:09+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:13:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50981,
+      "source": "dc",
+      "externalId": "6589303",
+      "title": "현숙은 현리 닮았네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589303&page=1",
+      "postedLabel": "19:13",
+      "postedAt": "2026-10-15T19:13:25+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:13:44+00:00",
       "isSeed": false
     }
   ]
