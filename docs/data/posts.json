@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:23:35+00:00",
+  "updatedAt": "2026-10-15T13:24:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -515147,6 +515147,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T13:23:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51837,
+      "source": "dc",
+      "externalId": "6589862",
+      "title": "우리때 삼성 생산직 가는 거 존나 어려웠음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589862&page=1",
+      "postedLabel": "22:23",
+      "postedAt": "2026-10-15T22:23:48+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:24:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51838,
+      "source": "dc",
+      "externalId": "6589863",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "103.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589863&page=1",
+      "postedLabel": "22:23",
+      "postedAt": "2026-10-15T22:23:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:24:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51839,
+      "source": "dc",
+      "externalId": "6589864",
+      "title": "삶이 노잼임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589864&page=1",
+      "postedLabel": "22:24",
+      "postedAt": "2026-10-15T22:24:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:24:34+00:00",
       "isSeed": false
     }
   ]
