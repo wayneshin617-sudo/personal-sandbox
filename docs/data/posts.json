@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:28:43+00:00",
+  "updatedAt": "2026-10-15T10:29:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -499643,6 +499643,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T10:28:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51021,
+      "source": "dc",
+      "externalId": "6589338",
+      "title": "상철 생산라인에서 hbm 장비 메인트? 이거 생산직임??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589338&page=1",
+      "postedLabel": "19:28",
+      "postedAt": "2026-10-15T19:28:43+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:29:44+00:00",
       "isSeed": false
     }
   ]
