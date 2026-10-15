@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:17:54+00:00",
+  "updatedAt": "2026-10-15T09:19:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -491188,6 +491188,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:17:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50576,
+      "source": "dc",
+      "externalId": "6589159",
+      "title": "영숙 이거 존나 무례한거 아니냐..",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.227",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589159&page=1",
+      "postedLabel": "18:18",
+      "postedAt": "2026-10-15T18:18:47+09:00",
+      "views": 22,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:19:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50577,
+      "source": "dc",
+      "externalId": "6589160",
+      "title": "내 물건 평가좀 해주셈",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589160&page=1",
+      "postedLabel": "18:19",
+      "postedAt": "2026-10-15T18:19:07+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:19:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50578,
+      "source": "dc",
+      "externalId": "6589161",
+      "title": "영철 별론데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589161&page=1",
+      "postedLabel": "18:19",
+      "postedAt": "2026-10-15T18:19:15+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:19:54+00:00",
       "isSeed": false
     }
   ]
