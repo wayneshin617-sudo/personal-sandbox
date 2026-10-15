@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:04:54+00:00",
+  "updatedAt": "2026-10-15T09:05:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -490561,6 +490561,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:04:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50543,
+      "source": "dc",
+      "externalId": "6589125",
+      "title": "하이닉스 성과급 3년치만 모아서 배당 받아도",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589125&page=1",
+      "postedLabel": "18:04",
+      "postedAt": "2026-10-15T18:04:47+09:00",
+      "views": 17,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T09:05:54+00:00",
       "isSeed": false
     }
   ]
