@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:52:46+00:00",
+  "updatedAt": "2026-10-15T06:53:46+00:00",
   "posts": [
     {
       "id": 1,
@@ -480757,6 +480757,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:52:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50027,
+      "source": "dc",
+      "externalId": "6588791",
+      "title": "현숙 진짜 91년생임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "220.89",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588791&page=1",
+      "postedLabel": "15:53",
+      "postedAt": "2026-10-15T15:53:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:53:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50028,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EC%9D%B4%EA%B2%BD%EC%9D%80-%EC%99%9C-%EA%B3%84%EC%86%8D-%EC%8D%A8%EC%A3%BC%EB%8A%94-%EA%B1%B0%EC%95%BC-oxmb5m6a",
+      "title": "이이경은 왜 계속 써주는 거야?",
+      "excerpt": "패널로서 딱히 리액션도 재미없고 하는 말도 없고 돈 아까운 거 같음. 논란도 있었는데 굳이 굳이 계속 써주네. 남피디 고집인가 사계 나솔 패널들 통틀어 젤 별로야 더 재치있고 재밌는 다른 사람 쓰지 영 별로임",
+      "author": "I********",
+      "company": "부산교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EC%9D%B4%EA%B2%BD%EC%9D%80-%EC%99%9C-%EA%B3%84%EC%86%8D-%EC%8D%A8%EC%A3%BC%EB%8A%94-%EA%B1%B0%EC%95%BC-oxmb5m6a",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T15:53:35+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 4,
+      "firstSeenAt": "2026-10-15T06:53:46+00:00",
       "isSeed": false
     }
   ]
