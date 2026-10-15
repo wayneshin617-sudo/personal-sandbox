@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T02:52:07+00:00",
+  "updatedAt": "2026-10-15T02:53:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -462745,6 +462745,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T02:52:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49079,
+      "source": "dc",
+      "externalId": "6588084",
+      "title": "편집 개판 별내용 없는데 분량만 주구장창",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "138.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588084&page=1",
+      "postedLabel": "11:52",
+      "postedAt": "2026-10-15T11:52:02+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T02:53:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49080,
+      "source": "dc",
+      "externalId": "6588085",
+      "title": "9급출 7급출이라고 밟혀야지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588085&page=1",
+      "postedLabel": "11:52",
+      "postedAt": "2026-10-15T11:52:13+09:00",
+      "views": 8,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T02:53:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49081,
+      "source": "dc",
+      "externalId": "6588086",
+      "title": "요즘 유튜브같은 것도 많이 하고 그래서 영철도 도전해 본 거 아닌지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.116",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588086&page=1",
+      "postedLabel": "11:52",
+      "postedAt": "2026-10-15T11:52:39+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T02:53:06+00:00",
       "isSeed": false
     }
   ]
