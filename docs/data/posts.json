@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:49:22+00:00",
+  "updatedAt": "2026-10-15T23:50:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -597303,6 +597303,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T23:49:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56161,
+      "source": "dc",
+      "externalId": "6593118",
+      "title": "7옥은 탈색이잘어울려서 이젠 검은머린 평범해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593118&page=1",
+      "postedLabel": "08:50",
+      "postedAt": "2026-10-16T08:50:03+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:50:23+00:00",
       "isSeed": false
     }
   ]
