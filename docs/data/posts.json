@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:45:47+00:00",
+  "updatedAt": "2026-10-15T06:46:46+00:00",
   "posts": [
     {
       "id": 1,
@@ -480605,6 +480605,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:45:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50019,
+      "source": "dc",
+      "externalId": "6588782",
+      "title": "정숙은 살 좀 빼고 미용실도 좀 다녀오지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588782&page=1",
+      "postedLabel": "15:46",
+      "postedAt": "2026-10-15T15:46:03+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:46:46+00:00",
       "isSeed": false
     }
   ]
