@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:58:26+00:00",
+  "updatedAt": "2026-10-15T18:59:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -588582,6 +588582,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T18:58:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55702,
+      "source": "qoo",
+      "externalId": "4377080325",
+      "title": "사계 라이브 링크 좀…",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4377080325",
+      "postedLabel": "03:58",
+      "postedAt": "2026-10-16T03:58:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:59:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55703,
+      "source": "dc",
+      "externalId": "6592858",
+      "title": "황비홍, 울산 큰 바위 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "73.98",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592858&page=1",
+      "postedLabel": "03:58",
+      "postedAt": "2026-10-16T03:58:38+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:59:26+00:00",
       "isSeed": false
     }
   ]
