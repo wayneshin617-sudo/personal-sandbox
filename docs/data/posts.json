@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:36:22+00:00",
+  "updatedAt": "2026-10-15T23:38:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -597056,6 +597056,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T23:36:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56148,
+      "source": "dc",
+      "externalId": "6593107",
+      "title": "7옥순은 이제 컨셉 잃어서 장점 없음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593107&page=1",
+      "postedLabel": "08:37",
+      "postedAt": "2026-10-16T08:37:42+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:38:23+00:00",
       "isSeed": false
     }
   ]
