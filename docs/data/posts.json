@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:49:26+00:00",
+  "updatedAt": "2026-10-15T18:50:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -588354,6 +588354,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T18:49:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55690,
+      "source": "dc",
+      "externalId": "6592846",
+      "title": "영자는 이미지 챙기면서 뒷구멍으로 연락함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592846&page=1",
+      "postedLabel": "03:49",
+      "postedAt": "2026-10-16T03:49:19+09:00",
+      "views": 18,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:50:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55691,
+      "source": "dc",
+      "externalId": "6592847",
+      "title": "영자가 좆같은게 뒷구멍으로 왜 미서 불러서 스킨쉽하니?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592847&page=1",
+      "postedLabel": "03:50",
+      "postedAt": "2026-10-16T03:50:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:50:25+00:00",
       "isSeed": false
     }
   ]
