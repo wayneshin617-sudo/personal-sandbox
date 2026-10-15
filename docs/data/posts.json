@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T20:38:25+00:00",
+  "updatedAt": "2026-10-15T20:39:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -590140,6 +590140,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T20:38:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55784,
+      "source": "dc",
+      "externalId": "6592935",
+      "title": "방금 7옥순 옷 보고 깜놀",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592935&page=1",
+      "postedLabel": "05:38",
+      "postedAt": "2026-10-16T05:38:17+09:00",
+      "views": 14,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:39:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55785,
+      "source": "dc",
+      "externalId": "6592936",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "159.26",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592936&page=1",
+      "postedLabel": "05:39",
+      "postedAt": "2026-10-16T05:39:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:39:26+00:00",
       "isSeed": false
     }
   ]
