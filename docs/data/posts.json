@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:43:22+00:00",
+  "updatedAt": "2026-10-15T23:45:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -597208,6 +597208,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T23:43:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56156,
+      "source": "dc",
+      "externalId": "6593114",
+      "title": "현세대 영포티들은 진짜 역대급으로 철없는 세대인건 맞는듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593114&page=1",
+      "postedLabel": "08:44",
+      "postedAt": "2026-10-16T08:44:16+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:45:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56157,
+      "source": "dc",
+      "externalId": "6593115",
+      "title": "시류에 편승해서 남규홍이도 드디어 국결특집 가는구나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593115&page=1",
+      "postedLabel": "08:44",
+      "postedAt": "2026-10-16T08:44:36+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T23:45:22+00:00",
       "isSeed": false
     }
   ]
