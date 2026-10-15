@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:18:44+00:00",
+  "updatedAt": "2026-10-15T10:20:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -499168,6 +499168,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:18:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50996,
+      "source": "dc",
+      "externalId": "6589317",
+      "title": "현숙 뭔가 좋은 여자같지 않음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589317&page=1",
+      "postedLabel": "19:19",
+      "postedAt": "2026-10-15T19:19:41+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:20:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50997,
+      "source": "dc",
+      "externalId": "6589318",
+      "title": "순자 현숙은 기본 새벽 5시에 일어나는 루틴",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589318&page=1",
+      "postedLabel": "19:20",
+      "postedAt": "2026-10-15T19:20:04+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:20:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50998,
+      "source": "dc",
+      "externalId": "6589319",
+      "title": "영철이 역대급이네 7출 외대 통번역 엘리트",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589319&page=1",
+      "postedLabel": "19:20",
+      "postedAt": "2026-10-15T19:20:29+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:20:44+00:00",
       "isSeed": false
     }
   ]
