@@ -172,31 +172,11 @@ html.mobile .pair-focus {
   overflow: hidden;
 }
 
-html.mobile .pair-pop {
-  position: fixed;
-  left: 12px;
-  right: 12px;
-  top: auto;
-  bottom: calc(74px + env(safe-area-inset-bottom));
-  z-index: 18;
-  width: auto;
-  max-height: 34vh;
-  overflow: auto;
-  transform: none;
-  border-radius: 18px;
-}
-
 html.mobile .poke-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px 8px;
 }
 
-html.mobile .poke { aspect-ratio: auto; }
-html.mobile .poke-photo {
-  flex: none;
-  width: 100%;
-  aspect-ratio: 4 / 5;
-}
-html.mobile .poke-photo img { object-position: center center; }
+html.mobile .pair-card strong { font-size: 14px; }
 html.mobile .poke-head strong { font-size: 18px; }
 html.mobile .poke-hp b { font-size: 20px; }

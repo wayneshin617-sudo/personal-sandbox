@@ -1137,17 +1137,51 @@ function pairPerson(id) {
   return pairPeople().find((person) => person.id === id);
 }
 
-function pairFacts(person) {
-  const rows = [
-    ["나이", person.year ? `${person.year}년생` : ""],
-    ["직업", person.job || ""],
-    ["취미", person.hobby || ""],
-  ];
-  if (person.note) rows.push(["가족", person.note]);
-  return rows.map(([label, value]) => ({ label, value: value || "비공개", secret: !value }));
+const PAIR_TYPE_LABEL = { dark: "악", normal: "노말", fairy: "페어리" };
+const PAIR_TYPE_NOTE = { dark: "악평", normal: "무난", fairy: "호평" };
+const TYPE_FILL = { dark: "#5a4a6e", normal: "#a8a878", fairy: "#ee99ac" };
+
+function personTypes(person) {
+  const list = Array.isArray(person.types) && person.types.length ? person.types : [person.type];
+  return list.filter((kind) => PAIR_TYPE_LABEL[kind]);
 }
 
-const PAIR_TYPE_LABEL = { dark: "악", normal: "노말", fairy: "페어리" };
+// Pokémon-style type emblems: a tinted disc with the type's symbol knocked out of it.
+function typeIcon(kind) {
+  const svg = document.createElementNS(svgNS, "svg");
+  svg.setAttribute("viewBox", "0 0 20 20");
+  svg.setAttribute("class", "type-logo");
+  svg.setAttribute("aria-hidden", "true");
+  const disc = document.createElementNS(svgNS, "circle");
+  disc.setAttribute("cx", "10");
+  disc.setAttribute("cy", "10");
+  disc.setAttribute("r", "10");
+  disc.setAttribute("fill", TYPE_FILL[kind] || TYPE_FILL.normal);
+  svg.append(disc);
+  const mark = document.createElementNS(svgNS, "path");
+  mark.setAttribute("fill", "#fff");
+  if (kind === "dark") {
+    mark.setAttribute("d", "M10.6 3.2a6.8 6.8 0 1 0 5.9 10.2 5.4 5.4 0 0 1-5.9-10.2Z");
+  } else if (kind === "fairy") {
+    mark.setAttribute("d", "M10 2.6c.7 3.5 1.9 5 5.1 5.5-3.3 1-4.5 2.4-5.1 6.6-.6-4.2-1.8-5.6-5.1-6.6 3.2-.5 4.4-2 5.1-5.5ZM14.9 12.2c.3 1.4.8 2 2.1 2.3-1.3.4-1.8 1-2.1 2.6-.3-1.6-.8-2.2-2.1-2.6 1.3-.3 1.8-.9 2.1-2.3Z");
+  } else {
+    mark.setAttribute("fill-rule", "evenodd");
+    mark.setAttribute("d", "M10 3.2a6.8 6.8 0 1 1 0 13.6 6.8 6.8 0 0 1 0-13.6Zm0 3.1a3.7 3.7 0 1 0 0 7.4 3.7 3.7 0 0 0 0-7.4Z");
+  }
+  svg.append(mark);
+  return svg;
+}
+
+function typeMark(kind, note) {
+  const mark = document.createElement("span");
+  mark.className = "type-mark";
+  mark.dataset.type = kind;
+  mark.style.setProperty("--fill", TYPE_FILL[kind] || TYPE_FILL.normal);
+  const label = document.createElement("span");
+  label.textContent = note ? `${PAIR_TYPE_LABEL[kind]} · ${PAIR_TYPE_NOTE[kind]}` : PAIR_TYPE_LABEL[kind];
+  mark.append(typeIcon(kind), label);
+  return mark;
+}
 
 function laneOffsets(links) {
   const groups = new Map();
@@ -1173,8 +1207,10 @@ function curvePoint(t, p0, p1, p2, p3) {
 
 let pairLayouts = new Map();
 let pairLayoutKey = "";
-let pairBase = { w: 80, h: 100 };
-let openPop = null;
+let pairBase = { w: 120, h: 48 };
+const PAIR_CHIP_ASPECT = 2.5;
+const PAIR_CHIP_MAX_H = 52;
+const PAIR_FOCUS_MAX_SCALE = 1.35;
 
 function pairSide(id) {
   return (pairData?.men || []).some((person) => person.id === id) ? "men" : "women";
@@ -1192,7 +1228,7 @@ function pairNear(id) {
 }
 
 function boardColumns(width, height) {
-  const gutter = Math.max(96, Math.min(width * 0.2, 200));
+  const gutter = Math.max(96, Math.min(width * 0.42, 420));
   const colW = (width - gutter) / 2;
   return {
     men: { x: 0, y: 0, w: colW, h: height },
@@ -1203,31 +1239,35 @@ function boardColumns(width, height) {
 function restingBase(width, height) {
   const col = boardColumns(width, height).men;
   const gap = 8;
-  let cardH = (height - gap * 5) / 6;
-  const aspect = 58 / 72;
-  let cardW = cardH * aspect;
+  let cardH = Math.min(PAIR_CHIP_MAX_H, (height - gap * 5) / 6);
+  let cardW = cardH * PAIR_CHIP_ASPECT;
   if (cardW > col.w) {
     cardW = col.w;
-    cardH = cardW / aspect;
+    cardH = cardW / PAIR_CHIP_ASPECT;
   }
-  return { w: Math.max(46, cardW), h: Math.max(58, cardH) };
+  return { w: Math.max(72, cardW), h: Math.max(30, cardH) };
 }
 
-function stackBoxes(people, side, bounds, base) {
+function stackBoxes(people, side, bounds, base, maxScale = 1) {
   const boxes = {};
   const count = people.length;
   if (!count) return boxes;
-  const gap = count > 1 ? 8 : 0;
+  const gapMin = count > 1 ? 8 : 0;
   const aspect = base.w / base.h;
-  let cardH = (bounds.h - gap * (count - 1)) / count;
+  let cardH = (bounds.h - gapMin * (count - 1)) / count;
   let cardW = cardH * aspect;
   if (cardW > bounds.w) {
     cardW = bounds.w;
     cardH = cardW / aspect;
   }
+  const scale = Math.min(cardW / base.w, maxScale);
+  cardW = base.w * scale;
+  cardH = base.h * scale;
+  // Name chips are short, so spread them over the column instead of bunching them in the middle.
+  const spread = count > 1 ? Math.min((bounds.h - cardH * count) / (count - 1), cardH * 1.3) : 0;
+  const gap = Math.max(gapMin, spread);
   const stackH = cardH * count + gap * (count - 1);
   let y = bounds.y + Math.max(0, (bounds.h - stackH) / 2);
-  const scale = cardW / base.w;
   for (const person of people) {
     const x = side === "men" ? bounds.x + bounds.w - cardW : bounds.x;
     boxes[person.id] = { x, y, scale, opacity: 1 };
@@ -1248,7 +1288,11 @@ function layoutFor(focusId, width, height, base) {
   for (const [id, box] of Object.entries(rest)) boxes[id] = { ...box, opacity: 0 };
   const men = pairData.men.filter((person) => near.has(person.id));
   const women = pairData.women.filter((person) => near.has(person.id));
-  Object.assign(boxes, stackBoxes(men, "men", columns.men, base), stackBoxes(women, "women", columns.women, base));
+  Object.assign(
+    boxes,
+    stackBoxes(men, "men", columns.men, base, PAIR_FOCUS_MAX_SCALE),
+    stackBoxes(women, "women", columns.women, base, PAIR_FOCUS_MAX_SCALE),
+  );
   return { boxes };
 }
 
@@ -1258,53 +1302,31 @@ function pairCard(person) {
   button.className = "pair-card";
   button.dataset.id = person.id;
   button.style.setProperty("--glow", PAIR_COLORS[person.id] || "#ffd0e0");
-  const photo = document.createElement("img");
-  photo.src = new URL(person.photo, document.baseURI).href;
-  photo.alt = "";
   const name = document.createElement("strong");
   name.textContent = person.name;
-  button.append(photo, name);
+  button.append(name);
   button.addEventListener("pointerenter", (event) => {
     if (document.documentElement.classList.contains("mobile")) return;
     if (event.pointerType !== "mouse") return;
-    showPairPop(person.id);
     highlightPairLines(person.id);
   });
   button.addEventListener("pointerleave", (event) => {
     if (event.pointerType !== "mouse") return;
-    hidePairPop();
     highlightPairLines("");
   });
   button.addEventListener("click", () => pinPair(person.id));
   return button;
 }
 
-function pairPop(person) {
-  const pop = document.createElement("div");
-  pop.className = "pair-pop";
-  pop.hidden = true;
-  pop.dataset.id = person.id;
-  pop.dataset.type = person.type || "normal";
-  pop.style.setProperty("--tone", PAIR_COLORS[person.id] || "#ffb4c8");
-  const name = document.createElement("strong");
-  name.textContent = `${person.name} · ${PAIR_TYPE_LABEL[person.type] || "노말"}`;
-  pop.append(name);
-  for (const row of pairFacts(person)) {
-    const line = document.createElement("span");
-    line.className = "pair-row";
-    const value = document.createElement("span");
-    value.textContent = row.value;
-    if (row.secret) value.className = "pair-secret";
-    line.append(`${row.label}: `, value);
-    pop.append(line);
-  }
-  return pop;
-}
-
 function pokeCard(person) {
+  const types = personTypes(person);
   const root = document.createElement("article");
   root.className = "poke";
-  root.dataset.type = person.type || "normal";
+  root.dataset.type = types.length > 1 ? "dual" : types[0] || "normal";
+  if (types.length > 1) {
+    root.style.setProperty("--tone-a", TYPE_FILL[types[0]]);
+    root.style.setProperty("--tone-b", TYPE_FILL[types[1]]);
+  }
   const head = document.createElement("div");
   head.className = "poke-head";
   const name = document.createElement("strong");
@@ -1319,15 +1341,17 @@ function pokeCard(person) {
   head.append(name, hp);
   const type = document.createElement("p");
   type.className = "poke-type";
-  const badge = document.createElement("span");
-  badge.className = "poke-badge";
-  badge.textContent = PAIR_TYPE_LABEL[person.type] || "노말";
-  type.append(badge, document.createTextNode(person.job || "직업 비공개"));
+  const badges = document.createElement("span");
+  badges.className = "poke-badges";
+  badges.append(...types.map((kind) => typeMark(kind)));
+  const job = document.createElement("span");
+  job.className = "poke-job";
+  job.textContent = person.job || "직업 비공개";
+  type.append(badges, job);
   const frame = document.createElement("div");
   frame.className = "poke-photo";
   const img = document.createElement("img");
-  const portrait = document.documentElement.classList.contains("mobile") && person.bust ? person.bust : person.photo;
-  img.src = new URL(portrait, document.baseURI).href;
+  img.src = new URL(person.photo, document.baseURI).href;
   img.alt = "";
   frame.append(img);
   const moves = document.createElement("div");
@@ -1369,44 +1393,17 @@ function renderPairing(data) {
   document.querySelector("#profile-kicker").textContent = label;
   document.querySelector("#pair-men").replaceChildren(...data.men.map(pairCard));
   document.querySelector("#pair-women").replaceChildren(...data.women.map(pairCard));
-  document.querySelector("#pair-pops").replaceChildren(...pairPeople().map(pairPop));
   document.querySelector("#poke-grid").replaceChildren(...pairPeople().map(pokeCard));
+  document.querySelector("#type-legend").replaceChildren(
+    ...["dark", "normal", "fairy"].map((kind) => {
+      const item = document.createElement("li");
+      item.append(typeMark(kind, true));
+      return item;
+    }),
+  );
   pairLayoutKey = "";
   if (!document.querySelector("#pairing").hidden) ensurePairLayouts();
   document.dispatchEvent(new Event("board-ready"));
-}
-
-function showPairPop(id) {
-  const pop = document.querySelector(`#pair-pops [data-id="${id}"]`);
-  if (!pop) return;
-  if (openPop && openPop !== pop) openPop.hidden = true;
-  openPop = pop;
-  pop.hidden = false;
-  if (document.documentElement.classList.contains("mobile")) {
-    pop.style.transform = "none";
-    return;
-  }
-  const board = pairBoard.getBoundingClientRect();
-  const box = pairLayouts.get(pairPinned || "rest")?.boxes[id];
-  const scale = box?.scale || 1;
-  const width = pairBase.w * scale;
-  const height = pairBase.h * scale;
-  const left = board.left + (box?.x || 0);
-  const top = board.top + (box?.y || 0);
-  const popW = 220;
-  const popH = pop.offsetHeight || 148;
-  let x = pairSide(id) === "men" ? left - popW - 12 : left + width + 12;
-  let y = top;
-  if (x < 8) x = left + width + 12;
-  if (x + popW > window.innerWidth - 8) x = Math.max(8, left - popW - 12);
-  if (y + popH > window.innerHeight - 8) y = Math.max(8, window.innerHeight - popH - 8);
-  pop.style.transform = `translate3d(${Math.round(x)}px, ${Math.round(y)}px, 0)`;
-}
-
-function hidePairPop() {
-  if (!openPop) return;
-  openPop.hidden = true;
-  openPop = null;
 }
 
 function highlightPairLines(id) {
@@ -1443,12 +1440,15 @@ function paintPairLines(width, height) {
       .filter((link) => layout.boxes[link.from]?.opacity && layout.boxes[link.to]?.opacity)
       .map((link) => ({ ...link }));
     laneOffsets(links);
+    // A heart only when both sides put each other first (solid line meets solid line).
     const mutual = new Set();
     for (const link of links) {
-      if (links.some((other) => other.from === link.to && other.to === link.from)) {
+      if (link.rank !== 1) continue;
+      if (links.some((other) => other.rank === 1 && other.from === link.to && other.to === link.from)) {
         mutual.add([link.from, link.to].sort().join("|"));
       }
     }
+    const lane = Math.min(16, pairBase.h * 0.24);
     const drawnHearts = new Set();
     for (const link of links) {
       const fromSide = pairSide(link.from);
@@ -1456,8 +1456,8 @@ function paintPairLines(width, height) {
       const start = edgePoint(layout.boxes[link.from], fromSide);
       const end = edgePoint(layout.boxes[link.to], toSide);
       const fromLeft = start.x < end.x;
-      const y1 = start.y + link.fromLane * 16;
-      const y2 = end.y + link.toLane * 16;
+      const y1 = start.y + link.fromLane * lane;
+      const y2 = end.y + link.toLane * lane;
       const x1 = fromLeft ? start.x + 2 : start.x - 2;
       const x2 = fromLeft ? end.x - 2 : end.x + 2;
       const c1x = x1 + (x2 - x1) * 0.38;
@@ -1574,8 +1574,6 @@ function pinPair(id, options = {}) {
   focusCaption(pairPinned);
   ensurePairLayouts();
   applyPairLayout(pairPinned, true);
-  if (pairPinned) showPairPop(pairPinned);
-  else hidePairPop();
   document.dispatchEvent(new Event("board-chrome"));
 }
 
