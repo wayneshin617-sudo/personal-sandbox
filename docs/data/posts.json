@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:44:47+00:00",
+  "updatedAt": "2026-10-15T06:45:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -480567,6 +480567,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:44:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50017,
+      "source": "dc",
+      "externalId": "6588779",
+      "title": "마술사 33영호 34영호랑 좋은 승부 가능?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588779&page=1",
+      "postedLabel": "15:45",
+      "postedAt": "2026-10-15T15:45:32+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:45:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50018,
+      "source": "dc",
+      "externalId": "6588780",
+      "title": "오빠 나 떵마려워~",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588780&page=1",
+      "postedLabel": "15:45",
+      "postedAt": "2026-10-15T15:45:33+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:45:47+00:00",
       "isSeed": false
     }
   ]
