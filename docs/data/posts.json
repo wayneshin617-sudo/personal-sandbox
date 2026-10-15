@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:55:28+00:00",
+  "updatedAt": "2026-10-15T17:56:19+00:00",
   "posts": [
     {
       "id": 1,
@@ -582217,6 +582217,25 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:55:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55367,
+      "source": "dc",
+      "externalId": "6592788",
+      "title": "영자야 니가 마음에 들어할 남자는",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592788&page=1",
+      "postedLabel": "02:55",
+      "postedAt": "2026-10-16T02:55:59+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:56:19+00:00",
       "isSeed": false
     }
   ]
