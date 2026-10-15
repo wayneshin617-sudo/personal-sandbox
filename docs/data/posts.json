@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:06:34+00:00",
+  "updatedAt": "2026-10-15T13:07:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -514463,6 +514463,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T13:06:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51801,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EB%81%9D%EB%82%98%EB%8A%94%EA%B1%B0-%EC%95%84%EC%89%BD%EB%8B%A4-t8n3mw41",
+      "title": "이번 사계 끝나는거 아쉽다",
+      "excerpt": "3박4일 찍고 11회차 달달했다 재밌었는데..",
+      "author": "밑***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EB%81%9D%EB%82%98%EB%8A%94%EA%B1%B0-%EC%95%84%EC%89%BD%EB%8B%A4-t8n3mw41",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T22:07:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T13:07:34+00:00",
       "isSeed": false
     }
   ]
