@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:22:44+00:00",
+  "updatedAt": "2026-10-15T10:23:45+00:00",
   "posts": [
     {
       "id": 1,
@@ -499377,6 +499377,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T10:22:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51007,
+      "source": "dc",
+      "externalId": "6589326",
+      "title": "영철같은 떠버리스타일 줜나싫다진짜",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589326&page=1",
+      "postedLabel": "19:23",
+      "postedAt": "2026-10-15T19:23:05+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:23:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51008,
+      "source": "dc",
+      "externalId": "6589327",
+      "title": "남자도 웃상이 인기 많긴하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589327&page=1",
+      "postedLabel": "19:23",
+      "postedAt": "2026-10-15T19:23:12+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:23:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51009,
+      "source": "dc",
+      "externalId": "6589329",
+      "title": "나의 역대 원픽은 33옥순",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589329&page=1",
+      "postedLabel": "19:23",
+      "postedAt": "2026-10-15T19:23:29+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:23:45+00:00",
       "isSeed": false
     }
   ]
