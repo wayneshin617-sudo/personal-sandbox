@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:04:34+00:00",
+  "updatedAt": "2026-10-15T13:05:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -514349,6 +514349,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T13:04:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51795,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99-%EB%A7%88%EB%A6%B4%EB%A6%B0%EB%A7%A8%EC%8A%A8-%EB%8B%AE%EC%A7%80-%EC%95%8A%EC%95%98%EB%83%90-tekcim77",
+      "title": "현숙 마릴린맨슨 닮지 않았냐",
+      "excerpt": "약간 이명박도 있고 이 얘기했다가 와이프한테 한 대 맞았는데 억울해서 한명이라도 동조해주면 오늘 좀 편히 잘거 같다",
+      "author": "o*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%A7%88%EB%A6%B4%EB%A6%B0%EB%A7%A8%EC%8A%A8-%EB%8B%AE%EC%A7%80-%EC%95%8A%EC%95%98%EB%83%90-tekcim77",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T22:05:22+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T13:05:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51796,
+      "source": "dc",
+      "externalId": "6589828",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589828&page=1",
+      "postedLabel": "22:05",
+      "postedAt": "2026-10-15T22:05:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:05:34+00:00",
       "isSeed": false
     }
   ]
