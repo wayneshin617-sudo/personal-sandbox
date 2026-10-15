@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T11:51:45+00:00",
+  "updatedAt": "2026-10-15T11:52:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -505609,6 +505609,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T11:51:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51335,
+      "source": "dc",
+      "externalId": "6589622",
+      "title": "컨셉충보단 차라리 영숙이 더남",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589622&page=1",
+      "postedLabel": "20:51",
+      "postedAt": "2026-10-15T20:51:52+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T11:52:44+00:00",
       "isSeed": false
     }
   ]
