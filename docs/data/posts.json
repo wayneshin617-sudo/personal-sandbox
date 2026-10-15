@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:05:21+00:00",
+  "updatedAt": "2026-10-15T23:06:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596220,6 +596220,25 @@
       "recommends": 4,
       "comments": 1,
       "firstSeenAt": "2026-10-15T23:05:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56104,
+      "source": "dc",
+      "externalId": "6593070",
+      "title": "27영철 이새끼가 존잘이긴하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593070&page=1",
+      "postedLabel": "08:05",
+      "postedAt": "2026-10-16T08:05:12+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T23:06:22+00:00",
       "isSeed": false
     }
   ]
