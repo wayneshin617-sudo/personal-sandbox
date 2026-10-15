@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T20:30:26+00:00",
+  "updatedAt": "2026-10-15T20:32:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -590064,6 +590064,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T20:30:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55780,
+      "source": "dc",
+      "externalId": "6592931",
+      "title": "갤에 미서 바이럴 풀었어? ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592931&page=1",
+      "postedLabel": "05:32",
+      "postedAt": "2026-10-16T05:32:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:32:26+00:00",
       "isSeed": false
     }
   ]
