@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T19:43:25+00:00",
+  "updatedAt": "2026-10-15T19:44:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -589494,6 +589494,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T19:43:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55750,
+      "source": "dc",
+      "externalId": "6592903",
+      "title": "7옥 빙의줌들 오늘 존나 화날만 해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592903&page=1",
+      "postedLabel": "04:43",
+      "postedAt": "2026-10-16T04:43:47+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T19:44:25+00:00",
       "isSeed": false
     }
   ]
