@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T22:52:22+00:00",
+  "updatedAt": "2026-10-15T22:53:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -595992,6 +595992,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T22:52:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56092,
+      "source": "dc",
+      "externalId": "6593060",
+      "title": "미서 멋지다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593060&page=1",
+      "postedLabel": "07:52",
+      "postedAt": "2026-10-16T07:52:58+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:53:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56093,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EA%B8%B4-%EB%A7%A8%EB%82%A0-%EA%B2%B0%ED%98%BC-%EB%AA%BB%ED%95%9C%EA%B1%B0%EB%8B%A4-%EC%95%88%ED%95%9C%EA%B1%B0%EB%8B%A4%EB%9D%BC%EA%B3%A0-%EC%8B%B8%EC%9A%B0%EB%8A%94%EB%8D%B0-mirko1q8",
+      "title": "여긴 맨날 결혼 못한거다 안한거다라고 싸우는데",
+      "excerpt": "결국 못한거 아닌가요 솔로인건 똑같은데 둘을 구분해서 굳이 너와나는 다를이유가",
+      "author": "두*********",
+      "company": "서울교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B4-%EB%A7%A8%EB%82%A0-%EA%B2%B0%ED%98%BC-%EB%AA%BB%ED%95%9C%EA%B1%B0%EB%8B%A4-%EC%95%88%ED%95%9C%EA%B1%B0%EB%8B%A4%EB%9D%BC%EA%B3%A0-%EC%8B%B8%EC%9A%B0%EB%8A%94%EB%8D%B0-mirko1q8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T07:53:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T22:53:22+00:00",
       "isSeed": false
     }
   ]
