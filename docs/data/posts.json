@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:35:57+00:00",
+  "updatedAt": "2026-10-15T03:37:07+00:00",
   "posts": [
     {
       "id": 1,
@@ -465348,6 +465348,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T03:35:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49216,
+      "source": "dc",
+      "externalId": "6588224",
+      "title": "현 시점 가장 좋은 소개팅 룩....",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588224&page=1",
+      "postedLabel": "12:36",
+      "postedAt": "2026-10-15T12:36:08+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:37:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49217,
+      "source": "dc",
+      "externalId": "6588225",
+      "title": "응 고졸이면 어쩌라구",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588225&page=1",
+      "postedLabel": "12:36",
+      "postedAt": "2026-10-15T12:36:28+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:37:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49218,
+      "source": "dc",
+      "externalId": "6588226",
+      "title": "사촌형 하닉생산직인데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588226&page=1",
+      "postedLabel": "12:36",
+      "postedAt": "2026-10-15T12:36:44+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:37:07+00:00",
       "isSeed": false
     }
   ]
