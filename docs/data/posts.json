@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T04:49:47+00:00",
+  "updatedAt": "2026-10-15T04:50:48+00:00",
   "posts": [
     {
       "id": 1,
@@ -473974,6 +473974,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T04:49:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49670,
+      "source": "dc",
+      "externalId": "6588432",
+      "title": "광수 같은 사람이 참 착한사람이긴한데",
+      "excerpt": "",
+      "author": "줴줴이야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588432&page=1",
+      "postedLabel": "13:49",
+      "postedAt": "2026-10-15T13:49:39+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:50:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49671,
+      "source": "dc",
+      "externalId": "6588433",
+      "title": "금융직 상담원 확인 좀 해줘.",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588433&page=1",
+      "postedLabel": "13:50",
+      "postedAt": "2026-10-15T13:50:20+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:50:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49672,
+      "source": "dc",
+      "externalId": "6588434",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588434&page=1",
+      "postedLabel": "13:50",
+      "postedAt": "2026-10-15T13:50:35+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:50:48+00:00",
       "isSeed": false
     }
   ]
