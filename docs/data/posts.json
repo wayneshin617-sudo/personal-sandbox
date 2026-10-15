@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:58:43+00:00",
+  "updatedAt": "2026-10-15T10:59:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -501657,6 +501657,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T10:58:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51127,
+      "source": "dc",
+      "externalId": "6589429",
+      "title": "난 아무리봐도 옥순이 현숙보다 이쁜듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "61.79",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589429&page=1",
+      "postedLabel": "19:58",
+      "postedAt": "2026-10-15T19:58:41+09:00",
+      "views": 23,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:59:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51128,
+      "source": "dc",
+      "externalId": "6589430",
+      "title": "여출닮은 연예인.jpg",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589430&page=1",
+      "postedLabel": "19:58",
+      "postedAt": "2026-10-15T19:58:53+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:59:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51129,
+      "source": "dc",
+      "externalId": "6589431",
+      "title": "영수 존나 웃기노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589431&page=1",
+      "postedLabel": "19:59",
+      "postedAt": "2026-10-15T19:59:07+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:59:44+00:00",
       "isSeed": false
     }
   ]
