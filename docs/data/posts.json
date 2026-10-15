@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T20:32:26+00:00",
+  "updatedAt": "2026-10-15T20:37:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -590083,6 +590083,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T20:32:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55781,
+      "source": "dc",
+      "externalId": "6592932",
+      "title": "미서 선조는 김수로왕일수도 잇음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592932&page=1",
+      "postedLabel": "05:36",
+      "postedAt": "2026-10-16T05:36:19+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:37:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55782,
+      "source": "dc",
+      "externalId": "6592933",
+      "title": "그냥 패션자체가 저게 정신병이지 정상이냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592933&page=1",
+      "postedLabel": "05:36",
+      "postedAt": "2026-10-16T05:36:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:37:26+00:00",
       "isSeed": false
     }
   ]
