@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:44:54+00:00",
+  "updatedAt": "2026-10-15T09:45:55+00:00",
   "posts": [
     {
       "id": 1,
@@ -492689,6 +492689,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T09:44:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50655,
+      "source": "dc",
+      "externalId": "6589233",
+      "title": "상철 생산직임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589233&page=1",
+      "postedLabel": "18:45",
+      "postedAt": "2026-10-15T18:45:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:45:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50656,
+      "source": "dc",
+      "externalId": "6589234",
+      "title": "5박6일 이라 첫인상 바꾸근건 쉽지 않음 특히 남자들은",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589234&page=1",
+      "postedLabel": "18:45",
+      "postedAt": "2026-10-15T18:45:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:45:55+00:00",
       "isSeed": false
     }
   ]
