@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T20:20:25+00:00",
+  "updatedAt": "2026-10-15T20:21:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -589931,6 +589931,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T20:20:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55773,
+      "source": "dc",
+      "externalId": "6592924",
+      "title": "34영자 매력있음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592924&page=1",
+      "postedLabel": "05:20",
+      "postedAt": "2026-10-16T05:20:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:21:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55774,
+      "source": "dc",
+      "externalId": "6592925",
+      "title": "리액션에서 미서는 옥순한테 여지주고싶어 하는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.114",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592925&page=1",
+      "postedLabel": "05:20",
+      "postedAt": "2026-10-16T05:20:51+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:21:26+00:00",
       "isSeed": false
     }
   ]
