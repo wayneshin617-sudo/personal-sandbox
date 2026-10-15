@@ -65,13 +65,29 @@
     <section class="stage">
       <div class="view-tabs" role="tablist" aria-label="화면">
         <button type="button" class="view-tab" id="tab-feed" role="tab" aria-selected="true">나솔 왈가왈부</button>
-        <button type="button" class="view-tab" id="tab-pair" role="tab" aria-selected="false" aria-controls="pairing">나솔 현황판</button>
+        <button type="button" class="view-tab" id="tab-profile" role="tab" aria-selected="false" aria-controls="profiles">현 기수 프로필</button>
+        <button type="button" class="view-tab" id="tab-pair" role="tab" aria-selected="false" aria-controls="pairing">현 기수 진행상황</button>
       </div>
+      <section id="profiles" hidden>
+        <header class="pair-head">
+          <div>
+            <p class="pair-kicker" id="profile-kicker">34기</p>
+            <h2>현 기수 프로필</h2>
+          </div>
+          <ul class="type-legend">
+            <li data-type="dark">악 · 악평</li>
+            <li data-type="normal">노말 · 무난</li>
+            <li data-type="fairy">페어리 · 호평</li>
+          </ul>
+          <p class="type-note">본방 앞뒤 5시간과, 34기·이번 기수·현 기수라고 적힌 글을 봤습니다.</p>
+        </header>
+        <div class="poke-grid" id="poke-grid"></div>
+      </section>
       <section id="pairing" hidden>
         <header class="pair-head">
           <div>
             <p class="pair-kicker" id="pair-kicker">34기</p>
-            <h2>사랑의 짝대기</h2>
+            <h2>현 기수 진행상황</h2>
           </div>
           <ul class="pair-legend">
             <li><span class="legend-line solid"></span>1순위</li>
@@ -79,7 +95,8 @@
             <li><svg class="legend-heart" viewBox="0 0 12 12" aria-hidden="true"><path d="M6 10.2C2.6 7.6 1 6.2 1 4.1 1 2.6 2.1 1.6 3.4 1.6c.8 0 1.5.4 2 1.1.5-.7 1.2-1.1 2-1.1C8.7 1.6 10 2.6 10 4.1c0 2.1-1.6 3.5-4 6.1z"/></svg>서로 선택</li>
           </ul>
         </header>
-        <p class="pair-focus" id="pair-focus" hidden></p>
+        <p class="pair-focus" id="pair-focus"></p>
+        <div class="pair-pops" id="pair-pops"></div>
         <div class="pair-board" id="pair-board">
           <ol class="pair-col men" id="pair-men"></ol>
           <div class="pair-gap" aria-hidden="true"></div>

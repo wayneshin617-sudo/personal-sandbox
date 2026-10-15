@@ -1146,59 +1146,7 @@ function pairFacts(person) {
   return rows.map(([label, value]) => ({ label, value: value || "비공개", secret: !value }));
 }
 
-function pairCard(person) {
-  const button = document.createElement("button");
-  button.type = "button";
-  button.className = "pair-card";
-  button.dataset.id = person.id;
-  const top = document.createElement("span");
-  top.className = "pair-top";
-  const photo = document.createElement("img");
-  photo.src = new URL(person.photo, document.baseURI).href;
-  photo.alt = "";
-  const name = document.createElement("strong");
-  name.textContent = person.name;
-  top.append(photo, name);
-  const meta = document.createElement("span");
-  meta.className = "pair-meta";
-  for (const row of pairFacts(person)) {
-    const line = document.createElement("span");
-    line.className = "pair-row";
-    const value = document.createElement("span");
-    value.textContent = row.value;
-    if (row.secret) value.className = "pair-secret";
-    line.append(`${row.label}: `, value);
-    meta.append(line);
-  }
-  button.append(top, meta);
-  button.addEventListener("click", () => pinPair(person.id));
-  button.addEventListener("pointerenter", (event) => {
-    if (event.pointerType === "mouse" && !pairPinned) focusPair(person.id);
-  });
-  return button;
-}
-
-function renderPairing(data) {
-  pairData = data;
-  document.querySelector("#pair-kicker").textContent = `${data.label} · ${data.asOf}`;
-  const men = document.querySelector("#pair-men");
-  const women = document.querySelector("#pair-women");
-  men.replaceChildren(...data.men.map((person) => pairCard(person)));
-  women.replaceChildren(...data.women.map((person) => pairCard(person)));
-  const images = [...pairBoard.querySelectorAll("img")];
-  let pending = images.length;
-  const ready = () => {
-    pending -= 1;
-    if (pending <= 0 && !document.querySelector("#pairing").hidden) drawPairLines();
-  };
-  for (const image of images) {
-    if (image.complete) ready();
-    else {
-      image.addEventListener("load", ready, { once: true });
-      image.addEventListener("error", ready, { once: true });
-    }
-  }
-}
+const PAIR_TYPE_LABEL = { dark: "악", normal: "노말", fairy: "페어리" };
 
 function laneOffsets(links) {
   const groups = new Map();
@@ -1222,103 +1170,16 @@ function curvePoint(t, p0, p1, p2, p3) {
   return u * u * u * p0 + 3 * u * u * t * p1 + 3 * u * t * t * p2 + t * t * t * p3;
 }
 
-function drawPairLines() {
-  if (!pairData || document.querySelector("#pairing").hidden) return;
-  const board = pairBoard.getBoundingClientRect();
-  if (board.width < 40 || board.height < 40) return;
-  pairLines.setAttribute("viewBox", `0 0 ${board.width} ${board.height}`);
-  pairLines.replaceChildren();
-  const links = pairData.links.map((link) => ({ ...link }));
-  laneOffsets(links);
-  const mutual = new Set();
-  for (const link of links) {
-    const back = links.some((other) => other.from === link.to && other.to === link.from);
-    if (back) mutual.add([link.from, link.to].sort().join("|"));
-  }
-  const drawnHearts = new Set();
-  for (const link of links) {
-    const from = pairBoard.querySelector(`[data-id="${link.from}"]`);
-    const to = pairBoard.querySelector(`[data-id="${link.to}"]`);
-    if (!from || !to) continue;
-    const a = from.getBoundingClientRect();
-    const b = to.getBoundingClientRect();
-    const fromLeft = a.left < b.left;
-    const y1 = a.top + a.height / 2 - board.top + link.fromLane * 10;
-    const y2 = b.top + b.height / 2 - board.top + link.toLane * 10;
-    const x1 = fromLeft ? a.right - board.left + 3 : a.left - board.left - 3;
-    const x2 = fromLeft ? b.left - board.left - 11 : b.right - board.left + 11;
-    const c1x = x1 + (x2 - x1) * 0.38;
-    const c2x = x1 + (x2 - x1) * 0.62;
-    const c1y = y1 + (y2 - y1) * 0.18;
-    const c2y = y2 - (y2 - y1) * 0.18;
-    const color = PAIR_COLORS[link.from] || "#ffb4c8";
-    const solid = link.rank === 1;
-    const path = document.createElementNS(svgNS, "path");
-    const d = `M ${x1} ${y1} C ${c1x} ${c1y}, ${c2x} ${c2y}, ${x2} ${y2}`;
-    path.setAttribute("d", d);
-    path.setAttribute("fill", "none");
-    path.setAttribute("stroke", color);
-    path.setAttribute("stroke-linecap", "round");
-    path.setAttribute("data-from", link.from);
-    path.setAttribute("data-to", link.to);
-    path.setAttribute("class", "pair-link");
-    if (solid) {
-      const glow = path.cloneNode();
-      glow.setAttribute("stroke-width", "3.2");
-      glow.setAttribute("opacity", "0.18");
-      glow.setAttribute("class", "pair-link pair-glow");
-      pairLines.append(glow);
-      path.setAttribute("stroke-width", "1.25");
-    } else {
-      path.setAttribute("stroke-width", "1.15");
-      path.setAttribute("stroke-dasharray", "0.1 5.2");
-    }
-    const fromName = pairPerson(link.from)?.name || "";
-    const toName = pairPerson(link.to)?.name || "";
-    const title = document.createElementNS(svgNS, "title");
-    title.textContent = `${fromName} → ${toName} ${RANK_LABEL[link.rank] || ""}`;
-    path.append(title);
-    pairLines.append(path);
-    const dx = x2 - c2x;
-    const dy = y2 - c2y;
-    const len = Math.hypot(dx, dy) || 1;
-    const ux = dx / len;
-    const uy = dy / len;
-    const head = document.createElementNS(svgNS, "polygon");
-    const size = 4.4;
-    const wing = 2.15;
-    head.setAttribute("points", [
-      `${x2},${y2}`,
-      `${x2 - ux * size + -uy * wing},${y2 - uy * size + ux * wing}`,
-      `${x2 - ux * size - -uy * wing},${y2 - uy * size - ux * wing}`,
-    ].join(" "));
-    head.setAttribute("fill", color);
-    head.setAttribute("data-from", link.from);
-    head.setAttribute("data-to", link.to);
-    head.setAttribute("class", "pair-link");
-    pairLines.append(head);
-    const key = [link.from, link.to].sort().join("|");
-    if (mutual.has(key) && !drawnHearts.has(key)) {
-      drawnHearts.add(key);
-      const mx = curvePoint(0.5, x1, c1x, c2x, x2);
-      const my = curvePoint(0.5, y1, c1y, c2y, y2);
-      const heart = document.createElementNS(svgNS, "path");
-      heart.setAttribute("d", "M0 1.6C0 .4 1.05-.3 2.05.55 2.55-.45 4.05.15 4.05 1.55 4.05 3.15 2.15 4.25 0 5.7-2.15 4.25-4.05 3.15-4.05 1.55-4.05.15-2.55-.45-2.05.55-1.05-.3 0 .4 0 1.6Z");
-      heart.setAttribute("transform", `translate(${mx} ${my})`);
-      heart.setAttribute("fill", "#ff6d93");
-      heart.setAttribute("stroke", "#14080d");
-      heart.setAttribute("stroke-width", "0.8");
-      heart.setAttribute("class", "pair-heart");
-      heart.dataset.pair = key;
-      pairLines.append(heart);
-    }
-  }
-  if (pairPinned) focusPair(pairPinned);
+let pairLayouts = new Map();
+let pairLayoutKey = "";
+let pairBase = { w: 80, h: 100 };
+let openPop = null;
+
+function pairSide(id) {
+  return (pairData?.men || []).some((person) => person.id === id) ? "men" : "women";
 }
 
-function focusPair(id) {
-  const person = pairPerson(id);
-  if (!person || !pairData) return;
+function pairNear(id) {
   const near = new Set([id]);
   for (const link of pairData.links) {
     if (link.from === id || link.to === id) {
@@ -1326,80 +1187,415 @@ function focusPair(id) {
       near.add(link.to);
     }
   }
-  pairBoard.classList.add("focusing");
-  pairBoard.dataset.focus = id;
+  return near;
+}
+
+function boardColumns(width, height) {
+  const gutter = Math.max(96, Math.min(width * 0.2, 200));
+  const colW = (width - gutter) / 2;
+  return {
+    men: { x: 0, y: 0, w: colW, h: height },
+    women: { x: width - colW, y: 0, w: colW, h: height },
+  };
+}
+
+function restingBase(width, height) {
+  const col = boardColumns(width, height).men;
+  const gap = 8;
+  let cardH = (height - gap * 5) / 6;
+  const aspect = 58 / 72;
+  let cardW = cardH * aspect;
+  if (cardW > col.w) {
+    cardW = col.w;
+    cardH = cardW / aspect;
+  }
+  return { w: Math.max(46, cardW), h: Math.max(58, cardH) };
+}
+
+function stackBoxes(people, side, bounds, base) {
+  const boxes = {};
+  const count = people.length;
+  if (!count) return boxes;
+  const gap = count > 1 ? 8 : 0;
+  const aspect = base.w / base.h;
+  let cardH = (bounds.h - gap * (count - 1)) / count;
+  let cardW = cardH * aspect;
+  if (cardW > bounds.w) {
+    cardW = bounds.w;
+    cardH = cardW / aspect;
+  }
+  const stackH = cardH * count + gap * (count - 1);
+  let y = bounds.y + Math.max(0, (bounds.h - stackH) / 2);
+  const scale = cardW / base.w;
+  for (const person of people) {
+    const x = side === "men" ? bounds.x + bounds.w - cardW : bounds.x;
+    boxes[person.id] = { x, y, scale, opacity: 1 };
+    y += cardH + gap;
+  }
+  return boxes;
+}
+
+function layoutFor(focusId, width, height, base) {
+  const columns = boardColumns(width, height);
+  const near = focusId ? pairNear(focusId) : null;
+  const rest = {
+    ...stackBoxes(pairData.men, "men", columns.men, base),
+    ...stackBoxes(pairData.women, "women", columns.women, base),
+  };
+  if (!focusId) return { boxes: rest };
+  const boxes = {};
+  for (const [id, box] of Object.entries(rest)) boxes[id] = { ...box, opacity: 0 };
+  const men = pairData.men.filter((person) => near.has(person.id));
+  const women = pairData.women.filter((person) => near.has(person.id));
+  Object.assign(boxes, stackBoxes(men, "men", columns.men, base), stackBoxes(women, "women", columns.women, base));
+  return { boxes };
+}
+
+function pairCard(person) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "pair-card";
+  button.dataset.id = person.id;
+  button.style.setProperty("--glow", PAIR_COLORS[person.id] || "#ffd0e0");
+  const photo = document.createElement("img");
+  photo.src = new URL(person.photo, document.baseURI).href;
+  photo.alt = "";
+  const name = document.createElement("strong");
+  name.textContent = person.name;
+  button.append(photo, name);
+  button.addEventListener("pointerenter", (event) => {
+    if (event.pointerType !== "mouse") return;
+    showPairPop(person.id);
+    highlightPairLines(person.id);
+  });
+  button.addEventListener("pointerleave", (event) => {
+    if (event.pointerType !== "mouse") return;
+    hidePairPop();
+    highlightPairLines("");
+  });
+  button.addEventListener("click", () => pinPair(person.id));
+  return button;
+}
+
+function pairPop(person) {
+  const pop = document.createElement("div");
+  pop.className = "pair-pop";
+  pop.hidden = true;
+  pop.dataset.id = person.id;
+  pop.dataset.type = person.type || "normal";
+  pop.style.setProperty("--tone", PAIR_COLORS[person.id] || "#ffb4c8");
+  const name = document.createElement("strong");
+  name.textContent = `${person.name} · ${PAIR_TYPE_LABEL[person.type] || "노말"}`;
+  pop.append(name);
+  for (const row of pairFacts(person)) {
+    const line = document.createElement("span");
+    line.className = "pair-row";
+    const value = document.createElement("span");
+    value.textContent = row.value;
+    if (row.secret) value.className = "pair-secret";
+    line.append(`${row.label}: `, value);
+    pop.append(line);
+  }
+  return pop;
+}
+
+function pokeCard(person) {
+  const root = document.createElement("article");
+  root.className = "poke";
+  root.dataset.type = person.type || "normal";
+  const head = document.createElement("div");
+  head.className = "poke-head";
+  const name = document.createElement("strong");
+  name.textContent = person.name;
+  const hp = document.createElement("span");
+  hp.className = "poke-hp";
+  const num = document.createElement("b");
+  num.textContent = person.year ? String(person.year).slice(2) : "??";
+  const unit = document.createElement("small");
+  unit.textContent = person.year ? "년생" : "비공개";
+  hp.append(num, unit);
+  head.append(name, hp);
+  const type = document.createElement("p");
+  type.className = "poke-type";
+  const badge = document.createElement("span");
+  badge.className = "poke-badge";
+  badge.textContent = PAIR_TYPE_LABEL[person.type] || "노말";
+  type.append(badge, document.createTextNode(person.job || "직업 비공개"));
+  const frame = document.createElement("div");
+  frame.className = "poke-photo";
+  const img = document.createElement("img");
+  img.src = new URL(person.photo, document.baseURI).href;
+  img.alt = "";
+  frame.append(img);
+  const moves = document.createElement("div");
+  moves.className = "poke-moves";
+  for (const row of [
+    ["나이", person.year ? `${person.year}년생` : ""],
+    ["취미", person.hobby || ""],
+    ["가족", person.note || ""],
+  ]) {
+    const move = document.createElement("p");
+    move.className = "poke-move";
+    const label = document.createElement("b");
+    label.textContent = row[0];
+    const value = document.createElement("span");
+    value.textContent = row[1] || "비공개";
+    if (!row[1]) value.className = "pair-secret";
+    move.append(label, value);
+    moves.append(move);
+  }
+  const foot = document.createElement("footer");
+  foot.className = "poke-foot";
+  const set = document.createElement("span");
+  set.textContent = "34기";
+  const rarity = document.createElement("span");
+  rarity.className = "poke-rarity";
+  rarity.textContent = "♥";
+  foot.append(set, rarity);
+  const holo = document.createElement("span");
+  holo.className = "poke-holo";
+  holo.setAttribute("aria-hidden", "true");
+  root.append(head, type, frame, moves, foot, holo);
+  return root;
+}
+
+function renderPairing(data) {
+  pairData = data;
+  const label = `${data.label} · ${data.asOf}`;
+  document.querySelector("#pair-kicker").textContent = label;
+  document.querySelector("#profile-kicker").textContent = label;
+  document.querySelector("#pair-men").replaceChildren(...data.men.map(pairCard));
+  document.querySelector("#pair-women").replaceChildren(...data.women.map(pairCard));
+  document.querySelector("#pair-pops").replaceChildren(...pairPeople().map(pairPop));
+  document.querySelector("#poke-grid").replaceChildren(...pairPeople().map(pokeCard));
+  pairLayoutKey = "";
+  if (!document.querySelector("#pairing").hidden) ensurePairLayouts();
+}
+
+function showPairPop(id) {
+  const pop = document.querySelector(`#pair-pops [data-id="${id}"]`);
+  if (!pop) return;
+  if (openPop && openPop !== pop) openPop.hidden = true;
+  openPop = pop;
+  pop.hidden = false;
+  const board = pairBoard.getBoundingClientRect();
+  const box = pairLayouts.get(pairPinned || "rest")?.boxes[id];
+  const scale = box?.scale || 1;
+  const width = pairBase.w * scale;
+  const height = pairBase.h * scale;
+  const left = board.left + (box?.x || 0);
+  const top = board.top + (box?.y || 0);
+  const popW = 220;
+  const popH = pop.offsetHeight || 148;
+  let x = pairSide(id) === "men" ? left - popW - 12 : left + width + 12;
+  let y = top;
+  if (x < 8) x = left + width + 12;
+  if (x + popW > window.innerWidth - 8) x = Math.max(8, left - popW - 12);
+  if (y + popH > window.innerHeight - 8) y = Math.max(8, window.innerHeight - popH - 8);
+  pop.style.transform = `translate3d(${Math.round(x)}px, ${Math.round(y)}px, 0)`;
+}
+
+function hidePairPop() {
+  if (!openPop) return;
+  openPop.hidden = true;
+  openPop = null;
+}
+
+function highlightPairLines(id) {
+  const active = pairLines.querySelector("g.on");
+  if (!active) return;
+  active.classList.toggle("hotting", Boolean(id));
+  for (const node of active.querySelectorAll(".pair-link, .pair-heart")) {
+    const owners = [node.dataset.from, node.dataset.to, ...(node.dataset.pair || "").split("|")];
+    node.classList.toggle("hot", Boolean(id) && owners.includes(id));
+  }
+}
+
+function edgePoint(box, side) {
+  const width = pairBase.w * box.scale;
+  const height = pairBase.h * box.scale;
+  return {
+    x: side === "men" ? box.x + width : box.x,
+    y: box.y + height / 2,
+  };
+}
+
+function paintPairLines(width, height) {
+  pairLines.setAttribute("viewBox", `0 0 ${width} ${height}`);
+  pairLines.replaceChildren();
+  const narrow = width < 700;
+  const size = narrow ? 12 : 18;
+  const wing = narrow ? 5.4 : 8;
+  const heartScale = narrow ? 2.4 : 3.4;
+  for (const [key, layout] of pairLayouts) {
+    const group = document.createElementNS(svgNS, "g");
+    group.dataset.focus = key;
+    if (key === (pairPinned || "rest")) group.setAttribute("class", "on");
+    const links = pairData.links
+      .filter((link) => layout.boxes[link.from]?.opacity && layout.boxes[link.to]?.opacity)
+      .map((link) => ({ ...link }));
+    laneOffsets(links);
+    const mutual = new Set();
+    for (const link of links) {
+      if (links.some((other) => other.from === link.to && other.to === link.from)) {
+        mutual.add([link.from, link.to].sort().join("|"));
+      }
+    }
+    const drawnHearts = new Set();
+    for (const link of links) {
+      const fromSide = pairSide(link.from);
+      const toSide = pairSide(link.to);
+      const start = edgePoint(layout.boxes[link.from], fromSide);
+      const end = edgePoint(layout.boxes[link.to], toSide);
+      const fromLeft = start.x < end.x;
+      const y1 = start.y + link.fromLane * 16;
+      const y2 = end.y + link.toLane * 16;
+      const x1 = fromLeft ? start.x + 2 : start.x - 2;
+      const x2 = fromLeft ? end.x - 2 : end.x + 2;
+      const c1x = x1 + (x2 - x1) * 0.38;
+      const c2x = x1 + (x2 - x1) * 0.62;
+      const c1y = y1 + (y2 - y1) * 0.18;
+      const c2y = y2 - (y2 - y1) * 0.18;
+      const dx = x2 - c2x;
+      const dy = y2 - c2y;
+      const len = Math.hypot(dx, dy) || 1;
+      const ux = dx / len;
+      const uy = dy / len;
+      const color = PAIR_COLORS[link.from] || "#ffb4c8";
+      const solid = link.rank === 1;
+      const path = document.createElementNS(svgNS, "path");
+      path.setAttribute("d", `M ${x1} ${y1} C ${c1x} ${c1y}, ${c2x} ${c2y}, ${x2 - ux * size} ${y2 - uy * size}`);
+      path.setAttribute("fill", "none");
+      path.setAttribute("stroke", color);
+      path.setAttribute("stroke-linecap", "round");
+      path.setAttribute("stroke-width", solid ? "1.25" : "1.15");
+      if (!solid) path.setAttribute("stroke-dasharray", "0.1 5.2");
+      path.dataset.from = link.from;
+      path.dataset.to = link.to;
+      path.setAttribute("class", "pair-link");
+      group.append(path);
+      const head = document.createElementNS(svgNS, "polygon");
+      head.setAttribute("points", [
+        `${x2},${y2}`,
+        `${x2 - ux * size - uy * wing},${y2 - uy * size + ux * wing}`,
+        `${x2 - ux * size + uy * wing},${y2 - uy * size - ux * wing}`,
+      ].join(" "));
+      head.setAttribute("fill", color);
+      head.dataset.from = link.from;
+      head.dataset.to = link.to;
+      head.setAttribute("class", "pair-link");
+      group.append(head);
+      const heartKey = [link.from, link.to].sort().join("|");
+      if (mutual.has(heartKey) && !drawnHearts.has(heartKey)) {
+        drawnHearts.add(heartKey);
+        const mx = curvePoint(0.5, x1, c1x, c2x, x2);
+        const my = curvePoint(0.5, y1, c1y, c2y, y2);
+        const heart = document.createElementNS(svgNS, "path");
+        heart.setAttribute("d", "M0 1.6C0 .4 1.05-.3 2.05.55 2.55-.45 4.05.15 4.05 1.55 4.05 3.15 2.15 4.25 0 5.7-2.15 4.25-4.05 3.15-4.05 1.55-4.05.15-2.55-.45-2.05.55-1.05-.3 0 .4 0 1.6Z");
+        heart.setAttribute("transform", `translate(${mx} ${my}) scale(${heartScale}) translate(0 -2.55)`);
+        heart.setAttribute("fill", "#ff6d93");
+        heart.setAttribute("stroke", "#14080d");
+        heart.setAttribute("stroke-width", String(1.1 / heartScale));
+        heart.setAttribute("class", "pair-heart");
+        heart.dataset.pair = heartKey;
+        group.append(heart);
+      }
+    }
+    pairLines.append(group);
+  }
+}
+
+function applyPairLayout(id, animate) {
+  const layout = pairLayouts.get(id || "rest");
+  if (!layout) return;
+  pairBoard.classList.toggle("anim", Boolean(animate));
+  pairBoard.classList.toggle("focusing", Boolean(id));
+  pairBoard.dataset.focus = id || "";
   for (const card of pairBoard.querySelectorAll(".pair-card")) {
-    const on = near.has(card.dataset.id);
-    card.classList.toggle("near", on);
-    card.classList.toggle("dim", !on);
+    const box = layout.boxes[card.dataset.id];
+    card.style.transform = `translate3d(${box.x}px, ${box.y}px, 0) scale(${box.scale})`;
+    card.style.opacity = String(box.opacity);
+    card.style.pointerEvents = box.opacity ? "auto" : "none";
+    card.classList.toggle("near", Boolean(id) && box.opacity > 0);
     card.classList.toggle("lit", card.dataset.id === id);
-    card.style.setProperty("--glow", PAIR_COLORS[card.dataset.id] || "#ffd0e0");
     card.setAttribute("aria-pressed", String(card.dataset.id === id));
   }
-  for (const line of pairLines.querySelectorAll(".pair-link")) {
-    line.classList.toggle("on", line.dataset.from === id || line.dataset.to === id);
+  for (const group of pairLines.querySelectorAll("g")) {
+    group.classList.toggle("on", group.dataset.focus === (id || "rest"));
   }
-  for (const heart of pairLines.querySelectorAll(".pair-heart")) {
-    heart.classList.toggle("on", heart.dataset.pair.split("|").includes(id));
+}
+
+function ensurePairLayouts() {
+  const rect = pairBoard.getBoundingClientRect();
+  if (rect.width < 40 || rect.height < 40) return;
+  const key = `${Math.round(rect.width)}x${Math.round(rect.height)}`;
+  if (key === pairLayoutKey) return;
+  pairLayoutKey = key;
+  pairBase = restingBase(rect.width, rect.height);
+  pairBoard.style.setProperty("--pair-w", `${pairBase.w}px`);
+  pairBoard.style.setProperty("--pair-h", `${pairBase.h}px`);
+  pairLayouts = new Map([["rest", layoutFor("", rect.width, rect.height, pairBase)]]);
+  for (const person of pairPeople()) {
+    pairLayouts.set(person.id, layoutFor(person.id, rect.width, rect.height, pairBase));
   }
+  paintPairLines(rect.width, rect.height);
+  applyPairLayout(pairPinned, false);
+}
+
+function focusCaption(id) {
+  if (!id) {
+    pairFocus.textContent = "";
+    return;
+  }
+  const person = pairPerson(id);
   const outgoing = pairData.links.filter((link) => link.from === id);
   const incoming = pairData.links.filter((link) => link.to === id);
   const phrase = (link, toward) => {
     const other = pairPerson(toward ? link.to : link.from);
     return `${RANK_LABEL[link.rank] || ""} ${other?.name || ""}`.trim();
   };
-  const parts = [`${person.name}`];
+  const parts = [`${person?.name || ""}`];
   if (outgoing.length) parts.push(outgoing.map((link) => phrase(link, true)).join(" · "));
   if (incoming.length) parts.push(`받은 마음 ${incoming.map((link) => phrase(link, false)).join(" · ")}`);
-  pairFocus.hidden = false;
   pairFocus.textContent = parts.join("  ·  ");
 }
 
-function clearPairFocus() {
-  pairPinned = "";
-  pairBoard.classList.remove("focusing");
-  pairBoard.dataset.focus = "";
-  for (const card of pairBoard.querySelectorAll(".pair-card")) {
-    card.classList.remove("dim", "lit", "near");
-    card.setAttribute("aria-pressed", "false");
-  }
-  for (const line of pairLines.querySelectorAll(".pair-link, .pair-heart")) line.classList.remove("on");
-  pairFocus.hidden = true;
-  pairFocus.textContent = "";
-}
-
 function pinPair(id) {
-  if (pairPinned === id) clearPairFocus();
-  else {
-    pairPinned = id;
-    focusPair(id);
-  }
+  pairPinned = pairPinned === id ? "" : id;
+  focusCaption(pairPinned);
+  ensurePairLayouts();
+  applyPairLayout(pairPinned, true);
+  if (pairPinned) showPairPop(pairPinned);
+  else hidePairPop();
 }
 
 function setStageView(name) {
-  const pair = name === "pair";
-  document.querySelector(".stage").classList.toggle("show-pair", pair);
-  document.querySelector("#tab-feed").setAttribute("aria-selected", String(!pair));
-  document.querySelector("#tab-pair").setAttribute("aria-selected", String(pair));
-  document.querySelector("#pairing").hidden = !pair;
+  const stage = document.querySelector(".stage");
+  stage.classList.toggle("show-pair", name === "pair");
+  stage.classList.toggle("show-profile", name === "profile");
+  document.querySelector("#tab-feed").setAttribute("aria-selected", String(name === "feed"));
+  document.querySelector("#tab-profile").setAttribute("aria-selected", String(name === "profile"));
+  document.querySelector("#tab-pair").setAttribute("aria-selected", String(name === "pair"));
+  document.querySelector("#pairing").hidden = name !== "pair";
+  document.querySelector("#profiles").hidden = name !== "profile";
   const narrow = window.matchMedia("(max-width: 860px)").matches;
-  if (pair && narrow && !appEl.classList.contains("rail-closed")) {
+  const sideView = name === "pair" || name === "profile";
+  if (sideView && narrow && !appEl.classList.contains("rail-closed")) {
     pairRestoreRail = true;
     setRailOpen(false);
-  } else if (!pair && pairRestoreRail) {
+  } else if (!sideView && pairRestoreRail) {
     pairRestoreRail = false;
     setRailOpen(true);
   }
-  const next = `${location.pathname}${location.search}${pair ? "#pairing" : ""}`;
+  const hash = name === "pair" ? "#pairing" : name === "profile" ? "#profile" : "";
+  const next = `${location.pathname}${location.search}${hash}`;
   if (`${location.pathname}${location.search}${location.hash}` !== next) history.replaceState(null, "", next);
-  if (pair) requestAnimationFrame(() => requestAnimationFrame(drawPairLines));
+  if (name === "pair") requestAnimationFrame(() => ensurePairLayouts());
 }
 
 document.querySelector("#tab-feed").addEventListener("click", () => setStageView("feed"));
+document.querySelector("#tab-profile").addEventListener("click", () => setStageView("profile"));
 document.querySelector("#tab-pair").addEventListener("click", () => setStageView("pair"));
-pairBoard.addEventListener("pointerleave", (event) => {
-  if (event.pointerType === "mouse" && !pairPinned) clearPairFocus();
-});
 new ResizeObserver(() => {
   const pairing = document.querySelector("#pairing");
   if (pairing.hidden) return;
@@ -1408,7 +1604,7 @@ new ResizeObserver(() => {
     pairRestoreRail = true;
     setRailOpen(false);
   }
-  drawPairLines();
+  ensurePairLayouts();
 }).observe(pairBoard);
 
 fetch(new URL("data/pairing.json", document.baseURI))
@@ -1416,5 +1612,6 @@ fetch(new URL("data/pairing.json", document.baseURI))
   .then((data) => {
     renderPairing(data);
     if (location.hash === "#pairing") setStageView("pair");
+    else if (location.hash === "#profile") setStageView("profile");
   })
   .catch(() => {});

@@ -3,20 +3,20 @@
   "label": "34기 다둥이 특집",
   "asOf": "10월 14일 방송까지",
   "men": [
-    {"id": "youngsoo", "name": "영수", "year": 1989, "job": "건축 설계·감리", "note": "누나 7명의 막내", "photo": "assets/cast/youngsoo.webp"},
-    {"id": "youngho", "name": "영호", "year": 1991, "job": "도쿄 증권사 IT", "note": "3남매 장남", "photo": "assets/cast/youngho.webp"},
-    {"id": "youngsik", "name": "영식", "year": 1988, "job": "브랜드 공급망", "hobby": "명상 · 템플스테이", "note": "누나 둘의 막내", "photo": "assets/cast/youngsik.webp"},
-    {"id": "youngchul", "name": "영철", "year": 1990, "job": "논산 7급 공무원", "hobby": "독서", "note": "누나 둘과 여동생", "photo": "assets/cast/youngchul.webp"},
-    {"id": "gwangsoo", "name": "광수", "year": 1991, "job": "부동산신탁 마케팅", "hobby": "방송댄스", "note": "누나 둘의 막내", "photo": "assets/cast/gwangsoo.webp"},
-    {"id": "sangchul", "name": "상철", "year": 1987, "job": "반도체 HBM", "note": "형과 여동생의 둘째", "photo": "assets/cast/sangchul.webp"}
+    {"id": "youngsoo", "name": "영수", "type": "normal", "year": 1989, "job": "건축 설계·감리", "note": "누나 7명의 막내", "photo": "assets/cast/youngsoo.webp"},
+    {"id": "youngho", "name": "영호", "type": "fairy", "year": 1991, "job": "도쿄 증권사 IT", "note": "3남매 장남", "photo": "assets/cast/youngho.webp"},
+    {"id": "youngsik", "name": "영식", "type": "fairy", "year": 1988, "job": "브랜드 공급망", "hobby": "명상 · 템플스테이", "note": "누나 둘의 막내", "photo": "assets/cast/youngsik.webp"},
+    {"id": "youngchul", "name": "영철", "type": "normal", "year": 1990, "job": "논산 7급 공무원", "hobby": "독서", "note": "누나 둘과 여동생", "photo": "assets/cast/youngchul.webp"},
+    {"id": "gwangsoo", "name": "광수", "type": "fairy", "year": 1991, "job": "부동산신탁 마케팅", "hobby": "방송댄스", "note": "누나 둘의 막내", "photo": "assets/cast/gwangsoo.webp"},
+    {"id": "sangchul", "name": "상철", "type": "normal", "year": 1987, "job": "반도체 HBM", "note": "형과 여동생의 둘째", "photo": "assets/cast/sangchul.webp"}
   ],
   "women": [
-    {"id": "youngsook", "name": "영숙", "note": "8자매 막내", "photo": "assets/cast/youngsook.webp"},
-    {"id": "jeongsook", "name": "정숙", "job": "회계사", "note": "언니와 남동생 사이", "photo": "assets/cast/jeongsook.webp"},
-    {"id": "soonja", "name": "순자", "note": "4남매 장녀", "photo": "assets/cast/soonja.webp"},
-    {"id": "youngja", "name": "영자", "job": "한의사", "note": "남동생 둘의 장녀", "photo": "assets/cast/youngja.webp"},
-    {"id": "oksoon", "name": "옥순", "note": "3남매 둘째", "photo": "assets/cast/oksoon.webp"},
-    {"id": "hyunsook", "name": "현숙", "note": "3남매 장녀", "photo": "assets/cast/hyunsook.webp"}
+    {"id": "youngsook", "name": "영숙", "type": "dark", "note": "8자매 막내", "photo": "assets/cast/youngsook.webp"},
+    {"id": "jeongsook", "name": "정숙", "type": "fairy", "job": "회계사", "note": "언니와 남동생 사이", "photo": "assets/cast/jeongsook.webp"},
+    {"id": "soonja", "name": "순자", "type": "fairy", "note": "4남매 장녀", "photo": "assets/cast/soonja.webp"},
+    {"id": "youngja", "name": "영자", "type": "normal", "job": "한의사", "note": "남동생 둘의 장녀", "photo": "assets/cast/youngja.webp"},
+    {"id": "oksoon", "name": "옥순", "type": "fairy", "note": "3남매 둘째", "photo": "assets/cast/oksoon.webp"},
+    {"id": "hyunsook", "name": "현숙", "type": "fairy", "note": "3남매 장녀", "photo": "assets/cast/hyunsook.webp"}
   ],
   "links": [
     {"from": "youngsoo", "to": "soonja", "rank": 1},
