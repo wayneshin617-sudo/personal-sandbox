@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:04:27+00:00",
+  "updatedAt": "2026-10-15T00:05:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -448476,6 +448476,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:04:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48328,
+      "source": "dc",
+      "externalId": "6587614",
+      "title": "20살 모태솔로 좀 도와주세요",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.194",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587614&page=1",
+      "postedLabel": "09:04",
+      "postedAt": "2026-10-15T09:04:41+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:05:26+00:00",
       "isSeed": false
     }
   ]
