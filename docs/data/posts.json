@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:37:54+00:00",
+  "updatedAt": "2026-10-15T07:38:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -486020,6 +486020,44 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-15T07:37:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50304,
+      "source": "dc",
+      "externalId": "6588890",
+      "title": "순자한테 깜빡 속았노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588890&page=1",
+      "postedLabel": "16:38",
+      "postedAt": "2026-10-15T16:38:22+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:38:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50305,
+      "source": "dc",
+      "externalId": "6588891",
+      "title": "34순자 닮은꼴 이분 언급이 왜없냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588891&page=1",
+      "postedLabel": "16:38",
+      "postedAt": "2026-10-15T16:38:29+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:38:54+00:00",
       "isSeed": false
     }
   ]
