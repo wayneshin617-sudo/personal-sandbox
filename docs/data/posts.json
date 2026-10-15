@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:07:28+00:00",
+  "updatedAt": "2026-10-15T18:08:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -582559,6 +582559,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T18:07:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55385,
+      "source": "dc",
+      "externalId": "6592805",
+      "title": "미서야..그냥 밖에서 30대 초반만나자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592805&page=1",
+      "postedLabel": "03:07",
+      "postedAt": "2026-10-16T03:07:40+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:08:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55386,
+      "source": "dc",
+      "externalId": "6592806",
+      "title": "미조 향숙이 어장 안치고 7옥만 바라보는 순정남이었으면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592806&page=1",
+      "postedLabel": "03:07",
+      "postedAt": "2026-10-16T03:07:57+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:08:29+00:00",
       "isSeed": false
     }
   ]
