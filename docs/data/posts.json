@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T21:55:22+00:00",
+  "updatedAt": "2026-10-15T21:56:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -594662,6 +594662,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T21:55:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56022,
+      "source": "dc",
+      "externalId": "6592993",
+      "title": "옥순이가 제일 낫다 이름 아무나 주지 않음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.57",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592993&page=1",
+      "postedLabel": "06:55",
+      "postedAt": "2026-10-16T06:55:28+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:56:21+00:00",
       "isSeed": false
     }
   ]
