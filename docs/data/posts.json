@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:47:06+00:00",
+  "updatedAt": "2026-10-15T03:48:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -465861,6 +465861,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:47:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49243,
+      "source": "dc",
+      "externalId": "6588253",
+      "title": "영철 상철 입만열면 깨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "79.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588253&page=1",
+      "postedLabel": "12:47",
+      "postedAt": "2026-10-15T12:47:06+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:48:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49244,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%9C%EC%BC%80-%EC%98%81%ED%98%B8-%EB%82%B4%EB%A0%A4%EC%B9%98%EA%B3%A0-%EC%98%81%EC%B2%A0-%EB%9D%84%EC%9A%B0%EB%8A%94-%EA%B8%80%EC%9D%B4-%EB%A7%8E%EC%A7%80-vjavzqvr",
+      "title": "왜케 영호 내려치고 영철 띄우는 글이 많지",
+      "excerpt": "보다보면 여자들은 영철보다 영호한테 더 기울걸..?? 외모, 분위기, 직업, 언변(차라리 말 없는게 나음) 등등 영호가 영철보다 더 나은데 영철띄우는 글이 많아서 신기함ㅋ",
+      "author": "l*********",
+      "company": "변리사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%9C%EC%BC%80-%EC%98%81%ED%98%B8-%EB%82%B4%EB%A0%A4%EC%B9%98%EA%B3%A0-%EC%98%81%EC%B2%A0-%EB%9D%84%EC%9A%B0%EB%8A%94-%EA%B8%80%EC%9D%B4-%EB%A7%8E%EC%A7%80-vjavzqvr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T12:47:54+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T03:48:06+00:00",
       "isSeed": false
     }
   ]
