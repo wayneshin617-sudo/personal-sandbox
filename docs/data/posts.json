@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T04:25:46+00:00",
+  "updatedAt": "2026-10-15T04:26:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -472568,6 +472568,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T04:25:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49596,
+      "source": "dc",
+      "externalId": "6588357",
+      "title": "이런 깡패상 은근히 냄비들한테 인기많은듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588357&page=1",
+      "postedLabel": "13:26",
+      "postedAt": "2026-10-15T13:26:08+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T04:26:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49597,
+      "source": "dc",
+      "externalId": "6588358",
+      "title": "영철이 일상이 남분석하고 계산적인듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588358&page=1",
+      "postedLabel": "13:26",
+      "postedAt": "2026-10-15T13:26:21+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:26:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49598,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%89%AC%EB%A7%88%EB%A0%B5%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B1%B0-s0g1rehl",
+      "title": "쉬마렵다고 하는거",
+      "excerpt": "여자분들아 그사람 그러는거에요?",
+      "author": "s******",
+      "company": "세메스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%89%AC%EB%A7%88%EB%A0%B5%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B1%B0-s0g1rehl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T13:26:35+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T04:26:47+00:00",
       "isSeed": false
     }
   ]
