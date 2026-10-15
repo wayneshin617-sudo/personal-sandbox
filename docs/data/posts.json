@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:13:54+00:00",
+  "updatedAt": "2026-10-15T09:14:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -490979,6 +490979,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:13:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50565,
+      "source": "dc",
+      "externalId": "6589147",
+      "title": "캡틴큐 사먹어도 되냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589147&page=1",
+      "postedLabel": "18:14",
+      "postedAt": "2026-10-15T18:14:26+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:14:54+00:00",
       "isSeed": false
     }
   ]
