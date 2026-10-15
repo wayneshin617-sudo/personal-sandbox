@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:18:06+00:00",
+  "updatedAt": "2026-10-15T03:19:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -464227,6 +464227,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:18:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49157,
+      "source": "dc",
+      "externalId": "6588166",
+      "title": "나는 계속 쉬마렵다고 할때마다 아갈창 후려버리고싶더라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588166&page=1",
+      "postedLabel": "12:18",
+      "postedAt": "2026-10-15T12:18:24+09:00",
+      "views": 7,
+      "recommends": 3,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T03:19:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49158,
+      "source": "dc",
+      "externalId": "6588167",
+      "title": "영숙 천년의사랑도 식게 말하던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.172",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588167&page=1",
+      "postedLabel": "12:18",
+      "postedAt": "2026-10-15T12:18:36+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:19:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49159,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%99%9C%EC%BC%80-%EC%8A%A4%ED%8F%AC%EA%B0%80-%EC%97%86%EB%83%90-alcy67l7",
+      "title": "이번기수 왜케 스포가 없냐???",
+      "excerpt": "예전엔 블라에 출연진들 스펙, 동료후기 등등 비하인드 이야기 엄청 올라왔는데",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%99%9C%EC%BC%80-%EC%8A%A4%ED%8F%AC%EA%B0%80-%EC%97%86%EB%83%90-alcy67l7",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T12:18:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T03:19:06+00:00",
       "isSeed": false
     }
   ]
