@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T21:33:22+00:00",
+  "updatedAt": "2026-10-15T21:35:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -594339,6 +594339,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T21:33:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56005,
+      "source": "dc",
+      "externalId": "6592976",
+      "title": "7옥은 그래도 모솔 딱지는 땐거 아니냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.138",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592976&page=1",
+      "postedLabel": "06:34",
+      "postedAt": "2026-10-16T06:34:13+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:35:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56006,
+      "source": "blind",
+      "externalId": "/kr/post/7%EC%98%A5%EC%88%9C%EC%9D%80-%EC%99%9C-%EB%AA%A8%EC%8F%A0%EC%9D%B8%EA%B1%B8%EA%B9%8C-anyrtgsl",
+      "title": "7옥순은 왜 모쏠인걸까",
+      "excerpt": "완전 철벽녀인가 남자들 엄청 많이 다가왔을것 같은데 외모가 예쁘다고 연애 많이 하는건 아닌건가 약사 현숙이 모쏠 느낌이고 7옥순은 연애 경험 많을것 같은데 둘이 반대라 뭔가 의외",
+      "author": "꼴****",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/7%EC%98%A5%EC%88%9C%EC%9D%80-%EC%99%9C-%EB%AA%A8%EC%8F%A0%EC%9D%B8%EA%B1%B8%EA%B9%8C-anyrtgsl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T06:35:10+09:00",
+      "views": 14,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T21:35:22+00:00",
       "isSeed": false
     }
   ]
