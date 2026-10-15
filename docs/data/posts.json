@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:26:54+00:00",
+  "updatedAt": "2026-10-15T09:27:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -491492,6 +491492,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:26:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50592,
+      "source": "dc",
+      "externalId": "6589178",
+      "title": "22영숙 변천사",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589178&page=1",
+      "postedLabel": "18:27",
+      "postedAt": "2026-10-15T18:27:22+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:27:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50593,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9E%90%EA%BE%B8-%EB%A9%8B%EC%9E%88%EB%8B%A4%EA%B3%A0-%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-luknjk35",
+      "title": "자꾸 멋있다고 하지 말라고",
+      "excerpt": "31 영숙처럼 될 것 같다고",
+      "author": "t*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%90%EA%BE%B8-%EB%A9%8B%EC%9E%88%EB%8B%A4%EA%B3%A0-%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-luknjk35",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T18:27:42+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T09:27:53+00:00",
       "isSeed": false
     }
   ]
