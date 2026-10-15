@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:43:29+00:00",
+  "updatedAt": "2026-10-15T17:44:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -581780,6 +581780,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:43:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55344,
+      "source": "dc",
+      "externalId": "6592765",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592765&page=1",
+      "postedLabel": "02:43",
+      "postedAt": "2026-10-16T02:43:48+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:44:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55345,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-lbfiqr3n",
+      "title": "34기 영숙",
+      "excerpt": "런닝크루 여왕벌이란 썰도 있고 여러 썰이 있긴한데 아니 근데 좀 너무 무례한거 아님? 하대하는게 익숙하다는 둥 인성 개별로인 것 같은데 코는 수술할거면 눈도 좀 하지 되게 표독스러워보임 사람이",
+      "author": "보*****",
+      "company": "서울교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-lbfiqr3n",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T02:44:16+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T17:44:28+00:00",
       "isSeed": false
     }
   ]
