@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:22:47+00:00",
+  "updatedAt": "2026-10-15T06:23:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -479541,6 +479541,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:22:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49963,
+      "source": "dc",
+      "externalId": "6588724",
+      "title": "사계 최커2 나오고 끈날듯 현커는 모르겟구",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588724&page=1",
+      "postedLabel": "15:22",
+      "postedAt": "2026-10-15T15:22:46+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:23:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49964,
+      "source": "dc",
+      "externalId": "6588725",
+      "title": "여자들은 서서싸면 어케됨?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588725&page=1",
+      "postedLabel": "15:23",
+      "postedAt": "2026-10-15T15:23:04+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:23:47+00:00",
       "isSeed": false
     }
   ]
