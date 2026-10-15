@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:29:44+00:00",
+  "updatedAt": "2026-10-15T10:30:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -499662,6 +499662,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:29:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51022,
+      "source": "dc",
+      "externalId": "6589341",
+      "title": "고수=조각방영수 하수=논산영철",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589341&page=1",
+      "postedLabel": "19:30",
+      "postedAt": "2026-10-15T19:30:04+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:30:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51023,
+      "source": "dc",
+      "externalId": "6589342",
+      "title": "영숙이는 뇌를 안거치고 말하는거냐",
+      "excerpt": "",
+      "author": "ㅋ",
+      "company": "",
+      "ip": "124.56",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589342&page=1",
+      "postedLabel": "19:30",
+      "postedAt": "2026-10-15T19:30:16+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:30:44+00:00",
       "isSeed": false
     }
   ]
