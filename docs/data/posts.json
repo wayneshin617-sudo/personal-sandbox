@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:17:34+00:00",
+  "updatedAt": "2026-10-15T13:18:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -514919,6 +514919,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T13:17:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51825,
+      "source": "dc",
+      "externalId": "6589854",
+      "title": "34영철 이새끼 어디서 튀어나왔지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589854&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-10-15T22:17:45+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:18:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51826,
+      "source": "dc",
+      "externalId": "6589855",
+      "title": "배워쓰",
+      "excerpt": "",
+      "author": "시청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589855&page=1",
+      "postedLabel": "22:18",
+      "postedAt": "2026-10-15T22:18:11+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:18:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51827,
+      "source": "dc",
+      "externalId": "6589856",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "103.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589856&page=1",
+      "postedLabel": "22:18",
+      "postedAt": "2026-10-15T22:18:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:18:34+00:00",
       "isSeed": false
     }
   ]
