@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T04:06:07+00:00",
+  "updatedAt": "2026-10-15T04:08:07+00:00",
   "posts": [
     {
       "id": 1,
@@ -466659,6 +466659,44 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-15T04:06:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49285,
+      "source": "dc",
+      "externalId": "6588295",
+      "title": "걍 공무원은 7출이라도 인기없던데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588295&page=1",
+      "postedLabel": "13:06",
+      "postedAt": "2026-10-15T13:06:57+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:08:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49286,
+      "source": "dc",
+      "externalId": "6588296",
+      "title": "아나콘다 개념글 내려갔네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588296&page=1",
+      "postedLabel": "13:07",
+      "postedAt": "2026-10-15T13:07:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:08:07+00:00",
       "isSeed": false
     }
   ]
