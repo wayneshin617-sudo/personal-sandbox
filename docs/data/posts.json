@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:38:54+00:00",
+  "updatedAt": "2026-10-15T07:39:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -486058,6 +486058,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:38:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50306,
+      "source": "dc",
+      "externalId": "6588892",
+      "title": "사는곳이 충남논산이면 연무대앞에서 갈비집이나해라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588892&page=1",
+      "postedLabel": "16:38",
+      "postedAt": "2026-10-15T16:38:55+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:39:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50307,
+      "source": "dc",
+      "externalId": "6588893",
+      "title": "이기광 닮았잖아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.139",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588893&page=1",
+      "postedLabel": "16:39",
+      "postedAt": "2026-10-15T16:39:15+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:39:54+00:00",
       "isSeed": false
     }
   ]
