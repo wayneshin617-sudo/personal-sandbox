@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:21:47+00:00",
+  "updatedAt": "2026-10-15T06:22:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -479503,6 +479503,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:21:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49961,
+      "source": "dc",
+      "externalId": "6588721",
+      "title": "현숙님 이 분 닮았는데...",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.96",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588721&page=1",
+      "postedLabel": "15:21",
+      "postedAt": "2026-10-15T15:21:43+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:22:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49962,
+      "source": "dc",
+      "externalId": "6588722",
+      "title": "상철 쟤 주먹 좀 치냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588722&page=1",
+      "postedLabel": "15:21",
+      "postedAt": "2026-10-15T15:21:51+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:22:47+00:00",
       "isSeed": false
     }
   ]
