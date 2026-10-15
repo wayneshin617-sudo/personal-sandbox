@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:56:07+00:00",
+  "updatedAt": "2026-10-15T03:57:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -466165,6 +466165,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:56:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49259,
+      "source": "dc",
+      "externalId": "6588268",
+      "title": "얼굴만 보면 옥순이",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588268&page=1",
+      "postedLabel": "12:56",
+      "postedAt": "2026-10-15T12:56:11+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:57:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49260,
+      "source": "dc",
+      "externalId": "6588269",
+      "title": "영자 보기싫은데 왜이러냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.103",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588269&page=1",
+      "postedLabel": "12:56",
+      "postedAt": "2026-10-15T12:56:44+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:57:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49261,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%E3%84%B9%E3%85%87-%EC%96%B4%EB%96%A1%ED%95%98%EB%83%90-55tcfy6m",
+      "title": "영자는 ㄹㅇ 어떡하냐",
+      "excerpt": "벌써 불쌍하다",
+      "author": "I*********",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%E3%84%B9%E3%85%87-%EC%96%B4%EB%96%A1%ED%95%98%EB%83%90-55tcfy6m",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T12:56:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T03:57:06+00:00",
       "isSeed": false
     }
   ]
