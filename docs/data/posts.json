@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T16:56:27+00:00",
+  "updatedAt": "2026-10-15T16:57:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -579367,6 +579367,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T16:56:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55217,
+      "source": "dc",
+      "externalId": "6592639",
+      "title": "남규홍 매칭률 너무 떨어진다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592639&page=1",
+      "postedLabel": "01:57",
+      "postedAt": "2026-10-16T01:57:00+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T16:57:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55218,
+      "source": "dc",
+      "externalId": "6592640",
+      "title": "미서는 초짜라 나름 찐이었는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592640&page=1",
+      "postedLabel": "01:57",
+      "postedAt": "2026-10-16T01:57:06+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T16:57:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55219,
+      "source": "dc",
+      "externalId": "6592641",
+      "title": "미공",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.52",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592641&page=1",
+      "postedLabel": "01:57",
+      "postedAt": "2026-10-16T01:57:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T16:57:28+00:00",
       "isSeed": false
     }
   ]
