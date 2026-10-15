@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:45:22+00:00",
+  "updatedAt": "2026-10-15T23:46:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -597246,6 +597246,25 @@
       "recommends": 1,
       "comments": 1,
       "firstSeenAt": "2026-10-15T23:45:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56158,
+      "source": "dc",
+      "externalId": "6593116",
+      "title": "하이닉스 경비도 못하는 인간들이 생산직을 까냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "123.200",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593116&page=1",
+      "postedLabel": "08:45",
+      "postedAt": "2026-10-16T08:45:45+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:46:22+00:00",
       "isSeed": false
     }
   ]
