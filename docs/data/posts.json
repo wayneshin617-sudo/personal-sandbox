@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:45:27+00:00",
+  "updatedAt": "2026-10-15T00:46:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -450243,6 +450243,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:45:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48421,
+      "source": "dc",
+      "externalId": "6587695",
+      "title": "엄정화 노래로 할거면 차라리 이걸로 해주지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587695&page=1",
+      "postedLabel": "09:45",
+      "postedAt": "2026-10-15T09:45:34+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:46:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48422,
+      "source": "dc",
+      "externalId": "6587696",
+      "title": "영호는 미국 학교 다녔을거 같다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587696&page=1",
+      "postedLabel": "09:45",
+      "postedAt": "2026-10-15T09:45:38+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:46:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48423,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9A%B4vs%EB%85%B8%EB%A0%A5-3ahe4zhx",
+      "title": "운vs노력",
+      "excerpt": "33기 광수가 5급공무원이라고 꺼드럭댔으면 열심히 살았구나 했을 텐데 운좋게 성과금 터진걸로 꺼드럭대니 꼴보기 싫은건가?",
+      "author": "l*********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%B4vs%EB%85%B8%EB%A0%A5-3ahe4zhx",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T09:46:16+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T00:46:27+00:00",
       "isSeed": false
     }
   ]
