@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T04:36:47+00:00",
+  "updatedAt": "2026-10-15T04:37:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -473404,6 +473404,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T04:36:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49640,
+      "source": "dc",
+      "externalId": "6588399",
+      "title": "농퀸이랑 이분은 핱시 출연 가능할듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588399&page=1",
+      "postedLabel": "13:36",
+      "postedAt": "2026-10-15T13:36:49+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:37:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49641,
+      "source": "dc",
+      "externalId": "6588400",
+      "title": "망도 거지새끼 6토막으로 분해후 까마귀 먹이로 줌",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588400&page=1",
+      "postedLabel": "13:37",
+      "postedAt": "2026-10-15T13:37:10+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:37:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49642,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%84%EA%B5%AD-%ED%8C%90%EB%8F%85%EA%B8%B0%EA%B0%80-%EB%B4%A4%EC%9D%84%EB%95%8C%EB%8A%94-%EC%98%81%EC%88%98%EA%B0%80-%EC%A7%84%EA%B5%AD%EC%9D%B4%EB%8B%A4-fggfnuwb",
+      "title": "진국 판독기가 봤을때는 영수가 진국이다",
+      "excerpt": "조용히 툭툭 도와주고 말도 센스있게 잘하네",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EA%B5%AD-%ED%8C%90%EB%8F%85%EA%B8%B0%EA%B0%80-%EB%B4%A4%EC%9D%84%EB%95%8C%EB%8A%94-%EC%98%81%EC%88%98%EA%B0%80-%EC%A7%84%EA%B5%AD%EC%9D%B4%EB%8B%A4-fggfnuwb",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T13:37:35+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T04:37:47+00:00",
       "isSeed": false
     }
   ]
