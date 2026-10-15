@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T08:26:54+00:00",
+  "updatedAt": "2026-10-15T08:27:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -488281,6 +488281,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T08:26:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50423,
+      "source": "dc",
+      "externalId": "6589010",
+      "title": "현숙 직업 알려줄게요",
+      "excerpt": "",
+      "author": "qwer",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589010&page=1",
+      "postedLabel": "17:27",
+      "postedAt": "2026-10-15T17:27:06+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:27:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50424,
+      "source": "dc",
+      "externalId": "6589011",
+      "title": "콩나물 하나도 안익어서 허연데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589011&page=1",
+      "postedLabel": "17:27",
+      "postedAt": "2026-10-15T17:27:24+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:27:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50425,
+      "source": "dc",
+      "externalId": "6589012",
+      "title": "영수 마운자로 맞으면 박해일 가능?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589012&page=1",
+      "postedLabel": "17:27",
+      "postedAt": "2026-10-15T17:27:42+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:27:54+00:00",
       "isSeed": false
     }
   ]
