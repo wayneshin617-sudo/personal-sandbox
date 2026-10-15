@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:30:54+00:00",
+  "updatedAt": "2026-10-15T07:31:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -485754,6 +485754,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T07:30:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50290,
+      "source": "dc",
+      "externalId": "6588877",
+      "title": "순자목두께 든든하다잉",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588877&page=1",
+      "postedLabel": "16:31",
+      "postedAt": "2026-10-15T16:31:03+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:31:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50291,
+      "source": "dc",
+      "externalId": "6588878",
+      "title": "외대 나와서 9급충하는 이유",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "172.225",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588878&page=1",
+      "postedLabel": "16:31",
+      "postedAt": "2026-10-15T16:31:04+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:31:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50292,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%ED%99%94%EC%9E%A5-5rrq6c0l",
+      "title": "현숙이 화장",
+      "excerpt": "어디서 배운거같지않어? 생얼이랑 느낌이 많이 다를거같애 현숙이한테 눈화장 배우고싶다 옷도 엄청 잘입음",
+      "author": "쌍**",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%ED%99%94%EC%9E%A5-5rrq6c0l",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T16:31:43+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T07:31:54+00:00",
       "isSeed": false
     }
   ]
