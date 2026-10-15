@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:52:43+00:00",
+  "updatedAt": "2026-10-15T10:53:43+00:00",
   "posts": [
     {
       "id": 1,
@@ -501106,6 +501106,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:52:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51098,
+      "source": "qoo",
+      "externalId": "4376739332",
+      "title": "광수 선마태아 조금 있는 거 같아",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376739332",
+      "postedLabel": "19:52",
+      "postedAt": "2026-10-15T19:52:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:53:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51099,
+      "source": "dc",
+      "externalId": "6589406",
+      "title": "근데 생산직남들은 진짜 다채롭게생겻네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589406&page=1",
+      "postedLabel": "19:52",
+      "postedAt": "2026-10-15T19:52:50+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:53:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51100,
+      "source": "dc",
+      "externalId": "6589407",
+      "title": "나이 쳐먹고 쉬마려는 머냐 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.27",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589407&page=1",
+      "postedLabel": "19:53",
+      "postedAt": "2026-10-15T19:53:20+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:53:43+00:00",
       "isSeed": false
     }
   ]
