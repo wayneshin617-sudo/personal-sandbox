@@ -400,7 +400,7 @@ mark {
 #jump {
   position: absolute;
   left: 50%;
-  bottom: 92px;
+  bottom: 148px;
   transform: translateX(-50%);
   border: 0;
   border-radius: 999px;
@@ -719,7 +719,7 @@ mark {
   .avatar { width: 28px; height: 28px; }
   .meta { grid-column: 3; margin-top: 0; }
   #composer { width: calc(100% - 12px); margin-bottom: 10px; }
-  #jump { bottom: 108px; }
+  #jump { bottom: 168px; }
 }
 
 @container stage (max-width: 340px) {
@@ -732,21 +732,49 @@ mark {
   .meta { grid-column: 2; margin-top: 2px; }
 }
 
+.rail-pair {
+  width: 100%;
+  margin-top: 16px;
+  border: 1px solid rgba(255, 109, 147, 0.7);
+  border-radius: 12px;
+  background: rgba(255, 109, 147, 0.16);
+  color: #ffd5e0;
+  padding: 11px 12px;
+  font-size: 14px;
+  font-weight: 750;
+  text-align: left;
+}
+
+.rail-pair[aria-pressed="true"] {
+  background: #ff6d93;
+  border-color: #ff6d93;
+  color: #1a0c12;
+}
+
 .view-tabs {
-  display: flex;
-  gap: 6px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
   flex: none;
-  padding: 14px 22px 0;
+  width: min(860px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 0 8px 10px;
 }
 
 .view-tab {
   border: 1px solid var(--line);
-  background: transparent;
-  color: var(--muted);
+  background: #171a1f;
+  color: var(--text);
   border-radius: 999px;
-  padding: 6px 12px;
-  font-size: 13px;
-  font-weight: 700;
+  padding: 11px 12px;
+  font-size: 14px;
+  font-weight: 750;
+}
+
+#tab-pair {
+  border-color: rgba(255, 109, 147, 0.7);
+  background: rgba(255, 109, 147, 0.16);
+  color: #ffd5e0;
 }
 
 .view-tab[aria-selected="true"] {
@@ -921,8 +949,9 @@ mark {
 .pair-board.focusing .pair-glow.on { opacity: 0.2; }
 
 @media (max-width: 860px) {
-  .view-tabs { padding: 10px 12px 0; }
-  .app.rail-closed .view-tabs { padding-left: 46px; }
+  .view-tabs { width: calc(100% - 12px); padding: 0 0 8px; }
+  .view-tab { padding: 10px 6px; font-size: 12px; white-space: nowrap; }
+  .rail-pair { margin-top: 12px; padding: 9px 8px; font-size: 13px; }
   #pairing { padding: 12px 10px 14px; }
   .pair-head { align-items: flex-start; flex-direction: column; gap: 8px; }
   .pair-head h2 { font-size: 22px; }

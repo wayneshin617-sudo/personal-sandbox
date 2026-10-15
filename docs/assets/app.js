@@ -1380,6 +1380,7 @@ function setStageView(name) {
   document.querySelector(".stage").classList.toggle("show-pair", pair);
   document.querySelector("#tab-feed").setAttribute("aria-selected", String(!pair));
   document.querySelector("#tab-pair").setAttribute("aria-selected", String(pair));
+  document.querySelector("#rail-pair").setAttribute("aria-pressed", String(pair));
   document.querySelector("#pairing").hidden = !pair;
   const narrow = window.matchMedia("(max-width: 860px)").matches;
   if (pair && narrow && !appEl.classList.contains("rail-closed")) {
@@ -1396,6 +1397,7 @@ function setStageView(name) {
 
 document.querySelector("#tab-feed").addEventListener("click", () => setStageView("feed"));
 document.querySelector("#tab-pair").addEventListener("click", () => setStageView("pair"));
+document.querySelector("#rail-pair").addEventListener("click", () => setStageView(document.querySelector(".stage").classList.contains("show-pair") ? "feed" : "pair"));
 pairBoard.addEventListener("pointerleave", (event) => {
   if (event.pointerType === "mouse" && !pairPinned) clearPairFocus();
 });

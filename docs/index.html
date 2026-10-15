@@ -17,6 +17,7 @@
         <p class="live"><span class="pulse"></span>LIVE</p>
         <h1><span>나는솔로</span><span>댓글 몰아보기</span></h1>
         <p class="lede">나는솔로 이야기를 한자리에 모아 둡니다.</p>
+        <button type="button" class="rail-pair" id="rail-pair" aria-pressed="false">사랑의 짝대기</button>
       </div>
 
       <dl class="figures">
@@ -63,10 +64,6 @@
     </button>
 
     <section class="stage">
-      <div class="view-tabs" role="tablist" aria-label="화면">
-        <button type="button" class="view-tab" id="tab-feed" role="tab" aria-selected="true">댓글</button>
-        <button type="button" class="view-tab" id="tab-pair" role="tab" aria-selected="false" aria-controls="pairing">사랑의 짝대기</button>
-      </div>
       <section id="pairing" hidden>
         <header class="pair-head">
           <div>
@@ -91,6 +88,10 @@
         <div id="feed" aria-live="off"></div>
       </div>
       <button id="jump" type="button" hidden>맨 아래로</button>
+      <div class="view-tabs" role="tablist" aria-label="화면">
+        <button type="button" class="view-tab" id="tab-feed" role="tab" aria-selected="true">댓글</button>
+        <button type="button" class="view-tab" id="tab-pair" role="tab" aria-selected="false" aria-controls="pairing">사랑의 짝대기</button>
+      </div>
       <form id="composer" autocomplete="off">
         <div class="chips" role="group" aria-label="게시판">
           <button type="button" class="chip" data-source="all" aria-pressed="true">전체</button>
