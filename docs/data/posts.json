@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:06:22+00:00",
+  "updatedAt": "2026-10-15T23:07:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596239,6 +596239,25 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-15T23:06:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56105,
+      "source": "dc",
+      "externalId": "6593071",
+      "title": "7옥 정병 노괴년 관종까지 된것도 개추하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593071&page=1",
+      "postedLabel": "08:07",
+      "postedAt": "2026-10-16T08:07:01+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:07:22+00:00",
       "isSeed": false
     }
   ]
