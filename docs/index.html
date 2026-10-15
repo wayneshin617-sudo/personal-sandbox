@@ -63,6 +63,30 @@
     </button>
 
     <section class="stage">
+      <div class="view-tabs" role="tablist" aria-label="화면">
+        <button type="button" class="view-tab" id="tab-feed" role="tab" aria-selected="true">댓글</button>
+        <button type="button" class="view-tab" id="tab-pair" role="tab" aria-selected="false" aria-controls="pairing">사랑의 짝대기</button>
+      </div>
+      <section id="pairing" hidden>
+        <header class="pair-head">
+          <div>
+            <p class="pair-kicker" id="pair-kicker">34기</p>
+            <h2>사랑의 짝대기</h2>
+          </div>
+          <ul class="pair-legend">
+            <li><span class="legend-line solid"></span>1순위</li>
+            <li><span class="legend-line dash"></span>관심 · 2·3지망</li>
+            <li><svg class="legend-heart" viewBox="0 0 12 12" aria-hidden="true"><path d="M6 10.2C2.6 7.6 1 6.2 1 4.1 1 2.6 2.1 1.6 3.4 1.6c.8 0 1.5.4 2 1.1.5-.7 1.2-1.1 2-1.1C8.7 1.6 10 2.6 10 4.1c0 2.1-1.6 3.5-4 6.1z"/></svg>서로 선택</li>
+          </ul>
+        </header>
+        <p class="pair-focus" id="pair-focus" hidden></p>
+        <div class="pair-board" id="pair-board">
+          <ol class="pair-col men" id="pair-men"></ol>
+          <div class="pair-gap" aria-hidden="true"></div>
+          <ol class="pair-col women" id="pair-women"></ol>
+          <svg class="pair-lines" id="pair-lines"></svg>
+        </div>
+      </section>
       <div id="scroller">
         <div id="feed" aria-live="off"></div>
       </div>

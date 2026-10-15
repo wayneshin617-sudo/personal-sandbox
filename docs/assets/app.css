@@ -732,6 +732,210 @@ mark {
   .meta { grid-column: 2; margin-top: 2px; }
 }
 
+.view-tabs {
+  display: flex;
+  gap: 6px;
+  flex: none;
+  padding: 14px 22px 0;
+}
+
+.view-tab {
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.view-tab[aria-selected="true"] {
+  background: var(--text);
+  border-color: var(--text);
+  color: #141414;
+}
+
+.stage.show-pair #scroller,
+.stage.show-pair #composer,
+.stage.show-pair #jump { display: none; }
+
+#pairing {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 18px 28px 22px;
+  overflow: auto;
+}
+
+#pairing[hidden] { display: none; }
+
+.pair-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.pair-kicker {
+  margin: 0 0 4px;
+  color: var(--faint);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.pair-head h2 {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 750;
+  letter-spacing: -0.04em;
+}
+
+.pair-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px 14px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.pair-legend li {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.legend-line {
+  width: 28px;
+  height: 0;
+  border-top: 2px solid #ffb4c8;
+}
+
+.legend-line.dash { border-top-style: dotted; border-top-width: 3px; }
+
+.legend-heart {
+  width: 13px;
+  height: 13px;
+  fill: #ff6d93;
+}
+
+.pair-focus {
+  margin: 0 0 10px;
+  min-height: 1.3em;
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 650;
+}
+
+.pair-focus[hidden] { display: none; }
+
+.pair-board {
+  position: relative;
+  flex: 1;
+  min-height: 420px;
+  display: grid;
+  grid-template-columns: minmax(190px, 300px) minmax(120px, 1fr) minmax(190px, 300px);
+  justify-content: center;
+  align-items: stretch;
+}
+
+.pair-col {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 8px;
+  z-index: 1;
+}
+
+.pair-card {
+  display: grid;
+  gap: 10px;
+  align-items: center;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: rgba(16, 18, 22, 0.92);
+  text-align: left;
+}
+
+.pair-col.men .pair-card { grid-template-columns: minmax(0, 1fr) 58px; text-align: right; }
+.pair-col.women .pair-card { grid-template-columns: 58px minmax(0, 1fr); }
+
+.pair-card img {
+  width: 58px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 12px;
+  background: #1c2128;
+}
+
+.pair-card strong {
+  display: block;
+  font-size: 16px;
+  font-weight: 750;
+  letter-spacing: -0.03em;
+}
+
+.pair-meta {
+  margin: 2px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.pair-card.dim { opacity: 0.38; }
+.pair-card.lit { border-color: rgba(255, 255, 255, 0.34); }
+
+.pair-lines {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.pair-board.focusing .pair-link,
+.pair-board.focusing .pair-heart { opacity: 0.07; }
+
+.pair-board.focusing .pair-link.on,
+.pair-board.focusing .pair-heart.on { opacity: 1; }
+
+.pair-board.focusing .pair-glow.on { opacity: 0.2; }
+
+@media (max-width: 860px) {
+  .view-tabs { padding: 10px 12px 0; }
+  .app.rail-closed .view-tabs { padding-left: 46px; }
+  #pairing { padding: 12px 10px 14px; }
+  .pair-head { align-items: flex-start; flex-direction: column; gap: 8px; }
+  .pair-head h2 { font-size: 22px; }
+  .pair-legend { justify-content: flex-start; }
+  .pair-board {
+    min-height: 520px;
+    min-width: 360px;
+    grid-template-columns: minmax(0, 1fr) 72px minmax(0, 1fr);
+  }
+  .pair-card { gap: 6px; padding: 5px; border-radius: 12px; }
+  .pair-col.men .pair-card { grid-template-columns: minmax(0, 1fr) 36px; }
+  .pair-col.women .pair-card { grid-template-columns: 36px minmax(0, 1fr); }
+  .pair-card img { width: 36px; height: 44px; border-radius: 8px; }
+  .pair-card strong { font-size: 13px; }
+  .pair-meta { font-size: 10px; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .pulse, .msg.enter { animation: none; }
 }
