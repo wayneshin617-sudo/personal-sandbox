@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:08:26+00:00",
+  "updatedAt": "2026-10-15T00:09:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -448609,6 +448609,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:08:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48335,
+      "source": "dc",
+      "externalId": "6587621",
+      "title": "이번 기수 잼있다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "125.177",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587621&page=1",
+      "postedLabel": "09:08",
+      "postedAt": "2026-10-15T09:08:19+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48336,
+      "source": "dc",
+      "externalId": "6587622",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587622&page=1",
+      "postedLabel": "09:08",
+      "postedAt": "2026-10-15T09:08:58+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48337,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%BA%BC%EB%93%9C%EB%9F%AD-gpifwmia",
+      "title": "꺼드럭",
+      "excerpt": "운좋게 입사하고 회사 잘나가서 연봉 높아진걸로 꺼드럭 대는것만큼 꼴보기 싫은게 없다",
+      "author": "l*********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%BA%BC%EB%93%9C%EB%9F%AD-gpifwmia",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T09:09:16+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T00:09:27+00:00",
       "isSeed": false
     }
   ]
