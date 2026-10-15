@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:36:27+00:00",
+  "updatedAt": "2026-10-15T00:37:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -449825,6 +449825,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:36:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48399,
+      "source": "dc",
+      "externalId": "6587675",
+      "title": "다둥이들이 성격 좋아 보임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "187.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587675&page=1",
+      "postedLabel": "09:36",
+      "postedAt": "2026-10-15T09:36:58+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:37:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48400,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-13%EB%85%84%EC%B0%A8-%EA%B0%84%ED%98%B8%EC%82%AC%EC%9D%B8%EB%8D%B0-%ED%83%9C%EC%9B%80%EA%B8%80%EC%9D%B4-%EC%97%86%EC%9D%8C-bjmfawi4",
+      "title": "순자 13년차 간호사인데 태움글이 없음",
+      "excerpt": "역대 나솔에 간호사 나올때마다 태움이슈 없었던 적이 없음 근데 순자는 하나도 안나오네 ㅋㅋㅋ 현직장은 같이 근무하니까 그럴수 있다쳐도 다른데 이직한 사람들까지 칭찬일색임 이건 둘중하나다 잡드리 빡세게 해서 말할 용기조차 나지 않게 했거나 진짜 착했거나 ㅋㅋㅋㅋ",
+      "author": "n*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-13%EB%85%84%EC%B0%A8-%EA%B0%84%ED%98%B8%EC%82%AC%EC%9D%B8%EB%8D%B0-%ED%83%9C%EC%9B%80%EA%B8%80%EC%9D%B4-%EC%97%86%EC%9D%8C-bjmfawi4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T09:37:15+09:00",
+      "views": 24,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T00:37:27+00:00",
       "isSeed": false
     }
   ]
