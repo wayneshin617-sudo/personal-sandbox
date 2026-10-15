@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:45:44+00:00",
+  "updatedAt": "2026-10-15T10:46:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -500688,6 +500688,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:45:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51076,
+      "source": "dc",
+      "externalId": "6589385",
+      "title": "34기순자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "49.171",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589385&page=1",
+      "postedLabel": "19:45",
+      "postedAt": "2026-10-15T19:45:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:46:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51077,
+      "source": "dc",
+      "externalId": "6589386",
+      "title": "나 이 표정 본적 있어",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589386&page=1",
+      "postedLabel": "19:46",
+      "postedAt": "2026-10-15T19:46:31+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:46:44+00:00",
       "isSeed": false
     }
   ]
