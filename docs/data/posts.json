@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:33:44+00:00",
+  "updatedAt": "2026-10-15T10:34:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -499909,6 +499909,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:33:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51035,
+      "source": "dc",
+      "externalId": "6589352",
+      "title": "하닉 상철 ㅋㅋㅋ 1화때 돈자랑만 햇으면 그러려니 할텐데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589352&page=1",
+      "postedLabel": "19:34",
+      "postedAt": "2026-10-15T19:34:28+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:34:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51036,
+      "source": "blind",
+      "externalId": "/kr/post/33%EA%B8%B0-%EA%B4%91%EC%88%98-%EA%B7%80%EC%97%BD%EB%8B%A4-rnmikbc4",
+      "title": "33기 광수 귀엽다",
+      "excerpt": "머리까니까 생각보다 괜찮네 사겨도 괜찮을거같은데",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/33%EA%B8%B0-%EA%B4%91%EC%88%98-%EA%B7%80%EC%97%BD%EB%8B%A4-rnmikbc4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T19:34:31+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T10:34:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51037,
+      "source": "blind",
+      "externalId": "/kr/post/34-%EC%98%A5%EC%88%9C-%EC%95%BD%EA%B0%84-%EC%96%B8%EB%9F%AD%ED%82%A4-%EC%95%84%ED%98%84-moz3o7gr",
+      "title": "34 옥순 약간 언럭키 아현",
+      "excerpt": "ㅠㅠㅠㅠㅠ",
+      "author": "g*****",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%A5%EC%88%9C-%EC%95%BD%EA%B0%84-%EC%96%B8%EB%9F%AD%ED%82%A4-%EC%95%84%ED%98%84-moz3o7gr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T19:34:32+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T10:34:44+00:00",
       "isSeed": false
     }
   ]
