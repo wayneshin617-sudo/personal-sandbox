@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T01:21:13+00:00",
+  "updatedAt": "2026-10-15T01:22:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -456703,6 +456703,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T01:21:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48761,
+      "source": "dc",
+      "externalId": "6587777",
+      "title": "대병 간호사 만날거면 19정숙만나지 ㄹㅇ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587777&page=1",
+      "postedLabel": "10:20",
+      "postedAt": "2026-10-15T10:20:54+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:22:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48762,
+      "source": "yt",
+      "externalId": "Ugywykda_XK7UfaCG-R4AaABAg",
+      "title": "무슨 느낌인가 했더니 약간 더 커뮤니티2 정재호랑 비슷하네.",
+      "excerpt": "[나는 SOLO] 34기_자기소개 전 두 여자와 대화하는 영철..! 하지만 뭔가 다른듯한 영철의 태도? // 34-11",
+      "author": "@고양이몇마리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=8jdJcSo2VN0&lc=Ugywykda_XK7UfaCG-R4AaABAg",
+      "postedLabel": "1분 전",
+      "postedAt": "2026-10-15T10:20:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:22:12+00:00",
       "isSeed": false
     }
   ]
