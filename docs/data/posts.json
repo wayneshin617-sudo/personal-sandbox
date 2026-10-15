@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T16:41:27+00:00",
+  "updatedAt": "2026-10-15T16:42:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -577923,6 +577923,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T16:41:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55141,
+      "source": "dc",
+      "externalId": "6592567",
+      "title": "삼성 틱톡 커플매칭 날아갔누",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592567&page=1",
+      "postedLabel": "01:41",
+      "postedAt": "2026-10-16T01:41:21+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T16:42:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55142,
+      "source": "dc",
+      "externalId": "6592568",
+      "title": "미서할배 어깨뽕 무슨일이야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592568&page=1",
+      "postedLabel": "01:41",
+      "postedAt": "2026-10-16T01:41:46+09:00",
+      "views": 38,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T16:42:27+00:00",
       "isSeed": false
     }
   ]
