@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:13:47+00:00",
+  "updatedAt": "2026-10-15T06:14:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -479085,6 +479085,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:13:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49939,
+      "source": "dc",
+      "externalId": "6588698",
+      "title": "영철이 왜케 싸보이냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.237",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588698&page=1",
+      "postedLabel": "15:13",
+      "postedAt": "2026-10-15T15:13:53+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:14:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49940,
+      "source": "dc",
+      "externalId": "6588699",
+      "title": "나솔 나오는 여자들 왤케 표독함???",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "203.229",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588699&page=1",
+      "postedLabel": "15:14",
+      "postedAt": "2026-10-15T15:14:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:14:47+00:00",
       "isSeed": false
     }
   ]
