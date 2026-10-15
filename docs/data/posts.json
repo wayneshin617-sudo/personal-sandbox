@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:35:54+00:00",
+  "updatedAt": "2026-10-15T07:36:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -485925,6 +485925,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:35:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50299,
+      "source": "qoo",
+      "externalId": "4376562816",
+      "title": "영숙도 의외로 수요 있을지도",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376562816",
+      "postedLabel": "16:35",
+      "postedAt": "2026-10-15T16:35:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:36:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50300,
+      "source": "dc",
+      "externalId": "6588886",
+      "title": "34기 4각 관계 예측해줌",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "110.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588886&page=1",
+      "postedLabel": "16:36",
+      "postedAt": "2026-10-15T16:36:21+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:36:54+00:00",
       "isSeed": false
     }
   ]
