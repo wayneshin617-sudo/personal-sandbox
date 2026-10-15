@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:00:46+00:00",
+  "updatedAt": "2026-10-15T09:01:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -490333,6 +490333,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:00:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50531,
+      "source": "dc",
+      "externalId": "6589113",
+      "title": "영수 현숙 순위에 없는건 지가 감당못할스탈같으니까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.172",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589113&page=1",
+      "postedLabel": "18:01",
+      "postedAt": "2026-10-15T18:01:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:01:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50532,
+      "source": "dc",
+      "externalId": "6589114",
+      "title": "마술사 33영호 34기에서 어느정도 인기남 가능하다고 봄?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589114&page=1",
+      "postedLabel": "18:01",
+      "postedAt": "2026-10-15T18:01:37+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:01:54+00:00",
       "isSeed": false
     }
   ]
