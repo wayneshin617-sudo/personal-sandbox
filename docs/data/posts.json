@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:17:28+00:00",
+  "updatedAt": "2026-10-15T18:21:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -582825,6 +582825,25 @@
       "recommends": 1,
       "comments": 1,
       "firstSeenAt": "2026-10-15T18:17:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55399,
+      "source": "dc",
+      "externalId": "6592819",
+      "title": "미서 이해되는게 조섹츤 무리에 끼면 현타 안옴?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592819&page=1",
+      "postedLabel": "03:20",
+      "postedAt": "2026-10-16T03:20:37+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:21:28+00:00",
       "isSeed": false
     }
   ]
