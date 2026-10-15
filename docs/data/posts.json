@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:32:22+00:00",
+  "updatedAt": "2026-10-15T23:33:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596980,6 +596980,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T23:32:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56144,
+      "source": "dc",
+      "externalId": "6593104",
+      "title": "영원히 꺼져 7옥 노괴년아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593104&page=1",
+      "postedLabel": "08:32",
+      "postedAt": "2026-10-16T08:32:49+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:33:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56145,
+      "source": "dc",
+      "externalId": "6593105",
+      "title": "울 나라 선진국 맞는거 같애.",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "183.96",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593105&page=1",
+      "postedLabel": "08:33",
+      "postedAt": "2026-10-16T08:33:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:33:22+00:00",
       "isSeed": false
     }
   ]
