@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T01:43:06+00:00",
+  "updatedAt": "2026-10-15T01:44:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -457919,6 +457919,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T01:43:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48825,
+      "source": "dc",
+      "externalId": "6587833",
+      "title": "근데 영철 공무원인게 이렇게 욕쳐먹을만한 일임???",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587833&page=1",
+      "postedLabel": "10:43",
+      "postedAt": "2026-10-15T10:43:28+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:44:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48826,
+      "source": "dc",
+      "externalId": "6587835",
+      "title": "상철이 거드럭대는태도 마누라 나중 팰수도",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.99",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587835&page=1",
+      "postedLabel": "10:43",
+      "postedAt": "2026-10-15T10:43:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:44:06+00:00",
       "isSeed": false
     }
   ]
