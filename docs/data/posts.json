@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T15:47:27+00:00",
+  "updatedAt": "2026-10-15T15:48:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -566846,6 +566846,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T15:47:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 54558,
+      "source": "qoo",
+      "externalId": "4377032500",
+      "title": "사계 라방 보는거 처음임",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4377032500",
+      "postedLabel": "00:47",
+      "postedAt": "2026-10-16T00:47:00+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T15:48:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 54559,
+      "source": "dc",
+      "externalId": "6592057",
+      "title": "이제 라방켰는데 옥순 상의만보고 오늘은 정상적이네 했는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "218.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592057&page=1",
+      "postedLabel": "00:47",
+      "postedAt": "2026-10-16T00:47:29+09:00",
+      "views": 58,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T15:48:27+00:00",
       "isSeed": false
     }
   ]
