@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:55:54+00:00",
+  "updatedAt": "2026-10-15T07:56:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -486932,6 +486932,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:55:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50352,
+      "source": "dc",
+      "externalId": "6588939",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "89.33",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588939&page=1",
+      "postedLabel": "16:56",
+      "postedAt": "2026-10-15T16:56:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:56:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50353,
+      "source": "dc",
+      "externalId": "6588940",
+      "title": "나는솔로 여자한의사 미모대결",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588940&page=1",
+      "postedLabel": "16:56",
+      "postedAt": "2026-10-15T16:56:13+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:56:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50354,
+      "source": "dc",
+      "externalId": "6588941",
+      "title": "여자는 멋모르는 여자가 최고다",
+      "excerpt": "",
+      "author": "ㅇㅅㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588941&page=1",
+      "postedLabel": "16:56",
+      "postedAt": "2026-10-15T16:56:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:56:54+00:00",
       "isSeed": false
     }
   ]
