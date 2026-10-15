@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:39:44+00:00",
+  "updatedAt": "2026-10-15T10:40:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -500327,6 +500327,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T10:39:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51057,
+      "source": "dc",
+      "externalId": "6589370",
+      "title": "영철은 대화를 잘 이끄는거 같은데 왜이렇게 술집 바이브임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589370&page=1",
+      "postedLabel": "19:39",
+      "postedAt": "2026-10-15T19:39:32+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:40:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51058,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0-%EC%95%84%EC%A7%81-%EC%84%B1%EA%B3%BC%EA%B8%89-%EB%AA%87%EC%96%B5-%EB%AA%BB%EB%B0%9B%EC%9D%80%EA%B1%B0-%EC%95%84%EB%8B%98-r42b5d5t",
+      "title": "상철 아직 성과급 몇억 못받은거 아님?",
+      "excerpt": "생산직 따리 그동안해봤자 원천 일억정도씩밖에 못받았을거 같은데 누가보면 매년5억씩 받았는줄 알겠네",
+      "author": "m*****",
+      "company": "SK텔레콤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%95%84%EC%A7%81-%EC%84%B1%EA%B3%BC%EA%B8%89-%EB%AA%87%EC%96%B5-%EB%AA%BB%EB%B0%9B%EC%9D%80%EA%B1%B0-%EC%95%84%EB%8B%98-r42b5d5t",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T19:40:32+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T10:40:44+00:00",
       "isSeed": false
     }
   ]
