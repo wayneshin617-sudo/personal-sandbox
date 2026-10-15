@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:25:54+00:00",
+  "updatedAt": "2026-10-15T07:27:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -485583,6 +485583,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:25:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50281,
+      "source": "dc",
+      "externalId": "6588868",
+      "title": "와동안이다 ㅇㅈㄹ하는거 진심임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588868&page=1",
+      "postedLabel": "16:26",
+      "postedAt": "2026-10-15T16:26:45+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T07:27:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50282,
+      "source": "dc",
+      "externalId": "6588869",
+      "title": "니들은 음흉도사람이랑 사귀지마라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588869&page=1",
+      "postedLabel": "16:26",
+      "postedAt": "2026-10-15T16:26:50+09:00",
+      "views": 11,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:27:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50283,
+      "source": "dc",
+      "externalId": "6588871",
+      "title": "지금 콩나물국 보고 있는데 ㅋㅋ 간마늘은? 요리할줄아는거맞아?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588871&page=1",
+      "postedLabel": "16:27",
+      "postedAt": "2026-10-15T16:27:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:27:54+00:00",
       "isSeed": false
     }
   ]
