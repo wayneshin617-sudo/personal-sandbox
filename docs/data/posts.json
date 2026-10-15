@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:01:28+00:00",
+  "updatedAt": "2026-10-15T18:02:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -582331,6 +582331,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T18:01:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55373,
+      "source": "dc",
+      "externalId": "6592794",
+      "title": "미서 미조 이렇게 보내긴 아까워",
+      "excerpt": "",
+      "author": "■x",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592794&page=1",
+      "postedLabel": "03:02",
+      "postedAt": "2026-10-16T03:02:13+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:02:28+00:00",
       "isSeed": false
     }
   ]
