@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T08:13:53+00:00",
+  "updatedAt": "2026-10-15T08:14:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -487711,6 +487711,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T08:13:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50393,
+      "source": "dc",
+      "externalId": "6588978",
+      "title": "와 술상 뒤집어질뻔햇네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588978&page=1",
+      "postedLabel": "17:14",
+      "postedAt": "2026-10-15T17:14:17+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:14:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50394,
+      "source": "dc",
+      "externalId": "6588979",
+      "title": "34영숙 보니까 20영숙 닮음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "183.100",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588979&page=1",
+      "postedLabel": "17:14",
+      "postedAt": "2026-10-15T17:14:21+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:14:53+00:00",
       "isSeed": false
     }
   ]
