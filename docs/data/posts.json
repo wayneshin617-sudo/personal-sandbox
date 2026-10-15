@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:14:54+00:00",
+  "updatedAt": "2026-10-15T09:15:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -490998,6 +490998,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:14:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50566,
+      "source": "dc",
+      "externalId": "6589149",
+      "title": "34영숙은 관상이 16기 영숙 그 자체던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.47",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589149&page=1",
+      "postedLabel": "18:14",
+      "postedAt": "2026-10-15T18:14:54+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:15:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50567,
+      "source": "dc",
+      "externalId": "6589150",
+      "title": "뭐냐 첫등장때 분명 현숙이가 압살이었던거 같은데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589150&page=1",
+      "postedLabel": "18:15",
+      "postedAt": "2026-10-15T18:15:09+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:15:54+00:00",
       "isSeed": false
     }
   ]
