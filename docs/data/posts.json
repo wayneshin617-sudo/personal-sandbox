@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:28:27+00:00",
+  "updatedAt": "2026-10-15T00:29:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -449369,6 +449369,25 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-15T00:28:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48375,
+      "source": "dc",
+      "externalId": "6587657",
+      "title": "남피디 34영숙보면서 14영숙 떠올린듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587657&page=1",
+      "postedLabel": "09:28",
+      "postedAt": "2026-10-15T09:28:57+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:29:27+00:00",
       "isSeed": false
     }
   ]
