@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:32:06+00:00",
+  "updatedAt": "2026-10-15T03:33:07+00:00",
   "posts": [
     {
       "id": 1,
@@ -465101,6 +465101,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:32:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49203,
+      "source": "qoo",
+      "externalId": "4376344168",
+      "title": "현숙님 원지안 느낌있어",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376344168",
+      "postedLabel": "12:32",
+      "postedAt": "2026-10-15T12:32:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:33:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49204,
+      "source": "dc",
+      "externalId": "6588213",
+      "title": "34영철 영자가 31경순보단 훨 어울려",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588213&page=1",
+      "postedLabel": "12:32",
+      "postedAt": "2026-10-15T12:32:25+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:33:07+00:00",
       "isSeed": false
     }
   ]
