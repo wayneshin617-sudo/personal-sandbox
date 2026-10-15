@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:13:27+00:00",
+  "updatedAt": "2026-10-15T00:16:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -448799,6 +448799,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T00:13:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48345,
+      "source": "dc",
+      "externalId": "6587629",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587629&page=1",
+      "postedLabel": "09:15",
+      "postedAt": "2026-10-15T09:15:25+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:16:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48346,
+      "source": "dc",
+      "externalId": "6587630",
+      "title": "사람들 보는눈 다 똑같노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587630&page=1",
+      "postedLabel": "09:15",
+      "postedAt": "2026-10-15T09:15:38+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:16:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48347,
+      "source": "dc",
+      "externalId": "6587631",
+      "title": "쉬 플러팅에 넘어가는 남자 많겠지??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "203.229",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587631&page=1",
+      "postedLabel": "09:16",
+      "postedAt": "2026-10-15T09:16:01+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:16:27+00:00",
       "isSeed": false
     }
   ]
