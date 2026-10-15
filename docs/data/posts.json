@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:45:53+00:00",
+  "updatedAt": "2026-10-15T07:46:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -486438,6 +486438,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:45:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50326,
+      "source": "dc",
+      "externalId": "6588911",
+      "title": "념글보고 34기 영수 발언 재조명",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588911&page=1",
+      "postedLabel": "16:45",
+      "postedAt": "2026-10-15T16:45:46+09:00",
+      "views": 30,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:46:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50327,
+      "source": "dc",
+      "externalId": "6588912",
+      "title": "현숙 첫인상 영수 고른거 어케 해석해야되냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588912&page=1",
+      "postedLabel": "16:46",
+      "postedAt": "2026-10-15T16:46:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:46:54+00:00",
       "isSeed": false
     }
   ]
