@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:03:34+00:00",
+  "updatedAt": "2026-10-15T13:04:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -514292,6 +514292,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T13:03:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51792,
+      "source": "dc",
+      "externalId": "6589826",
+      "title": "아산병원 13년차ㅋㅋ ㅅㅂ남자들 다 들이대겠노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589826&page=1",
+      "postedLabel": "22:03",
+      "postedAt": "2026-10-15T22:03:41+09:00",
+      "views": 25,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:04:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51793,
+      "source": "dc",
+      "externalId": "6589827",
+      "title": "아산병원 간호면 거의 의사급임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589827&page=1",
+      "postedLabel": "22:04",
+      "postedAt": "2026-10-15T22:04:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:04:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51794,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90-%EC%9B%83%EC%9D%84-%EB%95%8C-%EB%84%88%EB%AC%B4-%EB%AC%B4%EC%84%9C%EC%9B%8C-2utdg8bs",
+      "title": "영자 웃을 때 너무 무서워",
+      "excerpt": "남출 자기소개할 때 영자 웃던데, 설명하기 애매한 포인트가 있어",
+      "author": "!********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90-%EC%9B%83%EC%9D%84-%EB%95%8C-%EB%84%88%EB%AC%B4-%EB%AC%B4%EC%84%9C%EC%9B%8C-2utdg8bs",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T22:04:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T13:04:34+00:00",
       "isSeed": false
     }
   ]
