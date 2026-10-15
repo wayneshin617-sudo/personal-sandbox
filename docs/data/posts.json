@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:34:26+00:00",
+  "updatedAt": "2026-10-15T00:35:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -449692,6 +449692,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T00:34:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48392,
+      "source": "qoo",
+      "externalId": "4376180486",
+      "title": "영철 왜케 부담스럽지",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376180486",
+      "postedLabel": "09:34",
+      "postedAt": "2026-10-15T09:34:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:35:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48393,
+      "source": "dc",
+      "externalId": "6587669",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "212.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587669&page=1",
+      "postedLabel": "09:34",
+      "postedAt": "2026-10-15T09:34:34+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:35:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48394,
+      "source": "dc",
+      "externalId": "6587670",
+      "title": "갤 존나 웃긴게 글은 다 영철 까는글인데 비추만 꾸준히 찍혀있음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587670&page=1",
+      "postedLabel": "09:35",
+      "postedAt": "2026-10-15T09:35:13+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:35:26+00:00",
       "isSeed": false
     }
   ]
