@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T21:28:22+00:00",
+  "updatedAt": "2026-10-15T21:29:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -594263,6 +594263,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T21:28:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56001,
+      "source": "dc",
+      "externalId": "6592972",
+      "title": "미조할배 드뎌 인스타 오픈했다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592972&page=1",
+      "postedLabel": "06:28",
+      "postedAt": "2026-10-16T06:28:33+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T21:29:22+00:00",
       "isSeed": false
     }
   ]
