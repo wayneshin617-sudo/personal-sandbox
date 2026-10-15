@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:51:54+00:00",
+  "updatedAt": "2026-10-15T07:52:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -486780,6 +486780,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:51:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50344,
+      "source": "dc",
+      "externalId": "6588930",
+      "title": "한의사 비율 좋네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.139",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588930&page=1",
+      "postedLabel": "16:51",
+      "postedAt": "2026-10-15T16:51:54+09:00",
+      "views": 21,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:52:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50345,
+      "source": "dc",
+      "externalId": "6588931",
+      "title": "현숙이 키우는 반려견",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588931&page=1",
+      "postedLabel": "16:52",
+      "postedAt": "2026-10-15T16:52:25+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:52:54+00:00",
       "isSeed": false
     }
   ]
