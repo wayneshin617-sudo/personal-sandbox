@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:07:54+00:00",
+  "updatedAt": "2026-10-15T07:08:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -484747,6 +484747,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:07:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50237,
+      "source": "dc",
+      "externalId": "6588825",
+      "title": "너네들 대학교 다닐때 좋아하는 동기 영철이같은 애들한테 뺏김?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.243",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588825&page=1",
+      "postedLabel": "16:08",
+      "postedAt": "2026-10-15T16:08:28+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:08:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50238,
+      "source": "dc",
+      "externalId": "6588826",
+      "title": "사고당했을때 수의사 vs 한의사 vs 치과의사. 누구고름?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588826&page=1",
+      "postedLabel": "16:08",
+      "postedAt": "2026-10-15T16:08:32+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:08:54+00:00",
       "isSeed": false
     }
   ]
