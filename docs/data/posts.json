@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:02:46+00:00",
+  "updatedAt": "2026-10-15T06:03:46+00:00",
   "posts": [
     {
       "id": 1,
@@ -478496,6 +478496,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:02:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49908,
+      "source": "dc",
+      "externalId": "6588666",
+      "title": "1층에 화장실도 없는 숙소잡은 꼬라지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588666&page=1",
+      "postedLabel": "15:02",
+      "postedAt": "2026-10-15T15:02:50+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:03:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49909,
+      "source": "dc",
+      "externalId": "6588668",
+      "title": "현숙 존똑",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588668&page=1",
+      "postedLabel": "15:03",
+      "postedAt": "2026-10-15T15:03:08+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:03:46+00:00",
       "isSeed": false
     }
   ]
