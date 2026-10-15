@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:22:54+00:00",
+  "updatedAt": "2026-10-15T07:23:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -485488,6 +485488,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:22:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50276,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-VS-5%EA%B8%89-%EA%B3%B5%EB%AC%B4%EC%9B%90-VS-%EB%B3%80%ED%98%B8%EC%82%AC-VS-%EC%9D%98%EC%82%AC-ewwy5dpo",
+      "title": "투표글 하이닉스 VS 5급 공무원 VS 변호사 VS 의사 투표",
+      "excerpt": "나는 무조건 하이닉스 20억이다.",
+      "author": "·*********",
+      "company": "한화솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-VS-5%EA%B8%89-%EA%B3%B5%EB%AC%B4%EC%9B%90-VS-%EB%B3%80%ED%98%B8%EC%82%AC-VS-%EC%9D%98%EC%82%AC-ewwy5dpo",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T16:23:42+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": 3,
+      "firstSeenAt": "2026-10-15T07:23:54+00:00",
       "isSeed": false
     }
   ]
