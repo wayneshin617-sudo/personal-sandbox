@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T23:02:22+00:00",
+  "updatedAt": "2026-10-15T23:03:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596144,6 +596144,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T23:02:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56100,
+      "source": "dc",
+      "externalId": "6593067",
+      "title": "도태남은 7옥한테 왜케 열폭함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593067&page=1",
+      "postedLabel": "08:02",
+      "postedAt": "2026-10-16T08:02:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T23:03:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56101,
+      "source": "dc",
+      "externalId": "6593068",
+      "title": "사계 늙다리들 언급할 일 없겠네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593068&page=1",
+      "postedLabel": "08:02",
+      "postedAt": "2026-10-16T08:02:42+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T23:03:22+00:00",
       "isSeed": false
     }
   ]
