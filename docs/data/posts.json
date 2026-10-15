@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:51:27+00:00",
+  "updatedAt": "2026-10-15T00:52:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -450528,6 +450528,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:51:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48436,
+      "source": "dc",
+      "externalId": "6587709",
+      "title": "영철 나올때마다 자막에 연애20회 뜨는거",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587709&page=1",
+      "postedLabel": "09:51",
+      "postedAt": "2026-10-15T09:51:34+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:52:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48437,
+      "source": "dc",
+      "externalId": "6587710",
+      "title": "레이디가가 노래도 틀딱이었는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587710&page=1",
+      "postedLabel": "09:52",
+      "postedAt": "2026-10-15T09:52:02+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:52:27+00:00",
       "isSeed": false
     }
   ]
