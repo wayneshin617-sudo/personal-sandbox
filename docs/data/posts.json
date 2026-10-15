@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:30:27+00:00",
+  "updatedAt": "2026-10-15T00:31:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -449445,6 +449445,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:30:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48379,
+      "source": "dc",
+      "externalId": "6587661",
+      "title": "딱 입만 산 새끼=영철",
+      "excerpt": "",
+      "author": "누자베스",
+      "company": "",
+      "ip": "125.248",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587661&page=1",
+      "postedLabel": "09:30",
+      "postedAt": "2026-10-15T09:30:20+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:31:27+00:00",
       "isSeed": false
     }
   ]
