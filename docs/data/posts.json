@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T08:06:55+00:00",
+  "updatedAt": "2026-10-15T08:07:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -487407,6 +487407,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T08:06:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50377,
+      "source": "dc",
+      "externalId": "6588962",
+      "title": "먼 콩나물국이여 왕뚜껑컵라면이나 쳐먹어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588962&page=1",
+      "postedLabel": "17:06",
+      "postedAt": "2026-10-15T17:06:56+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:07:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50378,
+      "source": "dc",
+      "externalId": "6588963",
+      "title": "이거 지도 영호한테서 현숙 지우려고 이러는거자나",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588963&page=1",
+      "postedLabel": "17:07",
+      "postedAt": "2026-10-15T17:07:27+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T08:07:53+00:00",
       "isSeed": false
     }
   ]
