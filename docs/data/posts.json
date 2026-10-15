@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:28:29+00:00",
+  "updatedAt": "2026-10-15T17:29:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -581134,6 +581134,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:28:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55310,
+      "source": "dc",
+      "externalId": "6592730",
+      "title": "미서는 다시 안 나올거래",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592730&page=1",
+      "postedLabel": "02:28",
+      "postedAt": "2026-10-16T02:28:33+09:00",
+      "views": 24,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:29:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55311,
+      "source": "dc",
+      "externalId": "6592731",
+      "title": "미조가 라방에서 말 계속 더듬은 이유",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592731&page=1",
+      "postedLabel": "02:28",
+      "postedAt": "2026-10-16T02:28:36+09:00",
+      "views": 24,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:29:29+00:00",
       "isSeed": false
     }
   ]
