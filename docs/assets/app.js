@@ -1137,12 +1137,13 @@ function pairPerson(id) {
 }
 
 function pairFacts(person) {
-  const bits = [];
-  if (person.year) bits.push(`${person.year}년생`);
-  if (person.job) bits.push(person.job);
-  if (person.hobby) bits.push(person.hobby);
-  else if (person.note) bits.push(person.note);
-  return bits;
+  const rows = [
+    ["나이", person.year ? `${person.year}년생` : ""],
+    ["직업", person.job || ""],
+    ["취미", person.hobby || ""],
+  ];
+  if (person.note) rows.push(["가족", person.note]);
+  return rows.map(([label, value]) => ({ label, value: value || "비공개", secret: !value }));
 }
 
 function pairCard(person, side) {
@@ -1158,11 +1159,18 @@ function pairCard(person, side) {
   name.textContent = person.name;
   const meta = document.createElement("span");
   meta.className = "pair-meta";
-  meta.textContent = pairFacts(person).join("\n");
-  meta.style.whiteSpace = "pre-line";
+  for (const row of pairFacts(person)) {
+    const line = document.createElement("span");
+    line.className = "pair-row";
+    const value = document.createElement("span");
+    value.textContent = row.value;
+    if (row.secret) value.className = "pair-secret";
+    line.append(`${row.label}: `, value);
+    meta.append(line);
+  }
   copy.append(name, meta);
   button.append(side === "men" ? copy : photo, side === "men" ? photo : copy);
-  const detail = [person.year ? `${person.year}년생` : "", person.job, person.hobby, person.note].filter(Boolean).join(" · ");
+  const detail = pairFacts(person).map((row) => `${row.label}: ${row.value}`).join(" · ");
   if (detail) button.title = detail;
   button.addEventListener("click", () => pinPair(person.id));
   button.addEventListener("pointerenter", (event) => {
@@ -1236,8 +1244,8 @@ function drawPairLines() {
     const a = from.getBoundingClientRect();
     const b = to.getBoundingClientRect();
     const fromLeft = a.left < b.left;
-    const y1 = a.top + a.height / 2 - board.top + link.fromLane * 7;
-    const y2 = b.top + b.height / 2 - board.top + link.toLane * 7;
+    const y1 = a.top + a.height / 2 - board.top + link.fromLane * 10;
+    const y2 = b.top + b.height / 2 - board.top + link.toLane * 10;
     const x1 = fromLeft ? a.right - board.left + 3 : a.left - board.left - 3;
     const x2 = fromLeft ? b.left - board.left - 11 : b.right - board.left + 11;
     const c1x = x1 + (x2 - x1) * 0.38;
@@ -1257,14 +1265,14 @@ function drawPairLines() {
     path.setAttribute("class", "pair-link");
     if (solid) {
       const glow = path.cloneNode();
-      glow.setAttribute("stroke-width", "7");
-      glow.setAttribute("opacity", "0.16");
+      glow.setAttribute("stroke-width", "3.2");
+      glow.setAttribute("opacity", "0.18");
       glow.setAttribute("class", "pair-link pair-glow");
       pairLines.append(glow);
-      path.setAttribute("stroke-width", "2.35");
+      path.setAttribute("stroke-width", "1.25");
     } else {
-      path.setAttribute("stroke-width", "2.1");
-      path.setAttribute("stroke-dasharray", "0.1 6.5");
+      path.setAttribute("stroke-width", "1.15");
+      path.setAttribute("stroke-dasharray", "0.1 5.2");
     }
     const fromName = pairPerson(link.from)?.name || "";
     const toName = pairPerson(link.to)?.name || "";
@@ -1278,8 +1286,8 @@ function drawPairLines() {
     const ux = dx / len;
     const uy = dy / len;
     const head = document.createElementNS(svgNS, "polygon");
-    const size = 6.5;
-    const wing = 3.4;
+    const size = 4.4;
+    const wing = 2.15;
     head.setAttribute("points", [
       `${x2},${y2}`,
       `${x2 - ux * size + -uy * wing},${y2 - uy * size + ux * wing}`,

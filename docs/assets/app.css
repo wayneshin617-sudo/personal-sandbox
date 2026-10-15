@@ -815,10 +815,10 @@ mark {
 .legend-line {
   width: 28px;
   height: 0;
-  border-top: 2px solid #ffb4c8;
+  border-top: 1.25px solid #ffb4c8;
 }
 
-.legend-line.dash { border-top-style: dotted; border-top-width: 3px; }
+.legend-line.dash { border-top-style: dotted; border-top-width: 1.75px; }
 
 .legend-heart {
   width: 13px;
@@ -888,12 +888,16 @@ mark {
 }
 
 .pair-meta {
+  display: flex;
+  flex-direction: column;
   margin: 2px 0 0;
   color: var(--muted);
   font-size: 12px;
   line-height: 1.35;
   font-weight: 600;
 }
+
+.pair-secret { color: var(--faint); }
 
 .pair-card.dim { opacity: 0.38; }
 .pair-card.lit { border-color: rgba(255, 255, 255, 0.34); }
