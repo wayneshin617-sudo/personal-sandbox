@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:39:54+00:00",
+  "updatedAt": "2026-10-15T07:40:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -486096,6 +486096,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:39:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50308,
+      "source": "dc",
+      "externalId": "6588894",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588894&page=1",
+      "postedLabel": "16:40",
+      "postedAt": "2026-10-15T16:40:26+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:40:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50309,
+      "source": "dc",
+      "externalId": "6588895",
+      "title": "난 옥순이 찜",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588895&page=1",
+      "postedLabel": "16:40",
+      "postedAt": "2026-10-15T16:40:34+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:40:54+00:00",
       "isSeed": false
     }
   ]
