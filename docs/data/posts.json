@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:26:06+00:00",
+  "updatedAt": "2026-10-15T03:27:05+00:00",
   "posts": [
     {
       "id": 1,
@@ -464759,6 +464759,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:26:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49185,
+      "source": "dc",
+      "externalId": "6588193",
+      "title": "순자랑 영호 응원해본다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588193&page=1",
+      "postedLabel": "12:26",
+      "postedAt": "2026-10-15T12:26:13+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:27:05+00:00",
       "isSeed": false
     }
   ]
