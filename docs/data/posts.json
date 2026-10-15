@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T20:01:26+00:00",
+  "updatedAt": "2026-10-15T20:02:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -589779,6 +589779,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T20:01:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55765,
+      "source": "dc",
+      "externalId": "6592917",
+      "title": "나솔사계 다음주에 외국인특집이누? 개웃기네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.108",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592917&page=1",
+      "postedLabel": "05:02",
+      "postedAt": "2026-10-16T05:02:01+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:02:25+00:00",
       "isSeed": false
     }
   ]
