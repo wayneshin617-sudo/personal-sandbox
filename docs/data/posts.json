@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T19:01:25+00:00",
+  "updatedAt": "2026-10-15T19:03:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -588658,6 +588658,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-15T19:01:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55706,
+      "source": "dc",
+      "externalId": "6592861",
+      "title": "외국인특집 여출들도 40대일듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592861&page=1",
+      "postedLabel": "04:02",
+      "postedAt": "2026-10-16T04:02:39+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T19:03:27+00:00",
       "isSeed": false
     }
   ]
