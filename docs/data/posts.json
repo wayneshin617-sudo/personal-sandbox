@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:08:47+00:00",
+  "updatedAt": "2026-10-15T06:09:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -478876,6 +478876,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T06:08:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49928,
+      "source": "dc",
+      "externalId": "6588686",
+      "title": "블라이 이미 영숙이 나이 공개됏자나",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588686&page=1",
+      "postedLabel": "15:09",
+      "postedAt": "2026-10-15T15:09:03+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:09:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49929,
+      "source": "dc",
+      "externalId": "6588687",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "79.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588687&page=1",
+      "postedLabel": "15:09",
+      "postedAt": "2026-10-15T15:09:27+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:09:47+00:00",
       "isSeed": false
     }
   ]
