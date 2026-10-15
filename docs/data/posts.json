@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T01:05:28+00:00",
+  "updatedAt": "2026-10-15T01:06:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -451022,6 +451022,44 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-15T01:05:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48462,
+      "source": "dc",
+      "externalId": "6587732",
+      "title": "옥순이는 암만 검색해도 뭐가 안나오네ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587732&page=1",
+      "postedLabel": "10:05",
+      "postedAt": "2026-10-15T10:05:58+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:06:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48463,
+      "source": "dc",
+      "externalId": "6587733",
+      "title": "근데 모쏠보다가 보니깐 34기 잼나는뎅ㅎㅎㅎ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.218",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587733&page=1",
+      "postedLabel": "10:06",
+      "postedAt": "2026-10-15T10:06:02+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:06:27+00:00",
       "isSeed": false
     }
   ]
