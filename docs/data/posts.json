@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T06:42:47+00:00",
+  "updatedAt": "2026-10-15T06:43:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -480453,6 +480453,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T06:42:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50011,
+      "source": "dc",
+      "externalId": "6588774",
+      "title": "담주 현숙선택 백퍼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588774&page=1",
+      "postedLabel": "15:43",
+      "postedAt": "2026-10-15T15:43:08+09:00",
+      "views": 11,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:43:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50012,
+      "source": "dc",
+      "externalId": "6588775",
+      "title": "남자새끼가 왜 앉아서 오줌을싸냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588775&page=1",
+      "postedLabel": "15:43",
+      "postedAt": "2026-10-15T15:43:28+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T06:43:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50013,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98%EB%9E%91-%EC%98%81%EC%9E%90%EB%8A%94-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80%EA%B0%80-%EC%9E%98-%EC%95%88%EB%90%98%EB%84%A4-sptl3kqs",
+      "title": "광수랑 영자는 메타인지가 잘 안되네",
+      "excerpt": "0표일거 모든 사람들이 예상했는데 본인들만 못받아들이네ㅋㅋ 사실 그 둘이 짝궁으로 딱 맞는데 서로가 자신이 위라고 생각할듯ㅋㅋㅋ",
+      "author": "a****",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%9E%91-%EC%98%81%EC%9E%90%EB%8A%94-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80%EA%B0%80-%EC%9E%98-%EC%95%88%EB%90%98%EB%84%A4-sptl3kqs",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T15:43:35+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T06:43:47+00:00",
       "isSeed": false
     }
   ]
