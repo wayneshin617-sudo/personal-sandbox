@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T19:06:26+00:00",
+  "updatedAt": "2026-10-15T19:07:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -588791,6 +588791,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T19:06:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55713,
+      "source": "dc",
+      "externalId": "6592867",
+      "title": "영자 미서 뒷구멍으로 만날려고 밑밥깜",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592867&page=1",
+      "postedLabel": "04:06",
+      "postedAt": "2026-10-16T04:06:19+09:00",
+      "views": 8,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T19:07:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55714,
+      "source": "dc",
+      "externalId": "6592868",
+      "title": "진짜 7옥이 미서 선택안해서 삐진거였다니",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592868&page=1",
+      "postedLabel": "04:06",
+      "postedAt": "2026-10-16T04:06:58+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T19:07:26+00:00",
       "isSeed": false
     }
   ]
