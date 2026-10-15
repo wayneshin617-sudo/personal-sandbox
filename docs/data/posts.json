@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T22:18:21+00:00",
+  "updatedAt": "2026-10-15T22:22:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -595080,6 +595080,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T22:18:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56044,
+      "source": "dc",
+      "externalId": "6593015",
+      "title": "국화 맘에 들려면 어느정도 해야하냐? ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "joker",
+      "company": "",
+      "ip": "119.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593015&page=1",
+      "postedLabel": "07:21",
+      "postedAt": "2026-10-16T07:21:52+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:22:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56045,
+      "source": "dc",
+      "externalId": "6593016",
+      "title": "미공 지랄 염병 다 떨고 차였네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593016&page=1",
+      "postedLabel": "07:22",
+      "postedAt": "2026-10-16T07:22:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:22:22+00:00",
       "isSeed": false
     }
   ]
