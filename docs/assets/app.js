@@ -1065,6 +1065,7 @@ function setRailOpen(open) {
   appEl.classList.toggle("rail-closed", !open);
   railToggle.setAttribute("aria-expanded", String(open));
   document.querySelector("#rail-toggle-label").textContent = open ? "옆 화면 접기" : "옆 화면 열기";
+  document.dispatchEvent(new Event("board-chrome"));
 }
 railToggle.addEventListener("click", () => setRailOpen(appEl.classList.contains("rail-closed")));
 
@@ -1264,6 +1265,7 @@ function pairCard(person) {
   name.textContent = person.name;
   button.append(photo, name);
   button.addEventListener("pointerenter", (event) => {
+    if (document.documentElement.classList.contains("mobile")) return;
     if (event.pointerType !== "mouse") return;
     showPairPop(person.id);
     highlightPairLines(person.id);
@@ -1324,7 +1326,8 @@ function pokeCard(person) {
   const frame = document.createElement("div");
   frame.className = "poke-photo";
   const img = document.createElement("img");
-  img.src = new URL(person.photo, document.baseURI).href;
+  const portrait = document.documentElement.classList.contains("mobile") && person.bust ? person.bust : person.photo;
+  img.src = new URL(portrait, document.baseURI).href;
   img.alt = "";
   frame.append(img);
   const moves = document.createElement("div");
@@ -1370,6 +1373,7 @@ function renderPairing(data) {
   document.querySelector("#poke-grid").replaceChildren(...pairPeople().map(pokeCard));
   pairLayoutKey = "";
   if (!document.querySelector("#pairing").hidden) ensurePairLayouts();
+  document.dispatchEvent(new Event("board-ready"));
 }
 
 function showPairPop(id) {
@@ -1378,6 +1382,10 @@ function showPairPop(id) {
   if (openPop && openPop !== pop) openPop.hidden = true;
   openPop = pop;
   pop.hidden = false;
+  if (document.documentElement.classList.contains("mobile")) {
+    pop.style.transform = "none";
+    return;
+  }
   const board = pairBoard.getBoundingClientRect();
   const box = pairLayouts.get(pairPinned || "rest")?.boxes[id];
   const scale = box?.scale || 1;
@@ -1560,13 +1568,15 @@ function focusCaption(id) {
   pairFocus.textContent = parts.join("  ·  ");
 }
 
-function pinPair(id) {
-  pairPinned = pairPinned === id ? "" : id;
+function pinPair(id, options = {}) {
+  if (options.force) pairPinned = id || "";
+  else pairPinned = pairPinned === id ? "" : id;
   focusCaption(pairPinned);
   ensurePairLayouts();
   applyPairLayout(pairPinned, true);
   if (pairPinned) showPairPop(pairPinned);
   else hidePairPop();
+  document.dispatchEvent(new Event("board-chrome"));
 }
 
 function setStageView(name) {
@@ -1578,18 +1588,20 @@ function setStageView(name) {
   document.querySelector("#tab-pair").setAttribute("aria-selected", String(name === "pair"));
   document.querySelector("#pairing").hidden = name !== "pair";
   document.querySelector("#profiles").hidden = name !== "profile";
+  const mobile = document.documentElement.classList.contains("mobile");
   const narrow = window.matchMedia("(max-width: 860px)").matches;
   const sideView = name === "pair" || name === "profile";
-  if (sideView && narrow && !appEl.classList.contains("rail-closed")) {
+  if (!mobile && sideView && narrow && !appEl.classList.contains("rail-closed")) {
     pairRestoreRail = true;
     setRailOpen(false);
-  } else if (!sideView && pairRestoreRail) {
+  } else if (!mobile && !sideView && pairRestoreRail) {
     pairRestoreRail = false;
     setRailOpen(true);
   }
   const hash = name === "pair" ? "#pairing" : name === "profile" ? "#profile" : "";
   const next = `${location.pathname}${location.search}${hash}`;
-  if (`${location.pathname}${location.search}${location.hash}` !== next) history.replaceState(null, "", next);
+  if (`${location.pathname}${location.search}${location.hash}` !== next && !mobile) history.replaceState(null, "", next);
+  document.dispatchEvent(new Event("board-chrome"));
   if (name === "pair") requestAnimationFrame(() => ensurePairLayouts());
 }
 
@@ -1599,6 +1611,10 @@ document.querySelector("#tab-pair").addEventListener("click", () => setStageView
 new ResizeObserver(() => {
   const pairing = document.querySelector("#pairing");
   if (pairing.hidden) return;
+  if (document.documentElement.classList.contains("mobile")) {
+    ensurePairLayouts();
+    return;
+  }
   const narrow = window.matchMedia("(max-width: 860px)").matches;
   if (narrow && !appEl.classList.contains("rail-closed")) {
     pairRestoreRail = true;

@@ -3,37 +3,239 @@
   "label": "34기 다둥이 특집",
   "asOf": "10월 14일 방송까지",
   "men": [
-    {"id": "youngsoo", "name": "영수", "type": "normal", "year": 1989, "job": "건축 설계·감리", "note": "누나 7명의 막내", "photo": "assets/cast/youngsoo.webp"},
-    {"id": "youngho", "name": "영호", "type": "fairy", "year": 1991, "job": "도쿄 증권사 IT", "note": "3남매 장남", "photo": "assets/cast/youngho.webp"},
-    {"id": "youngsik", "name": "영식", "type": "fairy", "year": 1988, "job": "브랜드 공급망", "hobby": "명상 · 템플스테이", "note": "누나 둘의 막내", "photo": "assets/cast/youngsik.webp"},
-    {"id": "youngchul", "name": "영철", "type": "normal", "year": 1990, "job": "논산 7급 공무원", "hobby": "독서", "note": "누나 둘과 여동생", "photo": "assets/cast/youngchul.webp"},
-    {"id": "gwangsoo", "name": "광수", "type": "fairy", "year": 1991, "job": "부동산신탁 마케팅", "hobby": "방송댄스", "note": "누나 둘의 막내", "photo": "assets/cast/gwangsoo.webp"},
-    {"id": "sangchul", "name": "상철", "type": "normal", "year": 1987, "job": "반도체 HBM", "note": "형과 여동생의 둘째", "photo": "assets/cast/sangchul.webp"}
+    {
+      "id": "youngsoo",
+      "name": "영수",
+      "type": "normal",
+      "year": 1989,
+      "job": "건축 설계·감리",
+      "note": "누나 7명의 막내",
+      "photo": "assets/cast/youngsoo.webp",
+      "types": [
+        "normal"
+      ],
+      "bust": "assets/cast/bust/youngsoo.webp"
+    },
+    {
+      "id": "youngho",
+      "name": "영호",
+      "type": "fairy",
+      "year": 1991,
+      "job": "도쿄 증권사 IT",
+      "note": "3남매 장남",
+      "photo": "assets/cast/youngho.webp",
+      "types": [
+        "fairy"
+      ],
+      "bust": "assets/cast/bust/youngho.webp"
+    },
+    {
+      "id": "youngsik",
+      "name": "영식",
+      "type": "fairy",
+      "year": 1988,
+      "job": "브랜드 공급망",
+      "hobby": "명상 · 템플스테이",
+      "note": "누나 둘의 막내",
+      "photo": "assets/cast/youngsik.webp",
+      "types": [
+        "fairy"
+      ],
+      "bust": "assets/cast/bust/youngsik.webp"
+    },
+    {
+      "id": "youngchul",
+      "name": "영철",
+      "type": "normal",
+      "year": 1990,
+      "job": "논산 7급 공무원",
+      "hobby": "독서",
+      "note": "누나 둘과 여동생",
+      "photo": "assets/cast/youngchul.webp",
+      "types": [
+        "normal",
+        "dark"
+      ],
+      "bust": "assets/cast/bust/youngchul.webp"
+    },
+    {
+      "id": "gwangsoo",
+      "name": "광수",
+      "type": "normal",
+      "year": 1991,
+      "job": "부동산신탁 마케팅",
+      "hobby": "방송댄스",
+      "note": "누나 둘의 막내",
+      "photo": "assets/cast/gwangsoo.webp",
+      "types": [
+        "normal"
+      ],
+      "bust": "assets/cast/bust/gwangsoo.webp"
+    },
+    {
+      "id": "sangchul",
+      "name": "상철",
+      "type": "normal",
+      "year": 1987,
+      "job": "반도체 HBM",
+      "note": "형과 여동생의 둘째",
+      "photo": "assets/cast/sangchul.webp",
+      "types": [
+        "normal"
+      ],
+      "bust": "assets/cast/bust/sangchul.webp"
+    }
   ],
   "women": [
-    {"id": "youngsook", "name": "영숙", "type": "dark", "note": "8자매 막내", "photo": "assets/cast/youngsook.webp"},
-    {"id": "jeongsook", "name": "정숙", "type": "fairy", "job": "회계사", "note": "언니와 남동생 사이", "photo": "assets/cast/jeongsook.webp"},
-    {"id": "soonja", "name": "순자", "type": "fairy", "note": "4남매 장녀", "photo": "assets/cast/soonja.webp"},
-    {"id": "youngja", "name": "영자", "type": "normal", "job": "한의사", "note": "남동생 둘의 장녀", "photo": "assets/cast/youngja.webp"},
-    {"id": "oksoon", "name": "옥순", "type": "fairy", "note": "3남매 둘째", "photo": "assets/cast/oksoon.webp"},
-    {"id": "hyunsook", "name": "현숙", "type": "fairy", "note": "3남매 장녀", "photo": "assets/cast/hyunsook.webp"}
+    {
+      "id": "youngsook",
+      "name": "영숙",
+      "type": "dark",
+      "note": "8자매 막내",
+      "photo": "assets/cast/youngsook.webp",
+      "types": [
+        "dark"
+      ],
+      "bust": "assets/cast/bust/youngsook.webp"
+    },
+    {
+      "id": "jeongsook",
+      "name": "정숙",
+      "type": "normal",
+      "job": "회계사",
+      "note": "언니와 남동생 사이",
+      "photo": "assets/cast/jeongsook.webp",
+      "types": [
+        "normal"
+      ],
+      "bust": "assets/cast/bust/jeongsook.webp"
+    },
+    {
+      "id": "soonja",
+      "name": "순자",
+      "type": "fairy",
+      "note": "4남매 장녀",
+      "photo": "assets/cast/soonja.webp",
+      "types": [
+        "fairy"
+      ],
+      "bust": "assets/cast/bust/soonja.webp"
+    },
+    {
+      "id": "youngja",
+      "name": "영자",
+      "type": "dark",
+      "job": "한의사",
+      "note": "남동생 둘의 장녀",
+      "photo": "assets/cast/youngja.webp",
+      "types": [
+        "dark"
+      ],
+      "bust": "assets/cast/bust/youngja.webp"
+    },
+    {
+      "id": "oksoon",
+      "name": "옥순",
+      "type": "normal",
+      "note": "3남매 둘째",
+      "photo": "assets/cast/oksoon.webp",
+      "types": [
+        "normal"
+      ],
+      "bust": "assets/cast/bust/oksoon.webp"
+    },
+    {
+      "id": "hyunsook",
+      "name": "현숙",
+      "type": "normal",
+      "note": "3남매 장녀",
+      "photo": "assets/cast/hyunsook.webp",
+      "types": [
+        "normal"
+      ],
+      "bust": "assets/cast/bust/hyunsook.webp"
+    }
   ],
   "links": [
-    {"from": "youngsoo", "to": "soonja", "rank": 1},
-    {"from": "youngsik", "to": "soonja", "rank": 1},
-    {"from": "gwangsoo", "to": "soonja", "rank": 1},
-    {"from": "youngho", "to": "hyunsook", "rank": 1},
-    {"from": "youngchul", "to": "hyunsook", "rank": 1},
-    {"from": "sangchul", "to": "hyunsook", "rank": 1},
-    {"from": "youngsook", "to": "youngho", "rank": 1},
-    {"from": "jeongsook", "to": "youngho", "rank": 1},
-    {"from": "soonja", "to": "youngho", "rank": 1},
-    {"from": "youngja", "to": "youngchul", "rank": 1},
-    {"from": "oksoon", "to": "sangchul", "rank": 1},
-    {"from": "hyunsook", "to": "youngsoo", "rank": 1},
-    {"from": "hyunsook", "to": "youngchul", "rank": 0},
-    {"from": "youngsik", "to": "youngsook", "rank": 0},
-    {"from": "youngsook", "to": "youngsik", "rank": 0},
-    {"from": "soonja", "to": "youngsoo", "rank": 0}
+    {
+      "from": "youngsoo",
+      "to": "soonja",
+      "rank": 1
+    },
+    {
+      "from": "youngsik",
+      "to": "soonja",
+      "rank": 1
+    },
+    {
+      "from": "gwangsoo",
+      "to": "soonja",
+      "rank": 1
+    },
+    {
+      "from": "youngho",
+      "to": "hyunsook",
+      "rank": 1
+    },
+    {
+      "from": "youngchul",
+      "to": "hyunsook",
+      "rank": 1
+    },
+    {
+      "from": "sangchul",
+      "to": "hyunsook",
+      "rank": 1
+    },
+    {
+      "from": "youngsook",
+      "to": "youngho",
+      "rank": 1
+    },
+    {
+      "from": "jeongsook",
+      "to": "youngho",
+      "rank": 1
+    },
+    {
+      "from": "soonja",
+      "to": "youngho",
+      "rank": 1
+    },
+    {
+      "from": "youngja",
+      "to": "youngchul",
+      "rank": 1
+    },
+    {
+      "from": "oksoon",
+      "to": "sangchul",
+      "rank": 1
+    },
+    {
+      "from": "hyunsook",
+      "to": "youngsoo",
+      "rank": 1
+    },
+    {
+      "from": "hyunsook",
+      "to": "youngchul",
+      "rank": 0
+    },
+    {
+      "from": "youngsik",
+      "to": "youngsook",
+      "rank": 0
+    },
+    {
+      "from": "youngsook",
+      "to": "youngsik",
+      "rank": 0
+    },
+    {
+      "from": "soonja",
+      "to": "youngsoo",
+      "rank": 0
+    }
   ]
 }

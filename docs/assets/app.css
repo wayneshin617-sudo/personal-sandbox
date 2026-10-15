@@ -955,11 +955,16 @@ mark {
 
 .pair-pop[hidden] { display: none; }
 .pair-pop strong {
-  display: block;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
   margin-bottom: 4px;
   color: var(--text);
   font-size: 16px;
 }
+
+.pop-types { display: inline-flex; gap: 4px; }
 .pair-pop .pair-row { display: block; }
 
 .poke-grid {

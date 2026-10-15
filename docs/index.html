@@ -6,6 +6,15 @@
   <meta name="color-scheme" content="dark">
   <meta name="theme-color" content="#08090b">
   <title>나는솔로 과몰입자 보드</title>
+  <script>
+    (function () {
+      var params = new URLSearchParams(location.search);
+      if (params.get("view") === "pc") return;
+      var phone = /iPhone|iPod|Android|Mobile/i.test(navigator.userAgent) || window.matchMedia("(max-width: 860px)").matches;
+      if (!phone) return;
+      location.replace("m.html" + location.search + location.hash);
+    })();
+  </script>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
   <link rel="stylesheet" href="assets/app.css">

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ko" class="mobile">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#08090b">
+  <title>나는솔로 과몰입자 보드</title>
+  <script>
+    (function () {
+      var params = new URLSearchParams(location.search);
+      if (params.get("view") === "mobile") return;
+      var phone = /iPhone|iPod|Android|Mobile/i.test(navigator.userAgent) || window.matchMedia("(max-width: 860px)").matches;
+      if (phone) return;
+      location.replace("index.html" + location.search + location.hash);
+    })();
+  </script>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="assets/app.css">
+  <link rel="stylesheet" href="assets/mobile.css">
+</head>
+<body>
+  <div class="app rail-closed">
+    <aside class="rail" id="rail">
+      <div class="brand">
+        <p class="live"><span class="pulse"></span>LIVE</p>
+        <h1><span>나는솔로</span><span>과몰입자 보드</span></h1>
+        <p class="lede">나는솔로에 과몰입한 보드입니다.</p>
+      </div>
+
+      <dl class="figures">
+        <div>
+          <dt>누적</dt>
+          <dd id="stat-total">0</dd>
+        </div>
+        <div>
+          <dt>오늘</dt>
+          <dd id="stat-live">0</dd>
+        </div>
+      </dl>
+
+      <section class="cloud" id="cloud" aria-label="많이 나오는 말"></section>
+
+      <ul class="sources">
+        <li id="source-dc">
+          <span class="mark dc"><img src="assets/logo-dc.png" alt="">디시</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
+        <li id="source-blind">
+          <span class="mark blind"><img src="assets/logo-blind.svg" alt="">블라인드</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
+        <li id="source-qoo">
+          <span class="mark qoo"><img src="assets/logo-qoo.svg" alt="">더쿠</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
+        <li id="source-yt">
+          <span class="mark yt"><img src="assets/logo-yt.svg" alt="">유튜브</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
+      </ul>
+
+      <p class="since" id="since">목록을 불러오고 있습니다</p>
+      <a class="pc-link" href="index.html?view=pc">PC 화면으로 보기</a>
+    </aside>
+    <button type="button" class="rail-toggle" id="rail-toggle" aria-expanded="true" aria-controls="rail">
+      <span class="sr" id="rail-toggle-label">옆 화면 접기</span>
+      <svg viewBox="0 0 12 12" aria-hidden="true"><path d="M7.6 2.2 3.8 6l3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+
+    <section class="stage">
+      <header class="m-bar">
+        <button type="button" id="m-back" hidden>뒤로</button>
+        <h2 id="m-title">나솔 왈가왈부</h2>
+        <button type="button" id="m-rail">현황</button>
+      </header>
+      <div class="view-tabs" role="tablist" aria-label="화면">
+        <button type="button" class="view-tab" id="tab-feed" role="tab" aria-selected="true">나솔 왈가왈부</button>
+        <button type="button" class="view-tab" id="tab-profile" role="tab" aria-selected="false" aria-controls="profiles">현 기수 프로필</button>
+        <button type="button" class="view-tab" id="tab-pair" role="tab" aria-selected="false" aria-controls="pairing">현 기수 진행상황</button>
+      </div>
+      <section id="profiles" hidden>
+        <header class="pair-head">
+          <div>
+            <p class="pair-kicker" id="profile-kicker">34기</p>
+            <h2>현 기수 프로필</h2>
+          </div>
+          <ul class="type-legend">
+            <li data-type="dark">악 · 악평</li>
+            <li data-type="normal">노말 · 무난</li>
+            <li data-type="fairy">페어리 · 호평</li>
+          </ul>
+          <p class="type-note">본방 앞뒤 5시간과, 34기·이번 기수·현 기수라고 적힌 글을 봤습니다.</p>
+        </header>
+        <div class="poke-grid" id="poke-grid"></div>
+      </section>
+      <section id="pairing" hidden>
+        <header class="pair-head">
+          <div>
+            <p class="pair-kicker" id="pair-kicker">34기</p>
+            <h2>현 기수 진행상황</h2>
+          </div>
+          <ul class="pair-legend">
+            <li><span class="legend-line solid"></span>1순위</li>
+            <li><span class="legend-line dash"></span>관심 · 2·3지망</li>
+            <li><svg class="legend-heart" viewBox="0 0 12 12" aria-hidden="true"><path d="M6 10.2C2.6 7.6 1 6.2 1 4.1 1 2.6 2.1 1.6 3.4 1.6c.8 0 1.5.4 2 1.1.5-.7 1.2-1.1 2-1.1C8.7 1.6 10 2.6 10 4.1c0 2.1-1.6 3.5-4 6.1z"/></svg>서로 선택</li>
+          </ul>
+        </header>
+        <p class="pair-focus" id="pair-focus"></p>
+        <div class="pair-pops" id="pair-pops"></div>
+        <div class="pair-board" id="pair-board">
+          <ol class="pair-col men" id="pair-men"></ol>
+          <div class="pair-gap" aria-hidden="true"></div>
+          <ol class="pair-col women" id="pair-women"></ol>
+          <svg class="pair-lines" id="pair-lines"></svg>
+        </div>
+      </section>
+      <div id="scroller">
+        <div id="feed" aria-live="off"></div>
+      </div>
+      <button id="jump" type="button" hidden>맨 아래로</button>
+      <form id="composer" autocomplete="off">
+        <div class="chips" role="group" aria-label="게시판">
+          <button type="button" class="chip" data-source="all" aria-pressed="true">전체</button>
+          <button type="button" class="chip" data-source="dc" aria-pressed="false">디시</button>
+          <button type="button" class="chip" data-source="blind" aria-pressed="false">블라인드</button>
+          <button type="button" class="chip" data-source="qoo" aria-pressed="false">더쿠</button>
+          <button type="button" class="chip" data-source="yt" aria-pressed="false">유튜브</button>
+        </div>
+        <div class="search-row">
+          <label class="search">
+            <span class="sr">키워드 검색</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.25" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 16.5 20 20.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+            <input id="q" type="text" inputmode="search" enterkeyhint="search" placeholder="키워드를 입력하면 그 글만 모아 봅니다" maxlength="80">
+            <button id="clear" type="button" hidden>지우기</button>
+          </label>
+          <div class="realtime" id="realtime">
+            <button type="button" class="realtime-current" aria-expanded="false" aria-controls="realtime-list">
+              <span class="realtime-rank" id="realtime-rank">–</span>
+              <span class="realtime-window">
+                <span class="realtime-track" id="realtime-track"><span>집계 중</span></span>
+              </span>
+              <svg class="realtime-chevron" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.2 7.6 6 3.8l3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+            <div class="realtime-panel" id="realtime-list" hidden>
+              <p class="realtime-head">실시간 검색어 <span>최근 4시간</span></p>
+              <ol id="realtime-items"></ol>
+            </div>
+          </div>
+        </div>
+        <p id="result-note" hidden></p>
+      </form>
+    </section>
+  </div>
+  <script src="assets/app.js"></script>
+  <script src="assets/mobile.js"></script>
+</body>
+</html>
