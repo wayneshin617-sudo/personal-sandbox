@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T01:11:27+00:00",
+  "updatedAt": "2026-10-15T01:12:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -451459,6 +451459,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T01:11:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48485,
+      "source": "dc",
+      "externalId": "6587754",
+      "title": "제이쓴 홍현희 심진화..34기 개그맨특집이노",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587754&page=1",
+      "postedLabel": "10:11",
+      "postedAt": "2026-10-15T10:11:24+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T01:12:26+00:00",
       "isSeed": false
     }
   ]
