@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T11:00:44+00:00",
+  "updatedAt": "2026-10-15T11:01:45+00:00",
   "posts": [
     {
       "id": 1,
@@ -501847,6 +501847,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T11:00:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51137,
+      "source": "dc",
+      "externalId": "6589439",
+      "title": "옥순이 현숙보다 이쁘다고?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589439&page=1",
+      "postedLabel": "20:00",
+      "postedAt": "2026-10-15T20:00:53+09:00",
+      "views": 17,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T11:01:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51138,
+      "source": "dc",
+      "externalId": "6589440",
+      "title": "순자는 딱봐도 간호사 같더라 ㅇㅇ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589440&page=1",
+      "postedLabel": "20:01",
+      "postedAt": "2026-10-15T20:01:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T11:01:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51139,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%98-%ED%89%81%ED%89%81%ED%89%81-%EC%82%AC%ED%9B%84%EB%A5%B4-%EB%8B%AE%EC%9D%8C-l1f4mcvu",
+      "title": "영수 퉁퉁퉁 사후르 닮음",
+      "excerpt": "아닌가?",
+      "author": "w*******",
+      "company": "기업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%ED%89%81%ED%89%81%ED%89%81-%EC%82%AC%ED%9B%84%EB%A5%B4-%EB%8B%AE%EC%9D%8C-l1f4mcvu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T20:01:32+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T11:01:45+00:00",
       "isSeed": false
     }
   ]
