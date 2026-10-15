@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:14:29+00:00",
+  "updatedAt": "2026-10-15T17:15:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -580583,6 +580583,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:14:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55281,
+      "source": "dc",
+      "externalId": "6592702",
+      "title": "7옥 미서 빙의 할매 할배들 좀비처럼 죽지도 않아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592702&page=1",
+      "postedLabel": "02:14",
+      "postedAt": "2026-10-16T02:14:22+09:00",
+      "views": 15,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:15:27+00:00",
       "isSeed": false
     }
   ]
