@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:16:27+00:00",
+  "updatedAt": "2026-10-15T00:17:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -448856,6 +448856,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:16:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48348,
+      "source": "dc",
+      "externalId": "6587632",
+      "title": "이번에 34기 옥순 너무 예쁘네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587632&page=1",
+      "postedLabel": "09:16",
+      "postedAt": "2026-10-15T09:16:18+09:00",
+      "views": 27,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:17:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48349,
+      "source": "dc",
+      "externalId": "6587633",
+      "title": "숟가락은 언제 어디로 갔죠~~~???????????????????????",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587633&page=1",
+      "postedLabel": "09:16",
+      "postedAt": "2026-10-15T09:16:27+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:17:28+00:00",
       "isSeed": false
     }
   ]
