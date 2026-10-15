@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:05:54+00:00",
+  "updatedAt": "2026-10-15T09:06:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -490580,6 +490580,63 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-15T09:05:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50544,
+      "source": "dc",
+      "externalId": "6589127",
+      "title": "영호키가 170이었다면 인기남 아님ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.172",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589127&page=1",
+      "postedLabel": "18:05",
+      "postedAt": "2026-10-15T18:05:50+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:06:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50545,
+      "source": "dc",
+      "externalId": "6589128",
+      "title": "순자는 연애시대 문정희같은 느낌임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "14.32",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589128&page=1",
+      "postedLabel": "18:06",
+      "postedAt": "2026-10-15T18:06:21+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:06:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50546,
+      "source": "dc",
+      "externalId": "6589129",
+      "title": "순자 전남친 의사였네 인스타 찾음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589129&page=1",
+      "postedLabel": "18:06",
+      "postedAt": "2026-10-15T18:06:28+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:06:54+00:00",
       "isSeed": false
     }
   ]
