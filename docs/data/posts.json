@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:19:27+00:00",
+  "updatedAt": "2026-10-15T00:21:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -448989,6 +448989,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:19:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48355,
+      "source": "dc",
+      "externalId": "6587639",
+      "title": "마통론 기사 말인데",
+      "excerpt": "",
+      "author": "ㄴㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587639&page=1",
+      "postedLabel": "09:20",
+      "postedAt": "2026-10-15T09:20:47+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:21:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48356,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-%EC%95%88%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%93%EC%9C%BC%EB%A9%B4-%E3%85%88%E3%84%B4-%ED%98%B8%EA%B0%90%EC%BA%90%EC%97%BF%EC%9D%84%ED%85%90%EB%8D%B0-gcpfujwh",
+      "title": "상철은 안꺼드럭댓으면 ㅈㄴ 호감캐엿을텐데",
+      "excerpt": "뭐 운이좋앗죠 하면서 겸손 컨셉으로 갓으면 ㅈㄴ 좋앗을것같은데 약간 직업재력쪽으로 영철과네..",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-%EC%95%88%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%93%EC%9C%BC%EB%A9%B4-%E3%85%88%E3%84%B4-%ED%98%B8%EA%B0%90%EC%BA%90%EC%97%BF%EC%9D%84%ED%85%90%EB%8D%B0-gcpfujwh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T09:21:15+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T00:21:27+00:00",
       "isSeed": false
     }
   ]
