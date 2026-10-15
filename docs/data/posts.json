@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T05:57:47+00:00",
+  "updatedAt": "2026-10-15T05:58:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -478211,6 +478211,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T05:57:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49893,
+      "source": "dc",
+      "externalId": "6588650",
+      "title": "망도형 노무사 월 2천씩 버는거아니었음?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.108",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588650&page=1",
+      "postedLabel": "14:58",
+      "postedAt": "2026-10-15T14:58:00+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T05:58:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49894,
+      "source": "dc",
+      "externalId": "6588651",
+      "title": "영호 영철이 비슷한 키라고 하는 댓글에 대한 반박 사진",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.79",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588651&page=1",
+      "postedLabel": "14:58",
+      "postedAt": "2026-10-15T14:58:02+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T05:58:47+00:00",
       "isSeed": false
     }
   ]
