@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T04:46:47+00:00",
+  "updatedAt": "2026-10-15T04:47:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -473879,6 +473879,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T04:46:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49665,
+      "source": "dc",
+      "externalId": "6588427",
+      "title": "진짜 댄서출신이래도 자소에서 춤춘다? 좀 날티남",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588427&page=1",
+      "postedLabel": "13:46",
+      "postedAt": "2026-10-15T13:46:51+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T04:47:47+00:00",
       "isSeed": false
     }
   ]
