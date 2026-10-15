@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T00:52:27+00:00",
+  "updatedAt": "2026-10-15T00:53:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -450566,6 +450566,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T00:52:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48438,
+      "source": "dc",
+      "externalId": "6587711",
+      "title": "영철은 한의사가 딱이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587711&page=1",
+      "postedLabel": "09:52",
+      "postedAt": "2026-10-15T09:52:31+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:53:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 48439,
+      "source": "dc",
+      "externalId": "6587712",
+      "title": "이거 작진이 편집으로 다른장면에서 웃는장면 이어붙인거같던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6587712&page=1",
+      "postedLabel": "09:52",
+      "postedAt": "2026-10-15T09:52:31+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T00:53:27+00:00",
       "isSeed": false
     }
   ]
