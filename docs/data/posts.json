@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T05:26:47+00:00",
+  "updatedAt": "2026-10-15T05:27:46+00:00",
   "posts": [
     {
       "id": 1,
@@ -476349,6 +476349,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T05:26:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49795,
+      "source": "qoo",
+      "externalId": "4376449531",
+      "title": "영수 말이야ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376449531",
+      "postedLabel": "14:27",
+      "postedAt": "2026-10-15T14:27:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T05:27:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49796,
+      "source": "dc",
+      "externalId": "6588555",
+      "title": "사랑하면 잇몸 커버되냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588555&page=1",
+      "postedLabel": "14:27",
+      "postedAt": "2026-10-15T14:27:10+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T05:27:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49797,
+      "source": "dc",
+      "externalId": "6588556",
+      "title": "월급250에 주식공부한다는 30중반남자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588556&page=1",
+      "postedLabel": "14:27",
+      "postedAt": "2026-10-15T14:27:19+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T05:27:46+00:00",
       "isSeed": false
     }
   ]
