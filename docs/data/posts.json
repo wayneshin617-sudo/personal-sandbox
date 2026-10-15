@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T19:59:26+00:00",
+  "updatedAt": "2026-10-15T20:01:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -589722,6 +589722,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T19:59:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55762,
+      "source": "dc",
+      "externalId": "6592915",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "159.26",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592915&page=1",
+      "postedLabel": "05:00",
+      "postedAt": "2026-10-16T05:00:15+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:01:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55763,
+      "source": "dc",
+      "externalId": "6592916",
+      "title": "미서 소개팅 시작하기전에 촌장에서 할일",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592916&page=1",
+      "postedLabel": "05:00",
+      "postedAt": "2026-10-16T05:00:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T20:01:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55764,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%88%98-%E3%85%86%E3%84%B9%E3%84%B1%EC%9E%84-t8rh510q",
+      "title": "34영수 ㅆㄹㄱ임",
+      "excerpt": "내 기억이 맞다면 부모님이 10년 전쯤에 멜론 농사 하셨음 (지금은 모름) 1화 때 얼굴 보고 긴가민가 했는데 자기소개 보고 내가 알던 사람인거 확신함 이거 혹시나 여기저기 퍼지면 나 특정될까봐 더는 말 못 함…ㅜㅜ",
+      "author": "a*******",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%E3%85%86%E3%84%B9%E3%84%B1%EC%9E%84-t8rh510q",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T05:01:14+09:00",
+      "views": 18,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T20:01:26+00:00",
       "isSeed": false
     }
   ]
