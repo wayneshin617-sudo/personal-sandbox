@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:09:06+00:00",
+  "updatedAt": "2026-10-15T03:09:57+00:00",
   "posts": [
     {
       "id": 1,
@@ -463752,6 +463752,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:09:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49132,
+      "source": "dc",
+      "externalId": "6588142",
+      "title": "얘 27 영식 닮지 않았냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588142&page=1",
+      "postedLabel": "12:08",
+      "postedAt": "2026-10-15T12:08:57+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:09:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49133,
+      "source": "dc",
+      "externalId": "6588143",
+      "title": "이 분 닮은 여출이 어떻게나올수가있냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588143&page=1",
+      "postedLabel": "12:09",
+      "postedAt": "2026-10-15T12:09:46+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:09:57+00:00",
       "isSeed": false
     }
   ]
