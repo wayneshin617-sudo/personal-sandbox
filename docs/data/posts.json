@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:19:34+00:00",
+  "updatedAt": "2026-10-15T13:20:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -514995,6 +514995,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T13:19:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51829,
+      "source": "dc",
+      "externalId": "6589857",
+      "title": "하긴 상철은 꺼드럭댈만 하지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589857&page=1",
+      "postedLabel": "22:19",
+      "postedAt": "2026-10-15T22:19:47+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:20:33+00:00",
       "isSeed": false
     }
   ]
