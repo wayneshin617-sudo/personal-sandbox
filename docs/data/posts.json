@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T13:11:34+00:00",
+  "updatedAt": "2026-10-15T13:12:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -514672,6 +514672,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T13:11:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51812,
+      "source": "dc",
+      "externalId": "6589844",
+      "title": "솔직히 남자도 여자가 대기업, 의사 약사인 여자 만나고 싶지 않냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589844&page=1",
+      "postedLabel": "22:12",
+      "postedAt": "2026-10-15T22:12:06+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T13:12:34+00:00",
       "isSeed": false
     }
   ]
