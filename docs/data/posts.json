@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T22:44:22+00:00",
+  "updatedAt": "2026-10-15T22:45:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -595821,6 +595821,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T22:44:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56083,
+      "source": "dc",
+      "externalId": "6593051",
+      "title": "밥보영 이춘재 빼고 잠깐 만난적도 없네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593051&page=1",
+      "postedLabel": "07:45",
+      "postedAt": "2026-10-16T07:45:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:45:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56084,
+      "source": "dc",
+      "externalId": "6593052",
+      "title": "근데 미서 라방 존나 충격적으로 잘생김",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593052&page=1",
+      "postedLabel": "07:45",
+      "postedAt": "2026-10-16T07:45:09+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:45:23+00:00",
       "isSeed": false
     }
   ]
