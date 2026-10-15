@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:57:44+00:00",
+  "updatedAt": "2026-10-15T10:58:43+00:00",
   "posts": [
     {
       "id": 1,
@@ -501600,6 +501600,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T10:57:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51124,
+      "source": "dc",
+      "externalId": "6589427",
+      "title": "영호얘는 누나들만 사겼을거같음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589427&page=1",
+      "postedLabel": "19:58",
+      "postedAt": "2026-10-15T19:58:11+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:58:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51125,
+      "source": "dc",
+      "externalId": "6589428",
+      "title": "여자 어좁이들도 옷빨 존나 안 사는거 같음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589428&page=1",
+      "postedLabel": "19:58",
+      "postedAt": "2026-10-15T19:58:21+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:58:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51126,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-%EC%A7%84%EC%A7%9C-5j8prxnj",
+      "title": "영호님 진짜",
+      "excerpt": "너무 설레게생겼다.....ㅠ 저런 분은 나이 많이 연상이어도 가능",
+      "author": "l*********",
+      "company": "지엔소프트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-%EC%A7%84%EC%A7%9C-5j8prxnj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-15T19:58:32+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-15T10:58:43+00:00",
       "isSeed": false
     }
   ]
