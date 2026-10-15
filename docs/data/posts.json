@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:24:31+00:00",
+  "updatedAt": "2026-10-15T18:25:17+00:00",
   "posts": [
     {
       "id": 1,
@@ -587252,6 +587252,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-15T18:24:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55632,
+      "source": "dc",
+      "externalId": "6592822",
+      "title": "최종선택은 안해놓고 미서한테 들이대는 영자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592822&page=1",
+      "postedLabel": "03:24",
+      "postedAt": "2026-10-16T03:24:48+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:25:17+00:00",
       "isSeed": false
     }
   ]
