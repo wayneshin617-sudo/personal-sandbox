@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T04:43:38+00:00",
+  "updatedAt": "2026-10-15T04:45:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -473784,6 +473784,63 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-15T04:43:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49660,
+      "source": "dc",
+      "externalId": "6588421",
+      "title": "근데 먹방은 언제부터 하는거임?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588421&page=1",
+      "postedLabel": "13:44",
+      "postedAt": "2026-10-15T13:44:28+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:45:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49661,
+      "source": "dc",
+      "externalId": "6588422",
+      "title": "영자마저 얼굴을 가려버리네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588422&page=1",
+      "postedLabel": "13:44",
+      "postedAt": "2026-10-15T13:44:53+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:45:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49662,
+      "source": "dc",
+      "externalId": "6588424",
+      "title": "순자는 그 쉬운 콩나물국도 하나 못하면서",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588424&page=1",
+      "postedLabel": "13:45",
+      "postedAt": "2026-10-15T13:45:11+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T04:45:47+00:00",
       "isSeed": false
     }
   ]
