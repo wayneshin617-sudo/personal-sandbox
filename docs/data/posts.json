@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:32:28+00:00",
+  "updatedAt": "2026-10-15T17:33:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -581400,6 +581400,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:32:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55324,
+      "source": "dc",
+      "externalId": "6592744",
+      "title": "국화가 진짜 천의 얼굴이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.34",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592744&page=1",
+      "postedLabel": "02:32",
+      "postedAt": "2026-10-16T02:32:30+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:33:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55325,
+      "source": "dc",
+      "externalId": "6592745",
+      "title": "인정하자..국화가 옷도잘입는데 그것도 많이사는게아니라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592745&page=1",
+      "postedLabel": "02:32",
+      "postedAt": "2026-10-16T02:32:42+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:33:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55326,
+      "source": "dc",
+      "externalId": "6592746",
+      "title": "영자누님 퍼프소매도 오바야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.211",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592746&page=1",
+      "postedLabel": "02:32",
+      "postedAt": "2026-10-16T02:32:43+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:33:28+00:00",
       "isSeed": false
     }
   ]
