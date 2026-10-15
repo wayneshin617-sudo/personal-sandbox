@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T22:50:21+00:00",
+  "updatedAt": "2026-10-15T22:51:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -595954,6 +595954,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T22:50:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56090,
+      "source": "dc",
+      "externalId": "6593058",
+      "title": "아니 근데 남피디는 그냥 시청률만 중요한가",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "176.185",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593058&page=1",
+      "postedLabel": "07:51",
+      "postedAt": "2026-10-16T07:51:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:51:22+00:00",
       "isSeed": false
     }
   ]
