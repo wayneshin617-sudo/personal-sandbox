@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T05:50:47+00:00",
+  "updatedAt": "2026-10-15T05:51:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -477907,6 +477907,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T05:50:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49877,
+      "source": "dc",
+      "externalId": "6588632",
+      "title": "현실적으로 제일 인기많아야하는건 영식임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.154",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588632&page=1",
+      "postedLabel": "14:50",
+      "postedAt": "2026-10-15T14:50:45+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T05:51:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49878,
+      "source": "dc",
+      "externalId": "6588633",
+      "title": "휘감아줘 vs 쉬마려 뭐가 더 야릇함???",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "203.229",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588633&page=1",
+      "postedLabel": "14:51",
+      "postedAt": "2026-10-15T14:51:06+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T05:51:47+00:00",
       "isSeed": false
     }
   ]
