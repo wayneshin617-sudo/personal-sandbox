@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T12:29:44+00:00",
+  "updatedAt": "2026-10-15T12:30:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -508041,6 +508041,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-15T12:29:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51463,
+      "source": "qoo",
+      "externalId": "4376837562",
+      "title": "식탐영수 봤어",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376837562",
+      "postedLabel": "21:29",
+      "postedAt": "2026-10-15T21:29:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T12:30:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 51464,
+      "source": "dc",
+      "externalId": "6589735",
+      "title": "34기 남자 역대급아님? 외모며 직업이며 말이 안되는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589735&page=1",
+      "postedLabel": "21:30",
+      "postedAt": "2026-10-15T21:30:22+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T12:30:44+00:00",
       "isSeed": false
     }
   ]
