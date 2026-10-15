@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T17:24:28+00:00",
+  "updatedAt": "2026-10-15T17:25:20+00:00",
   "posts": [
     {
       "id": 1,
@@ -581001,6 +581001,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-15T17:24:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55303,
+      "source": "dc",
+      "externalId": "6592724",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "89.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592724&page=1",
+      "postedLabel": "02:24",
+      "postedAt": "2026-10-16T02:24:18+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T17:25:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55304,
+      "source": "blind",
+      "externalId": "/kr/post/33%EA%B8%B0-%EC%98%81%EC%88%98%EA%B0%80-%ED%95%AB%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%94%BC-%EC%9A%94%EC%B2%AD%ED%95%9C-%EC%9D%B4%EC%9C%A0-jop4k8mb",
+      "title": "33기 영수가 핫크리스피 요청한 이유",
+      "excerpt": "영수때문에 핫크리스피 알게되고 먹게된 사람임 총 세번 가족들과 먹었는데 먹을때마다 다들 배아프고 설사를 하루이상 함 우리집만 그런게 아니라 당시 여기 댓글들에도 그거먹으면 다음날 배아프다고 하던데 똑같아서 놀랐음 내피셜이지만... 혹시 다른 출연자들 배아파서 음식 잘 못먹게 하려는 영수의 큰그림 아닐까 ㅋㅋㅋㅋㅋㅋㅋ 근데 맛있긴 엄청 맛있음 배아파도 또 먹게되는 그런맛 이제 난 그거만 시킴",
+      "author": "!*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/33%EA%B8%B0-%EC%98%81%EC%88%98%EA%B0%80-%ED%95%AB%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%94%BC-%EC%9A%94%EC%B2%AD%ED%95%9C-%EC%9D%B4%EC%9C%A0-jop4k8mb",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T02:25:17+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-15T17:25:20+00:00",
       "isSeed": false
     }
   ]
