@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T03:53:06+00:00",
+  "updatedAt": "2026-10-15T03:55:07+00:00",
   "posts": [
     {
       "id": 1,
@@ -466089,6 +466089,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T03:53:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49255,
+      "source": "qoo",
+      "externalId": "4376360960",
+      "title": "내 친구 영수같은 집에 시집갔는데 의외로 만족하고 살더라",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4376360960",
+      "postedLabel": "12:54",
+      "postedAt": "2026-10-15T12:54:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:55:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 49256,
+      "source": "dc",
+      "externalId": "6588265",
+      "title": "공무원 7급 공채면 자기소개서 무조건 말하지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588265&page=1",
+      "postedLabel": "12:54",
+      "postedAt": "2026-10-15T12:54:43+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T03:55:07+00:00",
       "isSeed": false
     }
   ]
