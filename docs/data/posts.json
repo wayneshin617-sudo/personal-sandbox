@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T09:41:54+00:00",
+  "updatedAt": "2026-10-15T09:42:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -492442,6 +492442,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T09:41:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50642,
+      "source": "dc",
+      "externalId": "6589220",
+      "title": "순자는 끝까지 영호인데 영호가 끝까지 현숙이면 최커 안될듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589220&page=1",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-15T18:42:29+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:42:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50643,
+      "source": "dc",
+      "externalId": "6589221",
+      "title": "영수 누나 7명 진짜 너무 장벽이높다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589221&page=1",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-15T18:42:30+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T09:42:54+00:00",
       "isSeed": false
     }
   ]
