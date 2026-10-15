@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T19:22:26+00:00",
+  "updatedAt": "2026-10-15T19:23:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -589114,6 +589114,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T19:22:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55730,
+      "source": "dc",
+      "externalId": "6592884",
+      "title": "근데 진짜 나쏠 보는 의미 없어지긴한듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.187",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592884&page=1",
+      "postedLabel": "04:22",
+      "postedAt": "2026-10-16T04:22:15+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T19:23:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55731,
+      "source": "dc",
+      "externalId": "6592885",
+      "title": "솔로리액션 미서 14영자 7옥 미조 개꿀잼이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592885&page=1",
+      "postedLabel": "04:22",
+      "postedAt": "2026-10-16T04:22:56+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T19:23:26+00:00",
       "isSeed": false
     }
   ]
