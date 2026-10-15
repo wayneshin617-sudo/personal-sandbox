@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T18:04:28+00:00",
+  "updatedAt": "2026-10-15T18:05:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -582464,6 +582464,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T18:04:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55380,
+      "source": "dc",
+      "externalId": "6592801",
+      "title": "솔로리액션 7옥 얼굴 보고 솔직히 충격 받았으면 개추 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592801&page=1",
+      "postedLabel": "03:05",
+      "postedAt": "2026-10-16T03:05:03+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:05:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 55381,
+      "source": "dc",
+      "externalId": "6592802",
+      "title": "난 내가나솔나갔다면 모임나갈듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6592802&page=1",
+      "postedLabel": "03:05",
+      "postedAt": "2026-10-16T03:05:04+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T18:05:27+00:00",
       "isSeed": false
     }
   ]
