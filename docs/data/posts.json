@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T22:15:22+00:00",
+  "updatedAt": "2026-10-15T22:16:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -594985,6 +594985,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T22:15:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56039,
+      "source": "dc",
+      "externalId": "6593010",
+      "title": "사우디 내무부:메카 모스크 내 부적절한 행위를 저지른 남녀 각각 처형함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.84",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593010&page=1",
+      "postedLabel": "07:15",
+      "postedAt": "2026-10-16T07:15:34+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T22:16:22+00:00",
       "isSeed": false
     }
   ]
