@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T10:16:44+00:00",
+  "updatedAt": "2026-10-15T10:17:44+00:00",
   "posts": [
     {
       "id": 1,
@@ -499073,6 +499073,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T10:16:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50991,
+      "source": "dc",
+      "externalId": "6589312",
+      "title": "영호는 우울감 있어보여서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589312&page=1",
+      "postedLabel": "19:17",
+      "postedAt": "2026-10-15T19:17:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:17:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50992,
+      "source": "dc",
+      "externalId": "6589313",
+      "title": "나솔보서 느끼는거 k장녀 장남 이거 진짜 개소리임 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "220.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6589313&page=1",
+      "postedLabel": "19:17",
+      "postedAt": "2026-10-15T19:17:14+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T10:17:44+00:00",
       "isSeed": false
     }
   ]
