@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-15T07:15:54+00:00",
+  "updatedAt": "2026-10-15T07:16:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -485146,6 +485146,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-15T07:15:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 50258,
+      "source": "dc",
+      "externalId": "6588845",
+      "title": "전신샷보면 현숙이 제일 괜찮긴 하지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6588845&page=1",
+      "postedLabel": "16:15",
+      "postedAt": "2026-10-15T16:15:57+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-15T07:16:54+00:00",
       "isSeed": false
     }
   ]
