@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T06:39:18+00:00",
+  "updatedAt": "2026-10-16T06:40:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -628311,6 +628311,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T06:39:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57793,
+      "source": "dc",
+      "externalId": "6593708",
+      "title": "내 생각인데 7옥이 조금만 표현만 해줬음 미서는 7옥 선택했다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593708&page=1",
+      "postedLabel": "15:39",
+      "postedAt": "2026-10-16T15:39:52+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T06:40:18+00:00",
       "isSeed": false
     }
   ]
