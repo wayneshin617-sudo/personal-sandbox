@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T03:37:27+00:00",
+  "updatedAt": "2026-10-16T03:38:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -614707,6 +614707,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T03:37:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57077,
+      "source": "dc",
+      "externalId": "6593396",
+      "title": "[속보] 현직 서울시 공무원 옥상에서 투신ㄷㄷㄷㄷㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593396&page=1",
+      "postedLabel": "12:37",
+      "postedAt": "2026-10-16T12:37:41+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:38:27+00:00",
       "isSeed": false
     }
   ]
