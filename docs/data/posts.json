@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:33:52+00:00",
+  "updatedAt": "2026-10-16T15:35:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -662017,6 +662017,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T15:33:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59567,
+      "source": "dc",
+      "externalId": "6594540",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594540&page=1",
+      "postedLabel": "00:35",
+      "postedAt": "2026-10-17T00:35:19+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:35:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59568,
+      "source": "dc",
+      "externalId": "6594541",
+      "title": "향숙이랑 미스터지는 보정 존나 심하게 하는듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594541&page=1",
+      "postedLabel": "00:35",
+      "postedAt": "2026-10-17T00:35:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:35:53+00:00",
       "isSeed": false
     }
   ]
