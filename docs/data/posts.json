@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:33:31+00:00",
+  "updatedAt": "2026-10-16T10:34:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -642618,6 +642618,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T10:33:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58546,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99-%ED%8C%94%EC%97%90-%ED%83%80%ED%88%AC%EC%9D%B8%EA%B0%80-k5tb3w1x",
+      "title": "현숙 팔에 타투인가?",
+      "excerpt": "오른팔 안쪽에 이거 타투야?",
+      "author": "l*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%ED%8C%94%EC%97%90-%ED%83%80%ED%88%AC%EC%9D%B8%EA%B0%80-k5tb3w1x",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T19:34:20+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T10:34:31+00:00",
       "isSeed": false
     }
   ]
