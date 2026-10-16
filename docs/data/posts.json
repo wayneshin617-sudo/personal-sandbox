@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T20:07:45+00:00",
+  "updatedAt": "2026-10-16T20:10:50+00:00",
   "posts": [
     {
       "id": 1,
@@ -673246,6 +673246,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-16T20:07:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60158,
+      "source": "dc",
+      "externalId": "6594734",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "212.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594734&page=1",
+      "postedLabel": "05:09",
+      "postedAt": "2026-10-17T05:09:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T20:10:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60159,
+      "source": "yt",
+      "externalId": "UgwwunFsbs0i1on35iJ4AaABAg",
+      "title": "그래 이 팀이 제일 좋아. 그 이전에 사계를 본적이 없는데 좋은듯",
+      "excerpt": "[나솔사계 LIVE] 현커는 과연 몇 커플? 또 다른 현커가 있을까? // EP6",
+      "author": "@syaosyao-kh6sm",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=G9kc2oMKKq0&lc=UgwwunFsbs0i1on35iJ4AaABAg",
+      "postedLabel": "44초 전",
+      "postedAt": "2026-10-17T05:10:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T20:10:50+00:00",
       "isSeed": false
     }
   ]
