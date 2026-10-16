@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:27:22+00:00",
+  "updatedAt": "2026-10-16T09:28:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -640414,6 +640414,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T09:27:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58430,
+      "source": "dc",
+      "externalId": "6593969",
+      "title": "14영자 미서 퇴소하고 만난거 fact",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593969&page=1",
+      "postedLabel": "18:27",
+      "postedAt": "2026-10-16T18:27:30+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:28:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58431,
+      "source": "dc",
+      "externalId": "6593970",
+      "title": "미조 아랫니 틀니해명은 왜 안하노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593970&page=1",
+      "postedLabel": "18:27",
+      "postedAt": "2026-10-16T18:27:33+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:28:31+00:00",
       "isSeed": false
     }
   ]
