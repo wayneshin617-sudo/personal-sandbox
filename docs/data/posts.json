@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T13:45:23+00:00",
+  "updatedAt": "2026-10-16T13:46:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -653106,6 +653106,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T13:45:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59098,
+      "source": "dc",
+      "externalId": "6594368",
+      "title": "난 24살은 어린 것 같은데 03년생이라 그러면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.66",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594368&page=1",
+      "postedLabel": "22:45",
+      "postedAt": "2026-10-16T22:45:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:46:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59099,
+      "source": "dc",
+      "externalId": "6594369",
+      "title": "난 망도 좋던데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594369&page=1",
+      "postedLabel": "22:45",
+      "postedAt": "2026-10-16T22:45:26+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:46:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59100,
+      "source": "dc",
+      "externalId": "6594370",
+      "title": "문신 없으면 이상할 것 같은 관상",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594370&page=1",
+      "postedLabel": "22:45",
+      "postedAt": "2026-10-16T22:45:45+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:46:24+00:00",
       "isSeed": false
     }
   ]
