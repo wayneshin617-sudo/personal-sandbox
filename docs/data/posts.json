@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T02:18:33+00:00",
+  "updatedAt": "2026-10-16T02:19:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -605872,6 +605872,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T02:18:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56612,
+      "source": "dc",
+      "externalId": "6593299",
+      "title": "14영자 똑똑허노 이거야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.75",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593299&page=1",
+      "postedLabel": "11:18",
+      "postedAt": "2026-10-16T11:18:42+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:19:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56613,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%80-%ED%9D%99%EC%9D%B8%EC%9D%B4-%EC%A0%A4-%EC%98%88%EC%81%98%EB%84%A4-epage3dl",
+      "title": "와 흙인이 젤 예쁘네",
+      "excerpt": "미인이신듯 ㄷㄷ",
+      "author": "!*********",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%ED%9D%99%EC%9D%B8%EC%9D%B4-%EC%A0%A4-%EC%98%88%EC%81%98%EB%84%A4-epage3dl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T11:19:21+09:00",
+      "views": 56,
+      "recommends": null,
+      "comments": 2,
+      "firstSeenAt": "2026-10-16T02:19:33+00:00",
       "isSeed": false
     }
   ]
