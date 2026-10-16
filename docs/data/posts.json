@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T17:44:14+00:00",
+  "updatedAt": "2026-10-16T17:48:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -669902,6 +669902,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T17:44:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59982,
+      "source": "dc",
+      "externalId": "6594656",
+      "title": "지금 분위기를 봤을 때 미서와 7옥순은..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594656&page=1",
+      "postedLabel": "02:47",
+      "postedAt": "2026-10-17T02:47:07+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T17:48:14+00:00",
       "isSeed": false
     }
   ]
