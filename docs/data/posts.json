@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:14:53+00:00",
+  "updatedAt": "2026-10-16T15:15:45+00:00",
   "posts": [
     {
       "id": 1,
@@ -661485,6 +661485,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T15:14:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59539,
+      "source": "dc",
+      "externalId": "6594512",
+      "title": "이선민 아닙니다",
+      "excerpt": "",
+      "author": "소파최영중",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594512&page=1",
+      "postedLabel": "00:15",
+      "postedAt": "2026-10-17T00:15:06+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:15:45+00:00",
       "isSeed": false
     }
   ]
