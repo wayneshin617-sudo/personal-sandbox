@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:42:33+00:00",
+  "updatedAt": "2026-10-16T01:43:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -604827,6 +604827,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T01:42:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56557,
+      "source": "dc",
+      "externalId": "6593245",
+      "title": "31순자가 34기 왔으면 영철에게 갈까?영호에게 갈까?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593245&page=1",
+      "postedLabel": "10:42",
+      "postedAt": "2026-10-16T10:42:33+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:43:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56558,
+      "source": "dc",
+      "externalId": "6593246",
+      "title": "영호는 어디 다니는거야 회사이름",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593246&page=1",
+      "postedLabel": "10:42",
+      "postedAt": "2026-10-16T10:42:33+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:43:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56559,
+      "source": "dc",
+      "externalId": "6593247",
+      "title": "영철햄 7출이네 ㄷ ㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593247&page=1",
+      "postedLabel": "10:43",
+      "postedAt": "2026-10-16T10:43:08+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:43:33+00:00",
       "isSeed": false
     }
   ]
