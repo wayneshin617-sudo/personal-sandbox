@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T22:48:39+00:00",
+  "updatedAt": "2026-10-16T22:49:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -674861,6 +674861,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T22:48:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60243,
+      "source": "dc",
+      "externalId": "6594815",
+      "title": "야일어나학교가야지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "122.128",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594815&page=1",
+      "postedLabel": "07:48",
+      "postedAt": "2026-10-17T07:48:51+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T22:49:38+00:00",
       "isSeed": false
     }
   ]
