@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:44:52+00:00",
+  "updatedAt": "2026-10-16T15:46:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -662397,6 +662397,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T15:44:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59587,
+      "source": "dc",
+      "externalId": "6594556",
+      "title": "영자가 미조랑 7옥 선택 몰랐다 하는거 소름돋음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594556&page=1",
+      "postedLabel": "00:45",
+      "postedAt": "2026-10-17T00:45:59+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:46:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59588,
+      "source": "dc",
+      "externalId": "6594557",
+      "title": "???:7기 옥순씨? 저 남pd인데요",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594557&page=1",
+      "postedLabel": "00:46",
+      "postedAt": "2026-10-17T00:46:27+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:46:52+00:00",
       "isSeed": false
     }
   ]
