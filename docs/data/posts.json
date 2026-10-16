@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:12:30+00:00",
+  "updatedAt": "2026-10-16T10:13:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -642067,6 +642067,25 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-16T10:12:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58517,
+      "source": "dc",
+      "externalId": "6594054",
+      "title": "34기 남자풀 개구리네",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594054&page=1",
+      "postedLabel": "19:12",
+      "postedAt": "2026-10-16T19:12:34+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:13:30+00:00",
       "isSeed": false
     }
   ]
