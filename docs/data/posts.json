@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T06:44:18+00:00",
+  "updatedAt": "2026-10-16T06:47:09+00:00",
   "posts": [
     {
       "id": 1,
@@ -628444,6 +628444,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T06:44:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57800,
+      "source": "dc",
+      "externalId": "6593716",
+      "title": "영자 불여시며 손바닥위에서 갖고 논다잖아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593716&page=1",
+      "postedLabel": "15:46",
+      "postedAt": "2026-10-16T15:46:39+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T06:47:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57801,
+      "source": "dc",
+      "externalId": "6593717",
+      "title": "14 영자 어떤 모습으로든 또 나올듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "49.1",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593717&page=1",
+      "postedLabel": "15:46",
+      "postedAt": "2026-10-16T15:46:47+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T06:47:09+00:00",
       "isSeed": false
     }
   ]
