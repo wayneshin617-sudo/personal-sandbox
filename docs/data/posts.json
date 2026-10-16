@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:59:53+00:00",
+  "updatedAt": "2026-10-16T16:01:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -662910,6 +662910,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T15:59:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59614,
+      "source": "dc",
+      "externalId": "6594581",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "169.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594581&page=1",
+      "postedLabel": "01:00",
+      "postedAt": "2026-10-17T01:00:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T16:01:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59615,
+      "source": "dc",
+      "externalId": "6594582",
+      "title": "미서도 저렇게 겸손한데 알파남아니라고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.232",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594582&page=1",
+      "postedLabel": "01:01",
+      "postedAt": "2026-10-17T01:01:14+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T16:01:53+00:00",
       "isSeed": false
     }
   ]
