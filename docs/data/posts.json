@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:49:31+00:00",
+  "updatedAt": "2026-10-16T09:50:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -641345,6 +641345,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T09:49:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58479,
+      "source": "dc",
+      "externalId": "6594015",
+      "title": "사계 단체사진 몇장",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594015&page=1",
+      "postedLabel": "18:50",
+      "postedAt": "2026-10-16T18:50:07+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:50:30+00:00",
       "isSeed": false
     }
   ]
