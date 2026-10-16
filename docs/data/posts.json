@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T19:57:14+00:00",
+  "updatedAt": "2026-10-16T19:58:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -671327,6 +671327,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T19:57:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60057,
+      "source": "qoo",
+      "externalId": "4378038548",
+      "title": "미서 약간 퀸 느낌도 있으면서 색기도 있지 않아?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4378038548",
+      "postedLabel": "04:57",
+      "postedAt": "2026-10-17T04:57:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T19:58:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60058,
+      "source": "dc",
+      "externalId": "6594728",
+      "title": "넷플릭스에서 보이는 34기",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594728&page=1",
+      "postedLabel": "04:57",
+      "postedAt": "2026-10-17T04:57:22+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T19:58:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60059,
+      "source": "dc",
+      "externalId": "6594729",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594729&page=1",
+      "postedLabel": "04:57",
+      "postedAt": "2026-10-17T04:57:42+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T19:58:14+00:00",
       "isSeed": false
     }
   ]
