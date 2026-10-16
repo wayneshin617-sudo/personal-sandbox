@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:28:31+00:00",
+  "updatedAt": "2026-10-16T09:29:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -640452,6 +640452,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T09:28:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58432,
+      "source": "dc",
+      "externalId": "6593971",
+      "title": "관심도 없는 25영자 까글 계속 쓰는련 17순자냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593971&page=1",
+      "postedLabel": "18:28",
+      "postedAt": "2026-10-16T18:28:25+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:29:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58433,
+      "source": "dc",
+      "externalId": "6593972",
+      "title": "이번에 14영자 나락가서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593972&page=1",
+      "postedLabel": "18:29",
+      "postedAt": "2026-10-16T18:29:12+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:29:31+00:00",
       "isSeed": false
     }
   ]
