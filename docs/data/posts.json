@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:18:23+00:00",
+  "updatedAt": "2026-10-16T12:19:25+00:00",
   "posts": [
     {
       "id": 1,
@@ -650750,6 +650750,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:18:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58974,
+      "source": "dc",
+      "externalId": "6594252",
+      "title": "7옥 유튭 여론",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594252&page=1",
+      "postedLabel": "21:18",
+      "postedAt": "2026-10-16T21:18:21+09:00",
+      "views": 18,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:19:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58975,
+      "source": "dc",
+      "externalId": "6594253",
+      "title": "특이하게 생김",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594253&page=1",
+      "postedLabel": "21:18",
+      "postedAt": "2026-10-16T21:18:35+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:19:25+00:00",
       "isSeed": false
     }
   ]
