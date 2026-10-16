@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:12:24+00:00",
+  "updatedAt": "2026-10-16T12:13:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -650636,6 +650636,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:12:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58968,
+      "source": "dc",
+      "externalId": "6594246",
+      "title": "24현숙 착하긴 더럽게 착하네...",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594246&page=1",
+      "postedLabel": "21:12",
+      "postedAt": "2026-10-16T21:12:56+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:13:24+00:00",
       "isSeed": false
     }
   ]
