@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:17:53+00:00",
+  "updatedAt": "2026-10-16T15:18:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -661637,6 +661637,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T15:17:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59547,
+      "source": "dc",
+      "externalId": "6594519",
+      "title": "홍상수입니다",
+      "excerpt": "",
+      "author": "소파최영중",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594519&page=1",
+      "postedLabel": "00:17",
+      "postedAt": "2026-10-17T00:17:45+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:18:52+00:00",
       "isSeed": false
     }
   ]
