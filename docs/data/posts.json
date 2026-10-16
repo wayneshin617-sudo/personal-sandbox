@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:43:27+00:00",
+  "updatedAt": "2026-10-16T04:44:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -616816,6 +616816,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T04:43:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57188,
+      "source": "dc",
+      "externalId": "6593498",
+      "title": "의외로 14영자 무던한 성격이 아니더라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593498&page=1",
+      "postedLabel": "13:43",
+      "postedAt": "2026-10-16T13:43:47+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:44:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57189,
+      "source": "dc",
+      "externalId": "6593499",
+      "title": "연예인급으로 이쁘다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593499&page=1",
+      "postedLabel": "13:43",
+      "postedAt": "2026-10-16T13:43:47+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:44:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57190,
+      "source": "dc",
+      "externalId": "6593500",
+      "title": "쓰레드에서 현재 인기글인 세대분석글",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "59.9",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593500&page=1",
+      "postedLabel": "13:43",
+      "postedAt": "2026-10-16T13:43:52+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:44:27+00:00",
       "isSeed": false
     }
   ]
