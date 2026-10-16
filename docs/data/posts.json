@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T16:26:52+00:00",
+  "updatedAt": "2026-10-16T16:27:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -663252,6 +663252,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T16:26:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59632,
+      "source": "dc",
+      "externalId": "6594599",
+      "title": "미스터지 연락하는 사람 잇다는게 제일 충격...",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "14.40",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594599&page=1",
+      "postedLabel": "01:27",
+      "postedAt": "2026-10-17T01:27:15+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T16:27:53+00:00",
       "isSeed": false
     }
   ]
