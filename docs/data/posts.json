@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:59:23+00:00",
+  "updatedAt": "2026-10-16T13:00:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -651928,6 +651928,44 @@
       "recommends": 0,
       "comments": 2,
       "firstSeenAt": "2026-10-16T12:59:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59036,
+      "source": "dc",
+      "externalId": "6594311",
+      "title": "미조가 오늘 팔로한 04년생 존예녀",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594311&page=1",
+      "postedLabel": "21:59",
+      "postedAt": "2026-10-16T21:59:13+09:00",
+      "views": 25,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-16T13:00:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59037,
+      "source": "dc",
+      "externalId": "6594312",
+      "title": "이거시 존잘의 삶인가",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594312&page=1",
+      "postedLabel": "21:59",
+      "postedAt": "2026-10-16T21:59:30+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:00:23+00:00",
       "isSeed": false
     }
   ]
