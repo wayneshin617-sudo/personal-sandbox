@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:14:31+00:00",
+  "updatedAt": "2026-10-16T10:15:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -642105,6 +642105,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T10:14:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58519,
+      "source": "dc",
+      "externalId": "6594055",
+      "title": "22영숙 계약결혼함 나와야하지않음?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594055&page=1",
+      "postedLabel": "19:14",
+      "postedAt": "2026-10-16T19:14:40+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:15:31+00:00",
       "isSeed": false
     }
   ]
