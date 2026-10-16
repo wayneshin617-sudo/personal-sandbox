@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T16:55:53+00:00",
+  "updatedAt": "2026-10-16T16:58:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -663727,6 +663727,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T16:55:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59657,
+      "source": "dc",
+      "externalId": "6594622",
+      "title": "7옥이 주는교훈",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594622&page=1",
+      "postedLabel": "01:58",
+      "postedAt": "2026-10-17T01:58:14+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T16:58:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59658,
+      "source": "dc",
+      "externalId": "6594623",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "31.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594623&page=1",
+      "postedLabel": "01:58",
+      "postedAt": "2026-10-17T01:58:31+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T16:58:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59659,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B8%80%EC%9D%80-%EC%9D%BC%EB%8B%A8-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84-%EA%B0%90%EC%95%88%ED%95%98%EA%B3%A0-%EB%B4%90%EC%95%BC%ED%95%A8-1tf0umb1",
+      "title": "나솔 게시판글은 일단 어느정도 감안하고 봐야함",
+      "excerpt": "대부분이 30대 중후반 ~ 40대 여자의 글이 대부분이라 조리원 가면 40대도 많다 나이 많다고 여자 후려치지 마라 여자가 나이 많아도 예쁘면 상급이다 등등 이런 개소리가 많음",
+      "author": "이*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EA%B2%8C%EC%8B%9C%ED%8C%90%EA%B8%80%EC%9D%80-%EC%9D%BC%EB%8B%A8-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84-%EA%B0%90%EC%95%88%ED%95%98%EA%B3%A0-%EB%B4%90%EC%95%BC%ED%95%A8-1tf0umb1",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T01:58:42+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T16:58:53+00:00",
       "isSeed": false
     }
   ]
