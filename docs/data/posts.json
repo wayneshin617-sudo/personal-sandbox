@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:00:31+00:00",
+  "updatedAt": "2026-10-16T10:02:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -641763,6 +641763,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T10:00:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58501,
+      "source": "dc",
+      "externalId": "6594037",
+      "title": "14영자 미서놓친거 후회중?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594037&page=1",
+      "postedLabel": "19:02",
+      "postedAt": "2026-10-16T19:02:14+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:02:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58502,
+      "source": "dc",
+      "externalId": "6594038",
+      "title": "계속보니까 34현숙 22옥급은 아니네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.230",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594038&page=1",
+      "postedLabel": "19:02",
+      "postedAt": "2026-10-16T19:02:17+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:02:32+00:00",
       "isSeed": false
     }
   ]
