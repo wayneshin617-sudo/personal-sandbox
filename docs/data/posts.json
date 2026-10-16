@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:37:31+00:00",
+  "updatedAt": "2026-10-16T09:38:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -640832,6 +640832,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T09:37:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58452,
+      "source": "dc",
+      "externalId": "6593990",
+      "title": "고트",
+      "excerpt": "",
+      "author": "김광현29",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593990&page=1",
+      "postedLabel": "18:38",
+      "postedAt": "2026-10-16T18:38:00+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:38:31+00:00",
       "isSeed": false
     }
   ]
