@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:43:54+00:00",
+  "updatedAt": "2026-10-16T15:44:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -662340,6 +662340,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T15:43:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59584,
+      "source": "dc",
+      "externalId": "6594555",
+      "title": "미서는 그냥 경리랑 이어줘라 규홍아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594555&page=1",
+      "postedLabel": "00:44",
+      "postedAt": "2026-10-17T00:44:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:44:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59585,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%8B%AE%EC%95%98%EB%8A%94%EB%8D%B0-j1nofp8t",
+      "title": "34기 순자.. 너무 닮았는데??",
+      "excerpt": "김성균.. 나만 그렇게 생각하는 건가ㅋㅋㅋㅋㅋ",
+      "author": "l********",
+      "company": "ex-셀트리온",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%8B%AE%EC%95%98%EB%8A%94%EB%8D%B0-j1nofp8t",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T00:44:40+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T15:44:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59586,
+      "source": "blind",
+      "externalId": "/kr/post/16%EC%83%81%EC%B2%A0-%EC%8B%AC%ED%98%95%ED%83%81-hl4e7p0b",
+      "title": "16상철 심형탁",
+      "excerpt": "둘 다 피규어 좋아하구 자기만 생각하는 아이같은 면이 좀 비슷한데 피규어나 인형 과하게 모으고 좋아하는 나이 많은 남자 특징은 아닌가?",
+      "author": "l*********",
+      "company": "메가스터디교육",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/16%EC%83%81%EC%B2%A0-%EC%8B%AC%ED%98%95%ED%83%81-hl4e7p0b",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T00:44:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T15:44:52+00:00",
       "isSeed": false
     }
   ]
