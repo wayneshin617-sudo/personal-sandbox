@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T02:39:33+00:00",
+  "updatedAt": "2026-10-16T02:40:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -606404,6 +606404,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T02:39:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56640,
+      "source": "dc",
+      "externalId": "6593326",
+      "title": "왜 저렇게 떨어????",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593326&page=1",
+      "postedLabel": "11:39",
+      "postedAt": "2026-10-16T11:39:53+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:40:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56641,
+      "source": "dc",
+      "externalId": "6593327",
+      "title": "메에에에에~~~~~~",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593327&page=1",
+      "postedLabel": "11:40",
+      "postedAt": "2026-10-16T11:40:02+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:40:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56642,
+      "source": "dc",
+      "externalId": "6593328",
+      "title": "이번 사계보고 느낀건데, 앞으로 잘생긴 남출 꼭 넣어야할듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593328&page=1",
+      "postedLabel": "11:40",
+      "postedAt": "2026-10-16T11:40:07+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:40:33+00:00",
       "isSeed": false
     }
   ]
