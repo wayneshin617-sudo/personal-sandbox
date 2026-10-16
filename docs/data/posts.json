@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T13:49:15+00:00",
+  "updatedAt": "2026-10-16T13:50:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -653239,6 +653239,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T13:49:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59105,
+      "source": "qoo",
+      "externalId": "4377874998",
+      "title": "두번 나왔으면 이제 알아서 그만 나오는 게 아름다운 그림일듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377874998",
+      "postedLabel": "22:49",
+      "postedAt": "2026-10-16T22:49:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-16T13:50:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59106,
+      "source": "dc",
+      "externalId": "6594375",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "159.26",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594375&page=1",
+      "postedLabel": "22:49",
+      "postedAt": "2026-10-16T22:49:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:50:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59107,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90-%EA%B7%BC%EB%8D%B0-b5goiew3",
+      "title": "영자 근데",
+      "excerpt": "마음먹으면 다꼬셨고 꽃미남 좋아한다는데 쓰읍...?",
+      "author": "i*********",
+      "company": "GS칼텍스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90-%EA%B7%BC%EB%8D%B0-b5goiew3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T22:50:12+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-16T13:50:23+00:00",
       "isSeed": false
     }
   ]
