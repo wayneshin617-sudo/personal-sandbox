@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:21:31+00:00",
+  "updatedAt": "2026-10-16T10:22:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -642257,6 +642257,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T10:21:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58527,
+      "source": "dc",
+      "externalId": "6594061",
+      "title": "생산직이 더 오래갈 걸?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594061&page=1",
+      "postedLabel": "19:21",
+      "postedAt": "2026-10-16T19:21:42+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:22:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58528,
+      "source": "dc",
+      "externalId": "6594062",
+      "title": "미서 삼전20년정도 다녔으면 연봉 어마무시",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594062&page=1",
+      "postedLabel": "19:21",
+      "postedAt": "2026-10-16T19:21:53+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:22:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58529,
+      "source": "dc",
+      "externalId": "6594063",
+      "title": "34기 아침풍경(feat 아가리 영철)",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594063&page=1",
+      "postedLabel": "19:22",
+      "postedAt": "2026-10-16T19:22:18+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:22:30+00:00",
       "isSeed": false
     }
   ]
