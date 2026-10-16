@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T18:29:14+00:00",
+  "updatedAt": "2026-10-16T18:35:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -670548,6 +670548,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T18:29:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60016,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90%EC%A4%8C-%EC%97%84%EC%B2%AD-%EC%95%84%EC%89%AC%EC%9B%8C%EB%B3%B4%EC%9D%B8%EB%8B%A4-k5i5nmod",
+      "title": "영자줌 엄청 아쉬워보인다",
+      "excerpt": "유튭 40분 동안 1분에 한 번씩 치대네 그리고 미서한테 제일 많이 연락한다함ㅜㅋㅋ",
+      "author": "p*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EC%A4%8C-%EC%97%84%EC%B2%AD-%EC%95%84%EC%89%AC%EC%9B%8C%EB%B3%B4%EC%9D%B8%EB%8B%A4-k5i5nmod",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T03:35:02+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T18:35:14+00:00",
       "isSeed": false
     }
   ]
