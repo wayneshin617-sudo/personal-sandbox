@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:58:33+00:00",
+  "updatedAt": "2026-10-16T01:59:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -605359,6 +605359,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T01:58:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56585,
+      "source": "dc",
+      "externalId": "6593272",
+      "title": "34기 1화보는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593272&page=1",
+      "postedLabel": "10:58",
+      "postedAt": "2026-10-16T10:58:25+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:59:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56586,
+      "source": "dc",
+      "externalId": "6593273",
+      "title": "상철 87 하닉인데 왜 장가 못 갔겠니",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593273&page=1",
+      "postedLabel": "10:58",
+      "postedAt": "2026-10-16T10:58:47+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:59:33+00:00",
       "isSeed": false
     }
   ]
