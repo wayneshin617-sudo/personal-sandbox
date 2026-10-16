@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:35:35+00:00",
+  "updatedAt": "2026-10-16T01:37:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -604675,6 +604675,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T01:35:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56549,
+      "source": "dc",
+      "externalId": "6593238",
+      "title": "미서같은 애 무조건 피해야 해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593238&page=1",
+      "postedLabel": "10:36",
+      "postedAt": "2026-10-16T10:36:28+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:37:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56550,
+      "source": "blind",
+      "externalId": "/kr/post/7%EC%98%A5%EC%88%9C%EC%9D%80-%EC%A7%9D%EC%B0%BE%EB%8A%94-%EB%B0%A9%EC%86%A1-%EA%B7%B8%EB%A7%8C%EB%82%98%EC%98%A4%EA%B8%B8-0lfylf6h",
+      "title": "7옥순은 짝찾는 방송 그만나오길",
+      "excerpt": "솔직히 성 정체성부터 심각하게 의심되는사람을 몇번이고 끌고나와서 모솔타이틀 자랑하는 듯한데 이제 그만 나오길.",
+      "author": "h******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/7%EC%98%A5%EC%88%9C%EC%9D%80-%EC%A7%9D%EC%B0%BE%EB%8A%94-%EB%B0%A9%EC%86%A1-%EA%B7%B8%EB%A7%8C%EB%82%98%EC%98%A4%EA%B8%B8-0lfylf6h",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T10:37:22+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T01:37:33+00:00",
       "isSeed": false
     }
   ]
