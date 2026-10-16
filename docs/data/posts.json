@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T00:38:33+00:00",
+  "updatedAt": "2026-10-16T00:39:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -603307,6 +603307,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T00:38:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56477,
+      "source": "dc",
+      "externalId": "6593174",
+      "title": "미스터지 샵가서 꾸미니까 호감 두부상 됐네ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593174&page=1",
+      "postedLabel": "09:39",
+      "postedAt": "2026-10-16T09:39:10+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:39:34+00:00",
       "isSeed": false
     }
   ]
