@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T13:02:24+00:00",
+  "updatedAt": "2026-10-16T13:03:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -652061,6 +652061,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T13:02:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59043,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EA%B7%B8%EC%82%AC%EB%9E%8C-%EB%8A%90%EB%82%8C%EC%9D%B8%EB%8D%B0-6%EA%B8%B0-%EC%98%81%EC%8B%9D-govucgtk",
+      "title": "영호 그사람 느낌인데 6기 영식",
+      "excerpt": "둘다 데니안 닮았네",
+      "author": "T*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B7%B8%EC%82%AC%EB%9E%8C-%EB%8A%90%EB%82%8C%EC%9D%B8%EB%8D%B0-6%EA%B8%B0-%EC%98%81%EC%8B%9D-govucgtk",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T22:03:12+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T13:03:24+00:00",
       "isSeed": false
     }
   ]
