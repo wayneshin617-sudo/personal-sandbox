@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T17:33:13+00:00",
+  "updatedAt": "2026-10-16T17:34:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -669769,6 +669769,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T17:33:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59975,
+      "source": "dc",
+      "externalId": "6594650",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594650&page=1",
+      "postedLabel": "02:33",
+      "postedAt": "2026-10-17T02:33:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T17:34:14+00:00",
       "isSeed": false
     }
   ]
