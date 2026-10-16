@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:36:27+00:00",
+  "updatedAt": "2026-10-16T04:37:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -616569,6 +616569,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T04:36:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57175,
+      "source": "dc",
+      "externalId": "6593484",
+      "title": "7옥 무성애자일듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593484&page=1",
+      "postedLabel": "13:37",
+      "postedAt": "2026-10-16T13:37:03+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:37:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57176,
+      "source": "dc",
+      "externalId": "6593485",
+      "title": "7옥순 : 썸타는 기간 1년 어때?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593485&page=1",
+      "postedLabel": "13:37",
+      "postedAt": "2026-10-16T13:37:16+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:37:27+00:00",
       "isSeed": false
     }
   ]
