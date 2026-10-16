@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:52:27+00:00",
+  "updatedAt": "2026-10-16T04:53:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -617234,6 +617234,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T04:52:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57210,
+      "source": "dc",
+      "externalId": "6593523",
+      "title": "자, 여성출연자분들 이제 여권 걷겠습니다.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593523&page=1",
+      "postedLabel": "13:53",
+      "postedAt": "2026-10-16T13:53:04+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:53:27+00:00",
       "isSeed": false
     }
   ]
