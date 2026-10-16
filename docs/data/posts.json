@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T08:13:19+00:00",
+  "updatedAt": "2026-10-16T08:14:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -631275,6 +631275,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T08:13:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57949,
+      "source": "qoo",
+      "externalId": "4377576649",
+      "title": "나도 인스타 구경 갔다왔는데 진짜 결 비슷하다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377576649",
+      "postedLabel": "17:13",
+      "postedAt": "2026-10-16T17:13:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T08:14:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57950,
+      "source": "qoo",
+      "externalId": "4377577178",
+      "title": "댓글 읽다가 미서가 7옥인데 삐져서 14영자올인했다는거야?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377577178",
+      "postedLabel": "17:14",
+      "postedAt": "2026-10-16T17:14:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T08:14:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57951,
+      "source": "dc",
+      "externalId": "6593856",
+      "title": "의외로 복스러운 스타일이 인기 많지 않냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.47",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593856&page=1",
+      "postedLabel": "17:14",
+      "postedAt": "2026-10-16T17:14:02+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T08:14:18+00:00",
       "isSeed": false
     }
   ]
