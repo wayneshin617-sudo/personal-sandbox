@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T06:06:18+00:00",
+  "updatedAt": "2026-10-16T06:07:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -627437,6 +627437,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T06:06:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57747,
+      "source": "dc",
+      "externalId": "6593662",
+      "title": "확실히 미지가 얼굴이 되긴 한다 ㅇ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "114.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593662&page=1",
+      "postedLabel": "15:06",
+      "postedAt": "2026-10-16T15:06:37+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T06:07:18+00:00",
       "isSeed": false
     }
   ]
