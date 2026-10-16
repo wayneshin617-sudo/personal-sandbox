@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T23:34:59+00:00",
+  "updatedAt": "2026-10-16T23:35:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -678129,6 +678129,44 @@
       "recommends": 1,
       "comments": 0,
       "firstSeenAt": "2026-10-16T23:34:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60415,
+      "source": "dc",
+      "externalId": "6594850",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594850&page=1",
+      "postedLabel": "08:35",
+      "postedAt": "2026-10-17T08:35:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:35:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60416,
+      "source": "dc",
+      "externalId": "6594851",
+      "title": "34기 현숙님 팔에 타투 있나요??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "175.206",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594851&page=1",
+      "postedLabel": "08:35",
+      "postedAt": "2026-10-17T08:35:39+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:35:59+00:00",
       "isSeed": false
     }
   ]
