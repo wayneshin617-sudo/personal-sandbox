@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T11:51:24+00:00",
+  "updatedAt": "2026-10-16T11:52:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -650085,6 +650085,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T11:51:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58939,
+      "source": "dc",
+      "externalId": "6594221",
+      "title": "미서 26영자 민다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594221&page=1",
+      "postedLabel": "20:51",
+      "postedAt": "2026-10-16T20:51:53+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:52:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58940,
+      "source": "blind",
+      "externalId": "/kr/post/7%EC%98%A5%EC%9D%80-%EC%A7%84%EC%A7%9C-wwfmpmtl",
+      "title": "7옥은 진짜",
+      "excerpt": "얼굴 빼고 노답 맞다 솔직히",
+      "author": "l********",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/7%EC%98%A5%EC%9D%80-%EC%A7%84%EC%A7%9C-wwfmpmtl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T20:52:12+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T11:52:23+00:00",
       "isSeed": false
     }
   ]
