@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T07:04:18+00:00",
+  "updatedAt": "2026-10-16T07:06:17+00:00",
   "posts": [
     {
       "id": 1,
@@ -629090,6 +629090,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T07:04:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57834,
+      "source": "dc",
+      "externalId": "6593748",
+      "title": "미서랑 7옥순도 진득하게 현커는힘듬 ㅎㅎ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593748&page=1",
+      "postedLabel": "16:05",
+      "postedAt": "2026-10-16T16:05:11+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:06:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57835,
+      "source": "dc",
+      "externalId": "6593749",
+      "title": "국화가 옷 잘 입는것 같음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593749&page=1",
+      "postedLabel": "16:05",
+      "postedAt": "2026-10-16T16:05:21+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:06:17+00:00",
       "isSeed": false
     }
   ]
