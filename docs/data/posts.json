@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T16:16:52+00:00",
+  "updatedAt": "2026-10-16T16:17:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -663119,6 +663119,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T16:16:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59625,
+      "source": "dc",
+      "externalId": "6594592",
+      "title": "솔직히 여출들이 정신못차리는거 여기 노괴들때문임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594592&page=1",
+      "postedLabel": "01:17",
+      "postedAt": "2026-10-17T01:17:16+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T16:17:53+00:00",
       "isSeed": false
     }
   ]
