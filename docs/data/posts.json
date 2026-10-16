@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T07:52:17+00:00",
+  "updatedAt": "2026-10-16T07:53:17+00:00",
   "posts": [
     {
       "id": 1,
@@ -630667,6 +630667,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T07:52:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57917,
+      "source": "dc",
+      "externalId": "6593825",
+      "title": "14영자같은 성격 어릴때나 통하지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593825&page=1",
+      "postedLabel": "16:52",
+      "postedAt": "2026-10-16T16:52:25+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:53:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57918,
+      "source": "dc",
+      "externalId": "6593826",
+      "title": "라방 보니까 미스터차가 허약해보이긴 하네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593826&page=1",
+      "postedLabel": "16:52",
+      "postedAt": "2026-10-16T16:52:30+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:53:17+00:00",
       "isSeed": false
     }
   ]
