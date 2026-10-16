@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T05:08:27+00:00",
+  "updatedAt": "2026-10-16T05:09:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -617766,6 +617766,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T05:08:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57238,
+      "source": "dc",
+      "externalId": "6593551",
+      "title": "노인네들은 아직도 미국소먹으면 광우병걸리는줄 안다는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593551&page=1",
+      "postedLabel": "14:08",
+      "postedAt": "2026-10-16T14:08:51+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57239,
+      "source": "qoo",
+      "externalId": "4377403258",
+      "title": "미조가 저벅저벅 7옥의 어장으로 들어감",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377403258",
+      "postedLabel": "14:09",
+      "postedAt": "2026-10-16T14:09:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57240,
+      "source": "dc",
+      "externalId": "6593552",
+      "title": "7옥순은 좀만꾸며도 그냥 연예인",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593552&page=1",
+      "postedLabel": "14:09",
+      "postedAt": "2026-10-16T14:09:05+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:09:27+00:00",
       "isSeed": false
     }
   ]
