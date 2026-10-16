@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T00:21:33+00:00",
+  "updatedAt": "2026-10-16T00:22:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -602813,6 +602813,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-16T00:21:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56451,
+      "source": "dc",
+      "externalId": "6593153",
+      "title": "남자를 옷처럼 생각하는게 문제야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593153&page=1",
+      "postedLabel": "09:21",
+      "postedAt": "2026-10-16T09:21:47+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:22:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56452,
+      "source": "dc",
+      "externalId": "6593154",
+      "title": "남자들은 첫인상 선택 거의 안변하던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593154&page=1",
+      "postedLabel": "09:21",
+      "postedAt": "2026-10-16T09:21:59+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:22:33+00:00",
       "isSeed": false
     }
   ]
