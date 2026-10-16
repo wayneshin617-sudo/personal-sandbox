@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:33:24+00:00",
+  "updatedAt": "2026-10-16T12:34:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -651168,6 +651168,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:33:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58996,
+      "source": "dc",
+      "externalId": "6594273",
+      "title": "고독사 처리하는거 처음봤는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594273&page=1",
+      "postedLabel": "21:33",
+      "postedAt": "2026-10-16T21:33:29+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:34:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58997,
+      "source": "dc",
+      "externalId": "6594274",
+      "title": "34영철 좃간지나긴 한다 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594274&page=1",
+      "postedLabel": "21:33",
+      "postedAt": "2026-10-16T21:33:32+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:34:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58998,
+      "source": "dc",
+      "externalId": "6594275",
+      "title": "무섭냐",
+      "excerpt": "",
+      "author": "ㅋㅋ",
+      "company": "",
+      "ip": "122.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594275&page=1",
+      "postedLabel": "21:33",
+      "postedAt": "2026-10-16T21:33:34+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:34:23+00:00",
       "isSeed": false
     }
   ]
