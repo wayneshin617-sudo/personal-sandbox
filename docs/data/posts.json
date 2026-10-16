@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:56:24+00:00",
+  "updatedAt": "2026-10-16T12:57:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -651833,6 +651833,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T12:56:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59031,
+      "source": "dc",
+      "externalId": "6594305",
+      "title": "부모님 연금 월 650정도 나오는데 많은 편이야???",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594305&page=1",
+      "postedLabel": "21:56",
+      "postedAt": "2026-10-16T21:56:50+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:57:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59032,
+      "source": "dc",
+      "externalId": "6594306",
+      "title": "존예녀들은 결국 테토남이긴하더라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "147.93",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594306&page=1",
+      "postedLabel": "21:56",
+      "postedAt": "2026-10-16T21:56:59+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:57:24+00:00",
       "isSeed": false
     }
   ]
