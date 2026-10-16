@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T11:56:24+00:00",
+  "updatedAt": "2026-10-16T11:58:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -650256,6 +650256,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T11:56:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58948,
+      "source": "dc",
+      "externalId": "6594228",
+      "title": "회사 다니니까 좆같은놈들이 한둘이 아니구나",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.75",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594228&page=1",
+      "postedLabel": "20:57",
+      "postedAt": "2026-10-16T20:57:21+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:58:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58949,
+      "source": "dc",
+      "externalId": "6594229",
+      "title": "14영자가 미서 선택을 안한건",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594229&page=1",
+      "postedLabel": "20:57",
+      "postedAt": "2026-10-16T20:57:32+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:58:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58950,
+      "source": "dc",
+      "externalId": "6594230",
+      "title": "미지 만나는 사람있다는거 뻥이지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594230&page=1",
+      "postedLabel": "20:57",
+      "postedAt": "2026-10-16T20:57:36+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:58:24+00:00",
       "isSeed": false
     }
   ]
