@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T23:18:00+00:00",
+  "updatedAt": "2026-10-16T23:20:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -677863,6 +677863,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T23:18:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60401,
+      "source": "dc",
+      "externalId": "6594838",
+      "title": "미스터 서야 14영자 안 좋아한 척 그만해 추해 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.169",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594838&page=1",
+      "postedLabel": "08:19",
+      "postedAt": "2026-10-17T08:19:17+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:20:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60402,
+      "source": "dc",
+      "externalId": "6594839",
+      "title": "7옥플 웃기노 옥순즈 땐 병풍이었는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594839&page=1",
+      "postedLabel": "08:19",
+      "postedAt": "2026-10-17T08:19:34+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:20:00+00:00",
       "isSeed": false
     }
   ]
