@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T21:59:38+00:00",
+  "updatedAt": "2026-10-16T22:00:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -674215,6 +674215,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T21:59:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60209,
+      "source": "dc",
+      "externalId": "6594784",
+      "title": "mbn껀 네임드 연예인들이라 진실성이 떨어졌던거지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594784&page=1",
+      "postedLabel": "06:59",
+      "postedAt": "2026-10-17T06:59:55+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T22:00:38+00:00",
       "isSeed": false
     }
   ]
