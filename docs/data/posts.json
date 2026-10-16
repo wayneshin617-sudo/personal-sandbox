@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T05:04:27+00:00",
+  "updatedAt": "2026-10-16T05:05:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -617633,6 +617633,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T05:04:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57231,
+      "source": "dc",
+      "externalId": "6593543",
+      "title": "미스터서 회생방안 알려준다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "125.180",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593543&page=1",
+      "postedLabel": "14:04",
+      "postedAt": "2026-10-16T14:04:29+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:05:26+00:00",
       "isSeed": false
     }
   ]
