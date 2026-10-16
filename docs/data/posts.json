@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T00:13:42+00:00",
+  "updatedAt": "2026-10-16T00:14:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -602623,6 +602623,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T00:13:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56441,
+      "source": "dc",
+      "externalId": "6593144",
+      "title": "늙었으면 상조가입이나 해라 추태부리지말고 사계년놈들아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593144&page=1",
+      "postedLabel": "09:13",
+      "postedAt": "2026-10-16T09:13:41+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:14:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56442,
+      "source": "dc",
+      "externalId": "6593145",
+      "title": "냉동난자 꺼드럭이라는 말이 왜케 웃기노ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593145&page=1",
+      "postedLabel": "09:13",
+      "postedAt": "2026-10-16T09:13:49+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:14:33+00:00",
       "isSeed": false
     }
   ]
