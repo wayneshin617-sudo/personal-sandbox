@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:44:23+00:00",
+  "updatedAt": "2026-10-16T12:47:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -651567,6 +651567,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:44:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59017,
+      "source": "dc",
+      "externalId": "6594295",
+      "title": "2026 아이치·나고야 아시안게임 대한민국 메달리스트",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594295&page=1",
+      "postedLabel": "21:46",
+      "postedAt": "2026-10-16T21:46:33+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:47:23+00:00",
       "isSeed": false
     }
   ]
