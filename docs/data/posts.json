@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:55:34+00:00",
+  "updatedAt": "2026-10-16T01:56:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -605207,6 +605207,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T01:55:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56577,
+      "source": "dc",
+      "externalId": "6593264",
+      "title": "근데 34기에 미서 출연했어도, 인기 많았을거 같지 않음?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593264&page=1",
+      "postedLabel": "10:55",
+      "postedAt": "2026-10-16T10:55:37+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:56:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56578,
+      "source": "dc",
+      "externalId": "6593265",
+      "title": "나쏠도 국결 하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.245",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593265&page=1",
+      "postedLabel": "10:55",
+      "postedAt": "2026-10-16T10:55:43+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:56:34+00:00",
       "isSeed": false
     }
   ]
