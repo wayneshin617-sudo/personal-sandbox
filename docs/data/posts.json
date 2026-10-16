@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T02:30:32+00:00",
+  "updatedAt": "2026-10-16T02:32:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -606176,6 +606176,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-16T02:30:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56628,
+      "source": "dc",
+      "externalId": "6593312",
+      "title": "광수 팔 털 뭐냐. 짜장만 먹다갈듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593312&page=1",
+      "postedLabel": "11:31",
+      "postedAt": "2026-10-16T11:31:44+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:32:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56629,
+      "source": "dc",
+      "externalId": "6593313",
+      "title": "나는 솔로 이 프로그램의 최고 문제점",
+      "excerpt": "",
+      "author": "뒤져라충뒤져라",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593313&page=1",
+      "postedLabel": "11:31",
+      "postedAt": "2026-10-16T11:31:46+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:32:33+00:00",
       "isSeed": false
     }
   ]
