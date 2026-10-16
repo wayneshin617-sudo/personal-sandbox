@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:51:31+00:00",
+  "updatedAt": "2026-10-16T09:52:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -641421,6 +641421,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T09:51:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58483,
+      "source": "dc",
+      "externalId": "6594018",
+      "title": "미서 영자보고 불여시ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.10",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594018&page=1",
+      "postedLabel": "18:51",
+      "postedAt": "2026-10-16T18:51:46+09:00",
+      "views": 19,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:52:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58484,
+      "source": "dc",
+      "externalId": "6594019",
+      "title": "난 미서랑 26영자도 잘어울릴거같던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594019&page=1",
+      "postedLabel": "18:51",
+      "postedAt": "2026-10-16T18:51:49+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:52:31+00:00",
       "isSeed": false
     }
   ]
