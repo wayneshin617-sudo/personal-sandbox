@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T13:16:24+00:00",
+  "updatedAt": "2026-10-16T13:17:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -652422,6 +652422,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T13:16:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59062,
+      "source": "dc",
+      "externalId": "6594334",
+      "title": "7옥 미서 한방에 넣고 밖에서 문 잠그자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594334&page=1",
+      "postedLabel": "22:16",
+      "postedAt": "2026-10-16T22:16:14+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:17:24+00:00",
       "isSeed": false
     }
   ]
