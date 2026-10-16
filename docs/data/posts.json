@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T14:46:53+00:00",
+  "updatedAt": "2026-10-16T14:47:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -660649,6 +660649,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T14:46:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59495,
+      "source": "dc",
+      "externalId": "6594470",
+      "title": "향숙줌은 웃을때가 제일예쁘다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594470&page=1",
+      "postedLabel": "23:46",
+      "postedAt": "2026-10-16T23:46:55+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:47:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59496,
+      "source": "dc",
+      "externalId": "6594471",
+      "title": "한가발 빠는 할매들은 비위 좋더라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594471&page=1",
+      "postedLabel": "23:47",
+      "postedAt": "2026-10-16T23:47:27+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:47:53+00:00",
       "isSeed": false
     }
   ]
