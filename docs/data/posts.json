@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T05:37:26+00:00",
+  "updatedAt": "2026-10-16T05:38:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -618811,6 +618811,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T05:37:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57293,
+      "source": "dc",
+      "externalId": "6593601",
+      "title": "14영자는 요번 사계 나오길 잘했지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593601&page=1",
+      "postedLabel": "14:37",
+      "postedAt": "2026-10-16T14:37:24+09:00",
+      "views": 22,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:38:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57294,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%8F%84-%EC%84%B1%EA%B3%BC%EA%B8%89-%EC%9E%90%EB%9E%91-w24b8wa8",
+      "title": "나도 성과급 자랑",
+      "excerpt": "조작 아님",
+      "author": "개**",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8F%84-%EC%84%B1%EA%B3%BC%EA%B8%89-%EC%9E%90%EB%9E%91-w24b8wa8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T14:38:16+09:00",
+      "views": 57,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T05:38:28+00:00",
       "isSeed": false
     }
   ]
