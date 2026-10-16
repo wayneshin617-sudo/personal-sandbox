@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T03:09:27+00:00",
+  "updatedAt": "2026-10-16T03:11:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -614042,6 +614042,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T03:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57042,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EB%82%98%EB%A7%8C-%EC%9E%AC%EB%B0%8C%EB%82%98-8nmb2jyw",
+      "title": "계약결혼 나만 재밌나",
+      "excerpt": "그냥 여느 알콩달콩 같고 귀여움 그냥 부족하고 좀 모지리같은거 여자들이 예쁘게 봐주는것도 구여움",
+      "author": "h********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EB%82%98%EB%A7%8C-%EC%9E%AC%EB%B0%8C%EB%82%98-8nmb2jyw",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T12:11:15+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T03:11:27+00:00",
       "isSeed": false
     }
   ]
