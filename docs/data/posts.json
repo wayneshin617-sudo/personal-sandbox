@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:43:23+00:00",
+  "updatedAt": "2026-10-16T12:44:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -651529,6 +651529,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:43:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59015,
+      "source": "dc",
+      "externalId": "6594293",
+      "title": "미서 유튭보고 왔는데 남규홍 이제",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594293&page=1",
+      "postedLabel": "21:43",
+      "postedAt": "2026-10-16T21:43:22+09:00",
+      "views": 15,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:44:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59016,
+      "source": "dc",
+      "externalId": "6594294",
+      "title": "이분은 직업이 뭘까 귱금함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594294&page=1",
+      "postedLabel": "21:43",
+      "postedAt": "2026-10-16T21:43:37+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:44:23+00:00",
       "isSeed": false
     }
   ]
