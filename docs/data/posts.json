@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T06:24:17+00:00",
+  "updatedAt": "2026-10-16T06:25:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -627950,6 +627950,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-16T06:24:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57774,
+      "source": "dc",
+      "externalId": "6593690",
+      "title": "26영자는 미서 좋아한거 맞다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593690&page=1",
+      "postedLabel": "15:24",
+      "postedAt": "2026-10-16T15:24:29+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T06:25:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57775,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AF%B8%EC%84%9C%EB%9E%91-%EC%98%A5%EC%88%9C%EC%9D%B4%EB%9E%91-7utyxvll",
+      "title": "미서랑 옥순이랑",
+      "excerpt": "지볶행 찍으면 재밌을 듯 둘다 여행 좋아하고 그걸로 통했는데 지볶행이 딱이네 미서 자유로움 품어 줄 수 있는 여자는 7옥순인데 여기서 끝내긴 아쉽다",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AF%B8%EC%84%9C%EB%9E%91-%EC%98%A5%EC%88%9C%EC%9D%B4%EB%9E%91-7utyxvll",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T15:25:06+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T06:25:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57776,
+      "source": "dc",
+      "externalId": "6593691",
+      "title": "7옥아 31순자 못생긴게 경수 꿰차는거 못봤어?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593691&page=1",
+      "postedLabel": "15:25",
+      "postedAt": "2026-10-16T15:25:06+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T06:25:18+00:00",
       "isSeed": false
     }
   ]
