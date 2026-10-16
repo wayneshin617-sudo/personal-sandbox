@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T21:28:38+00:00",
+  "updatedAt": "2026-10-16T21:34:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -673949,6 +673949,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T21:28:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60195,
+      "source": "dc",
+      "externalId": "6594770",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "103.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594770&page=1",
+      "postedLabel": "06:33",
+      "postedAt": "2026-10-17T06:33:40+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T21:34:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60196,
+      "source": "dc",
+      "externalId": "6594771",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594771&page=1",
+      "postedLabel": "06:34",
+      "postedAt": "2026-10-17T06:34:16+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T21:34:38+00:00",
       "isSeed": false
     }
   ]
