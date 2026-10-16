@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:47:31+00:00",
+  "updatedAt": "2026-10-16T09:48:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -641250,6 +641250,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T09:47:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58474,
+      "source": "dc",
+      "externalId": "6594011",
+      "title": "경수 카메라 전자상가같은데 순자 끌고다니며",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594011&page=1",
+      "postedLabel": "18:47",
+      "postedAt": "2026-10-16T18:47:40+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:48:31+00:00",
       "isSeed": false
     }
   ]
