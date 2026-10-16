@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T20:55:38+00:00",
+  "updatedAt": "2026-10-16T20:57:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -673702,6 +673702,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T20:55:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60182,
+      "source": "dc",
+      "externalId": "6594757",
+      "title": "레이나 05년생이었네 ㄷㄷ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594757&page=1",
+      "postedLabel": "05:56",
+      "postedAt": "2026-10-17T05:56:28+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T20:57:38+00:00",
       "isSeed": false
     }
   ]
