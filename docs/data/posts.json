@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:46:52+00:00",
+  "updatedAt": "2026-10-16T15:47:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -662435,6 +662435,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T15:46:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59589,
+      "source": "dc",
+      "externalId": "6594558",
+      "title": "내가 치아관리에 진심인 사람인데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594558&page=1",
+      "postedLabel": "00:47",
+      "postedAt": "2026-10-17T00:47:08+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:47:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59590,
+      "source": "dc",
+      "externalId": "6594559",
+      "title": "현실적으로 남자 외모가 결혼에 미치는 영향 어느정도라봄?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.182",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594559&page=1",
+      "postedLabel": "00:47",
+      "postedAt": "2026-10-17T00:47:13+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:47:53+00:00",
       "isSeed": false
     }
   ]
