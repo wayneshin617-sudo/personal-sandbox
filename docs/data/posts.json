@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T05:19:27+00:00",
+  "updatedAt": "2026-10-16T05:20:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -618108,6 +618108,63 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-16T05:19:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57256,
+      "source": "dc",
+      "externalId": "6593567",
+      "title": "7옥 외모 이상형이 원빈이래",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593567&page=1",
+      "postedLabel": "14:19",
+      "postedAt": "2026-10-16T14:19:41+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:20:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57257,
+      "source": "dc",
+      "externalId": "6593568",
+      "title": "✋ 10월 15일 나는 솔로 갤러리 순위입니다.",
+      "excerpt": "",
+      "author": "순위봇",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593568&page=1",
+      "postedLabel": "14:19",
+      "postedAt": "2026-10-16T14:19:50+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:20:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57258,
+      "source": "dc",
+      "externalId": "6593569",
+      "title": "썸타는 기간이 왜 필요하지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593569&page=1",
+      "postedLabel": "14:19",
+      "postedAt": "2026-10-16T14:19:53+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:20:26+00:00",
       "isSeed": false
     }
   ]
