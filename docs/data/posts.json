@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:43:30+00:00",
+  "updatedAt": "2026-10-16T10:44:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -643074,6 +643074,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T10:43:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58570,
+      "source": "dc",
+      "externalId": "6594103",
+      "title": "이민호 닯은 미서 ~",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.159",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594103&page=1",
+      "postedLabel": "19:43",
+      "postedAt": "2026-10-16T19:43:32+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:44:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58571,
+      "source": "dc",
+      "externalId": "6594104",
+      "title": "밥 많이 먹는거 캐릭터 잡는거 같아서 보기 별로",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "175.200",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594104&page=1",
+      "postedLabel": "19:43",
+      "postedAt": "2026-10-16T19:43:38+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:44:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58572,
+      "source": "dc",
+      "externalId": "6594105",
+      "title": "영철이 95-97 예상했는데 생각보다 나이 개많네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594105&page=1",
+      "postedLabel": "19:44",
+      "postedAt": "2026-10-16T19:44:01+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:44:31+00:00",
       "isSeed": false
     }
   ]
