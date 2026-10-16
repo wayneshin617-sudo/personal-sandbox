@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T18:04:14+00:00",
+  "updatedAt": "2026-10-16T18:05:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -670282,6 +670282,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T18:04:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60002,
+      "source": "dc",
+      "externalId": "6594676",
+      "title": "미서가 7옥 이쁘다하니까 또 아줌마들 7옥 깎아내리네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594676&page=1",
+      "postedLabel": "03:04",
+      "postedAt": "2026-10-17T03:04:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T18:05:14+00:00",
       "isSeed": false
     }
   ]
