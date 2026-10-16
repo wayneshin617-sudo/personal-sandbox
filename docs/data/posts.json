@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:30:30+00:00",
+  "updatedAt": "2026-10-16T10:32:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -642580,6 +642580,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T10:30:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58544,
+      "source": "dc",
+      "externalId": "6594079",
+      "title": "대기업 생산직 힘들다고 하지마라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "175.200",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594079&page=1",
+      "postedLabel": "19:32",
+      "postedAt": "2026-10-16T19:32:09+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:32:31+00:00",
       "isSeed": false
     }
   ]
