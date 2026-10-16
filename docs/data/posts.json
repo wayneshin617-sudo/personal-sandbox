@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T00:55:33+00:00",
+  "updatedAt": "2026-10-16T00:56:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -603763,6 +603763,63 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-16T00:55:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56501,
+      "source": "dc",
+      "externalId": "6593192",
+      "title": "영숙이가 졸업한 대학교",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593192&page=1",
+      "postedLabel": "09:55",
+      "postedAt": "2026-10-16T09:55:29+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:56:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56502,
+      "source": "dc",
+      "externalId": "6593193",
+      "title": "역시 미서 옥순이 맞았네ㅋㅋㅋ투명하다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.132",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593193&page=1",
+      "postedLabel": "09:55",
+      "postedAt": "2026-10-16T09:55:52+09:00",
+      "views": 22,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:56:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56503,
+      "source": "dc",
+      "externalId": "6593194",
+      "title": "현숙 그래도 살뺴니까 100배는 낫다 ㄹㅇ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593194&page=1",
+      "postedLabel": "09:56",
+      "postedAt": "2026-10-16T09:56:14+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:56:33+00:00",
       "isSeed": false
     }
   ]
