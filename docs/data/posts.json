@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T07:54:17+00:00",
+  "updatedAt": "2026-10-16T07:56:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -630743,6 +630743,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-16T07:54:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57921,
+      "source": "dc",
+      "externalId": "6593830",
+      "title": "14영자는 남자한테 화를 불러일으키는 성격이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593830&page=1",
+      "postedLabel": "16:55",
+      "postedAt": "2026-10-16T16:55:44+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:56:18+00:00",
       "isSeed": false
     }
   ]
