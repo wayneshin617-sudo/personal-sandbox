@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:02:31+00:00",
+  "updatedAt": "2026-10-16T09:03:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -639597,6 +639597,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T09:02:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58387,
+      "source": "qoo",
+      "externalId": "4377623234",
+      "title": "아니 이번주 리액션 진짜 재밌네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377623234",
+      "postedLabel": "18:02",
+      "postedAt": "2026-10-16T18:02:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:03:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58388,
+      "source": "dc",
+      "externalId": "6593929",
+      "title": "31순자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "14.41",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593929&page=1",
+      "postedLabel": "18:03",
+      "postedAt": "2026-10-16T18:03:12+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:03:30+00:00",
       "isSeed": false
     }
   ]
