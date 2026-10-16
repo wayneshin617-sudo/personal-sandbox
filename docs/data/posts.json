@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T14:16:37+00:00",
+  "updatedAt": "2026-10-16T14:17:37+00:00",
   "posts": [
     {
       "id": 1,
@@ -653999,6 +653999,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T14:16:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59145,
+      "source": "dc",
+      "externalId": "6594409",
+      "title": "7옥줌다리가 뭐가이쁨 찐다리는 이건데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594409&page=1",
+      "postedLabel": "23:16",
+      "postedAt": "2026-10-16T23:16:36+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:17:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59146,
+      "source": "dc",
+      "externalId": "6594410",
+      "title": "이 정도 외모면",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "122.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594410&page=1",
+      "postedLabel": "23:17",
+      "postedAt": "2026-10-16T23:17:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:17:37+00:00",
       "isSeed": false
     }
   ]
