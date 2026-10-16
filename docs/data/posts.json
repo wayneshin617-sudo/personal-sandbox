@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:48:27+00:00",
+  "updatedAt": "2026-10-16T04:49:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -616987,6 +616987,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T04:48:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57197,
+      "source": "dc",
+      "externalId": "6593508",
+      "title": "코가 마이클잭슨같이 변했네?",
+      "excerpt": "",
+      "author": "사과맛제리뽀",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593508&page=1",
+      "postedLabel": "13:48",
+      "postedAt": "2026-10-16T13:48:30+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:49:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57198,
+      "source": "dc",
+      "externalId": "6593509",
+      "title": "7옥순이는 말도 안되는 전제 깔고 연애하려니까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593509&page=1",
+      "postedLabel": "13:48",
+      "postedAt": "2026-10-16T13:48:33+09:00",
+      "views": 14,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:49:27+00:00",
       "isSeed": false
     }
   ]
