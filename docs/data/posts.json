@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:07:31+00:00",
+  "updatedAt": "2026-10-16T10:08:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -641896,6 +641896,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T10:07:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58508,
+      "source": "dc",
+      "externalId": "6594045",
+      "title": "31순자 연예인 맞지 노괴들 질투 ㅈㄹ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "187.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594045&page=1",
+      "postedLabel": "19:07",
+      "postedAt": "2026-10-16T19:07:21+09:00",
+      "views": 15,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:08:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58509,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%84%EB%AC%B8%EB%8C%80%EC%A1%B8-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-25%EC%A7%84%EC%A3%BC%EC%98%81%EC%9E%90-vs-34%ED%95%9C%EC%9D%98%EC%82%AC%EC%98%81%EC%9E%90-32zzywjs",
+      "title": "투표글 전문대졸 프리랜서 25진주영자 vs 34한의사영자 투표",
+      "excerpt": "남자들 여자 외모냐 능력이냐 결혼 상대로 누가 더 좋니",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%84%EB%AC%B8%EB%8C%80%EC%A1%B8-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-25%EC%A7%84%EC%A3%BC%EC%98%81%EC%9E%90-vs-34%ED%95%9C%EC%9D%98%EC%82%AC%EC%98%81%EC%9E%90-32zzywjs",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T19:08:19+09:00",
+      "views": 35,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T10:08:31+00:00",
       "isSeed": false
     }
   ]
