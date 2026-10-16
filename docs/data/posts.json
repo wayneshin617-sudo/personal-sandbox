@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T14:09:37+00:00",
+  "updatedAt": "2026-10-16T14:10:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -653847,6 +653847,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T14:09:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59137,
+      "source": "dc",
+      "externalId": "6594400",
+      "title": "외국인특집도 현실적아니냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594400&page=1",
+      "postedLabel": "23:10",
+      "postedAt": "2026-10-16T23:10:08+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:10:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59138,
+      "source": "dc",
+      "externalId": "6594401",
+      "title": "투표",
+      "excerpt": "",
+      "author": "김광현29",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594401&page=1",
+      "postedLabel": "23:10",
+      "postedAt": "2026-10-16T23:10:25+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:10:38+00:00",
       "isSeed": false
     }
   ]
