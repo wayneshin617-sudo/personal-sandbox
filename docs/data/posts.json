@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T07:44:18+00:00",
+  "updatedAt": "2026-10-16T07:45:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -630420,6 +630420,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T07:44:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57904,
+      "source": "dc",
+      "externalId": "6593812",
+      "title": "7옥이 진짜 나쁜게",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.71",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593812&page=1",
+      "postedLabel": "16:44",
+      "postedAt": "2026-10-16T16:44:14+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:45:18+00:00",
       "isSeed": false
     }
   ]
