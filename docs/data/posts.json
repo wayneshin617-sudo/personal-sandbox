@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:28:24+00:00",
+  "updatedAt": "2026-10-16T12:29:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -651016,6 +651016,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:28:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58988,
+      "source": "qoo",
+      "externalId": "4377804160",
+      "title": "미서 방송 은퇴할것같음ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377804160",
+      "postedLabel": "21:28",
+      "postedAt": "2026-10-16T21:28:00+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-16T12:29:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58989,
+      "source": "dc",
+      "externalId": "6594266",
+      "title": "영철존나패고싶은 이유가 뭐냐? 잘생겨서 질투임?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594266&page=1",
+      "postedLabel": "21:28",
+      "postedAt": "2026-10-16T21:28:20+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:29:23+00:00",
       "isSeed": false
     }
   ]
