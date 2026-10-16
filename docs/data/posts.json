@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:48:33+00:00",
+  "updatedAt": "2026-10-16T01:49:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -605055,6 +605055,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T01:48:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56569,
+      "source": "dc",
+      "externalId": "6593256",
+      "title": "우리형 반도체 공장에서 일하다가 암걸림",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593256&page=1",
+      "postedLabel": "10:48",
+      "postedAt": "2026-10-16T10:48:29+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:49:33+00:00",
       "isSeed": false
     }
   ]
