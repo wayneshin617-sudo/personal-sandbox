@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T13:20:24+00:00",
+  "updatedAt": "2026-10-16T13:21:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -652498,6 +652498,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T13:20:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59066,
+      "source": "dc",
+      "externalId": "6594338",
+      "title": "7옥미조 왜 현커 아니지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.110",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594338&page=1",
+      "postedLabel": "22:20",
+      "postedAt": "2026-10-16T22:20:39+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:21:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59067,
+      "source": "dc",
+      "externalId": "6594339",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "89.33",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594339&page=1",
+      "postedLabel": "22:20",
+      "postedAt": "2026-10-16T22:20:54+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:21:24+00:00",
       "isSeed": false
     }
   ]
