@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T11:37:27+00:00",
+  "updatedAt": "2026-10-16T11:38:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -649629,6 +649629,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T11:37:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58915,
+      "source": "dc",
+      "externalId": "6594201",
+      "title": "7옥이 ㅈㄴ 이쁘긴해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594201&page=1",
+      "postedLabel": "20:37",
+      "postedAt": "2026-10-16T20:37:52+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:38:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58916,
+      "source": "dc",
+      "externalId": "6594202",
+      "title": "예쁜걸 떠나서 14영자보단 7옥이지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594202&page=1",
+      "postedLabel": "20:38",
+      "postedAt": "2026-10-16T20:38:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:38:24+00:00",
       "isSeed": false
     }
   ]
