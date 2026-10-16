@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T14:56:53+00:00",
+  "updatedAt": "2026-10-16T14:57:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -660934,6 +660934,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T14:56:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59510,
+      "source": "dc",
+      "externalId": "6594486",
+      "title": "남규홍 노친네 미서 7옥 망붕 보면서 존나 감격했나봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594486&page=1",
+      "postedLabel": "23:56",
+      "postedAt": "2026-10-16T23:56:53+09:00",
+      "views": 19,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:57:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59511,
+      "source": "dc",
+      "externalId": "6594487",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594487&page=1",
+      "postedLabel": "23:56",
+      "postedAt": "2026-10-16T23:56:55+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:57:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59512,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EB%8B%A8-%ED%95%9C%EC%BB%B7%EB%8F%84-%EB%BA%84%EA%B2%8C-%EC%97%86%EC%9D%B4-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4%EB%84%A4-v5b81om5",
+      "title": "영숙은 단 한컷도 뺄게 없이 비호감이네",
+      "excerpt": "심지어 단어 하나하나까지 버릴 게 없이 싼마이고 부정적이고 예의라고는 없는 심지어 질문할 때도 \"고부 갈등 누구 편들거냐\"부터 하나가 주옥같네 33기 영수 볼 때도 역했는데 그 이상인듯",
+      "author": "r****",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EB%8B%A8-%ED%95%9C%EC%BB%B7%EB%8F%84-%EB%BA%84%EA%B2%8C-%EC%97%86%EC%9D%B4-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4%EB%84%A4-v5b81om5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T23:57:42+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T14:57:53+00:00",
       "isSeed": false
     }
   ]
