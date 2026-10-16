@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T02:14:34+00:00",
+  "updatedAt": "2026-10-16T02:15:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -605720,6 +605720,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-16T02:14:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56604,
+      "source": "dc",
+      "externalId": "6593289",
+      "title": "은행 고객센터 일하는 분들 혹시 있어?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "218.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593289&page=1",
+      "postedLabel": "11:14",
+      "postedAt": "2026-10-16T11:14:49+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:15:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56605,
+      "source": "dc",
+      "externalId": "6593290",
+      "title": "솔리보니까 미서 옥순 서로 1순위맞던데 한가발어쩌구 하는 정병년 아닥하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.139",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593290&page=1",
+      "postedLabel": "11:15",
+      "postedAt": "2026-10-16T11:15:19+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:15:34+00:00",
       "isSeed": false
     }
   ]
