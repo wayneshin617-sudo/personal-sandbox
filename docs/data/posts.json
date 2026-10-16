@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:22:30+00:00",
+  "updatedAt": "2026-10-16T09:23:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -640262,6 +640262,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T09:22:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58422,
+      "source": "dc",
+      "externalId": "6593961",
+      "title": "라방 존나웃기네 ㅋㅋ 믿거조 꺼드럭조 사대주의조ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593961&page=1",
+      "postedLabel": "18:22",
+      "postedAt": "2026-10-16T18:22:41+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:23:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58423,
+      "source": "dc",
+      "externalId": "6593962",
+      "title": "하닉 고졸 생산직이면 3교대인가?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.71",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593962&page=1",
+      "postedLabel": "18:22",
+      "postedAt": "2026-10-16T18:22:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:23:32+00:00",
       "isSeed": false
     }
   ]
