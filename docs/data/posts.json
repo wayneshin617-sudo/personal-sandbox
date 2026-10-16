@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:05:27+00:00",
+  "updatedAt": "2026-10-16T04:06:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -615562,6 +615562,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T04:05:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57122,
+      "source": "qoo",
+      "externalId": "4377337891",
+      "title": "어제 미조 헛소리 할 때 미공 센스 괜찮더라",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377337891",
+      "postedLabel": "13:05",
+      "postedAt": "2026-10-16T13:05:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:06:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57123,
+      "source": "dc",
+      "externalId": "6593437",
+      "title": "14영자 이쁘긴 이쁘면 개추",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593437&page=1",
+      "postedLabel": "13:05",
+      "postedAt": "2026-10-16T13:05:22+09:00",
+      "views": 17,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:06:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57124,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4%EB%8A%94-%EC%82%AC%ED%9A%8C%EC%84%B1%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EB%B6%80%EC%A1%B1%ED%95%A8-etne3weq",
+      "title": "상철이는 사회성이 많이 부족함...",
+      "excerpt": "영호 예의바르고 부지런한거 의도치 않은 조롱 시기질투나 비하 목적은 안보였지만 3절4절 반복.. 개그는 반복이라는데 얘는 의도치않게 조롱이된다는 걸 모름 장거리하면 여자쪽에 집 한채 더 사면 된다 88 89 90 91 나잇대 다 비슷한데 유머있어 보이려고 집합드립.. 등등 크게 몇개가 기억나는데 제일 사회성없어 보인 게 하이닉스 들어간 거 얘기할 때 친구덕에 알게됐고 친구덕에 같이 준비했는데 친구는 떨어지고 본인만 붙었다.. 이걸 웃으면서 얘기하는 게 맞나싶음 이게 너무 싫어서 계속 생각나 가뜩이나 닉스 뽕 오지게 왔을 때",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4%EB%8A%94-%EC%82%AC%ED%9A%8C%EC%84%B1%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EB%B6%80%EC%A1%B1%ED%95%A8-etne3weq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T13:06:15+09:00",
+      "views": 13,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T04:06:27+00:00",
       "isSeed": false
     }
   ]
