@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T18:13:14+00:00",
+  "updatedAt": "2026-10-16T18:14:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -670377,6 +670377,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T18:13:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60007,
+      "source": "dc",
+      "externalId": "6594681",
+      "title": "14영자 예언 실현 됐네 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594681&page=1",
+      "postedLabel": "03:13",
+      "postedAt": "2026-10-17T03:13:39+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T18:14:14+00:00",
       "isSeed": false
     }
   ]
