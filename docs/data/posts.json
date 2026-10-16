@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T15:21:53+00:00",
+  "updatedAt": "2026-10-16T15:22:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -661751,6 +661751,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T15:21:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59553,
+      "source": "dc",
+      "externalId": "6594525",
+      "title": "여자와 스킨쉽 쉽게하는 남자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594525&page=1",
+      "postedLabel": "00:21",
+      "postedAt": "2026-10-17T00:21:45+09:00",
+      "views": 8,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:22:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59554,
+      "source": "dc",
+      "externalId": "6594526",
+      "title": "눈치없는애들 특징이 한명 여론 안좋아지면 같이 존나깜",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594526&page=1",
+      "postedLabel": "00:21",
+      "postedAt": "2026-10-17T00:21:46+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:22:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59555,
+      "source": "dc",
+      "externalId": "6594527",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "195.242",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594527&page=1",
+      "postedLabel": "00:22",
+      "postedAt": "2026-10-17T00:22:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T15:22:53+00:00",
       "isSeed": false
     }
   ]
