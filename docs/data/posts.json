@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T08:35:17+00:00",
+  "updatedAt": "2026-10-16T08:36:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -632301,6 +632301,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-16T08:35:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58003,
+      "source": "dc",
+      "externalId": "6593901",
+      "title": "14영자 왤케 감정적이냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593901&page=1",
+      "postedLabel": "17:35",
+      "postedAt": "2026-10-16T17:35:25+09:00",
+      "views": 13,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T08:36:18+00:00",
       "isSeed": false
     }
   ]
