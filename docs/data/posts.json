@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:57:27+00:00",
+  "updatedAt": "2026-10-16T04:58:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -617329,6 +617329,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T04:57:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57215,
+      "source": "dc",
+      "externalId": "6593528",
+      "title": "34기 정숙님 보면 이분 생각남",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.65",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593528&page=1",
+      "postedLabel": "13:57",
+      "postedAt": "2026-10-16T13:57:17+09:00",
+      "views": 12,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:58:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57216,
+      "source": "dc",
+      "externalId": "6593529",
+      "title": "나는 솔로 쳐나와서 결혼결정사 차린건 레전드넼ㅋ",
+      "excerpt": "",
+      "author": "조주필",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593529&page=1",
+      "postedLabel": "13:58",
+      "postedAt": "2026-10-16T13:58:08+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:58:27+00:00",
       "isSeed": false
     }
   ]
