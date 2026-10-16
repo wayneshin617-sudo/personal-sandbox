@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T08:23:17+00:00",
+  "updatedAt": "2026-10-16T08:24:17+00:00",
   "posts": [
     {
       "id": 1,
@@ -631864,6 +631864,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T08:23:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57980,
+      "source": "dc",
+      "externalId": "6593883",
+      "title": "미소미조 본방나왔으면 이름은?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593883&page=1",
+      "postedLabel": "17:23",
+      "postedAt": "2026-10-16T17:23:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T08:24:17+00:00",
       "isSeed": false
     }
   ]
