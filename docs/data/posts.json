@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T20:16:37+00:00",
+  "updatedAt": "2026-10-16T20:19:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -673360,6 +673360,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T20:16:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60164,
+      "source": "dc",
+      "externalId": "6594738",
+      "title": "영호가 레알 ㅅㅌㅊ인게",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594738&page=1",
+      "postedLabel": "05:18",
+      "postedAt": "2026-10-17T05:18:58+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T20:19:38+00:00",
       "isSeed": false
     }
   ]
