@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T05:45:27+00:00",
+  "updatedAt": "2026-10-16T05:46:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -619324,6 +619324,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T05:45:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57320,
+      "source": "dc",
+      "externalId": "6593628",
+      "title": "26영자 내가 본 여자중 얼굴 제일 큰듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "203.229",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593628&page=1",
+      "postedLabel": "14:46",
+      "postedAt": "2026-10-16T14:46:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:46:26+00:00",
       "isSeed": false
     }
   ]
