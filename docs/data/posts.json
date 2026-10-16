@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:32:27+00:00",
+  "updatedAt": "2026-10-16T04:33:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -616417,6 +616417,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T04:32:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57167,
+      "source": "dc",
+      "externalId": "6593477",
+      "title": "31기 솔리도 잼썼는데 사계 솔리도 존잼이네 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593477&page=1",
+      "postedLabel": "13:32",
+      "postedAt": "2026-10-16T13:32:20+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:33:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57168,
+      "source": "dc",
+      "externalId": "6593478",
+      "title": "사계 외국인특집은 33영식이 딱인데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593478&page=1",
+      "postedLabel": "13:33",
+      "postedAt": "2026-10-16T13:33:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:33:26+00:00",
       "isSeed": false
     }
   ]
