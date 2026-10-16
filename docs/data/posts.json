@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T18:55:14+00:00",
+  "updatedAt": "2026-10-16T18:56:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -670757,6 +670757,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T18:55:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60027,
+      "source": "dc",
+      "externalId": "6594700",
+      "title": "40먹은 한녀도 표독,기싸움 ㅅㅂ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594700&page=1",
+      "postedLabel": "03:55",
+      "postedAt": "2026-10-17T03:55:14+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T18:56:14+00:00",
       "isSeed": false
     }
   ]
