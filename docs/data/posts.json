@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T00:20:33+00:00",
+  "updatedAt": "2026-10-16T00:21:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -602775,6 +602775,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T00:20:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56449,
+      "source": "qoo",
+      "externalId": "4377154638",
+      "title": "이번사계는 작정하고 선남선녀 모아놨는데도 현커가 안나오네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377154638",
+      "postedLabel": "09:20",
+      "postedAt": "2026-10-16T09:20:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:21:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56450,
+      "source": "dc",
+      "externalId": "6593152",
+      "title": "미조는 나이50에 말을 저렇게 횡설수설하면 어떡하노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593152&page=1",
+      "postedLabel": "09:20",
+      "postedAt": "2026-10-16T09:20:33+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:21:33+00:00",
       "isSeed": false
     }
   ]
