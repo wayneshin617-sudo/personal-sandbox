@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T00:48:33+00:00",
+  "updatedAt": "2026-10-16T00:49:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -603611,6 +603611,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T00:48:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56493,
+      "source": "dc",
+      "externalId": "6593187",
+      "title": "주제파악 못하고 눈 높으면 노처녀되는거지.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593187&page=1",
+      "postedLabel": "09:48",
+      "postedAt": "2026-10-16T09:48:22+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:49:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56494,
+      "source": "qoo",
+      "externalId": "4377175116",
+      "title": "영자ㅋㅋㅋㅋ 미서 만나보지 개아깝다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377175116",
+      "postedLabel": "09:49",
+      "postedAt": "2026-10-16T09:48:59+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:49:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56495,
+      "source": "qoo",
+      "externalId": "4377175133",
+      "title": "국화랑 14영자는 최종선택 안할건데 왜 말안해준거야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377175133",
+      "postedLabel": "09:49",
+      "postedAt": "2026-10-16T09:49:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:49:33+00:00",
       "isSeed": false
     }
   ]
