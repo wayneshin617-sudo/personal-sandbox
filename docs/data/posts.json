@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T02:24:33+00:00",
+  "updatedAt": "2026-10-16T02:25:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -606005,6 +606005,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T02:24:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56619,
+      "source": "dc",
+      "externalId": "6593304",
+      "title": "미서도 꼴에 자존심 존나 세노 이거야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.75",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593304&page=1",
+      "postedLabel": "11:25",
+      "postedAt": "2026-10-16T11:25:17+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T02:25:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56620,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%ED%95%98%EB%8B%89-%EC%83%81%EC%B2%A0-auqb00j2",
+      "title": "34기 하닉 상철",
+      "excerpt": "직장 동료들이 응원 영상 찍은거 보니까..... 흠.. 하나같이 다들 생산직 느낌 너무 나긴 하더라 대졸 직장인 중에 저런 그림체를 본 적이 없어",
+      "author": "투***",
+      "company": "NH투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%95%98%EB%8B%89-%EC%83%81%EC%B2%A0-auqb00j2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T11:25:21+09:00",
+      "views": 17,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T02:25:33+00:00",
       "isSeed": false
     }
   ]
