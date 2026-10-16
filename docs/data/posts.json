@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T06:14:18+00:00",
+  "updatedAt": "2026-10-16T06:15:17+00:00",
   "posts": [
     {
       "id": 1,
@@ -627627,6 +627627,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T06:14:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57757,
+      "source": "dc",
+      "externalId": "6593672",
+      "title": "무기계약직 취집 실패 했네 ....",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593672&page=1",
+      "postedLabel": "15:14",
+      "postedAt": "2026-10-16T15:14:28+09:00",
+      "views": 13,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T06:15:17+00:00",
       "isSeed": false
     }
   ]
