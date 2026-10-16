@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:19:31+00:00",
+  "updatedAt": "2026-10-16T09:21:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -640186,6 +640186,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T09:19:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58418,
+      "source": "dc",
+      "externalId": "6593957",
+      "title": "7옥 솔직하지 못하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593957&page=1",
+      "postedLabel": "18:20",
+      "postedAt": "2026-10-16T18:20:24+09:00",
+      "views": 19,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:21:30+00:00",
       "isSeed": false
     }
   ]
