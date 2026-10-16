@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:00:23+00:00",
+  "updatedAt": "2026-10-16T12:01:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -650446,6 +650446,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:00:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58958,
+      "source": "dc",
+      "externalId": "6594236",
+      "title": "저출산 문제해결하려면 나라에서 은근히 여성 채용 규모를 줄이는게 해결책아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594236&page=1",
+      "postedLabel": "21:00",
+      "postedAt": "2026-10-16T21:00:50+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:01:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58959,
+      "source": "dc",
+      "externalId": "6594237",
+      "title": "빽가 닮았는데",
+      "excerpt": "",
+      "author": "2c",
+      "company": "",
+      "ip": "58.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594237&page=1",
+      "postedLabel": "21:00",
+      "postedAt": "2026-10-16T21:00:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:01:23+00:00",
       "isSeed": false
     }
   ]
