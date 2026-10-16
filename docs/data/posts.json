@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T23:03:05+00:00",
+  "updatedAt": "2026-10-16T23:04:11+00:00",
   "posts": [
     {
       "id": 1,
@@ -677654,6 +677654,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T23:03:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60390,
+      "source": "dc",
+      "externalId": "6594827",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "169.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594827&page=1",
+      "postedLabel": "08:03",
+      "postedAt": "2026-10-17T08:03:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:04:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60391,
+      "source": "dc",
+      "externalId": "6594828",
+      "title": "7옥 성격좋다 계속 옆에서 14영자가 7옥 껴 안을걸로 징징거리는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594828&page=1",
+      "postedLabel": "08:03",
+      "postedAt": "2026-10-17T08:03:35+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:04:11+00:00",
       "isSeed": false
     }
   ]
