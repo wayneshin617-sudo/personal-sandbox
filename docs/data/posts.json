@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:21:30+00:00",
+  "updatedAt": "2026-10-16T09:22:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -640205,6 +640205,63 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-16T09:21:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58419,
+      "source": "dc",
+      "externalId": "6593958",
+      "title": "미공 \"저 전자제품 리뷰해야할 것 같은데\"ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593958&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-16T18:21:24+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:22:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58420,
+      "source": "dc",
+      "externalId": "6593959",
+      "title": "미서가 4050 냄비들이 원하는 이상형 그자체인가보네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593959&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-16T18:21:46+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:22:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58421,
+      "source": "dc",
+      "externalId": "6593960",
+      "title": "미서 7옥 가지려혀 이거야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.75",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593960&page=1",
+      "postedLabel": "18:22",
+      "postedAt": "2026-10-16T18:22:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:22:30+00:00",
       "isSeed": false
     }
   ]
