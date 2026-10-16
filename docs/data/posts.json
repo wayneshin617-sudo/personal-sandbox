@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T07:11:17+00:00",
+  "updatedAt": "2026-10-16T07:13:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -629318,6 +629318,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-16T07:11:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57846,
+      "source": "dc",
+      "externalId": "6593757",
+      "title": "나는 열심히 살았는데 자기 소개 하기엔 부끄러울 수 있다는 게 참",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "175.112",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593757&page=1",
+      "postedLabel": "16:12",
+      "postedAt": "2026-10-16T16:12:29+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:13:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57847,
+      "source": "dc",
+      "externalId": "6593758",
+      "title": "강신철 국방부장관 탄핵에 관한 청원 동의 바랍니다",
+      "excerpt": "",
+      "author": "조선제일호랑이",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593758&page=1",
+      "postedLabel": "16:12",
+      "postedAt": "2026-10-16T16:12:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T07:13:18+00:00",
       "isSeed": false
     }
   ]
