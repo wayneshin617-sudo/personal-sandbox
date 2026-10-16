@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T09:42:30+00:00",
+  "updatedAt": "2026-10-16T09:43:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -640965,6 +640965,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T09:42:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58459,
+      "source": "dc",
+      "externalId": "6593997",
+      "title": "정숙이랑 미최는 현커야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593997&page=1",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-16T18:42:48+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:43:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58460,
+      "source": "dc",
+      "externalId": "6593998",
+      "title": "34옥순 그정돈가 역대급이라면서?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.230",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593998&page=1",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-16T18:42:50+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T09:43:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58461,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%95%88%EC%8B%9C%EC%BC%9C%EC%A3%BC%EB%A9%B4-sr1a5fbm",
+      "title": "회사에서 소개팅안시켜주면",
+      "excerpt": "입사한지 3년되었는데도 소개팅해볼래? 라는 말 안들어본거면 얼굴때문일까요? 회사가 연애하러다니는곳은 아니지만 궁금합니다.",
+      "author": "i*********",
+      "company": "LG에너지솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%95%88%EC%8B%9C%EC%BC%9C%EC%A3%BC%EB%A9%B4-sr1a5fbm",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T18:43:19+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T09:43:31+00:00",
       "isSeed": false
     }
   ]
