@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T05:30:27+00:00",
+  "updatedAt": "2026-10-16T05:31:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -618469,6 +618469,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T05:30:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57275,
+      "source": "dc",
+      "externalId": "6593584",
+      "title": "여기 갤 10년뒤엔 이름 바꿔야됨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593584&page=1",
+      "postedLabel": "14:30",
+      "postedAt": "2026-10-16T14:30:26+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:31:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57276,
+      "source": "dc",
+      "externalId": "6593585",
+      "title": "미조 깍두기연습장 왜이리 애자같냐ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593585&page=1",
+      "postedLabel": "14:30",
+      "postedAt": "2026-10-16T14:30:33+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:31:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57277,
+      "source": "dc",
+      "externalId": "6593586",
+      "title": "야아~ 어려운 문제다",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593586&page=1",
+      "postedLabel": "14:31",
+      "postedAt": "2026-10-16T14:31:01+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:31:27+00:00",
       "isSeed": false
     }
   ]
