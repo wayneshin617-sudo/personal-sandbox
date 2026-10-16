@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T05:34:28+00:00",
+  "updatedAt": "2026-10-16T05:35:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -618640,6 +618640,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T05:34:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57284,
+      "source": "dc",
+      "externalId": "6593593",
+      "title": "상철 하닉은",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593593&page=1",
+      "postedLabel": "14:34",
+      "postedAt": "2026-10-16T14:34:17+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:35:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57285,
+      "source": "dc",
+      "externalId": "6593594",
+      "title": "(속보) 미서 7옥 계약결혼 출연 확정",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593594&page=1",
+      "postedLabel": "14:34",
+      "postedAt": "2026-10-16T14:34:25+09:00",
+      "views": 27,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:35:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57286,
+      "source": "qoo",
+      "externalId": "4377430386",
+      "title": "미서 7옥 둘이같이 여행가줘",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377430386",
+      "postedLabel": "14:35",
+      "postedAt": "2026-10-16T14:35:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T05:35:27+00:00",
       "isSeed": false
     }
   ]
