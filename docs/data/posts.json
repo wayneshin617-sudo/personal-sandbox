@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:22:30+00:00",
+  "updatedAt": "2026-10-16T10:23:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -642314,6 +642314,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T10:22:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58530,
+      "source": "dc",
+      "externalId": "6594064",
+      "title": "삼닉공돌이새끼들때문에 박탈감 장난아님",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594064&page=1",
+      "postedLabel": "19:23",
+      "postedAt": "2026-10-16T19:23:00+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:23:30+00:00",
       "isSeed": false
     }
   ]
