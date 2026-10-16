@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T00:53:33+00:00",
+  "updatedAt": "2026-10-16T00:54:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -603725,6 +603725,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T00:53:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56499,
+      "source": "dc",
+      "externalId": "6593191",
+      "title": "34영철류 와꾸 존나 싫음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593191&page=1",
+      "postedLabel": "09:53",
+      "postedAt": "2026-10-16T09:53:34+09:00",
+      "views": 16,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T00:54:33+00:00",
       "isSeed": false
     }
   ]
