@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T11:43:23+00:00",
+  "updatedAt": "2026-10-16T11:44:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -649876,6 +649876,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T11:43:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58928,
+      "source": "dc",
+      "externalId": "6594213",
+      "title": "7옥순은 사계 4일차에도 얼굴 맛가있던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594213&page=1",
+      "postedLabel": "20:43",
+      "postedAt": "2026-10-16T20:43:49+09:00",
+      "views": 13,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:44:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58929,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%85-%EC%97%B4%EC%88%98%EB%A1%9D-%EA%B9%A8%EB%84%A4-3imybc15",
+      "title": "영철 입 열수록 깨네",
+      "excerpt": "본인에 취해있고 나대는 게… 20대도 아니고ㅠ",
+      "author": "i*********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%85-%EC%97%B4%EC%88%98%EB%A1%9D-%EA%B9%A8%EB%84%A4-3imybc15",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T20:44:13+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T11:44:24+00:00",
       "isSeed": false
     }
   ]
