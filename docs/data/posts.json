@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T17:39:13+00:00",
+  "updatedAt": "2026-10-16T17:40:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -669864,6 +669864,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T17:39:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59980,
+      "source": "qoo",
+      "externalId": "4378015615",
+      "title": "이거봤어?ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4378015615",
+      "postedLabel": "02:40",
+      "postedAt": "2026-10-17T02:40:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T17:40:14+00:00",
       "isSeed": false
     }
   ]
