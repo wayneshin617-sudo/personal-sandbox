@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:29:33+00:00",
+  "updatedAt": "2026-10-16T01:30:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -604504,6 +604504,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T01:29:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56540,
+      "source": "dc",
+      "externalId": "6593231",
+      "title": "존잘남 34영철 닮은 인기스타 모음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593231&page=1",
+      "postedLabel": "10:30",
+      "postedAt": "2026-10-16T10:30:00+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:30:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56541,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EA%B2%8C-%EB%82%98%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4-iextgkdv",
+      "title": "이번 사계보면서 느낀게 나이 많은 여자들",
+      "excerpt": "아무리 예쁘고 잘나고 마음에 들어도 노처녀들한테는 들이대지 않는게 더 좋을거란 생각이 드네 노총각들은 그래도 들이대면서 적극적이기라도 한데 노처녀들은? 일단 다들 눈이 엄청 높고 까다롭고 본인만의 기준이 명확하고 진정성도 안느껴지고... 설령 사귄다 하더라도 삐지고 싸우고 금방 헤어질 가능성이 크고 여러가지로 나이가 많은 여자는 꺼려지는 느낌",
+      "author": "U*****",
+      "company": "현대홈쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EA%B2%8C-%EB%82%98%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4-iextgkdv",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T10:30:21+09:00",
+      "views": 22,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T01:30:34+00:00",
       "isSeed": false
     }
   ]
