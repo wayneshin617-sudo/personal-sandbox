@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T14:47:53+00:00",
+  "updatedAt": "2026-10-16T14:48:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -660687,6 +660687,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T14:47:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59497,
+      "source": "dc",
+      "externalId": "6594473",
+      "title": "7옥줌이 미서 안찍은 이유",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594473&page=1",
+      "postedLabel": "23:48",
+      "postedAt": "2026-10-16T23:48:38+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T14:48:53+00:00",
       "isSeed": false
     }
   ]
