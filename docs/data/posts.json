@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:17:27+00:00",
+  "updatedAt": "2026-10-16T04:18:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -615923,6 +615923,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T04:17:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57141,
+      "source": "dc",
+      "externalId": "6593452",
+      "title": "14영자 코성형한거 맞아?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593452&page=1",
+      "postedLabel": "13:17",
+      "postedAt": "2026-10-16T13:17:52+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:18:28+00:00",
       "isSeed": false
     }
   ]
