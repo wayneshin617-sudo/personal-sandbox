@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T23:41:59+00:00",
+  "updatedAt": "2026-10-16T23:44:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -678338,6 +678338,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T23:41:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60426,
+      "source": "dc",
+      "externalId": "6594861",
+      "title": "솔로리액션에서 미서 7옥 서로 미련 있어보이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594861&page=1",
+      "postedLabel": "08:42",
+      "postedAt": "2026-10-17T08:42:50+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:44:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60427,
+      "source": "dc",
+      "externalId": "6594862",
+      "title": "미서7옥 밀던 사람들 실체가 없으니까 망상만 하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594862&page=1",
+      "postedLabel": "08:43",
+      "postedAt": "2026-10-17T08:43:29+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:44:00+00:00",
       "isSeed": false
     }
   ]
