@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T03:55:27+00:00",
+  "updatedAt": "2026-10-16T03:56:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -615220,6 +615220,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T03:55:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57104,
+      "source": "dc",
+      "externalId": "6593420",
+      "title": "미서 미조는 몇번 더 나오겠네 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.130",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593420&page=1",
+      "postedLabel": "12:55",
+      "postedAt": "2026-10-16T12:55:19+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:56:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57105,
+      "source": "dc",
+      "externalId": "6593421",
+      "title": "34영호는 지인 증언도 미담밖에 없누",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593421&page=1",
+      "postedLabel": "12:55",
+      "postedAt": "2026-10-16T12:55:37+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:56:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57106,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%98%EB%A6%AC%ED%98%95-wrhfd87l",
+      "title": "상처리형",
+      "excerpt": "꺼드럭거린다고 사내게시판에 까이네ㅜㅠ",
+      "author": "자*******",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%98%EB%A6%AC%ED%98%95-wrhfd87l",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T12:56:16+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T03:56:27+00:00",
       "isSeed": false
     }
   ]
