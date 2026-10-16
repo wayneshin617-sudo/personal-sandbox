@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T13:38:25+00:00",
+  "updatedAt": "2026-10-16T13:40:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -652935,6 +652935,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-16T13:38:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59089,
+      "source": "dc",
+      "externalId": "6594360",
+      "title": "영자 누나 한번 쯤 오열하실듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.193",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594360&page=1",
+      "postedLabel": "22:39",
+      "postedAt": "2026-10-16T22:39:37+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:40:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59090,
+      "source": "qoo",
+      "externalId": "4377866701",
+      "title": "엉가남 영호 볼때마다 아들전문가?? 최민준 그사람 떠올랔ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377866701",
+      "postedLabel": "22:40",
+      "postedAt": "2026-10-16T22:40:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:40:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59091,
+      "source": "dc",
+      "externalId": "6594361",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594361&page=1",
+      "postedLabel": "22:40",
+      "postedAt": "2026-10-16T22:40:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:40:24+00:00",
       "isSeed": false
     }
   ]
