@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T03:52:28+00:00",
+  "updatedAt": "2026-10-16T03:54:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -615144,6 +615144,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T03:52:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57100,
+      "source": "qoo",
+      "externalId": "4377327603",
+      "title": "소신발언인데 국화는 이제 그만 나오는 게 좋을 것 같아...",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4377327603",
+      "postedLabel": "12:53",
+      "postedAt": "2026-10-16T12:53:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:54:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57101,
+      "source": "dc",
+      "externalId": "6593417",
+      "title": "사계 < 초반부엔 재밌는데 후반으로 갈수록 재미가 없는게",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "175.206",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593417&page=1",
+      "postedLabel": "12:53",
+      "postedAt": "2026-10-16T12:53:56+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:54:26+00:00",
       "isSeed": false
     }
   ]
