@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T13:54:15+00:00",
+  "updatedAt": "2026-10-16T13:55:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -653410,6 +653410,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T13:54:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59114,
+      "source": "dc",
+      "externalId": "6594379",
+      "title": "현재 우크라이나 전쟁 상황",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594379&page=1",
+      "postedLabel": "22:54",
+      "postedAt": "2026-10-16T22:54:15+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T13:55:24+00:00",
       "isSeed": false
     }
   ]
