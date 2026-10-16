@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:37:33+00:00",
+  "updatedAt": "2026-10-16T01:38:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -604713,6 +604713,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T01:37:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56551,
+      "source": "dc",
+      "externalId": "6593239",
+      "title": "공무원 외벌이면 평생 서울에 30억 아파트 살 수 있지?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593239&page=1",
+      "postedLabel": "10:37",
+      "postedAt": "2026-10-16T10:37:47+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:38:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56552,
+      "source": "dc",
+      "externalId": "6593240",
+      "title": "ㄱㅇㅇ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593240&page=1",
+      "postedLabel": "10:37",
+      "postedAt": "2026-10-16T10:37:58+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:38:33+00:00",
       "isSeed": false
     }
   ]
