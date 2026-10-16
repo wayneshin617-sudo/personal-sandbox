@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T17:04:53+00:00",
+  "updatedAt": "2026-10-16T17:08:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -663917,6 +663917,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T17:04:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59667,
+      "source": "dc",
+      "externalId": "6594631",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594631&page=1",
+      "postedLabel": "02:07",
+      "postedAt": "2026-10-17T02:07:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T17:08:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59668,
+      "source": "dc",
+      "externalId": "6594632",
+      "title": "미서 vs 32영수 vs 27영수",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594632&page=1",
+      "postedLabel": "02:07",
+      "postedAt": "2026-10-17T02:07:58+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T17:08:53+00:00",
       "isSeed": false
     }
   ]
