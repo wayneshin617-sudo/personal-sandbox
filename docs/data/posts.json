@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T11:59:24+00:00",
+  "updatedAt": "2026-10-16T12:00:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -650427,6 +650427,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T11:59:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58957,
+      "source": "dc",
+      "externalId": "6594235",
+      "title": "이번 34기에 이거 닮은 사람 나옴",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594235&page=1",
+      "postedLabel": "20:59",
+      "postedAt": "2026-10-16T20:59:58+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:00:23+00:00",
       "isSeed": false
     }
   ]
