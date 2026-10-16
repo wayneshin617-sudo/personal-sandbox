@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:11:23+00:00",
+  "updatedAt": "2026-10-16T12:12:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -650598,6 +650598,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:11:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58966,
+      "source": "dc",
+      "externalId": "6594243",
+      "title": "싸우면 누가이길까 타대오 vs 레츠카이오",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594243&page=1",
+      "postedLabel": "21:11",
+      "postedAt": "2026-10-16T21:11:16+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:12:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58967,
+      "source": "dc",
+      "externalId": "6594244",
+      "title": "해바쏭이 삼성 반도체든가?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594244&page=1",
+      "postedLabel": "21:11",
+      "postedAt": "2026-10-16T21:11:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:12:24+00:00",
       "isSeed": false
     }
   ]
