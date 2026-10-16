@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T22:26:38+00:00",
+  "updatedAt": "2026-10-16T22:27:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -674595,6 +674595,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T22:26:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60229,
+      "source": "dc",
+      "externalId": "6594802",
+      "title": "7옥 할망구 추녀",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594802&page=1",
+      "postedLabel": "07:26",
+      "postedAt": "2026-10-17T07:26:48+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T22:27:38+00:00",
       "isSeed": false
     }
   ]
