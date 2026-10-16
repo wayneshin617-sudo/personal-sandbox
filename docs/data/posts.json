@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T01:02:34+00:00",
+  "updatedAt": "2026-10-16T01:03:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -603991,6 +603991,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T01:02:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56513,
+      "source": "dc",
+      "externalId": "6593203",
+      "title": "14영자는",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593203&page=1",
+      "postedLabel": "10:02",
+      "postedAt": "2026-10-16T10:02:27+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:03:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 56514,
+      "source": "dc",
+      "externalId": "6593204",
+      "title": "박보영 정숙 변호사 얼굴 맛탱이가 갓노",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "187.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593204&page=1",
+      "postedLabel": "10:02",
+      "postedAt": "2026-10-16T10:02:32+09:00",
+      "views": 19,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T01:03:33+00:00",
       "isSeed": false
     }
   ]
