@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T04:42:26+00:00",
+  "updatedAt": "2026-10-16T04:43:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -616778,6 +616778,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T04:42:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57186,
+      "source": "dc",
+      "externalId": "6593496",
+      "title": "7옥 미서 마음에 든거 맞다니까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593496&page=1",
+      "postedLabel": "13:42",
+      "postedAt": "2026-10-16T13:42:15+09:00",
+      "views": 27,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:43:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57187,
+      "source": "dc",
+      "externalId": "6593497",
+      "title": "국결특집 흥할려면 여자 나이가 중요한데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593497&page=1",
+      "postedLabel": "13:42",
+      "postedAt": "2026-10-16T13:42:39+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T04:43:27+00:00",
       "isSeed": false
     }
   ]
