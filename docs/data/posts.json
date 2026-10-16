@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T08:28:18+00:00",
+  "updatedAt": "2026-10-16T08:29:18+00:00",
   "posts": [
     {
       "id": 1,
@@ -632073,6 +632073,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T08:28:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57991,
+      "source": "dc",
+      "externalId": "6593892",
+      "title": "1호도 그렇고 미서도 그렇고 7옥과 대화해보면",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593892&page=1",
+      "postedLabel": "17:28",
+      "postedAt": "2026-10-16T17:28:13+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T08:29:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57992,
+      "source": "dc",
+      "externalId": "6593893",
+      "title": "인간 마시마로...jpg",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "220.93",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593893&page=1",
+      "postedLabel": "17:28",
+      "postedAt": "2026-10-16T17:28:17+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-16T08:29:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57993,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%83%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EC%83%A4%EC%9D%B4%EB%8B%88%EC%A2%85%ED%98%84%EB%8B%AE%EC%A7%80%EC%95%8A%EC%95%98%EC%96%B4-drrot548",
+      "title": "34기 상철 약간 샤이니종현닮지않았어..?",
+      "excerpt": "공룡상이라 계속누구닮았는데... 공유는 아니고... 하다 종현이생각났어",
+      "author": "l*********",
+      "company": "가천대길병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%83%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EC%83%A4%EC%9D%B4%EB%8B%88%EC%A2%85%ED%98%84%EB%8B%AE%EC%A7%80%EC%95%8A%EC%95%98%EC%96%B4-drrot548",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T17:29:07+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T08:29:18+00:00",
       "isSeed": false
     }
   ]
