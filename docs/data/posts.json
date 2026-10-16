@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T23:22:59+00:00",
+  "updatedAt": "2026-10-16T23:27:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -677958,6 +677958,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T23:22:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60406,
+      "source": "dc",
+      "externalId": "6594842",
+      "title": "현대중공업비서 틱톡재무팀엔지니어",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "49.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594842&page=1",
+      "postedLabel": "08:25",
+      "postedAt": "2026-10-17T08:25:56+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:27:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60407,
+      "source": "dc",
+      "externalId": "6594843",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "37.19",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594843&page=1",
+      "postedLabel": "08:26",
+      "postedAt": "2026-10-17T08:26:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T23:27:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60408,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%99%B8%EB%8C%80-%ED%86%B5%EB%B2%88%EC%97%AD%EA%B3%BC%EB%9D%BC%EB%8A%94%EB%8D%B0-5qzpwyz7",
+      "title": "영철이 외대 통번역과라는데",
+      "excerpt": "지방 일행직 9급으로 시작한거면 용인외대인거이려나 샤울캠이면 너무 학벌이 아까운데",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%99%B8%EB%8C%80-%ED%86%B5%EB%B2%88%EC%97%AD%EA%B3%BC%EB%9D%BC%EB%8A%94%EB%8D%B0-5qzpwyz7",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T08:26:48+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T23:27:00+00:00",
       "isSeed": false
     }
   ]
