@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T03:33:26+00:00",
+  "updatedAt": "2026-10-16T03:34:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -614631,6 +614631,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T03:33:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57073,
+      "source": "dc",
+      "externalId": "6593390",
+      "title": "외국인특집 개멸망인데?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593390&page=1",
+      "postedLabel": "12:33",
+      "postedAt": "2026-10-16T12:33:33+09:00",
+      "views": 13,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:34:27+00:00",
       "isSeed": false
     }
   ]
