@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T20:57:38+00:00",
+  "updatedAt": "2026-10-16T20:58:37+00:00",
   "posts": [
     {
       "id": 1,
@@ -673721,6 +673721,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T20:57:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60183,
+      "source": "dc",
+      "externalId": "6594758",
+      "title": "상철이가 들고 있는 거 뭐야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594758&page=1",
+      "postedLabel": "05:58",
+      "postedAt": "2026-10-17T05:58:25+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T20:58:37+00:00",
       "isSeed": false
     }
   ]
