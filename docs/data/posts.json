@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T03:30:26+00:00",
+  "updatedAt": "2026-10-16T03:31:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -614536,6 +614536,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T03:30:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57068,
+      "source": "dc",
+      "externalId": "6593385",
+      "title": "영철 왜 욕처먹는지알겠다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593385&page=1",
+      "postedLabel": "12:30",
+      "postedAt": "2026-10-16T12:30:39+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:31:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57069,
+      "source": "dc",
+      "externalId": "6593386",
+      "title": "이제 이 짤을 쓰는것도 마지막이겠네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593386&page=1",
+      "postedLabel": "12:31",
+      "postedAt": "2026-10-16T12:31:16+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:31:28+00:00",
       "isSeed": false
     }
   ]
