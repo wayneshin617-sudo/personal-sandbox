@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T12:47:23+00:00",
+  "updatedAt": "2026-10-16T12:48:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -651586,6 +651586,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T12:47:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59018,
+      "source": "dc",
+      "externalId": "6594296",
+      "title": "폭렬이는 영숙 걍 홈스테이 취급하네ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594296&page=1",
+      "postedLabel": "21:47",
+      "postedAt": "2026-10-16T21:47:12+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:48:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 59019,
+      "source": "dc",
+      "externalId": "6594297",
+      "title": "싸우면 누가이길까 배드로 vs 요르포저",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594297&page=1",
+      "postedLabel": "21:47",
+      "postedAt": "2026-10-16T21:47:59+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T12:48:23+00:00",
       "isSeed": false
     }
   ]
