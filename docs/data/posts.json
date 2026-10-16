@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T10:18:30+00:00",
+  "updatedAt": "2026-10-16T10:19:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -642162,6 +642162,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-16T10:18:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58522,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EB%AC%B4%EC%8A%A8-%EC%A7%81%EB%A0%AC%EA%B3%B5%EB%AD%94%EC%9D%B4%EC%95%BC-2rbrsz5d",
+      "title": "영철 무슨 직렬공뭔이야?",
+      "excerpt": "7출이야??",
+      "author": "l******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%AC%B4%EC%8A%A8-%EC%A7%81%EB%A0%AC%EA%B3%B5%EB%AD%94%EC%9D%B4%EC%95%BC-2rbrsz5d",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-16T19:18:19+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-16T10:19:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58523,
+      "source": "dc",
+      "externalId": "6594057",
+      "title": "생산직새끼들 꺼드럭거리는거 좀 ㅈ같네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.210",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594057&page=1",
+      "postedLabel": "19:18",
+      "postedAt": "2026-10-16T19:18:56+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T10:19:31+00:00",
       "isSeed": false
     }
   ]
