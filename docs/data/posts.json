@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T03:25:26+00:00",
+  "updatedAt": "2026-10-16T03:28:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -614460,6 +614460,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T03:25:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 57064,
+      "source": "dc",
+      "externalId": "6593382",
+      "title": "힌양대 박보영",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6593382&page=1",
+      "postedLabel": "12:27",
+      "postedAt": "2026-10-16T12:27:32+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T03:28:27+00:00",
       "isSeed": false
     }
   ]
