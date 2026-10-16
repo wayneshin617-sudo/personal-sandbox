@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-16T11:46:24+00:00",
+  "updatedAt": "2026-10-16T11:48:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -649971,6 +649971,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-16T11:46:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58933,
+      "source": "dc",
+      "externalId": "6594218",
+      "title": "88년생인데 내 주위 또래중 무주택자가 50% 넘는데 이상함???",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "169.211",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594218&page=1",
+      "postedLabel": "20:48",
+      "postedAt": "2026-10-16T20:48:07+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-16T11:48:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 58934,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%9D%BC%EB%B3%B8-%EC%9E%A5%EA%B1%B0%EB%A6%AC-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4vs%EB%B6%88%EA%B0%80-kthx43yy",
+      "title": "투표글 영호 정도면 일본 장거리 가능하다vs불가 투표",
+      "excerpt": "키 185, 91년생, 증권사, 도쿄 거주. 2회차 방송까지 배려심, 성격이 좋은 걸로 평이 아주 좋은 상태 서울지사로 돌아올 때까지 내가 한번씩 가면서 장거리 가능?",
+      "author": "s*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%9D%BC%EB%B3%B8-%EC%9E%A5%EA%B1%B0%EB%A6%AC-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4vs%EB%B6%88%EA%B0%80-kthx43yy",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-16T20:48:12+09:00",
+      "views": 18,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-16T11:48:23+00:00",
       "isSeed": false
     }
   ]
