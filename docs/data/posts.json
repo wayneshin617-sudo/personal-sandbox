@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T12:08:01+00:00",
+  "updatedAt": "2026-10-17T12:09:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -717193,6 +717193,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T12:08:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62471,
+      "source": "dc",
+      "externalId": "6595730",
+      "title": "14영자까이는이유는 연프나와서 미서가지고 깽판을 부리니",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595730&page=1",
+      "postedLabel": "21:08",
+      "postedAt": "2026-10-17T21:08:24+09:00",
+      "views": 6,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:09:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62472,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%99%B8%EB%AA%A8-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84%EC%9E%84-eahkm4qf",
+      "title": "투표글 34기 영철정도면 외모 어느정도임? 투표",
+      "excerpt": "제곧내",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%99%B8%EB%AA%A8-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84%EC%9E%84-eahkm4qf",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T21:08:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T12:09:01+00:00",
       "isSeed": false
     }
   ]
