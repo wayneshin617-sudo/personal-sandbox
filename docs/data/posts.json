@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T11:16:00+00:00",
+  "updatedAt": "2026-10-17T11:17:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -715673,6 +715673,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T11:16:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62391,
+      "source": "dc",
+      "externalId": "6595649",
+      "title": "34영자 전여친하고 완전 닮았네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.214",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595649&page=1",
+      "postedLabel": "20:15",
+      "postedAt": "2026-10-17T20:15:59+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:17:01+00:00",
       "isSeed": false
     }
   ]
