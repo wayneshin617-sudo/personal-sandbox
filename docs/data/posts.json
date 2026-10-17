@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T18:14:35+00:00",
+  "updatedAt": "2026-10-17T18:16:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -731253,6 +731253,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T18:14:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63211,
+      "source": "dc",
+      "externalId": "6596181",
+      "title": "줌마들 넷상에서 인성판별기 짓 하는것도 너무 우스움",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596181&page=1",
+      "postedLabel": "03:15",
+      "postedAt": "2026-10-18T03:15:44+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T18:16:35+00:00",
       "isSeed": false
     }
   ]
