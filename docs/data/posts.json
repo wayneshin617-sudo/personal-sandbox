@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:04:02+00:00",
+  "updatedAt": "2026-10-17T10:05:03+00:00",
   "posts": [
     {
       "id": 1,
@@ -711170,6 +711170,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:04:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62154,
+      "source": "dc",
+      "externalId": "6595550",
+      "title": "7옥 까는 댓글에 좋아요 누른 14영자 박제",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595550&page=1",
+      "postedLabel": "19:04",
+      "postedAt": "2026-10-17T19:04:02+09:00",
+      "views": 19,
+      "recommends": 3,
+      "comments": 3,
+      "firstSeenAt": "2026-10-17T10:05:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62155,
+      "source": "blind",
+      "externalId": "/kr/post/34-%EC%98%81%EC%B2%A0-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EC%97%84%EC%B2%AD-%EB%96%A0%EB%84%A4-wk7jaov2",
+      "title": "34 영철 자기소개때 엄청 떠네",
+      "excerpt": "평소에 말 잘하다가 남들앞에서 떠는 사람들이 남 눈치 많이 보는 사람들인데 유쾌하게 분위기 리드할때 남들 반응을 세밀하게 관찰하는 습관 때문인듯",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%B2%A0-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EC%97%84%EC%B2%AD-%EB%96%A0%EB%84%A4-wk7jaov2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T19:04:51+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T10:05:03+00:00",
       "isSeed": false
     }
   ]
