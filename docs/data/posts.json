@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T12:36:00+00:00",
+  "updatedAt": "2026-10-17T12:37:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -718371,6 +718371,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T12:36:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62533,
+      "source": "dc",
+      "externalId": "6595791",
+      "title": "14영자가 젤 낫농",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595791&page=1",
+      "postedLabel": "21:36",
+      "postedAt": "2026-10-17T21:36:41+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:37:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62534,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%95%9C%EB%A7%88%EB%94%94%EB%A1%9C-%EC%A0%95%EB%A6%AC-iulmdz0v",
+      "title": "34기 영철 한마디로 정리",
+      "excerpt": "아이큐 낮은 애매하게 잘생긴 여미새",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%95%9C%EB%A7%88%EB%94%94%EB%A1%9C-%EC%A0%95%EB%A6%AC-iulmdz0v",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T21:36:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T12:37:01+00:00",
       "isSeed": false
     }
   ]
