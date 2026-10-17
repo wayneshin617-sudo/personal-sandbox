@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T02:30:37+00:00",
+  "updatedAt": "2026-10-17T02:31:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -692474,6 +692474,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T02:30:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61170,
+      "source": "dc",
+      "externalId": "6595025",
+      "title": "와 몇달만에 이렇게 변함??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595025&page=1",
+      "postedLabel": "11:31",
+      "postedAt": "2026-10-17T11:31:12+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:31:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61171,
+      "source": "dc",
+      "externalId": "6595026",
+      "title": "직장동료는 직장에서 끝 아니냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595026&page=1",
+      "postedLabel": "11:31",
+      "postedAt": "2026-10-17T11:31:21+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:31:35+00:00",
       "isSeed": false
     }
   ]
