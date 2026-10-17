@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T02:45:36+00:00",
+  "updatedAt": "2026-10-17T02:46:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -692835,6 +692835,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T02:45:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61189,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%ED%94%8C%EB%A1%9C-%EB%AA%87-%EB%B0%B1%EB%AA%85-%EB%A7%8C%EB%82%AC%EB%8A%94%EB%8D%B0-d2swamor",
+      "title": "어플로 몇 백명 만났는데",
+      "excerpt": "나솔 나가면 ㅈ되겠지?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "NOW",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%ED%94%8C%EB%A1%9C-%EB%AA%87-%EB%B0%B1%EB%AA%85-%EB%A7%8C%EB%82%AC%EB%8A%94%EB%8D%B0-d2swamor",
+      "postedLabel": "7일",
+      "postedAt": "2026-10-10T11:46:24+09:00",
+      "views": 7223,
+      "recommends": 20,
+      "comments": 54,
+      "firstSeenAt": "2026-10-17T02:46:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61190,
+      "source": "dc",
+      "externalId": "6595043",
+      "title": "이것도 못하면 결혼할 자격이 없다고 봐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595043&page=1",
+      "postedLabel": "11:45",
+      "postedAt": "2026-10-17T11:45:38+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:46:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61191,
+      "source": "dc",
+      "externalId": "6595044",
+      "title": "2021년에 나온 여출들이 94년생인데 지금여출이 91년생",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595044&page=1",
+      "postedLabel": "11:46",
+      "postedAt": "2026-10-17T11:46:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:46:36+00:00",
       "isSeed": false
     }
   ]
