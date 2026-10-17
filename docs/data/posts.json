@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T08:01:02+00:00",
+  "updatedAt": "2026-10-17T08:03:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -708510,6 +708510,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T08:01:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62014,
+      "source": "dc",
+      "externalId": "6595423",
+      "title": "14영자는 자존심 때문에 선택 안했고 그냥 망한거임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595423&page=1",
+      "postedLabel": "17:02",
+      "postedAt": "2026-10-17T17:02:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:03:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62015,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%EC%97%90-%EB%82%98%EC%86%94-%EC%98%A5%EC%88%9C-%EC%82%B4%EB%8D%94%EB%9D%BC-g22jcaax",
+      "title": "우리동네에 나솔 옥순 살더라",
+      "excerpt": "강남 50-120억대 아파트인데 최근 운동하는거만 서너번 본듯 방송에서 몬가 우아한? 분위기? 있는 모습이었던거 같고 신기하네",
+      "author": "i*********",
+      "company": "도레이배터리세퍼레이터필름",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%EC%97%90-%EB%82%98%EC%86%94-%EC%98%A5%EC%88%9C-%EC%82%B4%EB%8D%94%EB%9D%BC-g22jcaax",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T17:02:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T08:03:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62016,
+      "source": "dc",
+      "externalId": "6595424",
+      "title": "14영자는 사진찍을때 브이를 특이하게 하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.155",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595424&page=1",
+      "postedLabel": "17:02",
+      "postedAt": "2026-10-17T17:02:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:03:01+00:00",
       "isSeed": false
     }
   ]
