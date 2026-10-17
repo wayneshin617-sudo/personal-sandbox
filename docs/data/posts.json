@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:53:18+00:00",
+  "updatedAt": "2026-10-17T13:54:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -724128,6 +724128,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T13:53:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62836,
+      "source": "dc",
+      "externalId": "6595927",
+      "title": "이 세명 무슨 컨셉이야ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595927&page=1",
+      "postedLabel": "22:53",
+      "postedAt": "2026-10-17T22:53:51+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:54:27+00:00",
       "isSeed": false
     }
   ]
