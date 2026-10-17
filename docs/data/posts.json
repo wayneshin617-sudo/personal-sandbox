@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T12:09:01+00:00",
+  "updatedAt": "2026-10-17T12:13:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -717231,6 +717231,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T12:09:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62473,
+      "source": "dc",
+      "externalId": "6595732",
+      "title": "남자 키별 느낌 및 위상",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595732&page=1",
+      "postedLabel": "21:11",
+      "postedAt": "2026-10-17T21:11:51+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:13:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62474,
+      "source": "dc",
+      "externalId": "6595733",
+      "title": "여기 병신들은 왜 자꾸 34영철을 7출이라고 할까",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595733&page=1",
+      "postedLabel": "21:12",
+      "postedAt": "2026-10-17T21:12:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:13:00+00:00",
       "isSeed": false
     }
   ]
