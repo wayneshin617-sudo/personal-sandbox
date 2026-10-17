@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T15:15:27+00:00",
+  "updatedAt": "2026-10-17T15:16:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -725762,6 +725762,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T15:15:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62922,
+      "source": "dc",
+      "externalId": "6596007",
+      "title": "미서 7옥 지볶행ㄱㄱ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "27.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596007&page=1",
+      "postedLabel": "00:16",
+      "postedAt": "2026-10-18T00:16:07+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:16:27+00:00",
       "isSeed": false
     }
   ]
