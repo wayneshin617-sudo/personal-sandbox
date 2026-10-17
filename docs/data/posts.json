@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T01:02:59+00:00",
+  "updatedAt": "2026-10-17T01:03:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -679744,6 +679744,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T01:02:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60500,
+      "source": "dc",
+      "externalId": "6594929",
+      "title": "남자 여우들 속에 미조 미서는",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594929&page=1",
+      "postedLabel": "10:02",
+      "postedAt": "2026-10-17T10:02:49+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T01:03:59+00:00",
       "isSeed": false
     }
   ]
