@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T20:47:42+00:00",
+  "updatedAt": "2026-10-17T20:51:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -736307,6 +736307,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T20:47:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63477,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AF%B8%EC%8A%A4%ED%84%B0%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%95%8C%EC%9A%94-vaeoniqu",
+      "title": "미스터서 회사에서는 어때요?",
+      "excerpt": "방송에서 보면 자기 할일 잘 하고 동료 관계도 좋을거 같은데 ㅋㅋ",
+      "author": "A*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AF%B8%EC%8A%A4%ED%84%B0%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%95%8C%EC%9A%94-vaeoniqu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T05:51:31+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T20:51:42+00:00",
       "isSeed": false
     }
   ]
