@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T07:04:06+00:00",
+  "updatedAt": "2026-10-17T07:06:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -703019,6 +703019,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T07:04:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61725,
+      "source": "dc",
+      "externalId": "6595348",
+      "title": "미서 손버릇 안좋아보여",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595348&page=1",
+      "postedLabel": "16:05",
+      "postedAt": "2026-10-17T16:05:25+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T07:06:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61726,
+      "source": "dc",
+      "externalId": "6595349",
+      "title": "무매력은 14영자가 무매력이지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595349&page=1",
+      "postedLabel": "16:05",
+      "postedAt": "2026-10-17T16:05:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T07:06:06+00:00",
       "isSeed": false
     }
   ]
