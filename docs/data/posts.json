@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:16:06+00:00",
+  "updatedAt": "2026-10-17T05:17:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -699922,6 +699922,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:16:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61562,
+      "source": "dc",
+      "externalId": "6595196",
+      "title": "미국주식도 반토막나야하는이유 ㄹㅇㅍㅌㅡㅡ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595196&page=1",
+      "postedLabel": "14:16",
+      "postedAt": "2026-10-17T14:16:03+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:17:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61563,
+      "source": "dc",
+      "externalId": "6595197",
+      "title": "미조정도면 진짜 괜찮은데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595197&page=1",
+      "postedLabel": "14:16",
+      "postedAt": "2026-10-17T14:16:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:17:06+00:00",
       "isSeed": false
     }
   ]
