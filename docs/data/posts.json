@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T07:06:06+00:00",
+  "updatedAt": "2026-10-17T07:07:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -703057,6 +703057,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T07:06:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61727,
+      "source": "dc",
+      "externalId": "6595350",
+      "title": "솔로리액션 미스터조랑 미스터서 입담 너무 재밌고 좋다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595350&page=1",
+      "postedLabel": "16:06",
+      "postedAt": "2026-10-17T16:06:02+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T07:07:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61728,
+      "source": "dc",
+      "externalId": "6595351",
+      "title": "결혼할 예정이야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595351&page=1",
+      "postedLabel": "16:06",
+      "postedAt": "2026-10-17T16:06:52+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T07:07:06+00:00",
       "isSeed": false
     }
   ]
