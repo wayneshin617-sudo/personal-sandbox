@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T14:41:27+00:00",
+  "updatedAt": "2026-10-17T14:46:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -725116,6 +725116,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T14:41:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62888,
+      "source": "dc",
+      "externalId": "6595974",
+      "title": "얘 지금 라이브중인데",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595974&page=1",
+      "postedLabel": "23:45",
+      "postedAt": "2026-10-17T23:45:17+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T14:46:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62889,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%80-%EC%84%B1%ED%98%95-%EC%96%BC%EA%B5%B4-%EC%9E%98-%EB%AA%A8%EB%A5%B4%EB%8A%94%EB%93%AF-ba7jco16",
+      "title": "남자들은 성형 얼굴 잘 모르는듯",
+      "excerpt": "예쁘고 안예쁘고 떠나서 옥순만 성형으로 언급 많이되는것같은데 현숙 옥순 순자 다 눈 한것같은데 왜 옥숙만 성형때매 디메리트 되는거같지?? 영자 정숙만 자연가틈",
+      "author": "c*****",
+      "company": "농협금융지주",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%80-%EC%84%B1%ED%98%95-%EC%96%BC%EA%B5%B4-%EC%9E%98-%EB%AA%A8%EB%A5%B4%EB%8A%94%EB%93%AF-ba7jco16",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T23:46:15+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T14:46:27+00:00",
       "isSeed": false
     }
   ]
