@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:32:01+00:00",
+  "updatedAt": "2026-10-17T10:35:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -714609,6 +714609,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:32:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62335,
+      "source": "dc",
+      "externalId": "6595592",
+      "title": "반지를 주렁주렁 다섯개나 꼈네 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595592&page=1",
+      "postedLabel": "19:34",
+      "postedAt": "2026-10-17T19:34:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:35:01+00:00",
       "isSeed": false
     }
   ]
