@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:18:02+00:00",
+  "updatedAt": "2026-10-17T10:19:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -711455,6 +711455,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:18:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62169,
+      "source": "dc",
+      "externalId": "6595565",
+      "title": "팩트) 순자 확실한건 이거임 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595565&page=1",
+      "postedLabel": "19:17",
+      "postedAt": "2026-10-17T19:17:59+09:00",
+      "views": 17,
+      "recommends": 1,
+      "comments": 2,
+      "firstSeenAt": "2026-10-17T10:19:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62170,
+      "source": "dc",
+      "externalId": "6595566",
+      "title": "까르띠에 중고가 떨어질듯 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595566&page=1",
+      "postedLabel": "19:18",
+      "postedAt": "2026-10-17T19:18:06+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:19:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62171,
+      "source": "dc",
+      "externalId": "6595567",
+      "title": "러브젤 광고인 줄",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595567&page=1",
+      "postedLabel": "19:18",
+      "postedAt": "2026-10-17T19:18:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:19:02+00:00",
       "isSeed": false
     }
   ]
