@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T19:23:41+00:00",
+  "updatedAt": "2026-10-17T19:27:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -735794,6 +735794,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T19:23:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63450,
+      "source": "dc",
+      "externalId": "6596223",
+      "title": "5829 이새끼가 요새 안보이네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596223&page=1",
+      "postedLabel": "04:27",
+      "postedAt": "2026-10-18T04:27:05+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T19:27:42+00:00",
       "isSeed": false
     }
   ]
