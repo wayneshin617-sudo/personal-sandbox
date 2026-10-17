@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:29:28+00:00",
+  "updatedAt": "2026-10-17T13:31:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -723596,6 +723596,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-17T13:29:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62808,
+      "source": "dc",
+      "externalId": "6595901",
+      "title": "소방관에 진심인 출연자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595901&page=1",
+      "postedLabel": "22:31",
+      "postedAt": "2026-10-17T22:31:11+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:31:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62809,
+      "source": "dc",
+      "externalId": "6595902",
+      "title": "7옥 24현숙 26정숙은 착해보여",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595902&page=1",
+      "postedLabel": "22:31",
+      "postedAt": "2026-10-17T22:31:12+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:31:28+00:00",
       "isSeed": false
     }
   ]
