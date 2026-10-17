@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:21:02+00:00",
+  "updatedAt": "2026-10-17T09:22:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -710144,6 +710144,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T09:21:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62100,
+      "source": "dc",
+      "externalId": "6595499",
+      "title": "7옥 빙글빙글 돌면서 아쉬워하는 거 아니냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595499&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-17T18:21:06+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:22:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62101,
+      "source": "dc",
+      "externalId": "6595500",
+      "title": "순천지도 슨자 피해자 아닌거 다 안다",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595500&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-17T18:21:46+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:22:01+00:00",
       "isSeed": false
     }
   ]
