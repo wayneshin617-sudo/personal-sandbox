@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:18:06+00:00",
+  "updatedAt": "2026-10-17T05:19:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -700017,6 +700017,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:18:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61567,
+      "source": "dc",
+      "externalId": "6595201",
+      "title": "7옥 미서 성격 좋아보여",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595201&page=1",
+      "postedLabel": "14:17",
+      "postedAt": "2026-10-17T14:17:57+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:19:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61568,
+      "source": "dc",
+      "externalId": "6595202",
+      "title": "여자가 웃으면서 기댈때 남자도 고개돌리면 키스각임??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595202&page=1",
+      "postedLabel": "14:18",
+      "postedAt": "2026-10-17T14:18:03+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:19:06+00:00",
       "isSeed": false
     }
   ]
