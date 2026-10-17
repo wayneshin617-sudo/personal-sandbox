@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T08:16:01+00:00",
+  "updatedAt": "2026-10-17T08:18:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -708928,6 +708928,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T08:16:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62036,
+      "source": "dc",
+      "externalId": "6595442",
+      "title": "미서하고 7옥은 여행메이트해도 될텐데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.10",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595442&page=1",
+      "postedLabel": "17:16",
+      "postedAt": "2026-10-17T17:16:53+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:18:01+00:00",
       "isSeed": false
     }
   ]
