@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:04:06+00:00",
+  "updatedAt": "2026-10-17T05:05:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -699523,6 +699523,44 @@
       "recommends": 2,
       "comments": 1,
       "firstSeenAt": "2026-10-17T05:04:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61541,
+      "source": "dc",
+      "externalId": "6595177",
+      "title": "31순자 현명하네",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595177&page=1",
+      "postedLabel": "14:04",
+      "postedAt": "2026-10-17T14:04:32+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:05:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61542,
+      "source": "dc",
+      "externalId": "6595178",
+      "title": "14영자는 성격이 참 매력없음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.68",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595178&page=1",
+      "postedLabel": "14:04",
+      "postedAt": "2026-10-17T14:04:50+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:05:06+00:00",
       "isSeed": false
     }
   ]
