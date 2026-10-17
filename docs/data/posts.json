@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T04:26:36+00:00",
+  "updatedAt": "2026-10-17T04:27:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -694735,6 +694735,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T04:26:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61289,
+      "source": "dc",
+      "externalId": "6595133",
+      "title": "미서 - 7옥 지지파인데 바닷가 선택보고 7옥한테",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595133&page=1",
+      "postedLabel": "13:26",
+      "postedAt": "2026-10-17T13:26:32+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:27:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61290,
+      "source": "dc",
+      "externalId": "6595134",
+      "title": "신부가 40이면줌",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595134&page=1",
+      "postedLabel": "13:26",
+      "postedAt": "2026-10-17T13:26:46+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:27:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61291,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%ED%8C%8C%ED%98%BC%ED%95%9C-%EB%82%A8%EC%9E%90%EB%8A%94-%EC%A1%B0%EC%83%81%EB%8B%98%EC%9D%B4-%EA%B5%AC%ED%95%B4%EC%A4%80%EB%93%AF-fyas2cui",
+      "title": "영숙이랑 파혼한 남자는 조상님이 구해준듯..",
+      "excerpt": "지금쯤 가슴을 쓸어내리고 있지 않을까..",
+      "author": "뚜****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%ED%8C%8C%ED%98%BC%ED%95%9C-%EB%82%A8%EC%9E%90%EB%8A%94-%EC%A1%B0%EC%83%81%EB%8B%98%EC%9D%B4-%EA%B5%AC%ED%95%B4%EC%A4%80%EB%93%AF-fyas2cui",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T13:27:25+09:00",
+      "views": 13,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T04:27:36+00:00",
       "isSeed": false
     }
   ]
