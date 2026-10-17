@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T02:15:36+00:00",
+  "updatedAt": "2026-10-17T02:16:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -692037,6 +692037,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T02:15:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61147,
+      "source": "dc",
+      "externalId": "6595003",
+      "title": "미서를 왜 사계에 출연시켰을까",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.184",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595003&page=1",
+      "postedLabel": "11:15",
+      "postedAt": "2026-10-17T11:15:49+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:16:36+00:00",
       "isSeed": false
     }
   ]
