@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T12:55:00+00:00",
+  "updatedAt": "2026-10-17T12:55:51+00:00",
   "posts": [
     {
       "id": 1,
@@ -719150,6 +719150,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T12:55:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62574,
+      "source": "dc",
+      "externalId": "6595832",
+      "title": "최근모솔특집 재밌음? 33기 투표점 ㅇㅇ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595832&page=1",
+      "postedLabel": "21:54",
+      "postedAt": "2026-10-17T21:54:59+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:55:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62575,
+      "source": "dc",
+      "externalId": "6595834",
+      "title": "남규홍이 7옥 아지매 좋아할 나이자나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595834&page=1",
+      "postedLabel": "21:55",
+      "postedAt": "2026-10-17T21:55:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:55:51+00:00",
       "isSeed": false
     }
   ]
