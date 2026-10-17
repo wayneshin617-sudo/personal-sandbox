@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T08:11:01+00:00",
+  "updatedAt": "2026-10-17T08:12:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -708814,6 +708814,63 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-17T08:11:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62030,
+      "source": "dc",
+      "externalId": "6595437",
+      "title": "영자는 결혼해도 이혼할듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595437&page=1",
+      "postedLabel": "17:11",
+      "postedAt": "2026-10-17T17:11:34+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:12:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62031,
+      "source": "dc",
+      "externalId": "6595438",
+      "title": "남피디가 미서 여자취향 캐낼려고 딥하게 질문",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595438&page=1",
+      "postedLabel": "17:11",
+      "postedAt": "2026-10-17T17:11:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:12:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62032,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4-%EC%9D%B4%EC%83%81%ED%98%95-fca1ntbd",
+      "title": "내 이상형",
+      "excerpt": "내 이상형은 키 180넘는 수줍은 남자임",
+      "author": ":*******",
+      "company": "분당서울대병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4-%EC%9D%B4%EC%83%81%ED%98%95-fca1ntbd",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T17:11:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T08:12:01+00:00",
       "isSeed": false
     }
   ]
