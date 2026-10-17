@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T06:55:06+00:00",
+  "updatedAt": "2026-10-17T06:57:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -702772,6 +702772,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T06:55:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61712,
+      "source": "dc",
+      "externalId": "6595338",
+      "title": "변호사도 결혼 어려워보임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595338&page=1",
+      "postedLabel": "15:56",
+      "postedAt": "2026-10-17T15:56:00+09:00",
+      "views": 15,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T06:57:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61713,
+      "source": "dc",
+      "externalId": "6595339",
+      "title": "(속보) 14영자 미서 호텔 목격담",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595339&page=1",
+      "postedLabel": "15:56",
+      "postedAt": "2026-10-17T15:56:02+09:00",
+      "views": 28,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:57:06+00:00",
       "isSeed": false
     }
   ]
