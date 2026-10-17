@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T12:32:01+00:00",
+  "updatedAt": "2026-10-17T12:33:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -718181,6 +718181,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T12:32:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62523,
+      "source": "dc",
+      "externalId": "6595780",
+      "title": "미서는 담배도 안태우는지 피부도 20대 30대같음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595780&page=1",
+      "postedLabel": "21:32",
+      "postedAt": "2026-10-17T21:32:28+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:33:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62524,
+      "source": "dc",
+      "externalId": "6595781",
+      "title": "근데 노괴들은 얼마나 늙었길래",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595781&page=1",
+      "postedLabel": "21:32",
+      "postedAt": "2026-10-17T21:32:30+09:00",
+      "views": 3,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:33:01+00:00",
       "isSeed": false
     }
   ]
