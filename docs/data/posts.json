@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T15:51:28+00:00",
+  "updatedAt": "2026-10-17T15:52:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -726332,6 +726332,25 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-17T15:51:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62952,
+      "source": "dc",
+      "externalId": "6596036",
+      "title": "7옥은 공구 협찬 ㅈㄴ 많이 들어왔을텐데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.237",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596036&page=1",
+      "postedLabel": "00:52",
+      "postedAt": "2026-10-18T00:52:11+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:52:27+00:00",
       "isSeed": false
     }
   ]
