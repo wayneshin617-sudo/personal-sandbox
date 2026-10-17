@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T18:26:35+00:00",
+  "updatedAt": "2026-10-17T18:28:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -731443,6 +731443,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T18:26:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63221,
+      "source": "dc",
+      "externalId": "6596192",
+      "title": "218.239=106.101=118.235 역사가 오래된 나솔갤 정신병자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596192&page=1",
+      "postedLabel": "03:27",
+      "postedAt": "2026-10-18T03:27:44+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T18:28:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63222,
+      "source": "dc",
+      "externalId": "6596194",
+      "title": "이게 비밀연애지 바보들아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.218",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596194&page=1",
+      "postedLabel": "03:28",
+      "postedAt": "2026-10-18T03:28:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T18:28:35+00:00",
       "isSeed": false
     }
   ]
