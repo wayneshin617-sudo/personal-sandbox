@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T06:47:06+00:00",
+  "updatedAt": "2026-10-17T06:48:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -702544,6 +702544,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T06:47:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61700,
+      "source": "dc",
+      "externalId": "6595326",
+      "title": "미서는 나솔도 안본 사람인데 보기 드물정도로 확실하고 투명하게",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595326&page=1",
+      "postedLabel": "15:46",
+      "postedAt": "2026-10-17T15:46:58+09:00",
+      "views": 10,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:48:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61701,
+      "source": "dc",
+      "externalId": "6595327",
+      "title": "슨자 웃긴게",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595327&page=1",
+      "postedLabel": "15:47",
+      "postedAt": "2026-10-17T15:47:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:48:06+00:00",
       "isSeed": false
     }
   ]
