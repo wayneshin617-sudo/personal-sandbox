@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T03:34:35+00:00",
+  "updatedAt": "2026-10-17T03:35:37+00:00",
   "posts": [
     {
       "id": 1,
@@ -693614,6 +693614,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T03:34:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61230,
+      "source": "dc",
+      "externalId": "6595080",
+      "title": "갤 반응 보는 것 같은 31순자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595080&page=1",
+      "postedLabel": "12:35",
+      "postedAt": "2026-10-17T12:35:21+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:35:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61231,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%97%90%EC%84%9C-%EC%83%81%EC%8B%9D%EC%97%90-%EC%96%B4%EA%B8%8B%EB%82%98%EB%8A%94-%EA%B8%80-%EB%A7%8E%EC%9D%80%EC%9D%B4%EC%9C%A0-wx2s6f82",
+      "title": "나솔 게시판에서 상식에 어긋나는 글 많은이유",
+      "excerpt": "나솔 시청자 대부분이 30~40 여자들임 그래서 나이 많아도 예쁘면 급 높은거다 40에도 애 잘 낳는다 이런 황당한 표독 댓글이 많은거임 20대 30대 남자들은 이해할 수 없는 황당한 댓글과 글이 많은 건 주 시청층이 3040 여자라서 그럼",
+      "author": "이*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%97%90%EC%84%9C-%EC%83%81%EC%8B%9D%EC%97%90-%EC%96%B4%EA%B8%8B%EB%82%98%EB%8A%94-%EA%B8%80-%EB%A7%8E%EC%9D%80%EC%9D%B4%EC%9C%A0-wx2s6f82",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T12:35:25+09:00",
+      "views": 24,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T03:35:37+00:00",
       "isSeed": false
     }
   ]
