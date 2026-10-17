@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:31:01+00:00",
+  "updatedAt": "2026-10-17T09:34:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -710505,6 +710505,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T09:31:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62119,
+      "source": "qoo",
+      "externalId": "4378506070",
+      "title": "상철 뜬금없이 왜 이러는거지",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4378506070",
+      "postedLabel": "18:33",
+      "postedAt": "2026-10-17T18:33:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:34:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62120,
+      "source": "dc",
+      "externalId": "6595518",
+      "title": "순자의 결말은",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595518&page=1",
+      "postedLabel": "18:33",
+      "postedAt": "2026-10-17T18:33:19+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:34:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62121,
+      "source": "dc",
+      "externalId": "6595519",
+      "title": "근데 여자가 남자랑 얼굴크기 비슷한게 말이돼???",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595519&page=1",
+      "postedLabel": "18:33",
+      "postedAt": "2026-10-17T18:33:31+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:34:01+00:00",
       "isSeed": false
     }
   ]
