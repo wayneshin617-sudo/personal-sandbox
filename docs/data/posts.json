@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T06:49:06+00:00",
+  "updatedAt": "2026-10-17T06:50:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -702601,6 +702601,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T06:49:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61703,
+      "source": "dc",
+      "externalId": "6595329",
+      "title": "야 니들 이전 기수 못본거 있으면 챙겨보냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.91",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595329&page=1",
+      "postedLabel": "15:49",
+      "postedAt": "2026-10-17T15:49:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:50:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61704,
+      "source": "dc",
+      "externalId": "6595330",
+      "title": "남녀 출산 조건 ㅎㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595330&page=1",
+      "postedLabel": "15:49",
+      "postedAt": "2026-10-17T15:49:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:50:06+00:00",
       "isSeed": false
     }
   ]
