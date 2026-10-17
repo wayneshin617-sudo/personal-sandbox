@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T17:22:35+00:00",
+  "updatedAt": "2026-10-17T17:23:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -730360,6 +730360,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T17:22:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63164,
+      "source": "dc",
+      "externalId": "6596126",
+      "title": "7옥이 포옹 기분ㄴㅏ빴다는건 장난치는거고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596126&page=1",
+      "postedLabel": "02:23",
+      "postedAt": "2026-10-18T02:23:01+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T17:23:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63165,
+      "source": "dc",
+      "externalId": "6596127",
+      "title": "미서가 크게 마상 입은건 슈데이후 7옥이 미조 선택했을때지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596127&page=1",
+      "postedLabel": "02:23",
+      "postedAt": "2026-10-18T02:23:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T17:23:35+00:00",
       "isSeed": false
     }
   ]
