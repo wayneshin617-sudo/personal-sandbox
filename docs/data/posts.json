@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:21:26+00:00",
+  "updatedAt": "2026-10-17T13:22:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -723406,6 +723406,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T13:21:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62798,
+      "source": "qoo",
+      "externalId": "4378720507",
+      "title": "미서 영자 만나러 울산까지 내려갔다는거 알고 질척이게 되.....",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4378720507",
+      "postedLabel": "22:21",
+      "postedAt": "2026-10-17T22:21:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:22:27+00:00",
       "isSeed": false
     }
   ]
