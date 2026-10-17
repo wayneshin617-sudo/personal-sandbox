@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T14:46:27+00:00",
+  "updatedAt": "2026-10-17T14:47:26+00:00",
   "posts": [
     {
       "id": 1,
@@ -725154,6 +725154,44 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-17T14:46:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62890,
+      "source": "dc",
+      "externalId": "6595975",
+      "title": "월급 모아서 서울 아파트 사는 방법...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595975&page=1",
+      "postedLabel": "23:46",
+      "postedAt": "2026-10-17T23:46:21+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T14:47:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62891,
+      "source": "dc",
+      "externalId": "6595976",
+      "title": "리센느 제나 엄마랑 동년배 7옥아줌마..그냥 늙은 미친년입니다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "60.119",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595976&page=1",
+      "postedLabel": "23:46",
+      "postedAt": "2026-10-17T23:46:27+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T14:47:26+00:00",
       "isSeed": false
     }
   ]
