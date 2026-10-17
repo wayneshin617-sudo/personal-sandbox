@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T04:09:37+00:00",
+  "updatedAt": "2026-10-17T04:11:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -694431,6 +694431,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T04:09:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61273,
+      "source": "dc",
+      "externalId": "6595119",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "195.242",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595119&page=1",
+      "postedLabel": "13:10",
+      "postedAt": "2026-10-17T13:10:28+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:11:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61274,
+      "source": "dc",
+      "externalId": "6595120",
+      "title": "서열화는 점점 심해질수밖에",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595120&page=1",
+      "postedLabel": "13:10",
+      "postedAt": "2026-10-17T13:10:52+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:11:36+00:00",
       "isSeed": false
     }
   ]
