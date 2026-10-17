@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T03:40:36+00:00",
+  "updatedAt": "2026-10-17T03:43:37+00:00",
   "posts": [
     {
       "id": 1,
@@ -693804,6 +693804,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T03:40:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61240,
+      "source": "dc",
+      "externalId": "6595089",
+      "title": "14옥순 14순자 둘이 뭐있었어???",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595089&page=1",
+      "postedLabel": "12:42",
+      "postedAt": "2026-10-17T12:42:55+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:43:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61241,
+      "source": "dc",
+      "externalId": "6595090",
+      "title": "키 이렇게 인증하는게 맞냐?ㄷㄷ",
+      "excerpt": "",
+      "author": "통계학자",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595090&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-10-17T12:43:02+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:43:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61242,
+      "source": "dc",
+      "externalId": "6595091",
+      "title": "7옥 진짜 강남자가 있어?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595091&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-10-17T12:43:25+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:43:37+00:00",
       "isSeed": false
     }
   ]
