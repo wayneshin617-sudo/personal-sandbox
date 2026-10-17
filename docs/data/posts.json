@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T01:50:18+00:00",
+  "updatedAt": "2026-10-17T01:50:43+00:00",
   "posts": [
     {
       "id": 1,
@@ -690802,6 +690802,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-17T01:50:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61082,
+      "source": "dc",
+      "externalId": "6594968",
+      "title": "7옥순 연애관 아무 쓸모없는 연애관이다.",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.113",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594968&page=1",
+      "postedLabel": "10:49",
+      "postedAt": "2026-10-17T10:49:30+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T01:50:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61083,
+      "source": "dc",
+      "externalId": "6594969",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "195.242",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594969&page=1",
+      "postedLabel": "10:49",
+      "postedAt": "2026-10-17T10:49:40+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T01:50:43+00:00",
       "isSeed": false
     }
   ]
