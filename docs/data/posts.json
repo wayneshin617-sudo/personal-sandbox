@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T15:44:26+00:00",
+  "updatedAt": "2026-10-17T15:48:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -726256,6 +726256,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T15:44:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62948,
+      "source": "dc",
+      "externalId": "6596033",
+      "title": "사계 다음편 남출라인업 짜봤어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596033&page=1",
+      "postedLabel": "00:47",
+      "postedAt": "2026-10-18T00:47:22+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:48:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62949,
+      "source": "dc",
+      "externalId": "6596034",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596034&page=1",
+      "postedLabel": "00:47",
+      "postedAt": "2026-10-18T00:47:59+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:48:27+00:00",
       "isSeed": false
     }
   ]
