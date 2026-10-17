@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:36:02+00:00",
+  "updatedAt": "2026-10-17T09:38:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -710619,6 +710619,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T09:36:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62125,
+      "source": "dc",
+      "externalId": "6595523",
+      "title": "기싸움 하는 애들은 맨날 맞고 다니는 애들이지?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595523&page=1",
+      "postedLabel": "18:36",
+      "postedAt": "2026-10-17T18:36:49+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:38:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62126,
+      "source": "dc",
+      "externalId": "6595522",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "217.138",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595522&page=1",
+      "postedLabel": "18:36",
+      "postedAt": "2026-10-17T18:36:51+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:38:02+00:00",
       "isSeed": false
     }
   ]
