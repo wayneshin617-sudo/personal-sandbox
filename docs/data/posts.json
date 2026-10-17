@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:35:02+00:00",
+  "updatedAt": "2026-10-17T09:36:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -710581,6 +710581,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T09:35:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62123,
+      "source": "dc",
+      "externalId": "6595521",
+      "title": "31순자같은 자연미인이 안질림",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595521&page=1",
+      "postedLabel": "18:35",
+      "postedAt": "2026-10-17T18:35:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:36:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62124,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%97%85%EC%9E%A5-%ED%99%8D%EB%B3%B4%EA%B2%B8-%EB%82%98%EC%99%94%EC%9D%84%EA%B1%B4%EB%8D%B0-u4la21qr",
+      "title": "영자는 업장 홍보겸 나왔을건데",
+      "excerpt": "과몰입 하지말자",
+      "author": "I*********",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%97%85%EC%9E%A5-%ED%99%8D%EB%B3%B4%EA%B2%B8-%EB%82%98%EC%99%94%EC%9D%84%EA%B1%B4%EB%8D%B0-u4la21qr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T18:35:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T09:36:02+00:00",
       "isSeed": false
     }
   ]
