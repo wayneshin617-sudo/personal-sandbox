@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:26:06+00:00",
+  "updatedAt": "2026-10-17T05:27:05+00:00",
   "posts": [
     {
       "id": 1,
@@ -700264,6 +700264,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:26:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61580,
+      "source": "dc",
+      "externalId": "6595214",
+      "title": "성격만 조금 고치면 되지?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "122.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595214&page=1",
+      "postedLabel": "14:25",
+      "postedAt": "2026-10-17T14:25:57+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:27:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61581,
+      "source": "dc",
+      "externalId": "6595215",
+      "title": "14영자 솔직히 미서놓친거 후회중일듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595215&page=1",
+      "postedLabel": "14:26",
+      "postedAt": "2026-10-17T14:26:00+09:00",
+      "views": 17,
+      "recommends": 3,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T05:27:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61582,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%A4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B1%B0-%EB%93%A4%EB%A6%AC%EB%83%90-mmsv4bh4",
+      "title": "크리스마스 오고 있는거 들리냐?",
+      "excerpt": "째깍째깍 제주 30중 남자인데 여성이랑 행복한 크리스마스 보내고 싶다 쪽지는 환영이야☆",
+      "author": "풀****",
+      "company": "한국국제학교",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%A4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B1%B0-%EB%93%A4%EB%A6%AC%EB%83%90-mmsv4bh4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T14:26:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T05:27:05+00:00",
       "isSeed": false
     }
   ]
