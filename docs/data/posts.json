@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T16:39:35+00:00",
+  "updatedAt": "2026-10-17T16:40:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -729543,6 +729543,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T16:39:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63121,
+      "source": "dc",
+      "externalId": "6596078",
+      "title": "여기서 망상하는 할머니들은 사랑이 뭔지 모르는거같아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596078&page=1",
+      "postedLabel": "01:39",
+      "postedAt": "2026-10-18T01:39:36+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:40:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63122,
+      "source": "dc",
+      "externalId": "6596079",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596079&page=1",
+      "postedLabel": "01:39",
+      "postedAt": "2026-10-18T01:39:59+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:40:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63123,
+      "source": "dc",
+      "externalId": "6596080",
+      "title": "방금 사계리액션보는데 14영자 무서운거 또 발견",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596080&page=1",
+      "postedLabel": "01:40",
+      "postedAt": "2026-10-18T01:40:12+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:40:34+00:00",
       "isSeed": false
     }
   ]
