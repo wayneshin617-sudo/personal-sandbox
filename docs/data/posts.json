@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:36:27+00:00",
+  "updatedAt": "2026-10-17T13:37:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -723729,6 +723729,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T13:36:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62815,
+      "source": "dc",
+      "externalId": "6595909",
+      "title": "7옥 샤넬코리아본사에서 일한거 아는사람?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "49.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595909&page=1",
+      "postedLabel": "22:36",
+      "postedAt": "2026-10-17T22:36:17+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T13:37:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62816,
+      "source": "dc",
+      "externalId": "6595910",
+      "title": "34영철 동료 글",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.184",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595910&page=1",
+      "postedLabel": "22:36",
+      "postedAt": "2026-10-17T22:36:19+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:37:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62817,
+      "source": "dc",
+      "externalId": "6595911",
+      "title": "34기 영철 블라 글",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.184",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595911&page=1",
+      "postedLabel": "22:36",
+      "postedAt": "2026-10-17T22:36:42+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:37:27+00:00",
       "isSeed": false
     }
   ]
