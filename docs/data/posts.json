@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:02:05+00:00",
+  "updatedAt": "2026-10-17T05:03:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -699466,6 +699466,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:02:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61538,
+      "source": "dc",
+      "externalId": "6595174",
+      "title": "스치기만해도 빨간줄인데 무슨깡으로 껴안아?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595174&page=1",
+      "postedLabel": "14:02",
+      "postedAt": "2026-10-17T14:02:16+09:00",
+      "views": 6,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:03:06+00:00",
       "isSeed": false
     }
   ]
