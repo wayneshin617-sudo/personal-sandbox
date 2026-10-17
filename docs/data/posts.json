@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:45:01+00:00",
+  "updatedAt": "2026-10-17T09:46:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -710828,6 +710828,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T09:45:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62136,
+      "source": "qoo",
+      "externalId": "4378516403",
+      "title": "영수 계란후라이에 소금 치는것만 봐도 요리 많이 하는거 티난다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4378516403",
+      "postedLabel": "18:45",
+      "postedAt": "2026-10-17T18:45:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:46:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62137,
+      "source": "dc",
+      "externalId": "6595533",
+      "title": "놀뭐 서울가요제에 이이경이 나올 가능성은?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595533&page=1",
+      "postedLabel": "18:45",
+      "postedAt": "2026-10-17T18:45:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:46:01+00:00",
       "isSeed": false
     }
   ]
