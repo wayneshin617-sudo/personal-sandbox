@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:51:05+00:00",
+  "updatedAt": "2026-10-17T05:52:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -701024,6 +701024,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:51:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61620,
+      "source": "dc",
+      "externalId": "6595252",
+      "title": "???:미서오빠 나에게 돌아와",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595252&page=1",
+      "postedLabel": "14:50",
+      "postedAt": "2026-10-17T14:50:57+09:00",
+      "views": 21,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:52:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61621,
+      "source": "blind",
+      "externalId": "/kr/post/30%EB%8C%80-%ED%9B%84%EB%B0%98-%EC%8B%B1%EA%B8%80%EB%93%A4-%EC%82%AC%EB%9E%8C-%EC%96%B4%EB%94%94%EC%84%9C-%EB%A7%8C%EB%82%98%EC%9A%94-vnvira41",
+      "title": "30대 후반 싱글들 사람 어디서 만나요?",
+      "excerpt": "장기연애 끝나고서 이 나이에 새로운 사람 만나려니 막막하네요.. 회사집만 반복하는데 회사는 죄다 기혼자고.. 주변 지인들도 괜찮은 사람들은 다 기혼이라 소개팅도 어렵고.. 자만추 같은 마음 접어두고 로케이션 소개팅 이런데라도 나가보자 싶어도 나간 분들 나이 보면 98년생, 00년생들이 많아보여서 신청하려니 주책없어 보이고. 다들 어디서 만나시나요..",
+      "author": "f*****",
+      "company": "한화손해보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EB%8C%80-%ED%9B%84%EB%B0%98-%EC%8B%B1%EA%B8%80%EB%93%A4-%EC%82%AC%EB%9E%8C-%EC%96%B4%EB%94%94%EC%84%9C-%EB%A7%8C%EB%82%98%EC%9A%94-vnvira41",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T14:51:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T05:52:06+00:00",
       "isSeed": false
     }
   ]
