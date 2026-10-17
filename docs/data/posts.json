@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T00:34:01+00:00",
+  "updatedAt": "2026-10-17T00:35:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -679212,6 +679212,63 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-17T00:34:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60472,
+      "source": "dc",
+      "externalId": "6594903",
+      "title": "‘지역'도 '브랜드’인 부동산시장",
+      "excerpt": "",
+      "author": "양파",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594903&page=1",
+      "postedLabel": "09:34",
+      "postedAt": "2026-10-17T09:34:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:35:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60473,
+      "source": "dc",
+      "externalId": "6594904",
+      "title": "외국인특집 할꺼면 스시녀 특집으로 해야지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.61",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594904&page=1",
+      "postedLabel": "09:34",
+      "postedAt": "2026-10-17T09:34:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:35:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60474,
+      "source": "dc",
+      "externalId": "6594905",
+      "title": "34영철 폭로떴네 ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594905&page=1",
+      "postedLabel": "09:34",
+      "postedAt": "2026-10-17T09:34:36+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:35:00+00:00",
       "isSeed": false
     }
   ]
