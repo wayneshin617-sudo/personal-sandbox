@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T23:03:39+00:00",
+  "updatedAt": "2026-10-17T23:06:39+00:00",
   "posts": [
     {
       "id": 1,
@@ -739499,6 +739499,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T23:03:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63645,
+      "source": "dc",
+      "externalId": "6596320",
+      "title": "비서줌 심리 FACT",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596320&page=1",
+      "postedLabel": "08:05",
+      "postedAt": "2026-10-18T08:05:59+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T23:06:39+00:00",
       "isSeed": false
     }
   ]
