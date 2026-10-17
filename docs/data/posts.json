@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T19:55:42+00:00",
+  "updatedAt": "2026-10-17T19:56:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -736041,6 +736041,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T19:55:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63463,
+      "source": "dc",
+      "externalId": "6596238",
+      "title": "강남노래방 후기",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.131",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596238&page=1",
+      "postedLabel": "04:56",
+      "postedAt": "2026-10-18T04:56:29+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T19:56:42+00:00",
       "isSeed": false
     }
   ]
