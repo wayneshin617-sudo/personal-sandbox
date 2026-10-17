@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:11:00+00:00",
+  "updatedAt": "2026-10-17T09:12:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -709802,6 +709802,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T09:11:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62082,
+      "source": "dc",
+      "externalId": "6595482",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "169.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595482&page=1",
+      "postedLabel": "18:11",
+      "postedAt": "2026-10-17T18:11:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:12:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62083,
+      "source": "dc",
+      "externalId": "6595483",
+      "title": "ㄹㅇ 깍뚜기 잘 버무릴 거 같은 손이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595483&page=1",
+      "postedLabel": "18:11",
+      "postedAt": "2026-10-17T18:11:17+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:12:01+00:00",
       "isSeed": false
     }
   ]
