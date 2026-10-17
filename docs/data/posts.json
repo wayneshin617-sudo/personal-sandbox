@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T02:14:36+00:00",
+  "updatedAt": "2026-10-17T02:15:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -691980,6 +691980,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T02:14:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61144,
+      "source": "dc",
+      "externalId": "6595000",
+      "title": "여출들 사이에서 미서 평판 안좋던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595000&page=1",
+      "postedLabel": "11:14",
+      "postedAt": "2026-10-17T11:14:38+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:15:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61145,
+      "source": "dc",
+      "externalId": "6595001",
+      "title": "드!디!어! 시작된 국결특집 나는솔로 긴급편성",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595001&page=1",
+      "postedLabel": "11:15",
+      "postedAt": "2026-10-17T11:15:08+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:15:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61146,
+      "source": "dc",
+      "externalId": "6595002",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595002&page=1",
+      "postedLabel": "11:15",
+      "postedAt": "2026-10-17T11:15:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:15:36+00:00",
       "isSeed": false
     }
   ]
