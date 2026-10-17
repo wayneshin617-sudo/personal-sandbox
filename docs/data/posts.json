@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T15:53:27+00:00",
+  "updatedAt": "2026-10-17T15:55:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -726370,6 +726370,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T15:53:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62954,
+      "source": "dc",
+      "externalId": "6596039",
+      "title": "남규홍이 미서 또 출연시키겠지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596039&page=1",
+      "postedLabel": "00:54",
+      "postedAt": "2026-10-18T00:54:32+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:55:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62955,
+      "source": "dc",
+      "externalId": "6596040",
+      "title": "남규홍 7옥 결혼하면 식장에서 울거같애",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.237",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596040&page=1",
+      "postedLabel": "00:54",
+      "postedAt": "2026-10-18T00:54:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:55:27+00:00",
       "isSeed": false
     }
   ]
