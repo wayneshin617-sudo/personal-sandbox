@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T11:07:01+00:00",
+  "updatedAt": "2026-10-17T11:09:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -715369,6 +715369,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T11:07:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62375,
+      "source": "dc",
+      "externalId": "6595633",
+      "title": "31순자같이 수수하게 이쁜게 좋음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595633&page=1",
+      "postedLabel": "20:07",
+      "postedAt": "2026-10-17T20:07:53+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T11:09:00+00:00",
       "isSeed": false
     }
   ]
