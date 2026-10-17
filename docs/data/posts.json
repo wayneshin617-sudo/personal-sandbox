@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T08:48:00+00:00",
+  "updatedAt": "2026-10-17T08:50:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -709346,6 +709346,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T08:48:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62058,
+      "source": "dc",
+      "externalId": "6595460",
+      "title": "33기 친목은 그냥 보기가 좋네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595460&page=1",
+      "postedLabel": "17:49",
+      "postedAt": "2026-10-17T17:49:47+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:50:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62059,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%98-%EC%9D%80%EA%B7%BC-%EC%88%98%EC%9A%94-%EC%9E%88%EC%9D%84%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-8pa67lhh",
+      "title": "영수 은근 수요 있을거 같은데",
+      "excerpt": "남자답기도 하고 자기소개때 셔츠 코디 좋더라",
+      "author": "!******",
+      "company": "현대모비스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%9D%80%EA%B7%BC-%EC%88%98%EC%9A%94-%EC%9E%88%EC%9D%84%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-8pa67lhh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T17:49:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T08:50:01+00:00",
       "isSeed": false
     }
   ]
