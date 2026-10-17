@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T18:49:35+00:00",
+  "updatedAt": "2026-10-17T18:50:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -731766,6 +731766,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T18:49:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63238,
+      "source": "dc",
+      "externalId": "6596209",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "45.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596209&page=1",
+      "postedLabel": "03:49",
+      "postedAt": "2026-10-18T03:49:59+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T18:50:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63239,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B4%91%EC%88%98-27%EC%98%81%EC%B2%A0-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%8A%90%EB%82%8C-44rp1rb1",
+      "title": "34광수 27영철 비슷한 느낌",
+      "excerpt": "닮았지",
+      "author": "⁠*********",
+      "company": "연세대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B4%91%EC%88%98-27%EC%98%81%EC%B2%A0-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%8A%90%EB%82%8C-44rp1rb1",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T03:50:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T18:50:35+00:00",
       "isSeed": false
     }
   ]
