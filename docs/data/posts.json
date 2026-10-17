@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T01:57:36+00:00",
+  "updatedAt": "2026-10-17T01:58:37+00:00",
   "posts": [
     {
       "id": 1,
@@ -691619,6 +691619,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T01:57:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61125,
+      "source": "dc",
+      "externalId": "6594980",
+      "title": "서양 여자들은 진짜 다르더라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594980&page=1",
+      "postedLabel": "10:58",
+      "postedAt": "2026-10-17T10:58:18+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T01:58:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61126,
+      "source": "dc",
+      "externalId": "6594981",
+      "title": "25영자보고는 걸레라더니 미서는 찬양을 하네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.251",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594981&page=1",
+      "postedLabel": "10:58",
+      "postedAt": "2026-10-17T10:58:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T01:58:37+00:00",
       "isSeed": false
     }
   ]
