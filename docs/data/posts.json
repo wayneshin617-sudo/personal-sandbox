@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T04:01:36+00:00",
+  "updatedAt": "2026-10-17T04:02:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -694260,6 +694260,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T04:01:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61264,
+      "source": "dc",
+      "externalId": "6595111",
+      "title": "미서 계약결혼 7옥 비추임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595111&page=1",
+      "postedLabel": "13:01",
+      "postedAt": "2026-10-17T13:01:26+09:00",
+      "views": 5,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:02:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61265,
+      "source": "dc",
+      "externalId": "6595112",
+      "title": "34영숙 쉬마려 손목 문신",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595112&page=1",
+      "postedLabel": "13:01",
+      "postedAt": "2026-10-17T13:01:36+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T04:02:36+00:00",
       "isSeed": false
     }
   ]
