@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T15:25:27+00:00",
+  "updatedAt": "2026-10-17T15:26:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -725971,6 +725971,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T15:25:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62933,
+      "source": "dc",
+      "externalId": "6596016",
+      "title": "34기 영자 말투 대체왜저러냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596016&page=1",
+      "postedLabel": "00:25",
+      "postedAt": "2026-10-18T00:25:19+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:26:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62934,
+      "source": "dc",
+      "externalId": "6596017",
+      "title": "순자산별 자동차 계급도",
+      "excerpt": "",
+      "author": "초보",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596017&page=1",
+      "postedLabel": "00:25",
+      "postedAt": "2026-10-18T00:25:55+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:26:27+00:00",
       "isSeed": false
     }
   ]
