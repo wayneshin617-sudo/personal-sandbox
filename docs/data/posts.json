@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T17:00:36+00:00",
+  "updatedAt": "2026-10-17T17:02:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -730037,6 +730037,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T17:00:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63147,
+      "source": "dc",
+      "externalId": "6596107",
+      "title": "14영자가 뭘 지랄지랄 했다는거임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596107&page=1",
+      "postedLabel": "02:01",
+      "postedAt": "2026-10-18T02:01:37+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T17:02:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63148,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%8F%84-%EC%9B%83%EC%9D%84-%EB%95%8C-%EC%9E%87%EB%AA%B8-%EB%A7%8E%EC%9D%B4-%EB%B3%B4%EC%98%80%EB%8A%94%EB%8D%B0-%EA%B5%90%EC%A0%95%ED%95%98%EB%8B%88%EA%B9%8C-%EC%96%B4%EB%8A%90-%EC%A0%95%EB%8F%84-%EB%B3%B4%EC%99%84%EB%90%A8-%EC%98%81%EC%9E%90%EB%8F%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4-hrbrxgof",
+      "title": "나도 웃을 때 잇몸 많이 보였는데 교정하니까 어느 정도 보완됨 영자도 할 수 있어",
+      "excerpt": "지금은 활짝 웃어도 이정도야",
+      "author": "t*****",
+      "company": "CJ올리브영",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8F%84-%EC%9B%83%EC%9D%84-%EB%95%8C-%EC%9E%87%EB%AA%B8-%EB%A7%8E%EC%9D%B4-%EB%B3%B4%EC%98%80%EB%8A%94%EB%8D%B0-%EA%B5%90%EC%A0%95%ED%95%98%EB%8B%88%EA%B9%8C-%EC%96%B4%EB%8A%90-%EC%A0%95%EB%8F%84-%EB%B3%B4%EC%99%84%EB%90%A8-%EC%98%81%EC%9E%90%EB%8F%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4-hrbrxgof",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T02:02:24+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T17:02:35+00:00",
       "isSeed": false
     }
   ]
