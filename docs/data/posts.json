@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T04:11:36+00:00",
+  "updatedAt": "2026-10-17T04:12:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -694469,6 +694469,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T04:11:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61275,
+      "source": "dc",
+      "externalId": "6595121",
+      "title": "14영자 최종선택안한건 안아쉽고 7옥이 바닷가 선택",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595121&page=1",
+      "postedLabel": "13:11",
+      "postedAt": "2026-10-17T13:11:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:12:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61276,
+      "source": "qoo",
+      "externalId": "4378233080",
+      "title": "미서 단독인터뷰 재밌다ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4378233080",
+      "postedLabel": "13:12",
+      "postedAt": "2026-10-17T13:12:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:12:36+00:00",
       "isSeed": false
     }
   ]
