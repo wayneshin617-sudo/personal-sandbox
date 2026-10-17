@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:17:02+00:00",
+  "updatedAt": "2026-10-17T10:18:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -711398,6 +711398,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:17:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62166,
+      "source": "dc",
+      "externalId": "6595562",
+      "title": "칠, 울대두에게 고한다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595562&page=1",
+      "postedLabel": "19:16",
+      "postedAt": "2026-10-17T19:16:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:18:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62167,
+      "source": "dc",
+      "externalId": "6595563",
+      "title": "28돌싱광수 \"남친은 아빠가 아니다 당연한게 없다\"",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595563&page=1",
+      "postedLabel": "19:17",
+      "postedAt": "2026-10-17T19:17:11+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:18:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62168,
+      "source": "dc",
+      "externalId": "6595564",
+      "title": "31기 글 왜 자꾸 쓰는거야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595564&page=1",
+      "postedLabel": "19:17",
+      "postedAt": "2026-10-17T19:17:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:18:02+00:00",
       "isSeed": false
     }
   ]
