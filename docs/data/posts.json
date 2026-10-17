@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:07:01+00:00",
+  "updatedAt": "2026-10-17T09:08:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -709688,6 +709688,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T09:07:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62076,
+      "source": "dc",
+      "externalId": "6595476",
+      "title": "34기에 경수 출연하면 어케 됨?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595476&page=1",
+      "postedLabel": "18:07",
+      "postedAt": "2026-10-17T18:07:10+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:08:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62077,
+      "source": "dc",
+      "externalId": "6595477",
+      "title": "여자들아 젭알 이런 짓거리는 하지 말자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595477&page=1",
+      "postedLabel": "18:07",
+      "postedAt": "2026-10-17T18:07:36+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:08:01+00:00",
       "isSeed": false
     }
   ]
