@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T14:07:28+00:00",
+  "updatedAt": "2026-10-17T14:09:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -724413,6 +724413,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T14:07:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62851,
+      "source": "dc",
+      "externalId": "6595943",
+      "title": "수서신동아 14평형 16억 돌파의 의미",
+      "excerpt": "",
+      "author": "각수",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595943&page=1",
+      "postedLabel": "23:08",
+      "postedAt": "2026-10-17T23:08:34+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T14:09:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62852,
+      "source": "dc",
+      "externalId": "6595944",
+      "title": "7옥과 미조 패션은 둘다 전형적인 룩이지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.129",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595944&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-17T23:09:04+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T14:09:27+00:00",
       "isSeed": false
     }
   ]
