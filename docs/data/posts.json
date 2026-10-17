@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:03:06+00:00",
+  "updatedAt": "2026-10-17T05:04:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -699485,6 +699485,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:03:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61539,
+      "source": "dc",
+      "externalId": "6595175",
+      "title": "미서햄은 시청자 반응 부담스러워 하던데 여기서 사라질듯",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595175&page=1",
+      "postedLabel": "14:03",
+      "postedAt": "2026-10-17T14:03:07+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:04:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61540,
+      "source": "dc",
+      "externalId": "6595176",
+      "title": "31순자 정도면 미인이지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595176&page=1",
+      "postedLabel": "14:03",
+      "postedAt": "2026-10-17T14:03:14+09:00",
+      "views": 12,
+      "recommends": 2,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T05:04:06+00:00",
       "isSeed": false
     }
   ]
