@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T02:28:36+00:00",
+  "updatedAt": "2026-10-17T02:29:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -692360,6 +692360,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T02:28:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61164,
+      "source": "dc",
+      "externalId": "6595019",
+      "title": "조희대 탄핵찬성하면 개추",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595019&page=1",
+      "postedLabel": "11:28",
+      "postedAt": "2026-10-17T11:28:51+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:29:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61165,
+      "source": "dc",
+      "externalId": "6595020",
+      "title": "연예인들이 더 빨리 늙는거 같지 않아?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595020&page=1",
+      "postedLabel": "11:29",
+      "postedAt": "2026-10-17T11:29:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:29:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61166,
+      "source": "dc",
+      "externalId": "6595021",
+      "title": "일본에서 만나서 같이 놀았던 눈나들인데 어떻냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595021&page=1",
+      "postedLabel": "11:29",
+      "postedAt": "2026-10-17T11:29:21+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T02:29:36+00:00",
       "isSeed": false
     }
   ]
