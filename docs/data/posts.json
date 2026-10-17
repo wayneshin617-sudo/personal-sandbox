@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T08:06:01+00:00",
+  "updatedAt": "2026-10-17T08:07:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -708643,6 +708643,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T08:06:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62021,
+      "source": "dc",
+      "externalId": "6595429",
+      "title": "미서 단독인터뷰도 개웃김ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595429&page=1",
+      "postedLabel": "17:06",
+      "postedAt": "2026-10-17T17:06:06+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:07:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62022,
+      "source": "dc",
+      "externalId": "6595430",
+      "title": "국결사계보다 해바쏭사계가 더 물좋음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595430&page=1",
+      "postedLabel": "17:06",
+      "postedAt": "2026-10-17T17:06:19+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:07:01+00:00",
       "isSeed": false
     }
   ]
