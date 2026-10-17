@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T01:02:00+00:00",
+  "updatedAt": "2026-10-17T01:02:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -679725,6 +679725,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T01:02:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60499,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C-%EB%A7%8C%EB%82%98%EB%A9%B4-1bjqebmm",
+      "title": "여기서 만나면",
+      "excerpt": "왜 다음날 연락이 안될까 통화도 2시간 넘게하고 호감이 느껴지는데 구체적인 약속도 잡고 다음날부터 안읽씹 상태네",
+      "author": "l********",
+      "company": "IBK투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C-%EB%A7%8C%EB%82%98%EB%A9%B4-1bjqebmm",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T10:02:48+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T01:02:59+00:00",
       "isSeed": false
     }
   ]
