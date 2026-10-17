@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:41:27+00:00",
+  "updatedAt": "2026-10-17T13:42:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -723881,6 +723881,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T13:41:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62823,
+      "source": "dc",
+      "externalId": "6595918",
+      "title": "14영자 촌빨나는거 많이 나아진거임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595918&page=1",
+      "postedLabel": "22:42",
+      "postedAt": "2026-10-17T22:42:08+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:42:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62824,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%82%AC%EA%B3%84-%EB%9D%BC%EB%B0%A9%EB%B3%B4%EB%8A%94%EB%8D%B0-%EA%B5%AD%ED%99%94-%EC%A1%B4%EC%98%88-urszpr03",
+      "title": "사계 라방보는데 국화 존예",
+      "excerpt": "연옌같네 14영자도 이쁘고 미서도 존잘 미조는 그사이 더 늙음",
+      "author": "I********",
+      "company": "부산교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EA%B3%84-%EB%9D%BC%EB%B0%A9%EB%B3%B4%EB%8A%94%EB%8D%B0-%EA%B5%AD%ED%99%94-%EC%A1%B4%EC%98%88-urszpr03",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T22:42:15+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T13:42:27+00:00",
       "isSeed": false
     }
   ]
