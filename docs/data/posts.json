@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T16:34:34+00:00",
+  "updatedAt": "2026-10-17T16:35:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -729372,6 +729372,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T16:34:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63112,
+      "source": "dc",
+      "externalId": "6596068",
+      "title": "7옥은 14영자를 알수밖에 없어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596068&page=1",
+      "postedLabel": "01:34",
+      "postedAt": "2026-10-18T01:34:24+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:35:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63113,
+      "source": "dc",
+      "externalId": "6596069",
+      "title": "이번기수 영철 영숙처럼 첫날부터 업된 출연자는",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596069&page=1",
+      "postedLabel": "01:34",
+      "postedAt": "2026-10-18T01:34:29+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:35:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63114,
+      "source": "dc",
+      "externalId": "6596070",
+      "title": "카메라를 사준 이유는 이거지",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596070&page=1",
+      "postedLabel": "01:35",
+      "postedAt": "2026-10-18T01:35:17+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:35:35+00:00",
       "isSeed": false
     }
   ]
