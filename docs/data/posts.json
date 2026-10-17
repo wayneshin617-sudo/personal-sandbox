@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:28:01+00:00",
+  "updatedAt": "2026-10-17T10:29:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -714552,6 +714552,25 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:28:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62332,
+      "source": "dc",
+      "externalId": "6595588",
+      "title": "미스터 서 왤캐 14영자랑 투샷 리포스트 많이했냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595588&page=1",
+      "postedLabel": "19:28",
+      "postedAt": "2026-10-17T19:28:01+09:00",
+      "views": 17,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:29:00+00:00",
       "isSeed": false
     }
   ]
