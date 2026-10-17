@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:23:05+00:00",
+  "updatedAt": "2026-10-17T05:24:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -700150,6 +700150,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:23:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61574,
+      "source": "dc",
+      "externalId": "6595208",
+      "title": "미조 치과가서 골드크라운 치아색 크라운으로 교체하셈",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595208&page=1",
+      "postedLabel": "14:23",
+      "postedAt": "2026-10-17T14:23:11+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:24:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61575,
+      "source": "dc",
+      "externalId": "6595209",
+      "title": "31순자는 500만원짜리 까르띠에 시계 사서 행복한가봐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595209&page=1",
+      "postedLabel": "14:23",
+      "postedAt": "2026-10-17T14:23:28+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:24:06+00:00",
       "isSeed": false
     }
   ]
