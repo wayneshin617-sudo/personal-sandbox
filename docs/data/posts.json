@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T15:00:27+00:00",
+  "updatedAt": "2026-10-17T15:03:28+00:00",
   "posts": [
     {
       "id": 1,
@@ -725496,6 +725496,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T15:00:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62908,
+      "source": "dc",
+      "externalId": "6595992",
+      "title": "글로벌IT개발자 약사 변호사 서로서로 남자소개시켜주면 될듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595992&page=1",
+      "postedLabel": "00:02",
+      "postedAt": "2026-10-18T00:02:45+09:00",
+      "views": 4,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:03:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62909,
+      "source": "dc",
+      "externalId": "6595993",
+      "title": "24살 여자가 키방이란 단어를 내뱉는데",
+      "excerpt": "",
+      "author": "조까",
+      "company": "",
+      "ip": "211.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595993&page=1",
+      "postedLabel": "00:03",
+      "postedAt": "2026-10-18T00:03:13+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:03:28+00:00",
       "isSeed": false
     }
   ]
