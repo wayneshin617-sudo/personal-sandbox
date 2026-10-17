@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T03:32:37+00:00",
+  "updatedAt": "2026-10-17T03:34:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -693595,6 +693595,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T03:32:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61229,
+      "source": "dc",
+      "externalId": "6595079",
+      "title": "미서 단독인터뷰 한거 왜 아무도 말안해줌?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595079&page=1",
+      "postedLabel": "12:33",
+      "postedAt": "2026-10-17T12:33:48+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:34:35+00:00",
       "isSeed": false
     }
   ]
