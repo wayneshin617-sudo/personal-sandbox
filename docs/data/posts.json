@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:36:06+00:00",
+  "updatedAt": "2026-10-17T05:37:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -700663,6 +700663,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:36:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61601,
+      "source": "dc",
+      "externalId": "6595234",
+      "title": "14영자 불여시라는게 방송에선 도도함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595234&page=1",
+      "postedLabel": "14:36",
+      "postedAt": "2026-10-17T14:36:33+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:37:06+00:00",
       "isSeed": false
     }
   ]
