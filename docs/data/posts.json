@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T11:09:00+00:00",
+  "updatedAt": "2026-10-17T11:10:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -715388,6 +715388,63 @@
       "recommends": 1,
       "comments": 1,
       "firstSeenAt": "2026-10-17T11:09:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62376,
+      "source": "dc",
+      "externalId": "6595634",
+      "title": "녀자 문신충은 하자가 맞아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.27",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595634&page=1",
+      "postedLabel": "20:09",
+      "postedAt": "2026-10-17T20:09:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:10:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62377,
+      "source": "dc",
+      "externalId": "6595635",
+      "title": "순자 갤에서 꺼지라는 211.36이 누군지 알아보자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595635&page=1",
+      "postedLabel": "20:09",
+      "postedAt": "2026-10-17T20:09:36+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:10:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62378,
+      "source": "dc",
+      "externalId": "6595636",
+      "title": "미국- 중국·이란 지정학 시대 속 투자자들에게 필요한 방향성",
+      "excerpt": "",
+      "author": "각수",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595636&page=1",
+      "postedLabel": "20:09",
+      "postedAt": "2026-10-17T20:09:39+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:10:01+00:00",
       "isSeed": false
     }
   ]
