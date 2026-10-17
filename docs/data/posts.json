@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T00:31:01+00:00",
+  "updatedAt": "2026-10-17T00:32:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -679155,6 +679155,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T00:31:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60469,
+      "source": "qoo",
+      "externalId": "4378091951",
+      "title": "34기 이제봤다 자기소개 감상",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4378091951",
+      "postedLabel": "09:31",
+      "postedAt": "2026-10-17T09:31:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:32:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60470,
+      "source": "dc",
+      "externalId": "6594902",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594902&page=1",
+      "postedLabel": "09:31",
+      "postedAt": "2026-10-17T09:31:37+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:32:00+00:00",
       "isSeed": false
     }
   ]
