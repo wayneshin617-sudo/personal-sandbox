@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:38:06+00:00",
+  "updatedAt": "2026-10-17T05:39:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -700701,6 +700701,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:38:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61603,
+      "source": "dc",
+      "externalId": "6595236",
+      "title": "여기서 미서 까는거 경수같지않아??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595236&page=1",
+      "postedLabel": "14:38",
+      "postedAt": "2026-10-17T14:38:27+09:00",
+      "views": 7,
+      "recommends": 2,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T05:39:06+00:00",
       "isSeed": false
     }
   ]
