@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:58:06+00:00",
+  "updatedAt": "2026-10-17T06:00:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -701271,6 +701271,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:58:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61633,
+      "source": "dc",
+      "externalId": "6595264",
+      "title": "영자 터치 너무 심해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595264&page=1",
+      "postedLabel": "14:59",
+      "postedAt": "2026-10-17T14:59:03+09:00",
+      "views": 14,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:00:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61634,
+      "source": "dc",
+      "externalId": "6595265",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595265&page=1",
+      "postedLabel": "14:59",
+      "postedAt": "2026-10-17T14:59:16+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:00:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61635,
+      "source": "dc",
+      "externalId": "6595266",
+      "title": "7옥은 미조한테 스킨쉽 절대 안하는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595266&page=1",
+      "postedLabel": "14:59",
+      "postedAt": "2026-10-17T14:59:21+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T06:00:06+00:00",
       "isSeed": false
     }
   ]
