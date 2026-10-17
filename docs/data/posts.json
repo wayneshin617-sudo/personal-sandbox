@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:24:09+00:00",
+  "updatedAt": "2026-10-17T10:25:04+00:00",
   "posts": [
     {
       "id": 1,
@@ -713849,6 +713849,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:24:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62295,
+      "source": "dc",
+      "externalId": "6595582",
+      "title": "여기서 욕먹음 = 존나 잘살고 있음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595582&page=1",
+      "postedLabel": "19:23",
+      "postedAt": "2026-10-17T19:23:55+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T10:25:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62296,
+      "source": "dc",
+      "externalId": "6595583",
+      "title": "34순자 오래 사겨본적 없대잖아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595583&page=1",
+      "postedLabel": "19:24",
+      "postedAt": "2026-10-17T19:24:20+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:25:04+00:00",
       "isSeed": false
     }
   ]
