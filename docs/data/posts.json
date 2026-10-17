@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:07:05+00:00",
+  "updatedAt": "2026-10-17T05:08:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -699618,6 +699618,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:07:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61546,
+      "source": "dc",
+      "externalId": "6595181",
+      "title": "31순자가 더 예쁜데? 경수는 걍 지나가는 아재 같이 됨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595181&page=1",
+      "postedLabel": "14:06",
+      "postedAt": "2026-10-17T14:06:55+09:00",
+      "views": 8,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:08:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61547,
+      "source": "dc",
+      "externalId": "6595182",
+      "title": "그랴도14영이 이쁘긴 해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595182&page=1",
+      "postedLabel": "14:07",
+      "postedAt": "2026-10-17T14:07:38+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:08:06+00:00",
       "isSeed": false
     }
   ]
