@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T03:08:36+00:00",
+  "updatedAt": "2026-10-17T03:12:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -693310,6 +693310,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T03:08:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61214,
+      "source": "dc",
+      "externalId": "6595064",
+      "title": "얘들아 미서 말야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595064&page=1",
+      "postedLabel": "12:11",
+      "postedAt": "2026-10-17T12:11:42+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:12:36+00:00",
       "isSeed": false
     }
   ]
