@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:04:01+00:00",
+  "updatedAt": "2026-10-17T13:05:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -719663,6 +719663,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T13:04:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62601,
+      "source": "dc",
+      "externalId": "6595860",
+      "title": "7옥 늦지않았어 결정사가입해서 주말마다 누구라도 좀 만나라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595860&page=1",
+      "postedLabel": "22:04",
+      "postedAt": "2026-10-17T22:04:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:05:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62602,
+      "source": "dc",
+      "externalId": "6595861",
+      "title": "전부 결혼하면 바로 시험관예약해야함 24현숙제외",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595861&page=1",
+      "postedLabel": "22:04",
+      "postedAt": "2026-10-17T22:04:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:05:00+00:00",
       "isSeed": false
     }
   ]
