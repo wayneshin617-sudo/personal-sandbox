@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:21:06+00:00",
+  "updatedAt": "2026-10-17T05:23:05+00:00",
   "posts": [
     {
       "id": 1,
@@ -700112,6 +700112,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:21:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61572,
+      "source": "dc",
+      "externalId": "6595206",
+      "title": "31기 더글로리가 현명하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.69",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595206&page=1",
+      "postedLabel": "14:22",
+      "postedAt": "2026-10-17T14:22:16+09:00",
+      "views": 13,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:23:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61573,
+      "source": "dc",
+      "externalId": "6595207",
+      "title": "밖에서 5번 만났으면 할거 다하지 않나??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595207&page=1",
+      "postedLabel": "14:22",
+      "postedAt": "2026-10-17T14:22:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:23:05+00:00",
       "isSeed": false
     }
   ]
