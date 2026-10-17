@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:39:26+00:00",
+  "updatedAt": "2026-10-17T13:40:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -723805,6 +723805,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T13:39:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62819,
+      "source": "dc",
+      "externalId": "6595913",
+      "title": "9급늦게 갔어도 승진은 빠름 그래서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595913&page=1",
+      "postedLabel": "22:39",
+      "postedAt": "2026-10-17T22:39:32+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:40:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62820,
+      "source": "dc",
+      "externalId": "6595914",
+      "title": "남규홍은 홍상수처럼 예술성도 없고 그저 일반인 팔아서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595914&page=1",
+      "postedLabel": "22:39",
+      "postedAt": "2026-10-17T22:39:35+09:00",
+      "views": 11,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:40:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62821,
+      "source": "dc",
+      "externalId": "6595915",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595915&page=1",
+      "postedLabel": "22:39",
+      "postedAt": "2026-10-17T22:39:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:40:27+00:00",
       "isSeed": false
     }
   ]
