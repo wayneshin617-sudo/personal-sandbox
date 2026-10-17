@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T12:59:00+00:00",
+  "updatedAt": "2026-10-17T13:00:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -719340,6 +719340,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T12:59:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62584,
+      "source": "dc",
+      "externalId": "6595843",
+      "title": "미스터지 여자들이 모성보호 본능 느끼는듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595843&page=1",
+      "postedLabel": "21:59",
+      "postedAt": "2026-10-17T21:59:13+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:00:00+00:00",
       "isSeed": false
     }
   ]
