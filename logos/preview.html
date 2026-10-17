@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CSC 로고 시안</title>
+  <style>
+    :root { --ink: #000; --paper: #f3f3f0; --muted: #555; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font-family: Inter, "Noto Sans", sans-serif; }
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 56px 32px 80px; }
+    .eyebrow { margin: 0 0 10px; font-size: 12px; letter-spacing: 0.2em; font-weight: 650; }
+    h1 { margin: 0; font-size: 56px; letter-spacing: -0.045em; line-height: 0.95; }
+    .lead { margin: 14px 0 0; color: var(--muted); font-size: 17px; }
+    .opt { margin-top: 28px; }
+    .kicker { margin: 0 0 10px; font-size: 13px; letter-spacing: 0.14em; font-weight: 650; }
+    .panel { background: #fff; min-height: 220px; display: flex; align-items: center; justify-content: center; padding: 36px 28px; }
+    .panel img { width: min(100%, 640px); height: auto; }
+    .split { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .panel.dark { background: #000; }
+    .panel.dark img { filter: invert(1); width: min(100%, 420px); }
+    .badge img { width: 220px; filter: none; }
+    .note { margin: 8px 0 0; color: var(--muted); font-size: 14px; }
+    @media (max-width: 800px) { .split { grid-template-columns: 1fr; } h1 { font-size: 40px; } }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <p class="eyebrow">NIKE · LOGISTICS CENTER</p>
+    <h1>CSC 시안</h1>
+    <p class="lead">스우시는 꼬리에서 시작해 끝이 직선으로 잘리게 맞췄습니다. 네 가지입니다.</p>
+
+    <section class="opt">
+      <p class="kicker">01 워드마크</p>
+      <div class="panel"><img src="csc-wordmark.svg" alt="스우시 아래 CSC"></div>
+      <p class="note">스우시가 이름 위에 있습니다.</p>
+    </section>
+
+    <section class="opt">
+      <p class="kicker">02 가로형</p>
+      <div class="panel"><img src="csc-horizontal.svg" alt="스우시와 CSC를 나란히"></div>
+      <p class="note">스우시와 CSC를 한 줄에 둡니다.</p>
+    </section>
+
+    <div class="split">
+      <section class="opt">
+        <p class="kicker">03 배지</p>
+        <div class="panel"><img src="csc-badge.svg" alt="원형 배지" style="width:240px"></div>
+        <p class="note">차량, 출입증, 게이트.</p>
+      </section>
+      <section class="opt">
+        <p class="kicker">04 물류</p>
+        <div class="panel"><img src="csc-logistics.svg" alt="컨테이너와 스우시, CSC"></div>
+        <p class="note">컨테이너 골을 옆에 둔 사인.</p>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
