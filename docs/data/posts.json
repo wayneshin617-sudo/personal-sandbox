@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:27:09+00:00",
+  "updatedAt": "2026-10-17T10:28:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -714514,6 +714514,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:27:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62330,
+      "source": "dc",
+      "externalId": "6595585",
+      "title": "질투 많이 받는다는 31순자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595585&page=1",
+      "postedLabel": "19:27",
+      "postedAt": "2026-10-17T19:27:03+09:00",
+      "views": 20,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:28:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62331,
+      "source": "dc",
+      "externalId": "6595586",
+      "title": "순자경수 제발 꺼져 눈치 드럽게 없어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595586&page=1",
+      "postedLabel": "19:27",
+      "postedAt": "2026-10-17T19:27:09+09:00",
+      "views": 16,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:28:01+00:00",
       "isSeed": false
     }
   ]
