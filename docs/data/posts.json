@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T10:29:00+00:00",
+  "updatedAt": "2026-10-17T10:32:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -714571,6 +714571,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T10:29:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62333,
+      "source": "dc",
+      "externalId": "6595589",
+      "title": "31순자가 핫하긴 하네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.218",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595589&page=1",
+      "postedLabel": "19:31",
+      "postedAt": "2026-10-17T19:31:36+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:32:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62334,
+      "source": "dc",
+      "externalId": "6595590",
+      "title": "화제 됐어도 조용히 잊혀지길 바라는 출연자들이 대단하단 생각드네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595590&page=1",
+      "postedLabel": "19:31",
+      "postedAt": "2026-10-17T19:31:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T10:32:01+00:00",
       "isSeed": false
     }
   ]
