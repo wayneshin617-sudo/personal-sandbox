@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T17:46:34+00:00",
+  "updatedAt": "2026-10-17T17:48:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -730721,6 +730721,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T17:46:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63183,
+      "source": "dc",
+      "externalId": "6596149",
+      "title": "노괴픽을 이해하려 하지마",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596149&page=1",
+      "postedLabel": "02:47",
+      "postedAt": "2026-10-18T02:47:44+09:00",
+      "views": 7,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T17:48:35+00:00",
       "isSeed": false
     }
   ]
