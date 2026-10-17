@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T16:15:35+00:00",
+  "updatedAt": "2026-10-17T16:20:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -729106,6 +729106,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T16:15:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63098,
+      "source": "dc",
+      "externalId": "6596054",
+      "title": "싸우면 누가이길까 차해인 vs 마키마",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596054&page=1",
+      "postedLabel": "01:19",
+      "postedAt": "2026-10-18T01:19:40+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:20:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63099,
+      "source": "dc",
+      "externalId": "6596055",
+      "title": "31기부터 순자가",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596055&page=1",
+      "postedLabel": "01:19",
+      "postedAt": "2026-10-18T01:19:55+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:20:34+00:00",
       "isSeed": false
     }
   ]
