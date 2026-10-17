@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T04:56:06+00:00",
+  "updatedAt": "2026-10-17T04:57:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -699257,6 +699257,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T04:56:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61527,
+      "source": "dc",
+      "externalId": "6595164",
+      "title": "14 영자. 말이 좋아 비서라고 하는거지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595164&page=1",
+      "postedLabel": "13:56",
+      "postedAt": "2026-10-17T13:56:17+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:57:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61528,
+      "source": "dc",
+      "externalId": "6595165",
+      "title": "31순자가 까르띠에 시계 사는거 보니 22영숙이랑 비슷하다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595165&page=1",
+      "postedLabel": "13:56",
+      "postedAt": "2026-10-17T13:56:23+09:00",
+      "views": 7,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T04:57:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61529,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%93%80%EC%98%A4-%EC%95%84%EC%A7%81%EB%8F%84-%EB%AF%B8%EC%B0%A8%EA%B0%90%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%98%A4%EB%82%98%EC%9A%94-wdr21jtt",
+      "title": "듀오 아직도 미차감으로 나오나요?",
+      "excerpt": "횟수제가입해서 조금 남아서 쓰려는데 상대 미차감인거 만나기 꼴보기 싫은데 아직도 미차감으로 나와요?",
+      "author": "v*****",
+      "company": "삼안",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%93%80%EC%98%A4-%EC%95%84%EC%A7%81%EB%8F%84-%EB%AF%B8%EC%B0%A8%EA%B0%90%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%98%A4%EB%82%98%EC%9A%94-wdr21jtt",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T13:56:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T04:57:06+00:00",
       "isSeed": false
     }
   ]
