@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T12:05:01+00:00",
+  "updatedAt": "2026-10-17T12:06:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -717136,6 +717136,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T12:05:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62468,
+      "source": "dc",
+      "externalId": "6595726",
+      "title": "14영자 까이는 이유가 뭐야?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.218",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595726&page=1",
+      "postedLabel": "21:05",
+      "postedAt": "2026-10-17T21:05:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T12:06:01+00:00",
       "isSeed": false
     }
   ]
