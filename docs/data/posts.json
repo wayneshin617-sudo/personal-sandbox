@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T01:32:00+00:00",
+  "updatedAt": "2026-10-17T01:33:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -680219,6 +680219,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T01:32:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60525,
+      "source": "dc",
+      "externalId": "6594952",
+      "title": "여출평균외모는 14기가 최고엿긴함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594952&page=1",
+      "postedLabel": "10:32",
+      "postedAt": "2026-10-17T10:32:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T01:33:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60526,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%A8%ED%94%BC%EB%94%94-%EC%9D%B4%EC%9D%B8%EA%B0%84%EC%9D%80-%EC%A7%84%EC%A7%9C-%EC%98%81%EC%95%85%ED%95%B4-56x0hcw8",
+      "title": "남피디 이인간은 진짜 영악해",
+      "excerpt": "외모 젤 딸리는 여출 둘을 한의사, 회계사로 셋팅하는거봐 나중에 은퇴하고 사회실험한거 책낼듯",
+      "author": "a*********",
+      "company": "HD현대삼호",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%ED%94%BC%EB%94%94-%EC%9D%B4%EC%9D%B8%EA%B0%84%EC%9D%80-%EC%A7%84%EC%A7%9C-%EC%98%81%EC%95%85%ED%95%B4-56x0hcw8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T10:32:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T01:33:01+00:00",
       "isSeed": false
     }
   ]
