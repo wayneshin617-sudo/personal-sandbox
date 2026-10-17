@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T00:08:00+00:00",
+  "updatedAt": "2026-10-17T00:09:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -678832,6 +678832,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T00:08:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60452,
+      "source": "dc",
+      "externalId": "6594886",
+      "title": "내일 모레 50세인 출연자들 상대로 망붕?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594886&page=1",
+      "postedLabel": "09:09",
+      "postedAt": "2026-10-17T09:09:35+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:09:59+00:00",
       "isSeed": false
     }
   ]
