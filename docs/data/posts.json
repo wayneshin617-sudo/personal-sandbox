@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T00:00:00+00:00",
+  "updatedAt": "2026-10-17T00:01:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -678623,6 +678623,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T00:00:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60441,
+      "source": "dc",
+      "externalId": "6594876",
+      "title": "딴걸 떠나 성격이 7옥이랑 미서가 잘맞음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594876&page=1",
+      "postedLabel": "09:00",
+      "postedAt": "2026-10-17T09:00:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:01:00+00:00",
       "isSeed": false
     }
   ]
