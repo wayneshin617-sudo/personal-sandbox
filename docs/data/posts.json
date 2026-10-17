@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T22:25:39+00:00",
+  "updatedAt": "2026-10-17T22:26:38+00:00",
   "posts": [
     {
       "id": 1,
@@ -739195,6 +739195,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T22:25:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63629,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%81%EC%97%85-%EC%84%A0%EB%B0%95%EA%B8%B0%EA%B4%80%EC%82%AC-%EB%AC%B4%EB%AC%BC%EB%B3%B4-uwfnsh7l",
+      "title": "직업 선박기관사 무물보",
+      "excerpt": "배위에서 일하는 선박기관사임. 항해사랑 생활 및 근무 루틴 비슷함. 질문받음. 참고로 난 남자다짜식들아",
+      "author": "c*****",
+      "company": "ex-LS일렉트릭",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%81%EC%97%85-%EC%84%A0%EB%B0%95%EA%B8%B0%EA%B4%80%EC%82%AC-%EB%AC%B4%EB%AC%BC%EB%B3%B4-uwfnsh7l",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T07:26:27+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T22:26:38+00:00",
       "isSeed": false
     }
   ]
