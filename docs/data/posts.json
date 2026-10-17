@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T09:28:03+00:00",
+  "updatedAt": "2026-10-17T09:30:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -710429,6 +710429,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T09:28:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62115,
+      "source": "dc",
+      "externalId": "6595514",
+      "title": "31순자 손가락 맨날 가리네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595514&page=1",
+      "postedLabel": "18:29",
+      "postedAt": "2026-10-17T18:29:01+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T09:30:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62116,
+      "source": "dc",
+      "externalId": "6595515",
+      "title": "콘서트",
+      "excerpt": "",
+      "author": "kike^-^",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595515&page=1",
+      "postedLabel": "18:29",
+      "postedAt": "2026-10-17T18:29:35+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:30:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62117,
+      "source": "dc",
+      "externalId": "6595516",
+      "title": "거울을 보고 자기 소개를 해보자 한녀들아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595516&page=1",
+      "postedLabel": "18:29",
+      "postedAt": "2026-10-17T18:29:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T09:30:02+00:00",
       "isSeed": false
     }
   ]
