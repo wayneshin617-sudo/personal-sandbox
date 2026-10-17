@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T03:21:37+00:00",
+  "updatedAt": "2026-10-17T03:24:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -693481,6 +693481,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T03:21:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61223,
+      "source": "dc",
+      "externalId": "6595073",
+      "title": "싸우면 누가이길까 18호 vs 바드",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595073&page=1",
+      "postedLabel": "12:23",
+      "postedAt": "2026-10-17T12:23:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:24:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61224,
+      "source": "dc",
+      "externalId": "6595074",
+      "title": "영숙 정신병의 원인",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595074&page=1",
+      "postedLabel": "12:24",
+      "postedAt": "2026-10-17T12:24:20+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T03:24:36+00:00",
       "isSeed": false
     }
   ]
