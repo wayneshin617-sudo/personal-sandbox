@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T00:40:00+00:00",
+  "updatedAt": "2026-10-17T00:41:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -679326,6 +679326,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T00:40:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 60478,
+      "source": "dc",
+      "externalId": "6594909",
+      "title": "애미추 이거 아주 웃기는 새끼네ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "59.9",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6594909&page=1",
+      "postedLabel": "09:40",
+      "postedAt": "2026-10-17T09:40:04+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T00:41:00+00:00",
       "isSeed": false
     }
   ]
