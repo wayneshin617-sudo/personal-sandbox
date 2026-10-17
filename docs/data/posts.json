@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:56:06+00:00",
+  "updatedAt": "2026-10-17T05:57:06+00:00",
   "posts": [
     {
       "id": 1,
@@ -701195,6 +701195,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:56:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61629,
+      "source": "dc",
+      "externalId": "6595260",
+      "title": "14영자가 미서 아직도 많이 좋아하긴 하네ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595260&page=1",
+      "postedLabel": "14:56",
+      "postedAt": "2026-10-17T14:56:27+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:57:06+00:00",
       "isSeed": false
     }
   ]
