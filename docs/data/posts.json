@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T15:14:27+00:00",
+  "updatedAt": "2026-10-17T15:15:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -725724,6 +725724,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T15:14:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62920,
+      "source": "dc",
+      "externalId": "6596005",
+      "title": "경수는 순자를 위하는 마음이 없어",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596005&page=1",
+      "postedLabel": "00:15",
+      "postedAt": "2026-10-18T00:15:00+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T15:15:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62921,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%94%BC%EB%B6%80%EA%B3%BC-%EB%A6%AC%ED%94%84%ED%8C%85-%EB%B0%9B%EC%95%98%EC%9D%84%EA%B1%B0%EA%B0%99%EC%9D%8C-b1oxy55y",
+      "title": "34기 영철이 피부과 리프팅 받았을거같음?",
+      "excerpt": "37살치고 피부결이나 탄력이 30대 초반 느낌인데 피부과가서 시술 좀 받았으려나 자기괸리 열심히 한다드만",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%94%BC%EB%B6%80%EA%B3%BC-%EB%A6%AC%ED%94%84%ED%8C%85-%EB%B0%9B%EC%95%98%EC%9D%84%EA%B1%B0%EA%B0%99%EC%9D%8C-b1oxy55y",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T00:15:15+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-17T15:15:27+00:00",
       "isSeed": false
     }
   ]
