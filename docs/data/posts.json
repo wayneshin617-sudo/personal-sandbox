@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T11:29:00+00:00",
+  "updatedAt": "2026-10-17T11:32:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -715958,6 +715958,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T11:29:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62406,
+      "source": "dc",
+      "externalId": "6595665",
+      "title": "31기 대갈공주",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595665&page=1",
+      "postedLabel": "20:31",
+      "postedAt": "2026-10-17T20:31:25+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:32:01+00:00",
       "isSeed": false
     }
   ]
