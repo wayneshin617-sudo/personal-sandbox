@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:51:27+00:00",
+  "updatedAt": "2026-10-17T13:52:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -724071,6 +724071,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-17T13:51:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62833,
+      "source": "dc",
+      "externalId": "6595923",
+      "title": "영철이 현숙이한테 까인다에 100000000% 확신함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595923&page=1",
+      "postedLabel": "22:52",
+      "postedAt": "2026-10-17T22:52:08+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:52:27+00:00",
       "isSeed": false
     }
   ]
