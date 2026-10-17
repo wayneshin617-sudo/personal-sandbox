@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T17:49:34+00:00",
+  "updatedAt": "2026-10-17T17:50:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -730797,6 +730797,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T17:49:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63187,
+      "source": "dc",
+      "externalId": "6596153",
+      "title": "그거 알어? 미스터박도 울산가서 영자 만난거",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596153&page=1",
+      "postedLabel": "02:50",
+      "postedAt": "2026-10-18T02:50:13+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T17:50:35+00:00",
       "isSeed": false
     }
   ]
