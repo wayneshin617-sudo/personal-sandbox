@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T11:36:00+00:00",
+  "updatedAt": "2026-10-17T11:38:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -716129,6 +716129,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T11:36:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62415,
+      "source": "dc",
+      "externalId": "6595674",
+      "title": "넷플릭스 진출했다고 오버하네 ㄹㅇ ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595674&page=1",
+      "postedLabel": "20:37",
+      "postedAt": "2026-10-17T20:37:21+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:38:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62416,
+      "source": "dc",
+      "externalId": "6595675",
+      "title": "여자들이 엉가남 자상남 찾는 이유",
+      "excerpt": "",
+      "author": "2c",
+      "company": "",
+      "ip": "58.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595675&page=1",
+      "postedLabel": "20:37",
+      "postedAt": "2026-10-17T20:37:37+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:38:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62417,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4-%EC%84%B1%EC%95%85%EA%B0%80-%EC%95%84%EC%9E%AC%EB%8A%94-%EC%9E%AC%EB%AF%B8%EB%8F%84-%EC%97%86%EB%8A%94%EB%8D%B0-%EB%8C%80%EC%B2%B4-%EB%AA%87%EB%B2%88%EC%A7%B8-15i471fw",
+      "title": "이 성악가 아재는 재미도 없는데 대체 몇번째",
+      "excerpt": "재출현이야? 3번을 시도했는데 국내에서도 안먹히는데 외국여자들이 정신박약도 아니고 받아줄거라 생각하나 피디는.. 미의 기준이 외국이라도 역으로 흐르는것도 아니고 이젠 나이도 더 많이 드신분을",
+      "author": "k*****",
+      "company": "대웅제약",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4-%EC%84%B1%EC%95%85%EA%B0%80-%EC%95%84%EC%9E%AC%EB%8A%94-%EC%9E%AC%EB%AF%B8%EB%8F%84-%EC%97%86%EB%8A%94%EB%8D%B0-%EB%8C%80%EC%B2%B4-%EB%AA%87%EB%B2%88%EC%A7%B8-15i471fw",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-17T20:37:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 4,
+      "firstSeenAt": "2026-10-17T11:38:01+00:00",
       "isSeed": false
     }
   ]
