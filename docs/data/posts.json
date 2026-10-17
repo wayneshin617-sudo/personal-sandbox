@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T05:14:05+00:00",
+  "updatedAt": "2026-10-17T05:15:05+00:00",
   "posts": [
     {
       "id": 1,
@@ -699865,6 +699865,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T05:14:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61559,
+      "source": "dc",
+      "externalId": "6595193",
+      "title": "31순자가 새로 장만한 500만원짜리 까리띠에 시계 공개",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595193&page=1",
+      "postedLabel": "14:14",
+      "postedAt": "2026-10-17T14:14:07+09:00",
+      "views": 15,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:15:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 61560,
+      "source": "dc",
+      "externalId": "6595194",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595194&page=1",
+      "postedLabel": "14:14",
+      "postedAt": "2026-10-17T14:14:29+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T05:15:05+00:00",
       "isSeed": false
     }
   ]
