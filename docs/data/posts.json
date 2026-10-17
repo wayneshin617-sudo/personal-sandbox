@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T11:20:01+00:00",
+  "updatedAt": "2026-10-17T11:21:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -715749,6 +715749,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T11:20:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62395,
+      "source": "dc",
+      "externalId": "6595653",
+      "title": "국결특집 여출들 까면 안되는 이유",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595653&page=1",
+      "postedLabel": "20:19",
+      "postedAt": "2026-10-17T20:19:55+09:00",
+      "views": 7,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:21:01+00:00",
       "isSeed": false
     }
   ]
