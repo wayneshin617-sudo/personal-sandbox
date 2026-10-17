@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T17:53:34+00:00",
+  "updatedAt": "2026-10-17T17:55:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -730854,6 +730854,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T17:53:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63190,
+      "source": "dc",
+      "externalId": "6596156",
+      "title": "7옥 빠는 페미아줌마들 진짜 싫다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596156&page=1",
+      "postedLabel": "02:54",
+      "postedAt": "2026-10-18T02:54:29+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": 2,
+      "firstSeenAt": "2026-10-17T17:55:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63191,
+      "source": "dc",
+      "externalId": "6596157",
+      "title": "사귀는 사이도 아닌데 팔짱은 왜껴",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596157&page=1",
+      "postedLabel": "02:54",
+      "postedAt": "2026-10-18T02:54:34+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T17:55:35+00:00",
       "isSeed": false
     }
   ]
