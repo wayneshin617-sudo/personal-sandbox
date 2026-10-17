@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T17:43:36+00:00",
+  "updatedAt": "2026-10-17T17:44:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -730664,6 +730664,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T17:43:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63180,
+      "source": "dc",
+      "externalId": "6596146",
+      "title": "14영자야 미서가 니가 현실에서 그렇게 연락을 많이 했대",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596146&page=1",
+      "postedLabel": "02:43",
+      "postedAt": "2026-10-18T02:43:52+09:00",
+      "views": 4,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T17:44:35+00:00",
       "isSeed": false
     }
   ]
