@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T08:46:01+00:00",
+  "updatedAt": "2026-10-17T08:48:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -709327,6 +709327,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T08:46:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62057,
+      "source": "dc",
+      "externalId": "6595459",
+      "title": "미서는 술마시고 버릇 튀어나온듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595459&page=1",
+      "postedLabel": "17:46",
+      "postedAt": "2026-10-17T17:46:58+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:48:00+00:00",
       "isSeed": false
     }
   ]
