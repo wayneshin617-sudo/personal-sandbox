@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T18:21:36+00:00",
+  "updatedAt": "2026-10-17T18:23:35+00:00",
   "posts": [
     {
       "id": 1,
@@ -731348,6 +731348,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-17T18:21:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63216,
+      "source": "dc",
+      "externalId": "6596187",
+      "title": "최종선택 세명 7옥순기록 깬사람있어?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596187&page=1",
+      "postedLabel": "03:22",
+      "postedAt": "2026-10-18T03:22:31+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-17T18:23:35+00:00",
       "isSeed": false
     }
   ]
