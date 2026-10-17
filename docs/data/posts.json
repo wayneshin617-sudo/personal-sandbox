@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T13:14:38+00:00",
+  "updatedAt": "2026-10-17T13:15:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -721791,6 +721791,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T13:14:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62713,
+      "source": "dc",
+      "externalId": "6595883",
+      "title": "7옥은 샵도 안가고온거야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595883&page=1",
+      "postedLabel": "22:14",
+      "postedAt": "2026-10-17T22:14:32+09:00",
+      "views": 15,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:15:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62714,
+      "source": "dc",
+      "externalId": "6595884",
+      "title": "남규홍 돌싱아닌거 아쉬워 홍상수김민희처럼",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595884&page=1",
+      "postedLabel": "22:15",
+      "postedAt": "2026-10-17T22:15:11+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T13:15:36+00:00",
       "isSeed": false
     }
   ]
