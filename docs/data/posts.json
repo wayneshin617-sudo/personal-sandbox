@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T11:12:02+00:00",
+  "updatedAt": "2026-10-17T11:13:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -715559,6 +715559,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T11:12:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62385,
+      "source": "dc",
+      "externalId": "6595642",
+      "title": "나솔사계 글로벌 특집에 비욘세가 나온다고? 올더 싱글레이디×나우 푸쳐핸섭",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595642&page=1",
+      "postedLabel": "20:12",
+      "postedAt": "2026-10-17T20:12:25+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:13:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62386,
+      "source": "dc",
+      "externalId": "6595643",
+      "title": "영호가 연봉 1.5억정도 될걸",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595643&page=1",
+      "postedLabel": "20:12",
+      "postedAt": "2026-10-17T20:12:28+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:13:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62387,
+      "source": "dc",
+      "externalId": "6595644",
+      "title": "글로벌 특집 외국인 얼굴이 왜 저 모양인줄 아냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.195",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595644&page=1",
+      "postedLabel": "20:12",
+      "postedAt": "2026-10-17T20:12:50+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T11:13:01+00:00",
       "isSeed": false
     }
   ]
