@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T08:05:01+00:00",
+  "updatedAt": "2026-10-17T08:06:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -708605,6 +708605,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-17T08:05:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62019,
+      "source": "dc",
+      "externalId": "6595427",
+      "title": "여자의 가장 위대한 능력",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595427&page=1",
+      "postedLabel": "17:05",
+      "postedAt": "2026-10-17T17:05:37+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:06:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 62020,
+      "source": "dc",
+      "externalId": "6595428",
+      "title": "14영자는 나가서 왜 그렇게 미서한테 연락함?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6595428&page=1",
+      "postedLabel": "17:05",
+      "postedAt": "2026-10-17T17:05:37+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T08:06:01+00:00",
       "isSeed": false
     }
   ]
