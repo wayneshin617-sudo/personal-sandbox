@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-17T16:27:35+00:00",
+  "updatedAt": "2026-10-17T16:29:34+00:00",
   "posts": [
     {
       "id": 1,
@@ -729201,6 +729201,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-17T16:27:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63103,
+      "source": "dc",
+      "externalId": "6596060",
+      "title": "14영자때문에 망한거라니깐 저렇게 난리를 부리는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596060&page=1",
+      "postedLabel": "01:29",
+      "postedAt": "2026-10-18T01:29:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-17T16:29:34+00:00",
       "isSeed": false
     }
   ]
