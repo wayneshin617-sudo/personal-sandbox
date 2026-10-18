@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T04:09:11+00:00",
+  "updatedAt": "2026-10-18T04:11:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -747764,6 +747764,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T04:09:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64080,
+      "source": "dc",
+      "externalId": "6596551",
+      "title": "이런 얼굴이어도 사랑할수 있니?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596551&page=1",
+      "postedLabel": "13:10",
+      "postedAt": "2026-10-18T13:10:04+09:00",
+      "views": 15,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:11:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64081,
+      "source": "dc",
+      "externalId": "6596552",
+      "title": "외국인특집 많이 기대돼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596552&page=1",
+      "postedLabel": "13:10",
+      "postedAt": "2026-10-18T13:10:06+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:11:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64082,
+      "source": "dc",
+      "externalId": "6596553",
+      "title": "펌) 무관계 커플 ㄷㄷ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.221",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596553&page=1",
+      "postedLabel": "13:10",
+      "postedAt": "2026-10-18T13:10:11+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:11:12+00:00",
       "isSeed": false
     }
   ]
