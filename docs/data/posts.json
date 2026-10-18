@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:52:23+00:00",
+  "updatedAt": "2026-10-18T10:53:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761444,6 +761444,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:52:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64800,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%95%BD%EA%B0%84-%EB%B0%95%EC%9C%84%EC%8A%A4%EB%9F%AC%EC%9B%80-6ksyxgln",
+      "title": "영철 말하는 게 약간 박위스러움",
+      "excerpt": "박위 영상 보면 송지은이랑 대화할 때 항상 맥락에 맞지 않는 대답을 하거든 아무 상관도 없는 상황에 사랑꾼인척 하는 멘트나 인생은 아름답다 뭐 이런 말 하는데 영철 플러팅 제외하면 정상적인 대화를 할 때 묘하게 대화 내용이랑 안 맞는 말 하는 거 같음",
+      "author": "＼******",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%95%BD%EA%B0%84-%EB%B0%95%EC%9C%84%EC%8A%A4%EB%9F%AC%EC%9B%80-6ksyxgln",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T19:53:11+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T10:53:23+00:00",
       "isSeed": false
     }
   ]
