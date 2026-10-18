@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:16:23+00:00",
+  "updatedAt": "2026-10-18T10:19:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -760684,6 +760684,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:16:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64760,
+      "source": "dc",
+      "externalId": "6596978",
+      "title": "34기 에피소드 17편 ?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.214",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596978&page=1",
+      "postedLabel": "19:18",
+      "postedAt": "2026-10-18T19:18:13+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:19:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64761,
+      "source": "dc",
+      "externalId": "6596980",
+      "title": "34 영철 직업이 뭐길래 까임?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.6",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596980&page=1",
+      "postedLabel": "19:19",
+      "postedAt": "2026-10-18T19:19:00+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:19:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64762,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EC%94%A8-%EC%A0%95%EB%A7%90-%ED%9B%8C%EB%A5%AD%ED%95%9C%EB%8D%B0-%EC%99%9C-%EB%82%98%EC%86%94%EB%82%98%EC%99%94%EC%A7%80%E3%85%A0-i54q2o3f",
+      "title": "영호씨 정말 훌륭한데 왜 나솔나왔지ㅠ",
+      "excerpt": "얼굴 키 생김새 분위기 매너 전부 존나맘에드는데 저런사람이 왜 나솔에…????? 손도이쁘다 나솔 물흐리지마쇼ㅠㅠㅠ",
+      "author": "김**",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EC%94%A8-%EC%A0%95%EB%A7%90-%ED%9B%8C%EB%A5%AD%ED%95%9C%EB%8D%B0-%EC%99%9C-%EB%82%98%EC%86%94%EB%82%98%EC%99%94%EC%A7%80%E3%85%A0-i54q2o3f",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T19:19:11+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T10:19:23+00:00",
       "isSeed": false
     }
   ]
