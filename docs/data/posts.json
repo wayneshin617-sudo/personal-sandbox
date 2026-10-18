@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:55:33+00:00",
+  "updatedAt": "2026-10-18T02:56:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744496,6 +744496,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:55:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63908,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%81%EC%9E%90-5zz7ym1v",
+      "title": "이번 기수 영자",
+      "excerpt": "완전 홍현희인데? 제이쓴 닮은꼴도 나왔어야지",
+      "author": "w*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%81%EC%9E%90-5zz7ym1v",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T11:56:21+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T02:56:33+00:00",
       "isSeed": false
     }
   ]
