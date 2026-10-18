@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T05:53:12+00:00",
+  "updatedAt": "2026-10-18T05:54:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -749550,6 +749550,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T05:53:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64174,
+      "source": "dc",
+      "externalId": "6596650",
+      "title": "싸우면 누가이길까 시이라 vs 릭 산체스",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596650&page=1",
+      "postedLabel": "14:53",
+      "postedAt": "2026-10-18T14:53:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T05:54:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64175,
+      "source": "dc",
+      "externalId": "6596651",
+      "title": "미서가 안잘생겼다는 증거",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596651&page=1",
+      "postedLabel": "14:53",
+      "postedAt": "2026-10-18T14:53:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T05:54:12+00:00",
       "isSeed": false
     }
   ]
