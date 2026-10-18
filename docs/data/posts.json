@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:36:23+00:00",
+  "updatedAt": "2026-10-18T11:37:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -762774,6 +762774,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T11:36:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64870,
+      "source": "dc",
+      "externalId": "6597098",
+      "title": "미국증시 AI인프라 주식하락 코멘트와 나스닥전망",
+      "excerpt": "",
+      "author": "고수",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597098&page=1",
+      "postedLabel": "20:36",
+      "postedAt": "2026-10-18T20:36:16+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:37:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64871,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%9C-34-%EC%98%81%ED%98%B8-%EC%9D%B4%ED%95%98-%EB%84%98%EC%82%AC%EB%B2%BD%EC%9D%B4%EA%B3%A0-%EC%98%81%EC%B2%A0%EC%9D%80-%EA%B1%8D-%ED%9D%94%ED%95%9C-%EC%97%AC%EB%AF%B8%EC%83%88%EA%B0%99%EC%9D%80%EB%8D%B0-2u6reqta",
+      "title": "근데 난 34 영호 이하 넘사벽이고 영철은 걍 흔한 여미새같은데",
+      "excerpt": "사람들 남자 보는 눈 진짜 없는 거 같음...",
+      "author": "g*****",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%9C-34-%EC%98%81%ED%98%B8-%EC%9D%B4%ED%95%98-%EB%84%98%EC%82%AC%EB%B2%BD%EC%9D%B4%EA%B3%A0-%EC%98%81%EC%B2%A0%EC%9D%80-%EA%B1%8D-%ED%9D%94%ED%95%9C-%EC%97%AC%EB%AF%B8%EC%83%88%EA%B0%99%EC%9D%80%EB%8D%B0-2u6reqta",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T20:37:11+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T11:37:23+00:00",
       "isSeed": false
     }
   ]
