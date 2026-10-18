@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:10:23+00:00",
+  "updatedAt": "2026-10-18T09:11:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -756219,6 +756219,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T09:10:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64525,
+      "source": "dc",
+      "externalId": "6596887",
+      "title": "이번 사계 국화 진짜 못 생겼는데 희한하게 인기 있네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596887&page=1",
+      "postedLabel": "18:10",
+      "postedAt": "2026-10-18T18:10:35+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:11:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64526,
+      "source": "dc",
+      "externalId": "6596888",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596888&page=1",
+      "postedLabel": "18:11",
+      "postedAt": "2026-10-18T18:11:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:11:23+00:00",
       "isSeed": false
     }
   ]
