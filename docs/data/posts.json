@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T13:34:29+00:00",
+  "updatedAt": "2026-10-18T13:35:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -766194,6 +766194,25 @@
       "recommends": null,
       "comments": 1,
       "firstSeenAt": "2026-10-18T13:34:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65050,
+      "source": "dc",
+      "externalId": "6597201",
+      "title": "짭숙이 존예긴 하네",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597201&page=1",
+      "postedLabel": "22:34",
+      "postedAt": "2026-10-18T22:34:31+09:00",
+      "views": 26,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:35:29+00:00",
       "isSeed": false
     }
   ]
