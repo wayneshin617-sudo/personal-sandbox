@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T12:36:29+00:00",
+  "updatedAt": "2026-10-18T12:38:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -765168,6 +765168,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T12:36:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64996,
+      "source": "dc",
+      "externalId": "6597145",
+      "title": "14 영자 옷 진짜 못입는데 누가 물어보는거임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597145&page=1",
+      "postedLabel": "21:38",
+      "postedAt": "2026-10-18T21:38:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T12:38:29+00:00",
       "isSeed": false
     }
   ]
