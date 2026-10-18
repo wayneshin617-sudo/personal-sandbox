@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:11:23+00:00",
+  "updatedAt": "2026-10-18T10:12:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -760570,6 +760570,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:11:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64754,
+      "source": "dc",
+      "externalId": "6596971",
+      "title": "나솔 넷플전용관 되고나서 인기 더 많아진듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.6",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596971&page=1",
+      "postedLabel": "19:11",
+      "postedAt": "2026-10-18T19:11:19+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:12:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64755,
+      "source": "dc",
+      "externalId": "6596972",
+      "title": "더글로리즈로 5개월동안 꿀빨았으면 됐지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596972&page=1",
+      "postedLabel": "19:11",
+      "postedAt": "2026-10-18T19:11:56+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:12:23+00:00",
       "isSeed": false
     }
   ]
