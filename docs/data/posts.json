@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:30:23+00:00",
+  "updatedAt": "2026-10-18T10:31:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -760988,6 +760988,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:30:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64776,
+      "source": "dc",
+      "externalId": "6596996",
+      "title": "28광수 압구정키즈 재력있고 유학파를 깔아뭉개네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596996&page=1",
+      "postedLabel": "19:30",
+      "postedAt": "2026-10-18T19:30:23+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:31:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64777,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98-%EA%B7%BC%EB%8D%B0-%EB%AF%B8%EC%8A%A4%ED%84%B0%EC%84%9C%EA%B0%80-%EC%A7%84%EC%A7%9C-%EC%9E%98%EC%83%9D%EA%B8%B4%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4-dccggsuj",
+      "title": "나 근데 미스터서가 진짜 잘생긴지 모르겠어...",
+      "excerpt": "걍 개느끼하고 코큰 이상한 아저씨인데...........",
+      "author": "g*****",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EA%B7%BC%EB%8D%B0-%EB%AF%B8%EC%8A%A4%ED%84%B0%EC%84%9C%EA%B0%80-%EC%A7%84%EC%A7%9C-%EC%9E%98%EC%83%9D%EA%B8%B4%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4-dccggsuj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T19:31:11+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T10:31:23+00:00",
       "isSeed": false
     }
   ]
