@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:12:40+00:00",
+  "updatedAt": "2026-10-18T15:13:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -770279,6 +770279,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:12:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65265,
+      "source": "dc",
+      "externalId": "6597308",
+      "title": "이거 광고모델.포즈 시킨새끼 누구냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597308&page=1",
+      "postedLabel": "00:12",
+      "postedAt": "2026-10-19T00:12:29+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:13:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65266,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%B8%EB%A1%AD%EB%8B%B9-m1s1bdml",
+      "title": "외롭당",
+      "excerpt": "하…",
+      "author": "1*******",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%B8%EB%A1%AD%EB%8B%B9-m1s1bdml",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T00:13:28+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": 3,
+      "firstSeenAt": "2026-10-18T15:13:40+00:00",
       "isSeed": false
     }
   ]
