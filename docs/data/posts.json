@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:30:30+00:00",
+  "updatedAt": "2026-10-18T06:31:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -752647,6 +752647,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:30:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64337,
+      "source": "dc",
+      "externalId": "6596687",
+      "title": "여기 출연자 올려치기하는건 다 지인들임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596687&page=1",
+      "postedLabel": "15:30",
+      "postedAt": "2026-10-18T15:30:52+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:31:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64338,
+      "source": "dc",
+      "externalId": "6596688",
+      "title": "야 여자 좀 아는형있어? .... jpg",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596688&page=1",
+      "postedLabel": "15:30",
+      "postedAt": "2026-10-18T15:30:53+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:31:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64339,
+      "source": "dc",
+      "externalId": "6596689",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "135.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596689&page=1",
+      "postedLabel": "15:31",
+      "postedAt": "2026-10-18T15:31:11+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:31:30+00:00",
       "isSeed": false
     }
   ]
