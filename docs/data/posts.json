@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:46:22+00:00",
+  "updatedAt": "2026-10-18T09:47:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -759905,6 +759905,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T09:46:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64719,
+      "source": "dc",
+      "externalId": "6596933",
+      "title": "경수가 찐이었네",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596933&page=1",
+      "postedLabel": "18:46",
+      "postedAt": "2026-10-18T18:46:28+09:00",
+      "views": 15,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:47:23+00:00",
       "isSeed": false
     }
   ]
