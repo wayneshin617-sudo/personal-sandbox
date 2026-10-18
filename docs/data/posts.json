@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:54:32+00:00",
+  "updatedAt": "2026-10-18T02:55:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744477,6 +744477,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:54:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63907,
+      "source": "dc",
+      "externalId": "6596486",
+      "title": "미서도 머리굴리는거 다보이는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596486&page=1",
+      "postedLabel": "11:55",
+      "postedAt": "2026-10-18T11:55:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:55:33+00:00",
       "isSeed": false
     }
   ]
