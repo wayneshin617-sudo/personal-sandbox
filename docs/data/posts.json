@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T03:44:12+00:00",
+  "updatedAt": "2026-10-18T03:46:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -747232,6 +747232,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T03:44:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64052,
+      "source": "dc",
+      "externalId": "6596527",
+      "title": "31순자가 라방 못하는 이유-라방에서 폭로 터질까봐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596527&page=1",
+      "postedLabel": "12:45",
+      "postedAt": "2026-10-18T12:45:13+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:46:13+00:00",
       "isSeed": false
     }
   ]
