@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T12:49:29+00:00",
+  "updatedAt": "2026-10-18T12:54:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -765358,6 +765358,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T12:49:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65006,
+      "source": "dc",
+      "externalId": "6597158",
+      "title": "한의사 아재는 뭐가 문제냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.251",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597158&page=1",
+      "postedLabel": "21:53",
+      "postedAt": "2026-10-18T21:53:30+09:00",
+      "views": 19,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T12:54:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65007,
+      "source": "dc",
+      "externalId": "6597159",
+      "title": "와 문신 극혐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597159&page=1",
+      "postedLabel": "21:54",
+      "postedAt": "2026-10-18T21:54:05+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T12:54:29+00:00",
       "isSeed": false
     }
   ]
