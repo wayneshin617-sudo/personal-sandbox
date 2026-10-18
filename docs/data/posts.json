@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:36:23+00:00",
+  "updatedAt": "2026-10-18T09:38:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -759734,6 +759734,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T09:36:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64710,
+      "source": "dc",
+      "externalId": "6596923",
+      "title": "개씹창허벌쉰내보지들 아가리 묵념 안하나",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.40",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596923&page=1",
+      "postedLabel": "18:37",
+      "postedAt": "2026-10-18T18:37:39+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:38:23+00:00",
       "isSeed": false
     }
   ]
