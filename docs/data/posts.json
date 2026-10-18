@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:56:23+00:00",
+  "updatedAt": "2026-10-18T10:57:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761520,6 +761520,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:56:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64804,
+      "source": "dc",
+      "externalId": "6597028",
+      "title": "어우 녹즙줌 너무 심하다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597028&page=1",
+      "postedLabel": "19:56",
+      "postedAt": "2026-10-18T19:56:40+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:57:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64805,
+      "source": "dc",
+      "externalId": "6597029",
+      "title": "28정희는 28광수 사는집 보고 한번 결별했었다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597029&page=1",
+      "postedLabel": "19:56",
+      "postedAt": "2026-10-18T19:56:51+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:57:23+00:00",
       "isSeed": false
     }
   ]
