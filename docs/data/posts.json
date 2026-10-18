@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T03:08:33+00:00",
+  "updatedAt": "2026-10-18T03:09:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744781,6 +744781,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T03:08:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63923,
+      "source": "dc",
+      "externalId": "6596502",
+      "title": "미서는 호감 영철은 비호감?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.106",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596502&page=1",
+      "postedLabel": "12:09",
+      "postedAt": "2026-10-18T12:09:19+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:09:33+00:00",
       "isSeed": false
     }
   ]
