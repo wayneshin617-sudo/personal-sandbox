@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T23:07:12+00:00",
+  "updatedAt": "2026-10-18T23:08:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -776131,6 +776131,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T23:07:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65573,
+      "source": "dc",
+      "externalId": "6597572",
+      "title": "29기 다시보는데 여출들이 훨낫네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.228",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597572&page=1",
+      "postedLabel": "08:07",
+      "postedAt": "2026-10-19T08:07:33+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T23:08:12+00:00",
       "isSeed": false
     }
   ]
