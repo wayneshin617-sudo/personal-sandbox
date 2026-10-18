@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T04:55:12+00:00",
+  "updatedAt": "2026-10-18T04:57:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -748619,6 +748619,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T04:55:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64125,
+      "source": "dc",
+      "externalId": "6596600",
+      "title": "머리통 존나 작음 VS 큼",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596600&page=1",
+      "postedLabel": "13:56",
+      "postedAt": "2026-10-18T13:56:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:57:12+00:00",
       "isSeed": false
     }
   ]
