@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:54:23+00:00",
+  "updatedAt": "2026-10-18T06:55:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -753312,6 +753312,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:54:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64372,
+      "source": "dc",
+      "externalId": "6596723",
+      "title": "33영수 여전한가본데?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596723&page=1",
+      "postedLabel": "15:54",
+      "postedAt": "2026-10-18T15:54:21+09:00",
+      "views": 20,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:55:24+00:00",
       "isSeed": false
     }
   ]
