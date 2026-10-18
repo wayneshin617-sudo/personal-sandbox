@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T18:03:55+00:00",
+  "updatedAt": "2026-10-18T18:05:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -773319,6 +773319,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T18:03:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65425,
+      "source": "dc",
+      "externalId": "6597444",
+      "title": "순자 스카웃제의 안들어온거잖어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597444&page=1",
+      "postedLabel": "03:05",
+      "postedAt": "2026-10-19T03:05:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T18:05:54+00:00",
       "isSeed": false
     }
   ]
