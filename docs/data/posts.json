@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T17:56:01+00:00",
+  "updatedAt": "2026-10-18T17:57:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -773243,6 +773243,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T17:56:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65421,
+      "source": "dc",
+      "externalId": "6597439",
+      "title": "31순자 북디자이너..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597439&page=1",
+      "postedLabel": "02:56",
+      "postedAt": "2026-10-19T02:56:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T17:57:02+00:00",
       "isSeed": false
     }
   ]
