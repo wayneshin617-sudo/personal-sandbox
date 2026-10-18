@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T13:02:31+00:00",
+  "updatedAt": "2026-10-18T13:03:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -765472,6 +765472,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T13:02:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65012,
+      "source": "dc",
+      "externalId": "6597165",
+      "title": "7옥순 같은 사람도 인플을 안하는데..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597165&page=1",
+      "postedLabel": "22:02",
+      "postedAt": "2026-10-18T22:02:37+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:03:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65013,
+      "source": "dc",
+      "externalId": "6597166",
+      "title": "영자는 왜 자꾸 윗 잇몸을 드러내는거야??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "125.243",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597166&page=1",
+      "postedLabel": "22:02",
+      "postedAt": "2026-10-18T22:02:38+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:03:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65014,
+      "source": "dc",
+      "externalId": "6597167",
+      "title": "날씨가 이러니까 삭신이 쑤셔",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597167&page=1",
+      "postedLabel": "22:02",
+      "postedAt": "2026-10-18T22:02:38+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:03:29+00:00",
       "isSeed": false
     }
   ]
