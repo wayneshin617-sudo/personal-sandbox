@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:00:23+00:00",
+  "updatedAt": "2026-10-18T10:01:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -760304,6 +760304,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:00:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64740,
+      "source": "dc",
+      "externalId": "6596956",
+      "title": "주영훈은 왜갑자기 폭삭 간거노.?",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596956&page=1",
+      "postedLabel": "19:00",
+      "postedAt": "2026-10-18T19:00:22+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:01:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64741,
+      "source": "dc",
+      "externalId": "6596957",
+      "title": "월 900버는 직장인들은 해외여행 불가능할 텐데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596957&page=1",
+      "postedLabel": "19:01",
+      "postedAt": "2026-10-18T19:01:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:01:23+00:00",
       "isSeed": false
     }
   ]
