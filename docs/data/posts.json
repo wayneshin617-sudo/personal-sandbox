@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T08:35:23+00:00",
+  "updatedAt": "2026-10-18T08:36:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -755592,6 +755592,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T08:35:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64492,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%90%EB%95%8C%EB%AC%B8%EC%97%90-m61x55sl",
+      "title": "영철은 뭐때문에",
+      "excerpt": "싼티가 나는걸까 뭔가 엄청 띠용스러운 말을 하거나 이상한 건 아닌데 이상하게 싼마이 느낌 근데 댓글들 보니 나만 그래 생각하는 게 아닌 듯 분명히 얼굴은 훈훈급인데 머 때매 그런거같음?",
+      "author": "w*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%90%EB%95%8C%EB%AC%B8%EC%97%90-m61x55sl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T17:36:12+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T08:36:24+00:00",
       "isSeed": false
     }
   ]
