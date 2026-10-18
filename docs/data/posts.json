@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:11:40+00:00",
+  "updatedAt": "2026-10-18T15:12:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -770260,6 +770260,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:11:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65264,
+      "source": "dc",
+      "externalId": "6597307",
+      "title": "28광수 워커힐 77평인데 청량리전세라고 까는새끼",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597307&page=1",
+      "postedLabel": "00:12",
+      "postedAt": "2026-10-19T00:12:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:12:40+00:00",
       "isSeed": false
     }
   ]
