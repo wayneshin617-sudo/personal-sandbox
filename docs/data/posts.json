@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T16:29:41+00:00",
+  "updatedAt": "2026-10-18T16:32:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -771305,6 +771305,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T16:29:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65319,
+      "source": "dc",
+      "externalId": "6597369",
+      "title": "개인적으로 생각하는 한국 대통령 티어표",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.221",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597369&page=1",
+      "postedLabel": "01:31",
+      "postedAt": "2026-10-19T01:31:35+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T16:32:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65320,
+      "source": "dc",
+      "externalId": "6597370",
+      "title": "안경 나왔을때부터 다 홍보피플인거 예상했음 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597370&page=1",
+      "postedLabel": "01:32",
+      "postedAt": "2026-10-19T01:32:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T16:32:40+00:00",
       "isSeed": false
     }
   ]
