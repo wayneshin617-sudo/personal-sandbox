@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T00:54:32+00:00",
+  "updatedAt": "2026-10-18T00:55:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -742748,6 +742748,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T00:54:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63816,
+      "source": "dc",
+      "externalId": "6596382",
+      "title": "이번기수 영수 최커는물론 현커까지가나보네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.156",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596382&page=1",
+      "postedLabel": "09:54",
+      "postedAt": "2026-10-18T09:54:36+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T00:55:33+00:00",
       "isSeed": false
     }
   ]
