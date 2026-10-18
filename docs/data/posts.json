@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:19:29+00:00",
+  "updatedAt": "2026-10-18T09:20:27+00:00",
   "posts": [
     {
       "id": 1,
@@ -759145,6 +759145,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-18T09:19:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64679,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-xh20rc8g",
+      "title": "현숙은 영철한테",
+      "excerpt": "넘어갈까 안넘어갈까 인터뷰 보면 현재 영철한테 제일 호감 있는 것 같은데 둘이 잘되면 비주얼 합은 잘 맞을 듯",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-xh20rc8g",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T18:20:10+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T09:20:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64680,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%A0%95%EB%8F%84%EB%A9%B4-zitdee5k",
+      "title": "투표글 34기 영철 정도면 투표",
+      "excerpt": "20대 중반 여자도 꼬실 수 있다? 아니면 꼬시기 어렵다?",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%A0%95%EB%8F%84%EB%A9%B4-zitdee5k",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T18:20:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T09:20:27+00:00",
       "isSeed": false
     }
   ]
