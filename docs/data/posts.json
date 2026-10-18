@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:50:33+00:00",
+  "updatedAt": "2026-10-18T02:54:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -744439,6 +744439,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:50:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63905,
+      "source": "dc",
+      "externalId": "6596484",
+      "title": "영숙",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "59.11",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596484&page=1",
+      "postedLabel": "11:54",
+      "postedAt": "2026-10-18T11:54:07+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:54:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63906,
+      "source": "dc",
+      "externalId": "6596485",
+      "title": "31순자 왜 라이브 안함? 팔로 확 늘텐데..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "187.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596485&page=1",
+      "postedLabel": "11:54",
+      "postedAt": "2026-10-18T11:54:20+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:54:32+00:00",
       "isSeed": false
     }
   ]
