@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T07:25:23+00:00",
+  "updatedAt": "2026-10-18T07:27:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -754205,6 +754205,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T07:25:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64419,
+      "source": "dc",
+      "externalId": "6596772",
+      "title": "결국 경수는 순자랑 안헤어질거란 내말이 맞았네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596772&page=1",
+      "postedLabel": "16:26",
+      "postedAt": "2026-10-18T16:26:44+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:27:24+00:00",
       "isSeed": false
     }
   ]
