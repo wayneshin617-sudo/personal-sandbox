@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:03:24+00:00",
+  "updatedAt": "2026-10-18T09:04:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -756048,6 +756048,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T09:03:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64516,
+      "source": "dc",
+      "externalId": "6596878",
+      "title": "31순자 안그래도 못생긴 족손에 네일+악세 화려하니까",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596878&page=1",
+      "postedLabel": "18:04",
+      "postedAt": "2026-10-18T18:04:04+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:04:23+00:00",
       "isSeed": false
     }
   ]
