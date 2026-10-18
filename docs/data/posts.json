@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:30:40+00:00",
+  "updatedAt": "2026-10-18T15:31:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -770697,6 +770697,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:30:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65287,
+      "source": "dc",
+      "externalId": "6597331",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "185.98",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597331&page=1",
+      "postedLabel": "00:30",
+      "postedAt": "2026-10-19T00:30:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:31:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65288,
+      "source": "dc",
+      "externalId": "6597332",
+      "title": "개기름황비홍 좀봐라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597332&page=1",
+      "postedLabel": "00:31",
+      "postedAt": "2026-10-19T00:31:14+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:31:40+00:00",
       "isSeed": false
     }
   ]
