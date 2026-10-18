@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T01:05:33+00:00",
+  "updatedAt": "2026-10-18T01:06:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -742919,6 +742919,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T01:05:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63825,
+      "source": "dc",
+      "externalId": "6596392",
+      "title": "한전상철 그거 알어? 23영숙집 어마어마한 부자임",
+      "excerpt": "",
+      "author": "내갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596392&page=1",
+      "postedLabel": "10:06",
+      "postedAt": "2026-10-18T10:06:00+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T01:06:24+00:00",
       "isSeed": false
     }
   ]
