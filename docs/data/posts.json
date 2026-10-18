@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:02:23+00:00",
+  "updatedAt": "2026-10-18T11:03:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761767,6 +761767,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:02:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64817,
+      "source": "dc",
+      "externalId": "6597042",
+      "title": "정희 광수 헤어진이유",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597042&page=1",
+      "postedLabel": "20:02",
+      "postedAt": "2026-10-18T20:02:14+09:00",
+      "views": 32,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:03:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64818,
+      "source": "dc",
+      "externalId": "6597043",
+      "title": "28정희는 혼자살겠지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597043&page=1",
+      "postedLabel": "20:02",
+      "postedAt": "2026-10-18T20:02:26+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:03:23+00:00",
       "isSeed": false
     }
   ]
