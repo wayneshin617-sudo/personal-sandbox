@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:38:24+00:00",
+  "updatedAt": "2026-10-18T06:40:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -752894,6 +752894,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:38:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64350,
+      "source": "dc",
+      "externalId": "6596700",
+      "title": "취두부 셀카 개웃김",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596700&page=1",
+      "postedLabel": "15:39",
+      "postedAt": "2026-10-18T15:39:16+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-18T06:40:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64351,
+      "source": "dc",
+      "externalId": "6596701",
+      "title": "발 문신은 왜 하는거냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596701&page=1",
+      "postedLabel": "15:39",
+      "postedAt": "2026-10-18T15:39:35+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:40:22+00:00",
       "isSeed": false
     }
   ]
