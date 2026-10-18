@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:59:22+00:00",
+  "updatedAt": "2026-10-18T11:00:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761653,6 +761653,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:59:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64811,
+      "source": "dc",
+      "externalId": "6597035",
+      "title": "14영자 얘는 지 도도한 이미지 챙기려고 미서 거절",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597035&page=1",
+      "postedLabel": "19:59",
+      "postedAt": "2026-10-18T19:59:51+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:00:23+00:00",
       "isSeed": false
     }
   ]
