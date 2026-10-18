@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:06:24+00:00",
+  "updatedAt": "2026-10-18T09:07:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -756105,6 +756105,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T09:06:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64519,
+      "source": "dc",
+      "externalId": "6596881",
+      "title": "승무원 과외 국화는 - 언제적 사진을 쓰는거야 ????",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596881&page=1",
+      "postedLabel": "18:06",
+      "postedAt": "2026-10-18T18:06:31+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:07:24+00:00",
       "isSeed": false
     }
   ]
