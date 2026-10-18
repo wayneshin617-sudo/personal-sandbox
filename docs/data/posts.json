@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:24:27+00:00",
+  "updatedAt": "2026-10-18T06:25:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -752457,6 +752457,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:24:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64327,
+      "source": "dc",
+      "externalId": "6596679",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "195.242",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596679&page=1",
+      "postedLabel": "15:24",
+      "postedAt": "2026-10-18T15:24:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:25:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64328,
+      "source": "dc",
+      "externalId": "6596680",
+      "title": "77년생 10상철 여전하네 ㅎㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596680&page=1",
+      "postedLabel": "15:25",
+      "postedAt": "2026-10-18T15:25:04+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:25:31+00:00",
       "isSeed": false
     }
   ]
