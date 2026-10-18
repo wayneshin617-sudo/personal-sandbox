@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T04:53:13+00:00",
+  "updatedAt": "2026-10-18T04:54:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -748562,6 +748562,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T04:53:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64122,
+      "source": "dc",
+      "externalId": "6596596",
+      "title": "일단 눈이 제일 중요하구나",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596596&page=1",
+      "postedLabel": "13:53",
+      "postedAt": "2026-10-18T13:53:17+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:54:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64123,
+      "source": "dc",
+      "externalId": "6596597",
+      "title": "7옥: 스섹이 꼭 남친이 있어야만 하나요? 뭐 문제 되나요?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "60.119",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596597&page=1",
+      "postedLabel": "13:53",
+      "postedAt": "2026-10-18T13:53:40+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:54:13+00:00",
       "isSeed": false
     }
   ]
