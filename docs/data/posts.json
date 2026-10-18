@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:47:41+00:00",
+  "updatedAt": "2026-10-18T15:48:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -770982,6 +770982,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:47:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65302,
+      "source": "dc",
+      "externalId": "6597347",
+      "title": "비리는 공무원이 끝판왕 아니냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597347&page=1",
+      "postedLabel": "00:48",
+      "postedAt": "2026-10-19T00:48:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:48:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65303,
+      "source": "dc",
+      "externalId": "6597348",
+      "title": "싸우면 누가이길까 시이라 vs 릭 산체스",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "211.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597348&page=1",
+      "postedLabel": "00:48",
+      "postedAt": "2026-10-19T00:48:11+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:48:40+00:00",
       "isSeed": false
     }
   ]
