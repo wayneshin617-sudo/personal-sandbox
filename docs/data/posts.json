@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:58:23+00:00",
+  "updatedAt": "2026-10-18T06:59:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -753388,6 +753388,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T06:58:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64376,
+      "source": "dc",
+      "externalId": "6596727",
+      "title": "44영자 46키로래",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596727&page=1",
+      "postedLabel": "15:58",
+      "postedAt": "2026-10-18T15:58:34+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:59:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64377,
+      "source": "dc",
+      "externalId": "6596728",
+      "title": "두달있으면 영포티되는 할재의 국결후기",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "176.185",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596728&page=1",
+      "postedLabel": "15:58",
+      "postedAt": "2026-10-18T15:58:51+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:59:22+00:00",
       "isSeed": false
     }
   ]
