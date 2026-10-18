@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:28:33+00:00",
+  "updatedAt": "2026-10-18T02:29:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744040,6 +744040,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:28:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63884,
+      "source": "dc",
+      "externalId": "6596459",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596459&page=1",
+      "postedLabel": "11:29",
+      "postedAt": "2026-10-18T11:29:13+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:29:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63885,
+      "source": "dc",
+      "externalId": "6596460",
+      "title": "미국증시 AI인프라 주식하락 코멘트와 투자전략·나스닥전망.",
+      "excerpt": "",
+      "author": "고수",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596460&page=1",
+      "postedLabel": "11:29",
+      "postedAt": "2026-10-18T11:29:17+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:29:33+00:00",
       "isSeed": false
     }
   ]
