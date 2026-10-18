@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:51:23+00:00",
+  "updatedAt": "2026-10-18T10:52:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761406,6 +761406,44 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:51:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64798,
+      "source": "dc",
+      "externalId": "6597021",
+      "title": "28기 최후의 승리자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597021&page=1",
+      "postedLabel": "19:51",
+      "postedAt": "2026-10-18T19:51:33+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:52:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64799,
+      "source": "dc",
+      "externalId": "6597022",
+      "title": "28광수 미우새때 청량리로 이사왔다는 글 올라왔는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597022&page=1",
+      "postedLabel": "19:51",
+      "postedAt": "2026-10-18T19:51:58+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:52:23+00:00",
       "isSeed": false
     }
   ]
