@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:34:40+00:00",
+  "updatedAt": "2026-10-18T15:35:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -770792,6 +770792,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:34:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65292,
+      "source": "dc",
+      "externalId": "6597336",
+      "title": "근데 얼굴 기름지게 번들거리게 만드는건 일부러 그러는거야?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597336&page=1",
+      "postedLabel": "00:34",
+      "postedAt": "2026-10-19T00:34:46+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:35:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65293,
+      "source": "dc",
+      "externalId": "6597338",
+      "title": "27기때 갤이 미쳐돌아갔었거든 그때 나붕이들이 돌았나싶었는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597338&page=1",
+      "postedLabel": "00:35",
+      "postedAt": "2026-10-19T00:35:15+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:35:40+00:00",
       "isSeed": false
     }
   ]
