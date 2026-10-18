@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T04:49:12+00:00",
+  "updatedAt": "2026-10-18T04:50:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -748448,6 +748448,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-18T04:49:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64116,
+      "source": "dc",
+      "externalId": "6596590",
+      "title": "피부만 꺼멓지",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596590&page=1",
+      "postedLabel": "13:49",
+      "postedAt": "2026-10-18T13:49:21+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:50:12+00:00",
       "isSeed": false
     }
   ]
