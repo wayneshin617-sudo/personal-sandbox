@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T07:04:23+00:00",
+  "updatedAt": "2026-10-18T07:05:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -753559,6 +753559,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T07:04:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64385,
+      "source": "dc",
+      "externalId": "6596736",
+      "title": "34 광수 춤 잘추네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.129",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596736&page=1",
+      "postedLabel": "16:04",
+      "postedAt": "2026-10-18T16:04:49+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:05:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64386,
+      "source": "dc",
+      "externalId": "6596737",
+      "title": "단체사진에서 가운데 여자 누구야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.178",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596737&page=1",
+      "postedLabel": "16:04",
+      "postedAt": "2026-10-18T16:04:56+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:05:22+00:00",
       "isSeed": false
     }
   ]
