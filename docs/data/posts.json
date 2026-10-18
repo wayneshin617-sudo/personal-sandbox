@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:00:24+00:00",
+  "updatedAt": "2026-10-18T09:01:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -755991,6 +755991,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T09:00:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64513,
+      "source": "dc",
+      "externalId": "6596875",
+      "title": "충청도가 멍청도 소리 듣는 이유가 뭐임??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.154",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596875&page=1",
+      "postedLabel": "18:00",
+      "postedAt": "2026-10-18T18:00:59+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:01:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64514,
+      "source": "dc",
+      "externalId": "6596876",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596876&page=1",
+      "postedLabel": "18:01",
+      "postedAt": "2026-10-18T18:01:00+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:01:23+00:00",
       "isSeed": false
     }
   ]
