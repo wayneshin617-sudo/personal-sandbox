@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:35:40+00:00",
+  "updatedAt": "2026-10-18T15:36:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -770830,6 +770830,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:35:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65294,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99%EB%8B%98%EC%9D%80-pctuqsnp",
+      "title": "정숙님은",
+      "excerpt": "어느법인이여요?",
+      "author": "l********",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EB%8B%98%EC%9D%80-pctuqsnp",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T00:36:28+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T15:36:40+00:00",
       "isSeed": false
     }
   ]
