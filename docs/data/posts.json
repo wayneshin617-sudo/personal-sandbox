@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T12:57:29+00:00",
+  "updatedAt": "2026-10-18T13:02:09+00:00",
   "posts": [
     {
       "id": 1,
@@ -765415,6 +765415,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T12:57:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65009,
+      "source": "dc",
+      "externalId": "6597162",
+      "title": "이 아재는 테토력이 부족했음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597162&page=1",
+      "postedLabel": "22:00",
+      "postedAt": "2026-10-18T22:00:23+09:00",
+      "views": 28,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:02:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65010,
+      "source": "dc",
+      "externalId": "6597163",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597163&page=1",
+      "postedLabel": "22:01",
+      "postedAt": "2026-10-18T22:01:32+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:02:09+00:00",
       "isSeed": false
     }
   ]
