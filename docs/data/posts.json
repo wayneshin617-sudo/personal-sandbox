@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T13:55:29+00:00",
+  "updatedAt": "2026-10-18T13:56:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -766498,6 +766498,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T13:55:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65066,
+      "source": "dc",
+      "externalId": "6597218",
+      "title": "여자들이 이해못할 짓거리를 하는 이유를 알겠음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597218&page=1",
+      "postedLabel": "22:55",
+      "postedAt": "2026-10-18T22:55:58+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:56:30+00:00",
       "isSeed": false
     }
   ]
