@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:23:29+00:00",
+  "updatedAt": "2026-10-18T14:25:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -767239,6 +767239,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:23:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65105,
+      "source": "dc",
+      "externalId": "6597259",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "31.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597259&page=1",
+      "postedLabel": "23:24",
+      "postedAt": "2026-10-18T23:24:48+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:25:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65106,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%98%EB%A7%8C-%EC%98%81%EC%88%99-%EA%B7%80%EC%97%AC%EC%9B%80-h20mgsnd",
+      "title": "근데 나만 영숙 귀여움?",
+      "excerpt": "나 여잔데 지금까지 방송만 봤을때 영숙 귀여운데 나만 그럼? 여자들끼리 나누는 얘기들도 그냥 철없는 딱 귀여운 막내같고 쉬마렵다는 표현도 그러려니 귀엽고 생각나는대로 뱉는거같아 보이긴 하는데 악의가 있어보이진 않는데 저사람이 원래 생각없이 뱉는구나 싶기만 하면 큰 타격 없을 정도 아닌가? 내 기준이 이상한건가",
+      "author": "K*****",
+      "company": "티맵모빌리티",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%98%EB%A7%8C-%EC%98%81%EC%88%99-%EA%B7%80%EC%97%AC%EC%9B%80-h20mgsnd",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T23:25:17+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T14:25:29+00:00",
       "isSeed": false
     }
   ]
