@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T17:10:40+00:00",
+  "updatedAt": "2026-10-18T17:11:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -771742,6 +771742,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T17:10:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65342,
+      "source": "dc",
+      "externalId": "6597396",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597396&page=1",
+      "postedLabel": "02:11",
+      "postedAt": "2026-10-19T02:11:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T17:11:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65343,
+      "source": "dc",
+      "externalId": "6597397",
+      "title": "겸업금지 개념글 가짜뉴스 실화? 유튭에서 밝혔는데?(사진유)",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597397&page=1",
+      "postedLabel": "02:11",
+      "postedAt": "2026-10-19T02:11:12+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T17:11:40+00:00",
       "isSeed": false
     }
   ]
