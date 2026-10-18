@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:24:23+00:00",
+  "updatedAt": "2026-10-18T11:25:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -762451,6 +762451,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:24:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64853,
+      "source": "dc",
+      "externalId": "6597080",
+      "title": "진짜네 이거 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597080&page=1",
+      "postedLabel": "20:24",
+      "postedAt": "2026-10-18T20:24:28+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:25:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64854,
+      "source": "dc",
+      "externalId": "6597081",
+      "title": "영철은 안정적이란 컨셉 실패한듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "172.225",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597081&page=1",
+      "postedLabel": "20:24",
+      "postedAt": "2026-10-18T20:24:37+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:25:23+00:00",
       "isSeed": false
     }
   ]
