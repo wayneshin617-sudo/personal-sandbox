@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T19:50:54+00:00",
+  "updatedAt": "2026-10-18T19:53:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -773813,6 +773813,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T19:50:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65451,
+      "source": "dc",
+      "externalId": "6597484",
+      "title": "이번 사계는 진짜 기대감 1도 안드네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "110.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597484&page=1",
+      "postedLabel": "04:52",
+      "postedAt": "2026-10-19T04:52:45+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T19:53:54+00:00",
       "isSeed": false
     }
   ]
