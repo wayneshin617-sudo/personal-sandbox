@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:49:33+00:00",
+  "updatedAt": "2026-10-18T02:50:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744420,6 +744420,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:49:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63904,
+      "source": "dc",
+      "externalId": "6596482",
+      "title": "미서라면, 7옥한테 이렇게 해도 용서해 줬을텐데..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596482&page=1",
+      "postedLabel": "11:50",
+      "postedAt": "2026-10-18T11:50:13+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:50:33+00:00",
       "isSeed": false
     }
   ]
