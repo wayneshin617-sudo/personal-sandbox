@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:20:23+00:00",
+  "updatedAt": "2026-10-18T11:21:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -762356,6 +762356,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:20:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64848,
+      "source": "dc",
+      "externalId": "6597074",
+      "title": "34기 비호감 듀오 영철, 영숙",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597074&page=1",
+      "postedLabel": "20:20",
+      "postedAt": "2026-10-18T20:20:13+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:21:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64849,
+      "source": "dc",
+      "externalId": "6597075",
+      "title": "송해나 진짜 이젠 아줌마구나...체감이 확 되네 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597075&page=1",
+      "postedLabel": "20:20",
+      "postedAt": "2026-10-18T20:20:22+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:21:23+00:00",
       "isSeed": false
     }
   ]
