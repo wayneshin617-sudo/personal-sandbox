@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T05:54:12+00:00",
+  "updatedAt": "2026-10-18T05:55:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -749588,6 +749588,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T05:54:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64176,
+      "source": "dc",
+      "externalId": "6596652",
+      "title": "미서 20대 만날 수 있다니까 왜 못 만난다고 우김?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596652&page=1",
+      "postedLabel": "14:54",
+      "postedAt": "2026-10-18T14:54:05+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T05:55:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64177,
+      "source": "dc",
+      "externalId": "6596653",
+      "title": "500만원으로 4천억 만든 한국 코인계 전설 거래내역 공개",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596653&page=1",
+      "postedLabel": "14:54",
+      "postedAt": "2026-10-18T14:54:13+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T05:55:12+00:00",
       "isSeed": false
     }
   ]
