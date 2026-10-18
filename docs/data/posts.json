@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T03:48:12+00:00",
+  "updatedAt": "2026-10-18T03:49:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -747289,6 +747289,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T03:48:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64055,
+      "source": "dc",
+      "externalId": "6596530",
+      "title": "순자는 사실 영수인게 아닐까",
+      "excerpt": "",
+      "author": "남자는등빨",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596530&page=1",
+      "postedLabel": "12:48",
+      "postedAt": "2026-10-18T12:48:09+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:49:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64056,
+      "source": "dc",
+      "externalId": "6596531",
+      "title": "비서줌 백퍼 나솔갤 보는것같던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596531&page=1",
+      "postedLabel": "12:48",
+      "postedAt": "2026-10-18T12:48:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:49:12+00:00",
       "isSeed": false
     }
   ]
