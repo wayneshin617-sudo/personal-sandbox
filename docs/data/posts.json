@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:04:29+00:00",
+  "updatedAt": "2026-10-18T14:05:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -766783,6 +766783,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:04:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65081,
+      "source": "dc",
+      "externalId": "6597234",
+      "title": "정희년이 뻔하지 전남편처럼 반갈죽하려다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597234&page=1",
+      "postedLabel": "23:04",
+      "postedAt": "2026-10-18T23:04:30+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:05:30+00:00",
       "isSeed": false
     }
   ]
