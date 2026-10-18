@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:46:29+00:00",
+  "updatedAt": "2026-10-18T14:47:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -767638,6 +767638,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T14:46:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65126,
+      "source": "dc",
+      "externalId": "6597281",
+      "title": "31순자 웃긴 점",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597281&page=1",
+      "postedLabel": "23:46",
+      "postedAt": "2026-10-18T23:46:45+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:47:30+00:00",
       "isSeed": false
     }
   ]
