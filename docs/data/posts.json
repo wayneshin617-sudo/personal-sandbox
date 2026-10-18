@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:21:29+00:00",
+  "updatedAt": "2026-10-18T14:23:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -767220,6 +767220,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:21:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65104,
+      "source": "dc",
+      "externalId": "6597258",
+      "title": "7옥은 크록스만 신고다니노",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597258&page=1",
+      "postedLabel": "23:22",
+      "postedAt": "2026-10-18T23:22:49+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:23:29+00:00",
       "isSeed": false
     }
   ]
