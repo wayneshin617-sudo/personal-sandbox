@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T03:15:34+00:00",
+  "updatedAt": "2026-10-18T03:16:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744952,6 +744952,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T03:15:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63932,
+      "source": "dc",
+      "externalId": "6596509",
+      "title": "이번 34기 존나 노잼 아니냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "116.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596509&page=1",
+      "postedLabel": "12:15",
+      "postedAt": "2026-10-18T12:15:53+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:16:33+00:00",
       "isSeed": false
     }
   ]
