@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T00:45:42+00:00",
+  "updatedAt": "2026-10-18T00:46:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -742672,6 +742672,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-18T00:45:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63812,
+      "source": "dc",
+      "externalId": "6596377",
+      "title": "30기는 광고도 안하고 존나 조용하네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.237",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596377&page=1",
+      "postedLabel": "09:46",
+      "postedAt": "2026-10-18T09:46:08+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T00:46:33+00:00",
       "isSeed": false
     }
   ]
