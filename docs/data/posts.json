@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:50:29+00:00",
+  "updatedAt": "2026-10-18T14:51:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -767695,6 +767695,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:50:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65129,
+      "source": "dc",
+      "externalId": "6597284",
+      "title": "31순자 갈수록 더 까이는건",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597284&page=1",
+      "postedLabel": "23:50",
+      "postedAt": "2026-10-18T23:50:41+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:51:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65130,
+      "source": "dc",
+      "externalId": "6597285",
+      "title": "손예진닮은 영숙이 호불호있지만 수요있다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597285&page=1",
+      "postedLabel": "23:50",
+      "postedAt": "2026-10-18T23:50:53+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:51:29+00:00",
       "isSeed": false
     }
   ]
