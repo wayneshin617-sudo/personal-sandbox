@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:38:22+00:00",
+  "updatedAt": "2026-10-18T11:40:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -762850,6 +762850,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:38:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64874,
+      "source": "dc",
+      "externalId": "6597102",
+      "title": "이런게 매력이지",
+      "excerpt": "",
+      "author": "우빈유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597102&page=1",
+      "postedLabel": "20:40",
+      "postedAt": "2026-10-18T20:40:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:40:23+00:00",
       "isSeed": false
     }
   ]
