@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:32:23+00:00",
+  "updatedAt": "2026-10-18T11:34:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -762622,6 +762622,63 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:32:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64862,
+      "source": "dc",
+      "externalId": "6597091",
+      "title": "진짜 세상을 다 지배한 기분이 들거같아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597091&page=1",
+      "postedLabel": "20:33",
+      "postedAt": "2026-10-18T20:33:48+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:34:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64863,
+      "source": "dc",
+      "externalId": "6597092",
+      "title": "현직 은행원 있으면 대답 좀 해줘.",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597092&page=1",
+      "postedLabel": "20:33",
+      "postedAt": "2026-10-18T20:33:53+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:34:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64864,
+      "source": "dc",
+      "externalId": "6597093",
+      "title": "여자는 30대부터는 퍼석퍼석한게 티비화면으로도 느껴짐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597093&page=1",
+      "postedLabel": "20:33",
+      "postedAt": "2026-10-18T20:33:56+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:34:23+00:00",
       "isSeed": false
     }
   ]
