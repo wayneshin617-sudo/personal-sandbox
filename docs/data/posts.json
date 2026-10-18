@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:11:33+00:00",
+  "updatedAt": "2026-10-18T02:12:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -743584,6 +743584,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:11:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63860,
+      "source": "dc",
+      "externalId": "6596437",
+      "title": "순자는 팔로워 떨어지는거 이해감",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596437&page=1",
+      "postedLabel": "11:11",
+      "postedAt": "2026-10-18T11:11:40+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:12:33+00:00",
       "isSeed": false
     }
   ]
