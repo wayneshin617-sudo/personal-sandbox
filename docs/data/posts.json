@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:02:28+00:00",
+  "updatedAt": "2026-10-18T14:03:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -766726,6 +766726,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:02:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65078,
+      "source": "dc",
+      "externalId": "6597231",
+      "title": "28광수는 애없는 어린여자 줄선다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597231&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-10-18T23:02:34+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:03:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65079,
+      "source": "dc",
+      "externalId": "6597232",
+      "title": "성경, 예수님과 우리의 사랑이야기 <구약>",
+      "excerpt": "",
+      "author": "우리주예수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597232&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-10-18T23:02:48+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 2,
+      "firstSeenAt": "2026-10-18T14:03:30+00:00",
       "isSeed": false
     }
   ]
