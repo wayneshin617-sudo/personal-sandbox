@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:01:50+00:00",
+  "updatedAt": "2026-10-18T15:02:46+00:00",
   "posts": [
     {
       "id": 1,
@@ -769899,6 +769899,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:01:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65245,
+      "source": "dc",
+      "externalId": "6597298",
+      "title": "서울숲 삼부, 라체르보 푸르지오써밋 투자에 대한 생각",
+      "excerpt": "",
+      "author": "고장남",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597298&page=1",
+      "postedLabel": "00:02",
+      "postedAt": "2026-10-19T00:02:01+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:02:46+00:00",
       "isSeed": false
     }
   ]
