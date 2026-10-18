@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T07:30:23+00:00",
+  "updatedAt": "2026-10-18T07:31:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -754376,6 +754376,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T07:30:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64428,
+      "source": "dc",
+      "externalId": "6596782",
+      "title": "하나 확실한거",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.187",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596782&page=1",
+      "postedLabel": "16:30",
+      "postedAt": "2026-10-18T16:30:17+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-18T07:31:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64429,
+      "source": "dc",
+      "externalId": "6596783",
+      "title": "미서는 사계에서 한번 더 부르는것도 좋을듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.61",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596783&page=1",
+      "postedLabel": "16:30",
+      "postedAt": "2026-10-18T16:30:26+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:31:24+00:00",
       "isSeed": false
     }
   ]
