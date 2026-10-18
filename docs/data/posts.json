@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:16:32+00:00",
+  "updatedAt": "2026-10-18T02:17:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -743698,6 +743698,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:16:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63866,
+      "source": "dc",
+      "externalId": "6596442",
+      "title": "싸우면 누가이길까 차해인 vs 마키마",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596442&page=1",
+      "postedLabel": "11:16",
+      "postedAt": "2026-10-18T11:16:34+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:17:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63867,
+      "source": "dc",
+      "externalId": "6596443",
+      "title": "주변에 육아지원 부족하다는데 모르겠음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596443&page=1",
+      "postedLabel": "11:17",
+      "postedAt": "2026-10-18T11:17:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:17:33+00:00",
       "isSeed": false
     }
   ]
