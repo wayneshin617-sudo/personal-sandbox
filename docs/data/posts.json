@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T13:03:29+00:00",
+  "updatedAt": "2026-10-18T13:11:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -765529,6 +765529,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T13:03:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65015,
+      "source": "dc",
+      "externalId": "6597169",
+      "title": "영숙 저축도 안한다함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597169&page=1",
+      "postedLabel": "22:10",
+      "postedAt": "2026-10-18T22:10:57+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:11:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65016,
+      "source": "dc",
+      "externalId": "6597170",
+      "title": "7옥순이 굳이 공구를 왜함ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597170&page=1",
+      "postedLabel": "22:10",
+      "postedAt": "2026-10-18T22:10:59+09:00",
+      "views": 5,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:11:30+00:00",
       "isSeed": false
     }
   ]
