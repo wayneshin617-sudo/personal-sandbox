@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:09:29+00:00",
+  "updatedAt": "2026-10-18T14:10:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -766935,6 +766935,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T14:09:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65089,
+      "source": "dc",
+      "externalId": "6597242",
+      "title": "영수햄 근황",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.245",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597242&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-18T23:09:29+09:00",
+      "views": 20,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:10:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65090,
+      "source": "dc",
+      "externalId": "6597243",
+      "title": "40대 아지매들이 미조한테 뻑가는 이유가 있구나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597243&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-18T23:09:45+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:10:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65091,
+      "source": "dc",
+      "externalId": "6597244",
+      "title": "진짜 라미하면 돌출느낌 세지는구나",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597244&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-18T23:09:54+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:10:29+00:00",
       "isSeed": false
     }
   ]
