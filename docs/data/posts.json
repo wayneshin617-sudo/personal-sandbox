@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T04:46:12+00:00",
+  "updatedAt": "2026-10-18T04:47:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -748391,6 +748391,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T04:46:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64113,
+      "source": "qoo",
+      "externalId": "4379191648",
+      "title": "아 비쥐엠 바뀐게 넷플간거라 구런거였어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4379191648",
+      "postedLabel": "13:46",
+      "postedAt": "2026-10-18T13:46:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:47:12+00:00",
       "isSeed": false
     }
   ]
