@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T07:08:23+00:00",
+  "updatedAt": "2026-10-18T07:09:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -753673,6 +753673,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T07:08:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64391,
+      "source": "dc",
+      "externalId": "6596742",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "190.2",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596742&page=1",
+      "postedLabel": "16:08",
+      "postedAt": "2026-10-18T16:08:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:09:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64392,
+      "source": "dc",
+      "externalId": "6596743",
+      "title": "11영식 12영수 24현숙 약국 방문",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596743&page=1",
+      "postedLabel": "16:09",
+      "postedAt": "2026-10-18T16:09:03+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:09:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64393,
+      "source": "dc",
+      "externalId": "6596744",
+      "title": "솔로리액션 보고 7옥순 싫어졌어. 쿨녀라고 생각했는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596744&page=1",
+      "postedLabel": "16:09",
+      "postedAt": "2026-10-18T16:09:06+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:09:22+00:00",
       "isSeed": false
     }
   ]
