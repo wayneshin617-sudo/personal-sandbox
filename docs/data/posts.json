@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T12:54:29+00:00",
+  "updatedAt": "2026-10-18T12:57:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -765396,6 +765396,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T12:54:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65008,
+      "source": "dc",
+      "externalId": "6597161",
+      "title": "와 28기 광수 억울할만 했네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597161&page=1",
+      "postedLabel": "21:56",
+      "postedAt": "2026-10-18T21:56:48+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T12:57:29+00:00",
       "isSeed": false
     }
   ]
