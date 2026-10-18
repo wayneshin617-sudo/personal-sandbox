@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:33:23+00:00",
+  "updatedAt": "2026-10-18T10:34:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761045,6 +761045,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:33:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64779,
+      "source": "dc",
+      "externalId": "6596999",
+      "title": "현 시각 넷플릭스 순위",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596999&page=1",
+      "postedLabel": "19:33",
+      "postedAt": "2026-10-18T19:33:16+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:34:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64780,
+      "source": "dc",
+      "externalId": "6597000",
+      "title": "28광수 광진구 전세 4년 살고 청량리 전세 이사",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597000&page=1",
+      "postedLabel": "19:33",
+      "postedAt": "2026-10-18T19:33:45+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:34:23+00:00",
       "isSeed": false
     }
   ]
