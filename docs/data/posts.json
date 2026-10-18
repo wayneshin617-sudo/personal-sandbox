@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:49:23+00:00",
+  "updatedAt": "2026-10-18T06:51:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -753141,6 +753141,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:49:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64363,
+      "source": "dc",
+      "externalId": "6596715",
+      "title": "취두부 이 와꾸에 키 168...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596715&page=1",
+      "postedLabel": "15:50",
+      "postedAt": "2026-10-18T15:50:30+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:51:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64364,
+      "source": "dc",
+      "externalId": "6596716",
+      "title": "여기 갤에서 33영수가 선마태아급 인기네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596716&page=1",
+      "postedLabel": "15:50",
+      "postedAt": "2026-10-18T15:50:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:51:23+00:00",
       "isSeed": false
     }
   ]
