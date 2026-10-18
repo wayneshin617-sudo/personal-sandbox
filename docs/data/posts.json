@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T07:21:23+00:00",
+  "updatedAt": "2026-10-18T07:22:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -754053,6 +754053,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T07:21:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64411,
+      "source": "dc",
+      "externalId": "6596763",
+      "title": "7옥이 진짜 진국이긴 하다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596763&page=1",
+      "postedLabel": "16:21",
+      "postedAt": "2026-10-18T16:21:25+09:00",
+      "views": 19,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:22:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64412,
+      "source": "dc",
+      "externalId": "6596764",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "72.251",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596764&page=1",
+      "postedLabel": "16:21",
+      "postedAt": "2026-10-18T16:21:40+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:22:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64413,
+      "source": "dc",
+      "externalId": "6596765",
+      "title": "14영자 머리 진짜",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596765&page=1",
+      "postedLabel": "16:21",
+      "postedAt": "2026-10-18T16:21:50+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:22:23+00:00",
       "isSeed": false
     }
   ]
