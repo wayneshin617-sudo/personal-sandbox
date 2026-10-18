@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T17:30:41+00:00",
+  "updatedAt": "2026-10-18T17:31:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -772065,6 +772065,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T17:30:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65359,
+      "source": "dc",
+      "externalId": "6597416",
+      "title": "솔비 이규한 오만추나 봐라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597416&page=1",
+      "postedLabel": "02:30",
+      "postedAt": "2026-10-19T02:30:52+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T17:31:40+00:00",
       "isSeed": false
     }
   ]
