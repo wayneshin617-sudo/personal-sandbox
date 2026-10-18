@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T01:03:33+00:00",
+  "updatedAt": "2026-10-18T01:05:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -742900,6 +742900,25 @@
       "recommends": 1,
       "comments": 0,
       "firstSeenAt": "2026-10-18T01:03:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63824,
+      "source": "dc",
+      "externalId": "6596391",
+      "title": "한전상철도 변호사 잡았는데 영호는 의사 가능",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.237",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596391&page=1",
+      "postedLabel": "10:05",
+      "postedAt": "2026-10-18T10:05:16+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T01:05:33+00:00",
       "isSeed": false
     }
   ]
