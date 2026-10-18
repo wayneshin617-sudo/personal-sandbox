@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T01:24:33+00:00",
+  "updatedAt": "2026-10-18T01:27:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -743147,6 +743147,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T01:24:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63837,
+      "source": "dc",
+      "externalId": "6596406",
+      "title": "엄마 때문에 빡쳐서 소리지르는 딸",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596406&page=1",
+      "postedLabel": "10:26",
+      "postedAt": "2026-10-18T10:26:59+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T01:27:33+00:00",
       "isSeed": false
     }
   ]
