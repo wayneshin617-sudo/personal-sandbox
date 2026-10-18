@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:36:40+00:00",
+  "updatedAt": "2026-10-18T15:37:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -770849,6 +770849,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T15:36:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65295,
+      "source": "dc",
+      "externalId": "6597339",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "169.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597339&page=1",
+      "postedLabel": "00:37",
+      "postedAt": "2026-10-19T00:37:01+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:37:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65296,
+      "source": "dc",
+      "externalId": "6597340",
+      "title": "28광수는 결정사 바지사장인데 병신아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597340&page=1",
+      "postedLabel": "00:37",
+      "postedAt": "2026-10-19T00:37:09+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:37:40+00:00",
       "isSeed": false
     }
   ]
