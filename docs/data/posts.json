@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:57:33+00:00",
+  "updatedAt": "2026-10-18T02:58:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744534,6 +744534,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T02:57:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63910,
+      "source": "dc",
+      "externalId": "6596487",
+      "title": "옥팔개 없어서 떨어지는거임",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596487&page=1",
+      "postedLabel": "11:58",
+      "postedAt": "2026-10-18T11:58:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:58:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63911,
+      "source": "dc",
+      "externalId": "6596488",
+      "title": "근데 34기 90년생 남출이랑, 80년생 미서랑 해도...",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596488&page=1",
+      "postedLabel": "11:58",
+      "postedAt": "2026-10-18T11:58:18+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:58:33+00:00",
       "isSeed": false
     }
   ]
