@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T19:31:54+00:00",
+  "updatedAt": "2026-10-18T19:37:54+00:00",
   "posts": [
     {
       "id": 1,
@@ -773699,6 +773699,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T19:31:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65445,
+      "source": "dc",
+      "externalId": "6597476",
+      "title": "사계에 얼마나 나올 남자가 없으면",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597476&page=1",
+      "postedLabel": "04:36",
+      "postedAt": "2026-10-19T04:36:57+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T19:37:54+00:00",
       "isSeed": false
     }
   ]
