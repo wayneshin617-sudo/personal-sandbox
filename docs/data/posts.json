@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:51:23+00:00",
+  "updatedAt": "2026-10-18T06:52:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -753179,6 +753179,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:51:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64365,
+      "source": "dc",
+      "externalId": "6596717",
+      "title": "프랑스에서 명품을 공짜로 겟하는 방법",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596717&page=1",
+      "postedLabel": "15:51",
+      "postedAt": "2026-10-18T15:51:22+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:52:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64366,
+      "source": "dc",
+      "externalId": "6596718",
+      "title": "34현숙 이거 진짜 문신임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596718&page=1",
+      "postedLabel": "15:51",
+      "postedAt": "2026-10-18T15:51:28+09:00",
+      "views": 18,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-18T06:52:23+00:00",
       "isSeed": false
     }
   ]
