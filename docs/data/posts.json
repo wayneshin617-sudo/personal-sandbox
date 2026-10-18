@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:18:30+00:00",
+  "updatedAt": "2026-10-18T14:19:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -767144,6 +767144,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:18:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65100,
+      "source": "dc",
+      "externalId": "6597254",
+      "title": "정희가 결정사 지분 요구하고 그런거 아님?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597254&page=1",
+      "postedLabel": "23:18",
+      "postedAt": "2026-10-18T23:18:23+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:19:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65101,
+      "source": "dc",
+      "externalId": "6597255",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597255&page=1",
+      "postedLabel": "23:19",
+      "postedAt": "2026-10-18T23:19:02+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:19:29+00:00",
       "isSeed": false
     }
   ]
