@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T13:31:30+00:00",
+  "updatedAt": "2026-10-18T13:32:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -766080,6 +766080,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T13:31:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65044,
+      "source": "dc",
+      "externalId": "6597197",
+      "title": "영숙이 닮은 사람 나온다 미우새",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597197&page=1",
+      "postedLabel": "22:31",
+      "postedAt": "2026-10-18T22:31:24+09:00",
+      "views": 21,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T13:32:29+00:00",
       "isSeed": false
     }
   ]
