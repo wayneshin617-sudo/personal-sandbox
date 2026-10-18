@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:05:23+00:00",
+  "updatedAt": "2026-10-18T10:07:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -760418,6 +760418,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:05:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64746,
+      "source": "dc",
+      "externalId": "6596963",
+      "title": "늙고 썩은정자라도 번식하려고 매매하는 한남들의 최후",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.254",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596963&page=1",
+      "postedLabel": "19:06",
+      "postedAt": "2026-10-18T19:06:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:07:23+00:00",
       "isSeed": false
     }
   ]
