@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:20:41+00:00",
+  "updatedAt": "2026-10-18T15:21:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -770488,6 +770488,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:20:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65276,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AF%B8%EC%8A%A4%ED%84%B0%EC%84%9C-%EC%84%B1%EA%B2%A9-z15ae7eu",
+      "title": "미스터서 성격",
+      "excerpt": "얼굴 스타일 성격 다 좋음 특히 성격 진짜 내스타일 친구하고싶다 ㅠㅠㅠㅠㅠㅠ",
+      "author": "m******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AF%B8%EC%8A%A4%ED%84%B0%EC%84%9C-%EC%84%B1%EA%B2%A9-z15ae7eu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T00:21:29+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T15:21:41+00:00",
       "isSeed": false
     }
   ]
