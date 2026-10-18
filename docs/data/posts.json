@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T16:57:39+00:00",
+  "updatedAt": "2026-10-18T16:58:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -771590,6 +771590,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T16:57:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65334,
+      "source": "dc",
+      "externalId": "6597387",
+      "title": "영철이는 진짜 신기한게",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "72.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597387&page=1",
+      "postedLabel": "01:57",
+      "postedAt": "2026-10-19T01:57:33+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T16:58:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65335,
+      "source": "dc",
+      "externalId": "6597388",
+      "title": "미조ㅋㅋ 밥보영이랑 7옥순 대하는 표정 온도차 봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597388&page=1",
+      "postedLabel": "01:57",
+      "postedAt": "2026-10-19T01:57:53+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T16:58:40+00:00",
       "isSeed": false
     }
   ]
