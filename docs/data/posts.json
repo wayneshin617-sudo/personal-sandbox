@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T03:42:12+00:00",
+  "updatedAt": "2026-10-18T03:44:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -747194,6 +747194,44 @@
       "recommends": 1,
       "comments": 1,
       "firstSeenAt": "2026-10-18T03:42:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64050,
+      "source": "dc",
+      "externalId": "6596524",
+      "title": "여자는 원래 지보다 ㅎㅌㅊ년 시녀질 절대 못함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596524&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-10-18T12:43:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:44:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64051,
+      "source": "dc",
+      "externalId": "6596525",
+      "title": "미서 7옥 계약결혼 기념 신혼여행가자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596525&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-10-18T12:43:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:44:12+00:00",
       "isSeed": false
     }
   ]
