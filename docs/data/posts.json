@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T15:37:40+00:00",
+  "updatedAt": "2026-10-18T15:40:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -770887,6 +770887,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T15:37:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65297,
+      "source": "dc",
+      "externalId": "6597341",
+      "title": "미서 14영자 이거보니 중년같은데?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597341&page=1",
+      "postedLabel": "00:40",
+      "postedAt": "2026-10-19T00:40:24+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T15:40:41+00:00",
       "isSeed": false
     }
   ]
