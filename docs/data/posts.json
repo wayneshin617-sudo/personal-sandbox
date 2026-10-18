@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T08:59:23+00:00",
+  "updatedAt": "2026-10-18T09:00:24+00:00",
   "posts": [
     {
       "id": 1,
@@ -755953,6 +755953,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T08:59:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64511,
+      "source": "dc",
+      "externalId": "6596873",
+      "title": "31순자 사람 얼굴이 이렇게까지 큰거 너무 신기해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596873&page=1",
+      "postedLabel": "17:59",
+      "postedAt": "2026-10-18T17:59:26+09:00",
+      "views": 12,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:00:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64512,
+      "source": "dc",
+      "externalId": "6596874",
+      "title": "31순자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "14.41",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596874&page=1",
+      "postedLabel": "17:59",
+      "postedAt": "2026-10-18T17:59:51+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:00:24+00:00",
       "isSeed": false
     }
   ]
