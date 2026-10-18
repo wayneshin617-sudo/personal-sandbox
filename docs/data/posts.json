@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:26:23+00:00",
+  "updatedAt": "2026-10-18T09:27:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -759392,6 +759392,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T09:26:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64692,
+      "source": "dc",
+      "externalId": "6596906",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596906&page=1",
+      "postedLabel": "18:26",
+      "postedAt": "2026-10-18T18:26:59+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:27:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64693,
+      "source": "dc",
+      "externalId": "6596907",
+      "title": "20대 입장에서 나솔보면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596907&page=1",
+      "postedLabel": "18:27",
+      "postedAt": "2026-10-18T18:27:00+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:27:23+00:00",
       "isSeed": false
     }
   ]
