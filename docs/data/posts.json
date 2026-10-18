@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T05:25:12+00:00",
+  "updatedAt": "2026-10-18T05:26:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -749132,6 +749132,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T05:25:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64152,
+      "source": "dc",
+      "externalId": "6596628",
+      "title": "미조: 사람들이 왜 너는 뭐만 하면 다 좋아하냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596628&page=1",
+      "postedLabel": "14:25",
+      "postedAt": "2026-10-18T14:25:16+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T05:26:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64153,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8B%AC%EB%8B%AC%ED%95%98%EA%B3%A0-%EC%84%A4%EB%A0%88%EA%B3%A0-%EC%8B%B6%EB%8B%A4-skfpajs2",
+      "title": "달달하고 설레고 싶다",
+      "excerpt": "30살인데 연상녀랑 만나고싶다ㅠㅠ",
+      "author": "B*****",
+      "company": "경기도청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%AC%EB%8B%AC%ED%95%98%EA%B3%A0-%EC%84%A4%EB%A0%88%EA%B3%A0-%EC%8B%B6%EB%8B%A4-skfpajs2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T14:26:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T05:26:12+00:00",
       "isSeed": false
     }
   ]
