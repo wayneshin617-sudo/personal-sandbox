@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:37:32+00:00",
+  "updatedAt": "2026-10-18T02:40:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -744230,6 +744230,44 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:37:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63894,
+      "source": "dc",
+      "externalId": "6596470",
+      "title": "처음부터 그분 불쌍하지도 않았고 쎄했는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596470&page=1",
+      "postedLabel": "11:39",
+      "postedAt": "2026-10-18T11:39:26+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:40:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63895,
+      "source": "dc",
+      "externalId": "6596471",
+      "title": "광고하면 팔로워 줄어드는거 맞지만 누가 저속도로 떨어지냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596471&page=1",
+      "postedLabel": "11:39",
+      "postedAt": "2026-10-18T11:39:48+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:40:33+00:00",
       "isSeed": false
     }
   ]
