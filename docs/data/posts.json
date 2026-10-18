@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T03:57:13+00:00",
+  "updatedAt": "2026-10-18T03:58:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -747479,6 +747479,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T03:57:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64065,
+      "source": "qoo",
+      "externalId": "4379140925",
+      "title": "영호 예전 6기 부산영식이랑 닮았음 성격 외모",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4379140925",
+      "postedLabel": "12:57",
+      "postedAt": "2026-10-18T12:57:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:58:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64066,
+      "source": "dc",
+      "externalId": "6596538",
+      "title": "31순자 같이 대가리 목 따야지 한 출연자=29영숙",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596538&page=1",
+      "postedLabel": "12:57",
+      "postedAt": "2026-10-18T12:57:05+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T03:58:12+00:00",
       "isSeed": false
     }
   ]
