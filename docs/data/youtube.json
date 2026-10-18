@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:39:21+00:00",
+  "updatedAt": "2026-10-18T11:40:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -194465,6 +194465,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:39:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 10236,
+      "source": "yt",
+      "externalId": "UgzB-E7dhPykkYK7Hft4AaABAg",
+      "title": "깐족거리는게 밉상이든데",
+      "excerpt": "[나는솔로34기] 이렇게 무례하다고? ㄷㄷㄷ (34기상철)",
+      "author": "@상도경-m2y",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=NImwwq8U7Ws&lc=UgzB-E7dhPykkYK7Hft4AaABAg",
+      "postedLabel": "1시간 전",
+      "postedAt": "2026-10-18T19:39:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:40:22+00:00",
       "isSeed": false
     }
   ]
