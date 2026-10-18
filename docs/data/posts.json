@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T20:50:12+00:00",
+  "updatedAt": "2026-10-18T20:55:11+00:00",
   "posts": [
     {
       "id": 1,
@@ -775124,6 +775124,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-18T20:50:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65520,
+      "source": "dc",
+      "externalId": "6597503",
+      "title": "일본여자 자식들이 팔다리 짧아서 스트레스 많이 받음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "14.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597503&page=1",
+      "postedLabel": "05:54",
+      "postedAt": "2026-10-19T05:54:17+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T20:55:11+00:00",
       "isSeed": false
     }
   ]
