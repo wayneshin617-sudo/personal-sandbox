@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T22:02:11+00:00",
+  "updatedAt": "2026-10-18T22:07:11+00:00",
   "posts": [
     {
       "id": 1,
@@ -775675,6 +775675,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T22:02:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65549,
+      "source": "dc",
+      "externalId": "6597542",
+      "title": "일녀가 인기많은것은 펙트임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597542&page=1",
+      "postedLabel": "07:06",
+      "postedAt": "2026-10-19T07:06:39+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T22:07:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65550,
+      "source": "dc",
+      "externalId": "6597543",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597543&page=1",
+      "postedLabel": "07:06",
+      "postedAt": "2026-10-19T07:06:58+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T22:07:11+00:00",
       "isSeed": false
     }
   ]
