@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:15:29+00:00",
+  "updatedAt": "2026-10-18T14:17:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -767106,6 +767106,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:15:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65098,
+      "source": "dc",
+      "externalId": "6597252",
+      "title": "7옥순 라방은 생각보다 안이쁜데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597252&page=1",
+      "postedLabel": "23:16",
+      "postedAt": "2026-10-18T23:16:18+09:00",
+      "views": 19,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:17:29+00:00",
       "isSeed": false
     }
   ]
