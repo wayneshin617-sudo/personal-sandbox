@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:31:30+00:00",
+  "updatedAt": "2026-10-18T06:32:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -752704,6 +752704,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:31:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64340,
+      "source": "dc",
+      "externalId": "6596690",
+      "title": "다시 22옥순이 팔로워 1위 차지할수도 있을듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596690&page=1",
+      "postedLabel": "15:31",
+      "postedAt": "2026-10-18T15:31:25+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:32:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64341,
+      "source": "dc",
+      "externalId": "6596691",
+      "title": "29옥 ㅂㅅ같은년",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596691&page=1",
+      "postedLabel": "15:31",
+      "postedAt": "2026-10-18T15:31:38+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:32:23+00:00",
       "isSeed": false
     }
   ]
