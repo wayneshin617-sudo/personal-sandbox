@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T09:35:23+00:00",
+  "updatedAt": "2026-10-18T09:36:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -759696,6 +759696,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-18T09:35:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64708,
+      "source": "dc",
+      "externalId": "6596920",
+      "title": "오래간만에 기강 함 잡아야겠네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.40",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596920&page=1",
+      "postedLabel": "18:35",
+      "postedAt": "2026-10-18T18:35:31+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:36:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64709,
+      "source": "dc",
+      "externalId": "6596921",
+      "title": "망약결혼 폐지 해야되면 개추",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596921&page=1",
+      "postedLabel": "18:35",
+      "postedAt": "2026-10-18T18:35:38+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T09:36:23+00:00",
       "isSeed": false
     }
   ]
