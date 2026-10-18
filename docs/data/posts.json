@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T02:17:33+00:00",
+  "updatedAt": "2026-10-18T02:18:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -743736,6 +743736,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T02:17:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63868,
+      "source": "qoo",
+      "externalId": "4379057520",
+      "title": "걍 비연예인인데 연예인한테 댓글 다듯 한다해야하나...?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4379057520",
+      "postedLabel": "11:18",
+      "postedAt": "2026-10-18T11:18:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:18:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63869,
+      "source": "dc",
+      "externalId": "6596444",
+      "title": "키 빼몸 120은 지랄이고 100~110만 되도",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596444&page=1",
+      "postedLabel": "11:18",
+      "postedAt": "2026-10-18T11:18:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T02:18:33+00:00",
       "isSeed": false
     }
   ]
