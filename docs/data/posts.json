@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T06:32:23+00:00",
+  "updatedAt": "2026-10-18T06:33:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -752742,6 +752742,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T06:32:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64342,
+      "source": "qoo",
+      "externalId": "4379302885",
+      "title": "나솔 본적없는데 기수 추천해줘",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4379302885",
+      "postedLabel": "15:32",
+      "postedAt": "2026-10-18T15:32:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T06:33:23+00:00",
       "isSeed": false
     }
   ]
