@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T04:04:13+00:00",
+  "updatedAt": "2026-10-18T04:06:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -747631,6 +747631,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T04:04:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64073,
+      "source": "dc",
+      "externalId": "6596545",
+      "title": "출퇴근 이거 암발생률 존나높음 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.175",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596545&page=1",
+      "postedLabel": "13:05",
+      "postedAt": "2026-10-18T13:05:55+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:06:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64074,
+      "source": "dc",
+      "externalId": "6596546",
+      "title": "대체 한남이 얼마나 못생겼으면",
+      "excerpt": "",
+      "author": "2c",
+      "company": "",
+      "ip": "58.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596546&page=1",
+      "postedLabel": "13:05",
+      "postedAt": "2026-10-18T13:05:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T04:06:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64075,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-nnaccchg",
+      "title": "이번 기수 옥순",
+      "excerpt": "얼굴만 보면 그런 느낌 아닌데 말하는 거 들어보면 엄청 착할듯 근데 곰 느낌이라 인기가 없는듯",
+      "author": "w*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-nnaccchg",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T13:06:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T04:06:12+00:00",
       "isSeed": false
     }
   ]
