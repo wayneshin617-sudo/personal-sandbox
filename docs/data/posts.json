@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:19:29+00:00",
+  "updatedAt": "2026-10-18T14:21:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -767182,6 +767182,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:19:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65102,
+      "source": "dc",
+      "externalId": "6597256",
+      "title": "34기 영호랑 영철 블라인드에 새로운 썰 올라왔다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597256&page=1",
+      "postedLabel": "23:20",
+      "postedAt": "2026-10-18T23:20:39+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:21:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65103,
+      "source": "dc",
+      "externalId": "6597257",
+      "title": "입툭튀 많이 좋아진거임",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597257&page=1",
+      "postedLabel": "23:20",
+      "postedAt": "2026-10-18T23:20:48+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:21:29+00:00",
       "isSeed": false
     }
   ]
