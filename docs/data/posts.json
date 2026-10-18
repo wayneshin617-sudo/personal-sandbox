@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:25:23+00:00",
+  "updatedAt": "2026-10-18T11:27:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -762489,6 +762489,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:25:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64855,
+      "source": "dc",
+      "externalId": "6597083",
+      "title": "솔직히 남자들한테 둘 중에 누구 고르냐고 물어보면 다 송해나 고름",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597083&page=1",
+      "postedLabel": "20:26",
+      "postedAt": "2026-10-18T20:26:39+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:27:23+00:00",
       "isSeed": false
     }
   ]
