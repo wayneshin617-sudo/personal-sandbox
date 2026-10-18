@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T10:55:23+00:00",
+  "updatedAt": "2026-10-18T10:56:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761482,6 +761482,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T10:55:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64802,
+      "source": "dc",
+      "externalId": "6597025",
+      "title": "동대문이라고하면되는데 웬 청량리 ㅋ 미친년",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597025&page=1",
+      "postedLabel": "19:55",
+      "postedAt": "2026-10-18T19:55:24+09:00",
+      "views": 6,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:56:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64803,
+      "source": "dc",
+      "externalId": "6597026",
+      "title": "20순자 결혼 축하",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597026&page=1",
+      "postedLabel": "19:55",
+      "postedAt": "2026-10-18T19:55:47+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T10:56:23+00:00",
       "isSeed": false
     }
   ]
