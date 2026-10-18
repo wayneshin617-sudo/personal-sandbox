@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T17:16:40+00:00",
+  "updatedAt": "2026-10-18T17:18:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -771837,6 +771837,25 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-18T17:16:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65347,
+      "source": "dc",
+      "externalId": "6597402",
+      "title": "순자 임마 회사생활 보이네 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597402&page=1",
+      "postedLabel": "02:18",
+      "postedAt": "2026-10-19T02:18:19+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T17:18:40+00:00",
       "isSeed": false
     }
   ]
