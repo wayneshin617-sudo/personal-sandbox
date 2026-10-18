@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:04:24+00:00",
+  "updatedAt": "2026-10-18T11:05:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -761824,6 +761824,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:04:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64820,
+      "source": "dc",
+      "externalId": "6597045",
+      "title": "광수집 집착년 광수가 면상한번 봐줘야겠음 더러운년",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597045&page=1",
+      "postedLabel": "20:04",
+      "postedAt": "2026-10-18T20:04:16+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:05:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64821,
+      "source": "dc",
+      "externalId": "6597046",
+      "title": "14영자는 미서 엄청 후려치던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597046&page=1",
+      "postedLabel": "20:04",
+      "postedAt": "2026-10-18T20:04:28+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:05:23+00:00",
       "isSeed": false
     }
   ]
