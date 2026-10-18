@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T17:01:40+00:00",
+  "updatedAt": "2026-10-18T17:02:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -771647,6 +771647,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T17:01:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65337,
+      "source": "dc",
+      "externalId": "6597391",
+      "title": "7기때 7옥순 진짜 예뻤네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597391&page=1",
+      "postedLabel": "02:01",
+      "postedAt": "2026-10-19T02:01:30+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T17:02:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65338,
+      "source": "dc",
+      "externalId": "6597392",
+      "title": "7옥이 진짜 사람차별 안하고 착하긴 해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597392&page=1",
+      "postedLabel": "02:02",
+      "postedAt": "2026-10-19T02:02:28+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T17:02:41+00:00",
       "isSeed": false
     }
   ]
