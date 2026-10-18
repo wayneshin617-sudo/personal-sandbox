@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T07:15:23+00:00",
+  "updatedAt": "2026-10-18T07:16:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -753882,6 +753882,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T07:15:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64402,
+      "source": "dc",
+      "externalId": "6596754",
+      "title": "7옥 ㅈㄴ싫다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596754&page=1",
+      "postedLabel": "16:15",
+      "postedAt": "2026-10-18T16:15:17+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:16:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64403,
+      "source": "dc",
+      "externalId": "6596755",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "84.252",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596755&page=1",
+      "postedLabel": "16:15",
+      "postedAt": "2026-10-18T16:15:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T07:16:23+00:00",
       "isSeed": false
     }
   ]
