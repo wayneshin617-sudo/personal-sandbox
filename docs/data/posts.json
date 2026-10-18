@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T08:51:25+00:00",
+  "updatedAt": "2026-10-18T08:52:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -755782,6 +755782,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T08:51:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64502,
+      "source": "dc",
+      "externalId": "6596863",
+      "title": "미서랑 7옥 미는애들은 모솔이분명함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596863&page=1",
+      "postedLabel": "17:51",
+      "postedAt": "2026-10-18T17:51:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T08:52:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64503,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%81%BC%EB%8A%94%EC%A0%90-v0plaow8",
+      "title": "나솔 보면서 느끼는점",
+      "excerpt": "뚜렷한 강점이 없어도 도드라지는 단점이 없는 남자가 인기가 많은 듯. 직업 외모 키 등 결격 사유 있으면 다른게 좋아도 선택 안하는 경향이 뚜렷함 반면에 남자는 이쁘면 다 됨",
+      "author": "i*********",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%81%BC%EB%8A%94%EC%A0%90-v0plaow8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T17:52:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T08:52:23+00:00",
       "isSeed": false
     }
   ]
