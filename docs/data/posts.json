@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T01:16:33+00:00",
+  "updatedAt": "2026-10-18T01:18:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -743071,6 +743071,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T01:16:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63833,
+      "source": "dc",
+      "externalId": "6596402",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "89.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6596402&page=1",
+      "postedLabel": "10:17",
+      "postedAt": "2026-10-18T10:17:42+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T01:18:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 63834,
+      "source": "blind",
+      "externalId": "/kr/post/27-%EC%83%81%EC%B2%A0%EC%9D%B4-%EC%A7%84%EC%8B%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%83%80%EC%A0%81%EC%9D%B8-%EC%9D%B4%EC%9C%A0-qhtfwm4a",
+      "title": "27 상철이 진심으로 이타적인 이유",
+      "excerpt": "27 상철 객관적으로 분석해봄 분당 자가, 한전(한때 대기업 포기하고 가던 최상급 공기업), 39살에 비해 탑급 외모, 평균키, 동국대 이정도면 20후반 ~ 30 극초 예쁜 공무원이나 공기업 또는 대기업까지 만나서 결혼 가능한 스펙임 그런데 임신이 불가능한 39살 여자를 선택함 여자가 39살이면 아무리 예쁘고 돈 많아도 머리 날라가고 배나온 초혼 아저씨 아니면 돌싱 만나야 하는게 현실인데 저런 최상급 남자가 39살 여자를 데려감 ㄹㅇ 이타적임",
+      "author": "i*********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/27-%EC%83%81%EC%B2%A0%EC%9D%B4-%EC%A7%84%EC%8B%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%83%80%EC%A0%81%EC%9D%B8-%EC%9D%B4%EC%9C%A0-qhtfwm4a",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T10:18:22+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T01:18:33+00:00",
       "isSeed": false
     }
   ]
