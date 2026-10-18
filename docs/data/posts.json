@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T11:21:23+00:00",
+  "updatedAt": "2026-10-18T11:22:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -762394,6 +762394,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T11:21:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64850,
+      "source": "dc",
+      "externalId": "6597076",
+      "title": "광수가 의외로 정치력 높았고 오래 버틴거지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597076&page=1",
+      "postedLabel": "20:21",
+      "postedAt": "2026-10-18T20:21:23+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T11:22:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 64851,
+      "source": "dc",
+      "externalId": "6597077",
+      "title": "내가 40대이상 노괴들을 여자로 보지 않는 이유",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597077&page=1",
+      "postedLabel": "20:21",
+      "postedAt": "2026-10-18T20:21:33+09:00",
+      "views": 5,
+      "recommends": 3,
+      "comments": 2,
+      "firstSeenAt": "2026-10-18T11:22:23+00:00",
       "isSeed": false
     }
   ]
