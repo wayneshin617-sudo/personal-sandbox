@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:55:30+00:00",
+  "updatedAt": "2026-10-18T14:56:30+00:00",
   "posts": [
     {
       "id": 1,
@@ -767771,6 +767771,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:55:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65133,
+      "source": "dc",
+      "externalId": "6597288",
+      "title": "7옥 29영숙 성만다르네 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597288&page=1",
+      "postedLabel": "23:55",
+      "postedAt": "2026-10-18T23:55:28+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:56:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65134,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EC%BB%A4%ED%94%8C%EC%A4%91%EC%97%90-%EC%9E%98%EB%90%9C-%EC%BB%A4%ED%94%8C-%EA%B1%B0%EC%9D%98-%EC%97%86%EC%A7%80%EC%95%8A%EB%82%98%EC%9A%94-a4ch3zlo",
+      "title": "나솔 커플중에 잘된 커플 거의 없지않나요",
+      "excerpt": "???",
+      "author": "바****",
+      "company": "김포도시공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%BB%A4%ED%94%8C%EC%A4%91%EC%97%90-%EC%9E%98%EB%90%9C-%EC%BB%A4%ED%94%8C-%EA%B1%B0%EC%9D%98-%EC%97%86%EC%A7%80%EC%95%8A%EB%82%98%EC%9A%94-a4ch3zlo",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-18T23:56:19+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-18T14:56:30+00:00",
       "isSeed": false
     }
   ]
