@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-18T14:36:29+00:00",
+  "updatedAt": "2026-10-18T14:38:29+00:00",
   "posts": [
     {
       "id": 1,
@@ -767505,6 +767505,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-18T14:36:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65119,
+      "source": "dc",
+      "externalId": "6597274",
+      "title": "경수 순자는 결혼과 맞바꾼 비즈니스 커플인건가",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.231",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597274&page=1",
+      "postedLabel": "23:38",
+      "postedAt": "2026-10-18T23:38:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-18T14:38:29+00:00",
       "isSeed": false
     }
   ]
