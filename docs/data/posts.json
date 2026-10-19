@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:56:49+00:00",
+  "updatedAt": "2026-10-19T14:57:48+00:00",
   "posts": [
     {
       "id": 1,
@@ -590444,6 +590444,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:56:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67319,
+      "source": "dc",
+      "externalId": "6598989",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "89.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598989&page=1",
+      "postedLabel": "23:57",
+      "postedAt": "2026-10-19T23:57:05+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:57:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67320,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC%EB%84%88%EB%AC%B4%EC%9E%AC%EB%AF%B8%EC%97%86%EC%96%B4-pjoazn5e",
+      "title": "계약결혼너무재미없어...",
+      "excerpt": "하루이야기가 한회분량 지겹 기승전결도없고 빨리 종결하고 새로운거해주길바래",
+      "author": "T*****",
+      "company": "아주대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC%EB%84%88%EB%AC%B4%EC%9E%AC%EB%AF%B8%EC%97%86%EC%96%B4-pjoazn5e",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T23:57:36+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T14:57:48+00:00",
       "isSeed": false
     }
   ]
