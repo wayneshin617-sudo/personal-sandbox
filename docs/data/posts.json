@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T06:10:53+00:00",
+  "updatedAt": "2026-10-19T06:11:45+00:00",
   "posts": [
     {
       "id": 1,
@@ -790571,6 +790571,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T06:10:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66333,
+      "source": "dc",
+      "externalId": "6598020",
+      "title": "잘생긴 경수에게 틈을 보이지 않겠다.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598020&page=1",
+      "postedLabel": "15:11",
+      "postedAt": "2026-10-19T15:11:21+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:11:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66334,
+      "source": "dc",
+      "externalId": "6598021",
+      "title": "복수선택3개가능",
+      "excerpt": "",
+      "author": "김광현29",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598021&page=1",
+      "postedLabel": "15:11",
+      "postedAt": "2026-10-19T15:11:40+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:11:45+00:00",
       "isSeed": false
     }
   ]
