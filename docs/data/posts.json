@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T13:53:13+00:00",
+  "updatedAt": "2026-10-19T13:54:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -585618,6 +585618,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T13:53:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67065,
+      "source": "dc",
+      "externalId": "6598763",
+      "title": "영숙은 간호사 취업으로 미국가는게 낫지않음?",
+      "excerpt": "",
+      "author": "ㅇㅇ(118.235)",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598763&page=1",
+      "postedLabel": "22:53",
+      "postedAt": "2026-10-19T22:53:46+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:54:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67066,
+      "source": "dc",
+      "externalId": "6598764",
+      "title": "뽀뽀",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598764&page=1",
+      "postedLabel": "22:53",
+      "postedAt": "2026-10-19T22:53:52+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:54:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67067,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%9A%A8%EC%97%B0%EC%9D%B4-%EC%A0%80%EB%9E%98%EC%9D%B4%EB%BB%A4%EB%82%98-um0mut2z",
+      "title": "효연이 저래이뻤나",
+      "excerpt": "역시 소녀시댄가",
+      "author": "p*****",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%A8%EC%97%B0%EC%9D%B4-%EC%A0%80%EB%9E%98%EC%9D%B4%EB%BB%A4%EB%82%98-um0mut2z",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T22:54:02+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T13:54:13+00:00",
       "isSeed": false
     }
   ]
