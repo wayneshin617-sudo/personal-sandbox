@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:33:48+00:00",
+  "updatedAt": "2026-10-19T14:34:49+00:00",
   "posts": [
     {
       "id": 1,
@@ -588563,6 +588563,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:33:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67220,
+      "source": "dc",
+      "externalId": "6598902",
+      "title": "안정환입장에서 멘트치기가 좀 어려울거같긴함...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.157",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598902&page=1",
+      "postedLabel": "23:33",
+      "postedAt": "2026-10-19T23:33:41+09:00",
+      "views": 38,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:34:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67221,
+      "source": "dc",
+      "externalId": "6598903",
+      "title": "보는 내가 부끄럽다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598903&page=1",
+      "postedLabel": "23:34",
+      "postedAt": "2026-10-19T23:34:20+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:34:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67222,
+      "source": "dc",
+      "externalId": "6598904",
+      "title": "쟤네는 여자가 맞춰주는게 언제까지갈까 문제임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598904&page=1",
+      "postedLabel": "23:34",
+      "postedAt": "2026-10-19T23:34:24+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:34:49+00:00",
       "isSeed": false
     }
   ]
