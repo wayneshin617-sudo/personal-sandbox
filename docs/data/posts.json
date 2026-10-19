@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T17:18:31+00:00",
+  "updatedAt": "2026-10-19T17:19:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -592002,6 +592002,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T17:18:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67587,
+      "source": "dc",
+      "externalId": "6599140",
+      "title": "출연료 2천주면 나도 연기 쌉가능함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599140&page=1",
+      "postedLabel": "02:19",
+      "postedAt": "2026-10-20T02:19:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:19:32+00:00",
       "isSeed": false
     }
   ]
