@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:21:40+00:00",
+  "updatedAt": "2026-10-19T08:22:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -794352,6 +794352,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T08:21:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66532,
+      "source": "dc",
+      "externalId": "6598188",
+      "title": "순자 일 빡셌던건 일년에 만든 책수 보면 알수있지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598188&page=1",
+      "postedLabel": "17:21",
+      "postedAt": "2026-10-19T17:21:59+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:22:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66533,
+      "source": "dc",
+      "externalId": "6598189",
+      "title": "나솔 카메라가 이상한거 아닌가 여기선 머가리 작음",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598189&page=1",
+      "postedLabel": "17:22",
+      "postedAt": "2026-10-19T17:22:07+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:22:41+00:00",
       "isSeed": false
     }
   ]
