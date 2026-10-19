@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:41:41+00:00",
+  "updatedAt": "2026-10-19T08:42:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -794922,6 +794922,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T08:41:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66562,
+      "source": "dc",
+      "externalId": "6598222",
+      "title": "요즘은 남자도 아이낳는것 싫어함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598222&page=1",
+      "postedLabel": "17:41",
+      "postedAt": "2026-10-19T17:41:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:42:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66563,
+      "source": "dc",
+      "externalId": "6598223",
+      "title": "7옥이상형\"하얗고 잘생긴 송강닮은 재밌는 남자\"",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598223&page=1",
+      "postedLabel": "17:42",
+      "postedAt": "2026-10-19T17:42:11+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:42:41+00:00",
       "isSeed": false
     }
   ]
