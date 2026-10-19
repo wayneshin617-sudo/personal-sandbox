@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:20:41+00:00",
+  "updatedAt": "2026-10-19T09:21:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -796176,6 +796176,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:20:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66628,
+      "source": "dc",
+      "externalId": "6598295",
+      "title": "외모합은 미서랑 7옥이 찐이지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.158",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598295&page=1",
+      "postedLabel": "18:20",
+      "postedAt": "2026-10-19T18:20:54+09:00",
+      "views": 7,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:21:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66629,
+      "source": "dc",
+      "externalId": "6598296",
+      "title": "7옥 인팁에다가 sns도 잘 안해 사람한테도 별 관심없어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598296&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-19T18:21:15+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:21:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66630,
+      "source": "dc",
+      "externalId": "6598297",
+      "title": "7옥은 22영숙한텐 안됨 ㅅㄱ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598297&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-19T18:21:23+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:21:42+00:00",
       "isSeed": false
     }
   ]
