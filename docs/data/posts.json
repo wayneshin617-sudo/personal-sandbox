@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T07:09:54+00:00",
+  "updatedAt": "2026-10-19T07:10:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -791730,6 +791730,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T07:09:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66394,
+      "source": "dc",
+      "externalId": "6598087",
+      "title": "나솔에 출연한다 << 웬만하면 사회적으로 상위권 인간임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598087&page=1",
+      "postedLabel": "16:09",
+      "postedAt": "2026-10-19T16:09:54+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:10:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66395,
+      "source": "dc",
+      "externalId": "6598088",
+      "title": "즙수 4정수 외국인 특집 사계 섭외 왔었는데 거절함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598088&page=1",
+      "postedLabel": "16:09",
+      "postedAt": "2026-10-19T16:09:57+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:10:53+00:00",
       "isSeed": false
     }
   ]
