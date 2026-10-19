@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T05:04:24+00:00",
+  "updatedAt": "2026-10-19T05:06:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -786999,6 +786999,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T05:04:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66145,
+      "source": "dc",
+      "externalId": "6597943",
+      "title": "나솔 예전 bgm도 좋긴 함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.244",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597943&page=1",
+      "postedLabel": "14:05",
+      "postedAt": "2026-10-19T14:05:36+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T05:06:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66146,
+      "source": "dc",
+      "externalId": "6597944",
+      "title": "순자 kill해버려야지 목따버려야지 몇회냐?",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597944&page=1",
+      "postedLabel": "14:06",
+      "postedAt": "2026-10-19T14:06:03+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T05:06:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66147,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90%EA%B0%80-%ED%8F%89%EA%B7%A0%EC%9D%B4%EC%83%81%EC%9D%B8-%EC%9D%B4%EC%9C%A0%E3%84%B9%E3%85%87-n32o6xqo",
+      "title": "34기 영자가 평균이상인 이유..ㄹㅇ",
+      "excerpt": "본판 쌩얼 기준으로는 진짜 평균이상임",
+      "author": "점****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90%EA%B0%80-%ED%8F%89%EA%B7%A0%EC%9D%B4%EC%83%81%EC%9D%B8-%EC%9D%B4%EC%9C%A0%E3%84%B9%E3%85%87-n32o6xqo",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T14:06:11+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T05:06:22+00:00",
       "isSeed": false
     }
   ]
