@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:19:49+00:00",
+  "updatedAt": "2026-10-19T14:20:49+00:00",
   "posts": [
     {
       "id": 1,
@@ -587822,6 +587822,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:19:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67181,
+      "source": "dc",
+      "externalId": "6598862",
+      "title": "영수는 그냥 발정난거 같노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598862&page=1",
+      "postedLabel": "23:19",
+      "postedAt": "2026-10-19T23:19:59+09:00",
+      "views": 19,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:20:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67182,
+      "source": "dc",
+      "externalId": "6598863",
+      "title": "지가 흘려놓고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598863&page=1",
+      "postedLabel": "23:20",
+      "postedAt": "2026-10-19T23:20:01+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:20:49+00:00",
       "isSeed": false
     }
   ]
