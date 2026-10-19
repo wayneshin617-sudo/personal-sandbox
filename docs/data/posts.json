@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:55:01+00:00",
+  "updatedAt": "2026-10-19T01:57:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -780786,6 +780786,63 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:55:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65818,
+      "source": "dc",
+      "externalId": "6597713",
+      "title": "미서 영자 안았을때 좆도 안설렜나봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597713&page=1",
+      "postedLabel": "10:56",
+      "postedAt": "2026-10-19T10:56:09+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:57:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65819,
+      "source": "dc",
+      "externalId": "6597714",
+      "title": "물에서 이러면 뒤에서 ㅅㄱ 다 느껴지고 야릇한데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597714&page=1",
+      "postedLabel": "10:56",
+      "postedAt": "2026-10-19T10:56:17+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:57:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65820,
+      "source": "dc",
+      "externalId": "6597715",
+      "title": "어떻게든 못생긴여자유전자는 도태되는듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597715&page=1",
+      "postedLabel": "10:56",
+      "postedAt": "2026-10-19T10:56:40+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:57:01+00:00",
       "isSeed": false
     }
   ]
