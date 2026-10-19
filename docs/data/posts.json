@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T15:36:48+00:00",
+  "updatedAt": "2026-10-19T15:39:48+00:00",
   "posts": [
     {
       "id": 1,
@@ -591147,6 +591147,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T15:36:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67356,
+      "source": "dc",
+      "externalId": "6599037",
+      "title": "폭렬이는 애비가 되는게 무서운거같은데",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599037&page=1",
+      "postedLabel": "00:38",
+      "postedAt": "2026-10-20T00:38:37+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T15:39:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67357,
+      "source": "dc",
+      "externalId": "6599038",
+      "title": "흡연으로 생사고비가 오지 않는한 못끊는다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599038&page=1",
+      "postedLabel": "00:39",
+      "postedAt": "2026-10-20T00:39:20+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T15:39:48+00:00",
       "isSeed": false
     }
   ]
