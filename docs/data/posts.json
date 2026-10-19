@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T15:01:48+00:00",
+  "updatedAt": "2026-10-19T15:03:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -590577,6 +590577,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T15:01:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67326,
+      "source": "dc",
+      "externalId": "6598996",
+      "title": "계약결혼은 볼만함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598996&page=1",
+      "postedLabel": "00:02",
+      "postedAt": "2026-10-20T00:02:51+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T15:03:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67327,
+      "source": "dc",
+      "externalId": "6598997",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598997&page=1",
+      "postedLabel": "00:03",
+      "postedAt": "2026-10-20T00:03:00+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T15:03:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67328,
+      "source": "dc",
+      "externalId": "6598999",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598999&page=1",
+      "postedLabel": "00:03",
+      "postedAt": "2026-10-20T00:03:35+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T15:03:47+00:00",
       "isSeed": false
     }
   ]
