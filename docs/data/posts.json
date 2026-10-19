@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T20:23:42+00:00",
+  "updatedAt": "2026-10-19T20:29:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -594985,6 +594985,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T20:23:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67744,
+      "source": "dc",
+      "externalId": "6599249",
+      "title": "인간관계 핵심정리 필독",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "80.79",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599249&page=1",
+      "postedLabel": "05:28",
+      "postedAt": "2026-10-20T05:28:44+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T20:29:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67745,
+      "source": "dc",
+      "externalId": "6599250",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "212.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599250&page=1",
+      "postedLabel": "05:29",
+      "postedAt": "2026-10-20T05:29:21+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T20:29:42+00:00",
       "isSeed": false
     }
   ]
