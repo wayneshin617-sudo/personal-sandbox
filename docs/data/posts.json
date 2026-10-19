@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T07:11:53+00:00",
+  "updatedAt": "2026-10-19T07:12:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -791787,6 +791787,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T07:11:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66397,
+      "source": "dc",
+      "externalId": "6598090",
+      "title": "사계 여자들이 미조를 끌어안고싶어서 환장하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598090&page=1",
+      "postedLabel": "16:11",
+      "postedAt": "2026-10-19T16:11:54+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:12:52+00:00",
       "isSeed": false
     }
   ]
