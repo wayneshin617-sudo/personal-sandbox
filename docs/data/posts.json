@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:02:12+00:00",
+  "updatedAt": "2026-10-19T08:03:11+00:00",
   "posts": [
     {
       "id": 1,
@@ -792870,6 +792870,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T08:02:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66454,
+      "source": "dc",
+      "externalId": "6598158",
+      "title": "싸는영상 3만원에 파는 남자.jpg",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598158&page=1",
+      "postedLabel": "17:02",
+      "postedAt": "2026-10-19T17:02:36+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:03:11+00:00",
       "isSeed": false
     }
   ]
