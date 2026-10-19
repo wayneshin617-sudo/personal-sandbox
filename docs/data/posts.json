@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T22:25:42+00:00",
+  "updatedAt": "2026-10-19T22:26:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -595802,6 +595802,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T22:25:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67787,
+      "source": "dc",
+      "externalId": "6599302",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599302&page=1",
+      "postedLabel": "07:25",
+      "postedAt": "2026-10-20T07:25:33+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T22:26:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67788,
+      "source": "dc",
+      "externalId": "6599303",
+      "title": "수염도 숱이 많아야 멋있지 ..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "187.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599303&page=1",
+      "postedLabel": "07:25",
+      "postedAt": "2026-10-20T07:25:54+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T22:26:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67789,
+      "source": "dc",
+      "externalId": "6599304",
+      "title": "난 순자도 약간 쎄하더라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599304&page=1",
+      "postedLabel": "07:25",
+      "postedAt": "2026-10-20T07:25:59+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T22:26:42+00:00",
       "isSeed": false
     }
   ]
