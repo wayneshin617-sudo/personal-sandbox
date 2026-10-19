@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:28:05+00:00",
+  "updatedAt": "2026-10-19T03:29:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -784947,6 +784947,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T03:28:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66037,
+      "source": "qoo",
+      "externalId": "4380196085",
+      "title": "미서&미조한테 정 들었나",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380196085",
+      "postedLabel": "12:28",
+      "postedAt": "2026-10-19T12:28:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:29:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66038,
+      "source": "dc",
+      "externalId": "6597828",
+      "title": "32영식이 젤 부러움....",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "203.229",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597828&page=1",
+      "postedLabel": "12:28",
+      "postedAt": "2026-10-19T12:28:21+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:29:32+00:00",
       "isSeed": false
     }
   ]
