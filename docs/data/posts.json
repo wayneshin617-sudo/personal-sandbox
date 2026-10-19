@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:06:01+00:00",
+  "updatedAt": "2026-10-19T02:07:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -781052,6 +781052,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T02:06:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65832,
+      "source": "dc",
+      "externalId": "6597727",
+      "title": "7옥: 모쏠이라고 했지... 경험이 없다는 건 아닌데요...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "60.119",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597727&page=1",
+      "postedLabel": "11:06",
+      "postedAt": "2026-10-19T11:06:24+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:07:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65833,
+      "source": "dc",
+      "externalId": "6597728",
+      "title": "14영자 오빠와의 시간이 세번중 가장좋았다고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597728&page=1",
+      "postedLabel": "11:06",
+      "postedAt": "2026-10-19T11:06:33+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:07:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65834,
+      "source": "dc",
+      "externalId": "6597729",
+      "title": "남피디가 7옥 모쏠 탈출시키려면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597729&page=1",
+      "postedLabel": "11:06",
+      "postedAt": "2026-10-19T11:06:40+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:07:01+00:00",
       "isSeed": false
     }
   ]
