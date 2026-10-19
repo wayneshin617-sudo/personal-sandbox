@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T07:37:12+00:00",
+  "updatedAt": "2026-10-19T07:38:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -792205,6 +792205,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T07:37:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66419,
+      "source": "dc",
+      "externalId": "6598118",
+      "title": "34기하는데도 아직 31기 그커플 언급하는건 알바맞자나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598118&page=1",
+      "postedLabel": "16:37",
+      "postedAt": "2026-10-19T16:37:14+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:38:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66420,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%9E%90-nvs7yeoq",
+      "title": "34영자",
+      "excerpt": "김영철이랑 사촌이란썰있던데, 진짜임?? ㄷㄷㄷㄷㄷ ㅋㅋ",
+      "author": "|********",
+      "company": "에스제이그룹",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%9E%90-nvs7yeoq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T16:38:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T07:38:12+00:00",
       "isSeed": false
     }
   ]
