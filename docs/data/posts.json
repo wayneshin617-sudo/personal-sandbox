@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:53:00+00:00",
+  "updatedAt": "2026-10-19T01:54:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -780748,6 +780748,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:53:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65816,
+      "source": "dc",
+      "externalId": "6597710",
+      "title": "미서가 미조 7옥 찐한 스킨쉽에 좋아요 했는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597710&page=1",
+      "postedLabel": "10:53",
+      "postedAt": "2026-10-19T10:53:43+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:54:01+00:00",
       "isSeed": false
     }
   ]
