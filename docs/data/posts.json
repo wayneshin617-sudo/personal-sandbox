@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:00:59+00:00",
+  "updatedAt": "2026-10-19T01:03:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -779646,6 +779646,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:00:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65758,
+      "source": "dc",
+      "externalId": "6597653",
+      "title": "미서는 아랍상의 정석인데 냄비들한테 왜케 빨리냐??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597653&page=1",
+      "postedLabel": "10:03",
+      "postedAt": "2026-10-19T10:03:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-19T01:03:59+00:00",
       "isSeed": false
     }
   ]
