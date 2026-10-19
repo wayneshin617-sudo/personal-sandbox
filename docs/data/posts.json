@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:49:02+00:00",
+  "updatedAt": "2026-10-19T01:50:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -780596,6 +780596,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:49:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65808,
+      "source": "dc",
+      "externalId": "6597701",
+      "title": "7옥순 계약결혼가자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597701&page=1",
+      "postedLabel": "10:48",
+      "postedAt": "2026-10-19T10:48:56+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:50:01+00:00",
       "isSeed": false
     }
   ]
