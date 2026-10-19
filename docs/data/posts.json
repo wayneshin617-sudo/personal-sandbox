@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:54:41+00:00",
+  "updatedAt": "2026-10-19T10:55:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -799444,6 +799444,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:54:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66800,
+      "source": "dc",
+      "externalId": "6598470",
+      "title": "사계 외국인특집에 얘가 나와야 재밌는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598470&page=1",
+      "postedLabel": "19:54",
+      "postedAt": "2026-10-19T19:54:54+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:55:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66801,
+      "source": "dc",
+      "externalId": "6598471",
+      "title": "병신들 ㅋ 14영자는 영빈관소속이지만",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598471&page=1",
+      "postedLabel": "19:54",
+      "postedAt": "2026-10-19T19:54:56+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:55:41+00:00",
       "isSeed": false
     }
   ]
