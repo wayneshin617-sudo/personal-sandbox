@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:12:13+00:00",
+  "updatedAt": "2026-10-19T12:13:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -583813,6 +583813,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:12:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66970,
+      "source": "dc",
+      "externalId": "6598593",
+      "title": "출연자가 욕먹을수록 더 잘되지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598593&page=1",
+      "postedLabel": "21:12",
+      "postedAt": "2026-10-19T21:12:31+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:13:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66971,
+      "source": "dc",
+      "externalId": "6598595",
+      "title": "헐..박위 송지은 궁합 성지글 기사남 ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598595&page=1",
+      "postedLabel": "21:12",
+      "postedAt": "2026-10-19T21:12:52+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:13:13+00:00",
       "isSeed": false
     }
   ]
