@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:04:57+00:00",
+  "updatedAt": "2026-10-19T14:05:56+00:00",
   "posts": [
     {
       "id": 1,
@@ -586853,6 +586853,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:04:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67130,
+      "source": "dc",
+      "externalId": "6598807",
+      "title": "헉 계곡이다ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598807&page=1",
+      "postedLabel": "23:05",
+      "postedAt": "2026-10-19T23:05:12+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:05:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67131,
+      "source": "dc",
+      "externalId": "6598808",
+      "title": "풍경은 너무 좋다",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598808&page=1",
+      "postedLabel": "23:05",
+      "postedAt": "2026-10-19T23:05:13+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:05:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67132,
+      "source": "dc",
+      "externalId": "6598809",
+      "title": "저새끼 영주권자 아님?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.172",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598809&page=1",
+      "postedLabel": "23:05",
+      "postedAt": "2026-10-19T23:05:26+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:05:56+00:00",
       "isSeed": false
     }
   ]
