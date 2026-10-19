@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:07:22+00:00",
+  "updatedAt": "2026-10-19T04:08:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -785878,6 +785878,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T04:07:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66086,
+      "source": "qoo",
+      "externalId": "4380233888",
+      "title": "영자 163/46 이래",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380233888",
+      "postedLabel": "13:08",
+      "postedAt": "2026-10-19T13:08:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:08:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66087,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EC%82%AC%EA%B3%84-%EB%A0%88%EC%A0%84%EB%93%9C-%EA%B8%B0%EC%88%98%EB%8A%94-%EC%96%B4%EB%94%94%EC%9E%84-zt5w4cql",
+      "title": "나솔 사계 레전드 기수는 어디임?",
+      "excerpt": "나솔은 16기가 레전드 기수고, 나솔 사계 한번도 본젇 없는데 레전드 기수 어디임? 어디부터 보면 됨?",
+      "author": "k*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%82%AC%EA%B3%84-%EB%A0%88%EC%A0%84%EB%93%9C-%EA%B8%B0%EC%88%98%EB%8A%94-%EC%96%B4%EB%94%94%EC%9E%84-zt5w4cql",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T13:08:10+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T04:08:23+00:00",
       "isSeed": false
     }
   ]
