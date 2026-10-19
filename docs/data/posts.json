@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:05:41+00:00",
+  "updatedAt": "2026-10-19T09:06:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -795720,6 +795720,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:05:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66604,
+      "source": "dc",
+      "externalId": "6598269",
+      "title": "남씨 7옥 존나 아끼네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598269&page=1",
+      "postedLabel": "18:05",
+      "postedAt": "2026-10-19T18:05:47+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-19T09:06:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66605,
+      "source": "dc",
+      "externalId": "6598270",
+      "title": "미조가 미쳤다고 7옥을 일년 기다리겠노 이거야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.75",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598270&page=1",
+      "postedLabel": "18:05",
+      "postedAt": "2026-10-19T18:05:54+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:06:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66606,
+      "source": "dc",
+      "externalId": "6598271",
+      "title": "7옥이 입고온옷들",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598271&page=1",
+      "postedLabel": "18:06",
+      "postedAt": "2026-10-19T18:06:20+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:06:41+00:00",
       "isSeed": false
     }
   ]
