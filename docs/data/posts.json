@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:42:41+00:00",
+  "updatedAt": "2026-10-19T09:43:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -796841,6 +796841,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:42:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66663,
+      "source": "dc",
+      "externalId": "6598335",
+      "title": "아이를 가지지 못하는여자는 평생 괴로울수밖에 없다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598335&page=1",
+      "postedLabel": "18:43",
+      "postedAt": "2026-10-19T18:43:21+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:43:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66664,
+      "source": "blind",
+      "externalId": "/kr/post/91%EB%85%84%EC%83%9D-%EC%97%AC%EC%9E%90%EC%9D%B8%EB%8D%B0-%EB%82%98-%EA%B2%B0%ED%98%BC%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-np3l13kj",
+      "title": "91년생 여자인데 나 결혼할 수 있을까?",
+      "excerpt": "2026년도 이제 얼마 남지 않았고, 내년이면 벌써 37세야. 최근에는 외로운 마음이 들어서 그런가 모임에 나가도, 친한 남동생을 만나도 나를 이성적으로 느끼는지 안 느끼는지를 생각하고 있더라고. 외로워서 사람만나는건 정말 위험하잖아. 그래서 이런 마음 알아차리고 잠잠해지니 다시 이정도면 그냥 혼자 살아야하나 라는 생각이 드는데 나와 비슷한 고민하는 사람 있니.. 사실 30대 초반과 중반 진입할때 까지는 결혼에 절실하지도 않았고 연애도 20대보다는 아니지만 그렇게 많이 끊기지 않고 했는데 내가 먼저 다가가는 성향이 못 되고 다",
+      "author": "월******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/91%EB%85%84%EC%83%9D-%EC%97%AC%EC%9E%90%EC%9D%B8%EB%8D%B0-%EB%82%98-%EA%B2%B0%ED%98%BC%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-np3l13kj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T18:43:29+09:00",
+      "views": 20,
+      "recommends": null,
+      "comments": 2,
+      "firstSeenAt": "2026-10-19T09:43:41+00:00",
       "isSeed": false
     }
   ]
