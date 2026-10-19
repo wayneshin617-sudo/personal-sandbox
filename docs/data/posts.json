@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T21:08:42+00:00",
+  "updatedAt": "2026-10-19T21:18:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -595308,6 +595308,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T21:08:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67761,
+      "source": "dc",
+      "externalId": "6599268",
+      "title": "한남은 흡연과 코골이 기본이다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "59.8",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599268&page=1",
+      "postedLabel": "06:18",
+      "postedAt": "2026-10-20T06:18:10+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T21:18:42+00:00",
       "isSeed": false
     }
   ]
