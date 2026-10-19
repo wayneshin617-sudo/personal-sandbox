@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:52:22+00:00",
+  "updatedAt": "2026-10-19T04:53:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -786771,6 +786771,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T04:52:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66133,
+      "source": "dc",
+      "externalId": "6597929",
+      "title": "난 여자들 발문신 좋더라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.220",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597929&page=1",
+      "postedLabel": "13:52",
+      "postedAt": "2026-10-19T13:52:31+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:53:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66134,
+      "source": "dc",
+      "externalId": "6597930",
+      "title": "순자 유튭에 나와서 말하기를 예전엔 책 다 읽고 표지 작업",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597930&page=1",
+      "postedLabel": "13:52",
+      "postedAt": "2026-10-19T13:52:42+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:53:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66135,
+      "source": "blind",
+      "externalId": "/kr/post/2n-%EC%97%B0%EB%9D%BD%ED%95%A0%EC%82%AC%EB%9E%8C-xc2iabac",
+      "title": "2n 연락할사람",
+      "excerpt": "2n 남 없어?? 쪽지줘바",
+      "author": "e****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/2n-%EC%97%B0%EB%9D%BD%ED%95%A0%EC%82%AC%EB%9E%8C-xc2iabac",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T13:53:10+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T04:53:22+00:00",
       "isSeed": false
     }
   ]
