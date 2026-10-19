@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:30:13+00:00",
+  "updatedAt": "2026-10-19T12:32:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -584155,6 +584155,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:30:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66988,
+      "source": "dc",
+      "externalId": "6598625",
+      "title": "아이구야 이제 연기도 하시네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598625&page=1",
+      "postedLabel": "21:31",
+      "postedAt": "2026-10-19T21:31:26+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:32:14+00:00",
       "isSeed": false
     }
   ]
