@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:21:42+00:00",
+  "updatedAt": "2026-10-19T09:22:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -796233,6 +796233,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:21:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66631,
+      "source": "dc",
+      "externalId": "6598298",
+      "title": "순자는 가면성우울증 확률이 높아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598298&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-19T18:21:52+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:22:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66632,
+      "source": "dc",
+      "externalId": "6598299",
+      "title": "7옥처럼 재산이 너무 많아도 결혼하기 힘들듯",
+      "excerpt": "",
+      "author": "내갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598299&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-10-19T18:21:56+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:22:41+00:00",
       "isSeed": false
     }
   ]
