@@ -1,3 +1,5 @@
+const PAGE = 50;
+
 const state = {
   source: "all",
   q: "",
@@ -9,12 +11,13 @@ const state = {
   reloading: false,
   maxId: 0,
   ready: false,
-  limit: 120,
+  limit: PAGE,
 };
 
 const allPosts = [];
 const seen = new Set();
 let stamp = "";
+let matchCache = { key: "", list: [] };
 
 const scroller = document.querySelector("#scroller");
 const feed = document.querySelector("#feed");
@@ -54,12 +57,30 @@ function matches(post) {
 }
 
 function timeValue(post) {
+  if (post._t != null) return post._t;
   const parsed = Date.parse(post.postedAt || post.firstSeenAt || "");
-  return Number.isFinite(parsed) ? parsed : 0;
+  post._t = Number.isFinite(parsed) ? parsed : 0;
+  return post._t;
+}
+
+function matchingKey() {
+  const last = allPosts[allPosts.length - 1];
+  return `${state.source}|${state.q}|${allPosts.length}|${last?.id || 0}`;
 }
 
 function matchingAsc() {
-  return allPosts.filter(matches).sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
+  const key = matchingKey();
+  if (matchCache.key === key) return matchCache.list;
+  if (state.source === "all" && !state.q) {
+    matchCache = { key, list: allPosts };
+    return allPosts;
+  }
+  const list = [];
+  for (const post of allPosts) {
+    if (matches(post)) list.push(post);
+  }
+  matchCache = { key, list };
+  return list;
 }
 
 function kstDay(iso) {
@@ -234,11 +255,35 @@ function updateJump() {
   jump.textContent = state.pending > 0 ? `새 댓글 ${numberFormat.format(state.pending)}` : "맨 아래로";
 }
 
+const olderSentinel = document.createElement("div");
+olderSentinel.className = "feed-older";
+olderSentinel.hidden = true;
+
+function syncOlderSentinel() {
+  if (!allPosts.length) {
+    olderSentinel.hidden = true;
+    olderSentinel.textContent = "";
+    return;
+  }
+  olderSentinel.hidden = false;
+  if (state.loadingOlder) olderSentinel.textContent = "이전 글 불러오는 중…";
+  else if (state.done) olderSentinel.textContent = "처음 글까지 다 봤습니다";
+  else olderSentinel.textContent = `위로 올리면 이전 글 ${PAGE}개가 붙습니다`;
+}
+
 function renderAll(posts) {
-  feed.replaceChildren();
   seen.clear();
-  for (const post of posts) addOne(post, false);
+  const fragment = document.createDocumentFragment();
+  fragment.append(olderSentinel);
+  for (const post of posts) {
+    if (post.id > state.maxId) state.maxId = post.id;
+    if (seen.has(post.id) || !matches(post)) continue;
+    fragment.append(renderMsg(post, false));
+    seen.add(post.id);
+  }
+  feed.replaceChildren(fragment);
   showEmpty();
+  syncOlderSentinel();
   requestAnimationFrame(scrollToBottom);
 }
 
@@ -291,25 +336,29 @@ function loadOlder() {
   const index = asc.findIndex((post) => String(post.id) === oldest.dataset.id);
   if (index <= 0) {
     state.done = true;
+    syncOlderSentinel();
     return;
   }
-  const start = Math.max(0, index - 120);
+  const start = Math.max(0, index - PAGE);
   const older = asc.slice(start, index);
   state.loadingOlder = true;
+  syncOlderSentinel();
   const beforeHeight = scroller.scrollHeight;
   const fragment = document.createDocumentFragment();
   for (const post of older) {
-    if (seen.has(post.id) || !matches(post)) continue;
+    if (seen.has(post.id)) continue;
     fragment.append(renderMsg(post, false));
     seen.add(post.id);
     if (post.id > state.maxId) state.maxId = post.id;
   }
-  const first = feed.firstChild;
-  if (first) feed.insertBefore(fragment, first);
-  else feed.append(fragment);
+  feed.insertBefore(fragment, olderSentinel.nextSibling);
   if (start === 0) state.done = true;
   scroller.scrollTop += scroller.scrollHeight - beforeHeight;
   state.loadingOlder = false;
+  syncOlderSentinel();
+  if (!state.done && olderSentinel.getBoundingClientRect().bottom > scroller.getBoundingClientRect().top + 8) {
+    requestAnimationFrame(loadOlder);
+  }
 }
 
 function relative(iso) {
@@ -496,7 +545,7 @@ function applyQuery(word) {
   input.value = word;
   clearBtn.hidden = false;
   state.q = word;
-  state.limit = 120;
+  state.limit = PAGE;
   reload();
 }
 
@@ -886,7 +935,9 @@ function renderStatus(board) {
 }
 
 function replacePosts(posts) {
+  posts.sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
   allPosts.splice(0, allPosts.length, ...posts);
+  matchCache = { key: "", list: [] };
   floodStamp = "";
 }
 
@@ -998,7 +1049,7 @@ function scheduleSearch() {
   window.clearTimeout(searchTimer);
   searchTimer = window.setTimeout(() => {
     state.q = input.value.trim();
-    state.limit = 120;
+    state.limit = PAGE;
     reload();
   }, 180);
 }
@@ -1027,7 +1078,7 @@ chips.forEach((chip) => {
   chip.addEventListener("click", () => {
     state.source = chip.dataset.source;
     chips.forEach((item) => item.setAttribute("aria-pressed", String(item === chip)));
-    state.limit = 120;
+    state.limit = PAGE;
     reload();
   });
 });
@@ -1046,14 +1097,14 @@ input.addEventListener("input", () => {
 clearBtn.addEventListener("click", () => {
   input.value = "";
   state.q = "";
-  state.limit = 120;
+  state.limit = PAGE;
   input.focus();
   reload();
 });
 document.querySelector("#composer").addEventListener("submit", (event) => {
   event.preventDefault();
   state.q = input.value.trim();
-  state.limit = 120;
+  state.limit = PAGE;
   reload();
 });
 
@@ -1074,8 +1125,17 @@ scroller.addEventListener("scroll", () => {
   state.pinned = room <= 8 || distanceFromBottom() < 72;
   if (state.pinned) state.pending = 0;
   updateJump();
-  if (room > 0 && scroller.scrollTop < 48) loadOlder();
 });
+
+if (window.IntersectionObserver) {
+  new IntersectionObserver((entries) => {
+    if (entries.some((entry) => entry.isIntersecting)) loadOlder();
+  }, { root: scroller, rootMargin: "160px 0px 0px 0px" }).observe(olderSentinel);
+} else {
+  scroller.addEventListener("scroll", () => {
+    if (overflow() > 0 && scroller.scrollTop < 64) loadOlder();
+  });
+}
 
 document.addEventListener("keydown", (event) => {
   if (event.key === "/" && document.activeElement !== input) {
@@ -1207,10 +1267,8 @@ function curvePoint(t, p0, p1, p2, p3) {
 
 let pairLayouts = new Map();
 let pairLayoutKey = "";
-let pairBase = { w: 120, h: 48 };
-const PAIR_CHIP_ASPECT = 2.5;
-const PAIR_CHIP_MAX_H = 52;
-const PAIR_FOCUS_MAX_SCALE = 1.35;
+let pairBase = { w: 80, h: 100 };
+const PAIR_CARD_ASPECT = 58 / 72;
 
 function pairSide(id) {
   return (pairData?.men || []).some((person) => person.id === id) ? "men" : "women";
@@ -1228,7 +1286,7 @@ function pairNear(id) {
 }
 
 function boardColumns(width, height) {
-  const gutter = Math.max(96, Math.min(width * 0.42, 420));
+  const gutter = Math.max(88, Math.min(width * 0.22, 240));
   const colW = (width - gutter) / 2;
   return {
     men: { x: 0, y: 0, w: colW, h: height },
@@ -1239,35 +1297,30 @@ function boardColumns(width, height) {
 function restingBase(width, height) {
   const col = boardColumns(width, height).men;
   const gap = 8;
-  let cardH = Math.min(PAIR_CHIP_MAX_H, (height - gap * 5) / 6);
-  let cardW = cardH * PAIR_CHIP_ASPECT;
+  let cardH = (height - gap * 5) / 6;
+  let cardW = cardH * PAIR_CARD_ASPECT;
   if (cardW > col.w) {
     cardW = col.w;
-    cardH = cardW / PAIR_CHIP_ASPECT;
+    cardH = cardW / PAIR_CARD_ASPECT;
   }
-  return { w: Math.max(72, cardW), h: Math.max(30, cardH) };
+  return { w: Math.max(46, cardW), h: Math.max(58, cardH) };
 }
 
-function stackBoxes(people, side, bounds, base, maxScale = 1) {
+function stackBoxes(people, side, bounds, base) {
   const boxes = {};
   const count = people.length;
   if (!count) return boxes;
-  const gapMin = count > 1 ? 8 : 0;
+  const gap = count > 1 ? 8 : 0;
   const aspect = base.w / base.h;
-  let cardH = (bounds.h - gapMin * (count - 1)) / count;
+  let cardH = (bounds.h - gap * (count - 1)) / count;
   let cardW = cardH * aspect;
   if (cardW > bounds.w) {
     cardW = bounds.w;
     cardH = cardW / aspect;
   }
-  const scale = Math.min(cardW / base.w, maxScale);
-  cardW = base.w * scale;
-  cardH = base.h * scale;
-  // Name chips are short, so spread them over the column instead of bunching them in the middle.
-  const spread = count > 1 ? Math.min((bounds.h - cardH * count) / (count - 1), cardH * 1.3) : 0;
-  const gap = Math.max(gapMin, spread);
   const stackH = cardH * count + gap * (count - 1);
   let y = bounds.y + Math.max(0, (bounds.h - stackH) / 2);
+  const scale = cardW / base.w;
   for (const person of people) {
     const x = side === "men" ? bounds.x + bounds.w - cardW : bounds.x;
     boxes[person.id] = { x, y, scale, opacity: 1 };
@@ -1288,11 +1341,7 @@ function layoutFor(focusId, width, height, base) {
   for (const [id, box] of Object.entries(rest)) boxes[id] = { ...box, opacity: 0 };
   const men = pairData.men.filter((person) => near.has(person.id));
   const women = pairData.women.filter((person) => near.has(person.id));
-  Object.assign(
-    boxes,
-    stackBoxes(men, "men", columns.men, base, PAIR_FOCUS_MAX_SCALE),
-    stackBoxes(women, "women", columns.women, base, PAIR_FOCUS_MAX_SCALE),
-  );
+  Object.assign(boxes, stackBoxes(men, "men", columns.men, base), stackBoxes(women, "women", columns.women, base));
   return { boxes };
 }
 
@@ -1302,9 +1351,12 @@ function pairCard(person) {
   button.className = "pair-card";
   button.dataset.id = person.id;
   button.style.setProperty("--glow", PAIR_COLORS[person.id] || "#ffd0e0");
+  const photo = document.createElement("img");
+  photo.src = new URL(person.photo, document.baseURI).href;
+  photo.alt = "";
   const name = document.createElement("strong");
   name.textContent = person.name;
-  button.append(name);
+  button.append(photo, name);
   button.addEventListener("pointerenter", (event) => {
     if (document.documentElement.classList.contains("mobile")) return;
     if (event.pointerType !== "mouse") return;

@@ -177,6 +177,6 @@ html.mobile .poke-grid {
   gap: 12px 8px;
 }
 
-html.mobile .pair-card strong { font-size: 14px; }
+html.mobile .pair-card strong { font-size: 12px; }
 html.mobile .poke-head strong { font-size: 18px; }
 html.mobile .poke-hp b { font-size: 20px; }
