@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T18:38:32+00:00",
+  "updatedAt": "2026-10-19T18:41:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -592895,6 +592895,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T18:38:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67634,
+      "source": "dc",
+      "externalId": "6599198",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "135.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599198&page=1",
+      "postedLabel": "03:40",
+      "postedAt": "2026-10-20T03:40:35+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T18:41:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67635,
+      "source": "dc",
+      "externalId": "6599199",
+      "title": "아 이 사람은 100% 절제력이 약한 사람이다",
+      "excerpt": "",
+      "author": "이재명시발놈",
+      "company": "",
+      "ip": "211.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599199&page=1",
+      "postedLabel": "03:41",
+      "postedAt": "2026-10-20T03:41:14+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T18:41:32+00:00",
       "isSeed": false
     }
   ]
