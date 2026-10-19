@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:58:23+00:00",
+  "updatedAt": "2026-10-19T03:59:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -785631,6 +785631,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T03:58:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66073,
+      "source": "dc",
+      "externalId": "6597864",
+      "title": "영철은 현숙에게 까이고 즙짜는거아닌가 ㅎㅎ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.85",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597864&page=1",
+      "postedLabel": "12:58",
+      "postedAt": "2026-10-19T12:58:12+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:59:23+00:00",
       "isSeed": false
     }
   ]
