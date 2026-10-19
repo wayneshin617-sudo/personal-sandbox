@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T22:06:43+00:00",
+  "updatedAt": "2026-10-19T22:08:43+00:00",
   "posts": [
     {
       "id": 1,
@@ -595631,6 +595631,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T22:06:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67778,
+      "source": "dc",
+      "externalId": "6599289",
+      "title": "이런거 믿냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599289&page=1",
+      "postedLabel": "07:08",
+      "postedAt": "2026-10-20T07:08:18+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T22:08:43+00:00",
       "isSeed": false
     }
   ]
