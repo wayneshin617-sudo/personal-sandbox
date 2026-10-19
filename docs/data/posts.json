@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T11:21:14+00:00",
+  "updatedAt": "2026-10-19T11:22:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -801534,6 +801534,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T11:21:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66910,
+      "source": "dc",
+      "externalId": "6598496",
+      "title": "남피디 미서7옥으로 <우정은 계속된다>라도 찍자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598496&page=1",
+      "postedLabel": "20:21",
+      "postedAt": "2026-10-19T20:21:10+09:00",
+      "views": 14,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:22:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66911,
+      "source": "dc",
+      "externalId": "6598497",
+      "title": "7옥 재산 만점이 놀랍네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598497&page=1",
+      "postedLabel": "20:21",
+      "postedAt": "2026-10-19T20:21:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:22:13+00:00",
       "isSeed": false
     }
   ]
