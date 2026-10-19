@@ -1056,23 +1056,22 @@ function scheduleSearch() {
 
 const initial = new URLSearchParams(location.search);
 const initialQuery = (initial.get("q") || "").slice(0, 80);
-const initialSource = initial.get("source");
 if (initialQuery) {
   input.value = initialQuery;
   state.q = initialQuery.trim();
   clearBtn.hidden = false;
 }
-if (initialSource === "dc" || initialSource === "blind" || initialSource === "qoo" || initialSource === "yt") state.source = initialSource;
 chips.forEach((chip) => chip.setAttribute("aria-pressed", String(chip.dataset.source === state.source)));
 
 function syncUrl() {
   const url = new URL(location.href);
   if (state.q) url.searchParams.set("q", state.q);
   else url.searchParams.delete("q");
-  if (state.source !== "all") url.searchParams.set("source", state.source);
-  else url.searchParams.delete("source");
+  url.searchParams.delete("source");
   history.replaceState(null, "", url);
 }
+
+syncUrl();
 
 chips.forEach((chip) => {
   chip.addEventListener("click", () => {
