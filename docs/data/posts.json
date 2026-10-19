@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:15:01+00:00",
+  "updatedAt": "2026-10-19T02:17:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -781451,6 +781451,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T02:15:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65853,
+      "source": "dc",
+      "externalId": "6597750",
+      "title": "방금 나는 솔로33기 출연진 전부 인스타 싹다 차단박음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597750&page=1",
+      "postedLabel": "11:16",
+      "postedAt": "2026-10-19T11:16:00+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:17:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65854,
+      "source": "dc",
+      "externalId": "6597752",
+      "title": "7옥 이쁨?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597752&page=1",
+      "postedLabel": "11:16",
+      "postedAt": "2026-10-19T11:16:19+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:17:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65855,
+      "source": "dc",
+      "externalId": "6597753",
+      "title": "26기 관상 이즈 사이언스",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597753&page=1",
+      "postedLabel": "11:16",
+      "postedAt": "2026-10-19T11:16:30+09:00",
+      "views": 9,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:17:00+00:00",
       "isSeed": false
     }
   ]
