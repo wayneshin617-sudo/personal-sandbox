@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:36:42+00:00",
+  "updatedAt": "2026-10-19T08:38:40+00:00",
   "posts": [
     {
       "id": 1,
@@ -794789,6 +794789,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T08:36:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66555,
+      "source": "dc",
+      "externalId": "6598213",
+      "title": "미지 이짤에서 이캐릭터 닮음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "220.93",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598213&page=1",
+      "postedLabel": "17:37",
+      "postedAt": "2026-10-19T17:37:41+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:38:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66556,
+      "source": "dc",
+      "externalId": "6598214",
+      "title": "약사 13영숙이 결혼소식 없는게 의아하네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598214&page=1",
+      "postedLabel": "17:37",
+      "postedAt": "2026-10-19T17:37:55+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:38:40+00:00",
       "isSeed": false
     }
   ]
