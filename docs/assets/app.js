@@ -1,5 +1,5 @@
 const PAGE = 50;
-/* 병목: 과거 글을 무한히 DOM에 붙이면 스크롤이 무거워진다. 가상 스크롤 대신 화면에 최대 150개만 둔다. */
+/* 맨 아래에 붙어 실시간으로 받을 때만 너무 쌓인 맨 위 글을 걷는다. 위로 과거 글을 붙일 때는 아래 최신을 지우지 않는다. */
 const MAX_FEED = 150;
 
 const state = {
@@ -14,7 +14,6 @@ const state = {
   maxId: 0,
   ready: false,
   limit: PAGE,
-  trimmed: false,
 };
 
 const allPosts = [];
@@ -320,12 +319,6 @@ function distanceFromBottom() {
 }
 
 function scrollToBottom() {
-  if (state.trimmed) {
-    state.limit = PAGE;
-    state.trimmed = false;
-    reload();
-    return;
-  }
   scroller.scrollTop = scroller.scrollHeight;
   state.pinned = true;
   state.pending = 0;
@@ -370,7 +363,6 @@ function renderAll(posts) {
   }
   feedList.replaceChildren(fragment);
   showEmpty();
-  state.trimmed = false;
   requestAnimationFrame(scrollToBottom);
 }
 
@@ -427,20 +419,6 @@ function trimOldestIfPinned() {
   state.done = false;
 }
 
-function trimNewestIfNeeded() {
-  const msgs = feed.querySelectorAll(".msg");
-  if (msgs.length <= MAX_FEED) return;
-  const extra = msgs.length - MAX_FEED;
-  for (let i = 0; i < extra; i += 1) {
-    const el = msgs[msgs.length - 1 - i];
-    seen.delete(Number(el.dataset.id));
-    el.remove();
-  }
-  state.trimmed = true;
-  state.pinned = false;
-  updateJump();
-}
-
 function loadOlder() {
   if (state.loadingOlder || state.done) return;
   const oldest = feedList.querySelector(".msg");
@@ -463,10 +441,10 @@ function loadOlder() {
     seen.add(post.id);
     if (post.id > state.maxId) state.maxId = post.id;
   }
-  /* 맨 위 글 앞에만 과거 글을 붙인다. IntersectionObserver rAF 연쇄 로드는 하지 않는다. */
+  /* 맨 위 글 앞에만 과거 글을 붙인다. 아래 최신 글은 그대로 둔다. */
   feedList.prepend(fragment);
+  state.limit = feedList.querySelectorAll(".msg").length;
   if (start === 0) state.done = true;
-  trimNewestIfNeeded();
   scroller.scrollTop += scroller.scrollHeight - beforeHeight;
   state.loadingOlder = false;
   hideLoader();
