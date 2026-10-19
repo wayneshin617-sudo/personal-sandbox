@@ -1347,9 +1347,9 @@ mark {
 .stage > *:not(.solo-backdrop):not(.solo-loader) { position: relative; z-index: 1; }
 
 .solo-loader {
-  position: absolute;
+  position: fixed;
   inset: 0;
-  z-index: 30;
+  z-index: 80;
   display: grid;
   place-items: center;
   background: color-mix(in srgb, var(--bg-deep) 78%, transparent);
