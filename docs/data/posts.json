@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:38:50+00:00",
+  "updatedAt": "2026-10-19T14:39:49+00:00",
   "posts": [
     {
       "id": 1,
@@ -588905,6 +588905,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:38:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67238,
+      "source": "qoo",
+      "externalId": "4380901123",
+      "title": "ㄹㅇ 과해ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4380901123",
+      "postedLabel": "23:39",
+      "postedAt": "2026-10-19T23:39:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:39:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67239,
+      "source": "dc",
+      "externalId": "6598921",
+      "title": "하 영수는 24시간 우쭈쭈해줘야 하는 스타일이구나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598921&page=1",
+      "postedLabel": "23:39",
+      "postedAt": "2026-10-19T23:39:15+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:39:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67240,
+      "source": "dc",
+      "externalId": "6598922",
+      "title": "표정 ㅋㅋㅋㅋ 진저리",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.60",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598922&page=1",
+      "postedLabel": "23:39",
+      "postedAt": "2026-10-19T23:39:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:39:49+00:00",
       "isSeed": false
     }
   ]
