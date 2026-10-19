@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T17:07:32+00:00",
+  "updatedAt": "2026-10-19T17:08:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -591831,6 +591831,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T17:07:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67578,
+      "source": "qoo",
+      "externalId": "4380996681",
+      "title": "영수는 애먼 곳에 힘쓰지말고 담배 끊지",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380996681",
+      "postedLabel": "02:07",
+      "postedAt": "2026-10-20T02:07:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:08:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67579,
+      "source": "dc",
+      "externalId": "6599131",
+      "title": "치아갈아엎은 커플은 옥순이가 귀인이네 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599131&page=1",
+      "postedLabel": "02:07",
+      "postedAt": "2026-10-20T02:07:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:08:31+00:00",
       "isSeed": false
     }
   ]
