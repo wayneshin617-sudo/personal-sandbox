@@ -1,4 +1,6 @@
 const PAGE = 50;
+/* 병목: 과거 글을 무한히 DOM에 붙이면 스크롤이 무거워진다. 가상 스크롤 대신 화면에 최대 150개만 둔다. */
+const MAX_FEED = 150;
 
 const state = {
   source: "all",
@@ -12,12 +14,18 @@ const state = {
   maxId: 0,
   ready: false,
   limit: PAGE,
+  trimmed: false,
 };
 
 const allPosts = [];
 const seen = new Set();
 let stamp = "";
 let matchCache = { key: "", list: [] };
+let visibleCache = { key: "", list: [] };
+let statusKey = "";
+let keywordStamp = "";
+let realtimeAt = 0;
+let wordCache = { key: "", rows: [] };
 
 const scroller = document.querySelector("#scroller");
 const feed = document.querySelector("#feed");
@@ -56,6 +64,20 @@ function matches(post) {
   return hay.includes(state.q.toLowerCase());
 }
 
+/* 사계/홍수/스크린 결과를 글 객체에 붙인다. flood 집합이 바뀌면 키만 달라져 다시 계산한다. */
+function visiblePosts() {
+  const last = allPosts[allPosts.length - 1];
+  const key = `${allPosts.length}:${last?.id || 0}:${floodStamp}`;
+  if (visibleCache.key === key) return visibleCache.list;
+  refreshFlood(allPosts);
+  const list = [];
+  for (const post of allPosts) {
+    if (isVisiblePost(post)) list.push(post);
+  }
+  visibleCache = { key, list };
+  return list;
+}
+
 function timeValue(post) {
   if (post._t != null) return post._t;
   const parsed = Date.parse(post.postedAt || post.firstSeenAt || "");
@@ -65,33 +87,43 @@ function timeValue(post) {
 
 function matchingKey() {
   const last = allPosts[allPosts.length - 1];
-  return `${state.source}|${state.q}|${allPosts.length}|${last?.id || 0}`;
+  return `${state.source}|${state.q}|${allPosts.length}|${last?.id || 0}|${floodStamp}`;
 }
 
 function matchingAsc() {
   const key = matchingKey();
   if (matchCache.key === key) return matchCache.list;
+  /* 병목: 전체+검색없음이어도 allPosts를 그대로 쓰면 사계 글이 50개 슬롯을 차지한다. */
+  const base = visiblePosts();
   if (state.source === "all" && !state.q) {
-    matchCache = { key, list: allPosts };
-    return allPosts;
+    matchCache = { key, list: base };
+    return base;
   }
+  const needle = state.q.toLowerCase();
   const list = [];
-  for (const post of allPosts) {
-    if (matches(post)) list.push(post);
+  for (const post of base) {
+    if (state.source !== "all" && post.source !== state.source) continue;
+    if (needle) {
+      const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();
+      if (!hay.includes(needle)) continue;
+    }
+    list.push(post);
   }
   matchCache = { key, list };
   return list;
 }
 
 function kstDay(iso) {
-  const parsed = Date.parse(iso || "");
+  const parsed = typeof iso === "number" ? iso : Date.parse(iso || "");
   if (!Number.isFinite(parsed)) return "";
-  return new Intl.DateTimeFormat("en-CA", {
-    timeZone: "Asia/Seoul",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(new Date(parsed));
+  /* 병목: Intl.DateTimeFormat을 글마다 만들면 폴링마다 수만 번 할당된다. KST는 DST가 없다. */
+  return new Date(parsed + 9 * 3600000).toISOString().slice(0, 10);
+}
+
+function postDay(post) {
+  if (post._day != null) return post._day;
+  post._day = kstDay(post.postedAt || post.firstSeenAt);
+  return post._day;
 }
 
 function highlight(el, text) {
@@ -146,11 +178,12 @@ function renderMsg(post, animate) {
   msg.dataset.time = String(timeValue(post));
   if ((post.recommends || 0) >= 15 || (post.comments || 0) >= 40) msg.classList.add("hot");
 
-  const avatar = document.createElement("img");
+  /* 로고는 CSS background로 한 번만 디코드한다. 글마다 <img>를 만들면 디코드·레이아웃이 반복된다. */
+  const avatar = document.createElement("span");
   avatar.className = "avatar " + post.source;
   const source = SOURCES[post.source] || SOURCES.dc;
-  avatar.src = asset(source.logo);
-  avatar.alt = source.alt;
+  avatar.setAttribute("role", "img");
+  avatar.setAttribute("aria-label", source.alt);
   avatar.title = source.title;
 
   const who = document.createElement("div");
@@ -205,8 +238,8 @@ function renderMsg(post, animate) {
 }
 
 function showEmpty() {
-  feed.querySelector(".empty")?.remove();
-  if (feed.querySelector(".msg")) return;
+  feedList.querySelector(".empty")?.remove();
+  if (feedList.querySelector(".msg")) return;
   const box = document.createElement("div");
   box.className = "empty";
   const strong = document.createElement("strong");
@@ -219,15 +252,16 @@ function showEmpty() {
     copy.textContent = "이 페이지를 연 사람 모두 같은 목록을 봅니다.";
   }
   box.append(strong, copy);
-  feed.append(box);
+  feedList.append(box);
 }
 
 function addOne(post, animate) {
   if (post.id > state.maxId) state.maxId = post.id;
   if (seen.has(post.id) || !matches(post)) return false;
-  feed.querySelector(".empty")?.remove();
-  feed.append(renderMsg(post, animate));
+  feedList.querySelector(".empty")?.remove();
+  feedList.append(renderMsg(post, animate));
   seen.add(post.id);
+  if (state.pinned) trimOldestIfPinned();
   return true;
 }
 
@@ -240,6 +274,12 @@ function distanceFromBottom() {
 }
 
 function scrollToBottom() {
+  if (state.trimmed) {
+    state.limit = PAGE;
+    state.trimmed = false;
+    reload();
+    return;
+  }
   scroller.scrollTop = scroller.scrollHeight;
   state.pinned = true;
   state.pending = 0;
@@ -255,35 +295,36 @@ function updateJump() {
   jump.textContent = state.pending > 0 ? `새 댓글 ${numberFormat.format(state.pending)}` : "맨 아래로";
 }
 
-const olderSentinel = document.createElement("div");
-olderSentinel.className = "feed-older";
-olderSentinel.hidden = true;
-
-function syncOlderSentinel() {
-  if (!allPosts.length) {
-    olderSentinel.hidden = true;
-    olderSentinel.textContent = "";
-    return;
-  }
-  olderSentinel.hidden = false;
-  if (state.loadingOlder) olderSentinel.textContent = "이전 글 불러오는 중…";
-  else if (state.done) olderSentinel.textContent = "처음 글까지 다 봤습니다";
-  else olderSentinel.textContent = `위로 올리면 이전 글 ${PAGE}개가 붙습니다`;
-}
+const feedHead = document.createElement("div");
+feedHead.className = "feed-head";
+feedHead.id = "feed-head";
+feedHead.setAttribute("aria-hidden", "true");
+const feedHeadInner = document.createElement("div");
+feedHeadInner.className = "feed-head-inner";
+const feedHeadLogo = document.createElement("img");
+feedHeadLogo.className = "feed-head-logo";
+feedHeadLogo.src = asset("assets/favicon.svg");
+feedHeadLogo.alt = "";
+const feedHeadCopy = document.createElement("p");
+feedHeadCopy.textContent = "왈가왈부 추가";
+feedHeadInner.append(feedHeadLogo, feedHeadCopy);
+feedHead.append(feedHeadInner);
+const feedList = document.createElement("div");
+feedList.id = "feed-list";
+feed.replaceChildren(feedHead, feedList);
 
 function renderAll(posts) {
   seen.clear();
   const fragment = document.createDocumentFragment();
-  fragment.append(olderSentinel);
   for (const post of posts) {
     if (post.id > state.maxId) state.maxId = post.id;
     if (seen.has(post.id) || !matches(post)) continue;
     fragment.append(renderMsg(post, false));
     seen.add(post.id);
   }
-  feed.replaceChildren(fragment);
+  feedList.replaceChildren(fragment);
   showEmpty();
-  syncOlderSentinel();
+  state.trimmed = false;
   requestAnimationFrame(scrollToBottom);
 }
 
@@ -328,21 +369,45 @@ function onPost(post, animate) {
   updateNote();
 }
 
+function trimOldestIfPinned() {
+  const msgs = feed.querySelectorAll(".msg");
+  if (msgs.length <= MAX_FEED) return;
+  const extra = msgs.length - MAX_FEED;
+  for (let i = 0; i < extra; i += 1) {
+    const el = msgs[i];
+    seen.delete(Number(el.dataset.id));
+    el.remove();
+  }
+  state.done = false;
+}
+
+function trimNewestIfNeeded() {
+  const msgs = feed.querySelectorAll(".msg");
+  if (msgs.length <= MAX_FEED) return;
+  const extra = msgs.length - MAX_FEED;
+  for (let i = 0; i < extra; i += 1) {
+    const el = msgs[msgs.length - 1 - i];
+    seen.delete(Number(el.dataset.id));
+    el.remove();
+  }
+  state.trimmed = true;
+  state.pinned = false;
+  updateJump();
+}
+
 function loadOlder() {
   if (state.loadingOlder || state.done) return;
-  const oldest = feed.querySelector(".msg");
+  const oldest = feedList.querySelector(".msg");
   if (!oldest) return;
   const asc = matchingAsc();
   const index = asc.findIndex((post) => String(post.id) === oldest.dataset.id);
   if (index <= 0) {
     state.done = true;
-    syncOlderSentinel();
     return;
   }
   const start = Math.max(0, index - PAGE);
   const older = asc.slice(start, index);
   state.loadingOlder = true;
-  syncOlderSentinel();
   const beforeHeight = scroller.scrollHeight;
   const fragment = document.createDocumentFragment();
   for (const post of older) {
@@ -351,14 +416,12 @@ function loadOlder() {
     seen.add(post.id);
     if (post.id > state.maxId) state.maxId = post.id;
   }
-  feed.insertBefore(fragment, olderSentinel.nextSibling);
+  /* 맨 위 글 앞에만 과거 글을 붙인다. IntersectionObserver rAF 연쇄 로드는 하지 않는다. */
+  feedList.prepend(fragment);
   if (start === 0) state.done = true;
+  trimNewestIfNeeded();
   scroller.scrollTop += scroller.scrollHeight - beforeHeight;
   state.loadingOlder = false;
-  syncOlderSentinel();
-  if (!state.done && olderSentinel.getBoundingClientRect().bottom > scroller.getBoundingClientRect().top + 8) {
-    requestAnimationFrame(loadOlder);
-  }
 }
 
 function relative(iso) {
@@ -496,14 +559,26 @@ function isFloodPost(post) {
 }
 
 function isVisiblePost(post) {
-  if (isFloodPost(post)) return false;
-  if (typeof BoardFilter !== "undefined" && !BoardFilter.shouldKeep(post)) return false;
-  const text = countedText(post);
-  if (OFFTOPIC_TALK.some((part) => text.includes(part))) return false;
-  for (const raw of text.match(WORD_RE) || []) {
-    if (isScreenedWord(stemWord(raw))) return false;
+  if (post._visFlood === floodStamp && post._visible !== undefined) return post._visible;
+  refreshFlood(allPosts);
+  let visible = true;
+  if (isFloodPost(post)) visible = false;
+  else if (typeof BoardFilter !== "undefined" && !BoardFilter.shouldKeep(post)) visible = false;
+  else {
+    const text = countedText(post);
+    if (OFFTOPIC_TALK.some((part) => text.includes(part))) visible = false;
+    else {
+      for (const raw of text.match(WORD_RE) || []) {
+        if (isScreenedWord(stemWord(raw))) {
+          visible = false;
+          break;
+        }
+      }
+    }
   }
-  return true;
+  post._visible = visible;
+  post._visFlood = floodStamp;
+  return visible;
 }
 
 function personKey(post) {
@@ -520,6 +595,10 @@ function countedText(post) {
 }
 
 function wordCounts(posts, since, allowSwears) {
+  const last = posts[posts.length - 1];
+  const sinceKey = since ? Math.floor(Number(since) / 60000) : 0;
+  const key = `${posts.length}:${last?.id || 0}:${floodStamp}:${sinceKey}:${allowSwears ? 1 : 0}`;
+  if (wordCache.key === key) return wordCache.rows;
   const counts = new Map();
   const people = new Map();
   refreshFlood(posts);
@@ -527,13 +606,13 @@ function wordCounts(posts, since, allowSwears) {
     if (!isVisiblePost(post)) continue;
     if (since && timeValue(post) < since) continue;
     const person = personKey(post) || `post:${post.source || ""}:${post.id}`;
-    const seen = new Set();
+    const seenWords = new Set();
     for (const raw of countedText(post).match(WORD_RE) || []) {
       const word = stemWord(raw);
       if (!isCountedWord(word, allowSwears)) continue;
-      seen.add(word);
+      seenWords.add(word);
     }
-    for (const word of seen) {
+    for (const word of seenWords) {
       let group = people.get(word);
       if (!group) {
         group = new Set();
@@ -544,7 +623,9 @@ function wordCounts(posts, since, allowSwears) {
       counts.set(word, (counts.get(word) || 0) + 1);
     }
   }
-  return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
+  const rows = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
+  wordCache = { key, rows };
+  return rows;
 }
 
 function applyQuery(word) {
@@ -880,9 +961,14 @@ function paintRoll(advance) {
   requestAnimationFrame(() => realtimeTrack.classList.add("roll"));
 }
 
-function renderKeywords(posts) {
+function renderKeywords(posts, force) {
   const source = posts && posts.length ? posts : allPosts;
+  const key = `${source.length}:${source[source.length - 1]?.id || 0}:${floodStamp}`;
   renderCloud(source);
+  /* 병목: 구름·실시간 집계는 글 수만 건을 훑는다. 폴링마다 다시 세지 않는다. */
+  if (!force && key === keywordStamp && Date.now() - realtimeAt < 30000 && liveRanks.length) return;
+  keywordStamp = key;
+  realtimeAt = Date.now();
   renderRealtime(source);
 }
 
@@ -908,42 +994,52 @@ if (window.matchMedia("(hover: hover)").matches) {
 
 setInterval(() => paintRoll(true), 2800);
 
-function renderStatus(board) {
-  const posts = board.posts || allPosts;
-  document.querySelector("#stat-total").textContent = numberFormat.format(posts.length);
-  const today = kstDay(new Date().toISOString());
-  document.querySelector("#stat-live").textContent = numberFormat.format(
-    posts.filter((post) => kstDay(post.postedAt || post.firstSeenAt) === today).length,
-  );
+function paintSourceClock(board) {
   for (const source of ["dc", "blind", "qoo", "yt"]) {
     const el = document.querySelector("#source-" + source);
-    const health = el.querySelector(".health");
     const detail = el.querySelector(".detail");
-    const count = posts.filter((post) => post.source === source).length;
-    health.dataset.health = count ? "ok" : "wait";
-    health.textContent = count ? `${numberFormat.format(count)}건` : "대기";
     const when = source === "yt" ? board.youtubeUpdatedAt || board.updatedAt : board.updatedAt;
     detail.textContent = relative(when);
   }
-  const since = document.querySelector("#since");
-  if (board.startedAt) {
-    const when = new Intl.DateTimeFormat("ko-KR", {
-      timeZone: "Asia/Seoul",
-      month: "long",
-      day: "numeric",
-      hour: "2-digit",
-      minute: "2-digit",
-      hourCycle: "h23",
-    }).format(new Date(board.startedAt));
-    since.textContent = "모으는 중입니다.";
+}
+
+function renderStatus(board, force) {
+  const posts = board.posts || allPosts;
+  const key = `${board.updatedAt || ""}|${posts.length}|${posts[posts.length - 1]?.id || 0}|${board.youtubeUpdatedAt || ytStamp}`;
+  if (!force && key === statusKey) {
+    paintSourceClock(board);
+    return;
   }
-  renderKeywords(posts);
+  statusKey = key;
+  let todayCount = 0;
+  const sourceCount = { dc: 0, blind: 0, qoo: 0, yt: 0 };
+  const today = kstDay(Date.now());
+  for (const post of posts) {
+    if (sourceCount[post.source] != null) sourceCount[post.source] += 1;
+    if (postDay(post) === today) todayCount += 1;
+  }
+  document.querySelector("#stat-total").textContent = numberFormat.format(posts.length);
+  document.querySelector("#stat-live").textContent = numberFormat.format(todayCount);
+  for (const source of ["dc", "blind", "qoo", "yt"]) {
+    const el = document.querySelector("#source-" + source);
+    const health = el.querySelector(".health");
+    const count = sourceCount[source];
+    health.dataset.health = count ? "ok" : "wait";
+    health.textContent = count ? `${numberFormat.format(count)}건` : "대기";
+  }
+  paintSourceClock(board);
+  const since = document.querySelector("#since");
+  if (board.startedAt) since.textContent = "모으는 중입니다.";
+  renderKeywords(posts, force);
 }
 
 function replacePosts(posts) {
   posts.sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
   allPosts.splice(0, allPosts.length, ...posts);
   matchCache = { key: "", list: [] };
+  visibleCache = { key: "", list: [] };
+  wordCache = { key: "", rows: [] };
+  keywordStamp = "";
   floodStamp = "";
 }
 
@@ -953,14 +1049,17 @@ async function pull() {
   const posts = board.posts || [];
   if (!state.ready) {
     replacePosts(posts);
-    renderStatus(board);
+    renderStatus(board, true);
     stamp = board.updatedAt || "";
     state.ready = true;
     reload();
     return;
   }
+  if ((board.updatedAt || "") === stamp && posts.length === allPosts.length) {
+    paintSourceClock(board);
+    return;
+  }
   renderStatus(board);
-  if ((board.updatedAt || "") === stamp && posts.length === allPosts.length) return;
   const known = new Set(allPosts.map((post) => post.id));
   const added = posts.filter((post) => !known.has(post.id)).sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
   replacePosts(posts);
@@ -1003,7 +1102,7 @@ async function loadBoard() {
       if (state.ready && (meta.updatedAt || "") === stamp) {
         const extra = await loadYoutube();
         if ((extra?.updatedAt || "") === ytStamp) {
-          renderStatus({ ...meta, posts: allPosts, youtubeUpdatedAt: ytStamp });
+          paintSourceClock({ ...meta, youtubeUpdatedAt: ytStamp });
           return null;
         }
         ytStamp = extra?.updatedAt || "";
@@ -1125,22 +1224,29 @@ function setRailOpen(open) {
 }
 railToggle.addEventListener("click", () => setRailOpen(appEl.classList.contains("rail-closed")));
 
-scroller.addEventListener("scroll", () => {
-  const room = overflow();
-  state.pinned = room <= 8 || distanceFromBottom() < 72;
-  if (state.pinned) state.pending = 0;
-  updateJump();
+const feedScroll = window.FeedScroll.attach(scroller, {
+  feed: feedList,
+  head: feedHead,
+  canLoadOlder: () => state.ready && !state.loadingOlder && !state.done && Boolean(feed.querySelector(".msg")),
+  onPullOlder: loadOlder,
 });
 
-if (window.IntersectionObserver) {
-  new IntersectionObserver((entries) => {
-    if (entries.some((entry) => entry.isIntersecting)) loadOlder();
-  }, { root: scroller, rootMargin: "160px 0px 0px 0px" }).observe(olderSentinel);
-} else {
-  scroller.addEventListener("scroll", () => {
-    if (overflow() > 0 && scroller.scrollTop < 64) loadOlder();
-  });
-}
+let scrollTick = 0;
+scroller.addEventListener(
+  "scroll",
+  () => {
+    if (scrollTick) return;
+    scrollTick = requestAnimationFrame(() => {
+      scrollTick = 0;
+      const room = overflow();
+      state.pinned = room <= 8 || distanceFromBottom() < 72;
+      if (state.pinned) state.pending = 0;
+      updateJump();
+      feedScroll.syncHead();
+    });
+  },
+  { passive: true },
+);
 
 document.addEventListener("keydown", (event) => {
   if (event.key === "/" && document.activeElement !== input) {

@@ -124,8 +124,12 @@ html.mobile .pc-link {
 }
 
 html.mobile #scroller {
-  -webkit-mask-image: none;
-  mask-image: none;
+  overscroll-behavior-y: none;
+}
+
+html.mobile .feed-head-logo {
+  width: 32px;
+  height: 32px;
 }
 
 html.mobile #feed { padding: 8px 12px 8px; }
