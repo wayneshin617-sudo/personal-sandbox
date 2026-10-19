@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:29:41+00:00",
+  "updatedAt": "2026-10-19T10:31:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -798608,6 +798608,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:29:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66756,
+      "source": "dc",
+      "externalId": "6598429",
+      "title": "망도가 넷플메인화면에 등장하다니 진짜 세상오래살고볼일임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598429&page=1",
+      "postedLabel": "19:31",
+      "postedAt": "2026-10-19T19:31:06+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:31:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66757,
+      "source": "dc",
+      "externalId": "6598430",
+      "title": "나솔 지볶행 미서 7옥 유럽여행 생각만해도 개꿀잼이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598430&page=1",
+      "postedLabel": "19:31",
+      "postedAt": "2026-10-19T19:31:29+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:31:41+00:00",
       "isSeed": false
     }
   ]
