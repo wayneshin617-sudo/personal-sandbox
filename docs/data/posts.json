@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:35:41+00:00",
+  "updatedAt": "2026-10-19T10:36:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -798779,6 +798779,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:35:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66765,
+      "source": "dc",
+      "externalId": "6598437",
+      "title": "대구사는 114.199장애인 거지할배 언제 뒤질까",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598437&page=1",
+      "postedLabel": "19:36",
+      "postedAt": "2026-10-19T19:36:05+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:36:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66766,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%B0%A9%EC%86%A1-%ED%95%9C-%EB%B2%88-%EB%82%98%EA%B0%94%EB%8B%A4%EA%B3%A0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9A%95-%EB%A8%B9%EA%B3%A0-%EC%98%A8%EA%B0%96%EA%B2%8C-%ED%8C%8C%EB%AC%98%EB%90%98%EB%A9%B4-hz423t5o",
+      "title": "근데 방송 한 번 나갔다고 이렇게 욕 먹고 온갖게 파묘되면",
+      "excerpt": "방송 하는 내내 어떤 마음으로 회사를 가야할까 나같으면 너무 무섭고 사람 못 믿겠어서 못 갈 것 같음..",
+      "author": "i*********",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%B0%A9%EC%86%A1-%ED%95%9C-%EB%B2%88-%EB%82%98%EA%B0%94%EB%8B%A4%EA%B3%A0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9A%95-%EB%A8%B9%EA%B3%A0-%EC%98%A8%EA%B0%96%EA%B2%8C-%ED%8C%8C%EB%AC%98%EB%90%98%EB%A9%B4-hz423t5o",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T19:36:29+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T10:36:41+00:00",
       "isSeed": false
     }
   ]
