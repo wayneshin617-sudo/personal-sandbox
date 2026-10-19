@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:06:41+00:00",
+  "updatedAt": "2026-10-19T10:07:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -797734,6 +797734,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:06:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66710,
+      "source": "dc",
+      "externalId": "6598381",
+      "title": "은행 근무자분들 확인 좀 해줘 ㅜㅜ.",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.152",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598381&page=1",
+      "postedLabel": "19:06",
+      "postedAt": "2026-10-19T19:06:39+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:07:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66711,
+      "source": "dc",
+      "externalId": "6598382",
+      "title": "나솔갤에서 노괴 노괴 거리는 새끼들이 제일 늙음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598382&page=1",
+      "postedLabel": "19:06",
+      "postedAt": "2026-10-19T19:06:49+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:07:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66712,
+      "source": "dc",
+      "externalId": "6598383",
+      "title": "미서 14영자",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.105",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598383&page=1",
+      "postedLabel": "19:07",
+      "postedAt": "2026-10-19T19:07:28+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:07:42+00:00",
       "isSeed": false
     }
   ]
