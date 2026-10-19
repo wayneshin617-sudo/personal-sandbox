@@ -7,7 +7,7 @@ const board = document.querySelector("#pair-board");
 const VIEW_TITLE = {
   feed: "나솔 왈가왈부",
   profile: "현 기수 프로필",
-  pair: "현 기수 진행상황",
+  pair: "사랑의 짝대기",
 };
 
 let navLock = false;

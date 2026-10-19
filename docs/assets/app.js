@@ -1493,7 +1493,7 @@ function pairCard(person) {
   button.dataset.id = person.id;
   button.style.setProperty("--glow", PAIR_COLORS[person.id] || "#ffd0e0");
   const photo = document.createElement("img");
-  photo.src = new URL(person.photo, document.baseURI).href;
+  photo.src = `${new URL(String(person.photo).split("?")[0], document.baseURI).href}?v=2`;
   photo.alt = "";
   const name = document.createElement("strong");
   name.textContent = person.name;
@@ -1639,10 +1639,12 @@ function paintPairLines(width, height) {
   pairLines.setAttribute("viewBox", `0 0 ${width} ${height}`);
   pairLines.replaceChildren();
   const narrow = width < 700;
-  const size = narrow ? 12 : 18;
-  const wing = narrow ? 5.4 : 8;
   const heartScale = narrow ? 2.4 : 3.4;
   for (const [key, layout] of pairLayouts) {
+    const focused = key !== "rest";
+    const size = focused ? (narrow ? 16 : 22) : (narrow ? 11 : 16);
+    const wing = focused ? (narrow ? 7 : 9.5) : (narrow ? 5 : 7);
+    const tipGap = focused ? 12 : 7;
     const group = document.createElementNS(svgNS, "g");
     group.dataset.focus = key;
     if (key === (pairPinned || "rest")) group.setAttribute("class", "on");
@@ -1668,8 +1670,9 @@ function paintPairLines(width, height) {
       const fromLeft = start.x < end.x;
       const y1 = start.y + link.fromLane * lane;
       const y2 = end.y + link.toLane * lane;
-      const x1 = fromLeft ? start.x + 2 : start.x - 2;
-      const x2 = fromLeft ? end.x - 2 : end.x + 2;
+      /* 화살촉은 카드 안쪽이 아니라 골 쪽에 둔다. 확대 카드 테두리/글로우에 안 가리게. */
+      const x1 = fromLeft ? start.x + tipGap : start.x - tipGap;
+      const x2 = fromLeft ? end.x - tipGap : end.x + tipGap;
       const c1x = x1 + (x2 - x1) * 0.38;
       const c2x = x1 + (x2 - x1) * 0.62;
       const c1y = y1 + (y2 - y1) * 0.18;
@@ -1686,8 +1689,8 @@ function paintPairLines(width, height) {
       path.setAttribute("fill", "none");
       path.setAttribute("stroke", color);
       path.setAttribute("stroke-linecap", "round");
-      path.setAttribute("stroke-width", solid ? "1.25" : "1.15");
-      if (!solid) path.setAttribute("stroke-dasharray", "0.1 5.2");
+      path.setAttribute("stroke-width", solid ? (focused ? "1.7" : "1.25") : (focused ? "1.5" : "1.15"));
+      if (!solid) path.setAttribute("stroke-dasharray", focused ? "0.1 6" : "0.1 5.2");
       path.dataset.from = link.from;
       path.dataset.to = link.to;
       path.setAttribute("class", "pair-link");
@@ -1699,6 +1702,9 @@ function paintPairLines(width, height) {
         `${x2 - ux * size + uy * wing},${y2 - uy * size - ux * wing}`,
       ].join(" "));
       head.setAttribute("fill", color);
+      head.setAttribute("stroke", color);
+      head.setAttribute("stroke-linejoin", "round");
+      head.setAttribute("stroke-width", focused ? "1.2" : "0.8");
       head.dataset.from = link.from;
       head.dataset.to = link.to;
       head.setAttribute("class", "pair-link");

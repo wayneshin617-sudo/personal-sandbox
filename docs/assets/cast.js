@@ -1,17 +1,17 @@
 /* 34기 얼굴·소개는 여기만 고치면 로딩/1위 배경/프로필이 같이 바뀐다. */
 (function (root) {
   const FACES = {
-    youngsoo: "assets/cast/youngsoo.webp",
-    youngho: "assets/cast/youngho.webp",
+    youngsoo: "assets/cast/youngsoo.webp?v=2",
+    youngho: "assets/cast/youngho.webp?v=2",
     youngsik: "assets/cast/youngsik.webp",
     youngchul: "assets/cast/youngchul.webp",
     gwangsoo: "assets/cast/gwangsoo.webp",
     sangchul: "assets/cast/sangchul.webp",
-    youngsook: "assets/cast/youngsook.webp",
+    youngsook: "assets/cast/youngsook.webp?v=2",
     jeongsook: "assets/cast/jeongsook.webp",
     soonja: "assets/cast/soonja.webp",
     youngja: "assets/cast/youngja.webp",
-    oksoon: "assets/cast/oksoon.webp",
+    oksoon: "assets/cast/oksoon.webp?v=2",
     hyunsook: "assets/cast/hyunsook.webp",
   };
 
