@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:01:41+00:00",
+  "updatedAt": "2026-10-19T09:02:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -795587,6 +795587,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:01:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66597,
+      "source": "qoo",
+      "externalId": "4380534161",
+      "title": "7옥순 인터뷰 공개됐는데 옥순 어머니도 미서 선택하라고 했대",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380534161",
+      "postedLabel": "18:02",
+      "postedAt": "2026-10-19T18:02:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:02:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66598,
+      "source": "blind",
+      "externalId": "/kr/post/7%EC%98%A5-%EC%82%AC%EA%B3%84%ED%9B%84%EC%9D%BC%EB%8B%B4-%EB%B3%B4%EB%8B%88-%EB%AF%B8%EC%84%9C-%ED%8F%AC%EC%98%B9%ED%95%9C%EA%B1%B0-%EC%9D%B4%EC%83%81%ED%95%98%EA%B3%A0-%EB%B6%88%EC%BE%8C%ED%96%88%EB%8B%A4%EB%8D%98%EB%8D%B0-ayngr1gy",
+      "title": "7옥 사계후일담 보니 미서 포옹한거 이상하고 불쾌했다던데",
+      "excerpt": "사계 방송장면에서 7옥 행복해보이니까 문제 없다고 하신 분들도 많았던 걸로 기억함 진짜 띠용했던 일임",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/7%EC%98%A5-%EC%82%AC%EA%B3%84%ED%9B%84%EC%9D%BC%EB%8B%B4-%EB%B3%B4%EB%8B%88-%EB%AF%B8%EC%84%9C-%ED%8F%AC%EC%98%B9%ED%95%9C%EA%B1%B0-%EC%9D%B4%EC%83%81%ED%95%98%EA%B3%A0-%EB%B6%88%EC%BE%8C%ED%96%88%EB%8B%A4%EB%8D%98%EB%8D%B0-ayngr1gy",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T18:02:30+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T09:02:42+00:00",
       "isSeed": false
     }
   ]
