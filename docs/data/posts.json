@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:18:23+00:00",
+  "updatedAt": "2026-10-19T04:19:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -786068,6 +786068,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T04:18:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66096,
+      "source": "dc",
+      "externalId": "6597887",
+      "title": "31순자 많이 챙겨줬네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597887&page=1",
+      "postedLabel": "13:18",
+      "postedAt": "2026-10-19T13:18:35+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:19:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66097,
+      "source": "dc",
+      "externalId": "6597888",
+      "title": "그래서 순자 페이 500이야 50이야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597888&page=1",
+      "postedLabel": "13:18",
+      "postedAt": "2026-10-19T13:18:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:19:21+00:00",
       "isSeed": false
     }
   ]
