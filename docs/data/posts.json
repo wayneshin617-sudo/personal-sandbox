@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T18:06:33+00:00",
+  "updatedAt": "2026-10-19T18:08:33+00:00",
   "posts": [
     {
       "id": 1,
@@ -592553,6 +592553,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T18:06:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67616,
+      "source": "dc",
+      "externalId": "6599173",
+      "title": "아니 나 진짜 밥 물조절은 진짜 개충격적이네;;",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599173&page=1",
+      "postedLabel": "03:07",
+      "postedAt": "2026-10-20T03:07:24+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T18:08:33+00:00",
       "isSeed": false
     }
   ]
