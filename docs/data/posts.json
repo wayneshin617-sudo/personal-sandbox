@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:11:42+00:00",
+  "updatedAt": "2026-10-19T10:12:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -797886,6 +797886,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:11:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66718,
+      "source": "dc",
+      "externalId": "6598390",
+      "title": "본방리액션 좌파국화 좆나 이뻐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598390&page=1",
+      "postedLabel": "19:11",
+      "postedAt": "2026-10-19T19:11:48+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:12:42+00:00",
       "isSeed": false
     }
   ]
