@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:32:22+00:00",
+  "updatedAt": "2026-10-19T04:33:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -786353,6 +786353,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T04:32:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66111,
+      "source": "dc",
+      "externalId": "6597904",
+      "title": "나솔에서 자꾸 와꾸 찾는 너네가 제일 멍청하지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597904&page=1",
+      "postedLabel": "13:32",
+      "postedAt": "2026-10-19T13:32:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:33:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66112,
+      "source": "dc",
+      "externalId": "6597905",
+      "title": "니가 광고주면 이걸보고도 같은 돈을 주겠니",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597905&page=1",
+      "postedLabel": "13:32",
+      "postedAt": "2026-10-19T13:32:55+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:33:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66113,
+      "source": "dc",
+      "externalId": "6597906",
+      "title": "쥐우성이랑 국화 오늘부터 볼만할듯 ㅎㅎ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.85",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597906&page=1",
+      "postedLabel": "13:33",
+      "postedAt": "2026-10-19T13:33:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:33:23+00:00",
       "isSeed": false
     }
   ]
