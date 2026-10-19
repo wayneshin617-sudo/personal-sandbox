@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:49:41+00:00",
+  "updatedAt": "2026-10-19T10:50:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -799330,6 +799330,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T10:49:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66794,
+      "source": "dc",
+      "externalId": "6598464",
+      "title": "사계남출 라인업 미서 미조 미차",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598464&page=1",
+      "postedLabel": "19:49",
+      "postedAt": "2026-10-19T19:49:49+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:50:41+00:00",
       "isSeed": false
     }
   ]
