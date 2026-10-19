@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T23:16:23+00:00",
+  "updatedAt": "2026-10-19T23:17:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596315,6 +596315,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T23:16:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67814,
+      "source": "dc",
+      "externalId": "6599338",
+      "title": "그래서 영철 본캠임 분캠임?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599338&page=1",
+      "postedLabel": "08:17",
+      "postedAt": "2026-10-20T08:17:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T23:17:22+00:00",
       "isSeed": false
     }
   ]
