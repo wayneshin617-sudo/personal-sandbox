@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:22:58+00:00",
+  "updatedAt": "2026-10-19T03:23:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -784890,6 +784890,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T03:22:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66034,
+      "source": "dc",
+      "externalId": "6597824",
+      "title": "미조 미서같은 아재들은 별 부담이 없어",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597824&page=1",
+      "postedLabel": "12:23",
+      "postedAt": "2026-10-19T12:23:06+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:23:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66035,
+      "source": "dc",
+      "externalId": "6597825",
+      "title": "31순자는 광고 10건 해서 번 돈으로 까르띠에 시계삼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597825&page=1",
+      "postedLabel": "12:23",
+      "postedAt": "2026-10-19T12:23:12+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:23:58+00:00",
       "isSeed": false
     }
   ]
