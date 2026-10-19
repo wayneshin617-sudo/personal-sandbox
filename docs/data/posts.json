@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:05:56+00:00",
+  "updatedAt": "2026-10-19T14:06:56+00:00",
   "posts": [
     {
       "id": 1,
@@ -586910,6 +586910,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:05:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67133,
+      "source": "dc",
+      "externalId": "6598811",
+      "title": "부모님 집이 따로 있나보네",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598811&page=1",
+      "postedLabel": "23:06",
+      "postedAt": "2026-10-19T23:06:30+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:06:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67134,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-28%EA%B8%B0-%EC%99%B8%EB%AA%A8-%EC%96%B4%EB%95%8C-k8uop8qp",
+      "title": "영숙 28기 외모 어때",
+      "excerpt": "미인인데 스타일라고 머리만 좀 깔끔하면 더 나을거 같은데 그리고 계약 결혼에 상철을 완젼 미국에 애둘 데리고 오고 싶은데 호구 잡으려는거 같음 외모에 비해 넘 소녀 같음",
+      "author": "*********",
+      "company": "서브원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-28%EA%B8%B0-%EC%99%B8%EB%AA%A8-%EC%96%B4%EB%95%8C-k8uop8qp",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T23:06:37+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T14:06:56+00:00",
       "isSeed": false
     }
   ]
