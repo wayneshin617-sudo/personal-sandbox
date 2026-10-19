@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:19:42+00:00",
+  "updatedAt": "2026-10-19T10:20:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -798152,6 +798152,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:19:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66732,
+      "source": "dc",
+      "externalId": "6598404",
+      "title": "11상철이 김도영 곽빈 믈브 보낸대",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598404&page=1",
+      "postedLabel": "19:20",
+      "postedAt": "2026-10-19T19:20:08+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:20:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66733,
+      "source": "dc",
+      "externalId": "6598405",
+      "title": "Missy usa에서 미조 쓰레기라고 폭로했던게",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598405&page=1",
+      "postedLabel": "19:20",
+      "postedAt": "2026-10-19T19:20:11+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:20:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66734,
+      "source": "dc",
+      "externalId": "6598406",
+      "title": "약사현숙 매일 근무시간 30분 짧아짐 밤12시30분으로",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598406&page=1",
+      "postedLabel": "19:20",
+      "postedAt": "2026-10-19T19:20:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:20:41+00:00",
       "isSeed": false
     }
   ]
