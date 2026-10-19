@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T05:54:53+00:00",
+  "updatedAt": "2026-10-19T05:58:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -790343,6 +790343,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T05:54:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66321,
+      "source": "dc",
+      "externalId": "6598008",
+      "title": "난 돈 많이 벌어서 평생 여자 안만날꺼",
+      "excerpt": "",
+      "author": "백쭈대",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598008&page=1",
+      "postedLabel": "14:57",
+      "postedAt": "2026-10-19T14:57:56+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T05:58:53+00:00",
       "isSeed": false
     }
   ]
