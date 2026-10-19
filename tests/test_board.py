@@ -227,6 +227,43 @@ class MergeTest(unittest.TestCase):
         self.assertGreater(items[1]["posted_at"], items[0]["posted_at"])
         self.assertGreater(items[0]["posted_at"], items[2]["posted_at"])
 
+    def test_drops_blocked_youtube_comments(self):
+        board = empty_board()
+        item = sample("cid", "HBM 반도체")
+        item["source"] = "yt"
+        item["excerpt"] = "[나는솔로] 34기 상철 광수 영식 직장동료 지인 등판 충격 폭로! #나는솔로#나는솔로#나는솔로#나는솔로"
+        item["url"] = "https://www.youtube.com/watch?v=qpUKcCsjHSI&lc=cid"
+        added = merge(board, {"yt": [item]})
+        self.assertEqual(added, 0)
+        self.assertEqual(board["posts"], [])
+
+    def test_purges_blocked_youtube_already_stored(self):
+        board = empty_board()
+        board["posts"] = [
+            {
+                "id": 1,
+                "source": "yt",
+                "externalId": "cid",
+                "title": "HBM",
+                "excerpt": "[나는솔로] 34기 상철 광수 영식 직장동료 지인 등판",
+                "author": "@x",
+                "company": "",
+                "ip": "",
+                "badge": "",
+                "url": "https://www.youtube.com/watch?v=qpUKcCsjHSI&lc=cid",
+                "postedLabel": "방금",
+                "postedAt": "2026-10-13T12:00:00+09:00",
+                "views": None,
+                "recommends": None,
+                "comments": None,
+                "firstSeenAt": "2026-10-13T03:00:00+00:00",
+                "isSeed": False,
+            }
+        ]
+        added = merge(board, {"yt": []})
+        self.assertEqual(added, 0)
+        self.assertEqual(board["posts"], [])
+
     def test_theqoo_date_keeps_cutoff_day_and_drops_the_day_before(self):
         now = datetime(2026, 10, 13, 15, 0, tzinfo=timezone(timedelta(hours=9)))
         board = empty_board()

@@ -1,6 +1,14 @@
 import unittest
 
-from app.filters import drop_reason, fold, is_sagye, normalize, should_keep, swear_reason
+from app.filters import (
+    drop_reason,
+    fold,
+    is_sagye,
+    normalize,
+    should_keep,
+    skip_youtube_video,
+    swear_reason,
+)
 
 
 class NormalizeTest(unittest.TestCase):
@@ -69,6 +77,36 @@ class SagyeTest(unittest.TestCase):
         post = {"title": "씨발 영철 뭐함", "excerpt": ""}
         self.assertTrue(should_keep(post))
         self.assertFalse(should_keep(post, swears=True))
+
+    def test_youtube_comment_ignores_video_title(self):
+        post = {
+            "source": "yt",
+            "title": "영숙 선택 잘했다",
+            "excerpt": "나솔사계 미스터서 하이라이트 #나는솔로",
+            "url": "https://www.youtube.com/watch?v=abc123&lc=cid1",
+        }
+        self.assertTrue(should_keep(post))
+
+    def test_blocked_clickbait_youtube(self):
+        post = {
+            "source": "yt",
+            "title": "HBM=High Bandwidth Memory",
+            "excerpt": "[나는솔로] 34기 상철 광수 영식 직장동료 지인 등판 충격 폭로! 술 제어 사내 빌런 폭로! #나는솔로#나는솔로#나는솔로#나는솔로",
+            "url": "https://www.youtube.com/watch?v=qpUKcCsjHSI&lc=UgwBL7vT4g47ku3ZHWB4AaABAg",
+        }
+        self.assertFalse(should_keep(post))
+        self.assertTrue(drop_reason(post).startswith("유튜브"))
+
+    def test_hashtag_spam_video_is_skipped(self):
+        self.assertTrue(
+            skip_youtube_video(
+                {
+                    "video_id": "newspam",
+                    "title": "34기 스포 #나는솔로#나는솔로#나는솔로#나는솔로",
+                }
+            )
+        )
+        self.assertFalse(skip_youtube_video({"video_id": "okvid", "title": "나는솔로 34기 9회"}))
 
 
 if __name__ == "__main__":

@@ -471,9 +471,14 @@ const STOP_WORDS = new Set(
 아무튼 어쨌든 하여튼 좀더 뭔가 거 것 곳 수 때 중 등 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽
 이유 근황 미국 한국 일본 중국 해외 느낌 생각 마음 이야기 얘기 본인 애들 미래 상황 문제
 댓글 영상 사진 유튜브 유튭 링크 좌표 링크좌표 친구 회사 학교 시간 다들 저렇게 내가 보고 멋진 나가서 삭제직전
-없음 같음 있음 얼마나 둘이
+없음 같음 있음 얼마나 둘이 좋다 좋아 좋아요 좋은 좋을 좋음 좋지 좋네 좋냐 좋아서 좋아해 좋아하 좋아함
+계약결혼
 나솔 미방 미방분 여출 남출 다둥 다둥이 솔솔 몰표 몰표녀 여돌 남돌 솔로녀 솔로남 존버 억까 인싸 아싸 점메추`.split(/\s+/),
 );
+const CAST_NAMES = (typeof BoardFilter !== "undefined" && BoardFilter.CURRENT_CAST) || [
+  "영수", "영호", "영식", "영철", "광수", "상철", "영숙", "정숙", "순자", "영자", "옥순", "현숙",
+];
+const CAST_NAME_SET = new Set(CAST_NAMES);
 const SWEAR_WORDS = new Set(
   `존나 졸라 존내 좆나 씨발 시발 씨팔 시팔 씨벌 시벌 병신 븅신 병쉰 지랄 지럴 좆 좇 새끼 개새끼 미친 미쳤
 꺼져 닥쳐 죽어 디질 뒤질 씹 보지 자지 걸레 창녀 창년 썅 니미 애미 애비 등신 호로 또라이 싸가지 개소리
@@ -545,7 +550,7 @@ function isSwearWord(word) {
 
 function isCountedWord(word, allowSwears) {
   if (/^\d+기$/.test(word)) return true;
-  if (word.length < 2 || STOP_WORDS.has(word) || isScreenedWord(word)) return false;
+  if (word.length < 2 || STOP_WORDS.has(word) || CAST_NAME_SET.has(word) || isScreenedWord(word)) return false;
   if (!allowSwears && isSwearWord(word)) return false;
   if (PRED_RE.test(word) || SHORT_RE.test(word)) return false;
   return true;
@@ -616,8 +621,15 @@ function personKey(post) {
 }
 
 function countedText(post) {
+  /* 유튜브는 댓글만. 영상 제목·태그·설명은 집계에 넣지 않는다. */
   if (post.source === "yt") return post.title || "";
   return `${post.title || ""} ${post.excerpt || ""}`;
+}
+
+function stuffedTitleNames(post) {
+  if (post.source !== "yt") return new Set();
+  const excerpt = post.excerpt || "";
+  return new Set(CAST_NAMES.filter((name) => excerpt.includes(name)));
 }
 
 function wordCounts(posts, since, allowSwears) {
@@ -651,6 +663,46 @@ function wordCounts(posts, since, allowSwears) {
   }
   const rows = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
   wordCache = { key, rows };
+  return rows;
+}
+
+let nameCache = { key: "", rows: [] };
+
+function nameCounts(posts, since) {
+  const last = posts[posts.length - 1];
+  const sinceKey = since ? Math.floor(Number(since) / 60000) : 0;
+  const key = `n:${posts.length}:${last?.id || 0}:${floodStamp}:${sinceKey}`;
+  if (nameCache.key === key) return nameCache.rows;
+  const counts = new Map();
+  const people = new Map();
+  refreshFlood(posts);
+  for (const post of posts) {
+    if (!isVisiblePost(post)) continue;
+    if (since && timeValue(post) < since) continue;
+    const stuffed = stuffedTitleNames(post);
+    const text = countedText(post);
+    const names = CAST_NAMES.filter((name) => text.includes(name) && !stuffed.has(name));
+    if (names.length >= 4) continue;
+    const person = personKey(post) || `post:${post.source || ""}:${post.id}`;
+    const seenNames = new Set();
+    for (const raw of text.match(WORD_RE) || []) {
+      const word = stemWord(raw);
+      if (!CAST_NAME_SET.has(word) || stuffed.has(word) || !names.includes(word)) continue;
+      seenNames.add(word);
+    }
+    for (const name of seenNames) {
+      let group = people.get(name);
+      if (!group) {
+        group = new Set();
+        people.set(name, group);
+      }
+      if (group.has(person)) continue;
+      group.add(person);
+      counts.set(name, (counts.get(name) || 0) + 1);
+    }
+  }
+  const rows = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
+  nameCache = { key, rows };
   return rows;
 }
 
@@ -913,7 +965,8 @@ function deltaMark(word, rank, previous) {
 
 function renderRealtime(posts) {
   const now = Date.now();
-  const ranked = wordCounts(posts, now - 4 * 60 * 60 * 1000, true).slice(0, 10);
+  const windowStart = now - 4 * 60 * 60 * 1000;
+  const ranked = wordCounts(posts, windowStart, false).slice(0, 10);
   const words = ranked.map(([word]) => word);
   let compare = null;
   if (!baselineWords) {
@@ -932,6 +985,8 @@ function renderRealtime(posts) {
     ...deltaMark(word, index, compare),
   }));
   realtimeItems.replaceChildren();
+  const names = nameCounts(posts, windowStart);
+  updateLead(names[0]?.[0] || "", names.map(([word, count]) => ({ word, count })));
   if (!liveRanks.length) {
     realtimeRank.textContent = "–";
     rollSignature = "";
@@ -964,7 +1019,6 @@ function renderRealtime(posts) {
     rolling = false;
     paintRoll(false);
   }
-  updateLead(liveRanks[0]?.word || "", liveRanks);
 }
 
 function paintRoll(advance) {

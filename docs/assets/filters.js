@@ -50,6 +50,12 @@
     "ᄇ": "ㅂ", "ᄈ": "ㅃ", "ᄉ": "ㅅ", "ᄊ": "ㅆ", "ᄋ": "ㅇ", "ᄌ": "ㅈ", "ᄍ": "ㅉ",
     "ᄎ": "ㅊ", "ᄏ": "ㅋ", "ᄐ": "ㅌ", "ᄑ": "ㅍ", "ᄒ": "ㅎ",
   };
+  const BLOCKED_YT_IDS = [
+    "qpUKcCsjHSI", "UT5GGHnjccE", "1vmMzTbRgHg", "Ny9RNTVLIk4", "RFTVQWZ0W4Y", "MEMWkVB_fJM",
+  ];
+  const BLOCKED_YT_TITLE_MARKS = ["직장동료 지인 등판", "사내 빌런 폭로", "지인폭로", "직장 동료 학창시절"];
+  const YT_ID_RE = /[?&]v=([\w-]+)/;
+
   const CAST_ALT = CURRENT_CAST.join("|");
   const OK_ALT = SAGYE_OK_SEASONS.join("|");
   const SUR_ALT = MISTER_SURNAMES.slice().sort((a, b) => b.length - a.length).join("|");
@@ -77,10 +83,41 @@
     return fold(text).replace(/[ㄱ-ㅎㅏ-ㅣ]/g, "");
   }
 
+  function youtubeId(post) {
+    if (!post || typeof post === "string") return "";
+    if (post.video_id) return String(post.video_id);
+    const hit = String(post.url || "").match(YT_ID_RE);
+    return hit ? hit[1] : "";
+  }
+
+  function skipYoutubeTitle(title) {
+    const text = String(title || "");
+    const tags = text.match(/#\s*나는솔로/gi) || [];
+    if (tags.length >= 3) return true;
+    const compact = text.replace(/\s+/g, "");
+    return BLOCKED_YT_TITLE_MARKS.some((mark) => compact.includes(mark.replace(/\s+/g, "")));
+  }
+
+  function skipYoutubeVideo(video) {
+    if (!video) return false;
+    if (BLOCKED_YT_IDS.includes(video.video_id || youtubeId(video))) return true;
+    return skipYoutubeTitle(video.title || video.excerpt || "");
+  }
+
+  function isBlockedYoutube(post) {
+    if (!post || typeof post === "string") return false;
+    if (post.video_id) return skipYoutubeVideo(post);
+    if ((post.source || "") !== "yt") return false;
+    if (BLOCKED_YT_IDS.includes(youtubeId(post))) return true;
+    return skipYoutubeTitle(post.excerpt || "");
+  }
+
   function postText(post) {
     if (!post) return "";
     if (typeof post === "string") return post;
-    return `${post.title || ""} ${post.excerpt || ""}`;
+    const title = post.title || "";
+    if ((post.source || "") === "yt") return title;
+    return `${title} ${post.excerpt || ""}`;
   }
 
   function hasCurrentSeason(compact) {
@@ -164,6 +201,7 @@
   }
 
   function dropReason(post, options = {}) {
+    if (isBlockedYoutube(post)) return "유튜브:차단";
     const text = postText(post);
     if (isSagye(text)) return `사계:${sagyeReason(text)}`;
     const politics = politicalReason(text);
@@ -183,9 +221,11 @@
 
   root.BoardFilter = {
     CURRENT_SEASON,
+    CURRENT_CAST,
     POLITICAL,
     SEXUAL,
     SWEARS,
+    BLOCKED_YT_IDS,
     normalize,
     fold,
     isSagye,
@@ -194,5 +234,9 @@
     shouldKeep,
     swearReason,
     postText,
+    youtubeId,
+    skipYoutubeTitle,
+    skipYoutubeVideo,
+    isBlockedYoutube,
   };
 })(window);

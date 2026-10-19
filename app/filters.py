@@ -69,6 +69,26 @@ SAGYE_OK_SEASONS = frozenset(
 
 CAST_NAMES = CURRENT_CAST
 
+# 제목에 출연진을 나열하고 #나는솔로 를 도배한 폭로·스포 영상.
+BLOCKED_YT_IDS = frozenset(
+    {
+        "qpUKcCsjHSI",
+        "UT5GGHnjccE",
+        "1vmMzTbRgHg",
+        "Ny9RNTVLIk4",
+        "RFTVQWZ0W4Y",
+        "MEMWkVB_fJM",
+    }
+)
+BLOCKED_YT_TITLE_MARKS = (
+    "직장동료 지인 등판",
+    "사내 빌런 폭로",
+    "지인폭로",
+    "직장 동료 학창시절",
+)
+_HASHTAG_SOLO_RE = re.compile(r"#\s*나는솔로", re.IGNORECASE)
+_YT_ID_RE = re.compile(r"[?&]v=([\w-]+)")
+
 POLITICAL = (
     "정치", "대통령", "민주당", "국민의힘", "국힘", "윤석열", "이재명", "문재인", "박근혜",
     "이명박", "한동훈", "조국", "이준석", "홍준표", "탄핵", "좌파", "우파", "여당", "야당",
@@ -131,10 +151,54 @@ def _plain(text: str) -> str:
     return _JAMO_RE.sub("", fold(text))
 
 
+def youtube_id(post: dict[str, Any] | str | None) -> str:
+    if isinstance(post, str) or not post:
+        return ""
+    if post.get("video_id"):
+        return str(post.get("video_id") or "")
+    hit = _YT_ID_RE.search(str(post.get("url") or ""))
+    return hit.group(1) if hit else ""
+
+
+def skip_youtube_title(title: str) -> bool:
+    """태그 도배·직장동료 폭로 같은 제목은 댓글을 모으지 않는다."""
+    text = title or ""
+    if len(_HASHTAG_SOLO_RE.findall(text)) >= 3:
+        return True
+    compact = re.sub(r"\s+", "", text)
+    return any(mark.replace(" ", "") in compact for mark in BLOCKED_YT_TITLE_MARKS)
+
+
+def skip_youtube_video(video: dict[str, Any] | None) -> bool:
+    if not video:
+        return False
+    if (video.get("video_id") or youtube_id(video)) in BLOCKED_YT_IDS:
+        return True
+    title = video.get("title") or video.get("excerpt") or ""
+    return skip_youtube_title(title)
+
+
+def is_blocked_youtube(post: dict[str, Any] | str | None) -> bool:
+    if isinstance(post, str) or not post:
+        return False
+    source = post.get("source") or ""
+    if post.get("video_id"):
+        return skip_youtube_video(post)
+    if source != "yt":
+        return False
+    if youtube_id(post) in BLOCKED_YT_IDS:
+        return True
+    return skip_youtube_title(post.get("excerpt") or "")
+
+
 def post_text(post: dict[str, Any] | None) -> str:
     if not post:
         return ""
-    return f"{post.get('title') or ''} {post.get('excerpt') or ''}"
+    title = post.get("title") or ""
+    # 유튜브는 댓글만 본다. 제목·태그·설명에 넣은 이름은 본방 여부와 집계에 쓰지 않는다.
+    if (post.get("source") or "") == "yt":
+        return title
+    return f"{title} {post.get('excerpt') or ''}"
 
 
 def _has_current_season(compact: str) -> bool:
@@ -262,6 +326,8 @@ def swear_reason(text: str) -> str | None:
 
 def drop_reason(post: dict[str, Any] | str | None, *, swears: bool = False) -> str | None:
     """걸러야 하면 이유 문자열, 남겨도 되면 None."""
+    if is_blocked_youtube(post):
+        return "유튜브:차단"
     text = post if isinstance(post, str) else post_text(post)
     hit = sagye_reason(text)
     if hit and (hit in SAGYE_SHOW or hit == "사계" or not _has_current_season(normalize(text))):

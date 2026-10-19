@@ -16,7 +16,7 @@ from pathlib import Path
 
 import httpx
 
-from .filters import drop_reason, should_keep
+from .filters import drop_reason, should_keep, skip_youtube_video
 
 from .parsers import (
     load_youtube_data,
@@ -435,6 +435,9 @@ def fetch_youtube(client: httpx.Client, known_ids: set[str], *, backfill: bool, 
             if video["video_id"] in seen_videos:
                 continue
             seen_videos.add(video["video_id"])
+            if skip_youtube_video(video):
+                print(f"yt skip {video['video_id']} blocked {(video.get('title') or '')[:50]}", flush=True)
+                continue
             label = (video.get("published_label") or "").replace("스트리밍 시간:", "").replace("최초 공개:", "").strip()
             published = label_to_time(label, now)
             if published < CUTOFF - timedelta(hours=18):
