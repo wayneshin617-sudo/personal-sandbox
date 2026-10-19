@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T18:11:31+00:00",
+  "updatedAt": "2026-10-19T18:12:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -592610,6 +592610,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T18:11:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67619,
+      "source": "dc",
+      "externalId": "6599176",
+      "title": "이 여자 진짜 선수 맞다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599176&page=1",
+      "postedLabel": "03:11",
+      "postedAt": "2026-10-20T03:11:20+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T18:12:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67620,
+      "source": "dc",
+      "externalId": "6599178",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "93.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599178&page=1",
+      "postedLabel": "03:12",
+      "postedAt": "2026-10-20T03:12:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T18:12:32+00:00",
       "isSeed": false
     }
   ]
