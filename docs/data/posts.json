@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T17:01:32+00:00",
+  "updatedAt": "2026-10-19T17:03:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -591755,6 +591755,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T17:01:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67574,
+      "source": "dc",
+      "externalId": "6599127",
+      "title": "내가 31기본방 다시보구 라방 볼게",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599127&page=1",
+      "postedLabel": "02:02",
+      "postedAt": "2026-10-20T02:02:57+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:03:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67575,
+      "source": "dc",
+      "externalId": "6599128",
+      "title": "성격좋은 여자 파악법",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599128&page=1",
+      "postedLabel": "02:03",
+      "postedAt": "2026-10-20T02:03:11+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:03:32+00:00",
       "isSeed": false
     }
   ]
