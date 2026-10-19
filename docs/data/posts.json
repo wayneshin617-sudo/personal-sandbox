@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T07:46:12+00:00",
+  "updatedAt": "2026-10-19T07:47:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -792433,6 +792433,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T07:46:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66431,
+      "source": "dc",
+      "externalId": "6598130",
+      "title": "아래 갤러야 7기 결정사 링크요거임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598130&page=1",
+      "postedLabel": "16:46",
+      "postedAt": "2026-10-19T16:46:51+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:47:12+00:00",
       "isSeed": false
     }
   ]
