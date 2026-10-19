@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:34:22+00:00",
+  "updatedAt": "2026-10-19T03:35:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -785137,6 +785137,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T03:34:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66047,
+      "source": "dc",
+      "externalId": "6597838",
+      "title": "솔로리액션 14영자 와 머리 엄청 큰 캐릭터같다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597838&page=1",
+      "postedLabel": "12:34",
+      "postedAt": "2026-10-19T12:34:26+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:35:22+00:00",
       "isSeed": false
     }
   ]
