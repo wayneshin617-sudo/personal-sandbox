@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T06:35:53+00:00",
+  "updatedAt": "2026-10-19T06:37:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -791046,6 +791046,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T06:35:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66358,
+      "source": "dc",
+      "externalId": "6598048",
+      "title": "31순자 한달수입 최소 5천이네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598048&page=1",
+      "postedLabel": "15:36",
+      "postedAt": "2026-10-19T15:36:58+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:37:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66359,
+      "source": "dc",
+      "externalId": "6598049",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "135.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598049&page=1",
+      "postedLabel": "15:37",
+      "postedAt": "2026-10-19T15:37:27+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:37:52+00:00",
       "isSeed": false
     }
   ]
