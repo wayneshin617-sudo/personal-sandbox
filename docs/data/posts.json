@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:17:47+00:00",
+  "updatedAt": "2026-10-19T08:19:47+00:00",
   "posts": [
     {
       "id": 1,
@@ -794257,6 +794257,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T08:17:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66527,
+      "source": "dc",
+      "externalId": "6598182",
+      "title": "주119시간 일하는 약사현숙",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598182&page=1",
+      "postedLabel": "17:18",
+      "postedAt": "2026-10-19T17:18:34+09:00",
+      "views": 20,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:19:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66528,
+      "source": "dc",
+      "externalId": "6598183",
+      "title": "야근할정도로 일 많았던건 마감일이었다잖아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598183&page=1",
+      "postedLabel": "17:19",
+      "postedAt": "2026-10-19T17:19:19+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:19:47+00:00",
       "isSeed": false
     }
   ]
