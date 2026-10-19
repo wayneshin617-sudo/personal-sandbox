@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T05:35:52+00:00",
+  "updatedAt": "2026-10-19T05:36:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -789944,6 +789944,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T05:35:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66300,
+      "source": "dc",
+      "externalId": "6597984",
+      "title": "31순자가 진짜 회사에서 시간단축 해줬다면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597984&page=1",
+      "postedLabel": "14:36",
+      "postedAt": "2026-10-19T14:36:14+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T05:36:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66301,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9B%83%EC%83%81-%EC%A2%8B%EB%8B%A4%EA%B3%A0-%ED%95%A0%EB%95%8C-pq43asd5",
+      "title": "영철이 웃상 좋다고 할때",
+      "excerpt": "영자 잇몸미소 클로즈업 한건 피디 진짜 못됐음ㅋㅋㅋ",
+      "author": "롱****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9B%83%EC%83%81-%EC%A2%8B%EB%8B%A4%EA%B3%A0-%ED%95%A0%EB%95%8C-pq43asd5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T14:36:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T05:36:52+00:00",
       "isSeed": false
     }
   ]
