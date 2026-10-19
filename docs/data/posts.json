@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T11:09:19+00:00",
+  "updatedAt": "2026-10-19T11:10:20+00:00",
   "posts": [
     {
       "id": 1,
@@ -801154,6 +801154,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T11:09:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66890,
+      "source": "dc",
+      "externalId": "6598483",
+      "title": "신내5단지•신내6단지 아파트 재건축에 대한 단상",
+      "excerpt": "",
+      "author": "코벌",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598483&page=1",
+      "postedLabel": "20:09",
+      "postedAt": "2026-10-19T20:09:05+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:10:20+00:00",
       "isSeed": false
     }
   ]
