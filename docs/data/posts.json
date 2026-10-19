@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T23:35:22+00:00",
+  "updatedAt": "2026-10-19T23:36:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -596467,6 +596467,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T23:35:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67822,
+      "source": "dc",
+      "externalId": "6599351",
+      "title": "그레이스 티스올실버 퀸 엘리자베스 ㅇㅈㄹ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599351&page=1",
+      "postedLabel": "08:35",
+      "postedAt": "2026-10-20T08:35:21+09:00",
+      "views": 4,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T23:36:23+00:00",
       "isSeed": false
     }
   ]
