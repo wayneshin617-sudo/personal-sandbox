@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:50:57+00:00",
+  "updatedAt": "2026-10-19T02:51:57+00:00",
   "posts": [
     {
       "id": 1,
@@ -784396,6 +784396,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T02:50:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66008,
+      "source": "dc",
+      "externalId": "6597796",
+      "title": "22상철은 사람 사귀는 꼬라지만 봐도 안되겠다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597796&page=1",
+      "postedLabel": "11:50",
+      "postedAt": "2026-10-19T11:50:54+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:51:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66009,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AF%B8%EC%A1%B0-%EC%8E%84%EB%84%A4-2bf2fw8y",
+      "title": "미조 쎄네",
+      "excerpt": "영자 흘러내렸다고 놀리네 ㅋㅋ",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AF%B8%EC%A1%B0-%EC%8E%84%EB%84%A4-2bf2fw8y",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T11:51:45+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T02:51:57+00:00",
       "isSeed": false
     }
   ]
