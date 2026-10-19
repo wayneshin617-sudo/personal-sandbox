@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T11:26:13+00:00",
+  "updatedAt": "2026-10-19T11:27:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -801667,6 +801667,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T11:26:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66917,
+      "source": "dc",
+      "externalId": "6598504",
+      "title": "저 결정사에서 재산5점 준사람 7옥 21영호가 끝이야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598504&page=1",
+      "postedLabel": "20:26",
+      "postedAt": "2026-10-19T20:26:11+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:27:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66918,
+      "source": "dc",
+      "externalId": "6598505",
+      "title": "미서 생각보다 영자한테 절절했었네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598505&page=1",
+      "postedLabel": "20:26",
+      "postedAt": "2026-10-19T20:26:44+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:27:13+00:00",
       "isSeed": false
     }
   ]
