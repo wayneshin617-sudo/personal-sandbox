@@ -50,6 +50,59 @@ function asset(path) {
   return new URL(path, document.baseURI).href;
 }
 
+let leadWord = "";
+let leadId = "";
+
+function setHeartFace(img, photo, name) {
+  if (!img || !photo) return;
+  const next = asset(photo);
+  if (img.dataset.src === next) return;
+  img.dataset.src = next;
+  img.alt = name || "";
+  const frame = img.closest(".heart-frame");
+  img.onload = () => frame?.classList.add("has-photo");
+  img.src = next;
+}
+
+function paintLead(word, person) {
+  const mark = document.querySelector("#solo-watermark");
+  const label = document.querySelector("#solo-lead-word");
+  const lead = document.querySelector("#solo-lead");
+  if (mark) mark.textContent = word || person?.name || "";
+  if (label) label.textContent = word || person?.name || "";
+  if (person) {
+    lead?.classList.add("has-face");
+    setHeartFace(document.querySelector("#solo-lead-face"), person.photo, person.name);
+    setHeartFace(document.querySelector("#solo-loader-face"), person.photo, person.name);
+  }
+}
+
+function updateLead(word, ranks) {
+  const next = String(word || "").trim();
+  const person = typeof BoardCast === "undefined" ? null : BoardCast.matchWord(next) || BoardCast.fromRanks(ranks);
+  const id = person?.id || "";
+  if (next === leadWord && id === leadId) return;
+  leadWord = next;
+  leadId = id;
+  paintLead(next, person);
+}
+
+function showLoader() {
+  document.querySelector("#solo-loader")?.classList.add("show");
+}
+
+function hideLoader() {
+  document.querySelector("#solo-loader")?.classList.remove("show");
+}
+
+if (typeof BoardCast !== "undefined") {
+  paintLead("", BoardCast.person("soonja"));
+  for (const path of Object.values(BoardCast.FACES)) {
+    const img = new Image();
+    img.src = asset(path);
+  }
+}
+
 function nickColor(seed) {
   let hash = 0;
   for (const ch of seed || "익명") hash = (hash * 31 + ch.codePointAt(0)) >>> 0;
@@ -408,6 +461,7 @@ function loadOlder() {
   const start = Math.max(0, index - PAGE);
   const older = asc.slice(start, index);
   state.loadingOlder = true;
+  showLoader();
   const beforeHeight = scroller.scrollHeight;
   const fragment = document.createDocumentFragment();
   for (const post of older) {
@@ -422,6 +476,7 @@ function loadOlder() {
   trimNewestIfNeeded();
   scroller.scrollTop += scroller.scrollHeight - beforeHeight;
   state.loadingOlder = false;
+  hideLoader();
 }
 
 function relative(iso) {
@@ -938,6 +993,7 @@ function renderRealtime(posts) {
     rolling = false;
     paintRoll(false);
   }
+  updateLead(liveRanks[0]?.word || "", liveRanks);
 }
 
 function paintRoll(advance) {
@@ -1044,8 +1100,12 @@ function replacePosts(posts) {
 }
 
 async function pull() {
+  if (!state.ready) showLoader();
   const board = await loadBoard();
-  if (!board) return;
+  if (!board) {
+    if (state.ready) hideLoader();
+    return;
+  }
   const posts = board.posts || [];
   if (!state.ready) {
     replacePosts(posts);
@@ -1053,6 +1113,7 @@ async function pull() {
     stamp = board.updatedAt || "";
     state.ready = true;
     reload();
+    hideLoader();
     return;
   }
   if ((board.updatedAt || "") === stamp && posts.length === allPosts.length) {
@@ -1270,6 +1331,7 @@ if (window.ResizeObserver) {
 }
 
 pull().catch(() => {
+  hideLoader();
   const since = document.querySelector("#since");
   since.textContent = "목록 파일을 아직 읽지 못했습니다.";
 });
@@ -1483,6 +1545,7 @@ function pairCard(person) {
 
 function pokeCard(person) {
   const types = personTypes(person);
+  const intro = typeof BoardCast === "undefined" ? null : BoardCast.person(person.id);
   const root = document.createElement("article");
   root.className = "poke";
   root.dataset.type = types.length > 1 ? "dual" : types[0] || "normal";
@@ -1490,6 +1553,9 @@ function pokeCard(person) {
     root.style.setProperty("--tone-a", TYPE_FILL[types[0]]);
     root.style.setProperty("--tone-b", TYPE_FILL[types[1]]);
   }
+  const kicker = document.createElement("p");
+  kicker.className = "poke-kicker";
+  kicker.textContent = "첫 등장";
   const head = document.createElement("div");
   head.className = "poke-head";
   const name = document.createElement("strong");
@@ -1509,19 +1575,22 @@ function pokeCard(person) {
   badges.append(...types.map((kind) => typeMark(kind)));
   const job = document.createElement("span");
   job.className = "poke-job";
-  job.textContent = person.job || "직업 비공개";
+  job.textContent = person.id === "youngsik" ? "외국계 SCM" : person.job || "직업 비공개";
   type.append(badges, job);
+  const line = document.createElement("p");
+  line.className = "poke-line";
+  line.textContent = intro?.line || person.note || "첫 등장 소개를 준비 중입니다.";
   const frame = document.createElement("div");
-  frame.className = "poke-photo";
+  frame.className = "poke-photo heart heart-frame has-photo";
   const img = document.createElement("img");
-  img.src = new URL(person.photo, document.baseURI).href;
-  img.alt = "";
+  img.src = asset(intro?.photo || person.photo);
+  img.alt = person.name;
   frame.append(img);
   const moves = document.createElement("div");
   moves.className = "poke-moves";
   for (const row of [
-    ["나이", person.year ? `${person.year}년생` : ""],
-    ["취미", person.hobby || ""],
+    ["나이", intro?.age || (person.year ? `${person.year}년생` : "")],
+    ["직업", person.id === "youngsik" ? "외국계 SCM" : person.job || ""],
     ["가족", person.note || ""],
   ]) {
     const move = document.createElement("p");
@@ -1545,7 +1614,7 @@ function pokeCard(person) {
   const holo = document.createElement("span");
   holo.className = "poke-holo";
   holo.setAttribute("aria-hidden", "true");
-  root.append(head, type, frame, moves, foot, holo);
+  root.append(kicker, head, type, line, frame, moves, foot, holo);
   return root;
 }
 

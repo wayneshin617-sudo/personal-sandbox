@@ -26,7 +26,7 @@ html.mobile .m-bar {
   flex: none;
   min-height: calc(52px + env(safe-area-inset-top));
   padding: calc(8px + env(safe-area-inset-top)) 10px 8px;
-  background: rgba(8, 9, 11, 0.94);
+  background: color-mix(in srgb, var(--bg-deep) 94%, transparent);
   border-bottom: 1px solid var(--line);
   position: relative;
   z-index: 40;
@@ -57,7 +57,7 @@ html.mobile .m-bar button {
 
 html.mobile #m-back {
   justify-self: start;
-  color: var(--lime);
+  color: var(--gold);
 }
 
 html.mobile #m-back[hidden] { display: none; }
@@ -74,7 +74,7 @@ html.mobile .view-tabs {
   margin: 0;
   padding: 6px 8px calc(6px + env(safe-area-inset-bottom));
   gap: 6px;
-  background: rgba(16, 18, 22, 0.96);
+  background: color-mix(in srgb, var(--rail) 96%, transparent);
   border-top: 1px solid var(--line);
 }
 
@@ -131,6 +131,18 @@ html.mobile .feed-head-logo {
   width: 32px;
   height: 32px;
 }
+
+html.mobile .solo-lead {
+  top: 108px;
+  width: 108px;
+  opacity: 0.16;
+}
+
+html.mobile .solo-watermark {
+  font-size: 64px;
+}
+
+html.mobile .bgm-toggle { width: max-content; }
 
 html.mobile #feed { padding: 8px 12px 8px; }
 html.mobile .msg {
