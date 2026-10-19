@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:35:22+00:00",
+  "updatedAt": "2026-10-19T03:36:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -785156,6 +785156,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T03:35:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66048,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%ED%96%A5%EC%9D%B8%EC%9D%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EB%AA%BB%EC%B9%9C%ED%95%B4%EC%A0%B8-6oqy4hgm",
+      "title": "내향인은 친해지고싶은 사람이 있으면.. 못친해져",
+      "excerpt": "외향인은 다른 방법이 있어? 같이 일하는 사람은 아니라서, 접점이 없는데.. 뜬금없이 친해지고싶으면 어떻게해?",
+      "author": "F*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%ED%96%A5%EC%9D%B8%EC%9D%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EB%AA%BB%EC%B9%9C%ED%95%B4%EC%A0%B8-6oqy4hgm",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T12:36:10+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T03:36:21+00:00",
       "isSeed": false
     }
   ]
