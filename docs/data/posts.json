@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:09:41+00:00",
+  "updatedAt": "2026-10-19T09:10:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -795853,6 +795853,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T09:09:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66611,
+      "source": "dc",
+      "externalId": "6598275",
+      "title": "7옥순은 미서한테 1도 관심 없어보이는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598275&page=1",
+      "postedLabel": "18:09",
+      "postedAt": "2026-10-19T18:09:34+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:10:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66612,
+      "source": "dc",
+      "externalId": "6598276",
+      "title": "추미애 '한국여자는 한국사회의 재정 빨대같다'",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598276&page=1",
+      "postedLabel": "18:10",
+      "postedAt": "2026-10-19T18:10:03+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:10:41+00:00",
       "isSeed": false
     }
   ]
