@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:04:59+00:00",
+  "updatedAt": "2026-10-19T01:05:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -779703,6 +779703,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:04:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65761,
+      "source": "qoo",
+      "externalId": "4380054285",
+      "title": "남자는 나이 ㅈㄴ많고 여자는 ㅈㄴ어리게 판 짜는거 개시름",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380054285",
+      "postedLabel": "10:05",
+      "postedAt": "2026-10-19T10:05:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:05:58+00:00",
       "isSeed": false
     }
   ]
