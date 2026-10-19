@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T13:45:13+00:00",
+  "updatedAt": "2026-10-19T13:47:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -585162,6 +585162,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T13:45:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67041,
+      "source": "dc",
+      "externalId": "6598734",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598734&page=1",
+      "postedLabel": "22:46",
+      "postedAt": "2026-10-19T22:46:13+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:47:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67042,
+      "source": "dc",
+      "externalId": "6598735",
+      "title": "미국 깡시골서 애 키울 생각을 하냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598735&page=1",
+      "postedLabel": "22:46",
+      "postedAt": "2026-10-19T22:46:20+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:47:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67043,
+      "source": "dc",
+      "externalId": "6598736",
+      "title": "영숙아 그냥 혼자 살아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598736&page=1",
+      "postedLabel": "22:46",
+      "postedAt": "2026-10-19T22:46:21+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:47:13+00:00",
       "isSeed": false
     }
   ]
