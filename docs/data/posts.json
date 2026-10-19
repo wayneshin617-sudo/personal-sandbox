@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:51:01+00:00",
+  "updatedAt": "2026-10-19T01:52:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -780672,6 +780672,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:51:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65812,
+      "source": "dc",
+      "externalId": "6597706",
+      "title": "7옥을 미서에 갖다 붙이지마라 극혐이다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597706&page=1",
+      "postedLabel": "10:51",
+      "postedAt": "2026-10-19T10:51:00+09:00",
+      "views": 9,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:52:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65813,
+      "source": "dc",
+      "externalId": "6597707",
+      "title": "34영호랑 34영철은 블라인드보면 인성차이가 좀 나나봐 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597707&page=1",
+      "postedLabel": "10:51",
+      "postedAt": "2026-10-19T10:51:06+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:52:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65814,
+      "source": "dc",
+      "externalId": "6597708",
+      "title": "1호아재 나솔갤 함?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597708&page=1",
+      "postedLabel": "10:51",
+      "postedAt": "2026-10-19T10:51:31+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:52:01+00:00",
       "isSeed": false
     }
   ]
