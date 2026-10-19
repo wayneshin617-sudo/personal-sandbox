@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:36:05+00:00",
+  "updatedAt": "2026-10-19T02:37:57+00:00",
   "posts": [
     {
       "id": 1,
@@ -784092,6 +784092,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-19T02:36:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65992,
+      "source": "dc",
+      "externalId": "6597778",
+      "title": "살아보니 20후30초에 결혼하는게맞아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597778&page=1",
+      "postedLabel": "11:36",
+      "postedAt": "2026-10-19T11:36:50+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:37:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65993,
+      "source": "dc",
+      "externalId": "6597779",
+      "title": "경륜도 백합놓치고 결국 저리대는구나 ㅎ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597779&page=1",
+      "postedLabel": "11:37",
+      "postedAt": "2026-10-19T11:37:38+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:37:57+00:00",
       "isSeed": false
     }
   ]
