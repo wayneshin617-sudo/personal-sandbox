@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T11:32:13+00:00",
+  "updatedAt": "2026-10-19T11:33:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -801800,6 +801800,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T11:32:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66924,
+      "source": "dc",
+      "externalId": "6598512",
+      "title": "미서가 괜히 불여시라고 한게 아니었네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598512&page=1",
+      "postedLabel": "20:32",
+      "postedAt": "2026-10-19T20:32:23+09:00",
+      "views": 11,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:33:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66925,
+      "source": "dc",
+      "externalId": "6598513",
+      "title": "7옥은 사람이 좀 차갑다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598513&page=1",
+      "postedLabel": "20:32",
+      "postedAt": "2026-10-19T20:32:57+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:33:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66926,
+      "source": "qoo",
+      "externalId": "4380685564",
+      "title": "나는솔로 7기안봤는데 ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380685564",
+      "postedLabel": "20:33",
+      "postedAt": "2026-10-19T20:33:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:33:13+00:00",
       "isSeed": false
     }
   ]
