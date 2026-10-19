@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:22:59+00:00",
+  "updatedAt": "2026-10-19T01:24:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -779988,6 +779988,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:22:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65776,
+      "source": "dc",
+      "externalId": "6597671",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597671&page=1",
+      "postedLabel": "10:24",
+      "postedAt": "2026-10-19T10:24:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:24:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65777,
+      "source": "dc",
+      "externalId": "6597672",
+      "title": "7옥은 리얼 멍청한게",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.71",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597672&page=1",
+      "postedLabel": "10:24",
+      "postedAt": "2026-10-19T10:24:20+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:24:58+00:00",
       "isSeed": false
     }
   ]
