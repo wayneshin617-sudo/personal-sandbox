@@ -1547,7 +1547,7 @@ function pairCard(person) {
   button.dataset.id = person.id;
   button.style.setProperty("--glow", PAIR_COLORS[person.id] || "#ffd0e0");
   const photo = document.createElement("img");
-  photo.src = `${new URL(String(person.photo).split("?")[0], document.baseURI).href}?v=2`;
+  photo.src = `${new URL(String(person.photo).split("?")[0], document.baseURI).href}?v=4`;
   photo.alt = "";
   const name = document.createElement("strong");
   name.textContent = person.name;
@@ -1613,7 +1613,7 @@ function pokeCard(person) {
   badges.append(...types.map((kind) => typeMark(kind)));
   const job = document.createElement("span");
   job.className = "poke-job";
-  job.textContent = person.id === "youngsik" ? "외국계 SCM" : person.job || "직업 비공개";
+  job.textContent = person.job || "직업 비공개";
   type.append(badges, job);
   const line = document.createElement("p");
   line.className = "poke-line";
@@ -1622,7 +1622,7 @@ function pokeCard(person) {
   moves.className = "poke-moves";
   for (const row of [
     ["나이", intro?.age || (person.year ? `${person.year}년생` : "")],
-    ["직업", person.id === "youngsik" ? "외국계 SCM" : person.job || ""],
+    ["직업", person.job || ""],
     ["가족", person.note || ""],
   ]) {
     const move = document.createElement("p");
