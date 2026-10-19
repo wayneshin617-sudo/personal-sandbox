@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:08:41+00:00",
+  "updatedAt": "2026-10-19T09:09:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -795815,6 +795815,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:08:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66609,
+      "source": "dc",
+      "externalId": "6598274",
+      "title": "근데 7옥 미서 서로 최종선택 안했는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598274&page=1",
+      "postedLabel": "18:09",
+      "postedAt": "2026-10-19T18:09:23+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:09:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66610,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-%EB%B6%88%EC%8C%8D%ED%95%98%EB%84%A4-d0j4ewpv",
+      "title": "영숙 불쌍하네",
+      "excerpt": "34기 1화만 봤고 여왕벌 논란은 인스타에서 봄 근데 아들 낳으려고 딸만 줄줄 8낳고 영숙은 집에서;;태어나고 중학생때 알바해서 부모님 드렸다..무슨 우리 부모님 세대같음 불쌍해.. 저런 집안에서 정상적으로 컸을까 싶음",
+      "author": "!*********",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%B6%88%EC%8C%8D%ED%95%98%EB%84%A4-d0j4ewpv",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T18:09:29+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T09:09:41+00:00",
       "isSeed": false
     }
   ]
