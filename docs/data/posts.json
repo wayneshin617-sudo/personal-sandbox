@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T15:13:48+00:00",
+  "updatedAt": "2026-10-19T15:14:48+00:00",
   "posts": [
     {
       "id": 1,
@@ -590786,6 +590786,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T15:13:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67337,
+      "source": "dc",
+      "externalId": "6599012",
+      "title": "노괴들은 왜이리 멍청한거야 근데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599012&page=1",
+      "postedLabel": "00:13",
+      "postedAt": "2026-10-20T00:13:40+09:00",
+      "views": 8,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T15:14:48+00:00",
       "isSeed": false
     }
   ]
