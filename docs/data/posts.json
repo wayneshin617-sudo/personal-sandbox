@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T22:52:22+00:00",
+  "updatedAt": "2026-10-19T22:57:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596125,6 +596125,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T22:52:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67804,
+      "source": "dc",
+      "externalId": "6599321",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "217.138",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599321&page=1",
+      "postedLabel": "07:56",
+      "postedAt": "2026-10-20T07:56:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T22:57:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67805,
+      "source": "dc",
+      "externalId": "6599322",
+      "title": "이거햐면 선 ㅊ 순7 마 원 드 려 요(9시까지)",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599322&page=1",
+      "postedLabel": "07:57",
+      "postedAt": "2026-10-20T07:57:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T22:57:22+00:00",
       "isSeed": false
     }
   ]
