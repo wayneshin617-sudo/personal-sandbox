@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:34:13+00:00",
+  "updatedAt": "2026-10-19T12:35:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -584193,6 +584193,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:34:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66990,
+      "source": "dc",
+      "externalId": "6598629",
+      "title": "와 아파트 음식 냄새 머냐 ㅁㅊ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598629&page=1",
+      "postedLabel": "21:34",
+      "postedAt": "2026-10-19T21:34:41+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:35:13+00:00",
       "isSeed": false
     }
   ]
