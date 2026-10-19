@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T13:27:14+00:00",
+  "updatedAt": "2026-10-19T13:28:15+00:00",
   "posts": [
     {
       "id": 1,
@@ -584801,6 +584801,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T13:27:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67022,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EA%B0%80%EB%B3%B4%EA%B8%B0%EC%97%94-%EC%9C%A0%ED%8A%9C%EB%B2%84-7awyx0km",
+      "title": "내가보기엔 유튜버",
+      "excerpt": "나는야수민이랑 34기정숙이랑 닮은거 같아",
+      "author": "s*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B0%80%EB%B3%B4%EA%B8%B0%EC%97%94-%EC%9C%A0%ED%8A%9C%EB%B2%84-7awyx0km",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T22:28:01+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T13:28:15+00:00",
       "isSeed": false
     }
   ]
