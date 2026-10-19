@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:29:59+00:00",
+  "updatedAt": "2026-10-19T01:33:21+00:00",
   "posts": [
     {
       "id": 1,
@@ -780159,6 +780159,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:29:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65785,
+      "source": "dc",
+      "externalId": "6597679",
+      "title": "7옥은 남자 1호도 별로 안좋아했음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597679&page=1",
+      "postedLabel": "10:31",
+      "postedAt": "2026-10-19T10:31:50+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-19T01:33:21+00:00",
       "isSeed": false
     }
   ]
