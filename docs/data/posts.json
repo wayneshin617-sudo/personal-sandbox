@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T16:16:48+00:00",
+  "updatedAt": "2026-10-19T16:18:50+00:00",
   "posts": [
     {
       "id": 1,
@@ -588164,6 +588164,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T16:16:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67385,
+      "source": "dc",
+      "externalId": "6599076",
+      "title": "댓글은안봤지만 노괴노괴하면서 그만나오라는 악플이주겠지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599076&page=1",
+      "postedLabel": "01:18",
+      "postedAt": "2026-10-20T01:18:35+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T16:18:50+00:00",
       "isSeed": false
     }
   ]
