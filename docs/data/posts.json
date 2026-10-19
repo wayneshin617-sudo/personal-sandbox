@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T06:52:53+00:00",
+  "updatedAt": "2026-10-19T06:53:52+00:00",
   "posts": [
     {
       "id": 1,
@@ -791312,6 +791312,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T06:52:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66372,
+      "source": "dc",
+      "externalId": "6598064",
+      "title": "14영자 키가 몇이야?? 56이 아니라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598064&page=1",
+      "postedLabel": "15:52",
+      "postedAt": "2026-10-19T15:52:43+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:53:52+00:00",
       "isSeed": false
     }
   ]
