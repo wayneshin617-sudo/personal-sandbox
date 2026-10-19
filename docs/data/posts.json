@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T05:39:53+00:00",
+  "updatedAt": "2026-10-19T05:40:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -790039,6 +790039,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T05:39:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66305,
+      "source": "dc",
+      "externalId": "6597988",
+      "title": "미서 ♡ 7옥 이둘은 안사귀어도 뭐랃느 프로그램 해야함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597988&page=1",
+      "postedLabel": "14:40",
+      "postedAt": "2026-10-19T14:40:08+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T05:40:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66306,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4%ED%95%9C%ED%85%8C%EC%84%9C-24%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%83%84%EC%83%88%EA%B0%80-%EB%82%9C%EB%8B%A4-50mqtv4a",
+      "title": "34영철이한테서 24옥순이 냄새가 난다",
+      "excerpt": "이성한테 치명적인척 하는거라던지 자기소개때 떨면서 PT하는거라던지 24옥순 심리랑 비슷한 기재로 나솔에 나온듯하다",
+      "author": "l********",
+      "company": "국가철도공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4%ED%95%9C%ED%85%8C%EC%84%9C-24%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%83%84%EC%83%88%EA%B0%80-%EB%82%9C%EB%8B%A4-50mqtv4a",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T14:40:42+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T05:40:53+00:00",
       "isSeed": false
     }
   ]
