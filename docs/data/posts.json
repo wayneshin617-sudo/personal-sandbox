@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T23:42:23+00:00",
+  "updatedAt": "2026-10-19T23:44:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596505,6 +596505,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T23:42:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67824,
+      "source": "dc",
+      "externalId": "6599355",
+      "title": "영자줌 유튜브채널까지있네 ?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599355&page=1",
+      "postedLabel": "08:43",
+      "postedAt": "2026-10-20T08:43:40+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T23:44:22+00:00",
       "isSeed": false
     }
   ]
