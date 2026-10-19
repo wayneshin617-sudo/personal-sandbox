@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:02:58+00:00",
+  "updatedAt": "2026-10-19T03:03:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -784548,6 +784548,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T03:02:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66016,
+      "source": "dc",
+      "externalId": "6597806",
+      "title": "계약결혼 상철이 또 구라치네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597806&page=1",
+      "postedLabel": "12:02",
+      "postedAt": "2026-10-19T12:02:50+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:03:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66017,
+      "source": "dc",
+      "externalId": "6597807",
+      "title": "나르라고 강한 확신이 드는 출연자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597807&page=1",
+      "postedLabel": "12:03",
+      "postedAt": "2026-10-19T12:03:03+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:03:58+00:00",
       "isSeed": false
     }
   ]
