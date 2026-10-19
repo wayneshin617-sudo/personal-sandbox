@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:14:14+00:00",
+  "updatedAt": "2026-10-19T12:15:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -583870,6 +583870,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:14:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66973,
+      "source": "dc",
+      "externalId": "6598599",
+      "title": "비율안좋고 골격 크게 태어났는데, 다이어트한다고",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "59.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598599&page=1",
+      "postedLabel": "21:14",
+      "postedAt": "2026-10-19T21:14:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:15:13+00:00",
       "isSeed": false
     }
   ]
