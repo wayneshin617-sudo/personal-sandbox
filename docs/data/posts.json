@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:50:14+00:00",
+  "updatedAt": "2026-10-19T12:51:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -584421,6 +584421,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:50:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67002,
+      "source": "dc",
+      "externalId": "6598655",
+      "title": "34순자 아산병원 12년차면 지금 36살이네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598655&page=1",
+      "postedLabel": "21:50",
+      "postedAt": "2026-10-19T21:50:26+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:51:13+00:00",
       "isSeed": false
     }
   ]
