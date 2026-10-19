@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:08:48+00:00",
+  "updatedAt": "2026-10-19T14:09:49+00:00",
   "posts": [
     {
       "id": 1,
@@ -587100,6 +587100,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:08:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67143,
+      "source": "dc",
+      "externalId": "6598817",
+      "title": "아 이제 노잼이네 ㅅㅂ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598817&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-19T23:09:00+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:09:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67144,
+      "source": "dc",
+      "externalId": "6598818",
+      "title": "쥐우성 머리 위가 허전하네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "113.10",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598818&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-19T23:09:07+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:09:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67145,
+      "source": "dc",
+      "externalId": "6598819",
+      "title": "ㅅㅂ 코골보소 ㅋㅋㄱㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598819&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-19T23:09:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:09:49+00:00",
       "isSeed": false
     }
   ]
