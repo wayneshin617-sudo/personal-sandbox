@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T05:51:53+00:00",
+  "updatedAt": "2026-10-19T05:53:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -790286,6 +790286,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T05:51:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66318,
+      "source": "dc",
+      "externalId": "6598004",
+      "title": "순자 피코도 제작진에서 만들어준거임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598004&page=1",
+      "postedLabel": "14:53",
+      "postedAt": "2026-10-19T14:53:08+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T05:53:53+00:00",
       "isSeed": false
     }
   ]
