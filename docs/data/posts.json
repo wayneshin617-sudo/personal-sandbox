@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T00:36:58+00:00",
+  "updatedAt": "2026-10-19T00:37:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -779190,6 +779190,25 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-19T00:36:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65734,
+      "source": "dc",
+      "externalId": "6597630",
+      "title": "7옥: 모쏠이라고 했지... 경험이 없다는 건 아닌데요...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "60.119",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597630&page=1",
+      "postedLabel": "09:37",
+      "postedAt": "2026-10-19T09:37:28+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T00:37:59+00:00",
       "isSeed": false
     }
   ]
