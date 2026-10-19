@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:12:48+00:00",
+  "updatedAt": "2026-10-19T14:13:48+00:00",
   "posts": [
     {
       "id": 1,
@@ -587366,6 +587366,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:12:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67157,
+      "source": "dc",
+      "externalId": "6598835",
+      "title": "인덕션이 다 비슷하지 않나",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598835&page=1",
+      "postedLabel": "23:12",
+      "postedAt": "2026-10-19T23:12:43+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:13:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67158,
+      "source": "dc",
+      "externalId": "6598838",
+      "title": "저집 인테리어로 유명한 집 렌탈임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.157",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598838&page=1",
+      "postedLabel": "23:13",
+      "postedAt": "2026-10-19T23:13:33+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:13:48+00:00",
       "isSeed": false
     }
   ]
