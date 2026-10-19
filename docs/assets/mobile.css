@@ -20,7 +20,7 @@ html.mobile .stage {
 
 html.mobile .m-bar {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-columns: auto minmax(0, 1fr) auto auto;
   align-items: center;
   gap: 6px;
   flex: none;
@@ -143,6 +143,10 @@ html.mobile .solo-watermark {
 }
 
 html.mobile .bgm-toggle { width: max-content; }
+html.mobile .m-bar .bgm-toggle {
+  margin-top: 0;
+  font-size: 13px;
+}
 
 html.mobile #feed { padding: 8px 12px 8px; }
 html.mobile .msg {

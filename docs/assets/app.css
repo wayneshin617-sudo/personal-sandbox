@@ -1245,12 +1245,19 @@ mark {
   border-color: var(--gold);
 }
 
-#bgm-host {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
+#bgm-host,
+#bgm-host iframe {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 200px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  opacity: 0.02;
+  pointer-events: none;
+  z-index: 0;
 }
 
 .solo-backdrop {
