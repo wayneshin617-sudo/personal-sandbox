@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T05:29:56+00:00",
+  "updatedAt": "2026-10-19T05:31:03+00:00",
   "posts": [
     {
       "id": 1,
@@ -789868,6 +789868,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T05:29:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66296,
+      "source": "dc",
+      "externalId": "6597978",
+      "title": "미서 미조는 재밌는데 빌런이 아님",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597978&page=1",
+      "postedLabel": "14:30",
+      "postedAt": "2026-10-19T14:30:03+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T05:31:03+00:00",
       "isSeed": false
     }
   ]
