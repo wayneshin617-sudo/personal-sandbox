@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:09:13+00:00",
+  "updatedAt": "2026-10-19T12:12:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -583794,6 +583794,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:09:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66969,
+      "source": "dc",
+      "externalId": "6598591",
+      "title": "남자가 대기업인데 흙수저 vs 중소기업인데 부모가 집 사줌",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598591&page=1",
+      "postedLabel": "21:11",
+      "postedAt": "2026-10-19T21:11:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:12:13+00:00",
       "isSeed": false
     }
   ]
