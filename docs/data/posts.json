@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T11:46:12+00:00",
+  "updatedAt": "2026-10-19T11:50:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -583509,6 +583509,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T11:46:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66954,
+      "source": "qoo",
+      "externalId": "4380705930",
+      "title": "상철 노코멘트 뭐지 ㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380705930",
+      "postedLabel": "20:49",
+      "postedAt": "2026-10-19T20:49:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:50:13+00:00",
       "isSeed": false
     }
   ]
