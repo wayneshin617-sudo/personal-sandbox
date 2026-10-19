@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T11:24:13+00:00",
+  "updatedAt": "2026-10-19T11:25:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -801591,6 +801591,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T11:24:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66913,
+      "source": "dc",
+      "externalId": "6598500",
+      "title": "미서는 14영자 7옥 둘 다 안 어울려ㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598500&page=1",
+      "postedLabel": "20:24",
+      "postedAt": "2026-10-19T20:24:11+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-19T11:25:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66914,
+      "source": "dc",
+      "externalId": "6598501",
+      "title": "연봉1억 vs 백수",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.46",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598501&page=1",
+      "postedLabel": "20:24",
+      "postedAt": "2026-10-19T20:24:29+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:25:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66915,
+      "source": "dc",
+      "externalId": "6598502",
+      "title": "7옥순도 27상철같이 잘생긴 남자가 적극적으로 하면 넘어갔을듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598502&page=1",
+      "postedLabel": "20:24",
+      "postedAt": "2026-10-19T20:24:30+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:25:13+00:00",
       "isSeed": false
     }
   ]
