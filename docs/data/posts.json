@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:25:42+00:00",
+  "updatedAt": "2026-10-19T08:26:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -794409,6 +794409,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T08:25:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66535,
+      "source": "qoo",
+      "externalId": "4380501224",
+      "title": "사계 늙다리편 끝나서 좋다 했는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380501224",
+      "postedLabel": "17:25",
+      "postedAt": "2026-10-19T17:25:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:26:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66536,
+      "source": "dc",
+      "externalId": "6598191",
+      "title": "만약 사장과 협의아래 일찍 퇴근구조가 맞다면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598191&page=1",
+      "postedLabel": "17:26",
+      "postedAt": "2026-10-19T17:26:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:26:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66537,
+      "source": "dc",
+      "externalId": "6598192",
+      "title": "저얼굴 자성격으로 아직 싱글인거보면",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598192&page=1",
+      "postedLabel": "17:26",
+      "postedAt": "2026-10-19T17:26:11+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:26:41+00:00",
       "isSeed": false
     }
   ]
