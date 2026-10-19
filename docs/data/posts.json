@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:50:23+00:00",
+  "updatedAt": "2026-10-19T04:51:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -786695,6 +786695,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T04:50:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66129,
+      "source": "dc",
+      "externalId": "6597925",
+      "title": "순자 수호하는거 소속사 사람들이라 생각하면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597925&page=1",
+      "postedLabel": "13:51",
+      "postedAt": "2026-10-19T13:51:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:51:23+00:00",
       "isSeed": false
     }
   ]
