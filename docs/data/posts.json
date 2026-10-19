@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:38:01+00:00",
+  "updatedAt": "2026-10-19T01:41:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -780349,6 +780349,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:38:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65795,
+      "source": "dc",
+      "externalId": "6597689",
+      "title": "7옥14영자 둘 다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "79.116",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597689&page=1",
+      "postedLabel": "10:39",
+      "postedAt": "2026-10-19T10:39:54+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:41:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65796,
+      "source": "dc",
+      "externalId": "6597690",
+      "title": "14영자 얼굴 안큰데? 누가 자꾸 음해하냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597690&page=1",
+      "postedLabel": "10:40",
+      "postedAt": "2026-10-19T10:40:31+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:41:00+00:00",
       "isSeed": false
     }
   ]
