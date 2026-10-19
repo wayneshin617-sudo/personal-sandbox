@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:53:22+00:00",
+  "updatedAt": "2026-10-19T04:55:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -786828,6 +786828,63 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T04:53:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66136,
+      "source": "dc",
+      "externalId": "6597931",
+      "title": "31순자가 그래도 31여출들은 다 초토화 시켰네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.241",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597931&page=1",
+      "postedLabel": "13:54",
+      "postedAt": "2026-10-19T13:54:38+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:55:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66137,
+      "source": "dc",
+      "externalId": "6597933",
+      "title": "지감 순자 까글 쓰는 것도 다 순천지들이지?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597933&page=1",
+      "postedLabel": "13:55",
+      "postedAt": "2026-10-19T13:55:06+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:55:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66138,
+      "source": "dc",
+      "externalId": "6597934",
+      "title": "211.234 58.29 000 얘네 셋은 확실히 지인이거나 댓글알바임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597934&page=1",
+      "postedLabel": "13:55",
+      "postedAt": "2026-10-19T13:55:07+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:55:23+00:00",
       "isSeed": false
     }
   ]
