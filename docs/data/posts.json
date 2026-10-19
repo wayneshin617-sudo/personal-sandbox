@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:45:57+00:00",
+  "updatedAt": "2026-10-19T02:47:57+00:00",
   "posts": [
     {
       "id": 1,
@@ -784301,6 +784301,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T02:45:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66003,
+      "source": "dc",
+      "externalId": "6597791",
+      "title": "미서A형 7옥O형 14영자B형임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597791&page=1",
+      "postedLabel": "11:46",
+      "postedAt": "2026-10-19T11:46:52+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:47:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66004,
+      "source": "dc",
+      "externalId": "6597792",
+      "title": "나이들면 미혼도 산악회 돌싱아지매들처럼노냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597792&page=1",
+      "postedLabel": "11:47",
+      "postedAt": "2026-10-19T11:47:16+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:47:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66005,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-twcs6dc8",
+      "title": "영철",
+      "excerpt": "지승현 닮음",
+      "author": "내******",
+      "company": "화신",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-twcs6dc8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T11:47:46+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T02:47:57+00:00",
       "isSeed": false
     }
   ]
