@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:39:41+00:00",
+  "updatedAt": "2026-10-19T09:40:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -796803,6 +796803,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:39:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66661,
+      "source": "dc",
+      "externalId": "6598332",
+      "title": "돼옥순님 그리우면 개추..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598332&page=1",
+      "postedLabel": "18:40",
+      "postedAt": "2026-10-19T18:40:18+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:40:41+00:00",
       "isSeed": false
     }
   ]
