@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T19:13:32+00:00",
+  "updatedAt": "2026-10-19T19:19:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -593180,6 +593180,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T19:13:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67649,
+      "source": "dc",
+      "externalId": "6599217",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599217&page=1",
+      "postedLabel": "04:18",
+      "postedAt": "2026-10-20T04:18:59+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T19:19:31+00:00",
       "isSeed": false
     }
   ]
