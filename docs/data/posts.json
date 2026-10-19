@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T18:29:32+00:00",
+  "updatedAt": "2026-10-19T18:31:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -592800,6 +592800,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T18:29:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67629,
+      "source": "dc",
+      "externalId": "6599191",
+      "title": "영숙줌이 폭렬이 퐁퐁시킬수 있으려나",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599191&page=1",
+      "postedLabel": "03:30",
+      "postedAt": "2026-10-20T03:30:57+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T18:31:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67630,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%88%EB%B3%B4%EA%B2%A0%EC%A7%80-p2yydq8o",
+      "title": "안보겠지",
+      "excerpt": "중국인이 조금씩 한국에 들어오고 자연스럽게 중국문화를 일상화 시키는게 일제강점기 ..일본이 하던거랑 다른게 없다.. 글로벌문화를 인정하고 하는거랑 우리문화를 없애고 그 문화를 접목 시키는건 다른거야 한국인 앞잡이 시켜서..하는짓이 똑같은데 또 당하는거니.....",
+      "author": "a******",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%88%EB%B3%B4%EA%B2%A0%EC%A7%80-p2yydq8o",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T03:31:20+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T18:31:32+00:00",
       "isSeed": false
     }
   ]
