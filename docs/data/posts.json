@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:34:42+00:00",
+  "updatedAt": "2026-10-19T09:35:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -796632,6 +796632,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:34:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66652,
+      "source": "dc",
+      "externalId": "6598321",
+      "title": "7옥이 재산이 많던 이쁘던 늙으면 추하다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598321&page=1",
+      "postedLabel": "18:34",
+      "postedAt": "2026-10-19T18:34:51+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:35:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66653,
+      "source": "dc",
+      "externalId": "6598322",
+      "title": "남규홍은 미서랑 7옥순 어떻게든 붙이려고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598322&page=1",
+      "postedLabel": "18:35",
+      "postedAt": "2026-10-19T18:35:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:35:41+00:00",
       "isSeed": false
     }
   ]
