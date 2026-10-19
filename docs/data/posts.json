@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T19:51:46+00:00",
+  "updatedAt": "2026-10-19T19:53:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -594776,6 +594776,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T19:51:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67733,
+      "source": "dc",
+      "externalId": "6599235",
+      "title": "물 좀 떠달라면 안 돼?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599235&page=1",
+      "postedLabel": "04:52",
+      "postedAt": "2026-10-20T04:52:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T19:53:41+00:00",
       "isSeed": false
     }
   ]
