@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:01:01+00:00",
+  "updatedAt": "2026-10-19T02:02:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -780900,6 +780900,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T02:01:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65824,
+      "source": "dc",
+      "externalId": "6597719",
+      "title": "미서 이거 표정도 그렇고 노무 징그럽다 이거야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.75",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597719&page=1",
+      "postedLabel": "11:00",
+      "postedAt": "2026-10-19T11:00:53+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:02:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65825,
+      "source": "dc",
+      "externalId": "6597720",
+      "title": "7옥은 눈이 높다기보다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597720&page=1",
+      "postedLabel": "11:01",
+      "postedAt": "2026-10-19T11:01:12+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:02:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65826,
+      "source": "dc",
+      "externalId": "6597721",
+      "title": "미서랑 7옥순은 둘 다..방송보기 전까지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597721&page=1",
+      "postedLabel": "11:01",
+      "postedAt": "2026-10-19T11:01:47+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:02:01+00:00",
       "isSeed": false
     }
   ]
