@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:54:41+00:00",
+  "updatedAt": "2026-10-19T09:55:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -797335,6 +797335,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:54:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66689,
+      "source": "dc",
+      "externalId": "6598359",
+      "title": "7옥 단독 인터뷰 왜 댓글 닫았냐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "61.42",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598359&page=1",
+      "postedLabel": "18:54",
+      "postedAt": "2026-10-19T18:54:45+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:55:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66690,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-she-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-2gptiqvt",
+      "title": "영숙 she ㅋㅋㅋㅋ",
+      "excerpt": "이거 맞냐 ㅋㅋ 진짜 보고 깜짝 놀랐다 처음 본 지 24시간도 안됐는데 쉬마려?? ㅋㅋㅋ 이건 막내 이런걸 떠나서 걍 사람이 모자라보임..;;",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-she-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-2gptiqvt",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T18:55:29+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T09:55:41+00:00",
       "isSeed": false
     }
   ]
