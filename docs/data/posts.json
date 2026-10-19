@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:11:59+00:00",
+  "updatedAt": "2026-10-19T01:14:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -779836,6 +779836,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:11:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65768,
+      "source": "dc",
+      "externalId": "6597662",
+      "title": "14영자 키가 170인데 몸무게가 46키로밖에 안되나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597662&page=1",
+      "postedLabel": "10:13",
+      "postedAt": "2026-10-19T10:13:50+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:14:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65769,
+      "source": "qoo",
+      "externalId": "4380065057",
+      "title": "34기 영숙 안경 어디껄까?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380065057",
+      "postedLabel": "10:14",
+      "postedAt": "2026-10-19T10:14:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:14:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65770,
+      "source": "dc",
+      "externalId": "6597663",
+      "title": "번식탈락아줌마들 지금이라도 고독사준비해야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597663&page=1",
+      "postedLabel": "10:14",
+      "postedAt": "2026-10-19T10:14:29+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:14:59+00:00",
       "isSeed": false
     }
   ]
