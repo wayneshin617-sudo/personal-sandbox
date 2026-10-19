@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:45:22+00:00",
+  "updatedAt": "2026-10-19T03:46:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -785327,6 +785327,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T03:45:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66057,
+      "source": "qoo",
+      "externalId": "4380211575",
+      "title": "국화님 저번엔 진정성 있어보였는데 이번엔 영혼 없어보여",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4380211575",
+      "postedLabel": "12:45",
+      "postedAt": "2026-10-19T12:45:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:46:22+00:00",
       "isSeed": false
     }
   ]
