@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:48:13+00:00",
+  "updatedAt": "2026-10-19T12:49:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -584364,6 +584364,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T12:48:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66999,
+      "source": "dc",
+      "externalId": "6598648",
+      "title": "응 존나 이뻐 이오영자~~",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598648&page=1",
+      "postedLabel": "21:48",
+      "postedAt": "2026-10-19T21:48:13+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:49:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67000,
+      "source": "dc",
+      "externalId": "6598650",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.40",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598650&page=1",
+      "postedLabel": "21:48",
+      "postedAt": "2026-10-19T21:48:35+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:49:13+00:00",
       "isSeed": false
     }
   ]
