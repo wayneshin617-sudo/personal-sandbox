@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T11:13:21+00:00",
+  "updatedAt": "2026-10-19T11:14:14+00:00",
   "posts": [
     {
       "id": 1,
@@ -801344,6 +801344,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T11:13:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66900,
+      "source": "dc",
+      "externalId": "6598487",
+      "title": "7옥 연봉 3억이라는데 결정사 저 아줌니 4점줬네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598487&page=1",
+      "postedLabel": "20:13",
+      "postedAt": "2026-10-19T20:13:34+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T11:14:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66901,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EB%B9%84%ED%98%B8%EA%B0%90-%EC%A2%80-%EB%A7%8E%EC%95%84%E3%85%A0-l5fuotwb",
+      "title": "이번 기수 비호감 좀 많아ㅠ",
+      "excerpt": "영자 정숙 영철 너무 비호감임 못 견딜 정도로 그래서 이번 기수 회차 많나봄 ㅋㅋ",
+      "author": "g*****",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EB%B9%84%ED%98%B8%EA%B0%90-%EC%A2%80-%EB%A7%8E%EC%95%84%E3%85%A0-l5fuotwb",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T20:14:02+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T11:14:14+00:00",
       "isSeed": false
     }
   ]
