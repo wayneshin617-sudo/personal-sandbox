@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T09:26:42+00:00",
+  "updatedAt": "2026-10-19T09:27:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -796328,6 +796328,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T09:26:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66636,
+      "source": "dc",
+      "externalId": "6598304",
+      "title": "7옥 같은 모솔이 미서같이 연애 많이 해본 사람",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598304&page=1",
+      "postedLabel": "18:26",
+      "postedAt": "2026-10-19T18:26:35+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:27:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66637,
+      "source": "dc",
+      "externalId": "6598305",
+      "title": "7옥 어머니도 주변사람들도 미서가 아까운가 봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598305&page=1",
+      "postedLabel": "18:26",
+      "postedAt": "2026-10-19T18:26:47+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T09:27:41+00:00",
       "isSeed": false
     }
   ]
