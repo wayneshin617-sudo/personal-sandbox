@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:55:57+00:00",
+  "updatedAt": "2026-10-19T02:56:56+00:00",
   "posts": [
     {
       "id": 1,
@@ -784472,6 +784472,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T02:55:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66012,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-2%ED%99%94%EB%B6%80%ED%84%B0-hvxqbr3z",
+      "title": "34기 2화부터",
+      "excerpt": "외모 능력 성격 전부 영호가 압승 미리보기도 압승",
+      "author": "롱****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-2%ED%99%94%EB%B6%80%ED%84%B0-hvxqbr3z",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T11:56:45+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T02:56:56+00:00",
       "isSeed": false
     }
   ]
