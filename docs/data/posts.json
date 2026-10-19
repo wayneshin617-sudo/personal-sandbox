@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:31:42+00:00",
+  "updatedAt": "2026-10-19T08:36:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -794732,6 +794732,63 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T08:31:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66552,
+      "source": "dc",
+      "externalId": "6598210",
+      "title": "삼성 UX디자인 6영숙 \"미서 누군지 모른다\"",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598210&page=1",
+      "postedLabel": "17:35",
+      "postedAt": "2026-10-19T17:35:35+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:36:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66553,
+      "source": "dc",
+      "externalId": "6598211",
+      "title": "미지 ㅋㅋㅋ 넌씨눈으로 국화 멕여버리노 ㅋㅋ",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598211&page=1",
+      "postedLabel": "17:35",
+      "postedAt": "2026-10-19T17:35:40+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:36:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66554,
+      "source": "dc",
+      "externalId": "6598212",
+      "title": "사장과순자가 직원들 왕따 시킨거네??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598212&page=1",
+      "postedLabel": "17:36",
+      "postedAt": "2026-10-19T17:36:10+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:36:42+00:00",
       "isSeed": false
     }
   ]
