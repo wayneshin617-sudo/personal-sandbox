@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:38:22+00:00",
+  "updatedAt": "2026-10-19T04:39:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -786467,6 +786467,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T04:38:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66117,
+      "source": "dc",
+      "externalId": "6597910",
+      "title": "경수 28광수랑 좀 성향이랑 행보가 닮았네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597910&page=1",
+      "postedLabel": "13:38",
+      "postedAt": "2026-10-19T13:38:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:39:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66118,
+      "source": "dc",
+      "externalId": "6597911",
+      "title": "순자 까글 총공 일주일짼데 까들 영향력 없는거 진짠가요?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597911&page=1",
+      "postedLabel": "13:38",
+      "postedAt": "2026-10-19T13:38:56+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:39:22+00:00",
       "isSeed": false
     }
   ]
