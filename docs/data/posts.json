@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:37:41+00:00",
+  "updatedAt": "2026-10-19T10:38:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -798874,6 +798874,25 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T10:37:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66770,
+      "source": "dc",
+      "externalId": "6598440",
+      "title": "지급 남피디가 옥순 미서 연결하려고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.230",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598440&page=1",
+      "postedLabel": "19:38",
+      "postedAt": "2026-10-19T19:38:02+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:38:41+00:00",
       "isSeed": false
     }
   ]
