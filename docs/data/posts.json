@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:43:01+00:00",
+  "updatedAt": "2026-10-19T01:45:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -780406,6 +780406,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:43:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65798,
+      "source": "dc",
+      "externalId": "6597693",
+      "title": "31순자 되게 세련됐구나 ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597693&page=1",
+      "postedLabel": "10:44",
+      "postedAt": "2026-10-19T10:44:43+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:45:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65799,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%9D%80-%EC%B9%B4%ED%8E%98-%EB%A7%90%EA%B3%A0-%EC%A1%B1%EC%9A%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%A7%8C%EB%82%98%EC%9A%94-odlwj2n7",
+      "title": "이번 소개팅은 카페 말고 족욕하면서 만나요",
+      "excerpt": "소개팅은 해보고 싶은데, 처음부터 둘이 마주 앉아서 대화하려니 부담스러웠던 적 있으시죠. 조금 더 편하게 시작할 수 없을까 싶어서 우리유황온천에서 족욕과 함께하는 4:4 로테이션 소개팅을 준비했어요. 100% 천연 유황 온천수에 발 담그고, 차 한잔하면서 시작해요. 프로필 카드도 쓰고, 각자 휴대폰으로 취향 게임도 하면서 어떤 사람인지 자연스럽게 알아가는 시간을 가져요. 족욕이 끝나면 대화 테이블로 이동해서 네 분의 이성 모두와 차례로 1:1 대화를 나눕니다. 말 잘하는 사람만 분위기를 이끌지 않도록 진행자가 함께할 예정이에요",
+      "author": "비*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%9D%80-%EC%B9%B4%ED%8E%98-%EB%A7%90%EA%B3%A0-%EC%A1%B1%EC%9A%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%A7%8C%EB%82%98%EC%9A%94-odlwj2n7",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T10:44:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T01:45:01+00:00",
       "isSeed": false
     }
   ]
