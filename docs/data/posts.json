@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:52:41+00:00",
+  "updatedAt": "2026-10-19T10:53:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -799387,6 +799387,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:52:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66797,
+      "source": "dc",
+      "externalId": "6598467",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "146.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598467&page=1",
+      "postedLabel": "19:53",
+      "postedAt": "2026-10-19T19:53:25+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:53:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66798,
+      "source": "dc",
+      "externalId": "6598468",
+      "title": "미서가 7옥순 미조랑 사귀는걸로 알고있는거면 전달한 범인은",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598468&page=1",
+      "postedLabel": "19:53",
+      "postedAt": "2026-10-19T19:53:28+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:53:41+00:00",
       "isSeed": false
     }
   ]
