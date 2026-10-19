@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T14:18:49+00:00",
+  "updatedAt": "2026-10-19T14:19:49+00:00",
   "posts": [
     {
       "id": 1,
@@ -587765,6 +587765,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T14:18:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67178,
+      "source": "dc",
+      "externalId": "6598859",
+      "title": "대놓고 말하네",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598859&page=1",
+      "postedLabel": "23:18",
+      "postedAt": "2026-10-19T23:18:54+09:00",
+      "views": 30,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:19:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67179,
+      "source": "qoo",
+      "externalId": "4380880980",
+      "title": "안정환 개웃김",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4380880980",
+      "postedLabel": "23:19",
+      "postedAt": "2026-10-19T23:19:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:19:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67180,
+      "source": "dc",
+      "externalId": "6598860",
+      "title": "하 도저히 못참겠다ㅡㅡ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598860&page=1",
+      "postedLabel": "23:19",
+      "postedAt": "2026-10-19T23:19:20+09:00",
+      "views": 17,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T14:19:49+00:00",
       "isSeed": false
     }
   ]
