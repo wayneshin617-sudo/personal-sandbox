@@ -16,18 +16,18 @@
   };
 
   const PEOPLE = {
-    youngsoo: { name: "영수", age: "30대 후반", line: "누나 일곱의 막내, 건축을 설계합니다." },
-    youngho: { name: "영호", age: "30대 중반", line: "도쿄에서 증권 시스템을 만듭니다." },
-    youngsik: { name: "영식", age: "30대 후반", line: "명상과 템플스테이를 좋아하는 외국계 SCM입니다." },
-    youngchul: { name: "영철", age: "30대 중반", line: "책 읽는 논산 공무원입니다." },
-    gwangsoo: { name: "광수", age: "30대 중반", line: "방송댄스가 취미인 막내예요." },
-    sangchul: { name: "상철", age: "30대 후반", line: "반도체 HBM을 다루는 둘째예요." },
-    youngsook: { name: "영숙", age: "", line: "여덟 자매의 막내로 첫 등장했습니다." },
-    jeongsook: { name: "정숙", age: "", line: "숫자로 마음을 고르는 회계사예요." },
-    soonja: { name: "순자", age: "", line: "네 남매 장녀로 등장했습니다." },
-    youngja: { name: "영자", age: "", line: "남동생 둘을 둔 한의사예요." },
-    oksoon: { name: "옥순", age: "", line: "세 남매 둘째로 첫 등장했습니다." },
-    hyunsook: { name: "현숙", age: "", line: "세 남매 장녀로 등장했습니다." },
+    youngsoo: { name: "영수", age: "30대 후반", kicker: "첫 번째 다둥이남", line: "막내라 주방 얼씬도 안할줄 알앗지?" },
+    youngho: { name: "영호", age: "30대 중반", kicker: "두 번째 다둥이남", line: "도쿄에서 상한가, 여심도 상한가!" },
+    youngsik: { name: "영식", age: "30대 후반", kicker: "세 번째 다둥이남", line: "불심으로 여심을 잡겠다!" },
+    youngchul: { name: "영철", age: "30대 중반", kicker: "네 번째 다둥이남", line: "세파에 물들지 않은 남자." },
+    gwangsoo: { name: "광수", age: "30대 중반", kicker: "다섯 번째 다둥이남", line: "춤은 방송급, 사랑은 지금부터!" },
+    sangchul: { name: "상철", age: "30대 후반", kicker: "여섯 번째 다둥이남", line: "반도체보다 뜨거운 한 방을 들고 왔습니다." },
+    youngsook: { name: "영숙", age: "", kicker: "첫 번째 다둥이녀", line: "여덟 자매 막내, 이번엔 내가 주인공이다!" },
+    jeongsook: { name: "정숙", age: "", kicker: "두 번째 다둥이녀", line: "숫자는 내가 센다. 마음은 네가 골라!" },
+    soonja: { name: "순자", age: "", kicker: "세 번째 다둥이녀", line: "맏이라 참았지, 사랑은 안 참는다!" },
+    youngja: { name: "영자", age: "", kicker: "네 번째 다둥이녀", line: "한 방에 처방합니다. 심장부터요." },
+    oksoon: { name: "옥순", age: "", kicker: "다섯 번째 다둥이녀", line: "둘째라 주방만 지킬 줄 알았지?" },
+    hyunsook: { name: "현숙", age: "", kicker: "여섯 번째 다둥이녀", line: "장녀의 사랑, 이번엔 내가 먼저 간다!" },
   };
 
   const ORDER = Object.keys(PEOPLE);

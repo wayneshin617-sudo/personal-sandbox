@@ -15,9 +15,8 @@
 
   function label() {
     for (const button of buttons) {
-      const compact = button.dataset.bgm === "compact";
-      button.textContent = on ? (compact ? "BGM 끔" : "BGM 끄기") : compact ? "BGM" : "BGM 켜기";
       button.setAttribute("aria-pressed", String(on));
+      button.setAttribute("aria-label", on ? "BGM ON" : "BGM OFF");
     }
   }
 

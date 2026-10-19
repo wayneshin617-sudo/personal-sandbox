@@ -113,7 +113,8 @@ html.mobile .lede,
 html.mobile .since,
 html.mobile .detail { display: block; }
 
-html.mobile h1 { font-size: 28px; }
+html.mobile h1 { font-size: 20px; }
+html.mobile .solo-mark b { font-size: 34px; }
 html.mobile .cloud { height: 220px; }
 html.mobile .sources { flex-direction: column; }
 html.mobile .pc-link {
@@ -132,21 +133,25 @@ html.mobile .feed-head-logo {
   height: 32px;
 }
 
-html.mobile .solo-lead {
-  top: 108px;
-  width: 108px;
-  opacity: 0.16;
+html.mobile .solo-hot {
+  top: 38%;
+  width: min(92%, 360px);
 }
 
-html.mobile .solo-watermark {
-  font-size: 64px;
+html.mobile .solo-hot-ask { font-size: 16px; }
+html.mobile .solo-hot-name {
+  font-size: 42px;
+  border-bottom-width: 4px;
 }
 
 html.mobile .bgm-toggle { width: max-content; }
 html.mobile .m-bar .bgm-toggle {
   margin-top: 0;
-  font-size: 13px;
+  padding: 4px 6px 4px 8px;
+  font-size: 11px;
 }
+html.mobile .m-bar .bgm-on,
+html.mobile .m-bar .bgm-off { padding: 2px 6px; font-size: 10px; }
 
 html.mobile #feed { padding: 8px 12px 8px; }
 html.mobile .msg {
@@ -196,6 +201,11 @@ html.mobile .poke-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px 8px;
 }
+
+html.mobile .poke-caption { padding: 20px 8px 8px; }
+html.mobile .poke-kicker { font-size: 11px; }
+html.mobile .poke-title { font-size: 14px; border-bottom-width: 2px; }
+html.mobile .poke-line { font-size: 13px; }
 
 html.mobile .pair-card strong { font-size: 12px; }
 html.mobile .poke-head strong { font-size: 18px; }

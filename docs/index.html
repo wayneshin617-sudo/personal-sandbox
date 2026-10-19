@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
-  <meta name="theme-color" content="#2a1b12">
+  <meta name="theme-color" content="#2a1520">
   <title>나는솔로 과몰입자 보드</title>
   <script>
     (function () {
@@ -17,16 +17,21 @@
   </script>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
-  <link rel="stylesheet" href="assets/app.css?v=7">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&family=Playfair+Display:ital,wght@1,700;1,800&display=swap">
+  <link rel="stylesheet" href="assets/app.css?v=9">
 </head>
 <body>
   <div class="app">
     <aside class="rail" id="rail">
       <div class="brand">
         <p class="live"><span class="pulse"></span>LIVE</p>
-        <h1><span>나는솔로</span><span>과몰입자 보드</span></h1>
+        <p class="solo-mark"><span>나는 <i>I am</i></span><b>SOLO</b></p>
+        <h1>과몰입자 보드</h1>
         <p class="lede">나는솔로에 과몰입한 보드입니다.</p>
-        <button type="button" class="bgm-toggle" id="bgm-toggle" aria-pressed="false">BGM 켜기</button>
+        <button type="button" class="bgm-toggle" id="bgm-toggle" aria-pressed="false" aria-label="BGM OFF">
+          <span class="bgm-label">BGM</span>
+          <span class="bgm-switch" aria-hidden="true"><span class="bgm-on">ON</span><span class="bgm-off">OFF</span></span>
+        </button>
       </div>
 
       <dl class="figures">
@@ -74,12 +79,13 @@
 
     <section class="stage">
       <div class="solo-backdrop" id="solo-backdrop" aria-hidden="true">
-        <p class="solo-watermark" id="solo-watermark"></p>
-        <div class="solo-lead" id="solo-lead">
-          <div class="heart-frame" id="solo-lead-heart">
-            <img id="solo-lead-face" alt="">
-            <span class="solo-lead-word" id="solo-lead-word"></span>
-          </div>
+        <div class="solo-hearts">
+          <span style="--i:0"></span><span style="--i:1"></span><span style="--i:2"></span><span style="--i:3"></span><span style="--i:4"></span>
+          <span style="--i:5"></span><span style="--i:6"></span><span style="--i:7"></span><span style="--i:8"></span><span style="--i:9"></span>
+        </div>
+        <div class="solo-hot">
+          <p class="solo-hot-ask">지금 가장 핫한 당신의 솔로는?</p>
+          <p class="solo-hot-name" id="solo-watermark">순자</p>
         </div>
       </div>
       <div class="view-tabs" role="tablist" aria-label="화면">
@@ -94,7 +100,7 @@
             <h2>현 기수 프로필</h2>
           </div>
           <ul class="type-legend" id="type-legend"></ul>
-            <p class="type-note">본방 첫 등장처럼, 이름과 한 줄 소개를 함께 봤습니다.</p>
+            <p class="type-note">본방 자막처럼, 한 줄로 꽂히게 봤습니다.</p>
         </header>
         <div class="poke-grid" id="poke-grid"></div>
       </section>
@@ -157,7 +163,7 @@
   </div>
   <div class="solo-loader show" id="solo-loader">
     <div class="solo-loader-card">
-      <div class="heart-frame" id="solo-loader-heart">
+      <div class="solo-loader-photo" id="solo-loader-heart">
         <img id="solo-loader-face" alt="">
       </div>
       <p>잠시만요</p>
@@ -165,9 +171,9 @@
   </div>
   <div id="bgm-host"></div>
   <script src="assets/filters.js"></script>
-  <script src="assets/cast.js"></script>
+  <script src="assets/cast.js?v=2"></script>
   <script src="assets/feed-scroll.js?v=3"></script>
-  <script src="assets/app.js?v=4"></script>
-  <script src="assets/bgm.js?v=3"></script>
+  <script src="assets/app.js?v=5"></script>
+  <script src="assets/bgm.js?v=4"></script>
 </body>
 </html>

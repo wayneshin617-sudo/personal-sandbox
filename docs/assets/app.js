@@ -59,22 +59,15 @@ function setHeartFace(img, photo, name) {
   if (img.dataset.src === next) return;
   img.dataset.src = next;
   img.alt = name || "";
-  const frame = img.closest(".heart-frame");
+  const frame = img.closest(".solo-loader-photo");
   img.onload = () => frame?.classList.add("has-photo");
   img.src = next;
 }
 
 function paintLead(word, person) {
   const mark = document.querySelector("#solo-watermark");
-  const label = document.querySelector("#solo-lead-word");
-  const lead = document.querySelector("#solo-lead");
-  if (mark) mark.textContent = word || person?.name || "";
-  if (label) label.textContent = word || person?.name || "";
-  if (person) {
-    lead?.classList.add("has-face");
-    setHeartFace(document.querySelector("#solo-lead-face"), person.photo, person.name);
-    setHeartFace(document.querySelector("#solo-loader-face"), person.photo, person.name);
-  }
+  if (mark) mark.textContent = word || person?.name || "순자";
+  if (person) setHeartFace(document.querySelector("#solo-loader-face"), person.photo, person.name);
 }
 
 function updateLead(word, ranks) {
@@ -1552,7 +1545,23 @@ function pokeCard(person) {
   }
   const kicker = document.createElement("p");
   kicker.className = "poke-kicker";
-  kicker.textContent = "첫 등장";
+  kicker.textContent = intro?.kicker || "첫 등장";
+  const title = document.createElement("strong");
+  title.className = "poke-title";
+  title.textContent = `${person.name}의 자기소개`;
+  const heart = document.createElement("span");
+  heart.className = "poke-title-heart";
+  heart.textContent = "♡";
+  title.append(heart);
+  const caption = document.createElement("div");
+  caption.className = "poke-caption";
+  caption.append(kicker, title);
+  const frame = document.createElement("div");
+  frame.className = "poke-photo";
+  const img = document.createElement("img");
+  img.src = asset(intro?.photo || person.photo);
+  img.alt = person.name;
+  frame.append(img, caption);
   const head = document.createElement("div");
   head.className = "poke-head";
   const name = document.createElement("strong");
@@ -1577,12 +1586,6 @@ function pokeCard(person) {
   const line = document.createElement("p");
   line.className = "poke-line";
   line.textContent = intro?.line || person.note || "첫 등장 소개를 준비 중입니다.";
-  const frame = document.createElement("div");
-  frame.className = "poke-photo heart heart-frame has-photo";
-  const img = document.createElement("img");
-  img.src = asset(intro?.photo || person.photo);
-  img.alt = person.name;
-  frame.append(img);
   const moves = document.createElement("div");
   moves.className = "poke-moves";
   for (const row of [
@@ -1611,7 +1614,7 @@ function pokeCard(person) {
   const holo = document.createElement("span");
   holo.className = "poke-holo";
   holo.setAttribute("aria-hidden", "true");
-  root.append(kicker, head, type, line, frame, moves, foot, holo);
+  root.append(frame, line, head, type, moves, foot, holo);
   return root;
 }
 
