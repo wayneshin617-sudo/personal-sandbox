@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:48:01+00:00",
+  "updatedAt": "2026-10-19T01:49:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -780558,6 +780558,44 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-19T01:48:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65806,
+      "source": "dc",
+      "externalId": "6597699",
+      "title": "2030여자가 넘쳐나는 서울",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597699&page=1",
+      "postedLabel": "10:48",
+      "postedAt": "2026-10-19T10:48:22+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:49:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65807,
+      "source": "dc",
+      "externalId": "6597700",
+      "title": "7옥 마지막데이트때 미조 선택하면 미서가 더 안달날줄 알았는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597700&page=1",
+      "postedLabel": "10:48",
+      "postedAt": "2026-10-19T10:48:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:49:02+00:00",
       "isSeed": false
     }
   ]
