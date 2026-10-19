@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:43:15+00:00",
+  "updatedAt": "2026-10-19T12:45:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -584307,6 +584307,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:43:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66996,
+      "source": "dc",
+      "externalId": "6598642",
+      "title": "34순자 이쁜지 모르겠음",
+      "excerpt": "",
+      "author": "tenten",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598642&page=1",
+      "postedLabel": "21:44",
+      "postedAt": "2026-10-19T21:44:32+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:45:13+00:00",
       "isSeed": false
     }
   ]
