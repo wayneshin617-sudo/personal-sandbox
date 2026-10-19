@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T00:30:59+00:00",
+  "updatedAt": "2026-10-19T00:32:00+00:00",
   "posts": [
     {
       "id": 1,
@@ -779133,6 +779133,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T00:30:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65731,
+      "source": "dc",
+      "externalId": "6597627",
+      "title": "북 지뢰 도발에 강력 대응하겠다는 이대통령",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597627&page=1",
+      "postedLabel": "09:31",
+      "postedAt": "2026-10-19T09:31:01+09:00",
+      "views": 5,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T00:32:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65732,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%ED%9B%88%EB%82%A8%ED%9B%88%EB%85%80-%EB%84%98%EC%B9%9C%EB%8B%B9-klwhhhu7",
+      "title": "34기 훈남훈녀 넘친당",
+      "excerpt": "힝",
+      "author": "우*******",
+      "company": "J.P. Morgan",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%9B%88%EB%82%A8%ED%9B%88%EB%85%80-%EB%84%98%EC%B9%9C%EB%8B%B9-klwhhhu7",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T09:31:48+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T00:32:00+00:00",
       "isSeed": false
     }
   ]
