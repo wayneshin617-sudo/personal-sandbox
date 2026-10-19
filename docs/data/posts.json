@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T06:12:53+00:00",
+  "updatedAt": "2026-10-19T06:13:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -790628,6 +790628,25 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T06:12:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66336,
+      "source": "dc",
+      "externalId": "6598024",
+      "title": "순자는 이미 어릴때 피코로 책낸 경험",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598024&page=1",
+      "postedLabel": "15:13",
+      "postedAt": "2026-10-19T15:13:39+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:13:53+00:00",
       "isSeed": false
     }
   ]
