@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T06:45:53+00:00",
+  "updatedAt": "2026-10-19T06:46:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -791217,6 +791217,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T06:45:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66367,
+      "source": "dc",
+      "externalId": "6598058",
+      "title": "미저리보다 자극적인게 없어서 그랭",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.164",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598058&page=1",
+      "postedLabel": "15:46",
+      "postedAt": "2026-10-19T15:46:32+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:46:53+00:00",
       "isSeed": false
     }
   ]
