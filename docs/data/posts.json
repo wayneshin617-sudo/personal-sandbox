@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T12:15:13+00:00",
+  "updatedAt": "2026-10-19T12:16:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -583889,6 +583889,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T12:15:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66974,
+      "source": "dc",
+      "externalId": "6598601",
+      "title": "아파트 매물 없는 곳이 ㅈㄴ 살기 좋다던데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598601&page=1",
+      "postedLabel": "21:15",
+      "postedAt": "2026-10-19T21:15:31+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T12:16:13+00:00",
       "isSeed": false
     }
   ]
