@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T01:25:59+00:00",
+  "updatedAt": "2026-10-19T01:26:58+00:00",
   "posts": [
     {
       "id": 1,
@@ -780045,6 +780045,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T01:25:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65779,
+      "source": "dc",
+      "externalId": "6597674",
+      "title": "34기 재미떠나서 안보게 되네..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597674&page=1",
+      "postedLabel": "10:26",
+      "postedAt": "2026-10-19T10:26:09+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:26:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65780,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%80-%EC%B6%95%EA%B5%AC%EB%A5%BC-%EC%96%BC%EB%A7%88%EB%82%98-%EC%9E%98%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-a2135qeh",
+      "title": "34영철은 축구를 얼마나 잘하는거냐",
+      "excerpt": "까는 글에도 축구 잘한다는 건 인정하네ㅋㅋㅋ",
+      "author": "l*********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%80-%EC%B6%95%EA%B5%AC%EB%A5%BC-%EC%96%BC%EB%A7%88%EB%82%98-%EC%9E%98%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-a2135qeh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T10:26:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T01:26:58+00:00",
       "isSeed": false
     }
   ]
