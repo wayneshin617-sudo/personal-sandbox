@@ -1102,10 +1102,7 @@ function replacePosts(posts) {
 async function pull() {
   if (!state.ready) showLoader();
   const board = await loadBoard();
-  if (!board) {
-    if (state.ready) hideLoader();
-    return;
-  }
+  if (!board) return;
   const posts = board.posts || [];
   if (!state.ready) {
     replacePosts(posts);
