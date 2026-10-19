@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T07:41:11+00:00",
+  "updatedAt": "2026-10-19T07:42:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -792281,6 +792281,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T07:41:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66423,
+      "source": "dc",
+      "externalId": "6598122",
+      "title": "순자 위경련으로 병원다녀온 날 + 그 다음날 오전",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598122&page=1",
+      "postedLabel": "16:41",
+      "postedAt": "2026-10-19T16:41:25+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:42:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66424,
+      "source": "dc",
+      "externalId": "6598123",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598123&page=1",
+      "postedLabel": "16:41",
+      "postedAt": "2026-10-19T16:41:27+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:42:12+00:00",
       "isSeed": false
     }
   ]
