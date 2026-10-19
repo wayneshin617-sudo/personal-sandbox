@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T04:39:22+00:00",
+  "updatedAt": "2026-10-19T04:40:23+00:00",
   "posts": [
     {
       "id": 1,
@@ -786505,6 +786505,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T04:39:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66119,
+      "source": "dc",
+      "externalId": "6597913",
+      "title": "나솔갤 미혼여갤러 설문조사",
+      "excerpt": "",
+      "author": "민준",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597913&page=1",
+      "postedLabel": "13:39",
+      "postedAt": "2026-10-19T13:39:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T04:40:23+00:00",
       "isSeed": false
     }
   ]
