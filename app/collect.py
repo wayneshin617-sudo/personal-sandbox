@@ -10,10 +10,13 @@ import json
 import re
 import sys
 import time
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import httpx
+
+from .filters import drop_reason, should_keep
 
 from .parsers import (
     load_youtube_data,
@@ -194,10 +197,14 @@ def time_key(item: dict) -> datetime:
 
 
 def merge(board: dict, fetched: dict[str, list[dict]], *, now: str | None = None) -> int:
-    """없던 글만 시간순으로 붙인다. 시작 시각보다 이전 글은 넣지 않는다."""
+    """없던 글만 시간순으로 붙인다. 시작 시각보다 이전 글·사계 글은 넣지 않는다."""
     seen_at = now or utc_now()
     posts: list[dict] = board.setdefault("posts", [])
-    posts[:] = [post for post in posts if on_or_after_cutoff(post.get("postedAt") or "")]
+    posts[:] = [
+        post
+        for post in posts
+        if on_or_after_cutoff(post.get("postedAt") or "") and should_keep(post)
+    ]
     known = {(post["source"], post["externalId"]) for post in posts}
     next_id = max((post["id"] for post in posts), default=0)
     fresh: list[dict] = []
@@ -211,13 +218,24 @@ def merge(board: dict, fetched: dict[str, list[dict]], *, now: str | None = None
             known.add(key)
             fresh.append(item)
     fresh.sort(key=lambda item: (time_key(item), item["source"], item["external_id"]))
+    reasons: Counter[str] = Counter()
+    added = 0
     for item in fresh:
+        reason = drop_reason(item)
+        if reason:
+            reasons[reason] += 1
+            if sum(reasons.values()) <= 40:
+                print(f"drop [{reason}] {(item.get('title') or '')[:70]}", flush=True)
+            continue
         next_id += 1
         posts.append(to_public(item, post_id=next_id, seen_at=seen_at))
+        added += 1
     board["startedAt"] = CUTOFF.isoformat()
-    if fresh:
+    if added:
         board["updatedAt"] = seen_at
-    return len(fresh)
+    if reasons:
+        print("filtered", sum(reasons.values()), dict(reasons.most_common(12)), flush=True)
+    return added
 
 
 def source_needs_backfill(board: dict, source: str) -> bool:

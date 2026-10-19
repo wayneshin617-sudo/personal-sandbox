@@ -437,6 +437,10 @@ function stemWord(word) {
 }
 
 function isScreenedWord(word) {
+  if (typeof BoardFilter !== "undefined") {
+    const reason = BoardFilter.dropReason(word);
+    if (reason.startsWith("정치:") || reason.startsWith("성적:")) return true;
+  }
   if (SCREEN_PARTS.some((part) => word.includes(part))) return true;
   if (word.includes("북한") && !word.includes("거북한")) return true;
   if (word.includes("진보") && !word.includes("사진")) return true;
@@ -445,6 +449,7 @@ function isScreenedWord(word) {
 }
 
 function isSwearWord(word) {
+  if (typeof BoardFilter !== "undefined" && BoardFilter.swearReason(word)) return true;
   if (SWEAR_WORDS.has(word)) return true;
   return SWEAR_PARTS.some((part) => word.includes(part));
 }
@@ -492,6 +497,7 @@ function isFloodPost(post) {
 
 function isVisiblePost(post) {
   if (isFloodPost(post)) return false;
+  if (typeof BoardFilter !== "undefined" && !BoardFilter.shouldKeep(post)) return false;
   const text = countedText(post);
   if (OFFTOPIC_TALK.some((part) => text.includes(part))) return false;
   for (const raw of text.match(WORD_RE) || []) {
