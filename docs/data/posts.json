@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T13:51:14+00:00",
+  "updatedAt": "2026-10-19T13:52:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -585485,6 +585485,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T13:51:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67058,
+      "source": "dc",
+      "externalId": "6598756",
+      "title": "본인이 이웃과 못어울리는거 아니노?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598756&page=1",
+      "postedLabel": "22:51",
+      "postedAt": "2026-10-19T22:51:43+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:52:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67059,
+      "source": "dc",
+      "externalId": "6598757",
+      "title": "공구하러 나온사람은 진심이 있구나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598757&page=1",
+      "postedLabel": "22:51",
+      "postedAt": "2026-10-19T22:51:58+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:52:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67060,
+      "source": "dc",
+      "externalId": "6598758",
+      "title": "폭렬이 아들들 미국서 키우려고 자기랑 결혼하지는거 모를것같음??",
+      "excerpt": "",
+      "author": "ㅇㅇ(118.235)",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598758&page=1",
+      "postedLabel": "22:52",
+      "postedAt": "2026-10-19T22:52:01+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T13:52:13+00:00",
       "isSeed": false
     }
   ]
