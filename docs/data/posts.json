@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:03:58+00:00",
+  "updatedAt": "2026-10-19T03:05:56+00:00",
   "posts": [
     {
       "id": 1,
@@ -784586,6 +784586,44 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-19T03:03:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66018,
+      "source": "dc",
+      "externalId": "6597808",
+      "title": "시인 바이럴이 자작극이 확실한 이유",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597808&page=1",
+      "postedLabel": "12:04",
+      "postedAt": "2026-10-19T12:04:58+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:05:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66019,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EA%B0%80-%EB%88%88%EC%9D%B4-%EB%86%92%EC%9D%80%EA%B1%B4%EA%B0%80-%EC%99%9C-%EB%8B%A4-%EB%AA%BB%EC%83%9D%EA%B2%A8%EB%B3%B4%EC%9D%B4%EC%A7%80-v50nfobb",
+      "title": "내가 눈이 높은건가? 왜 다 못생겨보이지",
+      "excerpt": "난 이번기수에 예쁜 사람 한명도 없는거 같다 현숙, 순자도 솔직히 안예쁜거 같고 방송이라서 그런가 라방 나오면 실물은 존예 일까? 말이 안되는게 그럼 영호, 영철은 도대체 얼마나 잘생긴거냐?",
+      "author": "j********",
+      "company": "LG에너지솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B0%80-%EB%88%88%EC%9D%B4-%EB%86%92%EC%9D%80%EA%B1%B4%EA%B0%80-%EC%99%9C-%EB%8B%A4-%EB%AA%BB%EC%83%9D%EA%B2%A8%EB%B3%B4%EC%9D%B4%EC%A7%80-v50nfobb",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T12:05:45+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-19T03:05:56+00:00",
       "isSeed": false
     }
   ]
