@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T15:29:49+00:00",
+  "updatedAt": "2026-10-19T15:30:48+00:00",
   "posts": [
     {
       "id": 1,
@@ -591033,6 +591033,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T15:29:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67350,
+      "source": "dc",
+      "externalId": "6599029",
+      "title": "폭렬이 이웃들이랑 전혀 교류 안하는거같노",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599029&page=1",
+      "postedLabel": "00:30",
+      "postedAt": "2026-10-20T00:30:05+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T15:30:48+00:00",
       "isSeed": false
     }
   ]
