@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T17:33:31+00:00",
+  "updatedAt": "2026-10-19T17:37:31+00:00",
   "posts": [
     {
       "id": 1,
@@ -592154,6 +592154,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T17:33:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67595,
+      "source": "dc",
+      "externalId": "6599149",
+      "title": "이 아저씨 보면 볼수록 드는 생각",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599149&page=1",
+      "postedLabel": "02:36",
+      "postedAt": "2026-10-20T02:36:23+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:37:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67596,
+      "source": "dc",
+      "externalId": "6599150",
+      "title": "계약은 노잼인 이유가",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599150&page=1",
+      "postedLabel": "02:36",
+      "postedAt": "2026-10-20T02:36:35+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:37:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67597,
+      "source": "dc",
+      "externalId": "6599151",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.102",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599151&page=1",
+      "postedLabel": "02:36",
+      "postedAt": "2026-10-20T02:36:36+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:37:31+00:00",
       "isSeed": false
     }
   ]
