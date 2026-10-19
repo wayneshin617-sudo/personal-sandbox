@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T02:03:03+00:00",
+  "updatedAt": "2026-10-19T02:05:01+00:00",
   "posts": [
     {
       "id": 1,
@@ -780976,6 +780976,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T02:03:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65828,
+      "source": "dc",
+      "externalId": "6597725",
+      "title": "7옥이 7기에서 그랬어 남자가 다가오면 본인은 도망치기 바빴대",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597725&page=1",
+      "postedLabel": "11:04",
+      "postedAt": "2026-10-19T11:04:13+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:05:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65829,
+      "source": "dc",
+      "externalId": "6597726",
+      "title": "팔계와 미저리는 쌍둥이급 빌런인데 하나가 처발린거임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597726&page=1",
+      "postedLabel": "11:04",
+      "postedAt": "2026-10-19T11:04:31+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T02:05:01+00:00",
       "isSeed": false
     }
   ]
