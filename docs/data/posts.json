@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T00:58:59+00:00",
+  "updatedAt": "2026-10-19T01:00:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -779627,6 +779627,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T00:58:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65757,
+      "source": "dc",
+      "externalId": "6597652",
+      "title": "나중에 아이 초등 체육대회에서도 이거 하면 좋겠다.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597652&page=1",
+      "postedLabel": "10:00",
+      "postedAt": "2026-10-19T10:00:26+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T01:00:59+00:00",
       "isSeed": false
     }
   ]
