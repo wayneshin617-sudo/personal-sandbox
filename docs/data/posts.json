@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T07:00:00+00:00",
+  "updatedAt": "2026-10-19T07:00:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -791540,6 +791540,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T07:00:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66384,
+      "source": "dc",
+      "externalId": "6598074",
+      "title": "14옥순 임신했어?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598074&page=1",
+      "postedLabel": "15:59",
+      "postedAt": "2026-10-19T15:59:44+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:00:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66385,
+      "source": "dc",
+      "externalId": "6598075",
+      "title": "저런 욕하는글도 다 노이즈마케팅 알바같음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598075&page=1",
+      "postedLabel": "16:00",
+      "postedAt": "2026-10-19T16:00:08+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:00:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66386,
+      "source": "dc",
+      "externalId": "6598076",
+      "title": "[부동산문학] 저는 부동산말고 미국주식 할건데요?",
+      "excerpt": "",
+      "author": "고장",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598076&page=1",
+      "postedLabel": "16:00",
+      "postedAt": "2026-10-19T16:00:40+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:00:53+00:00",
       "isSeed": false
     }
   ]
