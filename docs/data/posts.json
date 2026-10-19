@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T00:43:59+00:00",
+  "updatedAt": "2026-10-19T00:44:51+00:00",
   "posts": [
     {
       "id": 1,
@@ -779380,6 +779380,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T00:43:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65744,
+      "source": "dc",
+      "externalId": "6597639",
+      "title": "채식순자랑 17옥 서로 어떻게 생각할까",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597639&page=1",
+      "postedLabel": "09:43",
+      "postedAt": "2026-10-19T09:43:49+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T00:44:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65745,
+      "source": "dc",
+      "externalId": "6597640",
+      "title": "7옥: 스섹이 꼭 남친이 있어야만 하나요? 뭐 문제 되나요?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "60.119",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597640&page=1",
+      "postedLabel": "09:44",
+      "postedAt": "2026-10-19T09:44:15+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T00:44:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65746,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%89%AC%EB%A7%88%EB%A0%B5%EB%8B%A4%EB%8A%94-%EC%99%9C-%EA%B5%90%EC%A0%95%EC%9D%B4-%EC%95%88%EB%90%90%EC%9D%84%EA%B9%8C-4v8a7v1h",
+      "title": "영숙이 쉬마렵다는 왜 교정이 안됐을까",
+      "excerpt": "그 나이까지 아무도 주변에서 안말해줬다는거자나 저렇게 나이에 안맞는 언행하는 사람 보면 주변에 진지하게 생각해주는 사람이 없거나 주변풀 수준이 비슷하거나같음..",
+      "author": "l*********",
+      "company": "아주대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%89%AC%EB%A7%88%EB%A0%B5%EB%8B%A4%EB%8A%94-%EC%99%9C-%EA%B5%90%EC%A0%95%EC%9D%B4-%EC%95%88%EB%90%90%EC%9D%84%EA%B9%8C-4v8a7v1h",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T09:44:48+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T00:44:51+00:00",
       "isSeed": false
     }
   ]
