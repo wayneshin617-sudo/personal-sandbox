@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T07:43:12+00:00",
+  "updatedAt": "2026-10-19T07:45:13+00:00",
   "posts": [
     {
       "id": 1,
@@ -792357,6 +792357,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T07:43:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66427,
+      "source": "dc",
+      "externalId": "6598126",
+      "title": "미서미조같은 출연자 많이 배출했음 좋겠다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598126&page=1",
+      "postedLabel": "16:44",
+      "postedAt": "2026-10-19T16:44:06+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:45:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66428,
+      "source": "dc",
+      "externalId": "6598127",
+      "title": "미지는 풀장에 왜 데려갔냐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598127&page=1",
+      "postedLabel": "16:45",
+      "postedAt": "2026-10-19T16:45:02+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T07:45:13+00:00",
       "isSeed": false
     }
   ]
