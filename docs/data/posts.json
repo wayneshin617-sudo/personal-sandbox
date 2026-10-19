@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T03:42:22+00:00",
+  "updatedAt": "2026-10-19T03:43:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -785251,6 +785251,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T03:42:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66053,
+      "source": "dc",
+      "externalId": "6597845",
+      "title": "변호사님과 상의해서 피뎁따는중",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597845&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-10-19T12:43:03+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:43:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66054,
+      "source": "dc",
+      "externalId": "6597846",
+      "title": "ai 시대엔 결혼을 더 해야 살아남는다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597846&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-10-19T12:43:09+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T03:43:22+00:00",
       "isSeed": false
     }
   ]
