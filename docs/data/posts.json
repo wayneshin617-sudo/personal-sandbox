@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:03:41+00:00",
+  "updatedAt": "2026-10-19T10:04:41+00:00",
   "posts": [
     {
       "id": 1,
@@ -797639,6 +797639,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:03:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66705,
+      "source": "dc",
+      "externalId": "6598376",
+      "title": "관종의끝은 뻔한거야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598376&page=1",
+      "postedLabel": "19:03",
+      "postedAt": "2026-10-19T19:03:57+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:04:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66706,
+      "source": "dc",
+      "externalId": "6598377",
+      "title": "헐..박위 송지은 궁합 성지글 기사남 ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598377&page=1",
+      "postedLabel": "19:04",
+      "postedAt": "2026-10-19T19:04:01+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:04:41+00:00",
       "isSeed": false
     }
   ]
