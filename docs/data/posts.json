@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T08:08:12+00:00",
+  "updatedAt": "2026-10-19T08:09:12+00:00",
   "posts": [
     {
       "id": 1,
@@ -793003,6 +793003,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T08:08:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66461,
+      "source": "dc",
+      "externalId": "6598167",
+      "title": "순자 욕하는게 그 왕따주동 여출 맞지? 입 더럽네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598167&page=1",
+      "postedLabel": "17:08",
+      "postedAt": "2026-10-19T17:08:20+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:09:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66462,
+      "source": "dc",
+      "externalId": "6598168",
+      "title": "7옥줌 촌장엔터 단독 인터뷰 떳드아~",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598168&page=1",
+      "postedLabel": "17:08",
+      "postedAt": "2026-10-19T17:08:47+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T08:09:12+00:00",
       "isSeed": false
     }
   ]
