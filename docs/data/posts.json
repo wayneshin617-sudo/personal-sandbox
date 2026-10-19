@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T00:55:59+00:00",
+  "updatedAt": "2026-10-19T00:57:59+00:00",
   "posts": [
     {
       "id": 1,
@@ -779551,6 +779551,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T00:55:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65753,
+      "source": "dc",
+      "externalId": "6597647",
+      "title": "통일부 내년 예산 1조 2549억 원…‘교류 대비’ 경협 융자 238%",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597647&page=1",
+      "postedLabel": "09:57",
+      "postedAt": "2026-10-19T09:57:29+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T00:57:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 65754,
+      "source": "dc",
+      "externalId": "6597648",
+      "title": "가스벨브가 열려있는건지 닫힌건지도 모른다.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6597648&page=1",
+      "postedLabel": "09:57",
+      "postedAt": "2026-10-19T09:57:31+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T00:57:59+00:00",
       "isSeed": false
     }
   ]
