@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:39:41+00:00",
+  "updatedAt": "2026-10-19T10:40:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -798969,6 +798969,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:39:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66775,
+      "source": "dc",
+      "externalId": "6598444",
+      "title": "이베이 3억????",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598444&page=1",
+      "postedLabel": "19:39",
+      "postedAt": "2026-10-19T19:39:35+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:40:42+00:00",
       "isSeed": false
     }
   ]
