@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T17:37:31+00:00",
+  "updatedAt": "2026-10-19T17:41:32+00:00",
   "posts": [
     {
       "id": 1,
@@ -592211,6 +592211,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T17:37:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67598,
+      "source": "dc",
+      "externalId": "6599152",
+      "title": "미국 시민권 준다하면 받을거임? 대신 폭렬이처럼 살아야함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599152&page=1",
+      "postedLabel": "02:41",
+      "postedAt": "2026-10-20T02:41:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T17:41:32+00:00",
       "isSeed": false
     }
   ]
