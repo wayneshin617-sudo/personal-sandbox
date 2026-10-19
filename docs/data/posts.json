@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T10:31:41+00:00",
+  "updatedAt": "2026-10-19T10:32:42+00:00",
   "posts": [
     {
       "id": 1,
@@ -798646,6 +798646,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T10:31:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66758,
+      "source": "dc",
+      "externalId": "6598431",
+      "title": "14영자 직업이 뭐임? 임원 비서??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598431&page=1",
+      "postedLabel": "19:32",
+      "postedAt": "2026-10-19T19:32:21+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T10:32:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66759,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EA%B8%B0%EC%A4%80-%EB%82%98%EC%86%94-%EB%82%A8%EC%B6%9C-%ED%83%915-1jp23dpb",
+      "title": "내기준 나솔 남출 탑5",
+      "excerpt": "11영철 20영식 26영호 27상철 34영호 + 보너스 원래 취향은 아닌데 좀 괜찮은 27영수 ㅋㅋ 취향 일관적임? 그리고 개인적으로 미스터서 34영철 이런 얼굴 진짜 싫어함",
+      "author": "g*****",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B8%B0%EC%A4%80-%EB%82%98%EC%86%94-%EB%82%A8%EC%B6%9C-%ED%83%915-1jp23dpb",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-19T19:32:30+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T10:32:42+00:00",
       "isSeed": false
     }
   ]
