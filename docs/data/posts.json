@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T06:25:54+00:00",
+  "updatedAt": "2026-10-19T06:26:53+00:00",
   "posts": [
     {
       "id": 1,
@@ -790780,6 +790780,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T06:25:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66344,
+      "source": "dc",
+      "externalId": "6598034",
+      "title": "순자가 먼저 소속사에 접촉했다에 500원건다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598034&page=1",
+      "postedLabel": "15:26",
+      "postedAt": "2026-10-19T15:26:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:26:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 66345,
+      "source": "dc",
+      "externalId": "6598035",
+      "title": "쿨한척이 아니라 무식 드러날까봐 그런거임",
+      "excerpt": "",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6598035&page=1",
+      "postedLabel": "15:26",
+      "postedAt": "2026-10-19T15:26:32+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-19T06:26:53+00:00",
       "isSeed": false
     }
   ]
