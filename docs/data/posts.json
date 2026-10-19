@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-19T22:50:22+00:00",
+  "updatedAt": "2026-10-19T22:52:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -596106,6 +596106,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-19T22:50:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67803,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%88%84%EB%82%98%EB%93%A4%EC%9D%98-%EC%9E%90%EC%95%84%EC%97%86%EB%8A%94-%EA%B0%90%EC%A0%95%EC%83%8C%EB%93%9C%EB%B0%B1%EC%9C%BC%EB%A1%9C-%EC%93%B0%EC%9D%B4%EA%B3%A0-%EC%8B%B6%EB%8B%A4-8hwrwiix",
+      "title": "누나들의 자아없는 감정샌드백으로 쓰이고 싶다",
+      "excerpt": "먼가 막대해지고 그럴때 너무 좋아.. 정신적으로 가스라이팅도 좋고...",
+      "author": "a*****",
+      "company": "삼성SDI",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EB%82%98%EB%93%A4%EC%9D%98-%EC%9E%90%EC%95%84%EC%97%86%EB%8A%94-%EA%B0%90%EC%A0%95%EC%83%8C%EB%93%9C%EB%B0%B1%EC%9C%BC%EB%A1%9C-%EC%93%B0%EC%9D%B4%EA%B3%A0-%EC%8B%B6%EB%8B%A4-8hwrwiix",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T07:52:10+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-19T22:52:22+00:00",
       "isSeed": false
     }
   ]
