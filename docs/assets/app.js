@@ -247,6 +247,19 @@ function renderMsg(post, animate) {
   nick.style.color = nickColor((post.author || "") + (post.ip || "") + (post.company || ""));
   nick.textContent = post.author || "익명";
   who.append(nick);
+  const favBtn = document.createElement("button");
+  favBtn.type = "button";
+  favBtn.className = "fav-btn";
+  const faved = favIds.includes(post.id);
+  favBtn.setAttribute("aria-pressed", faved ? "true" : "false");
+  favBtn.setAttribute("aria-label", faved ? "즐겨찾기 해제" : "즐겨찾기");
+  favBtn.textContent = faved ? "★" : "☆";
+  favBtn.addEventListener("click", (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    toggleFav(post.id);
+  });
+  who.append(favBtn);
   if (post.ip) {
     const ip = document.createElement("span");
     ip.className = "ip";
@@ -383,11 +396,82 @@ function newestSlice() {
   return asc.slice(start);
 }
 
+const FAV_KEY = "solo-fav-comments";
+let favIds = [];
+try {
+  const saved = JSON.parse(localStorage.getItem(FAV_KEY) || "[]");
+  if (Array.isArray(saved)) favIds = saved.map((id) => Number(id)).filter((id) => Number.isFinite(id));
+} catch {
+  favIds = [];
+}
+
+function saveFavs() {
+  try {
+    localStorage.setItem(FAV_KEY, JSON.stringify(favIds));
+  } catch {
+    /* 저장이 막혀도 이번 화면의 별은 유지한다. */
+  }
+}
+
+function syncFavButtons() {
+  const picked = new Set(favIds);
+  for (const btn of document.querySelectorAll(".fav-btn")) {
+    const id = Number(btn.closest(".msg")?.dataset.id);
+    const on = picked.has(id);
+    btn.setAttribute("aria-pressed", on ? "true" : "false");
+    btn.setAttribute("aria-label", on ? "즐겨찾기 해제" : "즐겨찾기");
+    btn.textContent = on ? "★" : "☆";
+  }
+}
+
+function renderFavs() {
+  const box = document.querySelector("#fav-list");
+  const count = document.querySelector("#talk-fav-count");
+  const allCount = document.querySelector("#talk-all-count");
+  if (allCount) allCount.textContent = numberFormat.format(state.matched);
+  if (!box) return;
+  const byId = new Map(allPosts.map((post) => [post.id, post]));
+  const posts = [];
+  const kept = [];
+  for (const id of favIds) {
+    const post = byId.get(id);
+    if (!post || !isVisiblePost(post)) continue;
+    kept.push(id);
+    posts.push(post);
+  }
+  if (allPosts.length && kept.length !== favIds.length) {
+    favIds = kept;
+    saveFavs();
+  }
+  if (count) count.textContent = numberFormat.format(posts.length);
+  if (!posts.length) {
+    const empty = document.createElement("p");
+    empty.className = "fav-empty";
+    empty.textContent = "별표를 누르면 이 칸에 모입니다.";
+    box.replaceChildren(empty);
+    syncFavButtons();
+    return;
+  }
+  const fragment = document.createDocumentFragment();
+  for (const post of posts) fragment.append(renderMsg(post, false));
+  box.replaceChildren(fragment);
+  syncFavButtons();
+}
+
+function toggleFav(id) {
+  const index = favIds.indexOf(id);
+  if (index >= 0) favIds.splice(index, 1);
+  else favIds.unshift(id);
+  saveFavs();
+  renderFavs();
+}
+
 function reload() {
   state.maxId = allPosts.reduce((max, post) => Math.max(max, post.id), 0);
   renderAll(newestSlice());
   syncUrl();
   updateNote();
+  renderFavs();
 }
 
 function updateNote() {
@@ -1308,6 +1392,7 @@ function absorbYoutube(board, extra) {
   let next = posts.reduce((max, post) => Math.max(max, post.id || 0), 0);
   for (const post of extra.posts) {
     if (post.source !== "yt" || seen.has(`yt:${post.externalId}`)) continue;
+    if (typeof BoardFilter !== "undefined" && !BoardFilter.shouldKeep(post)) continue;
     next += 1;
     seen.add(`yt:${post.externalId}`);
     posts.push({ ...post, id: next });

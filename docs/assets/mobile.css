@@ -124,6 +124,18 @@ html.mobile .pc-link {
   text-decoration: none;
 }
 
+html.mobile .talk-split {
+  width: calc(100% - 8px);
+  gap: 6px;
+  margin-top: 6px;
+}
+
+html.mobile .talk-head {
+  padding: 8px;
+}
+
+html.mobile .talk-head h2 { font-size: 13px; }
+
 html.mobile #scroller {
   overscroll-behavior-y: none;
 }

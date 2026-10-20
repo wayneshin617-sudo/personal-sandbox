@@ -395,12 +395,19 @@ h1 {
 
 .who {
   min-width: 0;
+  display: flex;
+  align-items: center;
   overflow: hidden;
   white-space: nowrap;
-  text-overflow: ellipsis;
   font-weight: 750;
   font-size: 14.5px;
   line-height: 1.45;
+}
+
+.nick {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .company {
@@ -866,12 +873,93 @@ mark {
 
 .view-tab { white-space: nowrap; }
 
-.stage.show-pair #scroller,
+.stage.show-pair .talk-split,
 .stage.show-pair #composer,
 .stage.show-pair #jump,
-.stage.show-profile #scroller,
+.stage.show-profile .talk-split,
 .stage.show-profile #composer,
 .stage.show-profile #jump { display: none; }
+
+.talk-split {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  gap: 10px;
+  width: min(1180px, calc(100% - 20px));
+  margin: 8px auto 0;
+}
+
+.talk-col {
+  flex: 1.35;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: color-mix(in srgb, var(--panel) 78%, transparent);
+  overflow: hidden;
+}
+
+.talk-fav { flex: 0.85; }
+
+.talk-head {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+.talk-head h2 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.talk-head b {
+  color: var(--gold);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+
+.talk-col #feed {
+  width: 100%;
+  align-self: stretch;
+}
+
+#fav-scroller {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  scrollbar-color: color-mix(in srgb, var(--heart) 45%, #3f1e2a) transparent;
+  scrollbar-width: thin;
+}
+
+#fav-list { padding: 8px 10px 16px; }
+
+.fav-empty {
+  margin: 18px 8px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.fav-btn {
+  margin-left: 6px;
+  border: 0;
+  padding: 0 2px;
+  background: transparent;
+  color: var(--faint);
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.fav-btn[aria-pressed="true"] { color: var(--gold); }
 
 #pairing,
 #profiles {

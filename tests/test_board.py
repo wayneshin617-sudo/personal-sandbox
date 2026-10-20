@@ -285,7 +285,7 @@ def sample(external_id, title, posted_at="2026-10-13T12:00:00+09:00"):
         "external_id": external_id,
         "title": title,
         "excerpt": "",
-        "author": "나갤러",
+        "author": "이봐",
         "company": "",
         "ip": "1.1",
         "badge": "",
@@ -420,7 +420,7 @@ class MergeTest(unittest.TestCase):
         board = empty_board()
         item = sample("cmt-10960004", "영숙은 조용히 살더라", "2026-10-20T09:56:00+09:00")
         item["kind"] = "reply"
-        item["author"] = "나갤러1"
+        item["author"] = "이봐"
         added = merge(board, {"dc": [item]}, now="2026-10-20T01:00:00+00:00")
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][0]["kind"], "reply")

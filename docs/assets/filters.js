@@ -44,6 +44,20 @@
     "염병", "엠창", "개년", "개놈", "개새", "쉬발", "쉬벌", "스발", "슈발",
   ];
   const SWEAR_JAMO = ["ㅅㅂ", "ㅆㅂ", "ㅅㅍ", "ㅂㅅ", "ㅈㄹ"];
+  const GALLERY_SPAM_RE = /^(?:ㅇㅇ|나갤러\d*|너갤러\d*)(?:\([^)]*\))?$/;
+  const SHOW_MARKS = ["나솔", "나는솔로", "나는solo", "iamsolo", "34기"];
+  const OTHER_SHOWS = ["계약결혼", "환승연애", "돌싱글즈", "솔로지옥", "하트시그널", "결혼작사", "이혼작곡"];
+  const ATTACKS = [
+    "죽어", "꺼져", "디져", "뒤져", "뒤질",
+    "못생겼", "존못", "개못생",
+    "추하네", "추하다", "추해", "징그럽", "역겹", "꼴불견",
+    "인간쓰레기", "인간말종", "음식물쓰레기",
+    "살빼", "빼고나와",
+    "돼지", "찐따",
+    "한남", "한녀", "틀딱", "맘충", "김치녀",
+    "병신", "븅신", "ㅂㅅ",
+    "쓰레기",
+  ];
 
   const KEEP_RE = /[^\w가-힣ㄱ-ㅎㅏ-ㅣ\u1100-\u11ff0-9]+/g;
   const CHOSEONG = {
@@ -211,14 +225,49 @@
     return SWEARS.find((part) => folded.includes(part)) || "";
   }
 
+  function gallerySpamReason(post) {
+    if (!post || typeof post === "string" || (post.source || "") !== "dc") return "";
+    const author = String(post.author || "").trim();
+    if (!GALLERY_SPAM_RE.test(author)) return "";
+    if (author.startsWith("나갤")) return "나갤러";
+    if (author.startsWith("너갤")) return "너갤러";
+    return "ㅇㅇ";
+  }
+
+  function unrelatedReason(post) {
+    if (!post || typeof post === "string") return "";
+    if ((post.source || "") === "yt") {
+      const folded = plain(post.excerpt || "");
+      if (SHOW_MARKS.some((mark) => folded.includes(mark))) return "";
+      return "유튜브";
+    }
+    const folded = plain(`${post.title || ""} ${post.excerpt || ""}`);
+    if (SHOW_MARKS.some((mark) => folded.includes(mark))) return "";
+    return OTHER_SHOWS.find((mark) => folded.includes(mark)) || "";
+  }
+
+  function attackReason(post) {
+    if (!post || typeof post === "string") return "";
+    const text = postText(post);
+    if (text.includes("ㅋ") || text.includes("ㅎ")) return "";
+    const folded = stripInsertedJamo(fold(text));
+    return ATTACKS.find((part) => folded.includes(part)) || "";
+  }
+
   function dropReason(post, options = {}) {
     if (isBlockedYoutube(post)) return "유튜브:차단";
+    const spam = gallerySpamReason(post);
+    if (spam) return `도배:${spam}`;
     const text = postText(post);
     if (isSagye(text)) return `사계:${sagyeReason(text)}`;
     const politics = politicalReason(text);
     if (politics) return `정치:${politics}`;
     const sexual = sexualReason(text);
     if (sexual) return `성적:${sexual}`;
+    const unrelated = unrelatedReason(post);
+    if (unrelated) return `무관:${unrelated}`;
+    const attack = attackReason(post);
+    if (attack) return `비난:${attack}`;
     if (options.swears) {
       const swear = swearReason(text);
       if (swear) return `욕설:${swear}`;
@@ -243,6 +292,9 @@
     sagyeReason,
     dropReason,
     shouldKeep,
+    gallerySpamReason,
+    unrelatedReason,
+    attackReason,
     swearReason,
     postText,
     youtubeId,

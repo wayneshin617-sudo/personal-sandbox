@@ -140,6 +140,30 @@ _OK_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기
 _SOON_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기?순자?")
 _MISTER_SURNAME_RE = re.compile("미스터(?:" + "|".join(sorted(MISTER_SURNAMES, key=len, reverse=True)) + ")")
 
+# 디시 나는솔로 갤의 고정 익명. 글마다 다른 사람인데 도배만 한다.
+_GALLERY_SPAM_RE = re.compile(r"^(?:ㅇㅇ|나갤러\d*|너갤러\d*)(?:\([^)]*\))?$")
+
+# 영상 제목·본문에 이 말이 있으면 나솔 글로 본다.
+SHOW_MARKS = ("나솔", "나는솔로", "나는solo", "iamsolo", "34기")
+
+# 제목에만 있고 나솔 표지가 없으면 다른 프로그램이다.
+OTHER_SHOWS = (
+    "계약결혼", "환승연애", "돌싱글즈", "솔로지옥", "하트시그널", "결혼작사", "이혼작곡",
+)
+
+# 웃기려는 ㅋㅋ·ㅎㅎ 없이 붙는 원색 비난. 강조 욕(씨발, 존나)은 여기 넣지 않는다.
+ATTACKS = (
+    "죽어", "꺼져", "디져", "뒤져", "뒤질",
+    "못생겼", "존못", "개못생",
+    "추하네", "추하다", "추해", "징그럽", "역겹", "꼴불견",
+    "인간쓰레기", "인간말종", "음식물쓰레기",
+    "살빼", "빼고나와",
+    "돼지", "찐따",
+    "한남", "한녀", "틀딱", "맘충", "김치녀",
+    "병신", "븅신", "ㅂㅅ",
+    "쓰레기",
+)
+
 
 def normalize(text: str) -> str:
     """공백·특수문자를 빼고 소문자로 붙인다. 숫자는 미1스터조 같은 우회를 위해 남긴다."""
@@ -356,10 +380,60 @@ def swear_reason(text: str) -> str | None:
     return None
 
 
+def gallery_spam_reason(post: dict[str, Any] | str | None) -> str | None:
+    """디시 ㅇㅇ·나갤러·너갤러 고정 닉은 통째로 버린다."""
+    if isinstance(post, str) or not post or (post.get("source") or "") != "dc":
+        return None
+    author = (post.get("author") or "").strip()
+    if not _GALLERY_SPAM_RE.match(author):
+        return None
+    if author.startswith("나갤"):
+        return "나갤러"
+    if author.startswith("너갤"):
+        return "너갤러"
+    return "ㅇㅇ"
+
+
+def unrelated_reason(post: dict[str, Any] | str | None) -> str | None:
+    """제목(유튜브는 영상 제목)을 보고 나솔이 아닌 글을 가른다."""
+    if isinstance(post, str) or not post:
+        return None
+    source = post.get("source") or ""
+    if source == "yt":
+        folded = _plain(post.get("excerpt") or "")
+        if any(mark in folded for mark in SHOW_MARKS):
+            return None
+        return "유튜브"
+    folded = _plain(f"{post.get('title') or ''} {post.get('excerpt') or ''}")
+    if any(mark in folded for mark in SHOW_MARKS):
+        return None
+    for mark in OTHER_SHOWS:
+        if mark in folded:
+            return mark
+    return None
+
+
+def attack_reason(post: dict[str, Any] | str | None) -> str | None:
+    """ㅋㅋ·ㅎㅎ가 없는 원색 비난만 버린다. 웃기려는 문장은 남긴다."""
+    if isinstance(post, str) or not post:
+        return None
+    text = post_text(post)
+    if "ㅋ" in text or "ㅎ" in text:
+        return None
+    folded = _strip_inserted_jamo(fold(text))
+    for part in ATTACKS:
+        if part in folded:
+            return part
+    return None
+
+
 def drop_reason(post: dict[str, Any] | str | None, *, swears: bool = False) -> str | None:
     """걸러야 하면 이유 문자열, 남겨도 되면 None."""
     if is_blocked_youtube(post):
         return "유튜브:차단"
+    spam = gallery_spam_reason(post)
+    if spam:
+        return f"도배:{spam}"
     text = post if isinstance(post, str) else post_text(post)
     hit = sagye_reason(text)
     if hit and (hit in SAGYE_SHOW or hit == "사계" or not _has_current_season(normalize(text))):
@@ -370,6 +444,12 @@ def drop_reason(post: dict[str, Any] | str | None, *, swears: bool = False) -> s
     hit = sexual_reason(text)
     if hit:
         return f"성적:{hit}"
+    unrelated = unrelated_reason(post)
+    if unrelated:
+        return f"무관:{unrelated}"
+    attack = attack_reason(post)
+    if attack:
+        return f"비난:{attack}"
     if swears:
         hit = swear_reason(text)
         if hit:

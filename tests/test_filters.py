@@ -120,6 +120,45 @@ class SagyeTest(unittest.TestCase):
         self.assertFalse(should_keep(post))
         self.assertTrue(drop_reason(post).startswith("유튜브"))
 
+    def test_dc_gallery_spam_authors_are_dropped(self):
+        for author in ("ㅇㅇ", "나갤러", "나갤러1", "너갤러", "ㅇㅇ(118.235)"):
+            post = {"source": "dc", "author": author, "title": "34기 영철 웃기네", "excerpt": ""}
+            self.assertFalse(should_keep(post), author)
+            self.assertTrue(drop_reason(post).startswith("도배"), author)
+        kept = {"source": "dc", "author": "찢짜이밍사형", "title": "34기 영철 웃기네", "excerpt": ""}
+        self.assertTrue(should_keep(kept))
+        other = {"source": "qoo", "author": "ㅇㅇ", "title": "34기 영철 웃기네", "excerpt": ""}
+        self.assertTrue(should_keep(other))
+
+    def test_unrelated_titles_and_other_shows(self):
+        sagye_video = {
+            "source": "yt",
+            "title": "상철 술버릇 별로",
+            "excerpt": "[계약결혼] 둘이서 맞이하는 첫 아침",
+            "url": "https://www.youtube.com/watch?v=contract1&lc=c1",
+        }
+        self.assertFalse(should_keep(sagye_video))
+        self.assertTrue(drop_reason(sagye_video).startswith("무관"))
+        solo = {
+            "source": "yt",
+            "title": "영철 입담 레전드",
+            "excerpt": "[나는 SOLO] 34기 영철의 입담",
+            "url": "https://www.youtube.com/watch?v=solo34&lc=c2",
+        }
+        self.assertTrue(should_keep(solo))
+        self.assertFalse(should_keep({"source": "blind", "title": "환승연애 원규지현", "excerpt": ""}))
+        self.assertTrue(should_keep({"source": "qoo", "title": "누나 7명 ㅋㅋㅋ", "excerpt": ""}))
+        self.assertTrue(should_keep({"source": "blind", "title": "와 술버릇", "excerpt": "상철 오늘"}))
+
+    def test_raw_attack_drops_but_joke_stays(self):
+        raw = {"source": "dc", "author": "이봐", "title": "살이나 빼고나와라 진짜", "excerpt": ""}
+        joke = {"source": "dc", "author": "이봐", "title": "살이나 빼고나와라 ㅋㅋ", "excerpt": ""}
+        swear = {"source": "dc", "author": "이봐", "title": "씨발 영철 뭐함", "excerpt": ""}
+        self.assertFalse(should_keep(raw))
+        self.assertTrue(drop_reason(raw).startswith("비난"))
+        self.assertTrue(should_keep(joke))
+        self.assertTrue(should_keep(swear))
+
     def test_hashtag_spam_video_is_skipped(self):
         self.assertTrue(
             skip_youtube_video(
