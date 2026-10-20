@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T06:05:45+00:00",
+  "updatedAt": "2026-10-20T06:07:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -595942,6 +595942,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T06:05:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68439,
+      "source": "blind",
+      "externalId": "cmt-457589395",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 사냥감",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98-1tl3ddqo#457589395",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T15:07:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T06:07:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
