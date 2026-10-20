@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T10:09:32+00:00",
+  "updatedAt": "2026-10-20T10:12:32+00:00",
   "posts": [
     {
       "id": 2,
@@ -604057,6 +604057,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-20T10:09:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 68855,
+      "source": "blind",
+      "externalId": "cmt-457617924",
+      "title": "뭐니뭐니해도 따까리들이지",
+      "excerpt": "",
+      "author": "p*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EB%91%A5%EC%9D%B4-%EC%B2%AB%EC%A7%B8-%EB%8B%A8%EC%A0%90%EC%9D%B4-%EB%AD%90%EA%B0%80%EC%9E%88%EC%9D%8C-qzvki3qo#457617924",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T19:12:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T10:12:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
