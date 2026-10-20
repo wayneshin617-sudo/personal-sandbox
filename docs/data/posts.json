@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T05:32:44+00:00",
+  "updatedAt": "2026-10-20T05:34:43+00:00",
   "posts": [
     {
       "id": 2,
@@ -595606,6 +595606,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T05:32:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68422,
+      "source": "qoo",
+      "externalId": "cmt-4381286831",
+      "title": "저렇게 큰 소리 첨들어봄ㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381247932#4381286831",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T13:34:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T05:34:43+00:00",
       "isSeed": false,
       "kind": "reply"
     }
