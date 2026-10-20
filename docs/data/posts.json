@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T10:20:29+00:00",
+  "updatedAt": "2026-10-20T10:21:29+00:00",
   "posts": [
     {
       "id": 2,
@@ -604194,6 +604194,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T10:20:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68862,
+      "source": "qoo",
+      "externalId": "cmt-4381538909",
+      "title": "ㅁㅈ 본기수가 더 나은듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381496346#4381538909",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T18:20:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T10:21:29+00:00",
       "isSeed": false,
       "kind": "reply"
     }
