@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T07:28:34+00:00",
+  "updatedAt": "2026-10-20T07:32:33+00:00",
   "posts": [
     {
       "id": 2,
@@ -599964,6 +599964,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T07:28:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68646,
+      "source": "blind",
+      "externalId": "cmt-457599573",
+      "title": "고고",
+      "excerpt": "",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%8B%A0%EC%B2%AD%ED%95%A0%EA%B9%8C-vmkdoemc#457599573",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T16:32:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T07:32:33+00:00",
       "isSeed": false,
       "kind": "reply"
     }
