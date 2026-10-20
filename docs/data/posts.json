@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T02:13:49+00:00",
+  "updatedAt": "2026-10-20T02:23:49+00:00",
   "posts": [
     {
       "id": 2,
@@ -591613,6 +591613,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T02:13:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68216,
+      "source": "blind",
+      "externalId": "cmt-457563567",
+      "title": "팔이피플 레츠고",
+      "excerpt": "",
+      "author": "l********",
+      "company": "신한은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EA%B8%B0-%EC%A1%B4%EC%9E%98-%EC%95%88%EA%B2%BD%EC%82%AC-%EA%B2%BD%EC%88%98-%EA%B7%BC%ED%99%A9-vsiudlli#457563567",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T11:23:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T02:23:49+00:00",
       "isSeed": false,
       "kind": "reply"
     }
