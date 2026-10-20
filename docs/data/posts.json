@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T22:25:46+00:00",
+  "updatedAt": "2026-10-20T22:26:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -620383,6 +620383,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T22:25:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69691,
+      "source": "blind",
+      "externalId": "cmt-457683233",
+      "title": "그게왜? 거기가는 여자도 남자랑 잘라고 가는거아님?",
+      "excerpt": "",
+      "author": "1******",
+      "company": "전국은행연합회",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457683233",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T07:26:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T22:26:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
