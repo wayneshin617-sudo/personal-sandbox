@@ -3,7 +3,14 @@ import unittest
 from datetime import datetime, timedelta, timezone
 
 from app.collect import assign_blind_times, empty_board, merge, qoo_label_time
-from app.parsers import parse_blind, parse_dc, parse_theqoo, parse_youtube_comments, parse_youtube_search
+from app.parsers import (
+    parse_blind,
+    parse_dc,
+    parse_theqoo,
+    parse_youtube_comments,
+    parse_youtube_search,
+    parse_youtube_watch_meta,
+)
 
 DC_HTML = """
 <table>
@@ -130,6 +137,12 @@ class ParserTest(unittest.TestCase):
         )
         self.assertEqual(videos[0]["video_id"], "abc123")
         self.assertEqual(videos[0]["published_label"], "5일 전")
+        self.assertEqual(videos[0]["description"], "")
+        meta = parse_youtube_watch_meta(
+            'var ytInitialPlayerResponse = {"videoDetails":{"title":"나솔사계 LIVE","shortDescription":"사계 본방 다시보기"}};'
+        )
+        self.assertEqual(meta["title"], "나솔사계 LIVE")
+        self.assertIn("사계", meta["description"])
         comments, _next = parse_youtube_comments(
             {
                 "a": {
@@ -226,6 +239,16 @@ class MergeTest(unittest.TestCase):
         assign_blind_times(items, now)
         self.assertGreater(items[1]["posted_at"], items[0]["posted_at"])
         self.assertGreater(items[0]["posted_at"], items[2]["posted_at"])
+
+    def test_drops_sagye_youtube_comments(self):
+        board = empty_board()
+        item = sample("cid-sagye", "영숙 선택 잘했다")
+        item["source"] = "yt"
+        item["excerpt"] = "[나솔사계 LIVE] 현커는 과연 몇 커플?"
+        item["url"] = "https://www.youtube.com/watch?v=dhcjtjrgc-f4z2v&lc=cid-sagye"
+        added = merge(board, {"yt": [item]})
+        self.assertEqual(added, 0)
+        self.assertEqual(board["posts"], [])
 
     def test_drops_blocked_youtube_comments(self):
         board = empty_board()

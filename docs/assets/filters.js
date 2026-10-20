@@ -7,6 +7,7 @@
     "나솔사계", "솔로민박", "사계민박", "그후사랑은계속된다", "사랑은계속된다",
     "사계데이트권", "슈퍼데이트권", "나는solo그후", "나는솔로그후",
   ];
+  const OTHER_SEASON_MARKS = ["다른기수", "타기수", "이전기수", "과거기수"];
   const SAGYE_FLOWERS = ["국화", "튤립", "용담", "백합", "수선화", "라벤더", "프리지아"];
   const MISTER_SURNAMES = [
     "김", "이", "박", "최", "정", "강", "조", "윤", "장", "임", "한", "오", "서", "신",
@@ -62,6 +63,7 @@
   const CURRENT_CAST_RE = new RegExp(`34(?:기)?(?:${CAST_ALT})`);
   const OLD_CAST_RE = new RegExp(`(?<![0-9])((?:1[0-9]|2[0-9]|3[0-3]|3[5-8]))(?:기)?(?:${CAST_ALT})`);
   const OLD_CAST_KI_RE = new RegExp(`(?<![0-9가-힣])([4-9])기(?:${CAST_ALT})`);
+  const OLD_SEASON_RE = /(?<![0-9])((?:[1-9]|1[0-9]|2[0-9]|3[0-3]|3[5-8])기)/;
   const OK_RE = new RegExp(`(${OK_ALT})기?옥순?`);
   const SOON_RE = new RegExp(`(${OK_ALT})기?순자?`);
   const MISTER_SURNAME_RE = new RegExp(`미스터(?:${SUR_ALT})`);
@@ -95,13 +97,18 @@
     const tags = text.match(/#\s*나는솔로/gi) || [];
     if (tags.length >= 3) return true;
     const compact = text.replace(/\s+/g, "");
-    return BLOCKED_YT_TITLE_MARKS.some((mark) => compact.includes(mark.replace(/\s+/g, "")));
+    if (BLOCKED_YT_TITLE_MARKS.some((mark) => compact.includes(mark.replace(/\s+/g, "")))) return true;
+    if (isSagye(text)) return true;
+    const folded = plain(text);
+    if (OTHER_SEASON_MARKS.some((mark) => folded.includes(mark))) return true;
+    if (OLD_SEASON_RE.test(normalize(text))) return true;
+    return false;
   }
 
   function skipYoutubeVideo(video) {
     if (!video) return false;
     if (BLOCKED_YT_IDS.includes(video.video_id || youtubeId(video))) return true;
-    return skipYoutubeTitle(video.title || video.excerpt || "");
+    return skipYoutubeTitle([video.title, video.description, video.excerpt].filter(Boolean).join(" "));
   }
 
   function isBlockedYoutube(post) {
@@ -147,6 +154,8 @@
       if (folded.includes(kw)) return kw;
     }
     if (folded.includes("사계")) return "사계";
+    const other = OTHER_SEASON_MARKS.find((mark) => folded.includes(mark));
+    if (other) return other;
     for (const flower of SAGYE_FLOWERS) {
       if (folded.includes(flower)) return flower;
     }
@@ -162,6 +171,8 @@
     if (soon && !compact.slice(soon.index, soon.index + 8).includes("순위")) return `${soon[1]}순`;
     const old = compact.match(OLD_CAST_RE) || compact.match(OLD_CAST_KI_RE);
     if (old) return old[0];
+    const oldSeason = compact.match(OLD_SEASON_RE);
+    if (oldSeason) return oldSeason[1];
     return "";
   }
 

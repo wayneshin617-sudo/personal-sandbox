@@ -25,6 +25,7 @@ from .parsers import (
     parse_theqoo,
     parse_youtube_comments,
     parse_youtube_search,
+    parse_youtube_watch_meta,
     youtube_newest_token,
 )
 
@@ -397,6 +398,14 @@ def _youtube_comments(
     backfill: bool,
 ) -> list[dict]:
     html = _get_text(client, f"https://www.youtube.com/watch?v={video['video_id']}", {"Referer": "https://www.youtube.com/"})
+    meta = parse_youtube_watch_meta(html)
+    if meta.get("description"):
+        video["description"] = meta["description"]
+    if meta.get("title") and not video.get("title"):
+        video["title"] = meta["title"]
+    if skip_youtube_video(video):
+        print(f"yt skip {video['video_id']} sagye {(video.get('title') or '')[:50]}", flush=True)
+        return []
     token = youtube_newest_token(load_youtube_data(html))
     if not token:
         return []

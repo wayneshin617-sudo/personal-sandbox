@@ -40,6 +40,14 @@ SAGYE_SHOW = (
     "나는솔로그후",
 )
 
+# 유튜브 제목·설명에 있으면 댓글을 모으지 않는다. 본방 글은 34기가 있으면 남긴다.
+OTHER_SEASON_MARKS = (
+    "다른기수",
+    "타기수",
+    "이전기수",
+    "과거기수",
+)
+
 # 꽃 이름 특집(사계 출연진 별명). 배반의장미는 본방 브금이라 넣지 않는다.
 SAGYE_FLOWERS = ("국화", "튤립", "용담", "백합", "수선화", "라벤더", "프리지아")
 
@@ -127,6 +135,7 @@ _OLD_CAST_RE = re.compile(
     rf"(?<![0-9])((?:1[0-9]|2[0-9]|3[0-3]|3[5-8]))(?:기)?(?:{'|'.join(CAST_NAMES)})"
 )
 _OLD_CAST_KI_RE = re.compile(rf"(?<![0-9가-힣])([4-9])기(?:{'|'.join(CAST_NAMES)})")
+_OLD_SEASON_RE = re.compile(r"(?<![0-9])((?:[1-9]|1[0-9]|2[0-9]|3[0-3]|3[5-8])기)")
 _OK_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기?옥순?")
 _SOON_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기?순자?")
 _MISTER_SURNAME_RE = re.compile("미스터(?:" + "|".join(sorted(MISTER_SURNAMES, key=len, reverse=True)) + ")")
@@ -161,12 +170,21 @@ def youtube_id(post: dict[str, Any] | str | None) -> str:
 
 
 def skip_youtube_title(title: str) -> bool:
-    """태그 도배·직장동료 폭로 같은 제목은 댓글을 모으지 않는다."""
+    """태그 도배·사계·다른기수 제목은 댓글을 모으지 않는다."""
     text = title or ""
     if len(_HASHTAG_SOLO_RE.findall(text)) >= 3:
         return True
     compact = re.sub(r"\s+", "", text)
-    return any(mark.replace(" ", "") in compact for mark in BLOCKED_YT_TITLE_MARKS)
+    if any(mark.replace(" ", "") in compact for mark in BLOCKED_YT_TITLE_MARKS):
+        return True
+    if is_sagye(text):
+        return True
+    folded = _plain(text)
+    if any(mark in folded for mark in OTHER_SEASON_MARKS):
+        return True
+    if _OLD_SEASON_RE.search(normalize(text)):
+        return True
+    return False
 
 
 def skip_youtube_video(video: dict[str, Any] | None) -> bool:
@@ -174,8 +192,16 @@ def skip_youtube_video(video: dict[str, Any] | None) -> bool:
         return False
     if (video.get("video_id") or youtube_id(video)) in BLOCKED_YT_IDS:
         return True
-    title = video.get("title") or video.get("excerpt") or ""
-    return skip_youtube_title(title)
+    blob = " ".join(
+        part
+        for part in (
+            video.get("title") or "",
+            video.get("description") or "",
+            video.get("excerpt") or "",
+        )
+        if part
+    )
+    return skip_youtube_title(blob)
 
 
 def is_blocked_youtube(post: dict[str, Any] | str | None) -> bool:
@@ -237,6 +263,9 @@ def sagye_reason(text: str) -> str | None:
             return kw
     if "사계" in plain:
         return "사계"
+    for mark in OTHER_SEASON_MARKS:
+        if mark in plain:
+            return mark
 
     for flower in SAGYE_FLOWERS:
         if flower in plain:
@@ -263,6 +292,9 @@ def sagye_reason(text: str) -> str | None:
     old = _OLD_CAST_RE.search(compact) or _OLD_CAST_KI_RE.search(compact)
     if old:
         return old.group(0)
+    old_season = _OLD_SEASON_RE.search(compact)
+    if old_season:
+        return old_season.group(1)
 
     return None
 

@@ -224,11 +224,11 @@ def parse_theqoo(html: str) -> list[dict]:
     return posts
 
 
-def load_youtube_data(html: str) -> dict:
-    marker = html.find("ytInitialData")
-    if marker < 0:
+def _json_after_marker(html: str, marker: str) -> dict:
+    pos = html.find(marker)
+    if pos < 0:
         return {}
-    start = html.find("{", marker)
+    start = html.find("{", pos)
     if start < 0:
         return {}
     depth = 0
@@ -244,6 +244,22 @@ def load_youtube_data(html: str) -> dict:
                 except json.JSONDecodeError:
                     return {}
     return {}
+
+
+def load_youtube_data(html: str) -> dict:
+    return _json_after_marker(html, "ytInitialData")
+
+
+def parse_youtube_watch_meta(html: str) -> dict:
+    """시청 페이지에서 제목·설명을 읽는다. 사계 영상은 댓글 전에 걸러 낸다."""
+    data = _json_after_marker(html, "ytInitialPlayerResponse")
+    details = data.get("videoDetails") if isinstance(data, dict) else None
+    if not isinstance(details, dict):
+        return {}
+    return {
+        "title": clean(details.get("title") or "")[:180],
+        "description": clean(details.get("shortDescription") or "")[:800],
+    }
 
 
 def _yt_text(node: dict | None) -> str:
@@ -284,6 +300,7 @@ def parse_youtube_search(data: dict) -> tuple[list[dict], str]:
             {
                 "video_id": video_id,
                 "title": title[:180],
+                "description": _yt_text(renderer.get("descriptionSnippet"))[:400],
                 "author": _yt_text(renderer.get("ownerText")) or "유튜브",
                 "published_label": _yt_text(renderer.get("publishedTimeText")),
             }

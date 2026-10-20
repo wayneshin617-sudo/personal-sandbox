@@ -472,9 +472,10 @@ const STOP_WORDS = new Set(
 이유 근황 미국 한국 일본 중국 해외 느낌 생각 마음 이야기 얘기 본인 애들 미래 상황 문제
 댓글 영상 사진 유튜브 유튭 링크 좌표 링크좌표 친구 회사 학교 시간 다들 저렇게 내가 보고 멋진 나가서 삭제직전
 없음 같음 있음 얼마나 둘이 좋다 좋아 좋아요 좋은 좋을 좋음 좋지 좋네 좋냐 좋아서 좋아해 좋아하 좋아함
-계약결혼
+계약결혼 담배 얼굴 하나 거짓말 폭렬 폭력 폭발 커플 경수 같애 안정환
 나솔 미방 미방분 여출 남출 다둥 다둥이 솔솔 몰표 몰표녀 여돌 남돌 솔로녀 솔로남 존버 억까 인싸 아싸 점메추`.split(/\s+/),
 );
+const CURRENT_SEASON = (typeof BoardFilter !== "undefined" && BoardFilter.CURRENT_SEASON) || 34;
 const CAST_NAMES = (typeof BoardFilter !== "undefined" && BoardFilter.CURRENT_CAST) || [
   "영수", "영호", "영식", "영철", "광수", "상철", "영숙", "정숙", "순자", "영자", "옥순", "현숙",
 ];
@@ -494,7 +495,10 @@ const SCREEN_PARTS = [
   "성희롱", "성추행", "성폭행", "성폭력", "성매매", "강간", "음란", "팬티", "속옷", "보빨", "호빠",
   "꼴리", "변태", "자위", "젖", "섹드립",
 ];
-const GENERIC_AUTHORS = new Set(["", "ㅇㅇ", "ㅇㅇㅇ", "ㅁㅁ", "익명", "무명의 더쿠", "유튜브"]);
+const GENERIC_AUTHORS = new Set([
+  "", "ㅇㅇ", "ㅇㅇㅇ", "ㅇㅇㅇㅇ", "ㅁㅁ", "ㅇ", "ㅋㅋ", "ㅋㅋㅋ", "OO", "oo", "00",
+  "익명", "무명의 더쿠", "유튜브", "나갤러", "너갤러",
+]);
 const BOUND_NOUNS = new Set("곳 것 수 거 때 중 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽".split(" "));
 const PRED_RE = /(?:습니다|입니다|합니다|했습니다|됐습니다|였습니다|겠습니다|어요|아요|여요|해요|돼요|예요|이에요|네요|군요|잖아요|거든요|는데요|인데요|었어요|았어요|였어요|겠어요|했어|됐어|였어|겠어|았어|었어|봐줘|해줘|주세요|한다|된다|인다|운다|간다|온다|본다|준다|친다|난다|만든다|싶다|같다|없다|있다|하다|되다|이다|아니다|않다|했다|됐다|였다|겠다|았다|었다|않았다|해서|돼서|여서|아서|어서|면서|지만|니까|려고|도록|하면|되면|이면|아니면|하며|되며|이며|하고|되고|이고|아니고|하는|되는|이는|라는|이라는|않는|없는|있는|할까|될까|인가|건가|거야|거예요|거죠|건데|인데|하네|되네|이네|하지|되지|이지|보면|으며|으니|겁니다|겠죠|거든|잖아|더라|던데|더라고|스러운|스럽게|스러워|적인|답게|다운|은데|는데|한데|같아|같지|같음|같아서|같으면)$/;
 const SHORT_RE = /(?:하|되|됐|했|돼|해)(?:다|요|까|지|네|면|며|고|서|니|게|라|어|아|여|죠|군|구|든|던|음)$|된$|될$/;
@@ -520,14 +524,56 @@ let rollIndex = 0;
 let rolling = false;
 let rollSignature = "";
 
-function stemWord(word) {
+const CLOSED_WORDS = new Set(
+  `그래 이래 저래 그러게 이왕 되게 엄청 진짜로 정말로 천천히 빨리 제대로 함부로 괜히 일단 우선 특히 거의 대략 대충
+훨씬 더욱 점점 갈수록 미리 당장 곧 도저히 아무리 얼마나 이렇게 저렇게 그렇게 그대로 이대로 저대로 막 확 딱 꼭
+반드시 아마도 전혀 절대 별로 혹시 만약 물론 사실 솔직히 역시 왜 어떻게 그냥 좀 더 덜 잘 못 다시 또 매우 아주
+너무 정말 조금 많이 항상 계속 이미 아직 벌써 방금 지금 오늘 어제 내일 요즘 갑자기 드디어 과연 설마 도대체 대체
+당연히 확실히 분명히 약간 자주 가끔 바로 제일 가장 먼저 굳이 오히려 차라리 결국 아무튼 어쨌든 하여튼 꽤 제법
+은근 완전 굉장히 상당히 몹시 대단히 무척 서서히 차차 조금씩 언제나 늘 보통 대개 대체로 흔히 좀처럼 도무지 어째서
+어찌 가만히 몰래 슬쩍 문득 불쑥 얼핏 얼른 어서 부디 제발 함께 같이 혼자 따로 서로 또다시 도로 도리어 심지어 게다가
+더구나 더욱이 한층 겨우 간신히 가까스로 적어도 기껏 고작 불과 오직 단지 그저 다만 유독 남달리 비교적 완전히 통
+여간 그다지 그리 부질없이 아무래도 좌우간 하여간 앞으로 예전에 옛날 금방 이내 즉시 가령 설령 비록 기필코 기어이
+끝내 마침내 어쩌면 행여 자칫 하마터면 다행히 의외로 뜻밖에 참 하도 이토록 그토록 저토록 요만큼 이만큼 그만큼
+저만큼 한참 오래 잠시 잠깐 곧장 줄곧 내내 오로지 한껏 실컷 마음껏 원없이 공연히 쓸데없이 마구 일부러 억지로 저절로
+그러 이리 저리 근데 그래서 그러나 그리고 하면 보면 나는솔 누가 뭐가 뭔가 어딘 아무나 나름 대로`.split(/\s+/),
+);
+const SLURS = new Set("한남 한남충 한녀 맘충 틀딱 김치녀 보슬아치 꼴페미".split(/\s+/));
+const KEEP_NOUNS = new Set("포함 광고 사고 예고 최고 보고 재고 필요 주요 수요 자유 바다 장면 반면 국면 전면 표면 용기 향기 공기 무기 일기 아내 동네 안내".split(/\s+/));
+const RANK_JOSA = ["에서는", "으로는", "에서도", "으로도", "에서부터", "에서", "으로", "로써", "로서", "부터", "까지", "처럼", "보다", "에게", "한테", "이랑", "이라도", "이나", "라도", "라고", "이며", "이고", "은", "는", "을", "를", "과", "와", "도", "만", "에", "로", "나"];
+const RANK_MIN = 3;
+const NAME_WEIGHT = 10;
+
+function stripRankJosa(word) {
   if (/^\d+기$/.test(word)) return word;
-  for (const particle of PARTICLES) {
-    if (!word.endsWith(particle) || word.length <= particle.length) continue;
-    const stem = word.slice(0, -particle.length);
-    if (stem.length >= 2 || BOUND_NOUNS.has(stem)) return stemWord(stem);
+  for (const josa of RANK_JOSA) {
+    if (!word.endsWith(josa) || word.length <= josa.length) continue;
+    const stem = word.slice(0, -josa.length);
+    if (stem.length < 2) return "";
+    return stripRankJosa(stem);
   }
   return word;
+}
+
+function isPredicate(word) {
+  if (!word || KEEP_NOUNS.has(word)) return false;
+  if (/(?:함|됨|하기|되기|싶어|싶지|싶은|같아서|같으면|같았|있었|없었|하였|했어|됐어|했음|았음|었음|였음|같음|없음|있음|같아|같지|같은|같애)$/.test(word)) return true;
+  if (/(?:습니다|입니다|어요|아요|여요|해요|돼요|네요|군요|잖아요|거든요|는데요|더라고|더라|던데|려고|도록|면서|지만|는데|은데|한데|해서|돼서|아서|어서|하고|되고|하는|되는|하면|되면|하지|되지|할까|될까|한다|된다|같다|싶다|없다|있다|하다|되다|아니다|않다|했다|됐다|였다|겠다|았어|었어|였어|겠어|인데|이네|하네|되네|같네)$/.test(word)) return true;
+  if (word.endsWith("네") && word.length >= 5) return true;
+  if (/(?:냐|니까|래요|래요|데요)$/.test(word) && word.length <= 6) return true;
+  if (/(?:면|며)$/.test(word) && word.length <= 8) return true;
+  for (const ending of ["죠", "군", "서", "지", "게", "다", "요", "고", "기"]) {
+    if (!word.endsWith(ending) || word.length <= ending.length) continue;
+    const stem = word.slice(0, -ending.length).replace(/(?:시|겠|었|았|였)+$/, "");
+    if (stem.length <= 1 || /(?:하|되|같|있|없|싶|않)$/.test(stem)) return true;
+  }
+  if (/^(?:어려|쉽|많|적|크|작|좋|싫|그렇|이렇|저렇|어떻|아니)/.test(word) && word.length <= 5) return true;
+  return false;
+}
+
+function stemWord(word) {
+  if (/^\d+기$/.test(word)) return word;
+  return stripRankJosa(word);
 }
 
 function isScreenedWord(word) {
@@ -549,9 +595,13 @@ function isSwearWord(word) {
 }
 
 function isCountedWord(word, allowSwears) {
-  if (/^\d+기$/.test(word)) return true;
-  if (word.length < 2 || STOP_WORDS.has(word) || CAST_NAME_SET.has(word) || isScreenedWord(word)) return false;
-  if (!allowSwears && isSwearWord(word)) return false;
+  if (!word || word.length < 2 || word.length > 8) return false;
+  if (/^\d+기$/.test(word)) return word === `${CURRENT_SEASON}기`;
+  if (KEEP_NOUNS.has(word)) return !CAST_NAMES.some((name) => word.includes(name));
+  if (STOP_WORDS.has(word) || CLOSED_WORDS.has(word) || CAST_NAMES.some((name) => word.includes(name)) || word.startsWith("폭렬") || word.startsWith("거짓말")) return false;
+  if ((word.endsWith("이") || word.endsWith("가")) && (STOP_WORDS.has(word.slice(0, -1)) || CLOSED_WORDS.has(word.slice(0, -1)))) return false;
+  if (isScreenedWord(word) || isPredicate(word)) return false;
+  if (!allowSwears && (isSwearWord(word) || SLURS.has(word))) return false;
   if (PRED_RE.test(word) || SHORT_RE.test(word)) return false;
   return true;
 }
@@ -613,17 +663,28 @@ function isVisiblePost(post) {
 }
 
 function personKey(post) {
+  /* 나갤러·ㅇㅇ 와 앞자리 IP는 여러 사람이다. 그걸 한 명으로 묶으면 많이 나온 말이 1로 줄어 수염 같은 드문 말이 1위가 된다. */
   const author = (post.author || "").trim();
-  const ip = (post.ip || "").trim();
-  const company = (post.company || "").trim();
-  if (GENERIC_AUTHORS.has(author) && !ip && !company) return "";
-  return `${post.source || ""}:${author}:${ip}:${company}`;
+  if (!author || author.includes("*") || GENERIC_AUTHORS.has(author) || /^[ㅇㅋㅎㅁㅠㅜ0oO]{1,8}$/.test(author)) return "";
+  return `${post.source || ""}:${author}`;
 }
 
 function countedText(post) {
   /* 유튜브는 댓글만. 영상 제목·태그·설명은 집계에 넣지 않는다. */
   if (post.source === "yt") return post.title || "";
   return `${post.title || ""} ${post.excerpt || ""}`;
+}
+
+function castNameOf(word) {
+  if (!word) return "";
+  const names = CAST_NAMES.slice().sort((a, b) => b.length - a.length);
+  for (const name of names) {
+    if (word === name) return name;
+    if (!word.startsWith(name)) continue;
+    const rest = word.slice(name.length);
+    if (/^(?:님|씨|아|야|이|가|은|는|을|를|도|만|와|과|의|좀|줌|짱|랑|이랑)?$/.test(rest)) return name;
+  }
+  return "";
 }
 
 function stuffedTitleNames(post) {
@@ -686,9 +747,9 @@ function nameCounts(posts, since) {
     const person = personKey(post) || `post:${post.source || ""}:${post.id}`;
     const seenNames = new Set();
     for (const raw of text.match(WORD_RE) || []) {
-      const word = stemWord(raw);
-      if (!CAST_NAME_SET.has(word) || stuffed.has(word) || !names.includes(word)) continue;
-      seenNames.add(word);
+      const name = castNameOf(stemWord(raw)) || castNameOf(raw);
+      if (!name || stuffed.has(name) || !names.includes(name)) continue;
+      seenNames.add(name);
     }
     for (const name of seenNames) {
       let group = people.get(name);
@@ -963,10 +1024,22 @@ function deltaMark(word, rank, previous) {
   return { className: "same", text: "–" };
 }
 
+const REALTIME_HOURS = 8;
+
+function searchCounts(posts, since) {
+  const counts = new Map();
+  for (const [word, count] of wordCounts(posts, since, false)) counts.set(word, count);
+  for (const [name, count] of nameCounts(posts, since)) counts.set(name, count * NAME_WEIGHT);
+  return [...counts.entries()]
+    .filter(([, count]) => count >= RANK_MIN)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
+}
+
 function renderRealtime(posts) {
+  const source = allPosts.length ? visiblePosts() : posts;
   const now = Date.now();
-  const windowStart = now - 4 * 60 * 60 * 1000;
-  const ranked = wordCounts(posts, windowStart, false).slice(0, 10);
+  const windowStart = now - REALTIME_HOURS * 60 * 60 * 1000;
+  const ranked = searchCounts(source, windowStart).slice(0, 10);
   const words = ranked.map(([word]) => word);
   let compare = null;
   if (!baselineWords) {
@@ -985,7 +1058,7 @@ function renderRealtime(posts) {
     ...deltaMark(word, index, compare),
   }));
   realtimeItems.replaceChildren();
-  const names = nameCounts(posts, windowStart);
+  const names = nameCounts(source, windowStart);
   updateLead(names[0]?.[0] || "", names.map(([word, count]) => ({ word, count })));
   if (!liveRanks.length) {
     realtimeRank.textContent = "–";
@@ -1043,7 +1116,7 @@ function paintRoll(advance) {
 }
 
 function renderKeywords(posts, force) {
-  const source = posts && posts.length ? posts : allPosts;
+  const source = allPosts.length ? visiblePosts() : (posts && posts.length ? posts : allPosts);
   const key = `${source.length}:${source[source.length - 1]?.id || 0}:${floodStamp}`;
   renderCloud(source);
   /* 병목: 구름·실시간 집계는 글 수만 건을 훑는다. 폴링마다 다시 세지 않는다. */

@@ -78,14 +78,37 @@ class SagyeTest(unittest.TestCase):
         self.assertTrue(should_keep(post))
         self.assertFalse(should_keep(post, swears=True))
 
-    def test_youtube_comment_ignores_video_title(self):
+    def test_youtube_comment_drops_when_video_title_is_sagye(self):
         post = {
             "source": "yt",
             "title": "영숙 선택 잘했다",
             "excerpt": "나솔사계 미스터서 하이라이트 #나는솔로",
             "url": "https://www.youtube.com/watch?v=abc123&lc=cid1",
         }
-        self.assertTrue(should_keep(post))
+        self.assertFalse(should_keep(post))
+        self.assertTrue(drop_reason(post).startswith("유튜브"))
+
+    def test_youtube_skips_sagye_and_old_season_titles(self):
+        self.assertTrue(
+            skip_youtube_video({"video_id": "sagye", "title": "[나솔사계 LIVE] 현커는 과연 몇 커플?"})
+        )
+        self.assertTrue(skip_youtube_video({"video_id": "old", "title": "나는솔로 31기 하이라이트"}))
+        self.assertTrue(
+            skip_youtube_video(
+                {
+                    "video_id": "desc",
+                    "title": "나는솔로 34기 다시보기",
+                    "description": "사계 민박에서 찍은 후기",
+                }
+            )
+        )
+        self.assertTrue(skip_youtube_video({"video_id": "other", "title": "다른기수랑 비교하는 34기"}))
+        self.assertFalse(skip_youtube_video({"video_id": "okvid", "title": "나는솔로 34기 9회"}))
+
+    def test_old_season_token_without_cast_name(self):
+        self.assertTrue(is_sagye("31기 하이라이트"))
+        self.assertFalse(should_keep({"title": "31기 하이라이트", "excerpt": ""}))
+        self.assertTrue(should_keep({"title": "34기 보니까 31기보다 낫다", "excerpt": ""}))
 
     def test_blocked_clickbait_youtube(self):
         post = {
