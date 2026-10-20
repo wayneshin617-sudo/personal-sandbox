@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T19:35:48+00:00",
+  "updatedAt": "2026-10-20T19:37:48+00:00",
   "posts": [
     {
       "id": 2,
@@ -617405,6 +617405,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-20T19:35:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 69538,
+      "source": "blind",
+      "externalId": "cmt-457678060",
+      "title": "ㅠ",
+      "excerpt": "",
+      "author": "e*** 작성자",
+      "company": "인천공항시설관리",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%90%EB%8C%80%EA%B7%BC%EB%AC%B4-5ufguc0s#457678060",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T04:37:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T19:37:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69539,
+      "source": "blind",
+      "externalId": "cmt-457678056",
+      "title": "싫음",
+      "excerpt": "",
+      "author": "특*******",
+      "company": "원익머트리얼즈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%90%EB%8C%80%EA%B7%BC%EB%AC%B4-5ufguc0s#457678056",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T04:37:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T19:37:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
