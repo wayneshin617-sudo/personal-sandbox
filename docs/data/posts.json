@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T22:20:44+00:00",
+  "updatedAt": "2026-10-20T22:25:46+00:00",
   "posts": [
     {
       "id": 2,
@@ -620363,6 +620363,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T22:20:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69690,
+      "source": "blind",
+      "externalId": "cmt-457683169",
+      "title": "유튜버도 잡는데 ? ㅎ",
+      "excerpt": "",
+      "author": "b*****",
+      "company": "현진스포텍",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457683169",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T07:25:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T22:25:46+00:00",
       "isSeed": false,
       "kind": "reply"
     }
