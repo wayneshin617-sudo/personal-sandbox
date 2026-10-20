@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T06:19:44+00:00",
+  "updatedAt": "2026-10-20T06:26:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -596082,6 +596082,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T06:19:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68446,
+      "source": "qoo",
+      "externalId": "cmt-4381339812",
+      "title": "@5 22ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381070665#4381339812",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T14:26:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T06:26:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68447,
+      "source": "blind",
+      "externalId": "cmt-457585957",
+      "title": "ㅋㅋ 우리집도 마찬가지임",
+      "excerpt": "",
+      "author": "나솔러",
+      "company": "SK텔레콤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%88%9C%EC%9E%90-k%EC%9E%A5%EB%85%80-ipszv6h4#457585957",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-20T14:38:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T06:26:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
