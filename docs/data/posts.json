@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T05:40:43+00:00",
+  "updatedAt": "2026-10-20T05:41:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -595685,6 +595685,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T05:40:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68426,
+      "source": "blind",
+      "externalId": "cmt-457581984",
+      "title": "그게 무슨뜻?",
+      "excerpt": "",
+      "author": "c******** 작성자",
+      "company": "KPX케미칼",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9A%95-%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-xurclvek#457581984",
+      "postedLabel": "39분",
+      "postedAt": "2026-10-20T14:02:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T05:41:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68427,
+      "source": "blind",
+      "externalId": "cmt-457584887",
+      "title": "외모뿐만 아니라 스펙과 직업을 질투한다고 함ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "올***",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9A%95-%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-xurclvek#457584887",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-20T14:28:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T05:41:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
