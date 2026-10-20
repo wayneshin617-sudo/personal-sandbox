@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T23:00:42+00:00",
+  "updatedAt": "2026-10-20T23:07:45+00:00",
   "posts": [
     {
       "id": 99,
@@ -198777,6 +198777,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T23:00:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69702,
+      "source": "blind",
+      "externalId": "cmt-457686266",
+      "title": "영수 뭔 연예인이야? 일반인이 지역평판 ㅈㄴ웃기네진짜",
+      "excerpt": "",
+      "author": "1******",
+      "company": "전국은행연합회",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%9A%95%ED%95%98%EB%8A%94-%EA%B8%80%EC%9D%B4-%EB%82%98%EC%98%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0-coh8xkaz#457686266",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-21T08:06:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T23:07:45+00:00",
       "isSeed": false,
       "kind": "reply"
     }
