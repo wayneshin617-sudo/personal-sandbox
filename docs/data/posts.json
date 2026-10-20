@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T07:50:33+00:00",
+  "updatedAt": "2026-10-20T07:52:34+00:00",
   "posts": [
     {
       "id": 2,
@@ -600183,6 +600183,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T07:50:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68657,
+      "source": "blind",
+      "externalId": "cmt-457602026",
+      "title": "선글 뭐냐 볼수록.. 본방 봤는데도 합성인줄 알았음",
+      "excerpt": "",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%94%EB%9E%8C%EC%B2%98%EB%9F%BC-%EC%8A%A4%EC%B3%90%EA%B0%80%EB%8A%94-%EC%A0%95%EC%97%B4%EA%B3%BC-%EB%82%AD%EB%A7%8C%EC%95%84-ltt750b7#457602026",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-20T16:50:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T07:52:34+00:00",
       "isSeed": false,
       "kind": "reply"
     }
