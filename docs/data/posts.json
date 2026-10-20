@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T22:27:44+00:00",
+  "updatedAt": "2026-10-20T22:28:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -620423,6 +620423,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T22:27:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69693,
+      "source": "blind",
+      "externalId": "cmt-457683061",
+      "title": "사실이라도 여자랑 자려고 헌팅하는게 뭐가 나빠? 인간의 본능인데. 다만 그 와꾸로 헌팅 다녔다는게 놀랍네ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457683061",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-21T07:23:21+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T22:28:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69694,
+      "source": "blind",
+      "externalId": "cmt-457683314",
+      "title": "ㅋㅋㅋㅋ ㅅㅂ 이 댓글이 제일 웃기네",
+      "excerpt": "",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457683314",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T07:28:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T22:28:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
