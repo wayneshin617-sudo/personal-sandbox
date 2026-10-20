@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T02:30:52+00:00",
+  "updatedAt": "2026-10-20T02:31:48+00:00",
   "posts": [
     {
       "id": 2,
@@ -592061,6 +592061,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T02:30:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68239,
+      "source": "blind",
+      "externalId": "cmt-457564440",
+      "title": "경수 잘나가네 안경점도 잘되고 있겠지",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EA%B8%B0-%EC%A1%B4%EC%9E%98-%EC%95%88%EA%B2%BD%EC%82%AC-%EA%B2%BD%EC%88%98-%EA%B7%BC%ED%99%A9-vsiudlli#457564440",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T11:31:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T02:31:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68240,
+      "source": "blind",
+      "externalId": "cmt-457564425",
+      "title": "아니? 남자느낌나기도하고... 그냥 잘생기면 잘생겼다 해주면되지 뭘이리 과몰입하나해서",
+      "excerpt": "",
+      "author": "I*********",
+      "company": "GS리테일",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-20%EC%B4%88%EB%B0%98-%EC%97%AC%EC%9E%90%EC%95%A0%EB%93%A4%ED%95%9C%ED%85%8C-%EB%A8%B9%ED%9E%88%EB%8A%94-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4%EB%9D%BC%EA%B3%A0-o4ifqewj#457564425",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T11:31:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T02:31:48+00:00",
       "isSeed": false,
       "kind": "reply"
     }
