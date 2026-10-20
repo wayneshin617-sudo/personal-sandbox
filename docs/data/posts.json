@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T09:26:35+00:00",
+  "updatedAt": "2026-10-20T09:27:34+00:00",
   "posts": [
     {
       "id": 2,
@@ -601076,6 +601076,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T09:26:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68702,
+      "source": "blind",
+      "externalId": "cmt-457611109",
+      "title": "그러니까 웃기지도 않어. 자존감 챙길게 그거 밖에 없는거지",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "한국노바티스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%88%9C%EC%9E%90-k%EC%9E%A5%EB%85%80-ipszv6h4#457611109",
+      "postedLabel": "18분",
+      "postedAt": "2026-10-20T18:09:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T09:27:34+00:00",
       "isSeed": false,
       "kind": "reply"
     }
