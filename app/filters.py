@@ -140,8 +140,10 @@ _OK_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기
 _SOON_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기?순자?")
 _MISTER_SURNAME_RE = re.compile("미스터(?:" + "|".join(sorted(MISTER_SURNAMES, key=len, reverse=True)) + ")")
 
-# 디시 나는솔로 갤의 고정 익명. 글마다 다른 사람인데 도배만 한다.
-_GALLERY_SPAM_RE = re.compile(r"^(?:ㅇㅇ|나갤러\d*|너갤러\d*)(?:\([^)]*\))?$")
+# 고정 익명. ㅇ을 늘리거나 띄어 쓰거나, 나갤러/너갤러/나갤루에 숫자를 붙여도 같은 도배다.
+_GALLERY_SPAM_RE = re.compile(
+    r"^(?:ㅇ(?:\s*ㅇ)*|나갤러\d*|너갤러\d*|나갤루\d*)(?:\([^)]*\))?$"
+)
 
 # 영상 제목·본문에 이 말이 있으면 나솔 글로 본다.
 SHOW_MARKS = ("나솔", "나는솔로", "나는solo", "iamsolo", "34기")
@@ -381,8 +383,8 @@ def swear_reason(text: str) -> str | None:
 
 
 def gallery_spam_reason(post: dict[str, Any] | str | None) -> str | None:
-    """디시 ㅇㅇ·나갤러·너갤러 고정 닉은 통째로 버린다."""
-    if isinstance(post, str) or not post or (post.get("source") or "") != "dc":
+    """ㅇ만 반복된 닉과 나갤러·너갤러·나갤루는 출처와 상관없이 모으지 않는다."""
+    if isinstance(post, str) or not post:
         return None
     author = (post.get("author") or "").strip()
     if not _GALLERY_SPAM_RE.match(author):

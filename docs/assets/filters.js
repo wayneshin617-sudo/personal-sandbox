@@ -44,7 +44,7 @@
     "염병", "엠창", "개년", "개놈", "개새", "쉬발", "쉬벌", "스발", "슈발",
   ];
   const SWEAR_JAMO = ["ㅅㅂ", "ㅆㅂ", "ㅅㅍ", "ㅂㅅ", "ㅈㄹ"];
-  const GALLERY_SPAM_RE = /^(?:ㅇㅇ|나갤러\d*|너갤러\d*)(?:\([^)]*\))?$/;
+  const GALLERY_SPAM_RE = /^(?:ㅇ(?:\s*ㅇ)*|나갤러\d*|너갤러\d*|나갤루\d*)(?:\([^)]*\))?$/;
   const SHOW_MARKS = ["나솔", "나는솔로", "나는solo", "iamsolo", "34기"];
   const OTHER_SHOWS = ["계약결혼", "환승연애", "돌싱글즈", "솔로지옥", "하트시그널", "결혼작사", "이혼작곡"];
   const ATTACKS = [
@@ -226,7 +226,7 @@
   }
 
   function gallerySpamReason(post) {
-    if (!post || typeof post === "string" || (post.source || "") !== "dc") return "";
+    if (!post || typeof post === "string") return "";
     const author = String(post.author || "").trim();
     if (!GALLERY_SPAM_RE.test(author)) return "";
     if (author.startsWith("나갤")) return "나갤러";
