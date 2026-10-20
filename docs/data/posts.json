@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T03:09:50+00:00",
+  "updatedAt": "2026-10-20T03:12:50+00:00",
   "posts": [
     {
       "id": 2,
@@ -592360,6 +592360,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T03:09:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68254,
+      "source": "qoo",
+      "externalId": "cmt-4381167551",
+      "title": "응응~ 이런 추임새 습관처럼 넣는 사람들이 있더라 ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381070665#4381167551",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T11:11:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T03:12:50+00:00",
       "isSeed": false,
       "kind": "reply"
     }
