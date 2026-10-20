@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T00:26:22+00:00",
+  "updatedAt": "2026-10-20T00:29:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -597170,6 +597170,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-20T00:26:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67859,
+      "source": "dc",
+      "externalId": "6599402",
+      "title": "친구로는 b형이 최고고, 연인으로는 a형이 최고임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.74",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599402&page=1",
+      "postedLabel": "09:28",
+      "postedAt": "2026-10-20T09:28:54+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T00:29:22+00:00",
       "isSeed": false
     }
   ]
