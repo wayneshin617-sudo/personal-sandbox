@@ -21,8 +21,11 @@ from .filters import drop_reason, should_keep, skip_youtube_video
 from .parsers import (
     load_youtube_data,
     parse_blind,
+    parse_blind_comments,
     parse_dc,
+    parse_dc_comments,
     parse_theqoo,
+    parse_theqoo_comments,
     parse_youtube_comments,
     parse_youtube_search,
     parse_youtube_watch_meta,
@@ -37,6 +40,11 @@ YT_PATH = ROOT / "docs" / "data" / "youtube.json"
 KST = timezone(timedelta(hours=9))
 CUTOFF = datetime(2026, 10, 7, 22, 30, tzinfo=KST)
 MAX_DC_PAGES = 400
+MAX_DC_REPLY_THREADS = 24
+MAX_QOO_REPLY_THREADS = 16
+MAX_BLIND_REPLY_THREADS = 8
+REPLY_LOOKBACK = timedelta(hours=10)
+_DC_TOKEN = re.compile(r'id="e_s_n_o"[^>]*value="([^"]+)"')
 
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -171,7 +179,7 @@ def to_public(post: dict, *, post_id: int, seen_at: str) -> dict:
     posted_at = post.get("posted_at") or ""
     if post["source"] == "dc":
         posted_at = normalize_dc_time(posted_at)
-    return {
+    public = {
         "id": post_id,
         "source": post["source"],
         "externalId": post["external_id"],
@@ -190,6 +198,9 @@ def to_public(post: dict, *, post_id: int, seen_at: str) -> dict:
         "firstSeenAt": seen_at,
         "isSeed": False,
     }
+    if post.get("kind"):
+        public["kind"] = post["kind"]
+    return public
 
 
 def time_key(item: dict) -> datetime:
@@ -270,6 +281,153 @@ def _get_text(client: httpx.Client, url: str, headers: dict[str, str]) -> str:
     raise RuntimeError(f"목록을 읽지 못했습니다: {url}") from last_error
 
 
+def _spread_targets(posts: list[dict], limit: int, now: datetime) -> list[dict]:
+    """댓글이 있는 글을 시간대마다 나눠 고른다. 맨 앞만 열면 방금 쓴 글의 댓글만 집계된다."""
+    buckets: list[list[dict]] = [[] for _ in range(int(REPLY_LOOKBACK.total_seconds() // 3600))]
+    for post in posts:
+        if post.get("kind") == "reply" or not (post.get("comments") or 0):
+            continue
+        stamp = parse_instant(post.get("posted_at") or "")
+        if stamp is None:
+            continue
+        age = (now - stamp).total_seconds() / 3600
+        if age < 0 or age >= len(buckets):
+            continue
+        buckets[int(age)].append(post)
+    picked: list[dict] = []
+    while len(picked) < limit and any(buckets):
+        for bucket in buckets:
+            if bucket and len(picked) < limit:
+                picked.append(bucket.pop(0))
+    if len(picked) < limit:
+        seen = {id(post) for post in picked}
+        for post in posts:
+            if len(picked) >= limit:
+                break
+            if id(post) in seen or post.get("kind") == "reply" or not (post.get("comments") or 0):
+                continue
+            picked.append(post)
+    return picked
+
+
+def _read_once(client: httpx.Client, url: str, headers: dict[str, str]) -> str:
+    response = client.get(url, headers=headers)
+    if response.status_code in {404, 410}:
+        return ""
+    response.raise_for_status()
+    return response.text
+
+
+def fetch_dc_replies(client: httpx.Client, posts: list[dict], now: datetime | None = None) -> list[dict]:
+    """최근 10시간 글을 시간대마다 나눠 최신 댓글을 읽는다."""
+    current = now or datetime.now(KST)
+    found: list[dict] = []
+    for post in _spread_targets(posts, MAX_DC_REPLY_THREADS, current):
+        no = post.get("external_id") or ""
+        try:
+            html = _read_once(client, post["url"], {"Referer": "https://gall.dcinside.com/"})
+            if not html:
+                continue
+            token = _DC_TOKEN.search(html)
+            if not token:
+                print(f"dc comments {no} no token", flush=True)
+                continue
+            page_found: list[dict] = []
+            for page in range(1, 4):
+                response = client.post(
+                    "https://gall.dcinside.com/board/comment/",
+                    data={
+                        "id": "iamsolo",
+                        "no": no,
+                        "cmt_id": "iamsolo",
+                        "cmt_no": no,
+                        "focus_cno": "",
+                        "focus_pno": "-1",
+                        "e_s_n_o": token.group(1),
+                        "comment_page": str(page),
+                        "sort": "D",
+                        "prevCnt": "",
+                        "board_type": "",
+                        "_GALLTYPE_": "G",
+                    },
+                    headers={
+                        "X-Requested-With": "XMLHttpRequest",
+                        "Referer": post["url"],
+                        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+                    },
+                )
+                if response.status_code != 200:
+                    break
+                payload = response.json()
+                batch = parse_dc_comments(payload, post, now=current)
+                if not batch:
+                    break
+                page_found.extend(batch)
+                times = [item for item in (parse_instant(row.get("posted_at") or "") for row in batch) if item]
+                oldest = min(times) if times else None
+                pagination = str(payload.get("pagination") or "")
+                has_next = f"viewComments({page + 1}," in pagination
+                if not has_next or (oldest is not None and oldest < current - REPLY_LOOKBACK):
+                    break
+                time.sleep(0.06)
+            found.extend(page_found)
+            print(f"dc comments {no} {len(page_found)}", flush=True)
+        except Exception as exc:
+            print(f"dc comments {no} failed: {exc}", flush=True)
+        time.sleep(0.08)
+    return found
+
+
+def fetch_qoo_replies(client: httpx.Client, posts: list[dict], now: datetime | None = None) -> list[dict]:
+    """더쿠 댓글 목록을 읽는다. 비회원에게 가린 한 시간 안 댓글은 빠진다."""
+    current = now or datetime.now(KST)
+    found: list[dict] = []
+    for post in _spread_targets(posts, MAX_QOO_REPLY_THREADS, current):
+        sid = post.get("external_id") or ""
+        try:
+            response = client.post(
+                "https://theqoo.net/index.php",
+                data={
+                    "act": "dispTheqooContentCommentListTheqoo",
+                    "document_srl": sid,
+                    "cpage": "0",
+                    "mid": "iamsolo",
+                },
+                headers={
+                    "Referer": post["url"],
+                    "X-Requested-With": "XMLHttpRequest",
+                    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+                },
+            )
+            response.raise_for_status()
+            batch = parse_theqoo_comments(response.json(), post)
+            found.extend(batch)
+            print(f"qoo comments {sid} {len(batch)}", flush=True)
+        except Exception as exc:
+            print(f"qoo comments {sid} failed: {exc}", flush=True)
+        time.sleep(0.08)
+    return found
+
+
+def fetch_blind_replies(client: httpx.Client, posts: list[dict], now: datetime) -> list[dict]:
+    """블라인드 글에 붙어 있는 댓글을 읽는다."""
+    found: list[dict] = []
+    for post in _spread_targets(posts, MAX_BLIND_REPLY_THREADS, now):
+        try:
+            html = _read_once(client, post["url"], {"Referer": "https://www.teamblind.com/"})
+            if not html:
+                continue
+            batch = parse_blind_comments(html, post)
+            found.extend(batch)
+            print(f"blind comments {len(batch)} {post.get('external_id', '')[-24:]}", flush=True)
+        except Exception as exc:
+            print(f"blind comments failed: {exc}", flush=True)
+        time.sleep(0.08)
+    if found:
+        assign_blind_times(found, now)
+    return found
+
+
 def fetch_dc(client: httpx.Client, known_ids: set[str], *, backfill: bool) -> list[dict]:
     headers = {"Referer": "https://gall.dcinside.com/"}
     found: list[dict] = []
@@ -291,10 +449,22 @@ def fetch_dc(client: httpx.Client, known_ids: set[str], *, backfill: bool) -> li
         print(f"dc page {page} {batch[0]['posted_at']} -> {batch[-1]['posted_at']}", flush=True)
         if oldest is not None and oldest < CUTOFF:
             break
-        if not backfill and any(item["external_id"] in known_ids for item in batch):
+        if not backfill and (
+            page >= 8
+            or (
+                any(item["external_id"] in known_ids for item in batch)
+                and oldest is not None
+                and oldest < datetime.now(KST) - REPLY_LOOKBACK
+            )
+        ):
             break
         time.sleep(0.12)
-    return found
+    try:
+        replies = fetch_dc_replies(client, found)
+    except Exception as exc:
+        print(f"dc comments failed: {exc}", flush=True)
+        replies = []
+    return found + replies
 
 
 def qoo_label_time(label: str, now: datetime) -> datetime:
@@ -346,13 +516,18 @@ def fetch_qoo(client: httpx.Client, known_ids: set[str], *, backfill: bool, now:
         print(f"qoo page {page} {batch[0]['posted_label']} -> {batch[-1]['posted_label']}", flush=True)
         if oldest < CUTOFF:
             break
-        if not backfill and any(item["external_id"] in known_ids for item in batch):
+        if not backfill and (page >= 4 or (any(item["external_id"] in known_ids for item in batch) and oldest < now - REPLY_LOOKBACK)):
             break
         time.sleep(0.12)
     stamp_newest_first(found, now, qoo_label_time)
     if backfill and not found:
         raise RuntimeError("더쿠 목록에서 글을 찾지 못했습니다")
-    return found
+    try:
+        replies = fetch_qoo_replies(client, found, now)
+    except Exception as exc:
+        print(f"qoo comments failed: {exc}", flush=True)
+        replies = []
+    return found + replies
 
 
 def fetch_blind(client: httpx.Client, now: datetime) -> list[dict]:
@@ -362,7 +537,12 @@ def fetch_blind(client: httpx.Client, now: datetime) -> list[dict]:
     if not posts:
         raise RuntimeError("블라인드 목록에서 글을 찾지 못했습니다")
     assign_blind_times(posts, now)
-    return posts
+    try:
+        replies = fetch_blind_replies(client, posts, now)
+    except Exception as exc:
+        print(f"blind comments failed: {exc}", flush=True)
+        replies = []
+    return posts + replies
 
 
 def _yt_client_info(html: str) -> tuple[str, str]:

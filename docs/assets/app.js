@@ -140,13 +140,16 @@ function matchingAsc() {
   if (matchCache.key === key) return matchCache.list;
   /* 병목: 전체+검색없음이어도 allPosts를 그대로 쓰면 사계 글이 50개 슬롯을 차지한다. */
   const base = visiblePosts();
-  if (state.source === "all" && !state.q) {
-    matchCache = { key, list: base };
-    return base;
-  }
   const needle = state.q.toLowerCase();
+  /* 댓글은 기본 목록에서는 빼고, 검색·실검 클릭 때는 같이 보여 준다. 실검 집계는 visiblePosts를 그대로 쓴다. */
+  if (!needle && state.source === "all") {
+    const list = base.filter((post) => post.kind !== "reply");
+    matchCache = { key, list };
+    return list;
+  }
   const list = [];
   for (const post of base) {
+    if (!needle && post.kind === "reply") continue;
     if (state.source !== "all" && post.source !== state.source) continue;
     if (needle) {
       const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();
@@ -259,6 +262,12 @@ function renderMsg(post, animate) {
     text.href = post.url;
     text.target = "_blank";
     text.rel = "noopener noreferrer";
+  }
+  if (post.kind === "reply") {
+    const reply = document.createElement("span");
+    reply.className = "badge";
+    reply.textContent = "댓글";
+    text.append(reply);
   }
   if (post.badge) {
     const badge = document.createElement("span");
@@ -665,7 +674,7 @@ function isVisiblePost(post) {
 function personKey(post) {
   /* 나갤러·ㅇㅇ 와 앞자리 IP는 여러 사람이다. 그걸 한 명으로 묶으면 많이 나온 말이 1로 줄어 수염 같은 드문 말이 1위가 된다. */
   const author = (post.author || "").trim();
-  if (!author || author.includes("*") || GENERIC_AUTHORS.has(author) || /^[ㅇㅋㅎㅁㅠㅜ0oO]{1,8}$/.test(author)) return "";
+  if (!author || author.includes("*") || GENERIC_AUTHORS.has(author) || /^[ㅇㅋㅎㅁㅠㅜ0oO]{1,8}$/.test(author) || /^(?:나갤러|너갤러)\d*$/.test(author)) return "";
   return `${post.source || ""}:${author}`;
 }
 
@@ -685,12 +694,6 @@ function castNameOf(word) {
     if (/^(?:님|씨|아|야|이|가|은|는|을|를|도|만|와|과|의|좀|줌|짱|랑|이랑)?$/.test(rest)) return name;
   }
   return "";
-}
-
-function stuffedTitleNames(post) {
-  if (post.source !== "yt") return new Set();
-  const excerpt = post.excerpt || "";
-  return new Set(CAST_NAMES.filter((name) => excerpt.includes(name)));
 }
 
 function wordCounts(posts, since, allowSwears) {
@@ -740,15 +743,14 @@ function nameCounts(posts, since) {
   for (const post of posts) {
     if (!isVisiblePost(post)) continue;
     if (since && timeValue(post) < since) continue;
-    const stuffed = stuffedTitleNames(post);
     const text = countedText(post);
-    const names = CAST_NAMES.filter((name) => text.includes(name) && !stuffed.has(name));
+    const names = CAST_NAMES.filter((name) => text.includes(name));
     if (names.length >= 4) continue;
     const person = personKey(post) || `post:${post.source || ""}:${post.id}`;
     const seenNames = new Set();
     for (const raw of text.match(WORD_RE) || []) {
       const name = castNameOf(stemWord(raw)) || castNameOf(raw);
-      if (!name || stuffed.has(name) || !names.includes(name)) continue;
+      if (!name || !names.includes(name)) continue;
       seenNames.add(name);
     }
     for (const name of seenNames) {

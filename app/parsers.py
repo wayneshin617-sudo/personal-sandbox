@@ -1,9 +1,10 @@
-"""디시인사이드·블라인드 공개 목록 페이지에서 글 제목을 읽는다."""
+"""디시인사이드·블라인드·더쿠 공개 글과 댓글을 읽는다."""
 
 from __future__ import annotations
 
 import json
 import re
+from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
@@ -15,6 +16,11 @@ _QOO_POST = re.compile(r"/iamsolo/(\d+)$")
 
 _WS = re.compile(r"\s+")
 _REPLY = re.compile(r"\[([\d,]+)\]")
+_DC_CMT_TIME = re.compile(r"^(\d{2})\.(\d{2})\s+(\d{2}):(\d{2}):(\d{2})$")
+_DC_REPLY_MENTION = re.compile(r"^@\S+(?:\([^)]*\))?\s*")
+_QOO_CMT_TIME = re.compile(r"^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})$")
+_DELETED_COMMENT = ("삭제된 댓글", "이 댓글은 삭제", "해당 댓글은 삭제", "댓글이 삭제")
+KST = timezone(timedelta(hours=9))
 
 
 def clean(value: str | None) -> str:
@@ -22,6 +28,15 @@ def clean(value: str | None) -> str:
         return ""
     text = value.replace("\xa0", " ").replace("\u200b", "").replace("\ufeff", "")
     return _WS.sub(" ", text).strip()
+
+
+def plain(value: str | None) -> str:
+    """댓글 HTML에서 보이는 문장만 남긴다."""
+    if not value:
+        return ""
+    if "<" in value and ">" in value:
+        value = _soup(value).get_text(" ", strip=True)
+    return clean(value)
 
 
 def parse_int(value: str | None) -> int | None:
@@ -369,6 +384,167 @@ def youtube_newest_token(data: dict) -> str:
 
     _walk(data, visit)
     return found
+
+
+def _reply(
+    *,
+    source: str,
+    external_id: str,
+    title: str,
+    url: str,
+    author: str,
+    posted_at: str = "",
+    posted_label: str = "",
+    ip: str = "",
+    company: str = "",
+    recommends: int | None = None,
+) -> dict:
+    return {
+        "source": source,
+        "external_id": external_id,
+        "title": title[:300],
+        "excerpt": "",
+        "author": author or "익명",
+        "company": company,
+        "ip": ip,
+        "badge": "",
+        "url": url,
+        "posted_label": posted_label,
+        "posted_at": posted_at,
+        "views": None,
+        "recommends": recommends,
+        "comments": None,
+        "kind": "reply",
+    }
+
+
+def _deleted_comment(text: str) -> bool:
+    return any(text.startswith(mark) for mark in _DELETED_COMMENT)
+
+
+def _dc_comment_time(value: str, now: datetime) -> str:
+    matched = _DC_CMT_TIME.match(clean(value))
+    if not matched:
+        return ""
+    month, day, hour, minute, second = (int(part) for part in matched.groups())
+    current = now.astimezone(KST)
+    try:
+        stamp = datetime(current.year, month, day, hour, minute, second, tzinfo=KST)
+    except ValueError:
+        return ""
+    if stamp - current > timedelta(days=2):
+        stamp = stamp.replace(year=current.year - 1)
+    return stamp.replace(microsecond=0).isoformat()
+
+
+def parse_dc_comments(payload: dict, parent: dict, *, now: datetime | None = None) -> list[dict]:
+    """디시 댓글 JSON에서 지워지지 않은 댓글을 읽는다."""
+    if not isinstance(payload, dict):
+        return []
+    current = now or datetime.now(KST)
+    parent_url = parent.get("url") or ""
+    posts: list[dict] = []
+    seen: set[str] = set()
+    for item in payload.get("comments") or []:
+        if not isinstance(item, dict):
+            continue
+        if item.get("del_yn") == "Y" or str(item.get("is_delete") or "0") not in {"0", "N"}:
+            continue
+        number = clean(str(item.get("no") or ""))
+        memo = plain(item.get("memo"))
+        memo = _DC_REPLY_MENTION.sub("", memo).strip()
+        if not number.isdigit() or not memo or _deleted_comment(memo) or number in seen:
+            continue
+        seen.add(number)
+        posts.append(
+            _reply(
+                source="dc",
+                external_id=f"cmt-{number}",
+                title=memo,
+                url=f"{parent_url}#cmt_{number}" if parent_url else "",
+                author=clean(item.get("name")) or "ㅇㅇ",
+                posted_at=_dc_comment_time(str(item.get("reg_date") or ""), current),
+                posted_label=clean(str(item.get("reg_date") or "")),
+                ip=clean(item.get("ip")),
+                recommends=parse_int(str(item.get("rcnt"))) if item.get("rcnt") not in (None, "") else None,
+            )
+        )
+    return posts
+
+
+def parse_theqoo_comments(payload: dict, parent: dict) -> list[dict]:
+    """더쿠 댓글 JSON을 읽는다. 비회원에게 가린 한 시간 안 댓글은 건너뛴다."""
+    if not isinstance(payload, dict):
+        return []
+    parent_url = parent.get("url") or ""
+    posts: list[dict] = []
+    seen: set[str] = set()
+    for item in payload.get("comment_list") or []:
+        if not isinstance(item, dict):
+            continue
+        raw = item.get("ct") or ""
+        if "commentWarningMessage" in raw or "비회원은 작성한" in raw:
+            continue
+        memo = plain(raw)
+        number = clean(str(item.get("srl") or ""))
+        if not number.isdigit() or not memo or _deleted_comment(memo) or number in seen:
+            continue
+        seen.add(number)
+        posted_at = ""
+        matched = _QOO_CMT_TIME.match(clean(str(item.get("rd") or "")))
+        if matched:
+            year, month, day, hour, minute, second = matched.groups()
+            posted_at = f"{year}-{month}-{day}T{hour}:{minute}:{second}+09:00"
+        posts.append(
+            _reply(
+                source="qoo",
+                external_id=f"cmt-{number}",
+                title=memo,
+                url=f"{parent_url}#{number}" if parent_url else "",
+                author="무명의 더쿠",
+                posted_at=posted_at,
+            )
+        )
+    return posts
+
+
+def parse_blind_comments(html: str, parent: dict) -> list[dict]:
+    """블라인드 글 페이지에 보이는 댓글을 읽는다."""
+    parent_url = parent.get("url") or ""
+    posts: list[dict] = []
+    seen: set[str] = set()
+    for node in _soup(html).select("div.wrap-comment"):
+        number = clean(node.get("id"))
+        text_el = node.select_one("p.cmt-txt")
+        if text_el is None or "delete" in (text_el.get("class") or []):
+            continue
+        memo = clean(text_el.get_text(" ", strip=True))
+        if not number.isdigit() or not memo or _deleted_comment(memo) or number in seen:
+            continue
+        seen.add(number)
+        name_el = node.select_one("p.name")
+        company, author = "", ""
+        if name_el is not None:
+            name = clean(name_el.get_text(" ", strip=True))
+            if "·" in name:
+                company, author = [clean(part) for part in name.split("·", 1)]
+            else:
+                author = name
+        date_el = node.select_one("span.date")
+        like_el = node.select_one("span.like")
+        posts.append(
+            _reply(
+                source="blind",
+                external_id=f"cmt-{number}",
+                title=memo,
+                url=f"{parent_url}#{number}" if parent_url else "",
+                author=author or "익명",
+                company=company,
+                posted_label=_metric_text(date_el),
+                recommends=parse_int(_metric_text(like_el)),
+            )
+        )
+    return posts
 
 
 def _youtube_continuation(data: dict) -> str:

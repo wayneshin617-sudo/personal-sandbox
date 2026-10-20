@@ -2,11 +2,14 @@ import unittest
 
 from datetime import datetime, timedelta, timezone
 
-from app.collect import assign_blind_times, empty_board, merge, qoo_label_time
+from app.collect import KST, _spread_targets, assign_blind_times, empty_board, merge, qoo_label_time
 from app.parsers import (
     parse_blind,
+    parse_blind_comments,
     parse_dc,
+    parse_dc_comments,
     parse_theqoo,
+    parse_theqoo_comments,
     parse_youtube_comments,
     parse_youtube_search,
     parse_youtube_watch_meta,
@@ -175,6 +178,106 @@ class ParserTest(unittest.TestCase):
         self.assertEqual(comments[0]["source"], "yt")
         self.assertIn("v=abc123", comments[0]["url"])
 
+    def test_dc_qoo_blind_comments_become_replies(self):
+        parent = {
+            "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599419",
+            "external_id": "6599419",
+        }
+        now = datetime(2026, 10, 20, 10, 0, tzinfo=timezone(timedelta(hours=9)))
+        dc = parse_dc_comments(
+            {
+                "comments": [
+                    {
+                        "no": "10960004",
+                        "name": "나갤러1",
+                        "ip": "119.202",
+                        "reg_date": "10.20 09:56:00",
+                        "del_yn": "N",
+                        "is_delete": "0",
+                        "memo": "영숙은 조용히 살더라",
+                        "rcnt": "0",
+                    },
+                    {
+                        "no": "10960010",
+                        "name": "ㅇㅇ",
+                        "ip": "1.1",
+                        "reg_date": "10.20 09:57:00",
+                        "del_yn": "Y",
+                        "is_delete": "1",
+                        "memo": "지운 댓글",
+                    },
+                ]
+            },
+            parent,
+            now=now,
+        )
+        self.assertEqual(len(dc), 1)
+        self.assertEqual(dc[0]["external_id"], "cmt-10960004")
+        self.assertEqual(dc[0]["kind"], "reply")
+        self.assertEqual(dc[0]["title"], "영숙은 조용히 살더라")
+        mentioned = parse_dc_comments(
+            {
+                "comments": [
+                    {
+                        "no": "5",
+                        "name": "ㅇㅇ",
+                        "reg_date": "10.20 09:20:00",
+                        "del_yn": "N",
+                        "is_delete": "0",
+                        "memo": "@나갤러1(106.101) 영숙 옷이 이상함",
+                    }
+                ]
+            },
+            parent,
+            now=now,
+        )
+        self.assertEqual(mentioned[0]["title"], "영숙 옷이 이상함")
+        self.assertEqual(dc[0]["author"], "나갤러1")
+        self.assertEqual(dc[0]["posted_at"], "2026-10-20T09:56:00+09:00")
+        self.assertTrue(dc[0]["url"].endswith("#cmt_10960004"))
+
+        qoo = parse_theqoo_comments(
+            {
+                "comment_list": [
+                    {"srl": 4378285239, "ct": "영철 옷 뭐야", "rd": "20261017141952"},
+                    {
+                        "srl": 1,
+                        "ct": '<span class="commentWarningMessage">비회원은 작성한 지 1시간 이내의 댓글은 읽을 수 없습니다.</span>',
+                        "rd": "20261020093522",
+                    },
+                ]
+            },
+            {"url": "https://theqoo.net/iamsolo/4378274172", "external_id": "4378274172"},
+        )
+        self.assertEqual(len(qoo), 1)
+        self.assertEqual(qoo[0]["source"], "qoo")
+        self.assertEqual(qoo[0]["title"], "영철 옷 뭐야")
+        self.assertEqual(qoo[0]["posted_at"], "2026-10-17T14:19:52+09:00")
+        self.assertEqual(qoo[0]["kind"], "reply")
+
+        blind = parse_blind_comments(
+            """
+            <div class="wrap-comment" id="457350870">
+              <p class="name"><span class="cp">공무원</span> · d******</p>
+              <p class="cmt-txt"><span>영자 얘기가 구라라는 댓글</span></p>
+              <div class="wrap-info"><span class="date"><i class="blind">작성일</i>2시간</span>
+              <span class="like"><i class="blind">좋아요수</i>3</span></div>
+            </div>
+            <div class="wrap-comment" id="9">
+              <p class="cmt-txt delete"><span>삭제된 댓글입니다</span></p>
+            </div>
+            """,
+            {"url": "https://www.teamblind.com/kr/post/sample", "external_id": "/kr/post/sample"},
+        )
+        self.assertEqual(len(blind), 1)
+        self.assertEqual(blind[0]["source"], "blind")
+        self.assertEqual(blind[0]["title"], "영자 얘기가 구라라는 댓글")
+        self.assertEqual(blind[0]["company"], "공무원")
+        self.assertEqual(blind[0]["author"], "d******")
+        self.assertEqual(blind[0]["posted_label"], "2시간")
+        self.assertEqual(blind[0]["recommends"], 3)
+        self.assertEqual(blind[0]["kind"], "reply")
+
 
 def sample(external_id, title, posted_at="2026-10-13T12:00:00+09:00"):
     return {
@@ -297,6 +400,31 @@ class MergeTest(unittest.TestCase):
         added = merge(board, {"qoo": [kept, dropped]})
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][0]["title"], "7일")
+
+    def test_reply_targets_are_spread_across_hours(self):
+        now = datetime(2026, 10, 20, 10, 0, tzinfo=KST)
+        posts = []
+        for hour in range(6):
+            for step in range(3):
+                posts.append(
+                    {
+                        "external_id": f"{hour}-{step}",
+                        "comments": 2,
+                        "posted_at": (now - timedelta(hours=hour, minutes=step)).isoformat(),
+                    }
+                )
+        picked = _spread_targets(posts, 6, now)
+        self.assertEqual([item["external_id"] for item in picked], ["0-0", "1-0", "2-0", "3-0", "4-0", "5-0"])
+
+    def test_reply_keeps_kind_and_comment_id(self):
+        board = empty_board()
+        item = sample("cmt-10960004", "영숙은 조용히 살더라", "2026-10-20T09:56:00+09:00")
+        item["kind"] = "reply"
+        item["author"] = "나갤러1"
+        added = merge(board, {"dc": [item]}, now="2026-10-20T01:00:00+00:00")
+        self.assertEqual(added, 1)
+        self.assertEqual(board["posts"][0]["kind"], "reply")
+        self.assertEqual(board["posts"][0]["externalId"], "cmt-10960004")
 
 
 if __name__ == "__main__":
