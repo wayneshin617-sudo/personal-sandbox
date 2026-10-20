@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T22:05:44+00:00",
+  "updatedAt": "2026-10-20T22:08:43+00:00",
   "posts": [
     {
       "id": 2,
@@ -620026,6 +620026,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T22:05:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69673,
+      "source": "blind",
+      "externalId": "cmt-457682169",
+      "title": "헌팅이 진짜 사람 총으로 쏘는거라고 알고있는건 아니지??",
+      "excerpt": "",
+      "author": "d******",
+      "company": "한림대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457682169",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T07:08:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T22:08:43+00:00",
       "isSeed": false,
       "kind": "reply"
     }
