@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T08:24:32+00:00",
+  "updatedAt": "2026-10-20T08:27:33+00:00",
   "posts": [
     {
       "id": 2,
@@ -600522,6 +600522,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-20T08:24:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 68674,
+      "source": "blind",
+      "externalId": "cmt-457603639",
+      "title": "시험 합격해서",
+      "excerpt": "",
+      "author": "(*********",
+      "company": "리멤버앤컴퍼니",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%98%81%EC%88%98-8vz5h68t#457603639",
+      "postedLabel": "23분",
+      "postedAt": "2026-10-20T17:04:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T08:27:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
