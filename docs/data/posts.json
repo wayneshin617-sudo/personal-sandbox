@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T08:34:24+00:00",
+  "updatedAt": "2026-10-20T08:41:33+00:00",
   "posts": [
     {
       "id": 2,
@@ -600659,6 +600659,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T08:34:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68681,
+      "source": "blind",
+      "externalId": "cmt-457607773",
+      "title": "22",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "신세계인터내셔날",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%B8%EB%8F%99%ED%8A%B9%EC%A7%91%EC%9D%80-%EC%95%88%ED%95%98%EB%83%90-owqd533h#457607773",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T17:41:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T08:41:33+00:00",
       "isSeed": false,
       "kind": "reply"
     }
