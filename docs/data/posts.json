@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T10:57:30+00:00",
+  "updatedAt": "2026-10-20T10:58:28+00:00",
   "posts": [
     {
       "id": 2,
@@ -604293,6 +604293,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T10:57:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68867,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99-%EB%8B%AE%EC%9D%80%EC%82%AC%EB%9E%8C-%EC%B0%BE%EC%95%98%EB%8B%A4-qw2myraw",
+      "title": "정숙 닮은사람 찾았다",
+      "excerpt": "인도에서 여장하고다니는 유튜버 닮음",
+      "author": "M****",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EB%8B%AE%EC%9D%80%EC%82%AC%EB%9E%8C-%EC%B0%BE%EC%95%98%EB%8B%A4-qw2myraw",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-20T19:56:07+09:00",
+      "views": 70,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-20T10:58:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 68868,
+      "source": "blind",
+      "externalId": "cmt-457623273",
+      "title": "수정함 정숙 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "M**** 작성자",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EB%8B%AE%EC%9D%80%EC%82%AC%EB%9E%8C-%EC%B0%BE%EC%95%98%EB%8B%A4-qw2myraw#457623273",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T19:58:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T10:58:28+00:00",
       "isSeed": false,
       "kind": "reply"
     }
