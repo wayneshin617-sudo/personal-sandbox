@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T11:18:28+00:00",
+  "updatedAt": "2026-10-20T11:21:29+00:00",
   "posts": [
     {
       "id": 2,
@@ -604511,6 +604511,45 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-20T11:18:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68878,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-46d3qx7l",
+      "title": "순자 닮은꼴",
+      "excerpt": "포미닛 허가윤",
+      "author": "s********",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-46d3qx7l",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T20:21:06+09:00",
+      "views": 18,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-20T11:21:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 68879,
+      "source": "blind",
+      "externalId": "cmt-457626189",
+      "title": "나 이샌각함ㅋㅋ",
+      "excerpt": "",
+      "author": "c*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-46d3qx7l#457626189",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T20:21:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T11:21:29+00:00",
       "isSeed": false,
       "kind": "reply"
     }
