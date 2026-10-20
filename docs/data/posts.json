@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T05:08:43+00:00",
+  "updatedAt": "2026-10-20T05:26:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -595507,6 +595507,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T05:08:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68417,
+      "source": "blind",
+      "externalId": "cmt-457582776",
+      "title": "K 장녀라는 단어 자체도 공감도 안됨. 무슨 6~70년대 학교안보내고 공장간 공순이들 세대도 아니고.",
+      "excerpt": "",
+      "author": "1*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%88%9C%EC%9E%90-k%EC%9E%A5%EB%85%80-ipszv6h4#457582776",
+      "postedLabel": "16분",
+      "postedAt": "2026-10-20T14:10:20+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T05:26:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
