@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T22:16:58+00:00",
+  "updatedAt": "2026-10-20T22:18:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -620323,6 +620323,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T22:16:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69688,
+      "source": "blind",
+      "externalId": "cmt-457682449",
+      "title": "뭔 ㅂㅅ들이 이렇게 많지..여자랑 잘라고 헌팅하고 다녔다고",
+      "excerpt": "",
+      "author": "a******* 작성자",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457682449",
+      "postedLabel": "6분",
+      "postedAt": "2026-10-21T07:12:21+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T22:18:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
