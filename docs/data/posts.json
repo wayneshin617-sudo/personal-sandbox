@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T23:40:45+00:00",
+  "updatedAt": "2026-10-20T23:41:45+00:00",
   "posts": [
     {
       "id": 99,
@@ -199177,6 +199177,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T23:40:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69722,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%97%AC%EC%B6%9C-%ED%8F%89%EA%B0%80-aimr5l38",
+      "title": "34기 여출 평가",
+      "excerpt": "영숙 = 믿고거름 정숙 = 아줌마 순자 = 평범 영자 = 못생김 옥순 = 예쁨 현숙 = 키크고 예쁨",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%97%AC%EC%B6%9C-%ED%8F%89%EA%B0%80-aimr5l38",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T08:41:21+09:00",
+      "views": 15,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-20T23:41:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 69723,
+      "source": "blind",
+      "externalId": "cmt-457689854",
+      "title": "카메라만 없었으면 당장이라도 덮칠듯한 눈까리가 잘못된거 같던데",
+      "excerpt": "",
+      "author": "급***",
+      "company": "신세계아이앤씨",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EC%A3%BC-%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC%EC%97%90%EC%84%9C-32%EA%B8%B0-%EC%98%81%EC%88%98-%EC%9E%98%EB%AA%BB%EB%90%9C-%EC%A0%90-%EB%91%90%EA%B0%80%EC%A7%80-pjrc3nh0#457689854",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T08:41:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T23:41:45+00:00",
       "isSeed": false,
       "kind": "reply"
     }
