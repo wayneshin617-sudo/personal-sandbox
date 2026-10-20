@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T00:19:22+00:00",
+  "updatedAt": "2026-10-20T00:20:22+00:00",
   "posts": [
     {
       "id": 1,
@@ -597037,6 +597037,63 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-20T00:19:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67852,
+      "source": "dc",
+      "externalId": "6599392",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599392&page=1",
+      "postedLabel": "09:19",
+      "postedAt": "2026-10-20T09:19:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T00:20:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67853,
+      "source": "dc",
+      "externalId": "6599393",
+      "title": "[부동산문학] 저는 부동산말고 미국주식 할건데요?",
+      "excerpt": "",
+      "author": "보수의 어머니",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599393&page=1",
+      "postedLabel": "09:19",
+      "postedAt": "2026-10-20T09:19:46+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T00:20:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67854,
+      "source": "dc",
+      "externalId": "6599394",
+      "title": "난 화끈한 O형 B형은 괜찮은데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599394&page=1",
+      "postedLabel": "09:19",
+      "postedAt": "2026-10-20T09:19:46+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T00:20:22+00:00",
       "isSeed": false
     }
   ]
