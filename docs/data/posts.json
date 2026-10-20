@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T03:21:49+00:00",
+  "updatedAt": "2026-10-20T03:22:50+00:00",
   "posts": [
     {
       "id": 2,
@@ -592420,6 +592420,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T03:21:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68257,
+      "source": "qoo",
+      "externalId": "cmt-4381175829",
+      "title": "나도 좀 그러는데...나는 그냥 얘기 잘 듣고 있다는 신호같은 느낌으로 하는듯ㅋㅋㅋㅋㅋ 혹시 내가 잘 안듣고 있다 생각해서 내 눈치 볼까봐ㅠ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381070665#4381175829",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T11:21:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T03:22:50+00:00",
       "isSeed": false,
       "kind": "reply"
     }
