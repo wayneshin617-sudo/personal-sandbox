@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T01:12:22+00:00",
+  "updatedAt": "2026-10-20T01:13:22+00:00",
   "posts": [
     {
       "id": 2,
@@ -584991,6 +584991,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-20T01:12:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67883,
+      "source": "dc",
+      "externalId": "6599442",
+      "title": "담배연기는 약 4.000여종의 독성화학물질로 구성됨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599442&page=1",
+      "postedLabel": "10:12",
+      "postedAt": "2026-10-20T10:12:23+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-20T01:13:22+00:00",
       "isSeed": false
     }
   ]
