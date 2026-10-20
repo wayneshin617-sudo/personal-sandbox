@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T12:04:30+00:00",
+  "updatedAt": "2026-10-20T12:05:29+00:00",
   "posts": [
     {
       "id": 2,
@@ -604889,6 +604889,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T12:04:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68897,
+      "source": "blind",
+      "externalId": "cmt-457632824",
+      "title": "대놓고 할순없자나ㅜ",
+      "excerpt": "",
+      "author": "Y*****",
+      "company": "이스타항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EA%B5%AD%ED%99%94%EB%8A%94-m61cg0fw#457632824",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T21:05:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T12:05:29+00:00",
       "isSeed": false,
       "kind": "reply"
     }
