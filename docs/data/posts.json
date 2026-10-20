@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T05:28:45+00:00",
+  "updatedAt": "2026-10-20T05:30:45+00:00",
   "posts": [
     {
       "id": 2,
@@ -595548,6 +595548,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-20T05:28:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 68419,
+      "source": "blind",
+      "externalId": "cmt-457585007",
+      "title": "이거 말하는거 맞지? 사랑스럽고 다정한 눈빛 아니고 시발무슨 사냥감보듯 보던데",
+      "excerpt": "",
+      "author": "급***",
+      "company": "신세계아이앤씨",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98-1tl3ddqo#457585007",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T14:30:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T05:30:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68420,
+      "source": "blind",
+      "externalId": "cmt-457585008",
+      "title": "안정환하고 듣보잡 오른쪽은 확실히 별로임",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-mc-fiowv118#457585008",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T14:30:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T05:30:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
