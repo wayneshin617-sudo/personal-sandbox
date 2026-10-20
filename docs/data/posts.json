@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T01:13:22+00:00",
+  "updatedAt": "2026-10-20T01:16:22+00:00",
   "posts": [
     {
       "id": 2,
@@ -585010,6 +585010,44 @@
       "recommends": 0,
       "comments": 1,
       "firstSeenAt": "2026-10-20T01:13:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67884,
+      "source": "dc",
+      "externalId": "6599444",
+      "title": "50억있는데 일을 왜함???????ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599444&page=1",
+      "postedLabel": "10:15",
+      "postedAt": "2026-10-20T10:15:30+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T01:16:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67885,
+      "source": "dc",
+      "externalId": "6599447",
+      "title": "실제 연봉 3억도 아니면서 질문에 답도 제대로 안하고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599447&page=1",
+      "postedLabel": "10:15",
+      "postedAt": "2026-10-20T10:15:59+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T01:16:22+00:00",
       "isSeed": false
     }
   ]
