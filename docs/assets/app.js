@@ -1629,7 +1629,8 @@ function pairCard(person) {
   button.dataset.id = person.id;
   button.style.setProperty("--glow", PAIR_COLORS[person.id] || "#ffd0e0");
   const photo = document.createElement("img");
-  photo.src = `${new URL(String(person.photo).split("?")[0], document.baseURI).href}?v=4`;
+  const face = typeof BoardCast !== "undefined" ? BoardCast.face(person.id) : "";
+  photo.src = asset(face || person.photo);
   photo.alt = "";
   const name = document.createElement("strong");
   name.textContent = person.name;
