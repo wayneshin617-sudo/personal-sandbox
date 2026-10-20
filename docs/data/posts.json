@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T21:53:44+00:00",
+  "updatedAt": "2026-10-20T21:55:44+00:00",
   "posts": [
     {
       "id": 2,
@@ -619827,6 +619827,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T21:53:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69663,
+      "source": "blind",
+      "externalId": "cmt-457681575",
+      "title": "근데 헌팅한게 왜 쓰레기야?",
+      "excerpt": "",
+      "author": "I*********",
+      "company": "현대케피코",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457681575",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T06:55:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T21:55:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69664,
+      "source": "blind",
+      "externalId": "cmt-457681578",
+      "title": "?",
+      "excerpt": "",
+      "author": "배****",
+      "company": "HD현대중공업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9E%84-2ysuzpbt#457681578",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T06:55:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T21:55:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
