@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T12:03:30+00:00",
+  "updatedAt": "2026-10-20T12:04:30+00:00",
   "posts": [
     {
       "id": 2,
@@ -604869,6 +604869,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T12:03:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68896,
+      "source": "blind",
+      "externalId": "cmt-457632744",
+      "title": "동안 아님.그냥 딱 늙크크 포티 처럼 생김.",
+      "excerpt": "",
+      "author": "익***",
+      "company": "한국얀센",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%83%81%ED%84%B8%EB%8B%98-%EC%86%94%EA%B9%8C-%EB%8F%99%EC%95%88%EC%9D%B8%EA%B0%80%EC%9A%94-rck5ctjf#457632744",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T21:04:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T12:04:30+00:00",
       "isSeed": false,
       "kind": "reply"
     }
