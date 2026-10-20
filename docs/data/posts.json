@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T04:41:44+00:00",
+  "updatedAt": "2026-10-20T04:42:42+00:00",
   "posts": [
     {
       "id": 2,
@@ -595328,6 +595328,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T04:41:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68408,
+      "source": "blind",
+      "externalId": "cmt-457579471",
+      "title": "코골이는 양압기하면됨",
+      "excerpt": "",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%BD%94%EA%B3%A8%EC%9D%B4%EB%9E%91-%EB%8B%B4%EB%B0%B0%EB%8A%94-%EB%B9%84%EA%B5%90%EB%8C%80%EC%83%81%EC%9D%B4-%EC%95%84%EB%8B%98-ppmzqjhd#457579471",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T13:42:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T04:42:42+00:00",
       "isSeed": false,
       "kind": "reply"
     }
