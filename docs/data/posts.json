@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T10:58:28+00:00",
+  "updatedAt": "2026-10-20T11:01:28+00:00",
   "posts": [
     {
       "id": 2,
@@ -604332,6 +604332,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T10:58:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68869,
+      "source": "blind",
+      "externalId": "cmt-457623722",
+      "title": "아이고 그런 공포에 떨어봤자 아무도 너랑 안 사귀어줄듯",
+      "excerpt": "",
+      "author": "미****",
+      "company": "신원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%89%EA%B0%80%EB%82%A8-%EB%8B%A4%EC%9D%8C%EC%9D%80-%EB%AD%98%EA%B9%8C-pnveivm6#457623722",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T20:01:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T11:01:28+00:00",
       "isSeed": false,
       "kind": "reply"
     }
