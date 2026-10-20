@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T04:27:50+00:00",
+  "updatedAt": "2026-10-20T04:28:49+00:00",
   "posts": [
     {
       "id": 2,
@@ -595250,6 +595250,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-20T04:27:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 68404,
+      "source": "blind",
+      "externalId": "cmt-457575627",
+      "title": "누나도 이쁘던데",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%98%95-8tbydoqh#457575627",
+      "postedLabel": "17분",
+      "postedAt": "2026-10-20T13:11:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T04:28:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
