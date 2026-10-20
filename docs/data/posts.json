@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T14:52:14+00:00",
+  "updatedAt": "2026-10-20T14:53:07+00:00",
   "posts": [
     {
       "id": 2,
@@ -609018,6 +609018,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T14:52:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69109,
+      "source": "blind",
+      "externalId": "cmt-457660316",
+      "title": "마즘",
+      "excerpt": "",
+      "author": "(*********",
+      "company": "리멤버앤컴퍼니",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%AD%ED%99%94-%EC%98%81%EC%88%98%ED%95%9C%ED%85%8C-%EA%B7%80%EC%97%BD%EB%8B%A4%ED%95%9C%EA%B1%B0-b4qad1gj#457660316",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T23:52:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T14:53:07+00:00",
       "isSeed": false,
       "kind": "reply"
     }
