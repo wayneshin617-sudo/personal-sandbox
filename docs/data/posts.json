@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T02:45:48+00:00",
+  "updatedAt": "2026-10-20T02:46:49+00:00",
   "posts": [
     {
       "id": 2,
@@ -592181,6 +592181,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T02:45:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68245,
+      "source": "blind",
+      "externalId": "cmt-457564558",
+      "title": "아무래도 말이 많으면 실언도 나올수밖에 없기 때문에",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9A%95-%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-xurclvek#457564558",
+      "postedLabel": "14분",
+      "postedAt": "2026-10-20T11:32:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T02:46:49+00:00",
       "isSeed": false,
       "kind": "reply"
     }
