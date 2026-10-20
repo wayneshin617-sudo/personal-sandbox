@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T23:29:45+00:00",
+  "updatedAt": "2026-10-20T23:31:44+00:00",
   "posts": [
     {
       "id": 99,
@@ -198997,6 +198997,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T23:29:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69713,
+      "source": "blind",
+      "externalId": "cmt-457688616",
+      "title": "안경이 문제인가 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "p****** 작성자",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/19%EA%B8%B0-%EC%98%81%ED%98%B8-168jzi71#457688616",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T08:31:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T23:31:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
