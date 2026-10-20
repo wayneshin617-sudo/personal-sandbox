@@ -2,6 +2,8 @@
 (function (root) {
   const MAX_PULL = 88;
   const THRESHOLD = 48;
+  /* 마우스 휠 한 칸은 약 100px이라 저항을 곱하면 48에 못 미친다. */
+  const WHEEL_THRESHOLD = 28;
   const RESIST = 0.38;
   const RELEASE_MS = 420;
 
@@ -20,6 +22,13 @@
       return scroller.scrollTop <= 1;
     }
 
+    function wheelPixels(event) {
+      let dy = event.deltaY;
+      if (event.deltaMode === 1) dy *= 32;
+      else if (event.deltaMode === 2) dy *= scroller.clientHeight || 800;
+      return dy;
+    }
+
     function showHead(on) {
       head.classList.toggle("show", on);
     }
@@ -36,7 +45,7 @@
       showHead(atTop() || pull > 1);
     }
 
-    function release(allowLoad) {
+    function release(allowLoad, threshold) {
       tracking = false;
       pulling = false;
       window.clearTimeout(wheelTimer);
@@ -45,8 +54,8 @@
         showHead(atTop());
         return;
       }
-      /* 휠은 고무줄만 하고 글을 붙이지 않는다. 터치로 충분히 당겼을 때만 이전 50개를 붙인다. */
-      const shouldLoad = allowLoad && pull >= THRESHOLD && options.canLoadOlder();
+      /* 맨 위에서 휠로 충분히 당기거나 터치로 당기면 이전 글을 붙인다. */
+      const shouldLoad = allowLoad && pull >= (threshold || THRESHOLD) && options.canLoadOlder();
       releasing = true;
       if (shouldLoad) options.onPullOlder();
       setPull(0, true);
@@ -64,14 +73,16 @@
           event.preventDefault();
           return;
         }
-        if (event.deltaY < 0 && atTop()) {
+        if (event.ctrlKey) return;
+        const dy = wheelPixels(event);
+        if (dy < 0 && atTop()) {
           event.preventDefault();
-          setPull(pull + -event.deltaY * RESIST, false);
+          setPull(pull + -dy * RESIST, false);
           window.clearTimeout(wheelTimer);
-          wheelTimer = window.setTimeout(() => release(false), 140);
-        } else if (pull > 0 && event.deltaY > 0) {
+          wheelTimer = window.setTimeout(() => release(true, WHEEL_THRESHOLD), 180);
+        } else if (pull > 0 && dy > 0) {
           event.preventDefault();
-          setPull(pull - event.deltaY * RESIST, false);
+          setPull(pull - dy * RESIST, false);
           if (pull <= 0) release(false);
         }
       },
