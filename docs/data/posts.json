@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T03:22:50+00:00",
+  "updatedAt": "2026-10-20T03:23:49+00:00",
   "posts": [
     {
       "id": 2,
@@ -592440,6 +592440,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T03:22:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68258,
+      "source": "qoo",
+      "externalId": "cmt-4381177275",
+      "title": "같은방에서는 절대 못잠 저정도 소리는 ㅠ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381136342#4381177275",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T11:23:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T03:23:49+00:00",
       "isSeed": false,
       "kind": "reply"
     }
