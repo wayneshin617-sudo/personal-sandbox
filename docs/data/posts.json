@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T13:24:14+00:00",
+  "updatedAt": "2026-10-20T13:29:14+00:00",
   "posts": [
     {
       "id": 2,
@@ -608144,6 +608144,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T13:24:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69065,
+      "source": "blind",
+      "externalId": "cmt-457646882",
+      "title": "겜하면서 봐서 저장면 못봤네 ㅋㅋ",
+      "excerpt": "",
+      "author": "못*****",
+      "company": "ex-HL클레무브",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%9D%B4%EA%B1%B0-%EB%AD%94%EB%8E%88%E3%85%8B%E3%85%8B-7c886rww#457646882",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T22:28:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T13:29:14+00:00",
       "isSeed": false,
       "kind": "reply"
     }
