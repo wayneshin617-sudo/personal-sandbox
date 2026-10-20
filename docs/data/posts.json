@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T04:10:50+00:00",
+  "updatedAt": "2026-10-20T04:12:50+00:00",
   "posts": [
     {
       "id": 2,
@@ -592777,6 +592777,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T04:10:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68275,
+      "source": "qoo",
+      "externalId": "cmt-4381219743",
+      "title": "나도 듣다가 너무 심해서 소리 꺼버렸어",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381070665#4381219743",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T12:11:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T04:12:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68276,
+      "source": "blind",
+      "externalId": "cmt-457575723",
+      "title": "ㅋㅋㅋㅋ아 궁금 빨리 봐야겠다",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98-1tl3ddqo#457575723",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T13:12:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T04:12:50+00:00",
       "isSeed": false,
       "kind": "reply"
     }
