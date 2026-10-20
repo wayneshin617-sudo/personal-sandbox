@@ -552,6 +552,12 @@ const KEEP_NOUNS = new Set("포함 광고 사고 예고 최고 보고 재고 필
 const RANK_JOSA = ["에서는", "으로는", "에서도", "으로도", "에서부터", "에서", "으로", "로써", "로서", "부터", "까지", "처럼", "보다", "에게", "한테", "이랑", "이라도", "이나", "라도", "라고", "이며", "이고", "은", "는", "을", "를", "과", "와", "도", "만", "에", "로", "나"];
 const RANK_MIN = 3;
 const NAME_WEIGHT = 10;
+const REALTIME_HOURS = 8;
+
+function rankScore(word, count) {
+  /* 이번 기수 이름은 순위 계산에서만 10배. 저장된 횟수와 툴팁의 횟수는 그대로 둔다. */
+  return CAST_NAMES.includes(word) ? count * NAME_WEIGHT : count;
+}
 
 function stripRankJosa(word) {
   if (/^\d+기$/.test(word)) return word;
@@ -782,10 +788,13 @@ let cloudWords = [];
 let cloudLayoutKey = "";
 
 function renderCloud(posts) {
-  const key = `${posts.length}:${posts[posts.length - 1]?.id || 0}`;
+  const since = Date.now() - REALTIME_HOURS * 60 * 60 * 1000;
+  const sinceKey = Math.floor(since / 60000);
+  const last = posts[posts.length - 1];
+  const key = `${posts.length}:${last?.id || 0}:${floodStamp}:${sinceKey}`;
   if (key !== cloudKey) {
     cloudKey = key;
-    cloudWords = wordCounts(posts).slice(0, 72).map(([word, count], index) => ({
+    cloudWords = searchCounts(posts, since).slice(0, 72).map(([word, count], index) => ({
       word,
       count,
       color: PASTELS[index % PASTELS.length],
@@ -1026,15 +1035,13 @@ function deltaMark(word, rank, previous) {
   return { className: "same", text: "–" };
 }
 
-const REALTIME_HOURS = 8;
-
 function searchCounts(posts, since) {
   const counts = new Map();
   for (const [word, count] of wordCounts(posts, since, false)) counts.set(word, count);
-  for (const [name, count] of nameCounts(posts, since)) counts.set(name, count * NAME_WEIGHT);
+  for (const [name, count] of nameCounts(posts, since)) counts.set(name, count);
   return [...counts.entries()]
-    .filter(([, count]) => count >= RANK_MIN)
-    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
+    .filter(([word, count]) => rankScore(word, count) >= RANK_MIN)
+    .sort((a, b) => rankScore(b[0], b[1]) - rankScore(a[0], a[1]) || a[0].localeCompare(b[0], "ko"));
 }
 
 function renderRealtime(posts) {
