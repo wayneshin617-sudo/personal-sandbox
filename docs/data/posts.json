@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T23:38:44+00:00",
+  "updatedAt": "2026-10-20T23:39:44+00:00",
   "posts": [
     {
       "id": 99,
@@ -199117,6 +199117,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T23:38:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69719,
+      "source": "blind",
+      "externalId": "cmt-457689584",
+      "title": "밖에서 바람 불면 창이 흔들리지",
+      "excerpt": "",
+      "author": "신*** 작성자",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EC%A3%BC-%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC%EC%97%90%EC%84%9C-32%EA%B8%B0-%EC%98%81%EC%88%98-%EC%9E%98%EB%AA%BB%EB%90%9C-%EC%A0%90-%EB%91%90%EA%B0%80%EC%A7%80-pjrc3nh0#457689584",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T08:39:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T23:39:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69720,
+      "source": "blind",
+      "externalId": "cmt-457689496",
+      "title": "집안에서 바람이 왜붐? 정신병자인가 너는 바람이 숭숭 드는 판잣집에 사나봄",
+      "excerpt": "",
+      "author": "!*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EC%A3%BC-%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC%EC%97%90%EC%84%9C-32%EA%B8%B0-%EC%98%81%EC%88%98-%EC%9E%98%EB%AA%BB%EB%90%9C-%EC%A0%90-%EB%91%90%EA%B0%80%EC%A7%80-pjrc3nh0#457689496",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T08:39:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T23:39:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
