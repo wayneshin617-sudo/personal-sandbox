@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T08:00:34+00:00",
+  "updatedAt": "2026-10-20T08:01:33+00:00",
   "posts": [
     {
       "id": 2,
@@ -600421,6 +600421,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T08:00:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68669,
+      "source": "blind",
+      "externalId": "cmt-457603192",
+      "title": "나도 차라리 어렸으면 전임직이고 사무직이고를 떠나서 그러려니 했을거같아ㅠㅠ",
+      "excerpt": "",
+      "author": "1******** 작성자",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%80%EB%82%9C%EC%A3%BC%EA%BA%BC-%EC%9D%B4%EC%A0%9C-%EB%B4%A4%EB%8A%94%EB%8D%B0-34%EA%B8%B0-%EC%83%81%EC%B2%A0-1236efio#457603192",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T17:01:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T08:01:33+00:00",
       "isSeed": false,
       "kind": "reply"
     }
