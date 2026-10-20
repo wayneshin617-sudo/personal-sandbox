@@ -61,5 +61,12 @@
     return person("soonja");
   }
 
-  root.BoardCast = { FACES, PEOPLE, ORDER, face, person, matchWord, fromRanks };
+  /* 로딩 화면 주인공. 정각마다 한 명씩 넘어가고, 12시간이면 34기를 한 바퀴 돈다. */
+  function hourly(now = Date.now()) {
+    const hour = Math.floor(Number(now) / 3600000);
+    const index = ((hour % ORDER.length) + ORDER.length) % ORDER.length;
+    return person(ORDER[index]);
+  }
+
+  root.BoardCast = { FACES, PEOPLE, ORDER, face, person, matchWord, fromRanks, hourly };
 })(window);

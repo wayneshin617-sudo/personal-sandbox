@@ -66,7 +66,22 @@ function setHeartFace(img, photo, name) {
 function paintLead(word, person) {
   const mark = document.querySelector("#solo-watermark");
   if (mark) mark.textContent = word || person?.name || "순자";
-  if (person) setHeartFace(document.querySelector("#solo-loader-face"), person.photo, person.name);
+}
+
+function paintLoader(now = Date.now()) {
+  if (typeof BoardCast === "undefined" || typeof BoardCast.hourly !== "function") return;
+  const person = BoardCast.hourly(now);
+  if (!person) return;
+  setHeartFace(document.querySelector("#solo-loader-face"), person.photo, person.name);
+}
+
+function scheduleLoaderHour() {
+  const now = Date.now();
+  const next = (Math.floor(now / 3600000) + 1) * 3600000;
+  window.setTimeout(() => {
+    paintLoader();
+    scheduleLoaderHour();
+  }, Math.max(1000, next - now + 50));
 }
 
 function updateLead(word, ranks) {
@@ -80,6 +95,7 @@ function updateLead(word, ranks) {
 }
 
 function showLoader() {
+  paintLoader();
   document.querySelector("#solo-loader")?.classList.add("show");
 }
 
@@ -88,7 +104,8 @@ function hideLoader() {
 }
 
 if (typeof BoardCast !== "undefined") {
-  paintLead("", BoardCast.person("soonja"));
+  paintLoader();
+  scheduleLoaderHour();
   for (const path of Object.values(BoardCast.FACES)) {
     const img = new Image();
     img.src = asset(path);
