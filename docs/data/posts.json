@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T12:27:29+00:00",
+  "updatedAt": "2026-10-20T12:36:29+00:00",
   "posts": [
     {
       "id": 2,
@@ -605228,6 +605228,45 @@
       "firstSeenAt": "2026-10-20T12:27:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 68914,
+      "source": "blind",
+      "externalId": "cmt-457637153",
+      "title": "전혀 안 닮음",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EC%A1%B0%EA%B8%88-%EB%B2%A0%EC%9D%BC%EB%A6%AC-%EC%9E%88%EC%A7%80%EC%95%8A%EC%95%84-l6rxonls#457637153",
+      "postedLabel": "4분",
+      "postedAt": "2026-10-20T21:32:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T12:36:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68915,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B3%84%EC%95%BD-%EC%98%81%EC%88%98-%EC%95%84%EC%9E%AC-5s1ndxf7",
+      "title": "계약 영수 아재",
+      "excerpt": "머릿속 생각을 다 말할 필요가 없어요 말 조심",
+      "author": "!*********",
+      "company": "제주항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD-%EC%98%81%EC%88%98-%EC%95%84%EC%9E%AC-5s1ndxf7",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T21:36:06+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-20T12:36:29+00:00",
+      "isSeed": false
     }
   ]
 }
