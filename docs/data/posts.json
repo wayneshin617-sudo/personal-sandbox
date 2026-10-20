@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T00:54:22+00:00",
+  "updatedAt": "2026-10-20T00:55:22+00:00",
   "posts": [
     {
       "id": 2,
@@ -584744,6 +584744,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-20T00:54:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67870,
+      "source": "dc",
+      "externalId": "6599417",
+      "title": "이 유튜브 영상은 너희들이 감당하기 어려울 것이다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "185.183",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599417&page=1",
+      "postedLabel": "09:54",
+      "postedAt": "2026-10-20T09:54:44+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T00:55:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67871,
+      "source": "dc",
+      "externalId": "6599418",
+      "title": "담배는 냄새가 문제임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599418&page=1",
+      "postedLabel": "09:54",
+      "postedAt": "2026-10-20T09:54:57+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T00:55:22+00:00",
       "isSeed": false
     }
   ]
