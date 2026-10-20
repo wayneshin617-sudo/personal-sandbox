@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T13:30:14+00:00",
+  "updatedAt": "2026-10-20T13:31:15+00:00",
   "posts": [
     {
       "id": 2,
@@ -608185,6 +608185,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-20T13:30:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 69067,
+      "source": "qoo",
+      "externalId": "cmt-4381771263",
+      "title": "오",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4381112321#4381771263",
+      "postedLabel": "",
+      "postedAt": "2026-10-20T21:30:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T13:31:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69068,
+      "source": "blind",
+      "externalId": "cmt-457637661",
+      "title": "저게 무슨 동안이냐;;;;",
+      "excerpt": "",
+      "author": "I*********",
+      "company": "현대오토에버",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%83%81%ED%84%B8%EB%8B%98-%EC%86%94%EA%B9%8C-%EB%8F%99%EC%95%88%EC%9D%B8%EA%B0%80%EC%9A%94-rck5ctjf#457637661",
+      "postedLabel": "55분",
+      "postedAt": "2026-10-20T21:35:52+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T13:31:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
