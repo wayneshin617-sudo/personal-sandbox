@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T08:27:33+00:00",
+  "updatedAt": "2026-10-20T08:29:32+00:00",
   "posts": [
     {
       "id": 2,
@@ -600540,6 +600540,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T08:27:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68675,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%9E%AC%EB%B0%8C%EC%9D%8C-vmf473g8",
+      "title": "이번기수 재밌음??",
+      "excerpt": "아직 안 봤는데",
+      "author": "w*****",
+      "company": "티맥스티베로",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%9E%AC%EB%B0%8C%EC%9D%8C-vmf473g8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T17:29:10+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-20T08:29:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 68676,
+      "source": "blind",
+      "externalId": "cmt-457606398",
+      "title": "악플 ㅈㄴ 받으면 무료하진 않을듯",
+      "excerpt": "",
+      "author": "w*****",
+      "company": "티맥스티베로",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%8B%A0%EC%B2%AD%ED%95%A0%EA%B9%8C-vmkdoemc#457606398",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T17:29:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T08:29:32+00:00",
       "isSeed": false,
       "kind": "reply"
     }
