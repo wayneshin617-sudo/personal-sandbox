@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T18:07:12+00:00",
+  "updatedAt": "2026-10-20T18:13:12+00:00",
   "posts": [
     {
       "id": 2,
@@ -615557,6 +615557,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T18:07:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69444,
+      "source": "blind",
+      "externalId": "cmt-457676431",
+      "title": "ㅇㅇ재밌더라",
+      "excerpt": "",
+      "author": "g****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EA%B7%BC%EB%8D%B0-%EC%A7%84%EC%A7%9C-zeewixrn#457676431",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T03:12:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T18:13:12+00:00",
       "isSeed": false,
       "kind": "reply"
     }
