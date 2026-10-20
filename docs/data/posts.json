@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T01:00:22+00:00",
+  "updatedAt": "2026-10-20T01:04:22+00:00",
   "posts": [
     {
       "id": 2,
@@ -584839,6 +584839,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-20T01:00:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 67875,
+      "source": "dc",
+      "externalId": "6599428",
+      "title": "$ 공무원들 땜에 영철 응원 하게 되네 $",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "14.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599428&page=1",
+      "postedLabel": "10:03",
+      "postedAt": "2026-10-20T10:03:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T01:04:22+00:00",
       "isSeed": false
     }
   ]
