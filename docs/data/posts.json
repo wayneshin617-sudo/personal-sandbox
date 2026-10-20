@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T06:26:44+00:00",
+  "updatedAt": "2026-10-20T06:27:42+00:00",
   "posts": [
     {
       "id": 2,
@@ -596122,6 +596122,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-20T06:26:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68448,
+      "source": "blind",
+      "externalId": "cmt-457588963",
+      "title": "뭐만하면 꼬투리잡던데 블라에 댓글다는줄",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-mc-fiowv118#457588963",
+      "postedLabel": "24분",
+      "postedAt": "2026-10-20T15:03:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T06:27:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 68449,
+      "source": "blind",
+      "externalId": "cmt-457589427",
+      "title": "서사를모르니노잼",
+      "excerpt": "",
+      "author": "h*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-mc-fiowv118#457589427",
+      "postedLabel": "20분",
+      "postedAt": "2026-10-20T15:07:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T06:27:42+00:00",
       "isSeed": false,
       "kind": "reply"
     }
