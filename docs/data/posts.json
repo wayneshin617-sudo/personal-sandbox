@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-20T12:36:29+00:00",
+  "updatedAt": "2026-10-20T12:38:28+00:00",
   "posts": [
     {
       "id": 2,
@@ -605267,6 +605267,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-20T12:36:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 68916,
+      "source": "blind",
+      "externalId": "cmt-457637985",
+      "title": "꼴초마즘",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%98-%EC%98%81%EC%88%98%EC%95%84%EC%A0%80%EC%94%A8-ye178fri#457637985",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-20T21:38:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-20T12:38:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
