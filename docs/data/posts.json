@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:59:19+00:00",
+  "updatedAt": "2026-10-21T17:00:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -313232,6 +313232,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T16:59:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75602,
+      "source": "qoo",
+      "externalId": "cmt-4382905246",
+      "title": "@3 ㅇㅇ영숙이가 먼저 영호한테 문신 있냐면서 문신 있는 여자 어떻게 생각하냐고 물어보더라",
+      "excerpt": "근데 영숙도 문신 있으면서",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382903342#4382905246",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:59:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:00:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75603,
+      "source": "dc",
+      "externalId": "6609540",
+      "title": "블라인드 가봤더니 거기도 온통 문신 얘기네",
+      "excerpt": "",
+      "author": "애청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609540&page=1",
+      "postedLabel": "01:59",
+      "postedAt": "2026-10-22T01:59:55+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:00:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -313304,7 +313343,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T01:57:01+09:00"
+      "slowAt": "2026-10-22T02:00:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -313963,7 +314002,8 @@
         "6609485",
         "6609488",
         "6609507",
-        "6609521"
+        "6609521",
+        "6609537"
       ]
     },
     "blind": {
