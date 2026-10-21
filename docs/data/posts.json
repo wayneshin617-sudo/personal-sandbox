@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:06:07+00:00",
+  "updatedAt": "2026-10-21T18:07:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -317200,6 +317200,46 @@
       "firstSeenAt": "2026-10-21T18:06:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75803,
+      "source": "qoo",
+      "externalId": "cmt-4382921062",
+      "title": "아니 뭔 타투가 별거야..나도 타투 안하지만 이레즈미 수준으로 하는사람 아니고서야 별생각 안들던데",
+      "excerpt": "근데 진짜 문신은 좀...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382917956#4382921062",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T02:06:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:07:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75804,
+      "source": "blind",
+      "externalId": "cmt-457821232",
+      "title": "난 첫방부터 진짜 싫었어 배려없는타입",
+      "excerpt": "영철은 진짜 존나게 나대는구나",
+      "author": "i*********",
+      "company": "교보증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A7%84%EC%A7%9C-%EC%A1%B4%EB%82%98%EA%B2%8C-%EB%82%98%EB%8C%80%EB%8A%94%EA%B5%AC%EB%82%98-40155ye8#457821232",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T03:06:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:07:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -317272,7 +317312,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T03:03:48+09:00"
+      "slowAt": "2026-10-22T03:06:49+09:00"
     },
     "ig": {
       "doneIds": [
@@ -318006,7 +318046,8 @@
         "6609898",
         "6609902",
         "6609913",
-        "6609916"
+        "6609916",
+        "6609923"
       ]
     },
     "blind": {
