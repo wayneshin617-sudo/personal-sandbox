@@ -109,6 +109,33 @@ SEXUAL = (
     "호빠", "꼴리", "변태", "자위", "섹드립",
 )
 
+# 메이플 채팅 금칙처럼, 글자 사이 공백·기호·숫자만 무시하고 앞뒤 한글은 삼킨다.
+# 그래서 은꼴·은 꼴은 걸리고 닮은꼴·인성교육·딸딸아들은 남는다.
+_SEXUAL_LOOSE = (
+    "은꼴", "자꼴", "등꼴", "꼴림", "꼴려", "꼴렸", "꼴린", "꼴릴",
+    "야설", "야짤", "야캠", "포르노", "폰허브", "pornhub", "porno",
+    "딸딸이", "사까시", "빠구리", "질싸", "입싸", "애무", "콘돔",
+    "섹파", "귀두", "불알", "부랄", "빨통", "떡치기", "번섹", "폰섹",
+    "질내사정", "오르가즘", "펠라치오", "똥꼬", "애액", "성노예",
+    "대딸", "즐딸", "조건만남", "색스", "쎅스", "쌕스", "섹쓰", "색쓰",
+    "잠지", "보짓", "꼬추", "꼬츄", "성교", "발기", "후장",
+    "개자지", "개보지", "애미보지", "로리타", "sex",
+)
+_SEXUAL_PARTICLE = (
+    r"(?:이네|인데|이다|이더라|임|네|다|이|가|은|는|을|를|도|요|야|나|죠|의|에|와|과|좀|각|질|함|남|녀)?"
+)
+_SEXUAL_SEP = r"[^가-힣A-Za-z]{0,2}"
+_SEXUAL_LOOSE_RE = [
+    (
+        term,
+        re.compile(
+            rf"(?<![가-힣A-Za-z]){_SEXUAL_SEP.join(re.escape(ch) for ch in term)}{_SEXUAL_PARTICLE}(?![가-힣A-Za-z])",
+            re.IGNORECASE,
+        ),
+    )
+    for term in _SEXUAL_LOOSE
+]
+
 # 단어 구름에서 빼는 욕. 본문 피드까지 지우지는 않는다.
 SWEARS = (
     "존나", "졸라", "존내", "좆나", "씨발", "시발", "씨팔", "시팔", "씨벌", "시벌",
@@ -352,15 +379,24 @@ def political_reason(text: str) -> str | None:
 
 
 def sexual_reason(text: str) -> str | None:
+    """공백·기호를 무시한 금칙어. 앞뒤가 다른 한글 단어면 삼키지 않는다."""
+    if not isinstance(text, str) or not text:
+        return None
     plain = _plain(text)
     if "야동" in plain and "야동생" not in plain:
         return "야동"
-    if "젖" in plain and "젖꼭지" not in plain and "유두" not in plain:
-        # 단독 '젖'은 오탐이 많아 목록의 긴 말만 쓴다.
-        pass
     for part in SEXUAL:
         if part in plain:
+            if part == "자위" and ("자위대" in plain or "자위권" in plain):
+                continue
             return part
+    raw = unicodedata.normalize("NFKC", text).lower()
+    for term, cre in _SEXUAL_LOOSE_RE:
+        if not cre.search(raw):
+            continue
+        if term == "자위" and re.search(r"자위(?:대|권)", raw):
+            continue
+        return term
     return None
 
 

@@ -895,7 +895,8 @@ function renderCloud(posts) {
   const key = `${posts.length}:${last?.id || 0}:${floodStamp}:${sinceKey}`;
   if (key !== cloudKey) {
     cloudKey = key;
-    cloudWords = searchCounts(posts, since).slice(0, 72).map(([word, count], index) => ({
+    const ranked = searchCounts(posts, since, 1);
+    cloudWords = ranked.slice(0, 72).map(([word, count], index) => ({
       word,
       count,
       color: PASTELS[index % PASTELS.length],
@@ -1006,7 +1007,7 @@ function heartBands(mask, width, top, bottom, scale) {
     const font = heartFont(t, scale);
     const bandHeight = Math.round(font + 1);
     const y1 = Math.min(bottom, y + bandHeight);
-    const runs = heartRuns(mask, width, y, y1).filter((run) => run.w >= Math.max(18, font * 1.82));
+    const runs = heartRuns(mask, width, y, y1).filter((run) => run.w >= Math.max(14, font * 0.9));
     if (!runs.length) {
       y += 2;
       continue;
@@ -1024,31 +1025,43 @@ function estimateWidth(word, font) {
 function assignHeart(words, bands) {
   const pool = words.slice();
   const rows = [];
-  const order = bands
-    .map((band, index) => index)
-    .sort((a, b) => bands[b].font - bands[a].font || bands[a].y - bands[b].y);
-  for (const bandIndex of order) {
-    const band = bands[bandIndex];
+  const fits = (word, font, width) => estimateWidth(word, font) <= width + 1;
+  /* 가운데 넓은 줄이 단어를 다 먹기 전에, 위 골과 아래 꼭지부터 한 글자씩 놓는다. */
+  for (const band of bands) {
     const gap = Math.max(2, band.font * 0.1);
     for (const run of band.runs) {
-      const items = [];
-      let used = 0;
-      while (pool.length) {
-        let pick = -1;
-        const limit = Math.min(pool.length, 6);
-        for (let index = 0; index < limit; index += 1) {
-          const width = estimateWidth(pool[index].word, band.font);
-          if (used + (items.length ? gap : 0) + width <= run.w + 1) {
-            pick = index;
-            break;
-          }
+      if (!pool.length || run.w < 14) continue;
+      let pick = -1;
+      for (let index = 0; index < pool.length; index += 1) {
+        if (fits(pool[index].word, band.font, run.w)) {
+          pick = index;
+          break;
         }
-        if (pick < 0) break;
-        const item = pool.splice(pick, 1)[0];
-        items.push(item);
-        used += (items.length > 1 ? gap : 0) + estimateWidth(item.word, band.font);
       }
-      if (items.length) rows.push({ band, run, gap, font: band.font, items });
+      if (pick < 0 && run.w >= 24) pick = 0;
+      if (pick < 0) continue;
+      rows.push({ band, run, gap, font: band.font, items: [pool.splice(pick, 1)[0]] });
+    }
+  }
+  const roomy = rows.slice().sort((a, b) => b.run.w - a.run.w);
+  for (const row of roomy) {
+    let used = row.items.reduce((sum, item, index) => (
+      sum + estimateWidth(item.word, row.font) + (index ? row.gap : 0)
+    ), 0);
+    while (pool.length) {
+      let pick = -1;
+      const limit = Math.min(pool.length, 8);
+      for (let index = 0; index < limit; index += 1) {
+        const width = estimateWidth(pool[index].word, row.font);
+        if (used + row.gap + width <= row.run.w + 1) {
+          pick = index;
+          break;
+        }
+      }
+      if (pick < 0) break;
+      const item = pool.splice(pick, 1)[0];
+      row.items.push(item);
+      used += row.gap + estimateWidth(item.word, row.font);
     }
   }
   return rows;
@@ -1136,12 +1149,12 @@ function deltaMark(word, rank, previous) {
   return { className: "same", text: "–" };
 }
 
-function searchCounts(posts, since) {
+function searchCounts(posts, since, minScore = RANK_MIN) {
   const counts = new Map();
   for (const [word, count] of wordCounts(posts, since, false)) counts.set(word, count);
   for (const [name, count] of nameCounts(posts, since)) counts.set(name, count);
   return [...counts.entries()]
-    .filter(([word, count]) => rankScore(word, count) >= RANK_MIN)
+    .filter(([word, count]) => rankScore(word, count) >= minScore)
     .sort((a, b) => rankScore(b[0], b[1]) - rankScore(a[0], a[1]) || a[0].localeCompare(b[0], "ko"));
 }
 
@@ -1842,7 +1855,8 @@ function renderPairing(data) {
   document.querySelector("#profile-kicker").textContent = label;
   document.querySelector("#pair-men").replaceChildren(...data.men.map(pairCard));
   document.querySelector("#pair-women").replaceChildren(...data.women.map(pairCard));
-  document.querySelector("#poke-grid").replaceChildren(...pairPeople().map(pokeCard));
+  document.querySelector("#poke-men").replaceChildren(...(data.men || []).map(pokeCard));
+  document.querySelector("#poke-women").replaceChildren(...(data.women || []).map(pokeCard));
   document.querySelector("#type-legend").replaceChildren(
     ...["dark", "normal", "fairy"].map((kind) => {
       const item = document.createElement("li");

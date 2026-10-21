@@ -73,6 +73,18 @@ class SagyeTest(unittest.TestCase):
         self.assertTrue(drop_reason({"title": "이재명 얘기 그만", "excerpt": ""}).startswith("정치"))
         self.assertTrue(drop_reason({"title": "몰카 의심", "excerpt": ""}).startswith("성적"))
 
+    def test_sexual_slang_ignores_spaces_but_not_neighboring_words(self):
+        self.assertTrue(drop_reason({"title": "나솔은 좋은게 은꼴이 많음", "excerpt": ""}).startswith("성적"))
+        self.assertTrue(drop_reason({"title": "은 꼴 각이네", "excerpt": ""}).startswith("성적"))
+        self.assertTrue(drop_reason({"title": "은.꼴", "excerpt": ""}).startswith("성적"))
+        self.assertTrue(drop_reason({"title": "이름이 혹시 포르노", "excerpt": ""}).startswith("성적"))
+        self.assertTrue(should_keep({"title": "34순자 닮은꼴 찾음", "excerpt": ""}))
+        self.assertTrue(should_keep({"title": "인성교육이 안된느낌", "excerpt": ""}))
+        self.assertTrue(should_keep({"title": "딸딸아들 이러면 좀 그래", "excerpt": ""}))
+        self.assertTrue(should_keep({"title": "자위대 이야기", "excerpt": ""}))
+        self.assertTrue(should_keep({"title": "피해를 보지 않으려 하죠", "excerpt": ""}))
+        self.assertTrue(should_keep({"title": "씨발 영철 뭐함", "excerpt": ""}))
+
     def test_swears_optional_for_feed(self):
         post = {"title": "씨발 영철 뭐함", "excerpt": ""}
         self.assertTrue(should_keep(post))

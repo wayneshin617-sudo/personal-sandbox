@@ -183,8 +183,11 @@ h1 {
 
 .cloud {
   position: relative;
+  flex: 0 0 auto;
   height: 252px;
+  min-height: 252px;
   margin: 0;
+  overflow: hidden;
   container-type: inline-size;
 }
 
@@ -819,7 +822,8 @@ mark {
 
   .cloud {
     width: 100%;
-    height: 156px;
+    height: 168px;
+    min-height: 168px;
     margin-inline: 0;
   }
 
@@ -1134,11 +1138,27 @@ mark {
 
 .pair-secret { color: var(--faint); }
 
+.poke-board {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0 2px 28px;
+}
+
+.poke-side-title {
+  margin: 12px 4px 0;
+  color: var(--cream);
+  font-family: var(--caption);
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+}
+
 .poke-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(196px, 1fr));
   gap: 22px 16px;
-  padding: 6px 2px 28px;
+  padding: 6px 2px 8px;
 }
 
 .poke {

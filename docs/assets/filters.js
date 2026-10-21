@@ -36,6 +36,21 @@
     "성희롱", "성추행", "성폭행", "성폭력", "성매매", "강간", "음란", "팬티", "속옷", "보빨",
     "호빠", "꼴리", "변태", "자위", "섹드립",
   ];
+  const SEXUAL_LOOSE = [
+    "은꼴", "자꼴", "등꼴", "꼴림", "꼴려", "꼴렸", "꼴린", "꼴릴",
+    "야설", "야짤", "야캠", "포르노", "폰허브", "pornhub", "porno",
+    "딸딸이", "사까시", "빠구리", "질싸", "입싸", "애무", "콘돔",
+    "섹파", "귀두", "불알", "부랄", "빨통", "떡치기", "번섹", "폰섹",
+    "질내사정", "오르가즘", "펠라치오", "똥꼬", "애액", "성노예",
+    "대딸", "즐딸", "조건만남", "색스", "쎅스", "쌕스", "섹쓰", "색쓰",
+    "잠지", "보짓", "꼬추", "꼬츄", "성교", "발기", "후장",
+    "개자지", "개보지", "애미보지", "로리타", "sex",
+  ];
+  const SEXUAL_PARTICLE = "(?:이네|인데|이다|이더라|임|네|다|이|가|은|는|을|를|도|요|야|나|죠|의|에|와|과|좀|각|질|함|남|녀)?";
+  const SEXUAL_LOOSE_RE = SEXUAL_LOOSE.map((term) => {
+    const body = [...term].map((ch) => ch.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^가-힣A-Za-z]{0,2}");
+    return [term, new RegExp(`(?<![가-힣A-Za-z])${body}${SEXUAL_PARTICLE}(?![가-힣A-Za-z])`, "i")];
+  });
   const SWEARS = [
     "존나", "졸라", "존내", "좆나", "씨발", "시발", "씨팔", "시팔", "씨벌", "시벌",
     "병신", "븅신", "병쉰", "지랄", "지럴", "좆", "좇", "새끼", "개새끼", "미친",
@@ -206,9 +221,22 @@
   }
 
   function sexualReason(text) {
+    if (!text || typeof text !== "string") return "";
     const folded = plain(text);
     if (folded.includes("야동") && !folded.includes("야동생")) return "야동";
-    return SEXUAL.find((part) => folded.includes(part)) || "";
+    const listed = SEXUAL.find((part) => {
+      if (!folded.includes(part)) return false;
+      if (part === "자위" && (folded.includes("자위대") || folded.includes("자위권"))) return false;
+      return true;
+    });
+    if (listed) return listed;
+    const raw = text.normalize("NFKC").toLowerCase();
+    for (const [term, re] of SEXUAL_LOOSE_RE) {
+      if (!re.test(raw)) continue;
+      if (term === "자위" && /자위(?:대|권)/.test(raw)) continue;
+      return term;
+    }
+    return "";
   }
 
   function stripInsertedJamo(text) {

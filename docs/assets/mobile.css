@@ -115,7 +115,8 @@ html.mobile .detail { display: block; }
 
 html.mobile h1 { font-size: 20px; }
 html.mobile .solo-mark b { font-size: 34px; }
-html.mobile .cloud { height: 220px; }
+html.mobile .cloud { height: 220px; min-height: 220px; flex: 0 0 auto; }
+html.mobile .poke-side-title { margin-top: 8px; font-size: 18px; }
 html.mobile .sources { flex-direction: column; }
 html.mobile .pc-link {
   color: var(--muted);
