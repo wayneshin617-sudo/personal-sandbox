@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:26:06+00:00",
+  "updatedAt": "2026-10-21T17:27:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -314951,6 +314951,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T17:26:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75689,
+      "source": "qoo",
+      "externalId": "cmt-4382891893",
+      "title": "ㅇㅇ근데 본인은 인정받는줄 알거같아서 더 환장",
+      "excerpt": "영철 뭔가 직장에서 크게 인정 못받을거 같아",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382890144#4382891893",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:29:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:27:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75690,
+      "source": "qoo",
+      "externalId": "cmt-4382913467",
+      "title": "미킴이 누구였지? 라방에 수염기르고온사람?",
+      "excerpt": "영철 기시감 어디서 오나 했는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382911993#4382913467",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T01:26:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:27:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -315039,7 +315079,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T02:23:49+09:00"
+      "slowAt": "2026-10-22T02:26:48+09:00"
     },
     "dc": {
       "doneIds": [
@@ -315717,7 +315757,8 @@
         "6609684",
         "6609689",
         "6609699",
-        "6609703"
+        "6609703",
+        "6609707"
       ]
     },
     "blind": {
