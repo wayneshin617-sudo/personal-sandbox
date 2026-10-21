@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T08:19:52+00:00",
+  "updatedAt": "2026-10-21T08:21:50+00:00",
   "posts": [
     {
       "id": 99,
@@ -205212,6 +205212,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T08:19:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70029,
+      "source": "blind",
+      "externalId": "cmt-457750148",
+      "title": "촌 일반화 하지마 보통 서울만 서울이라 그러지 그런 촌 첨 들어봄",
+      "excerpt": "",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%80%EC%97%AC-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%8B%9C%EB%B9%8C%EC%9B%8C-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%80%EB%8B%A4-v5tsrqwk#457750148",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:21:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:21:50+00:00",
       "isSeed": false,
       "kind": "reply"
     }
