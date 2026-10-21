@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T19:52:44+00:00",
+  "updatedAt": "2026-10-21T19:56:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -318965,6 +318965,25 @@
       "firstSeenAt": "2026-10-21T19:52:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75892,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B8%8C%EB%9D%BC%EC%82%AC%EC%9D%B4%EC%A6%88%EB%8F%84-%EA%B9%94-%EA%B8%B0%EC%84%B8%EB%8B%A4%EC%84%A0%ED%83%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-hdtfmojr",
+      "title": "브라사이즈도 깔 기세다(선택적으로)",
+      "excerpt": "만약 1. 룸메 사이즈가 A일경우 => 문신처럼 아웃팅 2. 룸메 사이즈가 D일경우 => 입꾹닫 주어는 생략",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B8%8C%EB%9D%BC%EC%82%AC%EC%9D%B4%EC%A6%88%EB%8F%84-%EA%B9%94-%EA%B8%B0%EC%84%B8%EB%8B%A4%EC%84%A0%ED%83%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-hdtfmojr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T04:56:25+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T19:56:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -319037,7 +319056,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T04:53:26+09:00"
+      "slowAt": "2026-10-22T04:56:25+09:00"
     },
     "ig": {
       "doneIds": [
@@ -319829,6 +319848,7 @@
         "6610075",
         "6610077",
         "6610088",
+        "6610097",
         "6610099",
         "6610101",
         "6610102",
@@ -319860,7 +319880,8 @@
         "6610223",
         "6610225",
         "6610227",
-        "6610228"
+        "6610228",
+        "6610230"
       ]
     },
     "blind": {
