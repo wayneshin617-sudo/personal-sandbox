@@ -18,6 +18,7 @@ from app.collect import (
     empty_board,
     fetch_social,
     fetch_social_replies,
+    fill_reply_excerpts,
     merge,
     qoo_label_time,
     social_needs_backfill,
@@ -274,6 +275,7 @@ class ParserTest(unittest.TestCase):
         parent = {
             "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599419",
             "external_id": "6599419",
+            "title": "영숙은 조용히 살더라 원글",
         }
         now = datetime(2026, 10, 20, 10, 0, tzinfo=timezone(timedelta(hours=9)))
         dc = parse_dc_comments(
@@ -307,6 +309,7 @@ class ParserTest(unittest.TestCase):
         self.assertEqual(dc[0]["external_id"], "cmt-10960004")
         self.assertEqual(dc[0]["kind"], "reply")
         self.assertEqual(dc[0]["title"], "영숙은 조용히 살더라")
+        self.assertEqual(dc[0]["excerpt"], "영숙은 조용히 살더라 원글")
         mentioned = parse_dc_comments(
             {
                 "comments": [
@@ -339,11 +342,12 @@ class ParserTest(unittest.TestCase):
                     },
                 ]
             },
-            {"url": "https://theqoo.net/iamsolo/4378274172", "external_id": "4378274172"},
+            {"url": "https://theqoo.net/iamsolo/4378274172", "external_id": "4378274172", "title": "더쿠 원글"},
         )
         self.assertEqual(len(qoo), 1)
         self.assertEqual(qoo[0]["source"], "qoo")
         self.assertEqual(qoo[0]["title"], "영철 옷 뭐야")
+        self.assertEqual(qoo[0]["excerpt"], "더쿠 원글")
         self.assertEqual(qoo[0]["posted_at"], "2026-10-17T14:19:52+09:00")
         self.assertEqual(qoo[0]["kind"], "reply")
 
@@ -359,11 +363,12 @@ class ParserTest(unittest.TestCase):
               <p class="cmt-txt delete"><span>삭제된 댓글입니다</span></p>
             </div>
             """,
-            {"url": "https://www.teamblind.com/kr/post/sample", "external_id": "/kr/post/sample"},
+            {"url": "https://www.teamblind.com/kr/post/sample", "external_id": "/kr/post/sample", "title": "블라인드 원글"},
         )
         self.assertEqual(len(blind), 1)
         self.assertEqual(blind[0]["source"], "blind")
         self.assertEqual(blind[0]["title"], "영자 얘기가 구라라는 댓글")
+        self.assertEqual(blind[0]["excerpt"], "블라인드 원글")
         self.assertEqual(blind[0]["company"], "공무원")
         self.assertEqual(blind[0]["author"], "d******")
         self.assertEqual(blind[0]["posted_label"], "2시간")
@@ -734,6 +739,31 @@ class MergeTest(unittest.TestCase):
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][0]["kind"], "reply")
         self.assertEqual(board["posts"][0]["externalId"], "cmt-10960004")
+
+    def test_fill_reply_excerpts_copies_parent_title(self):
+        board = empty_board()
+        board["posts"] = [
+            {
+                "id": 1,
+                "source": "dc",
+                "externalId": "6599082",
+                "title": "원글 제목",
+                "excerpt": "",
+                "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599082",
+            },
+            {
+                "id": 2,
+                "source": "dc",
+                "externalId": "cmt-1",
+                "title": "댓글 본문",
+                "excerpt": "",
+                "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6599082#cmt_1",
+                "kind": "reply",
+            },
+        ]
+        filled = fill_reply_excerpts(board)
+        self.assertEqual(filled, 1)
+        self.assertEqual(board["posts"][1]["excerpt"], "원글 제목")
 
 
 THREADS_REPLY_MD = """

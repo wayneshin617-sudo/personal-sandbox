@@ -470,6 +470,7 @@ def parse_dc_comments(payload: dict, parent: dict, *, now: datetime | None = Non
                 posted_label=clean(str(item.get("reg_date") or "")),
                 ip=clean(item.get("ip")),
                 recommends=parse_int(str(item.get("rcnt"))) if item.get("rcnt") not in (None, "") else None,
+                excerpt=parent.get("title") or parent.get("excerpt") or "",
             )
         )
     return posts
@@ -506,6 +507,7 @@ def parse_theqoo_comments(payload: dict, parent: dict) -> list[dict]:
                 url=f"{parent_url}#{number}" if parent_url else "",
                 author="무명의 더쿠",
                 posted_at=posted_at,
+                excerpt=parent.get("title") or parent.get("excerpt") or "",
             )
         )
     return posts
@@ -545,6 +547,7 @@ def parse_blind_comments(html: str, parent: dict) -> list[dict]:
                 company=company,
                 posted_label=_metric_text(date_el),
                 recommends=parse_int(_metric_text(like_el)),
+                excerpt=parent.get("title") or parent.get("excerpt") or "",
             )
         )
     return posts

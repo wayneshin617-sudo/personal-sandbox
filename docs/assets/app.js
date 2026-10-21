@@ -251,6 +251,49 @@ function metaText(post) {
   return parts.join(" · ");
 }
 
+let parentTitleCache = { key: "", map: new Map() };
+
+function parentTitleMap() {
+  const last = allPosts[allPosts.length - 1];
+  const key = `${allPosts.length}:${last?.id || 0}`;
+  if (parentTitleCache.key === key) return parentTitleCache.map;
+  const map = new Map();
+  for (const post of allPosts) {
+    if (post.kind === "reply") continue;
+    const title = post.title || "";
+    if (!title) continue;
+    if (post.source && post.externalId) map.set(`${post.source}:${post.externalId}`, title);
+    const base = (post.url || "").split("#")[0];
+    if (post.source && base) map.set(`${post.source}:url:${base}`, title);
+  }
+  parentTitleCache = { key, map };
+  return map;
+}
+
+function parentTitleOf(post) {
+  if (post.excerpt) return post.excerpt;
+  const map = parentTitleMap();
+  const url = post.url || "";
+  if (post.source === "dc") {
+    const matched = url.match(/[?&]no=(\d+)/);
+    if (matched && map.has(`dc:${matched[1]}`)) return map.get(`dc:${matched[1]}`);
+  }
+  if (post.source === "qoo") {
+    const matched = url.match(/\/iamsolo\/(\d+)/);
+    if (matched && map.has(`qoo:${matched[1]}`)) return map.get(`qoo:${matched[1]}`);
+  }
+  if (post.source === "blind") {
+    try {
+      const path = new URL(url, document.baseURI).pathname;
+      if (map.has(`blind:${path}`)) return map.get(`blind:${path}`);
+    } catch {
+      /* ignore */
+    }
+  }
+  const base = url.split("#")[0];
+  return map.get(`${post.source}:url:${base}`) || "";
+}
+
 function renderMsg(post, animate) {
   const msg = document.createElement("article");
   msg.className = "msg" + (animate ? " enter" : "");
@@ -322,10 +365,11 @@ function renderMsg(post, animate) {
   }
   highlight(text, post.title);
   body.append(text);
-  if (post.excerpt) {
+  const under = post.kind === "reply" ? post.excerpt || parentTitleOf(post) : post.excerpt;
+  if (under) {
     const excerpt = document.createElement("p");
     excerpt.className = "excerpt";
-    highlight(excerpt, post.excerpt);
+    highlight(excerpt, under);
     body.append(excerpt);
   }
 

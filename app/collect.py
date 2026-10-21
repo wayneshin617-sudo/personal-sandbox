@@ -13,6 +13,7 @@ import time
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 import httpx
 
@@ -246,6 +247,48 @@ def time_key(item: dict) -> datetime:
     return parsed or datetime.max.replace(tzinfo=KST)
 
 
+def _reply_parent_id(source: str, url: str) -> str:
+    if source == "dc":
+        matched = re.search(r"[?&]no=(\d+)", url)
+        return matched.group(1) if matched else ""
+    if source == "qoo":
+        matched = re.search(r"/iamsolo/(\d+)", url)
+        return matched.group(1) if matched else ""
+    if source == "blind":
+        path = urlparse((url or "").split("#")[0]).path
+        return path
+    return ""
+
+
+def fill_reply_excerpts(board: dict) -> int:
+    """댓글 아래에 원글 제목이 붙도록 비어 있는 excerpt를 채운다."""
+    titles: dict[tuple[str, str], str] = {}
+    for post in board.get("posts") or []:
+        if post.get("kind") == "reply":
+            continue
+        source = post.get("source") or ""
+        title = post.get("title") or ""
+        eid = post.get("externalId") or ""
+        if source and eid and title:
+            titles[(source, eid)] = title
+        base = (post.get("url") or "").split("#")[0]
+        if source and base and title:
+            titles[(source, base)] = title
+    filled = 0
+    for post in board.get("posts") or []:
+        if post.get("kind") != "reply" or post.get("excerpt"):
+            continue
+        source = post.get("source") or ""
+        url = post.get("url") or ""
+        parent = _reply_parent_id(source, url)
+        title = titles.get((source, parent)) or titles.get((source, url.split("#")[0])) or ""
+        if not title:
+            continue
+        post["excerpt"] = title[:500]
+        filled += 1
+    return filled
+
+
 def merge(board: dict, fetched: dict[str, list[dict]], *, now: str | None = None) -> int:
     """없던 글만 시간순으로 붙인다. 시작 시각보다 이전 글·사계 글은 넣지 않는다."""
     seen_at = now or utc_now()
@@ -281,7 +324,10 @@ def merge(board: dict, fetched: dict[str, list[dict]], *, now: str | None = None
         posts.append(to_public(item, post_id=next_id, seen_at=seen_at))
         added += 1
     board["startedAt"] = CUTOFF.isoformat()
-    if added:
+    filled = fill_reply_excerpts(board)
+    if filled:
+        print(f"reply excerpts {filled}", flush=True)
+    if added or filled:
         board["updatedAt"] = seen_at
     if reasons:
         print("filtered", sum(reasons.values()), dict(reasons.most_common(12)), flush=True)
