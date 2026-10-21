@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T22:30:53+00:00",
+  "updatedAt": "2026-10-21T22:35:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -322258,6 +322258,85 @@
       "firstSeenAt": "2026-10-21T22:30:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76058,
+      "source": "blind",
+      "externalId": "cmt-457826700",
+      "title": "6개면 백퍼 그중에 손바닥만한 문신 있음",
+      "excerpt": "문신 6개는 빡시다",
+      "author": "m*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-6%EA%B0%9C%EB%8A%94-%EB%B9%A1%EC%8B%9C%EB%8B%A4-4xqekrz3#457826700",
+      "postedLabel": "32분",
+      "postedAt": "2026-10-22T07:03:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:35:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76059,
+      "source": "blind",
+      "externalId": "cmt-457827528",
+      "title": "순자",
+      "excerpt": "문신 6개는 빡시다",
+      "author": "n****",
+      "company": "SK브로드밴드",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-6%EA%B0%9C%EB%8A%94-%EB%B9%A1%EC%8B%9C%EB%8B%A4-4xqekrz3#457827528",
+      "postedLabel": "15분",
+      "postedAt": "2026-10-22T07:20:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:35:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76060,
+      "source": "dc",
+      "externalId": "cmt-10963764",
+      "title": "문신 오히려좋은대 - dc App",
+      "excerpt": "사람들이 문신을 싫어하질 않는데",
+      "author": "냥뇽녕냥",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610460&page=1#cmt_10963764",
+      "postedLabel": "10.22 07:33:46",
+      "postedAt": "2026-10-22T07:33:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:35:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76061,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%82%AC%EB%9E%8C-rpxvfj6e",
+      "title": "34기 영호 닮은 사람",
+      "excerpt": "나와 내가 잔짜 잘해줄께...",
+      "author": "ㄱ*****",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%82%AC%EB%9E%8C-rpxvfj6e",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T07:35:15+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T22:35:34+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -322354,7 +322433,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T07:30:34+09:00"
+      "slowAt": "2026-10-22T07:35:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -323213,7 +323292,8 @@
         "6610404",
         "6610417",
         "6610436",
-        "6610439"
+        "6610439",
+        "6610460"
       ]
     },
     "blind": {
