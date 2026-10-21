@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T05:00:21+00:00",
+  "updatedAt": "2026-10-21T05:02:04+00:00",
   "posts": [
     {
       "id": 99,
@@ -202862,6 +202862,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T05:00:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 69910,
+      "source": "blind",
+      "externalId": "cmt-457725065",
+      "title": "문제는 하나뿐임",
+      "excerpt": "",
+      "author": "l*******",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%BD%EC%82%AC%ED%98%84%EC%88%99-%EB%A8%B8%EB%A6%AC-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%98%EB%8B%88%EA%B9%8C-%EA%B7%80%EC%97%BD%EB%8B%A4-hiv2cx2q#457725065",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T14:01:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T05:02:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ]
 }
