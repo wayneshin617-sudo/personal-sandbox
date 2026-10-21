@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:29:29+00:00",
+  "updatedAt": "2026-10-21T16:30:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -307873,6 +307873,85 @@
       "firstSeenAt": "2026-10-21T16:29:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75332,
+      "source": "qoo",
+      "externalId": "cmt-4382892167",
+      "title": "그리고 걍 영자한테 너무 무례함",
+      "excerpt": "영철 너무 불호인 점이...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382891798#4382892167",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:29:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:30:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75333,
+      "source": "qoo",
+      "externalId": "cmt-4382892331",
+      "title": "나같아도 어색할듯...",
+      "excerpt": "현숙 영자 둘이 있을때 분위기 싸함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382892100#4382892331",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:29:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:30:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75334,
+      "source": "qoo",
+      "externalId": "cmt-4382892432",
+      "title": "근데 뭐 이틀찬데 그럴 수도 있지",
+      "excerpt": "현숙 영자 둘이 있을때 분위기 싸함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382892100#4382892432",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:30:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:30:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75335,
+      "source": "dc",
+      "externalId": "6609251",
+      "title": "약점 물고 늘어지는 사람은 상종을 하면안됨",
+      "excerpt": "",
+      "author": "리토베르후번",
+      "company": "",
+      "ip": "118.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609251&page=1",
+      "postedLabel": "01:29",
+      "postedAt": "2026-10-22T01:29:27+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:30:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -307945,7 +308024,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T01:27:01+09:00"
+      "slowAt": "2026-10-22T01:30:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -308552,10 +308631,12 @@
         "6609193",
         "6609194",
         "6609197",
+        "6609207",
         "6609209",
         "6609219",
         "6609229",
-        "6609233"
+        "6609233",
+        "6609246"
       ]
     },
     "blind": {
