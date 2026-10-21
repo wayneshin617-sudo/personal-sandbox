@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:44:06+00:00",
+  "updatedAt": "2026-10-21T17:45:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -316336,6 +316336,25 @@
       "firstSeenAt": "2026-10-21T17:44:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75759,
+      "source": "dc",
+      "externalId": "6609828",
+      "title": "근데 이번 판은 여자들이 넘 별로다",
+      "excerpt": "",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609828&page=1",
+      "postedLabel": "02:44",
+      "postedAt": "2026-10-22T02:44:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:45:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -316424,7 +316443,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T02:41:48+09:00"
+      "slowAt": "2026-10-22T02:44:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -317117,7 +317136,10 @@
         "6609781",
         "6609784",
         "6609791",
-        "6609805"
+        "6609805",
+        "6609806",
+        "6609814",
+        "6609815"
       ]
     },
     "blind": {
