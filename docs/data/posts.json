@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T11:18:48+00:00",
+  "updatedAt": "2026-10-21T11:37:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -214115,6 +214115,64 @@
       "firstSeenAt": "2026-10-21T11:18:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 70487,
+      "source": "blind",
+      "externalId": "/kr/post/30%EC%A4%91%ED%9B%84%EB%82%A8-2jbdp3wy",
+      "title": "30중후남",
+      "excerpt": "결정사 어디로 가야될까요??",
+      "author": "U*******",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EC%A4%91%ED%9B%84%EB%82%A8-2jbdp3wy",
+      "postedLabel": "16분",
+      "postedAt": "2026-10-21T20:21:35+09:00",
+      "views": 28,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-21T11:37:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 70488,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%92%A4%EB%8A%A6%EA%B2%8C-%EB%82%98%EC%86%94-%EB%B3%B4%EB%8A%94%EB%8D%B0%EC%8B%9D%EC%9A%95%EC%9D%B4-%EC%97%AD%EA%B2%A8%EC%9A%B8-%EC%88%98%EA%B0%80-%EC%9E%88%EA%B5%AC%EB%82%98-tgplcuqy",
+      "title": "뒤늦게 나솔 보는데..식욕이 역겨울 수가 있구나",
+      "excerpt": "와 사람이 겁나게 추해보이네 ㅋㅋㅋㅋㅋ",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%92%A4%EB%8A%A6%EA%B2%8C-%EB%82%98%EC%86%94-%EB%B3%B4%EB%8A%94%EB%8D%B0%EC%8B%9D%EC%9A%95%EC%9D%B4-%EC%97%AD%EA%B2%A8%EC%9A%B8-%EC%88%98%EA%B0%80-%EC%9E%88%EA%B5%AC%EB%82%98-tgplcuqy",
+      "postedLabel": "10분",
+      "postedAt": "2026-10-21T20:27:35+09:00",
+      "views": 34,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T11:37:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 70489,
+      "source": "blind",
+      "externalId": "cmt-457772545",
+      "title": "아무데나 ㄱ",
+      "excerpt": "30중후남",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EC%A4%91%ED%9B%84%EB%82%A8-2jbdp3wy#457772545",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-21T20:28:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T11:37:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -214172,7 +214230,10 @@
     "threads": {
       "doneIds": [
         "DH5ufwvSqcD",
+        "DRziDQ4EuRG",
         "DSw6xOvEjr8",
+        "DULUTUujuFW",
+        "DZJFQMwgUkm",
         "DeOmNhbmP0l"
       ]
     },
@@ -214203,11 +214264,17 @@
         "6600996",
         "6601078",
         "6601159",
+        "6601176",
         "6601264",
+        "6601285",
         "6601326",
+        "6601357",
         "6601395",
+        "6601412",
         "6601465",
-        "6601537"
+        "6601496",
+        "6601537",
+        "6601556"
       ]
     },
     "blind": {
@@ -215225,6 +215292,7 @@
         "/kr/post/2n-%EC%97%B0%EB%9D%BD%ED%95%A0%EC%82%AC%EB%9E%8C-xc2iabac",
         "/kr/post/30%EB%8C%80-%EC%97%B0%EC%95%A0-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B3%A0%EB%AF%BC-7z7jjnvf",
         "/kr/post/30%EB%8C%80-%ED%9B%84%EB%B0%98-%EC%8B%B1%EA%B8%80%EB%93%A4-%EC%82%AC%EB%9E%8C-%EC%96%B4%EB%94%94%EC%84%9C-%EB%A7%8C%EB%82%98%EC%9A%94-vnvira41",
+        "/kr/post/30%EC%A4%91%ED%9B%84%EB%82%A8-2jbdp3wy",
         "/kr/post/32%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%95%84%EC%9E%AC-%EC%99%9C-%EC%9E%AC%ED%98%BC-%EB%AA%BB%ED%96%87%EC%A7%80-wy66uexn",
         "/kr/post/33%EA%B8%B0-%EC%97%AC%EC%B6%9C%EB%93%A4%EC%9D%98-%EC%A3%BC%EC%A0%81%EC%9D%80-34%EC%98%81%EC%9E%90-lpnhk4dg",
         "/kr/post/33%EA%B8%B0-%EC%98%81%EC%9E%90%EA%B0%80-%EC%A7%80%ED%96%A5%ED%95%98%EB%8A%94%EA%B2%8C-%EC%9D%B4%EB%B2%88-%EC%98%81%ED%98%B8%EA%B2%A0%EC%A7%80-mfro7ums",
@@ -215466,6 +215534,14 @@
         "4368505373",
         "4368506269",
         "4368507049",
+        "4368507092",
+        "4368507366",
+        "4368507382",
+        "4368507525",
+        "4368507745",
+        "4368507747",
+        "4368507757",
+        "4368508498",
         "4380996681",
         "4380998114",
         "4381031759",
