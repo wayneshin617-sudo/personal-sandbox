@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 import time
@@ -79,6 +80,7 @@ SOURCE_SECS = {
     "fb": 18,
 }
 COLLECT_SECS = sum(SOURCE_SECS.values())
+COLLECT_GEN = "v3"
 DDG_URL = "https://html.duckduckgo.com/html/"
 BING_URL = "https://www.bing.com/search"
 MAX_SOCIAL_PAGES = 8
@@ -411,6 +413,23 @@ def as_internal(post: dict) -> dict:
 
 def past_deadline(deadline: float | None) -> bool:
     return deadline is not None and time.monotonic() >= deadline
+
+
+def collect_budget() -> float:
+    raw = (os.environ.get("COLLECT_DEADLINE") or "").strip()
+    if raw:
+        try:
+            return max(8.0, float(raw))
+        except ValueError:
+            pass
+    return float(COLLECT_SECS)
+
+
+def stale_runner() -> bool:
+    """예전에 떠 있는 수집 작업은 새 시계를 기다리지 않고 바로 손을 뗀다."""
+    if os.environ.get("COLLECT_GEN") == COLLECT_GEN:
+        return False
+    return os.environ.get("GITHUB_ACTIONS") == "true"
 
 
 def _get_text(client: httpx.Client, url: str, headers: dict[str, str]) -> str:
@@ -1294,6 +1313,7 @@ def fetch_sources(
     social_crawl: dict | None = None,
     stored_posts: list[dict] | None = None,
     comment_crawl: dict | None = None,
+    on_batch: object | None = None,
 ) -> dict[str, list[dict]]:
     headers = {
         "User-Agent": UA,
@@ -1303,7 +1323,7 @@ def fetch_sources(
     now = datetime.now(KST).replace(microsecond=0)
     fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": [], "fb": []}
     started = time.monotonic()
-    overall = deadline if deadline is not None else started + COLLECT_SECS
+    overall = deadline if deadline is not None else started + collect_budget()
     crawl = social_crawl if social_crawl is not None else {}
     comments = comment_crawl if comment_crawl is not None else {}
     stored = stored_posts or []
@@ -1319,7 +1339,7 @@ def fetch_sources(
     print(
         "clock "
         + " ".join(f"{name}={secs}" for name, secs in SOURCE_SECS.items())
-        + " yt=own",
+        + f" yt=own budget={overall - started:.0f}",
         flush=True,
     )
 
@@ -1374,6 +1394,8 @@ def fetch_sources(
             ),
             until,
         )
+        if on_batch:
+            on_batch({name: list(fetched.get(name) or []) for name in ("dc", "blind", "qoo")})
 
     with httpx.Client(follow_redirects=True, timeout=SEARCH_TIMEOUT, headers=headers) as slow:
         for source in ("threads", "ig", "fb"):
@@ -1433,6 +1455,8 @@ def fetch_sources(
             except Exception as exc:
                 print(f"{source} failed: {exc}", flush=True)
             print(f"{source} {len(fetched.get(source, []))} {time.monotonic() - began:.1f}s", flush=True)
+            if on_batch:
+                on_batch({source: list(fetched.get(source) or [])})
         leftover = overall - time.monotonic()
         comment_pending = comments_need_backfill(stored, comments)
         if leftover >= 8 and not comment_pending:
@@ -1448,6 +1472,9 @@ def fetch_sources(
 
 
 def main() -> None:
+    if stale_runner():
+        print(f"skip stale runner want={COLLECT_GEN}", flush=True)
+        return
     board = load_board(DATA_PATH)
     force = "--backfill" in sys.argv
     if force:
@@ -1504,6 +1531,12 @@ def main() -> None:
     known_dc = {post["externalId"] for post in board["posts"] if post.get("source") == "dc"}
     known_qoo = {post["externalId"] for post in board["posts"] if post.get("source") == "qoo"}
     known_yt = {post["externalId"] for post in board["posts"] if post.get("source") == "yt"}
+
+    def flush(batch: dict[str, list[dict]]) -> None:
+        added = merge(board, batch)
+        save_board(DATA_PATH, board)
+        print(f"flush {added} total {len(board['posts'])}", flush=True)
+
     fetched = fetch_sources(
         known_dc,
         known_qoo,
@@ -1517,6 +1550,7 @@ def main() -> None:
         social_crawl=board.setdefault("socialCrawl", {}),
         stored_posts=board.get("posts") or [],
         comment_crawl=board.setdefault("commentCrawl", {}),
+        on_batch=flush,
     )
     added = merge(board, fetched)
     save_board(DATA_PATH, board)

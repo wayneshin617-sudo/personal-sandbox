@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 
 from app.collect import (
     BING_URL,
+    COLLECT_GEN,
     COLLECT_SECS,
     DDG_URL,
     FAST_TIMEOUT,
@@ -16,6 +17,8 @@ from app.collect import (
     SEARCH_TIMEOUT,
     SOCIAL_REPLY_LIMITS,
     SOURCE_SECS,
+    collect_budget,
+    stale_runner,
     _pick_reply_parents,
     _social_comment_targets,
     _spread_targets,
@@ -1119,6 +1122,15 @@ class SocialReplyTest(unittest.TestCase):
         self.assertLess(FAST_TIMEOUT.read, SEARCH_TIMEOUT.read)
         self.assertLess(SEARCH_TIMEOUT.read, JINA_TIMEOUT.read)
         self.assertEqual(SOCIAL_REPLY_LIMITS, {"threads": 3, "ig": 1, "fb": 1})
+
+    def test_stale_github_runner_hands_off(self):
+        with patch.dict("os.environ", {"GITHUB_ACTIONS": "true"}, clear=True):
+            self.assertTrue(stale_runner())
+        with patch.dict("os.environ", {"GITHUB_ACTIONS": "true", "COLLECT_GEN": COLLECT_GEN}, clear=True):
+            self.assertFalse(stale_runner())
+        with patch.dict("os.environ", {"COLLECT_GEN": COLLECT_GEN, "COLLECT_DEADLINE": "70"}, clear=True):
+            self.assertFalse(stale_runner())
+            self.assertEqual(collect_budget(), 70)
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
     def test_empty_instagram_does_not_block_facebook(self):
