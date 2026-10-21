@@ -206979,5 +206979,56 @@
       "isSeed": false,
       "kind": "reply"
     }
-  ]
+  ],
+  "socialCrawl": {
+    "threads": {
+      "pages": {
+        "site:threads.com 나는솔로": 2,
+        "site:threads.com 나솔 34기": 2,
+        "site:threads.net 나는솔로": 2,
+        "site:threads.com 나는솔로 10월": 2,
+        "site:threads.com 나솔 34기 10월": 2
+      },
+      "doneQueries": [
+        "site:threads.com 나는솔로",
+        "site:threads.com 나는솔로 10월",
+        "site:threads.com 나솔 34기",
+        "site:threads.com 나솔 34기 10월",
+        "site:threads.net 나는솔로"
+      ],
+      "done": true
+    },
+    "ig": {
+      "pages": {
+        "site:instagram.com 나는솔로": 2,
+        "site:instagram.com 나솔 34기": 2,
+        "site:instagram.com 나는solo": 2,
+        "site:instagram.com 나는솔로 10월": 2,
+        "site:instagram.com 나솔 34기 10월": 2
+      },
+      "doneQueries": [
+        "site:instagram.com 나는solo",
+        "site:instagram.com 나는솔로",
+        "site:instagram.com 나는솔로 10월",
+        "site:instagram.com 나솔 34기",
+        "site:instagram.com 나솔 34기 10월"
+      ],
+      "done": true
+    },
+    "fb": {
+      "pages": {
+        "site:facebook.com 나는솔로 34기": 2,
+        "site:facebook.com 나는솔로": 2,
+        "site:facebook.com 나는솔로 10월": 2,
+        "site:facebook.com 나솔 34기 10월": 2
+      },
+      "doneQueries": [
+        "site:facebook.com 나는솔로",
+        "site:facebook.com 나는솔로 10월",
+        "site:facebook.com 나는솔로 34기",
+        "site:facebook.com 나솔 34기 10월"
+      ],
+      "done": true
+    }
+  }
 }
