@@ -126,7 +126,6 @@ function matches(post) {
   if (!isVisiblePost(post)) return false;
   if (state.favOnly && !favIds.includes(post.id)) return false;
   if (state.source !== "all" && post.source !== state.source) return false;
-  if (!state.q && post.kind === "reply" && !state.favOnly) return false;
   if (!state.q) return true;
   const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();
   return hay.includes(state.q.toLowerCase());
@@ -164,15 +163,8 @@ function matchingAsc() {
   /* 병목: 전체+검색없음이어도 allPosts를 그대로 쓰면 사계 글이 50개 슬롯을 차지한다. */
   const base = visiblePosts();
   const needle = state.q.toLowerCase();
-  /* 댓글은 기본 목록에서는 빼고, 검색·실검 클릭 때는 같이 보여 준다. 실검 집계는 visiblePosts를 그대로 쓴다. */
-  if (!needle && state.source === "all") {
-    const list = base.filter((post) => post.kind !== "reply");
-    matchCache = { key, list };
-    return list;
-  }
   const list = [];
   for (const post of base) {
-    if (!needle && post.kind === "reply") continue;
     if (state.source !== "all" && post.source !== state.source) continue;
     if (needle) {
       const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();

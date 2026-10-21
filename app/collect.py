@@ -1004,6 +1004,21 @@ def fetch_social(
     return found
 
 
+def _social_comments_finished(source: str, markdown: str, batch: list[dict]) -> bool:
+    """댓글을 실제로 읽었거나, 쓰레드처럼 본문을 해석한 뒤에만 끝난 글로 본다."""
+    if batch:
+        return True
+    if source == "threads":
+        return True
+    text = markdown or ""
+    lowered = text.lower()
+    if any(mark in lowered for mark in ("log in", "로그인", "create new account", "see more on facebook", "abusealleviation")):
+        return False
+    if source in {"ig", "fb"} and not re.search(r"(?i)comments?|댓글", text):
+        return False
+    return False
+
+
 def fetch_jina(client: httpx.Client, url: str) -> str | None:
     """공개 페이지를 Jina 리더로 읽는다. 차단이면 None, 빈 본문은 ''."""
     if not url:
@@ -1189,7 +1204,10 @@ def fetch_social_replies(
                 continue
             batch = parse_social_replies(markdown, parent)
             found.extend(batch)
-            done.add(eid)
+            if _social_comments_finished(source, markdown, batch):
+                done.add(eid)
+            else:
+                print(f"{source} comments {eid} empty retry", flush=True)
             print(f"{source} comments {eid} {len(batch)}", flush=True)
             time.sleep(0.15)
         state["doneIds"] = sorted(done)
@@ -1238,14 +1256,14 @@ def fetch_sources(
                 known_dc,
                 backfill=dc_backfill,
                 deadline=stop_at,
-                stored=stored_by["dc"],
+                stored=None,
                 crawl=comments.setdefault("dc", {}),
             )),
             ("blind", lambda: fetch_blind(
                 client,
                 now,
                 deadline=stop_at,
-                stored=stored_by["blind"],
+                stored=None,
                 crawl=comments.setdefault("blind", {}),
             )),
             ("qoo", lambda: fetch_qoo(
@@ -1254,7 +1272,7 @@ def fetch_sources(
                 backfill=qoo_backfill,
                 now=now,
                 deadline=stop_at,
-                stored=stored_by["qoo"],
+                stored=None,
                 crawl=comments.setdefault("qoo", {}),
             )),
         ]
@@ -1270,43 +1288,67 @@ def fetch_sources(
             loaders.extend(social_loaders)
         if comment_pending:
             print("comment-backfill skip-yt", flush=True)
+        started = time.monotonic()
+        parents: list[dict] = []
+        extra_dc: list[dict] = []
+        extra_qoo: list[dict] = []
+        extra_blind: list[dict] = []
+        replies: list[dict] = []
+        for source in ("threads", "ig", "fb"):
+            parents.extend(stored_by.get(source) or [])
+        try:
+            extra_dc = fetch_dc_replies(
+                client,
+                [],
+                now,
+                deadline=stop_at,
+                stored=stored_by["dc"],
+                crawl=comments.setdefault("dc", {}),
+            )
+            fetched["dc"].extend(extra_dc)
+            extra_qoo = fetch_qoo_replies(
+                client,
+                [],
+                now,
+                deadline=stop_at,
+                stored=stored_by["qoo"],
+                crawl=comments.setdefault("qoo", {}),
+            )
+            fetched["qoo"].extend(extra_qoo)
+            extra_blind = fetch_blind_replies(
+                client,
+                [],
+                now,
+                deadline=stop_at,
+                stored=stored_by["blind"],
+                crawl=comments.setdefault("blind", {}),
+            )
+            fetched["blind"].extend(extra_blind)
+            replies = fetch_social_replies(
+                client,
+                parents,
+                now,
+                deadline=stop_at,
+                crawl=comments,
+            )
+        except Exception as exc:
+            print(f"comments-first failed: {exc}", flush=True)
+        for item in replies:
+            fetched.setdefault(item["source"], []).append(item)
+        print(
+            f"comments-first dc={len(extra_dc)} qoo={len(extra_qoo)} blind={len(extra_blind)} social={len(replies)} {time.monotonic() - started:.1f}s",
+            flush=True,
+        )
         for name, loader in loaders:
             if past_deadline(stop_at):
                 print(f"{name} skip budget", flush=True)
                 continue
             started = time.monotonic()
             try:
-                fetched[name] = loader()
+                fetched[name] = loader() + fetched.get(name, [])
             except Exception as exc:
                 print(f"{name} failed: {exc}", flush=True)
             print(f"{name} {len(fetched[name])} {time.monotonic() - started:.1f}s", flush=True)
-        if not past_deadline(stop_at):
-            started = time.monotonic()
-            parents: list[dict] = []
-            fresh_ids: dict[str, set[str]] = {}
-            for source in ("threads", "ig", "fb"):
-                fresh_ids[source] = {item["external_id"] for item in fetched.get(source) or [] if item.get("external_id")}
-                parents.extend(fetched.get(source) or [])
-            for post in stored_posts or []:
-                if post.get("source") in {"threads", "ig", "fb"}:
-                    parents.append(as_internal(post))
-            try:
-                replies = fetch_social_replies(
-                    client,
-                    parents,
-                    now,
-                    deadline=stop_at,
-                    crawl=comments,
-                    fresh_ids=fresh_ids,
-                )
-            except Exception as exc:
-                print(f"social comments failed: {exc}", flush=True)
-                replies = []
-            for item in replies:
-                fetched.setdefault(item["source"], []).append(item)
-            print(f"social-comments {len(replies)} {time.monotonic() - started:.1f}s", flush=True)
-        else:
-            print("social-comments skip budget", flush=True)
     if not any(fetched.values()):
         raise RuntimeError("모든 게시판을 읽지 못했습니다")
     return fetched
@@ -1351,6 +1393,11 @@ def main() -> None:
             CUTOFF.isoformat(),
             flush=True,
         )
+    crawl = board.setdefault("commentCrawl", {})
+    for source in ("ig", "fb"):
+        has_reply = any(post.get("source") == source and post.get("kind") == "reply" for post in board["posts"])
+        if not has_reply:
+            crawl.setdefault(source, {})["doneIds"] = []
     known_dc = {post["externalId"] for post in board["posts"] if post.get("source") == "dc"}
     known_qoo = {post["externalId"] for post in board["posts"] if post.get("source") == "qoo"}
     known_yt = {post["externalId"] for post in board["posts"] if post.get("source") == "yt"}

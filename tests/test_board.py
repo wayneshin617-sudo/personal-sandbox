@@ -1007,6 +1007,28 @@ class SocialReplyTest(unittest.TestCase):
         self.assertEqual(client.calls, [JINA_URL + parent["url"]])
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_empty_instagram_page_is_retried_later(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        parent = {
+            "source": "ig",
+            "external_id": "DeMqPBnDz77",
+            "title": "SBS Plus | #나는솔로 진지한 인터뷰",
+            "url": "https://www.instagram.com/reel/DeMqPBnDz77/",
+        }
+        client = _FakeJina(
+            {
+                JINA_URL + parent["url"]: (
+                    {"code": 200, "data": {"content": "Log in to Instagram\nSee photos"}},
+                    200,
+                )
+            }
+        )
+        crawl = {}
+        posts = fetch_social_replies(client, [parent], now, crawl=crawl)
+        self.assertEqual(posts, [])
+        self.assertNotIn("DeMqPBnDz77", crawl.get("ig", {}).get("doneIds", []))
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
     def test_blocked_jina_is_retried_later(self):
         now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
         parent = {
