@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:48:04+00:00",
+  "updatedAt": "2026-10-21T17:49:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -316433,6 +316433,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T17:48:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75764,
+      "source": "dc",
+      "externalId": "cmt-10963412",
+      "title": "ㅆㅂ 개새끼가 ㅈㄴ 떠들잖아 나도 토 할뻔했어",
+      "excerpt": "좆나 이해가 안가는게 멀미",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609836&page=1#cmt_10963412",
+      "postedLabel": "10.22 02:48:37",
+      "postedAt": "2026-10-22T02:48:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:49:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75765,
+      "source": "dc",
+      "externalId": "6609845",
+      "title": "영숙님 콧구멍이 살짝 짝짝이네?? 왜 그러지",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609845&page=1",
+      "postedLabel": "02:48",
+      "postedAt": "2026-10-22T02:48:40+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:49:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -316505,7 +316544,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T02:45:48+09:00"
+      "slowAt": "2026-10-22T02:48:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -317220,7 +317259,9 @@
         "6609815",
         "6609826",
         "6609830",
-        "6609837"
+        "6609836",
+        "6609837",
+        "6609842"
       ]
     },
     "blind": {
