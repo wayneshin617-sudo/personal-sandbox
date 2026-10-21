@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:23:08+00:00",
+  "updatedAt": "2026-10-21T18:29:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -317336,6 +317336,105 @@
       "firstSeenAt": "2026-10-21T18:23:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75810,
+      "source": "qoo",
+      "externalId": "cmt-4382924046",
+      "title": "@1 22..;;",
+      "excerpt": "근데 진짜 문신은 좀...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382917956#4382924046",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T02:28:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:29:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75811,
+      "source": "qoo",
+      "externalId": "cmt-4382924112",
+      "title": "너가 더 이상해 ㅜ 미안...",
+      "excerpt": "근데 진짜 문신은 좀...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382917956#4382924112",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T02:28:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:29:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75812,
+      "source": "blind",
+      "externalId": "cmt-457821344",
+      "title": "지인이어도 흠칫함 회사 동료 문신 발견하고 어떤 학창생활을 보냈을지 궁금해짐 내 대학동기 중엔 못 봤거든..",
+      "excerpt": "문신이 그리 충격이야?",
+      "author": "i********",
+      "company": "기업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EA%B7%B8%EB%A6%AC-%EC%B6%A9%EA%B2%A9%EC%9D%B4%EC%95%BC-6j5fuhvd#457821344",
+      "postedLabel": "20분",
+      "postedAt": "2026-10-22T03:09:25+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:29:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75813,
+      "source": "dc",
+      "externalId": "6609981",
+      "title": "임상병리 옥순이 하닉 절대 안놔 줄듯",
+      "excerpt": "",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609981&page=1",
+      "postedLabel": "03:27",
+      "postedAt": "2026-10-22T03:27:20+09:00",
+      "views": 30,
+      "recommends": 2,
+      "comments": 1,
+      "firstSeenAt": "2026-10-21T18:29:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75814,
+      "source": "blind",
+      "externalId": "cmt-457821817",
+      "title": "도착증 맞지 순자 두고 하는말 봐봐.. 나도 문신 별로 안좋아하지만 점점 도를 넘음",
+      "excerpt": "아직 본방 안 봤고",
+      "author": "t*********",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%A7%81-%EB%B3%B8%EB%B0%A9-%EC%95%88-%EB%B4%A4%EA%B3%A0-zh37pu87#457821817",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T03:29:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:29:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -317408,7 +317507,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T03:24:48+09:00"
+      "slowAt": "2026-10-22T03:29:25+09:00"
     },
     "ig": {
       "doneIds": [
@@ -318159,7 +318258,10 @@
         "6609971",
         "6609972",
         "6609973",
-        "6609976"
+        "6609976",
+        "6609979",
+        "6609981",
+        "6609983"
       ]
     },
     "blind": {
@@ -318847,6 +318949,7 @@
         "/kr/post/%EC%95%84%EC%98%81%EC%B2%A0-%EC%99%9C%EC%A0%80%EB%9E%98-o5cunxj0",
         "/kr/post/%EC%95%84%EC%A0%95%EC%88%99-%ED%88%AC%ED%84%B1%EB%B3%BC%EC%82%B4%EC%9E%90%EA%B3%A0-%EC%9D%BC%EC%96%B4%EB%82%9C-%EB%A8%B8%EB%A6%AC-wttxdqma",
         "/kr/post/%EC%95%84%EC%A4%8C%EB%A7%88%EB%93%A4-%EC%99%9C%EC%9E%90%EA%BE%B8-%EC%98%81%EC%B2%A0-%EC%96%98%EA%B8%B0%ED%95%98%EB%83%90-60ic7f1p",
+        "/kr/post/%EC%95%84%EC%A7%81-%EB%B3%B8%EB%B0%A9-%EC%95%88-%EB%B4%A4%EA%B3%A0-zh37pu87",
         "/kr/post/%EC%95%84%ED%94%88%EC%82%AC%EB%9E%8C%ED%95%9C%ED%85%8C-%EB%AF%B8%EC%95%88%ED%95%9C%EB%8D%B0-hnlsfllc",
         "/kr/post/%EC%95%84-%EB%82%98%EC%86%94%EB%85%B8%EB%9E%98%EC%9D%B4%EC%83%81%ED%95%B4-rfqhybta",
         "/kr/post/%EC%95%84-%EB%88%84%EB%82%98-%EB%AC%B8%EC%8B%A0%EC%9D%80-iwpezvme",
