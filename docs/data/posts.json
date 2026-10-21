@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:15:18+00:00",
+  "updatedAt": "2026-10-21T17:16:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -314339,6 +314339,65 @@
       "firstSeenAt": "2026-10-21T17:15:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75658,
+      "source": "qoo",
+      "externalId": "cmt-4382910683",
+      "title": "ㅇㅇ남동생 3시까지 그거 말할때 쎄한",
+      "excerpt": "순자는 화법이나 성향도 쉽지 않아보임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382909788#4382910683",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T01:15:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:16:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75659,
+      "source": "qoo",
+      "externalId": "cmt-4382910705",
+      "title": "30대라는게 놀라움",
+      "excerpt": "영철은 행동이 왤케 그 나이로 안보이냐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382909781#4382910705",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T01:15:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:16:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75660,
+      "source": "dc",
+      "externalId": "6609644",
+      "title": "영자,정숙 다 직업믿고 그러는거임..?",
+      "excerpt": "",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609644&page=1",
+      "postedLabel": "02:15",
+      "postedAt": "2026-10-22T02:15:56+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:16:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -315094,7 +315153,8 @@
         "6609604",
         "6609607",
         "6609608",
-        "6609615"
+        "6609615",
+        "6609625"
       ]
     },
     "blind": {
