@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:00:08+00:00",
+  "updatedAt": "2026-10-21T18:01:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -316923,6 +316923,45 @@
       "firstSeenAt": "2026-10-21T18:00:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75789,
+      "source": "qoo",
+      "externalId": "4382928118",
+      "title": "ㅋㅋㅋ마지막에 비명소리 나오는거 엔딩브금이었구나",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382928118",
+      "postedLabel": "03:00",
+      "postedAt": "2026-10-22T03:00:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:01:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75790,
+      "source": "blind",
+      "externalId": "cmt-457820990",
+      "title": "와 불가리 찬 것도 지금 보였네",
+      "excerpt": "문신이나마나 영숙님은 비맞으면 귀에 비물 새겠는데",
+      "author": "k*****",
+      "company": "강릉아산병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%82%98%EB%A7%88%EB%82%98-%EC%98%81%EC%88%99%EB%8B%98%EC%9D%80-%EB%B9%84%EB%A7%9E%EC%9C%BC%EB%A9%B4-%EA%B7%80%EC%97%90-%EB%B9%84%EB%AC%BC-%EC%83%88%EA%B2%A0%EB%8A%94%EB%8D%B0-6yd06la8#457820990",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T03:00:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:01:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -316995,7 +317034,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T02:57:49+09:00"
+      "slowAt": "2026-10-22T03:00:49+09:00"
     },
     "ig": {
       "doneIds": [
@@ -317719,8 +317758,10 @@
         "6609860",
         "6609861",
         "6609875",
+        "6609880",
         "6609887",
-        "6609890"
+        "6609890",
+        "6609892"
       ]
     },
     "blind": {
@@ -321895,7 +321936,8 @@
         "4382918040",
         "4382918305",
         "4382922835",
-        "4382926530"
+        "4382926530",
+        "4382928118"
       ]
     },
     "keep": "v2",
