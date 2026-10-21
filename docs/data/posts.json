@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:10:18+00:00",
+  "updatedAt": "2026-10-21T16:11:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -304680,6 +304680,84 @@
       "firstSeenAt": "2026-10-21T16:10:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75171,
+      "source": "dc",
+      "externalId": "6609052",
+      "title": "나이,학번으로 잡도리하는사람 걸러라...",
+      "excerpt": "",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609052&page=1",
+      "postedLabel": "01:10",
+      "postedAt": "2026-10-22T01:10:46+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:11:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75172,
+      "source": "blind",
+      "externalId": "cmt-457815312",
+      "title": "나네 나야 화요일하고 금요일만 좀 더 채워주면 좋겠어",
+      "excerpt": "나솔 삶의 낙임 뭐같은 평일도 버틸만함",
+      "author": "l********",
+      "company": "ex-공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%82%B6%EC%9D%98-%EB%82%99%EC%9E%84-%EB%AD%90%EA%B0%99%EC%9D%80-%ED%8F%89%EC%9D%BC%EB%8F%84-%EB%B2%84%ED%8B%B8%EB%A7%8C%ED%95%A8-x615gqaw#457815312",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:10:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:11:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75173,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8C%80%EB%9E%B5-%ED%95%9C%EB%8B%AC%EB%8F%99%EC%95%88%EC%9D%80-%EB%AC%B8%EC%8B%A0-%EA%B0%80%EC%A7%80%EA%B3%A0-%EC%94%A8%EB%81%84%EB%9F%BD%EA%B2%A0%EA%B5%B0-k3w7r0ev",
+      "title": "대략 한달동안은 문신 가지고 씨끄럽겠군",
+      "excerpt": "존경 이후 모처럼 떡밥 나왔네",
+      "author": "신***",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8C%80%EB%9E%B5-%ED%95%9C%EB%8B%AC%EB%8F%99%EC%95%88%EC%9D%80-%EB%AC%B8%EC%8B%A0-%EA%B0%80%EC%A7%80%EA%B3%A0-%EC%94%A8%EB%81%84%EB%9F%BD%EA%B2%A0%EA%B5%B0-k3w7r0ev",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:11:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T16:11:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75174,
+      "source": "blind",
+      "externalId": "cmt-457815282",
+      "title": "알빠노시전",
+      "excerpt": "그래서 나 문신있어서 이제 싫어?",
+      "author": "오***",
+      "company": "한화시스템",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%9E%98%EC%84%9C-%EB%82%98-%EB%AC%B8%EC%8B%A0%EC%9E%88%EC%96%B4%EC%84%9C-%EC%9D%B4%EC%A0%9C-%EC%8B%AB%EC%96%B4-j6gnmny8#457815282",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:11:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:11:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -304761,7 +304839,7 @@
         "DeN7GW0mp2h",
         "DeNoQ8kEisd"
       ],
-      "slowAt": "2026-10-22T01:08:00+09:00"
+      "slowAt": "2026-10-22T01:11:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -305322,7 +305400,10 @@
         "6609007",
         "6609022",
         "6609024",
-        "6609035"
+        "6609027",
+        "6609028",
+        "6609035",
+        "6609045"
       ]
     },
     "blind": {
