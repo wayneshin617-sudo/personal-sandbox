@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T22:35:34+00:00",
+  "updatedAt": "2026-10-21T22:40:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -322337,6 +322337,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T22:35:34+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76062,
+      "source": "blind",
+      "externalId": "cmt-457827452",
+      "title": "지울거면 뭐하러 해 문신을 대체 왜 해 비슷한 맥락인거같음",
+      "excerpt": "투표글 문신으로 말이 많은데 지운건 어때? 투표",
+      "author": "븅******",
+      "company": "동아ST",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EC%A7%80%EC%9A%B4%EA%B1%B4-%EC%96%B4%EB%95%8C-0qrokmvn#457827452",
+      "postedLabel": "21분",
+      "postedAt": "2026-10-22T07:19:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:40:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -323293,7 +323313,8 @@
         "6610417",
         "6610436",
         "6610439",
-        "6610460"
+        "6610460",
+        "6610464"
       ]
     },
     "blind": {
