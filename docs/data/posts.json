@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T06:34:51+00:00",
+  "updatedAt": "2026-10-21T06:45:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -204137,6 +204137,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T06:34:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69975,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EC%B6%95%EA%B5%AC%EC%96%98%EA%B8%B0%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B0%EB%B3%B4%EB%8B%88-iwa5acq4",
+      "title": "영철이 자꾸 축구얘기나오는거보니",
+      "excerpt": "공한번 같이 차고싶네 얼마나 잘차는거야 ㅋㅋ",
+      "author": "ikikhj",
+      "company": "현대자동차",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EC%B6%95%EA%B5%AC%EC%96%98%EA%B8%B0%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B0%EB%B3%B4%EB%8B%88-iwa5acq4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T15:45:27+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T06:45:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 69976,
+      "source": "blind",
+      "externalId": "cmt-457738009",
+      "title": "현란한 드리블로 상대편 골문을 매번 가르나? 진짜 궁금",
+      "excerpt": "",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%85%BC%EB%9E%80-%EC%99%80%EC%A4%91%EC%97%90%EB%8F%84-%EC%B6%95%EA%B5%AC-%EC%9E%98%ED%95%9C%EB%8B%A4%EB%8A%94-%EB%A7%90%EC%9D%80-%ED%95%9C%EA%B2%B0%EA%B0%99%EC%9D%8C-gp6vaghw#457738009",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T15:45:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T06:45:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
