@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:49:16+00:00",
+  "updatedAt": "2026-10-21T16:50:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -312143,6 +312143,84 @@
       "firstSeenAt": "2026-10-21T16:49:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75547,
+      "source": "qoo",
+      "externalId": "cmt-4382901664",
+      "title": "ㄹㅇ 혐관재질 ㅋㅋㅋ 가족 만나면 10:10 맞짱가능 ㅠ",
+      "excerpt": "영수 영숙 둘이 혐관재질 맛도리라 꼭 데이트했으면",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382901325#4382901664",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:50:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:50:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75548,
+      "source": "qoo",
+      "externalId": "4382918305",
+      "title": "자기소개 안봤는데 현숙 무슨일함?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382918305",
+      "postedLabel": "01:49",
+      "postedAt": "2026-10-22T01:49:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:50:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75549,
+      "source": "dc",
+      "externalId": "cmt-10963122",
+      "title": "이게 맞아...",
+      "excerpt": "장녀가 어떠니 막내기 어떠니 다 헛소리고",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609423&page=1#cmt_10963122",
+      "postedLabel": "10.22 01:49:14",
+      "postedAt": "2026-10-22T01:49:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:50:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75550,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%AC%B8%EC%8B%A0%EB%85%80-%EC%9D%80%EA%B7%BC-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%8C-khe0hkxx",
+      "title": "근데 문신녀 은근 매력적이지 않음?",
+      "excerpt": "뭔가 암 생각 없어 보여서 꼴릿함 74하고 연락 끊어도 별 죄책감 없고",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%AC%B8%EC%8B%A0%EB%85%80-%EC%9D%80%EA%B7%BC-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%8C-khe0hkxx",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:50:01+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T16:50:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -312231,7 +312309,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T01:47:01+09:00"
+      "slowAt": "2026-10-22T01:50:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -312858,7 +312936,8 @@
         "6609383",
         "6609388",
         "6609402",
-        "6609408"
+        "6609408",
+        "6609423"
       ]
     },
     "blind": {
@@ -317011,7 +317090,8 @@
         "4382914063",
         "4382917361",
         "4382917956",
-        "4382918040"
+        "4382918040",
+        "4382918305"
       ]
     },
     "keep": "v2",
