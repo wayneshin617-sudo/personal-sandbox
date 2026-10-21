@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:35:44+00:00",
+  "updatedAt": "2026-10-21T18:36:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -317653,6 +317653,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T18:35:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75826,
+      "source": "blind",
+      "externalId": "cmt-457821964",
+      "title": "너가 날 본적 없는데 판단이 가능함? 솔직히 행복회로가 아니라 남자는 나이차이 꽤 나도 가능성 있음",
+      "excerpt": "30초남인데 20초중 여자애들이 좋음",
+      "author": "l********* 작성자",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EC%B4%88%EB%82%A8%EC%9D%B8%EB%8D%B0-20%EC%B4%88%EC%A4%91-%EC%97%AC%EC%9E%90%EC%95%A0%EB%93%A4%EC%9D%B4-%EC%A2%8B%EC%9D%8C-uztnbik2#457821964",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T03:36:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:36:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -317741,7 +317761,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T03:33:25+09:00"
+      "slowAt": "2026-10-22T03:36:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -318486,7 +318506,8 @@
         "6609994",
         "6609996",
         "6609999",
-        "6610004"
+        "6610004",
+        "6610007"
       ]
     },
     "blind": {
