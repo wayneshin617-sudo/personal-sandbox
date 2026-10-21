@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:55:08+00:00",
+  "updatedAt": "2026-10-21T17:56:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -316788,6 +316788,25 @@
       "firstSeenAt": "2026-10-21T17:55:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75782,
+      "source": "dc",
+      "externalId": "6609877",
+      "title": "여출 정리",
+      "excerpt": "",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609877&page=1",
+      "postedLabel": "02:55",
+      "postedAt": "2026-10-22T02:55:12+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:56:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -317581,7 +317600,8 @@
         "6609848",
         "6609858",
         "6609860",
-        "6609861"
+        "6609861",
+        "6609875"
       ]
     },
     "blind": {
