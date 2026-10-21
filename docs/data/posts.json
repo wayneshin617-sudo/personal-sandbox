@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T03:47:01+00:00",
+  "updatedAt": "2026-10-21T03:49:01+00:00",
   "posts": [
     {
       "id": 99,
@@ -201946,6 +201946,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T03:47:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69864,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%B8%EA%B5%AD%EA%B3%84-%EC%9D%80%ED%96%89-%EB%8B%A4%EB%8B%88%EB%A9%B4-%EC%84%B8%EA%B3%84-%EC%96%B4%EB%94%94-%EC%A7%80%EC%A0%90%EC%9D%B4%EB%93%A0-%EC%9D%B4%EB%8F%99-%EC%89%AC%EC%9B%8C-07152z1h",
+      "title": "외국계 은행 다니면 세계 어디 지점이든 이동 쉬워?",
+      "excerpt": "34 영호처럼?",
+      "author": "Iiliilillv",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%B8%EA%B5%AD%EA%B3%84-%EC%9D%80%ED%96%89-%EB%8B%A4%EB%8B%88%EB%A9%B4-%EC%84%B8%EA%B3%84-%EC%96%B4%EB%94%94-%EC%A7%80%EC%A0%90%EC%9D%B4%EB%93%A0-%EC%9D%B4%EB%8F%99-%EC%89%AC%EC%9B%8C-07152z1h",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T12:48:37+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T03:49:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 69865,
+      "source": "blind",
+      "externalId": "cmt-457716588",
+      "title": "안경사경수는 느좋남 ㅎㅎ 영호는 여자들이 말하는 훈남 ㅎㅎ",
+      "excerpt": "",
+      "author": "q*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%88%EA%B2%BD%EC%82%AC%EA%B2%BD%EC%88%98-vs-%EB%8F%84%EC%BF%84%EC%98%81%ED%98%B8-km4st7pn#457716588",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T12:48:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T03:49:01+00:00",
       "isSeed": false,
       "kind": "reply"
     }
