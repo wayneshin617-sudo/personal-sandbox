@@ -16,7 +16,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: solo-collect
+  group: solo-collect-v2
   cancel-in-progress: true
 
 jobs:
