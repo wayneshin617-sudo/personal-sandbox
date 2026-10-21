@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T23:20:43+00:00",
+  "updatedAt": "2026-10-21T23:21:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -323700,6 +323700,26 @@
       "firstSeenAt": "2026-10-21T23:20:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76131,
+      "source": "blind",
+      "externalId": "cmt-457831838",
+      "title": "해석은 자유지 본인 판단대로 살면됨",
+      "excerpt": "순자문신에 대해서",
+      "author": "l********* 작성자",
+      "company": "한국산업기술시험원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%AC%B8%EC%8B%A0%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-zmgny1ol#457831838",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T08:21:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T23:21:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -323774,7 +323794,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T08:18:24+09:00"
+      "slowAt": "2026-10-22T08:21:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -324676,7 +324696,8 @@
         "6610577",
         "6610580",
         "6610582",
-        "6610586"
+        "6610586",
+        "6610597"
       ]
     },
     "blind": {
