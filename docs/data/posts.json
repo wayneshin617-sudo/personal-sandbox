@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:47:19+00:00",
+  "updatedAt": "2026-10-21T16:48:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -311966,6 +311966,104 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T16:47:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75538,
+      "source": "qoo",
+      "externalId": "cmt-4382900745",
+      "title": "제발",
+      "excerpt": "영철 영숙이랑 순자랑 꼭 데이트 해봤음 좋겠음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382899139#4382900745",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:48:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:48:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75539,
+      "source": "qoo",
+      "externalId": "cmt-4382900763",
+      "title": "말도 더듬곸ㅋㅋㅋㅋ",
+      "excerpt": "근데 진심 개웃겼음ㅋㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382899037#4382900763",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T00:48:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:48:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75540,
+      "source": "qoo",
+      "externalId": "4382917956",
+      "title": "근데 진짜 문신은 좀...",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382917956",
+      "postedLabel": "01:47",
+      "postedAt": "2026-10-22T01:47:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:48:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75541,
+      "source": "dc",
+      "externalId": "cmt-10963114",
+      "title": "맏 이야......",
+      "excerpt": "순자에 대해서 뭘 안다고 자꾸 맞며느리감이라는거임?",
+      "author": "누자베스",
+      "company": "",
+      "ip": "125.248",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609408&page=1#cmt_10963114",
+      "postedLabel": "10.22 01:47:33",
+      "postedAt": "2026-10-22T01:47:33+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:48:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75542,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EB%82%A8%EC%9E%90-%EB%B9%8C%EB%9F%B0%EB%82%98%EC%99%94%EB%84%A4%E3%85%8B%E3%85%8B-%EC%98%81%EC%B2%A0%EC%9D%B4%E3%85%8B%E3%85%8B-gqp6lnyt",
+      "title": "오랜만에 남자 빌런나왔네ㅋㅋ 영철이ㅋㅋ",
+      "excerpt": "저 나이먹고 처음보는 사람들 앞에서 더욱이 방송인데 나대는 애들은 정신세계가 궁금함 눈치라는걸 집에 두고 온건가 평상시에 본인 스타일을 알면 강/약 조절할 법도 싶은데",
+      "author": "흙*******",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EB%82%A8%EC%9E%90-%EB%B9%8C%EB%9F%B0%EB%82%98%EC%99%94%EB%84%A4%E3%85%8B%E3%85%8B-%EC%98%81%EC%B2%A0%EC%9D%B4%E3%85%8B%E3%85%8B-gqp6lnyt",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:48:01+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T16:48:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -312038,7 +312136,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T01:45:01+09:00"
+      "slowAt": "2026-10-22T01:48:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -312678,7 +312776,8 @@
         "6609357",
         "6609376",
         "6609383",
-        "6609388"
+        "6609388",
+        "6609408"
       ]
     },
     "blind": {
@@ -316828,7 +316927,8 @@
         "4382909788",
         "4382911993",
         "4382914063",
-        "4382917361"
+        "4382917361",
+        "4382917956"
       ]
     },
     "keep": "v2",
