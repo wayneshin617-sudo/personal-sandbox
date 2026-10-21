@@ -329,7 +329,7 @@ def comments_need_backfill(posts: list[dict], crawl: dict | None = None) -> bool
         eid = post.get("externalId") or post.get("external_id") or ""
         if not eid or eid in done_by[source]:
             continue
-        if source in {"dc", "qoo", "blind"} and not (post.get("comments") or 0):
+        if source in {"dc", "qoo", "blind"} and post.get("comments") == 0:
             continue
         return True
     return False
@@ -1076,7 +1076,7 @@ def _comment_targets(
         if not eid or not item.get("url") or eid in seen:
             continue
         seen.add(eid)
-        if require_count and not (item.get("comments") or 0):
+        if require_count and item.get("comments") == 0:
             continue
         if eid not in done:
             if eid in fresh_ids:
@@ -1152,7 +1152,7 @@ def _mark_zero_comment_done(stored: list[dict] | None, crawl: dict) -> set[str]:
     for post in stored or []:
         item = as_internal(post)
         eid = item.get("external_id") or ""
-        if eid and not (item.get("comments") or 0):
+        if eid and item.get("comments") == 0:
             done.add(eid)
     crawl["doneIds"] = sorted(done)
     return done
@@ -1394,6 +1394,16 @@ def main() -> None:
             flush=True,
         )
     crawl = board.setdefault("commentCrawl", {})
+    if crawl.get("keep") != "v2":
+        for source in ("dc", "qoo", "blind"):
+            zeros = {
+                post.get("externalId") or ""
+                for post in board["posts"]
+                if post.get("source") == source and post.get("kind") != "reply" and post.get("comments") == 0
+            }
+            zeros.discard("")
+            crawl.setdefault(source, {})["doneIds"] = sorted(zeros)
+        crawl["keep"] = "v2"
     for source in ("ig", "fb"):
         has_reply = any(post.get("source") == source and post.get("kind") == "reply" for post in board["posts"])
         if not has_reply:

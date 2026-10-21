@@ -898,10 +898,20 @@ class SocialReplyTest(unittest.TestCase):
         ]
         self.assertTrue(comments_need_backfill(posts, {}))
         self.assertTrue(comments_need_backfill(posts, {"threads": {"doneIds": ["DeOmNhbmP0l"]}}))
-        self.assertFalse(
+        self.assertTrue(
             comments_need_backfill(
                 posts,
                 {"threads": {"doneIds": ["DeOmNhbmP0l"]}, "dc": {"doneIds": ["1"]}},
+            )
+        )
+        self.assertFalse(
+            comments_need_backfill(
+                posts,
+                {
+                    "threads": {"doneIds": ["DeOmNhbmP0l"]},
+                    "dc": {"doneIds": ["1"]},
+                    "blind": {"doneIds": ["b1"]},
+                },
             )
         )
 
