@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T21:58:53+00:00",
+  "updatedAt": "2026-10-21T22:00:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -321606,6 +321606,25 @@
       "firstSeenAt": "2026-10-21T21:58:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76025,
+      "source": "dc",
+      "externalId": "6610384",
+      "title": "이 참에 문신 특집을 하자",
+      "excerpt": "",
+      "author": "Jour'ney",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610384&page=1",
+      "postedLabel": "07:00",
+      "postedAt": "2026-10-22T07:00:20+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:00:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -321701,7 +321720,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T06:57:34+09:00"
+      "slowAt": "2026-10-22T07:00:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -322551,7 +322570,8 @@
         "6610345",
         "6610347",
         "6610364",
-        "6610374"
+        "6610374",
+        "6610378"
       ]
     },
     "blind": {
