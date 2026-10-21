@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T06:02:03+00:00",
+  "updatedAt": "2026-10-21T06:03:03+00:00",
   "posts": [
     {
       "id": 99,
@@ -203456,6 +203456,26 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-21T06:02:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69940,
+      "source": "blind",
+      "externalId": "cmt-457732960",
+      "title": "존재감이 없다거나 매력 얘기하는건 ok, 근데 능력이 애매한건 신탁사가 긁힐게 아닌듯 ㅠㅠ",
+      "excerpt": "",
+      "author": "어*****",
+      "company": "한국투자부동산신탁",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EA%B4%91%EC%88%98-%EC%A4%91%EC%97%90-m84rupfi#457732960",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T15:02:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T06:03:03+00:00",
       "isSeed": false,
       "kind": "reply"
     }
