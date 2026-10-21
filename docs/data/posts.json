@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T10:36:34+00:00",
+  "updatedAt": "2026-10-21T10:37:33+00:00",
   "posts": [
     {
       "id": 99,
@@ -207055,6 +207055,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T10:36:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70124,
+      "source": "blind",
+      "externalId": "cmt-457766033",
+      "title": "나이 50에 풍작일지 흉작일지 모를 1년 농사하고 싶겠나...",
+      "excerpt": "",
+      "author": "급***",
+      "company": "신세계아이앤씨",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EA%B3%84-7%EA%B8%B0%EC%98%A5%EC%88%9C-%EC%9D%B8%ED%84%B0%EB%B7%B0%EB%B4%A3%EB%8A%94%EB%8D%B0-1cwtun4v#457766033",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T19:37:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T10:37:33+00:00",
       "isSeed": false,
       "kind": "reply"
     }
