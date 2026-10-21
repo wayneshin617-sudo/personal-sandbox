@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T22:20:53+00:00",
+  "updatedAt": "2026-10-21T22:21:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -322041,6 +322041,26 @@
       "firstSeenAt": "2026-10-21T22:20:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76047,
+      "source": "blind",
+      "externalId": "cmt-457827551",
+      "title": "못생김",
+      "excerpt": "투표글 현숙이랑 박수진 닮은거 같아?? 투표",
+      "author": "l*******",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EB%B0%95%EC%88%98%EC%A7%84-%EB%8B%AE%EC%9D%80%EA%B1%B0-%EA%B0%99%EC%95%84-4k51py8e#457827551",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T07:21:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:21:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -322136,7 +322156,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T07:18:34+09:00"
+      "slowAt": "2026-10-22T07:21:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -322991,7 +323011,8 @@
         "6610378",
         "6610384",
         "6610395",
-        "6610404"
+        "6610404",
+        "6610417"
       ]
     },
     "blind": {
