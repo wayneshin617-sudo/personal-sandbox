@@ -10,9 +10,11 @@ from app.collect import (
     DDG_URL,
     JINA_URL,
     KST,
+    _pick_reply_parents,
     _social_comment_targets,
     _spread_targets,
     assign_blind_times,
+    comments_need_backfill,
     empty_board,
     fetch_social,
     fetch_social_replies,
@@ -886,6 +888,53 @@ class SocialReplyTest(unittest.TestCase):
         self.assertEqual(len(fb), 1)
         self.assertEqual(fb[0]["title"], "순자 직장 얘기 봤음")
         self.assertEqual(fb[0]["source"], "fb")
+
+    def test_comments_need_backfill_includes_new_social_and_counted_posts(self):
+        posts = [
+            {"source": "threads", "externalId": "DeOmNhbmP0l", "url": "https://www.threads.com/@a/post/DeOmNhbmP0l"},
+            {"source": "dc", "externalId": "1", "comments": 3, "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=1"},
+            {"source": "dc", "externalId": "2", "comments": 0, "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=2"},
+            {"source": "blind", "externalId": "b1", "comments": None, "url": "https://www.teamblind.com/kr/post/b1"},
+        ]
+        self.assertTrue(comments_need_backfill(posts, {}))
+        self.assertTrue(comments_need_backfill(posts, {"threads": {"doneIds": ["DeOmNhbmP0l"]}}))
+        self.assertFalse(
+            comments_need_backfill(
+                posts,
+                {"threads": {"doneIds": ["DeOmNhbmP0l"]}, "dc": {"doneIds": ["1"]}},
+            )
+        )
+
+    def test_stored_board_comments_are_queued_with_live_posts(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        found = [
+            {
+                "external_id": "live",
+                "comments": 2,
+                "posted_at": now.isoformat(),
+                "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=live",
+            }
+        ]
+        stored = [
+            {
+                "external_id": "old",
+                "comments": 4,
+                "posted_at": "2026-10-08T12:00:00+09:00",
+                "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=old",
+            }
+        ]
+        picked = _pick_reply_parents(
+            found,
+            stored,
+            {},
+            now,
+            source="dc",
+            live_limit=8,
+            stored_limit=10,
+            require_count=True,
+        )
+        ids = [item["external_id"] for item in picked]
+        self.assertEqual(ids, ["live", "old"])
 
     def test_unread_social_parents_are_oldest_first(self):
         now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)

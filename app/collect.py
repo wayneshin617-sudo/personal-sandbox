@@ -46,6 +46,10 @@ MAX_DC_PAGES = 400
 MAX_DC_REPLY_THREADS = 24
 MAX_QOO_REPLY_THREADS = 16
 MAX_BLIND_REPLY_THREADS = 8
+MAX_DC_STORED_REPLY = 10
+MAX_QOO_STORED_REPLY = 8
+MAX_BLIND_STORED_REPLY = 6
+MAX_DC_COMMENT_PAGES = 8
 REPLY_LOOKBACK = timedelta(hours=10)
 _DC_TOKEN = re.compile(r'id="e_s_n_o"[^>]*value="([^"]+)"')
 
@@ -313,6 +317,24 @@ def social_needs_backfill(board: dict, source: str) -> bool:
     return not social_crawl_state(board, source).get("done")
 
 
+def comments_need_backfill(posts: list[dict], crawl: dict | None = None) -> bool:
+    """2주치 댓글을 아직 안 연 글이 있으면 다음 분에 이어서 본다."""
+    crawl = crawl or {}
+    sources = ("dc", "qoo", "blind", "threads", "ig", "fb")
+    done_by = {source: set((crawl.get(source) or {}).get("doneIds") or []) for source in sources}
+    for post in posts:
+        source = post.get("source") or ""
+        if source not in done_by or post.get("kind") == "reply":
+            continue
+        eid = post.get("externalId") or post.get("external_id") or ""
+        if not eid or eid in done_by[source]:
+            continue
+        if source in {"dc", "qoo", "blind"} and not (post.get("comments") or 0):
+            continue
+        return True
+    return False
+
+
 def as_internal(post: dict) -> dict:
     if "external_id" in post:
         return post
@@ -393,11 +415,28 @@ def fetch_dc_replies(
     now: datetime | None = None,
     *,
     deadline: float | None = None,
+    stored: list[dict] | None = None,
+    crawl: dict | None = None,
 ) -> list[dict]:
-    """최근 10시간 글을 시간대마다 나눠 최신 댓글을 읽는다."""
+    """최근 글과 아직 안 연 2주치 글의 댓글을 읽는다."""
     current = now or datetime.now(KST)
+    crawl = crawl if crawl is not None else {}
+    done = _mark_zero_comment_done(stored, crawl)
+    live_limit = MAX_DC_REPLY_THREADS
+    stored_limit = MAX_DC_STORED_REPLY
+    if comments_need_backfill(list(stored or []) + list(posts or []), {"dc": crawl}):
+        live_limit = 8
     found: list[dict] = []
-    for post in _spread_targets(posts, MAX_DC_REPLY_THREADS, current):
+    for post in _pick_reply_parents(
+        posts,
+        stored,
+        crawl,
+        current,
+        source="dc",
+        live_limit=live_limit,
+        stored_limit=stored_limit,
+        require_count=True,
+    ):
         if past_deadline(deadline):
             print("dc comments budget", flush=True)
             break
@@ -411,7 +450,7 @@ def fetch_dc_replies(
                 print(f"dc comments {no} no token", flush=True)
                 continue
             page_found: list[dict] = []
-            for page in range(1, 4):
+            for page in range(1, MAX_DC_COMMENT_PAGES + 1):
                 response = client.post(
                     "https://gall.dcinside.com/board/comment/",
                     data={
@@ -445,14 +484,17 @@ def fetch_dc_replies(
                 oldest = min(times) if times else None
                 pagination = str(payload.get("pagination") or "")
                 has_next = f"viewComments({page + 1}," in pagination
-                if not has_next or (oldest is not None and oldest < current - REPLY_LOOKBACK):
+                if not has_next or (oldest is not None and oldest < CUTOFF):
                     break
                 time.sleep(0.06)
             found.extend(page_found)
+            if no:
+                done.add(no)
             print(f"dc comments {no} {len(page_found)}", flush=True)
         except Exception as exc:
             print(f"dc comments {no} failed: {exc}", flush=True)
         time.sleep(0.08)
+    crawl["doneIds"] = sorted(done)
     return found
 
 
@@ -462,11 +504,28 @@ def fetch_qoo_replies(
     now: datetime | None = None,
     *,
     deadline: float | None = None,
+    stored: list[dict] | None = None,
+    crawl: dict | None = None,
 ) -> list[dict]:
     """더쿠 댓글 목록을 읽는다. 비회원에게 가린 한 시간 안 댓글은 빠진다."""
     current = now or datetime.now(KST)
+    crawl = crawl if crawl is not None else {}
+    done = _mark_zero_comment_done(stored, crawl)
+    live_limit = MAX_QOO_REPLY_THREADS
+    stored_limit = MAX_QOO_STORED_REPLY
+    if comments_need_backfill(list(stored or []) + list(posts or []), {"qoo": crawl}):
+        live_limit = 6
     found: list[dict] = []
-    for post in _spread_targets(posts, MAX_QOO_REPLY_THREADS, current):
+    for post in _pick_reply_parents(
+        posts,
+        stored,
+        crawl,
+        current,
+        source="qoo",
+        live_limit=live_limit,
+        stored_limit=stored_limit,
+        require_count=True,
+    ):
         if past_deadline(deadline):
             print("qoo comments budget", flush=True)
             break
@@ -489,10 +548,13 @@ def fetch_qoo_replies(
             response.raise_for_status()
             batch = parse_theqoo_comments(response.json(), post)
             found.extend(batch)
+            if sid:
+                done.add(sid)
             print(f"qoo comments {sid} {len(batch)}", flush=True)
         except Exception as exc:
             print(f"qoo comments {sid} failed: {exc}", flush=True)
         time.sleep(0.08)
+    crawl["doneIds"] = sorted(done)
     return found
 
 
@@ -502,23 +564,44 @@ def fetch_blind_replies(
     now: datetime,
     *,
     deadline: float | None = None,
+    stored: list[dict] | None = None,
+    crawl: dict | None = None,
 ) -> list[dict]:
     """블라인드 글에 붙어 있는 댓글을 읽는다."""
+    crawl = crawl if crawl is not None else {}
+    done = _mark_zero_comment_done(stored, crawl)
+    live_limit = MAX_BLIND_REPLY_THREADS
+    stored_limit = MAX_BLIND_STORED_REPLY
+    if comments_need_backfill(list(stored or []) + list(posts or []), {"blind": crawl}):
+        live_limit = 4
     found: list[dict] = []
-    for post in _spread_targets(posts, MAX_BLIND_REPLY_THREADS, now):
+    for post in _pick_reply_parents(
+        posts,
+        stored,
+        crawl,
+        now,
+        source="blind",
+        live_limit=live_limit,
+        stored_limit=stored_limit,
+        require_count=True,
+    ):
         if past_deadline(deadline):
             print("blind comments budget", flush=True)
             break
+        sid = post.get("external_id") or ""
         try:
             html = _read_once(client, post["url"], {"Referer": "https://www.teamblind.com/"})
             if not html:
                 continue
             batch = parse_blind_comments(html, post)
             found.extend(batch)
-            print(f"blind comments {len(batch)} {post.get('external_id', '')[-24:]}", flush=True)
+            if sid:
+                done.add(sid)
+            print(f"blind comments {len(batch)} {sid[-24:]}", flush=True)
         except Exception as exc:
             print(f"blind comments failed: {exc}", flush=True)
         time.sleep(0.08)
+    crawl["doneIds"] = sorted(done)
     if found:
         assign_blind_times(found, now)
     return found
@@ -530,6 +613,8 @@ def fetch_dc(
     *,
     backfill: bool,
     deadline: float | None = None,
+    stored: list[dict] | None = None,
+    crawl: dict | None = None,
 ) -> list[dict]:
     headers = {"Referer": "https://gall.dcinside.com/"}
     found: list[dict] = []
@@ -565,7 +650,7 @@ def fetch_dc(
             break
         time.sleep(0.12)
     try:
-        replies = fetch_dc_replies(client, found, deadline=deadline)
+        replies = fetch_dc_replies(client, found, deadline=deadline, stored=stored, crawl=crawl)
     except Exception as exc:
         print(f"dc comments failed: {exc}", flush=True)
         replies = []
@@ -609,6 +694,8 @@ def fetch_qoo(
     backfill: bool,
     now: datetime,
     deadline: float | None = None,
+    stored: list[dict] | None = None,
+    crawl: dict | None = None,
 ) -> list[dict]:
     headers = {"Referer": "https://theqoo.net/"}
     found: list[dict] = []
@@ -638,14 +725,21 @@ def fetch_qoo(
     if backfill and not found:
         raise RuntimeError("더쿠 목록에서 글을 찾지 못했습니다")
     try:
-        replies = fetch_qoo_replies(client, found, now, deadline=deadline)
+        replies = fetch_qoo_replies(client, found, now, deadline=deadline, stored=stored, crawl=crawl)
     except Exception as exc:
         print(f"qoo comments failed: {exc}", flush=True)
         replies = []
     return found + replies
 
 
-def fetch_blind(client: httpx.Client, now: datetime, *, deadline: float | None = None) -> list[dict]:
+def fetch_blind(
+    client: httpx.Client,
+    now: datetime,
+    *,
+    deadline: float | None = None,
+    stored: list[dict] | None = None,
+    crawl: dict | None = None,
+) -> list[dict]:
     headers = {"Referer": "https://www.teamblind.com/"}
     html = _get_text(client, BLIND_URL, headers)
     posts = parse_blind(html)
@@ -653,7 +747,7 @@ def fetch_blind(client: httpx.Client, now: datetime, *, deadline: float | None =
         raise RuntimeError("블라인드 목록에서 글을 찾지 못했습니다")
     assign_blind_times(posts, now)
     try:
-        replies = fetch_blind_replies(client, posts, now, deadline=deadline)
+        replies = fetch_blind_replies(client, posts, now, deadline=deadline, stored=stored, crawl=crawl)
     except Exception as exc:
         print(f"blind comments failed: {exc}", flush=True)
         replies = []
@@ -941,7 +1035,7 @@ def fetch_jina(client: httpx.Client, url: str) -> str | None:
     return md
 
 
-def _social_comment_targets(
+def _comment_targets(
     posts: list[dict],
     crawl: dict,
     now: datetime,
@@ -949,8 +1043,10 @@ def _social_comment_targets(
     limit: int,
     source: str,
     fresh_ids: set[str] | None = None,
+    recheck: bool = False,
+    require_count: bool = False,
 ) -> list[dict]:
-    """안 읽은 글을 먼저 보고, 쓰레드만 최근 10시간을 다시 연다."""
+    """안 읽은 글을 먼저 보고, 필요하면 최근 10시간을 다시 연다."""
     done = set(crawl.get("doneIds") or [])
     fresh_ids = fresh_ids or set()
     pending_new: list[dict] = []
@@ -965,20 +1061,86 @@ def _social_comment_targets(
         if not eid or not item.get("url") or eid in seen:
             continue
         seen.add(eid)
+        if require_count and not (item.get("comments") or 0):
+            continue
         if eid not in done:
             if eid in fresh_ids:
                 pending_new.append(item)
             else:
                 pending_old.append(item)
             continue
-        if source != "threads":
+        if not recheck:
             continue
         stamp = parse_instant(item.get("posted_at") or "")
         if stamp is not None and now - stamp <= REPLY_LOOKBACK:
             recent.append(item)
     pending_old.sort(key=lambda item: parse_instant(item.get("posted_at") or "") or datetime.max.replace(tzinfo=KST))
-    picked = (pending_new + pending_old + recent)[:limit]
+    return (pending_new + pending_old + recent)[:limit]
+
+
+def _social_comment_targets(
+    posts: list[dict],
+    crawl: dict,
+    now: datetime,
+    *,
+    limit: int,
+    source: str,
+    fresh_ids: set[str] | None = None,
+) -> list[dict]:
+    return _comment_targets(
+        posts,
+        crawl,
+        now,
+        limit=limit,
+        source=source,
+        fresh_ids=fresh_ids,
+        recheck=source == "threads",
+        require_count=False,
+    )
+
+
+def _pick_reply_parents(
+    found: list[dict],
+    stored: list[dict] | None,
+    crawl: dict,
+    now: datetime,
+    *,
+    source: str,
+    live_limit: int,
+    stored_limit: int,
+    require_count: bool,
+) -> list[dict]:
+    live = _spread_targets(found, live_limit, now)
+    extra = _comment_targets(
+        [as_internal(post) for post in (stored or [])] + list(found or []),
+        crawl,
+        now,
+        limit=stored_limit,
+        source=source,
+        require_count=require_count,
+        recheck=False,
+    )
+    picked: list[dict] = []
+    seen: set[str] = set()
+    for post in live + extra:
+        item = as_internal(post)
+        eid = item.get("external_id") or ""
+        if not eid or eid in seen:
+            continue
+        seen.add(eid)
+        picked.append(item)
     return picked
+
+
+def _mark_zero_comment_done(stored: list[dict] | None, crawl: dict) -> set[str]:
+    done = set(crawl.get("doneIds") or [])
+    for post in stored or []:
+        item = as_internal(post)
+        eid = item.get("external_id") or ""
+        if eid and not (item.get("comments") or 0):
+            done.add(eid)
+    crawl["doneIds"] = sorted(done)
+    return done
 
 
 def fetch_social_replies(
@@ -1062,23 +1224,52 @@ def fetch_sources(
     stop_at = deadline if deadline is not None else time.monotonic() + COLLECT_SECS
     crawl = social_crawl if social_crawl is not None else {}
     comments = comment_crawl if comment_crawl is not None else {}
+    stored = stored_posts or []
+    stored_by = {
+        source: [as_internal(post) for post in stored if post.get("source") == source]
+        for source in ("dc", "qoo", "blind", "threads", "ig", "fb")
+    }
     social_pending = threads_backfill or ig_backfill or fb_backfill
+    comment_pending = comments_need_backfill(stored, comments)
     with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
         loaders: list[tuple[str, object]] = [
-            ("dc", lambda: fetch_dc(client, known_dc, backfill=dc_backfill, deadline=stop_at)),
-            ("blind", lambda: fetch_blind(client, now, deadline=stop_at)),
-            ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now, deadline=stop_at)),
+            ("dc", lambda: fetch_dc(
+                client,
+                known_dc,
+                backfill=dc_backfill,
+                deadline=stop_at,
+                stored=stored_by["dc"],
+                crawl=comments.setdefault("dc", {}),
+            )),
+            ("blind", lambda: fetch_blind(
+                client,
+                now,
+                deadline=stop_at,
+                stored=stored_by["blind"],
+                crawl=comments.setdefault("blind", {}),
+            )),
+            ("qoo", lambda: fetch_qoo(
+                client,
+                known_qoo,
+                backfill=qoo_backfill,
+                now=now,
+                deadline=stop_at,
+                stored=stored_by["qoo"],
+                crawl=comments.setdefault("qoo", {}),
+            )),
         ]
         social_loaders = (
             ("threads", lambda: fetch_social(client, "threads", now, backfill=threads_backfill, deadline=stop_at, crawl=crawl.setdefault("threads", {}))),
             ("ig", lambda: fetch_social(client, "ig", now, backfill=ig_backfill, deadline=stop_at, crawl=crawl.setdefault("ig", {}))),
             ("fb", lambda: fetch_social(client, "fb", now, backfill=fb_backfill, deadline=stop_at, crawl=crawl.setdefault("fb", {}))),
         )
-        if social_pending:
+        if social_pending or comment_pending:
             loaders.extend(social_loaders)
         else:
             loaders.append(("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now, deadline=stop_at)))
             loaders.extend(social_loaders)
+        if comment_pending:
+            print("comment-backfill skip-yt", flush=True)
         for name, loader in loaders:
             if past_deadline(stop_at):
                 print(f"{name} skip budget", flush=True)
