@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T22:43:34+00:00",
+  "updatedAt": "2026-10-21T22:44:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -322396,6 +322396,45 @@
       "firstSeenAt": "2026-10-21T22:43:34+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76065,
+      "source": "dc",
+      "externalId": "6610491",
+      "title": "지금 현숙 닮은 꼴 찾았는데",
+      "excerpt": "",
+      "author": "우빈유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610491&page=1",
+      "postedLabel": "07:43",
+      "postedAt": "2026-10-22T07:43:53+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:44:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76066,
+      "source": "blind",
+      "externalId": "cmt-457828855",
+      "title": "ㅋ맞네",
+      "excerpt": "34영식은 자꾸 이사람 생각남",
+      "author": "9*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%8B%9D%EC%9D%80-%EC%9E%90%EA%BE%B8-%EC%9D%B4%EC%82%AC%EB%9E%8C-%EC%83%9D%EA%B0%81%EB%82%A8-6hy70nr1#457828855",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T07:44:16+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:44:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -322492,7 +322531,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T07:41:16+09:00"
+      "slowAt": "2026-10-22T07:44:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -323355,7 +323394,8 @@
         "6610460",
         "6610464",
         "6610469",
-        "6610484"
+        "6610484",
+        "6610487"
       ]
     },
     "blind": {
