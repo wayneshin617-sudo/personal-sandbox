@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T15:52:18+00:00",
+  "updatedAt": "2026-10-21T15:53:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -303260,6 +303260,86 @@
       "firstSeenAt": "2026-10-21T15:52:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75098,
+      "source": "blind",
+      "externalId": "cmt-457813493",
+      "title": "이런 상상을 하는구나 ㅎㅎ 다양한 인간 많다",
+      "excerpt": "나솔나가서 이상형 얘기할때",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EB%82%98%EA%B0%80%EC%84%9C-%EC%9D%B4%EC%83%81%ED%98%95-%EC%96%98%EA%B8%B0%ED%95%A0%EB%95%8C-2dqptjwr#457813493",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:52:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:53:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75099,
+      "source": "blind",
+      "externalId": "cmt-457813531",
+      "title": "20대 때 2억 다 어쩌고..",
+      "excerpt": "영철이 낼모레 38에 돈없어서 깡통스포티지 렌트",
+      "author": "l*********",
+      "company": "아주대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%82%BC%EB%AA%A8%EB%A0%88-38%EC%97%90-%EB%8F%88%EC%97%86%EC%96%B4%EC%84%9C-%EA%B9%A1%ED%86%B5%EC%8A%A4%ED%8F%AC%ED%8B%B0%EC%A7%80-%EB%A0%8C%ED%8A%B8-onqk1ejw#457813531",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:52:58+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:53:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75100,
+      "source": "blind",
+      "externalId": "cmt-457813532",
+      "title": "간호사니까 반팔근무복 기준 안 보이는곳에 했을 듯",
+      "excerpt": "자기소개때 보이는 부분엔 문신 없는데",
+      "author": "K*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%B6%80%EB%B6%84%EC%97%94-%EB%AC%B8%EC%8B%A0-%EC%97%86%EB%8A%94%EB%8D%B0-dr30vnn4#457813532",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:52:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:53:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75101,
+      "source": "blind",
+      "externalId": "cmt-457813557",
+      "title": "다섯개면다섯개고 여섯개먼 여섯개지",
+      "excerpt": "자기소개때 보이는 부분엔 문신 없는데",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%B6%80%EB%B6%84%EC%97%94-%EB%AC%B8%EC%8B%A0-%EC%97%86%EB%8A%94%EB%8D%B0-dr30vnn4#457813557",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:53:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:53:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -303341,7 +303421,7 @@
         "DeN7GW0mp2h",
         "DeNoQ8kEisd"
       ],
-      "slowAt": "2026-10-22T00:50:00+09:00"
+      "slowAt": "2026-10-22T00:53:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -303857,7 +303937,11 @@
         "6608782",
         "6608783",
         "6608785",
-        "6608788"
+        "6608788",
+        "6608792",
+        "6608803",
+        "6608806",
+        "6608815"
       ]
     },
     "blind": {
@@ -305378,6 +305462,7 @@
         "/kr/post/%EC%9E%87%EB%AA%B8-%EB%A7%8C%EA%B0%9C-%EC%9D%B4%EB%B9%A8%EB%8F%84-%EB%A7%8C%EA%B0%9C-zphehhoc",
         "/kr/post/%EC%9E%87%EB%AA%B8-%EC%98%81%EC%9E%90%EA%B0%80-%EB%B3%B8%EC%9D%B8-%EC%99%B8%EB%AA%A8-%ED%98%84%EC%8B%A4%EC%9D%84-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EC%9D%B4%EC%9C%A0-snjnyqpb",
         "/kr/post/%EC%9E%89%ED%84%B0%EB%B8%88%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-tcqdxagj",
+        "/kr/post/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%B6%80%EB%B6%84%EC%97%94-%EB%AC%B8%EC%8B%A0-%EC%97%86%EB%8A%94%EB%8D%B0-dr30vnn4",
         "/kr/post/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%A5%BC-%EC%95%88%ED%95%98%EA%B3%A0-%EB%81%9D%EB%82%B8%EB%8B%A4%EA%B3%A0-g0gdj6lt",
         "/kr/post/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%97%90%EC%84%9C-9%EC%B6%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4-%EB%84%88%EB%AC%B4-%ED%95%98%EC%9E%90%EB%8B%A4-4tzung0m",
         "/kr/post/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%ED%83%80%EC%9E%84-%EC%98%81%EC%88%99-j4s6g3un",
