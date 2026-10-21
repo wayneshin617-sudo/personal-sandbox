@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T08:15:52+00:00",
+  "updatedAt": "2026-10-21T08:16:51+00:00",
   "posts": [
     {
       "id": 99,
@@ -205132,6 +205132,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T08:15:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70025,
+      "source": "qoo",
+      "externalId": "cmt-4382469520",
+      "title": "그냥 기력딸리는 내향인이라 그런듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382443423#4382469520",
+      "postedLabel": "",
+      "postedAt": "2026-10-21T16:16:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:16:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70026,
+      "source": "blind",
+      "externalId": "cmt-457749543",
+      "title": "근데 영철 서울 사람 맞아? 고향이 충청도라는데 엄밀히 따지면 저 가정은 잘못되거나 서울사람 아닌데 영철이 서울사람행세를 했다는 말이 됨",
+      "excerpt": "",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%80%EC%97%AC-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%8B%9C%EB%B9%8C%EC%9B%8C-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%80%EB%8B%A4-v5tsrqwk#457749543",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:16:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:16:51+00:00",
       "isSeed": false,
       "kind": "reply"
     }
