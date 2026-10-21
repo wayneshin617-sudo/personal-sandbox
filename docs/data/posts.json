@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T10:55:35+00:00",
+  "updatedAt": "2026-10-21T10:57:38+00:00",
   "posts": [
     {
       "id": 99,
@@ -207475,6 +207475,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T10:55:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70145,
+      "source": "blind",
+      "externalId": "cmt-457755747",
+      "title": "의료원한테 태클거는건 아닌데 ㅋㅋㅋㅋ 불륜과 선비라는 단어가 한 문장안에 공존하는게 웃기다",
+      "excerpt": "",
+      "author": "n*****",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0%EB%8A%94-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%92%B7%EB%8B%B4-%EA%B9%8C%EB%8A%94-%EA%B0%A4%EC%9D%B4%EB%83%90-ck3742g0#457755747",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-21T17:57:02+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T10:57:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70146,
+      "source": "blind",
+      "externalId": "cmt-457767275",
+      "title": "ㅇㅇㅇㅇ",
+      "excerpt": "",
+      "author": "i*******",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0%EB%8A%94-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%92%B7%EB%8B%B4-%EA%B9%8C%EB%8A%94-%EA%B0%A4%EC%9D%B4%EB%83%90-ck3742g0#457767275",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-21T19:46:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T10:57:38+00:00",
       "isSeed": false,
       "kind": "reply"
     }
