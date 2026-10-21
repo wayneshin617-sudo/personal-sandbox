@@ -66,16 +66,27 @@ MAX_QOO_PAGES = 80
 YT_SEARCH_URL = "https://www.youtube.com/results?search_query=%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C&sp=CAI%3D"
 MAX_YT_SEARCH_PAGES = 4
 MAX_YT_COMMENT_PAGES = 20
-COLLECT_SECS = 38
+FAST_TIMEOUT = httpx.Timeout(5.0, connect=3.0)
+SEARCH_TIMEOUT = httpx.Timeout(8.0, connect=4.0)
+JINA_TIMEOUT = httpx.Timeout(18.0, connect=6.0)
+# 소스마다 시계를 따로 둔다. 디시가 인스타를 끊지 않고, 인스타가 페북을 먹지 않는다.
+SOURCE_SECS = {
+    "dc": 7,
+    "blind": 5,
+    "qoo": 6,
+    "threads": 12,
+    "ig": 18,
+    "fb": 18,
+}
+COLLECT_SECS = sum(SOURCE_SECS.values())
 DDG_URL = "https://html.duckduckgo.com/html/"
 BING_URL = "https://www.bing.com/search"
 MAX_SOCIAL_PAGES = 8
 LIVE_SOCIAL_PAGES = 1
 DDG_PAGE_SIZE = 10
 BING_PAGE_SIZE = 10
-MAX_SOCIAL_REPLY_THREADS = 8
 JINA_URL = "https://r.jina.ai/"
-JINA_TIMEOUT = httpx.Timeout(8.0, connect=4.0)
+SOCIAL_REPLY_LIMITS = {"threads": 3, "ig": 1, "fb": 1}
 SOCIAL_QUERIES = {
     "threads": (
         "site:threads.com 나는솔로",
@@ -786,6 +797,9 @@ def fetch_blind(
     stored: list[dict] | None = None,
     crawl: dict | None = None,
 ) -> list[dict]:
+    if past_deadline(deadline):
+        print("blind budget", flush=True)
+        return []
     headers = {"Referer": "https://www.teamblind.com/"}
     html = _get_text(client, BLIND_URL, headers)
     posts = parse_blind(html)
@@ -1075,7 +1089,7 @@ def fetch_jina(client: httpx.Client, url: str) -> str | None:
             headers={
                 "Accept": "application/json",
                 "X-Return-Format": "markdown",
-                "X-Timeout": "8",
+                "X-Timeout": "16",
             },
             timeout=JINA_TIMEOUT,
         )
@@ -1212,33 +1226,33 @@ def fetch_social_replies(
     deadline: float | None = None,
     crawl: dict | None = None,
     fresh_ids: dict[str, set[str]] | None = None,
+    sources: tuple[str, ...] | None = None,
 ) -> list[dict]:
-    """저장된 쓰레드·인스타·페북 글의 댓글을 이어서 읽는다."""
+    """저장된 쓰레드·인스타·페북 글의 댓글을 이어서 읽는다. 소스는 호출 쪽에서 시계를 나눠 넘긴다."""
     found: list[dict] = []
     crawl = crawl if crawl is not None else {}
     fresh_ids = fresh_ids or {}
-    remaining = MAX_SOCIAL_REPLY_THREADS
-    for source in ("threads", "ig", "fb"):
-        if remaining <= 0 or past_deadline(deadline):
-            print("social comments budget", flush=True)
+    for source in sources or ("threads", "ig", "fb"):
+        if past_deadline(deadline):
+            print(f"{source} comments budget", flush=True)
             break
         state = crawl.setdefault(source, {})
         state.setdefault("doneIds", [])
         done = set(state.get("doneIds") or [])
         parents = [post for post in posts if (post.get("source") or "") == source]
+        limit = SOCIAL_REPLY_LIMITS.get(source, 1)
         targets = _social_comment_targets(
             parents,
             state,
             now,
-            limit=remaining,
+            limit=limit,
             source=source,
             fresh_ids=fresh_ids.get(source) or set(),
         )
         for parent in targets:
-            if remaining <= 0 or past_deadline(deadline):
-                print("social comments budget", flush=True)
+            if past_deadline(deadline):
+                print(f"{source} comments budget", flush=True)
                 break
-            remaining -= 1
             eid = parent.get("external_id") or ""
             try:
                 markdown = fetch_jina(client, parent.get("url") or "")
@@ -1259,6 +1273,10 @@ def fetch_social_replies(
         state["doneIds"] = sorted(done)
         crawl[source] = state
     return found
+
+
+def _slice_deadline(source: str, overall: float) -> float:
+    return min(time.monotonic() + SOURCE_SECS[source], overall)
 
 
 def fetch_sources(
@@ -1282,10 +1300,10 @@ def fetch_sources(
         "Accept": "text/html,application/xhtml+xml",
         "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
     }
-    timeout = httpx.Timeout(8.0, connect=5.0)
     now = datetime.now(KST).replace(microsecond=0)
     fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": [], "fb": []}
-    stop_at = deadline if deadline is not None else time.monotonic() + COLLECT_SECS
+    started = time.monotonic()
+    overall = deadline if deadline is not None else started + COLLECT_SECS
     crawl = social_crawl if social_crawl is not None else {}
     comments = comment_crawl if comment_crawl is not None else {}
     stored = stored_posts or []
@@ -1293,108 +1311,137 @@ def fetch_sources(
         source: [as_internal(post) for post in stored if post.get("source") == source]
         for source in ("dc", "qoo", "blind", "threads", "ig", "fb")
     }
-    social_pending = threads_backfill or ig_backfill or fb_backfill
-    comment_pending = comments_need_backfill(stored, comments)
-    with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
-        loaders: list[tuple[str, object]] = [
-            ("dc", lambda: fetch_dc(
-                client,
+    social_backfill = {
+        "threads": threads_backfill,
+        "ig": ig_backfill,
+        "fb": fb_backfill,
+    }
+    print(
+        "clock "
+        + " ".join(f"{name}={secs}" for name, secs in SOURCE_SECS.items())
+        + " yt=own",
+        flush=True,
+    )
+
+    def run(name: str, loader, until: float) -> None:
+        if past_deadline(until):
+            print(f"{name} skip budget", flush=True)
+            return
+        began = time.monotonic()
+        try:
+            fetched[name] = loader() + fetched.get(name, [])
+        except Exception as exc:
+            print(f"{name} failed: {exc}", flush=True)
+        print(f"{name} {len(fetched.get(name, []))} {time.monotonic() - began:.1f}s", flush=True)
+
+    with httpx.Client(follow_redirects=True, timeout=FAST_TIMEOUT, headers=headers) as fast:
+        until = _slice_deadline("dc", overall)
+        run(
+            "dc",
+            lambda until=until: fetch_dc(
+                fast,
                 known_dc,
                 backfill=dc_backfill,
-                deadline=stop_at,
-                stored=None,
+                deadline=until,
+                stored=stored_by["dc"],
                 crawl=comments.setdefault("dc", {}),
-            )),
-            ("blind", lambda: fetch_blind(
-                client,
+            ),
+            until,
+        )
+        until = _slice_deadline("blind", overall)
+        run(
+            "blind",
+            lambda until=until: fetch_blind(
+                fast,
                 now,
-                deadline=stop_at,
-                stored=None,
+                deadline=until,
+                stored=stored_by["blind"],
                 crawl=comments.setdefault("blind", {}),
-            )),
-            ("qoo", lambda: fetch_qoo(
-                client,
+            ),
+            until,
+        )
+        until = _slice_deadline("qoo", overall)
+        run(
+            "qoo",
+            lambda until=until: fetch_qoo(
+                fast,
                 known_qoo,
                 backfill=qoo_backfill,
                 now=now,
-                deadline=stop_at,
-                stored=None,
-                crawl=comments.setdefault("qoo", {}),
-            )),
-        ]
-        social_loaders = (
-            ("threads", lambda: fetch_social(client, "threads", now, backfill=threads_backfill, deadline=stop_at, crawl=crawl.setdefault("threads", {}))),
-            ("ig", lambda: fetch_social(client, "ig", now, backfill=ig_backfill, deadline=stop_at, crawl=crawl.setdefault("ig", {}))),
-            ("fb", lambda: fetch_social(client, "fb", now, backfill=fb_backfill, deadline=stop_at, crawl=crawl.setdefault("fb", {}))),
-        )
-        if social_pending or comment_pending:
-            loaders.extend(social_loaders)
-        else:
-            loaders.append(("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now, deadline=stop_at)))
-            loaders.extend(social_loaders)
-        if comment_pending:
-            print("comment-backfill skip-yt", flush=True)
-        started = time.monotonic()
-        parents: list[dict] = []
-        extra_dc: list[dict] = []
-        extra_qoo: list[dict] = []
-        extra_blind: list[dict] = []
-        replies: list[dict] = []
-        for source in ("threads", "ig", "fb"):
-            parents.extend(stored_by.get(source) or [])
-        try:
-            extra_dc = fetch_dc_replies(
-                client,
-                [],
-                now,
-                deadline=stop_at,
-                stored=stored_by["dc"],
-                crawl=comments.setdefault("dc", {}),
-            )
-            fetched["dc"].extend(extra_dc)
-            extra_qoo = fetch_qoo_replies(
-                client,
-                [],
-                now,
-                deadline=stop_at,
+                deadline=until,
                 stored=stored_by["qoo"],
                 crawl=comments.setdefault("qoo", {}),
-            )
-            fetched["qoo"].extend(extra_qoo)
-            extra_blind = fetch_blind_replies(
-                client,
-                [],
-                now,
-                deadline=stop_at,
-                stored=stored_by["blind"],
-                crawl=comments.setdefault("blind", {}),
-            )
-            fetched["blind"].extend(extra_blind)
-            replies = fetch_social_replies(
-                client,
-                parents,
-                now,
-                deadline=stop_at,
-                crawl=comments,
-            )
-        except Exception as exc:
-            print(f"comments-first failed: {exc}", flush=True)
-        for item in replies:
-            fetched.setdefault(item["source"], []).append(item)
-        print(
-            f"comments-first dc={len(extra_dc)} qoo={len(extra_qoo)} blind={len(extra_blind)} social={len(replies)} {time.monotonic() - started:.1f}s",
-            flush=True,
+            ),
+            until,
         )
-        for name, loader in loaders:
-            if past_deadline(stop_at):
-                print(f"{name} skip budget", flush=True)
+
+    with httpx.Client(follow_redirects=True, timeout=SEARCH_TIMEOUT, headers=headers) as slow:
+        for source in ("threads", "ig", "fb"):
+            until = _slice_deadline(source, overall)
+            if past_deadline(until):
+                print(f"{source} skip budget", flush=True)
                 continue
-            started = time.monotonic()
+            began = time.monotonic()
+            parents = list(stored_by.get(source) or [])
+            pending = comments_need_backfill(parents, {source: comments.get(source) or {}})
             try:
-                fetched[name] = loader() + fetched.get(name, [])
+                if pending:
+                    replies = fetch_social_replies(
+                        slow,
+                        parents,
+                        now,
+                        deadline=until,
+                        crawl=comments,
+                        sources=(source,),
+                    )
+                    for item in replies:
+                        fetched.setdefault(item["source"], []).append(item)
+                    if not past_deadline(until):
+                        posts = fetch_social(
+                            slow,
+                            source,
+                            now,
+                            backfill=social_backfill[source],
+                            deadline=until,
+                            crawl=crawl.setdefault(source, {}),
+                        )
+                        fetched[source] = posts + fetched.get(source, [])
+                else:
+                    posts = fetch_social(
+                        slow,
+                        source,
+                        now,
+                        backfill=social_backfill[source],
+                        deadline=until,
+                        crawl=crawl.setdefault(source, {}),
+                    )
+                    fetched[source] = posts + fetched.get(source, [])
+                    fresh = {item.get("external_id") or "" for item in posts}
+                    fresh.discard("")
+                    if not past_deadline(until):
+                        replies = fetch_social_replies(
+                            slow,
+                            parents + posts,
+                            now,
+                            deadline=until,
+                            crawl=comments,
+                            fresh_ids={source: fresh},
+                            sources=(source,),
+                        )
+                        for item in replies:
+                            fetched.setdefault(item["source"], []).append(item)
             except Exception as exc:
-                print(f"{name} failed: {exc}", flush=True)
-            print(f"{name} {len(fetched[name])} {time.monotonic() - started:.1f}s", flush=True)
+                print(f"{source} failed: {exc}", flush=True)
+            print(f"{source} {len(fetched.get(source, []))} {time.monotonic() - began:.1f}s", flush=True)
+        leftover = overall - time.monotonic()
+        comment_pending = comments_need_backfill(stored, comments)
+        if leftover >= 8 and not comment_pending:
+            until = min(time.monotonic() + leftover, overall)
+            run("yt", lambda until=until: fetch_youtube(slow, known_yt, backfill=yt_backfill, now=now, deadline=until), until)
+        else:
+            reason = "comments" if comment_pending else "leftover"
+            print(f"yt skip {reason}", flush=True)
+
     if not any(fetched.values()):
         raise RuntimeError("모든 게시판을 읽지 못했습니다")
     return fetched

@@ -7,9 +7,15 @@ from datetime import datetime, timedelta, timezone
 
 from app.collect import (
     BING_URL,
+    COLLECT_SECS,
     DDG_URL,
+    FAST_TIMEOUT,
+    JINA_TIMEOUT,
     JINA_URL,
     KST,
+    SEARCH_TIMEOUT,
+    SOCIAL_REPLY_LIMITS,
+    SOURCE_SECS,
     _pick_reply_parents,
     _social_comment_targets,
     _spread_targets,
@@ -1103,6 +1109,84 @@ class SocialReplyTest(unittest.TestCase):
         )
         self.assertEqual(posts, [])
         self.assertEqual(client.calls, [])
+
+    def test_source_clocks_cover_every_board(self):
+        self.assertEqual(tuple(SOURCE_SECS), ("dc", "blind", "qoo", "threads", "ig", "fb"))
+        self.assertEqual(COLLECT_SECS, sum(SOURCE_SECS.values()))
+        self.assertLess(SOURCE_SECS["dc"], SOURCE_SECS["ig"])
+        self.assertLess(SOURCE_SECS["blind"], SOURCE_SECS["fb"])
+        self.assertLess(SOURCE_SECS["qoo"], SOURCE_SECS["threads"])
+        self.assertLess(FAST_TIMEOUT.read, SEARCH_TIMEOUT.read)
+        self.assertLess(SEARCH_TIMEOUT.read, JINA_TIMEOUT.read)
+        self.assertEqual(SOCIAL_REPLY_LIMITS, {"threads": 3, "ig": 1, "fb": 1})
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_empty_instagram_does_not_block_facebook(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        ig_parents = [
+            {
+                "source": "ig",
+                "external_id": f"ig{i}",
+                "title": "나는솔로 34기",
+                "url": f"https://www.instagram.com/p/ig{i}/",
+            }
+            for i in range(4)
+        ]
+        fb_parent = {
+            "source": "fb",
+            "external_id": "1188713067151398",
+            "title": "나는솔로 34기 간호사 순자",
+            "url": "https://www.facebook.com/HR5MM/posts/1188713067151398",
+        }
+        pages = {
+            JINA_URL + parent["url"]: (
+                {"code": 200, "data": {"content": "Log in to Instagram\nSee photos"}},
+                200,
+            )
+            for parent in ig_parents
+        }
+        pages[JINA_URL + fb_parent["url"]] = (
+            {"code": 200, "data": {"content": FB_REPLY_MD}},
+            200,
+        )
+        client = _FakeJina(pages)
+        posts = fetch_social_replies(client, ig_parents + [fb_parent], now, crawl={})
+        ig_calls = [url for url in client.calls if "instagram.com" in url]
+        fb_calls = [url for url in client.calls if "facebook.com" in url]
+        self.assertEqual(len(ig_calls), 1)
+        self.assertEqual(len(fb_calls), 1)
+        self.assertEqual([item["source"] for item in posts], ["fb"])
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_social_replies_can_run_one_source_clock(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        ig = {
+            "source": "ig",
+            "external_id": "DeMqPBnDz77",
+            "title": "SBS Plus | #나는솔로 진지한 인터뷰",
+            "url": "https://www.instagram.com/reel/DeMqPBnDz77/",
+        }
+        client = _FakeJina(
+            {
+                JINA_URL + self.parent["url"]: (
+                    {"code": 200, "data": {"content": THREADS_REPLY_MD}},
+                    200,
+                ),
+                JINA_URL + ig["url"]: (
+                    {"code": 200, "data": {"content": IG_REPLY_MD}},
+                    200,
+                ),
+            }
+        )
+        posts = fetch_social_replies(
+            client,
+            [self.parent, ig],
+            now,
+            crawl={},
+            sources=("ig",),
+        )
+        self.assertEqual([item["source"] for item in posts], ["ig"])
+        self.assertEqual(client.calls, [JINA_URL + ig["url"]])
 
     def test_merge_keeps_threads_reply_with_parent_excerpt(self):
         board = empty_board()
