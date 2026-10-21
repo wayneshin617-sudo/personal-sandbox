@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T03:44:18+00:00",
+  "updatedAt": "2026-10-21T03:46:03+00:00",
   "posts": [
     {
       "id": 99,
@@ -201906,6 +201906,26 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-21T03:44:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69862,
+      "source": "blind",
+      "externalId": "cmt-457716293",
+      "title": "막줄 개웃ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "j*****",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B6%A9%EC%B2%AD%EB%8F%84-%ED%98%95%EB%93%A4-%EC%A6%89%EB%8B%B9%ED%9E%88-%ED%95%98%EC%87%BC-iaefhpcx#457716293",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T12:45:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T03:46:03+00:00",
       "isSeed": false,
       "kind": "reply"
     }
