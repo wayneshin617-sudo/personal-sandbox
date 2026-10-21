@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:42:07+00:00",
+  "updatedAt": "2026-10-21T17:43:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -316277,6 +316277,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T17:42:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75756,
+      "source": "blind",
+      "externalId": "cmt-457820398",
+      "title": "코 한거야?",
+      "excerpt": "문신이나마나 영숙님은 비맞으면 귀에 비물 새겠는데",
+      "author": "m******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%82%98%EB%A7%88%EB%82%98-%EC%98%81%EC%88%99%EB%8B%98%EC%9D%80-%EB%B9%84%EB%A7%9E%EC%9C%BC%EB%A9%B4-%EA%B7%80%EC%97%90-%EB%B9%84%EB%AC%BC-%EC%83%88%EA%B2%A0%EB%8A%94%EB%8D%B0-6yd06la8#457820398",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T02:42:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:43:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75757,
+      "source": "dc",
+      "externalId": "6609809",
+      "title": "영호 키 188에 하얗고 김선호 닮앗는데",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609809&page=1",
+      "postedLabel": "02:42",
+      "postedAt": "2026-10-22T02:42:48+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:43:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -316349,7 +316388,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T02:39:49+09:00"
+      "slowAt": "2026-10-22T02:42:48+09:00"
     },
     "ig": {
       "doneIds": [
@@ -317056,7 +317095,8 @@
         "6609756",
         "6609781",
         "6609784",
-        "6609791"
+        "6609791",
+        "6609805"
       ]
     },
     "blind": {
@@ -317454,6 +317494,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EA%B7%B8%EB%83%A5-%EC%9E%91%EB%93%A0-%ED%81%AC%EB%93%A0-%EC%95%84%EC%9B%83%EC%9E%84-oesn2czm",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EB%88%88%EC%8D%B9%EB%AC%B8%EC%8B%A0-%ED%94%BC%EB%B6%80%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AC%B8%EC%8B%A0-vpftlp0a",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%9E%90%EC%9C%A0-13s34j4h",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%82%98%EB%A7%88%EB%82%98-%EC%98%81%EC%88%99%EB%8B%98%EC%9D%80-%EB%B9%84%EB%A7%9E%EC%9C%BC%EB%A9%B4-%EA%B7%80%EC%97%90-%EB%B9%84%EB%AC%BC-%EC%83%88%EA%B2%A0%EB%8A%94%EB%8D%B0-6yd06la8",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%ED%9B%84%EB%A1%9C-i6g4ar0b",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EA%B7%B8%EB%A6%AC-%EC%B6%A9%EA%B2%A9%EC%9D%B4%EC%95%BC-6j5fuhvd",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%96%B4%EB%94%94%EC%97%90-j8gtob7t",
