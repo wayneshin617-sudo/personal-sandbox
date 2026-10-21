@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T01:44:53+00:00",
+  "updatedAt": "2026-10-21T01:46:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -200444,6 +200444,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T01:44:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69788,
+      "source": "blind",
+      "externalId": "cmt-457702819",
+      "title": "순자 이쁨",
+      "excerpt": "",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%97%AC%EC%B6%9C-%ED%8F%89%EA%B0%80-aimr5l38#457702819",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T10:46:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T01:46:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
