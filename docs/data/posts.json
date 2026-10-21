@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T08:58:51+00:00",
+  "updatedAt": "2026-10-21T08:59:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -205488,6 +205488,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T08:58:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70043,
+      "source": "qoo",
+      "externalId": "cmt-4382506257",
+      "title": "아팠어서 그런듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382443423#4382506257",
+      "postedLabel": "",
+      "postedAt": "2026-10-21T16:59:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:59:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70044,
+      "source": "blind",
+      "externalId": "cmt-457754723",
+      "title": "영호 영철 구도가 메인인데 영철 편집되면 안된다",
+      "excerpt": "",
+      "author": "l********* 작성자",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B7%B8%EB%A7%8C%EA%B9%8C%EB%9D%BC-fxczjgne#457754723",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:59:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:59:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
