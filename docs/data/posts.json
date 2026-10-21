@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T15:48:15+00:00",
+  "updatedAt": "2026-10-21T15:49:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -302829,6 +302829,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T15:48:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75076,
+      "source": "dc",
+      "externalId": "cmt-10962797",
+      "title": "여자 간호사들 문신 많던데.. - dc App",
+      "excerpt": "순자 아산병원에서도 문제 생기는거 아니냐",
+      "author": "젊은날의노력",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6608748&page=1#cmt_10962797",
+      "postedLabel": "10.22 00:48:13",
+      "postedAt": "2026-10-22T00:48:13+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:49:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75077,
+      "source": "dc",
+      "externalId": "cmt-10962802",
+      "title": "그런게.어딧냐 오히려 더 좋아함 제작진은 - dc App",
+      "excerpt": "근데 저 문신이야기는 순자가 편집해달라고 하면 해주지않았을까?",
+      "author": "젊은날의노력",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6608751&page=1#cmt_10962802",
+      "postedLabel": "10.22 00:48:43",
+      "postedAt": "2026-10-22T00:48:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:49:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75078,
+      "source": "blind",
+      "externalId": "cmt-457813052",
+      "title": "해석좀",
+      "excerpt": "방송보기전 : 순자 저 외모스펙에 왜 노처녀지?",
+      "author": "j*****",
+      "company": "NEXON",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%A9%EC%86%A1%EB%B3%B4%EA%B8%B0%EC%A0%84-%EC%88%9C%EC%9E%90-%EC%A0%80-%EC%99%B8%EB%AA%A8%EC%8A%A4%ED%8E%99%EC%97%90-%EC%99%9C-%EB%85%B8%EC%B2%98%EB%85%80%EC%A7%80-6nbtb7nn#457813052",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:49:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:49:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -303411,7 +303471,13 @@
         "6608700",
         "6608710",
         "6608713",
-        "6608722"
+        "6608720",
+        "6608722",
+        "6608733",
+        "6608747",
+        "6608748",
+        "6608751",
+        "6608752"
       ]
     },
     "blind": {
@@ -303610,6 +303676,7 @@
         "/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%98%81%EC%9E%90-%EB%AA%BB%EC%83%9D%EA%B8%B0%EA%B8%B4-%ED%96%88%EB%8B%A4-krtnuut1",
         "/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4%ED%98%95-s3h68fl6",
         "/kr/post/%EB%82%98%EC%8F%A0-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%8C%EB%A7%B9%EC%9D%B4-%EC%97%86%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-5csiko5r",
+        "/kr/post/%EB%82%98%EC%9D%98-%EC%9E%AC%EB%AF%B8%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C-%EC%98%81%EC%88%99-%EC%98%81%EC%88%98-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%9C%EB%B2%88%EB%A7%8C-4rvuhy0z",
         "/kr/post/%EB%82%98%EC%9D%98-%ED%94%BD%EC%9D%80-nrjj3agu",
         "/kr/post/%EB%82%98%EC%9D%B4%EB%93%A4%EB%A9%B4-%EA%B2%B0%ED%98%BC-%EC%95%88%ED%95%9C%EA%B1%B0-%EC%A0%90%EC%A0%90-%ED%9B%84%ED%9A%8C%EB%90%A0%EA%B9%8C-lzafj6ue",
         "/kr/post/%EB%82%98%ED%94%BC%EB%94%94%EB%8A%94-%EC%9E%87%EB%AA%B8-%EB%B3%B4%EC%9D%B4%EB%A9%B4-8hrysmsf",
