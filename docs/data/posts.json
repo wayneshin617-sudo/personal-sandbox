@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:35:06+00:00",
+  "updatedAt": "2026-10-21T17:36:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -315685,6 +315685,45 @@
       "firstSeenAt": "2026-10-21T17:35:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75726,
+      "source": "qoo",
+      "externalId": "cmt-4382915500",
+      "title": "난감했다며~여자의 마음은 알수가 없군",
+      "excerpt": "나홀로 온에어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382895112#4382915500",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T01:34:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:36:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75727,
+      "source": "dc",
+      "externalId": "6609760",
+      "title": "옥순이 괜찮다고? 목 주름 심하던데...",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609760&page=1",
+      "postedLabel": "02:34",
+      "postedAt": "2026-10-22T02:34:52+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:36:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -315773,7 +315812,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T02:32:47+09:00"
+      "slowAt": "2026-10-22T02:35:48+09:00"
     },
     "dc": {
       "doneIds": [
