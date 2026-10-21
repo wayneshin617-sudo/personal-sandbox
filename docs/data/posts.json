@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T20:12:45+00:00",
+  "updatedAt": "2026-10-21T20:17:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -319084,6 +319084,44 @@
       "firstSeenAt": "2026-10-21T20:12:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75898,
+      "source": "qoo",
+      "externalId": "4382936925",
+      "title": "편집팀에 사람이 부족한가? 자막이 엄청 줄지 않았어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382936925",
+      "postedLabel": "05:17",
+      "postedAt": "2026-10-22T05:17:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T20:17:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75899,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EA%B0%9C%EB%90%A0%EC%A7%80-%EA%B6%81%EA%B8%88%ED%95%98%EB%84%A4-r5jr7jyz",
+      "title": "현숙 문신은 어떻게 공개될지 궁금하네",
+      "excerpt": "꽤나 잘보이는곳에 있던데 본방에선 몰랐는데 미방분에서 잘보였음..",
+      "author": "l*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EA%B0%9C%EB%90%A0%EC%A7%80-%EA%B6%81%EA%B8%88%ED%95%98%EB%84%A4-r5jr7jyz",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T05:17:34+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T20:17:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -319148,6 +319186,7 @@
         "DFAGE1IPEr3",
         "DH5ufwvSqcD",
         "DHYwBp5J71n",
+        "DQ9BPtAicZR",
         "DRziDQ4EuRG",
         "DSw6xOvEjr8",
         "DULUTUujuFW",
@@ -319156,7 +319195,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T05:11:26+09:00"
+      "slowAt": "2026-10-22T05:17:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -324183,7 +324222,8 @@
         "4382918305",
         "4382922835",
         "4382926530",
-        "4382928118"
+        "4382928118",
+        "4382936925"
       ]
     },
     "keep": "v2",
