@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T22:23:53+00:00",
+  "updatedAt": "2026-10-21T22:24:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -322080,6 +322080,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T22:23:53+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76049,
+      "source": "blind",
+      "externalId": "cmt-457827673",
+      "title": "네?",
+      "excerpt": "투표글 현숙이랑 박수진 닮은거 같아?? 투표",
+      "author": "!*********",
+      "company": "수협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EB%B0%95%EC%88%98%EC%A7%84-%EB%8B%AE%EC%9D%80%EA%B1%B0-%EA%B0%99%EC%95%84-4k51py8e#457827673",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T07:24:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:24:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76050,
+      "source": "blind",
+      "externalId": "cmt-457827688",
+      "title": "눈이 삐었나 그냥 현숙예뻐서 예쁜 사람 붙여놨나봄",
+      "excerpt": "투표글 현숙이랑 박수진 닮은거 같아?? 투표",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EB%B0%95%EC%88%98%EC%A7%84-%EB%8B%AE%EC%9D%80%EA%B1%B0-%EA%B0%99%EC%95%84-4k51py8e#457827688",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T07:24:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:24:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -322175,7 +322215,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T07:21:34+09:00"
+      "slowAt": "2026-10-22T07:24:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -323031,7 +323071,8 @@
         "6610384",
         "6610395",
         "6610404",
-        "6610417"
+        "6610417",
+        "6610436"
       ]
     },
     "blind": {
