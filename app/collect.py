@@ -83,6 +83,7 @@ SOURCE_SECS = {
 }
 COLLECT_SECS = sum(SOURCE_SECS.values())
 COLLECT_GEN = "v3"
+YT_GEN = "v2"
 DDG_URL = "https://html.duckduckgo.com/html/"
 BING_URL = "https://www.bing.com/search"
 MAX_SOCIAL_PAGES = 8
@@ -425,6 +426,13 @@ def collect_budget() -> float:
 def stale_runner() -> bool:
     """예전에 떠 있는 수집 작업은 새 시계를 기다리지 않고 바로 손을 뗀다."""
     if os.environ.get("COLLECT_GEN") == COLLECT_GEN:
+        return False
+    return os.environ.get("GITHUB_ACTIONS") == "true"
+
+
+def stale_yt_runner() -> bool:
+    """예전에 떠 있는 유튜브 작업은 새 시계를 기다리지 않고 바로 손을 뗀다."""
+    if os.environ.get("YT_GEN") == YT_GEN:
         return False
     return os.environ.get("GITHUB_ACTIONS") == "true"
 
@@ -900,6 +908,8 @@ def _youtube_comments(
     if skip_youtube_video(video):
         print(f"yt skip {video['video_id']} sagye {(video.get('title') or '')[:50]}", flush=True)
         return []
+    if past_deadline(deadline):
+        return []
     token = youtube_newest_token(load_youtube_data(html))
     if not token:
         return []
@@ -932,6 +942,9 @@ def fetch_youtube(
     now: datetime,
     deadline: float | None = None,
 ) -> list[dict]:
+    if past_deadline(deadline):
+        print("yt budget", flush=True)
+        return []
     html = _get_text(client, YT_SEARCH_URL, {"Referer": "https://www.youtube.com/"})
     key, version = _yt_client_info(html)
     data = load_youtube_data(html)
@@ -961,9 +974,13 @@ def fetch_youtube(
             if published < CUTOFF - timedelta(hours=18):
                 stop_search = True
                 continue
-            batch = _youtube_comments(
-                client, key, version, video, known_ids, now, backfill=backfill, deadline=deadline
-            )
+            try:
+                batch = _youtube_comments(
+                    client, key, version, video, known_ids, now, backfill=backfill, deadline=deadline
+                )
+            except Exception as exc:
+                print(f"yt {video['video_id']} failed: {exc}", flush=True)
+                batch = []
             found.extend(batch)
             print(f"yt {video['video_id']} {video.get('published_label')} comments {len(batch)}", flush=True)
             time.sleep(0.08)
@@ -1582,6 +1599,9 @@ def main() -> None:
 
 def export_youtube() -> None:
     """유튜브 댓글만 따로 저장한다. 다른 수집이 글을 쓰는 중에도 겹치지 않게."""
+    if stale_yt_runner():
+        print(f"skip stale yt runner want={YT_GEN}", flush=True)
+        return
     board = load_board(YT_PATH) if YT_PATH.exists() else empty_board()
     board["posts"] = [post for post in board["posts"] if post.get("source") == "yt"]
     backfill = source_needs_backfill(board, "yt")
@@ -1592,9 +1612,13 @@ def export_youtube() -> None:
         "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
     }
     now = datetime.now(KST).replace(microsecond=0)
-    timeout = httpx.Timeout(25.0, connect=8.0)
-    with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
-        fetched = fetch_youtube(client, known, backfill=backfill, now=now)
+    deadline = time.monotonic() + collect_budget()
+    fetched: list[dict] = []
+    try:
+        with httpx.Client(follow_redirects=True, timeout=SEARCH_TIMEOUT, headers=headers) as client:
+            fetched = fetch_youtube(client, known, backfill=backfill, now=now, deadline=deadline)
+    except Exception as exc:
+        print(f"youtube failed: {exc}", flush=True)
     added = merge(board, {"yt": fetched})
     board["updatedAt"] = utc_now()
     YT_PATH.parent.mkdir(parents=True, exist_ok=True)

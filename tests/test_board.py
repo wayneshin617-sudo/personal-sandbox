@@ -18,11 +18,14 @@ from app.collect import (
     SOCIAL_REPLY_LIMITS,
     SOURCE_SECS,
     SLOW_GAP,
+    YT_GEN,
     collect_budget,
+    fetch_youtube,
     mark_slow_attempt,
     pick_slow_source,
     slow_ready,
     stale_runner,
+    stale_yt_runner,
     _pick_reply_parents,
     _social_comment_targets,
     _spread_targets,
@@ -1169,6 +1172,21 @@ class SocialReplyTest(unittest.TestCase):
         with patch.dict("os.environ", {"COLLECT_GEN": COLLECT_GEN, "COLLECT_DEADLINE": "70"}, clear=True):
             self.assertFalse(stale_runner())
             self.assertEqual(collect_budget(), 70)
+
+    def test_stale_yt_runner_hands_off(self):
+        with patch.dict("os.environ", {"GITHUB_ACTIONS": "true"}, clear=True):
+            self.assertTrue(stale_yt_runner())
+        with patch.dict("os.environ", {"GITHUB_ACTIONS": "true", "YT_GEN": YT_GEN}, clear=True):
+            self.assertFalse(stale_yt_runner())
+        with patch.dict("os.environ", {"YT_GEN": YT_GEN, "COLLECT_DEADLINE": "70"}, clear=True):
+            self.assertFalse(stale_yt_runner())
+
+    @patch("app.collect._get_text")
+    def test_fetch_youtube_stops_before_request_when_deadline_passed(self, get_text):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        found = fetch_youtube(object(), set(), backfill=False, now=now, deadline=time.monotonic() - 1)
+        self.assertEqual(found, [])
+        get_text.assert_not_called()
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
     def test_empty_instagram_stops_at_source_limit(self):

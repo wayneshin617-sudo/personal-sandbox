@@ -15,7 +15,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: solo-youtube-live
+  group: solo-youtube-v2
   cancel-in-progress: false
 
 jobs:
@@ -43,14 +43,14 @@ jobs:
           deadline=$((SECONDS + 170 * 60))
           while [ "$SECONDS" -lt "$deadline" ]; do
             start=$SECONDS
-            timeout 100 python -m app.collect --youtube-only || echo "유튜브 수집 실패, 다음 분에 다시 시도"
+            timeout -k 20 80 python -m app.collect --youtube-only || echo "유튜브 수집 실패, 다음 분에 다시 시도"
             git add docs/data/youtube.json
             if ! git diff --cached --quiet; then
               git commit -m "유튜브 댓글 반영"
               pushed=0
               for attempt in 1 2 3 4 5; do
                 git rebase --abort >/dev/null 2>&1 || true
-                if timeout 50 git pull --rebase --autostash origin main && timeout 40 git push origin HEAD:main; then
+                if timeout -k 10 40 git pull --rebase --autostash origin main && timeout -k 10 30 git push origin HEAD:main; then
                   pushed=1
                   break
                 fi
@@ -71,6 +71,8 @@ jobs:
           done
         env:
           GH_TOKEN: ${{ github.token }}
+          YT_GEN: v2
+          COLLECT_DEADLINE: "70"
       - name: Queue the next YouTube collect
         if: always()
         env:
