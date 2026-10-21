@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T08:07:51+00:00",
+  "updatedAt": "2026-10-21T08:08:51+00:00",
   "posts": [
     {
       "id": 99,
@@ -204952,6 +204952,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T08:07:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70016,
+      "source": "blind",
+      "externalId": "cmt-457748500",
+      "title": "게시판이나 똑바로 찾아라 대머리야",
+      "excerpt": "",
+      "author": "~******",
+      "company": "한미약품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%88%EB%AA%A8-%EC%95%84%EC%A1%B0%EC%94%A8-%EC%97%B0%EC%95%A0-o13dyjtn#457748500",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:08:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:08:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70017,
+      "source": "blind",
+      "externalId": "cmt-457748541",
+      "title": "남자는 뚜껑싸움이야",
+      "excerpt": "",
+      "author": "i*******",
+      "company": "POSCO",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%88%EB%AA%A8-%EC%95%84%EC%A1%B0%EC%94%A8-%EC%97%B0%EC%95%A0-o13dyjtn#457748541",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:08:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:08:51+00:00",
       "isSeed": false,
       "kind": "reply"
     }
