@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:53:07+00:00",
+  "updatedAt": "2026-10-21T17:54:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -316709,6 +316709,65 @@
       "firstSeenAt": "2026-10-21T17:53:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75778,
+      "source": "qoo",
+      "externalId": "cmt-4382918948",
+      "title": "남의 타투땜에 우울하다니 좀 신기하긴 하다",
+      "excerpt": "근데 진짜 문신은 좀...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382917956#4382918948",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T01:53:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:54:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75779,
+      "source": "dc",
+      "externalId": "cmt-10963217",
+      "title": "패션 집순이 ㅎ - dc App",
+      "excerpt": "집순이 무해한 이미지를 도둑질하려고 하네",
+      "author": "젊은날의노력",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609470&page=7#cmt_10963217",
+      "postedLabel": "10.22 02:01:49",
+      "postedAt": "2026-10-22T02:01:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:54:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75780,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99-%EC%98%81%ED%98%B8-%EC%9E%98-%EB%90%90%EC%9D%8C-%EC%A2%8B%EA%B2%A0%EB%8A%94%EB%8D%B0-d04hx0dp",
+      "title": "현숙 영호 잘 됐음 좋겠는데",
+      "excerpt": "왠지 안 될 것 같아서 아쉽다ㅠㅠㅠ",
+      "author": "l*******",
+      "company": "ex-서대문구청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%98%81%ED%98%B8-%EC%9E%98-%EB%90%90%EC%9D%8C-%EC%A2%8B%EA%B2%A0%EB%8A%94%EB%8D%B0-d04hx0dp",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T02:53:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T17:54:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -316797,7 +316856,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T02:50:49+09:00"
+      "slowAt": "2026-10-22T02:53:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -317500,6 +317559,7 @@
         "6609837",
         "6609842",
         "6609848",
+        "6609858",
         "6609860",
         "6609861"
       ]
