@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T15:53:18+00:00",
+  "updatedAt": "2026-10-21T15:54:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -303340,6 +303340,103 @@
       "firstSeenAt": "2026-10-21T15:53:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75102,
+      "source": "blind",
+      "externalId": "cmt-457813582",
+      "title": "서류에 문신여뷰도 체크하나",
+      "excerpt": "다둥이특집을 가장한 문신특집;;",
+      "author": "l*********",
+      "company": "메가스터디교육",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EB%91%A5%EC%9D%B4%ED%8A%B9%EC%A7%91%EC%9D%84-%EA%B0%80%EC%9E%A5%ED%95%9C-%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91-yua0mjwh#457813582",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-22T00:52:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:54:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75103,
+      "source": "qoo",
+      "externalId": "4382902975",
+      "title": "33기 34기 온도차 무엇 ㅋㅋㅋ 슴슴한 사골국 먹다가 마라탕 먹는 기분",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382902975",
+      "postedLabel": "00:53",
+      "postedAt": "2026-10-22T00:53:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:54:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75104,
+      "source": "dc",
+      "externalId": "6608844",
+      "title": "조",
+      "excerpt": "",
+      "author": "애청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6608844&page=1",
+      "postedLabel": "00:53",
+      "postedAt": "2026-10-22T00:53:49+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:54:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75105,
+      "source": "blind",
+      "externalId": "cmt-457813636",
+      "title": "그래서 6개 or 더 많을 수도 있겠다 생각함",
+      "excerpt": "자기소개때 보이는 부분엔 문신 없는데",
+      "author": "i********* 작성자",
+      "company": "SK텔레콤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%B6%80%EB%B6%84%EC%97%94-%EB%AC%B8%EC%8B%A0-%EC%97%86%EB%8A%94%EB%8D%B0-dr30vnn4#457813636",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:54:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:54:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75106,
+      "source": "qoo",
+      "externalId": "4382903103",
+      "title": "영철 후반부에 갑분 반말 나온거도 공수치 ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382903103",
+      "postedLabel": "00:54",
+      "postedAt": "2026-10-22T00:54:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:54:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -303412,7 +303509,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T00:51:00+09:00"
+      "slowAt": "2026-10-22T00:54:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -303941,7 +304038,9 @@
         "6608792",
         "6608803",
         "6608806",
-        "6608815"
+        "6608808",
+        "6608815",
+        "6608828"
       ]
     },
     "blind": {
@@ -308039,7 +308138,9 @@
         "4382899139",
         "4382900717",
         "4382901325",
-        "4382901853"
+        "4382901853",
+        "4382902975",
+        "4382903103"
       ]
     },
     "keep": "v2",
