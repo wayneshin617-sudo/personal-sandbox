@@ -135,7 +135,10 @@ html.mobile .talk-head {
   padding: 8px;
 }
 
-html.mobile .talk-head h2 { font-size: 13px; }
+html.mobile .talk-switch button {
+  padding: 7px 10px;
+  font-size: 13px;
+}
 
 html.mobile #scroller {
   overscroll-behavior-y: none;

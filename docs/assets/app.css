@@ -888,13 +888,12 @@ mark {
   flex: 1;
   min-height: 0;
   display: flex;
-  gap: 10px;
-  width: min(1180px, calc(100% - 20px));
+  width: min(860px, calc(100% - 32px));
   margin: 8px auto 0;
 }
 
 .talk-col {
-  flex: 1.35;
+  flex: 1;
   min-width: 0;
   min-height: 0;
   display: flex;
@@ -905,51 +904,50 @@ mark {
   overflow: hidden;
 }
 
-.talk-fav { flex: 0.85; }
-
 .talk-head {
   flex: none;
+  padding: 8px;
+  border-bottom: 1px solid var(--line);
+}
+
+.talk-switch {
+  display: flex;
+  gap: 6px;
+}
+
+.talk-switch button {
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 8px;
-  padding: 10px 14px;
-  border-bottom: 1px solid var(--line);
-}
-
-.talk-head h2 {
-  margin: 0;
-  font-size: 15px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text);
+  padding: 8px 14px;
+  font-size: 14px;
   font-weight: 800;
   letter-spacing: -0.03em;
 }
 
-.talk-head b {
+.talk-switch button b {
   color: var(--gold);
   font-size: 13px;
   font-variant-numeric: tabular-nums;
 }
 
+.talk-switch button[aria-selected="true"] {
+  background: linear-gradient(180deg, var(--cream), var(--gold));
+  border-color: var(--gold);
+  color: var(--ink);
+}
+
+.talk-switch button[aria-selected="true"] b { color: var(--ink); }
+
 .talk-col #feed {
   width: 100%;
   align-self: stretch;
-}
-
-#fav-scroller {
-  flex: 1;
-  min-height: 0;
-  overflow-y: auto;
-  scrollbar-color: color-mix(in srgb, var(--heart) 45%, #3f1e2a) transparent;
-  scrollbar-width: thin;
-}
-
-#fav-list { padding: 8px 10px 16px; }
-
-.fav-empty {
-  margin: 18px 8px;
-  color: var(--muted);
-  font-size: 13px;
-  line-height: 1.5;
 }
 
 .fav-btn {

@@ -14,6 +14,7 @@ const state = {
   maxId: 0,
   ready: false,
   limit: PAGE,
+  favOnly: false,
 };
 
 const allPosts = [];
@@ -120,7 +121,9 @@ function nickColor(seed) {
 
 function matches(post) {
   if (!isVisiblePost(post)) return false;
+  if (state.favOnly && !favIds.includes(post.id)) return false;
   if (state.source !== "all" && post.source !== state.source) return false;
+  if (!state.q && post.kind === "reply" && !state.favOnly) return false;
   if (!state.q) return true;
   const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();
   return hay.includes(state.q.toLowerCase());
@@ -175,6 +178,23 @@ function matchingAsc() {
     list.push(post);
   }
   matchCache = { key, list };
+  return list;
+}
+
+function feedAsc() {
+  if (!state.favOnly) return matchingAsc();
+  const picked = new Set(favIds);
+  const needle = state.q.trim().toLowerCase();
+  const list = [];
+  for (const post of visiblePosts()) {
+    if (!picked.has(post.id)) continue;
+    if (state.source !== "all" && post.source !== state.source) continue;
+    if (needle) {
+      const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();
+      if (!hay.includes(needle)) continue;
+    }
+    list.push(post);
+  }
   return list;
 }
 
@@ -331,6 +351,9 @@ function showEmpty() {
   if (state.q) {
     strong.textContent = `‘${state.q}’에 맞는 글이 없습니다`;
     copy.textContent = "새로 쌓이는 글 중에 걸리면 여기에 올립니다.";
+  } else if (state.favOnly) {
+    strong.textContent = "즐겨찾기한 댓글이 없습니다";
+    copy.textContent = "별표를 누르면 이 목록에만 모입니다.";
   } else {
     strong.textContent = "아직 모인 글이 없습니다";
     copy.textContent = "이 페이지를 연 사람 모두 같은 목록을 봅니다.";
@@ -406,7 +429,7 @@ function renderAll(posts) {
 }
 
 function newestSlice() {
-  const asc = matchingAsc();
+  const asc = feedAsc();
   state.matched = asc.length;
   const start = Math.max(0, asc.length - state.limit);
   state.done = start === 0;
@@ -442,37 +465,46 @@ function syncFavButtons() {
 }
 
 function renderFavs() {
-  const box = document.querySelector("#fav-list");
-  const count = document.querySelector("#talk-fav-count");
-  const allCount = document.querySelector("#talk-all-count");
-  if (allCount) allCount.textContent = numberFormat.format(state.matched);
-  if (!box) return;
   const byId = new Map(allPosts.map((post) => [post.id, post]));
-  const posts = [];
   const kept = [];
   for (const id of favIds) {
     const post = byId.get(id);
     if (!post || !isVisiblePost(post)) continue;
     kept.push(id);
-    posts.push(post);
   }
   if (allPosts.length && kept.length !== favIds.length) {
     favIds = kept;
     saveFavs();
   }
-  if (count) count.textContent = numberFormat.format(posts.length);
-  if (!posts.length) {
-    const empty = document.createElement("p");
-    empty.className = "fav-empty";
-    empty.textContent = "별표를 누르면 이 칸에 모입니다.";
-    box.replaceChildren(empty);
-    syncFavButtons();
-    return;
+  const allCount = document.querySelector("#talk-all-count");
+  const favCount = document.querySelector("#talk-fav-count");
+  if (allCount) allCount.textContent = numberFormat.format(matchingAsc().length);
+  let favTalk = 0;
+  for (const id of favIds) {
+    if (talkFavVisible(byId.get(id))) favTalk += 1;
   }
-  const fragment = document.createDocumentFragment();
-  for (const post of posts) fragment.append(renderMsg(post, false));
-  box.replaceChildren(fragment);
+  if (favCount) favCount.textContent = numberFormat.format(favTalk);
+  document.querySelector("#talk-all")?.setAttribute("aria-selected", state.favOnly ? "false" : "true");
+  document.querySelector("#talk-fav")?.setAttribute("aria-selected", state.favOnly ? "true" : "false");
   syncFavButtons();
+}
+
+function talkFavVisible(post) {
+  if (!post || !isVisiblePost(post)) return false;
+  if (state.source !== "all" && post.source !== state.source) return false;
+  const needle = state.q.trim().toLowerCase();
+  if (!needle) return true;
+  const hay = [post.title, post.excerpt, post.author, post.company].join("\n").toLowerCase();
+  return hay.includes(needle);
+}
+
+function setTalkMode(favOnly) {
+  if (state.favOnly === favOnly) return;
+  state.favOnly = favOnly;
+  state.limit = PAGE;
+  state.pinned = true;
+  state.pending = 0;
+  reload();
 }
 
 function toggleFav(id) {
@@ -480,8 +512,12 @@ function toggleFav(id) {
   if (index >= 0) favIds.splice(index, 1);
   else favIds.unshift(id);
   saveFavs();
-  renderFavs();
+  if (state.favOnly) reload();
+  else renderFavs();
 }
+
+document.querySelector("#talk-all")?.addEventListener("click", () => setTalkMode(false));
+document.querySelector("#talk-fav")?.addEventListener("click", () => setTalkMode(true));
 
 function reload() {
   state.maxId = allPosts.reduce((max, post) => Math.max(max, post.id), 0);
@@ -533,7 +569,7 @@ function loadOlder() {
   if (state.loadingOlder || state.done) return;
   const oldest = feedList.querySelector(".msg");
   if (!oldest) return;
-  const asc = matchingAsc();
+  const asc = feedAsc();
   const index = asc.findIndex((post) => String(post.id) === oldest.dataset.id);
   if (index <= 0) {
     state.done = true;
@@ -1408,7 +1444,8 @@ async function pull() {
   const added = posts.filter((post) => !known.has(post.id)).sort((a, b) => timeValue(a) - timeValue(b) || a.id - b.id);
   replacePosts(posts);
   stamp = board.updatedAt || "";
-  state.matched = matchingAsc().length;
+  state.matched = feedAsc().length;
+  renderFavs();
   if (!added.length) {
     updateNote();
     return;
