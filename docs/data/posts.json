@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T21:18:53+00:00",
+  "updatedAt": "2026-10-21T21:19:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -321155,6 +321155,46 @@
       "firstSeenAt": "2026-10-21T21:18:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76002,
+      "source": "blind",
+      "externalId": "cmt-457824683",
+      "title": "ESFJ",
+      "excerpt": "34기 영호 mbti",
+      "author": "c*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-mbti-egoc4o1t#457824683",
+      "postedLabel": "16분",
+      "postedAt": "2026-10-22T06:03:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T21:19:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76003,
+      "source": "blind",
+      "externalId": "cmt-457825050",
+      "title": "istj",
+      "excerpt": "34기 영호 mbti",
+      "author": "g*****",
+      "company": "현진스포텍",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-mbti-egoc4o1t#457825050",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-22T06:14:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T21:19:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -322087,7 +322127,8 @@
         "6610300",
         "6610302",
         "6610307",
-        "6610309"
+        "6610309",
+        "6610316"
       ]
     },
     "blind": {
