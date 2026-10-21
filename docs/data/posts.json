@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:39:06+00:00",
+  "updatedAt": "2026-10-21T17:40:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -316140,6 +316140,45 @@
       "firstSeenAt": "2026-10-21T17:39:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75749,
+      "source": "dc",
+      "externalId": "6609785",
+      "title": "아 현숙님 근데 너무 좋다...",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609785&page=1",
+      "postedLabel": "02:38",
+      "postedAt": "2026-10-22T02:38:50+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:40:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75750,
+      "source": "blind",
+      "externalId": "cmt-457820292",
+      "title": "완벽한 과학임.",
+      "excerpt": "전여자친구 타투 여러개였는데",
+      "author": "한******** 작성자",
+      "company": "한국과학기술연구원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%84%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC-%ED%83%80%ED%88%AC-%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%98%80%EB%8A%94%EB%8D%B0-ojse5s2y#457820292",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T02:39:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:40:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -316212,7 +316251,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T02:36:48+09:00"
+      "slowAt": "2026-10-22T02:39:49+09:00"
     },
     "ig": {
       "doneIds": [
@@ -316915,7 +316954,8 @@
         "6609729",
         "6609744",
         "6609748",
-        "6609756"
+        "6609756",
+        "6609784"
       ]
     },
     "blind": {
