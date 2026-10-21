@@ -579,6 +579,7 @@ const STOP_WORDS = new Set(
 갑자기 드디어 과연 아마 혹시 만약 비록 설마 도대체 대체 물론 당연히 확실히 분명히 약간 조금 많이 잘 다시
 자주 가끔 별로 전혀 절대 결코 막 살짝 정도 만큼 바로 제일 이제 가장 먼저 나중 굳이 오히려 차라리 결국
 아무튼 어쨌든 하여튼 좀더 뭔가 거 것 곳 수 때 중 등 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽
+블라 비추 자꾸 그럼 저건 이건 그건 지가 들이 어쩌구 저쩌구 가능 목적
 이유 근황 미국 한국 일본 중국 해외 느낌 생각 마음 이야기 얘기 본인 애들 미래 상황 문제
 댓글 영상 사진 유튜브 유튭 링크 좌표 링크좌표 친구 회사 학교 시간 다들 저렇게 내가 보고 멋진 나가서 삭제직전
 없음 같음 있음 얼마나 둘이 좋다 좋아 좋아요 좋은 좋을 좋음 좋지 좋네 좋냐 좋아서 좋아해 좋아하 좋아함
@@ -650,14 +651,20 @@ const CLOSED_WORDS = new Set(
 );
 const SLURS = new Set("한남 한남충 한녀 맘충 틀딱 김치녀 보슬아치 꼴페미".split(/\s+/));
 const KEEP_NOUNS = new Set("포함 광고 사고 예고 최고 보고 재고 필요 주요 수요 자유 바다 장면 반면 국면 전면 표면 용기 향기 공기 무기 일기 아내 동네 안내".split(/\s+/));
-const RANK_JOSA = ["에서는", "으로는", "에서도", "으로도", "에서부터", "에서", "으로", "로써", "로서", "부터", "까지", "처럼", "보다", "에게", "한테", "이랑", "이라도", "이나", "라도", "라고", "이며", "이고", "은", "는", "을", "를", "과", "와", "도", "만", "에", "로", "나"];
+const RANK_JOSA = ["에서는", "으로는", "에서도", "으로도", "에서부터", "에서", "으로", "로써", "로서", "부터", "까지", "처럼", "보다", "에게", "한테", "이랑", "이라도", "이나", "라도", "라고", "이며", "이고", "들이", "은", "는", "을", "를", "과", "와", "도", "만", "에", "로", "들", "랑", "나"];
+const VERB_STEMS = new Set("나오 나와 들어가 몰라 알아 해봐 봐바 그래 이래 저래 가자 오자 하자 보자 되자".split(/\s+/));
 const RANK_MIN = 3;
 const NAME_WEIGHT = 10;
 const REALTIME_HOURS = 8;
 
 function rankScore(word, count) {
-  /* 이번 기수 이름은 순위 계산에서만 10배. 저장된 횟수와 툴팁의 횟수는 그대로 둔다. */
+  /* 이번 기수 이름은 순위와 글자 크기에서만 10배. 툴팁에 보이는 횟수는 그대로 둔다. */
   return CAST_NAMES.includes(word) ? count * NAME_WEIGHT : count;
+}
+
+function fontForScore(score, maxScore) {
+  const t = maxScore > 0 ? score / maxScore : 0;
+  return Math.max(11, Math.min(30, 12 + t * 18));
 }
 
 function stripRankJosa(word) {
@@ -673,6 +680,11 @@ function stripRankJosa(word) {
 
 function isPredicate(word) {
   if (!word || KEEP_NOUNS.has(word)) return false;
+  if (VERB_STEMS.has(word)) return true;
+  if (word.endsWith("님") && word.length >= 4 && isPredicate(word.slice(0, -1))) return true;
+  if (/(?:려나|려무나|ㄹ까|ㄹ래|ㄹ걸|ㄹ게|ㄴ지|ㄹ지)$/.test(word)) return true;
+  if (/(?:봤|했|됐|같|없|있|않)음$/.test(word)) return true;
+  if (/(?:생각|좋아|싫어|말|원하|알아|몰라)해$/.test(word)) return true;
   if (/(?:함|됨|하기|되기|싶어|싶지|싶은|같아서|같으면|같았|있었|없었|하였|했어|됐어|했음|았음|었음|였음|같음|없음|있음|같아|같지|같은|같애)$/.test(word)) return true;
   if (/(?:습니다|입니다|어요|아요|여요|해요|돼요|네요|군요|잖아요|거든요|는데요|더라고|더라|던데|려고|도록|면서|지만|는데|은데|한데|해서|돼서|아서|어서|하고|되고|하는|되는|하면|되면|하지|되지|할까|될까|한다|된다|같다|싶다|없다|있다|하다|되다|아니다|않다|했다|됐다|였다|겠다|았어|었어|였어|겠어|인데|이네|하네|되네|같네)$/.test(word)) return true;
   if (word.endsWith("네") && word.length >= 5) return true;
@@ -895,10 +907,13 @@ function renderCloud(posts) {
   const key = `${posts.length}:${last?.id || 0}:${floodStamp}:${sinceKey}`;
   if (key !== cloudKey) {
     cloudKey = key;
-    const ranked = searchCounts(posts, since, 1);
-    cloudWords = ranked.slice(0, 72).map(([word, count], index) => ({
+    const ranked = searchCounts(posts, since);
+    const maxScore = ranked.reduce((max, [word, count]) => Math.max(max, rankScore(word, count)), 1);
+    cloudWords = ranked.slice(0, 48).map(([word, count], index) => ({
       word,
       count,
+      score: rankScore(word, count),
+      font: fontForScore(rankScore(word, count), maxScore),
       color: PASTELS[index % PASTELS.length],
     }));
     cloudLayoutKey = "";
@@ -1025,34 +1040,42 @@ function estimateWidth(word, font) {
 function assignHeart(words, bands) {
   const pool = words.slice();
   const rows = [];
-  const fits = (word, font, width) => estimateWidth(word, font) <= width + 1;
-  /* 가운데 넓은 줄이 단어를 다 먹기 전에, 위 골과 아래 꼭지부터 한 글자씩 놓는다. */
+  const slots = [];
   for (const band of bands) {
-    const gap = Math.max(2, band.font * 0.1);
     for (const run of band.runs) {
-      if (!pool.length || run.w < 14) continue;
-      let pick = -1;
-      for (let index = 0; index < pool.length; index += 1) {
-        if (fits(pool[index].word, band.font, run.w)) {
-          pick = index;
-          break;
-        }
-      }
-      if (pick < 0 && run.w >= 24) pick = 0;
-      if (pick < 0) continue;
-      rows.push({ band, run, gap, font: band.font, items: [pool.splice(pick, 1)[0]] });
+      if (run.w >= 14) slots.push({ band, run });
     }
+  }
+  /* 넓은 가운데에 점수 높은 말(이번 기수 이름은 10배)을 두고, 좁은 가장자리는 작은 명사로 채운다. */
+  slots.sort((a, b) => b.run.w - a.run.w || a.band.y - b.band.y);
+  for (const slot of slots) {
+    if (!pool.length) break;
+    let pick = -1;
+    for (let index = 0; index < pool.length; index += 1) {
+      if (estimateWidth(pool[index].word, pool[index].font) <= slot.run.w + 1) {
+        pick = index;
+        break;
+      }
+    }
+    if (pick < 0) continue;
+    const item = pool.splice(pick, 1)[0];
+    rows.push({
+      band: slot.band,
+      run: slot.run,
+      gap: Math.max(2, item.font * 0.12),
+      font: item.font,
+      items: [item],
+    });
   }
   const roomy = rows.slice().sort((a, b) => b.run.w - a.run.w);
   for (const row of roomy) {
     let used = row.items.reduce((sum, item, index) => (
-      sum + estimateWidth(item.word, row.font) + (index ? row.gap : 0)
+      sum + estimateWidth(item.word, item.font) + (index ? row.gap : 0)
     ), 0);
     while (pool.length) {
       let pick = -1;
-      const limit = Math.min(pool.length, 8);
-      for (let index = 0; index < limit; index += 1) {
-        const width = estimateWidth(pool[index].word, row.font);
+      for (let index = 0; index < Math.min(pool.length, 6); index += 1) {
+        const width = estimateWidth(pool[index].word, pool[index].font);
         if (used + row.gap + width <= row.run.w + 1) {
           pick = index;
           break;
@@ -1061,7 +1084,8 @@ function assignHeart(words, bands) {
       if (pick < 0) break;
       const item = pool.splice(pick, 1)[0];
       row.items.push(item);
-      used += row.gap + estimateWidth(item.word, row.font);
+      used += row.gap + estimateWidth(item.word, item.font);
+      row.font = Math.max(row.font, item.font);
     }
   }
   return rows;
@@ -1090,7 +1114,7 @@ function layoutCloud() {
       button.textContent = item.word;
       button.title = `${numberFormat.format(item.count)}번`;
       button.style.color = item.color;
-      button.style.fontSize = `${row.font.toFixed(1)}px`;
+      button.style.fontSize = `${item.font.toFixed(1)}px`;
       button.addEventListener("click", () => applyQuery(item.word));
       buttons.push(button);
       return button;
