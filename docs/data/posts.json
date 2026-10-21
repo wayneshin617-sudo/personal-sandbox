@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T08:44:52+00:00",
+  "updatedAt": "2026-10-21T08:50:51+00:00",
   "posts": [
     {
       "id": 99,
@@ -205391,6 +205391,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T08:44:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 70038,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B6%80%EC%97%AC-%EC%8B%9C%EA%B3%A8-%EA%B3%B5%EB%AC%B4%EC%9B%90%EB%93%A4-07hxp3x0",
+      "title": "부여 시골 공무원들",
+      "excerpt": "얼마나 일이 없으면 개짓거리 하고잇냐 역시 지방직 과학인가",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%80%EC%97%AC-%EC%8B%9C%EA%B3%A8-%EA%B3%B5%EB%AC%B4%EC%9B%90%EB%93%A4-07hxp3x0",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:50:27+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T08:50:51+00:00",
       "isSeed": false
     }
   ]
