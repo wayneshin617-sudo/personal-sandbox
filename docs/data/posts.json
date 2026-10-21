@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T06:47:51+00:00",
+  "updatedAt": "2026-10-21T06:50:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -204196,6 +204196,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T06:47:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69978,
+      "source": "blind",
+      "externalId": "cmt-457738577",
+      "title": "내가 사당토레스인데 같이 차게 한번 불러줘.",
+      "excerpt": "",
+      "author": "d*******",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EC%B6%95%EA%B5%AC%EC%96%98%EA%B8%B0%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B0%EB%B3%B4%EB%8B%88-iwa5acq4#457738577",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-21T15:49:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T06:50:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
