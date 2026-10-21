@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:17:17+00:00",
+  "updatedAt": "2026-10-21T16:18:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -305227,6 +305227,45 @@
       "firstSeenAt": "2026-10-21T16:17:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75199,
+      "source": "blind",
+      "externalId": "cmt-457815923",
+      "title": "보통 하는 나이엔 그렇게 먼 미래 생각안함 + 주변이 지유로운 분위기면 하는 듯",
+      "excerpt": "문신",
+      "author": "하*****",
+      "company": "ex-소노인터내셔널",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-wue5sovq#457815923",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:18:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:18:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75200,
+      "source": "dc",
+      "externalId": "6609135",
+      "title": "인터뷰나 사람들하고 대화할 때 반존대하는 출연자들은",
+      "excerpt": "",
+      "author": "애청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609135&page=1",
+      "postedLabel": "01:18",
+      "postedAt": "2026-10-22T01:18:00+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:18:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -305299,7 +305338,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T01:14:59+09:00"
+      "slowAt": "2026-10-22T01:18:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -305884,7 +305923,10 @@
         "6609079",
         "6609081",
         "6609087",
-        "6609111"
+        "6609111",
+        "6609117",
+        "6609119",
+        "6609123"
       ]
     },
     "blind": {
