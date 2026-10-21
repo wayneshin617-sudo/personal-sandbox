@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T07:29:51+00:00",
+  "updatedAt": "2026-10-21T07:34:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -204555,6 +204555,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T07:29:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69996,
+      "source": "blind",
+      "externalId": "cmt-457743167",
+      "title": "ㅇㅇ인스타보면 돌은자임",
+      "excerpt": "",
+      "author": "M*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%EC%9E%A5-%EA%B8%B0-%EC%8E%88-%EC%B6%9C%EC%97%B0%EC%9E%90-csgvc6th#457743167",
+      "postedLabel": "10분",
+      "postedAt": "2026-10-21T16:24:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T07:34:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
