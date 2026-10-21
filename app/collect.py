@@ -69,15 +69,17 @@ MAX_YT_SEARCH_PAGES = 4
 MAX_YT_COMMENT_PAGES = 20
 FAST_TIMEOUT = httpx.Timeout(5.0, connect=3.0)
 SEARCH_TIMEOUT = httpx.Timeout(8.0, connect=4.0)
-JINA_TIMEOUT = httpx.Timeout(18.0, connect=6.0)
-# 소스마다 시계를 따로 둔다. 디시가 인스타를 끊지 않고, 인스타가 페북을 먹지 않는다.
+JINA_QUICK_TIMEOUT = httpx.Timeout(20.0, connect=8.0)
+JINA_TIMEOUT = httpx.Timeout(150.0, connect=20.0)
+JINA_WAIT_SECS = 140
+# 소스마다 시계를 따로 둔다. 못 끌어오는 쓰레드·인스타·페북은 2~3분을 준다.
 SOURCE_SECS = {
     "dc": 7,
     "blind": 5,
     "qoo": 6,
-    "threads": 12,
-    "ig": 18,
-    "fb": 18,
+    "threads": 160,
+    "ig": 160,
+    "fb": 160,
 }
 COLLECT_SECS = sum(SOURCE_SECS.values())
 COLLECT_GEN = "v3"
@@ -1098,19 +1100,21 @@ def _social_comments_finished(source: str, markdown: str, batch: list[dict]) -> 
     return False
 
 
-def fetch_jina(client: httpx.Client, url: str) -> str | None:
+def fetch_jina(client: httpx.Client, url: str, *, wait: bool = False) -> str | None:
     """공개 페이지를 Jina 리더로 읽는다. 차단이면 None, 빈 본문은 ''."""
     if not url:
         return ""
+    seconds = JINA_WAIT_SECS if wait else 16
+    timeout = JINA_TIMEOUT if wait else JINA_QUICK_TIMEOUT
     try:
         response = client.get(
             JINA_URL + url,
             headers={
                 "Accept": "application/json",
                 "X-Return-Format": "markdown",
-                "X-Timeout": "16",
+                "X-Timeout": str(seconds),
             },
-            timeout=JINA_TIMEOUT,
+            timeout=timeout,
         )
     except httpx.HTTPError as exc:
         print(f"jina failed {url}: {exc}", flush=True)
@@ -1278,10 +1282,18 @@ def fetch_social_replies(
             except Exception as exc:
                 print(f"{source} comments {eid} failed: {exc}", flush=True)
                 continue
+            batch = parse_social_replies(markdown, parent) if markdown else []
+            if (markdown is None or not _social_comments_finished(source, markdown or "", batch)) and not past_deadline(deadline):
+                print(f"{source} comments {eid} wait {JINA_WAIT_SECS}s", flush=True)
+                try:
+                    markdown = fetch_jina(client, parent.get("url") or "", wait=True)
+                except Exception as exc:
+                    print(f"{source} comments {eid} wait failed: {exc}", flush=True)
+                    markdown = markdown or ""
+                batch = parse_social_replies(markdown, parent) if markdown else []
             if markdown is None:
                 print(f"{source} comments {eid} blocked", flush=True)
                 continue
-            batch = parse_social_replies(markdown, parent)
             found.extend(batch)
             if _social_comments_finished(source, markdown, batch):
                 done.add(eid)

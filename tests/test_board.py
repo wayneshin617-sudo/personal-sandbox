@@ -1075,6 +1075,7 @@ class SocialReplyTest(unittest.TestCase):
         crawl = {}
         posts = fetch_social_replies(client, [parent], now, crawl=crawl)
         self.assertEqual(posts, [])
+        self.assertEqual(client.calls, [JINA_URL + parent["url"], JINA_URL + parent["url"]])
         self.assertNotIn("DeMqPBnDz77", crawl.get("ig", {}).get("doneIds", []))
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
@@ -1097,6 +1098,7 @@ class SocialReplyTest(unittest.TestCase):
         crawl = {}
         posts = fetch_social_replies(client, [parent], now, crawl=crawl)
         self.assertEqual(posts, [])
+        self.assertEqual(client.calls, [JINA_URL + parent["url"], JINA_URL + parent["url"]])
         self.assertNotIn("DeMqPBnDz77", crawl.get("ig", {}).get("doneIds", []))
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
@@ -1121,6 +1123,10 @@ class SocialReplyTest(unittest.TestCase):
         self.assertLess(SOURCE_SECS["qoo"], SOURCE_SECS["threads"])
         self.assertLess(FAST_TIMEOUT.read, SEARCH_TIMEOUT.read)
         self.assertLess(SEARCH_TIMEOUT.read, JINA_TIMEOUT.read)
+        self.assertGreaterEqual(SOURCE_SECS["ig"], 150)
+        self.assertGreaterEqual(SOURCE_SECS["fb"], 150)
+        self.assertGreaterEqual(SOURCE_SECS["threads"], 150)
+        self.assertGreaterEqual(JINA_TIMEOUT.read, 150)
         self.assertEqual(SOCIAL_REPLY_LIMITS, {"threads": 3, "ig": 1, "fb": 1})
 
     def test_stale_github_runner_hands_off(self):
@@ -1165,7 +1171,7 @@ class SocialReplyTest(unittest.TestCase):
         posts = fetch_social_replies(client, ig_parents + [fb_parent], now, crawl={})
         ig_calls = [url for url in client.calls if "instagram.com" in url]
         fb_calls = [url for url in client.calls if "facebook.com" in url]
-        self.assertEqual(len(ig_calls), 1)
+        self.assertEqual(len(ig_calls), 2)
         self.assertEqual(len(fb_calls), 1)
         self.assertEqual([item["source"] for item in posts], ["fb"])
 
