@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:16:18+00:00",
+  "updatedAt": "2026-10-21T16:17:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -305129,6 +305129,104 @@
       "firstSeenAt": "2026-10-21T16:16:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75194,
+      "source": "blind",
+      "externalId": "cmt-457815764",
+      "title": "멀리 생각안하니까",
+      "excerpt": "문신",
+      "author": "a******",
+      "company": "동우화인켐",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-wue5sovq#457815764",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-22T01:16:00+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:17:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75195,
+      "source": "dc",
+      "externalId": "6609117",
+      "title": "문신은 보여주려고 하는 과시인데 안 보이는데면 어디겠냐?",
+      "excerpt": "",
+      "author": "애청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609117&page=1",
+      "postedLabel": "01:16",
+      "postedAt": "2026-10-22T01:16:12+09:00",
+      "views": 30,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:17:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75196,
+      "source": "dc",
+      "externalId": "6609120",
+      "title": "영자는 안웃어야 그나마 평범하던",
+      "excerpt": "",
+      "author": "김크리에이터",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609120&page=1",
+      "postedLabel": "01:16",
+      "postedAt": "2026-10-22T01:16:19+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:17:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75197,
+      "source": "blind",
+      "externalId": "cmt-457815850",
+      "title": "높은데서 떨어지면 더 타격감 크고 아프지 순자 이미지 너무 높았었음... 모든게 완벽하고 참한 느낌",
+      "excerpt": "영숙은 대놓고 해서 사실 별타격이 없는데 순자누나가 폭격은 다 맞네",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EB%8C%80%EB%86%93%EA%B3%A0-%ED%95%B4%EC%84%9C-%EC%82%AC%EC%8B%A4-%EB%B3%84%ED%83%80%EA%B2%A9%EC%9D%B4-%EC%97%86%EB%8A%94%EB%8D%B0-%EC%88%9C%EC%9E%90%EB%88%84%EB%82%98%EA%B0%80-%ED%8F%AD%EA%B2%A9%EC%9D%80-%EB%8B%A4-%EB%A7%9E%EB%84%A4-0zwh6ui8#457815850",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:16:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:17:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75198,
+      "source": "blind",
+      "externalId": "cmt-457815781",
+      "title": "그냥 문신한 애들이랑 어울리다 보면 그게 멋있어 보여서 따라가서 하는거지",
+      "excerpt": "문신",
+      "author": "투***",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-wue5sovq#457815781",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:17:00+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:17:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -305210,7 +305308,7 @@
         "DeN7GW0mp2h",
         "DeNoQ8kEisd"
       ],
-      "slowAt": "2026-10-22T01:14:00+09:00"
+      "slowAt": "2026-10-22T01:17:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -305785,7 +305883,8 @@
         "6609076",
         "6609079",
         "6609081",
-        "6609087"
+        "6609087",
+        "6609111"
       ]
     },
     "blind": {
