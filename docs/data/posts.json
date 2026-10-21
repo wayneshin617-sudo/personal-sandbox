@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:11:19+00:00",
+  "updatedAt": "2026-10-21T17:12:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -314002,6 +314002,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T17:11:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75641,
+      "source": "blind",
+      "externalId": "cmt-457817961",
+      "title": "은밀한 곳에 했다는게 더 문란해보이고 음흉해보여",
+      "excerpt": "순자 문신",
+      "author": "i*****",
+      "company": "소노인터내셔널",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-6v23nixo#457817961",
+      "postedLabel": "24분",
+      "postedAt": "2026-10-22T01:48:01+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:12:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75642,
+      "source": "dc",
+      "externalId": "6609610",
+      "title": "영호 선택한 영숙이나 정숙이 순자까지",
+      "excerpt": "",
+      "author": "애청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609610&page=1",
+      "postedLabel": "02:11",
+      "postedAt": "2026-10-22T02:11:13+09:00",
+      "views": 19,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:12:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -314074,7 +314113,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T02:09:01+09:00"
+      "slowAt": "2026-10-22T02:12:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -314753,7 +314792,10 @@
         "6609588",
         "6609589",
         "6609590",
-        "6609591"
+        "6609591",
+        "6609604",
+        "6609607",
+        "6609608"
       ]
     },
     "blind": {
