@@ -40,6 +40,9 @@ const SOURCES = {
   blind: { logo: "assets/logo-blind.svg", alt: "블라인드", title: "블라인드" },
   qoo: { logo: "assets/logo-qoo.svg", alt: "더쿠", title: "더쿠" },
   yt: { logo: "assets/logo-yt.svg", alt: "유튜브", title: "유튜브" },
+  threads: { logo: "assets/logo-threads.svg", alt: "쓰레드", title: "Threads" },
+  ig: { logo: "assets/logo-ig.svg", alt: "인스타", title: "Instagram" },
+  fb: { logo: "assets/logo-fb.svg", alt: "페북", title: "Facebook" },
 };
 
 const numberFormat = new Intl.NumberFormat("ko-KR");
@@ -1373,7 +1376,7 @@ if (window.matchMedia("(hover: hover)").matches) {
 setInterval(() => paintRoll(true), 2800);
 
 function paintSourceClock(board) {
-  for (const source of ["dc", "blind", "qoo", "yt"]) {
+  for (const source of ["dc", "blind", "qoo", "yt", "threads", "ig", "fb"]) {
     const el = document.querySelector("#source-" + source);
     const detail = el.querySelector(".detail");
     const when = source === "yt" ? board.youtubeUpdatedAt || board.updatedAt : board.updatedAt;
@@ -1390,7 +1393,7 @@ function renderStatus(board, force) {
   }
   statusKey = key;
   let todayCount = 0;
-  const sourceCount = { dc: 0, blind: 0, qoo: 0, yt: 0 };
+  const sourceCount = { dc: 0, blind: 0, qoo: 0, yt: 0, threads: 0, ig: 0, fb: 0 };
   const today = kstDay(Date.now());
   for (const post of posts) {
     if (sourceCount[post.source] != null) sourceCount[post.source] += 1;
@@ -1398,7 +1401,7 @@ function renderStatus(board, force) {
   }
   document.querySelector("#stat-total").textContent = numberFormat.format(posts.length);
   document.querySelector("#stat-live").textContent = numberFormat.format(todayCount);
-  for (const source of ["dc", "blind", "qoo", "yt"]) {
+  for (const source of ["dc", "blind", "qoo", "yt", "threads", "ig", "fb"]) {
     const el = document.querySelector("#source-" + source);
     const health = el.querySelector(".health");
     const count = sourceCount[source];

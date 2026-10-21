@@ -4,10 +4,12 @@ from datetime import datetime, timedelta, timezone
 
 from app.collect import KST, _spread_targets, assign_blind_times, empty_board, merge, qoo_label_time
 from app.parsers import (
+    canonicalize_social_url,
     parse_blind,
     parse_blind_comments,
     parse_dc,
     parse_dc_comments,
+    parse_social_search,
     parse_theqoo,
     parse_theqoo_comments,
     parse_youtube_comments,
@@ -126,6 +128,63 @@ class ParserTest(unittest.TestCase):
         self.assertEqual(post["views"], 131)
         self.assertEqual(post["comments"], 3)
         self.assertEqual(post["url"], "https://theqoo.net/iamsolo/4374217007")
+
+    def test_social_search_keeps_posts_and_skips_profiles(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        html = """
+        <div class="result">
+          <h2 class="result__title">
+            <a class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.threads.com%2F%40masion.marim%2Fpost%2FDeOmNhbmP0l">나는 솔로 34기 다둥이 특집 현숙 • Threads, Say more</a>
+          </h2>
+          <a class="result__snippet">Marim (@masion.marim). 77 Replies. '나는 솔로' 34기 다둥이 특집 현숙</a>
+        </div>
+        <div class="result">
+          <h2 class="result__title">
+            <a class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.threads.com%2F%40seolleimparty">설레임파티 (@seolleimparty) • Threads, Say more</a>
+          </h2>
+          <a class="result__snippet">840 Followers</a>
+        </div>
+        """
+        posts = parse_social_search(html, "threads", now)
+        self.assertEqual(len(posts), 1)
+        post = posts[0]
+        self.assertEqual(post["source"], "threads")
+        self.assertEqual(post["external_id"], "DeOmNhbmP0l")
+        self.assertEqual(post["author"], "@masion.marim")
+        self.assertTrue(post["title"].startswith("나는 솔로 34기"))
+        self.assertTrue(post["url"].startswith("https://www.threads.com/@masion.marim/post/DeOmNhbmP0l"))
+        self.assertTrue(post["posted_at"].startswith("2026-10-08"))
+        ig_html = """
+        <div class="result">
+          <h2 class="result__title">
+            <a class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.instagram.com%2Fp%2FDepKS-IHSxr%2F">실시간검색이슈 | 나는솔로 34기 영호 | Instagram</a>
+          </h2>
+          <a class="result__snippet">나는솔로 34기 영호 전직장 동료</a>
+        </div>
+        """
+        ig = parse_social_search(ig_html, "ig", now)[0]
+        self.assertEqual(ig["external_id"], "DepKS-IHSxr")
+        self.assertEqual(ig["author"], "실시간검색이슈")
+        self.assertEqual(ig["url"], "https://www.instagram.com/p/DepKS-IHSxr/")
+        fb_html = """
+        <div class="result">
+          <h2 class="result__title">
+            <a class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.facebook.com%2FLov2Diary%2Fposts%2F%25EB%2582%2598%25EB%258A%2594%25EC%2586%2594%25EB%25A1%259C-34%25EA%25B8%25B0%2F1610763734181972%2F">연애일기 - 나는솔로 34기 영숙 폭로글 | Facebook</a>
+          </h2>
+          <a class="result__snippet">나는솔로 34기 영숙 폭로글 ㄷㄷ 24m</a>
+        </div>
+        """
+        fb = parse_social_search(fb_html, "fb", now)[0]
+        self.assertEqual(fb["external_id"], "1610763734181972")
+        self.assertEqual(fb["url"], "https://www.facebook.com/Lov2Diary/posts/1610763734181972")
+        self.assertEqual(fb["posted_at"], "2026-10-21T11:36:00+09:00")
+        self.assertIsNone(canonicalize_social_url("https://www.instagram.com/popular/나솔-34기/"))
+        self.assertIsNone(canonicalize_social_url("https://www.threads.com/@masion.marim"))
+        bing = canonicalize_social_url(
+            "https://www.bing.com/ck/a?!&&p=x&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0xvdjJEaWFyeS9wb3N0cy8xNjEwNzYzNzM0MTgxOTcyLw"
+        )
+        self.assertEqual(bing[0], "fb")
+        self.assertEqual(bing[1], "1610763734181972")
 
     def test_youtube_search_and_top_level_comments(self):
         videos, _token = parse_youtube_search(

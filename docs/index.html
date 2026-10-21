@@ -18,7 +18,7 @@
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&family=Playfair+Display:ital,wght@1,700;1,800&display=swap">
-  <link rel="stylesheet" href="assets/app.css?v=15">
+  <link rel="stylesheet" href="assets/app.css?v=16">
 </head>
 <body>
   <div class="app">
@@ -66,6 +66,21 @@
         </li>
         <li id="source-yt">
           <span class="mark yt"><img src="assets/logo-yt.svg" alt="">유튜브</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
+        <li id="source-threads">
+          <span class="mark threads"><img src="assets/logo-threads.svg" alt="">쓰레드</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
+        <li id="source-ig">
+          <span class="mark ig"><img src="assets/logo-ig.svg" alt="">인스타</span>
+          <span class="health" data-health="wait">확인 중</span>
+          <p class="detail"></p>
+        </li>
+        <li id="source-fb">
+          <span class="mark fb"><img src="assets/logo-fb.svg" alt="">페북</span>
           <span class="health" data-health="wait">확인 중</span>
           <p class="detail"></p>
         </li>
@@ -155,6 +170,9 @@
           <button type="button" class="chip" data-source="blind" aria-pressed="false">블라인드</button>
           <button type="button" class="chip" data-source="qoo" aria-pressed="false">더쿠</button>
           <button type="button" class="chip" data-source="yt" aria-pressed="false">유튜브</button>
+          <button type="button" class="chip" data-source="threads" aria-pressed="false">쓰레드</button>
+          <button type="button" class="chip" data-source="ig" aria-pressed="false">인스타</button>
+          <button type="button" class="chip" data-source="fb" aria-pressed="false">페북</button>
         </div>
         <div class="search-row">
           <label class="search">
@@ -190,10 +208,10 @@
     </div>
   </div>
   <div id="bgm-host"></div>
-  <script src="assets/filters.js?v=6"></script>
+  <script src="assets/filters.js?v=7"></script>
   <script src="assets/cast.js?v=8"></script>
   <script src="assets/feed-scroll.js?v=5"></script>
-  <script src="assets/app.js?v=25"></script>
+  <script src="assets/app.js?v=26"></script>
   <script src="assets/bgm.js?v=4"></script>
 </body>
 </html>

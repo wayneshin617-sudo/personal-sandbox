@@ -442,6 +442,11 @@ def unrelated_reason(post: dict[str, Any] | str | None) -> str | None:
         if any(mark in folded for mark in SHOW_MARKS):
             return None
         return "유튜브"
+    if source in {"threads", "ig", "fb"}:
+        folded = _plain(f"{post.get('title') or ''} {post.get('excerpt') or ''}")
+        if any(mark in folded for mark in SHOW_MARKS):
+            return None
+        return {"threads": "쓰레드", "ig": "인스타", "fb": "페북"}[source]
     folded = _plain(f"{post.get('title') or ''} {post.get('excerpt') or ''}")
     if any(mark in folded for mark in SHOW_MARKS):
         return None

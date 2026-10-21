@@ -21,6 +21,9 @@
   --blind: #ffb4c8;
   --qoo: #ff8fb3;
   --yt: #ff8d8d;
+  --threads: #e8d4c4;
+  --ig: #ff9ec8;
+  --fb: #9ec5ff;
   --hot: rgba(255, 93, 134, 0.16);
   --shadow: 0 1px 1px rgba(26, 8, 14, 0.45);
   color-scheme: dark;
@@ -261,6 +264,9 @@ h1 {
 .mark.blind { color: var(--blind); background: rgba(142, 191, 255, 0.12); }
 .mark.qoo { color: var(--qoo); background: rgba(255, 176, 32, 0.14); }
 .mark.yt { color: var(--yt); background: rgba(255, 141, 141, 0.14); }
+.mark.threads { color: var(--threads); background: rgba(232, 212, 196, 0.16); }
+.mark.ig { color: var(--ig); background: rgba(255, 158, 200, 0.14); }
+.mark.fb { color: var(--fb); background: rgba(158, 197, 255, 0.14); }
 
 .health {
   font-size: 14px;
@@ -391,6 +397,9 @@ h1 {
 .avatar.dc { background-image: url("logo-dc.png"); }
 .avatar.qoo { background-image: url("logo-qoo.svg"); background-size: 72%; }
 .avatar.yt { background-image: url("logo-yt.svg"); background-size: 72%; }
+.avatar.threads { background-image: url("logo-threads.svg"); background-size: 72%; }
+.avatar.ig { background-image: url("logo-ig.svg"); background-size: 72%; }
+.avatar.fb { background-image: url("logo-fb.svg"); background-size: 72%; }
 .avatar.blind {
   background-image: url("logo-blind.svg");
   background-size: 62%;
@@ -536,6 +545,7 @@ mark {
 
 .chips {
   display: flex;
+  flex-wrap: wrap;
   gap: 6px;
   margin-bottom: 8px;
 }

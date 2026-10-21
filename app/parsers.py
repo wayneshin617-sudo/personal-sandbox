@@ -1,11 +1,12 @@
-"""디시인사이드·블라인드·더쿠 공개 글과 댓글을 읽는다."""
+"""디시인사이드·블라인드·더쿠·쓰레드·인스타·페북 공개 글과 댓글을 읽는다."""
 
 from __future__ import annotations
 
+import base64
 import json
 import re
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urljoin, urlparse
+from urllib.parse import parse_qs, unquote, urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
@@ -561,3 +562,204 @@ def _youtube_continuation(data: dict) -> str:
 
     _walk(data, visit)
     return found
+
+
+_DDG_UDDG = re.compile(r"[?&]uddg=([^&]+)")
+_THREADS_POST = re.compile(r"https://www\.threads\.(?:com|net)/@([^/?#]+)/post/([A-Za-z0-9_-]+)")
+_IG_POST = re.compile(r"https://www\.instagram\.com/(p|reel|tv)/([A-Za-z0-9_-]+)")
+_FB_NUM = re.compile(r"/(?:posts|videos|permalink(?:\.php)?)(?:/[^/?#]+)*/(\d{8,})(?:/|$|\?)")
+_FB_STORY = re.compile(r"(?:story_fbid|fbid)=(\d{8,})")
+_FB_PAGE = re.compile(r"https://(?:www|m|mbasic)\.facebook\.com/([^/?#]+)/")
+_SHORT_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"
+_IG_EPOCH_MS = 1_314_220_021_721
+_KDATE = re.compile(r"(\d{4})년\s*(\d{1,2})월\s*(\d{1,2})일")
+_SNIP_AGE = re.compile(
+    r"(?:^|\s)(\d+)\s*(초|분|시간|일|주|minutes?|hours?|days?|weeks?|months?|s|m|h|d|w)\s*(?:ago|전)?\s*$",
+    re.IGNORECASE,
+)
+
+
+def decode_ddg_url(href: str) -> str:
+    raw = (href or "").strip()
+    if raw.startswith("//"):
+        raw = "https:" + raw
+    matched = _DDG_UDDG.search(raw)
+    if matched:
+        raw = unquote(unquote(matched.group(1)))
+    parsed = urlparse(raw)
+    query = parse_qs(parsed.query)
+    if "uddg" in query:
+        raw = unquote(query["uddg"][0])
+    encoded = query.get("u", [""])[0]
+    if encoded.startswith("a1"):
+        blob = encoded[2:] + "=" * ((4 - len(encoded[2:]) % 4) % 4)
+        try:
+            raw = unquote(base64.urlsafe_b64decode(blob).decode("utf-8"))
+        except (ValueError, UnicodeDecodeError):
+            pass
+    return raw.split("#")[0]
+
+
+def _shortcode_time(code: str) -> datetime | None:
+    if not code:
+        return None
+    value = 0
+    try:
+        for ch in code:
+            value = value * 64 + _SHORT_ALPHABET.index(ch)
+    except ValueError:
+        return None
+    if value <= 0:
+        return None
+    millis = (value >> 23) + _IG_EPOCH_MS
+    if millis < 1_600_000_000_000 or millis > 2_200_000_000_000:
+        return None
+    return datetime.fromtimestamp(millis / 1000, tz=KST)
+
+
+def _snippet_age(text: str, now: datetime) -> datetime | None:
+    blob = clean(text)
+    dated = _KDATE.search(blob)
+    if dated:
+        try:
+            return datetime(int(dated.group(1)), int(dated.group(2)), int(dated.group(3)), 12, 0, tzinfo=KST)
+        except ValueError:
+            pass
+    if "어제" in blob:
+        return now - timedelta(days=1)
+    matched = _SNIP_AGE.search(blob)
+    if not matched:
+        return None
+    amount = int(matched.group(1))
+    unit = matched.group(2).lower()
+    if unit in ("초", "s"):
+        return now - timedelta(seconds=amount)
+    if unit in ("분", "m", "minute", "minutes"):
+        return now - timedelta(minutes=amount)
+    if unit in ("시간", "h", "hour", "hours"):
+        return now - timedelta(hours=amount)
+    if unit in ("일", "d", "day", "days"):
+        return now - timedelta(days=amount)
+    if unit in ("주", "w", "week", "weeks"):
+        return now - timedelta(weeks=amount)
+    if unit in ("month", "months"):
+        return now - timedelta(days=30 * amount)
+    return None
+
+
+def _social_title(text: str) -> str:
+    title = clean(text)
+    for junk in (" | Instagram", " | Facebook", " • Threads, Say more", " | Threads"):
+        if title.endswith(junk):
+            title = title[: -len(junk)].strip()
+    return title[:300]
+
+
+def _social_author(source: str, title: str, url: str) -> str:
+    named = re.search(r"\((@[^)]+)\)", title)
+    if named:
+        return named.group(1)
+    if source == "threads":
+        matched = _THREADS_POST.search(url)
+        if matched:
+            return f"@{matched.group(1)}"
+    if source == "ig":
+        head = title.split("|", 1)[0].strip()
+        if head and head != title and len(head) <= 40:
+            return head
+    if source == "fb":
+        matched = _FB_PAGE.search(url)
+        if matched and matched.group(1) not in {"posts", "watch", "photo", "permalink.php", "story.php"}:
+            return matched.group(1)
+        if " | " in title:
+            return title.rsplit(" | ", 1)[-1].strip()[:40]
+    return "익명"
+
+
+def canonicalize_social_url(url: str) -> tuple[str, str, str] | None:
+    """(source, external_id, url) 또는 프로필·검색 주소는 None."""
+    raw = decode_ddg_url(url)
+    if raw.startswith("http://"):
+        raw = "https://" + raw[len("http://"):]
+    threads = _THREADS_POST.search(raw)
+    if threads:
+        user, code = threads.group(1), threads.group(2)
+        href = _safe_https(f"https://www.threads.com/@{user}/post/{code}", {"www.threads.com", "threads.com"})
+        return ("threads", code, href) if href else None
+    insta = _IG_POST.search(raw)
+    if insta:
+        kind, code = insta.group(1), insta.group(2)
+        href = _safe_https(f"https://www.instagram.com/{kind}/{code}/", {"www.instagram.com", "instagram.com"})
+        return ("ig", code, href) if href else None
+    if "facebook.com" not in raw:
+        return None
+    story = _FB_STORY.search(raw)
+    number = story.group(1) if story else None
+    if number is None:
+        numbered = _FB_NUM.search(raw)
+        number = numbered.group(1) if numbered else None
+    page = _FB_PAGE.search(raw)
+    name = page.group(1) if page else ""
+    if not number:
+        return None
+    if name and name not in {"posts", "watch", "photo", "permalink.php", "story.php", "groups"}:
+        href = _safe_https(f"https://www.facebook.com/{name}/posts/{number}", {"www.facebook.com", "facebook.com"})
+    else:
+        href = _safe_https(f"https://www.facebook.com/posts/{number}", {"www.facebook.com", "facebook.com"})
+    return ("fb", number, href) if href else None
+
+
+def parse_social_search(html: str, source: str, now: datetime) -> list[dict]:
+    """공개 검색 목록에서 쓰레드·인스타·페북 글만 남긴다. 프로필·탐색 주소는 뺀다."""
+    posts: list[dict] = []
+    seen: set[str] = set()
+    for node in _soup(html).select(".result, .web-result, .results_links, li.b_algo"):
+        link = node.select_one("a.result__a") or node.select_one("h2 a")
+        if link is None:
+            continue
+        parsed = canonicalize_social_url(link.get("href") or "")
+        if not parsed or parsed[0] != source:
+            continue
+        kind, external_id, url = parsed
+        if external_id in seen:
+            continue
+        seen.add(external_id)
+        snippet_el = node.select_one(".result__snippet, .b_caption")
+        date_el = node.select_one(".news_dt")
+        snippet = clean(snippet_el.get_text(" ", strip=True)) if snippet_el is not None else ""
+        dated = clean(date_el.get_text(" ", strip=True)) if date_el is not None else ""
+        title = _social_title(link.get_text(" ", strip=True))
+        if not title:
+            title = snippet[:300]
+        if not title:
+            continue
+        excerpt = snippet[:500]
+        if excerpt == title:
+            excerpt = ""
+        stamp = _shortcode_time(external_id) if kind in {"threads", "ig"} else None
+        if stamp is None:
+            stamp = _snippet_age(f"{dated} {title} {snippet}", now)
+        posted_label = ""
+        posted_at = ""
+        if stamp is not None:
+            posted_at = stamp.astimezone(KST).replace(microsecond=0).isoformat()
+            posted_label = posted_at[11:16]
+        posts.append(
+            {
+                "source": kind,
+                "external_id": external_id,
+                "title": title,
+                "excerpt": excerpt,
+                "author": _social_author(kind, title, url),
+                "company": "",
+                "ip": "",
+                "badge": "",
+                "url": url,
+                "posted_label": posted_label,
+                "posted_at": posted_at,
+                "views": None,
+                "recommends": None,
+                "comments": None,
+            }
+        )
+    return posts

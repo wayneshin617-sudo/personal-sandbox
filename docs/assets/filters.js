@@ -269,6 +269,11 @@
       if (SHOW_MARKS.some((mark) => folded.includes(mark))) return "";
       return "유튜브";
     }
+    if (["threads", "ig", "fb"].includes(post.source || "")) {
+      const folded = plain(`${post.title || ""} ${post.excerpt || ""}`);
+      if (SHOW_MARKS.some((mark) => folded.includes(mark))) return "";
+      return { threads: "쓰레드", ig: "인스타", fb: "페북" }[post.source];
+    }
     const folded = plain(`${post.title || ""} ${post.excerpt || ""}`);
     if (SHOW_MARKS.some((mark) => folded.includes(mark))) return "";
     return OTHER_SHOWS.find((mark) => folded.includes(mark)) || "";

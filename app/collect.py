@@ -24,6 +24,7 @@ from .parsers import (
     parse_blind_comments,
     parse_dc,
     parse_dc_comments,
+    parse_social_search,
     parse_theqoo,
     parse_theqoo_comments,
     parse_youtube_comments,
@@ -58,6 +59,24 @@ MAX_QOO_PAGES = 80
 YT_SEARCH_URL = "https://www.youtube.com/results?search_query=%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C&sp=CAI%3D"
 MAX_YT_SEARCH_PAGES = 4
 MAX_YT_COMMENT_PAGES = 20
+DDG_URL = "https://html.duckduckgo.com/html/"
+BING_URL = "https://www.bing.com/search"
+SOCIAL_QUERIES = {
+    "threads": (
+        "site:threads.com 나는솔로",
+        "site:threads.com 나솔 34기",
+        "site:threads.net 나는솔로",
+    ),
+    "ig": (
+        "site:instagram.com 나는솔로",
+        "site:instagram.com 나솔 34기",
+        "site:instagram.com 나는solo",
+    ),
+    "fb": (
+        "site:facebook.com 나는솔로 34기",
+        "site:facebook.com 나는솔로",
+    ),
+}
 _YT_KEY = re.compile(r'INNERTUBE_API_KEY":"([^"]+)"')
 _YT_VER = re.compile(r'INNERTUBE_CLIENT_VERSION":"([^"]+)"')
 
@@ -645,6 +664,62 @@ def fetch_youtube(client: httpx.Client, known_ids: set[str], *, backfill: bool, 
     return found
 
 
+def fetch_ddg(client: httpx.Client, query: str) -> str:
+    headers = {"Referer": "https://html.duckduckgo.com/html/", "Accept": "text/html"}
+    last = ""
+    for attempt in range(4):
+        try:
+            response = client.get(DDG_URL, params={"q": query, "kl": "kr-ko"}, headers=headers)
+            last = response.text
+            if response.status_code in {202, 429, 500, 502, 503, 504} or "anomaly-modal" in last or "If this persists" in last:
+                time.sleep(0.8 * (attempt + 1))
+                continue
+            response.raise_for_status()
+            return last
+        except httpx.HTTPError:
+            time.sleep(0.8 * (attempt + 1))
+    return last
+
+
+def fetch_bing(client: httpx.Client, query: str) -> str:
+    headers = {"Referer": "https://www.bing.com/", "Accept": "text/html"}
+    try:
+        response = client.get(BING_URL, params={"q": query, "setlang": "ko-KR"}, headers=headers)
+        response.raise_for_status()
+        return response.text
+    except httpx.HTTPError as exc:
+        print(f"bing failed {query}: {exc}", flush=True)
+        return ""
+
+
+def _absorb_social(batch: list[dict], found: list[dict], seen: set[str], now: datetime) -> int:
+    added = 0
+    for item in batch:
+        if item["external_id"] in seen:
+            continue
+        seen.add(item["external_id"])
+        if not item.get("posted_at"):
+            item["posted_at"] = as_kst_iso(now)
+            item["posted_label"] = item["posted_at"][11:16]
+        found.append(item)
+        added += 1
+    return added
+
+
+def fetch_social(client: httpx.Client, source: str, now: datetime) -> list[dict]:
+    found: list[dict] = []
+    seen: set[str] = set()
+    for query in SOCIAL_QUERIES[source]:
+        html = fetch_ddg(client, query)
+        added = _absorb_social(parse_social_search(html, source, now), found, seen, now)
+        if added == 0:
+            html = fetch_bing(client, query)
+            added += _absorb_social(parse_social_search(html, source, now), found, seen, now)
+        print(f"{source} search {query} {added}", flush=True)
+        time.sleep(0.8)
+    return found
+
+
 def fetch_sources(
     known_dc: set[str],
     known_qoo: set[str],
@@ -661,13 +736,16 @@ def fetch_sources(
     }
     timeout = httpx.Timeout(25.0, connect=8.0)
     now = datetime.now(KST).replace(microsecond=0)
-    fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": []}
+    fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": [], "fb": []}
     with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
         for name, loader in (
             ("dc", lambda: fetch_dc(client, known_dc, backfill=dc_backfill)),
             ("blind", lambda: fetch_blind(client, now)),
             ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now)),
             ("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now)),
+            ("threads", lambda: fetch_social(client, "threads", now)),
+            ("ig", lambda: fetch_social(client, "ig", now)),
+            ("fb", lambda: fetch_social(client, "fb", now)),
         ):
             try:
                 fetched[name] = loader()
