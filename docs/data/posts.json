@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T07:53:51+00:00",
+  "updatedAt": "2026-10-21T08:01:51+00:00",
   "posts": [
     {
       "id": 99,
@@ -204833,6 +204833,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T07:53:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70010,
+      "source": "blind",
+      "externalId": "cmt-457747349",
+      "title": "여자쪽은 정숙이 거의 분량없던데",
+      "excerpt": "",
+      "author": "d********",
+      "company": "동국제약",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EA%B4%91%EC%88%98-%EC%A4%91%EC%97%90-m84rupfi#457747349",
+      "postedLabel": "4분",
+      "postedAt": "2026-10-21T16:57:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:01:51+00:00",
       "isSeed": false,
       "kind": "reply"
     }
