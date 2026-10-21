@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T23:45:43+00:00",
+  "updatedAt": "2026-10-21T23:46:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -324382,6 +324382,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T23:45:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76166,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%84-%EC%A3%BC%EC%A0%9C%EB%A1%9C-%ED%95%9C-%EC%BD%9C%EB%9D%BC%EC%A5%AC-romkuahp",
+      "title": "문신을 주제로 한 콜라쥬",
+      "excerpt": "문신으로 떠오른 것들",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%84-%EC%A3%BC%EC%A0%9C%EB%A1%9C-%ED%95%9C-%EC%BD%9C%EB%9D%BC%EC%A5%AC-romkuahp",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T08:46:23+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T23:46:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76167,
+      "source": "blind",
+      "externalId": "cmt-457834520",
+      "title": "이중잡대가 신조어임? 아니면 이중잣대 말하는거임?",
+      "excerpt": "공무원 남자라도 잘생기면 되는거야?",
+      "author": "!*********",
+      "company": "HD현대삼호",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90-%EB%82%A8%EC%9E%90%EB%9D%BC%EB%8F%84-%EC%9E%98%EC%83%9D%EA%B8%B0%EB%A9%B4-%EB%90%98%EB%8A%94%EA%B1%B0%EC%95%BC-6u1xtq05#457834520",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T08:46:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T23:46:42+00:00",
       "isSeed": false,
       "kind": "reply"
     }
