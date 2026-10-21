@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:02:19+00:00",
+  "updatedAt": "2026-10-21T17:03:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -313390,6 +313390,64 @@
       "firstSeenAt": "2026-10-21T17:02:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75610,
+      "source": "dc",
+      "externalId": "cmt-10963224",
+      "title": "근데 이번기수는 남자들이 전체적으로 에겐한것도 고려해야됨",
+      "excerpt": "남자들 마른여자 싫어한다면서",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609551&page=1#cmt_10963224",
+      "postedLabel": "10.22 02:02:36",
+      "postedAt": "2026-10-22T02:02:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:03:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75611,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C-%EB%88%88%EC%97%AC%EA%B2%A8-%EB%B3%BC%EA%B2%8C-%EB%8B%A4%EC%9D%8C%EC%A3%BC-%EB%B0%A9%EC%86%A1%EB%B6%80%ED%84%B0-%ED%8C%80%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9C%A0%EC%A7%80%EB%90%98%EB%83%90-%EB%A7%88%EB%83%90-%EC%9D%B8%EB%93%AF-3c1wyytn",
+      "title": "여기서 눈여겨 볼게 다음주 방송부터 팀순자가 유지되냐 마냐 인듯",
+      "excerpt": "순자 문신 있다는거 남자들 사이에서도 분명 얘기 돌아서 다 알게 될거고 그걸 알고 난 뒤에도 팀순자가 유지 되냐 마냐",
+      "author": "신***",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C-%EB%88%88%EC%97%AC%EA%B2%A8-%EB%B3%BC%EA%B2%8C-%EB%8B%A4%EC%9D%8C%EC%A3%BC-%EB%B0%A9%EC%86%A1%EB%B6%80%ED%84%B0-%ED%8C%80%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9C%A0%EC%A7%80%EB%90%98%EB%83%90-%EB%A7%88%EB%83%90-%EC%9D%B8%EB%93%AF-3c1wyytn",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T02:03:00+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T17:03:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75612,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EA%B0%80%EB%B3%BC%EB%95%90-%EC%98%81%EC%9E%90%EB%9E%91-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%88%98%EC%A4%80%EC%9D%B4-%EC%9E%98%EB%A7%9E%EB%8A%94%EA%B1%B0%EA%B0%99%EC%95%A0-0t82dpko",
+      "title": "내가볼땐 영자랑 영철이 수준이 잘맞는거같애",
+      "excerpt": "영철이가 눈만낮추면 영자랑 백년해로 잘할듯",
+      "author": "!*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B0%80%EB%B3%BC%EB%95%90-%EC%98%81%EC%9E%90%EB%9E%91-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%88%98%EC%A4%80%EC%9D%B4-%EC%9E%98%EB%A7%9E%EB%8A%94%EA%B1%B0%EA%B0%99%EC%95%A0-0t82dpko",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T02:03:01+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T17:03:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -313462,7 +313520,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T02:00:01+09:00"
+      "slowAt": "2026-10-22T02:03:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -314122,11 +314180,14 @@
         "6609488",
         "6609507",
         "6609521",
+        "6609532",
+        "6609534",
         "6609535",
         "6609537",
         "6609546",
         "6609548",
-        "6609549"
+        "6609549",
+        "6609551"
       ]
     },
     "blind": {
