@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T12:00:38+00:00",
+  "updatedAt": "2026-10-21T12:01:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -217378,6 +217378,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T12:00:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 70674,
+      "source": "qoo",
+      "externalId": "cmt-4368560144",
+      "title": "장녀 여동1남동1",
+      "excerpt": "현숙은 장녀 아니었나?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4368559979#4368560144",
+      "postedLabel": "",
+      "postedAt": "2026-10-07T23:55:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T12:01:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70675,
+      "source": "qoo",
+      "externalId": "cmt-4368560413",
+      "title": "현숙도 장녀였구나 고마워",
+      "excerpt": "현숙은 장녀 아니었나?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4368559979#4368560413",
+      "postedLabel": "",
+      "postedAt": "2026-10-07T23:55:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T12:01:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70676,
+      "source": "blind",
+      "externalId": "cmt-457777178",
+      "title": "박제되어도 의미없을정도로 간절하니깐 그렇겠지",
+      "excerpt": "나는솔로 나가는 사람들은 무슨 심정이냐",
+      "author": "ĺ******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%82%98%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EB%AC%B4%EC%8A%A8-%EC%8B%AC%EC%A0%95%EC%9D%B4%EB%83%90-835vh48g#457777178",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T21:01:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T12:01:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -217452,7 +217512,7 @@
     },
     "ig": {
       "doneIds": [],
-      "slowAt": "2026-10-21T20:58:21+09:00"
+      "slowAt": "2026-10-21T21:01:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -217522,6 +217582,7 @@
         "6601510",
         "6601514",
         "6601518",
+        "6601520",
         "6601537",
         "6601556",
         "6601567",
@@ -217632,6 +217693,7 @@
         "/kr/post/%EA%BA%BC%EB%93%9C%EB%9F%AD-gpifwmia",
         "/kr/post/%EB%81%9D%EB%82%A0%EB%95%8C%EC%AF%A4-%EC%97%84%EC%A0%95%ED%99%94-%EB%85%B8%EB%9E%98-%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B0-%EA%B0%90%EB%8B%A4%EC%82%B4%EC%9E%84-sl7tj2os",
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%82%98%EA%B0%80%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%8D%B0-yl0zwcud",
+        "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%82%98%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EB%AC%B4%EC%8A%A8-%EC%8B%AC%EC%A0%95%EC%9D%B4%EB%83%90-835vh48g",
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-34%EA%B8%B0-%EC%98%81%EC%B2%A0-ueijlge4",
         "/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-8kat6uph",
         "/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-t3376gqr",
@@ -218954,6 +219016,14 @@
         "4368558207",
         "4368558709",
         "4368558730",
+        "4368558978",
+        "4368559020",
+        "4368559238",
+        "4368559346",
+        "4368559955",
+        "4368559979",
+        "4368560107",
+        "4368560135",
         "4380996681",
         "4380998114",
         "4381031759",
