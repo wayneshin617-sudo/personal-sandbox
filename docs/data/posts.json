@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T04:58:03+00:00",
+  "updatedAt": "2026-10-21T04:59:04+00:00",
   "posts": [
     {
       "id": 99,
@@ -202802,6 +202802,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T04:58:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69907,
+      "source": "blind",
+      "externalId": "cmt-457719682",
+      "title": "점점 지능 떨어져 보임… 지능아니라 뭐라고 해야하지… 걍 보고있으면 속 터짐 모지리같어",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%98%81%EC%88%99%EC%9D%80-%EC%99%9C%EC%9E%90%EA%BE%B8-%EC%95%A0%EB%93%A4%EB%8D%B0%EB%A0%A4%EC%98%A4%EA%B3%A0%EC%8B%B6%EC%96%B4%ED%95%A8-m58zo40i#457719682",
+      "postedLabel": "44분",
+      "postedAt": "2026-10-21T13:14:40+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T04:59:04+00:00",
       "isSeed": false,
       "kind": "reply"
     }
