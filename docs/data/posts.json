@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T01:00:53+00:00",
+  "updatedAt": "2026-10-21T01:06:53+00:00",
   "posts": [
     {
       "id": 99,
@@ -199866,6 +199866,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T01:00:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69759,
+      "source": "blind",
+      "externalId": "cmt-457698399",
+      "title": "어 어디 갈 때마다 뭐 할 때마다 계속 애들 데려오면 어떻게 되려나 이것만 생극",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "ex-기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%98%81%EC%88%99-%EB%AF%B8%EA%B5%AD%EC%8B%9C%EB%AF%BC%EA%B6%8C%EC%9D%B4-%EB%AC%B4%EC%84%AD%EB%84%A4-e6ln5g7v#457698399",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T10:06:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T01:06:53+00:00",
       "isSeed": false,
       "kind": "reply"
     }
