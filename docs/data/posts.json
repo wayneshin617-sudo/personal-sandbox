@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T15:58:17+00:00",
+  "updatedAt": "2026-10-21T15:59:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -303802,6 +303802,86 @@
       "firstSeenAt": "2026-10-21T15:58:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75126,
+      "source": "blind",
+      "externalId": "cmt-457814154",
+      "title": "인정",
+      "excerpt": "영철을 보며 느낀 점",
+      "author": "베**",
+      "company": "스투트가르트스포츠카",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%84-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90-bcthupn5#457814154",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:58:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:59:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75127,
+      "source": "blind",
+      "externalId": "cmt-457814152",
+      "title": "쿼티로 쓰면 오타많이 나긴 해ㅠㅠ",
+      "excerpt": "영철을 보며 느낀 점",
+      "author": "무*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%84-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90-bcthupn5#457814152",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:58:58+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:59:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75128,
+      "source": "blind",
+      "externalId": "cmt-457814131",
+      "title": "문신은 남녀 거르고 싶어지더라 양아치거나 슈퍼f타입이거나",
+      "excerpt": "여자에게 문신이란?",
+      "author": "전****",
+      "company": "국세청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EC%97%90%EA%B2%8C-%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%9E%80-rmrgvh42#457814131",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:58:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:59:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75129,
+      "source": "blind",
+      "externalId": "cmt-457814178",
+      "title": "남자도 문신 하는 순간 만날수 있는 여자 풀이 확 좁아짐",
+      "excerpt": "여자에게 문신이란?",
+      "author": "투***",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EC%97%90%EA%B2%8C-%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%9E%80-rmrgvh42#457814178",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:59:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:59:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -303883,7 +303963,7 @@
         "DeN7GW0mp2h",
         "DeNoQ8kEisd"
       ],
-      "slowAt": "2026-10-22T00:56:00+09:00"
+      "slowAt": "2026-10-22T00:59:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -304414,7 +304494,9 @@
         "6608865",
         "6608873",
         "6608880",
-        "6608881"
+        "6608881",
+        "6608882",
+        "6608890"
       ]
     },
     "blind": {
