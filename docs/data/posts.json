@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T00:32:56+00:00",
+  "updatedAt": "2026-10-21T00:35:56+00:00",
   "posts": [
     {
       "id": 99,
@@ -199747,6 +199747,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T00:32:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69753,
+      "source": "blind",
+      "externalId": "cmt-457695215",
+      "title": "근데 평판 안들어도 안좋아보임",
+      "excerpt": "",
+      "author": "j*****",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EC%9A%95%ED%95%98%EB%8A%94-%EA%B8%80%EC%9D%B4-%EB%82%98%EC%98%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0-coh8xkaz#457695215",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T09:35:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T00:35:56+00:00",
       "isSeed": false,
       "kind": "reply"
     }
