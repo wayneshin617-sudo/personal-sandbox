@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T01:24:51+00:00",
+  "updatedAt": "2026-10-21T01:25:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -200024,6 +200024,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T01:24:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69767,
+      "source": "blind",
+      "externalId": "cmt-457700406",
+      "title": "님이하는말이 새회사라서 개무시당하는거임 하이닉스였으면 설득력있었을거야 따라서 학벌 직군에 연연할수밖에 없는거지",
+      "excerpt": "",
+      "author": "I*********",
+      "company": "11번가",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AD%90-%EA%B7%B8%EB%A0%87%EA%B2%8C-%ED%95%99%EB%B2%8C-%EC%A7%81%EA%B5%B0%EC%97%90-%EC%97%B0%EC%97%B0%ED%95%98%EB%83%90-p00lynhc#457700406",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-21T10:24:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T01:25:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69768,
+      "source": "blind",
+      "externalId": "cmt-457700421",
+      "title": "차임? 정성글이네",
+      "excerpt": "",
+      "author": "감******",
+      "company": "서울교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%8C%A8%EA%B1%B0%EB%A6%AC-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%B0%98%EB%B0%95%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B0%98%EB%B0%95-4eekdc1f#457700421",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T10:25:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T01:25:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
