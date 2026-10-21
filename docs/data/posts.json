@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:13:19+00:00",
+  "updatedAt": "2026-10-21T17:14:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -314099,6 +314099,106 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T17:13:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75646,
+      "source": "qoo",
+      "externalId": "cmt-4382910004",
+      "title": "존잼",
+      "excerpt": "오늘 나솔 잼?노잼?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382909763#4382910004",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T01:13:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:14:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75647,
+      "source": "qoo",
+      "externalId": "cmt-4382910041",
+      "title": "ㅇㅇ 매력있더라",
+      "excerpt": "영숙 20대일 때 인기 많았을거같아",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382908565#4382910041",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T01:13:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:14:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75648,
+      "source": "blind",
+      "externalId": "cmt-457816511",
+      "title": "역시 완벽한 사람은 없는건가 영수랑 영식도 순자 맘에 들어하던데 문신 알면 어떤 반응일지",
+      "excerpt": "영숙은 대놓고 해서 사실 별타격이 없는데 순자누나가 폭격은 다 맞네",
+      "author": "잉***",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EB%8C%80%EB%86%93%EA%B3%A0-%ED%95%B4%EC%84%9C-%EC%82%AC%EC%8B%A4-%EB%B3%84%ED%83%80%EA%B2%A9%EC%9D%B4-%EC%97%86%EB%8A%94%EB%8D%B0-%EC%88%9C%EC%9E%90%EB%88%84%EB%82%98%EA%B0%80-%ED%8F%AD%EA%B2%A9%EC%9D%80-%EB%8B%A4-%EB%A7%9E%EB%84%A4-0zwh6ui8#457816511",
+      "postedLabel": "49분",
+      "postedAt": "2026-10-22T01:25:01+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:14:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75649,
+      "source": "dc",
+      "externalId": "cmt-10963280",
+      "title": "그건 너처럼 인기가 1도 없는애들이 그런거고",
+      "excerpt": "다른 여자 패는거 아닌이상 어떻게 대하든말든",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609615&page=1#cmt_10963280",
+      "postedLabel": "10.22 02:13:04",
+      "postedAt": "2026-10-22T02:13:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:14:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75650,
+      "source": "blind",
+      "externalId": "cmt-457819244",
+      "title": "지인은 알바 아니고 배우자론 절대 불가지",
+      "excerpt": "문신이 그리 충격이야?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EA%B7%B8%EB%A6%AC-%EC%B6%A9%EA%B2%A9%EC%9D%B4%EC%95%BC-6j5fuhvd#457819244",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T02:14:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:14:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -314187,7 +314287,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T02:11:01+09:00"
+      "slowAt": "2026-10-22T02:14:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -314853,7 +314953,8 @@
         "6609591",
         "6609604",
         "6609607",
-        "6609608"
+        "6609608",
+        "6609615"
       ]
     },
     "blind": {
@@ -316471,6 +316572,7 @@
         "/kr/post/%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8-%EC%97%AC%EB%AF%B8%EC%83%88%EB%86%90%E3%85%8B%E3%85%8B%E3%84%B1%E3%85%82%E3%85%8B%E3%85%8B%E3%85%8B-jgdm1ktz",
         "/kr/post/%EC%A0%84%ED%99%94%ED%95%A0%EC%82%AC%EB%9E%8C-oyfkypca",
         "/kr/post/%EC%A0%84%ED%99%94-6tfzikmj",
+        "/kr/post/%EC%A0%84-%EC%95%A0%EC%9D%B8-%EC%9D%B4%EB%A6%84-%EB%A0%88%ED%84%B0%EB%A7%81%EB%A7%8C-%EC%95%84%EB%8B%98-%EB%90%98%EC%A7%80-gtliqk8e",
         "/kr/post/%EC%A0%95%EC%88%99%EB%88%84%EB%82%98-%EB%86%80%EB%9F%AC%EC%98%A8%EA%B1%B0-%EC%95%84%EB%8B%88%EC%97%88%EB%82%98-uleqiq4p",
         "/kr/post/%EC%A0%95%EC%88%99%EB%8B%98%EC%9D%80-pctuqsnp",
         "/kr/post/%EC%A0%95%EC%88%99%EB%8B%98%ED%95%9C%ED%85%8C%EC%84%A0-%EC%97%AC%ED%96%89%EC%9C%A0%ED%88%AC%EB%B2%84%EA%B0%80-%EC%9E%90%EA%BE%B8%EB%B3%B4%EC%9E%84-l20tniv3",
