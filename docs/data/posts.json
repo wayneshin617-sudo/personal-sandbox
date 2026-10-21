@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T03:30:06+00:00",
+  "updatedAt": "2026-10-21T03:30:54+00:00",
   "posts": [
     {
       "id": 99,
@@ -201489,6 +201489,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T03:30:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69841,
+      "source": "blind",
+      "externalId": "cmt-457714546",
+      "title": "요점은 사기꾼이지 사실 다른건 안중요함",
+      "excerpt": "",
+      "author": "q******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EB%82%98%EC%86%94%EA%B2%8C-%EC%99%94%EB%8D%94%EB%8B%88-5qroohvl#457714546",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T12:30:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T03:30:54+00:00",
       "isSeed": false,
       "kind": "reply"
     }
