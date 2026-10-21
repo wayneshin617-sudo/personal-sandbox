@@ -1977,10 +1977,20 @@ function pokeCard(person) {
   foot.className = "poke-foot";
   const set = document.createElement("span");
   set.textContent = "34기";
-  const rarity = document.createElement("span");
-  rarity.className = "poke-rarity";
-  rarity.textContent = "♥";
-  foot.append(set, rarity);
+  foot.append(set);
+  if (person.jjajang) {
+    const mark = document.createElement("img");
+    mark.className = "poke-jjajang";
+    mark.src = asset("assets/jjajang.svg");
+    mark.alt = "고독정식 짜장면";
+    mark.title = "고독정식";
+    foot.append(mark);
+  } else {
+    const rarity = document.createElement("span");
+    rarity.className = "poke-rarity";
+    rarity.textContent = "♥";
+    foot.append(rarity);
+  }
   const holo = document.createElement("span");
   holo.className = "poke-holo";
   holo.setAttribute("aria-hidden", "true");

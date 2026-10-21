@@ -1,7 +1,7 @@
 {
   "season": 34,
   "label": "34기 다둥이 특집",
-  "asOf": "10월 21일 방송까지",
+  "asOf": "10월 21일 첫 데이트까지",
   "men": [
     {
       "id": "youngsoo",
@@ -11,6 +11,7 @@
       "job": "건축 설계·감리",
       "note": "누나 7명의 막내",
       "photo": "assets/cast/youngsoo.webp",
+      "jjajang": true,
       "types": [
         "normal"
       ]
@@ -36,6 +37,7 @@
       "hobby": "명상 · 템플스테이",
       "note": "누나 둘의 막내",
       "photo": "assets/cast/youngsik.webp",
+      "jjajang": true,
       "types": [
         "fairy"
       ]
@@ -63,6 +65,7 @@
       "hobby": "방송댄스",
       "note": "누나 둘의 막내",
       "photo": "assets/cast/gwangsoo.webp",
+      "jjajang": true,
       "types": [
         "normal"
       ]
@@ -86,7 +89,7 @@
       "name": "영숙",
       "type": "dark",
       "year": 1988,
-      "job": "수입가구 회사",
+      "job": "인테리어 패브릭팀 팀장",
       "note": "언니 7명의 막내 · 조카 16명",
       "photo": "assets/cast/youngsook.webp",
       "types": [
@@ -97,6 +100,7 @@
       "id": "jeongsook",
       "name": "정숙",
       "type": "normal",
+      "year": 1993,
       "job": "공인회계사",
       "hobby": "드럼 · 왁킹",
       "note": "언니와 남동생 사이",
@@ -121,7 +125,8 @@
       "id": "youngja",
       "name": "영자",
       "type": "dark",
-      "job": "한의사",
+      "year": 1994,
+      "job": "한방내과 전문의",
       "note": "남동생 둘의 장녀",
       "photo": "assets/cast/youngja.webp",
       "types": [
@@ -132,6 +137,7 @@
       "id": "oksoon",
       "name": "옥순",
       "type": "normal",
+      "year": 1993,
       "job": "임상병리사",
       "note": "언니와 남동생 사이",
       "photo": "assets/cast/oksoon.webp",
@@ -144,7 +150,7 @@
       "name": "현숙",
       "type": "normal",
       "year": 1991,
-      "job": "일라이릴리 연구원",
+      "job": "일라이릴리 허가팀",
       "hobby": "갓생 · 프랑스어 · 독서",
       "note": "남동생·여동생의 장녀",
       "photo": "assets/cast/hyunsook.webp",
@@ -211,12 +217,12 @@
     },
     {
       "from": "hyunsook",
-      "to": "youngsoo",
+      "to": "youngchul",
       "rank": 1
     },
     {
       "from": "hyunsook",
-      "to": "youngchul",
+      "to": "youngsoo",
       "rank": 0
     },
     {
