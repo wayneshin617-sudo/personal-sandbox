@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:45:06+00:00",
+  "updatedAt": "2026-10-21T17:46:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -316355,6 +316355,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T17:45:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75760,
+      "source": "dc",
+      "externalId": "6609832",
+      "title": "영철 나올때마다 드는 생각",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "2001:44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609832&page=1",
+      "postedLabel": "02:45",
+      "postedAt": "2026-10-22T02:45:37+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:46:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -316427,7 +316446,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T02:42:48+09:00"
+      "slowAt": "2026-10-22T02:45:48+09:00"
     },
     "ig": {
       "doneIds": [
