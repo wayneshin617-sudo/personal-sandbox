@@ -1,3 +1,4 @@
+import time
 import unittest
 from unittest.mock import patch
 from urllib.parse import quote
@@ -467,6 +468,25 @@ class SocialCollectTest(unittest.TestCase):
         self.assertIn("11", bing_firsts)
         extra = [params.get("q") for _, params in client.calls if "10월" in params.get("q", "")]
         self.assertTrue(extra)
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_social_deadline_skips_search(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        client = _FakeSearch(
+            {
+                (DDG_URL, "site:instagram.com 나는솔로", "0"): (
+                    _ddg_hit(
+                        "https://www.instagram.com/p/DepKS-IHSxr/",
+                        "나는솔로 34기 영호",
+                        "나는솔로 34기",
+                    ),
+                    200,
+                ),
+            }
+        )
+        posts = fetch_social(client, "ig", now, backfill=True, deadline=time.monotonic() - 1)
+        self.assertEqual(posts, [])
+        self.assertEqual(client.calls, [])
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
     def test_ddg_challenge_skips_later_queries(self):

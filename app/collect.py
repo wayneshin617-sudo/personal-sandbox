@@ -59,6 +59,7 @@ MAX_QOO_PAGES = 80
 YT_SEARCH_URL = "https://www.youtube.com/results?search_query=%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C&sp=CAI%3D"
 MAX_YT_SEARCH_PAGES = 4
 MAX_YT_COMMENT_PAGES = 20
+COLLECT_SECS = 38
 DDG_URL = "https://html.duckduckgo.com/html/"
 BING_URL = "https://www.bing.com/search"
 MAX_SOCIAL_PAGES = 8
@@ -302,19 +303,23 @@ def social_needs_backfill(board: dict, source: str) -> bool:
     return source_needs_backfill(board, source)
 
 
+def past_deadline(deadline: float | None) -> bool:
+    return deadline is not None and time.monotonic() >= deadline
+
+
 def _get_text(client: httpx.Client, url: str, headers: dict[str, str]) -> str:
     last_error: Exception | None = None
-    for attempt in range(4):
+    for attempt in range(2):
         try:
             response = client.get(url, headers=headers)
             if response.status_code in {429, 500, 502, 503, 504}:
-                time.sleep(0.7 * (attempt + 1))
+                time.sleep(0.4 * (attempt + 1))
                 continue
             response.raise_for_status()
             return response.text
         except httpx.HTTPError as exc:
             last_error = exc
-            time.sleep(0.7 * (attempt + 1))
+            time.sleep(0.4 * (attempt + 1))
     raise RuntimeError(f"목록을 읽지 못했습니다: {url}") from last_error
 
 
@@ -355,11 +360,20 @@ def _read_once(client: httpx.Client, url: str, headers: dict[str, str]) -> str:
     return response.text
 
 
-def fetch_dc_replies(client: httpx.Client, posts: list[dict], now: datetime | None = None) -> list[dict]:
+def fetch_dc_replies(
+    client: httpx.Client,
+    posts: list[dict],
+    now: datetime | None = None,
+    *,
+    deadline: float | None = None,
+) -> list[dict]:
     """최근 10시간 글을 시간대마다 나눠 최신 댓글을 읽는다."""
     current = now or datetime.now(KST)
     found: list[dict] = []
     for post in _spread_targets(posts, MAX_DC_REPLY_THREADS, current):
+        if past_deadline(deadline):
+            print("dc comments budget", flush=True)
+            break
         no = post.get("external_id") or ""
         try:
             html = _read_once(client, post["url"], {"Referer": "https://gall.dcinside.com/"})
@@ -415,11 +429,20 @@ def fetch_dc_replies(client: httpx.Client, posts: list[dict], now: datetime | No
     return found
 
 
-def fetch_qoo_replies(client: httpx.Client, posts: list[dict], now: datetime | None = None) -> list[dict]:
+def fetch_qoo_replies(
+    client: httpx.Client,
+    posts: list[dict],
+    now: datetime | None = None,
+    *,
+    deadline: float | None = None,
+) -> list[dict]:
     """더쿠 댓글 목록을 읽는다. 비회원에게 가린 한 시간 안 댓글은 빠진다."""
     current = now or datetime.now(KST)
     found: list[dict] = []
     for post in _spread_targets(posts, MAX_QOO_REPLY_THREADS, current):
+        if past_deadline(deadline):
+            print("qoo comments budget", flush=True)
+            break
         sid = post.get("external_id") or ""
         try:
             response = client.post(
@@ -446,10 +469,19 @@ def fetch_qoo_replies(client: httpx.Client, posts: list[dict], now: datetime | N
     return found
 
 
-def fetch_blind_replies(client: httpx.Client, posts: list[dict], now: datetime) -> list[dict]:
+def fetch_blind_replies(
+    client: httpx.Client,
+    posts: list[dict],
+    now: datetime,
+    *,
+    deadline: float | None = None,
+) -> list[dict]:
     """블라인드 글에 붙어 있는 댓글을 읽는다."""
     found: list[dict] = []
     for post in _spread_targets(posts, MAX_BLIND_REPLY_THREADS, now):
+        if past_deadline(deadline):
+            print("blind comments budget", flush=True)
+            break
         try:
             html = _read_once(client, post["url"], {"Referer": "https://www.teamblind.com/"})
             if not html:
@@ -465,11 +497,20 @@ def fetch_blind_replies(client: httpx.Client, posts: list[dict], now: datetime) 
     return found
 
 
-def fetch_dc(client: httpx.Client, known_ids: set[str], *, backfill: bool) -> list[dict]:
+def fetch_dc(
+    client: httpx.Client,
+    known_ids: set[str],
+    *,
+    backfill: bool,
+    deadline: float | None = None,
+) -> list[dict]:
     headers = {"Referer": "https://gall.dcinside.com/"}
     found: list[dict] = []
     seen_page: set[str] = set()
     for page in range(1, MAX_DC_PAGES + 1):
+        if past_deadline(deadline):
+            print("dc budget", flush=True)
+            break
         html = _get_text(client, DC_URL.format(page=page), headers)
         batch = parse_dc(html)
         if not batch:
@@ -497,7 +538,7 @@ def fetch_dc(client: httpx.Client, known_ids: set[str], *, backfill: bool) -> li
             break
         time.sleep(0.12)
     try:
-        replies = fetch_dc_replies(client, found)
+        replies = fetch_dc_replies(client, found, deadline=deadline)
     except Exception as exc:
         print(f"dc comments failed: {exc}", flush=True)
         replies = []
@@ -534,11 +575,21 @@ def stamp_newest_first(items: list[dict], now: datetime, label_time) -> None:
         item["posted_at"] = as_kst_iso(stamp - timedelta(seconds=offset))
 
 
-def fetch_qoo(client: httpx.Client, known_ids: set[str], *, backfill: bool, now: datetime) -> list[dict]:
+def fetch_qoo(
+    client: httpx.Client,
+    known_ids: set[str],
+    *,
+    backfill: bool,
+    now: datetime,
+    deadline: float | None = None,
+) -> list[dict]:
     headers = {"Referer": "https://theqoo.net/"}
     found: list[dict] = []
     seen_page: set[str] = set()
     for page in range(1, MAX_QOO_PAGES + 1):
+        if past_deadline(deadline):
+            print("qoo budget", flush=True)
+            break
         html = _get_text(client, QOO_URL.format(page=page), headers)
         batch = parse_theqoo(html)
         if not batch:
@@ -560,14 +611,14 @@ def fetch_qoo(client: httpx.Client, known_ids: set[str], *, backfill: bool, now:
     if backfill and not found:
         raise RuntimeError("더쿠 목록에서 글을 찾지 못했습니다")
     try:
-        replies = fetch_qoo_replies(client, found, now)
+        replies = fetch_qoo_replies(client, found, now, deadline=deadline)
     except Exception as exc:
         print(f"qoo comments failed: {exc}", flush=True)
         replies = []
     return found + replies
 
 
-def fetch_blind(client: httpx.Client, now: datetime) -> list[dict]:
+def fetch_blind(client: httpx.Client, now: datetime, *, deadline: float | None = None) -> list[dict]:
     headers = {"Referer": "https://www.teamblind.com/"}
     html = _get_text(client, BLIND_URL, headers)
     posts = parse_blind(html)
@@ -575,7 +626,7 @@ def fetch_blind(client: httpx.Client, now: datetime) -> list[dict]:
         raise RuntimeError("블라인드 목록에서 글을 찾지 못했습니다")
     assign_blind_times(posts, now)
     try:
-        replies = fetch_blind_replies(client, posts, now)
+        replies = fetch_blind_replies(client, posts, now, deadline=deadline)
     except Exception as exc:
         print(f"blind comments failed: {exc}", flush=True)
         replies = []
@@ -613,6 +664,7 @@ def _youtube_comments(
     now: datetime,
     *,
     backfill: bool,
+    deadline: float | None = None,
 ) -> list[dict]:
     html = _get_text(client, f"https://www.youtube.com/watch?v={video['video_id']}", {"Referer": "https://www.youtube.com/"})
     meta = parse_youtube_watch_meta(html)
@@ -629,6 +681,8 @@ def _youtube_comments(
     page_limit = MAX_YT_COMMENT_PAGES if backfill else 3
     found: list[dict] = []
     for _page in range(page_limit):
+        if past_deadline(deadline):
+            break
         data = _yt_json(client, key, version, "next", token)
         batch, token = parse_youtube_comments(data, video)
         if not batch:
@@ -645,7 +699,14 @@ def _youtube_comments(
     return found
 
 
-def fetch_youtube(client: httpx.Client, known_ids: set[str], *, backfill: bool, now: datetime) -> list[dict]:
+def fetch_youtube(
+    client: httpx.Client,
+    known_ids: set[str],
+    *,
+    backfill: bool,
+    now: datetime,
+    deadline: float | None = None,
+) -> list[dict]:
     html = _get_text(client, YT_SEARCH_URL, {"Referer": "https://www.youtube.com/"})
     key, version = _yt_client_info(html)
     data = load_youtube_data(html)
@@ -653,11 +714,17 @@ def fetch_youtube(client: httpx.Client, known_ids: set[str], *, backfill: bool, 
     seen_videos: set[str] = set()
     page_limit = MAX_YT_SEARCH_PAGES if backfill else 1
     for _page in range(page_limit):
+        if past_deadline(deadline):
+            print("yt budget", flush=True)
+            break
         videos, token = parse_youtube_search(data)
         if not videos:
             break
         stop_search = False
         for video in videos:
+            if past_deadline(deadline):
+                stop_search = True
+                break
             if video["video_id"] in seen_videos:
                 continue
             seen_videos.add(video["video_id"])
@@ -669,7 +736,9 @@ def fetch_youtube(client: httpx.Client, known_ids: set[str], *, backfill: bool, 
             if published < CUTOFF - timedelta(hours=18):
                 stop_search = True
                 continue
-            batch = _youtube_comments(client, key, version, video, known_ids, now, backfill=backfill)
+            batch = _youtube_comments(
+                client, key, version, video, known_ids, now, backfill=backfill, deadline=deadline
+            )
             found.extend(batch)
             print(f"yt {video['video_id']} {video.get('published_label')} comments {len(batch)}", flush=True)
             time.sleep(0.08)
@@ -741,7 +810,14 @@ def _absorb_social(batch: list[dict], found: list[dict], seen: set[str], now: da
     return added
 
 
-def fetch_social(client: httpx.Client, source: str, now: datetime, *, backfill: bool = False) -> list[dict]:
+def fetch_social(
+    client: httpx.Client,
+    source: str,
+    now: datetime,
+    *,
+    backfill: bool = False,
+    deadline: float | None = None,
+) -> list[dict]:
     found: list[dict] = []
     seen: set[str] = set()
     queries = list(SOCIAL_QUERIES[source])
@@ -750,7 +826,13 @@ def fetch_social(client: httpx.Client, source: str, now: datetime, *, backfill: 
     page_limit = MAX_SOCIAL_PAGES if backfill else LIVE_SOCIAL_PAGES
     ddg_alive = True
     for query in queries:
+        if past_deadline(deadline):
+            print(f"{source} search budget", flush=True)
+            break
         for page in range(page_limit):
+            if past_deadline(deadline):
+                print(f"{source} search budget", flush=True)
+                return found
             added = 0
             got_html = False
             if ddg_alive:
@@ -772,7 +854,7 @@ def fetch_social(client: httpx.Client, source: str, now: datetime, *, backfill: 
                 break
             if not got_html and page > 0:
                 break
-            time.sleep(0.8)
+            time.sleep(0.35)
     return found
 
 
@@ -787,29 +869,36 @@ def fetch_sources(
     threads_backfill: bool = False,
     ig_backfill: bool = False,
     fb_backfill: bool = False,
+    deadline: float | None = None,
 ) -> dict[str, list[dict]]:
     headers = {
         "User-Agent": UA,
         "Accept": "text/html,application/xhtml+xml",
         "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
     }
-    timeout = httpx.Timeout(25.0, connect=8.0)
+    timeout = httpx.Timeout(8.0, connect=5.0)
     now = datetime.now(KST).replace(microsecond=0)
     fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": [], "fb": []}
+    stop_at = deadline if deadline is not None else time.monotonic() + COLLECT_SECS
     with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
         for name, loader in (
-            ("dc", lambda: fetch_dc(client, known_dc, backfill=dc_backfill)),
-            ("blind", lambda: fetch_blind(client, now)),
-            ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now)),
-            ("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now)),
-            ("threads", lambda: fetch_social(client, "threads", now, backfill=threads_backfill)),
-            ("ig", lambda: fetch_social(client, "ig", now, backfill=ig_backfill)),
-            ("fb", lambda: fetch_social(client, "fb", now, backfill=fb_backfill)),
+            ("dc", lambda: fetch_dc(client, known_dc, backfill=dc_backfill, deadline=stop_at)),
+            ("blind", lambda: fetch_blind(client, now, deadline=stop_at)),
+            ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now, deadline=stop_at)),
+            ("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now, deadline=stop_at)),
+            ("threads", lambda: fetch_social(client, "threads", now, backfill=threads_backfill, deadline=stop_at)),
+            ("ig", lambda: fetch_social(client, "ig", now, backfill=ig_backfill, deadline=stop_at)),
+            ("fb", lambda: fetch_social(client, "fb", now, backfill=fb_backfill, deadline=stop_at)),
         ):
+            if past_deadline(stop_at):
+                print(f"{name} skip budget", flush=True)
+                continue
+            started = time.monotonic()
             try:
                 fetched[name] = loader()
             except Exception as exc:
                 print(f"{name} failed: {exc}", flush=True)
+            print(f"{name} {len(fetched[name])} {time.monotonic() - started:.1f}s", flush=True)
     if not any(fetched.values()):
         raise RuntimeError("모든 게시판을 읽지 못했습니다")
     return fetched

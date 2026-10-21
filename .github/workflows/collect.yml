@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: solo-collect
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   collect:
@@ -38,12 +38,13 @@ jobs:
           set -u
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git checkout -B main origin/main
+          export GIT_TERMINAL_PROMPT=0
           deadline=$((SECONDS + 170 * 60))
           while [ "$SECONDS" -lt "$deadline" ]; do
             start=$SECONDS
-            python -m app.collect || echo "수집 실패, 다음 분에 다시 시도"
+            git fetch origin main
+            git checkout -B main origin/main
+            timeout -k 8 45 python -m app.collect || echo "수집 실패 또는 시간 초과, 다음 분에 다시 시도"
             git add docs/data/posts.json docs/data/meta.json
             if ! git diff --cached --quiet; then
               git commit -m "새 글 반영"
