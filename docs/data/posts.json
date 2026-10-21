@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:40:44+00:00",
+  "updatedAt": "2026-10-21T18:41:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -317813,6 +317813,65 @@
       "firstSeenAt": "2026-10-21T18:40:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75834,
+      "source": "dc",
+      "externalId": "cmt-10963417",
+      "title": "나머지 여출도 있을듯",
+      "excerpt": "영숙 손목, 현숙 전완근, 순자 안보이는 곳 문신",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609796&page=5#cmt_10963417",
+      "postedLabel": "10.22 02:50:17",
+      "postedAt": "2026-10-22T02:50:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:41:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75835,
+      "source": "dc",
+      "externalId": "6610033",
+      "title": "요즘 사주 사이트 4개 정리함",
+      "excerpt": "",
+      "author": "ㅈㅈ",
+      "company": "",
+      "ip": "1.232",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610033&page=1",
+      "postedLabel": "03:40",
+      "postedAt": "2026-10-22T03:40:28+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:41:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75836,
+      "source": "blind",
+      "externalId": "cmt-457822079",
+      "title": "우리회사 20초 여자애들 많은데 대화 잘 되더라",
+      "excerpt": "30초남인데 20초중 여자애들이 좋음",
+      "author": "l********* 작성자",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EC%B4%88%EB%82%A8%EC%9D%B8%EB%8D%B0-20%EC%B4%88%EC%A4%91-%EC%97%AC%EC%9E%90%EC%95%A0%EB%93%A4%EC%9D%B4-%EC%A2%8B%EC%9D%8C-uztnbik2#457822079",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T03:41:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:41:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -317885,7 +317944,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T03:38:26+09:00"
+      "slowAt": "2026-10-22T03:41:25+09:00"
     },
     "ig": {
       "doneIds": [
@@ -318600,6 +318659,7 @@
         "6609781",
         "6609784",
         "6609791",
+        "6609796",
         "6609805",
         "6609806",
         "6609814",
@@ -318650,7 +318710,10 @@
         "6610004",
         "6610007",
         "6610011",
-        "6610026"
+        "6610025",
+        "6610026",
+        "6610031",
+        "6610036"
       ]
     },
     "blind": {
