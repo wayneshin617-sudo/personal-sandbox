@@ -1,0 +1,83 @@
+[
+  {
+    "placeId": "2048789372",
+    "group": "처음 후보",
+    "givenName": "신백옥양꼬치",
+    "sources": [
+      {"label": "제공된 네이버 지도 링크", "url": "https://naver.me/xdj0CXxr"}
+    ],
+    "matchNote": "제공된 짧은 지도 링크가 이 매장(플레이스 2048789372)으로 연결됩니다."
+  },
+  {
+    "placeId": "1158089499",
+    "group": "처음 후보",
+    "givenName": "제주덕구",
+    "sources": [
+      {"label": "hoshea1 블로그", "url": "https://blog.naver.com/hoshea1/224430217833"}
+    ],
+    "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다."
+  },
+  {
+    "placeId": "1943239597",
+    "group": "처음 후보",
+    "givenName": "고반",
+    "sources": [
+      {"label": "seohoun98 블로그", "url": "https://blog.naver.com/seohoun98/224329238891"}
+    ],
+    "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다."
+  },
+  {
+    "placeId": "1817041375",
+    "group": "처음 후보",
+    "givenName": "초월상회",
+    "sources": [],
+    "matchNote": "링크 없이 상호만 제공되어 네이버 플레이스 검색으로 찾았습니다. 경기광주에서 같은 이름의 음식점은 이 한 곳입니다."
+  },
+  {
+    "placeId": "1995663191",
+    "group": "경안동 후보",
+    "givenName": "삼본식당",
+    "sources": [
+      {"label": "syol07 블로그", "url": "https://m.blog.naver.com/syol07/224365902789"}
+    ],
+    "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다. 제공하신 메모대로 경안동이 아니라 도척면(곤지암)에 있습니다."
+  },
+  {
+    "placeId": "1995250951",
+    "group": "경안동 후보",
+    "givenName": "군자대한곱창",
+    "sources": [
+      {"label": "kiran1025 블로그", "url": "https://blog.naver.com/kiran1025/224235756177"}
+    ],
+    "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다. 신백옥양꼬치 경안점과 같은 건물(1층)입니다."
+  },
+  {
+    "placeId": "1293381603",
+    "group": "경안동 후보",
+    "givenName": "고굽연구소",
+    "sources": [
+      {"label": "niningssu 블로그", "url": "https://m.blog.naver.com/niningssu/222420187141"}
+    ],
+    "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다."
+  },
+  {
+    "placeId": "2089603955",
+    "group": "글램핑 고기집",
+    "givenName": "바베큐팩토리",
+    "sources": [
+      {"label": "some419 블로그", "url": "https://blog.naver.com/some419/224389979589"}
+    ],
+    "matchNote": "블로그 본문의 네이버 플레이스 링크가 이 매장입니다."
+  },
+  {
+    "placeId": "973306698",
+    "group": "글램핑 고기집",
+    "givenName": "뜨락바베큐 · 설맥바베큐",
+    "displayName": "뜨락바베큐 (구 설맥바베큐)",
+    "sources": [
+      {"label": "pfrim 네이버 클립", "url": "https://m.blog.naver.com/pfrim/clip/14032904"},
+      {"label": "설맥바베큐 방문기", "url": "https://www.matboardchart.com/2025/06/seolmaek-bbq-glamping-review.html"}
+    ],
+    "matchNote": "두 후보를 하나로 합쳤습니다. 네이버에서 '설맥바베큐'를 검색하면 이 매장만 나오고, 이 매장 리뷰에 '설맥바베큐 경기 광주시 남한산성면 회안대로1583번길 41'(같은 주소)이 남아 있습니다. 설맥바베큐 방문기 원문은 사이트 차단으로 열어 보지 못했습니다."
+  }
+]
