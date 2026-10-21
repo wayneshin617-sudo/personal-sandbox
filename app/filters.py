@@ -175,6 +175,28 @@ _GALLERY_SPAM_RE = re.compile(
 # 영상 제목·본문에 이 말이 있으면 나솔 글로 본다.
 SHOW_MARKS = ("나솔", "나는솔로", "나는solo", "iamsolo", "34기")
 
+# 로그인 벽·버튼 문구. 댓글이 아니다.
+LOGIN_WALL = (
+    "forgotpassword",
+    "createnewaccount",
+    "emailorphone",
+    "phonenumberpassword",
+    "orcreatenewaccount",
+    "logintofacebook",
+    "logintoinstagram",
+    "seemoreonfacebook",
+    "continuewithfacebook",
+    "continuewithgoogle",
+    "continuewithapple",
+    "비밀번호를잊으",
+    "새계정만들",
+    "이메일또는전화",
+)
+
+_LOGIN_IMAGE_RE = re.compile(r"^image\s*\d+$", re.I)
+_LOGIN_TIME_RE = re.compile(r"^\d+[smhd]$", re.I)
+_LOGIN_PUNCT_RE = re.compile(r"^[!?.·•\s]+$")
+
 # 제목에만 있고 나솔 표지가 없으면 다른 프로그램이다.
 OTHER_SHOWS = (
     "계약결혼", "환승연애", "돌싱글즈", "솔로지옥", "하트시그널", "결혼작사", "이혼작곡",
@@ -418,6 +440,25 @@ def swear_reason(text: str) -> str | None:
     return None
 
 
+def login_wall_reason(post: dict[str, Any] | str | None) -> str | None:
+    """페북·인스타 로그인 화면 문구는 댓글로 보지 않는다."""
+    if isinstance(post, str) or not post:
+        return None
+    title = (post.get("title") or "").strip()
+    author = (post.get("author") or "").strip()
+    blob = _plain(f"{title} {author}").lower()
+    for mark in LOGIN_WALL:
+        if mark in blob:
+            return mark
+    if _LOGIN_IMAGE_RE.fullmatch(title) or _LOGIN_IMAGE_RE.fullmatch(author):
+        return "image"
+    if _LOGIN_PUNCT_RE.fullmatch(title):
+        return "empty"
+    if _LOGIN_TIME_RE.fullmatch(author):
+        return "time"
+    return None
+
+
 def gallery_spam_reason(post: dict[str, Any] | str | None) -> str | None:
     """ㅇ만 반복된 닉과 나갤러·너갤러·나갤루는 출처와 상관없이 모으지 않는다."""
     if isinstance(post, str) or not post:
@@ -477,6 +518,9 @@ def drop_reason(post: dict[str, Any] | str | None, *, swears: bool = False) -> s
     spam = gallery_spam_reason(post)
     if spam:
         return f"도배:{spam}"
+    wall = login_wall_reason(post)
+    if wall:
+        return f"로그인:{wall}"
     text = post if isinstance(post, str) else post_text(post)
     hit = sagye_reason(text)
     if hit and (hit in SAGYE_SHOW or hit == "사계" or not _has_current_season(normalize(text))):

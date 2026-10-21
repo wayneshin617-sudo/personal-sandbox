@@ -805,7 +805,34 @@ _NAV_NAMES = {
     "like",
     "share",
     "save",
+    "forgot password",
+    "forgot password?",
+    "create new account",
+    "or create new account",
+    "email or phone number",
+    "password",
 }
+_LOGIN_WALL_MARKS = (
+    "forgot password",
+    "create new account",
+    "email or phone",
+    "see more on facebook",
+    "log in to facebook",
+    "log in to instagram",
+    "continue with",
+    "abusealleviation",
+)
+_CHROME_NAME_RE = re.compile(
+    r"^(?:forgot password|log in|login|sign up|create new account|or create new account|"
+    r"email or phone(?: number)?(?: password)?|password|image\s*\d+|\d+[smhd]|like|reply|"
+    r"share|home|notifications?)\??$",
+    re.I,
+)
+_CHROME_BODY_RE = re.compile(
+    r"^(?:or create new account|email or phone(?: number)?(?: password)?|forgot password|"
+    r"create new account|log in(?: to (?:facebook|instagram))?|[!?.·•]+)$",
+    re.I,
+)
 
 
 def jina_markdown(payload) -> str | None:
@@ -860,6 +887,19 @@ def _reply_body_lines(chunk: str) -> str:
         if sum(len(part) for part in lines) >= 280:
             break
     return clean(" ".join(lines))[:300]
+
+
+def _is_login_wall(markdown: str) -> bool:
+    text = (markdown or "").lower()
+    return sum(1 for mark in _LOGIN_WALL_MARKS if mark in text) >= 2
+
+
+def _is_chrome_comment(name: str, body: str) -> bool:
+    if _CHROME_NAME_RE.match((name or "").strip()):
+        return True
+    if _CHROME_BODY_RE.match((body or "").strip()):
+        return True
+    return False
 
 
 def _comment_key(parent_id: str, author: str, title: str) -> str:
@@ -919,6 +959,8 @@ def _named_comment_posts(
 ) -> list[dict]:
     parent_id, parent_title, parent_url = _parent_fields(parent)
     text = markdown or ""
+    if _is_login_wall(text):
+        return []
     headed = _COMMENTS_HEAD.search(text)
     if headed:
         text = text[headed.start() :]
@@ -934,6 +976,8 @@ def _named_comment_posts(
         end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
         body = _reply_body_lines(text[start:end])
         if not body or body == parent_title or body[:40] == (parent_title or "")[:40]:
+            continue
+        if _is_chrome_comment(name, body) or _is_chrome_comment(handle.replace("-", " "), body):
             continue
         key = _comment_key(parent_id or handle, name, body)
         if key in seen:

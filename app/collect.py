@@ -1116,7 +1116,7 @@ def fetch_social(
 
 def _social_comments_finished(source: str, markdown: str, batch: list[dict]) -> bool:
     """댓글을 실제로 읽었거나, 쓰레드처럼 본문을 해석한 뒤에만 끝난 글로 본다."""
-    if batch:
+    if any(should_keep(item) for item in batch):
         return True
     if source == "threads":
         return True

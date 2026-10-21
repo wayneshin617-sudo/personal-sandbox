@@ -854,6 +854,21 @@ FB_REPLY_MD = """
 Like · Reply · 2h
 """
 
+FB_LOGIN_MD = """
+Log in to Facebook
+
+[Forgot password?](https://www.facebook.com/recover/initiate)
+or Create new account
+
+[Image 4](https://www.facebook.com/login)
+Email or phone number Password
+
+[4d](https://www.facebook.com/login)
+!
+
+See more on Facebook
+"""
+
 
 class _FakeJina:
     def __init__(self, pages: dict[str, tuple[object, int]]):
@@ -930,6 +945,7 @@ class SocialReplyTest(unittest.TestCase):
         fb = parse_facebook_replies(FB_REPLY_MD, fb_parent)
         self.assertEqual(len(fb), 1)
         self.assertEqual(fb[0]["title"], "순자 직장 얘기 봤음")
+        self.assertEqual(parse_facebook_replies(FB_LOGIN_MD, fb_parent), [])
         self.assertEqual(fb[0]["source"], "fb")
 
     def test_comments_need_backfill_includes_new_social_and_counted_posts(self):

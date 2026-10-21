@@ -61,6 +61,25 @@
   const SWEAR_JAMO = ["ㅅㅂ", "ㅆㅂ", "ㅅㅍ", "ㅂㅅ", "ㅈㄹ"];
   const GALLERY_SPAM_RE = /^(?:ㅇ(?:\s*ㅇ)*|나갤러\d*|너갤러\d*|나갤루\d*)(?:\([^)]*\))?$/;
   const SHOW_MARKS = ["나솔", "나는솔로", "나는solo", "iamsolo", "34기"];
+  const LOGIN_WALL = [
+    "forgotpassword",
+    "createnewaccount",
+    "emailorphone",
+    "phonenumberpassword",
+    "orcreatenewaccount",
+    "logintofacebook",
+    "logintoinstagram",
+    "seemoreonfacebook",
+    "continuewithfacebook",
+    "continuewithgoogle",
+    "continuewithapple",
+    "비밀번호를잊으",
+    "새계정만들",
+    "이메일또는전화",
+  ];
+  const LOGIN_IMAGE_RE = /^image\s*\d+$/i;
+  const LOGIN_TIME_RE = /^\d+[smhd]$/i;
+  const LOGIN_PUNCT_RE = /^[!?.·•\s]+$/;
   const OTHER_SHOWS = ["계약결혼", "환승연애", "돌싱글즈", "솔로지옥", "하트시그널", "결혼작사", "이혼작곡"];
   const ATTACKS = [
     "죽어", "꺼져", "디져", "뒤져", "뒤질",
@@ -253,6 +272,19 @@
     return SWEARS.find((part) => folded.includes(part)) || "";
   }
 
+  function loginWallReason(post) {
+    if (!post || typeof post === "string") return "";
+    const title = String(post.title || "").trim();
+    const author = String(post.author || "").trim();
+    const blob = plain(`${title} ${author}`).toLowerCase();
+    const hit = LOGIN_WALL.find((mark) => blob.includes(mark));
+    if (hit) return hit;
+    if (LOGIN_IMAGE_RE.test(title) || LOGIN_IMAGE_RE.test(author)) return "image";
+    if (LOGIN_PUNCT_RE.test(title)) return "empty";
+    if (LOGIN_TIME_RE.test(author)) return "time";
+    return "";
+  }
+
   function gallerySpamReason(post) {
     if (!post || typeof post === "string") return "";
     const author = String(post.author || "").trim();
@@ -291,6 +323,8 @@
     if (isBlockedYoutube(post)) return "유튜브:차단";
     const spam = gallerySpamReason(post);
     if (spam) return `도배:${spam}`;
+    const wall = loginWallReason(post);
+    if (wall) return `로그인:${wall}`;
     const text = postText(post);
     if (isSagye(text)) return `사계:${sagyeReason(text)}`;
     const politics = politicalReason(text);
@@ -326,6 +360,7 @@
     dropReason,
     shouldKeep,
     gallerySpamReason,
+    loginWallReason,
     unrelatedReason,
     attackReason,
     swearReason,
