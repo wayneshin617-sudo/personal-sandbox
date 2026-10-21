@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T08:26:51+00:00",
+  "updatedAt": "2026-10-21T08:33:50+00:00",
   "posts": [
     {
       "id": 99,
@@ -205312,6 +205312,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T08:26:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70034,
+      "source": "blind",
+      "externalId": "cmt-457751575",
+      "title": "까더라도 최소 중반 이후에 까자 이번 기수 재밌을거 같다",
+      "excerpt": "",
+      "author": "i*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B7%B8%EB%A7%8C%EA%B9%8C%EB%9D%BC-fxczjgne#457751575",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:33:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:33:50+00:00",
       "isSeed": false,
       "kind": "reply"
     }
