@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: solo-collect-v2
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -72,7 +72,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
       - name: Queue the next collect
-        if: always()
+        if: success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run collect.yml --ref main
