@@ -726,8 +726,13 @@ def parse_social_search(html: str, source: str, now: datetime) -> list[dict]:
         seen.add(external_id)
         snippet_el = node.select_one(".result__snippet, .b_caption")
         date_el = node.select_one(".news_dt")
+        attr_el = node.select_one(".b_attribution, cite")
         snippet = clean(snippet_el.get_text(" ", strip=True)) if snippet_el is not None else ""
-        dated = clean(date_el.get_text(" ", strip=True)) if date_el is not None else ""
+        dated = " ".join(
+            clean(el.get_text(" ", strip=True))
+            for el in (date_el, attr_el)
+            if el is not None
+        )
         title = _social_title(link.get_text(" ", strip=True))
         if not title:
             title = snippet[:300]
@@ -738,7 +743,7 @@ def parse_social_search(html: str, source: str, now: datetime) -> list[dict]:
             excerpt = ""
         stamp = _shortcode_time(external_id) if kind in {"threads", "ig"} else None
         if stamp is None:
-            stamp = _snippet_age(f"{dated} {title} {snippet}", now)
+            stamp = _snippet_age(f"{title} {snippet} {dated}", now)
         posted_label = ""
         posted_at = ""
         if stamp is not None:

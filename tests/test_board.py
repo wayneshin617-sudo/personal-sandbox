@@ -1,8 +1,21 @@
 import unittest
+from unittest.mock import patch
+from urllib.parse import quote
 
 from datetime import datetime, timedelta, timezone
 
-from app.collect import KST, _spread_targets, assign_blind_times, empty_board, merge, qoo_label_time
+from app.collect import (
+    BING_URL,
+    DDG_URL,
+    KST,
+    _spread_targets,
+    assign_blind_times,
+    empty_board,
+    fetch_social,
+    merge,
+    qoo_label_time,
+    social_needs_backfill,
+)
 from app.parsers import (
     canonicalize_social_url,
     parse_blind,
@@ -185,6 +198,17 @@ class ParserTest(unittest.TestCase):
         )
         self.assertEqual(bing[0], "fb")
         self.assertEqual(bing[1], "1610763734181972")
+        fb_oct_html = """
+        <li class="b_algo">
+          <h2><a href="https://www.facebook.com/HR5MM/posts/1188713067151398">나는솔로 34기 순자 폭로글</a></h2>
+          <div class="b_caption">나는솔로 34기 간호사 순자</div>
+          <cite>facebook.com</cite>
+          <span class="news_dt">2026년 10월 8일</span>
+        </li>
+        """
+        fb_oct = parse_social_search(fb_oct_html, "fb", now)[0]
+        self.assertEqual(fb_oct["external_id"], "1188713067151398")
+        self.assertTrue(fb_oct["posted_at"].startswith("2026-10-08"))
 
     def test_youtube_search_and_top_level_comments(self):
         videos, _token = parse_youtube_search(
@@ -336,6 +360,167 @@ class ParserTest(unittest.TestCase):
         self.assertEqual(blind[0]["posted_label"], "2시간")
         self.assertEqual(blind[0]["recommends"], 3)
         self.assertEqual(blind[0]["kind"], "reply")
+
+
+def _ddg_hit(url: str, title: str, snippet: str) -> str:
+    return (
+        '<div class="result"><h2 class="result__title">'
+        f'<a class="result__a" href="//duckduckgo.com/l/?uddg={quote(url, safe="")}">{title}</a>'
+        f'</h2><a class="result__snippet">{snippet}</a></div>'
+    )
+
+
+def _bing_hit(url: str, title: str, snippet: str, dated: str = "") -> str:
+    stamp = f'<span class="news_dt">{dated}</span>' if dated else ""
+    return (
+        f'<li class="b_algo"><h2><a href="{url}">{title}</a></h2>'
+        f'<div class="b_caption">{stamp}{snippet}</div></li>'
+    )
+
+
+class _FakeSearch:
+    def __init__(self, table: dict[tuple[str, str, str], tuple[str, int]]):
+        self.table = table
+        self.calls: list[tuple[str, dict[str, str]]] = []
+
+    def get(self, url, params=None, headers=None):
+        params = dict(params or {})
+        self.calls.append((url, params))
+        offset = params.get("first") or "1" if url == BING_URL else params.get("s") or "0"
+        key = (url, params.get("q", ""), offset)
+        html, status = self.table.get(key, ("", 200))
+
+        class _Resp:
+            def __init__(self, text: str, status_code: int):
+                self.text = text
+                self.status_code = status_code
+
+            def raise_for_status(self):
+                if self.status_code >= 400:
+                    raise RuntimeError(self.status_code)
+
+        return _Resp(html, status)
+
+
+class SocialCollectTest(unittest.TestCase):
+    def test_sparse_social_source_needs_two_week_pages(self):
+        board = empty_board()
+        self.assertTrue(social_needs_backfill(board, "ig"))
+        board["posts"] = [
+            {"source": "ig", "postedAt": "2026-10-08T00:16:00+09:00"} for _ in range(9)
+        ]
+        self.assertTrue(social_needs_backfill(board, "ig"))
+        board["posts"] = [
+            {"source": "ig", "postedAt": "2026-10-08T00:16:00+09:00"} for _ in range(24)
+        ]
+        self.assertFalse(social_needs_backfill(board, "ig"))
+        board["posts"] = [
+            {"source": "fb", "postedAt": "2026-10-20T18:00:00+09:00"} for _ in range(24)
+        ]
+        self.assertTrue(social_needs_backfill(board, "fb"))
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_social_backfill_turns_search_pages(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        q = "site:instagram.com 나는솔로"
+        pages = {
+            (DDG_URL, q, "0"): (
+                _ddg_hit(
+                    "https://www.instagram.com/p/DepKS-IHSxr/",
+                    "나는솔로 34기 영호",
+                    "나는솔로 34기 영호 전직장 동료",
+                ),
+                200,
+            ),
+            (DDG_URL, q, "10"): (
+                _ddg_hit(
+                    "https://www.instagram.com/p/DeMqPBnDz77/",
+                    "나는솔로 34기 인터뷰",
+                    "SBS Plus 나는솔로 34기",
+                ),
+                200,
+            ),
+            (BING_URL, q, "1"): (
+                _bing_hit(
+                    "https://www.instagram.com/p/DefnuQ0CU8O/",
+                    "나는솔로 34기 다둥이",
+                    "나는솔로 34기 다둥이 특집",
+                ),
+                200,
+            ),
+            (BING_URL, q, "11"): (
+                _bing_hit(
+                    "https://www.instagram.com/reel/DeMqs5hiDLP/",
+                    "나는솔로 주말",
+                    "나는솔로 34기 주말",
+                ),
+                200,
+            ),
+        }
+        client = _FakeSearch(pages)
+        posts = fetch_social(client, "ig", now, backfill=True)
+        ids = {item["external_id"] for item in posts}
+        self.assertEqual(ids, {"DepKS-IHSxr", "DeMqPBnDz77", "DefnuQ0CU8O", "DeMqs5hiDLP"})
+        ddg_offsets = [params.get("s", "0") for url, params in client.calls if url == DDG_URL and params.get("q") == q]
+        bing_firsts = [params.get("first", "1") for url, params in client.calls if url == BING_URL and params.get("q") == q]
+        self.assertIn("10", ddg_offsets)
+        self.assertIn("11", bing_firsts)
+        extra = [params.get("q") for _, params in client.calls if "10월" in params.get("q", "")]
+        self.assertTrue(extra)
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_ddg_challenge_skips_later_queries(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        q = "site:instagram.com 나는솔로"
+        client = _FakeSearch(
+            {
+                (DDG_URL, q, "0"): ('<div class="anomaly-modal">If this persists</div>', 202),
+                (BING_URL, q, "1"): (
+                    _bing_hit(
+                        "https://www.instagram.com/p/DepKS-IHSxr/",
+                        "나는솔로 34기 영호",
+                        "나는솔로 34기",
+                    ),
+                    200,
+                ),
+            }
+        )
+        posts = fetch_social(client, "ig", now, backfill=True)
+        self.assertEqual([item["external_id"] for item in posts], ["DepKS-IHSxr"])
+        ddg_queries = [params.get("q") for url, params in client.calls if url == DDG_URL]
+        self.assertEqual(ddg_queries, [q, q])
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_live_social_stays_on_first_page(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        hit = _ddg_hit(
+            "https://www.instagram.com/p/DepKS-IHSxr/",
+            "나는솔로 34기 영호",
+            "나는솔로 34기",
+        )
+        client = _FakeSearch(
+            {
+                (DDG_URL, "site:instagram.com 나는솔로", "0"): (hit, 200),
+                (DDG_URL, "site:instagram.com 나솔 34기", "0"): (hit, 200),
+                (DDG_URL, "site:instagram.com 나는solo", "0"): (hit, 200),
+                (DDG_URL, "site:instagram.com 나는솔로", "10"): (
+                    _ddg_hit(
+                        "https://www.instagram.com/p/DeMqPBnDz77/",
+                        "나는솔로 34기 인터뷰",
+                        "나는솔로 34기",
+                    ),
+                    200,
+                ),
+            }
+        )
+        posts = fetch_social(client, "ig", now, backfill=False)
+        self.assertEqual([item["external_id"] for item in posts], ["DepKS-IHSxr"])
+        ddg_offsets = [params.get("s") for url, params in client.calls if url == DDG_URL]
+        self.assertEqual(ddg_offsets, [None, None, None])
+        self.assertFalse(any("10월" in params.get("q", "") for _, params in client.calls))
+        self.assertFalse(
+            any(params.get("first") for url, params in client.calls if url == BING_URL)
+        )
 
 
 def sample(external_id, title, posted_at="2026-10-13T12:00:00+09:00"):

@@ -61,6 +61,11 @@ MAX_YT_SEARCH_PAGES = 4
 MAX_YT_COMMENT_PAGES = 20
 DDG_URL = "https://html.duckduckgo.com/html/"
 BING_URL = "https://www.bing.com/search"
+MAX_SOCIAL_PAGES = 8
+LIVE_SOCIAL_PAGES = 1
+DDG_PAGE_SIZE = 10
+BING_PAGE_SIZE = 10
+SOCIAL_FILL_MIN = 24
 SOCIAL_QUERIES = {
     "threads": (
         "site:threads.com 나는솔로",
@@ -76,6 +81,11 @@ SOCIAL_QUERIES = {
         "site:facebook.com 나는솔로 34기",
         "site:facebook.com 나는솔로",
     ),
+}
+SOCIAL_BACKFILL_QUERIES = {
+    "threads": ("site:threads.com 나는솔로 10월", "site:threads.com 나솔 34기 10월"),
+    "ig": ("site:instagram.com 나는솔로 10월", "site:instagram.com 나솔 34기 10월"),
+    "fb": ("site:facebook.com 나는솔로 10월", "site:facebook.com 나솔 34기 10월"),
 }
 _YT_KEY = re.compile(r'INNERTUBE_API_KEY":"([^"]+)"')
 _YT_VER = re.compile(r'INNERTUBE_CLIENT_VERSION":"([^"]+)"')
@@ -282,6 +292,14 @@ def source_needs_backfill(board: dict, source: str) -> bool:
     if not times:
         return True
     return min(times) > CUTOFF + timedelta(hours=3)
+
+
+def social_needs_backfill(board: dict, source: str) -> bool:
+    """검색은 게시판처럼 최신순이 아니라, 적으면 2주 분량을 더 넘긴다."""
+    count = sum(1 for post in board["posts"] if post.get("source") == source)
+    if count < SOCIAL_FILL_MIN:
+        return True
+    return source_needs_backfill(board, source)
 
 
 def _get_text(client: httpx.Client, url: str, headers: dict[str, str]) -> str:
@@ -664,14 +682,27 @@ def fetch_youtube(client: httpx.Client, known_ids: set[str], *, backfill: bool, 
     return found
 
 
-def fetch_ddg(client: httpx.Client, query: str) -> str:
+def _ddg_blocked(html: str, status: int | None = None) -> bool:
+    if status in {202, 429, 500, 502, 503, 504}:
+        return True
+    text = html or ""
+    return "anomaly-modal" in text or "If this persists" in text
+
+
+def fetch_ddg(client: httpx.Client, query: str, *, start: int = 0) -> str:
     headers = {"Referer": "https://html.duckduckgo.com/html/", "Accept": "text/html"}
+    params: dict[str, str] = {"q": query, "kl": "kr-ko"}
+    if start:
+        params["s"] = str(start)
     last = ""
-    for attempt in range(4):
+    tries = 2 if start == 0 else 1
+    for attempt in range(tries):
         try:
-            response = client.get(DDG_URL, params={"q": query, "kl": "kr-ko"}, headers=headers)
+            response = client.get(DDG_URL, params=params, headers=headers)
             last = response.text
-            if response.status_code in {202, 429, 500, 502, 503, 504} or "anomaly-modal" in last or "If this persists" in last:
+            if _ddg_blocked(last, response.status_code):
+                if start:
+                    return last
                 time.sleep(0.8 * (attempt + 1))
                 continue
             response.raise_for_status()
@@ -681,10 +712,14 @@ def fetch_ddg(client: httpx.Client, query: str) -> str:
     return last
 
 
-def fetch_bing(client: httpx.Client, query: str) -> str:
+def fetch_bing(client: httpx.Client, query: str, *, first: int = 1) -> str:
     headers = {"Referer": "https://www.bing.com/", "Accept": "text/html"}
+    params: dict[str, str] = {"q": query, "setlang": "ko-KR"}
+    if first > 1:
+        params["first"] = str(first)
+        params["FORM"] = "PORE"
     try:
-        response = client.get(BING_URL, params={"q": query, "setlang": "ko-KR"}, headers=headers)
+        response = client.get(BING_URL, params=params, headers=headers)
         response.raise_for_status()
         return response.text
     except httpx.HTTPError as exc:
@@ -706,17 +741,38 @@ def _absorb_social(batch: list[dict], found: list[dict], seen: set[str], now: da
     return added
 
 
-def fetch_social(client: httpx.Client, source: str, now: datetime) -> list[dict]:
+def fetch_social(client: httpx.Client, source: str, now: datetime, *, backfill: bool = False) -> list[dict]:
     found: list[dict] = []
     seen: set[str] = set()
-    for query in SOCIAL_QUERIES[source]:
-        html = fetch_ddg(client, query)
-        added = _absorb_social(parse_social_search(html, source, now), found, seen, now)
-        if added == 0:
-            html = fetch_bing(client, query)
-            added += _absorb_social(parse_social_search(html, source, now), found, seen, now)
-        print(f"{source} search {query} {added}", flush=True)
-        time.sleep(0.8)
+    queries = list(SOCIAL_QUERIES[source])
+    if backfill:
+        queries.extend(SOCIAL_BACKFILL_QUERIES.get(source, ()))
+    page_limit = MAX_SOCIAL_PAGES if backfill else LIVE_SOCIAL_PAGES
+    ddg_alive = True
+    for query in queries:
+        for page in range(page_limit):
+            added = 0
+            got_html = False
+            if ddg_alive:
+                html = fetch_ddg(client, query, start=page * DDG_PAGE_SIZE)
+                if _ddg_blocked(html):
+                    ddg_alive = False
+                    print(f"{source} ddg stop {query} s={page * DDG_PAGE_SIZE}", flush=True)
+                else:
+                    batch = parse_social_search(html, source, now)
+                    got_html = bool(batch)
+                    added += _absorb_social(batch, found, seen, now)
+            if backfill or added == 0 or not ddg_alive:
+                html = fetch_bing(client, query, first=1 + page * BING_PAGE_SIZE)
+                batch = parse_social_search(html, source, now)
+                got_html = got_html or bool(batch)
+                added += _absorb_social(batch, found, seen, now)
+            print(f"{source} search {query} p{page + 1} +{added} n={len(found)}", flush=True)
+            if added == 0 and page > 0:
+                break
+            if not got_html and page > 0:
+                break
+            time.sleep(0.8)
     return found
 
 
@@ -728,6 +784,9 @@ def fetch_sources(
     dc_backfill: bool,
     qoo_backfill: bool,
     yt_backfill: bool,
+    threads_backfill: bool = False,
+    ig_backfill: bool = False,
+    fb_backfill: bool = False,
 ) -> dict[str, list[dict]]:
     headers = {
         "User-Agent": UA,
@@ -743,9 +802,9 @@ def fetch_sources(
             ("blind", lambda: fetch_blind(client, now)),
             ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now)),
             ("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now)),
-            ("threads", lambda: fetch_social(client, "threads", now)),
-            ("ig", lambda: fetch_social(client, "ig", now)),
-            ("fb", lambda: fetch_social(client, "fb", now)),
+            ("threads", lambda: fetch_social(client, "threads", now, backfill=threads_backfill)),
+            ("ig", lambda: fetch_social(client, "ig", now, backfill=ig_backfill)),
+            ("fb", lambda: fetch_social(client, "fb", now, backfill=fb_backfill)),
         ):
             try:
                 fetched[name] = loader()
@@ -762,6 +821,9 @@ def main() -> None:
     dc_backfill = force or source_needs_backfill(board, "dc")
     qoo_backfill = force or source_needs_backfill(board, "qoo")
     yt_backfill = force or source_needs_backfill(board, "yt")
+    threads_backfill = force or social_needs_backfill(board, "threads")
+    ig_backfill = force or social_needs_backfill(board, "ig")
+    fb_backfill = force or social_needs_backfill(board, "fb")
     if dc_backfill or qoo_backfill or yt_backfill:
         board["posts"] = [
             post
@@ -780,6 +842,15 @@ def main() -> None:
             CUTOFF.isoformat(),
             flush=True,
         )
+    if threads_backfill or ig_backfill or fb_backfill:
+        print(
+            "social-backfill",
+            "threads" if threads_backfill else "",
+            "ig" if ig_backfill else "",
+            "fb" if fb_backfill else "",
+            CUTOFF.isoformat(),
+            flush=True,
+        )
     known_dc = {post["externalId"] for post in board["posts"] if post.get("source") == "dc"}
     known_qoo = {post["externalId"] for post in board["posts"] if post.get("source") == "qoo"}
     known_yt = {post["externalId"] for post in board["posts"] if post.get("source") == "yt"}
@@ -790,6 +861,9 @@ def main() -> None:
         dc_backfill=dc_backfill,
         qoo_backfill=qoo_backfill,
         yt_backfill=yt_backfill,
+        threads_backfill=threads_backfill,
+        ig_backfill=ig_backfill,
+        fb_backfill=fb_backfill,
     )
     added = merge(board, fetched)
     save_board(DATA_PATH, board)
