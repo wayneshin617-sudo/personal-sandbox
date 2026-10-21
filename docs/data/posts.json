@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T09:14:49+00:00",
+  "updatedAt": "2026-10-21T09:18:48+00:00",
   "posts": [
     {
       "id": 99,
@@ -206027,6 +206027,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T09:14:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70071,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EC%9E%AC%EB%B0%A9%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%88%99-%E3%85%8B%E3%85%8B%E3%85%8B-%EB%AA%A8%EC%A7%80%EB%A6%AC%EC%9D%B8%EA%B0%80-35l60qcv",
+      "title": "나솔 재방보는데 영숙 ㅋㅋㅋ 모지리인가",
+      "excerpt": "남 자기소개 하는데 지루해 이 ㅈㄹ하더니 그다음편에는 남자가 자기소개 한거 듣고 질문하는 수준이 어쩌고 하셨잖아요 이럼 ㅋㅋㅋ 너무 ㅂ신같다 ㅋㅋㅋ 제작진도 일부로 다 내보내네 ㅋㅋㅋ",
+      "author": "으*********",
+      "company": "대우건설",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9E%AC%EB%B0%A9%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%88%99-%E3%85%8B%E3%85%8B%E3%85%8B-%EB%AA%A8%EC%A7%80%EB%A6%AC%EC%9D%B8%EA%B0%80-35l60qcv",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T18:18:24+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-21T09:18:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 70072,
+      "source": "blind",
+      "externalId": "cmt-457756931",
+      "title": "말도 못함",
+      "excerpt": "",
+      "author": "c*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9E%AC%EB%B0%A9%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%88%99-%E3%85%8B%E3%85%8B%E3%85%8B-%EB%AA%A8%EC%A7%80%EB%A6%AC%EC%9D%B8%EA%B0%80-35l60qcv#457756931",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T18:18:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T09:18:48+00:00",
       "isSeed": false,
       "kind": "reply"
     }
