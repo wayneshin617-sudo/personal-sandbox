@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T15:49:18+00:00",
+  "updatedAt": "2026-10-21T15:50:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -302889,6 +302889,84 @@
       "firstSeenAt": "2026-10-21T15:49:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75079,
+      "source": "qoo",
+      "externalId": "4382901325",
+      "title": "영수 영숙 둘이 혐관재질 맛도리라 꼭 데이트했으면",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382901325",
+      "postedLabel": "00:49",
+      "postedAt": "2026-10-22T00:49:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:50:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75080,
+      "source": "blind",
+      "externalId": "cmt-457813104",
+      "title": "앗 여기서 간스유가",
+      "excerpt": "방송보기전 : 순자 저 외모스펙에 왜 노처녀지?",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%A9%EC%86%A1%EB%B3%B4%EA%B8%B0%EC%A0%84-%EC%88%9C%EC%9E%90-%EC%A0%80-%EC%99%B8%EB%AA%A8%EC%8A%A4%ED%8E%99%EC%97%90-%EC%99%9C-%EB%85%B8%EC%B2%98%EB%85%80%EC%A7%80-6nbtb7nn#457813104",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:49:59+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:50:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75081,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EB%82%98%EA%B0%80%EC%84%9C-%EC%9D%B4%EC%83%81%ED%98%95-%EC%96%98%EA%B8%B0%ED%95%A0%EB%95%8C-2dqptjwr",
+      "title": "나솔나가서 이상형 얘기할때",
+      "excerpt": "여자가 낮저밤이 요! 이렇게 말하면 속으로 욕하려나? 좋아하려나??? ㅋㅋ 그냥 상상해봤음",
+      "author": "난*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EB%82%98%EA%B0%80%EC%84%9C-%EC%9D%B4%EC%83%81%ED%98%95-%EC%96%98%EA%B8%B0%ED%95%A0%EB%95%8C-2dqptjwr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:50:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T15:50:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75082,
+      "source": "blind",
+      "externalId": "cmt-457813084",
+      "title": "나무위키 검색 ㄱㄱ",
+      "excerpt": "방송보기전 : 순자 저 외모스펙에 왜 노처녀지?",
+      "author": "l*********",
+      "company": "한국투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%A9%EC%86%A1%EB%B3%B4%EA%B8%B0%EC%A0%84-%EC%88%9C%EC%9E%90-%EC%A0%80-%EC%99%B8%EB%AA%A8%EC%8A%A4%ED%8E%99%EC%97%90-%EC%99%9C-%EB%85%B8%EC%B2%98%EB%85%80%EC%A7%80-6nbtb7nn#457813084",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T00:50:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T15:50:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -302970,7 +303048,7 @@
         "DeN7GW0mp2h",
         "DeNoQ8kEisd"
       ],
-      "slowAt": "2026-10-22T00:46:59+09:00"
+      "slowAt": "2026-10-22T00:50:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -303477,7 +303555,10 @@
         "6608747",
         "6608748",
         "6608751",
-        "6608752"
+        "6608752",
+        "6608755",
+        "6608763",
+        "6608767"
       ]
     },
     "blind": {
@@ -307568,7 +307649,8 @@
         "4382899037",
         "4382899110",
         "4382899139",
-        "4382900717"
+        "4382900717",
+        "4382901325"
       ]
     },
     "keep": "v2",
