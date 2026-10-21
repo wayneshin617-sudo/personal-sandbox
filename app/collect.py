@@ -71,7 +71,7 @@ FAST_TIMEOUT = httpx.Timeout(5.0, connect=3.0)
 SEARCH_TIMEOUT = httpx.Timeout(8.0, connect=4.0)
 JINA_TIMEOUT = httpx.Timeout(150.0, connect=20.0)
 JINA_WAIT_SECS = 140
-SLOW_SOURCES = ("threads", "ig", "fb")
+SLOW_SOURCES = ("threads", "ig")
 SLOW_GAP = timedelta(seconds=150)
 # 1분에 끝나는 디시·블라인드·더쿠만 매분 치고, 느린 소스는 2~3분에 한 번만 연다.
 SOURCE_SECS = {
@@ -80,7 +80,6 @@ SOURCE_SECS = {
     "qoo": 6,
     "threads": 160,
     "ig": 160,
-    "fb": 160,
 }
 COLLECT_SECS = sum(SOURCE_SECS.values())
 COLLECT_GEN = "v3"
@@ -91,7 +90,7 @@ LIVE_SOCIAL_PAGES = 1
 DDG_PAGE_SIZE = 10
 BING_PAGE_SIZE = 10
 JINA_URL = "https://r.jina.ai/"
-SOCIAL_REPLY_LIMITS = {"threads": 3, "ig": 1, "fb": 1}
+SOCIAL_REPLY_LIMITS = {"threads": 3, "ig": 1}
 SOCIAL_QUERIES = {
     "threads": (
         "site:threads.com 나는솔로",
@@ -103,15 +102,10 @@ SOCIAL_QUERIES = {
         "site:instagram.com 나솔 34기",
         "site:instagram.com 나는solo",
     ),
-    "fb": (
-        "site:facebook.com 나는솔로 34기",
-        "site:facebook.com 나는솔로",
-    ),
 }
 SOCIAL_BACKFILL_QUERIES = {
     "threads": ("site:threads.com 나는솔로 10월", "site:threads.com 나솔 34기 10월"),
     "ig": ("site:instagram.com 나는솔로 10월", "site:instagram.com 나솔 34기 10월"),
-    "fb": ("site:facebook.com 나는솔로 10월", "site:facebook.com 나솔 34기 10월"),
 }
 _YT_KEY = re.compile(r'INNERTUBE_API_KEY":"([^"]+)"')
 _YT_VER = re.compile(r'INNERTUBE_CLIENT_VERSION":"([^"]+)"')
@@ -382,7 +376,7 @@ def social_needs_backfill(board: dict, source: str) -> bool:
 def comments_need_backfill(posts: list[dict], crawl: dict | None = None) -> bool:
     """2주치 댓글을 아직 안 연 글이 있으면 다음 분에 이어서 본다."""
     crawl = crawl or {}
-    sources = ("dc", "qoo", "blind", "threads", "ig", "fb")
+    sources = ("dc", "qoo", "blind", "threads", "ig")
     done_by = {source: set((crawl.get(source) or {}).get("doneIds") or []) for source in sources}
     for post in posts:
         source = post.get("source") or ""
@@ -1282,7 +1276,7 @@ def fetch_social_replies(
     found: list[dict] = []
     crawl = crawl if crawl is not None else {}
     fresh_ids = fresh_ids or {}
-    for source in sources or ("threads", "ig", "fb"):
+    for source in sources or ("threads", "ig"):
         if past_deadline(deadline):
             print(f"{source} comments budget", flush=True)
             break
@@ -1339,7 +1333,6 @@ def fetch_sources(
     yt_backfill: bool,
     threads_backfill: bool = False,
     ig_backfill: bool = False,
-    fb_backfill: bool = False,
     deadline: float | None = None,
     social_crawl: dict | None = None,
     stored_posts: list[dict] | None = None,
@@ -1352,7 +1345,7 @@ def fetch_sources(
         "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
     }
     now = datetime.now(KST).replace(microsecond=0)
-    fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": [], "fb": []}
+    fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": []}
     started = time.monotonic()
     overall = deadline if deadline is not None else started + collect_budget()
     crawl = social_crawl if social_crawl is not None else {}
@@ -1360,12 +1353,11 @@ def fetch_sources(
     stored = stored_posts or []
     stored_by = {
         source: [as_internal(post) for post in stored if post.get("source") == source]
-        for source in ("dc", "qoo", "blind", "threads", "ig", "fb")
+        for source in ("dc", "qoo", "blind", "threads", "ig")
     }
     social_backfill = {
         "threads": threads_backfill,
         "ig": ig_backfill,
-        "fb": fb_backfill,
     }
     print(
         "clock "
@@ -1520,7 +1512,6 @@ def main() -> None:
     yt_backfill = force or source_needs_backfill(board, "yt")
     threads_backfill = force or social_needs_backfill(board, "threads")
     ig_backfill = force or social_needs_backfill(board, "ig")
-    fb_backfill = force or social_needs_backfill(board, "fb")
     if dc_backfill or qoo_backfill or yt_backfill:
         board["posts"] = [
             post
@@ -1539,12 +1530,11 @@ def main() -> None:
             CUTOFF.isoformat(),
             flush=True,
         )
-    if threads_backfill or ig_backfill or fb_backfill:
+    if threads_backfill or ig_backfill:
         print(
             "social-backfill",
             "threads" if threads_backfill else "",
             "ig" if ig_backfill else "",
-            "fb" if fb_backfill else "",
             CUTOFF.isoformat(),
             flush=True,
         )
@@ -1559,10 +1549,9 @@ def main() -> None:
             zeros.discard("")
             crawl.setdefault(source, {})["doneIds"] = sorted(zeros)
         crawl["keep"] = "v2"
-    for source in ("ig", "fb"):
-        has_reply = any(post.get("source") == source and post.get("kind") == "reply" for post in board["posts"])
-        if not has_reply:
-            crawl.setdefault(source, {})["doneIds"] = []
+    has_ig_reply = any(post.get("source") == "ig" and post.get("kind") == "reply" for post in board["posts"])
+    if not has_ig_reply:
+        crawl.setdefault("ig", {})["doneIds"] = []
     known_dc = {post["externalId"] for post in board["posts"] if post.get("source") == "dc"}
     known_qoo = {post["externalId"] for post in board["posts"] if post.get("source") == "qoo"}
     known_yt = {post["externalId"] for post in board["posts"] if post.get("source") == "yt"}
@@ -1581,7 +1570,6 @@ def main() -> None:
         yt_backfill=yt_backfill,
         threads_backfill=threads_backfill,
         ig_backfill=ig_backfill,
-        fb_backfill=fb_backfill,
         social_crawl=board.setdefault("socialCrawl", {}),
         stored_posts=board.get("posts") or [],
         comment_crawl=board.setdefault("commentCrawl", {}),

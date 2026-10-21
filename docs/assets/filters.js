@@ -320,6 +320,7 @@
   }
 
   function dropReason(post, options = {}) {
+    if (post && typeof post !== "string" && (post.source || "") === "fb") return "페북";
     if (isBlockedYoutube(post)) return "유튜브:차단";
     const spam = gallerySpamReason(post);
     if (spam) return `도배:${spam}`;

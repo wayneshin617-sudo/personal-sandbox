@@ -184,31 +184,27 @@ class SagyeTest(unittest.TestCase):
             )
         )
         self.assertTrue(drop_reason({"source": "ig", "title": "오늘 점심 뭐먹지", "excerpt": ""}).startswith("무관"))
-        self.assertTrue(drop_reason({"source": "fb", "title": "환승연애 다시보기", "excerpt": ""}).startswith("무관"))
+        self.assertEqual(drop_reason({"source": "fb", "title": "나는솔로 34기 순자", "excerpt": ""}), "페북")
         self.assertTrue(
             drop_reason(
                 {"source": "threads", "kind": "reply", "title": "기운이 밝아", "excerpt": "오늘 점심"}
             ).startswith("무관")
         )
 
-    def test_facebook_login_wall_is_not_a_comment(self):
+    def test_facebook_posts_are_dropped(self):
         parent = "나는솔로 34기 간호사 순자 직장동료 폭로글 - Facebook"
-        junk = [
-            {"source": "fb", "kind": "reply", "author": "Forgot password?", "title": "or Create new account", "excerpt": parent},
-            {"source": "fb", "kind": "reply", "author": "Image 4", "title": "Email or phone number Password", "excerpt": parent},
-            {"source": "fb", "kind": "reply", "author": "4d", "title": "!", "excerpt": parent},
-        ]
-        for post in junk:
-            self.assertTrue(drop_reason(post).startswith("로그인"), post)
-            self.assertFalse(should_keep(post), post)
-        real = {
-            "source": "fb",
-            "kind": "reply",
-            "author": "하루5분",
-            "title": "순자 직장 얘기 봤음",
-            "excerpt": parent,
-        }
-        self.assertTrue(should_keep(real))
+        self.assertEqual(drop_reason({"source": "fb", "title": parent, "excerpt": ""}), "페북")
+        self.assertFalse(
+            should_keep(
+                {
+                    "source": "fb",
+                    "kind": "reply",
+                    "author": "하루5분",
+                    "title": "순자 직장 얘기 봤음",
+                    "excerpt": parent,
+                }
+            )
+        )
 
     def test_raw_attack_drops_but_joke_stays(self):
         raw = {"source": "dc", "author": "이봐", "title": "살이나 빼고나와라 진짜", "excerpt": ""}

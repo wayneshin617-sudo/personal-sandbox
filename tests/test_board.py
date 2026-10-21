@@ -437,8 +437,8 @@ class SocialCollectTest(unittest.TestCase):
         self.assertFalse(social_needs_backfill(board, "ig"))
         board["socialCrawl"] = {"ig": {"done": False, "pages": {"site:instagram.com 나는솔로": 3}}}
         self.assertTrue(social_needs_backfill(board, "ig"))
-        board["socialCrawl"] = {"fb": {"done": False}}
-        self.assertTrue(social_needs_backfill(board, "fb"))
+        board["socialCrawl"] = {"threads": {"done": False}}
+        self.assertTrue(social_needs_backfill(board, "threads"))
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
     def test_social_backfill_turns_search_pages(self):
@@ -1136,19 +1136,18 @@ class SocialReplyTest(unittest.TestCase):
         self.assertEqual(client.calls, [])
 
     def test_source_clocks_cover_every_board(self):
-        self.assertEqual(tuple(SOURCE_SECS), ("dc", "blind", "qoo", "threads", "ig", "fb"))
+        self.assertEqual(tuple(SOURCE_SECS), ("dc", "blind", "qoo", "threads", "ig"))
         self.assertEqual(COLLECT_SECS, sum(SOURCE_SECS.values()))
         self.assertLess(SOURCE_SECS["dc"], SOURCE_SECS["ig"])
-        self.assertLess(SOURCE_SECS["blind"], SOURCE_SECS["fb"])
+        self.assertLess(SOURCE_SECS["blind"], SOURCE_SECS["threads"])
         self.assertLess(SOURCE_SECS["qoo"], SOURCE_SECS["threads"])
         self.assertLess(FAST_TIMEOUT.read, SEARCH_TIMEOUT.read)
         self.assertLess(SEARCH_TIMEOUT.read, JINA_TIMEOUT.read)
         self.assertGreaterEqual(SOURCE_SECS["ig"], 150)
-        self.assertGreaterEqual(SOURCE_SECS["fb"], 150)
         self.assertGreaterEqual(SOURCE_SECS["threads"], 150)
         self.assertGreaterEqual(JINA_TIMEOUT.read, 150)
         self.assertEqual(SLOW_GAP, timedelta(seconds=150))
-        self.assertEqual(SOCIAL_REPLY_LIMITS, {"threads": 3, "ig": 1, "fb": 1})
+        self.assertEqual(SOCIAL_REPLY_LIMITS, {"threads": 3, "ig": 1})
 
     def test_slow_source_waits_two_to_three_minutes(self):
         now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
@@ -1159,8 +1158,6 @@ class SocialReplyTest(unittest.TestCase):
         self.assertTrue(slow_ready(crawl["threads"], now + timedelta(seconds=150)))
         self.assertEqual(pick_slow_source(crawl, now + timedelta(seconds=10)), "ig")
         mark_slow_attempt(crawl, "ig", now + timedelta(seconds=10))
-        self.assertEqual(pick_slow_source(crawl, now + timedelta(seconds=20)), "fb")
-        mark_slow_attempt(crawl, "fb", now + timedelta(seconds=20))
         self.assertIsNone(pick_slow_source(crawl, now + timedelta(seconds=140)))
         self.assertEqual(pick_slow_source(crawl, now + timedelta(seconds=150)), "threads")
 
@@ -1174,7 +1171,7 @@ class SocialReplyTest(unittest.TestCase):
             self.assertEqual(collect_budget(), 70)
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
-    def test_empty_instagram_does_not_block_facebook(self):
+    def test_empty_instagram_stops_at_source_limit(self):
         now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
         ig_parents = [
             {
@@ -1185,12 +1182,6 @@ class SocialReplyTest(unittest.TestCase):
             }
             for i in range(4)
         ]
-        fb_parent = {
-            "source": "fb",
-            "external_id": "1188713067151398",
-            "title": "나는솔로 34기 간호사 순자",
-            "url": "https://www.facebook.com/HR5MM/posts/1188713067151398",
-        }
         pages = {
             JINA_URL + parent["url"]: (
                 {"code": 200, "data": {"content": "Log in to Instagram\nSee photos"}},
@@ -1198,17 +1189,10 @@ class SocialReplyTest(unittest.TestCase):
             )
             for parent in ig_parents
         }
-        pages[JINA_URL + fb_parent["url"]] = (
-            {"code": 200, "data": {"content": FB_REPLY_MD}},
-            200,
-        )
         client = _FakeJina(pages)
-        posts = fetch_social_replies(client, ig_parents + [fb_parent], now, crawl={})
-        ig_calls = [url for url in client.calls if "instagram.com" in url]
-        fb_calls = [url for url in client.calls if "facebook.com" in url]
-        self.assertEqual(len(ig_calls), 1)
-        self.assertEqual(len(fb_calls), 1)
-        self.assertEqual([item["source"] for item in posts], ["fb"])
+        posts = fetch_social_replies(client, ig_parents, now, crawl={})
+        self.assertEqual(len(client.calls), 1)
+        self.assertEqual(posts, [])
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
     def test_social_replies_can_run_one_source_clock(self):

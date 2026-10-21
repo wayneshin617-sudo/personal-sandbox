@@ -513,6 +513,8 @@ def attack_reason(post: dict[str, Any] | str | None) -> str | None:
 
 def drop_reason(post: dict[str, Any] | str | None, *, swears: bool = False) -> str | None:
     """걸러야 하면 이유 문자열, 남겨도 되면 None."""
+    if not isinstance(post, str) and post and (post.get("source") or "") == "fb":
+        return "페북"
     if is_blocked_youtube(post):
         return "유튜브:차단"
     spam = gallery_spam_reason(post)
