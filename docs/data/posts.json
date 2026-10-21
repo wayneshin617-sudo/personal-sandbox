@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T11:17:45+00:00",
+  "updatedAt": "2026-10-21T11:18:48+00:00",
   "posts": [
     {
       "id": 99,
@@ -214075,6 +214075,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T11:17:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 70485,
+      "source": "blind",
+      "externalId": "cmt-456793676",
+      "title": "그냥 물 부은거같은데 ㄷㄷ",
+      "excerpt": "ㄷㄷ 밥을",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%E3%84%B7%E3%84%B7-%EB%B0%A5%EC%9D%84-77qsug8o#456793676",
+      "postedLabel": "7일",
+      "postedAt": "2026-10-14T20:18:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T11:18:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70486,
+      "source": "blind",
+      "externalId": "cmt-456793648",
+      "title": "쌀 씻은거 맞아??",
+      "excerpt": "ㄷㄷ 밥을",
+      "author": "내********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%E3%84%B7%E3%84%B7-%EB%B0%A5%EC%9D%84-77qsug8o#456793648",
+      "postedLabel": "7일",
+      "postedAt": "2026-10-14T20:18:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T11:18:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -214172,6 +214212,7 @@
     },
     "blind": {
       "doneIds": [
+        "/kr/post/%E3%84%B7%E3%84%B7-%EB%B0%A5%EC%9D%84-77qsug8o",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-fu03v5xv",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%EC%98%81%EC%B2%A0-%ED%97%8C%ED%8C%85-%EA%B3%A0%EC%88%98%EB%8B%A4-lzc2m7ez",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B-%EA%B7%BC%EB%8D%B0-%EC%82%AC%EB%9E%8C-%EB%B3%B8%EC%A7%80-%ED%95%98%EB%A3%A8%EB%8F%84-%EC%95%88%EC%A7%80%EB%82%AC%EB%8A%94%EB%8D%B0-1hq83foy",
@@ -215417,6 +215458,14 @@
         "4368502569",
         "4368502588",
         "4368503937",
+        "4368504653",
+        "4368505016",
+        "4368505270",
+        "4368505299",
+        "4368505371",
+        "4368505373",
+        "4368506269",
+        "4368507049",
         "4380996681",
         "4380998114",
         "4381031759",
