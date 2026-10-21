@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T02:18:52+00:00",
+  "updatedAt": "2026-10-21T02:20:53+00:00",
   "posts": [
     {
       "id": 99,
@@ -200744,6 +200744,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T02:18:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69803,
+      "source": "blind",
+      "externalId": "cmt-457707324",
+      "title": "진로를 오로지 돈에 의해서 결정한 거면 생산직이 맞는데 뭘 생산직 아닌 애들 대상으로 쓰는데;;;",
+      "excerpt": "",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AD%90-%EA%B7%B8%EB%A0%87%EA%B2%8C-%ED%95%99%EB%B2%8C-%EC%A7%81%EA%B5%B0%EC%97%90-%EC%97%B0%EC%97%B0%ED%95%98%EB%83%90-p00lynhc#457707324",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T11:20:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T02:20:53+00:00",
       "isSeed": false,
       "kind": "reply"
     }
