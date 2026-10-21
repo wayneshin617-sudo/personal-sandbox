@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:16:19+00:00",
+  "updatedAt": "2026-10-21T17:17:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -314398,6 +314398,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T17:16:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75661,
+      "source": "dc",
+      "externalId": "cmt-10963288",
+      "title": "어딜봐서....? 문신은 나대는 애들일수록 있음...",
+      "excerpt": "와 순자 이미지는 문신 없을꺼 같은 이미지 였는데",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609646&page=1#cmt_10963288",
+      "postedLabel": "10.22 02:16:46",
+      "postedAt": "2026-10-22T02:16:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:17:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -314486,7 +314506,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T02:14:01+09:00"
+      "slowAt": "2026-10-22T02:17:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -315154,7 +315174,9 @@
         "6609607",
         "6609608",
         "6609615",
-        "6609625"
+        "6609625",
+        "6609636",
+        "6609646"
       ]
     },
     "blind": {
