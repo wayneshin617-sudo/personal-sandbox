@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T01:38:52+00:00",
+  "updatedAt": "2026-10-21T01:40:53+00:00",
   "posts": [
     {
       "id": 99,
@@ -200364,6 +200364,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T01:38:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69784,
+      "source": "blind",
+      "externalId": "cmt-457702104",
+      "title": "부여에 개노답들 많구나",
+      "excerpt": "",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%8C%A8%EA%B1%B0%EB%A6%AC-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%B0%98%EB%B0%95%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B0%98%EB%B0%95-4eekdc1f#457702104",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T10:40:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T01:40:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69785,
+      "source": "blind",
+      "externalId": "cmt-457702149",
+      "title": "뭔 의미야 ㅋㅋ",
+      "excerpt": "",
+      "author": "d*****",
+      "company": "ASML",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%8C%A8%EA%B1%B0%EB%A6%AC-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%B0%98%EB%B0%95%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B0%98%EB%B0%95-4eekdc1f#457702149",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T10:40:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T01:40:53+00:00",
       "isSeed": false,
       "kind": "reply"
     }
