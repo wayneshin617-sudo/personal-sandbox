@@ -17,7 +17,11 @@ from app.collect import (
     SEARCH_TIMEOUT,
     SOCIAL_REPLY_LIMITS,
     SOURCE_SECS,
+    SLOW_GAP,
     collect_budget,
+    mark_slow_attempt,
+    pick_slow_source,
+    slow_ready,
     stale_runner,
     _pick_reply_parents,
     _social_comment_targets,
@@ -1075,7 +1079,7 @@ class SocialReplyTest(unittest.TestCase):
         crawl = {}
         posts = fetch_social_replies(client, [parent], now, crawl=crawl)
         self.assertEqual(posts, [])
-        self.assertEqual(client.calls, [JINA_URL + parent["url"], JINA_URL + parent["url"]])
+        self.assertEqual(client.calls, [JINA_URL + parent["url"]])
         self.assertNotIn("DeMqPBnDz77", crawl.get("ig", {}).get("doneIds", []))
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
@@ -1098,7 +1102,7 @@ class SocialReplyTest(unittest.TestCase):
         crawl = {}
         posts = fetch_social_replies(client, [parent], now, crawl=crawl)
         self.assertEqual(posts, [])
-        self.assertEqual(client.calls, [JINA_URL + parent["url"], JINA_URL + parent["url"]])
+        self.assertEqual(client.calls, [JINA_URL + parent["url"]])
         self.assertNotIn("DeMqPBnDz77", crawl.get("ig", {}).get("doneIds", []))
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
@@ -1127,7 +1131,22 @@ class SocialReplyTest(unittest.TestCase):
         self.assertGreaterEqual(SOURCE_SECS["fb"], 150)
         self.assertGreaterEqual(SOURCE_SECS["threads"], 150)
         self.assertGreaterEqual(JINA_TIMEOUT.read, 150)
+        self.assertEqual(SLOW_GAP, timedelta(seconds=150))
         self.assertEqual(SOCIAL_REPLY_LIMITS, {"threads": 3, "ig": 1, "fb": 1})
+
+    def test_slow_source_waits_two_to_three_minutes(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        crawl: dict = {}
+        self.assertEqual(pick_slow_source(crawl, now), "threads")
+        mark_slow_attempt(crawl, "threads", now)
+        self.assertFalse(slow_ready(crawl["threads"], now + timedelta(seconds=149)))
+        self.assertTrue(slow_ready(crawl["threads"], now + timedelta(seconds=150)))
+        self.assertEqual(pick_slow_source(crawl, now + timedelta(seconds=10)), "ig")
+        mark_slow_attempt(crawl, "ig", now + timedelta(seconds=10))
+        self.assertEqual(pick_slow_source(crawl, now + timedelta(seconds=20)), "fb")
+        mark_slow_attempt(crawl, "fb", now + timedelta(seconds=20))
+        self.assertIsNone(pick_slow_source(crawl, now + timedelta(seconds=140)))
+        self.assertEqual(pick_slow_source(crawl, now + timedelta(seconds=150)), "threads")
 
     def test_stale_github_runner_hands_off(self):
         with patch.dict("os.environ", {"GITHUB_ACTIONS": "true"}, clear=True):
@@ -1171,7 +1190,7 @@ class SocialReplyTest(unittest.TestCase):
         posts = fetch_social_replies(client, ig_parents + [fb_parent], now, crawl={})
         ig_calls = [url for url in client.calls if "instagram.com" in url]
         fb_calls = [url for url in client.calls if "facebook.com" in url]
-        self.assertEqual(len(ig_calls), 2)
+        self.assertEqual(len(ig_calls), 1)
         self.assertEqual(len(fb_calls), 1)
         self.assertEqual([item["source"] for item in posts], ["fb"])
 

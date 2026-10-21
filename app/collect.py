@@ -69,10 +69,11 @@ MAX_YT_SEARCH_PAGES = 4
 MAX_YT_COMMENT_PAGES = 20
 FAST_TIMEOUT = httpx.Timeout(5.0, connect=3.0)
 SEARCH_TIMEOUT = httpx.Timeout(8.0, connect=4.0)
-JINA_QUICK_TIMEOUT = httpx.Timeout(20.0, connect=8.0)
 JINA_TIMEOUT = httpx.Timeout(150.0, connect=20.0)
 JINA_WAIT_SECS = 140
-# 소스마다 시계를 따로 둔다. 못 끌어오는 쓰레드·인스타·페북은 2~3분을 준다.
+SLOW_SOURCES = ("threads", "ig", "fb")
+SLOW_GAP = timedelta(seconds=150)
+# 1분에 끝나는 디시·블라인드·더쿠만 매분 치고, 느린 소스는 2~3분에 한 번만 연다.
 SOURCE_SECS = {
     "dc": 7,
     "blind": 5,
@@ -432,6 +433,34 @@ def stale_runner() -> bool:
     if os.environ.get("COLLECT_GEN") == COLLECT_GEN:
         return False
     return os.environ.get("GITHUB_ACTIONS") == "true"
+
+
+def slow_ready(state: dict | None, now: datetime) -> bool:
+    """2~3분이 지나기 전에는 느린 소스를 다시 열지 않는다."""
+    stamp = parse_instant((state or {}).get("slowAt") or "")
+    if stamp is None:
+        return True
+    return now >= stamp + SLOW_GAP
+
+
+def pick_slow_source(crawl: dict | None, now: datetime) -> str | None:
+    """이번 분에 열 느린 소스를 하나만 고른다. 가장 오래 기다린 것부터."""
+    due: list[tuple[datetime, int, str]] = []
+    for index, source in enumerate(SLOW_SOURCES):
+        state = (crawl or {}).get(source) or {}
+        if not slow_ready(state, now):
+            continue
+        stamp = parse_instant(state.get("slowAt") or "") or datetime.min.replace(tzinfo=KST)
+        due.append((stamp, index, source))
+    if not due:
+        return None
+    due.sort()
+    return due[0][2]
+
+
+def mark_slow_attempt(crawl: dict, source: str, now: datetime) -> None:
+    state = crawl.setdefault(source, {})
+    state["slowAt"] = as_kst_iso(now)
 
 
 def _get_text(client: httpx.Client, url: str, headers: dict[str, str]) -> str:
@@ -1100,21 +1129,19 @@ def _social_comments_finished(source: str, markdown: str, batch: list[dict]) -> 
     return False
 
 
-def fetch_jina(client: httpx.Client, url: str, *, wait: bool = False) -> str | None:
+def fetch_jina(client: httpx.Client, url: str) -> str | None:
     """공개 페이지를 Jina 리더로 읽는다. 차단이면 None, 빈 본문은 ''."""
     if not url:
         return ""
-    seconds = JINA_WAIT_SECS if wait else 16
-    timeout = JINA_TIMEOUT if wait else JINA_QUICK_TIMEOUT
     try:
         response = client.get(
             JINA_URL + url,
             headers={
                 "Accept": "application/json",
                 "X-Return-Format": "markdown",
-                "X-Timeout": str(seconds),
+                "X-Timeout": str(JINA_WAIT_SECS),
             },
-            timeout=timeout,
+            timeout=JINA_TIMEOUT,
         )
     except httpx.HTTPError as exc:
         print(f"jina failed {url}: {exc}", flush=True)
@@ -1282,23 +1309,15 @@ def fetch_social_replies(
             except Exception as exc:
                 print(f"{source} comments {eid} failed: {exc}", flush=True)
                 continue
-            batch = parse_social_replies(markdown, parent) if markdown else []
-            if (markdown is None or not _social_comments_finished(source, markdown or "", batch)) and not past_deadline(deadline):
-                print(f"{source} comments {eid} wait {JINA_WAIT_SECS}s", flush=True)
-                try:
-                    markdown = fetch_jina(client, parent.get("url") or "", wait=True)
-                except Exception as exc:
-                    print(f"{source} comments {eid} wait failed: {exc}", flush=True)
-                    markdown = markdown or ""
-                batch = parse_social_replies(markdown, parent) if markdown else []
             if markdown is None:
                 print(f"{source} comments {eid} blocked", flush=True)
                 continue
+            batch = parse_social_replies(markdown, parent)
             found.extend(batch)
             if _social_comments_finished(source, markdown, batch):
                 done.add(eid)
             else:
-                print(f"{source} comments {eid} empty retry", flush=True)
+                print(f"{source} comments {eid} empty later", flush=True)
             print(f"{source} comments {eid} {len(batch)}", flush=True)
             time.sleep(0.15)
         state["doneIds"] = sorted(done)
@@ -1410,27 +1429,41 @@ def fetch_sources(
             on_batch({name: list(fetched.get(name) or []) for name in ("dc", "blind", "qoo")})
 
     with httpx.Client(follow_redirects=True, timeout=SEARCH_TIMEOUT, headers=headers) as slow:
-        for source in ("threads", "ig", "fb"):
+        source = pick_slow_source(comments, now)
+        if source is None:
+            print("slow skip cooldown", flush=True)
+        else:
+            mark_slow_attempt(comments, source, now)
             until = _slice_deadline(source, overall)
             if past_deadline(until):
                 print(f"{source} skip budget", flush=True)
-                continue
-            began = time.monotonic()
-            parents = list(stored_by.get(source) or [])
-            pending = comments_need_backfill(parents, {source: comments.get(source) or {}})
-            try:
-                if pending:
-                    replies = fetch_social_replies(
-                        slow,
-                        parents,
-                        now,
-                        deadline=until,
-                        crawl=comments,
-                        sources=(source,),
-                    )
-                    for item in replies:
-                        fetched.setdefault(item["source"], []).append(item)
-                    if not past_deadline(until):
+            else:
+                began = time.monotonic()
+                parents = list(stored_by.get(source) or [])
+                pending = comments_need_backfill(parents, {source: comments.get(source) or {}})
+                try:
+                    if pending:
+                        replies = fetch_social_replies(
+                            slow,
+                            parents,
+                            now,
+                            deadline=until,
+                            crawl=comments,
+                            sources=(source,),
+                        )
+                        for item in replies:
+                            fetched.setdefault(item["source"], []).append(item)
+                        if not past_deadline(until):
+                            posts = fetch_social(
+                                slow,
+                                source,
+                                now,
+                                backfill=social_backfill[source],
+                                deadline=until,
+                                crawl=crawl.setdefault(source, {}),
+                            )
+                            fetched[source] = posts + fetched.get(source, [])
+                    else:
                         posts = fetch_social(
                             slow,
                             source,
@@ -1440,35 +1473,25 @@ def fetch_sources(
                             crawl=crawl.setdefault(source, {}),
                         )
                         fetched[source] = posts + fetched.get(source, [])
-                else:
-                    posts = fetch_social(
-                        slow,
-                        source,
-                        now,
-                        backfill=social_backfill[source],
-                        deadline=until,
-                        crawl=crawl.setdefault(source, {}),
-                    )
-                    fetched[source] = posts + fetched.get(source, [])
-                    fresh = {item.get("external_id") or "" for item in posts}
-                    fresh.discard("")
-                    if not past_deadline(until):
-                        replies = fetch_social_replies(
-                            slow,
-                            parents + posts,
-                            now,
-                            deadline=until,
-                            crawl=comments,
-                            fresh_ids={source: fresh},
-                            sources=(source,),
-                        )
-                        for item in replies:
-                            fetched.setdefault(item["source"], []).append(item)
-            except Exception as exc:
-                print(f"{source} failed: {exc}", flush=True)
-            print(f"{source} {len(fetched.get(source, []))} {time.monotonic() - began:.1f}s", flush=True)
-            if on_batch:
-                on_batch({source: list(fetched.get(source) or [])})
+                        fresh = {item.get("external_id") or "" for item in posts}
+                        fresh.discard("")
+                        if not past_deadline(until):
+                            replies = fetch_social_replies(
+                                slow,
+                                parents + posts,
+                                now,
+                                deadline=until,
+                                crawl=comments,
+                                fresh_ids={source: fresh},
+                                sources=(source,),
+                            )
+                            for item in replies:
+                                fetched.setdefault(item["source"], []).append(item)
+                except Exception as exc:
+                    print(f"{source} failed: {exc}", flush=True)
+                print(f"{source} {len(fetched.get(source, []))} {time.monotonic() - began:.1f}s", flush=True)
+                if on_batch:
+                    on_batch({source: list(fetched.get(source) or [])})
         leftover = overall - time.monotonic()
         comment_pending = comments_need_backfill(stored, comments)
         if leftover >= 8 and not comment_pending:
