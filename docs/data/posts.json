@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T08:04:51+00:00",
+  "updatedAt": "2026-10-21T08:06:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -204893,6 +204893,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T08:04:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70013,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%83%88%EB%AA%A8-%EC%95%84%EC%A1%B0%EC%94%A8-%EC%97%B0%EC%95%A0-o13dyjtn",
+      "title": "탈모 아조씨 연애",
+      "excerpt": "185에 85kg 운동도 꾸준히 하고 탈모빼고 나이스함 ㅋㅋ 탈모인데 제이슨 스타뎀 느낌? 😅 이런 남자타입 좋아하는 여자도 있나? 낮져밤이 스타일임",
+      "author": "피***",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%88%EB%AA%A8-%EC%95%84%EC%A1%B0%EC%94%A8-%EC%97%B0%EC%95%A0-o13dyjtn",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:06:27+09:00",
+      "views": 13,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-21T08:06:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 70014,
+      "source": "blind",
+      "externalId": "cmt-457748275",
+      "title": "없어 나솔게에서 좀 나가",
+      "excerpt": "",
+      "author": "i********",
+      "company": "LG생활건강",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%88%EB%AA%A8-%EC%95%84%EC%A1%B0%EC%94%A8-%EC%97%B0%EC%95%A0-o13dyjtn#457748275",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T17:06:27+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T08:06:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
