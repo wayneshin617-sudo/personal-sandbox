@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T22:42:35+00:00",
+  "updatedAt": "2026-10-21T22:43:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -322376,6 +322376,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T22:42:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76064,
+      "source": "blind",
+      "externalId": "cmt-457828841",
+      "title": "나 비슷한 느낌인듯",
+      "excerpt": "34기 영호 닮은 사람",
+      "author": "s*****",
+      "company": "서울교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%82%AC%EB%9E%8C-rpxvfj6e#457828841",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T07:43:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:43:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -323334,7 +323354,8 @@
         "6610439",
         "6610460",
         "6610464",
-        "6610469"
+        "6610469",
+        "6610484"
       ]
     },
     "blind": {
@@ -325352,6 +325373,7 @@
         "/kr/post/34%EC%98%81%EC%88%99-%EA%B2%B0%ED%98%BC%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%82%98%EC%98%A8%EA%B1%B0%EC%95%84%EB%8B%98-eph3tg47",
         "/kr/post/34%EC%98%81%EC%88%99-%EB%B3%B4%EC%9E%90%EB%A7%88%EC%9E%90-%EB%8A%90%EA%BB%B4%EC%A7%80%EC%A7%80%EC%95%8A%EC%9D%8C-gvad5lcn",
         "/kr/post/34%EC%98%81%EC%88%99-%EC%A7%81%EC%97%85-%EC%95%8E-c8fdp3sh",
+        "/kr/post/34%EC%98%81%EC%8B%9D%EC%9D%80-%EC%9E%90%EA%BE%B8-%EC%9D%B4%EC%82%AC%EB%9E%8C-%EC%83%9D%EA%B0%81%EB%82%A8-6hy70nr1",
         "/kr/post/34%EC%98%81%EC%9E%90%EB%A5%BC-%EB%82%A8%EC%9E%90%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EC%9E%90%EB%A9%B4-3xx5mglw",
         "/kr/post/34%EC%98%81%EC%9E%90%EC%9D%B8%EA%B0%80-%EA%B9%80%EC%98%81%EC%B2%A0-%EB%8B%AE%EC%9D%80-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%96%B8%EB%8B%88-802w4f1g",
         "/kr/post/34%EC%98%81%EC%9E%90-%EB%84%88%EB%AC%B4%EB%B6%88%EC%8C%8D%ED%95%98%EB%8B%A4-8e5ez47n",
