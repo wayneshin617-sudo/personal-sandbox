@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:58:44+00:00",
+  "updatedAt": "2026-10-21T19:04:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -318109,6 +318109,26 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-21T18:58:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75849,
+      "source": "qoo",
+      "externalId": "cmt-4382928395",
+      "title": "아ㅋㅋㅋㅋㅋ 약간 보인닼ㅋㅋㅋ",
+      "excerpt": "영식 왜이리 유희열같지",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382918040#4382928395",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T03:03:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T19:04:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
