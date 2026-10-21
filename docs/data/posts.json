@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T23:47:42+00:00",
+  "updatedAt": "2026-10-21T23:48:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -324442,6 +324442,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T23:47:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76169,
+      "source": "qoo",
+      "externalId": "4382981078",
+      "title": "슬프다 존잼기수 본방못달리고",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382981078",
+      "postedLabel": "08:47",
+      "postedAt": "2026-10-22T08:47:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T23:48:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76170,
+      "source": "blind",
+      "externalId": "cmt-457834747",
+      "title": "네 어쩌다 보니 그렇게 됐네요",
+      "excerpt": "문신특집인가요?",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91%EC%9D%B8%EA%B0%80%EC%9A%94-780d2ir1#457834747",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T08:48:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T23:48:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -324516,7 +324555,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T08:45:24+09:00"
+      "slowAt": "2026-10-22T08:48:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -325844,6 +325883,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%96%B4%EB%94%94%EC%97%90-j8gtob7t",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%99%9C-%EC%8B%AB%EB%83%90%EA%B3%A0-l6kajztq",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%A3%BC%EB%8A%94-%EB%A7%A4%EC%A7%81-h6wht5iq",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91%EC%9D%B8%EA%B0%80%EC%9A%94-780d2ir1",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94%EA%B1%B0-%EC%9D%B4%ED%95%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-=-%EB%8B%A4-%EB%B2%88%EC%A7%80%EB%8D%98%EB%8D%B0-mfstv27g",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B9%84%ED%95%98%ED%95%98%EA%B3%A0-%ED%98%90%EC%98%A4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90%E3%85%8B%E3%85%8B-iv0kwuj3",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%97%AC%EC%9E%90-=-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B1%B0%EB%A5%B8%EB%8B%A4%EC%A7%80-jae3catd",
@@ -329655,7 +329695,8 @@
         "4382936925",
         "4382941412",
         "4382943131",
-        "4382947732"
+        "4382947732",
+        "4382981078"
       ]
     },
     "keep": "v2",
