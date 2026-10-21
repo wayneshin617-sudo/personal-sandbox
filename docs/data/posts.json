@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:01:20+00:00",
+  "updatedAt": "2026-10-21T17:02:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -313370,6 +313370,26 @@
       "firstSeenAt": "2026-10-21T17:01:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75609,
+      "source": "blind",
+      "externalId": "cmt-457818706",
+      "title": "영호 아니고 영철 영철 아니고 영수",
+      "excerpt": "문신이 그리 충격이야?",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EA%B7%B8%EB%A6%AC-%EC%B6%A9%EA%B2%A9%EC%9D%B4%EC%95%BC-6j5fuhvd#457818706",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T02:02:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:02:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -313458,7 +313478,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T01:59:01+09:00"
+      "slowAt": "2026-10-22T02:02:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -314103,7 +314123,10 @@
         "6609507",
         "6609521",
         "6609535",
-        "6609537"
+        "6609537",
+        "6609546",
+        "6609548",
+        "6609549"
       ]
     },
     "blind": {
