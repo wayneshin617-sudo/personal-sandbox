@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:01:18+00:00",
+  "updatedAt": "2026-10-21T16:02:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -303958,6 +303958,103 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T16:01:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75134,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%9D-%EA%B8%B0%EC%88%98%EC%97%90-%EB%AC%B8%EC%8B%A0-umbpkov7",
+      "title": "이벝 기수에 문신",
+      "excerpt": "아주 조리돌림을 당해서 뿌리까지 근절해버렸음 좋겠다 극혐의 아이콘",
+      "author": "4****",
+      "company": "삼성SDS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%9D-%EA%B8%B0%EC%88%98%EC%97%90-%EB%AC%B8%EC%8B%A0-umbpkov7",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-22T01:01:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T16:02:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75135,
+      "source": "dc",
+      "externalId": "cmt-10962884",
+      "title": "영철현숙만 챙기는 그 분위기에 내비 끝까지 읽어주고 뒷자리에서도 참아준거 인내심 대단해보임",
+      "excerpt": "영자는 생각보다 괜찮은 느낌인데",
+      "author": "달릭",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6608924&page=1#cmt_10962884",
+      "postedLabel": "10.22 01:01:02",
+      "postedAt": "2026-10-22T01:01:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:02:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75136,
+      "source": "dc",
+      "externalId": "6608949",
+      "title": "순자가 영호 잡도리 하는거 안 봤냐?",
+      "excerpt": "",
+      "author": "애청자",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6608949&page=1",
+      "postedLabel": "01:01",
+      "postedAt": "2026-10-22T01:01:49+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:02:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75137,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%83%80%ED%88%AC-%E3%85%8B%E3%85%8B%E3%85%8B-%EA%B7%B9%ED%98%90-kujegd4n",
+      "title": "타투 ㅋㅋㅋ 극혐",
+      "excerpt": "실망이다 순자 와 그렇게 안생겻는데",
+      "author": "l*********",
+      "company": "SK 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC-%E3%85%8B%E3%85%8B%E3%85%8B-%EA%B7%B9%ED%98%90-kujegd4n",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:02:00+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T16:02:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75138,
+      "source": "blind",
+      "externalId": "cmt-457814415",
+      "title": "발목에 별같은거 하나만 봐도 그냥 딱 관계의 한계 설정됨",
+      "excerpt": "여자에게 문신이란?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EC%97%90%EA%B2%8C-%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%9E%80-rmrgvh42#457814415",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:02:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:02:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -304039,7 +304136,7 @@
         "DeN7GW0mp2h",
         "DeNoQ8kEisd"
       ],
-      "slowAt": "2026-10-22T00:59:00+09:00"
+      "slowAt": "2026-10-22T01:02:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -304576,8 +304673,11 @@
         "6608897",
         "6608899",
         "6608920",
+        "6608924",
         "6608925",
-        "6608926"
+        "6608926",
+        "6608927",
+        "6608942"
       ]
     },
     "blind": {
@@ -304964,6 +305064,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%9E%90%EC%9C%A0-13s34j4h",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%ED%9B%84%EB%A1%9C-i6g4ar0b",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%96%B4%EB%94%94%EC%97%90-j8gtob7t",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%99%9C-%EC%8B%AB%EB%83%90%EA%B3%A0-l6kajztq",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%A3%BC%EB%8A%94-%EB%A7%A4%EC%A7%81-h6wht5iq",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B9%84%ED%95%98%ED%95%98%EA%B3%A0-%ED%98%90%EC%98%A4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90%E3%85%8B%E3%85%8B-iv0kwuj3",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%97%AC%EC%9E%90-=-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B1%B0%EB%A5%B8%EB%8B%A4%EC%A7%80-jae3catd",
