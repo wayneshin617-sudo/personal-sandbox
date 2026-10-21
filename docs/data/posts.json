@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:54:45+00:00",
+  "updatedAt": "2026-10-21T18:56:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -318031,6 +318031,66 @@
       "firstSeenAt": "2026-10-21T18:54:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75845,
+      "source": "blind",
+      "externalId": "cmt-457820019",
+      "title": "눈썹은 왜 안쳐줌???",
+      "excerpt": "근데 왜 문신은 얼굴에 안 함?",
+      "author": "l********",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%99%9C-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%96%BC%EA%B5%B4%EC%97%90-%EC%95%88-%ED%95%A8-f0rsl2wk#457820019",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-22T02:56:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:56:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75846,
+      "source": "blind",
+      "externalId": "cmt-457821413",
+      "title": "문신보다 더에바임",
+      "excerpt": "나도 문신은 별로지만 강제 아웃팅은 좀..",
+      "author": "t*********",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8F%84-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EB%B3%84%EB%A1%9C%EC%A7%80%EB%A7%8C-%EA%B0%95%EC%A0%9C-%EC%95%84%EC%9B%83%ED%8C%85%EC%9D%80-%EC%A2%80-1eoe63sk#457821413",
+      "postedLabel": "44분",
+      "postedAt": "2026-10-22T03:12:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:56:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75847,
+      "source": "dc",
+      "externalId": "cmt-10963557",
+      "title": "\"그런 고비가 5번 있었던 거에요? \"여기서 엄청 웃었음 - dc App",
+      "excerpt": "문신 이미지? 영호 반응을 봐라ㅋㅋㅋ",
+      "author": "젊은날의노력",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610077&page=1#cmt_10963557",
+      "postedLabel": "10.22 03:55:52",
+      "postedAt": "2026-10-22T03:55:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:56:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -318103,7 +318163,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T03:53:26+09:00"
+      "slowAt": "2026-10-22T03:56:26+09:00"
     },
     "ig": {
       "doneIds": [
@@ -318884,6 +318944,7 @@
         "6610054",
         "6610056",
         "6610065",
+        "6610077",
         "6610088"
       ]
     },
