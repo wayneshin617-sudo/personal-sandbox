@@ -1,7 +1,7 @@
 {
   "season": 34,
   "label": "34기 다둥이 특집",
-  "asOf": "10월 14일 방송까지",
+  "asOf": "10월 21일 방송까지",
   "men": [
     {
       "id": "youngsoo",
@@ -85,7 +85,9 @@
       "id": "youngsook",
       "name": "영숙",
       "type": "dark",
-      "note": "8자매 막내",
+      "year": 1988,
+      "job": "수입가구 회사",
+      "note": "언니 7명의 막내 · 조카 16명",
       "photo": "assets/cast/youngsook.webp",
       "types": [
         "dark"
@@ -95,7 +97,8 @@
       "id": "jeongsook",
       "name": "정숙",
       "type": "normal",
-      "job": "회계사",
+      "job": "공인회계사",
+      "hobby": "드럼 · 왁킹",
       "note": "언니와 남동생 사이",
       "photo": "assets/cast/jeongsook.webp",
       "types": [
@@ -106,6 +109,8 @@
       "id": "soonja",
       "name": "순자",
       "type": "fairy",
+      "year": 1991,
+      "job": "서울아산병원 간호사",
       "note": "4남매 장녀",
       "photo": "assets/cast/soonja.webp",
       "types": [
@@ -127,7 +132,7 @@
       "id": "oksoon",
       "name": "옥순",
       "type": "normal",
-      "note": "3남매 둘째",
+      "note": "언니와 남동생 사이",
       "photo": "assets/cast/oksoon.webp",
       "types": [
         "normal"
@@ -137,7 +142,10 @@
       "id": "hyunsook",
       "name": "현숙",
       "type": "normal",
-      "note": "3남매 장녀",
+      "year": 1991,
+      "job": "일라이릴리 연구원",
+      "hobby": "프랑스어 · 독서",
+      "note": "남동생·여동생의 장녀",
       "photo": "assets/cast/hyunsook.webp",
       "types": [
         "normal"

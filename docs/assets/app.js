@@ -2230,7 +2230,10 @@ new ResizeObserver(() => {
   ensurePairLayouts();
 }).observe(pairBoard);
 
-fetch(new URL("data/pairing.json", document.baseURI))
+{
+  const pairUrl = new URL("data/pairing.json", document.baseURI);
+  pairUrl.searchParams.set("t", String(Date.now()));
+  fetch(pairUrl, { cache: "no-store" })
   .then((response) => response.json())
   .then((data) => {
     renderPairing(data);
@@ -2238,3 +2241,4 @@ fetch(new URL("data/pairing.json", document.baseURI))
     else if (location.hash === "#profile") setStageView("profile");
   })
   .catch(() => {});
+}
