@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T18:50:45+00:00",
+  "updatedAt": "2026-10-21T18:51:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -317971,6 +317971,26 @@
       "firstSeenAt": "2026-10-21T18:50:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75842,
+      "source": "blind",
+      "externalId": "cmt-457820235",
+      "title": "이거 만든 인간이 자기는 쏙 빼서 해덩 안 되게 했겠지. 이런 말을 무슨 뼈에 새겨야 하는 듯이 반응하는 사람들은 뭐하는 사람들일까",
+      "excerpt": "어디까지 걸러야 하는거냐",
+      "author": "I********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EA%B1%B8%EB%9F%AC%EC%95%BC-%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-wldzt0jg#457820235",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-22T02:51:24+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T18:51:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -318059,7 +318079,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T03:48:26+09:00"
+      "slowAt": "2026-10-22T03:51:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -318820,7 +318840,10 @@
         "6610039",
         "6610040",
         "6610043",
-        "6610050"
+        "6610050",
+        "6610054",
+        "6610056",
+        "6610065"
       ]
     },
     "blind": {
