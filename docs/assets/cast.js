@@ -27,7 +27,7 @@
     soonja: { name: "순자", age: "30대 중반", kicker: "세 번째 다둥이녀", line: "남사친은 0명. 회사 아니면 집이다!" },
     youngja: { name: "영자", age: "", kicker: "네 번째 다둥이녀", line: "꼬시는 건 내가 먼저!" },
     oksoon: { name: "옥순", age: "", kicker: "다섯 번째 다둥이녀", line: "10년차 성실파. 외동은 패스!" },
-    hyunsook: { name: "현숙", age: "30대 중반", kicker: "여섯 번째 다둥이녀", line: "고대 홍보모델, 아침 다섯 시에 일어납니다." },
+    hyunsook: { name: "현숙", age: "30대 중반", kicker: "여섯 번째 다둥이녀", line: "자기개발 자기계발, 갓생 끝판왕입니다." },
   };
 
   const ORDER = Object.keys(PEOPLE);
