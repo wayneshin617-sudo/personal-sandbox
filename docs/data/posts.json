@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T17:19:16+00:00",
+  "updatedAt": "2026-10-21T17:20:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -314457,6 +314457,105 @@
       "comments": null,
       "firstSeenAt": "2026-10-21T17:19:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 75664,
+      "source": "blind",
+      "externalId": "cmt-457816541",
+      "title": "손목 쪽에 하나 있고 발등에도 있던데",
+      "excerpt": "근데 영숙 문신 어딨어?",
+      "author": "f********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99-%EB%AC%B8%EC%8B%A0-%EC%96%B4%EB%94%A8%EC%96%B4-4tu7bjcw#457816541",
+      "postedLabel": "54분",
+      "postedAt": "2026-10-22T01:26:01+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75665,
+      "source": "blind",
+      "externalId": "cmt-457816707",
+      "title": "엉골위랑 배꼽밑",
+      "excerpt": "근데 영숙 문신 어딨어?",
+      "author": "예**",
+      "company": "NH농협",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99-%EB%AC%B8%EC%8B%A0-%EC%96%B4%EB%94%A8%EC%96%B4-4tu7bjcw#457816707",
+      "postedLabel": "52분",
+      "postedAt": "2026-10-22T01:28:00+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75666,
+      "source": "blind",
+      "externalId": "cmt-457816696",
+      "title": "오키.. 재방으로 다시 봐야겠닼ㅋ",
+      "excerpt": "근데 영숙 문신 어딨어?",
+      "author": "i***** 작성자",
+      "company": "소노인터내셔널",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99-%EB%AC%B8%EC%8B%A0-%EC%96%B4%EB%94%A8%EC%96%B4-4tu7bjcw#457816696",
+      "postedLabel": "52분",
+      "postedAt": "2026-10-22T01:28:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75667,
+      "source": "blind",
+      "externalId": "cmt-457817974",
+      "title": "자궁쪽",
+      "excerpt": "근데 영숙 문신 어딨어?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99-%EB%AC%B8%EC%8B%A0-%EC%96%B4%EB%94%A8%EC%96%B4-4tu7bjcw#457817974",
+      "postedLabel": "32분",
+      "postedAt": "2026-10-22T01:48:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 75668,
+      "source": "dc",
+      "externalId": "6609663",
+      "title": "영철 존잘인데 왜 부담스러워하지",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6609663&page=1",
+      "postedLabel": "02:19",
+      "postedAt": "2026-10-22T02:19:06+09:00",
+      "views": 13,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T17:20:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -314545,7 +314644,7 @@
         "DefpXb-iqnU",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T02:17:01+09:00"
+      "slowAt": "2026-10-22T02:20:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -315216,7 +315315,8 @@
         "6609625",
         "6609636",
         "6609646",
-        "6609657"
+        "6609657",
+        "6609665"
       ]
     },
     "blind": {
