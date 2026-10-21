@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:12:17+00:00",
+  "updatedAt": "2026-10-21T16:13:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -304855,6 +304855,83 @@
       "firstSeenAt": "2026-10-21T16:12:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75180,
+      "source": "qoo",
+      "externalId": "4382909763",
+      "title": "오늘 나솔 잼?노잼?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382909763",
+      "postedLabel": "01:12",
+      "postedAt": "2026-10-22T01:11:58+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-21T16:13:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75181,
+      "source": "qoo",
+      "externalId": "4382909781",
+      "title": "영철은 행동이 왤케 그 나이로 안보이냐",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382909781",
+      "postedLabel": "01:12",
+      "postedAt": "2026-10-22T01:11:59+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:13:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75182,
+      "source": "qoo",
+      "externalId": "4382909788",
+      "title": "순자는 화법이나 성향도 쉽지 않아보임",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382909788",
+      "postedLabel": "01:12",
+      "postedAt": "2026-10-22T01:12:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:13:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75183,
+      "source": "blind",
+      "externalId": "cmt-457815436",
+      "title": "이걸 미리 알 수가 있나?? 대단한데?",
+      "excerpt": "이래서 젊을때 이성 많이 만나봐야 한다나봄",
+      "author": "내*****",
+      "company": "Citibank",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%9E%98%EC%84%9C-%EC%A0%8A%EC%9D%84%EB%95%8C-%EC%9D%B4%EC%84%B1-%EB%A7%8E%EC%9D%B4-%EB%A7%8C%EB%82%98%EB%B4%90%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%82%98%EB%B4%84-jxx0784y#457815436",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:13:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:13:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -305502,7 +305579,9 @@
         "6609034",
         "6609035",
         "6609045",
-        "6609053"
+        "6609051",
+        "6609053",
+        "6609067"
       ]
     },
     "blind": {
@@ -306083,6 +306162,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-5-6%EA%B0%9C%EC%9D%B8%EB%8D%B0-%EC%99%9C-%EC%95%88%EB%B3%B4%EC%9D%B4%EC%A7%80-aqicwtgf",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-5-6%EA%B0%9C-qvpeci68",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-56%EA%B0%9C%EB%8A%94-%EB%AD%90%EB%83%90-72po43hl",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-6v23nixo",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-vniqq3jj",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AD%94%EA%B0%80-%EC%8B%A0%EC%95%84%EC%98%81-%EB%8A%90%EB%82%8C-minvmigp",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%B0%95%EC%A7%84%ED%9D%AC-%EB%8B%AE%EC%95%98%EB%84%A4-byhv1tud",
@@ -309631,7 +309711,10 @@
         "4382905282",
         "4382906144",
         "4382906908",
-        "4382908565"
+        "4382908565",
+        "4382909763",
+        "4382909781",
+        "4382909788"
       ]
     },
     "keep": "v2",
