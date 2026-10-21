@@ -8,11 +8,14 @@ from datetime import datetime, timedelta, timezone
 from app.collect import (
     BING_URL,
     DDG_URL,
+    JINA_URL,
     KST,
+    _social_comment_targets,
     _spread_targets,
     assign_blind_times,
     empty_board,
     fetch_social,
+    fetch_social_replies,
     merge,
     qoo_label_time,
     social_needs_backfill,
@@ -23,9 +26,12 @@ from app.parsers import (
     parse_blind_comments,
     parse_dc,
     parse_dc_comments,
+    parse_facebook_replies,
+    parse_instagram_replies,
     parse_social_search,
     parse_theqoo,
     parse_theqoo_comments,
+    parse_threads_replies,
     parse_youtube_comments,
     parse_youtube_search,
     parse_youtube_watch_meta,
@@ -726,6 +732,278 @@ class MergeTest(unittest.TestCase):
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][0]["kind"], "reply")
         self.assertEqual(board["posts"][0]["externalId"], "cmt-10960004")
+
+
+THREADS_REPLY_MD = """
+# [Thread](https://www.threads.com/@masion.marim/post/DeOmNhbmP0l)
+
+[masion.marim](https://www.threads.com/@masion.marim)
+
+[10/08/26](https://www.threads.com/@masion.marim/post/DeOmNhbmP0l)
+
+‘나는 솔로’ 34기 다둥이 특집 현숙
+
+사실상 압도적이다.
+
+[happytree1303](https://www.threads.com/@happytree1303)
+
+[10/08/26](https://www.threads.com/@happytree1303/post/DeOpJlmEg-H)
+
+맞지. 옥순이도 상대가 안됨. 딴건 모르겠고 영숙이는 참 많이 모나보이고
+
+137
+
+2
+
+[goat.8403753](https://www.threads.com/@goat.8403753)
+
+[10/08/26](https://www.threads.com/@goat.8403753/post/DeO1xqvGfON)
+
+기운이 밝아
+
+37
+
+[masion.marim](https://www.threads.com/@masion.marim)
+
+[10/08/26](https://www.threads.com/@masion.marim/post/DeO5ZKzGNSK)
+
+·Author
+
+👍
+
+[gibuni_11](https://www.threads.com/@gibuni_11)
+
+[10/08/26](https://www.threads.com/@gibuni_11/post/DeO7Rh_FPuq)
+
+22옥순닮은듯
+
+Related threads
+
+[glob_alspoon](https://www.threads.com/@glob_alspoon)
+
+[10/06/26](https://www.threads.com/@glob_alspoon/post/DeK7zQSklwg)
+
+나는 솔로 33기 광수
+"""
+
+IG_REPLY_MD = """
+SBS Plus | #나는솔로 진지한 인터뷰
+
+[sbsplus](https://www.instagram.com/sbsplus/)
+
+# Comments
+
+[nami_fan](https://www.instagram.com/nami_fan/)
+영철 인터뷰 실화냐
+2 likes
+[Reply](https://www.instagram.com/p/DeMqPBnDz77/)
+"""
+
+FB_REPLY_MD = """
+나는솔로 34기 간호사 순자
+
+# Comments
+
+[하루5분](https://www.facebook.com/HR5MM)
+순자 직장 얘기 봤음
+Like · Reply · 2h
+"""
+
+
+class _FakeJina:
+    def __init__(self, pages: dict[str, tuple[object, int]]):
+        self.pages = pages
+        self.calls: list[str] = []
+
+    def get(self, url, headers=None, timeout=None):
+        self.calls.append(url)
+        payload, status = self.pages.get(url, ("", 200))
+
+        class _Resp:
+            def __init__(self, body, status_code: int):
+                self.status_code = status_code
+                self._body = body
+                if isinstance(body, str):
+                    self.text = body
+                else:
+                    self.text = __import__("json").dumps(body)
+
+            def json(self):
+                if isinstance(self._body, dict):
+                    return self._body
+                return __import__("json").loads(self.text)
+
+            def raise_for_status(self):
+                if self.status_code >= 400:
+                    raise RuntimeError(self.status_code)
+
+        return _Resp(payload, status)
+
+
+class SocialReplyTest(unittest.TestCase):
+    def setUp(self):
+        self.parent = {
+            "source": "threads",
+            "external_id": "DeOmNhbmP0l",
+            "title": "나는솔로 34기 다둥이 특집 현숙",
+            "url": "https://www.threads.com/@masion.marim/post/DeOmNhbmP0l",
+            "posted_at": "2026-10-08T18:19:47+09:00",
+        }
+
+    def test_threads_replies_skip_parent_and_related(self):
+        posts = parse_threads_replies(THREADS_REPLY_MD, self.parent)
+        ids = [item["external_id"] for item in posts]
+        self.assertEqual(ids, ["cmt-DeOpJlmEg-H", "cmt-DeO1xqvGfON", "cmt-DeO5ZKzGNSK", "cmt-DeO7Rh_FPuq"])
+        self.assertEqual(posts[0]["title"], "맞지. 옥순이도 상대가 안됨. 딴건 모르겠고 영숙이는 참 많이 모나보이고")
+        self.assertEqual(posts[1]["title"], "기운이 밝아")
+        self.assertEqual(posts[2]["title"], "👍")
+        self.assertEqual(posts[0]["kind"], "reply")
+        self.assertEqual(posts[0]["excerpt"], self.parent["title"])
+        self.assertEqual(posts[0]["author"], "@happytree1303")
+        self.assertTrue(all(item["excerpt"] == self.parent["title"] for item in posts))
+        self.assertNotIn("cmt-DeK7zQSklwg", ids)
+        self.assertNotIn("cmt-DeOmNhbmP0l", ids)
+
+    def test_instagram_and_facebook_comment_markdown(self):
+        ig_parent = {
+            "source": "ig",
+            "external_id": "DeMqPBnDz77",
+            "title": "SBS Plus | #나는솔로 진지한 인터뷰",
+            "url": "https://www.instagram.com/reel/DeMqPBnDz77/",
+        }
+        ig = parse_instagram_replies(IG_REPLY_MD, ig_parent)
+        self.assertEqual(len(ig), 1)
+        self.assertEqual(ig[0]["title"], "영철 인터뷰 실화냐")
+        self.assertEqual(ig[0]["kind"], "reply")
+        self.assertEqual(ig[0]["excerpt"], ig_parent["title"])
+        fb_parent = {
+            "source": "fb",
+            "external_id": "1188713067151398",
+            "title": "나는솔로 34기 간호사 순자",
+            "url": "https://www.facebook.com/HR5MM/posts/1188713067151398",
+        }
+        fb = parse_facebook_replies(FB_REPLY_MD, fb_parent)
+        self.assertEqual(len(fb), 1)
+        self.assertEqual(fb[0]["title"], "순자 직장 얘기 봤음")
+        self.assertEqual(fb[0]["source"], "fb")
+
+    def test_unread_social_parents_are_oldest_first(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        posts = [
+            {
+                "source": "threads",
+                "external_id": "new1",
+                "url": "https://www.threads.com/@a/post/new1",
+                "posted_at": "2026-10-20T12:00:00+09:00",
+            },
+            {
+                "source": "threads",
+                "external_id": "old1",
+                "url": "https://www.threads.com/@a/post/old1",
+                "posted_at": "2026-10-08T12:00:00+09:00",
+            },
+            {
+                "source": "threads",
+                "external_id": "done1",
+                "url": "https://www.threads.com/@a/post/done1",
+                "posted_at": "2026-10-21T10:00:00+09:00",
+            },
+        ]
+        picked = _social_comment_targets(
+            posts,
+            {"doneIds": ["done1"]},
+            now,
+            limit=8,
+            source="threads",
+            fresh_ids={"new1"},
+        )
+        self.assertEqual([item["external_id"] for item in picked], ["new1", "old1", "done1"])
+
+    def test_finished_old_instagram_is_not_reopened(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        posts = [
+            {
+                "source": "ig",
+                "external_id": "oldig",
+                "url": "https://www.instagram.com/p/oldig/",
+                "posted_at": "2026-10-21T10:00:00+09:00",
+            }
+        ]
+        picked = _social_comment_targets(
+            posts,
+            {"doneIds": ["oldig"]},
+            now,
+            limit=8,
+            source="ig",
+        )
+        self.assertEqual(picked, [])
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_fetch_social_replies_reads_jina_and_marks_done(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        parent = dict(self.parent)
+        client = _FakeJina(
+            {
+                JINA_URL + parent["url"]: (
+                    {"code": 200, "data": {"content": THREADS_REPLY_MD}},
+                    200,
+                )
+            }
+        )
+        crawl = {}
+        posts = fetch_social_replies(client, [parent], now, crawl=crawl)
+        self.assertEqual(len(posts), 4)
+        self.assertEqual(posts[0]["kind"], "reply")
+        self.assertIn("DeOmNhbmP0l", crawl["threads"]["doneIds"])
+        self.assertEqual(client.calls, [JINA_URL + parent["url"]])
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_blocked_jina_is_retried_later(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        parent = {
+            "source": "ig",
+            "external_id": "DeMqPBnDz77",
+            "title": "SBS Plus | #나는솔로 진지한 인터뷰",
+            "url": "https://www.instagram.com/reel/DeMqPBnDz77/",
+        }
+        client = _FakeJina(
+            {
+                JINA_URL + parent["url"]: (
+                    {"code": 403, "name": "AbuseAlleviationError", "data": None},
+                    403,
+                )
+            }
+        )
+        crawl = {}
+        posts = fetch_social_replies(client, [parent], now, crawl=crawl)
+        self.assertEqual(posts, [])
+        self.assertNotIn("DeMqPBnDz77", crawl.get("ig", {}).get("doneIds", []))
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_social_reply_deadline_skips_jina(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        client = _FakeJina({})
+        posts = fetch_social_replies(
+            client,
+            [self.parent],
+            now,
+            deadline=time.monotonic() - 1,
+            crawl={},
+        )
+        self.assertEqual(posts, [])
+        self.assertEqual(client.calls, [])
+
+    def test_merge_keeps_threads_reply_with_parent_excerpt(self):
+        board = empty_board()
+        item = sample("cmt-DeOpJlmEg-H", "기운이 밝아", "2026-10-08T18:30:00+09:00")
+        item["source"] = "threads"
+        item["kind"] = "reply"
+        item["excerpt"] = "나는솔로 34기 다둥이 특집 현숙"
+        item["url"] = "https://www.threads.com/@goat.8403753/post/DeO1xqvGfON"
+        added = merge(board, {"threads": [item]})
+        self.assertEqual(added, 1)
+        self.assertEqual(board["posts"][0]["kind"], "reply")
+        self.assertEqual(board["posts"][0]["excerpt"], "나는솔로 34기 다둥이 특집 현숙")
 
 
 if __name__ == "__main__":

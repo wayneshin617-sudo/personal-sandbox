@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import base64
+import hashlib
 import json
 import re
 from datetime import datetime, timedelta, timezone
@@ -399,12 +400,13 @@ def _reply(
     ip: str = "",
     company: str = "",
     recommends: int | None = None,
+    excerpt: str = "",
 ) -> dict:
     return {
         "source": source,
         "external_id": external_id,
         "title": title[:300],
-        "excerpt": "",
+        "excerpt": (excerpt or "")[:500],
         "author": author or "익명",
         "company": company,
         "ip": ip,
@@ -768,3 +770,223 @@ def parse_social_search(html: str, source: str, now: datetime) -> list[dict]:
             }
         )
     return posts
+
+
+_THREADS_DATED = re.compile(
+    r"\[(\d{2}/\d{2}/\d{2})\]\(https://www\.threads\.com/@([^/]+)/post/([A-Za-z0-9_-]+)\)"
+)
+_PROFILE_LINE = re.compile(r"^\[[^\]]+\]\(https://www\.threads\.com/@[^/\)]+/?\)\s*$")
+_SKIP_REPLY_LINE = re.compile(
+    r"^(?:·Author|Translate|Log in.*|Continue with.*|See more.*|\d+|![^\]]*\]\([^)]*\)|"
+    r"\[!\[[^\]]*\]\([^)]*\)\]\([^)]*\)|\d+\s+likes?|Like(?:\s*[·•].*)?|Reply|Share|Save)$",
+    re.IGNORECASE,
+)
+_IG_PROFILE = re.compile(
+    r"\[([^\]]{1,40})\]\(https://www\.instagram\.com/([A-Za-z0-9._]+)/?\)"
+)
+_FB_PROFILE = re.compile(
+    r"\[([^\]]{1,80})\]\(https://(?:www|m)\.facebook\.com/([^/\?#\)]+)(?:/[^)\s]*)?\)"
+)
+_COMMENTS_HEAD = re.compile(r"(?im)^(?:#{1,3}\s*)?(?:comments?|댓글)\b")
+_NAV_NAMES = {
+    "home",
+    "log in",
+    "login",
+    "sign up",
+    "instagram",
+    "facebook",
+    "threads",
+    "search",
+    "see more",
+    "follow",
+    "like",
+    "share",
+    "save",
+}
+
+
+def jina_markdown(payload) -> str | None:
+    """Jina JSON/본문에서 마크다운을 꺼낸다. 차단이면 None."""
+    if payload is None:
+        return ""
+    if isinstance(payload, str):
+        text = payload.strip()
+        if "AbuseAlleviationError" in text or "Anonymous access to domain" in text:
+            return None
+        return text
+    if not isinstance(payload, dict):
+        return ""
+    code = payload.get("code")
+    name = str(payload.get("name") or "")
+    if code in {401, 403} or name == "AbuseAlleviationError":
+        return None
+    data = payload.get("data")
+    if isinstance(data, dict):
+        return data.get("content") or data.get("text") or data.get("description") or ""
+    if isinstance(data, str):
+        return data
+    return payload.get("content") or payload.get("text") or ""
+
+
+def _threads_md_time(label: str) -> datetime | None:
+    parts = (label or "").split("/")
+    if len(parts) != 3:
+        return None
+    try:
+        month, day, year = (int(part) for part in parts)
+        if year < 100:
+            year += 2000
+        return datetime(year, month, day, 12, 0, tzinfo=KST)
+    except ValueError:
+        return None
+
+
+def _reply_body_lines(chunk: str) -> str:
+    lines: list[str] = []
+    for raw in chunk.splitlines():
+        line = clean(raw)
+        if not line:
+            continue
+        if _PROFILE_LINE.match(line) or _SKIP_REPLY_LINE.match(line):
+            continue
+        if line.startswith("![") or line.startswith("[![") or line.startswith("http"):
+            continue
+        if "](https://" in line and line.startswith("["):
+            continue
+        lines.append(line)
+        if sum(len(part) for part in lines) >= 280:
+            break
+    return clean(" ".join(lines))[:300]
+
+
+def _comment_key(parent_id: str, author: str, title: str) -> str:
+    digest = hashlib.sha1(f"{author}\n{title}".encode("utf-8")).hexdigest()[:12]
+    return f"cmt-{parent_id}-{digest}"
+
+
+def _parent_fields(parent: dict) -> tuple[str, str, str]:
+    parent_id = str(parent.get("external_id") or parent.get("externalId") or "")
+    title = parent.get("title") or ""
+    url = parent.get("url") or ""
+    return parent_id, title, url
+
+
+def parse_threads_replies(markdown: str, parent: dict) -> list[dict]:
+    """쓰레드 글 아래 답글만 읽는다. 관련 글 추천은 버린다."""
+    parent_id, parent_title, parent_url = _parent_fields(parent)
+    text = (markdown or "").split("Related threads")[0]
+    posts: list[dict] = []
+    seen: set[str] = set()
+    matches = list(_THREADS_DATED.finditer(text))
+    for index, matched in enumerate(matches):
+        _label, user, code = matched.group(1), matched.group(2), matched.group(3)
+        if not code or code == parent_id or code in seen:
+            continue
+        start = matched.end()
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        body = _reply_body_lines(text[start:end])
+        if not body:
+            continue
+        seen.add(code)
+        stamp = _shortcode_time(code) or _threads_md_time(_label)
+        posted_at = stamp.astimezone(KST).replace(microsecond=0).isoformat() if stamp else ""
+        href = f"https://www.threads.com/@{user}/post/{code}"
+        posts.append(
+            _reply(
+                source="threads",
+                external_id=f"cmt-{code}",
+                title=body,
+                url=href,
+                author=f"@{user}",
+                posted_at=posted_at,
+                posted_label=_label,
+                excerpt=parent_title or parent_url,
+            )
+        )
+    return posts
+
+
+def _named_comment_posts(
+    markdown: str,
+    parent: dict,
+    *,
+    source: str,
+    profile_re: re.Pattern[str],
+    url_for,
+) -> list[dict]:
+    parent_id, parent_title, parent_url = _parent_fields(parent)
+    text = markdown or ""
+    headed = _COMMENTS_HEAD.search(text)
+    if headed:
+        text = text[headed.start() :]
+    posts: list[dict] = []
+    seen: set[str] = set()
+    matches = list(profile_re.finditer(text))
+    for index, matched in enumerate(matches):
+        name = clean(matched.group(1))
+        handle = clean(matched.group(2))
+        if not name or name.lower() in _NAV_NAMES or handle.lower() in _NAV_NAMES:
+            continue
+        start = matched.end()
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        body = _reply_body_lines(text[start:end])
+        if not body or body == parent_title or body[:40] == (parent_title or "")[:40]:
+            continue
+        key = _comment_key(parent_id or handle, name, body)
+        if key in seen:
+            continue
+        seen.add(key)
+        posts.append(
+            _reply(
+                source=source,
+                external_id=key,
+                title=body,
+                url=url_for(handle, parent_url),
+                author=name if name.startswith("@") else name,
+                excerpt=parent_title or parent_url,
+            )
+        )
+    return posts
+
+
+def parse_instagram_replies(markdown: str, parent: dict) -> list[dict]:
+    """인스타 공개 댓글 마크다운을 읽는다. 캡션·메뉴는 건너뛴다."""
+
+    def url_for(handle: str, fallback: str) -> str:
+        return fallback or f"https://www.instagram.com/{handle}/"
+
+    return _named_comment_posts(
+        markdown,
+        parent,
+        source="ig",
+        profile_re=_IG_PROFILE,
+        url_for=url_for,
+    )
+
+
+def parse_facebook_replies(markdown: str, parent: dict) -> list[dict]:
+    """페북 공개 댓글 마크다운을 읽는다."""
+
+    def url_for(handle: str, fallback: str) -> str:
+        if fallback:
+            return fallback
+        return f"https://www.facebook.com/{handle}"
+
+    return _named_comment_posts(
+        markdown,
+        parent,
+        source="fb",
+        profile_re=_FB_PROFILE,
+        url_for=url_for,
+    )
+
+
+def parse_social_replies(markdown: str, parent: dict) -> list[dict]:
+    source = parent.get("source") or ""
+    if source == "threads":
+        return parse_threads_replies(markdown, parent)
+    if source == "ig":
+        return parse_instagram_replies(markdown, parent)
+    if source == "fb":
+        return parse_facebook_replies(markdown, parent)
+    return []

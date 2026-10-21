@@ -173,8 +173,23 @@ class SagyeTest(unittest.TestCase):
         self.assertTrue(should_keep({"source": "qoo", "title": "누나 7명 ㅋㅋㅋ", "excerpt": ""}))
         self.assertTrue(should_keep({"source": "blind", "title": "와 술버릇", "excerpt": "상철 오늘"}))
         self.assertTrue(should_keep({"source": "threads", "title": "나는솔로 34기 현숙", "excerpt": ""}))
+        self.assertTrue(
+            should_keep(
+                {
+                    "source": "threads",
+                    "kind": "reply",
+                    "title": "기운이 밝아",
+                    "excerpt": "나는솔로 34기 다둥이 특집 현숙",
+                }
+            )
+        )
         self.assertTrue(drop_reason({"source": "ig", "title": "오늘 점심 뭐먹지", "excerpt": ""}).startswith("무관"))
         self.assertTrue(drop_reason({"source": "fb", "title": "환승연애 다시보기", "excerpt": ""}).startswith("무관"))
+        self.assertTrue(
+            drop_reason(
+                {"source": "threads", "kind": "reply", "title": "기운이 밝아", "excerpt": "오늘 점심"}
+            ).startswith("무관")
+        )
 
     def test_raw_attack_drops_but_joke_stays(self):
         raw = {"source": "dc", "author": "이봐", "title": "살이나 빼고나와라 진짜", "excerpt": ""}

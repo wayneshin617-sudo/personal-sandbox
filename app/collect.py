@@ -19,11 +19,13 @@ import httpx
 from .filters import drop_reason, should_keep, skip_youtube_video
 
 from .parsers import (
+    jina_markdown,
     load_youtube_data,
     parse_blind,
     parse_blind_comments,
     parse_dc,
     parse_dc_comments,
+    parse_social_replies,
     parse_social_search,
     parse_theqoo,
     parse_theqoo_comments,
@@ -66,6 +68,9 @@ MAX_SOCIAL_PAGES = 8
 LIVE_SOCIAL_PAGES = 1
 DDG_PAGE_SIZE = 10
 BING_PAGE_SIZE = 10
+MAX_SOCIAL_REPLY_THREADS = 8
+JINA_URL = "https://r.jina.ai/"
+JINA_TIMEOUT = httpx.Timeout(8.0, connect=4.0)
 SOCIAL_QUERIES = {
     "threads": (
         "site:threads.com 나는솔로",
@@ -306,6 +311,23 @@ def social_crawl_state(board: dict, source: str) -> dict:
 def social_needs_backfill(board: dict, source: str) -> bool:
     """아직 안 읽은 검색 페이지만 이어서 본다. 다 돈 소스는 첫 장만 본다."""
     return not social_crawl_state(board, source).get("done")
+
+
+def as_internal(post: dict) -> dict:
+    if "external_id" in post:
+        return post
+    return {
+        "source": post.get("source") or "",
+        "external_id": post.get("externalId") or post.get("external_id") or "",
+        "title": post.get("title") or "",
+        "excerpt": post.get("excerpt") or "",
+        "url": post.get("url") or "",
+        "author": post.get("author") or "",
+        "posted_at": post.get("postedAt") or post.get("posted_at") or "",
+        "posted_label": post.get("postedLabel") or post.get("posted_label") or "",
+        "comments": post.get("comments"),
+        "kind": post.get("kind"),
+    }
 
 
 def past_deadline(deadline: float | None) -> bool:
@@ -888,6 +910,131 @@ def fetch_social(
     return found
 
 
+def fetch_jina(client: httpx.Client, url: str) -> str | None:
+    """공개 페이지를 Jina 리더로 읽는다. 차단이면 None, 빈 본문은 ''."""
+    if not url:
+        return ""
+    try:
+        response = client.get(
+            JINA_URL + url,
+            headers={
+                "Accept": "application/json",
+                "X-Return-Format": "markdown",
+                "X-Timeout": "8",
+            },
+            timeout=JINA_TIMEOUT,
+        )
+    except httpx.HTTPError as exc:
+        print(f"jina failed {url}: {exc}", flush=True)
+        return ""
+    if response.status_code in {401, 403}:
+        return None
+    if response.status_code in {404, 410}:
+        return ""
+    try:
+        payload = response.json()
+    except ValueError:
+        payload = response.text
+    md = jina_markdown(payload)
+    if md is None:
+        return None
+    return md
+
+
+def _social_comment_targets(
+    posts: list[dict],
+    crawl: dict,
+    now: datetime,
+    *,
+    limit: int,
+    source: str,
+    fresh_ids: set[str] | None = None,
+) -> list[dict]:
+    """안 읽은 글을 먼저 보고, 쓰레드만 최근 10시간을 다시 연다."""
+    done = set(crawl.get("doneIds") or [])
+    fresh_ids = fresh_ids or set()
+    pending_new: list[dict] = []
+    pending_old: list[dict] = []
+    recent: list[dict] = []
+    seen: set[str] = set()
+    for post in posts:
+        item = as_internal(post)
+        if item.get("kind") == "reply":
+            continue
+        eid = item.get("external_id") or ""
+        if not eid or not item.get("url") or eid in seen:
+            continue
+        seen.add(eid)
+        if eid not in done:
+            if eid in fresh_ids:
+                pending_new.append(item)
+            else:
+                pending_old.append(item)
+            continue
+        if source != "threads":
+            continue
+        stamp = parse_instant(item.get("posted_at") or "")
+        if stamp is not None and now - stamp <= REPLY_LOOKBACK:
+            recent.append(item)
+    pending_old.sort(key=lambda item: parse_instant(item.get("posted_at") or "") or datetime.max.replace(tzinfo=KST))
+    picked = (pending_new + pending_old + recent)[:limit]
+    return picked
+
+
+def fetch_social_replies(
+    client: httpx.Client,
+    posts: list[dict],
+    now: datetime,
+    *,
+    deadline: float | None = None,
+    crawl: dict | None = None,
+    fresh_ids: dict[str, set[str]] | None = None,
+) -> list[dict]:
+    """저장된 쓰레드·인스타·페북 글의 댓글을 이어서 읽는다."""
+    found: list[dict] = []
+    crawl = crawl if crawl is not None else {}
+    fresh_ids = fresh_ids or {}
+    remaining = MAX_SOCIAL_REPLY_THREADS
+    for source in ("threads", "ig", "fb"):
+        if remaining <= 0 or past_deadline(deadline):
+            print("social comments budget", flush=True)
+            break
+        state = crawl.setdefault(source, {})
+        state.setdefault("doneIds", [])
+        done = set(state.get("doneIds") or [])
+        parents = [post for post in posts if (post.get("source") or "") == source]
+        targets = _social_comment_targets(
+            parents,
+            state,
+            now,
+            limit=remaining,
+            source=source,
+            fresh_ids=fresh_ids.get(source) or set(),
+        )
+        for parent in targets:
+            if remaining <= 0 or past_deadline(deadline):
+                print("social comments budget", flush=True)
+                break
+            remaining -= 1
+            eid = parent.get("external_id") or ""
+            try:
+                markdown = fetch_jina(client, parent.get("url") or "")
+            except Exception as exc:
+                print(f"{source} comments {eid} failed: {exc}", flush=True)
+                continue
+            if markdown is None:
+                print(f"{source} comments {eid} blocked", flush=True)
+                continue
+            batch = parse_social_replies(markdown, parent)
+            found.extend(batch)
+            done.add(eid)
+            print(f"{source} comments {eid} {len(batch)}", flush=True)
+            time.sleep(0.15)
+        state["doneIds"] = sorted(done)
+        crawl[source] = state
+    return found
+
+
 def fetch_sources(
     known_dc: set[str],
     known_qoo: set[str],
@@ -901,6 +1048,8 @@ def fetch_sources(
     fb_backfill: bool = False,
     deadline: float | None = None,
     social_crawl: dict | None = None,
+    stored_posts: list[dict] | None = None,
+    comment_crawl: dict | None = None,
 ) -> dict[str, list[dict]]:
     headers = {
         "User-Agent": UA,
@@ -912,6 +1061,7 @@ def fetch_sources(
     fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": [], "fb": []}
     stop_at = deadline if deadline is not None else time.monotonic() + COLLECT_SECS
     crawl = social_crawl if social_crawl is not None else {}
+    comments = comment_crawl if comment_crawl is not None else {}
     social_pending = threads_backfill or ig_backfill or fb_backfill
     with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
         loaders: list[tuple[str, object]] = [
@@ -939,6 +1089,33 @@ def fetch_sources(
             except Exception as exc:
                 print(f"{name} failed: {exc}", flush=True)
             print(f"{name} {len(fetched[name])} {time.monotonic() - started:.1f}s", flush=True)
+        if not past_deadline(stop_at):
+            started = time.monotonic()
+            parents: list[dict] = []
+            fresh_ids: dict[str, set[str]] = {}
+            for source in ("threads", "ig", "fb"):
+                fresh_ids[source] = {item["external_id"] for item in fetched.get(source) or [] if item.get("external_id")}
+                parents.extend(fetched.get(source) or [])
+            for post in stored_posts or []:
+                if post.get("source") in {"threads", "ig", "fb"}:
+                    parents.append(as_internal(post))
+            try:
+                replies = fetch_social_replies(
+                    client,
+                    parents,
+                    now,
+                    deadline=stop_at,
+                    crawl=comments,
+                    fresh_ids=fresh_ids,
+                )
+            except Exception as exc:
+                print(f"social comments failed: {exc}", flush=True)
+                replies = []
+            for item in replies:
+                fetched.setdefault(item["source"], []).append(item)
+            print(f"social-comments {len(replies)} {time.monotonic() - started:.1f}s", flush=True)
+        else:
+            print("social-comments skip budget", flush=True)
     if not any(fetched.values()):
         raise RuntimeError("모든 게시판을 읽지 못했습니다")
     return fetched
@@ -949,6 +1126,7 @@ def main() -> None:
     force = "--backfill" in sys.argv
     if force:
         board["socialCrawl"] = {}
+        board["commentCrawl"] = {}
     dc_backfill = force or source_needs_backfill(board, "dc")
     qoo_backfill = force or source_needs_backfill(board, "qoo")
     yt_backfill = force or source_needs_backfill(board, "yt")
@@ -996,6 +1174,8 @@ def main() -> None:
         ig_backfill=ig_backfill,
         fb_backfill=fb_backfill,
         social_crawl=board.setdefault("socialCrawl", {}),
+        stored_posts=board.get("posts") or [],
+        comment_crawl=board.setdefault("commentCrawl", {}),
     )
     added = merge(board, fetched)
     save_board(DATA_PATH, board)
