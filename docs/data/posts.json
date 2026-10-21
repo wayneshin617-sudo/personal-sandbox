@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T07:18:52+00:00",
+  "updatedAt": "2026-10-21T07:22:52+00:00",
   "posts": [
     {
       "id": 99,
@@ -204355,6 +204355,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T07:18:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69986,
+      "source": "blind",
+      "externalId": "cmt-457742225",
+      "title": "빨토 아님 파토?",
+      "excerpt": "",
+      "author": "q*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EC%B6%95%EA%B5%AC%EC%96%98%EA%B8%B0%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B0%EB%B3%B4%EB%8B%88-iwa5acq4#457742225",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-21T16:17:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T07:22:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 69987,
+      "source": "blind",
+      "externalId": "cmt-457742779",
+      "title": "난 방배동 애쉴리콜",
+      "excerpt": "",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EC%B6%95%EA%B5%AC%EC%96%98%EA%B8%B0%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B0%EB%B3%B4%EB%8B%88-iwa5acq4#457742779",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-21T16:21:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T07:22:52+00:00",
       "isSeed": false,
       "kind": "reply"
     }
