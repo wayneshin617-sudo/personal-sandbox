@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T19:49:44+00:00",
+  "updatedAt": "2026-10-21T19:50:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -318865,6 +318865,26 @@
       "firstSeenAt": "2026-10-21T19:49:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75887,
+      "source": "qoo",
+      "externalId": "cmt-4382932238",
+      "title": "그럴수도 있지 뭐",
+      "excerpt": "근데 진짜 문신은 좀...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382917956#4382932238",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T03:50:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T19:50:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -318937,7 +318957,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T04:47:25+09:00"
+      "slowAt": "2026-10-22T04:50:26+09:00"
     },
     "ig": {
       "doneIds": [
@@ -319752,6 +319772,7 @@
         "6610206",
         "6610208",
         "6610212",
+        "6610214",
         "6610217"
       ]
     },
