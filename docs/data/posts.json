@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T22:48:35+00:00",
+  "updatedAt": "2026-10-21T22:50:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -322454,6 +322454,65 @@
       "comments": 0,
       "firstSeenAt": "2026-10-21T22:48:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76068,
+      "source": "blind",
+      "externalId": "cmt-457828418",
+      "title": "말이 겁나 많음",
+      "excerpt": "영철 왜 이렇게 별로지?",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B3%84%EB%A1%9C%EC%A7%80-mg7mb0mz#457828418",
+      "postedLabel": "14분",
+      "postedAt": "2026-10-22T07:36:16+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:50:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76069,
+      "source": "blind",
+      "externalId": "cmt-457829048",
+      "title": "너.무싫음 가식같아",
+      "excerpt": "영철 왜 이렇게 별로지?",
+      "author": "O*****",
+      "company": "한국산업인력공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B3%84%EB%A1%9C%EC%A7%80-mg7mb0mz#457829048",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-22T07:45:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T22:50:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76070,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%84%EB%AC%B8%EC%A7%81%EB%8F%84-%EC%95%A0%EB%A7%A4%ED%95%9C-%EC%86%8C%EB%93%9D%EC%9D%B8%EB%8D%B0-8h6v4bln",
+      "title": "전문직도 애매한 소득인데",
+      "excerpt": "전문직이라는 이유로 평생 한번의 기회를 쓰긴 어려울거같음",
+      "author": "i*********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%84%EB%AC%B8%EC%A7%81%EB%8F%84-%EC%95%A0%EB%A7%A4%ED%95%9C-%EC%86%8C%EB%93%9D%EC%9D%B8%EB%8D%B0-8h6v4bln",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T07:50:16+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T22:50:35+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -322550,7 +322609,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T07:47:16+09:00"
+      "slowAt": "2026-10-22T07:50:16+09:00"
     },
     "dc": {
       "doneIds": [
