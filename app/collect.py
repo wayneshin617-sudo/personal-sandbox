@@ -66,7 +66,6 @@ MAX_SOCIAL_PAGES = 8
 LIVE_SOCIAL_PAGES = 1
 DDG_PAGE_SIZE = 10
 BING_PAGE_SIZE = 10
-SOCIAL_FILL_MIN = 24
 SOCIAL_QUERIES = {
     "threads": (
         "site:threads.com 나는솔로",
@@ -295,12 +294,18 @@ def source_needs_backfill(board: dict, source: str) -> bool:
     return min(times) > CUTOFF + timedelta(hours=3)
 
 
+def social_crawl_state(board: dict, source: str) -> dict:
+    crawl = board.setdefault("socialCrawl", {})
+    state = crawl.setdefault(source, {})
+    state.setdefault("pages", {})
+    state.setdefault("doneQueries", [])
+    state.setdefault("done", False)
+    return state
+
+
 def social_needs_backfill(board: dict, source: str) -> bool:
-    """검색은 게시판처럼 최신순이 아니라, 적으면 2주 분량을 더 넘긴다."""
-    count = sum(1 for post in board["posts"] if post.get("source") == source)
-    if count < SOCIAL_FILL_MIN:
-        return True
-    return source_needs_backfill(board, source)
+    """아직 안 읽은 검색 페이지만 이어서 본다. 다 돈 소스는 첫 장만 본다."""
+    return not social_crawl_state(board, source).get("done")
 
 
 def past_deadline(deadline: float | None) -> bool:
@@ -810,6 +815,12 @@ def _absorb_social(batch: list[dict], found: list[dict], seen: set[str], now: da
     return added
 
 
+def _mark_query_done(crawl: dict, query: str) -> None:
+    done = set(crawl.get("doneQueries") or [])
+    done.add(query)
+    crawl["doneQueries"] = sorted(done)
+
+
 def fetch_social(
     client: httpx.Client,
     source: str,
@@ -817,19 +828,29 @@ def fetch_social(
     *,
     backfill: bool = False,
     deadline: float | None = None,
+    crawl: dict | None = None,
 ) -> list[dict]:
     found: list[dict] = []
     seen: set[str] = set()
     queries = list(SOCIAL_QUERIES[source])
     if backfill:
         queries.extend(SOCIAL_BACKFILL_QUERIES.get(source, ()))
+    crawl = crawl if crawl is not None else {}
+    pages = crawl.setdefault("pages", {})
+    done_queries = set(crawl.get("doneQueries") or [])
     page_limit = MAX_SOCIAL_PAGES if backfill else LIVE_SOCIAL_PAGES
     ddg_alive = True
     for query in queries:
         if past_deadline(deadline):
             print(f"{source} search budget", flush=True)
             break
-        for page in range(page_limit):
+        if backfill and query in done_queries:
+            continue
+        start_page = int(pages.get(query) or 0) if backfill else 0
+        if start_page >= page_limit:
+            _mark_query_done(crawl, query)
+            continue
+        for page in range(start_page, page_limit):
             if past_deadline(deadline):
                 print(f"{source} search budget", flush=True)
                 return found
@@ -849,12 +870,21 @@ def fetch_social(
                 batch = parse_social_search(html, source, now)
                 got_html = got_html or bool(batch)
                 added += _absorb_social(batch, found, seen, now)
+            pages[query] = page + 1
             print(f"{source} search {query} p{page + 1} +{added} n={len(found)}", flush=True)
-            if added == 0 and page > 0:
-                break
-            if not got_html and page > 0:
+            exhausted = (added == 0 and page > 0) or (not got_html and page > 0) or page + 1 >= page_limit
+            if exhausted:
+                if backfill:
+                    _mark_query_done(crawl, query)
                 break
             time.sleep(0.35)
+    if backfill:
+        pending = [query for query in queries if query not in set(crawl.get("doneQueries") or [])]
+        crawl["doneQueries"] = sorted(set(crawl.get("doneQueries") or []))
+        crawl["pages"] = pages
+        crawl["done"] = not pending
+        if crawl["done"]:
+            print(f"{source} search done", flush=True)
     return found
 
 
@@ -870,6 +900,7 @@ def fetch_sources(
     ig_backfill: bool = False,
     fb_backfill: bool = False,
     deadline: float | None = None,
+    social_crawl: dict | None = None,
 ) -> dict[str, list[dict]]:
     headers = {
         "User-Agent": UA,
@@ -880,16 +911,25 @@ def fetch_sources(
     now = datetime.now(KST).replace(microsecond=0)
     fetched: dict[str, list[dict]] = {"dc": [], "blind": [], "qoo": [], "yt": [], "threads": [], "ig": [], "fb": []}
     stop_at = deadline if deadline is not None else time.monotonic() + COLLECT_SECS
+    crawl = social_crawl if social_crawl is not None else {}
+    social_pending = threads_backfill or ig_backfill or fb_backfill
     with httpx.Client(follow_redirects=True, timeout=timeout, headers=headers) as client:
-        for name, loader in (
+        loaders: list[tuple[str, object]] = [
             ("dc", lambda: fetch_dc(client, known_dc, backfill=dc_backfill, deadline=stop_at)),
             ("blind", lambda: fetch_blind(client, now, deadline=stop_at)),
             ("qoo", lambda: fetch_qoo(client, known_qoo, backfill=qoo_backfill, now=now, deadline=stop_at)),
-            ("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now, deadline=stop_at)),
-            ("threads", lambda: fetch_social(client, "threads", now, backfill=threads_backfill, deadline=stop_at)),
-            ("ig", lambda: fetch_social(client, "ig", now, backfill=ig_backfill, deadline=stop_at)),
-            ("fb", lambda: fetch_social(client, "fb", now, backfill=fb_backfill, deadline=stop_at)),
-        ):
+        ]
+        social_loaders = (
+            ("threads", lambda: fetch_social(client, "threads", now, backfill=threads_backfill, deadline=stop_at, crawl=crawl.setdefault("threads", {}))),
+            ("ig", lambda: fetch_social(client, "ig", now, backfill=ig_backfill, deadline=stop_at, crawl=crawl.setdefault("ig", {}))),
+            ("fb", lambda: fetch_social(client, "fb", now, backfill=fb_backfill, deadline=stop_at, crawl=crawl.setdefault("fb", {}))),
+        )
+        if social_pending:
+            loaders.extend(social_loaders)
+        else:
+            loaders.append(("yt", lambda: fetch_youtube(client, known_yt, backfill=yt_backfill, now=now, deadline=stop_at)))
+            loaders.extend(social_loaders)
+        for name, loader in loaders:
             if past_deadline(stop_at):
                 print(f"{name} skip budget", flush=True)
                 continue
@@ -907,6 +947,8 @@ def fetch_sources(
 def main() -> None:
     board = load_board(DATA_PATH)
     force = "--backfill" in sys.argv
+    if force:
+        board["socialCrawl"] = {}
     dc_backfill = force or source_needs_backfill(board, "dc")
     qoo_backfill = force or source_needs_backfill(board, "qoo")
     yt_backfill = force or source_needs_backfill(board, "yt")
@@ -953,6 +995,7 @@ def main() -> None:
         threads_backfill=threads_backfill,
         ig_backfill=ig_backfill,
         fb_backfill=fb_backfill,
+        social_crawl=board.setdefault("socialCrawl", {}),
     )
     added = merge(board, fetched)
     save_board(DATA_PATH, board)

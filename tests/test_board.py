@@ -407,17 +407,11 @@ class SocialCollectTest(unittest.TestCase):
     def test_sparse_social_source_needs_two_week_pages(self):
         board = empty_board()
         self.assertTrue(social_needs_backfill(board, "ig"))
-        board["posts"] = [
-            {"source": "ig", "postedAt": "2026-10-08T00:16:00+09:00"} for _ in range(9)
-        ]
-        self.assertTrue(social_needs_backfill(board, "ig"))
-        board["posts"] = [
-            {"source": "ig", "postedAt": "2026-10-08T00:16:00+09:00"} for _ in range(24)
-        ]
+        board["socialCrawl"] = {"ig": {"done": True, "pages": {}, "doneQueries": []}}
         self.assertFalse(social_needs_backfill(board, "ig"))
-        board["posts"] = [
-            {"source": "fb", "postedAt": "2026-10-20T18:00:00+09:00"} for _ in range(24)
-        ]
+        board["socialCrawl"] = {"ig": {"done": False, "pages": {"site:instagram.com 나는솔로": 3}}}
+        self.assertTrue(social_needs_backfill(board, "ig"))
+        board["socialCrawl"] = {"fb": {"done": False}}
         self.assertTrue(social_needs_backfill(board, "fb"))
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
@@ -468,6 +462,49 @@ class SocialCollectTest(unittest.TestCase):
         self.assertIn("11", bing_firsts)
         extra = [params.get("q") for _, params in client.calls if "10월" in params.get("q", "")]
         self.assertTrue(extra)
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_social_backfill_resumes_after_seen_pages(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        q = "site:instagram.com 나는솔로"
+        crawl = {"pages": {q: 1}, "doneQueries": [], "done": False}
+        client = _FakeSearch(
+            {
+                (DDG_URL, q, "0"): (
+                    _ddg_hit(
+                        "https://www.instagram.com/p/DepKS-IHSxr/",
+                        "나는솔로 34기 영호",
+                        "나는솔로 34기",
+                    ),
+                    200,
+                ),
+                (DDG_URL, q, "10"): (
+                    _ddg_hit(
+                        "https://www.instagram.com/p/DeMqPBnDz77/",
+                        "나는솔로 34기 인터뷰",
+                        "나는솔로 34기",
+                    ),
+                    200,
+                ),
+            }
+        )
+        posts = fetch_social(client, "ig", now, backfill=True, crawl=crawl)
+        ids = {item["external_id"] for item in posts}
+        self.assertIn("DeMqPBnDz77", ids)
+        self.assertNotIn("DepKS-IHSxr", ids)
+        ddg_offsets = [params.get("s") for url, params in client.calls if url == DDG_URL and params.get("q") == q]
+        self.assertNotIn(None, ddg_offsets)
+        self.assertIn("10", ddg_offsets)
+
+    @patch("app.collect.time.sleep", lambda *_a, **_k: None)
+    def test_finished_query_is_not_opened_again(self):
+        now = datetime(2026, 10, 21, 12, 0, tzinfo=KST)
+        q = "site:instagram.com 나는솔로"
+        crawl = {"pages": {q: 8}, "doneQueries": [q], "done": False}
+        client = _FakeSearch({})
+        posts = fetch_social(client, "ig", now, backfill=True, crawl=crawl)
+        self.assertEqual(posts, [])
+        self.assertFalse(any(params.get("q") == q for _, params in client.calls))
 
     @patch("app.collect.time.sleep", lambda *_a, **_k: None)
     def test_social_deadline_skips_search(self):
