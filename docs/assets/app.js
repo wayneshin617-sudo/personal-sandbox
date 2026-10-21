@@ -579,7 +579,7 @@ const STOP_WORDS = new Set(
 갑자기 드디어 과연 아마 혹시 만약 비록 설마 도대체 대체 물론 당연히 확실히 분명히 약간 조금 많이 잘 다시
 자주 가끔 별로 전혀 절대 결코 막 살짝 정도 만큼 바로 제일 이제 가장 먼저 나중 굳이 오히려 차라리 결국
 아무튼 어쨌든 하여튼 좀더 뭔가 거 것 곳 수 때 중 등 분 데 바 줄 뿐 채 척 법 듯 양 편 쪽
-블라 비추 자꾸 그럼 저건 이건 그건 지가 들이 어쩌구 저쩌구 가능 목적
+블라 비추 자꾸 그럼 저건 이건 그건 지가 들이 어쩌구 저쩌구 가능 목적 남편 공뭔
 이유 근황 미국 한국 일본 중국 해외 느낌 생각 마음 이야기 얘기 본인 애들 미래 상황 문제
 댓글 영상 사진 유튜브 유튭 링크 좌표 링크좌표 친구 회사 학교 시간 다들 저렇게 내가 보고 멋진 나가서 삭제직전
 없음 같음 있음 얼마나 둘이 좋다 좋아 좋아요 좋은 좋을 좋음 좋지 좋네 좋냐 좋아서 좋아해 좋아하 좋아함
@@ -681,6 +681,21 @@ function stripRankJosa(word) {
 function isPredicate(word) {
   if (!word || KEEP_NOUNS.has(word)) return false;
   if (VERB_STEMS.has(word)) return true;
+  if (/(?:는거|은거|던거|ㄹ거|ㄴ거|거아님|아님)$/.test(word)) return true;
+  if (word.endsWith("거") && !/^(?:과거|근거|증거|주거|선거|국어|설거지)$/.test(word)) return true;
+  if (/(?:라고|다고|냐고|는지|은지|ㄹ지|ㄴ지|겠지|겠어|했겠|라서|어서|아서|여서|니까|면서|지만)$/.test(word)) return true;
+  if (/(?:하고|되고|있고|없고|같고|않고|가지고|먹고|보고|가고|오고)$/.test(word)) return true;
+  if (/(?:하|운)$/.test(word) && !/^(?:이하|부하|저하|기하|기운|행운)$/.test(word)) return true;
+  if (/(?:디|야)$/.test(word)) return true;
+  if (/^(?:여기|거기|저기|어디)/.test(word)) return true;
+  if (/^(?:그게|그거|그런|그럴|이걸|이거|이런|이럴|저게|저거|저런|저럴|뭔지|뭔가)/.test(word)) return true;
+  if (word.startsWith("가능") || word.startsWith("괜찮")) return true;
+  if (/^개(?:웃|짜|같|빡|소리)/.test(word)) return true;
+  if (/(?:까요|나요|거죠|건가|건데|거든|잖아|더라|길래)$/.test(word)) return true;
+  if (/(?:나봐|아봐|어봐|해봐|봐서|보니까)$/.test(word)) return true;
+  if (/(?:는건|은건|던건|는게|은게|던게|는걸|은걸)$/.test(word)) return true;
+  if (/(?:말고|마냥)$/.test(word)) return true;
+  if (/(?:듯|듯이)$/.test(word)) return true;
   if (word.endsWith("님") && word.length >= 4 && isPredicate(word.slice(0, -1))) return true;
   if (/(?:려나|려무나|ㄹ까|ㄹ래|ㄹ걸|ㄹ게|ㄴ지|ㄹ지)$/.test(word)) return true;
   if (/(?:봤|했|됐|같|없|있|않)음$/.test(word)) return true;
@@ -699,9 +714,21 @@ function isPredicate(word) {
   return false;
 }
 
+const NOUN_I = new Set("아이 나이 사이 종이 어린이 어머니 아버지 할머니 할아버지 가위".split(/\s+/));
+const NOUN_GA = new Set("산부인과 최저가 소매가 도매가".split(/\s+/));
+
 function stemWord(word) {
   if (/^\d+기$/.test(word)) return word;
-  return stripRankJosa(word);
+  let next = word;
+  if (next && next.endsWith("가") && next.length >= 4 && !NOUN_GA.has(next)) {
+    const stem = next.slice(0, -1);
+    if (stem.length >= 2) next = stem;
+  }
+  if (next && !NOUN_I.has(next) && next.endsWith("이") && next.length >= 3) {
+    const stem = next.slice(0, -1);
+    if (stem.length >= 2) next = stem;
+  }
+  return stripRankJosa(next);
 }
 
 function isScreenedWord(word) {
@@ -907,9 +934,9 @@ function renderCloud(posts) {
   const key = `${posts.length}:${last?.id || 0}:${floodStamp}:${sinceKey}`;
   if (key !== cloudKey) {
     cloudKey = key;
-    const ranked = searchCounts(posts, since);
+    const ranked = searchCounts(posts, since, 1);
     const maxScore = ranked.reduce((max, [word, count]) => Math.max(max, rankScore(word, count)), 1);
-    cloudWords = ranked.slice(0, 48).map(([word, count], index) => ({
+    cloudWords = ranked.slice(0, 64).map(([word, count], index) => ({
       word,
       count,
       score: rankScore(word, count),
@@ -1020,7 +1047,7 @@ function heartBands(mask, width, top, bottom, scale) {
   while (y < bottom - 8) {
     const t = (y - top) / Math.max(1, bottom - top);
     const font = heartFont(t, scale);
-    const bandHeight = Math.round(font + 1);
+    const bandHeight = Math.max(13, Math.round(font * 0.55));
     const y1 = Math.min(bottom, y + bandHeight);
     const runs = heartRuns(mask, width, y, y1).filter((run) => run.w >= Math.max(14, font * 0.9));
     if (!runs.length) {
@@ -1034,59 +1061,73 @@ function heartBands(mask, width, top, bottom, scale) {
 }
 
 function estimateWidth(word, font) {
-  return Math.max(font, word.length * font * 0.94);
+  return Math.max(font, word.length * font * 1.05);
 }
 
 function assignHeart(words, bands) {
-  const pool = words.slice();
-  const rows = [];
+  /* 점수 높은 말을 넓은 칸 가운데 두고, 글자 상자가 겹치면 옆으로 비껴 작은 명사로 빈칸을 채운다. */
   const slots = [];
   for (const band of bands) {
     for (const run of band.runs) {
       if (run.w >= 14) slots.push({ band, run });
     }
   }
-  /* 넓은 가운데에 점수 높은 말(이번 기수 이름은 10배)을 두고, 좁은 가장자리는 작은 명사로 채운다. */
-  slots.sort((a, b) => b.run.w - a.run.w || a.band.y - b.band.y);
-  for (const slot of slots) {
-    if (!pool.length) break;
-    let pick = -1;
-    for (let index = 0; index < pool.length; index += 1) {
-      if (estimateWidth(pool[index].word, pool[index].font) <= slot.run.w + 1) {
-        pick = index;
-        break;
+  const occupied = [];
+  function hits(x, cy, font, width) {
+    const top = cy - font * 0.52;
+    const bot = cy + font * 0.5;
+    const x1 = x + width;
+    return occupied.some((box) => top < box.bot && box.top < bot && x < box.x1 && box.x0 < x1);
+  }
+  function usedWidth(slot) {
+    let used = 0;
+    const cy = slot.band.cy;
+    for (const box of occupied) {
+      if (box.top >= cy + 2 || cy >= box.bot + 2 || box.x0 >= slot.run.x1 || slot.run.x0 >= box.x1) continue;
+      used += Math.min(box.x1, slot.run.x1) - Math.max(box.x0, slot.run.x0);
+    }
+    return used;
+  }
+  function bestX(slot, item) {
+    const width = estimateWidth(item.word, item.font);
+    if (width > slot.run.w + 1) return null;
+    const cy = slot.band.cy;
+    const ideal = slot.run.x0 + (slot.run.w - width) / 2;
+    let found = null;
+    for (let x = slot.run.x0; x + width <= slot.run.x1 + 1; x += 2) {
+      if (hits(x, cy, item.font, width)) continue;
+      const dist = Math.abs(x - ideal);
+      if (!found || dist < found.dist) found = { x, dist, width, cy };
+    }
+    return found;
+  }
+  const rows = [];
+  for (const item of words) {
+    let best = null;
+    let bestSlot = null;
+    for (const slot of slots) {
+      const found = bestX(slot, item);
+      if (!found) continue;
+      const score = slot.run.w * 4 - usedWidth(slot);
+      if (!best || score > best.score + 1 || (Math.abs(score - best.score) <= 1 && found.dist < best.dist)) {
+        best = { ...found, score };
+        bestSlot = slot;
       }
     }
-    if (pick < 0) continue;
-    const item = pool.splice(pick, 1)[0];
+    if (!best || !bestSlot) continue;
+    occupied.push({
+      top: best.cy - item.font * 0.52,
+      bot: best.cy + item.font * 0.5,
+      x0: best.x - 2,
+      x1: best.x + best.width + 2,
+    });
     rows.push({
-      band: slot.band,
-      run: slot.run,
-      gap: Math.max(2, item.font * 0.12),
+      band: bestSlot.band,
+      run: { x0: best.x, x1: best.x + best.width, w: best.width },
+      gap: 2,
       font: item.font,
       items: [item],
     });
-  }
-  const roomy = rows.slice().sort((a, b) => b.run.w - a.run.w);
-  for (const row of roomy) {
-    let used = row.items.reduce((sum, item, index) => (
-      sum + estimateWidth(item.word, item.font) + (index ? row.gap : 0)
-    ), 0);
-    while (pool.length) {
-      let pick = -1;
-      for (let index = 0; index < Math.min(pool.length, 6); index += 1) {
-        const width = estimateWidth(pool[index].word, pool[index].font);
-        if (used + row.gap + width <= row.run.w + 1) {
-          pick = index;
-          break;
-        }
-      }
-      if (pick < 0) break;
-      const item = pool.splice(pick, 1)[0];
-      row.items.push(item);
-      used += row.gap + estimateWidth(item.word, item.font);
-      row.font = Math.max(row.font, item.font);
-    }
   }
   return rows;
 }
@@ -1186,7 +1227,7 @@ function renderRealtime(posts) {
   const source = allPosts.length ? visiblePosts() : posts;
   const now = Date.now();
   const windowStart = now - REALTIME_HOURS * 60 * 60 * 1000;
-  const ranked = searchCounts(source, windowStart).slice(0, 10);
+  const ranked = searchCounts(source, windowStart, 1).slice(0, 10);
   const words = ranked.map(([word]) => word);
   let compare = null;
   if (!baselineWords) {
