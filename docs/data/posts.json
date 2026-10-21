@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T10:53:33+00:00",
+  "updatedAt": "2026-10-21T10:55:35+00:00",
   "posts": [
     {
       "id": 99,
@@ -207455,6 +207455,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-21T10:53:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 70144,
+      "source": "blind",
+      "externalId": "cmt-457768277",
+      "title": "ㄷㄷ 비유보소",
+      "excerpt": "",
+      "author": "g*******",
+      "company": "OK저축은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EA%B3%84-7%EA%B8%B0%EC%98%A5%EC%88%9C-%EC%9D%B8%ED%84%B0%EB%B7%B0%EB%B4%A3%EB%8A%94%EB%8D%B0-1cwtun4v#457768277",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-21T19:55:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T10:55:35+00:00",
       "isSeed": false,
       "kind": "reply"
     }
