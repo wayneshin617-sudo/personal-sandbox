@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T16:20:29+00:00",
+  "updatedAt": "2026-10-21T16:21:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -305703,6 +305703,83 @@
       "firstSeenAt": "2026-10-21T16:20:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 75223,
+      "source": "qoo",
+      "externalId": "4382911993",
+      "title": "영철 기시감 어디서 오나 했는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382911993",
+      "postedLabel": "01:20",
+      "postedAt": "2026-10-22T01:20:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:21:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75224,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99-%EB%AC%B8%EC%8B%A0-%EC%96%B4%EB%94%A8%EC%96%B4-4tu7bjcw",
+      "title": "근데 영숙 문신 어딨어?",
+      "excerpt": "못 본거 같은데. 현숙은 팔에 달모양 보이고 순자는 안보이는 곳에 5~6개 있다고 본인입으로 말함 당했고.. 근데 영숙이 본인이 문신있다고 말하진 않았잖아. 보이지도 않고.",
+      "author": "i*****",
+      "company": "소노인터내셔널",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99-%EB%AC%B8%EC%8B%A0-%EC%96%B4%EB%94%A8%EC%96%B4-4tu7bjcw",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:20:59+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T16:21:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75225,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EA%B1%B8%EB%9F%AC%EC%95%BC-%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-wldzt0jg",
+      "title": "어디까지 걸러야 하는거냐",
+      "excerpt": "문담피고아 간스유에기엔교 플필헤네카 이거 다 거르면 한국 성인미혼여자 1000명은 남냐? 난 저기서 피랑 카는 빼도 된다고 생각함",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EA%B1%B8%EB%9F%AC%EC%95%BC-%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-wldzt0jg",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:21:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-21T16:21:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 75226,
+      "source": "blind",
+      "externalId": "cmt-457816182",
+      "title": "몸통 밖에 없지... 근데 힘들 때 문신을 한다는게 왜 난 이해가 안 가지. 일탈인건가?",
+      "excerpt": "순자 문신",
+      "author": "y*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-6v23nixo#457816182",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T01:21:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T16:21:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -305775,7 +305852,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T01:18:00+09:00"
+      "slowAt": "2026-10-22T01:21:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -306368,7 +306445,8 @@
         "6609123",
         "6609125",
         "6609129",
-        "6609134"
+        "6609134",
+        "6609146"
       ]
     },
     "blind": {
@@ -310504,7 +310582,8 @@
         "4382908565",
         "4382909763",
         "4382909781",
-        "4382909788"
+        "4382909788",
+        "4382911993"
       ]
     },
     "keep": "v2",
