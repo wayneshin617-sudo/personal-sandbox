@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-21T23:19:43+00:00",
+  "updatedAt": "2026-10-21T23:20:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -323660,6 +323660,46 @@
       "firstSeenAt": "2026-10-21T23:19:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76129,
+      "source": "dc",
+      "externalId": "cmt-10963762",
+      "title": "물어봤으면 올문신이었을지도?! ㅋㅋㅋ - dc App",
+      "excerpt": "간호사 출연자중 문신녀는 처음이네",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610426&page=4#cmt_10963762",
+      "postedLabel": "10.22 07:31:29",
+      "postedAt": "2026-10-22T07:31:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T23:20:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76130,
+      "source": "blind",
+      "externalId": "cmt-457831764",
+      "title": "인디언도아니고 뭔",
+      "excerpt": "순자문신에 대해서",
+      "author": "i******",
+      "company": "한국산업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%AC%B8%EC%8B%A0%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-zmgny1ol#457831764",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T08:20:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-21T23:20:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -323758,7 +323798,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T08:17:24+09:00"
+      "slowAt": "2026-10-22T08:20:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -324618,6 +324658,7 @@
         "6610395",
         "6610404",
         "6610417",
+        "6610426",
         "6610436",
         "6610439",
         "6610460",
