@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T15:46:05+00:00",
+  "updatedAt": "2026-10-22T15:48:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -389543,6 +389543,46 @@
       "firstSeenAt": "2026-10-22T15:46:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79466,
+      "source": "blind",
+      "externalId": "cmt-457953507",
+      "title": "34영호는 그냥 숨쉬듯이 무례하더라",
+      "excerpt": "모범적인 다대일 데이트 예시 알려줘",
+      "author": "i*********",
+      "company": "LS오토모티브테크놀로지스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AA%A8%EB%B2%94%EC%A0%81%EC%9D%B8-%EB%8B%A4%EB%8C%80%EC%9D%BC-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%98%88%EC%8B%9C-%EC%95%8C%EB%A0%A4%EC%A4%98-imuuzaiq#457953507",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T00:47:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T15:48:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79467,
+      "source": "blind",
+      "externalId": "cmt-457953476",
+      "title": "추구미인 거 같기도하고 아직은 헷갈림",
+      "excerpt": "순자도 피곤하지 않을까",
+      "author": "i********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8F%84-%ED%94%BC%EA%B3%A4%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-me31rzqv#457953476",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T00:47:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T15:48:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -389649,7 +389689,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T00:44:47+09:00"
+      "slowAt": "2026-10-23T00:47:48+09:00"
     },
     "dc": {
       "doneIds": [
@@ -390952,7 +390992,8 @@
         "6612420",
         "6612421",
         "6612427",
-        "6612428"
+        "6612428",
+        "6612430"
       ]
     },
     "blind": {
