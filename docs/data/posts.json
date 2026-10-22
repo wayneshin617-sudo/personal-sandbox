@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:53:39+00:00",
+  "updatedAt": "2026-10-22T01:54:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -332904,6 +332904,65 @@
       "firstSeenAt": "2026-10-22T01:53:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76597,
+      "source": "qoo",
+      "externalId": "cmt-4383029263",
+      "title": "아니 너무하네 진짜,,",
+      "excerpt": "나솔 아직 못 봤는데 문신 영숙이 아웃팅 한거야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383026048#4383029263",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T09:53:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:54:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76598,
+      "source": "qoo",
+      "externalId": "cmt-4383029645",
+      "title": "ㄴㅁㅇ 왜 그런거지",
+      "excerpt": "순자 불쌍하다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383029258#4383029645",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T09:54:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:54:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76599,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%80-%EC%98%81%EC%88%99-%EC%97%AD%EB%8C%80%EA%B8%89-%EA%B0%B1%EC%8B%A0%ED%95%B4%EB%B2%84%EB%A6%AC%EB%84%A4-%E3%84%B7%E3%84%B7-x130pfju",
+      "title": "와 영숙.. 역대급 갱신해버리네 ㄷㄷ",
+      "excerpt": "명예훼손을 할 수는 없으니 말 줄인다....",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EC%98%81%EC%88%99-%EC%97%AD%EB%8C%80%EA%B8%89-%EA%B0%B1%EC%8B%A0%ED%95%B4%EB%B2%84%EB%A6%AC%EB%84%A4-%E3%84%B7%E3%84%B7-x130pfju",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:54:24+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T01:54:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -332978,7 +333037,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T10:51:24+09:00"
+      "slowAt": "2026-10-22T10:54:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -333983,7 +334042,8 @@
         "6611070",
         "6611082",
         "6611086",
-        "6611093"
+        "6611093",
+        "6611094"
       ]
     },
     "blind": {
