@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T16:00:06+00:00",
+  "updatedAt": "2026-10-22T16:01:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -389700,6 +389700,65 @@
       "firstSeenAt": "2026-10-22T16:00:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79474,
+      "source": "dc",
+      "externalId": "6612491",
+      "title": "얘 지금 라이브중인데",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612491&page=1",
+      "postedLabel": "00:59",
+      "postedAt": "2026-10-23T00:59:57+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T16:01:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79475,
+      "source": "blind",
+      "externalId": "cmt-457954947",
+      "title": "ㅇㅈ",
+      "excerpt": "과학을 이길수는 없듯이 민심도 이길수 없는거임",
+      "author": "못*****",
+      "company": "ex-HL클레무브",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9D%B4%EA%B8%B8%EC%88%98%EB%8A%94-%EC%97%86%EB%93%AF%EC%9D%B4-%EB%AF%BC%EC%8B%AC%EB%8F%84-%EC%9D%B4%EA%B8%B8%EC%88%98-%EC%97%86%EB%8A%94%EA%B1%B0%EC%9E%84-bmq0wy7n#457954947",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T01:00:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T16:01:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79476,
+      "source": "blind",
+      "externalId": "cmt-457954944",
+      "title": "나도그럴거같음ㅋㅋㅋ",
+      "excerpt": "34기 장담하는데",
+      "author": "n*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%9E%A5%EB%8B%B4%ED%95%98%EB%8A%94%EB%8D%B0-3f7p65nt#457954944",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T01:00:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T16:01:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -389776,7 +389835,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T00:57:47+09:00"
+      "slowAt": "2026-10-23T01:00:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -391116,7 +391175,9 @@
         "6612449",
         "6612464",
         "6612465",
+        "6612472",
         "6612475",
+        "6612476",
         "6612485"
       ]
     },
