@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:33:43+00:00",
+  "updatedAt": "2026-10-22T01:35:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -331638,6 +331638,85 @@
       "firstSeenAt": "2026-10-22T01:33:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76533,
+      "source": "qoo",
+      "externalId": "cmt-4383014734",
+      "title": "걸을때 마다 새기고 싶은 뭔가 고난의 상징으로 하는건가? 보여주지도 못하는데 굳이 해야하나 싶은데",
+      "excerpt": "그럼 문신이 발바닥에만 있는건어때?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383006892#4383014734",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T09:35:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:35:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76534,
+      "source": "blind",
+      "externalId": "cmt-457847335",
+      "title": "대충보면 이쁜데 제대로보면 그닥임",
+      "excerpt": "근데 이번기수 옥순",
+      "author": "이******",
+      "company": "로버트보쉬코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-c7hqtr2n#457847335",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:35:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:35:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76535,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B1%B4-%EC%95%84%EB%8B%88%EC%A7%80%EB%A7%8C-evieqgl5",
+      "title": "문신한 모든 사람이 이상한건 아니지만",
+      "excerpt": "대체로 충동성 조절 못하고 멍청한건 맞음 정말 문신이 개인 선호도 차이라면 직군별 차이가 없어야지",
+      "author": "I*********",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B1%B4-%EC%95%84%EB%8B%88%EC%A7%80%EB%A7%8C-evieqgl5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:35:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-22T01:35:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76536,
+      "source": "blind",
+      "externalId": "cmt-457847400",
+      "title": "그걸 누가모르냐",
+      "excerpt": "문신한 모든 사람이 이상한건 아니지만",
+      "author": "7****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B1%B4-%EC%95%84%EB%8B%88%EC%A7%80%EB%A7%8C-evieqgl5#457847400",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:35:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:35:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -331737,7 +331816,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T10:32:24+09:00"
+      "slowAt": "2026-10-22T10:35:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -332673,6 +332752,7 @@
         "6610807",
         "6610809",
         "6610810",
+        "6610813",
         "6610814",
         "6610816",
         "6610819",
@@ -332700,6 +332780,7 @@
         "6610973",
         "6610984",
         "6610988",
+        "6611007",
         "6611012"
       ]
     },
@@ -333129,6 +333210,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91%EC%9D%B8%EA%B0%80%EC%9A%94-780d2ir1",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94%EA%B1%B0-%EC%9D%B4%ED%95%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-=-%EB%8B%A4-%EB%B2%88%EC%A7%80%EB%8D%98%EB%8D%B0-mfstv27g",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8B%88%EA%B9%8C-buuudqro",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B1%B4-%EC%95%84%EB%8B%88%EC%A7%80%EB%A7%8C-evieqgl5",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B9%84%ED%95%98%ED%95%98%EA%B3%A0-%ED%98%90%EC%98%A4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90%E3%85%8B%E3%85%8B-iv0kwuj3",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%97%AC%EC%9E%90-=-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B1%B0%EB%A5%B8%EB%8B%A4%EC%A7%80-jae3catd",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EA%B0%84%ED%98%B8%EC%82%AC-7ai8kig4",
