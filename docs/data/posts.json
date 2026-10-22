@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T21:15:30+00:00",
+  "updatedAt": "2026-10-22T21:17:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -393302,6 +393302,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T21:15:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79656,
+      "source": "blind",
+      "externalId": "cmt-457965690",
+      "title": "오지콤 특집인 줄",
+      "excerpt": "남출 너무하네",
+      "author": "Y*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%B6%9C-%EB%84%88%EB%AC%B4%ED%95%98%EB%84%A4-vtb0lbai#457965690",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T06:17:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T21:17:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -393412,7 +393432,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T06:14:12+09:00"
+      "slowAt": "2026-10-23T06:17:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -395270,6 +395290,7 @@
         "/kr/post/%EB%82%A8%EC%B6%9C%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-%EA%B3%A0%EC%9D%B4%EB%8B%A4-%EB%AA%BB%ED%95%B4-%EC%8D%A9%EC%97%88%EB%8B%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-em1fbcav",
         "/kr/post/%EB%82%A8%EC%B6%9C%EB%93%A4%EC%9D%80-%EA%B0%9C%ED%8F%90%EA%B8%89%EB%93%A4%EB%A7%8C-%EB%8D%B0%EB%A0%A4%EB%8B%A4%EB%86%A8%EB%84%A4-xjoqx6ld",
         "/kr/post/%EB%82%A8%EC%B6%9C%EB%93%A4-%EC%99%80%EA%BE%B8%EA%B0%80-%EC%A2%80-%EA%B7%B8%EB%A0%87%EB%84%A4-crznw4lm",
+        "/kr/post/%EB%82%A8%EC%B6%9C-%EB%84%88%EB%AC%B4%ED%95%98%EB%84%A4-vtb0lbai",
         "/kr/post/%EB%82%A8%EC%B6%9C-%EC%A4%91%EC%97%90-%EC%88%A0%ED%86%A4-%EC%97%86%EC%9C%BC%EB%8B%88%EA%B9%8C-%EB%AD%94%EA%B0%80-%EB%B3%B4%EA%B8%B0%EA%B0%80-%ED%8E%B8%EC%95%88%ED%95%98%EB%84%A4-xrd0vbe7",
         "/kr/post/%EB%82%A8%EC%B6%9C-%EC%A7%84%EC%A7%9C-%EC%A0%80%EA%B2%8C-%EB%8B%A4%EB%9D%BC%EA%B3%A0-0il3ymlr",
         "/kr/post/%EB%82%A8%ED%94%BC%EB%94%94%EA%B0%80-%EC%98%81%ED%8F%AC%ED%8B%B0%EB%B0%88-%EC%9D%B8%EC%83%81%EA%B9%8A%EA%B2%8C%EB%B4%A4%EB%82%98%E2%80%A6-80jggbsk",
