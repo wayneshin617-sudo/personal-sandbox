@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T14:27:09+00:00",
+  "updatedAt": "2026-10-22T14:28:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -384568,6 +384568,44 @@
       "firstSeenAt": "2026-10-22T14:27:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79213,
+      "source": "qoo",
+      "externalId": "4383723598",
+      "title": "카메라 무빙 개열받네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4383723598",
+      "postedLabel": "23:27",
+      "postedAt": "2026-10-22T23:27:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T14:28:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79214,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8B%A4%EC%9D%8C%EC%97%94-%EB%82%A8%EC%9E%90-%EC%99%B8%EA%B5%AD%EC%9D%B8%ED%8A%B9%EC%A7%91-%ED%95%98%EA%B2%A0%EB%84%A4-2e45iu6i",
+      "title": "다음엔 남자 외국인특집 하겠네",
+      "excerpt": "또 여출 AS특집",
+      "author": "l*********",
+      "company": "메가스터디교육",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EC%9D%8C%EC%97%94-%EB%82%A8%EC%9E%90-%EC%99%B8%EA%B5%AD%EC%9D%B8%ED%8A%B9%EC%A7%91-%ED%95%98%EA%B2%A0%EB%84%A4-2e45iu6i",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T23:27:47+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T14:28:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -384643,7 +384681,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T23:24:47+09:00"
+      "slowAt": "2026-10-22T23:27:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -390946,7 +390984,8 @@
         "4383720182",
         "4383720882",
         "4383721503",
-        "4383723254"
+        "4383723254",
+        "4383723598"
       ]
     },
     "keep": "v2",
