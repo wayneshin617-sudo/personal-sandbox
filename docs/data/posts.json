@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:07:43+00:00",
+  "updatedAt": "2026-10-22T00:08:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -325630,6 +325630,45 @@
       "firstSeenAt": "2026-10-22T00:07:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76229,
+      "source": "qoo",
+      "externalId": "4382993774",
+      "title": "영숙은 순자가 문신있는거 알고있었나?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382993774",
+      "postedLabel": "09:08",
+      "postedAt": "2026-10-22T09:08:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:08:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76230,
+      "source": "blind",
+      "externalId": "cmt-457836883",
+      "title": "외모가 마음에 든다잖아",
+      "excerpt": "옥순이 속물이야?",
+      "author": "l********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%86%8D%EB%AC%BC%EC%9D%B4%EC%95%BC-pbmbcy1x#457836883",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:08:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:08:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -325728,7 +325767,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T09:05:24+09:00"
+      "slowAt": "2026-10-22T09:08:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -327488,6 +327527,7 @@
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-4ovubv2y",
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%A5%EC%88%9C%EC%9D%B4-%ED%95%A0%EB%95%90-%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4-qid2571j",
         "/kr/post/%EC%98%81%EC%88%98-%EC%9D%80%EA%B7%BC-%EC%88%98%EC%9A%94-%EC%9E%88%EC%9D%84%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-8pa67lhh",
+        "/kr/post/%EC%98%81%EC%88%98-%EC%9D%B4%EC%83%8A-%EC%9E%90%EC%84%B8-%EC%82%90%EB%94%B1%ED%95%9C%EA%B1%B0-%EB%B3%B4%EC%86%8C-527jah78",
         "/kr/post/%EC%98%81%EC%88%98-%EC%9D%B4%EC%A0%84%EC%97%90-%EC%B0%BD%EC%9B%90Lg%EB%82%A8-%EB%8A%90%EB%82%8C%EC%93%B0-5avem8qf",
         "/kr/post/%EC%98%81%EC%88%98-%EC%9D%BC%EC%B0%8D-%EC%9E%90%EB%8A%94%EA%B2%8C-%EB%AC%B4%EC%8A%A8-%EC%A3%84%EB%9D%BC%EA%B3%A0-awqg2uzb",
         "/kr/post/%EC%98%81%EC%88%98-%EC%A0%80%EB%9E%AC%EB%8B%A4%EA%B0%80-%EB%8B%A4%EC%9D%8C%EB%B6%80%ED%84%B0-%EC%9D%B4%EC%9C%A0%EC%97%86%EC%9D%B4-%EC%84%A0%ED%83%9C%EB%AA%BB%EB%B0%9B%EC%9C%BC%EB%A9%B4-%EB%8D%94-%EC%9E%90%EC%8B%A0%EA%B0%90-%EB%96%A8%EC%96%B4%EC%A7%88%ED%85%90%EB%8D%B0-2s3ej6fa",
@@ -330866,7 +330906,8 @@
         "4382947732",
         "4382981078",
         "4382983688",
-        "4382991353"
+        "4382991353",
+        "4382993774"
       ]
     },
     "keep": "v2",
