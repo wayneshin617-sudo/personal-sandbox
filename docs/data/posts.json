@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T04:41:01+00:00",
+  "updatedAt": "2026-10-22T04:42:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -345899,6 +345899,85 @@
       "firstSeenAt": "2026-10-22T04:41:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77254,
+      "source": "qoo",
+      "externalId": "cmt-4383161402",
+      "title": "현숙님도 살아온걸 보면 승부욕 있어보였어서ㅋㅋ",
+      "excerpt": "현숙도 다대일 때 뭔가 영자님 신경쓰였다거나 민망했다 불편했다 이럴줄 알았는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383103228#4383161402",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T12:41:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:42:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77255,
+      "source": "qoo",
+      "externalId": "cmt-4383161699",
+      "title": "그러게 그러려니 좀 하지",
+      "excerpt": "아 근데 출연자들 타투가지고 왈가왈부하는거 진짜 별로다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383160916#4383161699",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T12:41:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:42:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77256,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B4%89%EC%83%88-%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%91%9C%ED%98%84%EC%9D%B4-%EB%A7%9E%EB%82%98-1nuckw84",
+      "title": "촉새 같은 사람이라는 표현이 맞나..",
+      "excerpt": "34 기 영철 금요일 반차쓰고 ktx 잽싸게 타고 나이트가서 홈런에 최선을 다 할 것 같은 스타일",
+      "author": "준***",
+      "company": "LVMH",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B4%89%EC%83%88-%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%91%9C%ED%98%84%EC%9D%B4-%EB%A7%9E%EB%82%98-1nuckw84",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T13:41:43+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T04:42:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77257,
+      "source": "blind",
+      "externalId": "cmt-457867393",
+      "title": "그런 편견이 불만이면 방송에서 전부 보여주던가 ㅋㅋ",
+      "excerpt": "타투 5개가 그렇게까지 욕먹을 일인가",
+      "author": "i******",
+      "company": "KCC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC-5%EA%B0%9C%EA%B0%80-%EA%B7%B8%EB%A0%87%EA%B2%8C%EA%B9%8C%EC%A7%80-%EC%9A%95%EB%A8%B9%EC%9D%84-%EC%9D%BC%EC%9D%B8%EA%B0%80-2l7zwdr0#457867393",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T13:41:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:42:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -345973,7 +346052,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T13:38:43+09:00"
+      "slowAt": "2026-10-22T13:41:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -347186,6 +347265,7 @@
         "6611930",
         "6611938",
         "6611944",
+        "6611951",
         "6611955"
       ]
     },
