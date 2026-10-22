@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T08:48:06+00:00",
+  "updatedAt": "2026-10-22T08:49:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -361726,6 +361726,25 @@
       "firstSeenAt": "2026-10-22T08:48:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78053,
+      "source": "qoo",
+      "externalId": "4383435568",
+      "title": "근데 이번 나솔.. 생각보다 여자들끼리 견제가..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383435568",
+      "postedLabel": "17:48",
+      "postedAt": "2026-10-22T17:48:00+09:00",
+      "views": 18,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:49:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -361830,7 +361849,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T17:45:43+09:00"
+      "slowAt": "2026-10-22T17:48:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -367680,7 +367699,8 @@
         "4383431979",
         "4383432627",
         "4383433093",
-        "4383433987"
+        "4383433987",
+        "4383435568"
       ]
     },
     "keep": "v2",
