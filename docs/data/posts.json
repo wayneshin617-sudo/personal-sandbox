@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:31:42+00:00",
+  "updatedAt": "2026-10-22T01:32:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -331518,6 +331518,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T01:31:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76527,
+      "source": "blind",
+      "externalId": "cmt-457846954",
+      "title": "자기소개 끝나고 급 노화된듯",
+      "excerpt": "근데 이번기수 옥순",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-c7hqtr2n#457846954",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:32:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:32:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -331617,7 +331637,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T10:29:24+09:00"
+      "slowAt": "2026-10-22T10:32:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -334454,6 +334474,7 @@
         "/kr/post/%ED%98%84%EC%88%99%EB%8F%84-%EC%9B%83%EA%B8%B0%EB%84%BC%E3%85%8B%E3%85%8B%E3%85%8B-1fhbtg8n",
         "/kr/post/%ED%98%84%EC%88%99%EB%8F%84-%ED%83%80%ED%88%AC%EC%97%90-0moir05g",
         "/kr/post/%ED%98%84%EC%88%99%EB%B0%96%EC%97%90-%EC%97%86%EB%8B%A4-5817vksq",
+        "/kr/post/%ED%98%84%EC%88%99%EB%B3%B4%EB%8B%A4-%EC%88%9C%EC%9E%90%EB%A5%BC-c0fzfijd",
         "/kr/post/%ED%98%84%EC%88%99%EC%95%84%E3%85%8F-h340vjyz",
         "/kr/post/%ED%98%84%EC%88%99%EC%95%84-%EC%82%AC%EB%9E%8C-%EA%B0%96%EA%B3%A0%EB%85%B8%EB%8A%94-%EA%B1%B0-%EC%95%84%EB%83%90-pnv3izuw",
         "/kr/post/%ED%98%84%EC%88%99%EC%95%84-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C%EA%B0%80%EB%9D%BC-atmj028o",
