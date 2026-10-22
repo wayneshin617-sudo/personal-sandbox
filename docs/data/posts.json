@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T09:42:05+00:00",
+  "updatedAt": "2026-10-22T09:43:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -364416,6 +364416,104 @@
       "firstSeenAt": "2026-10-22T09:42:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78189,
+      "source": "blind",
+      "externalId": "cmt-457896769",
+      "title": "그래서 현숙이가 토한거야. 시골길을 레이스 하듯 달렸겠지. 그거 지방 사람 특임",
+      "excerpt": "(0철) 스포티지 자차 맞음",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/0%EC%B2%A0-%EC%8A%A4%ED%8F%AC%ED%8B%B0%EC%A7%80-%EC%9E%90%EC%B0%A8-%EB%A7%9E%EC%9D%8C-riudg5yo#457896769",
+      "postedLabel": "51분",
+      "postedAt": "2026-10-22T17:51:43+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:43:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78190,
+      "source": "blind",
+      "externalId": "cmt-457899766",
+      "title": "저 시골길에 브레끼 겁나 자주 밟으면서 다녔을듯",
+      "excerpt": "(0철) 스포티지 자차 맞음",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/0%EC%B2%A0-%EC%8A%A4%ED%8F%AC%ED%8B%B0%EC%A7%80-%EC%9E%90%EC%B0%A8-%EB%A7%9E%EC%9D%8C-riudg5yo#457899766",
+      "postedLabel": "21분",
+      "postedAt": "2026-10-22T18:21:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:43:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78191,
+      "source": "qoo",
+      "externalId": "4383478998",
+      "title": "엥 진짜 3년 나솔 인생 중 가장 충격적인 소식임",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383478998",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-22T18:41:59+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:43:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78192,
+      "source": "qoo",
+      "externalId": "4383479096",
+      "title": "역시 이 시대의 현자 서장훈인가?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383479096",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-22T18:42:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:43:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78193,
+      "source": "blind",
+      "externalId": "cmt-457901912",
+      "title": "근데 34정숙님은 진짜 아무 것도 안하고 대체 뭔 깡으로 방송에 기어 나오셨을까요",
+      "excerpt": "보인다... 보여...",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B3%B4%EC%9D%B8%EB%8B%A4-%EB%B3%B4%EC%97%AC-l1xjcv8x#457901912",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T18:42:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:43:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -364520,7 +364618,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T18:39:43+09:00"
+      "slowAt": "2026-10-22T18:42:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -370407,7 +370505,9 @@
         "4383453968",
         "4383463052",
         "4383473324",
-        "4383476929"
+        "4383476929",
+        "4383478998",
+        "4383479096"
       ]
     },
     "keep": "v2",
