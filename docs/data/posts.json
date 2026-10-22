@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T08:58:03+00:00",
+  "updatedAt": "2026-10-22T08:59:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -362181,6 +362181,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T08:58:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 78076,
+      "source": "blind",
+      "externalId": "cmt-457897444",
+      "title": "아들 열심히 건실하게 살고 있지? 엄마아빠는 너 믿어^^",
+      "excerpt": "34현숙",
+      "author": "u*****",
+      "company": "카카오뱅크",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99-apv41kqe#457897444",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-22T17:57:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:59:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78077,
+      "source": "qoo",
+      "externalId": "4383444741",
+      "title": "역시 남사친 여사친은 잠재적 애인이라고 봐야 ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383444741",
+      "postedLabel": "17:58",
+      "postedAt": "2026-10-22T17:58:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:59:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -362255,7 +362294,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T17:55:43+09:00"
+      "slowAt": "2026-10-22T17:58:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -368141,7 +368180,8 @@
         "4383438247",
         "4383440144",
         "4383442584",
-        "4383443821"
+        "4383443821",
+        "4383444741"
       ]
     },
     "keep": "v2",
