@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:00:01+00:00",
+  "updatedAt": "2026-10-22T03:00:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -337445,6 +337445,105 @@
       "firstSeenAt": "2026-10-22T03:00:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76827,
+      "source": "blind",
+      "externalId": "cmt-457851116",
+      "title": "하닉 펌핑이 이리 무섭네 옥순이라니 ㅋㅋ 영숙은 논외로",
+      "excerpt": "옥순이 제일 괜찮네",
+      "author": "Y*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A0%9C%EC%9D%BC-%EA%B4%9C%EC%B0%AE%EB%84%A4-lnzqmebe#457851116",
+      "postedLabel": "53분",
+      "postedAt": "2026-10-22T11:07:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:00:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76828,
+      "source": "blind",
+      "externalId": "cmt-457851114",
+      "title": "문신은 영숙아님?",
+      "excerpt": "옥순이 제일 괜찮네",
+      "author": "!****",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A0%9C%EC%9D%BC-%EA%B4%9C%EC%B0%AE%EB%84%A4-lnzqmebe#457851114",
+      "postedLabel": "53분",
+      "postedAt": "2026-10-22T11:07:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:00:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76829,
+      "source": "blind",
+      "externalId": "cmt-457852494",
+      "title": "문신녀: 영숙 순자 현숙 이번 기수는 다둥이 특집이 아니라 문신녀에 대한 인식을 알아보는 사회적 실험",
+      "excerpt": "옥순이 제일 괜찮네",
+      "author": "무*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A0%9C%EC%9D%BC-%EA%B4%9C%EC%B0%AE%EB%84%A4-lnzqmebe#457852494",
+      "postedLabel": "41분",
+      "postedAt": "2026-10-22T11:19:43+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:00:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76830,
+      "source": "blind",
+      "externalId": "cmt-457852845",
+      "title": "이번 데이트 선택에선 상철이 위너다 ㅋㅋㅋㅋ",
+      "excerpt": "옥순이 제일 괜찮네",
+      "author": "i*********",
+      "company": "한국수력원자력",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A0%9C%EC%9D%BC-%EA%B4%9C%EC%B0%AE%EB%84%A4-lnzqmebe#457852845",
+      "postedLabel": "38분",
+      "postedAt": "2026-10-22T11:22:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:00:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76831,
+      "source": "qoo",
+      "externalId": "4383129531",
+      "title": "나는 근데 간호사들 타투하는건 어느정도 이해는감",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383129531",
+      "postedLabel": "12:00",
+      "postedAt": "2026-10-22T12:00:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:00:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -338596,7 +338695,8 @@
         "6611382",
         "6611386",
         "6611392",
-        "6611397"
+        "6611397",
+        "6611411"
       ]
     },
     "blind": {
@@ -342959,7 +343059,8 @@
         "4383115243",
         "4383121141",
         "4383123586",
-        "4383127002"
+        "4383127002",
+        "4383129531"
       ]
     },
     "keep": "v2",
