@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:03:43+00:00",
+  "updatedAt": "2026-10-22T00:04:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -325514,6 +325514,64 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T00:03:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76223,
+      "source": "blind",
+      "externalId": "/kr/post/25%EA%B8%B0-%ED%95%98%EB%8B%89%EC%9D%B4%EB%82%AB%EB%82%98-prfks6fr",
+      "title": "25기 하닉이낫나",
+      "excerpt": "34 상철이낫나",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/25%EA%B8%B0-%ED%95%98%EB%8B%89%EC%9D%B4%EB%82%AB%EB%82%98-prfks6fr",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-22T09:02:23+09:00",
+      "views": 79,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T00:04:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76224,
+      "source": "qoo",
+      "externalId": "4382991353",
+      "title": "순자 누구 닮았나 했는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4382991353",
+      "postedLabel": "09:04",
+      "postedAt": "2026-10-22T09:04:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:04:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76225,
+      "source": "blind",
+      "externalId": "cmt-457836469",
+      "title": "현숙이는 좋다잖아 한명한테만 먹히면됨",
+      "excerpt": "영철 점점 못생겨짐",
+      "author": "l********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%90%EC%A0%90-%EB%AA%BB%EC%83%9D%EA%B2%A8%EC%A7%90-umjif3ot#457836469",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:04:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:04:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -327790,6 +327848,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%80-%EA%B0%80%EC%8B%9D%EC%A0%81%EC%9D%B8-%EC%9E%85%EC%88%A0-5rw3lfkv",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%80-%EC%BB%A4%ED%94%BC%EC%9E%94%EC%9D%80-%EB%AA%A8%EC%95%BC-bhs0z2s2",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8-%EB%82%A8%EC%9E%90%EC%97%AC%EC%9A%B0-u33cwg6b",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%90%EC%A0%90-%EB%AA%BB%EC%83%9D%EA%B2%A8%EC%A7%90-umjif3ot",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%95%EC%9E%A5-%EC%86%8C%EB%A7%A4-%EA%B1%B7%EC%96%B4%EC%98%AC%EB%A6%B0%EA%B1%B0-vhikxsnf",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%80-%EA%B7%B8%EB%A0%87%EB%84%A4-h6hvpfm7",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%80-%EB%82%98%EB%8C%80%EB%84%A4%E3%85%9C-alfayzte",
@@ -330744,7 +330803,8 @@
         "4382943131",
         "4382947732",
         "4382981078",
-        "4382983688"
+        "4382983688",
+        "4382991353"
       ]
     },
     "keep": "v2",
