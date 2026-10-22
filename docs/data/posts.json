@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T05:56:58+00:00",
+  "updatedAt": "2026-10-22T05:57:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -352040,6 +352040,83 @@
       "firstSeenAt": "2026-10-22T05:56:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77564,
+      "source": "qoo",
+      "externalId": "4383290573",
+      "title": "어제꺼 보는데 영철 치킨집 알아본다고",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383290573",
+      "postedLabel": "14:57",
+      "postedAt": "2026-10-22T14:57:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:57:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77565,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%BC%88%EB%A7%88%EB%8B%88%EC%95%84%ED%94%84%EA%B2%A0%EB%8B%A4-3zngfsg8",
+      "title": "영철이 뼈마니아프겠다",
+      "excerpt": "젤웃긴댓글 헌포상이래ㅋㅋㅋㅋ웁 어떻게 저렇게 싼티나냐 생긴대로 산다는말이 딱인듯",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%BC%88%EB%A7%88%EB%8B%88%EC%95%84%ED%94%84%EA%B2%A0%EB%8B%A4-3zngfsg8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:57:34+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T05:57:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77566,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%8B%AB%EC%96%B4%E2%80%A6-iwpzfonf",
+      "title": "근데 문신은 싫어…",
+      "excerpt": "헬스장에서도 문신한 사람들 눈에 보일때마다 기분 더러운데 그런게 내 집엔 없었으면 함..",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%8B%AB%EC%96%B4%E2%80%A6-iwpzfonf",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:57:35+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T05:57:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77567,
+      "source": "blind",
+      "externalId": "cmt-457876011",
+      "title": "노래만큼 점수 잃기 좋은것도 없음",
+      "excerpt": "첫데이트에 남자 2명에 여자들이 몰린건 남자들의 자기소개 실패임",
+      "author": "¡******",
+      "company": "국세청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B2%AB%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%97%90-%EB%82%A8%EC%9E%90-2%EB%AA%85%EC%97%90-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EB%AA%B0%EB%A6%B0%EA%B1%B4-%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%98-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%8B%A4%ED%8C%A8%EC%9E%84-fi4qowf1#457876011",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:57:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:57:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -352114,7 +352191,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T14:54:35+09:00"
+      "slowAt": "2026-10-22T14:57:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -357886,7 +357963,8 @@
         "4383247648",
         "4383260940",
         "4383269362",
-        "4383272905"
+        "4383272905",
+        "4383290573"
       ]
     },
     "keep": "v2",
