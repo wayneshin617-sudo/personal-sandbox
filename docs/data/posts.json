@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:54:42+00:00",
+  "updatedAt": "2026-10-22T01:55:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -332963,6 +332963,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T01:54:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76600,
+      "source": "qoo",
+      "externalId": "cmt-4383029976",
+      "title": "ㅇㅇ 영숙이 먼저 문신있는 여자 어때요? 라고 영호한테 물어보다가 순자보면서 탈락! 이럼... 그러고나서 문신있으세요? 이런흐름..",
+      "excerpt": "나솔 아직 못 봤는데 문신 영숙이 아웃팅 한거야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383026048#4383029976",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T09:54:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76601,
+      "source": "qoo",
+      "externalId": "cmt-4383030057",
+      "title": "@1 헉. 나 지금 보고 있는데 누가 물어봤어?",
+      "excerpt": "순자 불쌍하다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383029258#4383030057",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T09:54:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76602,
+      "source": "blind",
+      "externalId": "cmt-457849635",
+      "title": "인성 쉬렉에 나이까지 많아 ㅋㅋㅋ 최악",
+      "excerpt": "와 영숙.. 역대급 갱신해버리네 ㄷㄷ",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EC%98%81%EC%88%99-%EC%97%AD%EB%8C%80%EA%B8%89-%EA%B0%B1%EC%8B%A0%ED%95%B4%EB%B2%84%EB%A6%AC%EB%84%A4-%E3%84%B7%E3%84%B7-x130pfju#457849635",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:55:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -334043,7 +334103,8 @@
         "6611082",
         "6611086",
         "6611093",
-        "6611094"
+        "6611094",
+        "6611099"
       ]
     },
     "blind": {
@@ -335558,6 +335619,7 @@
         "/kr/post/%EC%99%80-%EC%95%94%EB%A7%8C-%EC%9E%98%EC%83%9D%EA%B2%BC%EC%96%B4%EB%8F%84-uy3trn06",
         "/kr/post/%EC%99%80-%EC%98%81%EC%88%98%EC%95%84%EC%B9%A8%EB%B6%80%ED%84%B0-%EA%B3%84%EB%9E%80-%EC%82%B6%EB%8A%94%EA%B1%B0-1qqe1b0c",
         "/kr/post/%EC%99%80-%EC%98%81%EC%88%99-%EC%88%9C%EC%9E%90%EB%81%8C%EC%96%B4%EB%82%B4%EB%A6%AC%EB%8A%94-%EA%B1%B0-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-7j64gh4t",
+        "/kr/post/%EC%99%80-%EC%98%81%EC%88%99-%EC%97%AD%EB%8C%80%EA%B8%89-%EA%B0%B1%EC%8B%A0%ED%95%B4%EB%B2%84%EB%A6%AC%EB%84%A4-%E3%84%B7%E3%84%B7-x130pfju",
         "/kr/post/%EC%99%80-%EC%98%81%EC%88%99-%EC%A7%84%EC%A7%9C-%EA%B0%9C-%EC%97%90%EB%B0%94%EB%8B%A4-k5umoxsx",
         "/kr/post/%EC%99%80-%EC%98%81%EC%9E%90-%EB%88%88%EB%B9%9B-%EB%B3%80%ED%95%98%EB%8A%94%EA%B1%B0%EB%B4%90-0ue13tne",
         "/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-%EC%98%88%EC%9D%98%EA%B0%80-%EC%A2%80-%EC%97%86%EB%8B%A4-hpj8u7rn",
