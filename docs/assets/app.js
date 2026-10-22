@@ -1889,6 +1889,14 @@ function pairCard(person) {
   photo.alt = "";
   const name = document.createElement("strong");
   name.textContent = person.name;
+  if (person.jjajang) {
+    const mark = document.createElement("img");
+    mark.className = "pair-jjajang";
+    mark.src = asset("assets/jjajang.svg");
+    mark.alt = "고독정식";
+    mark.title = "고독정식";
+    name.append(mark);
+  }
   button.append(photo, name);
   button.addEventListener("pointerenter", (event) => {
     if (document.documentElement.classList.contains("mobile")) return;
@@ -1977,20 +1985,21 @@ function pokeCard(person) {
   foot.className = "poke-foot";
   const set = document.createElement("span");
   set.textContent = "34기";
-  foot.append(set);
+  const marks = document.createElement("span");
+  marks.className = "poke-marks";
   if (person.jjajang) {
     const mark = document.createElement("img");
     mark.className = "poke-jjajang";
     mark.src = asset("assets/jjajang.svg");
     mark.alt = "고독정식 짜장면";
     mark.title = "고독정식";
-    foot.append(mark);
-  } else {
-    const rarity = document.createElement("span");
-    rarity.className = "poke-rarity";
-    rarity.textContent = "♥";
-    foot.append(rarity);
+    marks.append(mark);
   }
+  const rarity = document.createElement("span");
+  rarity.className = "poke-rarity";
+  rarity.textContent = "♥";
+  marks.append(rarity);
+  foot.append(set, marks);
   const holo = document.createElement("span");
   holo.className = "poke-holo";
   holo.setAttribute("aria-hidden", "true");
