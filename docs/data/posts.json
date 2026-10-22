@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T21:29:31+00:00",
+  "updatedAt": "2026-10-22T21:35:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -393402,6 +393402,46 @@
       "firstSeenAt": "2026-10-22T21:29:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79661,
+      "source": "dc",
+      "externalId": "cmt-10965301",
+      "title": "살이라도 좀빼보던가..",
+      "excerpt": "광수는 평생 인기 없었을 것 같은데",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613077&page=1#cmt_10965301",
+      "postedLabel": "10.23 05:36:39",
+      "postedAt": "2026-10-23T05:36:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T21:35:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79662,
+      "source": "dc",
+      "externalId": "cmt-10965310",
+      "title": "딱 걔랑 외모합은 맞는데 걔가 오르지못할 나무를 바라보는중",
+      "excerpt": "광수는 평생 인기 없었을 것 같은데",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613077&page=1#cmt_10965310",
+      "postedLabel": "10.23 05:45:32",
+      "postedAt": "2026-10-23T05:45:32+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T21:35:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -393512,7 +393552,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T06:32:12+09:00"
+      "slowAt": "2026-10-23T06:35:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -394994,6 +395034,7 @@
         "6613062",
         "6613074",
         "6613075",
+        "6613077",
         "6613078",
         "6613080",
         "6613083",
