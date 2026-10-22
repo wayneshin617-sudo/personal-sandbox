@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T18:43:44+00:00",
+  "updatedAt": "2026-10-22T18:44:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -391893,6 +391893,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T18:43:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79585,
+      "source": "blind",
+      "externalId": "cmt-457962345",
+      "title": "아직 모르지 지금은 첫데이트니까 자기에게 적극적으로 해준사람 선택하는게 어찌보면 당연하지 이제 다음주부터 어떻게 하는지 봐야지",
+      "excerpt": "34기 장담하는데",
+      "author": "i*********",
+      "company": "한국수력원자력",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%9E%A5%EB%8B%B4%ED%95%98%EB%8A%94%EB%8D%B0-3f7p65nt#457962345",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T03:44:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T18:44:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -392000,7 +392020,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T03:41:25+09:00"
+      "slowAt": "2026-10-23T03:44:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -393442,7 +393462,8 @@
         "6612949",
         "6612950",
         "6612953",
-        "6612963"
+        "6612963",
+        "6612968"
       ]
     },
     "blind": {
