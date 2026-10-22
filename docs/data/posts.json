@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T18:38:43+00:00",
+  "updatedAt": "2026-10-22T18:40:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -391854,6 +391854,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T18:38:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79583,
+      "source": "dc",
+      "externalId": "cmt-10965206",
+      "title": "흙녀",
+      "excerpt": "시발 흑녀란 말이 존나 웃기네 ㅋㅋㅋㅋ",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612963&page=1#cmt_10965206",
+      "postedLabel": "10.23 03:39:32",
+      "postedAt": "2026-10-23T03:39:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T18:40:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -393400,7 +393420,9 @@
         "6612946",
         "6612948",
         "6612949",
-        "6612953"
+        "6612950",
+        "6612953",
+        "6612963"
       ]
     },
     "blind": {
