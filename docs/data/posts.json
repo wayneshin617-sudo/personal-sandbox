@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T10:03:06+00:00",
+  "updatedAt": "2026-10-22T10:04:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -365760,6 +365760,65 @@
       "firstSeenAt": "2026-10-22T10:03:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78257,
+      "source": "qoo",
+      "externalId": "4383496504",
+      "title": "한편으론 또 느낀다 남녀사이에 친구는 없다ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383496504",
+      "postedLabel": "19:03",
+      "postedAt": "2026-10-22T19:03:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:04:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78258,
+      "source": "blind",
+      "externalId": "cmt-457904368",
+      "title": "굴다리 밑에 기능재부 줌바팀 보다 못하시던데요",
+      "excerpt": "34 정숙 춤",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%A0%95%EC%88%99-%EC%B6%A4-r7u45hdf#457904368",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T19:03:42+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:04:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78259,
+      "source": "blind",
+      "externalId": "cmt-457904286",
+      "title": "니따위가 확신가지건 알빠?",
+      "excerpt": "나 문신녀인데",
+      "author": "j******** 작성자",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EB%AC%B8%EC%8B%A0%EB%85%80%EC%9D%B8%EB%8D%B0-eaorcfdu#457904286",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T19:03:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:04:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -365864,7 +365923,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T19:00:43+09:00"
+      "slowAt": "2026-10-22T19:03:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -369530,6 +369589,7 @@
         "/kr/post/34-%EC%98%81%ED%98%B8-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8D%94-%EC%95%84%EB%8B%90%EA%B9%8C-vqodqm3w",
         "/kr/post/34-%EC%98%A5%EC%88%9C-%EC%95%BD%EA%B0%84-%EC%96%B8%EB%9F%AD%ED%82%A4-%EC%95%84%ED%98%84-moz3o7gr",
         "/kr/post/34-%EC%98%A5%EC%88%9C-%EC%A7%81%EC%97%85%EC%9D%B4-%EB%AD%90%EC%9E%84-5qvwawxg",
+        "/kr/post/34-%EC%A0%95%EC%88%99-%EC%B6%A4-r7u45hdf",
         "/kr/post/34-%EC%A0%95%EC%88%99-46t6o7pv",
         "/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%A0%95%EC%88%99%EC%9D%B4%EB%9E%91-%EC%98%86%EC%97%90-%EC%95%89%EC%95%84%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C-7bd2du2r",
         "/kr/post/34-%ED%98%84%EC%88%99-%EA%B9%80%EB%AF%BC%ED%95%98-%EB%8A%90%EB%82%8C-mqiqssi8",
@@ -371773,7 +371833,8 @@
         "4383484414",
         "4383486604",
         "4383487640",
-        "4383493124"
+        "4383493124",
+        "4383496504"
       ]
     },
     "keep": "v2",
