@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:58:43+00:00",
+  "updatedAt": "2026-10-22T01:59:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -333261,6 +333261,65 @@
       "firstSeenAt": "2026-10-22T01:58:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76615,
+      "source": "qoo",
+      "externalId": "4383079688",
+      "title": "근데 순자면 외모도 외모지만 영호가 맘이 들 수 밖에... 직업도 간호사에 장녀에 일상에서 맨날 자기가 챙겨주다가",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383079688",
+      "postedLabel": "10:58",
+      "postedAt": "2026-10-22T10:58:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:59:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76616,
+      "source": "dc",
+      "externalId": "cmt-10964159",
+      "title": "사고수준이 거기서 더 나아가기힘듬..? 맨날 그림체 외모합만 찾누...",
+      "excerpt": "영호현숙 그림체가 좀 맞지않냐?",
+      "author": "쿙",
+      "company": "",
+      "ip": "222.108",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6611115&page=1#cmt_10964159",
+      "postedLabel": "10.22 10:58:55",
+      "postedAt": "2026-10-22T10:58:55+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:59:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76617,
+      "source": "blind",
+      "externalId": "cmt-457850037",
+      "title": "깨긴 하지 제정신 아니여 보이지",
+      "excerpt": "문신있는거 왤케 싫지 ㅋㅋ",
+      "author": "i****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8A%94%EA%B1%B0-%EC%99%A4%EC%BC%80-%EC%8B%AB%EC%A7%80-%E3%85%8B%E3%85%8B-t5fk5lma#457850037",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:59:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:59:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -333360,7 +333419,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T10:56:24+09:00"
+      "slowAt": "2026-10-22T10:59:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -334344,7 +334403,9 @@
         "6611094",
         "6611099",
         "6611103",
-        "6611108"
+        "6611108",
+        "6611115",
+        "6611118"
       ]
     },
     "blind": {
@@ -335985,6 +336046,7 @@
         "/kr/post/%EC%9D%B4%EC%A0%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-ott-%EC%97%86%EC%A7%80-%EB%82%98%EC%86%94-g5iwggwd",
         "/kr/post/%EC%9D%B4%EC%AF%A4%EB%90%98%EB%A9%B4-ikkzwu4h",
         "/kr/post/%EC%9D%B4-%EB%85%84%EB%86%88%EB%93%A4%EC%9D%B4-oc2or21b",
+        "/kr/post/%EC%9D%B8%EC%8B%9D-%EC%95%88%EC%A2%8B%EC%9D%80%EA%B2%83-%ED%8A%B9%EC%A7%95-%EC%84%A4%EB%AA%85%ED%95%B4%EC%95%BC%EB%90%9C%EB%8B%A4-5dp5kfk6",
         "/kr/post/%EC%9D%B8%ED%84%B0%EB%B7%B0%EB%88%88-%E3%85%85%E3%85%82-3wtr4p6m",
         "/kr/post/%EC%9D%BC%EB%8B%A8-%EC%98%81%EC%B2%A0%EC%9D%80-ipg4t31i",
         "/kr/post/%EC%9D%BC%EB%9D%BC%EC%9D%B4-%EB%A6%B4%EB%A6%AC%EA%B0%80-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%82%AC%EA%B7%80%EB%8A%94%EA%B1%B4-%EC%A2%80-%EC%95%84%EA%B9%9D%EB%8B%A4-jnkutw00",
@@ -338660,7 +338722,8 @@
         "4383064575",
         "4383067387",
         "4383073118",
-        "4383075321"
+        "4383075321",
+        "4383079688"
       ]
     },
     "keep": "v2",
