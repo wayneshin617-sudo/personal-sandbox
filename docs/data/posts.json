@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T09:39:06+00:00",
+  "updatedAt": "2026-10-22T09:40:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -364258,6 +364258,105 @@
       "firstSeenAt": "2026-10-22T09:39:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78181,
+      "source": "blind",
+      "externalId": "cmt-457895688",
+      "title": "오 기대된다 어제 못봤는데",
+      "excerpt": "이번기수 졸잼",
+      "author": "p*****",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%A1%B8%EC%9E%BC-vku0mna8#457895688",
+      "postedLabel": "57분",
+      "postedAt": "2026-10-22T17:42:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:40:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78182,
+      "source": "blind",
+      "externalId": "cmt-457900341",
+      "title": "영수 쳐먹는거 보는거 밖에 없던 전기수에 비하면",
+      "excerpt": "이번기수 졸잼",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%A1%B8%EC%9E%BC-vku0mna8#457900341",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-22T18:26:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:40:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78183,
+      "source": "qoo",
+      "externalId": "4383476929",
+      "title": "보험왕영수 왜이렇게 멀끔해졌어????",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383476929",
+      "postedLabel": "18:39",
+      "postedAt": "2026-10-22T18:39:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:40:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78184,
+      "source": "blind",
+      "externalId": "cmt-457901669",
+      "title": "고맙소",
+      "excerpt": "투표글 여자의 문신은 약간 이런 느낌이랄까? 투표",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EC%9D%98-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%95%BD%EA%B0%84-%EC%9D%B4%EB%9F%B0-%EB%8A%90%EB%82%8C%EC%9D%B4%EB%9E%84%EA%B9%8C-8di4b0ys#457901669",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T18:39:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:40:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78185,
+      "source": "blind",
+      "externalId": "cmt-457901600",
+      "title": "네 선생님",
+      "excerpt": "투표글 여자의 문신은 약간 이런 느낌이랄까? 투표",
+      "author": "l********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EC%9D%98-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%95%BD%EA%B0%84-%EC%9D%B4%EB%9F%B0-%EB%8A%90%EB%82%8C%EC%9D%B4%EB%9E%84%EA%B9%8C-8di4b0ys#457901600",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T18:39:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:40:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -364362,7 +364461,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T18:36:43+09:00"
+      "slowAt": "2026-10-22T18:39:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -370246,7 +370345,8 @@
         "4383452679",
         "4383453968",
         "4383463052",
-        "4383473324"
+        "4383473324",
+        "4383476929"
       ]
     },
     "keep": "v2",
