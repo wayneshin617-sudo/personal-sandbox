@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T11:28:37+00:00",
+  "updatedAt": "2026-10-22T11:29:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -371199,6 +371199,64 @@
       "firstSeenAt": "2026-10-22T11:28:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78533,
+      "source": "qoo",
+      "externalId": "4383574020",
+      "title": "어제 재밋엇나 궁금해서 들어왓는데 미틴소식",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383574020",
+      "postedLabel": "20:28",
+      "postedAt": "2026-10-22T20:28:00+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T11:29:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78534,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-uiohoqbw",
+      "title": "순자 닮은꼴",
+      "excerpt": "병진이형",
+      "author": "l********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-uiohoqbw",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T20:29:14+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T11:29:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78535,
+      "source": "blind",
+      "externalId": "cmt-457914894",
+      "title": "아냐~",
+      "excerpt": "촌장 솔로나라뉴스 간만에 닉값했네ㅋㅋㅋ",
+      "author": "아***",
+      "company": "임상병리사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B4%8C%EC%9E%A5-%EC%86%94%EB%A1%9C%EB%82%98%EB%9D%BC%EB%89%B4%EC%8A%A4-%EA%B0%84%EB%A7%8C%EC%97%90-%EB%8B%89%EA%B0%92%ED%96%88%EB%84%A4%E3%85%8B%E3%85%8B%E3%85%8B-b8kqwu3t#457914894",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T20:29:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T11:29:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -373543,6 +373601,7 @@
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EB%8F%88%EB%B3%B8%EB%8B%A4%EB%8A%94-%EA%B1%B0-%EA%B5%AC%EB%9D%BC%EC%9E%84-tz7pe6fa",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%99%9C-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-zj5ufo72",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%B4-%EB%88%84%EB%82%98%EA%B0%80-%EB%A7%8E%EC%9C%BC%EB%A9%B4-7wlrg5ic",
+        "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A4%91%EC%95%88%EB%B6%80-%ED%83%80%EB%A0%B9%EC%9D%B4-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8A%94-%EC%9D%B4%EC%9C%A0-uxcx4hib",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%9D%BC%EB%A9%B4-95-%ED%99%95%EB%A5%A0%EB%A1%9C-2ew3h4e2",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%B6%84%EB%93%A4-%EC%97%B0%EC%95%A0-%EC%83%81%EB%8B%B4-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80%EC%9A%94-zjtkk211",
         "/kr/post/%EC%97%AC%EC%9E%90%EC%96%B4-%EC%A7%84%EB%A6%AC-%EA%B9%A8%EB%8B%AC%EC%9D%8C-inkh2d5m",
@@ -377307,7 +377366,8 @@
         "4383540719",
         "4383548946",
         "4383553733",
-        "4383572304"
+        "4383572304",
+        "4383574020"
       ]
     },
     "keep": "v2",
