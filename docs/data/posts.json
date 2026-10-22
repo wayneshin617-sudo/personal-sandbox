@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T12:14:35+00:00",
+  "updatedAt": "2026-10-22T12:15:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -374058,6 +374058,45 @@
       "firstSeenAt": "2026-10-22T12:14:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78678,
+      "source": "qoo",
+      "externalId": "4383619291",
+      "title": "역시 사람 외모가 다가 아니야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383619291",
+      "postedLabel": "21:15",
+      "postedAt": "2026-10-22T21:15:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:15:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78679,
+      "source": "blind",
+      "externalId": "cmt-457921803",
+      "title": "갈수도있지 이쁘던데",
+      "excerpt": "she영숙은 남자를 하대한댔잖아",
+      "author": "어***",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/she%EC%98%81%EC%88%99%EC%9D%80-%EB%82%A8%EC%9E%90%EB%A5%BC-%ED%95%98%EB%8C%80%ED%95%9C%EB%8C%94%EC%9E%96%EC%95%84-k1sf6dbx#457921803",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T21:15:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:15:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -374163,7 +374202,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T21:12:14+09:00"
+      "slowAt": "2026-10-22T21:15:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -377306,6 +377345,7 @@
         "/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94%EA%B8%B0%EC%88%98-%EB%82%A8%EC%9E%90%EB%93%A4%EB%8F%84-%EC%A2%80-%EC%8B%9C%EC%B2%AD%EC%9E%90%EB%93%A4-%EB%8A%98%EC%97%88%EB%84%A4-mlkdoohn",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94%EA%B8%B0%EC%88%98-%EB%82%A8%EC%9E%90%EC%8B%9C%EC%B2%AD%EC%9E%90%EB%93%A4-%EB%8A%98%EC%97%88%EB%84%A4-mlkdoohn",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94%EA%B8%B0%EC%88%98-yw0a55ze",
+        "/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-5acjf33x",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94-%EB%B3%B4%EA%B3%A0-%EC%B9%98%EC%95%84%EB%8A%94-%EC%A0%95%EB%A7%90-%EC%A4%91%EC%9A%94%ED%95%A8-iy6zz853",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EB%9D%BC%EB%B0%A9-%EC%95%88%EB%B4%A4%EB%8A%94%EB%8D%B0-jx00xt6r",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%9D%80-%EC%B9%B4%ED%8E%98-%EB%A7%90%EA%B3%A0-%EC%A1%B1%EC%9A%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%A7%8C%EB%82%98%EC%9A%94-odlwj2n7",
@@ -380212,7 +380252,8 @@
         "4383612639",
         "4383614317",
         "4383617781",
-        "4383618168"
+        "4383618168",
+        "4383619291"
       ]
     },
     "keep": "v2",
