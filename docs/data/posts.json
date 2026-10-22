@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:25:39+00:00",
+  "updatedAt": "2026-10-22T00:26:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -326453,6 +326453,84 @@
       "firstSeenAt": "2026-10-22T00:25:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76271,
+      "source": "qoo",
+      "externalId": "cmt-4382969815",
+      "title": "?? 별..",
+      "excerpt": "근데 진짜 문신은 좀...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382917956#4382969815",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T08:26:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:26:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76272,
+      "source": "dc",
+      "externalId": "6610784",
+      "title": "영철 영호는 왜 구형 타는거지?",
+      "excerpt": "",
+      "author": "특급비밀",
+      "company": "",
+      "ip": "61.98",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610784&page=1",
+      "postedLabel": "09:25",
+      "postedAt": "2026-10-22T09:25:50+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:26:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76273,
+      "source": "dc",
+      "externalId": "6610787",
+      "title": "영숙이가 걍 성격 개ㅈ같은 애임.",
+      "excerpt": "",
+      "author": "라갤러",
+      "company": "",
+      "ip": "115.21",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610787&page=1",
+      "postedLabel": "09:26",
+      "postedAt": "2026-10-22T09:26:16+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:26:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76274,
+      "source": "blind",
+      "externalId": "cmt-457839017",
+      "title": "순자도 그런 문신일 거 같은데",
+      "excerpt": "문신하니까",
+      "author": "탈*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8B%88%EA%B9%8C-buuudqro#457839017",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:26:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:26:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -326551,7 +326629,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T09:23:24+09:00"
+      "slowAt": "2026-10-22T09:26:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -327463,7 +327541,9 @@
         "6610765",
         "6610767",
         "6610768",
-        "6610771"
+        "6610771",
+        "6610779",
+        "6610781"
       ]
     },
     "blind": {
@@ -327883,6 +327963,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%A3%BC%EB%8A%94-%EB%A7%A4%EC%A7%81-h6wht5iq",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91%EC%9D%B8%EA%B0%80%EC%9A%94-780d2ir1",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94%EA%B1%B0-%EC%9D%B4%ED%95%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-=-%EB%8B%A4-%EB%B2%88%EC%A7%80%EB%8D%98%EB%8D%B0-mfstv27g",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8B%88%EA%B9%8C-buuudqro",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B9%84%ED%95%98%ED%95%98%EA%B3%A0-%ED%98%90%EC%98%A4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90%E3%85%8B%E3%85%8B-iv0kwuj3",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%97%AC%EC%9E%90-=-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B1%B0%EB%A5%B8%EB%8B%A4%EC%A7%80-jae3catd",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EA%B0%84%ED%98%B8%EC%82%AC-7ai8kig4",
