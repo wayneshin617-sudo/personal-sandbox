@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T19:29:31+00:00",
+  "updatedAt": "2026-10-22T19:30:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -392549,6 +392549,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T19:29:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79618,
+      "source": "blind",
+      "externalId": "cmt-457963341",
+      "title": "7개 예상함",
+      "excerpt": "5개도 6개도 아니고 5~6개는 뭐지?",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/5%EA%B0%9C%EB%8F%84-6%EA%B0%9C%EB%8F%84-%EC%95%84%EB%8B%88%EA%B3%A0-56%EA%B0%9C%EB%8A%94-%EB%AD%90%EC%A7%80-qh3j7tzw#457963341",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T04:30:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T19:30:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -392625,7 +392645,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T04:27:11+09:00"
+      "slowAt": "2026-10-23T04:30:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -396879,6 +396899,7 @@
         "/kr/post/34-%ED%98%84%EC%88%99-5h11safu",
         "/kr/post/38%EA%B9%8C%EC%A7%80-%EC%86%94%EB%A1%9C%EA%B3%A0-ss8lfjjn",
         "/kr/post/40-%EC%B4%88%EC%A4%91-%EB%8C%80%ED%99%94%ED%95%98%EA%B3%A0%EC%8B%B6%EB%8B%A4-nlvaps3w",
+        "/kr/post/5%EA%B0%9C%EB%8F%84-6%EA%B0%9C%EB%8F%84-%EC%95%84%EB%8B%88%EA%B3%A0-56%EA%B0%9C%EB%8A%94-%EB%AD%90%EC%A7%80-qh3j7tzw",
         "/kr/post/7%EA%B8%B0-%EC%98%81%EC%8B%9D-yyinrxu8",
         "/kr/post/7%EA%B8%B0-%EC%98%81%ED%98%B8-%EC%A0%9C%EC%A0%95%EC%8B%A0-%EC%95%84%EB%8B%88%EB%84%A4-3clqvp2z",
         "/kr/post/705bee18",
