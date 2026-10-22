@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T19:27:30+00:00",
+  "updatedAt": "2026-10-22T19:29:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -392530,6 +392530,25 @@
       "firstSeenAt": "2026-10-22T19:27:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79617,
+      "source": "blind",
+      "externalId": "/kr/post/5%EA%B0%9C%EB%8F%84-6%EA%B0%9C%EB%8F%84-%EC%95%84%EB%8B%88%EA%B3%A0-56%EA%B0%9C%EB%8A%94-%EB%AD%90%EC%A7%80-qh3j7tzw",
+      "title": "5개도 6개도 아니고 5~6개는 뭐지?",
+      "excerpt": "문신 개수를 모를리가 없잖아",
+      "author": "무******",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/5%EA%B0%9C%EB%8F%84-6%EA%B0%9C%EB%8F%84-%EC%95%84%EB%8B%88%EA%B3%A0-56%EA%B0%9C%EB%8A%94-%EB%AD%90%EC%A7%80-qh3j7tzw",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T04:29:12+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T19:29:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -392639,7 +392658,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T04:26:11+09:00"
+      "slowAt": "2026-10-23T04:29:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -394095,7 +394114,8 @@
         "6612991",
         "6612992",
         "6612996",
-        "6613006"
+        "6613006",
+        "6613012"
       ]
     },
     "blind": {
