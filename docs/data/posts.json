@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T05:16:53+00:00",
+  "updatedAt": "2026-10-22T05:17:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -348965,6 +348965,86 @@
       "firstSeenAt": "2026-10-22T05:16:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77409,
+      "source": "blind",
+      "externalId": "cmt-457871514",
+      "title": "김영철이요? 34영철님이요?",
+      "excerpt": "영철",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-ji1fqcfw#457871514",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:17:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:17:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77410,
+      "source": "blind",
+      "externalId": "cmt-457871448",
+      "title": "헌포상",
+      "excerpt": "영철",
+      "author": "i*********",
+      "company": "IBK시스템",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-ji1fqcfw#457871448",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:17:32+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:17:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77411,
+      "source": "blind",
+      "externalId": "cmt-457871478",
+      "title": "입 열면 확 깸",
+      "excerpt": "영철",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-ji1fqcfw#457871478",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:17:33+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:17:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77412,
+      "source": "blind",
+      "externalId": "cmt-457871455",
+      "title": "구구단도 못 외울 거 같아 보이긴 해요",
+      "excerpt": "운동선수들 문신은 어때?",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%B4%EB%8F%99%EC%84%A0%EC%88%98%EB%93%A4-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%96%B4%EB%95%8C-1mai52mr#457871455",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:17:34+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:17:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -349069,7 +349149,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T14:14:35+09:00"
+      "slowAt": "2026-10-22T14:17:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -350240,6 +350320,7 @@
         "6611840",
         "6611843",
         "6611847",
+        "6611852",
         "6611856",
         "6611863",
         "6611865",
@@ -350305,7 +350386,9 @@
         "6612175",
         "6612176",
         "6612179",
-        "6612180"
+        "6612180",
+        "6612183",
+        "6612191"
       ]
     },
     "blind": {
@@ -351735,6 +351818,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-ADHD%EA%B0%99%EB%8B%A4-5hjmabqk",
         "/kr/post/%EC%98%81%EC%B2%A0-gk3ger0r",
         "/kr/post/%EC%98%81%EC%B2%A0-h616vso5",
+        "/kr/post/%EC%98%81%EC%B2%A0-ji1fqcfw",
         "/kr/post/%EC%98%81%EC%B2%A0-twcs6dc8",
         "/kr/post/%EC%98%81%EC%B2%A0-y0vj1g3j",
         "/kr/post/%EC%98%81%EC%B2%A0vs%EC%98%81%ED%98%B8-%EB%82%B4-%EC%83%9D%EA%B0%81%EC%9C%BC%EB%A1%9C%EB%8A%94-wj3hlnfw",
@@ -351957,6 +352041,7 @@
         "/kr/post/%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E3%85%85%E3%85%82%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-x5lh3isd",
         "/kr/post/%EC%9A%B0%EB%A6%AC%EB%8F%84-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-u5v4oeg8",
         "/kr/post/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%EC%97%90-%EB%82%98%EC%86%94-%EC%98%A5%EC%88%9C-%EC%82%B4%EB%8D%94%EB%9D%BC-g22jcaax",
+        "/kr/post/%EC%9A%B4%EB%8F%99%EC%84%A0%EC%88%98%EB%93%A4-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%96%B4%EB%95%8C-1mai52mr",
         "/kr/post/%EC%9A%B4%EB%8F%99%ED%95%98%EB%8A%94%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EC%8B%9C-%ED%95%98%EC%96%97%EA%B2%8C-%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94%EA%B1%B0%EC%95%BC-24xmb6mi",
         "/kr/post/%EC%9A%B4%EC%A0%84%EC%97%90-%EC%A7%91%EC%A4%91%EC%9D%80-%EC%95%88%ED%95%98%EA%B3%A0-g5f5uakk",
         "/kr/post/%EC%9A%B4%EC%A0%84%EC%9D%84-%E3%85%85%E3%85%82-%E3%85%88%EA%B0%99%EC%9D%B4-%EC%B3%90%ED%95%98%EB%8B%88%EA%B9%8C-dxiqymqd",
