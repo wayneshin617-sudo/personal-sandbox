@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T02:53:01+00:00",
+  "updatedAt": "2026-10-22T02:53:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -337032,6 +337032,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T02:53:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76806,
+      "source": "qoo",
+      "externalId": "4383123586",
+      "title": "트리거남 됐네ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383123586",
+      "postedLabel": "11:53",
+      "postedAt": "2026-10-22T11:53:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:53:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -337106,7 +337125,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T11:50:43+09:00"
+      "slowAt": "2026-10-22T11:53:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -342531,7 +342550,8 @@
         "4383100653",
         "4383103228",
         "4383115243",
-        "4383121141"
+        "4383121141",
+        "4383123586"
       ]
     },
     "keep": "v2",
