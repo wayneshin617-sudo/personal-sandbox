@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T05:11:53+00:00",
+  "updatedAt": "2026-10-22T05:12:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -348492,6 +348492,66 @@
       "firstSeenAt": "2026-10-22T05:11:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77385,
+      "source": "dc",
+      "externalId": "cmt-10964750",
+      "title": "성병 걸릴것 같아 ㅎㄷㄷㄷ",
+      "excerpt": "난 문신 보면 성욕 떨어짐",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612147&page=1#cmt_10964750",
+      "postedLabel": "10.22 14:12:26",
+      "postedAt": "2026-10-22T14:12:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:12:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77386,
+      "source": "blind",
+      "externalId": "cmt-457870882",
+      "title": "유튜버 중에 “나는야 수민이“ 닮으심",
+      "excerpt": "전인권 왜 여기서 급발진하는 건지 설명 좀",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%84%EC%9D%B8%EA%B6%8C-%EC%99%9C-%EC%97%AC%EA%B8%B0%EC%84%9C-%EA%B8%89%EB%B0%9C%EC%A7%84%ED%95%98%EB%8A%94-%EA%B1%B4%EC%A7%80-%EC%84%A4%EB%AA%85-%EC%A2%80-18or2vn7#457870882",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:12:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:12:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77387,
+      "source": "blind",
+      "externalId": "cmt-457870982",
+      "title": "자기소개때 영식 발언에 대부분 남자는 그렇지..하는거보고 페미쪽인가 싶던데..",
+      "excerpt": "전인권 왜 여기서 급발진하는 건지 설명 좀",
+      "author": "i*********",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%84%EC%9D%B8%EA%B6%8C-%EC%99%9C-%EC%97%AC%EA%B8%B0%EC%84%9C-%EA%B8%89%EB%B0%9C%EC%A7%84%ED%95%98%EB%8A%94-%EA%B1%B4%EC%A7%80-%EC%84%A4%EB%AA%85-%EC%A2%80-18or2vn7#457870982",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:12:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:12:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -348566,7 +348626,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T14:09:34+09:00"
+      "slowAt": "2026-10-22T14:12:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -349760,6 +349820,7 @@
         "6611828",
         "6611829",
         "6611830",
+        "6611832",
         "6611833",
         "6611834",
         "6611838",
@@ -349819,7 +349880,9 @@
         "6612122",
         "6612124",
         "6612134",
-        "6612143"
+        "6612143",
+        "6612147",
+        "6612148"
       ]
     },
     "blind": {
