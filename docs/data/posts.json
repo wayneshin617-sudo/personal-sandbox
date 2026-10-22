@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T13:16:38+00:00",
+  "updatedAt": "2026-10-22T13:17:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -378027,6 +378027,64 @@
       "firstSeenAt": "2026-10-22T13:16:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78879,
+      "source": "qoo",
+      "externalId": "4383672947",
+      "title": "이번 편 볼만해??? 릴스로 뜨는거 보다 왔는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383672947",
+      "postedLabel": "22:17",
+      "postedAt": "2026-10-22T22:17:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T13:17:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78880,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90%EC%96%B8%EB%8B%88-%EB%AC%B8%EC%8B%A06%EA%B0%9C%EB%95%9C%EC%97%90-%EB%82%98%EB%9D%BD%EA%B0%84%EA%B1%B0%EC%95%BC-tedj4gwl",
+      "title": "순자언니 문신6개땜에 나락간거야?",
+      "excerpt": "영숙이 문신공격만 안했음 디엠 엄청 받았을텐데",
+      "author": "사*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EC%96%B8%EB%8B%88-%EB%AC%B8%EC%8B%A06%EA%B0%9C%EB%95%9C%EC%97%90-%EB%82%98%EB%9D%BD%EA%B0%84%EA%B1%B0%EC%95%BC-tedj4gwl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T22:17:14+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T13:17:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78881,
+      "source": "blind",
+      "externalId": "cmt-457931812",
+      "title": "나솔에 지금껏 나왔던 여미새들중에 끝판대장이다. 이보다 더한 여미새는 앞으로도 없을듯",
+      "excerpt": "와 영철 진짜 숨쉬듯무례하네 ㅋㅋㅋㅋㅋㅋㅋ",
+      "author": "급***",
+      "company": "신세계아이앤씨",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%88%A8%EC%89%AC%EB%93%AF%EB%AC%B4%EB%A1%80%ED%95%98%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-ge380awm#457931812",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T22:17:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T13:17:36+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -384235,7 +384293,8 @@
         "4383623940",
         "4383630621",
         "4383638937",
-        "4383644682"
+        "4383644682",
+        "4383672947"
       ]
     },
     "keep": "v2",
