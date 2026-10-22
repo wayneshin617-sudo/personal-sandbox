@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T02:40:00+00:00",
+  "updatedAt": "2026-10-22T02:41:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -336104,6 +336104,45 @@
       "firstSeenAt": "2026-10-22T02:40:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76759,
+      "source": "blind",
+      "externalId": "/kr/post/suv%EB%A9%80%EB%AF%B8%EC%82%AC%ED%83%9C%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-whrsm2ow",
+      "title": "suv멀미사태와 관련하여",
+      "excerpt": "suv 승차감이안조은건사실인데 왜그런지얼추알겠는데 이거 물리학적으로 설명할수있는 이과맨있으신가",
+      "author": "j********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/suv%EB%A9%80%EB%AF%B8%EC%82%AC%ED%83%9C%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-whrsm2ow",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T11:40:43+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T02:41:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76760,
+      "source": "blind",
+      "externalId": "cmt-457854764",
+      "title": "영자 가만히 있다 두드려맞네ㅋㅋㅋ",
+      "excerpt": "문신은 지선택 지가 감당하는건데",
+      "author": "부*********",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%A7%80%EC%84%A0%ED%83%9D-%EC%A7%80%EA%B0%80-%EA%B0%90%EB%8B%B9%ED%95%98%EB%8A%94%EA%B1%B4%EB%8D%B0-hdw3gypn#457854764",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T11:40:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:41:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -336206,7 +336245,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T11:37:43+09:00"
+      "slowAt": "2026-10-22T11:40:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -337232,7 +337271,8 @@
         "6611261",
         "6611264",
         "6611268",
-        "6611279"
+        "6611279",
+        "6611290"
       ]
     },
     "blind": {
