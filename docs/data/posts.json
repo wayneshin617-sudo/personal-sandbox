@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:46:01+00:00",
+  "updatedAt": "2026-10-22T03:47:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -341150,6 +341150,65 @@
       "firstSeenAt": "2026-10-22T03:46:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77014,
+      "source": "blind",
+      "externalId": "cmt-457859008",
+      "title": "공감만 해주세요.. 팩트 자제 좀요 ㅠ",
+      "excerpt": "블라 개꼰대 집단이구나",
+      "author": "l*********",
+      "company": "SK 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B8%94%EB%9D%BC-%EA%B0%9C%EA%BC%B0%EB%8C%80-%EC%A7%91%EB%8B%A8%EC%9D%B4%EA%B5%AC%EB%82%98-ci44q2uv#457859008",
+      "postedLabel": "22분",
+      "postedAt": "2026-10-22T12:24:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:47:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77015,
+      "source": "blind",
+      "externalId": "cmt-457860155",
+      "title": "일본은 타투한 사람을 조용히 사람취급을 안해버림.",
+      "excerpt": "블라 개꼰대 집단이구나",
+      "author": "i*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B8%94%EB%9D%BC-%EA%B0%9C%EA%BC%B0%EB%8C%80-%EC%A7%91%EB%8B%A8%EC%9D%B4%EA%B5%AC%EB%82%98-ci44q2uv#457860155",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-22T12:35:43+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:47:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77016,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%B8%EB%9F%B0%EB%8D%B0-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%82%A0%EC%9D%BC%EC%9D%B4-%EC%9E%88%EB%82%98-1upg067d",
+      "title": "그런데 문신한 사람 만날일이 있나?",
+      "excerpt": "살면서 문신한 사람하고 만난게 얼마나 있나 생각해봤는데 진짜 거의 없음 군대에서 만난 상근들이 문신있는 사람 꽤 있었고 호기심에 지역 술모임 나갔을 때 두세명 본듯 그나마 그 모임도 뭔가 결이 안맞아서 한두번 나가다 말았고 딱 이거 말고는 어디서도 만나지 못함 굳이 호들갑 떨고 온몸비틀기 안해도 내가 건실하게 살면 문신한 사람하고 동선이 잘 안겹쳐",
+      "author": "투***",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%9F%B0%EB%8D%B0-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%82%A0%EC%9D%BC%EC%9D%B4-%EC%9E%88%EB%82%98-1upg067d",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:46:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T03:47:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -341252,7 +341311,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T12:43:43+09:00"
+      "slowAt": "2026-10-22T12:46:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -342369,7 +342428,9 @@
         "6611657",
         "6611664",
         "6611668",
-        "6611669"
+        "6611669",
+        "6611675",
+        "6611681"
       ]
     },
     "blind": {
