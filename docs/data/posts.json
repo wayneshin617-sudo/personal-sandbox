@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T06:03:57+00:00",
+  "updatedAt": "2026-10-22T06:04:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -352773,6 +352773,84 @@
       "firstSeenAt": "2026-10-22T06:03:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77601,
+      "source": "qoo",
+      "externalId": "cmt-4383238376",
+      "title": "@3 그닥.....노잼과 소소잼 중간",
+      "excerpt": "러버덕이 몇기야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383231482#4383238376",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T14:04:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T06:04:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77602,
+      "source": "qoo",
+      "externalId": "4383297002",
+      "title": "현숙 팔에 문신아니래",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383297002",
+      "postedLabel": "15:04",
+      "postedAt": "2026-10-22T15:04:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T06:04:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77603,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%E3%85%88%E3%84%B4%EC%95%88%ED%83%80%EA%B9%9D%EB%84%A4-i5rjkdeb",
+      "title": "정숙은 ㅈㄴ안타깝네",
+      "excerpt": "타협하지않고 마음가는대로 제일 알파남 영호 골랐는데 데이트 시작하자마자 청순 여성스러움이 좋다며 입구컷 당해버리고 표정관리 못함 ㅋㅋㅋ 이게 현실이지",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%E3%85%88%E3%84%B4%EC%95%88%ED%83%80%EA%B9%9D%EB%84%A4-i5rjkdeb",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T15:04:34+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T06:04:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77604,
+      "source": "blind",
+      "externalId": "cmt-457876929",
+      "title": "이렇게까지 아득바득 생각 안하는데 그냥 니 정병발사글 같음",
+      "excerpt": "여자가 볼때 문신하는 여자들은",
+      "author": "h******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EA%B0%80-%EB%B3%BC%EB%95%8C-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-x83m8toq#457876929",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T15:04:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T06:04:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -358626,7 +358704,8 @@
         "4383260940",
         "4383269362",
         "4383272905",
-        "4383290573"
+        "4383290573",
+        "4383297002"
       ]
     },
     "keep": "v2",
