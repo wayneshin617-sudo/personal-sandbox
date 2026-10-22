@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T06:32:57+00:00",
+  "updatedAt": "2026-10-22T06:34:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -354516,6 +354516,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-22T06:32:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77689,
+      "source": "blind",
+      "externalId": "cmt-457875737",
+      "title": "그게 왜?",
+      "excerpt": "현숙 구토",
+      "author": "G****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EA%B5%AC%ED%86%A0-0ii6s3e0#457875737",
+      "postedLabel": "40분",
+      "postedAt": "2026-10-22T14:54:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T06:34:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77690,
+      "source": "blind",
+      "externalId": "cmt-457880536",
+      "title": "걍 나라면 내 토하는거 주변사람이 보면 너무 끔찍할거 같음",
+      "excerpt": "현숙 구토",
+      "author": "l********* 작성자",
+      "company": "메가스터디교육",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EA%B5%AC%ED%86%A0-0ii6s3e0#457880536",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T15:34:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T06:34:57+00:00",
       "isSeed": false,
       "kind": "reply"
     }
