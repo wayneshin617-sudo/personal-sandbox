@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T07:10:58+00:00",
+  "updatedAt": "2026-10-22T07:11:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -357155,6 +357155,45 @@
       "firstSeenAt": "2026-10-22T07:10:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77822,
+      "source": "qoo",
+      "externalId": "4383357719",
+      "title": "영호 어머님이 요리학원 권유하신거도 좋던데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383357719",
+      "postedLabel": "16:11",
+      "postedAt": "2026-10-22T16:11:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T07:11:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77823,
+      "source": "blind",
+      "externalId": "cmt-457885108",
+      "title": "쌍수가제일싫은듯 비포애프터 차이심해서",
+      "excerpt": "난 성형도 문신만큼 싫음",
+      "author": "i*********",
+      "company": "도쿄일렉트론코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%84%B1%ED%98%95%EB%8F%84-%EB%AC%B8%EC%8B%A0%EB%A7%8C%ED%81%BC-%EC%8B%AB%EC%9D%8C-quvgszkf#457885108",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T16:11:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T07:11:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -357259,7 +357298,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T16:08:35+09:00"
+      "slowAt": "2026-10-22T16:11:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -359551,6 +359590,7 @@
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EB%9D%BC%EB%AF%B8%EC%95%BC-5dno3pys",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EB%AC%B4%EC%84%AD%EB%8B%A4-fw6y7z61",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EB%AD%90%EB%AF%BF%EA%B3%A0-%EB%82%98%EB%8C%90-07m52mlg",
+        "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%82%AC%EB%9E%8C-%EB%8B%B4%EA%B7%B8%EB%8A%94%EA%B2%8C-%ED%83%80%ED%88%AC%EB%B3%B4%EB%8B%A4-%EB%AC%B8%EC%A0%9C-%EC%95%84%EB%8B%98-4fsvbjop",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%B0%84%EB%B3%B4%EB%8A%94%EB%8D%B0-47j6oh1e",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%83%81%EC%B2%A0-%EA%B0%84%EB%B3%B4%EB%8A%94%EB%8D%B0-47j6oh1e",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%84%B1%EA%B2%A9-%EC%99%9C%EC%A0%80%EB%9E%98-8qzv5kbb",
@@ -363051,7 +363091,8 @@
         "4383297002",
         "4383323064",
         "4383354205",
-        "4383355254"
+        "4383355254",
+        "4383357719"
       ]
     },
     "keep": "v2",
