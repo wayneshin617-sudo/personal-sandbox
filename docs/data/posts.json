@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T07:40:57+00:00",
+  "updatedAt": "2026-10-22T07:41:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -358561,6 +358561,46 @@
       "firstSeenAt": "2026-10-22T07:40:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77893,
+      "source": "blind",
+      "externalId": "cmt-457888741",
+      "title": "프롬프트 엔지니어링 좀 하셨네요 지피티 말뽄새 보니깐 퓨샷 프롬프팅 같은데",
+      "excerpt": "GPT한테 문신한 사람 어떠냐고 물어보니까",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/GPT%ED%95%9C%ED%85%8C-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C-%EC%96%B4%EB%96%A0%EB%83%90%EA%B3%A0-%EB%AC%BC%EC%96%B4%EB%B3%B4%EB%8B%88%EA%B9%8C-ugvi4m5i#457888741",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T16:41:34+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T07:41:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77894,
+      "source": "blind",
+      "externalId": "cmt-457888678",
+      "title": "강하게 교육시켰지..",
+      "excerpt": "GPT한테 문신한 사람 어떠냐고 물어보니까",
+      "author": "l******* 작성자",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/GPT%ED%95%9C%ED%85%8C-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C-%EC%96%B4%EB%96%A0%EB%83%90%EA%B3%A0-%EB%AC%BC%EC%96%B4%EB%B3%B4%EB%8B%88%EA%B9%8C-ugvi4m5i#457888678",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T16:41:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T07:41:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -358665,7 +358705,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T16:38:35+09:00"
+      "slowAt": "2026-10-22T16:41:35+09:00"
     },
     "dc": {
       "doneIds": [
