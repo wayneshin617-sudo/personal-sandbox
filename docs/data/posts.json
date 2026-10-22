@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T10:30:10+00:00",
+  "updatedAt": "2026-10-22T10:31:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -367453,6 +367453,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T10:30:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 78343,
+      "source": "qoo",
+      "externalId": "4383519347",
+      "title": "보험영수 그래도 나름 스펙좋고 돈잘벌고",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383519347",
+      "postedLabel": "19:30",
+      "postedAt": "2026-10-22T19:30:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:31:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -367558,7 +367577,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T19:27:43+09:00"
+      "slowAt": "2026-10-22T19:30:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -373503,7 +373522,8 @@
         "4383516029",
         "4383517501",
         "4383517920",
-        "4383519028"
+        "4383519028",
+        "4383519347"
       ]
     },
     "keep": "v2",
