@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T15:56:06+00:00",
+  "updatedAt": "2026-10-22T15:57:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -389623,6 +389623,44 @@
       "firstSeenAt": "2026-10-22T15:56:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79470,
+      "source": "dc",
+      "externalId": "6612470",
+      "title": "디씨앱으로 나솔걀 접속안되던데",
+      "excerpt": "",
+      "author": "젊은날의노력",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612470&page=1",
+      "postedLabel": "00:56",
+      "postedAt": "2026-10-23T00:56:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T15:57:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79471,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9D%B4%EA%B8%B8%EC%88%98%EB%8A%94-%EC%97%86%EB%93%AF%EC%9D%B4-%EB%AF%BC%EC%8B%AC%EB%8F%84-%EC%9D%B4%EA%B8%B8%EC%88%98-%EC%97%86%EB%8A%94%EA%B1%B0%EC%9E%84-bmq0wy7n",
+      "title": "과학을 이길수는 없듯이 민심도 이길수 없는거임",
+      "excerpt": "독재자들도 결국 민심에 무너졌듯이 문신충들도 내가 어쩌고 지금 내 옆에 누가 어쩌고 해봐야 굳건한 민심은 흔들리지 않는다 그리고 문신충 극혐하는 사람들은 대중인식 즉 평균을 얘기하는데 문신충들이 소수 예외를 들고 나와서 외쳐본들 뭐가 달라질까??? 아닌데 아닌데 해봐야 평균 사회가 보는건 그냥 비겁한 핑계, 변명일 뿐임 이해해주는 사람 있으면 부디 그사람과 음지에서 계속 사랑하고 양지로 나오지좀 말고",
+      "author": "유***",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9D%B4%EA%B8%B8%EC%88%98%EB%8A%94-%EC%97%86%EB%93%AF%EC%9D%B4-%EB%AF%BC%EC%8B%AC%EB%8F%84-%EC%9D%B4%EA%B8%B8%EC%88%98-%EC%97%86%EB%8A%94%EA%B1%B0%EC%9E%84-bmq0wy7n",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T00:56:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T15:57:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -389729,7 +389767,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T00:53:47+09:00"
+      "slowAt": "2026-10-23T00:56:47+09:00"
     },
     "dc": {
       "doneIds": [
