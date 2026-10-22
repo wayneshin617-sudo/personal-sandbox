@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T09:52:04+00:00",
+  "updatedAt": "2026-10-22T09:53:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -364829,6 +364829,103 @@
       "firstSeenAt": "2026-10-22T09:52:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78210,
+      "source": "blind",
+      "externalId": "cmt-457898020",
+      "title": "ㅋㅋㅋ",
+      "excerpt": "34현숙",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99-apv41kqe#457898020",
+      "postedLabel": "50분",
+      "postedAt": "2026-10-22T18:02:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:53:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78211,
+      "source": "blind",
+      "externalId": "cmt-457900374",
+      "title": "현숙이랑 결혼할게요 ^^",
+      "excerpt": "34현숙",
+      "author": "l********* 작성자",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99-apv41kqe#457900374",
+      "postedLabel": "26분",
+      "postedAt": "2026-10-22T18:26:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:53:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78212,
+      "source": "qoo",
+      "externalId": "4383487640",
+      "title": "하 근데 나솔 재미있다 진짜",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383487640",
+      "postedLabel": "18:52",
+      "postedAt": "2026-10-22T18:52:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:53:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78213,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%B2%A0-%EA%B4%80%EC%83%81%EC%9D%B4-%EC%8B%B8%ED%95%98%EC%A7%80-%EC%95%8A%EB%82%98-zo82w3u2",
+      "title": "34영철 관상이 싸하지 않나",
+      "excerpt": "뭔가 데이트 폭력할 거 같이 생김",
+      "author": "j*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0-%EA%B4%80%EC%83%81%EC%9D%B4-%EC%8B%B8%ED%95%98%EC%A7%80-%EC%95%8A%EB%82%98-zo82w3u2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T18:52:42+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T09:53:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78214,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0-%EB%96%A1%EB%B0%A5-%EB%AD%90%EC%9E%84-qsakguip",
+      "title": "문신 떡밥 뭐임??",
+      "excerpt": "어제거 아직 안 봤는데 나도 알려줘",
+      "author": "l*********",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EB%96%A1%EB%B0%A5-%EB%AD%90%EC%9E%84-qsakguip",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T18:52:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T09:53:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -364903,7 +365000,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T18:49:42+09:00"
+      "slowAt": "2026-10-22T18:52:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -370831,7 +370928,8 @@
         "4383479096",
         "4383480413",
         "4383484414",
-        "4383486604"
+        "4383486604",
+        "4383487640"
       ]
     },
     "keep": "v2",
