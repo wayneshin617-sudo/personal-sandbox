@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T02:55:01+00:00",
+  "updatedAt": "2026-10-22T02:56:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -337091,6 +337091,25 @@
       "firstSeenAt": "2026-10-22T02:55:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76809,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0-5-6-%EA%B0%9C-%EB%9D%BC%EB%8A%94-%EB%A7%90%EC%9D%80-nv0szrxn",
+      "title": "문신 5-6 개 라는 말은",
+      "excerpt": "최소 8개 라는 말이다",
+      "author": "i*********",
+      "company": "오티스엘리베이터",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-5-6-%EA%B0%9C-%EB%9D%BC%EB%8A%94-%EB%A7%90%EC%9D%80-nv0szrxn",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T11:55:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T02:56:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -337193,7 +337212,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T11:52:43+09:00"
+      "slowAt": "2026-10-22T11:55:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -338234,7 +338253,9 @@
         "6611334",
         "6611349",
         "6611351",
-        "6611353"
+        "6611353",
+        "6611376",
+        "6611378"
       ]
     },
     "blind": {
