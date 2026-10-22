@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T17:05:41+00:00",
+  "updatedAt": "2026-10-22T17:06:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -390825,6 +390825,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T17:05:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79531,
+      "source": "dc",
+      "externalId": "cmt-10964954",
+      "title": "재미라도 있으면 몰라",
+      "excerpt": "얘도 벌써 세 번째 아님? 그만 좀 나와라 ㅅㅂ",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612523&page=4#cmt_10964954",
+      "postedLabel": "10.23 01:16:54",
+      "postedAt": "2026-10-23T01:16:54+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T17:06:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -390901,7 +390921,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T02:03:23+09:00"
+      "slowAt": "2026-10-23T02:06:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -392300,7 +392320,8 @@
         "6612748",
         "6612753",
         "6612760",
-        "6612762"
+        "6612762",
+        "6612765"
       ]
     },
     "blind": {
