@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T04:25:01+00:00",
+  "updatedAt": "2026-10-22T04:26:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -344038,6 +344038,45 @@
       "firstSeenAt": "2026-10-22T04:25:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77160,
+      "source": "qoo",
+      "externalId": "cmt-4383148738",
+      "title": "작은 한두개는 자기에게 의미있는건가보다 싶어서 괜찮은데 세네개 넘어가기 시작하면 별로긴함",
+      "excerpt": "난 문신자체가 싫다기보단..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382947732#4383148738",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T12:25:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:26:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77161,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9C%BC%EB%A9%B4-%EA%B7%B8%EA%B1%B0-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%83%81%EB%8C%80%EB%B0%A9-%EB%A7%8C%EB%82%98%EC%84%9C-%EA%B2%B0%ED%98%BC%ED%95%B4%EB%9D%BC-%E3%85%8B%E3%85%8B-1ov0cciv",
+      "title": "문신 하고싶으면 그거 좋아하는 상대방 만나서 결혼해라 ㅋㅋ",
+      "excerpt": "첫만남부터 다 이야기 해야지 괜히 숨기지 말고 순자처럼 힘들때마다 기억하려고 했니 어쩌니 하면서 괜히 쓰잘데기 없는 감성이나 서사 넣어서 미화 시키지말고",
+      "author": "1******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9C%BC%EB%A9%B4-%EA%B7%B8%EA%B1%B0-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%83%81%EB%8C%80%EB%B0%A9-%EB%A7%8C%EB%82%98%EC%84%9C-%EA%B2%B0%ED%98%BC%ED%95%B4%EB%9D%BC-%E3%85%8B%E3%85%8B-1ov0cciv",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T13:25:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T04:26:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -344140,7 +344179,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T13:22:43+09:00"
+      "slowAt": "2026-10-22T13:25:43+09:00"
     },
     "dc": {
       "doneIds": [
