@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:05:43+00:00",
+  "updatedAt": "2026-10-22T01:06:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -329244,6 +329244,65 @@
       "firstSeenAt": "2026-10-22T01:05:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76412,
+      "source": "qoo",
+      "externalId": "cmt-4382992698",
+      "title": "나는 심진화 생각함",
+      "excerpt": "순자 누구 닮았나 했는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382991353#4382992698",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T09:06:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:06:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76413,
+      "source": "qoo",
+      "externalId": "4383038665",
+      "title": "어제 진짜 스트레스 주는 장면들 계속 휘몰아쳐서",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383038665",
+      "postedLabel": "10:05",
+      "postedAt": "2026-10-22T10:05:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:06:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76414,
+      "source": "blind",
+      "externalId": "cmt-457843718",
+      "title": "걍 정신병으로 자해한거지",
+      "excerpt": "문신녀... 무조건 걸러라 ㅋㅋ 그걸 또 힘들어서 했다고?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EB%85%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B1%B8%EB%9F%AC%EB%9D%BC-%E3%85%8B%E3%85%8B-%EA%B7%B8%EA%B1%B8-%EB%98%90-%ED%9E%98%EB%93%A4%EC%96%B4%EC%84%9C-%ED%96%88%EB%8B%A4%EA%B3%A0-wuspskjm#457843718",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:06:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:06:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -329318,7 +329377,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T10:03:24+09:00"
+      "slowAt": "2026-10-22T10:06:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -330699,6 +330758,7 @@
         "/kr/post/%EB%AC%B4%EC%97%87%EC%9D%B4-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%A5%BC-%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C%E2%80%A6-tdrv6d1p",
         "/kr/post/%EB%AC%B8%EB%9E%98%EC%97%AD-%EC%A2%8B%EB%84%A4%EC%9A%94-i8afs0dc",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EA%B9%8C%EC%A7%80-%EC%9E%88%EB%83%90-7zpqypty",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%EB%85%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B1%B8%EB%9F%AC%EB%9D%BC-%E3%85%8B%E3%85%8B-%EA%B7%B8%EA%B1%B8-%EB%98%90-%ED%9E%98%EB%93%A4%EC%96%B4%EC%84%9C-%ED%96%88%EB%8B%A4%EA%B3%A0-wuspskjm",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EB%8F%84-%EB%AC%B8%EC%8B%A0-%EB%82%98%EB%A6%84%EC%9E%84-tdno6fqw",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EC%A7%80%EC%9A%B4%EA%B1%B4-%EC%96%B4%EB%95%8C-0qrokmvn",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EA%B1%B8%EB%9F%AC%EC%95%BC%ED%95%9C%EB%8B%A4-a7lonls0",
@@ -334571,7 +334631,8 @@
         "4383029258",
         "4383030535",
         "4383031580",
-        "4383034376"
+        "4383034376",
+        "4383038665"
       ]
     },
     "keep": "v2",
