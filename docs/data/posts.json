@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T08:45:04+00:00",
+  "updatedAt": "2026-10-22T08:46:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -361589,6 +361589,45 @@
       "firstSeenAt": "2026-10-22T08:45:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78046,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%E3%85%8B%E3%85%8B%E3%85%8B-0vjqy24k",
+      "title": "영철 ㅋㅋㅋ",
+      "excerpt": "1화 때 나뭇가지 줍는거부터 보자마자 꼴값 떤다 싶었는데 갈수록 더하네 ㅋㅋㅋ",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%E3%85%8B%E3%85%8B%E3%85%8B-0vjqy24k",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T17:45:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T08:46:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78047,
+      "source": "blind",
+      "externalId": "cmt-457896017",
+      "title": "스포티지 승차감 쌉구린데 논두렁 다니면 안되잖아요 개 양심 없네요",
+      "excerpt": "(0철) 스포티지 자차 맞음",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/0%EC%B2%A0-%EC%8A%A4%ED%8F%AC%ED%8B%B0%EC%A7%80-%EC%9E%90%EC%B0%A8-%EB%A7%9E%EC%9D%8C-riudg5yo#457896017",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T17:45:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:46:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -361693,7 +361732,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T17:42:43+09:00"
+      "slowAt": "2026-10-22T17:45:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -367539,7 +367578,8 @@
         "4383429800",
         "4383431845",
         "4383431979",
-        "4383432627"
+        "4383432627",
+        "4383433093"
       ]
     },
     "keep": "v2",
