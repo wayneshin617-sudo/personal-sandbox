@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T09:44:01+00:00",
+  "updatedAt": "2026-10-22T09:45:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -364614,6 +364614,84 @@
       "firstSeenAt": "2026-10-22T09:44:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78199,
+      "source": "blind",
+      "externalId": "cmt-457899303",
+      "title": "진짜 극혐",
+      "excerpt": "영철 ㅋㅋㅋ",
+      "author": "y********",
+      "company": "카카오페이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%E3%85%8B%E3%85%8B%E3%85%8B-0vjqy24k#457899303",
+      "postedLabel": "28분",
+      "postedAt": "2026-10-22T18:16:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:45:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78200,
+      "source": "blind",
+      "externalId": "cmt-457900166",
+      "title": "남직원들 앉아싸라고 강요할듯",
+      "excerpt": "영숙 팀장이면 부하직원들 고생하겟다 ㅋㅋㅋ",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%ED%8C%80%EC%9E%A5%EC%9D%B4%EB%A9%B4-%EB%B6%80%ED%95%98%EC%A7%81%EC%9B%90%EB%93%A4-%EA%B3%A0%EC%83%9D%ED%95%98%EA%B2%9F%EB%8B%A4-%E3%85%8B%E3%85%8B%E3%85%8B-jbv67ed8#457900166",
+      "postedLabel": "20분",
+      "postedAt": "2026-10-22T18:24:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:45:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78201,
+      "source": "qoo",
+      "externalId": "4383480413",
+      "title": "한 내일까지 나솔방덬들 계속 놀라는 사람 있을듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383480413",
+      "postedLabel": "18:44",
+      "postedAt": "2026-10-22T18:44:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T09:45:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78202,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-tv2uw8sv",
+      "title": "사람들이 문신 싫어하는 이유",
+      "excerpt": "문신 한 사람들이 평범한 사람들에게 한 행동이 쌓여서 그럼 가족친구연인끼리 조용하고 쾌적하고 서로 배려해가며 즐겁게 노는 장소에 문신충들 와서 전세낸거 마냥 욕하고 질서 안지키고 시끄럽게 피해주고 주변 사람들에게 위협하고 험악한 분위기 조성 해서 지들만 즐겁게 노는거 많이들 봤을거임 문신 한 사람들이 예의바르고 얌전하고 남에게 피해안줬다면 사람들이 문신한거 싫어하지 않았음",
+      "author": "l*********",
+      "company": "한국수력원자력",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-tv2uw8sv",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T18:44:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T09:45:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -370607,7 +370685,8 @@
         "4383473324",
         "4383476929",
         "4383478998",
-        "4383479096"
+        "4383479096",
+        "4383480413"
       ]
     },
     "keep": "v2",
