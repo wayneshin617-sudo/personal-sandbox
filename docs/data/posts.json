@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:25:01+00:00",
+  "updatedAt": "2026-10-22T03:26:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -339466,6 +339466,26 @@
       "firstSeenAt": "2026-10-22T03:25:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76929,
+      "source": "qoo",
+      "externalId": "cmt-4383090353",
+      "title": "난 좋아 나 우리집 강아지 발자국 발바닥에 할까 고민중인데",
+      "excerpt": "그럼 문신이 발바닥에만 있는건어때?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383006892#4383090353",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T11:11:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:26:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -339568,7 +339588,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T12:22:43+09:00"
+      "slowAt": "2026-10-22T12:25:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -340647,7 +340667,9 @@
         "6611502",
         "6611508",
         "6611510",
-        "6611519"
+        "6611519",
+        "6611524",
+        "6611533"
       ]
     },
     "blind": {
