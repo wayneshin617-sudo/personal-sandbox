@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:46:43+00:00",
+  "updatedAt": "2026-10-22T00:47:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -327901,6 +327901,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T00:46:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76344,
+      "source": "qoo",
+      "externalId": "cmt-4382980864",
+      "title": "@1 ㄹㅇ.. 당황스럽다",
+      "excerpt": "난 문신자체가 싫다기보단..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382947732#4382980864",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T08:47:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:47:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76345,
+      "source": "blind",
+      "externalId": "cmt-457841468",
+      "title": "좀 자유로운 성향 남자랑은 최악의 궁합임.",
+      "excerpt": "순자 통제성향 강할거같음",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%ED%86%B5%EC%A0%9C%EC%84%B1%ED%96%A5-%EA%B0%95%ED%95%A0%EA%B1%B0%EA%B0%99%EC%9D%8C-5n22vpxg#457841468",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:47:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:47:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -327999,7 +328039,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T09:44:24+09:00"
+      "slowAt": "2026-10-22T09:47:24+09:00"
     },
     "dc": {
       "doneIds": [
