@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T18:04:43+00:00",
+  "updatedAt": "2026-10-22T18:06:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -391638,6 +391638,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T18:04:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79572,
+      "source": "dc",
+      "externalId": "cmt-10965060",
+      "title": "이게 본업이라는게 진짜웃기넼ㅋ",
+      "excerpt": "얘도 벌써 세 번째 아님? 그만 좀 나와라 ㅅㅂ",
+      "author": "커피빵",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612523&page=7#cmt_10965060",
+      "postedLabel": "10.23 02:13:04",
+      "postedAt": "2026-10-23T02:13:04+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T18:06:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79573,
+      "source": "dc",
+      "externalId": "cmt-10965170",
+      "title": "짱녀는 더 함 진짜임",
+      "excerpt": "작약이 예쁘다고?",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612915&page=1#cmt_10965170",
+      "postedLabel": "10.23 03:06:17",
+      "postedAt": "2026-10-23T03:06:17+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T18:06:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -391714,7 +391754,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T03:03:23+09:00"
+      "slowAt": "2026-10-23T03:06:23+09:00"
     },
     "ig": {
       "doneIds": [
