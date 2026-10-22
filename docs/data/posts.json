@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:35:43+00:00",
+  "updatedAt": "2026-10-22T01:36:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -331717,6 +331717,44 @@
       "firstSeenAt": "2026-10-22T01:35:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76537,
+      "source": "dc",
+      "externalId": "6611019",
+      "title": "방구석 찐따놈들 문신 가지고 지랄하네 ㅋㅋ",
+      "excerpt": "",
+      "author": "이봐",
+      "company": "",
+      "ip": "122.37",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6611019&page=1",
+      "postedLabel": "10:35",
+      "postedAt": "2026-10-22T10:35:45+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:36:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76538,
+      "source": "qoo",
+      "externalId": "4383061586",
+      "title": "영숙 어제 순자 문신 아웃팅(?) 유도한거떄문에 욕 엄청 먹고있네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383061586",
+      "postedLabel": "10:36",
+      "postedAt": "2026-10-22T10:36:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:36:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -331791,7 +331829,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T10:33:24+09:00"
+      "slowAt": "2026-10-22T10:36:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -337083,7 +337121,8 @@
         "4383048014",
         "4383051208",
         "4383052890",
-        "4383054531"
+        "4383054531",
+        "4383061586"
       ]
     },
     "keep": "v2",
