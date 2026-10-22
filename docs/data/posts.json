@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T16:40:42+00:00",
+  "updatedAt": "2026-10-22T16:43:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -390353,6 +390353,25 @@
       "firstSeenAt": "2026-10-22T16:40:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79507,
+      "source": "dc",
+      "externalId": "6612700",
+      "title": "광수 영철은 피부가....",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "61.78",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612700&page=1",
+      "postedLabel": "01:42",
+      "postedAt": "2026-10-23T01:42:52+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T16:43:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -391806,7 +391825,8 @@
         "6612676",
         "6612677",
         "6612680",
-        "6612686"
+        "6612686",
+        "6612694"
       ]
     },
     "blind": {
