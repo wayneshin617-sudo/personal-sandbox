@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:01:43+00:00",
+  "updatedAt": "2026-10-22T00:02:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -325276,6 +325276,45 @@
       "firstSeenAt": "2026-10-22T00:01:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76211,
+      "source": "blind",
+      "externalId": "/kr/post/24%EA%B8%B0-%ED%95%98%EB%8B%89%EC%9D%B4%EB%82%AB%EB%82%98-prfks6fr",
+      "title": "24기 하닉이낫나",
+      "excerpt": "34 상철이낫나",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/24%EA%B8%B0-%ED%95%98%EB%8B%89%EC%9D%B4%EB%82%AB%EB%82%98-prfks6fr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:02:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T00:02:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76212,
+      "source": "blind",
+      "externalId": "cmt-457836223",
+      "title": "엄청 유쾌하고 재밋는 여자부심 있던데 저런분들.. 으",
+      "excerpt": "영숙 보니까 ptsd와",
+      "author": "내*****",
+      "company": "Citibank",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%B3%B4%EB%8B%88%EA%B9%8C-ptsd%EC%99%80-m1d002wx#457836223",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:02:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:02:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -325374,7 +325413,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T08:59:24+09:00"
+      "slowAt": "2026-10-22T09:02:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -326270,7 +326309,8 @@
         "6610685",
         "6610691",
         "6610704",
-        "6610708"
+        "6610708",
+        "6610714"
       ]
     },
     "blind": {
