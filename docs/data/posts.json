@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T05:25:53+00:00",
+  "updatedAt": "2026-10-22T05:26:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -349998,6 +349998,105 @@
       "firstSeenAt": "2026-10-22T05:25:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77461,
+      "source": "dc",
+      "externalId": "6612230",
+      "title": "내가 이상한거야?",
+      "excerpt": "",
+      "author": "장카설유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612230&page=1",
+      "postedLabel": "14:25",
+      "postedAt": "2026-10-22T14:25:45+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:26:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77462,
+      "source": "blind",
+      "externalId": "cmt-457872421",
+      "title": "ㅇㅇ 증권이야",
+      "excerpt": "여기서나 문신 다 욕해도 막상 신경 안써…",
+      "author": "i********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C%EB%82%98-%EB%AC%B8%EC%8B%A0-%EB%8B%A4-%EC%9A%95%ED%95%B4%EB%8F%84-%EB%A7%89%EC%83%81-%EC%8B%A0%EA%B2%BD-%EC%95%88%EC%8D%A8%E2%80%A6-j3812w8o#457872421",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:26:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:26:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77463,
+      "source": "blind",
+      "externalId": "cmt-457872379",
+      "title": "한의사 선생님 닮으셨네요",
+      "excerpt": "34기 닮은꼴",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%8B%AE%EC%9D%80%EA%BC%B4-3ywv5dlm#457872379",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:26:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:26:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77464,
+      "source": "blind",
+      "externalId": "cmt-457872394",
+      "title": "영자?",
+      "excerpt": "34기 닮은꼴",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%8B%AE%EC%9D%80%EA%BC%B4-3ywv5dlm#457872394",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:26:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:26:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77465,
+      "source": "blind",
+      "externalId": "cmt-457872370",
+      "title": "34영자님 같은 한의사 분 한테 개 같이 까이셔서 기분 별로 안 좋으실 거 같아요",
+      "excerpt": "34기 닮은꼴",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%8B%AE%EC%9D%80%EA%BC%B4-3ywv5dlm#457872370",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:26:35+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:26:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -350102,7 +350201,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T14:23:34+09:00"
+      "slowAt": "2026-10-22T14:26:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -351352,7 +351451,9 @@
         "6612217",
         "6612218",
         "6612226",
-        "6612227"
+        "6612227",
+        "6612229",
+        "6612232"
       ]
     },
     "blind": {
