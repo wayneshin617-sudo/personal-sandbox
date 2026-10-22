@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T12:41:37+00:00",
+  "updatedAt": "2026-10-22T12:42:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -375776,6 +375776,25 @@
       "firstSeenAt": "2026-10-22T12:41:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78765,
+      "source": "qoo",
+      "externalId": "4383644682",
+      "title": "왜 남사친 순자야?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383644682",
+      "postedLabel": "21:42",
+      "postedAt": "2026-10-22T21:42:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:42:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -375881,7 +375900,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T21:39:14+09:00"
+      "slowAt": "2026-10-22T21:42:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -381951,7 +381970,8 @@
         "4383619291",
         "4383623940",
         "4383630621",
-        "4383638937"
+        "4383638937",
+        "4383644682"
       ]
     },
     "keep": "v2",
