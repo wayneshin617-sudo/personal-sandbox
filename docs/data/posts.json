@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T02:14:08+00:00",
+  "updatedAt": "2026-10-22T02:14:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -334367,6 +334367,65 @@
       "firstSeenAt": "2026-10-22T02:14:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76671,
+      "source": "qoo",
+      "externalId": "cmt-4383045513",
+      "title": "존잼 데이트 장면 두개 다 풀어준 촌장 칭찬해",
+      "excerpt": "어제 진짜 스트레스 주는 장면들 계속 휘몰아쳐서",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383038665#4383045513",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T10:14:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:14:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76672,
+      "source": "blind",
+      "externalId": "cmt-457850738",
+      "title": "역시 킹갓조선",
+      "excerpt": "사회적 능지가 떨어지는 사람은",
+      "author": "k*****",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%ED%9A%8C%EC%A0%81-%EB%8A%A5%EC%A7%80%EA%B0%80-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-7fzgf7ma#457850738",
+      "postedLabel": "10분",
+      "postedAt": "2026-10-22T11:04:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:14:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76673,
+      "source": "qoo",
+      "externalId": "4383092641",
+      "title": "이번기수 라방하면ㅋㅋㅋ mc는",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383092641",
+      "postedLabel": "11:13",
+      "postedAt": "2026-10-22T11:13:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-22T02:14:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -334441,7 +334500,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T11:11:42+09:00"
+      "slowAt": "2026-10-22T11:14:42+09:00"
     },
     "ig": {
       "doneIds": [
@@ -336774,6 +336833,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90-%EB%B0%B8%EB%9F%B0%EC%8A%A4%EA%B0%80-%EB%A7%9E%EC%9D%8C-b6koukve",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8%EB%8A%94-%EA%B0%88%EC%88%98%EB%A1%9D-%EC%99%B8%EB%AA%A8%EB%8F%84-%EC%9E%98%EB%AA%A8%EB%A5%B4%EA%B2%9F%EB%84%A4-esp5j11q",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B2%8C-%E3%85%82%E3%85%85%EA%B0%99%EB%83%90-y5qz5mm7",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%8B%AB%EC%A7%80%E3%85%A0-bt7fqbje",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%A0%80%EB%9F%AC%EB%8A%94%EA%B1%B0-u7qmjoq1",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B3%84%EB%A1%9C%EC%A7%80-mg7mb0mz",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%B8%EB%8C%80-%ED%86%B5%EB%B2%88%EC%97%AD%EC%97%90-w8pxcctu",
@@ -339794,7 +339854,8 @@
         "4383073118",
         "4383075321",
         "4383079688",
-        "4383092394"
+        "4383092394",
+        "4383092641"
       ]
     },
     "keep": "v2",
