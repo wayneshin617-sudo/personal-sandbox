@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:08:40+00:00",
+  "updatedAt": "2026-10-22T00:11:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -325669,6 +325669,25 @@
       "firstSeenAt": "2026-10-22T00:08:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76231,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%84%EC%A7%80%ED%95%98%EA%B2%8C-%EC%98%81%EC%88%99%EC%9D%B4-%ED%8C%A8%EA%B3%A0%EC%8B%B6%EB%8B%A4-265b83uu",
+      "title": "진지하게 영숙이 패고싶다",
+      "excerpt": "쳐맞으면서도 여전히 싸가지 없게 굴 수 있는지 궁금하다..",
+      "author": "a*****",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%80%ED%95%98%EA%B2%8C-%EC%98%81%EC%88%99%EC%9D%B4-%ED%8C%A8%EA%B3%A0%EC%8B%B6%EB%8B%A4-265b83uu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:11:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T00:11:43+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -325767,7 +325786,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T09:08:23+09:00"
+      "slowAt": "2026-10-22T09:11:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -326668,7 +326687,8 @@
         "6610714",
         "6610733",
         "6610734",
-        "6610737"
+        "6610737",
+        "6610742"
       ]
     },
     "blind": {
