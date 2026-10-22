@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T17:20:41+00:00",
+  "updatedAt": "2026-10-22T17:30:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -391324,6 +391324,25 @@
       "firstSeenAt": "2026-10-22T17:20:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79556,
+      "source": "dc",
+      "externalId": "6612838",
+      "title": "반찬보니까 망도가 인기남 될수밖에 없다",
+      "excerpt": "",
+      "author": "1",
+      "company": "",
+      "ip": "110.47",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612838&page=1",
+      "postedLabel": "02:30",
+      "postedAt": "2026-10-23T02:30:16+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T17:30:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -391400,7 +391419,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T02:27:23+09:00"
+      "slowAt": "2026-10-23T02:30:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -392826,7 +392845,8 @@
         "6612821",
         "6612823",
         "6612828",
-        "6612832"
+        "6612832",
+        "6612834"
       ]
     },
     "blind": {
