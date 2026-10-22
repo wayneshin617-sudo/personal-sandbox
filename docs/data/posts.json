@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T14:59:00+00:00",
+  "updatedAt": "2026-10-22T15:00:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -387113,6 +387113,45 @@
       "firstSeenAt": "2026-10-22T14:59:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79343,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%9E%90-%EC%99%9C%EC%BA%90-%EC%95%88%EC%93%B0%EB%9F%BD%EB%83%90-s7f2teks",
+      "title": "34영자 왜캐 안쓰럽냐",
+      "excerpt": "ㅋㅋㅋ ㅋ 🥲",
+      "author": "****",
+      "company": "한국자산관리공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%9E%90-%EC%99%9C%EC%BA%90-%EC%95%88%EC%93%B0%EB%9F%BD%EB%83%90-s7f2teks",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T23:59:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T15:00:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79344,
+      "source": "blind",
+      "externalId": "cmt-457947745",
+      "title": "그래 영숙이는 개념없지만 재미라는 매력이라도 있지",
+      "excerpt": "나만 영숙보다 영철이 싫음?",
+      "author": "!******* 작성자",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%EC%88%99%EB%B3%B4%EB%8B%A4-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%8B%AB%EC%9D%8C-606h7qhc#457947745",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T23:59:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T15:00:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -387218,7 +387257,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T23:56:47+09:00"
+      "slowAt": "2026-10-22T23:59:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -388476,7 +388515,8 @@
         "6612238",
         "6612240",
         "6612246",
-        "6612250"
+        "6612250",
+        "6612258"
       ]
     },
     "blind": {
