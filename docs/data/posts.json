@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T21:22:31+00:00",
+  "updatedAt": "2026-10-22T21:24:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -393342,6 +393342,26 @@
       "firstSeenAt": "2026-10-22T21:22:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79658,
+      "source": "dc",
+      "externalId": "cmt-10965350",
+      "title": "뒤랑 앞이 이질감있네",
+      "excerpt": "아무리봐도 영호 가발 맞는 것 같은데",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613121&page=1#cmt_10965350",
+      "postedLabel": "10.23 06:24:07",
+      "postedAt": "2026-10-23T06:24:07+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T21:24:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -393418,7 +393438,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T06:21:13+09:00"
+      "slowAt": "2026-10-23T06:24:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -394941,7 +394961,8 @@
         "6613098",
         "6613099",
         "6613106",
-        "6613114"
+        "6613114",
+        "6613121"
       ]
     },
     "blind": {
