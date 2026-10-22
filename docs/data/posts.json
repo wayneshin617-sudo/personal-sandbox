@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:52:00+00:00",
+  "updatedAt": "2026-10-22T03:53:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -341485,6 +341485,64 @@
       "firstSeenAt": "2026-10-22T03:52:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77031,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8B%A4%EC%9D%8C%EC%A3%BC-%EC%98%88%EA%B3%A0-%EB%B3%B4%EB%8B%88%EA%B9%8C-b4c5zga4",
+      "title": "다음주 예고 보니까",
+      "excerpt": "영철이 영자 대놓고 거절하던데 그러면 영자도 다른 사람 알아보지 않을까? 2순위가 영호라 했으니 영호 알아볼 듯 영호-현숙은 서로 호감이 있는 상태인데다 그동안 대화를 못해봐서 대화 자리가 있는 것 같고(예고편 설거지) 영철은 주변에 맴돌면서 훼방 놓고 미저리짓 할 듯 현숙은 생각이 있다면 영호를 선택하겠지만 이번 인터뷰보니 꼭 그런 것도 아닌 것 같아서 영철한테 갈 수도 있을 것 같음 영철이 잡고 안놔주면 그대로 잡혀있을 것 같달까 적어도 지금까지는 영호가 엄청 적극적으로 표현하는 스타일은 아닌 것 같아서 상대적으로 더 적극적",
+      "author": "t*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EC%9D%8C%EC%A3%BC-%EC%98%88%EA%B3%A0-%EB%B3%B4%EB%8B%88%EA%B9%8C-b4c5zga4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:52:42+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T03:53:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77032,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EB%A7%90-%EC%A2%80-%EA%B7%B8%EB%A7%8C%ED%95%B4%E3%85%8B%E3%85%8B-m7r7beer",
+      "title": "어제 나솔 34기 영철 말 좀 그만해ㅋㅋ",
+      "excerpt": "저거 2일차인데 현숙 무슨 자기꺼인거 마냥 저렇게 들이대는게 말이 됌? 멀미하는 사람한테 멀미 더 나게 계속 얘기하고ㅋㅋㅋㅋ 그리고 영자 바로 옆에 있는데 대놓고 티내지 않나 내 생각에 둘다 떨어져 나갈듯...?",
+      "author": "킹********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EB%A7%90-%EC%A2%80-%EA%B7%B8%EB%A7%8C%ED%95%B4%E3%85%8B%E3%85%8B-m7r7beer",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:52:43+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T03:53:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77033,
+      "source": "blind",
+      "externalId": "cmt-457861990",
+      "title": "무표정으로 눈만 치켜뜬거 속으로 뭔 생각을 하고있을지 몰라서 무섭네",
+      "excerpt": "씁슬하네",
+      "author": "i******",
+      "company": "KCC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%94%81%EC%8A%AC%ED%95%98%EB%84%A4-k6rni7a2#457861990",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:52:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:53:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -341587,7 +341645,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T12:49:43+09:00"
+      "slowAt": "2026-10-22T12:52:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -342650,6 +342708,7 @@
         "6611351",
         "6611353",
         "6611359",
+        "6611369",
         "6611376",
         "6611378",
         "6611382",
@@ -342709,7 +342768,8 @@
         "6611669",
         "6611675",
         "6611681",
-        "6611685"
+        "6611685",
+        "6611706"
       ]
     },
     "blind": {
