@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T15:41:07+00:00",
+  "updatedAt": "2026-10-22T15:42:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -389324,6 +389324,46 @@
       "firstSeenAt": "2026-10-22T15:41:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79455,
+      "source": "dc",
+      "externalId": "cmt-10964872",
+      "title": "가진 무기가 그거밖에 없어서 또 할 예정임 - dc App",
+      "excerpt": "방귀영호 이번엔 진짜 노래쳐부르지마라",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612413&page=1#cmt_10964872",
+      "postedLabel": "10.23 00:41:21",
+      "postedAt": "2026-10-23T00:41:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T15:42:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79456,
+      "source": "blind",
+      "externalId": "cmt-457952760",
+      "title": "아산병원이라…..너 순자지!",
+      "excerpt": "34 현숙",
+      "author": "l********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-5h11safu#457952760",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T00:41:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T15:42:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -389430,7 +389470,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T00:38:47+09:00"
+      "slowAt": "2026-10-23T00:41:48+09:00"
     },
     "dc": {
       "doneIds": [
@@ -390724,7 +390764,9 @@
         "6612395",
         "6612397",
         "6612401",
-        "6612408"
+        "6612405",
+        "6612408",
+        "6612413"
       ]
     },
     "blind": {
@@ -393435,6 +393477,7 @@
         "/kr/post/34%EC%98%81%ED%98%B8-vs-%EB%8F%84%EB%84%90%EB%93%9C-%ED%8A%B8%EB%9F%BC%ED%94%84-ri4iatx1",
         "/kr/post/34%EC%98%81%ED%98%B8vs%ED%8B%B0%EB%AA%A8%EC%8B%9C-%EC%83%AC%EB%9D%BC%EB%A9%94-wef0aw75",
         "/kr/post/34%EC%98%A5%EC%88%9C-25%EC%98%81%EC%9E%90%EB%9E%91-%EB%8B%AE%EC%95%97%EB%8B%A4-%E3%85%8B%E3%85%8B-4sd0blti",
+        "/kr/post/34%ED%98%84%EC%88%99%EB%8B%98-%EA%B0%99%EC%9D%B4-%EC%9D%BC%EB%9D%BC%EC%9D%B4%EB%A6%B4%EB%A6%AC-%EB%8B%A4%EB%8B%88%EB%8A%94-%EC%97%AC%EC%9E%90%EB%9E%91-%EA%B2%B0%ED%98%BC-%ED%95%98%EB%A9%B4-%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EC%A2%80-%EC%8B%B8%EA%B2%8C-%EB%8C%80%EB%9F%89-%EB%B2%8C%ED%81%AC%EB%A1%9C-%EA%B5%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-d0bo8nep",
         "/kr/post/34%ED%98%84%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%82%A8%EC%84%B1%EC%97%90%EA%B2%8C-%EB%81%8C%EB%A6%B4%EA%B9%8C-g8uw4tap",
         "/kr/post/34%ED%98%84%EC%88%99%EC%9D%B4-%E3%84%B9%E3%85%87-%EC%97%AD%EB%8C%80%EA%B3%A0%ED%8A%B8%EB%84%A4-3yi0cvwo",
         "/kr/post/34%ED%98%84%EC%88%99%EC%9D%B4-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EA%B3%A0%ED%8A%B8%EC%9D%B8%EA%B2%8C-egpuxvka",
