@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:57:42+00:00",
+  "updatedAt": "2026-10-22T01:58:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -333222,6 +333222,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T01:57:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76613,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B8%EC%8B%9D-%EC%95%88%EC%A2%8B%EC%9D%80%EA%B2%83-%ED%8A%B9%EC%A7%95-%EC%84%A4%EB%AA%85%ED%95%B4%EC%95%BC%EB%90%9C%EB%8B%A4-5dp5kfk6",
+      "title": "인식 안좋은것 특징 : 설명해야된다",
+      "excerpt": "일단 내가 왜 했는지 설명해야되는것부터가 인식이 안좋다는것",
+      "author": "l*********",
+      "company": "현대모비스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B8%EC%8B%9D-%EC%95%88%EC%A2%8B%EC%9D%80%EA%B2%83-%ED%8A%B9%EC%A7%95-%EC%84%A4%EB%AA%85%ED%95%B4%EC%95%BC%EB%90%9C%EB%8B%A4-5dp5kfk6",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:58:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T01:58:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76614,
+      "source": "blind",
+      "externalId": "cmt-457849979",
+      "title": "그치 연옘들 방송물먹고 이뻐졌다는게 이런것도 한몫할듯",
+      "excerpt": "생긴걸 떠나서",
+      "author": "l********",
+      "company": "대교",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%9D%EA%B8%B4%EA%B1%B8-%EB%96%A0%EB%82%98%EC%84%9C-uunn3q5v#457849979",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:58:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:58:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -334304,7 +334343,8 @@
         "6611093",
         "6611094",
         "6611099",
-        "6611103"
+        "6611103",
+        "6611108"
       ]
     },
     "blind": {
