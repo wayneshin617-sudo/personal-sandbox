@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T10:20:58+00:00",
+  "updatedAt": "2026-10-22T10:22:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -366806,6 +366806,64 @@
       "firstSeenAt": "2026-10-22T10:20:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78310,
+      "source": "blind",
+      "externalId": "cmt-457900581",
+      "title": "이래서 나솔을 못끊어 ㅋㅋ",
+      "excerpt": "순자 문신보다 더 충격적임",
+      "author": "자******",
+      "company": "요꼬가와전기",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9E%84-dd858l2j#457900581",
+      "postedLabel": "53분",
+      "postedAt": "2026-10-22T18:28:43+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:22:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78311,
+      "source": "qoo",
+      "externalId": "4383512413",
+      "title": "근데 지금 34기 영수 누나 7명 있는 집에 막내라 그런가 말 좀 재밌게 하는거 같음ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383512413",
+      "postedLabel": "19:21",
+      "postedAt": "2026-10-22T19:20:59+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:22:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78312,
+      "source": "qoo",
+      "externalId": "4383512587",
+      "title": "아무리 연프아니고 인간실험이니 어쩌니해도",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383512587",
+      "postedLabel": "19:21",
+      "postedAt": "2026-10-22T19:21:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:22:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -366910,7 +366968,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T19:18:43+09:00"
+      "slowAt": "2026-10-22T19:21:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -372840,7 +372898,9 @@
         "4383508907",
         "4383509461",
         "4383509860",
-        "4383511175"
+        "4383511175",
+        "4383512413",
+        "4383512587"
       ]
     },
     "keep": "v2",
