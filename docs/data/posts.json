@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:34:01+00:00",
+  "updatedAt": "2026-10-22T03:35:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -340081,6 +340081,45 @@
       "firstSeenAt": "2026-10-22T03:34:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76960,
+      "source": "blind",
+      "externalId": "cmt-457854804",
+      "title": "ㅋㅋㅋ",
+      "excerpt": "문신은 지선택 지가 감당하는건데",
+      "author": "힘내는 쿼카킁카🦫",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%A7%80%EC%84%A0%ED%83%9D-%EC%A7%80%EA%B0%80-%EA%B0%90%EB%8B%B9%ED%95%98%EB%8A%94%EA%B1%B4%EB%8D%B0-hdw3gypn#457854804",
+      "postedLabel": "54분",
+      "postedAt": "2026-10-22T11:40:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:35:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76961,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%9C-%EC%98%81%EC%8B%9D%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%EA%B1%B0%EB%A1%A0%EB%8F%84-%EC%95%88%EB%90%A0%EA%B9%8C-zadeb3ph",
+      "title": "왜 영식은 여자들 사이에서 거론도 안될까",
+      "excerpt": "나라면 영식 선택함",
+      "author": "l*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%9C-%EC%98%81%EC%8B%9D%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%EA%B1%B0%EB%A1%A0%EB%8F%84-%EC%95%88%EB%90%A0%EA%B9%8C-zadeb3ph",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:34:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T03:35:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -340183,7 +340222,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T12:31:43+09:00"
+      "slowAt": "2026-10-22T12:34:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -341278,7 +341317,9 @@
         "6611550",
         "6611559",
         "6611561",
-        "6611568"
+        "6611568",
+        "6611581",
+        "6611588"
       ]
     },
     "blind": {
