@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T22:12:30+00:00",
+  "updatedAt": "2026-10-22T22:17:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -393873,6 +393873,85 @@
       "firstSeenAt": "2026-10-22T22:12:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79685,
+      "source": "blind",
+      "externalId": "cmt-457966426",
+      "title": "아우 ㄷㄹㅇ같애ㅠㅠㅠ 상철만나다가 쟤를왜",
+      "excerpt": "난 나솔 이게 완존 충격",
+      "author": "o*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EB%82%98%EC%86%94-%EC%9D%B4%EA%B2%8C-%EC%99%84%EC%A1%B4-%EC%B6%A9%EA%B2%A9-sjikupto#457966426",
+      "postedLabel": "38분",
+      "postedAt": "2026-10-23T06:38:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T22:17:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79686,
+      "source": "blind",
+      "externalId": "cmt-457966696",
+      "title": "애 생긴거 아님??",
+      "excerpt": "난 나솔 이게 완존 충격",
+      "author": "l******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EB%82%98%EC%86%94-%EC%9D%B4%EA%B2%8C-%EC%99%84%EC%A1%B4-%EC%B6%A9%EA%B2%A9-sjikupto#457966696",
+      "postedLabel": "32분",
+      "postedAt": "2026-10-23T06:44:53+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T22:17:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79687,
+      "source": "dc",
+      "externalId": "cmt-10965387",
+      "title": "뒤진 니애미노~ 이정도면 잘배웠노?",
+      "excerpt": "얼마나 개빡대가리면...",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613110&page=2#cmt_10965387",
+      "postedLabel": "10.23 07:05:23",
+      "postedAt": "2026-10-23T07:05:23+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T22:17:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79688,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%9E%98%EB%93%A0%EC%8B%9C%EA%B8%B0%EC%97%90-%EB%AC%B8%EC%8B%A0%ED%95%9C%EB%8B%A4%EB%8A%94%EA%B1%B0-2jcnrmx7",
+      "title": "힘든시기에 문신한다는거",
+      "excerpt": "사회생활하면서 정신적 육체적으로 한계까지 다들 한두번은 몰려봤을텐데 나는 문신을해야겠다 생각은 전혀 안들었거든? 이거 무슨 심리임?? 누구처럼 비건을 문신으로 새기면 아 좀 덜떨어지네 생각하고 말텐데 힘들고 나약해질때 문신??",
+      "author": "d******",
+      "company": "한림대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9E%98%EB%93%A0%EC%8B%9C%EA%B8%B0%EC%97%90-%EB%AC%B8%EC%8B%A0%ED%95%9C%EB%8B%A4%EB%8A%94%EA%B1%B0-2jcnrmx7",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-23T07:14:53+09:00",
+      "views": 23,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T22:17:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -393983,7 +394062,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T07:11:13+09:00"
+      "slowAt": "2026-10-23T07:16:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -395476,6 +395555,7 @@
         "6613099",
         "6613102",
         "6613106",
+        "6613110",
         "6613114",
         "6613121",
         "6613127",
@@ -395485,7 +395565,8 @@
         "6613142",
         "6613144",
         "6613169",
-        "6613171"
+        "6613171",
+        "6613176"
       ]
     },
     "blind": {
