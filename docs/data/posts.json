@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:55:41+00:00",
+  "updatedAt": "2026-10-22T00:56:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -328572,6 +328572,65 @@
       "firstSeenAt": "2026-10-22T00:55:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76378,
+      "source": "qoo",
+      "externalId": "cmt-4382986138",
+      "title": "깨긴 함",
+      "excerpt": "근데 진짜 문신은 좀...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382917956#4382986138",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T08:56:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:56:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76379,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%8E%B8%EC%9D%98%EC%A0%90%EC%97%90-%EB%A9%80%EB%AF%B8%EC%95%BD-%EC%95%88%ED%8C%8C%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%98%EC%82%AC%EC%98%A8%EA%B1%B0%EB%83%90-n7qrb2c3",
+      "title": "편의점에 멀미약 안파는데 영철은 뭘사온거냐??",
+      "excerpt": "내가 알기로 멀미약은 무조건 약국에만 있는데 편의점에서 뭘사와서 멀미약이라면서 건네준걸까?",
+      "author": "i****",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8E%B8%EC%9D%98%EC%A0%90%EC%97%90-%EB%A9%80%EB%AF%B8%EC%95%BD-%EC%95%88%ED%8C%8C%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%98%EC%82%AC%EC%98%A8%EA%B1%B0%EB%83%90-n7qrb2c3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:56:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T00:56:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76380,
+      "source": "blind",
+      "externalId": "cmt-457842540",
+      "title": "근데 그렇게 부끄럽고 숨겨야하는 거면 왜 한 거임??",
+      "excerpt": "영숙 문신 강제 아웃팅은 넘 한 거 아니냐ㅋㅋㅋ",
+      "author": "i********",
+      "company": "기업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%AC%B8%EC%8B%A0-%EA%B0%95%EC%A0%9C-%EC%95%84%EC%9B%83%ED%8C%85%EC%9D%80-%EB%84%98-%ED%95%9C-%EA%B1%B0-%EC%95%84%EB%8B%88%EB%83%90%E3%85%8B%E3%85%8B%E3%85%8B-q2ax1l2b#457842540",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:56:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:56:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -328670,7 +328729,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T09:53:24+09:00"
+      "slowAt": "2026-10-22T09:56:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -329613,7 +329672,8 @@
         "6610855",
         "6610858",
         "6610863",
-        "6610870"
+        "6610870",
+        "6610873"
       ]
     },
     "blind": {
