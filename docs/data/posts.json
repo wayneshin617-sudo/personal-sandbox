@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T16:08:06+00:00",
+  "updatedAt": "2026-10-22T16:09:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -389997,6 +389997,25 @@
       "firstSeenAt": "2026-10-22T16:08:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79489,
+      "source": "dc",
+      "externalId": "6612535",
+      "title": "???: 멀미요? 지금 멀미하신다고요?",
+      "excerpt": "",
+      "author": "김윤동",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612535&page=1",
+      "postedLabel": "01:08",
+      "postedAt": "2026-10-23T01:08:44+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T16:09:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -390103,7 +390122,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T01:05:47+09:00"
+      "slowAt": "2026-10-23T01:08:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -391421,7 +391440,8 @@
         "6612508",
         "6612519",
         "6612523",
-        "6612528"
+        "6612528",
+        "6612530"
       ]
     },
     "blind": {
