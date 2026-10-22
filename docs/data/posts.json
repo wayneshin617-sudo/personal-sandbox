@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T05:37:58+00:00",
+  "updatedAt": "2026-10-22T05:39:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -350752,6 +350752,85 @@
       "firstSeenAt": "2026-10-22T05:37:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77499,
+      "source": "qoo",
+      "externalId": "cmt-4383176319",
+      "title": "ㄹㅇㅋㅋ",
+      "excerpt": "영철 장보고 온 이후에 순자가 자기 생각보다 쎈거 같다고ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383064312#4383176319",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T12:59:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:39:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77500,
+      "source": "blind",
+      "externalId": "cmt-457868140",
+      "title": "영호 말한거지?",
+      "excerpt": "영철은 연애 말고 다른 목적으로 나온듯",
+      "author": "이*****",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%97%B0%EC%95%A0-%EB%A7%90%EA%B3%A0-%EB%8B%A4%EB%A5%B8-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%98%A8%EB%93%AF-lfyhl35c#457868140",
+      "postedLabel": "53분",
+      "postedAt": "2026-10-22T13:46:35+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:39:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77501,
+      "source": "blind",
+      "externalId": "cmt-457870954",
+      "title": "온리 현숙 같은데 현숙한테 하는 행동 봐야지 아직 모름",
+      "excerpt": "영철은 연애 말고 다른 목적으로 나온듯",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%97%B0%EC%95%A0-%EB%A7%90%EA%B3%A0-%EB%8B%A4%EB%A5%B8-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%82%98%EC%98%A8%EB%93%AF-lfyhl35c#457870954",
+      "postedLabel": "27분",
+      "postedAt": "2026-10-22T14:12:35+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:39:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77502,
+      "source": "qoo",
+      "externalId": "4383272905",
+      "title": "나도 문신 불호인데 걍 타의로 전국구 방송에 나간게 넘 에바같음ㅠㅠㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383272905",
+      "postedLabel": "14:39",
+      "postedAt": "2026-10-22T14:39:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:39:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -350826,7 +350905,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T14:36:35+09:00"
+      "slowAt": "2026-10-22T14:39:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -356585,7 +356664,8 @@
         "4383231482",
         "4383247648",
         "4383260940",
-        "4383269362"
+        "4383269362",
+        "4383272905"
       ]
     },
     "keep": "v2",
