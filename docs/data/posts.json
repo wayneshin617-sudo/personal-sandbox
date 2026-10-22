@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:54:40+00:00",
+  "updatedAt": "2026-10-22T00:55:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -328513,6 +328513,65 @@
       "firstSeenAt": "2026-10-22T00:54:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76375,
+      "source": "qoo",
+      "externalId": "cmt-4382985489",
+      "title": "돌이킬수 없는건 함부로 하는게 아니라고 생각",
+      "excerpt": "난 문신자체가 싫다기보단..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4382947732#4382985489",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T08:55:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76376,
+      "source": "qoo",
+      "externalId": "4383030535",
+      "title": "👈 탈락",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383030535",
+      "postedLabel": "09:55",
+      "postedAt": "2026-10-22T09:55:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:55:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76377,
+      "source": "blind",
+      "externalId": "cmt-457842351",
+      "title": "길거리에 문신 인간들은 전부 그럼 차녀 차남이냐?",
+      "excerpt": "순자는 k장녀가 어떻게 문신함?",
+      "author": "한*****",
+      "company": "디에이피",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-k%EC%9E%A5%EB%85%80%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%AC%B8%EC%8B%A0%ED%95%A8-bcwybpsx#457842351",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T09:55:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -329553,7 +329612,8 @@
         "6610853",
         "6610855",
         "6610858",
-        "6610863"
+        "6610863",
+        "6610870"
       ]
     },
     "blind": {
@@ -331535,6 +331595,7 @@
         "/kr/post/30%EB%8C%80-%ED%9B%84%EB%B0%98-%EC%8B%B1%EA%B8%80%EB%93%A4-%EC%82%AC%EB%9E%8C-%EC%96%B4%EB%94%94%EC%84%9C-%EB%A7%8C%EB%82%98%EC%9A%94-vnvira41",
         "/kr/post/30%EC%A4%91%ED%9B%84%EB%82%A8-2jbdp3wy",
         "/kr/post/30%EC%B4%88%EB%82%A8%EC%9D%B8%EB%8D%B0-20%EC%B4%88%EC%A4%91-%EC%97%AC%EC%9E%90%EC%95%A0%EB%93%A4%EC%9D%B4-%EC%A2%8B%EC%9D%8C-uztnbik2",
+        "/kr/post/31%EC%98%A5%EC%9D%B4%EB%9E%91-34%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%EA%B0%99%EC%9D%80-%EA%B8%B0%EC%88%98%EC%98%80%EC%9C%BC%EB%A9%B4-rh42nrs7",
         "/kr/post/32%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%95%84%EC%9E%AC-%EC%99%9C-%EC%9E%AC%ED%98%BC-%EB%AA%BB%ED%96%87%EC%A7%80-wy66uexn",
         "/kr/post/33%EA%B8%B0-%EC%97%AC%EC%B6%9C%EB%93%A4%EC%9D%98-%EC%A3%BC%EC%A0%81%EC%9D%80-34%EC%98%81%EC%9E%90-lpnhk4dg",
         "/kr/post/33%EA%B8%B0-%EC%98%81%EC%9E%90%EA%B0%80-%EC%A7%80%ED%96%A5%ED%95%98%EB%8A%94%EA%B2%8C-%EC%9D%B4%EB%B2%88-%EC%98%81%ED%98%B8%EA%B2%A0%EC%A7%80-mfro7ums",
@@ -333822,7 +333883,8 @@
         "4383008712",
         "4383025873",
         "4383026048",
-        "4383029258"
+        "4383029258",
+        "4383030535"
       ]
     },
     "keep": "v2",
