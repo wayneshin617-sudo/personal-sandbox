@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T12:13:37+00:00",
+  "updatedAt": "2026-10-22T12:14:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -373980,6 +373980,84 @@
       "firstSeenAt": "2026-10-22T12:13:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78674,
+      "source": "qoo",
+      "externalId": "4383617781",
+      "title": "배반의 장미 소리지르는 걸로시작해서그런가",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383617781",
+      "postedLabel": "21:13",
+      "postedAt": "2026-10-22T21:13:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:14:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78675,
+      "source": "qoo",
+      "externalId": "4383618168",
+      "title": "나솔보다보니까 난",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383618168",
+      "postedLabel": "21:14",
+      "postedAt": "2026-10-22T21:14:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:14:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78676,
+      "source": "blind",
+      "externalId": "cmt-457921696",
+      "title": "나도 ㅋㅋ 성격이 괜찮음 말하는거보니",
+      "excerpt": "영수도 은근 수요가 있는 스타일인데",
+      "author": "i****** 작성자",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98%EB%8F%84-%EC%9D%80%EA%B7%BC-%EC%88%98%EC%9A%94%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B8%EB%8D%B0-foqe4cdu#457921696",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T21:14:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:14:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78677,
+      "source": "blind",
+      "externalId": "cmt-457921714",
+      "title": "그런 남자가 she영숙에게 갈리가 없는데 사실상 솔로선언이네",
+      "excerpt": "she영숙은 남자를 하대한댔잖아",
+      "author": "i******** 작성자",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/she%EC%98%81%EC%88%99%EC%9D%80-%EB%82%A8%EC%9E%90%EB%A5%BC-%ED%95%98%EB%8C%80%ED%95%9C%EB%8C%94%EC%9E%96%EC%95%84-k1sf6dbx#457921714",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T21:14:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:14:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -380132,7 +380210,9 @@
         "4383593060",
         "4383606196",
         "4383612639",
-        "4383614317"
+        "4383614317",
+        "4383617781",
+        "4383618168"
       ]
     },
     "keep": "v2",
