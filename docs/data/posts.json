@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:17:43+00:00",
+  "updatedAt": "2026-10-22T01:18:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -330513,6 +330513,65 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T01:17:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76476,
+      "source": "dc",
+      "externalId": "cmt-10964002",
+      "title": "간호조무사랑 간호사 차이는 알긴아냐? - dc App",
+      "excerpt": "순자 얘가 스탑럴커의 정석 아니냐? ㅋㅋㅋㅋㅋ",
+      "author": "인천S2",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610767&page=3#cmt_10964002",
+      "postedLabel": "10.22 10:15:53",
+      "postedAt": "2026-10-22T10:15:53+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:18:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76477,
+      "source": "qoo",
+      "externalId": "4383048014",
+      "title": "와 지금보는데 난 이때가 젤 재밌네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383048014",
+      "postedLabel": "10:18",
+      "postedAt": "2026-10-22T10:18:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:18:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76478,
+      "source": "blind",
+      "externalId": "cmt-457845208",
+      "title": "남녀 35세 넘어가면 괜찮은 사람 확 줄어드는건 맞음. 그래서 의심부터 하게 돼. 아닌 사람도 있지만 ㅋㅋㅋㅋㅋㅋ 그 이후까지 짝 없거나 결혼 안하면 다 이유가 있더라. 그리고 사람은 만나봐야 알긴해",
+      "excerpt": "나솔보면 볼수록 편견생김",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EB%B3%B4%EB%A9%B4-%EB%B3%BC%EC%88%98%EB%A1%9D-%ED%8E%B8%EA%B2%AC%EC%83%9D%EA%B9%80-1lk35nom#457845208",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T10:18:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T01:18:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -330587,7 +330646,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T10:15:24+09:00"
+      "slowAt": "2026-10-22T10:18:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -333038,6 +333097,7 @@
         "/kr/post/%EC%98%A5%EC%88%9C%ED%95%9C%ED%85%8C%EC%84%9C-%EC%9E%90%EA%BE%B8-%EC%B2%B4%EB%A6%AC%ED%95%84%ED%84%B0%EA%B0%80-%EB%B3%B4%EC%9E%84-jlbai65i",
         "/kr/post/%EC%98%A5%EC%88%9C-%EA%B3%A0%EA%B0%9C-%EC%88%99%EC%9D%B4%EA%B3%A0-%EC%9E%88%EC%9D%84%EB%95%8C-shxeg1tj",
         "/kr/post/%EC%98%A5%EC%88%9C-%EA%B9%80%ED%98%9C%EC%88%98-%EC%95%88%EB%8B%AE%EC%95%98%EC%96%B4-geaw34se",
+        "/kr/post/%EC%98%A5%EC%88%9C-%EB%82%A8%EC%9E%90-%EB%B3%B4%EB%8A%94-%EB%88%88-hmshyqlo",
         "/kr/post/%EC%98%A5%EC%88%9C-%EB%88%88-%ED%8A%B9%EC%9D%B4%ED%95%98%EB%84%A4-%E3%85%8B%E3%85%8B-%EB%A7%88%EC%9D%B4%EC%BD%9C%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EB%84%A4-diyq0pta",
         "/kr/post/%EC%98%A5%EC%88%9C-%EB%8B%A4%EB%A6%AC%EC%9D%B4%EC%81%98%EB%8B%A4-ls15g2jq",
         "/kr/post/%EC%98%A5%EC%88%9C-%EB%8B%A4%EB%A6%AC-%EC%98%88%EC%81%98%EB%8B%A4-c0c3qgta",
@@ -335854,7 +335914,8 @@
         "4383030535",
         "4383031580",
         "4383034376",
-        "4383038665"
+        "4383038665",
+        "4383048014"
       ]
     },
     "keep": "v2",
