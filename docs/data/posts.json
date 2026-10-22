@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T05:35:59+00:00",
+  "updatedAt": "2026-10-22T05:36:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -350633,6 +350633,65 @@
       "firstSeenAt": "2026-10-22T05:35:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77493,
+      "source": "qoo",
+      "externalId": "cmt-4383192655",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영철 소모임 고인물 남자회원같음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383157495#4383192655",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T13:19:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:36:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77494,
+      "source": "qoo",
+      "externalId": "4383269362",
+      "title": "순자 안보이는데에 문신한거는",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383269362",
+      "postedLabel": "14:36",
+      "postedAt": "2026-10-22T14:36:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:36:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77495,
+      "source": "blind",
+      "externalId": "cmt-457873506",
+      "title": "그래도 영철 좋다던데",
+      "excerpt": "현숙 구토",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EA%B5%AC%ED%86%A0-0ii6s3e0#457873506",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T14:36:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T05:36:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -350707,7 +350766,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T14:33:35+09:00"
+      "slowAt": "2026-10-22T14:36:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -356464,7 +356523,8 @@
         "4383222999",
         "4383231482",
         "4383247648",
-        "4383260940"
+        "4383260940",
+        "4383269362"
       ]
     },
     "keep": "v2",
