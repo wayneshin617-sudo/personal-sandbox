@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T12:09:37+00:00",
+  "updatedAt": "2026-10-22T12:10:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -373562,6 +373562,65 @@
       "firstSeenAt": "2026-10-22T12:09:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78653,
+      "source": "qoo",
+      "externalId": "4383614317",
+      "title": "이번기수 영호씨 혼자 귀가할 각이 보이는?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383614317",
+      "postedLabel": "21:09",
+      "postedAt": "2026-10-22T21:09:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:10:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78654,
+      "source": "blind",
+      "externalId": "cmt-457921033",
+      "title": "나 이번주말까지 다니고 옮기는데 혼내주고 갈까 ㅡㅡ",
+      "excerpt": "아 헬스방에 귀요미 자세히보니 팔에 타투있네",
+      "author": "l********* 작성자",
+      "company": "SK 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%ED%97%AC%EC%8A%A4%EB%B0%A9%EC%97%90-%EA%B7%80%EC%9A%94%EB%AF%B8-%EC%9E%90%EC%84%B8%ED%9E%88%EB%B3%B4%EB%8B%88-%ED%8C%94%EC%97%90-%ED%83%80%ED%88%AC%EC%9E%88%EB%84%A4-3ws53asu#457921033",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T21:10:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:10:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78655,
+      "source": "blind",
+      "externalId": "cmt-457921077",
+      "title": "귀염+청순 귀요미가 타투가 있자나",
+      "excerpt": "아 헬스방에 귀요미 자세히보니 팔에 타투있네",
+      "author": "l********* 작성자",
+      "company": "SK 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%ED%97%AC%EC%8A%A4%EB%B0%A9%EC%97%90-%EA%B7%80%EC%9A%94%EB%AF%B8-%EC%9E%90%EC%84%B8%ED%9E%88%EB%B3%B4%EB%8B%88-%ED%8C%94%EC%97%90-%ED%83%80%ED%88%AC%EC%9E%88%EB%84%A4-3ws53asu#457921077",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T21:10:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:10:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -373637,7 +373696,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T21:07:14+09:00"
+      "slowAt": "2026-10-22T21:10:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -379712,7 +379771,8 @@
         "4383585831",
         "4383593060",
         "4383606196",
-        "4383612639"
+        "4383612639",
+        "4383614317"
       ]
     },
     "keep": "v2",
