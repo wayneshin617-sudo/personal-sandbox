@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:16:00+00:00",
+  "updatedAt": "2026-10-22T03:17:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -338694,6 +338694,85 @@
       "firstSeenAt": "2026-10-22T03:16:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76890,
+      "source": "blind",
+      "externalId": "cmt-457858202",
+      "title": "누가 나가도 허점 없는사람 찾기 힘들지않을까..?",
+      "excerpt": "투표글 나솔 출연자 절반은 정상은 아닌거 같은데 투표",
+      "author": "김***",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%9E%90-%EC%A0%88%EB%B0%98%EC%9D%80-%EC%A0%95%EC%83%81%EC%9D%80-%EC%95%84%EB%8B%8C%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-fjrgc3ts#457858202",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-22T12:15:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:17:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76891,
+      "source": "dc",
+      "externalId": "6611497",
+      "title": "쥐뿔도 없는게 나대는거 왜 이리 꼴보기 싫지",
+      "excerpt": "",
+      "author": "그렇네요",
+      "company": "",
+      "ip": "1.228",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6611497&page=1",
+      "postedLabel": "12:16",
+      "postedAt": "2026-10-22T12:16:33+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:17:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 76892,
+      "source": "blind",
+      "externalId": "cmt-457858206",
+      "title": "영철이 렌트임?ㅋㅋㅋㅋ 쓰읍 똥차같던데",
+      "excerpt": "투표글 나솔 출연자 절반은 정상은 아닌거 같은데 투표",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%9E%90-%EC%A0%88%EB%B0%98%EC%9D%80-%EC%A0%95%EC%83%81%EC%9D%80-%EC%95%84%EB%8B%8C%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-fjrgc3ts#457858206",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:16:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:17:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76893,
+      "source": "blind",
+      "externalId": "cmt-457858261",
+      "title": "저도 저와 제 주변 준거집단과 비교하면 이상하다고 생각하는데요 사회 전체적으로 보면 크게 비정상은 아닐수도 있겠단 생각이 듭니다ㅎㅎㅎㅎㅎㅎ",
+      "excerpt": "투표글 나솔 출연자 절반은 정상은 아닌거 같은데 투표",
+      "author": "n*****",
+      "company": "삼성자산운용",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%9E%90-%EC%A0%88%EB%B0%98%EC%9D%80-%EC%A0%95%EC%83%81%EC%9D%80-%EC%95%84%EB%8B%8C%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-fjrgc3ts#457858261",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:16:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:17:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -338796,7 +338875,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T12:13:43+09:00"
+      "slowAt": "2026-10-22T12:16:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -339816,6 +339895,8 @@
         "6611162",
         "6611163",
         "6611169",
+        "6611171",
+        "6611175",
         "6611177",
         "6611179",
         "6611180",
