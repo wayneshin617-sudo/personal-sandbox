@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T12:45:37+00:00",
+  "updatedAt": "2026-10-22T12:46:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -375934,6 +375934,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T12:45:37+00:00",
       "isSeed": false
+    },
+    {
+      "id": 78773,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%A8%B8%EB%83%90-%EC%9D%B4%EA%B1%B4-4t6efnhe",
+      "title": "머냐 이건",
+      "excerpt": "둘다 자기 주장 세지 않나 어케 만났대",
+      "author": "h******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A8%B8%EB%83%90-%EC%9D%B4%EA%B1%B4-4t6efnhe",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T21:46:14+09:00",
+      "views": 42,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-22T12:46:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78774,
+      "source": "blind",
+      "externalId": "cmt-457926708",
+      "title": "예??????????????",
+      "excerpt": "머냐 이건",
+      "author": "I********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A8%B8%EB%83%90-%EC%9D%B4%EA%B1%B4-4t6efnhe#457926708",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T21:46:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T12:46:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -376009,7 +376048,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T21:43:15+09:00"
+      "slowAt": "2026-10-22T21:46:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -377755,6 +377794,7 @@
         "/kr/post/%EB%A7%90%ED%95%98%EB%8A%94-%EC%88%98%EC%A4%80%EC%9C%BC%EB%A1%9C%EB%8A%94-8bs232f3",
         "/kr/post/%EB%A7%90-%E3%85%88%E3%84%B4-%EC%8B%B8%EA%B0%80%EC%A7%80%EC%97%86%EA%B2%8C%ED%95%98%EB%84%A4-mhqeieb0",
         "/kr/post/%EB%A7%A8%EB%82%A0-%EC%A7%88%EB%AC%B8-%EC%97%B0%EC%83%81-%EB%AA%87%EA%B9%8C%EC%A7%80-%EB%90%98%EB%83%90-m6hwwzjr",
+        "/kr/post/%EB%A8%B8%EB%83%90-%EC%9D%B4%EA%B1%B4-4t6efnhe",
         "/kr/post/%EB%A8%B8%EC%95%BC-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%ED%98%84%EC%88%99-oekoyp54",
         "/kr/post/%EB%A8%B9%EA%B8%B0%EC%A0%84%EC%95%A0-%EC%A4%98%EC%95%BC%EC%A7%80-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-n8qabapp",
         "/kr/post/%EB%A8%B9%EA%B8%B0%EC%A0%84%EC%97%90-%EC%A4%98%EC%95%BC%EC%A7%80-u1ls2lil",
@@ -379154,6 +379194,7 @@
         "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%97%90%EC%9D%B4%EC%8A%A4-ezyhihnm",
         "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%97%AC%EC%9E%90%EB%93%A4-%EB%8B%A4-%EB%B3%84%EB%A1%9C%EC%95%BC%E2%80%A6-%EB%82%A8%EC%B6%9C%EC%9D%B4-%ED%9B%A8-%EB%82%AB%EB%8B%A4-vdmdh14n",
         "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%81%EC%9E%90%E2%80%A6%EC%9D%B4%EB%BB%90%E2%80%A6-ju6o00vk",
+        "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%81%EC%B2%A0-rtkkrxps",
         "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%81%ED%98%B8%EA%B0%99%EC%9D%80-%EB%82%A8%EC%9E%90-%EC%97%86%EB%82%98-6i6tsy5q",
         "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-wmmw3z0e",
         "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%99%9C%EC%BC%80-%EC%8A%A4%ED%8F%AC%EA%B0%80-%EC%97%86%EB%83%90-alcy67l7",
