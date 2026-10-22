@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T16:03:06+00:00",
+  "updatedAt": "2026-10-22T16:05:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -389899,6 +389899,25 @@
       "firstSeenAt": "2026-10-22T16:03:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79484,
+      "source": "dc",
+      "externalId": "6612512",
+      "title": "남사친 순자년 결국 남사친하고",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6612512&page=1",
+      "postedLabel": "01:04",
+      "postedAt": "2026-10-23T01:04:29+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T16:05:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -391319,7 +391338,8 @@
         "6612475",
         "6612476",
         "6612485",
-        "6612492"
+        "6612492",
+        "6612508"
       ]
     },
     "blind": {
