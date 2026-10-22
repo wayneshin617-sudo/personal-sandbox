@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:18:01+00:00",
+  "updatedAt": "2026-10-22T03:18:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -338813,6 +338813,45 @@
       "firstSeenAt": "2026-10-22T03:18:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76896,
+      "source": "blind",
+      "externalId": "cmt-457852905",
+      "title": "지바겐이어도 멀미는 답없다",
+      "excerpt": "서퍼티지 타기도 싫고",
+      "author": "|********",
+      "company": "한국도로공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%9C%ED%8D%BC%ED%8B%B0%EC%A7%80-%ED%83%80%EA%B8%B0%EB%8F%84-%EC%8B%AB%EA%B3%A0-qd7kc5qp#457852905",
+      "postedLabel": "56분",
+      "postedAt": "2026-10-22T11:22:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:18:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76897,
+      "source": "qoo",
+      "externalId": "4383143155",
+      "title": "다니는 동물병원 테크니션 굉장히 친절하고",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383143155",
+      "postedLabel": "12:18",
+      "postedAt": "2026-10-22T12:18:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T03:18:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -339986,7 +340025,9 @@
         "6611480",
         "6611482",
         "6611483",
-        "6611488"
+        "6611488",
+        "6611494",
+        "6611497"
       ]
     },
     "blind": {
@@ -344361,7 +344402,8 @@
         "4383127002",
         "4383129531",
         "4383137316",
-        "4383139118"
+        "4383139118",
+        "4383143155"
       ]
     },
     "keep": "v2",
