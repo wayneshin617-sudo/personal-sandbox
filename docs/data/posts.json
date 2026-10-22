@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T22:40:11+00:00",
+  "updatedAt": "2026-10-22T22:42:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -394207,6 +394207,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-22T22:40:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79702,
+      "source": "qoo",
+      "externalId": "4383831488",
+      "title": "근데 요즘 트렌드가 다시 오렌지야??",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383831488",
+      "postedLabel": "07:41",
+      "postedAt": "2026-10-23T07:41:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T22:42:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -394283,7 +394302,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T07:38:52+09:00"
+      "slowAt": "2026-10-23T07:41:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -400962,7 +400981,8 @@
         "4383731951",
         "4383733842",
         "4383752949",
-        "4383774675"
+        "4383774675",
+        "4383831488"
       ]
     },
     "keep": "v2",
