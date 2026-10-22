@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T08:30:05+00:00",
+  "updatedAt": "2026-10-22T08:31:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -360565,6 +360565,65 @@
       "firstSeenAt": "2026-10-22T08:30:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77994,
+      "source": "blind",
+      "externalId": "cmt-457889088",
+      "title": "익명이니까 글치. 이름까면 조심스럽겠지.",
+      "excerpt": "영숙 무례하다고 하는데",
+      "author": "실***",
+      "company": "신한자산신탁",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%AC%B4%EB%A1%80%ED%95%98%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-i2dodllb#457889088",
+      "postedLabel": "47분",
+      "postedAt": "2026-10-22T16:43:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:31:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77995,
+      "source": "blind",
+      "externalId": "cmt-457891328",
+      "title": "너 어디 아픈애 같아",
+      "excerpt": "영숙 무례하다고 하는데",
+      "author": "i*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%AC%B4%EB%A1%80%ED%95%98%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-i2dodllb#457891328",
+      "postedLabel": "28분",
+      "postedAt": "2026-10-22T17:02:42+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:31:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77996,
+      "source": "blind",
+      "externalId": "/kr/post/34-%EC%98%81%EC%B2%A0-%EC%9D%B8%EC%83%81-d1z36bdj",
+      "title": "34 영철 인상",
+      "excerpt": "말할 때 계속 눈 희번덕 뜨니까 무서움ㅠㅠ 입도 큰데 말도 많아서 앞에 현숙 잡아먹을 것 같아",
+      "author": "i*********",
+      "company": "신한은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%B2%A0-%EC%9D%B8%EC%83%81-d1z36bdj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T17:30:42+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T08:31:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -360669,7 +360728,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T17:27:42+09:00"
+      "slowAt": "2026-10-22T17:30:42+09:00"
     },
     "dc": {
       "doneIds": [
