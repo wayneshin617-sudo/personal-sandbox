@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T06:42:57+00:00",
+  "updatedAt": "2026-10-22T06:43:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -355111,6 +355111,46 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-22T06:42:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77719,
+      "source": "blind",
+      "externalId": "cmt-457881656",
+      "title": "아현 전혀 없는데",
+      "excerpt": "34기 여자출연자",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%97%AC%EC%9E%90%EC%B6%9C%EC%97%B0%EC%9E%90-aznlnv52#457881656",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T15:43:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T06:43:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77720,
+      "source": "blind",
+      "externalId": "cmt-457881669",
+      "title": "저 배구선수 맛탱이 갔던데",
+      "excerpt": "34기 여자출연자",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%97%AC%EC%9E%90%EC%B6%9C%EC%97%B0%EC%9E%90-aznlnv52#457881669",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T15:43:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T06:43:57+00:00",
       "isSeed": false,
       "kind": "reply"
     }
