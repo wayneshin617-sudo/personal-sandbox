@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T04:22:01+00:00",
+  "updatedAt": "2026-10-22T04:23:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -343820,6 +343820,106 @@
       "firstSeenAt": "2026-10-22T04:22:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77149,
+      "source": "qoo",
+      "externalId": "cmt-4383146420",
+      "title": "맞아 젊고 멀쩡하게 생긴 미킴이네",
+      "excerpt": "영철 외모 때문에 인기 많았을텐데 왜저리 조급하냐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383096700#4383146420",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T12:22:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:23:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77150,
+      "source": "blind",
+      "externalId": "cmt-457860900",
+      "title": "딱바도시간이읍자너",
+      "excerpt": "현숙 36인데 아직결혼안한이유가",
+      "author": "a*******",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-36%EC%9D%B8%EB%8D%B0-%EC%95%84%EC%A7%81%EA%B2%B0%ED%98%BC%EC%95%88%ED%95%9C%EC%9D%B4%EC%9C%A0%EA%B0%80-478gepqf#457860900",
+      "postedLabel": "40분",
+      "postedAt": "2026-10-22T12:42:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:23:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77151,
+      "source": "blind",
+      "externalId": "cmt-457861171",
+      "title": "타투 이슈",
+      "excerpt": "현숙 36인데 아직결혼안한이유가",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-36%EC%9D%B8%EB%8D%B0-%EC%95%84%EC%A7%81%EA%B2%B0%ED%98%BC%EC%95%88%ED%95%9C%EC%9D%B4%EC%9C%A0%EA%B0%80-478gepqf#457861171",
+      "postedLabel": "38분",
+      "postedAt": "2026-10-22T12:44:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:23:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77152,
+      "source": "blind",
+      "externalId": "cmt-457865066",
+      "title": "ㅇㅇ",
+      "excerpt": "현숙 36인데 아직결혼안한이유가",
+      "author": "i*******",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-36%EC%9D%B8%EB%8D%B0-%EC%95%84%EC%A7%81%EA%B2%B0%ED%98%BC%EC%95%88%ED%95%9C%EC%9D%B4%EC%9C%A0%EA%B0%80-478gepqf#457865066",
+      "postedLabel": "4분",
+      "postedAt": "2026-10-22T13:18:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:23:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 77153,
+      "source": "dc",
+      "externalId": "cmt-10964602",
+      "title": "절마는 은근히 지삐모르는 서타일이다",
+      "excerpt": "상식적으로 차에서 멀미를 하면 창문을 열지 않냐??",
+      "author": "ㅇ0",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6611867&page=1#cmt_10964602",
+      "postedLabel": "10.22 13:22:17",
+      "postedAt": "2026-10-22T13:22:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T04:23:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -343922,7 +344022,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T13:19:43+09:00"
+      "slowAt": "2026-10-22T13:22:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -345024,6 +345124,7 @@
         "6611502",
         "6611508",
         "6611510",
+        "6611518",
         "6611519",
         "6611524",
         "6611533",
@@ -345084,7 +345185,8 @@
         "6611847",
         "6611856",
         "6611863",
-        "6611865"
+        "6611865",
+        "6611867"
       ]
     },
     "blind": {
