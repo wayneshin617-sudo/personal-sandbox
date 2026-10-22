@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T03:58:00+00:00",
+  "updatedAt": "2026-10-22T03:59:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -341839,6 +341839,63 @@
       "firstSeenAt": "2026-10-22T03:58:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 77049,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EB%B3%B4%EB%8B%88%EA%B9%8C-vf1155c2",
+      "title": "나솔게 보니까",
+      "excerpt": "문신안하길 정말잘했다 20대의 나,,",
+      "author": "김***",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EB%B3%B4%EB%8B%88%EA%B9%8C-vf1155c2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:58:42+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T03:59:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77050,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%ED%82%A4%EB%A7%8C-m5g5uxn5",
+      "title": "영식이 키만",
+      "excerpt": "좀 더 컸으면 좋았을텐데 ㅠ 그럼 인기도 많을듯",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%ED%82%A4%EB%A7%8C-m5g5uxn5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:58:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T03:59:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 77051,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%98%81%EC%9E%90-%EB%AC%B4%EC%8B%9C%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EA%B0%84%EB%8B%A8%ED%95%A8-a1hgv2x5",
+      "title": "영철이 영자 무시한 이유는 간단함",
+      "excerpt": "오만정이 다 떨어져서임 일단 현숙에게 더 마음 갖고 있는데 현숙이가 멀미로 괴로워할때 한의사라는 양반이 걍 방치하는거 보고 오만정 다 떨어졌을듯 직업윤리가 떨어진다고 느꼈을거고 더 나아가 인간이 별로라고 느꼈을거임 잠깐 멈춰서 뒷자리로 옮겨서 혈 몇개 뚫어주면 바로 호감작 됐는데",
+      "author": "|*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%98%81%EC%9E%90-%EB%AC%B4%EC%8B%9C%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EA%B0%84%EB%8B%A8%ED%95%A8-a1hgv2x5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T12:58:44+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T03:59:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -341941,7 +341998,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T12:55:43+09:00"
+      "slowAt": "2026-10-22T12:58:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -343069,7 +343126,8 @@
         "6611685",
         "6611706",
         "6611715",
-        "6611735"
+        "6611735",
+        "6611758"
       ]
     },
     "blind": {
