@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T23:53:11+00:00",
+  "updatedAt": "2026-10-22T23:54:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -395923,6 +395923,45 @@
       "firstSeenAt": "2026-10-22T23:53:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79789,
+      "source": "dc",
+      "externalId": "6613331",
+      "title": "7 광수님 왜 안나오셧지",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613331&page=1",
+      "postedLabel": "08:53",
+      "postedAt": "2026-10-23T08:53:29+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T23:54:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79790,
+      "source": "blind",
+      "externalId": "cmt-457976956",
+      "title": "왜?설명 좀",
+      "excerpt": "영숙 얼굴볼때마다 소름돋는다",
+      "author": "I*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%96%BC%EA%B5%B4%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%86%8C%EB%A6%84%EB%8F%8B%EB%8A%94%EB%8B%A4-mgm5z8py#457976956",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T08:53:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T23:54:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -395999,7 +396038,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T08:50:52+09:00"
+      "slowAt": "2026-10-23T08:53:51+09:00"
     },
     "ig": {
       "doneIds": [
