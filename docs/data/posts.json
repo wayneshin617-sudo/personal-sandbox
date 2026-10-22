@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T17:15:42+00:00",
+  "updatedAt": "2026-10-22T17:20:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -391304,6 +391304,26 @@
       "firstSeenAt": "2026-10-22T17:15:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79555,
+      "source": "blind",
+      "externalId": "cmt-457960039",
+      "title": "남피디 섭외 목록에 저장",
+      "excerpt": "34기 여자 등장 인물 중 원탑",
+      "author": "밑***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%97%AC%EC%9E%90-%EB%93%B1%EC%9E%A5-%EC%9D%B8%EB%AC%BC-%EC%A4%91-%EC%9B%90%ED%83%91-b3oena2m#457960039",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T02:20:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T17:20:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -391411,7 +391431,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T02:17:23+09:00"
+      "slowAt": "2026-10-23T02:20:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -392693,6 +392713,7 @@
         "6612310",
         "6612314",
         "6612325",
+        "6612327",
         "6612330",
         "6612331",
         "6612345",
@@ -392794,7 +392815,8 @@
         "6612796",
         "6612801",
         "6612802",
-        "6612807"
+        "6612807",
+        "6612811"
       ]
     },
     "blind": {
