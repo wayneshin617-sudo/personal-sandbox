@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T10:11:06+00:00",
+  "updatedAt": "2026-10-22T10:13:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -366016,6 +366016,84 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T10:11:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 78270,
+      "source": "qoo",
+      "externalId": "cmt-4383456469",
+      "title": "이건 진짜 드라마 같다 아 ㅋㅋㅋ행복하새요...",
+      "excerpt": "나솔 인생 빌드업 미쳤넹",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383453968#4383456469",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T18:12:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:13:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78271,
+      "source": "blind",
+      "externalId": "cmt-457899533",
+      "title": "멀미 땜에 창백해진듯",
+      "excerpt": "현숙이 아파보임",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%95%84%ED%8C%8C%EB%B3%B4%EC%9E%84-uqz1poce#457899533",
+      "postedLabel": "54분",
+      "postedAt": "2026-10-22T18:18:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:13:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78272,
+      "source": "qoo",
+      "externalId": "4383504350",
+      "title": "보험영수 거칠게 느껴지던데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383504350",
+      "postedLabel": "19:12",
+      "postedAt": "2026-10-22T19:12:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T10:13:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 78273,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EB%AC%B8%EC%8B%A0%ED%81%AC%EA%B8%B0-%ED%9E%8C%ED%8A%B8-%EC%A4%AC%EC%9E%96%EC%95%84-ah3m1olp",
+      "title": "영숙이 문신크기 힌트 줬잖아",
+      "excerpt": "얼굴만한 사이즈는요? 이말은 얼굴만한게 있디는거잖아",
+      "author": "i*********",
+      "company": "오티스엘리베이터",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EB%AC%B8%EC%8B%A0%ED%81%AC%EA%B8%B0-%ED%9E%8C%ED%8A%B8-%EC%A4%AC%EC%9E%96%EC%95%84-ah3m1olp",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T19:12:42+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T10:13:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -366120,7 +366198,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T19:09:43+09:00"
+      "slowAt": "2026-10-22T19:12:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -372036,7 +372114,8 @@
         "4383496504",
         "4383499809",
         "4383500699",
-        "4383500941"
+        "4383500941",
+        "4383504350"
       ]
     },
     "keep": "v2",
