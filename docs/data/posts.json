@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T16:44:42+00:00",
+  "updatedAt": "2026-10-22T16:47:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -390412,6 +390412,26 @@
       "firstSeenAt": "2026-10-22T16:44:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79510,
+      "source": "blind",
+      "externalId": "cmt-457957700",
+      "title": "사회실험ㅇㅇ",
+      "excerpt": "문신에 별생각 없었는데 알고나니 달리보이네",
+      "author": "I*********",
+      "company": "한국산업기술시험원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%EB%B3%84%EC%83%9D%EA%B0%81-%EC%97%86%EC%97%88%EB%8A%94%EB%8D%B0-%EC%95%8C%EA%B3%A0%EB%82%98%EB%8B%88-%EB%8B%AC%EB%A6%AC%EB%B3%B4%EC%9D%B4%EB%84%A4-4vcuq8ty#457957700",
+      "postedLabel": "12분",
+      "postedAt": "2026-10-23T01:35:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T16:47:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -390518,7 +390538,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T01:44:24+09:00"
+      "slowAt": "2026-10-23T01:47:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -391871,6 +391891,7 @@
         "6612697",
         "6612702",
         "6612704",
+        "6612705",
         "6612706"
       ]
     },
