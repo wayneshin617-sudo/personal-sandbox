@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T02:37:00+00:00",
+  "updatedAt": "2026-10-22T02:38:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -335926,6 +335926,65 @@
       "firstSeenAt": "2026-10-22T02:37:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76750,
+      "source": "qoo",
+      "externalId": "cmt-4383062862",
+      "title": "발바닥 금방 지워질걸 ㅋㅋㅋ",
+      "excerpt": "그럼 문신이 발바닥에만 있는건어때?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383006892#4383062862",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T10:37:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:38:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76751,
+      "source": "qoo",
+      "externalId": "cmt-4383062921",
+      "title": "안그래도 타투있는거 인식 개별로인데 심지어 타인이 까는건 쉴드불가이긴하지...",
+      "excerpt": "영숙 어제 순자 문신 아웃팅(?) 유도한거떄문에 욕 엄청 먹고있네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383061586#4383062921",
+      "postedLabel": "",
+      "postedAt": "2026-10-22T10:37:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:38:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76752,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B0%90-%EC%A7%91%EC%88%9C%EC%9D%B4-%ED%8A%B9%EC%A7%95-h4p557qh",
+      "title": "찐 집순이 특징",
+      "excerpt": "1. 연락 거의안함 2. 남사친없음 3. 술 안좋아함 4. 어디냐고물어보면 답장안함 5. 내성적임",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B0%90-%EC%A7%91%EC%88%9C%EC%9D%B4-%ED%8A%B9%EC%A7%95-h4p557qh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T11:37:43+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T02:38:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -336028,7 +336087,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-22T11:34:43+09:00"
+      "slowAt": "2026-10-22T11:37:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -337006,6 +337065,7 @@
         "6611007",
         "6611012",
         "6611019",
+        "6611024",
         "6611032",
         "6611036",
         "6611047",
