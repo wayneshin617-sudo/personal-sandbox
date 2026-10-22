@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T23:47:10+00:00",
+  "updatedAt": "2026-10-22T23:48:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -395706,6 +395706,45 @@
       "firstSeenAt": "2026-10-22T23:47:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79778,
+      "source": "dc",
+      "externalId": "cmt-10965519",
+      "title": "요즘 한무당 존망이야",
+      "excerpt": "영철이 그냥 취집가면안돼? 한무당한테",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613307&page=1#cmt_10965519",
+      "postedLabel": "10.23 08:47:04",
+      "postedAt": "2026-10-23T08:47:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T23:48:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79779,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%83%9D%EA%B0%81%ED%95%A0%EC%88%98%EB%A1%9D-%EB%84%98-%EC%9B%83%EA%B2%BD-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-pe4wetk0",
+      "title": "영철 생각할수록 넘 웃경 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 내주변사람이었으면 개극혐햇을듯;",
+      "author": "a*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%83%9D%EA%B0%81%ED%95%A0%EC%88%98%EB%A1%9D-%EB%84%98-%EC%9B%83%EA%B2%BD-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-pe4wetk0",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T08:47:52+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-22T23:48:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -395782,7 +395821,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T08:44:52+09:00"
+      "slowAt": "2026-10-23T08:47:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -397346,7 +397385,8 @@
         "6613260",
         "6613272",
         "6613279",
-        "6613306"
+        "6613306",
+        "6613307"
       ]
     },
     "blind": {
