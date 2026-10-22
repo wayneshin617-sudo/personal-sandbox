@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T01:59:39+00:00",
+  "updatedAt": "2026-10-22T02:00:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -333320,6 +333320,46 @@
       "firstSeenAt": "2026-10-22T01:59:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 76618,
+      "source": "dc",
+      "externalId": "cmt-10964162",
+      "title": "너도 헬스좀 해...",
+      "excerpt": "헬스장에 문신충 = 키작남이 많음 ㅋㅋㅋ",
+      "author": "쿙",
+      "company": "",
+      "ip": "222.108",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6611122&page=1#cmt_10964162",
+      "postedLabel": "10.22 10:59:55",
+      "postedAt": "2026-10-22T10:59:55+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:00:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 76619,
+      "source": "blind",
+      "externalId": "cmt-457850114",
+      "title": "남 평판에 쉬 뿌리기",
+      "excerpt": "와 영숙.. 역대급 갱신해버리네 ㄷㄷ",
+      "author": "j*********",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EC%98%81%EC%88%99-%EC%97%AD%EB%8C%80%EA%B8%89-%EA%B0%B1%EC%8B%A0%ED%95%B4%EB%B2%84%EB%A6%AC%EB%84%A4-%E3%84%B7%E3%84%B7-x130pfju#457850114",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T11:00:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T02:00:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -333394,7 +333434,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T10:57:24+09:00"
+      "slowAt": "2026-10-22T11:00:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -334405,7 +334445,8 @@
         "6611103",
         "6611108",
         "6611115",
-        "6611118"
+        "6611118",
+        "6611122"
       ]
     },
     "blind": {
