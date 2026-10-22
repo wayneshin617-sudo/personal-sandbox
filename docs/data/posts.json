@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T14:15:12+00:00",
+  "updatedAt": "2026-10-22T14:16:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -383664,6 +383664,84 @@
       "firstSeenAt": "2026-10-22T14:15:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79167,
+      "source": "qoo",
+      "externalId": "4383715942",
+      "title": "인간적으로 ㅇㅇ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4383715942",
+      "postedLabel": "23:15",
+      "postedAt": "2026-10-22T23:14:59+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T14:16:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79168,
+      "source": "qoo",
+      "externalId": "4383716318",
+      "title": "과메기... 맛잘알이네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4383716318",
+      "postedLabel": "23:15",
+      "postedAt": "2026-10-22T23:15:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T14:16:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79169,
+      "source": "blind",
+      "externalId": "cmt-457941285",
+      "title": "엥 문신은 여자나 남자나 마이너스임",
+      "excerpt": "이번 문신논쟁... 유치한 남자들 진짜 한숨만 나옴 ㅋㅋ",
+      "author": "l*********",
+      "company": "메가스터디교육",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EB%AC%B8%EC%8B%A0%EB%85%BC%EC%9F%81-%EC%9C%A0%EC%B9%98%ED%95%9C-%EB%82%A8%EC%9E%90%EB%93%A4-%EC%A7%84%EC%A7%9C-%ED%95%9C%EC%88%A8%EB%A7%8C-%EB%82%98%EC%98%B4-%E3%85%8B%E3%85%8B-5nmckyih#457941285",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T23:15:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T14:16:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79170,
+      "source": "blind",
+      "externalId": "cmt-457941295",
+      "title": "긁",
+      "excerpt": "이번 문신논쟁... 유치한 남자들 진짜 한숨만 나옴 ㅋㅋ",
+      "author": "X*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EB%AC%B8%EC%8B%A0%EB%85%BC%EC%9F%81-%EC%9C%A0%EC%B9%98%ED%95%9C-%EB%82%A8%EC%9E%90%EB%93%A4-%EC%A7%84%EC%A7%9C-%ED%95%9C%EC%88%A8%EB%A7%8C-%EB%82%98%EC%98%B4-%E3%85%8B%E3%85%8B-5nmckyih#457941295",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-22T23:15:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T14:16:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -383739,7 +383817,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-22T23:12:48+09:00"
+      "slowAt": "2026-10-22T23:15:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -390023,7 +390101,9 @@
         "4383712896",
         "4383714242",
         "4383714368",
-        "4383714590"
+        "4383714590",
+        "4383715942",
+        "4383716318"
       ]
     },
     "keep": "v2",
