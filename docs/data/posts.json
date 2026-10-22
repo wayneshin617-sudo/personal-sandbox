@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T00:33:43+00:00",
+  "updatedAt": "2026-10-22T00:34:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -327167,6 +327167,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-22T00:33:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 76307,
+      "source": "dc",
+      "externalId": "cmt-10963891",
+      "title": "타투있으면 어때 그것도 추억이잔아 맘 안들면 다른 타투 커버하면 되지",
+      "excerpt": "아니 근데 영숙이나 순자나 둘 다 문신에 대해 이해안됨",
+      "author": "봐야",
+      "company": "",
+      "ip": "14.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6610654&page=3#cmt_10963891",
+      "postedLabel": "10.22 09:22:50",
+      "postedAt": "2026-10-22T09:22:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T00:34:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -328159,6 +328179,7 @@
         "6610622",
         "6610627",
         "6610633",
+        "6610654",
         "6610661",
         "6610666",
         "6610679",
@@ -328187,7 +328208,9 @@
         "6610791",
         "6610796",
         "6610797",
-        "6610803"
+        "6610803",
+        "6610804",
+        "6610807"
       ]
     },
     "blind": {
@@ -328797,6 +328820,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%88%88-%EC%A7%84%EC%A7%9C%EC%9D%B4%EC%81%98%EB%8B%A4-5ubb7vgh",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%A7%88%EC%9D%8C%EC%9D%B4-%EB%84%93%EC%96%B4-%EB%B3%B4%EC%9D%B4%EB%84%A4-8w4fp1ws",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%97%B0%EC%95%A0%EA%B0%80-4%EB%85%84%EC%A0%84%EC%9D%B4%EB%9D%BC%EB%8A%94%EB%8D%B0-fkgy452h",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EB%A9%94%EB%94%95%EC%9D%B8%EC%A4%84%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EB%9F%B4%EC%BB%A4%EB%8A%90%EB%82%8C%EB%82%A8-2utpzcmq",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%E3%84%B7%E3%84%B7-klnivrq0",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%EC%9C%84%EC%B9%98-ih7hckpm",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%9D%BC%EB%8B%88%E3%85%8B-p23xalc3",
