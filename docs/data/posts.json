@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-22T08:53:04+00:00",
+  "updatedAt": "2026-10-22T08:54:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -362003,6 +362003,45 @@
       "firstSeenAt": "2026-10-22T08:53:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 78067,
+      "source": "blind",
+      "externalId": "cmt-457891338",
+      "title": "곧 문신충들 우르르 때거지로 몰려와서 공격할 수 도 있는 글입니다 문신은 과학, 문신을 평생 본인이 좋은 사람인지 나쁜 사람인지 인증해야하는 노예마크 같은 거임",
+      "excerpt": "문신이 흔해?",
+      "author": "못****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%ED%9D%94%ED%95%B4-e4vo34yg#457891338",
+      "postedLabel": "50분",
+      "postedAt": "2026-10-22T17:03:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:54:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 78068,
+      "source": "qoo",
+      "externalId": "4383440144",
+      "title": "ㅋㅋ나 밑에 글도 안보고 제일 위에 글만 보고",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383440144",
+      "postedLabel": "17:53",
+      "postedAt": "2026-10-22T17:53:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-22T08:54:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -365719,6 +365758,7 @@
         "/kr/post/34%ED%98%84%EC%88%99%EC%9D%B4-%E3%84%B9%E3%85%87-%EC%97%AD%EB%8C%80%EA%B3%A0%ED%8A%B8%EB%84%A4-3yi0cvwo",
         "/kr/post/34%ED%98%84%EC%88%99%EC%9D%B4-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EA%B3%A0%ED%8A%B8%EC%9D%B8%EA%B2%8C-egpuxvka",
         "/kr/post/34%ED%98%84%EC%88%99-%EC%85%94%EC%B8%A0-%EC%9D%B4%EC%81%98%EB%84%A4-7b2nngqr",
+        "/kr/post/34%ED%98%84%EC%88%99-apv41kqe",
         "/kr/post/34-%EC%88%9C%EC%9E%90-%EC%98%81%ED%98%B8%EB%8F%84-%EB%B3%B4%EA%B8%B0-%EC%A2%8B%EB%8B%A4-oywdn4et",
         "/kr/post/34-%EC%88%9C%EC%9E%90-7t7ami31",
         "/kr/post/34-%EC%88%9C%EC%9E%90-mgapjahy",
@@ -367959,7 +367999,8 @@
         "4383433093",
         "4383433987",
         "4383435568",
-        "4383438247"
+        "4383438247",
+        "4383440144"
       ]
     },
     "keep": "v2",
