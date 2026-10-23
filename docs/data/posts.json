@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T06:02:47+00:00",
+  "updatedAt": "2026-10-23T06:03:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -411598,6 +411598,26 @@
       "firstSeenAt": "2026-10-23T06:02:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80581,
+      "source": "blind",
+      "externalId": "cmt-458019325",
+      "title": "점점 인식이 나아지긴 하겠지",
+      "excerpt": "문신은 나이들어서가 더 문제임..",
+      "author": "g*********",
+      "company": "한국농어촌공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EC%84%9C%EA%B0%80-%EB%8D%94-%EB%AC%B8%EC%A0%9C%EC%9E%84-6t0rikhq#458019325",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-23T15:02:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T06:03:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -411711,7 +411731,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T15:00:32+09:00"
+      "slowAt": "2026-10-23T15:03:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -413571,7 +413591,9 @@
         "6614547",
         "6614549",
         "6614556",
-        "6614561"
+        "6614561",
+        "6614565",
+        "6614572"
       ]
     },
     "blind": {
@@ -414267,6 +414289,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%84%A0%EC%9E%85%EA%B2%AC%EC%97%90-%EA%B8%81%ED%9E%8C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%A7%8E%EA%B5%AC%EB%82%98-dl2vw07v",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%89%B4%EB%8D%94%EB%93%A4%EC%9D%80-%EB%8A%A5%EC%A7%80%EA%B0%80-%EC%97%86%EC%9D%8C%E3%85%87%E3%85%87-asfk7upw",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%89%B4%EB%93%9C%EC%B9%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%94%B1-2%EC%A2%85%EB%A5%98%EB%9D%BC%EA%B3%A0-%EB%B3%B8%EB%8B%A4-j88h1ta5",
+        "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EB%8B%A4%EB%8A%94%EB%8D%B0-%EC%9D%B4%EC%9C%A0-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%A8-3bn7vegi",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EB%8B%A4%EB%8B%88%EA%B9%8C-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B0%9C%EC%9E%91%EC%9D%84-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%83%90-3jnb0twb",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94%EA%B1%B0%EB%A1%9C-%EC%99%9C-%E3%85%88%E3%84%B9%ED%95%98%EB%8A%94%EC%A7%80-%EB%85%B8%EC%9D%B4%ED%95%B4-mulzqi44",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EC%9D%80%EA%B2%8C-%EC%9E%90%EC%9C%A0%EB%9D%BC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%95%84-5jqnlfjs",
