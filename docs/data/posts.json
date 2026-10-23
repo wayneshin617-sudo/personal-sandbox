@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T00:08:11+00:00",
+  "updatedAt": "2026-10-23T00:12:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -396256,6 +396256,45 @@
       "comments": 3,
       "firstSeenAt": "2026-10-23T00:08:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79806,
+      "source": "blind",
+      "externalId": "cmt-457977209",
+      "title": "역시 민족정론지",
+      "excerpt": "사회적 능지가 떨어지는 사람은 2",
+      "author": "신***",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%ED%9A%8C%EC%A0%81-%EB%8A%A5%EC%A7%80%EA%B0%80-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-2-loanxwbh#457977209",
+      "postedLabel": "16분",
+      "postedAt": "2026-10-23T08:55:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T00:12:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79807,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%88%88%EC%9D%84-l68f7cso",
+      "title": "영철은 눈을",
+      "excerpt": "왜케 희번덕 뜨는 거임?ㅋㅋ 무섭네..",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%88%88%EC%9D%84-l68f7cso",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T09:11:52+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T00:12:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -396332,7 +396371,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T09:08:52+09:00"
+      "slowAt": "2026-10-23T09:11:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -397902,7 +397941,8 @@
         "6613307",
         "6613323",
         "6613334",
-        "6613351"
+        "6613351",
+        "6613359"
       ]
     },
     "blind": {
