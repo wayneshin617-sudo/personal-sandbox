@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T16:34:42+00:00",
+  "updatedAt": "2026-10-23T16:35:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -433398,6 +433398,25 @@
       "firstSeenAt": "2026-10-23T16:34:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81682,
+      "source": "qoo",
+      "externalId": "4384716819",
+      "title": "영수씨는 첫회가 제일 별로곸ㅋㅋㅋ 볼수록 괜찮네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384716819",
+      "postedLabel": "01:34",
+      "postedAt": "2026-10-24T01:34:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T16:35:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -441338,7 +441357,8 @@
         "4384590159",
         "4384651940",
         "4384653783",
-        "4384679597"
+        "4384679597",
+        "4384716819"
       ]
     },
     "keep": "v2",
