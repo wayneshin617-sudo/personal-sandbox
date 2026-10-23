@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T03:58:27+00:00",
+  "updatedAt": "2026-10-23T03:59:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -407106,6 +407106,46 @@
       "firstSeenAt": "2026-10-23T03:58:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80354,
+      "source": "qoo",
+      "externalId": "cmt-4383999963",
+      "title": "희두나연 같아",
+      "excerpt": "영수영숙 조합 뭐냐 왜 덬들이 얘기했는지 알겠어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383955328#4383999963",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T11:58:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T03:59:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80355,
+      "source": "qoo",
+      "externalId": "cmt-4384000048",
+      "title": "멀미하면 혼자 쉬게 냅둬야하는데 대답하느라 더 멀미났을듯",
+      "excerpt": "아니 현숙 멀미할때 옆에서 영철 하는 짓거리때문에 보는 나도 멀미함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383959877#4384000048",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T11:58:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T03:59:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -407219,7 +407259,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T12:56:11+09:00"
+      "slowAt": "2026-10-23T12:59:11+09:00"
     },
     "dc": {
       "doneIds": [
