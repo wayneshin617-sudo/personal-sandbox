@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:50:44+00:00",
+  "updatedAt": "2026-10-23T09:51:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -420158,6 +420158,65 @@
       "firstSeenAt": "2026-10-23T09:50:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81013,
+      "source": "dc",
+      "externalId": "cmt-10966895",
+      "title": "300따리들은 맞벌이해야 낳아 기를까말까야",
+      "excerpt": "출산율은 최저임금이랑 상관 있는 거임.txt",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615179&page=1#cmt_10966895",
+      "postedLabel": "10.23 18:50:41",
+      "postedAt": "2026-10-23T18:50:41+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:51:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81014,
+      "source": "dc",
+      "externalId": "cmt-10966896",
+      "title": "야 쟤들눈에는 저게 괜찮을수도있어",
+      "excerpt": "한국 이미지 나락가겠네 시발 ㅋㅋㅋㅋ",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615178&page=1#cmt_10966896",
+      "postedLabel": "10.23 18:51:14",
+      "postedAt": "2026-10-23T18:51:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:51:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81015,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B8%B0%EC%8B%B8%EC%9B%80%ED%95%98%EB%8D%98-%EB%AC%B8%EC%8B%A0%EB%85%80-%EA%B8%80%EC%82%AD%ED%8A%80%ED%96%88%EB%88%84-zbdc7eiu",
+      "title": "기싸움하던 문신녀 글삭튀했누",
+      "excerpt": "본인이 문신 있는데 살면서 그걸로 손해나 피해 본 적 없다고 이 악물고 스스로 쉴드치며 댓글로 기싸움하던 문신녀 글삭튀하고 도망갔네 그 트럼프도 아들한테 하지 말라고 하면서 거르는 게 문신이다 문신 남녀는 제발 티 내지 말고 너네 끼리끼리 만나라 좀",
+      "author": "✠",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B8%B0%EC%8B%B8%EC%9B%80%ED%95%98%EB%8D%98-%EB%AC%B8%EC%8B%A0%EB%85%80-%EA%B8%80%EC%82%AD%ED%8A%80%ED%96%88%EB%88%84-zbdc7eiu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T18:51:27+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T09:51:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -420271,7 +420330,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T18:48:27+09:00"
+      "slowAt": "2026-10-23T18:51:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -422237,6 +422296,7 @@
         "6614863",
         "6614865",
         "6614867",
+        "6614868",
         "6614870",
         "6614872",
         "6614880",
@@ -422320,7 +422380,9 @@
         "6615148",
         "6615157",
         "6615172",
-        "6615176"
+        "6615176",
+        "6615178",
+        "6615179"
       ]
     },
     "blind": {
