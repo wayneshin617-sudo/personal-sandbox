@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T00:17:10+00:00",
+  "updatedAt": "2026-10-23T00:18:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -396411,6 +396411,64 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T00:17:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79814,
+      "source": "dc",
+      "externalId": "6613377",
+      "title": "키큰 얘들 보면 손하고 발도 크더라",
+      "excerpt": "",
+      "author": "장카설유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613377&page=1",
+      "postedLabel": "09:17",
+      "postedAt": "2026-10-23T09:17:30+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T00:18:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79815,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%95%A0%EB%93%A4-%EB%A9%8D%EC%B2%AD%ED%95%9C-%EC%A0%90-5y8c6ckp",
+      "title": "문신한 애들 멍청한 점",
+      "excerpt": "쓸데없는 글과 댓글을 쓰는데, 논리력도 딸려서 결국 본인들이 멍청하다는걸 추가로 증명함 댓글 쓸때마다 문신한 사람들에 대한 부정적인 시각이 1스택씩 더 쌓이고 있는데 그걸 인지하지 못하고 정신승리만 하고 있음 똥을 무서워서 피하는게 아닌데 그걸 본인들만 모름",
+      "author": "i********",
+      "company": "ex-SK바이오사이언스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%95%A0%EB%93%A4-%EB%A9%8D%EC%B2%AD%ED%95%9C-%EC%A0%90-5y8c6ckp",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T09:17:52+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T00:18:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79816,
+      "source": "blind",
+      "externalId": "cmt-457979520",
+      "title": "잘생긴척 하는 모먼트중에 하나인것같음",
+      "excerpt": "영철은 눈을",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%88%88%EC%9D%84-l68f7cso#457979520",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T09:17:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T00:18:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -396487,7 +396545,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T09:14:52+09:00"
+      "slowAt": "2026-10-23T09:17:52+09:00"
     },
     "ig": {
       "doneIds": [
