@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:06:17+00:00",
+  "updatedAt": "2026-10-23T09:07:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -418432,6 +418432,26 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-10-23T09:06:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80926,
+      "source": "blind",
+      "externalId": "cmt-458042282",
+      "title": "팀영호 데이트때 언니들한테 갈굼당해서 안됐던데",
+      "excerpt": "34기 정숙도 엄청 시비조네",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%A0%95%EC%88%99%EB%8F%84-%EC%97%84%EC%B2%AD-%EC%8B%9C%EB%B9%84%EC%A1%B0%EB%84%A4-nrmq1olc#458042282",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T18:07:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:07:18+00:00",
       "isSeed": false,
       "kind": "reply"
     }
