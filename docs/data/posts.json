@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T03:39:27+00:00",
+  "updatedAt": "2026-10-23T03:40:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -406690,6 +406690,64 @@
       "firstSeenAt": "2026-10-23T03:39:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80333,
+      "source": "dc",
+      "externalId": "6614075",
+      "title": "ㅅㅂ 아무리 흑인이라지만 아저씨들 매칭시키는게 맞냐?",
+      "excerpt": "",
+      "author": "에어팟",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614075&page=1",
+      "postedLabel": "12:39",
+      "postedAt": "2026-10-23T12:39:43+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-23T03:40:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80334,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%A0%95%EA%B0%90%EC%9D%80-%EC%9D%BC%EB%8B%A8-%EC%B1%99%EA%B2%A8%EB%91%90%EA%B3%A0-%EC%86%90%EC%9C%BC%EB%A1%9C-%EC%9E%A1%EC%9C%BC%EB%A9%B0-%EA%B0%80%EB%A7%8C%EC%9E%88%EC%96%B4-%EC%9D%B4-%EB%A7%90%ED%88%AC-xua0gvzr",
+      "title": "영철: 안정감은 일단 챙겨두고. (손으로 잡으며) 가만있어!! 이 말투",
+      "excerpt": "연극적?이라고 해야되나 이런 말투 어디선가 봤는데...",
+      "author": "m*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%A0%95%EA%B0%90%EC%9D%80-%EC%9D%BC%EB%8B%A8-%EC%B1%99%EA%B2%A8%EB%91%90%EA%B3%A0-%EC%86%90%EC%9C%BC%EB%A1%9C-%EC%9E%A1%EC%9C%BC%EB%A9%B0-%EA%B0%80%EB%A7%8C%EC%9E%88%EC%96%B4-%EC%9D%B4-%EB%A7%90%ED%88%AC-xua0gvzr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T12:40:12+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T03:40:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80335,
+      "source": "blind",
+      "externalId": "cmt-458001580",
+      "title": "영호한테 뺏길까봐",
+      "excerpt": "영철 있잖아",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%88%EC%9E%96%EC%95%84-0i16qjrn#458001580",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T12:40:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T03:40:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -408522,7 +408580,9 @@
         "6614063",
         "6614066",
         "6614068",
-        "6614069"
+        "6614069",
+        "6614073",
+        "6614075"
       ]
     },
     "blind": {
