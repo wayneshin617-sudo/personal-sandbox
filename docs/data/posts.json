@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T13:44:22+00:00",
+  "updatedAt": "2026-10-23T13:45:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -428920,6 +428920,45 @@
       "firstSeenAt": "2026-10-23T13:44:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81456,
+      "source": "blind",
+      "externalId": "cmt-458065878",
+      "title": "영철이 행시나 7출에다가 좀 여유가 있었으면 20명이아니라 200명도 만났을거같은데... 여유없는 남자가 풍기는 흙스러움이 좀 느껴진다. 허우대가 아깝다 ㅋ",
+      "excerpt": "아 근데 여출 소개할 때 영철 파란안경+외투 어깨걸치기 미칠 거 같아 진짜",
+      "author": "B*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EA%B7%BC%EB%8D%B0-%EC%97%AC%EC%B6%9C-%EC%86%8C%EA%B0%9C%ED%95%A0-%EB%95%8C-%EC%98%81%EC%B2%A0-%ED%8C%8C%EB%9E%80%EC%95%88%EA%B2%BD%EC%99%B8%ED%88%AC-%EC%96%B4%EA%B9%A8%EA%B1%B8%EC%B9%98%EA%B8%B0-%EB%AF%B8%EC%B9%A0-%EA%B1%B0-%EA%B0%99%EC%95%84-%EC%A7%84%EC%A7%9C-pruz3p6b#458065878",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-23T21:45:00+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T13:45:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81457,
+      "source": "qoo",
+      "externalId": "4384590159",
+      "title": "나덬 기준 남출 호감순위",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384590159",
+      "postedLabel": "22:44",
+      "postedAt": "2026-10-23T22:44:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T13:45:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -429034,7 +429073,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T22:42:05+09:00"
+      "slowAt": "2026-10-23T22:45:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -431213,6 +431252,7 @@
         "6615575",
         "6615576",
         "6615577",
+        "6615579",
         "6615583",
         "6615589",
         "6615593",
@@ -436713,7 +436753,8 @@
         "4384550792",
         "4384554626",
         "4384559052",
-        "4384574773"
+        "4384574773",
+        "4384590159"
       ]
     },
     "keep": "v2",
