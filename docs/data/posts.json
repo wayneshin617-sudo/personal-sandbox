@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T01:52:03+00:00",
+  "updatedAt": "2026-10-23T01:53:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -401551,6 +401551,45 @@
       "firstSeenAt": "2026-10-23T01:52:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80073,
+      "source": "dc",
+      "externalId": "6613684",
+      "title": "모든 비극은 그 시작이 개독임",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613684&page=1",
+      "postedLabel": "10:51",
+      "postedAt": "2026-10-23T10:51:50+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:53:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80074,
+      "source": "blind",
+      "externalId": "cmt-457989814",
+      "title": "걍 딱 저나이대 사람들이 한창 페미 퍼질 때 여자들끼리 우르르 몰려다니면서 하나 둘씩 문신 박는거 봤긴 했는디",
+      "excerpt": "순자가 문신한 심리.txt",
+      "author": "i******",
+      "company": "KCC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%8B%AC%EB%A6%ACtxt-hyh8yzfy#457989814",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:52:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:53:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -401663,7 +401702,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T10:49:47+09:00"
+      "slowAt": "2026-10-23T10:52:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -403268,7 +403307,9 @@
         "6613662",
         "6613669",
         "6613672",
-        "6613674"
+        "6613674",
+        "6613677",
+        "6613685"
       ]
     },
     "blind": {
