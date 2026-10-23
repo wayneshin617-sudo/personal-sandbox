@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:53:16+00:00",
+  "updatedAt": "2026-10-23T07:54:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -416255,6 +416255,26 @@
       "firstSeenAt": "2026-10-23T07:53:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80816,
+      "source": "dc",
+      "externalId": "cmt-10966649",
+      "title": "그래도 조직에서 오래 버틴 간호사줌이 이기지 않을까 - dc App",
+      "excerpt": "무례vs태움 누가 이길까",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614872&page=1#cmt_10966649",
+      "postedLabel": "10.23 16:53:44",
+      "postedAt": "2026-10-23T16:53:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:54:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -416332,7 +416352,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T16:51:00+09:00"
+      "slowAt": "2026-10-23T16:54:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -418320,7 +418340,9 @@
         "6614861",
         "6614863",
         "6614865",
-        "6614867"
+        "6614867",
+        "6614870",
+        "6614872"
       ]
     },
     "blind": {
