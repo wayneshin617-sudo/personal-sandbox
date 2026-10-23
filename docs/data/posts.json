@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T10:57:46+00:00",
+  "updatedAt": "2026-10-23T11:00:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -423410,6 +423410,66 @@
       "firstSeenAt": "2026-10-23T10:57:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81177,
+      "source": "dc",
+      "externalId": "cmt-10966928",
+      "title": "저런 성격 진짜 ㅈ같음…개념없는걸 털털하다고 생각함 - dc App",
+      "excerpt": "영숙이는 삶 자체가 모두까기! 자기 언니들 모두 나랑 똑같다 ㅋㅋㅋ",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615202&page=3#cmt_10966928",
+      "postedLabel": "10.23 19:05:40",
+      "postedAt": "2026-10-23T19:05:40+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:00:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81178,
+      "source": "dc",
+      "externalId": "cmt-10967035",
+      "title": "화학자노 - dc App",
+      "excerpt": "34정숙은 파마가 망한게 문제",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615339&page=1#cmt_10967035",
+      "postedLabel": "10.23 19:59:58",
+      "postedAt": "2026-10-23T19:59:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:00:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81179,
+      "source": "blind",
+      "externalId": "cmt-458055511",
+      "title": "영호가 여러가지 면에서 괜찮은거지 얼굴만 보면 손에 꼽힐정도로 잘생긴 느낌은 아님",
+      "excerpt": "투표글 30영수 vs 31경수 vs 34영호 투표",
+      "author": "l*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EC%98%81%EC%88%98-vs-31%EA%B2%BD%EC%88%98-vs-34%EC%98%81%ED%98%B8-sux2670x#458055511",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T20:00:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:00:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -423524,7 +423584,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T19:57:28+09:00"
+      "slowAt": "2026-10-23T20:00:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -425594,6 +425654,7 @@
         "6615192",
         "6615193",
         "6615195",
+        "6615200",
         "6615202",
         "6615203",
         "6615204",
@@ -425622,7 +425683,9 @@
         "6615312",
         "6615319",
         "6615333",
-        "6615337"
+        "6615337",
+        "6615339",
+        "6615346"
       ]
     },
     "blind": {
