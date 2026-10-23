@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T13:43:22+00:00",
+  "updatedAt": "2026-10-23T13:44:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -428900,6 +428900,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T13:43:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 81455,
+      "source": "qoo",
+      "externalId": "cmt-4384538875",
+      "title": "춤이 생각보다 좋은 취미인것같더라 ㅋㅋ",
+      "excerpt": "요즘엔 방송댄스 취미가 많네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384414667#4384538875",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T21:44:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T13:44:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -431190,6 +431210,7 @@
         "6615565",
         "6615568",
         "6615573",
+        "6615575",
         "6615576",
         "6615577",
         "6615583",
@@ -431212,7 +431233,8 @@
         "6615696",
         "6615704",
         "6615713",
-        "6615716"
+        "6615716",
+        "6615723"
       ]
     },
     "blind": {
@@ -431888,6 +431910,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%8B%AB%EC%9D%80-%EC%9D%B4%EC%9C%A0-vn6j16da",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%95%88%EC%98%88%EC%81%98%EA%B3%A0-%EC%9C%84%ED%98%91%EC%A0%81%EC%9D%B4%EA%B3%A0-%EB%93%9C%EB%9F%BD%EA%B3%A0%EB%A5%BC-%EB%96%A0%EB%82%98%EC%84%9C-b8z3woe7",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%96%B4%EB%94%94%EC%97%90-j8gtob7t",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%99%9C-%EB%85%BC%EB%9E%80%EC%9D%B4-%EB%90%98%EB%8A%94%EA%B1%B4%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%84%A4-ccueec85",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%99%9C-%EB%AC%B8%EC%A0%9C%EA%B0%80%EC%97%86%EC%9D%8C-tbeptswg",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%99%9C-%EB%AC%B8%EC%A0%9C%EB%83%90%EA%B3%A0-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%84%EA%BB%98-pwr1hlqp",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%99%9C-%EC%8B%AB%EB%83%90%EA%B3%A0-l6kajztq",
