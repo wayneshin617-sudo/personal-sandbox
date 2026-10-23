@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T01:17:03+00:00",
+  "updatedAt": "2026-10-23T01:18:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -399892,6 +399892,46 @@
       "firstSeenAt": "2026-10-23T01:17:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79989,
+      "source": "blind",
+      "externalId": "cmt-457985945",
+      "title": "어차피 영철이 욕 많이 먹는데 냅둬. 없어보여",
+      "excerpt": "영철님 오랜만에 출근하신 것 같은데",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EC%B6%9C%EA%B7%BC%ED%95%98%EC%8B%A0-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-w4o3jhc7#457985945",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:17:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:18:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79990,
+      "source": "blind",
+      "externalId": "cmt-457985949",
+      "title": "동료들이 진짜 너무하네",
+      "excerpt": "영철님 오랜만에 출근하신 것 같은데",
+      "author": "j********",
+      "company": "다우기술",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EC%B6%9C%EA%B7%BC%ED%95%98%EC%8B%A0-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-w4o3jhc7#457985949",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:17:47+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:18:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -399968,7 +400008,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T10:14:47+09:00"
+      "slowAt": "2026-10-23T10:17:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -401557,6 +401597,7 @@
         "6613370",
         "6613376",
         "6613378",
+        "6613379",
         "6613383",
         "6613387",
         "6613396",
@@ -401573,7 +401614,8 @@
         "6613484",
         "6613490",
         "6613505",
-        "6613518"
+        "6613518",
+        "6613536"
       ]
     },
     "blind": {
