@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T11:24:46+00:00",
+  "updatedAt": "2026-10-23T11:27:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -424185,6 +424185,65 @@
       "firstSeenAt": "2026-10-23T11:24:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81216,
+      "source": "dc",
+      "externalId": "cmt-10966994",
+      "title": "문신 혐오는 원래 심했는데 예전엔 진찌 깡패, 양아치들이나 해서 아주 많이 뉸에 띄는건 아니었기 때문에 말이 그렇게 나오진 않았는데 요즘엔 타투타투 거리면서 이미지 세탁해서 사방에서 ㅂㅅ들이 몸뚱이에 싸고 다니니 그만큼 말도 많아지는거지… - dc App",
+      "excerpt": "근데 왤케 문신혐오가 만연해진거임??",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614978&page=7#cmt_10966994",
+      "postedLabel": "10.23 19:40:33",
+      "postedAt": "2026-10-23T19:40:33+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:27:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81217,
+      "source": "dc",
+      "externalId": "cmt-10967047",
+      "title": "얼빠라 혹시나…하고 갔겠지…근데 생각보다 너무 반응 별로였을테고 ㅋㅋㅋ - dc App",
+      "excerpt": "근데 영자는 영철이 현숙이라고 너무 티냈는데",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615268&page=3#cmt_10967047",
+      "postedLabel": "10.23 20:05:05",
+      "postedAt": "2026-10-23T20:05:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:27:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81218,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%A0%95%EC%88%99-j3hb8zzy",
+      "title": "34기 정숙",
+      "excerpt": "배우 서혜원 느낌이지않음? 15키로빼면 이쁠듯",
+      "author": "l********",
+      "company": "신한라이프",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%A0%95%EC%88%99-j3hb8zzy",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T20:27:28+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T11:27:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -424299,7 +424358,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T20:24:28+09:00"
+      "slowAt": "2026-10-23T20:27:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -426392,6 +426451,7 @@
         "6615263",
         "6615266",
         "6615267",
+        "6615268",
         "6615274",
         "6615277",
         "6615281",
@@ -426414,7 +426474,8 @@
         "6615384",
         "6615386",
         "6615390",
-        "6615391"
+        "6615391",
+        "6615392"
       ]
     },
     "blind": {
