@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:55:16+00:00",
+  "updatedAt": "2026-10-23T07:56:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -416335,6 +416335,65 @@
       "firstSeenAt": "2026-10-23T07:55:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80820,
+      "source": "dc",
+      "externalId": "cmt-10966566",
+      "title": "ㅋ",
+      "excerpt": "영호 이런 반전이면",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614719&page=3#cmt_10966566",
+      "postedLabel": "10.23 16:15:04",
+      "postedAt": "2026-10-23T16:15:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:56:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80821,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9C%A0%ED%8A%AD-%EB%8C%93%EA%B8%80-%EA%B0%9C%EC%9B%83%EA%B8%B0%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-wikua0af",
+      "title": "유튭 댓글 개웃기네 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "ㅈㄱㄴ",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9C%A0%ED%8A%AD-%EB%8C%93%EA%B8%80-%EA%B0%9C%EC%9B%83%EA%B8%B0%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-wikua0af",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:56:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T07:56:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80822,
+      "source": "blind",
+      "externalId": "cmt-458033709",
+      "title": "그래뎌 보지 막 썸타고 호감표현하는거 보는재미",
+      "excerpt": "니들 빌런 없으면 나솔 보냐?",
+      "author": "m*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%88%EB%93%A4-%EB%B9%8C%EB%9F%B0-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%82%98%EC%86%94-%EB%B3%B4%EB%83%90-xm2b3lof#458033709",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:56:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:56:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -416448,7 +416507,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T16:53:00+09:00"
+      "slowAt": "2026-10-23T16:56:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -418369,6 +418428,7 @@
         "6614709",
         "6614715",
         "6614718",
+        "6614719",
         "6614736",
         "6614741",
         "6614742",
@@ -418402,7 +418462,8 @@
         "6614865",
         "6614867",
         "6614870",
-        "6614872"
+        "6614872",
+        "6614882"
       ]
     },
     "blind": {
