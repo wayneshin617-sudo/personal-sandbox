@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T01:51:02+00:00",
+  "updatedAt": "2026-10-23T01:52:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -401472,6 +401472,85 @@
       "firstSeenAt": "2026-10-23T01:51:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80069,
+      "source": "dc",
+      "externalId": "cmt-10965616",
+      "title": "이쁘자나",
+      "excerpt": "중국여자는 선넘었음",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613454&page=4#cmt_10965616",
+      "postedLabel": "10.23 09:57:19",
+      "postedAt": "2026-10-23T09:57:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:52:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80070,
+      "source": "dc",
+      "externalId": "6613683",
+      "title": "34 영철 사랑하는 사람 위해 폭주 하다 .",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613683&page=1",
+      "postedLabel": "10:51",
+      "postedAt": "2026-10-23T10:51:41+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:52:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80071,
+      "source": "blind",
+      "externalId": "cmt-457989628",
+      "title": "여기서 사람들이 떠든다고 인생 개차반 나지 않음",
+      "excerpt": "난 문신보다 여기서 군중심리로 잘알지도 못하는 사람인생하나 개차반 내려는 사람들이 더무섭고 역겨움",
+      "author": "투***",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EB%AC%B8%EC%8B%A0%EB%B3%B4%EB%8B%A4-%EC%97%AC%EA%B8%B0%EC%84%9C-%EA%B5%B0%EC%A4%91%EC%8B%AC%EB%A6%AC%EB%A1%9C-%EC%9E%98%EC%95%8C%EC%A7%80%EB%8F%84-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B8%EC%83%9D%ED%95%98%EB%82%98-%EA%B0%9C%EC%B0%A8%EB%B0%98-%EB%82%B4%EB%A0%A4%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%8D%94%EB%AC%B4%EC%84%AD%EA%B3%A0-%EC%97%AD%EA%B2%A8%EC%9B%80-vyztpl53#457989628",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:51:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:52:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80072,
+      "source": "blind",
+      "externalId": "cmt-457989627",
+      "title": "너도 문신있구나.. 투명하다 투명해 ㅋㅋㅋ",
+      "excerpt": "순자가 문신한 심리.txt",
+      "author": "U***** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%8B%AC%EB%A6%ACtxt-hyh8yzfy#457989627",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:51:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:52:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -403154,6 +403233,7 @@
         "6613430",
         "6613434",
         "6613443",
+        "6613454",
         "6613464",
         "6613476",
         "6613477",
@@ -403187,7 +403267,8 @@
         "6613655",
         "6613662",
         "6613669",
-        "6613672"
+        "6613672",
+        "6613674"
       ]
     },
     "blind": {
