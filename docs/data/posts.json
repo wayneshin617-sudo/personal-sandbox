@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:12:18+00:00",
+  "updatedAt": "2026-10-23T08:14:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -416812,6 +416812,45 @@
       "firstSeenAt": "2026-10-23T08:12:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80844,
+      "source": "qoo",
+      "externalId": "cmt-4384224966",
+      "title": "전혀ㅋㅋ애초에 같기수도 아니라서 이슈되는 부분도 다르고 남피디가 무슨 의도를 가지고 발표할 사람이 아님 둘다 화제성 끌어오길 바라지",
+      "excerpt": "영숙 순자 문신 아웃팅 여론 잠재울려고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384159138#4384224966",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T16:13:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:14:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80845,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%ED%99%8D%EC%B2%9C-%EC%A7%80%EC%9D%B8-%EC%B0%BE%EC%9D%84%EB%95%8C-gypstwpl",
+      "title": "영철 홍천 지인 찾을때",
+      "excerpt": "치킨집 찾는다고 현지 지인 한테 물어본다고 다 들리게 하는거 20대 중반 남자들이 20살 21살 여자 꼬실때나 하던 건데 갓 성인된 여자들 앞에서 본인 인맥 쩔고 능력 있다는 어필 뭐 이런 거들먹 ㅋㅋㅋ 근데 30대 중후반 남자가 저러니까 오히려 더 가벼워 보였어",
+      "author": "i********",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%99%8D%EC%B2%9C-%EC%A7%80%EC%9D%B8-%EC%B0%BE%EC%9D%84%EB%95%8C-gypstwpl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:14:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T08:14:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -416925,7 +416964,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T17:11:00+09:00"
+      "slowAt": "2026-10-23T17:14:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -418897,7 +418936,8 @@
         "6614908",
         "6614909",
         "6614913",
-        "6614930"
+        "6614930",
+        "6614938"
       ]
     },
     "blind": {
