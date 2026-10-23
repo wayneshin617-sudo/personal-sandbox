@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T12:05:44+00:00",
+  "updatedAt": "2026-10-23T12:06:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -425133,6 +425133,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T12:05:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 81264,
+      "source": "qoo",
+      "externalId": "cmt-4384444889",
+      "title": "나솔 피디가 영숙이랑 영수 지원서 보고 다둥이 특집 기획했을지도? ㅋ 영수가 생각보다 막내티 안나고 유들유들 성격 괜찮은 듯",
+      "excerpt": "영수 영숙 미방분 올라왔어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384419017#4384444889",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T20:05:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:06:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -425247,7 +425267,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T21:03:28+09:00"
+      "slowAt": "2026-10-23T21:06:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -427387,6 +427407,7 @@
         "6615446",
         "6615448",
         "6615452",
+        "6615455",
         "6615462"
       ]
     },
