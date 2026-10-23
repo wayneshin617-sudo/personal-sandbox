@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T11:35:46+00:00",
+  "updatedAt": "2026-10-23T11:36:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -424520,6 +424520,26 @@
       "firstSeenAt": "2026-10-23T11:35:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81233,
+      "source": "dc",
+      "externalId": "cmt-10967003",
+      "title": "아닌데? 난 존못인거 알고 있음 ㅋㅋㅋ - dc App",
+      "excerpt": "존못남들은 지들 외모가 괜찮은줄 알더라",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615296&page=2#cmt_10967003",
+      "postedLabel": "10.23 19:45:48",
+      "postedAt": "2026-10-23T19:45:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:36:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -424634,7 +424654,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T20:33:28+09:00"
+      "slowAt": "2026-10-23T20:36:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -426733,6 +426753,7 @@
         "6615281",
         "6615284",
         "6615287",
+        "6615296",
         "6615297",
         "6615298",
         "6615304",
