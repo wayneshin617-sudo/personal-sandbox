@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T10:08:45+00:00",
+  "updatedAt": "2026-10-23T10:10:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -420711,6 +420711,84 @@
       "firstSeenAt": "2026-10-23T10:08:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81041,
+      "source": "qoo",
+      "externalId": "cmt-4384337595",
+      "title": "여론이 글케 심각하지도 않지않아...?? 아닌감 내가 더쿠에만 잇어서",
+      "excerpt": "영숙 순자 문신 아웃팅 여론 잠재울려고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384159138#4384337595",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T18:10:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:10:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81042,
+      "source": "dc",
+      "externalId": "6615221",
+      "title": "이정도 와꾸스펙이면 현숙이 영숙나이여도 젤인기많아??",
+      "excerpt": "",
+      "author": "갈치얌ʕ••ʕ••ʔ",
+      "company": "",
+      "ip": "58.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615221&page=1",
+      "postedLabel": "19:09",
+      "postedAt": "2026-10-23T19:09:36+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:10:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81043,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%B8%EB%AA%A8%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A0%A4-%EB%82%AB%EB%8B%A4-fg2cts7v",
+      "title": "외모만 보면 옥순이 젤 낫다",
+      "excerpt": "근데 옥순은 결혼하기엔 너무 아가씨스러워 착장도 20대 같고 전문대 나와서 하는 임상병리사에 명품 좋아하는 모습이 좀..",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%B8%EB%AA%A8%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A0%A4-%EB%82%AB%EB%8B%A4-fg2cts7v",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T19:10:27+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T10:10:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81044,
+      "source": "blind",
+      "externalId": "cmt-458049290",
+      "title": "오죽하면 가족이 그런 말 하겠냐",
+      "excerpt": "34영철 너무 정신없어",
+      "author": "팩******",
+      "company": "몰로코",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0-%EB%84%88%EB%AC%B4-%EC%A0%95%EC%8B%A0%EC%97%86%EC%96%B4-le76o4x1#458049290",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T19:10:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:10:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -420788,7 +420866,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T19:07:27+09:00"
+      "slowAt": "2026-10-23T19:10:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -422861,6 +422939,8 @@
         "6615074",
         "6615082",
         "6615086",
+        "6615091",
+        "6615092",
         "6615093",
         "6615100",
         "6615103",
