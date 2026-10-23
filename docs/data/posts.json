@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:51:44+00:00",
+  "updatedAt": "2026-10-23T09:52:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -420217,6 +420217,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T09:51:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 81016,
+      "source": "blind",
+      "externalId": "cmt-458047357",
+      "title": "인정받고 싶었으나 실패",
+      "excerpt": "기싸움하던 문신녀 글삭튀했누",
+      "author": "지***",
+      "company": "삼일회계법인",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B8%B0%EC%8B%B8%EC%9B%80%ED%95%98%EB%8D%98-%EB%AC%B8%EC%8B%A0%EB%85%80-%EA%B8%80%EC%82%AD%ED%8A%80%ED%96%88%EB%88%84-zbdc7eiu#458047357",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T18:52:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:52:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -420294,7 +420314,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T18:49:27+09:00"
+      "slowAt": "2026-10-23T18:52:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -422593,6 +422613,7 @@
         "/kr/post/%EA%B8%88%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%81%EC%9E%90%EA%B0%99%EC%9D%80-%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%8A%94-%EB%AD%90%EC%95%BC-j5bwx2yw",
         "/kr/post/%EA%B8%88%EC%9D%BC-34%EA%B8%B0-%ED%95%98%EB%8A%94%EB%82%A0-%E2%99%A1-gtv61udt",
         "/kr/post/%EA%B8%B0%EB%8F%85%EA%B5%90-%EC%82%BC%ED%9B%84-%EC%82%AC%EC%B4%88%EB%82%A8-%EB%A7%8C%EB%82%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4-%E3%85%8E-2fqji7he",
+        "/kr/post/%EA%B8%B0%EC%8B%B8%EC%9B%80%ED%95%98%EB%8D%98-%EB%AC%B8%EC%8B%A0%EB%85%80-%EA%B8%80%EC%82%AD%ED%8A%80%ED%96%88%EB%88%84-zbdc7eiu",
         "/kr/post/%EA%B8%B0-%EC%84%BC-%EC%97%AC%EC%9E%90%EB%93%A4-%ED%8B%88%EC%97%90%EC%84%9C-%EC%A0%95%EC%8B%A0%EC%9D%84-%EB%AA%BB%EC%B0%A8%EB%A6%AC%EB%84%A4-ob8617r6",
         "/kr/post/%EA%B9%80%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90%EB%8B%98-%EC%98%81%EC%B2%A0-%EA%B3%A0%EB%A6%84-e3y7kkyj",
         "/kr/post/%EA%B9%80%EC%B9%98-%EB%84%A3%EC%A7%80-x4u3ggip",
