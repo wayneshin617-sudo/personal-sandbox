@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:47:16+00:00",
+  "updatedAt": "2026-10-23T07:48:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -415998,6 +415998,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T07:47:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80803,
+      "source": "qoo",
+      "externalId": "cmt-4384201411",
+      "title": "지금까지 나솔 봣으면 아닐거라는거 알텐데 ㅋㅋㅋ 저런 논란은 논란 축에도 못끼잖아",
+      "excerpt": "영숙 순자 문신 아웃팅 여론 잠재울려고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384159138#4384201411",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T15:48:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:48:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80804,
+      "source": "blind",
+      "externalId": "cmt-458032594",
+      "title": "저래도 빨아주는 사람이 있으니까 기고만장 해진듯",
+      "excerpt": "영철이 졸라 얄미운 스타일이네",
+      "author": "i*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A1%B8%EB%9D%BC-%EC%96%84%EB%AF%B8%EC%9A%B4-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4%EB%84%A4-f8mzwenk#458032594",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:48:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:48:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -416075,7 +416115,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T16:45:00+09:00"
+      "slowAt": "2026-10-23T16:48:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -418024,6 +418064,7 @@
         "6614682",
         "6614685",
         "6614687",
+        "6614690",
         "6614704",
         "6614707",
         "6614708",
@@ -418056,7 +418097,8 @@
         "6614832",
         "6614833",
         "6614835",
-        "6614841"
+        "6614841",
+        "6614847"
       ]
     },
     "blind": {
