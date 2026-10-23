@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T04:59:47+00:00",
+  "updatedAt": "2026-10-23T05:01:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -409142,6 +409142,65 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T04:59:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80457,
+      "source": "blind",
+      "externalId": "cmt-458005410",
+      "title": "미국 소방관들은 문신 많이 한다던데 혹시 모를 불의의 사고 현장에서, 신원확인을 위해서 한다고 하던데 우리는 문화가 많이 다른가 보네",
+      "excerpt": "문신은 믿고 거르면 된다",
+      "author": "t*********",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EB%AF%BF%EA%B3%A0-%EA%B1%B0%EB%A5%B4%EB%A9%B4-%EB%90%9C%EB%8B%A4-53xwrwdx#458005410",
+      "postedLabel": "51분",
+      "postedAt": "2026-10-23T13:10:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:01:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80458,
+      "source": "blind",
+      "externalId": "cmt-458010566",
+      "title": "그렇게까지 신원확인 못할 정도면 문신도 타버려서 의미가 없을거 같은데",
+      "excerpt": "문신은 믿고 거르면 된다",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EB%AF%BF%EA%B3%A0-%EA%B1%B0%EB%A5%B4%EB%A9%B4-%EB%90%9C%EB%8B%A4-53xwrwdx#458010566",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-23T13:52:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:01:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80459,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%EC%96%98%EA%B8%B0-%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80%ED%95%B4-a2ee7osj",
+      "title": "문신얘기 언제까지해",
+      "excerpt": "노잼",
+      "author": "H*****",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%96%98%EA%B8%B0-%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80%ED%95%B4-a2ee7osj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T14:01:32+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T05:01:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -409219,7 +409278,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T13:58:32+09:00"
+      "slowAt": "2026-10-23T14:01:32+09:00"
     },
     "ig": {
       "doneIds": [
@@ -411063,7 +411122,8 @@
         "6614375",
         "6614384",
         "6614385",
-        "6614387"
+        "6614387",
+        "6614404"
       ]
     },
     "blind": {
