@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T14:36:22+00:00",
+  "updatedAt": "2026-10-23T14:37:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -430429,6 +430429,65 @@
       "firstSeenAt": "2026-10-23T14:36:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81532,
+      "source": "dc",
+      "externalId": "6615849",
+      "title": "34 영자랑 내 네번째 발가락이랑 와꾸 좋은 승부 가능할듯",
+      "excerpt": "",
+      "author": "ㅇㅇㅈㅇ",
+      "company": "",
+      "ip": "114.204",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615849&page=1",
+      "postedLabel": "23:36",
+      "postedAt": "2026-10-23T23:36:41+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T14:37:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81533,
+      "source": "blind",
+      "externalId": "cmt-458085628",
+      "title": "그치. 대우해줘서 좋다는 현숙도 참. 절레절레",
+      "excerpt": "나도 영철 행동들 극혐이긴한데",
+      "author": "a*********",
+      "company": "메가스터디교육",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8F%84-%EC%98%81%EC%B2%A0-%ED%96%89%EB%8F%99%EB%93%A4-%EA%B7%B9%ED%98%90%EC%9D%B4%EA%B8%B4%ED%95%9C%EB%8D%B0-50fdu3om#458085628",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T23:37:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T14:37:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81534,
+      "source": "blind",
+      "externalId": "cmt-458085550",
+      "title": "오마르의삶",
+      "excerpt": "나는 솔로 34기 영철 닮은 연애유튜버 남자",
+      "author": "커피는남타커",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%95%A0%EC%9C%A0%ED%8A%9C%EB%B2%84-%EB%82%A8%EC%9E%90-6d2bw667#458085550",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T23:37:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T14:37:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -430506,7 +430565,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T23:34:05+09:00"
+      "slowAt": "2026-10-23T23:37:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -432780,7 +432839,8 @@
         "6615807",
         "6615809",
         "6615816",
-        "6615828"
+        "6615828",
+        "6615846"
       ]
     },
     "blind": {
