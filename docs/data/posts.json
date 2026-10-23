@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:53:45+00:00",
+  "updatedAt": "2026-10-23T09:54:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -420315,6 +420315,26 @@
       "firstSeenAt": "2026-10-23T09:53:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81021,
+      "source": "dc",
+      "externalId": "cmt-10966824",
+      "title": "76~7 정도 얼굴은 꽤 잘생겼는데 비율이 똥망이네 스타일도 구리고",
+      "excerpt": "왜 영식이 인기 없나 했네",
+      "author": "커",
+      "company": "",
+      "ip": "123.108",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615052&page=3#cmt_10966824",
+      "postedLabel": "10.23 18:03:50",
+      "postedAt": "2026-10-23T18:03:50+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:54:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -420428,7 +420448,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T18:51:27+09:00"
+      "slowAt": "2026-10-23T18:54:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -422455,6 +422475,7 @@
         "6615038",
         "6615042",
         "6615052",
+        "6615053",
         "6615059",
         "6615069",
         "6615071",
@@ -422644,6 +422665,7 @@
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%B0%A9%EC%86%A1-%ED%95%9C-%EB%B2%88-%EB%82%98%EA%B0%94%EB%8B%A4%EA%B3%A0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9A%95-%EB%A8%B9%EA%B3%A0-%EC%98%A8%EA%B0%96%EA%B2%8C-%ED%8C%8C%EB%AC%98%EB%90%98%EB%A9%B4-hz423t5o",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%B3%B8%EC%9D%B8%EC%9D%B4-%EC%A0%80%EC%A0%95%EB%8F%84%EB%A1%9C-%EB%A9%80%EB%AF%B8%EA%B0%80-%EC%8B%AC%ED%95%98%EB%A9%B4-klfihuyi",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%B8%94%EB%9D%BC%EC%97%90-%EC%99%A4%EC%BC%80-%EC%88%9C%EC%9E%90-%EC%A7%80%EC%9D%B8%EB%93%A4%EC%9D%B4-%EA%B8%80%EC%9D%84-%EB%A7%8E%EC%9D%B4%EC%98%AC%EB%A0%A4-kipvdtrz",
+        "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%B8%94%EB%9D%BC%EC%97%90-%EC%99%A4%EC%BC%80-34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EC%A7%80%EC%9D%B8%EB%93%A4%EC%9D%B4-%EA%B8%80%EC%9D%84-%EB%A7%8E%EC%9D%B4%EC%98%AC%EB%A0%A4-kipvdtrz",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%83%81%EC%B2%A0%E3%85%8B-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-%EC%98%A5%EC%88%9C-%EB%BA%8F%EA%B8%B0%EB%8A%94%EA%B5%AC%EB%82%98-738zjs7h",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%83%81%EC%B2%A0%EC%9D%B4%EB%A7%8C%EC%95%BD-%EB%8C%80%EC%A1%B8%EC%83%9D%EC%82%B0%EC%A7%81%EC%9D%B4%EB%A9%B4-i4yr1svr",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%88%9C%EC%9E%90%EB%88%84%EB%82%98%EB%8F%84-%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8A%94%EA%B1%B0%EB%A9%B4-%ED%99%95%EC%8B%A4%ED%9E%88-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%95%8C%EC%88%98%EA%B0%80-%EC%97%86%EA%B5%AC%EB%82%98-ve044bcm",
@@ -425404,6 +425426,7 @@
         "/kr/post/34%EA%B8%B0-%ED%9B%88%EB%82%A8%ED%9B%88%EB%85%80-%EB%84%98%EC%B9%9C%EB%8B%B9-klwhhhu7",
         "/kr/post/34%EA%B8%B0-17%ED%8E%B8%EA%B9%8C%EC%A7%80-kb6wp223",
         "/kr/post/34%EA%B8%B0-2%ED%99%94%EB%B6%80%ED%84%B0-hvxqbr3z",
+        "/kr/post/34%EA%B8%B0-mbti-%EC%9C%A0%EC%B6%94-5mb7para",
         "/kr/post/34%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%94%EC%96%B4-mkkbfzhj",
         "/kr/post/34%EC%88%9C%EC%9E%90%EB%8B%98%EC%9D%80-%EB%91%98%EC%A7%B8-%EC%97%AC%EB%8F%99%EC%83%9D-%EB%B6%84%EC%9D%B4%EB%9E%91-%EB%88%88-%EA%B0%99%EC%9D%80-%EB%8D%B0%EC%84%9C-%EC%B0%9D%EC%9C%BC%EC%85%A8%EB%82%98%EB%B4%90%EC%9A%94-anov05m2",
         "/kr/post/34%EC%88%9C%EC%9E%90-k%EC%9E%A5%EB%85%80-ipszv6h4",
