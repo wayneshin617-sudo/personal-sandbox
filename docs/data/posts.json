@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T03:31:28+00:00",
+  "updatedAt": "2026-10-23T03:32:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -406490,6 +406490,46 @@
       "firstSeenAt": "2026-10-23T03:31:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80323,
+      "source": "blind",
+      "externalId": "cmt-458000637",
+      "title": "막사는 인생 잃을꺼 없다라는 무언의 위협이지",
+      "excerpt": "문신한 사람을 싫어하는 이유",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-udm7p6tk#458000637",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T12:32:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T03:32:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80324,
+      "source": "blind",
+      "externalId": "cmt-458000677",
+      "title": "여기는 목욕탕이 아닙니다..",
+      "excerpt": "문신한 사람을 싫어하는 이유",
+      "author": "청캔디",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-udm7p6tk#458000677",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T12:32:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T03:32:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -406603,7 +406643,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T12:29:11+09:00"
+      "slowAt": "2026-10-23T12:32:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -413571,7 +413611,8 @@
         "4383943337",
         "4383955328",
         "4383959877",
-        "4383987873"
+        "4383987873",
+        "4384024943"
       ]
     },
     "keep": "v2",
