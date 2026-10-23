@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:00:16+00:00",
+  "updatedAt": "2026-10-23T08:01:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -416474,6 +416474,44 @@
       "firstSeenAt": "2026-10-23T08:00:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80827,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A4%EB%8A%98-%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%82%98-%ED%81%B4%EB%9F%BD%EA%B0%80%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-z67gcaab",
+      "title": "오늘 라운지나 클럽가실 여성분",
+      "excerpt": "저도 여자입니다 쪽지주세여",
+      "author": "야***",
+      "company": "에어코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%82%98-%ED%81%B4%EB%9F%BD%EA%B0%80%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-z67gcaab",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:00:58+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T08:01:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80828,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98-%EB%A9%80%EB%AF%B8-%EC%95%88%ED%95%98%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94%EA%B1%B0-%EB%93%A4%EC%9C%BC%EB%8B%88%EA%B9%8C-s55n8iyx",
+      "title": "나 멀미 안하는데 영철이 말하는거 들으니까",
+      "excerpt": "진심 멀미할거 같더라 작작해 진짜로....",
+      "author": "I*********",
+      "company": "뱅크오브아메리카",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EB%A9%80%EB%AF%B8-%EC%95%88%ED%95%98%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94%EA%B1%B0-%EB%93%A4%EC%9C%BC%EB%8B%88%EA%B9%8C-s55n8iyx",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:00:59+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T08:01:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -418549,7 +418587,8 @@
         "6614882",
         "6614884",
         "6614886",
-        "6614887"
+        "6614887",
+        "6614896"
       ]
     },
     "blind": {
