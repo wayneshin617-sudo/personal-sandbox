@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:27:18+00:00",
+  "updatedAt": "2026-10-23T09:28:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -418908,6 +418908,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T09:27:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80950,
+      "source": "blind",
+      "externalId": "cmt-458039859",
+      "title": "34는 기 안 쎄보임",
+      "excerpt": "나솔 기쎈 여자 특집하면 좋겠다",
+      "author": "l*********",
+      "company": "신용보증기금",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EA%B8%B0%EC%8E%88-%EC%97%AC%EC%9E%90-%ED%8A%B9%EC%A7%91%ED%95%98%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4-q0plfvf4#458039859",
+      "postedLabel": "43분",
+      "postedAt": "2026-10-23T17:45:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:28:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80951,
+      "source": "dc",
+      "externalId": "cmt-10966851",
+      "title": "아오 씨발 좆버러지 배급견새끼 ㅋㅋ",
+      "excerpt": "오세훈 무죄 좆같으면 개추",
+      "author": "줴줴이야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615121&page=1#cmt_10966851",
+      "postedLabel": "10.23 18:27:42",
+      "postedAt": "2026-10-23T18:27:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:28:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -421053,7 +421093,8 @@
         "6615103",
         "6615107",
         "6615112",
-        "6615114"
+        "6615114",
+        "6615121"
       ]
     },
     "blind": {
@@ -423223,6 +423264,7 @@
         "/kr/post/%EC%9A%B4%EC%A0%84%EC%97%90-%EC%A7%91%EC%A4%91%EC%9D%80-%EC%95%88%ED%95%98%EA%B3%A0-g5f5uakk",
         "/kr/post/%EC%9A%B4%EC%A0%84%EC%9D%84-%E3%85%85%E3%85%82-%E3%85%88%EA%B0%99%EC%9D%B4-%EC%B3%90%ED%95%98%EB%8B%88%EA%B9%8C-dxiqymqd",
         "/kr/post/%EC%9A%B4%EC%A0%84%ED%95%98%EB%8A%94%EB%8D%B0-%EB%A7%90-%EC%99%9C-%EC%A0%80%EB%A6%AC-%EB%A7%8E%EB%83%90-n6bk037r",
+        "/kr/post/%EC%9A%B4%EC%A0%84%ED%95%98%EB%A9%B4-%EB%92%B7%EC%9E%90%EB%A6%AC-%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%9E%91-%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-%EC%96%B4%EB%A0%A4%EC%9A%B4%EB%8D%B0-ib26vlt8",
         "/kr/post/%EC%9A%B8%EC%82%B0%EC%98%81%EC%9E%90%EB%8A%94-%EC%82%B0%EC%9C%A0%EA%B5%AD%EA%B0%99%EC%9D%8C-vmf274rq",
         "/kr/post/%EC%9A%B8%EC%97%84%EB%A7%88%EB%84%A4-8%EB%82%A8%EB%A7%A4%EC%A0%95%EB%8F%84-%EC%95%84%EB%B2%84%EC%A7%80%EB%84%A4-6%EB%82%A8%EB%A7%A4%EC%A0%95%EB%8F%84%EC%9D%B8%EB%8C%80-pyl6frd8",
         "/kr/post/%EC%9B%83%EC%83%81-%EC%98%81%EC%9E%90-mw1spuvq",
