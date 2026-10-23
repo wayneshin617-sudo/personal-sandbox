@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T21:15:09+00:00",
+  "updatedAt": "2026-10-23T21:25:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -434685,6 +434685,26 @@
       "firstSeenAt": "2026-10-23T21:15:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81747,
+      "source": "blind",
+      "externalId": "cmt-458115138",
+      "title": "문신 안좋게 보는 사람 넘치는걸 알면서도 하는 << 이거 자체가 걍 문제기도하고 위화감 조성하는것도 별로고",
+      "excerpt": "문신으로 난리네",
+      "author": "l*********",
+      "company": "부산교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%82%9C%EB%A6%AC%EB%84%A4-8phnacb3#458115138",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T06:25:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T21:25:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -434799,7 +434819,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T06:18:51+09:00"
+      "slowAt": "2026-10-24T06:25:19+09:00"
     },
     "dc": {
       "doneIds": [
@@ -437159,10 +437179,12 @@
         "6616174",
         "6616181",
         "6616183",
+        "6616185",
         "6616196",
         "6616200",
         "6616208",
-        "6616211"
+        "6616211",
+        "6616217"
       ]
     },
     "blind": {
