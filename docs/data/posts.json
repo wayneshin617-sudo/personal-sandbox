@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:17:15+00:00",
+  "updatedAt": "2026-10-23T07:18:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -414764,6 +414764,45 @@
       "firstSeenAt": "2026-10-23T07:17:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80741,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EC%95%88%EB%B3%B4%EB%8A%94%EB%8D%B0-kbnmk8wh",
+      "title": "나솔안보는데",
+      "excerpt": "여기 하도 문신문신 그래서 궁금해서 그러는데 문신 한 사람들 왜함..? 뭐사실 크게 혐오나 이런거라고 생각해본적도 없고 그냥 그러려니 하고 말긴하는데 본인들도 사회적으로 인식이 안좋은거 알고 있잖아...? 득될게 하나도 없고 뭔가 그게 이쁘다는 생각도 안드는데 그냥 이뻐보여서 문신하는거야? 흉터 가리는거나 이런건ㅇ ㅣ해함",
+      "author": "1*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%95%88%EB%B3%B4%EB%8A%94%EB%8D%B0-kbnmk8wh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:18:00+09:00",
+      "views": 26,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T07:18:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80742,
+      "source": "blind",
+      "externalId": "cmt-458028801",
+      "title": "공무원 개깝치네 진짜",
+      "excerpt": "문신해도되는 여자 알려준다",
+      "author": "i*********",
+      "company": "선진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%B4%EB%8F%84%EB%90%98%EB%8A%94-%EC%97%AC%EC%9E%90-%EC%95%8C%EB%A0%A4%EC%A4%80%EB%8B%A4-rxwswj3a#458028801",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:18:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:18:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -414841,7 +414880,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T16:15:00+09:00"
+      "slowAt": "2026-10-23T16:18:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -416798,7 +416837,8 @@
         "6614758",
         "6614761",
         "6614763",
-        "6614764"
+        "6614764",
+        "6614768"
       ]
     },
     "blind": {
