@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T00:04:11+00:00",
+  "updatedAt": "2026-10-23T00:05:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -396021,6 +396021,85 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T00:04:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79794,
+      "source": "blind",
+      "externalId": "cmt-457973579",
+      "title": "쉬쌌어 아니면 괜츈",
+      "excerpt": "영숙 88 나이먹고도 쉬마려 한거냐",
+      "author": "-******",
+      "company": "홈플러스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-88-%EB%82%98%EC%9D%B4%EB%A8%B9%EA%B3%A0%EB%8F%84-%EC%89%AC%EB%A7%88%EB%A0%A4-%ED%95%9C%EA%B1%B0%EB%83%90-0az7t1ch#457973579",
+      "postedLabel": "42분",
+      "postedAt": "2026-10-23T08:22:52+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T00:05:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79795,
+      "source": "blind",
+      "externalId": "cmt-457974777",
+      "title": "그것보단 화장실 잡도리?가 참ㅋㅋ",
+      "excerpt": "영숙 88 나이먹고도 쉬마려 한거냐",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-88-%EB%82%98%EC%9D%B4%EB%A8%B9%EA%B3%A0%EB%8F%84-%EC%89%AC%EB%A7%88%EB%A0%A4-%ED%95%9C%EA%B1%B0%EB%83%90-0az7t1ch#457974777",
+      "postedLabel": "31분",
+      "postedAt": "2026-10-23T08:33:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T00:05:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79796,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%80%EB%A6%AC-%EC%9E%98%ED%95%98%EC%9E%90-h6e5zd2x",
+      "title": "관리 잘하자",
+      "excerpt": "동갑이다 둘이",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%80%EB%A6%AC-%EC%9E%98%ED%95%98%EC%9E%90-h6e5zd2x",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T09:04:52+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T00:05:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79797,
+      "source": "blind",
+      "externalId": "cmt-457978222",
+      "title": "여기서 중요한건 문신의대한 이야기보다 문신한 애가 앞에있는데 옆에 남자에게 그딴식으로 이야기 하고 꼽준 문제가 더 큰거임 문신이 싫고 좋고는 개인차지만 그행동은 진짜 갱생이안됨",
+      "excerpt": "문신대첩이 일어난 이유",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EB%8C%80%EC%B2%A9%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%9C-%EC%9D%B4%EC%9C%A0-d6t70hwi#457978222",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T09:04:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T00:05:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -396131,7 +396210,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T09:01:52+09:00"
+      "slowAt": "2026-10-23T09:04:52+09:00"
     },
     "dc": {
       "doneIds": [
@@ -398226,6 +398305,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%EA%B9%8C%EC%A7%80-%EC%9E%88%EB%83%90-7zpqypty",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EB%85%80%EB%A5%BC-%EB%8C%80%ED%95%A0%EB%95%8C-%EB%B3%B4%ED%86%B5-%EB%82%A8%EC%9E%90%EC%82%AC%EB%9E%8C%EC%9D%98-%EB%B0%98%EC%9D%91%EC%9D%B4-34-%EC%98%81%ED%98%B8-%EB%B0%98%EC%9D%91%EC%9E%84-zw57azja",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EB%85%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B1%B8%EB%9F%AC%EB%9D%BC-%E3%85%8B%E3%85%8B-%EA%B7%B8%EA%B1%B8-%EB%98%90-%ED%9E%98%EB%93%A4%EC%96%B4%EC%84%9C-%ED%96%88%EB%8B%A4%EA%B3%A0-wuspskjm",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%EB%8C%80%EC%B2%A9%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%9C-%EC%9D%B4%EC%9C%A0-d6t70hwi",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EB%8F%84-%EB%AC%B8%EC%8B%A0-%EB%82%98%EB%A6%84%EC%9E%84-tdno6fqw",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EB%95%8C%EB%AC%B8%EC%97%90-%EC%B7%A8%EC%A7%81%EB%AA%BB%ED%95%A0%EA%B1%B0%EB%9E%80-%ED%8E%B8%EA%B2%AC%EC%9D%B4-%EA%B9%A8%EC%A7%80%EB%8A%94-%EC%84%B8%EB%8C%80-hafyredv",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%8B%AB%EC%9D%80-%EC%9C%A0%ED%98%95-bbsjjt2n",
