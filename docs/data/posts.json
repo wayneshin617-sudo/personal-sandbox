@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:31:15+00:00",
+  "updatedAt": "2026-10-23T08:32:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -417286,6 +417286,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T08:31:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80868,
+      "source": "qoo",
+      "externalId": "cmt-4384243550",
+      "title": "영철은 걍 쇼츠로 만들수도 없을 정도로 길어가지고 못퍼짐ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "이번주꺼 지금봤는데 문신이 문제가 아니고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384228003#4384243550",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T16:31:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:32:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80869,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EC%A4%91-%EC%98%88%EC%A0%84%EC%97%90-%EC%9C%A0%ED%96%89%ED%96%88%EB%8D%98%EA%B2%8C-j3tb721x",
+      "title": "여자 문신 중 예전에 유행했던게",
+      "excerpt": "힢 위에 날개 아니였나? ㅋㅋ",
+      "author": "!*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EC%A4%91-%EC%98%88%EC%A0%84%EC%97%90-%EC%9C%A0%ED%96%89%ED%96%88%EB%8D%98%EA%B2%8C-j3tb721x",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:32:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T08:32:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -417399,7 +417438,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T17:29:00+09:00"
+      "slowAt": "2026-10-23T17:32:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -419384,7 +419423,8 @@
         "6614970",
         "6614972",
         "6614977",
-        "6614978"
+        "6614978",
+        "6614984"
       ]
     },
     "blind": {
