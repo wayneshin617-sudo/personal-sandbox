@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:17:18+00:00",
+  "updatedAt": "2026-10-23T09:20:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -418632,6 +418632,86 @@
       "firstSeenAt": "2026-10-23T09:17:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80936,
+      "source": "blind",
+      "externalId": "cmt-458039649",
+      "title": "ㅋㅋㅋㅋ다 챙겨주는 영호씌..",
+      "excerpt": "영호 3:1 데이트때",
+      "author": "힘내는 쿼카킁카🦫",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-31-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%95%8C-tdjsodw4#458039649",
+      "postedLabel": "37분",
+      "postedAt": "2026-10-23T17:43:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80937,
+      "source": "blind",
+      "externalId": "cmt-458040097",
+      "title": "근데 영호가 너무 미리미리 일어니서 적극적으로 가져오는 고 같긴 햇어. 대화 흐름이 중요하지 그런거 그렇게 계속 다녀올 일이 솔직히 뭐가 잇어… 다른 사람이 할려고 해도 기회 잘 안 생김. 적당히 해야지..",
+      "excerpt": "영호 3:1 데이트때",
+      "author": "k*****",
+      "company": "삼일회계법인",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-31-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%95%8C-tdjsodw4#458040097",
+      "postedLabel": "33분",
+      "postedAt": "2026-10-23T17:47:00+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80938,
+      "source": "blind",
+      "externalId": "cmt-458043497",
+      "title": "비서였었나",
+      "excerpt": "영호 3:1 데이트때",
+      "author": "¡******",
+      "company": "국세청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-31-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%95%8C-tdjsodw4#458043497",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-23T18:18:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80939,
+      "source": "dc",
+      "externalId": "cmt-10966841",
+      "title": "한무당 사랑에 빠져버렸노 ㅋㅋㅋㅋ",
+      "excerpt": "34 남출은 1명빼고 다 별로네 소년미가 유일함",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615112&page=1#cmt_10966841",
+      "postedLabel": "10.23 18:19:08",
+      "postedAt": "2026-10-23T18:19:08+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:20:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -418745,7 +418825,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T18:17:00+09:00"
+      "slowAt": "2026-10-23T18:20:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -420772,7 +420852,8 @@
         "6615093",
         "6615100",
         "6615103",
-        "6615107"
+        "6615107",
+        "6615112"
       ]
     },
     "blind": {
