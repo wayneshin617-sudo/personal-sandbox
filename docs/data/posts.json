@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T10:23:45+00:00",
+  "updatedAt": "2026-10-23T10:24:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -421782,6 +421782,66 @@
       "firstSeenAt": "2026-10-23T10:23:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81095,
+      "source": "dc",
+      "externalId": "cmt-10966861",
+      "title": "재는 너무 가벼운느낌... 31경수가 백배나음",
+      "excerpt": "34영철이 31경수보다 존잘인거같은데",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615123&page=3#cmt_10966861",
+      "postedLabel": "10.23 18:32:07",
+      "postedAt": "2026-10-23T18:32:07+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:24:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81096,
+      "source": "dc",
+      "externalId": "cmt-10966863",
+      "title": "클럽죽돌이느낌 냥냥",
+      "excerpt": "34영철이 31경수보다 존잘인거같은데",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615123&page=3#cmt_10966863",
+      "postedLabel": "10.23 18:32:40",
+      "postedAt": "2026-10-23T18:32:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:24:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81097,
+      "source": "dc",
+      "externalId": "cmt-10966957",
+      "title": "피부색이 중요한데",
+      "excerpt": "흑녀가 피부색빼면 ㄱㅆㅅㅌㅊ라니까",
+      "author": "갈치얌ʕ••ʕ••ʔ",
+      "company": "",
+      "ip": "58.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615258&page=1#cmt_10966957",
+      "postedLabel": "10.23 19:23:24",
+      "postedAt": "2026-10-23T19:23:24+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:24:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -421895,7 +421955,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T19:21:27+09:00"
+      "slowAt": "2026-10-23T19:24:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -423944,6 +424004,7 @@
         "6615112",
         "6615114",
         "6615121",
+        "6615123",
         "6615128",
         "6615129",
         "6615136",
@@ -423970,6 +424031,7 @@
         "6615226",
         "6615229",
         "6615246",
+        "6615258",
         "6615259"
       ]
     },
