@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T04:48:53+00:00",
+  "updatedAt": "2026-10-23T04:49:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -408925,6 +408925,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T04:48:53+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80446,
+      "source": "qoo",
+      "externalId": "4384095109",
+      "title": "이번기수 근데 인기남여출 확실히 보여서 웬만하면 계속 저대로 갈거 같지 않아",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384095109",
+      "postedLabel": "13:49",
+      "postedAt": "2026-10-23T13:49:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T04:49:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80447,
+      "source": "blind",
+      "externalId": "cmt-458010114",
+      "title": "어린세대는 확실히 더 마니하긴해",
+      "excerpt": "문신 옹호글에 좋아요 수가 되게 많네",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EC%98%B9%ED%98%B8%EA%B8%80%EC%97%90-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%88%98%EA%B0%80-%EB%90%98%EA%B2%8C-%EB%A7%8E%EB%84%A4-yq31233s#458010114",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T13:49:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T04:49:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -409002,7 +409041,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T13:46:32+09:00"
+      "slowAt": "2026-10-23T13:49:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -416123,7 +416162,8 @@
         "4384045612",
         "4384064963",
         "4384076038",
-        "4384093334"
+        "4384093334",
+        "4384095109"
       ]
     },
     "keep": "v2",
