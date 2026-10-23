@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T05:18:47+00:00",
+  "updatedAt": "2026-10-23T05:20:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -409579,6 +409579,66 @@
       "firstSeenAt": "2026-10-23T05:18:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80479,
+      "source": "dc",
+      "externalId": "cmt-10966323",
+      "title": "일단 피부톤이 사기야",
+      "excerpt": "현숙은 노괴들이 좋아할수가 없어",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614466&page=1#cmt_10966323",
+      "postedLabel": "10.23 14:19:45",
+      "postedAt": "2026-10-23T14:19:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:20:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80480,
+      "source": "dc",
+      "externalId": "cmt-10966326",
+      "title": "ㅋㅋㅋ포차감성임",
+      "excerpt": "영철은 최커돼도 라방할땐 솔로일듯",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614464&page=1#cmt_10966326",
+      "postedLabel": "10.23 14:20:05",
+      "postedAt": "2026-10-23T14:20:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:20:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80481,
+      "source": "blind",
+      "externalId": "cmt-458013936",
+      "title": "누가 그런 문신을 하냐 아파 뒤지겠다 고문 아니냐 그건ㅋㅋㅋ",
+      "excerpt": "문신이 딱 한 군데 있는데 위치가 좀 충격적임",
+      "author": "k*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EB%94%B1-%ED%95%9C-%EA%B5%B0%EB%8D%B0-%EC%9E%88%EB%8A%94%EB%8D%B0-%EC%9C%84%EC%B9%98%EA%B0%80-%EC%A2%80-%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9E%84-ra64llas#458013936",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T14:20:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:20:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -411477,6 +411537,7 @@
         "6614239",
         "6614245",
         "6614252",
+        "6614253",
         "6614255",
         "6614256",
         "6614258",
@@ -411519,7 +411580,9 @@
         "6614449",
         "6614451",
         "6614452",
-        "6614454"
+        "6614454",
+        "6614464",
+        "6614466"
       ]
     },
     "blind": {
