@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T14:28:23+00:00",
+  "updatedAt": "2026-10-23T14:32:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -430290,6 +430290,66 @@
       "firstSeenAt": "2026-10-23T14:28:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81525,
+      "source": "qoo",
+      "externalId": "cmt-4384579235",
+      "title": "‘센스있는 나’에 취해있어서 모름",
+      "excerpt": "현숙 멀미 너무 심해보이는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384574773#4384579235",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T22:32:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T14:32:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81526,
+      "source": "dc",
+      "externalId": "cmt-10967274",
+      "title": "외대 글캠이었노 ㅋㅋㅋ",
+      "excerpt": "34영철 용인캠 후배",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615705&page=3#cmt_10967274",
+      "postedLabel": "10.23 22:42:16",
+      "postedAt": "2026-10-23T22:42:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T14:32:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81527,
+      "source": "blind",
+      "externalId": "cmt-458084805",
+      "title": "글킨한데 결혼할 사이면 문신 숨기진 못하지않을까?",
+      "excerpt": "결혼전에 문신 숨기는건 사기 같음",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%B0%ED%98%BC%EC%A0%84%EC%97%90-%EB%AC%B8%EC%8B%A0-%EC%88%A8%EA%B8%B0%EB%8A%94%EA%B1%B4-%EC%82%AC%EA%B8%B0-%EA%B0%99%EC%9D%8C-3rgbftxh#458084805",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T23:32:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T14:32:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -432614,6 +432674,7 @@
         "6615698",
         "6615699",
         "6615704",
+        "6615705",
         "6615713",
         "6615716",
         "6615720",
@@ -432638,7 +432699,8 @@
         "6615803",
         "6615807",
         "6615809",
-        "6615816"
+        "6615816",
+        "6615828"
       ]
     },
     "blind": {
