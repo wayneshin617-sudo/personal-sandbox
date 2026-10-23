@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T10:39:42+00:00",
+  "updatedAt": "2026-10-23T10:40:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -422613,6 +422613,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T10:39:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 81137,
+      "source": "dc",
+      "externalId": "cmt-10966992",
+      "title": "바지입엇다고 쩍벌 몇번 해부리더라 - dc App",
+      "excerpt": "혜성이누나는 우리가 원하는거 다해줌",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615297&page=1#cmt_10966992",
+      "postedLabel": "10.23 19:39:56",
+      "postedAt": "2026-10-23T19:39:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:40:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -422690,7 +422710,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T19:37:27+09:00"
+      "slowAt": "2026-10-23T19:40:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -424815,6 +424835,7 @@
         "6615281",
         "6615284",
         "6615287",
+        "6615297",
         "6615298"
       ]
     },
