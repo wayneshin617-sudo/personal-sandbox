@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:25:03+00:00",
+  "updatedAt": "2026-10-23T02:26:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -402908,6 +402908,46 @@
       "firstSeenAt": "2026-10-23T02:25:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80142,
+      "source": "blind",
+      "externalId": "cmt-457987313",
+      "title": "이레즈미는 절대 안됨",
+      "excerpt": "문신은 안한 사람들 중에서도 서로 가치관이 많이 다를거임",
+      "author": "m******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%95%88%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%A4%91%EC%97%90%EC%84%9C%EB%8F%84-%EC%84%9C%EB%A1%9C-%EA%B0%80%EC%B9%98%EA%B4%80%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B1%B0%EC%9E%84-x1dhowhq#457987313",
+      "postedLabel": "56분",
+      "postedAt": "2026-10-23T10:29:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:26:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80143,
+      "source": "blind",
+      "externalId": "cmt-457993440",
+      "title": "문신충 싫어!",
+      "excerpt": "문신?! 염오 할수도 안 할수도 있지",
+      "author": "포*******",
+      "company": "POSCO",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EC%97%BC%EC%98%A4-%ED%95%A0%EC%88%98%EB%8F%84-%EC%95%88-%ED%95%A0%EC%88%98%EB%8F%84-%EC%9E%88%EC%A7%80-zcrems38#457993440",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:25:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:26:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -403020,7 +403060,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T11:22:47+09:00"
+      "slowAt": "2026-10-23T11:25:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -404622,6 +404662,7 @@
         "6613557",
         "6613558",
         "6613559",
+        "6613564",
         "6613569",
         "6613570",
         "6613573",
@@ -404668,7 +404709,8 @@
         "6613795",
         "6613802",
         "6613803",
-        "6613804"
+        "6613804",
+        "6613809"
       ]
     },
     "blind": {
