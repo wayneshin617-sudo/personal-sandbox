@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T12:55:24+00:00",
+  "updatedAt": "2026-10-23T12:57:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -427160,6 +427160,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-23T12:55:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 81367,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EC%A4%8C%EB%A7%88%EB%93%A4%EC%9D%B8%EB%8D%B0-%EC%95%BD%EC%86%8D-%EC%9E%A1%EA%B3%A0-%EB%B3%B4%EB%8B%88%EA%B9%8C-tjfbll1p",
+      "title": "아줌마들인데 약속 잡고 보니까",
+      "excerpt": "10/31 홍대야.. (할로윈) 그래도 낮에 가면 괜찮겠지…?? 젊은이들 다 이태원 가겠지..??",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%A4%8C%EB%A7%88%EB%93%A4%EC%9D%B8%EB%8D%B0-%EC%95%BD%EC%86%8D-%EC%9E%A1%EA%B3%A0-%EB%B3%B4%EB%8B%88%EA%B9%8C-tjfbll1p",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T21:57:05+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T12:57:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81368,
+      "source": "blind",
+      "externalId": "cmt-458070984",
+      "title": "영자요...??;;",
+      "excerpt": "투표글 문신 네다섯개 있는 순자 vs 문신 없는 영자 투표",
+      "author": "g*****",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EB%84%A4%EB%8B%A4%EC%84%AF%EA%B0%9C-%EC%9E%88%EB%8A%94-%EC%88%9C%EC%9E%90-vs-%EB%AC%B8%EC%8B%A0-%EC%97%86%EB%8A%94-%EC%98%81%EC%9E%90-z84uidoo#458070984",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T21:57:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:57:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -427274,7 +427313,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T21:54:05+09:00"
+      "slowAt": "2026-10-23T21:57:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -429387,6 +429426,7 @@
         "6615337",
         "6615339",
         "6615341",
+        "6615345",
         "6615346",
         "6615357",
         "6615359",
@@ -429413,6 +429453,7 @@
         "6615436",
         "6615438",
         "6615440",
+        "6615442",
         "6615446",
         "6615448",
         "6615452",
@@ -429448,7 +429489,8 @@
         "6615593",
         "6615608",
         "6615609",
-        "6615614"
+        "6615614",
+        "6615617"
       ]
     },
     "blind": {
