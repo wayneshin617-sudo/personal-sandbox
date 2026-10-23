@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T01:15:02+00:00",
+  "updatedAt": "2026-10-23T01:17:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -399852,6 +399852,46 @@
       "firstSeenAt": "2026-10-23T01:15:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79987,
+      "source": "blind",
+      "externalId": "cmt-457985676",
+      "title": "기자인가 글 잘 쓰네",
+      "excerpt": "사회적 능지가 떨어지는 사람은 2",
+      "author": "a********",
+      "company": "한화오션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%ED%9A%8C%EC%A0%81-%EB%8A%A5%EC%A7%80%EA%B0%80-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-2-loanxwbh#457985676",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-23T10:14:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:17:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79988,
+      "source": "blind",
+      "externalId": "cmt-457985858",
+      "title": "님도 한 번 같이 일해보시길",
+      "excerpt": "영철님 오랜만에 출근하신 것 같은데",
+      "author": "l****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EC%B6%9C%EA%B7%BC%ED%95%98%EC%8B%A0-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-w4o3jhc7#457985858",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:16:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:17:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -399964,7 +400004,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T10:13:48+09:00"
+      "slowAt": "2026-10-23T10:16:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -401515,6 +401555,7 @@
         "6613351",
         "6613359",
         "6613370",
+        "6613376",
         "6613378",
         "6613383",
         "6613387",
