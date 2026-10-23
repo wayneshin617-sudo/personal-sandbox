@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:51:16+00:00",
+  "updatedAt": "2026-10-23T08:52:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -417976,6 +417976,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-23T08:51:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80903,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%A0%95%EC%88%99%EB%8F%84-%EC%97%84%EC%B2%AD-%EC%8B%9C%EB%B9%84%EC%A1%B0%EB%84%A4-nrmq1olc",
+      "title": "34기 정숙도 엄청 시비조네",
+      "excerpt": "영숙이에 묻힌게 기수빨 크다 정숙이 첨에 유쾌한 개그우먼 롤인줄 알았는데 특히 남자들한테 엄청 공격적이네",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%A0%95%EC%88%99%EB%8F%84-%EC%97%84%EC%B2%AD-%EC%8B%9C%EB%B9%84%EC%A1%B0%EB%84%A4-nrmq1olc",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:52:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T08:52:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80904,
+      "source": "blind",
+      "externalId": "cmt-458040644",
+      "title": "비건 같은 건가 ㅋㅋ 여러 등급 있는 거임? ㅋㅋ",
+      "excerpt": "문신옹호자들이 제일 꼴깝인게",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%98%B9%ED%98%B8%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%A0%9C%EC%9D%BC-%EA%BC%B4%EA%B9%9D%EC%9D%B8%EA%B2%8C-vcckz8ih#458040644",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:52:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:52:16+00:00",
       "isSeed": false,
       "kind": "reply"
     }
