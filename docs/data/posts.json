@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T11:49:46+00:00",
+  "updatedAt": "2026-10-23T11:50:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -424797,6 +424797,86 @@
       "firstSeenAt": "2026-10-23T11:49:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81247,
+      "source": "qoo",
+      "externalId": "cmt-4384428872",
+      "title": "@2 20번이 맞긴 할까 의심",
+      "excerpt": "진짜 이번기수 영철이는 러버덕이랑 비교도 안된다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384261470#4384428872",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T19:49:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:50:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81248,
+      "source": "blind",
+      "externalId": "cmt-458050798",
+      "title": "한소희에게 사과해!",
+      "excerpt": "영숙 잘 꾸미면 한소희 느낌날 거 같은데",
+      "author": "크**",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%9E%98-%EA%BE%B8%EB%AF%B8%EB%A9%B4-%ED%95%9C%EC%86%8C%ED%9D%AC-%EB%8A%90%EB%82%8C%EB%82%A0-%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-7klazz0e#458050798",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-23T19:50:23+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:50:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81249,
+      "source": "qoo",
+      "externalId": "cmt-4384429467",
+      "title": "그러니까 학원에 가야",
+      "excerpt": "요즘엔 방송댄스 취미가 많네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384414667#4384429467",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T19:50:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:50:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81250,
+      "source": "blind",
+      "externalId": "cmt-458057925",
+      "title": "ㅠㅜ",
+      "excerpt": "해그리드",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%B4%EA%B7%B8%EB%A6%AC%EB%93%9C-dcqksxz7#458057925",
+      "postedLabel": "29분",
+      "postedAt": "2026-10-23T20:21:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:50:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -427040,7 +427120,8 @@
         "6615416",
         "6615418",
         "6615420",
-        "6615423"
+        "6615423",
+        "6615427"
       ]
     },
     "blind": {
