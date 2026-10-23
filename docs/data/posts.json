@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:38:18+00:00",
+  "updatedAt": "2026-10-23T09:39:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -419584,6 +419584,46 @@
       "firstSeenAt": "2026-10-23T09:38:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80984,
+      "source": "blind",
+      "externalId": "cmt-458045694",
+      "title": "그거 하나가 아니야, 아주 숨 쉬듯이 저렴한 말이 나옴.",
+      "excerpt": "노리개",
+      "author": "j*********",
+      "company": "티몬",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%85%B8%EB%A6%AC%EA%B0%9C-ebx82hzc#458045694",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-23T18:38:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:39:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80985,
+      "source": "blind",
+      "externalId": "cmt-458045698",
+      "title": "듣고 깜짝놀람ㅋㅋ",
+      "excerpt": "노리개",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%85%B8%EB%A6%AC%EA%B0%9C-ebx82hzc#458045698",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T18:39:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:39:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -419661,7 +419701,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T18:36:00+09:00"
+      "slowAt": "2026-10-23T18:39:00+09:00"
     },
     "ig": {
       "doneIds": [
