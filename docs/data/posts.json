@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T15:40:42+00:00",
+  "updatedAt": "2026-10-23T15:46:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -432785,6 +432785,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T15:40:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 81651,
+      "source": "qoo",
+      "externalId": "cmt-4384643239",
+      "title": "외모가 인조미? 덜하고 호감가는 외모임",
+      "excerpt": "이번기수 순자 인기있는 이유 궁금해",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384501643#4384643239",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T23:46:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T15:46:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -432862,7 +432882,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-24T00:43:23+09:00"
+      "slowAt": "2026-10-24T00:46:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -435175,7 +435195,9 @@
         "6615947",
         "6615950",
         "6615952",
-        "6615954"
+        "6615954",
+        "6615959",
+        "6615960"
       ]
     },
     "blind": {
