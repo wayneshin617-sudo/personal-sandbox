@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T03:23:28+00:00",
+  "updatedAt": "2026-10-23T03:24:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -406171,6 +406171,46 @@
       "firstSeenAt": "2026-10-23T03:23:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80307,
+      "source": "blind",
+      "externalId": "cmt-457999471",
+      "title": "영숙 그 정도 생각 못함",
+      "excerpt": "영숙이 문신 폭로 한 이유가 뭘까",
+      "author": "i*********",
+      "company": "삼성SDS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EB%AC%B8%EC%8B%A0-%ED%8F%AD%EB%A1%9C-%ED%95%9C-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%98%EA%B9%8C-8c42m2q8#457999471",
+      "postedLabel": "3분",
+      "postedAt": "2026-10-23T12:21:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T03:24:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80308,
+      "source": "blind",
+      "externalId": "cmt-457999807",
+      "title": "그걸 왜 니가말하냐고 나무라면 왜 내가 없는 얘기 한거냐고 역성낼듯",
+      "excerpt": "영숙이 문신 폭로 한 이유가 뭘까",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EB%AC%B8%EC%8B%A0-%ED%8F%AD%EB%A1%9C-%ED%95%9C-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%98%EA%B9%8C-8c42m2q8#457999807",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T12:24:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T03:24:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -406247,7 +406287,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T12:21:11+09:00"
+      "slowAt": "2026-10-23T12:24:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -407985,7 +408025,8 @@
         "6614013",
         "6614016",
         "6614021",
-        "6614030"
+        "6614030",
+        "6614032"
       ]
     },
     "blind": {
