@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T04:18:48+00:00",
+  "updatedAt": "2026-10-23T04:21:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -408336,6 +408336,25 @@
       "firstSeenAt": "2026-10-23T04:18:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80416,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%8B%9C%EA%B3%84-%EC%9E%98%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-%EC%9D%B4%EA%B1%B0-%EC%8B%9C%EA%B3%84-%EB%AD%90%EA%B0%99%EC%95%84-k4emky0z",
+      "title": "시계 잘아는사람 이거 시계 뭐같아?",
+      "excerpt": "갤럭시워치인가",
+      "author": "i********",
+      "company": "시네오스헬스코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%9C%EA%B3%84-%EC%9E%98%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-%EC%9D%B4%EA%B1%B0-%EC%8B%9C%EA%B3%84-%EB%AD%90%EA%B0%99%EC%95%84-k4emky0z",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T13:21:32+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T04:21:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -408449,7 +408468,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T13:18:31+09:00"
+      "slowAt": "2026-10-23T13:21:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -410167,6 +410186,7 @@
         "6614021",
         "6614023",
         "6614030",
+        "6614031",
         "6614032",
         "6614037",
         "6614038",
@@ -410213,7 +410233,8 @@
         "6614221",
         "6614224",
         "6614228",
-        "6614245"
+        "6614245",
+        "6614252"
       ]
     },
     "blind": {
