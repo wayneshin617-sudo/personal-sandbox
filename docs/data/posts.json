@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:05:17+00:00",
+  "updatedAt": "2026-10-23T08:06:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -416712,6 +416712,26 @@
       "firstSeenAt": "2026-10-23T08:05:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80839,
+      "source": "blind",
+      "externalId": "cmt-458035077",
+      "title": "어쩌길래?",
+      "excerpt": "나 멀미 안하는데 영철이 말하는거 들으니까",
+      "author": "최******",
+      "company": "한국중소벤처기업유통원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EB%A9%80%EB%AF%B8-%EC%95%88%ED%95%98%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94%EA%B1%B0-%EB%93%A4%EC%9C%BC%EB%8B%88%EA%B9%8C-s55n8iyx#458035077",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:05:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:06:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -416789,7 +416809,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T17:03:00+09:00"
+      "slowAt": "2026-10-23T17:05:59+09:00"
     },
     "ig": {
       "doneIds": [
@@ -418702,6 +418722,7 @@
         "6614576",
         "6614578",
         "6614579",
+        "6614582",
         "6614585",
         "6614590",
         "6614594",
@@ -418790,7 +418811,9 @@
         "6614887",
         "6614895",
         "6614896",
-        "6614907"
+        "6614907",
+        "6614908",
+        "6614909"
       ]
     },
     "blind": {
