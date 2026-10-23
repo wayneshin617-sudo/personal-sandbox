@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T05:59:47+00:00",
+  "updatedAt": "2026-10-23T06:00:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -411480,6 +411480,45 @@
       "firstSeenAt": "2026-10-23T05:59:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80575,
+      "source": "blind",
+      "externalId": "cmt-458016454",
+      "title": "다음주 수요일까지ㅋㅋ",
+      "excerpt": "문신얘기 언제까지해",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%96%98%EA%B8%B0-%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80%ED%95%B4-a2ee7osj#458016454",
+      "postedLabel": "22분",
+      "postedAt": "2026-10-23T14:38:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T06:00:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80576,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EB%B0%A9%EC%86%A1%EB%81%9D%EB%82%98%EA%B5%AC-a6y7oezh",
+      "title": "현숙은 방송끝나구",
+      "excerpt": "전문직 남자 골라가며 만나던가 인플할듯ㅋㅋㅋ 지방 공무원 안만날거같아 전혀 ㅠㅋㅋ 뭘바라고 저렇게 노력하는걸까 객관화 안되시네",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EB%B0%A9%EC%86%A1%EB%81%9D%EB%82%98%EA%B5%AC-a6y7oezh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T15:00:32+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T06:00:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -411593,7 +411632,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T14:57:32+09:00"
+      "slowAt": "2026-10-23T15:00:32+09:00"
     },
     "dc": {
       "doneIds": [
