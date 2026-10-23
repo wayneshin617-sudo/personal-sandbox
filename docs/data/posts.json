@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T11:45:45+00:00",
+  "updatedAt": "2026-10-23T11:48:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -424738,6 +424738,25 @@
       "firstSeenAt": "2026-10-23T11:45:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81244,
+      "source": "dc",
+      "externalId": "6615430",
+      "title": "문신하고도 나온 이유?",
+      "excerpt": "",
+      "author": "줴줴이야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615430&page=1",
+      "postedLabel": "20:48",
+      "postedAt": "2026-10-23T20:48:00+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:48:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -424852,7 +424871,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T20:45:28+09:00"
+      "slowAt": "2026-10-23T20:48:28+09:00"
     },
     "dc": {
       "doneIds": [
