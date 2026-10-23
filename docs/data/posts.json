@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:06:01+00:00",
+  "updatedAt": "2026-10-23T02:07:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -402201,6 +402201,45 @@
       "firstSeenAt": "2026-10-23T02:06:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80106,
+      "source": "blind",
+      "externalId": "cmt-457990706",
+      "title": "그러게.. 영숙이는 순자한테 사과 제대로 하고 본인 언행좀 개선해야 할듯",
+      "excerpt": "문신으로 다른 부분들까지 단정지어 글쓰지 말아주세요",
+      "author": "m*********",
+      "company": "DB손해보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%B6%80%EB%B6%84%EB%93%A4%EA%B9%8C%EC%A7%80-%EB%8B%A8%EC%A0%95%EC%A7%80%EC%96%B4-%EA%B8%80%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%A3%BC%EC%84%B8%EC%9A%94-c01dr2ii#457990706",
+      "postedLabel": "6분",
+      "postedAt": "2026-10-23T11:00:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:07:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80107,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%EB%8C%80%ED%95%B4-%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80%EB%8D%B0-g1et018z",
+      "title": "문신에 대해 말이 많은데",
+      "excerpt": "저도 한마디 얹자면 인생의 글귀, 안좋은 일 잊지않기 위해 등등 이유야 그럴싸하게 대지만 그냥 겉멋듦 그자체라고 보는편이네요ㅋㅋ",
+      "author": "I*********",
+      "company": "ex-삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%EB%8C%80%ED%95%B4-%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80%EB%8D%B0-g1et018z",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:06:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T02:07:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -403896,6 +403935,7 @@
         "6613487",
         "6613490",
         "6613491",
+        "6613493",
         "6613505",
         "6613518",
         "6613536",
@@ -403933,7 +403973,8 @@
         "6613707",
         "6613711",
         "6613716",
-        "6613719"
+        "6613719",
+        "6613734"
       ]
     },
     "blind": {
@@ -404016,6 +404057,7 @@
         "/kr/post/%EA%B4%80%EC%83%81-%EC%9E%98-%EB%B3%B4%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%9E%88%EC%96%B4-2dk2orbp",
         "/kr/post/%EA%B4%80%EC%8B%AC%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C%ED%95%9C%ED%85%8C%EB%A7%8C-%EC%9E%98%ED%95%B4%EC%A3%BC%EA%B8%B0-q740b01g",
         "/kr/post/%EA%B4%80%EC%A0%84-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%98%81%EC%9E%90-%ED%91%9C%EC%A0%95-7njtwzq3",
+        "/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EB%AA%A8%EC%86%94-%EC%95%84%EB%8B%88%EC%95%BC-tccrbkj2",
         "/kr/post/%EA%B4%91%EC%88%98%EB%9E%91-%EC%98%81%EC%9E%90%EB%8A%94-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80%EA%B0%80-%EC%9E%98-%EC%95%88%EB%90%98%EB%84%A4-sptl3kqs",
         "/kr/post/%EA%B4%91%EC%88%98%EC%95%BC-%EC%A7%84%EC%A7%9C-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80-%EC%97%86%EB%83%90-pqdawag2",
         "/kr/post/%EA%B4%91%EC%88%98%ED%96%84%EC%9D%80-%EA%B9%80%ED%98%84%EC%B2%A0-%EB%8A%90%EB%82%8C%EB%82%98%EB%84%A4-q3svj1x3",
