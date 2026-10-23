@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T05:03:47+00:00",
+  "updatedAt": "2026-10-23T05:04:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -409241,6 +409241,26 @@
       "firstSeenAt": "2026-10-23T05:03:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80462,
+      "source": "dc",
+      "externalId": "cmt-10966283",
+      "title": "끼릭기리임.",
+      "excerpt": "보험영수는 진짜 아닌데..",
+      "author": "dd",
+      "company": "",
+      "ip": "27.1",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614405&page=1#cmt_10966283",
+      "postedLabel": "10.23 14:04:32",
+      "postedAt": "2026-10-23T14:04:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:04:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -409318,7 +409338,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T14:01:32+09:00"
+      "slowAt": "2026-10-23T14:04:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -411165,7 +411185,9 @@
         "6614387",
         "6614401",
         "6614404",
-        "6614408"
+        "6614405",
+        "6614408",
+        "6614410"
       ]
     },
     "blind": {
