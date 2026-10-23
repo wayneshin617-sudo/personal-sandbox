@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T23:44:24+00:00",
+  "updatedAt": "2026-10-23T23:48:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -435649,6 +435649,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T23:44:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 81796,
+      "source": "dc",
+      "externalId": "cmt-10967729",
+      "title": "3인 1실임?? 저 작은 방에????? - dc App",
+      "excerpt": "여자 숙소 룸메이트 이거네",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6616267&page=1#cmt_10967729",
+      "postedLabel": "10.24 08:17:19",
+      "postedAt": "2026-10-24T08:17:19+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T23:48:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81797,
+      "source": "blind",
+      "externalId": "cmt-458122354",
+      "title": "난가",
+      "excerpt": "영철 전형적인 러브바밍아냐??",
+      "author": "!*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8-%EB%9F%AC%EB%B8%8C%EB%B0%94%EB%B0%8D%EC%95%84%EB%83%90-ze5evaib#458122354",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T08:48:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T23:48:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -438138,6 +438178,7 @@
         "6616244",
         "6616253",
         "6616258",
+        "6616267",
         "6616278",
         "6616288",
         "6616292",
