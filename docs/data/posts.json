@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T12:10:45+00:00",
+  "updatedAt": "2026-10-23T12:11:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -425330,6 +425330,65 @@
       "firstSeenAt": "2026-10-23T12:10:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81274,
+      "source": "dc",
+      "externalId": "cmt-10967148",
+      "title": "영수따위가..그럴입장이되냐",
+      "excerpt": "영수가 순자 문신 용납할까???",
+      "author": "야옹",
+      "company": "",
+      "ip": "222.112",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615478&page=1#cmt_10967148",
+      "postedLabel": "10.23 21:11:21",
+      "postedAt": "2026-10-23T21:11:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:11:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81275,
+      "source": "blind",
+      "externalId": "/kr/post/30%EB%8C%80%EC%9D%B4%EC%83%81-om1buhr1",
+      "title": "30대이상",
+      "excerpt": "어떻ㄱㅔ 연애해? 소개도 한계가 있고 개인루틴도 있고ㅜㅜ 알려주요",
+      "author": "l********",
+      "company": "인라이플",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EB%8C%80%EC%9D%B4%EC%83%81-om1buhr1",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T21:11:28+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T12:11:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81276,
+      "source": "blind",
+      "externalId": "cmt-458064191",
+      "title": "위에서 병하고 비교했는데 그 논리로 소문내는게 잘못이라는건 알겠음 근데 병은 자기가 걸리고 싶어서 걸린게 아니지만 문신은 스스로의 선택이잖아 문신한 사람들은 대부분 문신을 보여주기 위해 멋부리기 위해 했다는 인식인데 그걸 또 밝혀줬다고 욕을 먹으니까 살짝 아이러니한 거임 영숙 입장에서는 난 문신 쿨하고 멋있으니까 당당하게 여러 개하고 사람들한테도 보여주고 다니는데 문신한 사람이면 자기랑 비슷한 가치관인줄 알았겠지",
+      "excerpt": "문신 옹호하는 애들 내로남불 웃기네 ㅋ",
+      "author": "i*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EC%98%B9%ED%98%B8%ED%95%98%EB%8A%94-%EC%95%A0%EB%93%A4-%EB%82%B4%EB%A1%9C%EB%82%A8%EB%B6%88-%EC%9B%83%EA%B8%B0%EB%84%A4-%E3%85%8B-pd4sxmwc#458064191",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T21:11:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:11:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -427588,7 +427647,8 @@
         "6615460",
         "6615462",
         "6615468",
-        "6615472"
+        "6615472",
+        "6615478"
       ]
     },
     "blind": {
