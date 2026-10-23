@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:25:17+00:00",
+  "updatedAt": "2026-10-23T08:29:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -417168,6 +417168,25 @@
       "firstSeenAt": "2026-10-23T08:25:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80862,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EA%B8%B0%EC%8E%88-%EC%97%AC%EC%9E%90-%ED%8A%B9%EC%A7%91%ED%95%98%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4-q0plfvf4",
+      "title": "나솔 기쎈 여자 특집하면 좋겠다",
+      "excerpt": "34영숙 31옥순 16영숙 24옥순 또 누구있지",
+      "author": "j*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EA%B8%B0%EC%8E%88-%EC%97%AC%EC%9E%90-%ED%8A%B9%EC%A7%91%ED%95%98%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4-q0plfvf4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:29:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T08:29:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -417281,7 +417300,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T17:26:00+09:00"
+      "slowAt": "2026-10-23T17:29:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -419230,6 +419249,7 @@
         "6614796",
         "6614797",
         "6614800",
+        "6614801",
         "6614807",
         "6614812",
         "6614813",
@@ -419263,7 +419283,9 @@
         "6614954",
         "6614961",
         "6614970",
-        "6614972"
+        "6614972",
+        "6614977",
+        "6614978"
       ]
     },
     "blind": {
