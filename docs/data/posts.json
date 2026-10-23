@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T04:38:48+00:00",
+  "updatedAt": "2026-10-23T04:39:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -408770,6 +408770,46 @@
       "firstSeenAt": "2026-10-23T04:38:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80438,
+      "source": "dc",
+      "externalId": "cmt-10966058",
+      "title": "사짜들이 즐기는 화법이긴해 - dc App",
+      "excerpt": "2억벌었다 = 진짜 개 어이없는 화법이네 ㅋㅋㅋ",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614072&page=4#cmt_10966058",
+      "postedLabel": "10.23 12:39:28",
+      "postedAt": "2026-10-23T12:39:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T04:39:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80439,
+      "source": "blind",
+      "externalId": "cmt-458007678",
+      "title": "둘 이름헷갈린거아닐까 둘이 인기비슷한것도맞고 ㅋㅋ",
+      "excerpt": "인간적으로 현숙이 덩치가 커보이냐 ㅋㅋㅋ",
+      "author": "D****",
+      "company": "아이콘클리니컬리서치코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B8%EA%B0%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%88%99%EC%9D%B4-%EB%8D%A9%EC%B9%98%EA%B0%80-%EC%BB%A4%EB%B3%B4%EC%9D%B4%EB%83%90-%E3%85%8B%E3%85%8B%E3%85%8B-upfc4qgm#458007678",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-23T13:28:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T04:39:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -408883,7 +408923,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T13:36:32+09:00"
+      "slowAt": "2026-10-23T13:39:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -410620,6 +410660,7 @@
         "6614066",
         "6614068",
         "6614069",
+        "6614072",
         "6614073",
         "6614075",
         "6614077",
@@ -410665,7 +410706,9 @@
         "6614286",
         "6614290",
         "6614293",
-        "6614305"
+        "6614305",
+        "6614316",
+        "6614319"
       ]
     },
     "blind": {
