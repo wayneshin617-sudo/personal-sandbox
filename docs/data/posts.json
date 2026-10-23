@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:29:16+00:00",
+  "updatedAt": "2026-10-23T07:31:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -415423,6 +415423,66 @@
       "firstSeenAt": "2026-10-23T07:29:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80774,
+      "source": "qoo",
+      "externalId": "cmt-4384188287",
+      "title": "엥 말도안돼 영상 봄? 영수가 오늘이 21일이니까 이렇게 말함 엊그제 찍고 어제 올린거임",
+      "excerpt": "영숙 순자 문신 아웃팅 여론 잠재울려고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384159138#4384188287",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T15:31:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:31:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80775,
+      "source": "dc",
+      "externalId": "cmt-10966495",
+      "title": "밑에 뭐냐 남자들 얼굴 다 박살났네",
+      "excerpt": "연예인아닌 이상 문신하지 마라",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614648&page=3#cmt_10966495",
+      "postedLabel": "10.23 15:39:00",
+      "postedAt": "2026-10-23T15:39:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:31:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80776,
+      "source": "blind",
+      "externalId": "cmt-458030419",
+      "title": "자기 성격 솔직하다는데 전혀 솔직하지 않음 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영숙 성격 ㅈㄴ 음흉하네",
+      "author": "n*****",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%84%B1%EA%B2%A9-%E3%85%88%E3%84%B4-%EC%9D%8C%ED%9D%89%ED%95%98%EB%84%A4-hqjkkckq#458030419",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:31:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:31:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -417430,6 +417490,7 @@
         "6614642",
         "6614646",
         "6614647",
+        "6614648",
         "6614650",
         "6614651",
         "6614656",
@@ -417469,7 +417530,8 @@
         "6614788",
         "6614791",
         "6614796",
-        "6614797"
+        "6614797",
+        "6614807"
       ]
     },
     "blind": {
