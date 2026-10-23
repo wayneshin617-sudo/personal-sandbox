@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T05:43:47+00:00",
+  "updatedAt": "2026-10-23T05:44:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -410756,6 +410756,63 @@
       "firstSeenAt": "2026-10-23T05:43:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80538,
+      "source": "dc",
+      "externalId": "6614518",
+      "title": "수서까치마을 오프라인 재건축 설명회 후기와 개인적인 단상",
+      "excerpt": "",
+      "author": "주맨",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614518&page=1",
+      "postedLabel": "14:44",
+      "postedAt": "2026-10-23T14:44:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:44:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80539,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EC%A0%9C%EB%B6%80%ED%84%B0-%EB%82%98%EC%86%94%EA%B0%A4%EC%97%90%EC%84%9C%EB%8A%94-%EC%8B%AC%EC%8B%A0%EB%AF%B8%EC%95%BD%EB%8C%80%EC%8B%A0-mtmhrmsk",
+      "title": "이제부터 나솔갤에서는 심신미약대신",
+      "excerpt": "심신문신이란말을 사용하도록 실시!",
+      "author": "W*****",
+      "company": "NH투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EC%A0%9C%EB%B6%80%ED%84%B0-%EB%82%98%EC%86%94%EA%B0%A4%EC%97%90%EC%84%9C%EB%8A%94-%EC%8B%AC%EC%8B%A0%EB%AF%B8%EC%95%BD%EB%8C%80%EC%8B%A0-mtmhrmsk",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T14:44:31+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T05:44:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80540,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%ED%98%84%EC%88%99%EC%A0%95%EB%8F%84%EB%A9%B4-%EB%82%98%EC%9D%B4-%EB%A7%8E%EC%95%84%EB%8F%84-5isjlfhp",
+      "title": "나솔 현숙정도면 나이 많아도",
+      "excerpt": "괜찮아? 한 36정도..? 나솔 34기 현숙이랑 스펙도 비슷하고 외모도 비슷하게 예쁘다면?",
+      "author": "뼝아리뺙",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%ED%98%84%EC%88%99%EC%A0%95%EB%8F%84%EB%A9%B4-%EB%82%98%EC%9D%B4-%EB%A7%8E%EC%95%84%EB%8F%84-5isjlfhp",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T14:44:32+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T05:44:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -412713,7 +412770,9 @@
         "6614500",
         "6614502",
         "6614506",
-        "6614510"
+        "6614509",
+        "6614510",
+        "6614512"
       ]
     },
     "blind": {
