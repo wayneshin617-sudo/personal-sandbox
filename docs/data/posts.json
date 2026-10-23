@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:05:03+00:00",
+  "updatedAt": "2026-10-23T02:06:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -402143,6 +402143,64 @@
       "firstSeenAt": "2026-10-23T02:05:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80103,
+      "source": "qoo",
+      "externalId": "4383955328",
+      "title": "영수영숙 조합 뭐냐 왜 덬들이 얘기했는지 알겠어",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4383955328",
+      "postedLabel": "11:05",
+      "postedAt": "2026-10-23T11:05:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:06:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80104,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EB%AA%A8%EC%86%94-%EC%95%84%EB%8B%88%EC%95%BC-tccrbkj2",
+      "title": "광수는 모솔 아니야?",
+      "excerpt": "여자는 만나본건가 처음 보자마자 모솔 같아 보였는데 생김새가 수요 없어보여 별로",
+      "author": "띠***",
+      "company": "하나손해보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EB%AA%A8%EC%86%94-%EC%95%84%EB%8B%88%EC%95%BC-tccrbkj2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:05:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T02:06:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80105,
+      "source": "blind",
+      "externalId": "cmt-457991226",
+      "title": "그러게 근속년수는 거의 비슷할텐데 순자는 동료들 쉴드 많이 봄.. 인생 잘 살아야돼",
+      "excerpt": "문신으로 다른 부분들까지 단정지어 글쓰지 말아주세요",
+      "author": "i*********",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%B6%80%EB%B6%84%EB%93%A4%EA%B9%8C%EC%A7%80-%EB%8B%A8%EC%A0%95%EC%A7%80%EC%96%B4-%EA%B8%80%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%A3%BC%EC%84%B8%EC%9A%94-c01dr2ii#457991226",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:05:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:06:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -402219,7 +402277,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T11:02:47+09:00"
+      "slowAt": "2026-10-23T11:05:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -403837,6 +403895,7 @@
         "6613484",
         "6613487",
         "6613490",
+        "6613491",
         "6613505",
         "6613518",
         "6613536",
@@ -409083,7 +409142,8 @@
         "4383774675",
         "4383831488",
         "4383937022",
-        "4383943337"
+        "4383943337",
+        "4383955328"
       ]
     },
     "keep": "v2",
