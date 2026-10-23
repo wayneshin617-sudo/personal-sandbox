@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:22:17+00:00",
+  "updatedAt": "2026-10-23T08:23:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -417089,6 +417089,45 @@
       "firstSeenAt": "2026-10-23T08:22:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80858,
+      "source": "qoo",
+      "externalId": "4384296512",
+      "title": "랜덤데이트로",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384296512",
+      "postedLabel": "17:22",
+      "postedAt": "2026-10-23T17:22:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-23T08:23:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80859,
+      "source": "blind",
+      "externalId": "cmt-458037177",
+      "title": "그니까 ㅋㅋㅋ 물어볼순 있는데 조용히 묻거나 메신져로 묻거나 했음 진심으로 잘 하고 싶구나 했을텐데 사람들 앞에서 거들먹거려서 더 역효과 ㅠㅠ",
+      "excerpt": "영철 치킨집 찾는다고 홍천 지인 찾을때",
+      "author": "i******** 작성자",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%B9%98%ED%82%A8%EC%A7%91-%EC%B0%BE%EB%8A%94%EB%8B%A4%EA%B3%A0-%ED%99%8D%EC%B2%9C-%EC%A7%80%EC%9D%B8-%EC%B0%BE%EC%9D%84%EB%95%8C-gypstwpl#458037177",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T17:23:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:23:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -417202,7 +417241,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T17:20:00+09:00"
+      "slowAt": "2026-10-23T17:23:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -419180,6 +419219,7 @@
         "6614947",
         "6614952",
         "6614953",
+        "6614954",
         "6614961"
       ]
     },
@@ -424547,7 +424587,8 @@
         "4384104827",
         "4384159138",
         "4384228003",
-        "4384261470"
+        "4384261470",
+        "4384296512"
       ]
     },
     "keep": "v2",
