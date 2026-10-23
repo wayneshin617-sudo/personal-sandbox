@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:02:17+00:00",
+  "updatedAt": "2026-10-23T07:03:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -413910,6 +413910,44 @@
       "firstSeenAt": "2026-10-23T07:02:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80698,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%84%ED%98%B8%EC%82%AC%EB%9D%BC%EB%8A%94-%EC%A7%81%EC%97%85-vjvtkq1r",
+      "title": "간호사라는 직업",
+      "excerpt": "조카가 서울 상위권 간호대학 다님.. 고등학교때 전교1,2등함. 주변에서 조금 욕심부리면 지방의대도 가능하다고 했는데.. 집안 사정이나 여건 고려해서 전액 장학금 받고 확실하고 빠른 길을 택함. 일 안하고, 블라에 글쓰고 노닥거리는 공무원, 직장인들보다 더 열심히 사는 직업임. 궂은 일을 한다고 낮춰보지 말자.",
+      "author": "지*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%84%ED%98%B8%EC%82%AC%EB%9D%BC%EB%8A%94-%EC%A7%81%EC%97%85-vjvtkq1r",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:02:58+09:00",
+      "views": 17,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T07:03:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80699,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0-%EB%85%BC%EB%9E%80-%EC%A2%85%EA%B2%B0-%ED%8C%A9%ED%8A%B8-szew6onq",
+      "title": "문신 논란 종결 팩트",
+      "excerpt": "34 영숙 문신 여러개 스스로 선택한 문신이니 증명하는것도 본인몫",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EB%85%BC%EB%9E%80-%EC%A2%85%EA%B2%B0-%ED%8C%A9%ED%8A%B8-szew6onq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:02:59+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T07:03:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -413987,7 +414025,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T15:59:59+09:00"
+      "slowAt": "2026-10-23T16:02:59+09:00"
     },
     "ig": {
       "doneIds": [
@@ -415930,7 +415968,8 @@
         "6614709",
         "6614715",
         "6614718",
-        "6614736"
+        "6614736",
+        "6614741"
       ]
     },
     "blind": {
