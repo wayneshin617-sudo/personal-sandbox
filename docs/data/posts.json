@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T01:00:10+00:00",
+  "updatedAt": "2026-10-23T01:01:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -398615,6 +398615,46 @@
       "firstSeenAt": "2026-10-23T01:00:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 79925,
+      "source": "qoo",
+      "externalId": "cmt-4383865167",
+      "title": "노무사 엄청 나대는 스타일이던데 진심?",
+      "excerpt": "그나마 저기선 성악가랑 노무사가 낫긴해",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4383728066#4383865167",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T09:00:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:01:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79926,
+      "source": "blind",
+      "externalId": "cmt-457984158",
+      "title": "지우면 되지 ~",
+      "excerpt": "문신으로 다른 부분들까지 단정지어 글쓰지 말아주세요",
+      "author": "j*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%B6%80%EB%B6%84%EB%93%A4%EA%B9%8C%EC%A7%80-%EB%8B%A8%EC%A0%95%EC%A7%80%EC%96%B4-%EA%B8%80%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%A3%BC%EC%84%B8%EC%9A%94-c01dr2ii#457984158",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:00:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:01:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -400285,7 +400325,8 @@
         "6613429",
         "6613434",
         "6613443",
-        "6613464"
+        "6613464",
+        "6613476"
       ]
     },
     "blind": {
