@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T12:16:45+00:00",
+  "updatedAt": "2026-10-23T12:18:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -425608,6 +425608,45 @@
       "firstSeenAt": "2026-10-23T12:16:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81288,
+      "source": "qoo",
+      "externalId": "cmt-4384457240",
+      "title": "난 이 조합이 너무 맛도리다...",
+      "excerpt": "영수 영숙 미방분 올라왔어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384419017#4384457240",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T20:18:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:18:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81289,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-%EB%AA%85%EC%98%88%ED%9B%BC%EC%86%90%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%86%8C-%EB%AA%BB%ED%95%98%EB%82%98-pwa30uc3",
+      "title": "영숙 명예훼손으로 고소 못하나",
+      "excerpt": "사회에 저런 식으로 질투 때문에 남의 평판 망치는 못된 여자들 많은데 명예훼손으로 고소 못해? 심보 못되어먹어서 남 인생 망치려드는 애들은 금융치료라도 멕이고 싶음 순자 문신 이슈는 별개로",
+      "author": "k*******",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%AA%85%EC%98%88%ED%9B%BC%EC%86%90%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%86%8C-%EB%AA%BB%ED%95%98%EB%82%98-pwa30uc3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T21:18:28+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T12:18:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -425722,7 +425761,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T21:15:28+09:00"
+      "slowAt": "2026-10-23T21:18:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -427875,7 +427914,9 @@
         "6615486",
         "6615488",
         "6615493",
-        "6615495"
+        "6615495",
+        "6615496",
+        "6615497"
       ]
     },
     "blind": {
