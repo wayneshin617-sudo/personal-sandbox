@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:00:03+00:00",
+  "updatedAt": "2026-10-23T02:03:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -402084,6 +402084,25 @@
       "firstSeenAt": "2026-10-23T02:00:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80100,
+      "source": "dc",
+      "externalId": "6613722",
+      "title": "망도햄 안면 근육 왜일케 쓰는거야?",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613722&page=1",
+      "postedLabel": "11:02",
+      "postedAt": "2026-10-23T11:02:33+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:03:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -402160,7 +402179,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T10:59:47+09:00"
+      "slowAt": "2026-10-23T11:02:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -403811,7 +403830,8 @@
         "6613696",
         "6613697",
         "6613707",
-        "6613711"
+        "6613711",
+        "6613716"
       ]
     },
     "blind": {
