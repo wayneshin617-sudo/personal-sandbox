@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T09:32:18+00:00",
+  "updatedAt": "2026-10-23T09:33:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -419327,6 +419327,46 @@
       "firstSeenAt": "2026-10-23T09:32:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80971,
+      "source": "blind",
+      "externalId": "cmt-458045000",
+      "title": "대댓글보니깐 문신충 특유의 멘헤라 성격나왔네",
+      "excerpt": "나 문신 논란 보고 놀라는 중....",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EB%AC%B8%EC%8B%A0-%EB%85%BC%EB%9E%80-%EB%B3%B4%EA%B3%A0-%EB%86%80%EB%9D%BC%EB%8A%94-%EC%A4%91-hg6d1xzl#458045000",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-23T18:31:59+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:33:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80972,
+      "source": "dc",
+      "externalId": "cmt-10966862",
+      "title": "저렇게해도 완전히는 안지워지네 ㅋㅋㅋ",
+      "excerpt": "문신제거 후기 ㄷㄷㄷ",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615136&page=1#cmt_10966862",
+      "postedLabel": "10.23 18:32:37",
+      "postedAt": "2026-10-23T18:32:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T09:33:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -419404,7 +419444,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T18:30:00+09:00"
+      "slowAt": "2026-10-23T18:33:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -421447,6 +421487,7 @@
         "6614986",
         "6614988",
         "6614989",
+        "6614990",
         "6614992",
         "6614994",
         "6614998",
@@ -421477,7 +421518,8 @@
         "6615114",
         "6615121",
         "6615128",
-        "6615129"
+        "6615129",
+        "6615136"
       ]
     },
     "blind": {
