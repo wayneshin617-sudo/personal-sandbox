@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T15:08:24+00:00",
+  "updatedAt": "2026-10-23T15:09:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -431857,6 +431857,25 @@
       "firstSeenAt": "2026-10-23T15:08:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81604,
+      "source": "dc",
+      "externalId": "6615903",
+      "title": "얘 지금 라이브중인데",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615903&page=1",
+      "postedLabel": "00:08",
+      "postedAt": "2026-10-24T00:08:37+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T15:09:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -431971,7 +431990,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T00:06:05+09:00"
+      "slowAt": "2026-10-24T00:09:05+09:00"
     },
     "dc": {
       "doneIds": [
