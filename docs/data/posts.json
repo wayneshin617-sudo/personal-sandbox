@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T05:34:47+00:00",
+  "updatedAt": "2026-10-23T05:35:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -410178,6 +410178,26 @@
       "firstSeenAt": "2026-10-23T05:34:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80509,
+      "source": "dc",
+      "externalId": "cmt-10966367",
+      "title": "피곤한스타일",
+      "excerpt": "문신하나에 이렇게 말한 것들이 이제 부정적으로 보이네ㅋㅋㅋㅋㅋ",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614495&page=1#cmt_10966367",
+      "postedLabel": "10.23 14:34:55",
+      "postedAt": "2026-10-23T14:34:55+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T05:35:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -412128,7 +412148,8 @@
         "6614480",
         "6614481",
         "6614482",
-        "6614491"
+        "6614491",
+        "6614495"
       ]
     },
     "blind": {
