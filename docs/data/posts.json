@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:52:26+00:00",
+  "updatedAt": "2026-10-23T02:53:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -404175,6 +404175,26 @@
       "firstSeenAt": "2026-10-23T02:52:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80206,
+      "source": "dc",
+      "externalId": "cmt-10965936",
+      "title": "일반화하지마라 ㅋㅋ",
+      "excerpt": "근데 전문직도 작은 타투 정도는 해",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613906&page=1#cmt_10965936",
+      "postedLabel": "10.23 11:53:05",
+      "postedAt": "2026-10-23T11:53:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:53:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -404287,7 +404307,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T11:50:10+09:00"
+      "slowAt": "2026-10-23T11:53:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -405960,7 +405980,9 @@
         "6613889",
         "6613895",
         "6613898",
-        "6613901"
+        "6613901",
+        "6613903",
+        "6613906"
       ]
     },
     "blind": {
