@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T06:11:47+00:00",
+  "updatedAt": "2026-10-23T06:12:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -412030,6 +412030,45 @@
       "firstSeenAt": "2026-10-23T06:11:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80603,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B8%EC%8B%9D%EB%B3%80%ED%99%94-2aezkxq8",
+      "title": "문신에 대한 인식변화",
+      "excerpt": "문신 하기 전 : 난 남들과 다른 나만의 개성을 표현하는것 문신 한 후 : 난 남들과 다른게 아닌 일반인이야",
+      "author": "S*****",
+      "company": "삼성자산운용",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B8%EC%8B%9D%EB%B3%80%ED%99%94-2aezkxq8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T15:12:31+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T06:12:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80604,
+      "source": "blind",
+      "externalId": "cmt-458020532",
+      "title": "타투 할 일 없지만,, 타투가 그정도로 무게감을 가지는 일인가..? 싶음ㅋㅋㅋㅋㅋ",
+      "excerpt": "문신 자체에 대한 문제라기보단",
+      "author": "s******",
+      "company": "한국애보트진단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EC%9E%90%EC%B2%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EA%B8%B0%EB%B3%B4%EB%8B%A8-rbytfw4p#458020532",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T15:12:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T06:12:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -412143,7 +412182,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T15:09:32+09:00"
+      "slowAt": "2026-10-23T15:12:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -413972,6 +414011,7 @@
         "6614421",
         "6614431",
         "6614434",
+        "6614438",
         "6614443",
         "6614445",
         "6614446",
@@ -414009,7 +414049,8 @@
         "6614576",
         "6614578",
         "6614579",
-        "6614585"
+        "6614585",
+        "6614600"
       ]
     },
     "blind": {
