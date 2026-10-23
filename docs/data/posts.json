@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T01:22:03+00:00",
+  "updatedAt": "2026-10-23T01:23:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -400011,6 +400011,84 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T01:22:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 79995,
+      "source": "dc",
+      "externalId": "6613550",
+      "title": "아 영철 쟤는 남자건 여자건",
+      "excerpt": "",
+      "author": "줴줴이야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6613550&page=1",
+      "postedLabel": "10:21",
+      "postedAt": "2026-10-23T10:21:50+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:23:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79996,
+      "source": "blind",
+      "externalId": "cmt-457986554",
+      "title": "70년대생 남자 만나면됨",
+      "excerpt": "80년대생 여자들은 이제 연애결혼 시장에서는 어렵지 않나?",
+      "author": "|********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/80%EB%85%84%EB%8C%80%EC%83%9D-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%97%B0%EC%95%A0%EA%B2%B0%ED%98%BC-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EB%82%98-16zlhain#457986554",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:22:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:23:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 79997,
+      "source": "blind",
+      "externalId": "/kr/post/80%EB%85%84%EB%8C%80%EC%83%9D-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%97%B0%EC%95%A0%EA%B2%B0%ED%98%BC-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EB%82%98-16zlhain",
+      "title": "80년대생 여자들은 이제 연애결혼 시장에서는 어렵지 않나?",
+      "excerpt": "89년생이 한국나이 38살... 곧 39세인데 연애 시작하고 1년만에 결혼해도 불혹이야 요새 안그래도 노산 난리인데 남자들 아무도 결혼 안하려고 할듯...",
+      "author": "1******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/80%EB%85%84%EB%8C%80%EC%83%9D-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%97%B0%EC%95%A0%EA%B2%B0%ED%98%BC-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EB%82%98-16zlhain",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:22:47+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 2,
+      "firstSeenAt": "2026-10-23T01:23:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 79998,
+      "source": "blind",
+      "externalId": "cmt-457986581",
+      "title": "80년대 여자 만나고 싶다. 40대 중순쯤 되니 그게 편하지",
+      "excerpt": "80년대생 여자들은 이제 연애결혼 시장에서는 어렵지 않나?",
+      "author": "l*******",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/80%EB%85%84%EB%8C%80%EC%83%9D-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%97%B0%EC%95%A0%EA%B2%B0%ED%98%BC-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EB%82%98-16zlhain#457986581",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:22:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:23:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -400123,7 +400201,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T10:19:47+09:00"
+      "slowAt": "2026-10-23T10:22:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -401696,7 +401774,8 @@
         "6613518",
         "6613536",
         "6613541",
-        "6613545"
+        "6613545",
+        "6613548"
       ]
     },
     "blind": {
@@ -403054,6 +403133,7 @@
         "/kr/post/%EC%98%81%EC%88%99-%EC%A7%91%EC%97%85-%EB%AD%90%EB%9E%98-%EB%AA%BB%EB%B4%84%E3%85%9C-aanoasnb",
         "/kr/post/%EC%98%81%EC%88%99-%EC%B4%88%EB%A9%B4%EC%97%90-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B1%B0-%EC%99%9C%EC%A0%80%EB%9E%98-vg3uqeo3",
         "/kr/post/%EC%98%81%EC%88%99-%EC%B9%B4%EC%A6%88%ED%95%98-%EB%8B%AE%EC%9D%80%EB%93%AF-ld40uugc",
+        "/kr/post/%EC%98%81%EC%88%99-%EC%BD%94%EB%B6%80%ED%84%B0-%EB%B6%88%EA%B8%B8%ED%95%A8-intp%EC%83%81%EA%B7%B9-46kvoook",
         "/kr/post/%EC%98%81%EC%88%99-%ED%8C%80%EC%9E%A5%EC%9D%B4%EB%A9%B4-%EB%B6%80%ED%95%98%EC%A7%81%EC%9B%90%EB%93%A4-%EA%B3%A0%EC%83%9D%ED%95%98%EA%B2%9F%EB%8B%A4-%E3%85%8B%E3%85%8B%E3%85%8B-jbv67ed8",
         "/kr/post/%EC%98%81%EC%88%99-%ED%94%BC%EA%B3%A4%ED%95%98%EB%8B%A4-d5bf6gf6",
         "/kr/post/%EC%98%81%EC%88%99-%ED%95%AD%EB%A7%88%EB%A0%A5-%EB%94%B8%EB%A6%B0%EB%8B%A4-s8oyxcj7",
@@ -404524,6 +404604,7 @@
         "/kr/post/7%EA%B8%B0-%EC%98%81%ED%98%B8-%EC%A0%9C%EC%A0%95%EC%8B%A0-%EC%95%84%EB%8B%88%EB%84%A4-3clqvp2z",
         "/kr/post/705bee18",
         "/kr/post/8%EC%9E%90%EB%85%80-%EC%A1%B4%EA%B2%BD%EC%8A%A4%EB%9F%BD%EB%84%A4-b5ga862b",
+        "/kr/post/80%EB%85%84%EB%8C%80%EC%83%9D-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%A0%9C-%EC%97%B0%EC%95%A0%EA%B2%B0%ED%98%BC-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EB%82%98-16zlhain",
         "/kr/post/87-%EB%82%A8%EC%9E%90-un01s65p",
         "/kr/post/87i8hstx",
         "/kr/post/88%EB%85%84%EC%83%9D-%EC%98%81%EC%88%99%EC%9D%B4-%ED%8E%98%EB%AF%B8%EA%B0%80-%EC%B0%BD%EA%B6%90%ED%95%98%EB%8D%98-%EA%B7%B8-%EC%8B%9C%EC%A0%88-ty2ixr6f",
