@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:10:15+00:00",
+  "updatedAt": "2026-10-23T07:11:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -414307,6 +414307,65 @@
       "firstSeenAt": "2026-10-23T07:10:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80718,
+      "source": "dc",
+      "externalId": "6614760",
+      "title": "얘 지금 라이브중인데",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614760&page=1",
+      "postedLabel": "16:10",
+      "postedAt": "2026-10-23T16:10:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:11:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80719,
+      "source": "blind",
+      "externalId": "cmt-458027768",
+      "title": "이건 고도의 간호사 까글인가?",
+      "excerpt": "간호사라는 직업",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%84%ED%98%B8%EC%82%AC%EB%9D%BC%EB%8A%94-%EC%A7%81%EC%97%85-vjvtkq1r#458027768",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:10:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:11:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80720,
+      "source": "blind",
+      "externalId": "cmt-458027775",
+      "title": "그니깐 ㅋㅋㅋ 영숙이는 주변 사람들한테 시비 걸고 부정적으로 사고가 흐르게 함",
+      "excerpt": "영숙 성격 ㅈㄴ 음흉하네",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%84%B1%EA%B2%A9-%E3%85%88%E3%84%B4-%EC%9D%8C%ED%9D%89%ED%95%98%EB%84%A4-hqjkkckq#458027775",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:11:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:11:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -414420,7 +414479,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T16:08:00+09:00"
+      "slowAt": "2026-10-23T16:11:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -416298,6 +416357,7 @@
         "6614579",
         "6614585",
         "6614590",
+        "6614594",
         "6614599",
         "6614600",
         "6614604",
@@ -416334,7 +416394,8 @@
         "6614742",
         "6614745",
         "6614746",
-        "6614748"
+        "6614748",
+        "6614758"
       ]
     },
     "blind": {
