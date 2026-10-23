@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T10:17:45+00:00",
+  "updatedAt": "2026-10-23T10:18:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -421326,6 +421326,45 @@
       "firstSeenAt": "2026-10-23T10:17:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81072,
+      "source": "blind",
+      "externalId": "cmt-458049939",
+      "title": "이중성이 아니라 메시가 문신해도 신경안쓰는것과 비슷함 의사는 이미 어느정도 증명이 되었으니 괜찮음",
+      "excerpt": "문신 불호인거랑 불호라고 소리치는 거랑 다른거같아",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EB%B6%88%ED%98%B8%EC%9D%B8%EA%B1%B0%EB%9E%91-%EB%B6%88%ED%98%B8%EB%9D%BC%EA%B3%A0-%EC%86%8C%EB%A6%AC%EC%B9%98%EB%8A%94-%EA%B1%B0%EB%9E%91-%EB%8B%A4%EB%A5%B8%EA%B1%B0%EA%B0%99%EC%95%84-ine48es4#458049939",
+      "postedLabel": "3분",
+      "postedAt": "2026-10-23T19:15:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:18:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81073,
+      "source": "dc",
+      "externalId": "6615242",
+      "title": "고향이 광주라는 것을 어떻게 당당히 말할수 있을까",
+      "excerpt": "",
+      "author": "글렌벤튼",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615242&page=1",
+      "postedLabel": "19:17",
+      "postedAt": "2026-10-23T19:17:39+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:18:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -421439,7 +421478,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T19:15:26+09:00"
+      "slowAt": "2026-10-23T19:18:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -423482,6 +423521,7 @@
         "6615100",
         "6615101",
         "6615103",
+        "6615106",
         "6615107",
         "6615112",
         "6615114",
