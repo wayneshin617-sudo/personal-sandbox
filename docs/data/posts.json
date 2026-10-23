@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:31:04+00:00",
+  "updatedAt": "2026-10-23T02:32:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -403225,6 +403225,45 @@
       "firstSeenAt": "2026-10-23T02:31:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80158,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%80%EC%97%90-%ED%94%BC%EC%96%B4%EC%8B%B1-%EB%A7%8E%EC%9D%80-%EC%97%AC%EC%9E%94-%EC%96%B4%EB%95%8C-1psdzzry",
+      "title": "귀에 피어싱 많은 여잔 어때?",
+      "excerpt": "문담피라고 싸잡아 욕먹기도 하던데 그 피어싱은 귀 말고 코나 눈썹 같은 다른 부위만 해당인가?",
+      "author": "l*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%80%EC%97%90-%ED%94%BC%EC%96%B4%EC%8B%B1-%EB%A7%8E%EC%9D%80-%EC%97%AC%EC%9E%94-%EC%96%B4%EB%95%8C-1psdzzry",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:31:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T02:32:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80159,
+      "source": "blind",
+      "externalId": "cmt-457994070",
+      "title": "맞음 영호 입장에선 그게 최선이었을거임",
+      "excerpt": "외모 괜찮은 남녀들은 역시 만인에게 친절하면 안 됨",
+      "author": "n*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%B8%EB%AA%A8-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EB%82%A8%EB%85%80%EB%93%A4%EC%9D%80-%EC%97%AD%EC%8B%9C-%EB%A7%8C%EC%9D%B8%EC%97%90%EA%B2%8C-%EC%B9%9C%EC%A0%88%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%A8-vwfnjxzu#457994070",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:31:47+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:32:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -403337,7 +403376,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T11:28:47+09:00"
+      "slowAt": "2026-10-23T11:31:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -404988,7 +405027,8 @@
         "6613803",
         "6613804",
         "6613809",
-        "6613819"
+        "6613819",
+        "6613839"
       ]
     },
     "blind": {
