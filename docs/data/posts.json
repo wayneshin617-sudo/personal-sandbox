@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T17:21:43+00:00",
+  "updatedAt": "2026-10-23T17:23:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -433914,6 +433914,45 @@
       "firstSeenAt": "2026-10-23T17:21:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81708,
+      "source": "qoo",
+      "externalId": "cmt-4384709994",
+      "title": "서로 혐관이겠지만 난 영수가 나아보임",
+      "excerpt": "솔직히 34영수 그냥저냥인데 영숙이랑 있으면 매력적이다ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384653783#4384709994",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T01:22:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T17:23:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81709,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-7letitu5",
+      "title": "안녕하세요.",
+      "excerpt": "30대 초반 남자 데이트 하고 싶어요. 회사에서 어린 친구들이 장난치는데, 장난말고! 송파, 강남 볼사람 남겨주세요.",
+      "author": "b*****",
+      "company": "사회복지공동모금회",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-7letitu5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T02:23:25+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T17:23:43+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -436345,7 +436384,8 @@
         "6616062",
         "6616063",
         "6616066",
-        "6616074"
+        "6616074",
+        "6616080"
       ]
     },
     "blind": {
