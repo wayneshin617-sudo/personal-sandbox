@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T10:46:45+00:00",
+  "updatedAt": "2026-10-23T10:48:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -422852,6 +422852,26 @@
       "firstSeenAt": "2026-10-23T10:46:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81149,
+      "source": "dc",
+      "externalId": "cmt-10966913",
+      "title": "한의사는 걍 얼굴이 큰거같음",
+      "excerpt": "순자 영자 의외로 살집있네?",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615173&page=3#cmt_10966913",
+      "postedLabel": "10.23 18:58:34",
+      "postedAt": "2026-10-23T18:58:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:48:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -422965,7 +422985,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T19:45:27+09:00"
+      "slowAt": "2026-10-23T19:48:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -425028,6 +425048,7 @@
         "6615157",
         "6615166",
         "6615172",
+        "6615173",
         "6615176",
         "6615178",
         "6615179",
