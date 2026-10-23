@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:34:17+00:00",
+  "updatedAt": "2026-10-23T08:35:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -417445,6 +417445,26 @@
       "firstSeenAt": "2026-10-23T08:34:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80876,
+      "source": "blind",
+      "externalId": "cmt-458034976",
+      "title": "순자가 고기 구웠음 술도 따라주려고 하는 장면 있고",
+      "excerpt": "영호 데이트 때",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%95%8C-loa1j74t#458034976",
+      "postedLabel": "30분",
+      "postedAt": "2026-10-23T17:04:59+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:35:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -417558,7 +417578,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T17:32:00+09:00"
+      "slowAt": "2026-10-23T17:34:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -419547,7 +419567,9 @@
         "6614984",
         "6614988",
         "6614989",
-        "6614992"
+        "6614992",
+        "6614994",
+        "6614998"
       ]
     },
     "blind": {
