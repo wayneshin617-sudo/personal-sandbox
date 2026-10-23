@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T16:52:43+00:00",
+  "updatedAt": "2026-10-23T16:54:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -433636,6 +433636,46 @@
       "firstSeenAt": "2026-10-23T16:52:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81694,
+      "source": "qoo",
+      "externalId": "cmt-4384691999",
+      "title": "누구?",
+      "excerpt": "“황제”를 기다리는중 .. ㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384679597#4384691999",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T00:54:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T16:54:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81695,
+      "source": "blind",
+      "externalId": "cmt-458100112",
+      "title": "형 성형은 넘 많은디",
+      "excerpt": "문신 담배 성형",
+      "author": "S*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EB%8B%B4%EB%B0%B0-%EC%84%B1%ED%98%95-i1lx1byz#458100112",
+      "postedLabel": "39분",
+      "postedAt": "2026-10-24T01:15:29+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T16:54:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -433750,7 +433790,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T01:51:25+09:00"
+      "slowAt": "2026-10-24T01:54:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -436057,7 +436097,8 @@
         "6616016",
         "6616021",
         "6616040",
-        "6616053"
+        "6616053",
+        "6616055"
       ]
     },
     "blind": {
