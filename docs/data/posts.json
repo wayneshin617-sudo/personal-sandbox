@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:48:27+00:00",
+  "updatedAt": "2026-10-23T02:49:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -404056,6 +404056,45 @@
       "firstSeenAt": "2026-10-23T02:48:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80200,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90-2dcz3yfh",
+      "title": "34기 영자",
+      "excerpt": "난 왜 15기 현숙 얼굴이 보이지? 입모양이랑 가끔씩 눈 내리깔때?",
+      "author": "1*********",
+      "company": "한영회계법인",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90-2dcz3yfh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:49:10+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T02:49:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80201,
+      "source": "blind",
+      "externalId": "cmt-457995995",
+      "title": "담배는 피해를주지만 문신이 피해를 주나?",
+      "excerpt": "문신 갖고 불타는 이유는 그 대상이 여자라그래",
+      "author": "l*********",
+      "company": "스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EA%B0%96%EA%B3%A0-%EB%B6%88%ED%83%80%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EA%B7%B8-%EB%8C%80%EC%83%81%EC%9D%B4-%EC%97%AC%EC%9E%90%EB%9D%BC%EA%B7%B8%EB%9E%98-gaaor738#457995995",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:49:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:49:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -405835,7 +405874,8 @@
         "6613871",
         "6613877",
         "6613882",
-        "6613884"
+        "6613884",
+        "6613889"
       ]
     },
     "blind": {
