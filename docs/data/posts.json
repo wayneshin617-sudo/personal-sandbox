@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T12:19:45+00:00",
+  "updatedAt": "2026-10-23T12:20:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -425726,6 +425726,46 @@
       "firstSeenAt": "2026-10-23T12:19:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81294,
+      "source": "dc",
+      "externalId": "cmt-10967171",
+      "title": "포차감성 클럽죽돌이었을듯",
+      "excerpt": "34영철 개인싸네",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615503&page=1#cmt_10967171",
+      "postedLabel": "10.23 21:19:31",
+      "postedAt": "2026-10-23T21:19:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:20:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81295,
+      "source": "blind",
+      "externalId": "cmt-458065491",
+      "title": "영호가 생각보다 더 노잼이더라 역시 완벽할 수 없지",
+      "excerpt": "투표글 30영수 vs 31경수 vs 34영호 투표",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/30%EC%98%81%EC%88%98-vs-31%EA%B2%BD%EC%88%98-vs-34%EC%98%81%ED%98%B8-sux2670x#458065491",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T21:20:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:20:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -427996,7 +428036,8 @@
         "6615495",
         "6615496",
         "6615497",
-        "6615501"
+        "6615501",
+        "6615503"
       ]
     },
     "blind": {
