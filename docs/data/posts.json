@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T11:40:46+00:00",
+  "updatedAt": "2026-10-23T11:42:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -424600,6 +424600,44 @@
       "firstSeenAt": "2026-10-23T11:40:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81237,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-l15bpi5m",
+      "title": "영철이는",
+      "excerpt": "한국외대씩이나 나와서 고졸처럼 행동하네 ㄷㄷ 헌팅포차 고졸 재질느낌",
+      "author": "o********",
+      "company": "LX판토스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-l15bpi5m",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T20:42:27+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T11:42:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81238,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98%ED%95%9C%ED%85%8C-%EC%84%A0%ED%83%9D%EC%A7%80%EA%B0%80-%EC%9E%88%EC%9D%8C-%EB%88%84%EA%B5%AC-%EA%B3%A0%EB%A5%BC%EA%BA%BC-%EA%B0%99%EC%9D%8C-ninlz2rd",
+      "title": "투표글 데프콘한테 선택지가 있음 누구 고를꺼 같음?? 투표",
+      "excerpt": "이 둘 중 누구 선택할지 궁금ㅋ",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98%ED%95%9C%ED%85%8C-%EC%84%A0%ED%83%9D%EC%A7%80%EA%B0%80-%EC%9E%88%EC%9D%8C-%EB%88%84%EA%B5%AC-%EA%B3%A0%EB%A5%BC%EA%BA%BC-%EA%B0%99%EC%9D%8C-ninlz2rd",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T20:42:28+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T11:42:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -424714,7 +424752,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T20:39:28+09:00"
+      "slowAt": "2026-10-23T20:42:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -426836,7 +426874,9 @@
         "6615392",
         "6615397",
         "6615399",
-        "6615406"
+        "6615406",
+        "6615416",
+        "6615420"
       ]
     },
     "blind": {
