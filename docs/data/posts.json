@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:33:16+00:00",
+  "updatedAt": "2026-10-23T08:34:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -417425,6 +417425,26 @@
       "firstSeenAt": "2026-10-23T08:33:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80875,
+      "source": "dc",
+      "externalId": "cmt-10966746",
+      "title": "과학은 진리",
+      "excerpt": "문신은 거르는게 맞음",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614992&page=1#cmt_10966746",
+      "postedLabel": "10.23 17:33:05",
+      "postedAt": "2026-10-23T17:33:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:34:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -419525,7 +419545,9 @@
         "6614977",
         "6614978",
         "6614984",
-        "6614988"
+        "6614988",
+        "6614989",
+        "6614992"
       ]
     },
     "blind": {
