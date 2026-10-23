@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:28:03+00:00",
+  "updatedAt": "2026-10-23T02:29:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -403067,6 +403067,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T02:28:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80150,
+      "source": "blind",
+      "externalId": "cmt-457993835",
+      "title": "정답",
+      "excerpt": "외모 괜찮은 남녀들은 역시 만인에게 친절하면 안 됨",
+      "author": "k****",
+      "company": "한국산업기술시험원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%B8%EB%AA%A8-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EB%82%A8%EB%85%80%EB%93%A4%EC%9D%80-%EC%97%AD%EC%8B%9C-%EB%A7%8C%EC%9D%B8%EC%97%90%EA%B2%8C-%EC%B9%9C%EC%A0%88%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%A8-vwfnjxzu#457993835",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:28:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:29:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -403179,7 +403199,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T11:25:47+09:00"
+      "slowAt": "2026-10-23T11:28:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -406870,6 +406890,7 @@
         "/kr/post/%EC%99%B8%EB%8F%99%ED%8A%B9%EC%A7%91%EC%9D%80-%EC%95%88%ED%95%98%EB%83%90-owqd533h",
         "/kr/post/%EC%99%B8%EB%AA%A8%EA%B0%80-%EC%9D%B4%EB%BB%90%EC%95%BC%ED%95%98%EB%8A%94-Estp-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B4%EC%9E%90%EB%A9%B4-ivn26cok",
         "/kr/post/%EC%99%B8%EB%AA%A8%EB%A7%8C%EB%B4%A4%EC%9D%84%EB%95%8C-%ED%98%84%EC%88%99-vs-%EC%98%81%EC%88%99-zsaez0th",
+        "/kr/post/%EC%99%B8%EB%AA%A8-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EB%82%A8%EB%85%80%EB%93%A4%EC%9D%80-%EC%97%AD%EC%8B%9C-%EB%A7%8C%EC%9D%B8%EC%97%90%EA%B2%8C-%EC%B9%9C%EC%A0%88%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%A8-vwfnjxzu",
         "/kr/post/%EC%99%B8%EB%AA%A8-%ED%8F%89%EB%B2%94-%EC%A0%84%EB%AC%B8%EC%A7%81%EB%85%80%EB%93%A4%EC%9D%80-71ut2hjx",
         "/kr/post/%EC%9A%94%EC%83%8C-%ED%82%A4%ED%81%AC%EB%A9%B4-%EC%96%BC%EA%B5%B4-%EB%8C%80%EC%B6%A9-%EC%83%9D%EA%B8%B0%EA%B8%B0%EB%A7%8C-%ED%95%B4%EB%8F%84-yqu32urv",
         "/kr/post/%EC%9A%94%EC%A6%98-%EB%84%A4%EB%B9%84%EC%97%86%EB%8A%94%EC%B0%A8%EB%8F%84-%EC%9E%88%EB%82%98-tivfkjt3",
