@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T02:32:03+00:00",
+  "updatedAt": "2026-10-23T02:33:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -403264,6 +403264,45 @@
       "firstSeenAt": "2026-10-23T02:32:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80160,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%88%EC%9E%96%EC%95%84-0i16qjrn",
+      "title": "영철 있잖아",
+      "excerpt": "왤케 급해 보여 말하는 것도 그렇고 눈알 굴리는 것도 그렇고 누가 쫓아오나??? 연애 20번을 여태 저렇게 했다는거지? 야밤에 시골길 비포장 도로에서 경찰한테 쫓기는 레이싱 보는 기분이었어 + 멀미는 덤",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%88%EC%9E%96%EC%95%84-0i16qjrn",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-23T11:31:47+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T02:33:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80161,
+      "source": "blind",
+      "externalId": "cmt-457994240",
+      "title": "내 몸에 하는 선택이랑 남한테 피해 주는 폭행은 비교 대상이 아니지 않나? 비유가 좀 과한 것 같아.. 기아형 일은 잘 하고 있는거지?ㅜ",
+      "excerpt": "문신으로 다른 부분들까지 단정지어 글쓰지 말아주세요",
+      "author": "i*********",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%B6%80%EB%B6%84%EB%93%A4%EA%B9%8C%EC%A7%80-%EB%8B%A8%EC%A0%95%EC%A7%80%EC%96%B4-%EA%B8%80%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%A3%BC%EC%84%B8%EC%9A%94-c01dr2ii#457994240",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T11:32:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T02:33:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -403340,7 +403379,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T11:29:47+09:00"
+      "slowAt": "2026-10-23T11:32:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -405028,6 +405067,7 @@
         "6613804",
         "6613809",
         "6613819",
+        "6613837",
         "6613839"
       ]
     },
@@ -405142,6 +405182,7 @@
         "/kr/post/%EA%B5%AD%ED%86%A0%EA%B5%90%ED%86%B5%EB%B6%80-%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8-zt41fq6x",
         "/kr/post/%EA%B6%81%EA%B8%88%ED%95%9C%EA%B1%B0-%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%EC%83%81%EC%B2%A0-e8bzof6k",
         "/kr/post/%EA%B6%81%EA%B8%88%ED%95%9C%EA%B2%8C-%EC%98%81%EC%88%99%EC%9D%80-nqwouuzm",
+        "/kr/post/%EA%B7%80%EC%97%90-%ED%94%BC%EC%96%B4%EC%8B%B1-%EB%A7%8E%EC%9D%80-%EC%97%AC%EC%9E%94-%EC%96%B4%EB%95%8C-1psdzzry",
         "/kr/post/%EA%B7%9C%ED%99%8D%ED%98%95%ED%95%9C%ED%85%8C-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%86%8D%EC%95%98%EB%84%A4-hh2sagrb",
         "/kr/post/%EA%B7%B8%EA%B9%9F-%EC%A7%91-%ED%95%98%EB%82%98%EB%8D%94-%EC%82%AC%EB%A9%B4%EB%90%9C%EB%8B%A4-%EB%A9%98%ED%8A%B8-r053aslo",
         "/kr/post/%EA%B7%B8%EB%83%A5-%EC%97%AC%EC%B6%9C%EB%93%A4%EC%9D%80-%EC%97%AC%EA%B8%B0%EC%84%9C-%ED%99%8D%EB%B3%B4%EB%82%98-%EB%B9%B5%EB%B9%B5%ED%95%98%EA%B2%8C-%ED%95%98%EA%B3%A0-%EA%B0%80%EC%8B%9C%EA%B8%B8-0cq6tzgj",
