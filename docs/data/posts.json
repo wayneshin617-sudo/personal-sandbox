@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T07:48:16+00:00",
+  "updatedAt": "2026-10-23T07:49:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -416038,6 +416038,45 @@
       "firstSeenAt": "2026-10-23T07:48:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80805,
+      "source": "qoo",
+      "externalId": "4384261470",
+      "title": "진짜 이번기수 영철이는 러버덕이랑 비교도 안된다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384261470",
+      "postedLabel": "16:48",
+      "postedAt": "2026-10-23T16:48:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:49:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80806,
+      "source": "blind",
+      "externalId": "cmt-458032742",
+      "title": "순자가 고기 굽는게 보였어",
+      "excerpt": "영호 데이트 때",
+      "author": "팩******",
+      "company": "몰로코",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%95%8C-loa1j74t#458032742",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T16:48:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T07:49:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -418065,6 +418104,7 @@
         "6614685",
         "6614687",
         "6614690",
+        "6614696",
         "6614704",
         "6614707",
         "6614708",
@@ -423456,7 +423496,8 @@
         "4384099499",
         "4384104827",
         "4384159138",
-        "4384228003"
+        "4384228003",
+        "4384261470"
       ]
     },
     "keep": "v2",
