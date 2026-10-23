@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T12:58:23+00:00",
+  "updatedAt": "2026-10-23T13:00:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -427238,6 +427238,63 @@
       "firstSeenAt": "2026-10-23T12:58:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81371,
+      "source": "qoo",
+      "externalId": "4384550792",
+      "title": "8월 29일 나솔기수 영수가 누구였어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384550792",
+      "postedLabel": "21:59",
+      "postedAt": "2026-10-23T21:59:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T13:00:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81372,
+      "source": "blind",
+      "externalId": "/kr/post/7%EC%8B%9C-%EC%98%81%EC%8B%9D-%EC%95%84%EC%A0%80%EC%94%A8%EB%8A%94-tq5ue67v",
+      "title": "7시 영식 아저씨는",
+      "excerpt": "사람은 참 좋아보여 ㅋㅋㅋ 예전에도 구랬는데",
+      "author": "p*****",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/7%EC%8B%9C-%EC%98%81%EC%8B%9D-%EC%95%84%EC%A0%80%EC%94%A8%EB%8A%94-tq5ue67v",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T22:00:04+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T13:00:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81373,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%86%94%EB%A1%9C%EA%B0%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EB%AA%BB%EB%A7%8C%EB%82%9C%EB%8B%A4-v0352yxq",
+      "title": "솔로가 이렇게 많은데 못만난다?",
+      "excerpt": "솔로는 많음 근데 서로 모름 소개팅도 한계가 있음 집에서 멀다 등등 그래서 근처 친구 만날 수 있는거 소개해줄게 온모임이라는앱이야 레이더 기능이 있는데 기간 정할 수 있고 조건에 맞는 거리 ,나이대가 맞으면 대화할 수 있어 본인인증한 사람들만 쓸 수 있어 나이대도 거짓말못해 소개팅앱보단, 퇴근하고 밥 한끼, 주말 취미생활 같이하기 등든 빠르게 만나는거야 100프로 무료야 세상엔 좋은사람 멋있고 이쁜사람 많아 다들 좋은 사람들 만나서 솔로 탈출했으면 좋겠어",
+      "author": "a*******",
+      "company": "SK하이스텍",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EB%A1%9C%EA%B0%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EB%AA%BB%EB%A7%8C%EB%82%9C%EB%8B%A4-v0352yxq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T22:00:05+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-23T13:00:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -427352,7 +427409,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T21:57:05+09:00"
+      "slowAt": "2026-10-23T22:00:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -429532,7 +429589,8 @@
         "6615614",
         "6615617",
         "6615619",
-        "6615623"
+        "6615623",
+        "6615627"
       ]
     },
     "blind": {
@@ -434991,7 +435049,8 @@
         "4384501643",
         "4384503795",
         "4384538417",
-        "4384550370"
+        "4384550370",
+        "4384550792"
       ]
     },
     "keep": "v2",
