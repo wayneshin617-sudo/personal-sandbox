@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T11:17:46+00:00",
+  "updatedAt": "2026-10-23T11:18:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -423787,6 +423787,46 @@
       "firstSeenAt": "2026-10-23T11:17:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81196,
+      "source": "blind",
+      "externalId": "cmt-458050639",
+      "title": "이거야말로 골때리네...그 증명이 뭔데 무슨 신분제임? 그럼 증명된 사람들만 문신하면돼?",
+      "excerpt": "문신 불호인거랑 불호라고 소리치는 거랑 다른거같아",
+      "author": "i*********",
+      "company": "한국투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EB%B6%88%ED%98%B8%EC%9D%B8%EA%B1%B0%EB%9E%91-%EB%B6%88%ED%98%B8%EB%9D%BC%EA%B3%A0-%EC%86%8C%EB%A6%AC%EC%B9%98%EB%8A%94-%EA%B1%B0%EB%9E%91-%EB%8B%A4%EB%A5%B8%EA%B1%B0%EA%B0%99%EC%95%84-ine48es4#458050639",
+      "postedLabel": "57분",
+      "postedAt": "2026-10-23T19:21:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:18:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81197,
+      "source": "dc",
+      "externalId": "cmt-10966979",
+      "title": "그냥 못배워먹은 무개념들이 대가리에 필터없어서 툭툭 뱉고 다니다 주변사람들이 돌리고 돌려서 솔직하다고 해주니까 진짜 그런줄 아는거… - dc App",
+      "excerpt": "내가 생각하는 ‘전 솔직해요’ 의 특징",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615245&page=3#cmt_10966979",
+      "postedLabel": "10.23 19:32:29",
+      "postedAt": "2026-10-23T19:32:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T11:18:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -423901,7 +423941,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T20:15:28+09:00"
+      "slowAt": "2026-10-23T20:18:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -425984,6 +426024,7 @@
         "6615226",
         "6615229",
         "6615230",
+        "6615245",
         "6615246",
         "6615258",
         "6615259",
