@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T21:13:09+00:00",
+  "updatedAt": "2026-10-23T21:15:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -434663,6 +434663,26 @@
       "recommends": 5,
       "comments": null,
       "firstSeenAt": "2026-10-23T21:13:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81746,
+      "source": "blind",
+      "externalId": "cmt-458114682",
+      "title": "문신은 평생 본인을 증명하며 살아가야함",
+      "excerpt": "문신으로 난리네",
+      "author": "l*********",
+      "company": "현대모비스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EB%82%9C%EB%A6%AC%EB%84%A4-8phnacb3#458114682",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-24T06:09:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T21:15:09+00:00",
       "isSeed": false,
       "kind": "reply"
     }
