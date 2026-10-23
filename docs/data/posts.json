@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T20:29:09+00:00",
+  "updatedAt": "2026-10-23T20:58:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -434568,6 +434568,25 @@
       "firstSeenAt": "2026-10-23T20:29:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81741,
+      "source": "dc",
+      "externalId": "6616203",
+      "title": "광우 왜케 오픈3잘만들지했는데 밀워키가",
+      "excerpt": "",
+      "author": "1111",
+      "company": "",
+      "ip": "121.65",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6616203&page=1",
+      "postedLabel": "05:57",
+      "postedAt": "2026-10-24T05:57:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T20:58:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -434682,7 +434701,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T05:54:51+09:00"
+      "slowAt": "2026-10-24T05:57:51+09:00"
     },
     "dc": {
       "doneIds": [
