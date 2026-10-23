@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T08:30:17+00:00",
+  "updatedAt": "2026-10-23T08:31:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -417247,6 +417247,45 @@
       "firstSeenAt": "2026-10-23T08:30:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80866,
+      "source": "qoo",
+      "externalId": "cmt-4384242361",
+      "title": "문신도 개큰 문제긴 함 너무 의도가 빤히 보인 행동이라",
+      "excerpt": "이번주꺼 지금봤는데 문신이 문제가 아니고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384228003#4384242361",
+      "postedLabel": "",
+      "postedAt": "2026-10-23T16:30:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:31:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80867,
+      "source": "qoo",
+      "externalId": "4384304001",
+      "title": "34기 찍은게 언제야?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384304001",
+      "postedLabel": "17:30",
+      "postedAt": "2026-10-23T17:30:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T08:31:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -424714,7 +424753,8 @@
         "4384159138",
         "4384228003",
         "4384261470",
-        "4384296512"
+        "4384296512",
+        "4384304001"
       ]
     },
     "keep": "v2",
