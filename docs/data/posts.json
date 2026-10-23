@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T01:27:02+00:00",
+  "updatedAt": "2026-10-23T01:30:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -400227,6 +400227,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T01:27:02+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80006,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%95%88%ED%95%98%EA%B3%A0%EB%8A%94-%EB%B3%B8%EC%9D%B8-%EB%A7%98%EC%9D%B8%EB%8D%B0-2aceq2pu",
+      "title": "문신을 하고 안하고는 본인 맘인데",
+      "excerpt": "왜 싫다는 사람들한테 별거 아닌것처럼 설득 시키려는지 모르겠네",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%95%88%ED%95%98%EA%B3%A0%EB%8A%94-%EB%B3%B8%EC%9D%B8-%EB%A7%98%EC%9D%B8%EB%8D%B0-2aceq2pu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:29:47+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-23T01:30:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80007,
+      "source": "blind",
+      "externalId": "cmt-457987302",
+      "title": "문신 하는거 본인 맘 문신한사람 안만나고 싶은거 내 맘 지는 맘대로 문신해놓고 내가 문신 싫은것도 지맘대로 할라는게 싫음",
+      "excerpt": "문신을 하고 안하고는 본인 맘인데",
+      "author": "¡**",
+      "company": "휴먼컨설팅그룹",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%95%88%ED%95%98%EA%B3%A0%EB%8A%94-%EB%B3%B8%EC%9D%B8-%EB%A7%98%EC%9D%B8%EB%8D%B0-2aceq2pu#457987302",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T10:29:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T01:30:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -400303,7 +400342,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-23T10:26:47+09:00"
+      "slowAt": "2026-10-23T10:29:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -401920,7 +401959,8 @@
         "6613559",
         "6613569",
         "6613570",
-        "6613573"
+        "6613573",
+        "6613577"
       ]
     },
     "blind": {
@@ -402508,6 +402548,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%ED%95%B4%EC%99%B8%EC%97%90%EC%84%9C-%EB%8D%94-%EB%B3%B4%EC%88%98%EC%A0%81%EC%9D%B4%EC%95%BC-yatmkeul",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-jfjirxyo",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%84-%EC%A3%BC%EC%A0%9C%EB%A1%9C-%ED%95%9C-%EC%BD%9C%EB%9D%BC%EC%A5%AC-romkuahp",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%95%88%ED%95%98%EA%B3%A0%EB%8A%94-%EB%B3%B8%EC%9D%B8-%EB%A7%98%EC%9D%B8%EB%8D%B0-2aceq2pu",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%82%98%EB%A7%88%EB%82%98-%EC%98%81%EC%88%99%EB%8B%98%EC%9D%80-%EB%B9%84%EB%A7%9E%EC%9C%BC%EB%A9%B4-%EA%B7%80%EC%97%90-%EB%B9%84%EB%AC%BC-%EC%83%88%EA%B2%A0%EB%8A%94%EB%8D%B0-6yd06la8",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%9E%91-%EA%B0%80%EC%8A%B4%EC%84%B1%ED%98%95%EC%A4%91-%EB%A8%B8%EA%B0%80-%EB%8D%94-%EC%8B%AB%EB%83%90-upbnhrsq",
         "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%B4%ED%9B%84%EB%A1%9C-i6g4ar0b",
