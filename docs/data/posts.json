@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T12:22:45+00:00",
+  "updatedAt": "2026-10-23T12:23:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -425961,6 +425961,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-23T12:22:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81306,
+      "source": "blind",
+      "externalId": "cmt-458062228",
+      "title": "영철은 ENFJ 같은데 말이 넘 많음",
+      "excerpt": "34기 mbti 유추",
+      "author": "s*******",
+      "company": "가톨릭중앙의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-mbti-%EC%9C%A0%EC%B6%94-5mb7para#458062228",
+      "postedLabel": "28분",
+      "postedAt": "2026-10-23T20:55:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:23:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81307,
+      "source": "blind",
+      "externalId": "cmt-458065904",
+      "title": "내 말이 문신이슈는 별개로 영숙은 벌 받아야되지 않나? 왜 남의 평판을 깎아내려 지가 뭔데",
+      "excerpt": "영숙 명예훼손으로 고소 못하나",
+      "author": "k******* 작성자",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%AA%85%EC%98%88%ED%9B%BC%EC%86%90%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%86%8C-%EB%AA%BB%ED%95%98%EB%82%98-pwa30uc3#458065904",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T21:23:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T12:23:46+00:00",
       "isSeed": false,
       "kind": "reply"
     }
