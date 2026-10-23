@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T04:27:48+00:00",
+  "updatedAt": "2026-10-23T04:29:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -408553,6 +408553,45 @@
       "firstSeenAt": "2026-10-23T04:27:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 80427,
+      "source": "qoo",
+      "externalId": "4384076038",
+      "title": "바로전회차랑 비교하니 역체감 장난아님",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4384076038",
+      "postedLabel": "13:29",
+      "postedAt": "2026-10-23T13:29:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T04:29:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80428,
+      "source": "blind",
+      "externalId": "cmt-458007710",
+      "title": "동감. 별개로 이제 원랜 안그랬는데 성형도 비슷하게 느끼기 시작. 특정 욕망(미)을 위해 얼굴 또는 신체에 칼을 대는 것도 비슷한 거 아닌가;; 특히 코는 계속 넣어야한다던데 더 기괴해 보이기 시작.",
+      "excerpt": "문신했건 안했건 내몸아니니까 노상관인데",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%96%88%EA%B1%B4-%EC%95%88%ED%96%88%EA%B1%B4-%EB%82%B4%EB%AA%B8%EC%95%84%EB%8B%88%EB%8B%88%EA%B9%8C-%EB%85%B8%EC%83%81%EA%B4%80%EC%9D%B8%EB%8D%B0-8vwk0ntb#458007710",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T13:29:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T04:29:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -410441,7 +410480,8 @@
         "6614268",
         "6614270",
         "6614272",
-        "6614279"
+        "6614279",
+        "6614286"
       ]
     },
     "blind": {
@@ -415724,7 +415764,8 @@
         "4384024943",
         "4384033877",
         "4384045612",
-        "4384064963"
+        "4384064963",
+        "4384076038"
       ]
     },
     "keep": "v2",
