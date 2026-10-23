@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T06:41:47+00:00",
+  "updatedAt": "2026-10-23T06:42:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -413000,6 +413000,65 @@
       "comments": 0,
       "firstSeenAt": "2026-10-23T06:41:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 80652,
+      "source": "dc",
+      "externalId": "6614675",
+      "title": "문신 어떠냐고 물어보고 탈락 이러는거 개충격이네 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614675&page=1",
+      "postedLabel": "15:41",
+      "postedAt": "2026-10-23T15:41:38+09:00",
+      "views": 17,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-10-23T06:42:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 80653,
+      "source": "dc",
+      "externalId": "cmt-10966504",
+      "title": "이쁜 외국인이 나오겠냐 ㅋㅋㅋㅋㅋㅋㅋㅋ - dc App",
+      "excerpt": "저딴 빻은급 외녀니까 여기에 쓰는 거지",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6614673&page=1#cmt_10966504",
+      "postedLabel": "10.23 15:42:20",
+      "postedAt": "2026-10-23T15:42:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T06:42:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 80654,
+      "source": "blind",
+      "externalId": "cmt-458024448",
+      "title": "1. 말이 앞섦. 2. 잡도리말투",
+      "excerpt": "순자==럭키영숙",
+      "author": "i*********",
+      "company": "선진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90==%EB%9F%AD%ED%82%A4%EC%98%81%EC%88%99-dxhxdicf#458024448",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T15:42:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T06:42:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -413113,7 +413172,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T15:39:31+09:00"
+      "slowAt": "2026-10-23T15:42:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -415004,7 +415063,10 @@
         "6614658",
         "6614664",
         "6614669",
-        "6614670"
+        "6614670",
+        "6614672",
+        "6614673",
+        "6614675"
       ]
     },
     "blind": {
@@ -416054,6 +416116,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-ela3rcmh",
         "/kr/post/%EC%88%9C%EC%9E%90-jwn4wif8",
         "/kr/post/%EC%88%9C%EC%9E%90-z62lyo4v",
+        "/kr/post/%EC%88%9C%EC%9E%90==%EB%9F%AD%ED%82%A4%EC%98%81%EC%88%99-dxhxdicf",
         "/kr/post/%EC%89%A3-%EB%85%BC%EC%82%B0-%EC%84%B8%EC%A2%85-%EA%B0%80%EA%B9%9D%EC%9E%96%EC%95%84-jto50jsr",
         "/kr/post/%EC%89%AC%EB%A7%88%EB%A0%A4%EC%9B%8C%EB%8A%94-%EC%A2%80-tu3yqke2",
         "/kr/post/%EC%89%AC%EB%A7%88%EB%A0%A4%EC%9B%8C-axwamsb3",
