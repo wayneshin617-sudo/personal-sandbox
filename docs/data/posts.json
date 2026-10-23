@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-23T10:11:45+00:00",
+  "updatedAt": "2026-10-23T10:12:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -420908,6 +420908,66 @@
       "firstSeenAt": "2026-10-23T10:11:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81051,
+      "source": "blind",
+      "externalId": "cmt-458044503",
+      "title": "현실에서 줄설거같은데",
+      "excerpt": "이번기수 영식",
+      "author": "잉***",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%81%EC%8B%9D-6f6cwe5o#458044503",
+      "postedLabel": "46분",
+      "postedAt": "2026-10-23T18:26:27+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:12:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81052,
+      "source": "dc",
+      "externalId": "cmt-10966943",
+      "title": "지랄마라 외모는 평생간다 쪼그라들고 늙어도 외모는 남는다",
+      "excerpt": "영자가 인상 좋아보인다",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6615226&page=1#cmt_10966943",
+      "postedLabel": "10.23 19:12:00",
+      "postedAt": "2026-10-23T19:12:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:12:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81053,
+      "source": "blind",
+      "externalId": "cmt-458049559",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "34현숙 26영식 띵박형님 뭔가 닮았는데",
+      "author": "한분씩말씀하세요",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99-26%EC%98%81%EC%8B%9D-%EB%9D%B5%EB%B0%95%ED%98%95%EB%8B%98-%EB%AD%94%EA%B0%80-%EB%8B%AE%EC%95%98%EB%8A%94%EB%8D%B0-i8fwl3in#458049559",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-23T19:12:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-23T10:12:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -421021,7 +421081,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-23T19:09:27+09:00"
+      "slowAt": "2026-10-23T19:12:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -423089,7 +423149,9 @@
         "6615213",
         "6615215",
         "6615217",
-        "6615221"
+        "6615221",
+        "6615226",
+        "6615229"
       ]
     },
     "blind": {
@@ -426068,6 +426130,7 @@
         "/kr/post/34%ED%98%84%EC%88%99%EC%9D%B4-%E3%84%B9%E3%85%87-%EC%97%AD%EB%8C%80%EA%B3%A0%ED%8A%B8%EB%84%A4-3yi0cvwo",
         "/kr/post/34%ED%98%84%EC%88%99%EC%9D%B4-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EA%B3%A0%ED%8A%B8%EC%9D%B8%EA%B2%8C-egpuxvka",
         "/kr/post/34%ED%98%84%EC%88%99-%EC%85%94%EC%B8%A0-%EC%9D%B4%EC%81%98%EB%84%A4-7b2nngqr",
+        "/kr/post/34%ED%98%84%EC%88%99-26%EC%98%81%EC%8B%9D-%EB%9D%B5%EB%B0%95%ED%98%95%EB%8B%98-%EB%AD%94%EA%B0%80-%EB%8B%AE%EC%95%98%EB%8A%94%EB%8D%B0-i8fwl3in",
         "/kr/post/34%ED%98%84%EC%88%99-apv41kqe",
         "/kr/post/34-%EC%88%9C%EC%9E%90-%EC%98%81%ED%98%B8%EB%8F%84-%EB%B3%B4%EA%B8%B0-%EC%A2%8B%EB%8B%A4-oywdn4et",
         "/kr/post/34-%EC%88%9C%EC%9E%90-7t7ami31",
