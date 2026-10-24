@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T02:32:57+00:00",
+  "updatedAt": "2026-10-24T02:33:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -440172,6 +440172,45 @@
       "firstSeenAt": "2026-10-24T02:32:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82025,
+      "source": "qoo",
+      "externalId": "cmt-4384861239",
+      "title": "@6 222",
+      "excerpt": "27정숙이랑 34순자랑 닮지 않음?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384803537#4384861239",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T10:32:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:33:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82026,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%83%80%ED%88%AC-%EC%9E%88%EB%8A%94-%EC%97%AC%EC%9E%90-%EB%A7%8C%EB%82%98%EB%B3%B4%EB%A9%B4-e08ttrgq",
+      "title": "타투 있는 여자 만나보면",
+      "excerpt": "일단 내 기준 다들 어딘가 결핍이 강하게 있었음 그래서 만나면서 결혼 생각은 안들더라",
+      "author": "x*********",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC-%EC%9E%88%EB%8A%94-%EC%97%AC%EC%9E%90-%EB%A7%8C%EB%82%98%EB%B3%B4%EB%A9%B4-e08ttrgq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:33:39+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T02:33:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -440286,7 +440325,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T11:30:39+09:00"
+      "slowAt": "2026-10-24T11:33:39+09:00"
     },
     "dc": {
       "doneIds": [
