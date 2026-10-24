@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T02:38:54+00:00",
+  "updatedAt": "2026-10-24T02:40:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -440647,6 +440647,65 @@
       "firstSeenAt": "2026-10-24T02:38:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82049,
+      "source": "dc",
+      "externalId": "cmt-10967998",
+      "title": "임상병리사는 그냥 전문대 임상병리과만 나와도 가넝 - dc App",
+      "excerpt": "근데 34기 간호사 임상병리사 뭐가 더 어렵냐",
+      "author": "주리니",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6616402&page=4#cmt_10967998",
+      "postedLabel": "10.24 10:59:01",
+      "postedAt": "2026-10-24T10:59:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:40:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82050,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%96%89%EB%8F%99%EC%9D%B4-%EA%B7%B8%EB%9F%B0-%EC%9D%B4%EC%9C%A0-spwq5lfq",
+      "title": "영철이 행동이 그런 이유",
+      "excerpt": "제 나이에 맞게 과시할 만한 거리가 없기 때문임 뭐 그게 보기 좋다 옳다라는 것까진 아니지만 보통 영철 나이대에 자랑이라면 다른 꺼드럭맨들처럼 자가가 있다든가 뭐 이런 규모가 커진 자랑이어야 하는데 학벌도 스펙도 직업도 월급도 재산도 다 없다보니 결국 홍천 친구 자랑 같은 걸 하게 되는 거임",
+      "author": "l*********",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%96%89%EB%8F%99%EC%9D%B4-%EA%B7%B8%EB%9F%B0-%EC%9D%B4%EC%9C%A0-spwq5lfq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:40:39+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T02:40:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82051,
+      "source": "blind",
+      "externalId": "cmt-458139417",
+      "title": "박빙인데",
+      "excerpt": "투표글 영철 좋아하는 여자 vs 영숙 좋아하는 남자 투표",
+      "author": "l*********",
+      "company": "하나투어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90-vs-%EC%98%81%EC%88%99-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90-1lchhx4g#458139417",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:40:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:40:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -443227,7 +443286,8 @@
         "6616619",
         "6616632",
         "6616638",
-        "6616645"
+        "6616645",
+        "6616660"
       ]
     },
     "blind": {
