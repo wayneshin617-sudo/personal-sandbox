@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T07:41:33+00:00",
+  "updatedAt": "2026-10-24T07:43:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -451321,6 +451321,25 @@
       "comments": 0,
       "firstSeenAt": "2026-10-24T07:41:33+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82588,
+      "source": "dc",
+      "externalId": "6617365",
+      "title": "싸우면 누가이길까 특수부대 은서하 vs 한마유지로",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617365&page=1",
+      "postedLabel": "16:43",
+      "postedAt": "2026-10-24T16:43:11+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T07:43:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -454100,7 +454119,8 @@
         "6617342",
         "6617351",
         "6617354",
-        "6617356"
+        "6617356",
+        "6617361"
       ]
     },
     "blind": {
