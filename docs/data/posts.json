@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T11:06:27+00:00",
+  "updatedAt": "2026-10-24T11:07:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -455871,6 +455871,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-24T11:06:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82818,
+      "source": "qoo",
+      "externalId": "cmt-4385217078",
+      "title": "@2 안퍼져도 영호부터 영향 받아서 편집은 못할거 같긴해",
+      "excerpt": "순자 제작진한테 편집 요구 못했나?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385165708#4385217078",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T19:06:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:07:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82819,
+      "source": "dc",
+      "externalId": "6617739",
+      "title": "싸우면 누가이길까 시이라 vs 마키마",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "211.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617739&page=1",
+      "postedLabel": "20:06",
+      "postedAt": "2026-10-24T20:06:51+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:07:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -455990,7 +456029,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T20:04:09+09:00"
+      "slowAt": "2026-10-24T20:07:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -459281,6 +459320,7 @@
         "/kr/post/%EB%88%84%EA%B0%80-%EB%AE%A8%EC%8B%A0%EC%B6%A9%EC%9D%B4%EC%95%BC-a523avx3",
         "/kr/post/%EB%88%84%EA%B0%80-%EC%9D%B4%EC%83%81%EC%88%9C-%EC%96%98%EA%B8%B0%ED%95%B4%EC%84%9C-rfkqewc1",
         "/kr/post/%EB%88%84%EA%B0%80-%ED%98%84%EC%88%99-%EC%8B%AC%EB%A6%AC-%ED%95%B4%EC%84%9D-%EC%A2%80-rufnxrke",
+        "/kr/post/%EB%88%84%EA%B5%AC%EB%82%98-%EB%AC%B8%EC%8B%A0%EC%9D%84-%EB%B6%88%ED%98%B8%ED%95%98%EA%B3%A0-%EA%B8%B0%ED%94%BC%ED%95%A0-%EA%B6%8C%EB%A6%AC%EA%B0%80-%EC%9E%88%EB%8B%A4-y2hxokdz",
         "/kr/post/%EB%88%84%EB%82%98%EA%B5%AC%ED%95%B4%EC%9A%94-wzrme42q",
         "/kr/post/%EB%88%84%EB%82%98%EB%93%A4%EC%9D%98-%EC%9E%90%EC%95%84%EC%97%86%EB%8A%94-%EA%B0%90%EC%A0%95%EC%83%8C%EB%93%9C%EB%B0%B1%EC%9C%BC%EB%A1%9C-%EC%93%B0%EC%9D%B4%EA%B3%A0-%EC%8B%B6%EB%8B%A4-8hwrwiix",
         "/kr/post/%EB%88%84%EB%82%98-0bo75wz5",
