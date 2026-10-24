@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T13:45:25+00:00",
+  "updatedAt": "2026-10-24T13:46:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -459840,6 +459840,44 @@
       "firstSeenAt": "2026-10-24T13:45:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83019,
+      "source": "qoo",
+      "externalId": "4385402443",
+      "title": "개인적으로 광수 분발했으면",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4385402443",
+      "postedLabel": "22:46",
+      "postedAt": "2026-10-24T22:46:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T13:46:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83020,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A7%84%EC%A7%9C-%EB%AA%BB%EB%B4%90%EC%A3%BC%EA%B2%83%EB%84%A4-isgu6sx4",
+      "title": "영철이 진짜 못봐주것네",
+      "excerpt": "2대1데이트 보니 지방 나이트 죽돌이 상이네 너무 가벼워서 보기가 불편하다 진짜",
+      "author": "J*********",
+      "company": "LG에너지솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A7%84%EC%A7%9C-%EB%AA%BB%EB%B4%90%EC%A3%BC%EA%B2%83%EB%84%A4-isgu6sx4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T22:46:08+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T13:46:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -462801,6 +462839,7 @@
         "6617876",
         "6617879",
         "6617885",
+        "6617889",
         "6617892",
         "6617907",
         "6617908",
@@ -462817,7 +462856,8 @@
         "6617968",
         "6617973",
         "6617975",
-        "6617976"
+        "6617976",
+        "6617989"
       ]
     },
     "blind": {
@@ -468591,7 +468631,8 @@
         "4385310676",
         "4385351357",
         "4385361665",
-        "4385374410"
+        "4385374410",
+        "4385402443"
       ]
     },
     "keep": "v2",
