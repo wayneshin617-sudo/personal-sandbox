@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T13:46:24+00:00",
+  "updatedAt": "2026-10-24T13:48:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -459878,6 +459878,25 @@
       "comments": 0,
       "firstSeenAt": "2026-10-24T13:46:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83021,
+      "source": "dc",
+      "externalId": "6617993",
+      "title": "싸우면 누가이길까 은서하 vs 김갑룡",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617993&page=1",
+      "postedLabel": "22:47",
+      "postedAt": "2026-10-24T22:47:32+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T13:48:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -459997,7 +460016,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T22:45:08+09:00"
+      "slowAt": "2026-10-24T22:48:08+09:00"
     },
     "dc": {
       "doneIds": [
