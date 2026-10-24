@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T16:49:25+00:00",
+  "updatedAt": "2026-10-24T16:52:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -462776,6 +462776,26 @@
       "firstSeenAt": "2026-10-24T16:49:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83167,
+      "source": "blind",
+      "externalId": "cmt-458236387",
+      "title": "일단 군대가면 확실히 문신 있는 애들이 허세 가오충인걸 많이 봄. 막 무조건 이렇다 이건 아닌데 그럴 확률이 높은거지. 적어도 한국에선 선입견이 없어지는건 불가능이라고 봄",
+      "excerpt": "문신있는 사람 거르라고 하잖아",
+      "author": "i****",
+      "company": "지아이티",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%EA%B1%B0%EB%A5%B4%EB%9D%BC%EA%B3%A0-%ED%95%98%EC%9E%96%EC%95%84-z25bw4l3#458236387",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T01:52:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T16:52:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -462895,7 +462915,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T01:49:07+09:00"
+      "slowAt": "2026-10-25T01:52:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -465870,7 +465890,8 @@
         "6618289",
         "6618294",
         "6618300",
-        "6618301"
+        "6618301",
+        "6618314"
       ]
     },
     "blind": {
