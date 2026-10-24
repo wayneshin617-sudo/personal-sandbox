@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T03:47:38+00:00",
+  "updatedAt": "2026-10-24T03:48:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -443141,6 +443141,25 @@
       "firstSeenAt": "2026-10-24T03:47:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82175,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EB%8B%A8%EB%B0%B1%EC%A7%88-%EB%A8%B9%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0-%ED%95%A0%EB%95%8C-0r3ufi58",
+      "title": "현숙이 단백질 먹고 싶다고 할때",
+      "excerpt": "솔직히 다른 단백질 떠올린 사람 손 일단 나 손 ㅠ",
+      "author": "부*****",
+      "company": "삼성물산",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EB%8B%A8%EB%B0%B1%EC%A7%88-%EB%A8%B9%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0-%ED%95%A0%EB%95%8C-0r3ufi58",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T12:48:23+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T03:48:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -443219,7 +443238,7 @@
         "DdahdbpEkBT",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-24T12:45:22+09:00"
+      "slowAt": "2026-10-24T12:48:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -445766,7 +445785,8 @@
         "6616793",
         "6616794",
         "6616795",
-        "6616798"
+        "6616798",
+        "6616809"
       ]
     },
     "blind": {
@@ -446003,6 +446023,7 @@
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%82%98%EA%B0%80%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%8D%B0-yl0zwcud",
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%82%98%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EB%AC%B4%EC%8A%A8-%EC%8B%AC%EC%A0%95%EC%9D%B4%EB%83%90-835vh48g",
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%85%B8%EB%9E%98-%EC%9D%98%EB%AF%B8-%EC%9D%8C%EC%B9%A8%ED%95%98%EB%8D%98%EB%8D%B0-ezbhbj5m",
+        "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%B3%B4%EB%8A%94%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EB%8B%A4-%EB%8A%99%ED%81%AC%ED%81%AC%EC%A7%80-oibtach3",
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EC%98%81%EC%88%99-k0zscf2s",
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-34%EA%B8%B0-%EC%98%81%EC%B2%A0-ueijlge4",
         "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-ott%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EB%8B%A4-%EB%A7%89%ED%9E%8C-%EA%B1%B0-%EB%84%88%EB%AC%B4-%ED%82%B9%EB%B0%9B%EC%95%84%E3%85%A0-bighlvgs",
@@ -446505,6 +446526,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94-%EB%85%80%EC%84%9D%EB%93%A4%EC%9D%80-%EB%82%A8%EB%93%A4-%EC%8B%9C%EC%84%A0-%EC%8B%A0%EA%B2%BD-%EC%95%88-%EC%93%B0%EA%B3%A0-%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4-%EC%98%81%ED%98%BC%EC%9D%B8%EC%B2%99-%ED%95%98%EB%A9%B4%EC%84%9C-wzjy5o62",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8B%88%EA%B9%8C-buuudqro",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B1%B4-%EC%95%84%EB%8B%88%EC%A7%80%EB%A7%8C-evieqgl5",
+        "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%97%90%EA%B2%8C-%EC%96%B4%EC%9A%B8%EB%A6%AC%EB%8A%94-%EC%86%8D%EB%8B%B4-s1a7mj60",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EB%AC%B8%EC%8B%A0-%EC%99%9C%ED%96%88%EB%83%90%EA%B3%A0-%EC%96%B4%EB%96%A4%EA%B1%B0%EB%83%90%EA%B3%A0-%EB%AC%BC%EC%96%B4%EB%B3%B4%EB%A9%B4-%EB%8B%B5%EC%9D%84-%EC%95%88%ED%95%A8-ple3sdst",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-udm7p6tk",
         "/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B9%84%ED%95%98%ED%95%98%EA%B3%A0-%ED%98%90%EC%98%A4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%B3%84%EB%A1%9C%EB%83%90%E3%85%8B%E3%85%8B-iv0kwuj3",
