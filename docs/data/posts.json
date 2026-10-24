@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T02:25:56+00:00",
+  "updatedAt": "2026-10-24T02:26:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -439954,6 +439954,45 @@
       "firstSeenAt": "2026-10-24T02:25:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82014,
+      "source": "dc",
+      "externalId": "6616619",
+      "title": "난 흰피부가 뭐가 좋은질 몰겠음",
+      "excerpt": "",
+      "author": "모기사형집행관",
+      "company": "",
+      "ip": "119.69",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6616619&page=1",
+      "postedLabel": "11:26",
+      "postedAt": "2026-10-24T11:26:32+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:26:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82015,
+      "source": "blind",
+      "externalId": "cmt-458137974",
+      "title": "그런거 찾아가는 경우가많나 ㅋㅋㅋ",
+      "excerpt": "아니근데 치킨집 묻는거 ㅋㅋㅋㅋ",
+      "author": "i******** 작성자",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88%EA%B7%BC%EB%8D%B0-%EC%B9%98%ED%82%A8%EC%A7%91-%EB%AC%BB%EB%8A%94%EA%B1%B0-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-jgiskisj#458137974",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:26:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:26:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -440031,7 +440070,7 @@
         "Dd1W4QZDdk9",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-24T11:23:39+09:00"
+      "slowAt": "2026-10-24T11:26:39+09:00"
     },
     "ig": {
       "doneIds": [
@@ -442525,7 +442564,8 @@
         "6616594",
         "6616601",
         "6616604",
-        "6616610"
+        "6616610",
+        "6616612"
       ]
     },
     "blind": {
