@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T10:17:26+00:00",
+  "updatedAt": "2026-10-24T10:19:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -455221,6 +455221,46 @@
       "firstSeenAt": "2026-10-24T10:17:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82785,
+      "source": "qoo",
+      "externalId": "cmt-4385182391",
+      "title": "헐....",
+      "excerpt": "오우..영수영숙 미방분편 보는데 ㅋㅋㅋㅋ 엄마아빠 똑같은 분 맞죠? 라고 묻는 거",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385167619#4385182391",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T18:18:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T10:19:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82786,
+      "source": "blind",
+      "externalId": "cmt-458185441",
+      "title": "최소 gpt에게 물어보고 달자 무른 나름 학군지 타령이야",
+      "excerpt": "문신에 선입견 안가지는 블라인들 이거 다 괜찮지?",
+      "author": "ჱ*********",
+      "company": "라인플러스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%EC%84%A0%EC%9E%85%EA%B2%AC-%EC%95%88%EA%B0%80%EC%A7%80%EB%8A%94-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%A4-%EC%9D%B4%EA%B1%B0-%EB%8B%A4-%EA%B4%9C%EC%B0%AE%EC%A7%80-a2ytacue#458185441",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-24T19:18:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T10:19:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -455340,7 +455380,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T19:16:10+09:00"
+      "slowAt": "2026-10-24T19:19:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -458070,6 +458110,7 @@
         "6617568",
         "6617572",
         "6617575",
+        "6617577",
         "6617585",
         "6617590",
         "6617595",
