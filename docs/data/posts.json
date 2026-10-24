@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T11:29:26+00:00",
+  "updatedAt": "2026-10-24T11:30:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -456284,6 +456284,45 @@
       "firstSeenAt": "2026-10-24T11:29:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82839,
+      "source": "qoo",
+      "externalId": "cmt-4385232421",
+      "title": "자기자신에게 취한느낌",
+      "excerpt": "아 이번주꺼 보는데 영철 ㅋㅋㅋ 멀미약 사러 가는 거 너무 에바여",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385059546#4385232421",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T19:30:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:30:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82840,
+      "source": "dc",
+      "externalId": "6617773",
+      "title": "싸우면 누가이길까 은서하 vs 한마유지로",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "211.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617773&page=1",
+      "postedLabel": "20:29",
+      "postedAt": "2026-10-24T20:29:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:30:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -456363,7 +456402,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-24T20:27:10+09:00"
+      "slowAt": "2026-10-24T20:30:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -459176,6 +459215,7 @@
         "6617673",
         "6617674",
         "6617678",
+        "6617682",
         "6617685",
         "6617689",
         "6617693",
