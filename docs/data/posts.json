@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T03:41:38+00:00",
+  "updatedAt": "2026-10-24T03:43:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -442963,6 +442963,46 @@
       "firstSeenAt": "2026-10-24T03:41:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82166,
+      "source": "qoo",
+      "externalId": "cmt-4384901070",
+      "title": "ㄹㅇ",
+      "excerpt": "영철 왜이렇게 과하고 작위적이지 ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384876803#4384901070",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T11:42:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T03:43:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82167,
+      "source": "qoo",
+      "externalId": "cmt-4384901276",
+      "title": "ㅇㅈ",
+      "excerpt": "나덬 기준 남출 호감순위",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384590159#4384901276",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T11:43:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T03:43:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -443078,7 +443118,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T12:40:22+09:00"
+      "slowAt": "2026-10-24T12:43:22+09:00"
     },
     "dc": {
       "doneIds": [
@@ -445583,7 +445623,8 @@
         "6616773",
         "6616777",
         "6616790",
-        "6616793"
+        "6616793",
+        "6616794"
       ]
     },
     "blind": {
