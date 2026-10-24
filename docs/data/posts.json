@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T10:03:27+00:00",
+  "updatedAt": "2026-10-24T10:05:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -455022,6 +455022,46 @@
       "firstSeenAt": "2026-10-24T10:03:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82775,
+      "source": "qoo",
+      "externalId": "cmt-4385170734",
+      "title": "나도 이런건줄",
+      "excerpt": "그냥 궁예이긴한데 문신얘기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385143867#4385170734",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T18:04:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T10:05:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82776,
+      "source": "blind",
+      "externalId": "cmt-458180662",
+      "title": "순자가 하향이 아니라 급 맞춰 간거지.. 근데 지금도 상향 같음",
+      "excerpt": "이 조합이 잘 어울렸는데",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4-%EC%A1%B0%ED%95%A9%EC%9D%B4-%EC%9E%98-%EC%96%B4%EC%9A%B8%EB%A0%B8%EB%8A%94%EB%8D%B0-ryg6nao7#458180662",
+      "postedLabel": "32분",
+      "postedAt": "2026-10-24T18:33:09+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T10:05:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -457885,6 +457925,7 @@
         "6617631",
         "6617641",
         "6617643",
+        "6617644",
         "6617646"
       ]
     },
