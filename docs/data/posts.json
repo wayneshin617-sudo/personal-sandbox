@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T08:14:33+00:00",
+  "updatedAt": "2026-10-24T08:15:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -452225,6 +452225,46 @@
       "firstSeenAt": "2026-10-24T08:14:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82634,
+      "source": "blind",
+      "externalId": "cmt-458172589",
+      "title": "지금 34기…?????",
+      "excerpt": "옥순님 진짜궁금해서 물어봅니다",
+      "author": "바******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EB%8B%98-%EC%A7%84%EC%A7%9C%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EB%AC%BC%EC%96%B4%EB%B4%85%EB%8B%88%EB%8B%A4-ar285b6x#458172589",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T17:15:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:15:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82635,
+      "source": "blind",
+      "externalId": "cmt-458172615",
+      "title": "헤어졌다고 정신병원 다닐 정도면 헤어지는게 맞다",
+      "excerpt": "옥순님 진짜궁금해서 물어봅니다",
+      "author": "a*********",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EB%8B%98-%EC%A7%84%EC%A7%9C%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EB%AC%BC%EC%96%B4%EB%B4%85%EB%8B%88%EB%8B%A4-ar285b6x#458172615",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T17:15:15+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:15:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -452342,7 +452382,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T17:12:15+09:00"
+      "slowAt": "2026-10-24T17:15:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -454996,6 +455036,7 @@
         "6617290",
         "6617297",
         "6617299",
+        "6617301",
         "6617304",
         "6617308",
         "6617312",
