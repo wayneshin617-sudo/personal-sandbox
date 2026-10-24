@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T11:44:26+00:00",
+  "updatedAt": "2026-10-24T11:45:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -456618,6 +456618,25 @@
       "firstSeenAt": "2026-10-24T11:44:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82856,
+      "source": "dc",
+      "externalId": "6617801",
+      "title": "근데 시이라가 파괴신 비루스 만나면 어떻게 될까?",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "211.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617801&page=1",
+      "postedLabel": "20:44",
+      "postedAt": "2026-10-24T20:44:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:45:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -456697,7 +456716,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-24T20:42:09+09:00"
+      "slowAt": "2026-10-24T20:45:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -465283,7 +465302,8 @@
         "4385193613",
         "4385206419",
         "4385207226",
-        "4385249267"
+        "4385249267",
+        "4385285361"
       ]
     },
     "keep": "v2",
