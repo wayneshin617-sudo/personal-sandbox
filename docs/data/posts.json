@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T14:54:25+00:00",
+  "updatedAt": "2026-10-24T14:55:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -461051,6 +461051,26 @@
       "firstSeenAt": "2026-10-24T14:54:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83080,
+      "source": "qoo",
+      "externalId": "cmt-4385412255",
+      "title": "받고 영식도! 분발해라 ✊✊",
+      "excerpt": "개인적으로 광수 분발했으면",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385402443#4385412255",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T22:55:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T14:55:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -461170,7 +461190,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T23:52:07+09:00"
+      "slowAt": "2026-10-24T23:55:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -464074,7 +464094,8 @@
         "6618119",
         "6618132",
         "6618143",
-        "6618145"
+        "6618145",
+        "6618147"
       ]
     },
     "blind": {
