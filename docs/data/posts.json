@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T10:52:26+00:00",
+  "updatedAt": "2026-10-24T10:53:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -455735,6 +455735,25 @@
       "firstSeenAt": "2026-10-24T10:52:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82811,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%A0%88%EC%A6%88%EB%AF%B8%EB%A7%8C-%EC%95%84%EB%8B%88%EB%A9%B4-%EA%B4%9C%EC%B0%AE%EC%9D%8C-nk0gb6k5",
+      "title": "이레즈미만 아니면 괜찮음",
+      "excerpt": "ㅇㅈㄹ ㅋㅋㅋㅋㅋ 비흡연자 입장에선 연초나 전담이나 똑같은 흡연충임",
+      "author": "e*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%A0%88%EC%A6%88%EB%AF%B8%EB%A7%8C-%EC%95%84%EB%8B%88%EB%A9%B4-%EA%B4%9C%EC%B0%AE%EC%9D%8C-nk0gb6k5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T19:53:09+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T10:53:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -458631,7 +458650,8 @@
         "6617697",
         "6617704",
         "6617705",
-        "6617709"
+        "6617709",
+        "6617718"
       ]
     },
     "blind": {
