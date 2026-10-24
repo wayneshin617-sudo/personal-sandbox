@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T12:20:25+00:00",
+  "updatedAt": "2026-10-24T12:21:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -457443,6 +457443,45 @@
       "firstSeenAt": "2026-10-24T12:20:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82898,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%B2%98%EB%9F%BC-%ED%9B%88%EB%82%A8-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%80-burpqf5n",
+      "title": "영철 처럼 훈남 공무원은",
+      "excerpt": "공무원이여도 인기 많아??",
+      "author": "j******",
+      "company": "LG CNS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%B2%98%EB%9F%BC-%ED%9B%88%EB%82%A8-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%80-burpqf5n",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T21:21:08+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T12:21:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82899,
+      "source": "blind",
+      "externalId": "cmt-458199781",
+      "title": "나르의 전형적인 정병",
+      "excerpt": "영철 현숙 토나오니까",
+      "author": "l*******",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-%ED%86%A0%EB%82%98%EC%98%A4%EB%8B%88%EA%B9%8C-amxn3ete#458199781",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T21:21:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T12:21:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -457562,7 +457601,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T21:18:08+09:00"
+      "slowAt": "2026-10-24T21:21:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -460384,7 +460423,8 @@
         "6617831",
         "6617839",
         "6617841",
-        "6617844"
+        "6617844",
+        "6617857"
       ]
     },
     "blind": {
@@ -462485,6 +462525,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%ED%96%89%EB%8F%99%EC%9D%B4-np7tqx8r",
         "/kr/post/%EC%98%81%EC%B2%A0-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94%EA%B2%8C-%EC%99%9C%EC%BC%80-%EA%B8%89%EC%8B%9D%EA%B0%99%EB%83%90-d66glioe",
         "/kr/post/%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-%EB%81%BC%EB%A6%AC%EB%81%BC%EB%A6%AC%EC%9E%84-sk04ogol",
+        "/kr/post/%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-%ED%86%A0%EB%82%98%EC%98%A4%EB%8B%88%EA%B9%8C-amxn3ete",
         "/kr/post/%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-nqveo85x",
         "/kr/post/%EC%98%81%EC%B2%A0-%ED%98%B8%EA%B0%90%EB%8F%84-2%EC%9C%84-%EC%98%81%EC%9E%90%EB%8A%94-%EC%99%9C%EB%A7%90%ED%95%9C%EA%B1%B0%EC%9E%84-vmd7e3tx",
         "/kr/post/%EC%98%81%EC%B2%A0-%ED%99%8D%EC%B2%9C-%EC%A7%80%EC%9D%B8-%EC%B0%BE%EC%9D%84%EB%95%8C-gypstwpl",
