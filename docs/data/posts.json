@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T05:11:39+00:00",
+  "updatedAt": "2026-10-24T05:12:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -446469,6 +446469,45 @@
       "firstSeenAt": "2026-10-24T05:11:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82343,
+      "source": "dc",
+      "externalId": "6616977",
+      "title": "지역으로 싸우지마라...",
+      "excerpt": "",
+      "author": "ㅗㄱ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6616977&page=1",
+      "postedLabel": "14:11",
+      "postedAt": "2026-10-24T14:11:49+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T05:12:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82344,
+      "source": "blind",
+      "externalId": "cmt-458154902",
+      "title": "나도 이 생각 애초에 문신을 하지 않는 게 사회적 통념에 가깝다면 타인을 존중하는 건 대인관계에서 지켜야 할 제일 기본적인 도덕적 규범에 가까운 거 아닌가?",
+      "excerpt": "근데 난 나대고 사람 무시한 영철이랑 남의 사적인 부분 까발린 영숙보다 문신 하나 때문에 순자가 더 욕먹는 게 넘 이해 안됨",
+      "author": "u******",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%9C-%EB%82%98%EB%8C%80%EA%B3%A0-%EC%82%AC%EB%9E%8C-%EB%AC%B4%EC%8B%9C%ED%95%9C-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EB%82%A8%EC%9D%98-%EC%82%AC%EC%A0%81%EC%9D%B8-%EB%B6%80%EB%B6%84-%EA%B9%8C%EB%B0%9C%EB%A6%B0-%EC%98%81%EC%88%99%EB%B3%B4%EB%8B%A4-%EB%AC%B8%EC%8B%A0-%ED%95%98%EB%82%98-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%88%9C%EC%9E%90%EA%B0%80-%EB%8D%94-%EC%9A%95%EB%A8%B9%EB%8A%94-%EA%B2%8C-%EB%84%98-%EC%9D%B4%ED%95%B4-%EC%95%88%EB%90%A8-xb4ygzmh#458154902",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T14:12:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T05:12:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -446547,7 +446586,7 @@
         "DdahdbpEkBT",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-24T14:09:23+09:00"
+      "slowAt": "2026-10-24T14:12:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -449153,7 +449192,8 @@
         "6616957",
         "6616961",
         "6616962",
-        "6616971"
+        "6616971",
+        "6616974"
       ]
     },
     "blind": {
