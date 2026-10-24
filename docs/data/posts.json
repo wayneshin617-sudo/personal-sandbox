@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T12:14:26+00:00",
+  "updatedAt": "2026-10-24T12:16:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -457247,6 +457247,45 @@
       "firstSeenAt": "2026-10-24T12:14:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82888,
+      "source": "qoo",
+      "externalId": "4385310676",
+      "title": "옥순 왜 상철이야 ㅜㅜ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4385310676",
+      "postedLabel": "21:16",
+      "postedAt": "2026-10-24T21:16:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T12:16:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82889,
+      "source": "blind",
+      "externalId": "cmt-458199230",
+      "title": "그래서 연예인들 살자 많이 하잖아",
+      "excerpt": "여기 게시판 뿐만 아니라 요즘 커뮤니티를 보며 느낀점",
+      "author": "l*********",
+      "company": "스노우",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9A%94%EC%A6%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80%EC%A0%90-ek2dm50k#458199230",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T21:16:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T12:16:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -460164,6 +460203,7 @@
         "6617744",
         "6617747",
         "6617748",
+        "6617753",
         "6617755",
         "6617759",
         "6617760",
@@ -461597,6 +461637,7 @@
         "/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C-%EB%A7%8C%EB%82%98%EB%A9%B4-1bjqebmm",
         "/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%B9%84%EB%B0%A9%ED%95%98%EB%8A%94%EA%B1%B0%EC%9E%88%EC%9E%96%EC%95%84-syo2fanc",
         "/kr/post/%EC%97%AC%EA%B8%B0%EC%97%90%EC%84%9C-%EC%B0%B8%EC%9D%84%EC%84%B1-%EB%A7%8E%EC%9D%80-%EB%AA%A8%EC%8A%B5%EB%A7%8C-jf24n2ti",
+        "/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9A%94%EC%A6%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80%EC%A0%90-ek2dm50k",
         "/kr/post/%EC%97%AC%EA%B8%B0-%EA%B7%BC%EB%8D%B0-%EA%B2%B0%ED%98%BC%ED%95%98%EA%B3%A0-%EC%9C%A1%EC%95%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-euzpvpu6",
         "/kr/post/%EC%97%AC%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4%ED%95%9C%ED%85%8C-%EC%97%B4%EB%93%B1%EA%B0%90-%EC%A7%80%EB%A6%AC%EB%88%84%E3%85%8B%E3%85%8B-kc3pceaq",
         "/kr/post/%EC%97%AC%EA%B8%B4-%EB%A7%A8%EB%82%A0-%EA%B2%B0%ED%98%BC-%EB%AA%BB%ED%95%9C%EA%B1%B0%EB%8B%A4-%EC%95%88%ED%95%9C%EA%B1%B0%EB%8B%A4%EB%9D%BC%EA%B3%A0-%EC%8B%B8%EC%9A%B0%EB%8A%94%EB%8D%B0-mirko1q8",
@@ -465936,7 +465977,8 @@
         "4385207226",
         "4385249267",
         "4385285361",
-        "4385286113"
+        "4385286113",
+        "4385310676"
       ]
     },
     "keep": "v2",
