@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T09:31:25+00:00",
+  "updatedAt": "2026-10-24T09:32:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -454510,6 +454510,25 @@
       "comments": 0,
       "firstSeenAt": "2026-10-24T09:31:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82749,
+      "source": "dc",
+      "externalId": "6617598",
+      "title": "싸우면 누가이길까 은서하 vs 박하얀",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617598&page=1",
+      "postedLabel": "18:31",
+      "postedAt": "2026-10-24T18:31:49+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T09:32:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -457350,7 +457369,8 @@
         "6617568",
         "6617572",
         "6617575",
-        "6617585"
+        "6617585",
+        "6617590"
       ]
     },
     "blind": {
@@ -457919,6 +457939,7 @@
         "/kr/post/%EB%8F%88%EB%B2%8C%EA%B3%A0-%EB%B0%A9%EC%86%A1%ED%83%88%EB%A0%A4%EB%8A%94%EA%B2%8C-6bcj6lqj",
         "/kr/post/%EB%8F%88%EC%9C%BC%EB%A1%9C-%EA%BC%AC%EC%8B%9C%EB%82%98-tjavaccx",
         "/kr/post/%EB%8F%8C%EC%87%A0-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9E%88%EC%9D%8C-2oh4n37a",
+        "/kr/post/%EB%8F%8C%EC%8B%B1%EB%82%A8-%EC%85%80%EC%86%8C-m0xw70dv",
         "/kr/post/%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%98%EC%A0%95%ED%98%84-%EC%A7%80%EB%94%94%EB%9E%91-%EB%84%88%EB%AC%B4-%EB%8B%AE%EC%95%98%EB%8A%94%EB%8D%B0-te80f4bj",
         "/kr/post/%EB%8F%99%EA%B1%B0-%ED%9B%84-%EC%9D%B4%EB%B3%84-em4svh46",
         "/kr/post/%EB%91%90%EB%B6%84-%EC%9E%98%EC%96%B4%EC%9A%B8%EB%A0%A4%EC%9A%94-5irtrclt",
