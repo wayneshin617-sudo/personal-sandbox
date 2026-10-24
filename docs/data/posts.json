@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T12:18:26+00:00",
+  "updatedAt": "2026-10-24T12:19:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -457344,6 +457344,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-24T12:18:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82893,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%B4%EB%8B%A4-43ja2jy5",
+      "title": "영호 이상형이다...",
+      "excerpt": "이번기수 도쿄영호 닮은 남자 없나",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%B4%EB%8B%A4-43ja2jy5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T21:19:08+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T12:19:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82894,
+      "source": "blind",
+      "externalId": "cmt-458199568",
+      "title": "ㅇㅇ그치",
+      "excerpt": "여기 게시판 뿐만 아니라 요즘 커뮤니티를 보며 느낀점",
+      "author": "L***** 작성자",
+      "company": "LG CNS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9A%94%EC%A6%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80%EC%A0%90-ek2dm50k#458199568",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T21:19:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T12:19:26+00:00",
       "isSeed": false,
       "kind": "reply"
     }
