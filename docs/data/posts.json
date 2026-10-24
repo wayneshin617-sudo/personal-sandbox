@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T13:32:26+00:00",
+  "updatedAt": "2026-10-24T13:37:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -459501,6 +459501,26 @@
       "firstSeenAt": "2026-10-24T13:32:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83002,
+      "source": "qoo",
+      "externalId": "cmt-4385329439",
+      "title": "시어머니보다 더하지",
+      "excerpt": "시누 많아서 걱정하던데 시누이 갈등이 꽤 많나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385017370#4385329439",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T21:36:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T13:37:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -462459,6 +462479,7 @@
         "6617865",
         "6617870",
         "6617875",
+        "6617876",
         "6617879",
         "6617885",
         "6617892",
