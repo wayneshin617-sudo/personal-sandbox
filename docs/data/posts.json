@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T05:38:39+00:00",
+  "updatedAt": "2026-10-24T05:43:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -448454,6 +448454,45 @@
       "firstSeenAt": "2026-10-24T05:38:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82443,
+      "source": "blind",
+      "externalId": "cmt-458156809",
+      "title": "난 직쏘상 싫음…",
+      "excerpt": "현숙 닮앗나? 이거 자꾸 생각나는데",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%8B%AE%EC%95%97%EB%82%98-%EC%9D%B4%EA%B1%B0-%EC%9E%90%EA%BE%B8-%EC%83%9D%EA%B0%81%EB%82%98%EB%8A%94%EB%8D%B0-atje8cd0#458156809",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-24T14:32:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T05:43:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82444,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0-%EA%B8%89-%EB%82%98%EB%88%84%EA%B8%B0-%EC%9D%B8%EC%A0%95-%EC%95%88%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-z6sh24aa",
+      "title": "문신 급 나누기 인정 안하는 이유",
+      "excerpt": "이레즈미랑 레터링이랑 다르다며 귀여운 동물,레터링 문신은 괜찮다고 하지마라 연초가 전담이랑 다르다고 울부짖는 흡연가와 다를게 없다 1개를 피던 1갑을 피던 흡연자다. 이레즈미던 레터링이던 문신이다.",
+      "author": "i*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EA%B8%89-%EB%82%98%EB%88%84%EA%B8%B0-%EC%9D%B8%EC%A0%95-%EC%95%88%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-z6sh24aa",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T14:43:22+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T05:43:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -448571,7 +448610,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T14:40:22+09:00"
+      "slowAt": "2026-10-24T14:43:22+09:00"
     },
     "dc": {
       "doneIds": [
@@ -451157,7 +451196,8 @@
         "6617018",
         "6617019",
         "6617024",
-        "6617025"
+        "6617025",
+        "6617028"
       ]
     },
     "blind": {
