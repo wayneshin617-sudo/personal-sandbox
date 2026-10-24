@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T16:42:25+00:00",
+  "updatedAt": "2026-10-24T16:44:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -462676,6 +462676,45 @@
       "recommends": null,
       "comments": 0,
       "firstSeenAt": "2026-10-24T16:42:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83162,
+      "source": "qoo",
+      "externalId": "cmt-4385513164",
+      "title": "자기 나름 어필요손가봐",
+      "excerpt": "영숙은 가스밸브도 안 열어봤다는 소리를 몇 번을 하냐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385413418#4385513164",
+      "postedLabel": "",
+      "postedAt": "2026-10-25T00:43:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T16:44:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83163,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%EA%B1%B0%EB%A5%B4%EB%9D%BC%EA%B3%A0-%ED%95%98%EC%9E%96%EC%95%84-z25bw4l3",
+      "title": "문신있는 사람 거르라고 하잖아",
+      "excerpt": "직접 겪은 거 있어? 요즘 관심 있는 남자가 한쪽 팔 위에만 이레즈미 있어 어릴 때 했대 술 담배 해",
+      "author": "!*******",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%EA%B1%B0%EB%A5%B4%EB%9D%BC%EA%B3%A0-%ED%95%98%EC%9E%96%EC%95%84-z25bw4l3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T01:44:07+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T16:44:25+00:00",
       "isSeed": false
     }
   ],
