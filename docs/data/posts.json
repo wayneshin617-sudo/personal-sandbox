@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T15:46:25+00:00",
+  "updatedAt": "2026-10-24T15:49:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -462284,6 +462284,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-24T15:46:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83142,
+      "source": "dc",
+      "externalId": "cmt-10969135",
+      "title": "깜짝이야",
+      "excerpt": "나는 솔로에서 귀신 나왔다",
+      "author": "웅냐웅냐",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617999&page=4#cmt_10969135",
+      "postedLabel": "10.24 23:13:02",
+      "postedAt": "2026-10-24T23:13:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T15:49:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83143,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EB%8B%88-%EC%98%81%EC%B2%A0-37%EC%82%B4%EC%9D%B4%EC%95%BC-qx6v6cdt",
+      "title": "아니 영철 37살이야?",
+      "excerpt": "나이를 동구녕으로 먹었나 내일모레 마흔 ㄷㄷㄷㄷ",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EC%98%81%EC%B2%A0-37%EC%82%B4%EC%9D%B4%EC%95%BC-qx6v6cdt",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T00:49:07+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T15:49:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -462403,7 +462442,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T00:46:07+09:00"
+      "slowAt": "2026-10-25T00:49:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -465278,6 +465317,7 @@
         "6617989",
         "6617994",
         "6617996",
+        "6617999",
         "6618005",
         "6618015",
         "6618019",
@@ -465320,6 +465360,7 @@
         "6618124",
         "6618126",
         "6618129",
+        "6618130",
         "6618132",
         "6618143",
         "6618145",
