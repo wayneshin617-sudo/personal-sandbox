@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T11:58:26+00:00",
+  "updatedAt": "2026-10-24T12:00:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -456913,6 +456913,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-24T11:58:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82871,
+      "source": "dc",
+      "externalId": "6617832",
+      "title": "싸우면 누가이길까 비루스 vs 다크사이드",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "211.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617832&page=1",
+      "postedLabel": "20:59",
+      "postedAt": "2026-10-24T20:59:44+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T12:00:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -457032,7 +457051,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T20:57:07+09:00"
+      "slowAt": "2026-10-24T21:00:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -459823,6 +459842,7 @@
         "6617723",
         "6617724",
         "6617730",
+        "6617732",
         "6617735",
         "6617736",
         "6617738",
@@ -459847,7 +459867,8 @@
         "6617800",
         "6617805",
         "6617817",
-        "6617821"
+        "6617821",
+        "6617830"
       ]
     },
     "blind": {
