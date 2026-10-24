@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T07:46:29+00:00",
+  "updatedAt": "2026-10-24T07:47:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -451438,6 +451438,45 @@
       "firstSeenAt": "2026-10-24T07:46:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82594,
+      "source": "dc",
+      "externalId": "6617370",
+      "title": "싸우면 누가이길까 은서하 vs 김갑룡",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617370&page=1",
+      "postedLabel": "16:46",
+      "postedAt": "2026-10-24T16:46:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T07:47:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82595,
+      "source": "blind",
+      "externalId": "cmt-458169872",
+      "title": "왠지 그럴 것 같아서 물어봄 ㅋㅋㅋ ESTJ가 팩폭은 최고지 ㅋㅋ",
+      "excerpt": "문신은 '반사회적'인 행위임",
+      "author": "i*********",
+      "company": "ex-기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EB%B0%98%EC%82%AC%ED%9A%8C%EC%A0%81%EC%9D%B8-%ED%96%89%EC%9C%84%EC%9E%84-fhw455ie#458169872",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T16:47:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T07:47:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -451516,7 +451555,7 @@
         "DdahdbpEkBT",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-24T16:44:15+09:00"
+      "slowAt": "2026-10-24T16:47:15+09:00"
     },
     "ig": {
       "doneIds": [
