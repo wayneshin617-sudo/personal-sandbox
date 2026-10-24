@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T05:45:37+00:00",
+  "updatedAt": "2026-10-24T05:46:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -448612,6 +448612,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-24T05:45:37+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82451,
+      "source": "qoo",
+      "externalId": "cmt-4384978802",
+      "title": "ㄹㅇ",
+      "excerpt": "영철 왜이렇게 과하고 작위적이지 ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384876803#4384978802",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T13:45:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T05:46:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82452,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%8B%A4%EB%93%A4-%EC%BA%90%EB%A6%AD%ED%84%B0-%ED%99%95%EC%8B%A4%ED%95%B4%EC%84%9C-%EC%A2%8B%EB%8B%A4-580nxwpw",
+      "title": "이번기수 다들 캐릭터 확실해서 좋다",
+      "excerpt": "막내 영수 도쿄 영호 외룡남 영철 꺼드럭 상철 러닝크루 영숙 문신 순자 잇몸 영자 릴리 현숙 영식, 광수, 옥순, 정숙이 애매하네 캐릭터성이",
+      "author": "U*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%8B%A4%EB%93%A4-%EC%BA%90%EB%A6%AD%ED%84%B0-%ED%99%95%EC%8B%A4%ED%95%B4%EC%84%9C-%EC%A2%8B%EB%8B%A4-580nxwpw",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T14:46:23+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T05:46:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -448729,7 +448768,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T14:43:22+09:00"
+      "slowAt": "2026-10-24T14:46:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -451224,6 +451263,7 @@
         "6616667",
         "6616670",
         "6616671",
+        "6616673",
         "6616677",
         "6616678",
         "6616684",
@@ -451317,7 +451357,8 @@
         "6617019",
         "6617024",
         "6617025",
-        "6617028"
+        "6617028",
+        "6617033"
       ]
     },
     "blind": {
