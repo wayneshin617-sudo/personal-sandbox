@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T09:58:26+00:00",
+  "updatedAt": "2026-10-24T09:59:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -454803,6 +454803,46 @@
       "firstSeenAt": "2026-10-24T09:58:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82764,
+      "source": "qoo",
+      "externalId": "cmt-4385166010",
+      "title": "아 난 걍 방송볼때부터 이건줄알았는데 플은 일부러 멕인거다 이렇게 돌았었나보네;",
+      "excerpt": "그냥 궁예이긴한데 문신얘기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385143867#4385166010",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T17:59:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T09:59:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82765,
+      "source": "blind",
+      "externalId": "cmt-458183411",
+      "title": "못배워먹고커서",
+      "excerpt": "영숙이 왤케 잡도리함?",
+      "author": "u******",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%99%A4%EC%BC%80-%EC%9E%A1%EB%8F%84%EB%A6%AC%ED%95%A8-tmdyl24c#458183411",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T18:59:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T09:59:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -457661,7 +457701,9 @@
         "6617620",
         "6617622",
         "6617628",
-        "6617631"
+        "6617631",
+        "6617641",
+        "6617643"
       ]
     },
     "blind": {
