@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T04:48:38+00:00",
+  "updatedAt": "2026-10-24T04:50:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -445398,6 +445398,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-24T04:48:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82289,
+      "source": "dc",
+      "externalId": "cmt-10968217",
+      "title": "심리적인것도 영향있음 기름냄새 맡아도 멀미심해지고",
+      "excerpt": "현숙처럼 멀미 심하게 하는 사람으로서 말하자면",
+      "author": "ㅇㅅㅇ",
+      "company": "",
+      "ip": "121.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6616816&page=2#cmt_10968217",
+      "postedLabel": "10.24 13:12:20",
+      "postedAt": "2026-10-24T13:12:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T04:50:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82290,
+      "source": "dc",
+      "externalId": "cmt-10968253",
+      "title": "나만 그러한 거는 아니었네.. 나도 멀미는 심한데..",
+      "excerpt": "현숙처럼 멀미 심하게 하는 사람으로서 말하자면",
+      "author": "예쁘고1이쁘고2귀엽고3사랑스러워",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6616816&page=2#cmt_10968253",
+      "postedLabel": "10.24 13:33:05",
+      "postedAt": "2026-10-24T13:33:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T04:50:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -448046,6 +448086,7 @@
         "6616809",
         "6616810",
         "6616812",
+        "6616816",
         "6616818",
         "6616825",
         "6616829",
@@ -448069,7 +448110,8 @@
         "6616916",
         "6616921",
         "6616922",
-        "6616928"
+        "6616928",
+        "6616937"
       ]
     },
     "blind": {
