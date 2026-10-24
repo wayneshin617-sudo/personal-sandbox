@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T08:23:33+00:00",
+  "updatedAt": "2026-10-24T08:24:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -452424,6 +452424,86 @@
       "firstSeenAt": "2026-10-24T08:23:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82644,
+      "source": "blind",
+      "externalId": "cmt-458168706",
+      "title": "문신 차별하지 말라면서 이레즈미는 차별하는 문신충들은 뭐냐",
+      "excerpt": "문신에 편견 없는 사람들 이거도 가능?",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%ED%8E%B8%EA%B2%AC-%EC%97%86%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9D%B4%EA%B1%B0%EB%8F%84-%EA%B0%80%EB%8A%A5-1y1tht5g#458168706",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-24T16:36:15+09:00",
+      "views": null,
+      "recommends": 7,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:24:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82645,
+      "source": "blind",
+      "externalId": "cmt-458169691",
+      "title": "뭐 이제는 문신충에도 급이 있는건가... 이레즈미 문신 헤나 등등...어렵네",
+      "excerpt": "문신에 편견 없는 사람들 이거도 가능?",
+      "author": "ㅣ******",
+      "company": "삼일회계법인",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%ED%8E%B8%EA%B2%AC-%EC%97%86%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9D%B4%EA%B1%B0%EB%8F%84-%EA%B0%80%EB%8A%A5-1y1tht5g#458169691",
+      "postedLabel": "39분",
+      "postedAt": "2026-10-24T16:45:15+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:24:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82646,
+      "source": "blind",
+      "externalId": "cmt-458171077",
+      "title": "싫지",
+      "excerpt": "문신에 편견 없는 사람들 이거도 가능?",
+      "author": "I*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%97%90-%ED%8E%B8%EA%B2%AC-%EC%97%86%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9D%B4%EA%B1%B0%EB%8F%84-%EA%B0%80%EB%8A%A5-1y1tht5g#458171077",
+      "postedLabel": "25분",
+      "postedAt": "2026-10-24T16:59:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:24:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82647,
+      "source": "dc",
+      "externalId": "cmt-10968546",
+      "title": "왁구지 - dc App",
+      "excerpt": "레슬러는 뭐가 문제냐",
+      "author": "k갤러",
+      "company": "",
+      "ip": "121.177",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617460&page=1#cmt_10968546",
+      "postedLabel": "10.24 17:23:26",
+      "postedAt": "2026-10-24T17:23:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:24:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -452541,7 +452621,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T17:21:15+09:00"
+      "slowAt": "2026-10-24T17:24:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -455228,7 +455308,9 @@
         "6617425",
         "6617427",
         "6617434",
-        "6617440"
+        "6617440",
+        "6617460",
+        "6617465"
       ]
     },
     "blind": {
