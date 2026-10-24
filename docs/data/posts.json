@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T06:41:33+00:00",
+  "updatedAt": "2026-10-24T06:43:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -450332,6 +450332,25 @@
       "firstSeenAt": "2026-10-24T06:41:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82538,
+      "source": "dc",
+      "externalId": "6617211",
+      "title": "문신충들이 하는 얘기가 “ 덱스 메시는 문신 많은데? ”",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617211&page=1",
+      "postedLabel": "15:42",
+      "postedAt": "2026-10-24T15:42:59+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T06:43:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -453073,7 +453092,8 @@
         "6617202",
         "6617204",
         "6617205",
-        "6617206"
+        "6617206",
+        "6617210"
       ]
     },
     "blind": {
