@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T14:43:26+00:00",
+  "updatedAt": "2026-10-24T14:51:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -460971,6 +460971,66 @@
       "firstSeenAt": "2026-10-24T14:43:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83076,
+      "source": "dc",
+      "externalId": "cmt-10968997",
+      "title": "키 187이라서 실물보면 멋있긴할듯? - dc App",
+      "excerpt": "영호는 존잘 아닌데 왜케 인기많아?",
+      "author": "포그바와나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617898&page=4#cmt_10968997",
+      "postedLabel": "10.24 22:01:10",
+      "postedAt": "2026-10-24T22:01:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T14:51:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83077,
+      "source": "blind",
+      "externalId": "cmt-458219559",
+      "title": "성장캐...너무너무싫어",
+      "excerpt": "영철..선글라스..자켓 걸쳐입은 거.. 지인한테 전화하는 것까지...",
+      "author": "뜨******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EC%9E%90%EC%BC%93-%EA%B1%B8%EC%B3%90%EC%9E%85%EC%9D%80-%EA%B1%B0-%EC%A7%80%EC%9D%B8%ED%95%9C%ED%85%8C-%EC%A0%84%ED%99%94%ED%95%98%EB%8A%94-%EA%B2%83%EA%B9%8C%EC%A7%80-ho3yjzlv#458219559",
+      "postedLabel": "18분",
+      "postedAt": "2026-10-24T23:33:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T14:51:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83078,
+      "source": "blind",
+      "externalId": "cmt-458220100",
+      "title": "지인전화 ㄹㅇ ㅋㅋㅋㅋㅋㅋ 그.. 당진사는 생산직 남자애 생각남",
+      "excerpt": "영철..선글라스..자켓 걸쳐입은 거.. 지인한테 전화하는 것까지...",
+      "author": "!********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EC%9E%90%EC%BC%93-%EA%B1%B8%EC%B3%90%EC%9E%85%EC%9D%80-%EA%B1%B0-%EC%A7%80%EC%9D%B8%ED%95%9C%ED%85%8C-%EC%A0%84%ED%99%94%ED%95%98%EB%8A%94-%EA%B2%83%EA%B9%8C%EC%A7%80-ho3yjzlv#458220100",
+      "postedLabel": "14분",
+      "postedAt": "2026-10-24T23:37:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T14:51:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -461050,7 +461110,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-24T23:44:08+09:00"
+      "slowAt": "2026-10-24T23:51:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -463934,6 +463994,7 @@
         "6617885",
         "6617889",
         "6617892",
+        "6617898",
         "6617900",
         "6617902",
         "6617907",
@@ -463990,7 +464051,8 @@
         "6618104",
         "6618110",
         "6618114",
-        "6618119"
+        "6618119",
+        "6618132"
       ]
     },
     "blind": {
