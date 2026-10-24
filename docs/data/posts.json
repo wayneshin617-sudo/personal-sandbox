@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T06:01:39+00:00",
+  "updatedAt": "2026-10-24T06:02:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -448867,6 +448867,46 @@
       "firstSeenAt": "2026-10-24T06:01:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82464,
+      "source": "dc",
+      "externalId": "cmt-10968370",
+      "title": "ㅇㄱㄹㅇ",
+      "excerpt": "노괴들이 그동안 문신으로 지랄 안하다가 개발작하는 이유",
+      "author": "코코",
+      "company": "",
+      "ip": "121.183",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617087&page=1#cmt_10968370",
+      "postedLabel": "10.24 15:02:19",
+      "postedAt": "2026-10-24T15:02:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T06:02:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82465,
+      "source": "blind",
+      "externalId": "cmt-458159392",
+      "title": "무턱인사람들은 느낌 비슷함 홍현희류",
+      "excerpt": "쇼츠보는데 어? 누구 닮았다 하다가",
+      "author": "I*********",
+      "company": "유라코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%87%BC%EC%B8%A0%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%96%B4-%EB%88%84%EA%B5%AC-%EB%8B%AE%EC%95%98%EB%8B%A4-%ED%95%98%EB%8B%A4%EA%B0%80-sh5erfw5#458159392",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T15:02:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T06:02:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -451582,7 +451622,8 @@
         "6617062",
         "6617064",
         "6617065",
-        "6617083"
+        "6617083",
+        "6617087"
       ]
     },
     "blind": {
