@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T11:36:26+00:00",
+  "updatedAt": "2026-10-24T11:37:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -456440,6 +456440,25 @@
       "firstSeenAt": "2026-10-24T11:36:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82847,
+      "source": "dc",
+      "externalId": "6617784",
+      "title": "싸우면 누가이길까 비루스 vs 타노스",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "211.35",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617784&page=1",
+      "postedLabel": "20:36",
+      "postedAt": "2026-10-24T20:36:41+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:37:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -456559,7 +456578,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T20:34:09+09:00"
+      "slowAt": "2026-10-24T20:37:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -459360,7 +459379,8 @@
         "6617767",
         "6617774",
         "6617776",
-        "6617777"
+        "6617777",
+        "6617782"
       ]
     },
     "blind": {
