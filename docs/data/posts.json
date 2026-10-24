@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T01:12:57+00:00",
+  "updatedAt": "2026-10-24T01:13:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -437306,6 +437306,46 @@
       "firstSeenAt": "2026-10-24T01:12:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81880,
+      "source": "blind",
+      "externalId": "cmt-458128801",
+      "title": "사랑꾼인 나에 취한 모습이랄까 ㅠ 너므 과해서 진정성이 느껴지지 않음",
+      "excerpt": "영철 전형적인 러브바밍아냐??",
+      "author": "부******",
+      "company": "포티투닷",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8-%EB%9F%AC%EB%B8%8C%EB%B0%94%EB%B0%8D%EC%95%84%EB%83%90-ze5evaib#458128801",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-24T10:00:39+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T01:13:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81881,
+      "source": "blind",
+      "externalId": "cmt-458130125",
+      "title": "보는눈좀없어보임",
+      "excerpt": "현숙 똑똑한데 보는 눈이 없는건가",
+      "author": "h*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%98%91%EB%98%91%ED%95%9C%EB%8D%B0-%EB%B3%B4%EB%8A%94-%EB%88%88%EC%9D%B4-%EC%97%86%EB%8A%94%EA%B1%B4%EA%B0%80-cxzzy30z#458130125",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T10:13:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T01:13:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -439831,7 +439871,8 @@
         "6616414",
         "6616427",
         "6616440",
-        "6616445"
+        "6616445",
+        "6616453"
       ]
     },
     "blind": {
