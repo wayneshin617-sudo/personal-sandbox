@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T10:26:25+00:00",
+  "updatedAt": "2026-10-24T10:28:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -455340,6 +455340,26 @@
       "firstSeenAt": "2026-10-24T10:26:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82791,
+      "source": "qoo",
+      "externalId": "cmt-4385190025",
+      "title": "선 넘네",
+      "excerpt": "오우..영수영숙 미방분편 보는데 ㅋㅋㅋㅋ 엄마아빠 똑같은 분 맞죠? 라고 묻는 거",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385167619#4385190025",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T18:28:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T10:28:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -455459,7 +455479,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T19:25:10+09:00"
+      "slowAt": "2026-10-24T19:28:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -458219,7 +458239,8 @@
         "6617659",
         "6617664",
         "6617665",
-        "6617668"
+        "6617668",
+        "6617673"
       ]
     },
     "blind": {
