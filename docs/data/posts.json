@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T11:34:26+00:00",
+  "updatedAt": "2026-10-24T11:35:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -456361,6 +456361,65 @@
       "comments": null,
       "firstSeenAt": "2026-10-24T11:34:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82843,
+      "source": "qoo",
+      "externalId": "cmt-4385235652",
+      "title": "그사이에 둘이 그런 얘기하거나 볼 시간이 없었을거 같고 장난이라고 생각했는데 그게 어쩌다보니 다큐된 상황 같다고 생각했음",
+      "excerpt": "그냥 궁예이긴한데 문신얘기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385143867#4385235652",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T19:35:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:35:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82844,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-%EC%95%88%EA%B2%BD-%EB%82%80%EA%B1%B0%EA%B0%80-%EC%95%88-%EB%82%80%EA%B2%83%EB%B3%B4%EB%8B%A4-%EB%82%AB%EC%A7%80%EC%95%8A%EC%95%84-sjczqnva",
+      "title": "영숙 안경 낀거가 안 낀것보다 낫지않아?",
+      "excerpt": "걍 외모만 봤을 때 ㅋㅋㅋ",
+      "author": "i*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%95%88%EA%B2%BD-%EB%82%80%EA%B1%B0%EA%B0%80-%EC%95%88-%EB%82%80%EA%B2%83%EB%B3%B4%EB%8B%A4-%EB%82%AB%EC%A7%80%EC%95%8A%EC%95%84-sjczqnva",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T20:35:09+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-24T11:35:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 82845,
+      "source": "blind",
+      "externalId": "cmt-458194169",
+      "title": "별루?",
+      "excerpt": "영숙 안경 낀거가 안 낀것보다 낫지않아?",
+      "author": "t*****",
+      "company": "삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%95%88%EA%B2%BD-%EB%82%80%EA%B1%B0%EA%B0%80-%EC%95%88-%EB%82%80%EA%B2%83%EB%B3%B4%EB%8B%A4-%EB%82%AB%EC%A7%80%EC%95%8A%EC%95%84-sjczqnva#458194169",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T20:35:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:35:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -459279,7 +459338,8 @@
         "6617763",
         "6617766",
         "6617767",
-        "6617774"
+        "6617774",
+        "6617776"
       ]
     },
     "blind": {
@@ -460926,6 +460986,7 @@
         "/kr/post/%EC%98%81%EC%88%99-%EC%88%9C%EC%9E%90-%ED%98%84%EC%88%99-%EB%B2%8C%EC%8D%A8-3%EB%AA%85-%EB%AC%B8%EC%8B%A0-chm6dfqs",
         "/kr/post/%EC%98%81%EC%88%99-%EC%89%BD%EC%A7%80%EC%95%8A%EB%84%A4-s3cs6iid",
         "/kr/post/%EC%98%81%EC%88%99-%EC%95%84%EC%9B%83%ED%8C%85%ED%95%9C-%EA%B1%B0-vyosoas5",
+        "/kr/post/%EC%98%81%EC%88%99-%EC%95%88%EA%B2%BD-%EB%82%80%EA%B1%B0%EA%B0%80-%EC%95%88-%EB%82%80%EA%B2%83%EB%B3%B4%EB%8B%A4-%EB%82%AB%EC%A7%80%EC%95%8A%EC%95%84-sjczqnva",
         "/kr/post/%EC%98%81%EC%88%99-%EC%96%BC%EA%B5%B4%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%86%8C%EB%A6%84%EB%8F%8B%EB%8A%94%EB%8B%A4-mgm5z8py",
         "/kr/post/%EC%98%81%EC%88%99-%EC%96%BC%EA%B5%B4-%EB%A8%B8%EC%95%BC-x7s4t5j4",
         "/kr/post/%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D-%EC%9E%98%EC%96%B4%EC%9A%B8%EB%A6%B0%EB%8B%B9-mmntkrmd",
