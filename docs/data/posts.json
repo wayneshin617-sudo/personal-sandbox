@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T07:04:33+00:00",
+  "updatedAt": "2026-10-24T07:05:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -450548,6 +450548,26 @@
       "firstSeenAt": "2026-10-24T07:04:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82549,
+      "source": "blind",
+      "externalId": "cmt-458162076",
+      "title": "3화까지 오십쇼",
+      "excerpt": "34기 이제 시작했는데 아직까지는 괜찮은데?",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%9D%B4%EC%A0%9C-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8A%94%EB%8D%B0-%EC%95%84%EC%A7%81%EA%B9%8C%EC%A7%80%EB%8A%94-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-17a8eodr#458162076",
+      "postedLabel": "37분",
+      "postedAt": "2026-10-24T15:28:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T07:05:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -450626,7 +450646,7 @@
         "DdahdbpEkBT",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-24T16:02:15+09:00"
+      "slowAt": "2026-10-24T16:05:15+09:00"
     },
     "ig": {
       "doneIds": [
@@ -453276,6 +453296,7 @@
         "6617088",
         "6617093",
         "6617095",
+        "6617096",
         "6617106",
         "6617113",
         "6617122",
@@ -453302,7 +453323,8 @@
         "6617235",
         "6617240",
         "6617250",
-        "6617254"
+        "6617254",
+        "6617261"
       ]
     },
     "blind": {
