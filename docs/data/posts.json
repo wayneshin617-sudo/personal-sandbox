@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T08:09:38+00:00",
+  "updatedAt": "2026-10-24T08:10:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -452027,6 +452027,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-24T08:09:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82624,
+      "source": "dc",
+      "externalId": "cmt-10968521",
+      "title": "근데 왜 니 글을 작성하자마자 셀프 추천 쳐박음..? ㅋㅋ",
+      "excerpt": "순자가 문신하던 말던 노괴들이 뭔 상관임",
+      "author": "줴줴이야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617408&page=1#cmt_10968521",
+      "postedLabel": "10.24 17:09:58",
+      "postedAt": "2026-10-24T17:09:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:10:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82625,
+      "source": "blind",
+      "externalId": "cmt-458172202",
+      "title": "그 분은 논란이랄 것도 없음...모두가 인지하고 있는 상황임",
+      "excerpt": "순자 문신 관련 글이 아니라 영숙 태도 논란이 더 이슈 되어야 하는거 아니야?",
+      "author": "ㅣ******",
+      "company": "삼일회계법인",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EA%B4%80%EB%A0%A8-%EA%B8%80%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%98%81%EC%88%99-%ED%83%9C%EB%8F%84-%EB%85%BC%EB%9E%80%EC%9D%B4-%EB%8D%94-%EC%9D%B4%EC%8A%88-%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EC%95%BC-4tpzl2kb#458172202",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T17:10:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:10:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -454793,6 +454833,7 @@
         "6617261",
         "6617262",
         "6617263",
+        "6617285",
         "6617289",
         "6617290",
         "6617304",
@@ -454819,7 +454860,9 @@
         "6617396",
         "6617397",
         "6617399",
-        "6617404"
+        "6617404",
+        "6617406",
+        "6617408"
       ]
     },
     "blind": {
@@ -455619,6 +455662,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%83%81%EA%B2%AC%EB%A1%80%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%EC%9E%90%EC%8B%A0%EC%9E%88%EA%B2%8C-%EB%B3%B4%EC%97%AC%EC%A4%84-%EC%82%AC%EB%9E%8C-%EC%9E%88%EB%83%90-ctdvmmmw",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%84%A0%EC%9E%85%EA%B2%AC%EC%97%90-%EA%B8%81%ED%9E%8C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%A7%8E%EA%B5%AC%EB%82%98-dl2vw07v",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%86%8C%EC%86%8C%ED%95%98%EA%B2%8C-%ED%95%9C-%EC%A7%80%EC%9D%B8%EC%9D%B4%EB%82%98-%EC%A7%81%EC%9E%A5-%EB%8F%99%EB%A3%8C%EB%93%A4-%EC%9E%88%EB%8A%94%EB%8D%B0-t5s33yd6",
+        "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%88%A8%EA%B2%A8%EB%8F%84-%EB%90%9C%EB%8B%A4%EB%8A%94-%EB%86%88%EB%93%A4%EC%9D%80-poq6uzf1",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%89%B4%EB%8D%94%EB%93%A4%EC%9D%80-%EB%8A%A5%EC%A7%80%EA%B0%80-%EC%97%86%EC%9D%8C%E3%85%87%E3%85%87-asfk7upw",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%89%B4%EB%93%9C%EC%B9%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%94%B1-2%EC%A2%85%EB%A5%98%EB%9D%BC%EA%B3%A0-%EB%B3%B8%EB%8B%A4-j88h1ta5",
         "/kr/post/%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EB%8B%A4%EB%8A%94%EB%8D%B0-%EC%9D%B4%EC%9C%A0-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%A8-3bn7vegi",
@@ -455951,6 +455995,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8C%80-viut3tk5",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%ED%95%98%EA%B3%A0-%EB%B3%84%EA%B0%9C%EB%A1%9C-3koo0h3t",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%ED%95%9C%EA%B1%B0-%EC%95%8C%EA%B3%A0%EB%82%98%EC%84%9C-%EC%9D%B4%EB%B2%88%EC%A3%BC%EA%BA%BC-%EB%B3%B4%EB%8B%88%EA%B9%90-respzdde",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EA%B4%80%EB%A0%A8-%EA%B8%80%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%98%81%EC%88%99-%ED%83%9C%EB%8F%84-%EB%85%BC%EB%9E%80%EC%9D%B4-%EB%8D%94-%EC%9D%B4%EC%8A%88-%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EC%95%BC-4tpzl2kb",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EC%95%84%EC%9B%83%ED%8C%85-%EC%9E%90%EC%97%85%EC%9E%90%EB%93%9D%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B4%84-kq3h3nfj",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EC%97%86%EB%8A%94%EA%B1%B8%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94%EB%8D%B0-rxy1ompd",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EC%9C%84%EC%B9%98-%EC%A7%84%EC%A7%9C-%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4%E3%85%8B%E3%85%8B%E3%85%8B-alkixqbn",
@@ -458062,6 +458107,7 @@
         "/kr/post/34%ED%98%84%EC%88%99-%EC%85%94%EC%B8%A0-%EC%9D%B4%EC%81%98%EB%84%A4-7b2nngqr",
         "/kr/post/34%ED%98%84%EC%88%99-26%EC%98%81%EC%8B%9D-%EB%9D%B5%EB%B0%95%ED%98%95%EB%8B%98-%EB%AD%94%EA%B0%80-%EB%8B%AE%EC%95%98%EB%8A%94%EB%8D%B0-i8fwl3in",
         "/kr/post/34%ED%98%84%EC%88%99-apv41kqe",
+        "/kr/post/34-%EC%83%81%EC%B2%A0-3je56b4c",
         "/kr/post/34-%EC%88%9C%EC%9E%90-%EC%98%81%ED%98%B8%EB%8F%84-%EB%B3%B4%EA%B8%B0-%EC%A2%8B%EB%8B%A4-oywdn4et",
         "/kr/post/34-%EC%88%9C%EC%9E%90-7t7ami31",
         "/kr/post/34-%EC%88%9C%EC%9E%90-mgapjahy",
