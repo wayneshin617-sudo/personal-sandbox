@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T06:59:32+00:00",
+  "updatedAt": "2026-10-24T07:02:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -450508,6 +450508,26 @@
       "firstSeenAt": "2026-10-24T06:59:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82547,
+      "source": "dc",
+      "externalId": "cmt-10968437",
+      "title": "얼굴은 걍 순자 현숙임",
+      "excerpt": "옥수닌 왜 인기없노?",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617250&page=1#cmt_10968437",
+      "postedLabel": "10.24 16:01:16",
+      "postedAt": "2026-10-24T16:01:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T07:02:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -450586,7 +450606,7 @@
         "DdahdbpEkBT",
         "DeOmNhbmP0l"
       ],
-      "slowAt": "2026-10-24T15:59:15+09:00"
+      "slowAt": "2026-10-24T16:02:15+09:00"
     },
     "ig": {
       "doneIds": [
@@ -453258,7 +453278,8 @@
         "6617227",
         "6617234",
         "6617235",
-        "6617240"
+        "6617240",
+        "6617250"
       ]
     },
     "blind": {
