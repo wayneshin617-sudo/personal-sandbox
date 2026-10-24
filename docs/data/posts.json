@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T10:19:25+00:00",
+  "updatedAt": "2026-10-24T10:23:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -455261,6 +455261,45 @@
       "firstSeenAt": "2026-10-24T10:19:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82787,
+      "source": "dc",
+      "externalId": "cmt-10968721",
+      "title": "삐끗하면 6급도 못달 수 있음… - dc App",
+      "excerpt": "보통 지방직 9출은 5급 못 달지 않나",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6617585&page=2#cmt_10968721",
+      "postedLabel": "10.24 19:19:49",
+      "postedAt": "2026-10-24T19:19:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T10:23:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82788,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%83%80%ED%88%AC%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%8D%B0-b0z2z3c1",
+      "title": "타투하고싶은데",
+      "excerpt": "신림쪽에 잘하는곳있나?",
+      "author": ",*****",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%8D%B0-b0z2z3c1",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T19:23:09+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T10:23:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -458136,7 +458175,8 @@
         "6617651",
         "6617658",
         "6617659",
-        "6617664"
+        "6617664",
+        "6617665"
       ]
     },
     "blind": {
