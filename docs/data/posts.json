@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T09:35:25+00:00",
+  "updatedAt": "2026-10-24T09:44:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -454607,6 +454607,45 @@
       "firstSeenAt": "2026-10-24T09:35:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82754,
+      "source": "qoo",
+      "externalId": "cmt-4385153186",
+      "title": "잘기억안나는데 탈락이라는 말부터 영숙이 말하고 작은거 갯수 이런 말 나왔던 것 같은데 누구 정확히 기억하는 덬 있겠지",
+      "excerpt": "그냥 궁예이긴한데 문신얘기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385143867#4385153186",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T17:43:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T09:44:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82755,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%99%A4%EC%BC%80-%EC%9E%A1%EB%8F%84%EB%A6%AC%ED%95%A8-tmdyl24c",
+      "title": "영숙이 왤케 잡도리함?",
+      "excerpt": "본인은 재밌나본데 꼽주는게 일상이네 ㅅㅂ 우리회사 왕언니 노릇하는 년 보는거 같아서 Ptsd 온다 여자셋이랑 영호 고기 굽는 영상 보는데 영호 직장내괴롭힘 당하는줄",
+      "author": "i*********",
+      "company": "국민연금공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%99%A4%EC%BC%80-%EC%9E%A1%EB%8F%84%EB%A6%AC%ED%95%A8-tmdyl24c",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T18:44:09+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T09:44:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -457457,7 +457496,8 @@
         "6617604",
         "6617608",
         "6617609",
-        "6617612"
+        "6617612",
+        "6617614"
       ]
     },
     "blind": {
