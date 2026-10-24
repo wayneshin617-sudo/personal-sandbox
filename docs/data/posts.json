@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T13:44:26+00:00",
+  "updatedAt": "2026-10-24T13:45:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -459780,6 +459780,66 @@
       "firstSeenAt": "2026-10-24T13:44:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83016,
+      "source": "blind",
+      "externalId": "cmt-458204084",
+      "title": "스트레스 풀 데가 그런 곳 밖에 없나봐 이러다 사람 하나 잡아서 나솔 폐지될까 두려움 내가 사는 낙이라",
+      "excerpt": "여기 게시판 뿐만 아니라 요즘 커뮤니티를 보며 느낀점",
+      "author": "i*******",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9A%94%EC%A6%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80%EC%A0%90-ek2dm50k#458204084",
+      "postedLabel": "52분",
+      "postedAt": "2026-10-24T21:53:08+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T13:45:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83017,
+      "source": "blind",
+      "externalId": "cmt-458204565",
+      "title": "나도...나솔이 사는 낙인데....",
+      "excerpt": "여기 게시판 뿐만 아니라 요즘 커뮤니티를 보며 느낀점",
+      "author": "나******",
+      "company": "법무법인율촌",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9A%94%EC%A6%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80%EC%A0%90-ek2dm50k#458204565",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-24T21:57:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T13:45:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83018,
+      "source": "blind",
+      "externalId": "cmt-458211315",
+      "title": "같이 탄 영자는 심지어 네비까지 핸드폰으로 봐줬는데 전혀 이상없는거 보면 현숙도 말미기 기본적으로 심한편 같음. 그래서 자기가 운잔하겠다고 그런거같아",
+      "excerpt": "34현숙 멀미하는거 보니",
+      "author": "i*******",
+      "company": "서울교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99-%EB%A9%80%EB%AF%B8%ED%95%98%EB%8A%94%EA%B1%B0-%EB%B3%B4%EB%8B%88-walo76xf#458211315",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-24T22:40:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T13:45:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -459899,7 +459959,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T22:42:08+09:00"
+      "slowAt": "2026-10-24T22:45:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -462756,6 +462816,7 @@
         "6617961",
         "6617968",
         "6617973",
+        "6617975",
         "6617976"
       ]
     },
