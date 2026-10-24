@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T08:55:32+00:00",
+  "updatedAt": "2026-10-24T08:57:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -453758,6 +453758,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-24T08:55:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 82711,
+      "source": "qoo",
+      "externalId": "cmt-4385115385",
+      "title": "아 뭔지 알겠다 16기에서 상철 영숙 붙어 있어야 티키타카 재미 나오는 것처럼 ㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "솔직히 34영수 그냥저냥인데 영숙이랑 있으면 매력적이다ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4384653783#4385115385",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T16:57:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:57:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82712,
+      "source": "blind",
+      "externalId": "cmt-458176539",
+      "title": "진짜 웃긴 캐릭터야 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 심장을 왜 도려내 ㅋㅋㅋㅋㅋ윽",
+      "excerpt": "아내가 감기몸살로 아파도 왜 나는.. \"내 심장을 도려내는~아픔\" 을 못느낄까??",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%82%B4%EA%B0%80-%EA%B0%90%EA%B8%B0%EB%AA%B8%EC%82%B4%EB%A1%9C-%EC%95%84%ED%8C%8C%EB%8F%84-%EC%99%9C-%EB%82%98%EB%8A%94-%EB%82%B4-%EC%8B%AC%EC%9E%A5%EC%9D%84-%EB%8F%84%EB%A0%A4%EB%82%B4%EB%8A%94%EC%95%84%ED%94%94-%EC%9D%84-%EB%AA%BB%EB%8A%90%EB%82%84%EA%B9%8C-ml1jg02z#458176539",
+      "postedLabel": "3분",
+      "postedAt": "2026-10-24T17:54:15+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:57:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82713,
+      "source": "blind",
+      "externalId": "cmt-458176749",
+      "title": "옷을 제대로 입지 뭐임.. 지금까지 입은 옷이라곤 소매 짧뚱한 바보같은 옷이 전부인가",
+      "excerpt": "아내가 감기몸살로 아파도 왜 나는.. \"내 심장을 도려내는~아픔\" 을 못느낄까??",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%82%B4%EA%B0%80-%EA%B0%90%EA%B8%B0%EB%AA%B8%EC%82%B4%EB%A1%9C-%EC%95%84%ED%8C%8C%EB%8F%84-%EC%99%9C-%EB%82%98%EB%8A%94-%EB%82%B4-%EC%8B%AC%EC%9E%A5%EC%9D%84-%EB%8F%84%EB%A0%A4%EB%82%B4%EB%8A%94%EC%95%84%ED%94%94-%EC%9D%84-%EB%AA%BB%EB%8A%90%EB%82%84%EA%B9%8C-ml1jg02z#458176749",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T17:57:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T08:57:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -453876,7 +453936,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T17:54:15+09:00"
+      "slowAt": "2026-10-24T17:57:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -456554,6 +456614,7 @@
         "6617387",
         "6617390",
         "6617391",
+        "6617392",
         "6617393",
         "6617396",
         "6617397",
@@ -456577,7 +456638,8 @@
         "6617492",
         "6617504",
         "6617507",
-        "6617512"
+        "6617512",
+        "6617521"
       ]
     },
     "blind": {
