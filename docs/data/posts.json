@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T02:06:58+00:00",
+  "updatedAt": "2026-10-24T02:07:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -439062,6 +439062,45 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-10-24T02:06:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81969,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%81%EC%97%85%EB%8F%84-%EC%A4%91%EC%9A%94%ED%95%9C%EB%8D%B0-%EC%A7%84%EC%A7%9C-%EC%99%B8%EB%AA%A8%EA%B0%80-%ED%81%AC%EA%B8%B4-%ED%81%B0%EA%B0%80%EB%B4%90%EC%9A%94-6fde687r",
+      "title": "직업도 중요한데 진짜 외모가 크긴 큰가봐요",
+      "excerpt": "고등학교 두 해 위인 친한 형이 그래도 돈을 좀 잘 버는 전문직인데, 직업을 갖고 호감을 사서 에프터까지 되다가 그 뒤로 잘 안 풀리더라고요.",
+      "author": "항*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%81%EC%97%85%EB%8F%84-%EC%A4%91%EC%9A%94%ED%95%9C%EB%8D%B0-%EC%A7%84%EC%A7%9C-%EC%99%B8%EB%AA%A8%EA%B0%80-%ED%81%AC%EA%B8%B4-%ED%81%B0%EA%B0%80%EB%B4%90%EC%9A%94-6fde687r",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:07:39+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T02:07:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 81970,
+      "source": "blind",
+      "externalId": "cmt-458135828",
+      "title": "꼰대시키",
+      "excerpt": "타투랑 순자 이미지랑 너무 안맞는게 문제임",
+      "author": "!*********",
+      "company": "CJ프레시웨이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC%EB%9E%91-%EC%88%9C%EC%9E%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%9E%91-%EB%84%88%EB%AC%B4-%EC%95%88%EB%A7%9E%EB%8A%94%EA%B2%8C-%EB%AC%B8%EC%A0%9C%EC%9E%84-cbnllybx#458135828",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:07:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:07:57+00:00",
       "isSeed": false,
       "kind": "reply"
     }
