@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T12:39:26+00:00",
+  "updatedAt": "2026-10-24T12:45:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -458038,6 +458038,25 @@
       "firstSeenAt": "2026-10-24T12:39:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82928,
+      "source": "blind",
+      "externalId": "/kr/post/34%ED%98%84%EC%88%99-%EB%A9%80%EB%AF%B8%ED%95%98%EB%8A%94%EA%B1%B0-%EB%B3%B4%EB%8B%88-walo76xf",
+      "title": "34현숙 멀미하는거 보니",
+      "excerpt": "멀미 잘하는 사람도 분명 있지만 저건 백퍼 영철 운전이 문제임. 운전하는 장면마다 창밖 풍경 날라다니고 방지턱마다 로드스터쇼 하는거 보면. 카페 이동할때 보면 커브도는 속도도 너무 빠름.",
+      "author": "l****",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99-%EB%A9%80%EB%AF%B8%ED%95%98%EB%8A%94%EA%B1%B0-%EB%B3%B4%EB%8B%88-walo76xf",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T21:45:08+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-24T12:45:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -458157,7 +458176,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T21:42:08+09:00"
+      "slowAt": "2026-10-24T21:45:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -460987,7 +461006,8 @@
         "6617865",
         "6617870",
         "6617875",
-        "6617879"
+        "6617879",
+        "6617885"
       ]
     },
     "blind": {
