@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T02:10:57+00:00",
+  "updatedAt": "2026-10-24T02:12:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -439480,6 +439480,46 @@
       "firstSeenAt": "2026-10-24T02:10:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 81990,
+      "source": "blind",
+      "externalId": "cmt-458136451",
+      "title": "이건 좀..",
+      "excerpt": "영철 직업공개후에 왜 공무원이지?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%81%EC%97%85%EA%B3%B5%EA%B0%9C%ED%9B%84%EC%97%90-%EC%99%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4%EC%A7%80-2elz73hj#458136451",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:12:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:12:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 81991,
+      "source": "blind",
+      "externalId": "cmt-458136434",
+      "title": "자격지심느껴짐 가진것별로없는데 허세",
+      "excerpt": "영철 직업공개후에 왜 공무원이지?",
+      "author": "j******** 작성자",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%81%EC%97%85%EA%B3%B5%EA%B0%9C%ED%9B%84%EC%97%90-%EC%99%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4%EC%A7%80-2elz73hj#458136434",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T11:12:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T02:12:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -439594,7 +439634,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T11:09:39+09:00"
+      "slowAt": "2026-10-24T11:12:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -442042,7 +442082,8 @@
         "6616575",
         "6616579",
         "6616583",
-        "6616589"
+        "6616589",
+        "6616591"
       ]
     },
     "blind": {
