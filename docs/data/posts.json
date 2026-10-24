@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T11:48:26+00:00",
+  "updatedAt": "2026-10-24T11:49:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -456715,6 +456715,46 @@
       "firstSeenAt": "2026-10-24T11:48:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82861,
+      "source": "qoo",
+      "externalId": "cmt-4385245506",
+      "title": "@5 제작진은 이슈되면 좋아하지 쌈배도 음성이랑 편집했잖아",
+      "excerpt": "그냥 궁예이긴한데 문신얘기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385143867#4385245506",
+      "postedLabel": "",
+      "postedAt": "2026-10-24T19:49:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:49:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82862,
+      "source": "blind",
+      "externalId": "cmt-458190009",
+      "title": "앉아쏴 이후로 확실한 손절",
+      "excerpt": "34기 이제 보기시작했는데 영철 영숙 개시러하는 것 같음",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%9D%B4%EC%A0%9C-%EB%B3%B4%EA%B8%B0%EC%8B%9C%EC%9E%91%ED%96%88%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%98%81%EC%88%99-%EA%B0%9C%EC%8B%9C%EB%9F%AC%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EC%9D%8C-7lyw5e1w#458190009",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-24T20:01:09+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T11:49:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -456834,7 +456874,7 @@
         "DewtObDER-L",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-24T20:46:10+09:00"
+      "slowAt": "2026-10-24T20:49:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -459617,6 +459657,7 @@
         "6617704",
         "6617705",
         "6617709",
+        "6617712",
         "6617717",
         "6617718",
         "6617723",
