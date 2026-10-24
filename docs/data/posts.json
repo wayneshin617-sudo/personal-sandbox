@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T05:09:39+00:00",
+  "updatedAt": "2026-10-24T05:10:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -446389,6 +446389,66 @@
       "firstSeenAt": "2026-10-24T05:09:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 82339,
+      "source": "blind",
+      "externalId": "cmt-458150518",
+      "title": "영숙이는 행동 하나하나 불호다",
+      "excerpt": "영숙 왜저럼?",
+      "author": "r*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%99%9C%EC%A0%80%EB%9F%BC-g0w7rglb#458150518",
+      "postedLabel": "42분",
+      "postedAt": "2026-10-24T13:28:22+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T05:10:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82340,
+      "source": "blind",
+      "externalId": "cmt-458153921",
+      "title": "언니들한테 저렇게 배웠나보지",
+      "excerpt": "영숙 왜저럼?",
+      "author": "l*********",
+      "company": "대웅제약",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%99%9C%EC%A0%80%EB%9F%BC-g0w7rglb#458153921",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-24T14:01:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T05:10:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 82341,
+      "source": "blind",
+      "externalId": "cmt-458154781",
+      "title": "더 욕 안 먹는데",
+      "excerpt": "근데 난 나대고 사람 무시한 영철이랑 남의 사적인 부분 까발린 영숙보다 문신 하나 때문에 순자가 더 욕먹는 게 넘 이해 안됨",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%9C-%EB%82%98%EB%8C%80%EA%B3%A0-%EC%82%AC%EB%9E%8C-%EB%AC%B4%EC%8B%9C%ED%95%9C-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EB%82%A8%EC%9D%98-%EC%82%AC%EC%A0%81%EC%9D%B8-%EB%B6%80%EB%B6%84-%EA%B9%8C%EB%B0%9C%EB%A6%B0-%EC%98%81%EC%88%99%EB%B3%B4%EB%8B%A4-%EB%AC%B8%EC%8B%A0-%ED%95%98%EB%82%98-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%88%9C%EC%9E%90%EA%B0%80-%EB%8D%94-%EC%9A%95%EB%A8%B9%EB%8A%94-%EA%B2%8C-%EB%84%98-%EC%9D%B4%ED%95%B4-%EC%95%88%EB%90%A8-xb4ygzmh#458154781",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-24T14:10:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T05:10:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -446504,7 +446564,7 @@
         "DehPFlvFhCv",
         "DepKS-IHSxr"
       ],
-      "slowAt": "2026-10-24T14:07:22+09:00"
+      "slowAt": "2026-10-24T14:10:22+09:00"
     },
     "dc": {
       "doneIds": [
@@ -449050,6 +449110,7 @@
         "6616858",
         "6616860",
         "6616865",
+        "6616869",
         "6616874",
         "6616877",
         "6616881",
@@ -449071,7 +449132,8 @@
         "6616953",
         "6616957",
         "6616961",
-        "6616962"
+        "6616962",
+        "6616971"
       ]
     },
     "blind": {
