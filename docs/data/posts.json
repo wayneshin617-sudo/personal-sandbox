@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-24T14:31:26+00:00",
+  "updatedAt": "2026-10-24T14:34:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -460812,6 +460812,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-24T14:31:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83068,
+      "source": "blind",
+      "externalId": "cmt-458218630",
+      "title": "안경은 껴야해 지금도 꾸민거 갠찮고",
+      "excerpt": "34영식 괜찮은데",
+      "author": "l******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%8B%9D-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-obswu3p7#458218630",
+      "postedLabel": "7분",
+      "postedAt": "2026-10-24T23:27:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-24T14:34:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -463825,7 +463845,8 @@
         "6618081",
         "6618082",
         "6618086",
-        "6618092"
+        "6618092",
+        "6618099"
       ]
     },
     "blind": {
