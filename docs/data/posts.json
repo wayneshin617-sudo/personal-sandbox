@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T12:59:00+00:00",
+  "updatedAt": "2026-10-25T13:01:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -480482,6 +480482,25 @@
       "firstSeenAt": "2026-10-25T12:59:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84062,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%82%AC%EC%9A%B0-%EB%82%98%EC%99%80%EC%84%9C-%EA%B0%84%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94%EB%8D%B0-vzls5xal",
+      "title": "사우 나와서 간만에 보는데",
+      "excerpt": "재밋네 ㅋㅋㅋ 최근 기수 중에 또 재밌는 기수 추천 부탁",
+      "author": "l*********",
+      "company": "서울아산병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EC%9A%B0-%EB%82%98%EC%99%80%EC%84%9C-%EA%B0%84%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94%EB%8D%B0-vzls5xal",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:01:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T13:01:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -480604,7 +480623,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T21:58:43+09:00"
+      "slowAt": "2026-10-25T22:01:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -484055,7 +484074,8 @@
         "6619601",
         "6619610",
         "6619612",
-        "6619613"
+        "6619613",
+        "6619615"
       ]
     },
     "blind": {
