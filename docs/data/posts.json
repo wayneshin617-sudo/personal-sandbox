@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T22:43:37+00:00",
+  "updatedAt": "2026-10-25T22:47:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -485912,6 +485912,46 @@
       "firstSeenAt": "2026-10-25T22:43:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84336,
+      "source": "dc",
+      "externalId": "cmt-10971860",
+      "title": "감리는 5000될까말까 할텐데 - dc App",
+      "excerpt": "34기 남출들 예상 세전 연봉 뜸",
+      "author": "jj",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620166&page=1#cmt_10971860",
+      "postedLabel": "10.26 07:41:02",
+      "postedAt": "2026-10-26T07:41:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T22:47:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84337,
+      "source": "dc",
+      "externalId": "cmt-10971869",
+      "title": "미국에서도 경찰, 소방관과 함께 사회적으로 존경받는 직업이 간호사임 서구사회는 남 돕는 직업 존경받음 현실의 히어로들임",
+      "excerpt": "간호사가 좋은 이유",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620202&page=1#cmt_10971869",
+      "postedLabel": "10.26 07:46:51",
+      "postedAt": "2026-10-26T07:46:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T22:47:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -485991,7 +486031,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T07:44:19+09:00"
+      "slowAt": "2026-10-26T07:47:19+09:00"
     },
     "ig": {
       "doneIds": [
@@ -489639,6 +489679,7 @@
         "6620146",
         "6620150",
         "6620156",
+        "6620166",
         "6620168",
         "6620169",
         "6620178",
