@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:34:59+00:00",
+  "updatedAt": "2026-10-25T13:37:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -481057,6 +481057,65 @@
       "firstSeenAt": "2026-10-25T13:34:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84091,
+      "source": "dc",
+      "externalId": "cmt-10971239",
+      "title": "갸아악",
+      "excerpt": "헐.. 보험왕 남사친순자 뽀뽀함 ㄷㄷ",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619441&page=4#cmt_10971239",
+      "postedLabel": "10.25 21:45:50",
+      "postedAt": "2026-10-25T21:45:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:37:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84092,
+      "source": "blind",
+      "externalId": "cmt-458342514",
+      "title": "생산직",
+      "excerpt": "메인트가 뭐임",
+      "author": "!*******",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A9%94%EC%9D%B8%ED%8A%B8%EA%B0%80-%EB%AD%90%EC%9E%84-iov1a004#458342514",
+      "postedLabel": "25분",
+      "postedAt": "2026-10-25T22:12:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:37:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84093,
+      "source": "dc",
+      "externalId": "6619670",
+      "title": "투표",
+      "excerpt": "",
+      "author": "kike^-^",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619670&page=1",
+      "postedLabel": "22:37",
+      "postedAt": "2026-10-25T22:37:31+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:37:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -481179,7 +481238,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T22:34:43+09:00"
+      "slowAt": "2026-10-25T22:37:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -484648,7 +484707,8 @@
         "6619661",
         "6619663",
         "6619664",
-        "6619665"
+        "6619665",
+        "6619666"
       ]
     },
     "blind": {
