@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T06:01:38+00:00",
+  "updatedAt": "2026-10-25T06:02:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -472960,6 +472960,25 @@
       "firstSeenAt": "2026-10-25T06:01:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83682,
+      "source": "qoo",
+      "externalId": "4385878057",
+      "title": "아 34영철 눈알굴리는거 너무 길틴데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4385878057",
+      "postedLabel": "15:02",
+      "postedAt": "2026-10-25T15:02:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T06:02:36+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -482176,7 +482195,8 @@
         "4385714474",
         "4385715418",
         "4385726464",
-        "4385809163"
+        "4385809163",
+        "4385878057"
       ]
     },
     "keep": "v2",
