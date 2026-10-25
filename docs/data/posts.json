@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T20:20:37+00:00",
+  "updatedAt": "2026-10-25T20:31:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -485594,6 +485594,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-25T20:20:37+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84320,
+      "source": "dc",
+      "externalId": "cmt-10971599",
+      "title": "50대",
+      "excerpt": "오지콤 있는 년들도 47살은 안 쳐빰",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619832&page=4#cmt_10971599",
+      "postedLabel": "10.26 01:04:44",
+      "postedAt": "2026-10-26T01:04:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T20:31:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -489247,6 +489267,7 @@
         "6619821",
         "6619824",
         "6619825",
+        "6619832",
         "6619833",
         "6619839",
         "6619841",
