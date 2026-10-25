@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T08:33:23+00:00",
+  "updatedAt": "2026-10-25T08:34:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -475925,6 +475925,25 @@
       "firstSeenAt": "2026-10-25T08:33:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83832,
+      "source": "dc",
+      "externalId": "6619253",
+      "title": "오히려 반대지. 돈이 없으니까 일을 하는거고.",
+      "excerpt": "",
+      "author": "우빈유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619253&page=1",
+      "postedLabel": "17:33",
+      "postedAt": "2026-10-25T17:33:24+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T08:34:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -476047,7 +476066,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T17:31:07+09:00"
+      "slowAt": "2026-10-25T17:34:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -479332,7 +479351,8 @@
         "6619235",
         "6619238",
         "6619246",
-        "6619249"
+        "6619249",
+        "6619250"
       ]
     },
     "blind": {
