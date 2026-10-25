@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T15:03:52+00:00",
+  "updatedAt": "2026-10-25T15:07:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -483480,6 +483480,45 @@
       "firstSeenAt": "2026-10-25T15:03:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84213,
+      "source": "dc",
+      "externalId": "cmt-10971329",
+      "title": "슬슬 회사 관두고 인플루언서 하려고?",
+      "excerpt": "34현숙은 나솔 왜나온거냐",
+      "author": "이히",
+      "company": "",
+      "ip": "182.230",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619487&page=5#cmt_10971329",
+      "postedLabel": "10.25 22:27:26",
+      "postedAt": "2026-10-25T22:27:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T15:07:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84214,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90%EB%8B%98-7edf5y5i",
+      "title": "34기 영자님",
+      "excerpt": "볼때마다 생각남...",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90%EB%8B%98-7edf5y5i",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T00:07:34+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T15:07:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -487013,6 +487052,7 @@
         "6619478",
         "6619484",
         "6619485",
+        "6619487",
         "6619488",
         "6619491",
         "6619501",
@@ -487109,7 +487149,8 @@
         "6619780",
         "6619787",
         "6619791",
-        "6619797"
+        "6619797",
+        "6619800"
       ]
     },
     "blind": {
