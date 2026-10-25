@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T18:30:47+00:00",
+  "updatedAt": "2026-10-25T18:35:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -485258,6 +485258,25 @@
       "firstSeenAt": "2026-10-25T18:30:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84303,
+      "source": "dc",
+      "externalId": "6620078",
+      "title": "음.. 여기.는 분위기.가 좀 그럼.",
+      "excerpt": "",
+      "author": "예쁘고1이쁘고2귀엽고3사랑스러워",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620078&page=1",
+      "postedLabel": "03:35",
+      "postedAt": "2026-10-26T03:35:34+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T18:35:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -485380,7 +485399,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T03:32:33+09:00"
+      "slowAt": "2026-10-26T03:35:33+09:00"
     },
     "dc": {
       "doneIds": [
