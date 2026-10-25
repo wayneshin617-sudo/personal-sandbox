@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T07:33:39+00:00",
+  "updatedAt": "2026-10-25T07:35:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -474699,6 +474699,46 @@
       "firstSeenAt": "2026-10-25T07:33:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83770,
+      "source": "qoo",
+      "externalId": "cmt-4385903529",
+      "title": "@2 222 광수 누나야?ㅋㅋㅋ",
+      "excerpt": "이번기수 영식 꽤 수요상인데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385714474#4385903529",
+      "postedLabel": "",
+      "postedAt": "2026-10-25T15:35:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T07:35:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83771,
+      "source": "blind",
+      "externalId": "cmt-458301063",
+      "title": "영숙은 1:1로 내 앞에서 지랄인 반면 옥순은 뒤에서 사람들 이용해서 여론몰이로 왕따 시키니 상대하기는 영숙이 나음",
+      "excerpt": "영숙 vs 왕따옥순 누가이길거같음?",
+      "author": "i********",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-vs-%EC%99%95%EB%94%B0%EC%98%A5%EC%88%9C-%EB%88%84%EA%B0%80%EC%9D%B4%EA%B8%B8%EA%B1%B0%EA%B0%99%EC%9D%8C-b6on81r3#458301063",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T16:35:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T07:35:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -478071,7 +478111,8 @@
         "6619120",
         "6619126",
         "6619139",
-        "6619140"
+        "6619140",
+        "6619152"
       ]
     },
     "blind": {
