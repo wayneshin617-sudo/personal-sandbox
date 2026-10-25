@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:19:59+00:00",
+  "updatedAt": "2026-10-25T13:20:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -480817,6 +480817,26 @@
       "firstSeenAt": "2026-10-25T13:19:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84079,
+      "source": "blind",
+      "externalId": "cmt-458343793",
+      "title": "영숙은 할머니던데;;",
+      "excerpt": "이번기수 현숙",
+      "author": "!*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%ED%98%84%EC%88%99-h6nzoya2#458343793",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:20:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:20:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -484397,7 +484417,8 @@
         "6619627",
         "6619631",
         "6619632",
-        "6619640"
+        "6619640",
+        "6619641"
       ]
     },
     "blind": {
