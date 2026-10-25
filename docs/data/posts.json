@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T06:13:38+00:00",
+  "updatedAt": "2026-10-25T06:14:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -472998,6 +472998,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-25T06:13:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83684,
+      "source": "qoo",
+      "externalId": "4385885250",
+      "title": "영호하고 옥순 데이트 한번 해봤으면",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4385885250",
+      "postedLabel": "15:14",
+      "postedAt": "2026-10-25T15:14:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T06:14:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83685,
+      "source": "blind",
+      "externalId": "cmt-458292847",
+      "title": "여기 공무원 혐오 있자너 ㅋㅋㅋ",
+      "excerpt": "여기 블라에서는",
+      "author": "i*********",
+      "company": "한양대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EB%B8%94%EB%9D%BC%EC%97%90%EC%84%9C%EB%8A%94-7ezqzx5y#458292847",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T15:14:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T06:14:36+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -477801,6 +477840,7 @@
         "/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9A%94%EC%A6%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC-%EB%B3%B4%EB%A9%B0-%EB%8A%90%EB%82%80%EC%A0%90-ek2dm50k",
         "/kr/post/%EC%97%AC%EA%B8%B0-%EA%B7%BC%EB%8D%B0-%EA%B2%B0%ED%98%BC%ED%95%98%EA%B3%A0-%EC%9C%A1%EC%95%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-euzpvpu6",
         "/kr/post/%EC%97%AC%EA%B8%B0-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%A4%91-%ED%9B%84%ED%9A%8C%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%95%88-%EB%B3%B4%EC%9E%84-1d0ke6na",
+        "/kr/post/%EC%97%AC%EA%B8%B0-%EB%B8%94%EB%9D%BC%EC%97%90%EC%84%9C%EB%8A%94-7ezqzx5y",
         "/kr/post/%EC%97%AC%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4%ED%95%9C%ED%85%8C-%EC%97%B4%EB%93%B1%EA%B0%90-%EC%A7%80%EB%A6%AC%EB%88%84%E3%85%8B%E3%85%8B-kc3pceaq",
         "/kr/post/%EC%97%AC%EA%B8%B4-%EB%A7%A8%EB%82%A0-%EA%B2%B0%ED%98%BC-%EB%AA%BB%ED%95%9C%EA%B1%B0%EB%8B%A4-%EC%95%88%ED%95%9C%EA%B1%B0%EB%8B%A4%EB%9D%BC%EA%B3%A0-%EC%8B%B8%EC%9A%B0%EB%8A%94%EB%8D%B0-mirko1q8",
         "/kr/post/%EC%97%AC%EA%B8%B4-%EC%83%9D%EC%82%B0%EC%A7%81%EC%9D%B4%EB%A9%B4-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EA%B9%8C%EB%8A%94%EA%B1%B8%EA%B9%8C-2qr6voc1",
@@ -482219,7 +482259,8 @@
         "4385715418",
         "4385726464",
         "4385809163",
-        "4385878057"
+        "4385878057",
+        "4385885250"
       ]
     },
     "keep": "v2",
