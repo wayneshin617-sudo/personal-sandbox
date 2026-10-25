@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T23:37:21+00:00",
+  "updatedAt": "2026-10-25T23:38:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -486405,6 +486405,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-25T23:37:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84361,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-%EC%95%84%EC%9B%83%ED%8C%85%ED%95%9C-%EA%B1%B0-ymk1qpz3",
+      "title": "영숙 아웃팅한 거",
+      "excerpt": "얘 지금 뽕이라고 하는 거랑 뭐가 다름?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%95%84%EC%9B%83%ED%8C%85%ED%95%9C-%EA%B1%B0-ymk1qpz3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T08:38:05+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T23:38:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84362,
+      "source": "blind",
+      "externalId": "cmt-458386163",
+      "title": "간단하게 문신한사람끼리 만나면 되는거아님? ㅜㅜ 가만보면 다 혀가길어ㅜ 니들별명 주변에서 문신인거 다 알잖아ㅜ",
+      "excerpt": "문신하신 분들 솔직히 몇년지나고 모두 후회했잖아요",
+      "author": "초****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EC%8B%A0-%EB%B6%84%EB%93%A4-%EC%86%94%EC%A7%81%ED%9E%88-%EB%AA%87%EB%85%84%EC%A7%80%EB%82%98%EA%B3%A0-%EB%AA%A8%EB%91%90-%ED%9B%84%ED%9A%8C%ED%96%88%EC%9E%96%EC%95%84%EC%9A%94-u14ix2fq#458386163",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T08:38:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T23:38:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -486485,7 +486524,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T08:35:05+09:00"
+      "slowAt": "2026-10-26T08:38:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -486660,6 +486699,7 @@
         "6568048",
         "6568052",
         "6568079",
+        "6568118",
         "6600977",
         "6600980",
         "6600981",
@@ -490218,7 +490258,8 @@
         "6620271",
         "6620277",
         "6620279",
-        "6620280"
+        "6620280",
+        "6620284"
       ]
     },
     "blind": {
