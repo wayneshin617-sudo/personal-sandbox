@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T17:37:46+00:00",
+  "updatedAt": "2026-10-25T17:38:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -484886,6 +484886,25 @@
       "firstSeenAt": "2026-10-25T17:37:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84284,
+      "source": "dc",
+      "externalId": "6620003",
+      "title": "서울 주요 부동산 아파트하락률 체크",
+      "excerpt": "",
+      "author": "twins",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620003&page=1",
+      "postedLabel": "02:37",
+      "postedAt": "2026-10-26T02:37:47+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T17:38:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -485008,7 +485027,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T02:35:33+09:00"
+      "slowAt": "2026-10-26T02:38:33+09:00"
     },
     "dc": {
       "doneIds": [
