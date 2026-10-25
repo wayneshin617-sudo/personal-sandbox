@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T12:37:59+00:00",
+  "updatedAt": "2026-10-25T12:38:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -480002,6 +480002,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-25T12:37:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84038,
+      "source": "blind",
+      "externalId": "cmt-458337139",
+      "title": "둘다 인정함. 하지만 영자가 이쁘다고 하면 가만두지 않을 것",
+      "excerpt": "현숙이 이쁜편인가?",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%9C%ED%8E%B8%EC%9D%B8%EA%B0%80-uc5xt4ig#458337139",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T21:38:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T12:38:59+00:00",
       "isSeed": false,
       "kind": "reply"
     }
