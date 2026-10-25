@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T14:26:50+00:00",
+  "updatedAt": "2026-10-25T14:31:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -482181,6 +482181,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-25T14:26:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84148,
+      "source": "dc",
+      "externalId": "cmt-10971409",
+      "title": "영숙님 조카도 만만치 않지 ㅇㅇ",
+      "excerpt": "방송본 남출들이 34영철 절대로 손절하면 안되는 이유",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619661&page=2#cmt_10971409",
+      "postedLabel": "10.25 23:22:09",
+      "postedAt": "2026-10-25T23:22:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T14:31:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84149,
+      "source": "blind",
+      "externalId": "cmt-458353071",
+      "title": "김 경민 존똑",
+      "excerpt": "34기 영철님 누구닮았는지 생각났어",
+      "author": "t*******",
+      "company": "신성통상",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EB%8B%98-%EB%88%84%EA%B5%AC%EB%8B%AE%EC%95%98%EB%8A%94%EC%A7%80-%EC%83%9D%EA%B0%81%EB%82%AC%EC%96%B4-0mfwekk6#458353071",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-25T23:22:33+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T14:31:50+00:00",
       "isSeed": false,
       "kind": "reply"
     }
