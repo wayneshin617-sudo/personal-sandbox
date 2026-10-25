@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:53:01+00:00",
+  "updatedAt": "2026-10-25T13:55:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -481390,6 +481390,46 @@
       "firstSeenAt": "2026-10-25T13:53:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84108,
+      "source": "blind",
+      "externalId": "cmt-458348776",
+      "title": "보통은 하고 싶다 생각만 하고 끝나",
+      "excerpt": "타투관련 이해가 안가는게",
+      "author": "Q*****",
+      "company": "SC제일은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC%EA%B4%80%EB%A0%A8-%EC%9D%B4%ED%95%B4%EA%B0%80-%EC%95%88%EA%B0%80%EB%8A%94%EA%B2%8C-6ix47luf#458348776",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:54:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:55:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84109,
+      "source": "blind",
+      "externalId": "cmt-458348784",
+      "title": "편견에 사로잡혀서 다수 의견이라는 명목으로 차별하고 급 나누려고 하는거지 뭐",
+      "excerpt": "타투관련 이해가 안가는게",
+      "author": "s******",
+      "company": "한국애보트진단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC%EA%B4%80%EB%A0%A8-%EC%9D%B4%ED%95%B4%EA%B0%80-%EC%95%88%EA%B0%80%EB%8A%94%EA%B2%8C-6ix47luf#458348784",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:54:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:55:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -481469,7 +481509,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-25T22:51:44+09:00"
+      "slowAt": "2026-10-25T22:54:43+09:00"
     },
     "ig": {
       "doneIds": [
