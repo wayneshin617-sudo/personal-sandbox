@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:56:59+00:00",
+  "updatedAt": "2026-10-25T13:59:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -481528,6 +481528,26 @@
       "firstSeenAt": "2026-10-25T13:56:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84115,
+      "source": "blind",
+      "externalId": "cmt-458349416",
+      "title": "그게 왜여우야",
+      "excerpt": "아무 근거 없는 내 촉의 추측인데",
+      "author": "i*********",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%AC%B4-%EA%B7%BC%EA%B1%B0-%EC%97%86%EB%8A%94-%EB%82%B4-%EC%B4%89%EC%9D%98-%EC%B6%94%EC%B8%A1%EC%9D%B8%EB%8D%B0-wmof7k1a#458349416",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:58:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:59:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -481650,7 +481670,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T22:55:44+09:00"
+      "slowAt": "2026-10-25T22:58:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -485109,6 +485129,7 @@
         "6619613",
         "6619614",
         "6619615",
+        "6619618",
         "6619621",
         "6619623",
         "6619627",
@@ -485128,6 +485149,7 @@
         "6619673",
         "6619679",
         "6619684",
+        "6619690",
         "6619693"
       ]
     },
