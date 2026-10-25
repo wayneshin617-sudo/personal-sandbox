@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T05:11:11+00:00",
+  "updatedAt": "2026-10-25T05:14:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -471935,6 +471935,26 @@
       "firstSeenAt": "2026-10-25T05:11:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83630,
+      "source": "dc",
+      "externalId": "cmt-10970199",
+      "title": "이정도로 관종이엇어 이형? - dc App",
+      "excerpt": "배영수 친목하느라 바쁘네 ㅎㅎ",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6618953&page=1#cmt_10970199",
+      "postedLabel": "10.25 14:13:06",
+      "postedAt": "2026-10-25T14:13:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T05:14:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -475232,7 +475252,8 @@
         "6618926",
         "6618928",
         "6618940",
-        "6618947"
+        "6618947",
+        "6618953"
       ]
     },
     "blind": {
