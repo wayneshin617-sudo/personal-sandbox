@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T06:48:38+00:00",
+  "updatedAt": "2026-10-25T06:52:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -473850,6 +473850,44 @@
       "firstSeenAt": "2026-10-25T06:48:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83727,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EA%B3%A0%EA%B8%B0%EC%A7%91%EC%97%90%EC%84%A0-%EA%B3%BC%ED%95%9C%EA%B1%B0-%EB%A7%9E%EC%9D%8C-yb0yvkrn",
+      "title": "영호 고기집에선 과한거 맞음",
+      "excerpt": "자꾸 과하다하면 질투어쩌고하는데 그거 성별반대로해서 남자 3명선택받은 여자가 고기 다굽고 셀프바에서 양파 나르는데 남자들 앉아서 잡도리만 했으면 여자들도 그 여자 깠을거임 왜 시녀같이 그러냐고 물론 가만있는 남자들도 욕먹었을거고 그나저나 왜 그 여자3명은 가만있었던거임? 편집인가",
+      "author": "부*********",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B3%A0%EA%B8%B0%EC%A7%91%EC%97%90%EC%84%A0-%EA%B3%BC%ED%95%9C%EA%B1%B0-%EB%A7%9E%EC%9D%8C-yb0yvkrn",
+      "postedLabel": "3분",
+      "postedAt": "2026-10-25T15:49:21+09:00",
+      "views": 39,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-25T06:52:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83728,
+      "source": "dc",
+      "externalId": "6619080",
+      "title": "해양대 괜춘함?",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619080&page=1",
+      "postedLabel": "15:51",
+      "postedAt": "2026-10-25T15:51:27+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T06:52:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -473972,7 +474010,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T15:49:21+09:00"
+      "slowAt": "2026-10-25T15:52:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -477199,7 +477237,8 @@
         "6619057",
         "6619062",
         "6619069",
-        "6619072"
+        "6619072",
+        "6619075"
       ]
     },
     "blind": {
