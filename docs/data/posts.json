@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T18:05:47+00:00",
+  "updatedAt": "2026-10-25T18:07:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -485080,6 +485080,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-25T18:05:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84294,
+      "source": "blind",
+      "externalId": "cmt-458374460",
+      "title": "그 회사가 일라이릴리인건 알지?",
+      "excerpt": "34 현숙 소개 영상",
+      "author": "1*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-%EC%86%8C%EA%B0%9C-%EC%98%81%EC%83%81-0wjxfw5p#458374460",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T03:07:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T18:07:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -485159,7 +485179,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T03:04:34+09:00"
+      "slowAt": "2026-10-26T03:07:33+09:00"
     },
     "ig": {
       "doneIds": [
