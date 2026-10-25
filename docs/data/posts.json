@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T09:24:23+00:00",
+  "updatedAt": "2026-10-25T09:25:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -476797,6 +476797,45 @@
       "firstSeenAt": "2026-10-25T09:24:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83876,
+      "source": "dc",
+      "externalId": "cmt-10970539",
+      "title": "사마구 그정도엿냐? - dc App",
+      "excerpt": "역대 20-33기 갤주 보고 가라",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619139&page=4#cmt_10970539",
+      "postedLabel": "10.25 16:26:55",
+      "postedAt": "2026-10-25T16:26:55+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T09:25:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83877,
+      "source": "dc",
+      "externalId": "6619328",
+      "title": "맞벌이가 개사기인 이유 .jpg",
+      "excerpt": "",
+      "author": "ㅋㅋㅋ",
+      "company": "",
+      "ip": "14.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619328&page=1",
+      "postedLabel": "18:24",
+      "postedAt": "2026-10-25T18:24:37+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T09:25:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -476919,7 +476958,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T18:22:07+09:00"
+      "slowAt": "2026-10-25T18:25:06+09:00"
     },
     "dc": {
       "doneIds": [
