@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T09:48:23+00:00",
+  "updatedAt": "2026-10-25T09:49:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -476995,6 +476995,25 @@
       "firstSeenAt": "2026-10-25T09:48:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83886,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%84%EC%A7%80%ED%95%98%EA%B2%8C-%EC%98%81%EC%88%99%EC%9D%80-nyiffpk0",
+      "title": "진지하게 영숙은",
+      "excerpt": "다들 결혼 가능할 거라고 봄?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%80%ED%95%98%EA%B2%8C-%EC%98%81%EC%88%99%EC%9D%80-nyiffpk0",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T18:49:06+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T09:49:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -477117,7 +477136,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T18:46:07+09:00"
+      "slowAt": "2026-10-25T18:49:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -480442,7 +480461,8 @@
         "6619338",
         "6619345",
         "6619348",
-        "6619355"
+        "6619355",
+        "6619357"
       ]
     },
     "blind": {
