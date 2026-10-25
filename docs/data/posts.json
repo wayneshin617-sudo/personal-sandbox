@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T07:05:38+00:00",
+  "updatedAt": "2026-10-25T07:07:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -474222,6 +474222,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-25T07:05:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83746,
+      "source": "dc",
+      "externalId": "cmt-10970490",
+      "title": "갠 걍 포차감성임",
+      "excerpt": "영철 같이 말만 번지르르하는 사람 안봐도 뻔함",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619109&page=1#cmt_10970490",
+      "postedLabel": "10.25 16:07:12",
+      "postedAt": "2026-10-25T16:07:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T07:07:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83747,
+      "source": "blind",
+      "externalId": "cmt-458298053",
+      "title": "솔직히 성격은 딱히 나쁜거모르겠던데. 오히려 관심 있는사람 없는사람 구분 확실한게 낫지않나? 여기저기 좋은사람노릇하고 인기관리하는것보단 얼굴도 그만하면 괜찮은편.",
+      "excerpt": "근데 34 영철이 나한테만 잘해주는 남자 표본 아님??",
+      "author": "w********",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%82%98%ED%95%9C%ED%85%8C%EB%A7%8C-%EC%9E%98%ED%95%B4%EC%A3%BC%EB%8A%94-%EB%82%A8%EC%9E%90-%ED%91%9C%EB%B3%B8-%EC%95%84%EB%8B%98-xs726erm#458298053",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T16:07:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T07:07:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -474344,7 +474384,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T16:04:21+09:00"
+      "slowAt": "2026-10-25T16:07:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -477582,7 +477622,8 @@
         "6619092",
         "6619096",
         "6619099",
-        "6619105"
+        "6619105",
+        "6619109"
       ]
     },
     "blind": {
