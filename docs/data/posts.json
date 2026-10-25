@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T08:55:23+00:00",
+  "updatedAt": "2026-10-25T08:56:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -476180,6 +476180,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-25T08:55:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83845,
+      "source": "blind",
+      "externalId": "cmt-458305807",
+      "title": "영숙이는 장점이 몰까..",
+      "excerpt": "영숙이는 비혼선언 하러 온거 같음",
+      "author": "U*****",
+      "company": "농심",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4%EB%8A%94-%EB%B9%84%ED%98%BC%EC%84%A0%EC%96%B8-%ED%95%98%EB%9F%AC-%EC%98%A8%EA%B1%B0-%EA%B0%99%EC%9D%8C-6op5khl3#458305807",
+      "postedLabel": "37분",
+      "postedAt": "2026-10-25T17:19:06+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T08:56:23+00:00",
       "isSeed": false,
       "kind": "reply"
     }
