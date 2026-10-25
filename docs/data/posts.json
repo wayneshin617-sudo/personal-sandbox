@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:18:59+00:00",
+  "updatedAt": "2026-10-25T13:19:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -480797,6 +480797,26 @@
       "firstSeenAt": "2026-10-25T13:18:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84078,
+      "source": "blind",
+      "externalId": "cmt-458343595",
+      "title": "한전이 왠일로 맞말을? 했더니 한전아니였네",
+      "excerpt": "문신은 그냥 거르면 됨 ㅇㅇ 쉬움",
+      "author": "1*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EA%B7%B8%EB%83%A5-%EA%B1%B0%EB%A5%B4%EB%A9%B4-%EB%90%A8-%E3%85%87%E3%85%87-%EC%89%AC%EC%9B%80-fns2ucto#458343595",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:19:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:19:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -480919,7 +480939,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T22:16:43+09:00"
+      "slowAt": "2026-10-25T22:19:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -484376,7 +484396,8 @@
         "6619623",
         "6619627",
         "6619631",
-        "6619632"
+        "6619632",
+        "6619640"
       ]
     },
     "blind": {
