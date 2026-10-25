@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T15:49:50+00:00",
+  "updatedAt": "2026-10-25T15:51:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -484314,6 +484314,26 @@
       "firstSeenAt": "2026-10-25T15:49:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84255,
+      "source": "dc",
+      "externalId": "cmt-10971581",
+      "title": "6번의 고비가 있었대",
+      "excerpt": "순자씨 인생에 문신이라는 선택지가 있었다는게 슬프다",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619849&page=1#cmt_10971581",
+      "postedLabel": "10.26 00:51:14",
+      "postedAt": "2026-10-26T00:51:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T15:51:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -484436,7 +484456,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T00:48:33+09:00"
+      "slowAt": "2026-10-26T00:51:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -487948,6 +487968,7 @@
         "6619759",
         "6619768",
         "6619769",
+        "6619775",
         "6619779",
         "6619780",
         "6619787",
@@ -487960,7 +487981,8 @@
         "6619825",
         "6619833",
         "6619839",
-        "6619844"
+        "6619844",
+        "6619849"
       ]
     },
     "blind": {
