@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T14:31:50+00:00",
+  "updatedAt": "2026-10-25T14:33:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -482223,6 +482223,26 @@
       "firstSeenAt": "2026-10-25T14:31:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84150,
+      "source": "blind",
+      "externalId": "cmt-458354598",
+      "title": "근데 솔직히 간호사 타이틀로 닉네임만 바꾸면 여러사람이 될수 있잖아;;;;;",
+      "excerpt": "순자가 얼마나 좋은 사람이면 동료들이 옹호해주는걸까",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%A2%8B%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%A9%B4-%EB%8F%99%EB%A3%8C%EB%93%A4%EC%9D%B4-%EC%98%B9%ED%98%B8%ED%95%B4%EC%A3%BC%EB%8A%94%EA%B1%B8%EA%B9%8C-47mn0zry#458354598",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T23:33:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T14:33:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -482345,7 +482365,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T23:30:33+09:00"
+      "slowAt": "2026-10-25T23:33:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -485835,7 +485855,8 @@
         "6619727",
         "6619728",
         "6619731",
-        "6619738"
+        "6619738",
+        "6619744"
       ]
     },
     "blind": {
