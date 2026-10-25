@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T04:50:10+00:00",
+  "updatedAt": "2026-10-25T04:51:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -471539,6 +471539,66 @@
       "firstSeenAt": "2026-10-25T04:50:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83610,
+      "source": "blind",
+      "externalId": "cmt-458280965",
+      "title": "그런사람이 막상 괜찮으면 쌉고평가됨",
+      "excerpt": "아이 어린이집이나 학교 입학했을 때",
+      "author": "g*********",
+      "company": "한국농어촌공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%9D%B4-%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%A7%91%EC%9D%B4%EB%82%98-%ED%95%99%EA%B5%90-%EC%9E%85%ED%95%99%ED%96%88%EC%9D%84-%EB%95%8C-8f657po0#458280965",
+      "postedLabel": "37분",
+      "postedAt": "2026-10-25T13:13:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T04:51:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83611,
+      "source": "blind",
+      "externalId": "cmt-458281498",
+      "title": "그러다가 한번 실수하면 그럼그렇지 바로 나락가지",
+      "excerpt": "아이 어린이집이나 학교 입학했을 때",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%9D%B4-%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%A7%91%EC%9D%B4%EB%82%98-%ED%95%99%EA%B5%90-%EC%9E%85%ED%95%99%ED%96%88%EC%9D%84-%EB%95%8C-8f657po0#458281498",
+      "postedLabel": "30분",
+      "postedAt": "2026-10-25T13:20:53+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T04:51:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83612,
+      "source": "blind",
+      "externalId": "cmt-458283519",
+      "title": "고평가 된적 못 봤는데..?",
+      "excerpt": "아이 어린이집이나 학교 입학했을 때",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%9D%B4-%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%A7%91%EC%9D%B4%EB%82%98-%ED%95%99%EA%B5%90-%EC%9E%85%ED%95%99%ED%96%88%EC%9D%84-%EB%95%8C-8f657po0#458283519",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-25T13:41:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T04:51:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -471618,7 +471678,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-25T13:47:53+09:00"
+      "slowAt": "2026-10-25T13:50:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -474828,7 +474888,8 @@
         "6618908",
         "6618912",
         "6618918",
-        "6618921"
+        "6618921",
+        "6618926"
       ]
     },
     "blind": {
