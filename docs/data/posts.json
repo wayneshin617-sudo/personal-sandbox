@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T11:16:00+00:00",
+  "updatedAt": "2026-10-25T11:16:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -478461,6 +478461,45 @@
       "firstSeenAt": "2026-10-25T11:16:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83960,
+      "source": "dc",
+      "externalId": "6619498",
+      "title": "투표",
+      "excerpt": "",
+      "author": "kike^-^",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619498&page=1",
+      "postedLabel": "20:16",
+      "postedAt": "2026-10-25T20:16:21+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T11:16:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83961,
+      "source": "blind",
+      "externalId": "cmt-458325604",
+      "title": "난 초장부터 나가리될줄 알았는데 아직도 현숙이 맘이 있다그래서 진짜 절망중.. 여자들은 외모만 보는구나 진짜",
+      "excerpt": "34기 영철이 운명 어떻게 될거같음?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9A%B4%EB%AA%85-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B1%B0%EA%B0%99%EC%9D%8C-oqid6cov#458325604",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T20:16:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T11:16:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -478583,7 +478622,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T20:10:06+09:00"
+      "slowAt": "2026-10-25T20:16:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -481847,6 +481886,7 @@
         "6619119",
         "6619120",
         "6619123",
+        "6619125",
         "6619126",
         "6619131",
         "6619136",
