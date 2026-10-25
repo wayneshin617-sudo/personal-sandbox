@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:22:00+00:00",
+  "updatedAt": "2026-10-25T13:22:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -480857,6 +480857,46 @@
       "firstSeenAt": "2026-10-25T13:22:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84081,
+      "source": "blind",
+      "externalId": "cmt-458344091",
+      "title": "그니까 외모가 할머니같음",
+      "excerpt": "이번기수 현숙",
+      "author": "!*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%ED%98%84%EC%88%99-h6nzoya2#458344091",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:22:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:22:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84082,
+      "source": "blind",
+      "externalId": "cmt-458344042",
+      "title": "외모만",
+      "excerpt": "이번기수 현숙",
+      "author": "i**** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%ED%98%84%EC%88%99-h6nzoya2#458344042",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:22:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:22:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -480979,7 +481019,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T22:19:43+09:00"
+      "slowAt": "2026-10-25T22:22:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -484418,6 +484458,7 @@
         "6619561",
         "6619564",
         "6619565",
+        "6619568",
         "6619575",
         "6619577",
         "6619580",
