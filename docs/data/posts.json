@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T07:30:40+00:00",
+  "updatedAt": "2026-10-25T07:31:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -474620,6 +474620,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-25T07:30:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83766,
+      "source": "blind",
+      "externalId": "cmt-458300069",
+      "title": "잘못된 표현임 환자분은 돼도 상철분은 안됨",
+      "excerpt": "솔직히 상철분",
+      "author": "l*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%83%81%EC%B2%A0%EB%B6%84-pdwky6pw#458300069",
+      "postedLabel": "6분",
+      "postedAt": "2026-10-25T16:25:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T07:31:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83767,
+      "source": "blind",
+      "externalId": "cmt-458300064",
+      "title": "딴얘긴데 ea가 심즈 만든 그 회사던가?",
+      "excerpt": "솔직히 상철분",
+      "author": "n*****",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%83%81%EC%B2%A0%EB%B6%84-pdwky6pw#458300064",
+      "postedLabel": "6분",
+      "postedAt": "2026-10-25T16:25:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T07:31:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -474742,7 +474782,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T16:28:21+09:00"
+      "slowAt": "2026-10-25T16:31:22+09:00"
     },
     "dc": {
       "doneIds": [
@@ -477900,6 +477940,7 @@
         "6618844",
         "6618846",
         "6618849",
+        "6618850",
         "6618852",
         "6618857",
         "6618858",
