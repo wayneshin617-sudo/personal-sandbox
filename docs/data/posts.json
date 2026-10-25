@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T09:56:24+00:00",
+  "updatedAt": "2026-10-25T09:57:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -477114,6 +477114,25 @@
       "firstSeenAt": "2026-10-25T09:56:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83892,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9B%AC%EB%A7%8C%ED%95%98%EB%A9%B4-%EC%99%88%EA%B0%80%EC%99%88%EB%B6%80-%EC%9E%98-%EC%95%88%ED%95%98%EB%8A%94%EB%8D%B0-t5qakt7c",
+      "title": "웬만하면 왈가왈부 잘 안하는데",
+      "excerpt": "영철은 확실히 가볍다 ㅋㅋ",
+      "author": "아*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9B%AC%EB%A7%8C%ED%95%98%EB%A9%B4-%EC%99%88%EA%B0%80%EC%99%88%EB%B6%80-%EC%9E%98-%EC%95%88%ED%95%98%EB%8A%94%EB%8D%B0-t5qakt7c",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T18:57:07+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T09:57:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -477193,7 +477212,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-25T18:54:06+09:00"
+      "slowAt": "2026-10-25T18:57:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -480551,6 +480570,7 @@
         "6619282",
         "6619284",
         "6619290",
+        "6619293",
         "6619301",
         "6619311",
         "6619316",
@@ -480567,7 +480587,8 @@
         "6619357",
         "6619358",
         "6619367",
-        "6619370"
+        "6619370",
+        "6619373"
       ]
     },
     "blind": {
