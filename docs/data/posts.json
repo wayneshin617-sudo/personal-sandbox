@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T10:33:23+00:00",
+  "updatedAt": "2026-10-25T10:34:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -477768,6 +477768,26 @@
       "firstSeenAt": "2026-10-25T10:33:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83925,
+      "source": "blind",
+      "externalId": "cmt-458320236",
+      "title": "그니까 ㅋㅋ 블라에서 얘기하는 거랑은 또 다름 다둥이 특집이라 동생이랑 더 통하는 것도 있고",
+      "excerpt": "동생이 나솔 보니까 너무 좋다",
+      "author": "I********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%99%EC%83%9D%EC%9D%B4-%EB%82%98%EC%86%94-%EB%B3%B4%EB%8B%88%EA%B9%8C-%EB%84%88%EB%AC%B4-%EC%A2%8B%EB%8B%A4-qjzlfqs1#458320236",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T19:34:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T10:34:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -477890,7 +477910,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T19:31:06+09:00"
+      "slowAt": "2026-10-25T19:34:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -481245,7 +481265,8 @@
         "6619407",
         "6619410",
         "6619421",
-        "6619422"
+        "6619422",
+        "6619424"
       ]
     },
     "blind": {
