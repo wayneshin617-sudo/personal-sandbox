@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T02:44:10+00:00",
+  "updatedAt": "2026-10-25T02:45:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -468903,6 +468903,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-25T02:44:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83477,
+      "source": "dc",
+      "externalId": "6618797",
+      "title": "모솔특집편 34기 영자 여론 어땠음?",
+      "excerpt": "",
+      "author": "하이세",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6618797&page=1",
+      "postedLabel": "11:44",
+      "postedAt": "2026-10-25T11:44:41+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T02:45:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83478,
+      "source": "blind",
+      "externalId": "cmt-458272802",
+      "title": "문신 아니더라도 잡도리하는게 보통은 아니던데 인상도 그렇고 맏며느리, 장녀로 잘포장됐다고 생각함",
+      "excerpt": "어차피 문신 논란 오래 안감",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%B0%A8%ED%94%BC-%EB%AC%B8%EC%8B%A0-%EB%85%BC%EB%9E%80-%EC%98%A4%EB%9E%98-%EC%95%88%EA%B0%90-xyj45a1c#458272802",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T11:44:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T02:45:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -468982,7 +469021,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-25T11:41:53+09:00"
+      "slowAt": "2026-10-25T11:44:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -469078,6 +469117,7 @@
         "6566135",
         "6566183",
         "6566210",
+        "6566212",
         "6600977",
         "6600980",
         "6600981",
@@ -472138,7 +472178,8 @@
         "6618780",
         "6618787",
         "6618790",
-        "6618793"
+        "6618793",
+        "6618794"
       ]
     },
     "blind": {
@@ -473570,6 +473611,7 @@
         "/kr/post/%EC%96%B4%EC%A0%9C-%EC%9E%BC%EC%8D%BC%EC%96%B4-zzakln3x",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-6gn021i7",
         "/kr/post/%EC%96%B4%EC%A9%8C%EA%B3%A0-%EA%B5%90%EC%9C%A1-%EB%AA%BB-%EB%B0%9B%EC%95%98%EB%83%90-%EC%98%81%EC%88%99%EC%95%84-yza4vm0v",
+        "/kr/post/%EC%96%B4%EC%B0%A8%ED%94%BC-%EB%AC%B8%EC%8B%A0-%EB%85%BC%EB%9E%80-%EC%98%A4%EB%9E%98-%EC%95%88%EA%B0%90-xyj45a1c",
         "/kr/post/%EC%96%B4%ED%94%8C%EB%A1%9C-%EB%AA%87-%EB%B0%B1%EB%AA%85-%EB%A7%8C%EB%82%AC%EB%8A%94%EB%8D%B0-d2swamor",
         "/kr/post/%EC%96%B4%ED%9C%B4%EB%98%A5%EC%B0%A8-%ED%8A%B9%EC%A7%91%EC%9D%B4%EB%84%A4-%E3%85%A0%E3%85%A0-055mtbpt",
         "/kr/post/%EC%96%B4%ED%9C%B4-h1lhgyfh",
