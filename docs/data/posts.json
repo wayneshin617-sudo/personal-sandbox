@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T02:31:10+00:00",
+  "updatedAt": "2026-10-25T02:38:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -468626,6 +468626,45 @@
       "firstSeenAt": "2026-10-25T02:31:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83463,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-qt5xcobw",
+      "title": "영철",
+      "excerpt": "키크고 잘생기고 거기다가 축구 등 운동도 잘한다고 하는데 이 정도면 직장에서 골라만나긴 했겠다 남공 평균 외모 감안하면.. 더더욱",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-qt5xcobw",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T11:37:52+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T02:38:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83464,
+      "source": "blind",
+      "externalId": "cmt-458271947",
+      "title": "자학이지 머",
+      "excerpt": "문신하면 힘들때 좀 나은가봐",
+      "author": "N***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%ED%95%98%EB%A9%B4-%ED%9E%98%EB%93%A4%EB%95%8C-%EC%A2%80-%EB%82%98%EC%9D%80%EA%B0%80%EB%B4%90-tltsjbof#458271947",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T11:37:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T02:38:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -471854,7 +471893,8 @@
         "6618765",
         "6618772",
         "6618777",
-        "6618780"
+        "6618780",
+        "6618787"
       ]
     },
     "blind": {
