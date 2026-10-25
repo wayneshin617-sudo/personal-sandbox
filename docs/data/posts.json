@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T02:03:52+00:00",
+  "updatedAt": "2026-10-25T02:04:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -467834,6 +467834,25 @@
       "firstSeenAt": "2026-10-25T02:03:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83423,
+      "source": "dc",
+      "externalId": "6618734",
+      "title": "투표",
+      "excerpt": "",
+      "author": "kike^-^",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6618734&page=1",
+      "postedLabel": "11:03",
+      "postedAt": "2026-10-25T11:03:45+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T02:04:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -467956,7 +467975,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T11:01:34+09:00"
+      "slowAt": "2026-10-25T11:04:34+09:00"
     },
     "dc": {
       "doneIds": [
