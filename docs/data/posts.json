@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T07:12:38+00:00",
+  "updatedAt": "2026-10-25T07:13:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -474341,6 +474341,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-25T07:12:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83752,
+      "source": "blind",
+      "externalId": "cmt-458298702",
+      "title": "상철분 영수분이 뭔가 익숙하다 했더니 환자분~ 느낌이네",
+      "excerpt": "솔직히 상철분",
+      "author": "l*********",
+      "company": "EA코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%83%81%EC%B2%A0%EB%B6%84-pdwky6pw#458298702",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T16:13:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T07:13:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -474463,7 +474483,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T16:10:21+09:00"
+      "slowAt": "2026-10-25T16:13:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -477583,6 +477603,7 @@
         "6618747",
         "6618748",
         "6618749",
+        "6618750",
         "6618752",
         "6618756",
         "6618758",
@@ -477704,7 +477725,8 @@
         "6619099",
         "6619105",
         "6619109",
-        "6619116"
+        "6619116",
+        "6619118"
       ]
     },
     "blind": {
@@ -478842,6 +478864,7 @@
         "/kr/post/%EC%86%94%EB%A1%9C%EC%95%BC-%EC%8B%AC%EC%8B%AC%ED%95%98%EA%B8%B0%EB%8F%84-%ED%95%98%EA%B3%A0-%EC%99%B8%EB%A1%AD%EA%B8%B0%EB%8F%84-%ED%95%B4-ch5wy8f6",
         "/kr/post/%EC%86%94%EC%A7%81%ED%95%9C-%ED%99%94%EB%81%88%ED%95%A8-34%EA%B8%B0-%EC%98%81%EC%88%99-427u2qmb",
         "/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EB%82%9C-%EB%AC%B8%EC%8B%A0-%EC%A2%8B%EA%B2%8C%EB%B3%B8%EB%8B%A4-0r1euedc",
+        "/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%83%81%EC%B2%A0%EB%B6%84-pdwky6pw",
         "/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%A0%95%EC%88%99%EC%9D%B4-uoa4lf8t",
         "/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-34%EC%98%81%EC%88%99%EC%9D%B4-%EC%A0%A4-%EC%98%88%EC%81%98%EC%A7%80%EC%95%8A%EC%95%84%E2%80%A6-qtm5vj1x",
         "/kr/post/%EC%86%A1%ED%95%B4%EB%82%98%EB%9E%91-%EC%88%9C%EC%9E%90%EB%9E%91-%ED%98%84%EC%88%99%EC%9D%B4-%EC%99%9C-k-%EC%9E%A5%EB%85%80%EC%9E%84-n4sea254",
