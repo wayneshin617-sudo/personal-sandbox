@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T02:04:52+00:00",
+  "updatedAt": "2026-10-25T02:05:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -467853,6 +467853,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-25T02:04:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83424,
+      "source": "blind",
+      "externalId": "cmt-458262623",
+      "title": "현숙이가 얼른 정신을 차려야한다",
+      "excerpt": "영호랑 현숙이랑 응원하게 되네",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%9E%91-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%9D%91%EC%9B%90%ED%95%98%EA%B2%8C-%EB%90%98%EB%84%A4-rtpg8pz0#458262623",
+      "postedLabel": "57분",
+      "postedAt": "2026-10-25T10:08:34+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T02:05:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83425,
+      "source": "blind",
+      "externalId": "cmt-458268384",
+      "title": "ㅂㄹㅋㄹㅂ",
+      "excerpt": "34기 영호 회사가 어디야?",
+      "author": "i*********",
+      "company": "신세계인터내셔날",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%ED%9A%8C%EC%82%AC%EA%B0%80-%EC%96%B4%EB%94%94%EC%95%BC-v8vpqpl5#458268384",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T11:05:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T02:05:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -471062,7 +471102,8 @@
         "6618709",
         "6618711",
         "6618719",
-        "6618728"
+        "6618728",
+        "6618735"
       ]
     },
     "blind": {
