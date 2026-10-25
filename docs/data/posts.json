@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T11:40:59+00:00",
+  "updatedAt": "2026-10-25T11:43:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -478919,6 +478919,46 @@
       "firstSeenAt": "2026-10-25T11:40:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83983,
+      "source": "qoo",
+      "externalId": "cmt-4386127161",
+      "title": "영수 괜찮다",
+      "excerpt": "아침식사 준비하는 영수",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385351357#4386127161",
+      "postedLabel": "",
+      "postedAt": "2026-10-25T19:43:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T11:43:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83984,
+      "source": "blind",
+      "externalId": "cmt-458326290",
+      "title": "정상적인 연애라기보다는 뭔가 '박나래식 연애'가 아니었을까 싶음 여자 측에서 데이트비용 다 쓰고 차도 다 태워 주고 틈틈이 용돈까지 쥐어주는 그런 연애",
+      "excerpt": "영자가 10살 어린 남자 만났다고 하는거",
+      "author": "i*********",
+      "company": "국세청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EA%B0%80-10%EC%82%B4-%EC%96%B4%EB%A6%B0-%EB%82%A8%EC%9E%90-%EB%A7%8C%EB%82%AC%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B1%B0-0ly0m1bp#458326290",
+      "postedLabel": "23분",
+      "postedAt": "2026-10-25T20:20:43+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T11:43:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -479041,7 +479081,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T20:40:43+09:00"
+      "slowAt": "2026-10-25T20:43:43+09:00"
     },
     "dc": {
       "doneIds": [
