@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:55:00+00:00",
+  "updatedAt": "2026-10-25T13:56:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -481430,6 +481430,65 @@
       "firstSeenAt": "2026-10-25T13:55:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84110,
+      "source": "blind",
+      "externalId": "cmt-458346631",
+      "title": "좀 더 봐봐",
+      "excerpt": "나솔 이번거 보는데..",
+      "author": "d******",
+      "company": "KB라이프생명",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B1%B0-%EB%B3%B4%EB%8A%94%EB%8D%B0-mrpo1rhe#458346631",
+      "postedLabel": "17분",
+      "postedAt": "2026-10-25T22:38:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:56:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84111,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EB%AC%B4-%EA%B7%BC%EA%B1%B0-%EC%97%86%EB%8A%94-%EB%82%B4-%EC%B4%89%EC%9D%98-%EC%B6%94%EC%B8%A1%EC%9D%B8%EB%8D%B0-wmof7k1a",
+      "title": "아무 근거 없는 내 촉의 추측인데",
+      "excerpt": "현숙이 왜 여우같지.. 방송내내 음 모르겟는데여 부담스러워여 시전하다가 최종선택 안할 삘",
+      "author": "d*****",
+      "company": "애터미",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%AC%B4-%EA%B7%BC%EA%B1%B0-%EC%97%86%EB%8A%94-%EB%82%B4-%EC%B4%89%EC%9D%98-%EC%B6%94%EC%B8%A1%EC%9D%B8%EB%8D%B0-wmof7k1a",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:55:44+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T13:56:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84112,
+      "source": "blind",
+      "externalId": "cmt-458348959",
+      "title": "아니 쪼끔 더 부지런했으면 했을거같거든",
+      "excerpt": "타투관련 이해가 안가는게",
+      "author": "l****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%83%80%ED%88%AC%EA%B4%80%EB%A0%A8-%EC%9D%B4%ED%95%B4%EA%B0%80-%EC%95%88%EA%B0%80%EB%8A%94%EA%B2%8C-6ix47luf#458348959",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T22:55:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:56:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -481552,7 +481611,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T22:52:44+09:00"
+      "slowAt": "2026-10-25T22:55:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -485009,6 +485068,7 @@
         "6619610",
         "6619612",
         "6619613",
+        "6619614",
         "6619615",
         "6619621",
         "6619623",
@@ -485028,7 +485088,8 @@
         "6619667",
         "6619673",
         "6619679",
-        "6619684"
+        "6619684",
+        "6619693"
       ]
     },
     "blind": {
