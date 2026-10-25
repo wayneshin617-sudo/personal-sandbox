@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T23:21:22+00:00",
+  "updatedAt": "2026-10-25T23:22:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -486268,6 +486268,45 @@
       "firstSeenAt": "2026-10-25T23:21:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84354,
+      "source": "dc",
+      "externalId": "6620274",
+      "title": "이 저능아 새끼 이년 다시 만",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620274&page=1",
+      "postedLabel": "08:21",
+      "postedAt": "2026-10-26T08:21:10+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T23:22:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84355,
+      "source": "dc",
+      "externalId": "cmt-10971914",
+      "title": "옥팔계년",
+      "excerpt": "얼굴크기의 중요성",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620270&page=1#cmt_10971914",
+      "postedLabel": "10.26 08:21:29",
+      "postedAt": "2026-10-26T08:21:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T23:22:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -486499,6 +486538,8 @@
         "6567290",
         "6567293",
         "6567325",
+        "6567353",
+        "6567360",
         "6600977",
         "6600980",
         "6600981",
