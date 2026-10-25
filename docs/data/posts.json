@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T04:51:10+00:00",
+  "updatedAt": "2026-10-25T04:52:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -471599,6 +471599,45 @@
       "firstSeenAt": "2026-10-25T04:51:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83613,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B1%8D-%EB%AC%B8%EC%8B%A0%EC%B6%A9-%EB%8D%B0%EB%A6%AC%EC%98%A4%EB%A9%B4-%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%B4%EB%82%98-%EC%B9%9C%EA%B5%AC-%ED%95%9C%ED%85%8C-%EC%AA%BD%ED%8C%94%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%82%98-oufdom3h",
+      "title": "걍 문신충 데리오면 부모님이나 친구 한테 쪽팔리지 않나;;",
+      "excerpt": "소개 시키는데 목이나 팔에 시퍼런거 있으몀 쪽팔려서 그런거지",
+      "author": "D*****",
+      "company": "한화파워",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B1%8D-%EB%AC%B8%EC%8B%A0%EC%B6%A9-%EB%8D%B0%EB%A6%AC%EC%98%A4%EB%A9%B4-%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%B4%EB%82%98-%EC%B9%9C%EA%B5%AC-%ED%95%9C%ED%85%8C-%EC%AA%BD%ED%8C%94%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%82%98-oufdom3h",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T13:51:53+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T04:52:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83614,
+      "source": "blind",
+      "externalId": "cmt-458284351",
+      "title": "진짜 괴물은 영숙이긴한데...",
+      "excerpt": "이번기수 잠깐 봤는데",
+      "author": "z*****",
+      "company": "엑스엘게임즈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%9E%A0%EA%B9%90-%EB%B4%A4%EB%8A%94%EB%8D%B0-f8qx6w1k#458284351",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T13:51:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T04:52:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -471721,7 +471760,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T13:48:53+09:00"
+      "slowAt": "2026-10-25T13:51:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -474876,6 +474915,7 @@
         "6618852",
         "6618857",
         "6618860",
+        "6618865",
         "6618871",
         "6618873",
         "6618877",
