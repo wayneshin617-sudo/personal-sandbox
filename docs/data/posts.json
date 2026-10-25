@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T05:30:40+00:00",
+  "updatedAt": "2026-10-25T05:31:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -472347,6 +472347,45 @@
       "firstSeenAt": "2026-10-25T05:30:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83651,
+      "source": "dc",
+      "externalId": "cmt-10970244",
+      "title": "ㅋㅋ - dc App",
+      "excerpt": "망도 고향 대박이네 ㅋㅋㅋㅋ",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6618979&page=1#cmt_10970244",
+      "postedLabel": "10.25 14:30:30",
+      "postedAt": "2026-10-25T14:30:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T05:31:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83652,
+      "source": "dc",
+      "externalId": "6618985",
+      "title": "1영호는 도대체 몇번째야?",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6618985&page=1",
+      "postedLabel": "14:30",
+      "postedAt": "2026-10-25T14:30:54+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T05:31:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -472469,7 +472508,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T14:28:21+09:00"
+      "slowAt": "2026-10-25T14:31:21+09:00"
     },
     "dc": {
       "doneIds": [
