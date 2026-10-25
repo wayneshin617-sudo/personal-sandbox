@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T12:09:00+00:00",
+  "updatedAt": "2026-10-25T12:11:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -479409,6 +479409,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-25T12:09:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84008,
+      "source": "qoo",
+      "externalId": "cmt-4386155739",
+      "title": "@4 의견이 다르면 다른거지 뭐 이렇게 남의 글을 조롱하고 다녀ㅋㅋㅋ",
+      "excerpt": "이번기수 영식 꽤 수요상인데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4385714474#4386155739",
+      "postedLabel": "",
+      "postedAt": "2026-10-25T20:11:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T12:11:59+00:00",
       "isSeed": false,
       "kind": "reply"
     }
