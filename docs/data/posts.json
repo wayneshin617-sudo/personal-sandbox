@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T04:16:11+00:00",
+  "updatedAt": "2026-10-25T04:19:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -471023,6 +471023,45 @@
       "firstSeenAt": "2026-10-25T04:16:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83584,
+      "source": "qoo",
+      "externalId": "4385809163",
+      "title": "34기 뒤에 아직 안봤는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4385809163",
+      "postedLabel": "13:18",
+      "postedAt": "2026-10-25T13:18:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T04:19:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83585,
+      "source": "blind",
+      "externalId": "cmt-458281321",
+      "title": "핵꿀잼임 대박기수임",
+      "excerpt": "나솔 이번기수 볼만함?",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%B3%BC%EB%A7%8C%ED%95%A8-7tdgi2nk#458281321",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T13:18:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T04:19:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -471145,7 +471184,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T13:15:53+09:00"
+      "slowAt": "2026-10-25T13:18:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -480174,7 +480213,8 @@
         "4385680209",
         "4385714474",
         "4385715418",
-        "4385726464"
+        "4385726464",
+        "4385809163"
       ]
     },
     "keep": "v2",
