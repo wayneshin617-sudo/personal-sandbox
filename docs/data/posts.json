@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T14:11:52+00:00",
+  "updatedAt": "2026-10-25T14:13:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -481784,6 +481784,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-25T14:11:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84128,
+      "source": "blind",
+      "externalId": "cmt-458344239",
+      "title": "정답",
+      "excerpt": "문신은 그냥 거르면 됨 ㅇㅇ 쉬움",
+      "author": "l*******",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EA%B7%B8%EB%83%A5-%EA%B1%B0%EB%A5%B4%EB%A9%B4-%EB%90%A8-%E3%85%87%E3%85%87-%EC%89%AC%EC%9B%80-fns2ucto#458344239",
+      "postedLabel": "50분",
+      "postedAt": "2026-10-25T22:23:33+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T14:13:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84129,
+      "source": "blind",
+      "externalId": "cmt-458349643",
+      "title": "쓰니말도 맞는데 제대로 살면 애초에 주변에 문신한 사람 없지",
+      "excerpt": "문신은 그냥 거르면 됨 ㅇㅇ 쉬움",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0%EC%9D%80-%EA%B7%B8%EB%83%A5-%EA%B1%B0%EB%A5%B4%EB%A9%B4-%EB%90%A8-%E3%85%87%E3%85%87-%EC%89%AC%EC%9B%80-fns2ucto#458349643",
+      "postedLabel": "14분",
+      "postedAt": "2026-10-25T22:59:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T14:13:51+00:00",
       "isSeed": false,
       "kind": "reply"
     }
