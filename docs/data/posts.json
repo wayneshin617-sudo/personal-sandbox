@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T08:37:22+00:00",
+  "updatedAt": "2026-10-25T08:38:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -476024,6 +476024,45 @@
       "firstSeenAt": "2026-10-25T08:37:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83837,
+      "source": "qoo",
+      "externalId": "4386005717",
+      "title": "이번 기수 지금 보는 중인데 광수 춤 추는거 엄청 행복해보이네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386005717",
+      "postedLabel": "17:37",
+      "postedAt": "2026-10-25T17:37:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T08:38:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 83838,
+      "source": "dc",
+      "externalId": "cmt-10970692",
+      "title": "어 - dc App",
+      "excerpt": "오히려 반대지. 돈이 없으니까 일을 하는거고.",
+      "author": "우빈유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619253&page=1#cmt_10970692",
+      "postedLabel": "10.25 17:37:56",
+      "postedAt": "2026-10-25T17:37:56+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T08:38:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -485355,7 +485394,8 @@
         "4385809163",
         "4385878057",
         "4385885250",
-        "4385894074"
+        "4385894074",
+        "4386005717"
       ]
     },
     "keep": "v2",
