@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T17:38:47+00:00",
+  "updatedAt": "2026-10-25T17:39:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -484905,6 +484905,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-25T17:38:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84285,
+      "source": "blind",
+      "externalId": "cmt-458373404",
+      "title": "예쁘기만한데",
+      "excerpt": "현숙이 애매한 이유를 알았다",
+      "author": "i*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%95%A0%EB%A7%A4%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%A5%BC-%EC%95%8C%EC%95%98%EB%8B%A4-hdst6rpv#458373404",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T02:39:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T17:39:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -488582,7 +488602,8 @@
         "6619970",
         "6619973",
         "6619981",
-        "6619996"
+        "6619996",
+        "6620004"
       ]
     },
     "blind": {
