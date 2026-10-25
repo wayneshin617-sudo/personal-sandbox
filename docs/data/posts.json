@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T05:34:39+00:00",
+  "updatedAt": "2026-10-25T05:35:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -472562,6 +472562,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-25T05:34:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83662,
+      "source": "blind",
+      "externalId": "cmt-458288551",
+      "title": "지잡대 비율이 압도적으로 높음 지잡대 보다 전문대, 고졸이 더 많고",
+      "excerpt": "근데 초중고대학교 나와서 직장생활하는 사람중에",
+      "author": "d*******",
+      "company": "한국남부발전",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%B4%88%EC%A4%91%EA%B3%A0%EB%8C%80%ED%95%99%EA%B5%90-%EB%82%98%EC%99%80%EC%84%9C-%EC%A7%81%EC%9E%A5%EC%83%9D%ED%99%9C%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%A4%91%EC%97%90-a51eywgx#458288551",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-25T14:33:21+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T05:35:39+00:00",
       "isSeed": false,
       "kind": "reply"
     }
