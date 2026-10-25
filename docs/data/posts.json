@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T02:24:49+00:00",
+  "updatedAt": "2026-10-25T02:25:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -468489,6 +468489,25 @@
       "firstSeenAt": "2026-10-25T02:24:49+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83456,
+      "source": "dc",
+      "externalId": "6618770",
+      "title": "출연자들이 라방에서 늘",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6618770&page=1",
+      "postedLabel": "11:24",
+      "postedAt": "2026-10-25T11:24:53+09:00",
+      "views": 7,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T02:25:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -468611,7 +468630,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T11:22:34+09:00"
+      "slowAt": "2026-10-25T11:25:34+09:00"
     },
     "dc": {
       "doneIds": [
