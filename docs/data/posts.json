@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T08:27:23+00:00",
+  "updatedAt": "2026-10-25T08:29:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -475707,6 +475707,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-25T08:27:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 83821,
+      "source": "blind",
+      "externalId": "cmt-458306725",
+      "title": "사람한테 자꾸 괴물이 뭐냐",
+      "excerpt": "투표글 34기 여자 누가 제일 괜찮음? 투표",
+      "author": "Y*****",
+      "company": "현대HDS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%97%AC%EC%9E%90-%EB%88%84%EA%B0%80-%EC%A0%9C%EC%9D%BC-%EA%B4%9C%EC%B0%AE%EC%9D%8C-0y83yiq6#458306725",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T17:29:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T08:29:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -479110,7 +479130,8 @@
         "6619228",
         "6619234",
         "6619235",
-        "6619238"
+        "6619238",
+        "6619246"
       ]
     },
     "blind": {
