@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T11:22:00+00:00",
+  "updatedAt": "2026-10-25T11:22:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -478560,6 +478560,26 @@
       "firstSeenAt": "2026-10-25T11:22:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83965,
+      "source": "dc",
+      "externalId": "cmt-10971083",
+      "title": "ㅋㅋ - dc App",
+      "excerpt": "와인잔 깨지기 일보직전 ㅋㅋㅋ",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619501&page=1#cmt_10971083",
+      "postedLabel": "10.25 20:22:10",
+      "postedAt": "2026-10-25T20:22:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T11:22:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -478682,7 +478702,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T20:19:43+09:00"
+      "slowAt": "2026-10-25T20:22:43+09:00"
     },
     "dc": {
       "doneIds": [
