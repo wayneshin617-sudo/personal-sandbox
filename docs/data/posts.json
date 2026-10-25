@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T04:06:10+00:00",
+  "updatedAt": "2026-10-25T04:09:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -470864,6 +470864,45 @@
       "firstSeenAt": "2026-10-25T04:06:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 83576,
+      "source": "blind",
+      "externalId": "cmt-458266642",
+      "title": "1이지",
+      "excerpt": "상대의 연애기간 뭐가 젤 별루야?",
+      "author": "부*********",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EB%8C%80%EC%9D%98-%EC%97%B0%EC%95%A0%EA%B8%B0%EA%B0%84-%EB%AD%90%EA%B0%80-%EC%A0%A4-%EB%B3%84%EB%A3%A8%EC%95%BC-5e8ezpqh#458266642",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-25T11:08:48+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T04:09:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 83577,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%B3%BC%EB%A7%8C%ED%95%A8-7tdgi2nk",
+      "title": "나솔 이번기수 볼만함?",
+      "excerpt": "이상하게 안땡겨서 안보다가 지금 틀음",
+      "author": "밥***",
+      "company": "네이버파이낸셜",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%B3%BC%EB%A7%8C%ED%95%A8-7tdgi2nk",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-25T13:08:53+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-25T04:09:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -470943,7 +470982,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-25T13:05:53+09:00"
+      "slowAt": "2026-10-25T13:08:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -474069,6 +474108,7 @@
         "6618637",
         "6618638",
         "6618639",
+        "6618640",
         "6618647",
         "6618654",
         "6618659",
