@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-25T13:24:59+00:00",
+  "updatedAt": "2026-10-25T13:31:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -480997,6 +480997,26 @@
       "firstSeenAt": "2026-10-25T13:24:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84088,
+      "source": "dc",
+      "externalId": "cmt-10971234",
+      "title": "혐한제조기 ㅠㅠ",
+      "excerpt": "이 짤 보니 남규홍이 얼마나 잔인한지",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6619579&page=2#cmt_10971234",
+      "postedLabel": "10.25 21:42:22",
+      "postedAt": "2026-10-25T21:42:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-25T13:31:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -481119,7 +481139,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-25T22:28:43+09:00"
+      "slowAt": "2026-10-25T22:31:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -484562,6 +484582,7 @@
         "6619573",
         "6619575",
         "6619577",
+        "6619579",
         "6619580",
         "6619585",
         "6619586",
