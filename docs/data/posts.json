@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T01:08:21+00:00",
+  "updatedAt": "2026-10-26T01:09:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -487710,6 +487710,65 @@
       "firstSeenAt": "2026-10-26T01:08:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84427,
+      "source": "qoo",
+      "externalId": "cmt-4386561010",
+      "title": "그럼 뭐라고 그래? 한의학에 거부감 있나? 한의사도 의사 맞아",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386561010",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T09:08:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T01:09:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84428,
+      "source": "qoo",
+      "externalId": "cmt-4386561569",
+      "title": "너가 의사야? 그럼 이해해볼듯",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386561569",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T09:09:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T01:09:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84429,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-34%EA%B8%B0-%EB%B3%B4%EB%A9%B4%EC%84%9C-byaiy002",
+      "title": "나는 솔로 34기 보면서",
+      "excerpt": "주변에서 너 진짜 영철이랑 똑같다고 외모가 아니라 성격이 그래서 영상봤는데..... 아 ... 부정할순없고 내모습을 남에 투영해서 본다는게 이렇게 부끄러운거였구나",
+      "author": "새*******",
+      "company": "아워홈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-34%EA%B8%B0-%EB%B3%B4%EB%A9%B4%EC%84%9C-byaiy002",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T10:09:05+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T01:09:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -487833,7 +487892,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T10:06:04+09:00"
+      "slowAt": "2026-10-26T10:09:05+09:00"
     },
     "dc": {
       "doneIds": [
