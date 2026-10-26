@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T10:18:44+00:00",
+  "updatedAt": "2026-10-26T10:20:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -499575,6 +499575,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-26T10:18:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85027,
+      "source": "dc",
+      "externalId": "6621844",
+      "title": "남산타운 리모델링 • 신당9구역 재개발 투자에 대한 생각",
+      "excerpt": "",
+      "author": "anny",
+      "company": "",
+      "ip": "222.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621844&page=1",
+      "postedLabel": "19:20",
+      "postedAt": "2026-10-26T19:20:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:20:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85028,
+      "source": "blind",
+      "externalId": "cmt-458449176",
+      "title": "나솔 출연해서 거의 인플급된 사람들 많기도 하고 빌려간 돈으로 번듯하게 지 자식 키웠을 생각하면 피 거꾸로 솟을듯",
+      "excerpt": "34기 빚투 터졌던데",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%B9%9A%ED%88%AC-%ED%84%B0%EC%A1%8C%EB%8D%98%EB%8D%B0-t5h4zd28#458449176",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T19:20:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:20:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
