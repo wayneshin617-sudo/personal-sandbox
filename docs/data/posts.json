@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T10:04:43+00:00",
+  "updatedAt": "2026-10-26T10:06:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -499400,6 +499400,26 @@
       "firstSeenAt": "2026-10-26T10:04:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85018,
+      "source": "dc",
+      "externalId": "cmt-10973444",
+      "title": "옥숨의찐사랑 경수",
+      "excerpt": "그래도 찐으로 좋아하는 쌍방찐사랑남녀네",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621803&page=1#cmt_10973444",
+      "postedLabel": "10.26 19:05:54",
+      "postedAt": "2026-10-26T19:05:54+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:06:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -499480,7 +499500,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T19:03:27+09:00"
+      "slowAt": "2026-10-26T19:06:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -503685,6 +503705,7 @@
         "6621594",
         "6621598",
         "6621600",
+        "6621602",
         "6621604",
         "6621609",
         "6621611",
@@ -503723,7 +503744,8 @@
         "6621771",
         "6621774",
         "6621786",
-        "6621796"
+        "6621796",
+        "6621803"
       ]
     },
     "blind": {
