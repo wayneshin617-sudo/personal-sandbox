@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T04:52:54+00:00",
+  "updatedAt": "2026-10-26T04:54:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -492529,6 +492529,25 @@
       "firstSeenAt": "2026-10-26T04:52:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84671,
+      "source": "qoo",
+      "externalId": "4386830861",
+      "title": "헐 어제 새벽에도 여기 올라왔다 빛삭되더만",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386830861",
+      "postedLabel": "13:54",
+      "postedAt": "2026-10-26T13:54:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:54:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -492609,7 +492628,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T13:51:36+09:00"
+      "slowAt": "2026-10-26T13:54:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -502699,7 +502718,8 @@
         "4386784075",
         "4386790431",
         "4386797724",
-        "4386800525"
+        "4386800525",
+        "4386830861"
       ]
     },
     "keep": "v2",
