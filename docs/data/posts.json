@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T14:02:20+00:00",
+  "updatedAt": "2026-10-26T14:03:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -504601,6 +504601,25 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T14:02:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85282,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%90%81%EB%A7%99%EC%86%8C-mnv8vqo5",
+      "title": "퐁맙소...",
+      "excerpt": "퐁...",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%90%81%EB%A7%99%EC%86%8C-mnv8vqo5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T23:03:05+09:00",
+      "views": 81,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T14:03:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -504681,7 +504700,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T23:00:04+09:00"
+      "slowAt": "2026-10-26T23:03:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -509076,6 +509095,7 @@
         "6622374",
         "6622382",
         "6622388",
+        "6622391",
         "6622401",
         "6622407",
         "6622419",
@@ -509100,7 +509120,8 @@
         "6622531",
         "6622539",
         "6622552",
-        "6622561"
+        "6622561",
+        "6622569"
       ]
     },
     "blind": {
@@ -510118,6 +510139,7 @@
         "/kr/post/%EB%B0%A9%EC%86%A1%EB%B3%B4%EA%B8%B0%EC%A0%84-%EC%88%9C%EC%9E%90-%EC%A0%80-%EC%99%B8%EB%AA%A8%EC%8A%A4%ED%8E%99%EC%97%90-%EC%99%9C-%EB%85%B8%EC%B2%98%EB%85%80%EC%A7%80-6nbtb7nn",
         "/kr/post/%EB%B0%A9%EC%86%A1%EC%97%90-%EB%82%98%EC%98%A4%EB%8B%A4%EB%8B%88-26uddxnv",
         "/kr/post/%EB%B0%A9%EC%86%A1%EC%9C%BC%EB%A1%9C%EB%A7%8C-%EB%82%98%EC%98%A8-%EA%B1%B0-%EB%B3%B4%EB%A9%B4-%EC%98%81%ED%98%B8%EB%8A%94-%EC%9C%A0%EB%8B%88%EC%BD%98%EC%9D%B4%EB%84%A4-%E3%85%8E%E3%85%8E-idso0a0c",
+        "/kr/post/%EB%B0%A9%EC%86%A1%EC%9D%B4%EB%9D%BC-%EA%B7%B8%EB%9F%B0%EA%B0%80-%EC%98%81%EC%88%98%ED%98%95-%EC%8A%A4%ED%82%A8%EC%89%BD%EC%9D%B4-%E3%85%8B%E3%85%8B-lro4kawt",
         "/kr/post/%EB%B0%A9%EC%86%A1%EC%9D%B8-%EB%94%94%EB%94%A4%EB%8F%8C%EB%A1%9C-%EB%82%98%EC%98%A8-%EC%97%AC%EC%B6%9C%EA%B3%BC-%ED%97%9B%EB%90%9C-%ED%9D%AC%EB%A7%9D-%EB%82%A8%EC%B6%9C-l5a5rtqt",
         "/kr/post/%EB%B0%A9%EC%86%A1-%EB%81%9D%EB%82%98%EA%B3%A0-%EC%88%9C%EC%9E%90%ED%95%9C%ED%85%8C-DM-%EB%AA%BB%ED%95%9C%EB%8B%A4%E3%85%8F-6242flm5",
         "/kr/post/%EB%B0%A9%EC%86%A1-%EC%9D%B4%EC%A0%9C%EC%95%BC-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EB%8A%90%EB%82%80%EC%A0%90-t6pgi43n",
@@ -512152,6 +512174,7 @@
         "/kr/post/%EC%B9%B4%EC%9D%B4%EC%83%81%EC%B2%A0%EB%8F%84-%EA%B7%B8%EB%A0%87%EA%B3%A0-%ED%95%98%EB%8B%89%EC%83%81%EC%B2%A0%EB%8F%84-%EA%B7%B8%EB%A0%87%EA%B3%A0-a5f4j86o",
         "/kr/post/%EC%B9%B4%ED%88%AC%EC%82%AC-%EC%B6%9C%EC%8B%A0%EC%9D%B8%EB%8D%B0-bdn3aqja",
         "/kr/post/%EC%BB%A8%EC%84%A4%ED%8C%85-%EC%98%81%EC%9E%90%EC%A4%8C-%EC%A2%8B%EC%9D%80%EB%8D%B0-%EC%99%9C-%EC%9D%B8%EA%B8%B0%EC%97%86%EC%A7%80-25ilopjr",
+        "/kr/post/%EC%BD%94%EB%A0%88%EC%9D%BC-%EA%B5%AD%ED%99%94-%EC%9D%B4%EC%81%98%EA%B8%B4-%ED%95%98%EB%84%A4-45eyrgbm",
         "/kr/post/%EC%BD%94%EB%B8%8C%EB%9D%BC%EC%88%9C%EC%9E%90%EB%9E%91-%EC%98%81%EC%9E%90%EC%82%AC%EC%9D%B4%EC%95%88%EC%A2%8B%EC%A7%80%EC%95%8A%EB%82%98-flhy0ex7",
         "/kr/post/%EC%BD%94%EB%B8%8C%EB%9D%BC-%EC%88%9C%EC%9E%90-%EA%B2%B0%ED%98%BC%EC%97%90-34%EA%B8%B0-%EB%8B%A4%EB%AC%BB%ED%9E%98%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%84%B1-ldm5x0ko",
         "/kr/post/%EC%BD%94%EB%B8%8C%EB%9D%BC-%EC%88%9C%EC%9E%90-%EC%83%81%EC%B2%A0-%EA%B2%B0%ED%98%BC-%EC%86%8C%EC%8B%9D-%EB%93%A3%EA%B3%A0-ki0zn6pf",
@@ -515331,7 +515354,8 @@
         "4387417018",
         "4387418466",
         "4387423444",
-        "4387426173"
+        "4387426173",
+        "4387445987"
       ]
     },
     "keep": "v2",
