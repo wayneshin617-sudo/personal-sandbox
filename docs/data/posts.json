@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T09:40:44+00:00",
+  "updatedAt": "2026-10-26T09:42:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -498868,6 +498868,64 @@
       "firstSeenAt": "2026-10-26T09:40:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84991,
+      "source": "qoo",
+      "externalId": "cmt-4387040653",
+      "title": "추구미에 맞는 사람 나타났네 ㅋㅋㅋ",
+      "excerpt": "숙교수 격투기선수랑 사귀는거 맞구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386875063#4387040653",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T17:42:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:42:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84992,
+      "source": "dc",
+      "externalId": "6621743",
+      "title": "근데 지금도 사귀고 잇는거는 사실인거 ?",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621743&page=1",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-26T18:42:12+09:00",
+      "views": 9,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:42:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84993,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EB%B3%B4%EB%A9%B4-%ED%82%A4%EB%8B%88%EB%8C%80%ED%9A%8C-%EB%82%98%EA%B0%84-%EC%97%AC%EC%9E%90%EC%B9%98%EA%B3%A0-%EC%A0%95%EC%83%81%EC%9D%B8%EC%9D%B4-%EC%97%86%EB%8A%94-%EB%93%AF-giq5ewuf",
+      "title": "나솔 보면 키니대회 나간 여자치고 정상인이 없는 듯",
+      "excerpt": "예전에 발걸려 넘어진 영숙 이번에 34기 영숙",
+      "author": "S*****",
+      "company": "대전교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%B3%B4%EB%A9%B4-%ED%82%A4%EB%8B%88%EB%8C%80%ED%9A%8C-%EB%82%98%EA%B0%84-%EC%97%AC%EC%9E%90%EC%B9%98%EA%B3%A0-%EC%A0%95%EC%83%81%EC%9D%B8%EC%9D%B4-%EC%97%86%EB%8A%94-%EB%93%AF-giq5ewuf",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T18:42:27+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T09:42:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -498948,7 +499006,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T18:39:27+09:00"
+      "slowAt": "2026-10-26T18:42:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -503175,7 +503233,9 @@
         "6621709",
         "6621711",
         "6621726",
-        "6621729"
+        "6621729",
+        "6621731",
+        "6621738"
       ]
     },
     "blind": {
