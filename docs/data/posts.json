@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T14:09:21+00:00",
+  "updatedAt": "2026-10-26T14:10:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -504878,6 +504878,45 @@
       "firstSeenAt": "2026-10-26T14:09:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85296,
+      "source": "dc",
+      "externalId": "cmt-10973856",
+      "title": "누구 벅지?",
+      "excerpt": "어흐 허벅지",
+      "author": "단검한국†옆나라목에칼찌좀￠제가요？쎼쎼",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622616&page=1#cmt_10973856",
+      "postedLabel": "10.26 23:09:17",
+      "postedAt": "2026-10-26T23:09:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:10:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85297,
+      "source": "dc",
+      "externalId": "6622619",
+      "title": "살다살다 여자가 리벤지사진올리는건 처음봄ㅋㅋ",
+      "excerpt": "",
+      "author": "그갤러",
+      "company": "",
+      "ip": "49.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622619&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-10-26T23:09:29+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:10:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -505002,7 +505041,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T23:07:05+09:00"
+      "slowAt": "2026-10-26T23:10:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -509356,6 +509395,7 @@
         "6622391",
         "6622401",
         "6622407",
+        "6622412",
         "6622419",
         "6622420",
         "6622422",
@@ -509382,7 +509422,8 @@
         "6622569",
         "6622585",
         "6622589",
-        "6622612"
+        "6622612",
+        "6622616"
       ]
     },
     "blind": {
