@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T02:46:25+00:00",
+  "updatedAt": "2026-10-26T02:49:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -490026,6 +490026,45 @@
       "firstSeenAt": "2026-10-26T02:46:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84544,
+      "source": "qoo",
+      "externalId": "cmt-4386642178",
+      "title": "나도 멀미 잘하는 타입이라 이해감 하루종일 차 탔을거고 비포장도로에 상황자체도 불편하면 더 잘나고 우리가 안보이지만 멀미유발하는게 더 있었을지도 모르지 보니까 추워서 문여는것도 힘들어보이던데 나는 진짜 가끔은 차에서 뛰쳐내리고싶을정도임",
+      "excerpt": "방송이라 긴장해서 더 멀미 심해졌거나 토했을 수도 있음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386434620#4386642178",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T10:48:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T02:49:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84545,
+      "source": "qoo",
+      "externalId": "4386700673",
+      "title": "영수 안정형 같아서 호감이야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386700673",
+      "postedLabel": "11:49",
+      "postedAt": "2026-10-26T11:49:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T02:49:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -490106,7 +490145,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T11:46:08+09:00"
+      "slowAt": "2026-10-26T11:49:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -500067,7 +500106,8 @@
         "4386652413",
         "4386679314",
         "4386693661",
-        "4386699510"
+        "4386699510",
+        "4386700673"
       ]
     },
     "keep": "v2",
