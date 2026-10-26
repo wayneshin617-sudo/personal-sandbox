@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:01:23+00:00",
+  "updatedAt": "2026-10-26T03:08:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -490183,6 +490183,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T03:01:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84552,
+      "source": "qoo",
+      "externalId": "4386718938",
+      "title": "근데 둘이 너무 서로 좋아하는것처럼 보였음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386718938",
+      "postedLabel": "12:07",
+      "postedAt": "2026-10-26T12:06:59+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:08:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -490306,7 +490325,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T12:05:08+09:00"
+      "slowAt": "2026-10-26T12:08:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -500240,7 +500259,9 @@
         "4386704327",
         "4386712817",
         "4386714742",
-        "4386717040"
+        "4386717040",
+        "4386718938",
+        "4386719204"
       ]
     },
     "keep": "v2",
