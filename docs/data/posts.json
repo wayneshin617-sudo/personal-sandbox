@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T13:11:42+00:00",
+  "updatedAt": "2026-10-26T13:18:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -503580,6 +503580,44 @@
       "firstSeenAt": "2026-10-26T13:11:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85230,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EC%A7%81%EB%8F%84-%EB%A7%8C%EB%82%98%EB%8A%94%EA%B1%B0%EB%83%90-3n13ei7o",
+      "title": "아직도 만나는거냐",
+      "excerpt": "아니면 미련인거냐 ㅋㅋㅋ",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%A7%81%EB%8F%84-%EB%A7%8C%EB%82%98%EB%8A%94%EA%B1%B0%EB%83%90-3n13ei7o",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:18:23+09:00",
+      "views": 33,
+      "recommends": null,
+      "comments": 2,
+      "firstSeenAt": "2026-10-26T13:18:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85231,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9E%A0%EC%8B%A4-%ED%95%9C%EC%9E%94-%ED%95%98%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-6gaxqmft",
+      "title": "잠실 한잔 하실 여성분",
+      "excerpt": "연락 주세요 :)",
+      "author": "i*********",
+      "company": "대웅제약",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%A0%EC%8B%A4-%ED%95%9C%EC%9E%94-%ED%95%98%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-6gaxqmft",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:18:24+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T13:18:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -503660,7 +503698,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T22:15:24+09:00"
+      "slowAt": "2026-10-26T22:18:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -508052,7 +508090,8 @@
         "6622388",
         "6622401",
         "6622407",
-        "6622419"
+        "6622419",
+        "6622420"
       ]
     },
     "blind": {
