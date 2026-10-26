@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:46:54+00:00",
+  "updatedAt": "2026-10-26T05:49:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -493554,6 +493554,65 @@
       "firstSeenAt": "2026-10-26T05:46:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84723,
+      "source": "blind",
+      "externalId": "cmt-458420855",
+      "title": "덱스놀이 끝.. 현실로ㅋㅋ",
+      "excerpt": "32 돌싱 영숙 영식도 결별",
+      "author": "!********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/32-%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D%EB%8F%84-%EA%B2%B0%EB%B3%84-d2wa0rw1#458420855",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:49:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:49:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84724,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A5%ED%8C%94%EA%B3%84-%EA%B7%BC%ED%99%A9%EB%96%B4%EB%83%90-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-bsskkbip",
+      "title": "옥팔계 근황떴냐? ㅋㅋㅋㅋ",
+      "excerpt": "아난티샷은 ㄹㅇ 악질이네ㅋㅋㅋ 사귀는 중이어도 오버고 헤어진거면 앞길 태클이고",
+      "author": "배*****",
+      "company": "SONY",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%ED%8C%94%EA%B3%84-%EA%B7%BC%ED%99%A9%EB%96%B4%EB%83%90-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-bsskkbip",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:49:35+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T05:49:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84725,
+      "source": "blind",
+      "externalId": "cmt-458420826",
+      "title": "안어울려 ㅋㅋ",
+      "excerpt": "32 돌싱 영숙 영식도 결별",
+      "author": "o*********",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/32-%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D%EB%8F%84-%EA%B2%B0%EB%B3%84-d2wa0rw1#458420826",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:49:35+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:49:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -493677,7 +493736,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T14:46:36+09:00"
+      "slowAt": "2026-10-26T14:49:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -497692,7 +497751,8 @@
         "6621097",
         "6621098",
         "6621099",
-        "6621103"
+        "6621103",
+        "6621111"
       ]
     },
     "blind": {
