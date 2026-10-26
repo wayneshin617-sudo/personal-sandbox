@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T12:22:42+00:00",
+  "updatedAt": "2026-10-26T12:24:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -502098,6 +502098,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T12:22:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85155,
+      "source": "qoo",
+      "externalId": "4387314674",
+      "title": "실수로 비공계정 공개 <- 이게 말이 되나?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4387314674",
+      "postedLabel": "21:23",
+      "postedAt": "2026-10-26T21:23:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T12:24:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -502178,7 +502197,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T21:21:24+09:00"
+      "slowAt": "2026-10-26T21:24:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -512728,7 +512747,8 @@
         "4387269017",
         "4387269239",
         "4387278268",
-        "4387289244"
+        "4387289244",
+        "4387314674"
       ]
     },
     "keep": "v2",
