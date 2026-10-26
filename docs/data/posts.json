@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T06:38:51+00:00",
+  "updatedAt": "2026-10-26T06:41:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -494746,6 +494746,86 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T06:38:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84783,
+      "source": "qoo",
+      "externalId": "cmt-4386873827",
+      "title": "영자가 한의사고 정숙은 회계사",
+      "excerpt": "내가 정숙×(영자ㅇ)이었으면 현숙멀미=영업 했을듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386866401#4386873827",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T14:40:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:41:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84784,
+      "source": "blind",
+      "externalId": "cmt-458421512",
+      "title": "영숙이 존예",
+      "excerpt": "32 돌싱 영숙 영식도 결별",
+      "author": "1********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/32-%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D%EB%8F%84-%EA%B2%B0%EB%B3%84-d2wa0rw1#458421512",
+      "postedLabel": "46분",
+      "postedAt": "2026-10-26T14:55:35+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:41:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84785,
+      "source": "blind",
+      "externalId": "cmt-458422788",
+      "title": "아무리생각해도 영숙은 연옌급인데 영식은 일반인급도안됨",
+      "excerpt": "32 돌싱 영숙 영식도 결별",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/32-%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D%EB%8F%84-%EA%B2%B0%EB%B3%84-d2wa0rw1#458422788",
+      "postedLabel": "33분",
+      "postedAt": "2026-10-26T15:08:34+09:00",
+      "views": null,
+      "recommends": 8,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:41:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84786,
+      "source": "blind",
+      "externalId": "cmt-458426206",
+      "title": "엄마는 블랙핑크 아빠는 시민",
+      "excerpt": "32 돌싱 영숙 영식도 결별",
+      "author": "1********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/32-%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D%EB%8F%84-%EA%B2%B0%EB%B3%84-d2wa0rw1#458426206",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-26T15:39:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:41:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -498915,7 +498995,8 @@
         "6621192",
         "6621204",
         "6621213",
-        "6621221"
+        "6621221",
+        "6621224"
       ]
     },
     "blind": {
