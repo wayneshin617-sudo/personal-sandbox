@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:36:54+00:00",
+  "updatedAt": "2026-10-26T05:37:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -493277,6 +493277,65 @@
       "firstSeenAt": "2026-10-26T05:36:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84709,
+      "source": "qoo",
+      "externalId": "cmt-4386812890",
+      "title": "농협영식말하는건가 걔들 아직 위장이별중임?ㅋㅋㅋㅋ",
+      "excerpt": "나솔세계관 위장이별 벌써 둘이나 있네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386800525#4386812890",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:37:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:37:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84710,
+      "source": "blind",
+      "externalId": "cmt-458418645",
+      "title": "결혼도 먼저하고 이혼도 먼저",
+      "excerpt": "투표글 결혼은 두 커플중 누가 먼저하려나 ㅋㅋㅋㅋㅋㅋㅋ 투표",
+      "author": "*********",
+      "company": "ex-제일기획",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%B0%ED%98%BC%EC%9D%80-%EB%91%90-%EC%BB%A4%ED%94%8C%EC%A4%91-%EB%88%84%EA%B0%80-%EB%A8%BC%EC%A0%80%ED%95%98%EB%A0%A4%EB%82%98-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-07ej3rzl#458418645",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-26T14:26:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:37:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84711,
+      "source": "qoo",
+      "externalId": "4386871110",
+      "title": "궁옌데 현재는 안사귈거같음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386871110",
+      "postedLabel": "14:37",
+      "postedAt": "2026-10-26T14:37:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:37:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -493400,7 +493459,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T14:34:36+09:00"
+      "slowAt": "2026-10-26T14:37:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -497398,7 +497457,8 @@
         "6621056",
         "6621063",
         "6621069",
-        "6621073"
+        "6621073",
+        "6621074"
       ]
     },
     "blind": {
@@ -503496,7 +503556,8 @@
         "4386800525",
         "4386830861",
         "4386863656",
-        "4386866401"
+        "4386866401",
+        "4386871110"
       ]
     },
     "keep": "v2",
