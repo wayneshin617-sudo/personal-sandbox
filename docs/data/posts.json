@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T13:46:18+00:00",
+  "updatedAt": "2026-10-26T13:47:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -504167,6 +504167,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T13:46:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85260,
+      "source": "blind",
+      "externalId": "cmt-458479452",
+      "title": "앞으로도 종종 끌올하실듯 ㅋㅋ 용찬우 보면 미래를 유추해볼 수 있음",
+      "excerpt": "옥순아 나대지마",
+      "author": "l*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%95%84-%EB%82%98%EB%8C%80%EC%A7%80%EB%A7%88-pvy0ghx5#458479452",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-26T22:42:04+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:47:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85261,
+      "source": "blind",
+      "externalId": "cmt-458479549",
+      "title": "욕먹는걸 즐기는 성격이었어? 진짜 기괴하네",
+      "excerpt": "옥순아 나대지마",
+      "author": "k******* 작성자",
+      "company": "한국공항공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%95%84-%EB%82%98%EB%8C%80%EC%A7%80%EB%A7%88-pvy0ghx5#458479549",
+      "postedLabel": "4분",
+      "postedAt": "2026-10-26T22:43:04+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:47:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85262,
+      "source": "blind",
+      "externalId": "cmt-458479957",
+      "title": "즐긴다기보단.. 견딜 수 없어서..? 에 가까우려나..",
+      "excerpt": "옥순아 나대지마",
+      "author": "l*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%95%84-%EB%82%98%EB%8C%80%EC%A7%80%EB%A7%88-pvy0ghx5#458479957",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-26T22:46:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:47:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -508662,7 +508722,8 @@
         "6622501",
         "6622509",
         "6622527",
-        "6622529"
+        "6622529",
+        "6622531"
       ]
     },
     "blind": {
