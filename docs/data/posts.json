@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T12:40:42+00:00",
+  "updatedAt": "2026-10-26T12:41:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -502591,6 +502591,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-26T12:40:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85180,
+      "source": "blind",
+      "externalId": "cmt-458466279",
+      "title": "관심 줄어서 관심 받고싶었을 수도",
+      "excerpt": "인스타 안하면 병이 남??",
+      "author": "a*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B8%EC%8A%A4%ED%83%80-%EC%95%88%ED%95%98%EB%A9%B4-%EB%B3%91%EC%9D%B4-%EB%82%A8-8qqk1rxk#458466279",
+      "postedLabel": "17분",
+      "postedAt": "2026-10-26T21:24:24+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T12:41:43+00:00",
       "isSeed": false,
       "kind": "reply"
     }
