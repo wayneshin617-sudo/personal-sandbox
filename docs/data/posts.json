@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T13:06:43+00:00",
+  "updatedAt": "2026-10-26T13:07:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -503363,6 +503363,64 @@
       "firstSeenAt": "2026-10-26T13:06:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85219,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%99%B8%EB%AA%A8%EB%A7%8C-32lm3xep",
+      "title": "투표글 34기 영철 외모만 투표",
+      "excerpt": "외모만 보면?",
+      "author": "괴*****",
+      "company": "서울시설공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%99%B8%EB%AA%A8%EB%A7%8C-32lm3xep",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:07:22+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T13:07:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85220,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9E%A0%EC%8B%A4-%ED%98%BC%ED%85%94%EC%A4%91-gmwzfkbe",
+      "title": "잠실 혼텔중",
+      "excerpt": "한잔하실 분 있나?",
+      "author": "i*********",
+      "company": "대웅제약",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%A0%EC%8B%A4-%ED%98%BC%ED%85%94%EC%A4%91-gmwzfkbe",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:07:23+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T13:07:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85221,
+      "source": "blind",
+      "externalId": "cmt-458473560",
+      "title": "나도이거보고이해함",
+      "excerpt": "아니 근데 왜자꾸 9출이 7급이라고 말하는거냐",
+      "author": "t*******",
+      "company": "엔에이치엔케이씨피",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EA%B7%BC%EB%8D%B0-%EC%99%9C%EC%9E%90%EA%BE%B8-9%EC%B6%9C%EC%9D%B4-7%EA%B8%89%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%A7%90%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-oi7rv25b#458473560",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:07:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:07:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -503487,7 +503545,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T22:04:24+09:00"
+      "slowAt": "2026-10-26T22:07:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -507829,7 +507887,8 @@
         "6622372",
         "6622374",
         "6622382",
-        "6622388"
+        "6622388",
+        "6622401"
       ]
     },
     "blind": {
