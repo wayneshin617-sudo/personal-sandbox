@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T12:52:42+00:00",
+  "updatedAt": "2026-10-26T12:54:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -502910,6 +502910,46 @@
       "firstSeenAt": "2026-10-26T12:52:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85196,
+      "source": "qoo",
+      "externalId": "cmt-4387274762",
+      "title": "아니 공개설정 수정하는 게 실수로 되나? 그거 해보면 은근히 단계가 많은데 ㅋㅋ 참 의아허네",
+      "excerpt": "헤어졌는데 굳이 럽스타 계정에 사진들을 업로드, 수정하고 비공개계정을 실수로 공개 전환했다는거야???",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387269239#4387274762",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T20:54:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T12:54:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85197,
+      "source": "blind",
+      "externalId": "cmt-458466008",
+      "title": "원래 가해자들이 그럼... 내가 왕따 시켰어요! 하는 가해자가 어딨겠어",
+      "excerpt": "옥팔계 왜 자꾸 본인은 왕따주동자 아니라함?",
+      "author": "a*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%ED%8C%94%EA%B3%84-%EC%99%9C-%EC%9E%90%EA%BE%B8-%EB%B3%B8%EC%9D%B8%EC%9D%80-%EC%99%95%EB%94%B0%EC%A3%BC%EB%8F%99%EC%9E%90-%EC%95%84%EB%8B%88%EB%9D%BC%ED%95%A8-owhtz7m5#458466008",
+      "postedLabel": "32분",
+      "postedAt": "2026-10-26T21:22:24+09:00",
+      "views": null,
+      "recommends": 12,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T12:54:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -502990,7 +503030,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T21:51:24+09:00"
+      "slowAt": "2026-10-26T21:54:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -507368,7 +507408,8 @@
         "6622345",
         "6622354",
         "6622360",
-        "6622361"
+        "6622361",
+        "6622364"
       ]
     },
     "blind": {
