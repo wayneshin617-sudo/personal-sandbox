@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T21:02:43+00:00",
+  "updatedAt": "2026-10-26T21:03:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -507141,6 +507141,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T21:02:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85411,
+      "source": "blind",
+      "externalId": "cmt-458511296",
+      "title": "퇴근하고 뻘밭에서 나솔 보기 외엔 딱히 할 거 없을듯",
+      "excerpt": "계약결혼 안 볼랬는데",
+      "author": "L*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%95%88-%EB%B3%BC%EB%9E%AC%EB%8A%94%EB%8D%B0-tbniypym#458511296",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T06:03:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T21:03:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -507222,7 +507242,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T06:00:27+09:00"
+      "slowAt": "2026-10-27T06:03:27+09:00"
     },
     "ig": {
       "doneIds": [
