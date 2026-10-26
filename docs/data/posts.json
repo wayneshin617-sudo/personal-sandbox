@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:53:53+00:00",
+  "updatedAt": "2026-10-26T05:54:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -493852,6 +493852,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T05:53:53+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84738,
+      "source": "qoo",
+      "externalId": "cmt-4386830245",
+      "title": "@4 진짜 연기배우고 있더라ㅋㅋㅋ",
+      "excerpt": "나솔세계관 위장이별 벌써 둘이나 있네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386800525#4386830245",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:53:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:54:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84739,
+      "source": "dc",
+      "externalId": "cmt-10972731",
+      "title": "먹튀라니 고맙소형이 피해자같은데 ㅋㅋ - dc App",
+      "excerpt": "그러니까 먹튀 당한거임?",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620971&page=3#cmt_10972731",
+      "postedLabel": "10.26 14:12:49",
+      "postedAt": "2026-10-26T14:12:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:54:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84740,
+      "source": "blind",
+      "externalId": "cmt-458421382",
+      "title": "헤어졌는데 올린거면 딴여자못만나게하려는 ㄷㄷㄷ호텔가운샷은 의도가 보임",
+      "excerpt": "옥팔계 근황떴냐? ㅋㅋㅋㅋ",
+      "author": "g******",
+      "company": "골프존",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%ED%8C%94%EA%B3%84-%EA%B7%BC%ED%99%A9%EB%96%B4%EB%83%90-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-bsskkbip#458421382",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:54:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:54:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -493932,7 +493992,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T14:51:36+09:00"
+      "slowAt": "2026-10-26T14:54:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -497956,6 +498016,7 @@
         "6620953",
         "6620964",
         "6620967",
+        "6620971",
         "6620972",
         "6620977",
         "6620986",
