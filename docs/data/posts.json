@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T06:46:54+00:00",
+  "updatedAt": "2026-10-26T06:48:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -494925,6 +494925,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T06:46:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84792,
+      "source": "qoo",
+      "externalId": "cmt-4386880257",
+      "title": "의사들 마인드가 이런거잖아 존나 짜쳐",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386880257",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T14:48:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:48:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84793,
+      "source": "qoo",
+      "externalId": "cmt-4386880626",
+      "title": "엥 그래도 나솔 연애 프로야~",
+      "excerpt": "내가 정숙×(영자ㅇ)이었으면 현숙멀미=영업 했을듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386866401#4386880626",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T14:48:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:48:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -495005,7 +495045,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T15:45:35+09:00"
+      "slowAt": "2026-10-26T15:48:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -499099,7 +499139,8 @@
         "6621224",
         "6621232",
         "6621238",
-        "6621239"
+        "6621239",
+        "6621243"
       ]
     },
     "blind": {
