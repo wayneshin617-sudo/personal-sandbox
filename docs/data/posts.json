@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:42:26+00:00",
+  "updatedAt": "2026-10-26T03:45:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -491128,6 +491128,44 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T03:42:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84600,
+      "source": "qoo",
+      "externalId": "4386755632",
+      "title": "반응보고 닫은거 아님?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386755632",
+      "postedLabel": "12:44",
+      "postedAt": "2026-10-26T12:44:00+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:45:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84601,
+      "source": "dc",
+      "externalId": "6620795",
+      "title": "옥팔 게시글은 영호랑 헤어져서 그랬을거같음",
+      "excerpt": "",
+      "author": "ㅁㄴㅇㄹ",
+      "company": "",
+      "ip": "211.217",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620795&page=1",
+      "postedLabel": "12:44",
+      "postedAt": "2026-10-26T12:44:53+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:45:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -501228,7 +501266,8 @@
         "4386720682",
         "4386728327",
         "4386746993",
-        "4386748836"
+        "4386748836",
+        "4386755632"
       ]
     },
     "keep": "v2",
