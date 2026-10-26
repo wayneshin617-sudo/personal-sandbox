@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T13:24:41+00:00",
+  "updatedAt": "2026-10-26T13:25:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -503677,6 +503677,66 @@
       "firstSeenAt": "2026-10-26T13:24:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85235,
+      "source": "blind",
+      "externalId": "cmt-458476149",
+      "title": "니가 뭔데?",
+      "excerpt": "투표글 내 기준 여자 외모순위 투표",
+      "author": "a*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4-%EA%B8%B0%EC%A4%80-%EC%97%AC%EC%9E%90-%EC%99%B8%EB%AA%A8%EC%88%9C%EC%9C%84-181pr54i#458476149",
+      "postedLabel": "3분",
+      "postedAt": "2026-10-26T22:22:24+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:25:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85236,
+      "source": "blind",
+      "externalId": "cmt-458476559",
+      "title": "취향 특이하시네",
+      "excerpt": "투표글 내 기준 여자 외모순위 투표",
+      "author": "|*********",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4-%EA%B8%B0%EC%A4%80-%EC%97%AC%EC%9E%90-%EC%99%B8%EB%AA%A8%EC%88%9C%EC%9C%84-181pr54i#458476559",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:25:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:25:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85237,
+      "source": "blind",
+      "externalId": "cmt-458476584",
+      "title": "거울로 ㄱ",
+      "excerpt": "투표글 내 기준 여자 외모순위 투표",
+      "author": "s*****",
+      "company": "커리어케어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4-%EA%B8%B0%EC%A4%80-%EC%97%AC%EC%9E%90-%EC%99%B8%EB%AA%A8%EC%88%9C%EC%9C%84-181pr54i#458476584",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:25:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:25:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -503801,7 +503861,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T22:22:23+09:00"
+      "slowAt": "2026-10-26T22:25:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -508157,7 +508217,9 @@
         "6622431",
         "6622433",
         "6622438",
-        "6622440"
+        "6622439",
+        "6622440",
+        "6622448"
       ]
     },
     "blind": {
