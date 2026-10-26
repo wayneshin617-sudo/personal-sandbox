@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T04:51:54+00:00",
+  "updatedAt": "2026-10-26T04:52:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -492489,6 +492489,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T04:51:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84669,
+      "source": "dc",
+      "externalId": "cmt-10972279",
+      "title": "회원 아니어도 예약가능하긴함 - dc App",
+      "excerpt": "아난티 회원권 가격봐",
+      "author": "bella",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620629&page=5#cmt_10972279",
+      "postedLabel": "10.26 12:01:42",
+      "postedAt": "2026-10-26T12:01:42+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:52:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84670,
+      "source": "qoo",
+      "externalId": "cmt-4386763699",
+      "title": "한의사랑 의사는 다르지",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386763699",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T12:52:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:52:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -492612,7 +492652,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T13:49:35+09:00"
+      "slowAt": "2026-10-26T13:52:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -496498,6 +496538,7 @@
         "6620607",
         "6620611",
         "6620618",
+        "6620629",
         "6620631",
         "6620632",
         "6620645",
@@ -496567,7 +496608,8 @@
         "6620944",
         "6620945",
         "6620948",
-        "6620950"
+        "6620950",
+        "6620964"
       ]
     },
     "blind": {
@@ -496762,6 +496804,7 @@
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%8A%AC%EB%9E%99%EC%8A%A4%EC%97%90-%ED%8E%98%EC%9D%B4%ED%81%AC%EC%82%AD%EC%8A%A4-%EC%9A%94%EC%83%88%EB%8F%84-%EC%8B%A0%EB%82%98-3dcz7x64",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%95%A0%EC%83%9D%EA%B8%B0%EB%A9%B4-%EC%9B%90%EB%9E%98-%EB%8B%A4-%EA%B2%B0%ED%98%BC%ED%95%B4-m3dj7qsv",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B0%A8%EC%97%90-%EB%84%A4%EB%B9%84%EB%8F%84-%EC%97%86%EA%B3%A0-%EA%B1%B0%EC%B9%98%EB%8C%80%EB%8F%84-%EC%97%86%EC%A7%80-yqnisj4z",
+        "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AC%EA%B8%B0-%EB%AA%B8%EB%A7%A4-%EC%82%AC%EC%A7%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%99%9C-%EA%B7%B8%EB%9F%B0%EA%B1%B0%EC%95%BC-lw52dp18",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AC%EC%9E%90%EB%93%A4%EC%95%84-%EC%A7%84%EC%A7%9C-%EC%98%81%ED%98%B8-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%9D%BC%EB%B3%B8-%EA%B0%80%EB%8A%A5%ED%95%A8-utltaqbr",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-010qxsmu",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AC%EC%9E%90%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%A0-%EC%88%9C%EC%9E%90%EB%B3%B4%EB%8B%A4-%EC%98%81%EC%88%99%EC%96%B8%EB%8B%88%EB%9E%91-%EB%8D%94-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0-%EC%8B%B6%EC%9D%8C-fdjeq37p",
@@ -497157,6 +497200,7 @@
         "/kr/post/%EB%8B%A4%EC%9D%8C%EC%97%94-%EB%82%A8%EC%9E%90-%EC%99%B8%EA%B5%AD%EC%9D%B8%ED%8A%B9%EC%A7%91-%ED%95%98%EA%B2%A0%EB%84%A4-2e45iu6i",
         "/kr/post/%EB%8B%A4%EC%9D%8C%EC%A3%BC-%EC%98%88%EA%B3%A0-%EB%B3%B4%EB%8B%88%EA%B9%8C-b4c5zga4",
         "/kr/post/%EB%8B%A4%EC%9D%8C%ED%9A%8C%EC%97%90%EC%84%9C%EB%8A%94-cga65yyb",
+        "/kr/post/%EB%8B%A4%EC%9D%8C-%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84%EB%8A%94-40%EC%82%B4-%EB%90%98%EA%B8%B0%EC%A0%84%EC%97%90-%EC%9E%A5%EA%B0%80-%EA%B0%80%EC%9E%90-%ED%8A%B9%EC%A7%91%EC%9C%BC%EB%A1%9C-88%EB%85%84%EC%83%9D-%EB%82%A8%EC%9E%90%ED%8E%B8-%ED%96%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4-4jo6cbgy",
         "/kr/post/%EB%8B%A4-%EA%B0%99%EC%9D%B4-%EB%AA%A8%EC%9D%B4%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%97%94-%EC%98%81%EC%B2%A0%EC%B2%98%EB%9F%BC-%EA%B4%91%EB%8C%80%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A8-10phxyu1",
         "/kr/post/%EB%8B%A4-%ED%81%B0-%EC%84%B1%EC%9D%B8%EC%9D%B4-%EC%89%AC%EB%A7%88%EB%A0%B5%EB%8B%A4%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%98%EB%8A%94%EA%B1%B8-l5r1cnnl",
         "/kr/post/%EB%8B%A4-%ED%95%84%EC%9A%94%EC%97%86%EA%B3%A0-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%80-%EA%B1%B8%EB%9F%AC%EC%95%BC-%ED%95%9C%EB%8B%A4-xpaqrrtz",
