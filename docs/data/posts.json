@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T09:02:43+00:00",
+  "updatedAt": "2026-10-26T09:03:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -498275,6 +498275,46 @@
       "firstSeenAt": "2026-10-26T09:02:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84961,
+      "source": "blind",
+      "externalId": "cmt-458440736",
+      "title": "뭘로 싸우는건데 대체",
+      "excerpt": "뭐야 또 순천지들 나대는거야?",
+      "author": "k*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AD%90%EC%95%BC-%EB%98%90-%EC%88%9C%EC%B2%9C%EC%A7%80%EB%93%A4-%EB%82%98%EB%8C%80%EB%8A%94%EA%B1%B0%EC%95%BC-ytbwtstw#458440736",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T18:03:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:03:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84962,
+      "source": "blind",
+      "externalId": "cmt-458440725",
+      "title": "뭔순천지야 관심도없는데 흑백논리 짜침 ㅋ ㅂㅅ인증",
+      "excerpt": "뭐야 또 순천지들 나대는거야?",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AD%90%EC%95%BC-%EB%98%90-%EC%88%9C%EC%B2%9C%EC%A7%80%EB%93%A4-%EB%82%98%EB%8C%80%EB%8A%94%EA%B1%B0%EC%95%BC-ytbwtstw#458440725",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T18:03:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:03:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -498355,7 +498395,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T18:00:27+09:00"
+      "slowAt": "2026-10-26T18:03:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -502542,7 +502582,9 @@
         "6621548",
         "6621551",
         "6621553",
-        "6621574"
+        "6621574",
+        "6621582",
+        "6621587"
       ]
     },
     "blind": {
