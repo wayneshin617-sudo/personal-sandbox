@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T08:24:44+00:00",
+  "updatedAt": "2026-10-26T08:25:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -497439,6 +497439,26 @@
       "firstSeenAt": "2026-10-26T08:24:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84919,
+      "source": "qoo",
+      "externalId": "cmt-4386967527",
+      "title": "계정폭파안하고 왜저런거임?",
+      "excerpt": "궁옌데 현재는 안사귈거같음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386871110#4386967527",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T16:24:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T08:25:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -497563,7 +497583,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T17:22:27+09:00"
+      "slowAt": "2026-10-26T17:25:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -501670,7 +501690,8 @@
         "6621438",
         "6621452",
         "6621458",
-        "6621471"
+        "6621471",
+        "6621476"
       ]
     },
     "blind": {
