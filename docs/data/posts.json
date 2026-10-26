@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T01:55:25+00:00",
+  "updatedAt": "2026-10-26T01:56:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -488379,6 +488379,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T01:55:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84461,
+      "source": "blind",
+      "externalId": "cmt-458398363",
+      "title": "진짜 너무 부담스러움 인맥자랑+꺼드럭 ㅠ",
+      "excerpt": "비호감 캐릭터 오랜만이네..",
+      "author": "q*****",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B9%84%ED%98%B8%EA%B0%90-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%9D%B4%EB%84%A4-bp8ifkhb#458398363",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T10:56:07+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T01:56:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -488502,7 +488522,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T10:53:07+09:00"
+      "slowAt": "2026-10-26T10:56:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -492341,7 +492361,8 @@
         "6620491",
         "6620499",
         "6620500",
-        "6620501"
+        "6620501",
+        "6620503"
       ]
     },
     "blind": {
