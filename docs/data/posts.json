@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T12:07:43+00:00",
+  "updatedAt": "2026-10-26T12:11:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -501921,6 +501921,26 @@
       "firstSeenAt": "2026-10-26T12:07:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85146,
+      "source": "blind",
+      "externalId": "cmt-458459060",
+      "title": "아니 그렇다고 진짜 범죄자를 들고오면 어떡해요...",
+      "excerpt": "폭로는 방송 다 끝나고하는게 좋지 않나요?",
+      "author": "d*******",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8F%AD%EB%A1%9C%EB%8A%94-%EB%B0%A9%EC%86%A1-%EB%8B%A4-%EB%81%9D%EB%82%98%EA%B3%A0%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%A7%80-%EC%95%8A%EB%82%98%EC%9A%94-k3ub1fs5#458459060",
+      "postedLabel": "33분",
+      "postedAt": "2026-10-26T20:38:25+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T12:11:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -506343,7 +506363,8 @@
         "6622243",
         "6622246",
         "6622247",
-        "6622252"
+        "6622252",
+        "6622255"
       ]
     },
     "blind": {
@@ -509428,6 +509449,7 @@
         "/kr/post/%ED%8C%A8%EC%85%98-%EC%A7%91%EC%88%9C%EC%9D%B4%EB%93%A4%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%A7%80%EA%B8%B4-%ED%96%88%EB%84%A4-0ir3bbg6",
         "/kr/post/%ED%8E%B8%EC%9D%98%EC%A0%90%EC%97%90-%EB%A9%80%EB%AF%B8%EC%95%BD-%EC%95%88%ED%8C%8C%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%98%EC%82%AC%EC%98%A8%EA%B1%B0%EB%83%90-n7qrb2c3",
         "/kr/post/%ED%8F%89%EC%83%9D-%EC%A0%80%EB%9E%98%EC%A4%84-%EC%88%98-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EC%98%81%ED%98%B8%EC%B2%98%EB%9F%BC-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%8B%A4-qy771wo1",
+        "/kr/post/%ED%8F%AD%EB%A1%9C%EB%8A%94-%EB%B0%A9%EC%86%A1-%EB%8B%A4-%EB%81%9D%EB%82%98%EA%B3%A0%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%A7%80-%EC%95%8A%EB%82%98%EC%9A%94-k3ub1fs5",
         "/kr/post/%ED%90%81%EB%A7%99%EC%86%8C%EB%8A%94-%EB%8C%80%EC%B2%B4-%EB%88%84%EA%B0%80-%EC%A7%80%EC%97%88%EB%8A%94%EC%A7%80-5uap2da0",
         "/kr/post/%ED%94%84%EB%9E%91%EC%8A%A4-%EC%A6%9D%EA%B6%8C%EC%82%AC-%EC%96%B4%EB%94%94%EC%95%BC-mbwxe1st",
         "/kr/post/%ED%94%84%EB%A1%9C%EB%A9%80%EB%AF%B8%EB%9F%AC-%EC%96%BC%EB%B9%A0-%EC%97%AC%EB%AF%B8%EC%83%88-mc0e1rcq",
