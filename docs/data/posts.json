@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:27:26+00:00",
+  "updatedAt": "2026-10-26T03:29:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -490696,6 +490696,26 @@
       "firstSeenAt": "2026-10-26T03:27:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84578,
+      "source": "dc",
+      "externalId": "cmt-10972341",
+      "title": "와 ㅈㄴ 좋으면 빨리 그거 하라고 ~ 이러는 60대 할아버지같은 글이네 - dc App",
+      "excerpt": "솔직히 옥영커플이 정상인건 맞지 않냐",
+      "author": "에어팟",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620734&page=1#cmt_10972341",
+      "postedLabel": "10.26 12:28:59",
+      "postedAt": "2026-10-26T12:28:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:29:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -490819,7 +490839,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T12:26:08+09:00"
+      "slowAt": "2026-10-26T12:29:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -494714,7 +494734,8 @@
         "6620714",
         "6620717",
         "6620720",
-        "6620727"
+        "6620727",
+        "6620734"
       ]
     },
     "blind": {
