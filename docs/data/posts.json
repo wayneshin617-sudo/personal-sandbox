@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T10:38:42+00:00",
+  "updatedAt": "2026-10-26T10:39:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -499830,6 +499830,45 @@
       "firstSeenAt": "2026-10-26T10:38:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85040,
+      "source": "dc",
+      "externalId": "6621918",
+      "title": "스레드 보니까 댓글들이 둘이 현재 사귀는거 전제하던데",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621918&page=1",
+      "postedLabel": "19:38",
+      "postedAt": "2026-10-26T19:38:25+09:00",
+      "views": 48,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:39:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85041,
+      "source": "blind",
+      "externalId": "cmt-458451520",
+      "title": "제발 그러지 말아주세요...",
+      "excerpt": "오줌 앉아싸라고?",
+      "author": "Q****",
+      "company": "KB손해보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EC%A4%8C-%EC%95%89%EC%95%84%EC%8B%B8%EB%9D%BC%EA%B3%A0-c6y2rhqj#458451520",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T19:39:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:39:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -499910,7 +499949,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T19:36:25+09:00"
+      "slowAt": "2026-10-26T19:39:24+09:00"
     },
     "ig": {
       "doneIds": [
