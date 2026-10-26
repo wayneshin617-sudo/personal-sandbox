@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T09:34:43+00:00",
+  "updatedAt": "2026-10-26T09:35:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -498789,6 +498789,46 @@
       "firstSeenAt": "2026-10-26T09:34:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84987,
+      "source": "qoo",
+      "externalId": "cmt-4387034885",
+      "title": "모솔이 선배로 참견하긴 좀 그래서그런가? ㅋㅋㅋㅌ",
+      "excerpt": "선배의 참견 이번 기수는 없어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387018564#4387034885",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T17:35:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:35:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84988,
+      "source": "blind",
+      "externalId": "cmt-458444079",
+      "title": "걍 있어보이는 단어라서 가져다 쓰는거 대부분 언행들이 그렇더라..",
+      "excerpt": "34영철은 뭘하는데 성장캐래?",
+      "author": "l*********",
+      "company": "아주대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%98%ED%95%98%EB%8A%94%EB%8D%B0-%EC%84%B1%EC%9E%A5%EC%BA%90%EB%9E%98-ce7zdren#458444079",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T18:35:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:35:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -503088,7 +503128,8 @@
         "6621698",
         "6621701",
         "6621703",
-        "6621709"
+        "6621709",
+        "6621711"
       ]
     },
     "blind": {
