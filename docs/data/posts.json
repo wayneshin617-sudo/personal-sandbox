@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:12:42+00:00",
+  "updatedAt": "2026-10-26T11:14:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -500533,6 +500533,44 @@
       "comments": 1,
       "firstSeenAt": "2026-10-26T11:12:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85076,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A5%EB%AD%90%EC%8B%9C%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%A0%80%EB%9F%AC%EB%8A%94%EA%B1%B0%EC%95%BC-u6ba2j01",
+      "title": "옥뭐시기는 왜 저러는거야?",
+      "excerpt": "헤어졌단거야? 뭐야 영호도 그냥 저 수준 같은데 영호 옹호 하는 사람 많네",
+      "author": "꼴****",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EB%AD%90%EC%8B%9C%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%A0%80%EB%9F%AC%EB%8A%94%EA%B1%B0%EC%95%BC-u6ba2j01",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-26T20:13:24+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T11:14:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85077,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EA%B0%80-%EA%B2%B0%ED%98%BC%EC%9D%84-%EC%95%9E%EB%91%90%EA%B3%A0-%EC%9E%88%EA%B1%B0%EB%82%98-0ev7w21s",
+      "title": "내가 결혼을 앞두고 있거나",
+      "excerpt": "새 사람 만나 사귀고 있는데 전에 잠깐 만났던 사람이 함께 있던 호텔사진, 뽀뽀사진 등 올리면 무서울 것 같긴하다",
+      "author": "l*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B0%80-%EA%B2%B0%ED%98%BC%EC%9D%84-%EC%95%9E%EB%91%90%EA%B3%A0-%EC%9E%88%EA%B1%B0%EB%82%98-0ev7w21s",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:14:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T11:14:43+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -504902,7 +504940,9 @@
         "6622030",
         "6622039",
         "6622042",
-        "6622048"
+        "6622045",
+        "6622048",
+        "6622057"
       ]
     },
     "blind": {
