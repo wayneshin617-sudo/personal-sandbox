@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:01:52+00:00",
+  "updatedAt": "2026-10-26T05:03:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -492648,6 +492648,65 @@
       "firstSeenAt": "2026-10-26T05:01:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84677,
+      "source": "qoo",
+      "externalId": "cmt-4386776041",
+      "title": "영수 말하는거 좀 웃긴거 같아ㅋㅋ",
+      "excerpt": "영수 안정형 같아서 호감이야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386700673#4386776041",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:03:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:03:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84678,
+      "source": "qoo",
+      "externalId": "cmt-4386776166",
+      "title": "라방중 역대급임ㅋㅋㅋ 나솔 그 더글로리 <-하면 다 알아",
+      "excerpt": "안잊혀질 것 같은데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386757202#4386776166",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:03:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:03:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84679,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%B6%80%EB%AA%A8-%EB%B9%9A%ED%88%AC-c440zmac",
+      "title": "34기 출연자 부모 빚투",
+      "excerpt": "여긴 왜 조용? 내용 뭐야",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%B6%80%EB%AA%A8-%EB%B9%9A%ED%88%AC-c440zmac",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:03:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T05:03:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -492728,7 +492787,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T14:00:35+09:00"
+      "slowAt": "2026-10-26T14:03:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -496734,7 +496793,9 @@
         "6620967",
         "6620972",
         "6620977",
-        "6620986"
+        "6620986",
+        "6620987",
+        "6620993"
       ]
     },
     "blind": {
