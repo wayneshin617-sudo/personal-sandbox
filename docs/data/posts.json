@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:27:42+00:00",
+  "updatedAt": "2026-10-26T11:28:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500750,6 +500750,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T11:27:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85087,
+      "source": "qoo",
+      "externalId": "cmt-4387152944",
+      "title": "관심이 그리운가봐",
+      "excerpt": "방금전 글 올라왔단게 이거구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387138408#4387152944",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T19:28:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:28:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -500874,7 +500894,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T20:25:24+09:00"
+      "slowAt": "2026-10-26T20:28:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -505093,6 +505113,7 @@
         "6621870",
         "6621871",
         "6621876",
+        "6621878",
         "6621882",
         "6621885",
         "6621895",
