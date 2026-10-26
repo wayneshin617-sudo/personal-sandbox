@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:35:42+00:00",
+  "updatedAt": "2026-10-26T11:36:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500948,6 +500948,25 @@
       "firstSeenAt": "2026-10-26T11:35:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85097,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%8B%A4%EC%88%98%EB%A1%9C-%EC%9D%B8%EC%8A%A4%ED%83%80-%EA%B3%B5%EA%B0%9C%EC%A0%84%ED%99%98%ED%95%98%EA%B3%A0-%EB%B8%94%EB%9D%BC%EC%97%90-%EA%B8%80%EC%93%B0%EB%8A%94%EA%B2%8C-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-gf0fl5eh",
+      "title": "근데 실수로 인스타 공개전환하고 블라에 글쓰는게 가능한가",
+      "excerpt": "계정 실수를 한다거나 사진을 잘못 올렸거나 이런거는 실수라고 해도 인스타를 공개전환해서 그걸 블라에다가 글쓴게 어떻게 실수지.. 블라에 글 올라온다음 내가 바로 인스타 들어갔는데 저 인스타 팔로워 2명이였음.. 아무 의도 없다고 입장을 발표했지만 정말 의도가 궁금하다!!!",
+      "author": "i******",
+      "company": "하이브",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%8B%A4%EC%88%98%EB%A1%9C-%EC%9D%B8%EC%8A%A4%ED%83%80-%EA%B3%B5%EA%B0%9C%EC%A0%84%ED%99%98%ED%95%98%EA%B3%A0-%EB%B8%94%EB%9D%BC%EC%97%90-%EA%B8%80%EC%93%B0%EB%8A%94%EA%B2%8C-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-gf0fl5eh",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:36:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T11:36:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -501028,7 +501047,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T20:33:24+09:00"
+      "slowAt": "2026-10-26T20:36:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -505341,7 +505360,8 @@
         "6622119",
         "6622134",
         "6622136",
-        "6622138"
+        "6622138",
+        "6622146"
       ]
     },
     "blind": {
