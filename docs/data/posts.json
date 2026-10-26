@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:37:43+00:00",
+  "updatedAt": "2026-10-26T11:38:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500987,6 +500987,46 @@
       "firstSeenAt": "2026-10-26T11:37:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85099,
+      "source": "qoo",
+      "externalId": "cmt-4387166176",
+      "title": "왜저래",
+      "excerpt": "방금전 글 올라왔단게 이거구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387138408#4387166176",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T19:37:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:38:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85100,
+      "source": "blind",
+      "externalId": "cmt-458459071",
+      "title": "거기에 비공개 아이디 돌아 다니던데 ㅋㅋㅋ 사람들을 전부 띄엄띄엄 봄",
+      "excerpt": "근데 실수로 인스타 공개전환하고 블라에 글쓰는게 가능한가",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%8B%A4%EC%88%98%EB%A1%9C-%EC%9D%B8%EC%8A%A4%ED%83%80-%EA%B3%B5%EA%B0%9C%EC%A0%84%ED%99%98%ED%95%98%EA%B3%A0-%EB%B8%94%EB%9D%BC%EC%97%90-%EA%B8%80%EC%93%B0%EB%8A%94%EA%B2%8C-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-gf0fl5eh#458459071",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:38:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:38:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -505382,7 +505422,8 @@
         "6622136",
         "6622138",
         "6622146",
-        "6622149"
+        "6622149",
+        "6622151"
       ]
     },
     "blind": {
@@ -508138,6 +508179,7 @@
         "/kr/post/%EC%9D%B4%EB%B2%88-%EB%AC%B8%EC%8B%A0%EB%85%BC%EC%9F%81-%EC%9C%A0%EC%B9%98%ED%95%9C-%EB%82%A8%EC%9E%90%EB%93%A4-%EC%A7%84%EC%A7%9C-%ED%95%9C%EC%88%A8%EB%A7%8C-%EB%82%98%EC%98%B4-%E3%85%8B%E3%85%8B-5nmckyih",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%8A%94-%ED%8C%A8%EC%8A%A4%EB%8B%A4-%EB%82%A8%ED%94%BC%EB%94%94-or4tbs3w",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%B3%B4%EA%B3%A0-%EB%86%80%EB%9E%80%EC%A0%90%E2%80%A6-37f0kyhj",
+        "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%B3%B4%EB%8A%94%EB%8D%B0-cs2rvrn7",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EB%B3%B4%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%84%BC%E3%85%8B%E3%85%8B-l4bzt1zz",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EC%97%AC%EC%B6%9C%EB%93%A4-%ED%91%9C%EC%A0%95%EC%9D%B4-%EB%B0%9D%EC%9D%80%EA%B2%8C-%EC%8B%A0%EA%B8%B0%ED%95%98%EB%8B%A4-u0it1kem",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EC%A7%84%EC%A7%9C-%EB%B3%B4%EA%B8%B0%EA%B0%80-%ED%9E%98%EB%93%A4%EC%A0%95%EB%8F%84%EC%9E%84-78wwu501",
