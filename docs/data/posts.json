@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T10:44:42+00:00",
+  "updatedAt": "2026-10-26T10:46:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -499986,6 +499986,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T10:44:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85048,
+      "source": "blind",
+      "externalId": "cmt-458452389",
+      "title": "퐁맙소오오오는 누가 키울거야 소오오오는",
+      "excerpt": "퐁맙소는 대체 누가 지었는지",
+      "author": "i********",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%90%81%EB%A7%99%EC%86%8C%EB%8A%94-%EB%8C%80%EC%B2%B4-%EB%88%84%EA%B0%80-%EC%A7%80%EC%97%88%EB%8A%94%EC%A7%80-5uap2da0#458452389",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T19:46:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:46:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -500110,7 +500130,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T19:43:24+09:00"
+      "slowAt": "2026-10-26T19:46:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -504332,7 +504352,9 @@
         "6621930",
         "6621935",
         "6621938",
-        "6621940"
+        "6621940",
+        "6621944",
+        "6621945"
       ]
     },
     "blind": {
