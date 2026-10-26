@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:31:42+00:00",
+  "updatedAt": "2026-10-26T11:32:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -500829,6 +500829,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T11:31:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85091,
+      "source": "qoo",
+      "externalId": "cmt-4387157404",
+      "title": "왜 이제 와서 또 불을 지피지;",
+      "excerpt": "방금전 글 올라왔단게 이거구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387138408#4387157404",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T19:31:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:32:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85092,
+      "source": "qoo",
+      "externalId": "cmt-4387158536",
+      "title": "어질어질하다 진짜 무편집본 좀 공개해줬음 좋겠다",
+      "excerpt": "방금전 글 올라왔단게 이거구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387138408#4387158536",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T19:32:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:32:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85093,
+      "source": "blind",
+      "externalId": "cmt-458458267",
+      "title": "ㄴㄱ?",
+      "excerpt": "그만하시죠..",
+      "author": "l******",
+      "company": "제일약품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%A7%8C%ED%95%98%EC%8B%9C%EC%A3%A0-j20ehd0n#458458267",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:32:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:32:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -505177,6 +505237,7 @@
         "6621885",
         "6621887",
         "6621895",
+        "6621897",
         "6621926",
         "6621930",
         "6621935",
@@ -505218,7 +505279,8 @@
         "6622110",
         "6622114",
         "6622115",
-        "6622119"
+        "6622119",
+        "6622134"
       ]
     },
     "blind": {
@@ -505381,6 +505443,7 @@
         "/kr/post/%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%B8%94%EB%9D%BC%EB%82%A8%EB%93%A4%EC%9D%B4-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%ED%8A%B9%EC%A7%91-%EC%98%A4%ED%94%88%ED%96%88%EB%8A%94%EB%8D%B0-cpb6e8li",
         "/kr/post/%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%B9%98%EB%A9%B4-jgqabf0i",
         "/kr/post/%EA%B7%B8%EB%A6%BC%EC%B2%B4%EA%B0%80-%EC%98%81%ED%98%B8%EB%9E%91-%ED%98%84%EC%88%99%EC%9D%B4-%EC%96%B4%EC%9A%B8%EB%A6%B0%EB%8B%B9-r4kqq5ds",
+        "/kr/post/%EA%B7%B8%EB%A7%8C%ED%95%98%EC%8B%9C%EC%A3%A0-j20ehd0n",
         "/kr/post/%EA%B7%B8-%EB%85%80%EC%84%9D-%EA%B1%B0%EC%B0%B8-he5ur5yu",
         "/kr/post/%EA%B7%BC%EB%8C%80-%EC%98%81%ED%98%B8%EA%B0%80-%ED%95%98%EB%8A%94-%EC%A0%80%EB%9F%B0%EA%B2%83%EB%93%A4%EC%9D%B4-mj614c07",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EA%B0%93%EB%8B%89-%EC%97%B0%EB%B4%89-7%EC%96%B5%EC%9D%B4%EB%A9%B4-vvleoebw",
@@ -508641,6 +508704,7 @@
         "/kr/post/31-%EC%98%A5%EC%88%9C%EC%98%81%ED%98%B8-%EC%99%9C-%EB%A7%8C%EB%82%98%EA%B3%A0-%EC%9E%88%EC%97%88%EC%9C%BC%EB%A9%B4%EC%84%9C-%ED%97%A4%EC%96%B4%EC%A1%8C%EB%8B%A4%EA%B3%A0-%EA%B1%B0%EC%A7%93%EB%A7%90%ED%96%88%EB%8B%A4%EB%8A%94%EA%B1%B0%EC%95%BC-7poer6wl",
         "/kr/post/31-%EC%98%A5%EC%88%9C%EC%98%81%ED%98%B8-2obv4ffk",
         "/kr/post/31-%EC%98%A5%EC%88%9C-%EC%98%81%ED%98%B8-%EB%B6%80%EB%9F%AC%EC%9A%B4%EB%8D%B0-fyey4xyb",
+        "/kr/post/31-%EC%98%A5%EC%88%9C-%EC%98%81%ED%98%B8-%EC%9E%98-%EB%A7%8C%EB%82%98%EA%B3%A0-%EC%9E%88%EC%97%88%EB%84%A4-8iwnotac",
         "/kr/post/31-%EC%98%A5%ED%8C%94%EA%B3%84-%ED%90%81%EB%A7%99%EC%86%8C-%EC%9E%98-%EB%A7%8C%EB%82%98%EB%84%A4-k77lodz0",
         "/kr/post/31-%EC%98%A5-9%EC%9B%94-%EB%A7%90%EC%97%90-4%EC%9B%94-%EC%82%AC%EC%A7%84%EC%9D%84-%EC%98%AC%EB%A6%BC-cnac8zum",
         "/kr/post/32%EA%B8%B0-%EC%98%81%EC%88%99%EC%98%81%EC%8B%9D-%EC%9D%B4%EB%B3%84%ED%96%88%EB%84%A4-oxw2sd6s",
