@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T10:48:41+00:00",
+  "updatedAt": "2026-10-26T10:50:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500045,6 +500045,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T10:48:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85051,
+      "source": "blind",
+      "externalId": "cmt-458452920",
+      "title": "31공단영숙",
+      "excerpt": "나솔 보면 비키니대회 나간 여자치고 정상인이 없는 듯",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%B3%B4%EB%A9%B4-%EB%B9%84%ED%82%A4%EB%8B%88%EB%8C%80%ED%9A%8C-%EB%82%98%EA%B0%84-%EC%97%AC%EC%9E%90%EC%B9%98%EA%B3%A0-%EC%A0%95%EC%83%81%EC%9D%B8%EC%9D%B4-%EC%97%86%EB%8A%94-%EB%93%AF-giq5ewuf#458452920",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T19:50:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:50:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -504393,7 +504413,8 @@
         "6621938",
         "6621940",
         "6621944",
-        "6621945"
+        "6621945",
+        "6621960"
       ]
     },
     "blind": {
