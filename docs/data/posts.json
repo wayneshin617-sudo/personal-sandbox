@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T08:07:44+00:00",
+  "updatedAt": "2026-10-26T08:08:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -496766,6 +496766,25 @@
       "firstSeenAt": "2026-10-26T08:07:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84885,
+      "source": "dc",
+      "externalId": "6621439",
+      "title": "단순하게 생각해",
+      "excerpt": "",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621439&page=1",
+      "postedLabel": "17:07",
+      "postedAt": "2026-10-26T17:07:41+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T08:08:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -500932,6 +500951,7 @@
         "6621141",
         "6621154",
         "6621155",
+        "6621158",
         "6621170",
         "6621171",
         "6621173",
@@ -500990,7 +501010,8 @@
         "6621406",
         "6621411",
         "6621421",
-        "6621427"
+        "6621427",
+        "6621436"
       ]
     },
     "blind": {
