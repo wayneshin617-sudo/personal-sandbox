@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:09:42+00:00",
+  "updatedAt": "2026-10-26T11:10:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500475,6 +500475,25 @@
       "firstSeenAt": "2026-10-26T11:09:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85073,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B5%9C%EA%B7%BC-%EC%82%AC%EC%A7%84-%ED%95%98%EB%82%98%EB%8F%84-%EC%97%86%EB%8A%94-%EC%9C%A0%EC%B6%9C-twiqth68",
+      "title": "최근 사진 하나도 없는 유출 ..",
+      "excerpt": "짠하네 ㅠ",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B5%9C%EA%B7%BC-%EC%82%AC%EC%A7%84-%ED%95%98%EB%82%98%EB%8F%84-%EC%97%86%EB%8A%94-%EC%9C%A0%EC%B6%9C-twiqth68",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:10:24+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T11:10:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -500599,7 +500618,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T20:07:24+09:00"
+      "slowAt": "2026-10-26T20:10:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -504839,7 +504858,9 @@
         "6622012",
         "6622025",
         "6622027",
-        "6622028"
+        "6622028",
+        "6622030",
+        "6622039"
       ]
     },
     "blind": {
