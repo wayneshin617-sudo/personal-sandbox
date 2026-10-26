@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:03:53+00:00",
+  "updatedAt": "2026-10-26T05:04:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -492707,6 +492707,104 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T05:03:53+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84680,
+      "source": "qoo",
+      "externalId": "cmt-4386776750",
+      "title": "걍 까는것도 지겨워 난 ㅋㅋ 사귀면 사귀라고해 왜케 관심들인지",
+      "excerpt": "안잊혀질 것 같은데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386757202#4386776750",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:04:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:04:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84681,
+      "source": "qoo",
+      "externalId": "cmt-4386776778",
+      "title": "위장이별맞네",
+      "excerpt": "영호옥순 실검뜨는게 웃기네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386712817#4386776778",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:04:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:04:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84682,
+      "source": "dc",
+      "externalId": "6620999",
+      "title": "난 근데 옥순이 이렇게 욕먹을만큼 죄지은건지 모르겠다",
+      "excerpt": "",
+      "author": "갈치얌ʕ••ʕ••ʔ",
+      "company": "",
+      "ip": "58.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620999&page=1",
+      "postedLabel": "14:04",
+      "postedAt": "2026-10-26T14:04:07+09:00",
+      "views": 11,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:04:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84683,
+      "source": "dc",
+      "externalId": "6621001",
+      "title": "진짜 이번 가을겨울 fw 최고의 존잘",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621001&page=1",
+      "postedLabel": "14:04",
+      "postedAt": "2026-10-26T14:04:19+09:00",
+      "views": 4,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:04:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84684,
+      "source": "blind",
+      "externalId": "cmt-458416528",
+      "title": "아무도 몰라서 조용한거아녀?",
+      "excerpt": "34기 출연자 부모 빚투",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%B6%80%EB%AA%A8-%EB%B9%9A%ED%88%AC-c440zmac#458416528",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:04:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:04:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -492830,7 +492928,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T14:01:35+09:00"
+      "slowAt": "2026-10-26T14:04:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -496795,7 +496893,8 @@
         "6620977",
         "6620986",
         "6620987",
-        "6620993"
+        "6620993",
+        "6620997"
       ]
     },
     "blind": {
@@ -500280,6 +500379,7 @@
         "/kr/post/34%EA%B8%B0-%EC%A7%81%EC%97%85-%EC%A0%95%EB%A6%AC%EC%A2%80%EC%9A%94-%E3%85%A0%E3%85%A0%E3%85%A0%E3%85%A0-jm4yofwx",
         "/kr/post/34%EA%B8%B0-%EC%A7%81%EC%97%85-%EC%B5%9C%EC%8B%A0%ED%99%94txt-%EC%98%81%EC%B2%A0-%ED%8C%A8%EA%B1%B0%EB%A6%AC-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%B0%98%EB%B0%95-m7hhc40e",
         "/kr/post/34%EA%B8%B0-%EC%B2%AB%EC%9D%B8%EC%83%81-%EC%84%A0%ED%83%9D-js6fw4wr",
+        "/kr/post/34%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%B6%80%EB%AA%A8-%EB%B9%9A%ED%88%AC-c440zmac",
         "/kr/post/34%EA%B8%B0-%ED%94%84%EB%A1%9C%ED%95%84-%EB%AA%A8%EC%95%84%EB%B3%B4%EC%9E%90%EC%A7%81%EC%9E%A5%EB%8F%99%EB%A3%8C%EB%93%A4-%EB%8C%93%EA%B8%80%EC%A2%80-y1dw1vfz",
         "/kr/post/34%EA%B8%B0-%ED%95%98%EB%8B%89-%EC%83%81%EC%B2%A0-auqb00j2",
         "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EB%8B%98-%EC%9D%B4-%EB%B0%B0%EC%9A%B0%EB%9E%91-%EB%8B%AE%EC%A7%80%EC%95%8A%EC%95%98%EC%96%B4-6jrb6xyk",
