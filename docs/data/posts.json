@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:24:26+00:00",
+  "updatedAt": "2026-10-26T03:26:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -490637,6 +490637,25 @@
       "firstSeenAt": "2026-10-26T03:24:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84575,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-%EC%8B%AC%EC%9D%80%EC%9A%B0-%EB%8B%AE%EC%A7%80%EC%95%8A%EC%9D%8C-sc8m1rrz",
+      "title": "순자 심은우 닮지않음?",
+      "excerpt": "사랑에빠진게 죄야?그드라마 나온 배우 드라마이름이 생각안나네",
+      "author": "m*******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%8B%AC%EC%9D%80%EC%9A%B0-%EB%8B%AE%EC%A7%80%EC%95%8A%EC%9D%8C-sc8m1rrz",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T12:26:08+09:00",
+      "views": 26,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T03:26:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -490760,7 +490779,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T12:23:08+09:00"
+      "slowAt": "2026-10-26T12:26:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -494654,7 +494673,8 @@
         "6620703",
         "6620714",
         "6620717",
-        "6620720"
+        "6620720",
+        "6620727"
       ]
     },
     "blind": {
