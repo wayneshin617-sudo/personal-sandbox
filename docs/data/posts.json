@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T07:49:43+00:00",
+  "updatedAt": "2026-10-26T07:50:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -496349,6 +496349,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-26T07:49:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84864,
+      "source": "blind",
+      "externalId": "cmt-458433432",
+      "title": "빛?",
+      "excerpt": "34기 빛투 터졌던데",
+      "author": "a*********",
+      "company": "DL케미칼",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%B9%9B%ED%88%AC-%ED%84%B0%EC%A1%8C%EB%8D%98%EB%8D%B0-t5h4zd28#458433432",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T16:50:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T07:50:43+00:00",
       "isSeed": false,
       "kind": "reply"
     }
