@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:16:54+00:00",
+  "updatedAt": "2026-10-26T05:21:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -493042,6 +493042,25 @@
       "firstSeenAt": "2026-10-26T05:16:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84697,
+      "source": "dc",
+      "externalId": "6621044",
+      "title": "지인 중에 퐁맙소좌랑 똑같이 생긴애 있는데",
+      "excerpt": "",
+      "author": "Hpe",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621044&page=1",
+      "postedLabel": "14:20",
+      "postedAt": "2026-10-26T14:20:52+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:21:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -493122,7 +493141,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T14:18:36+09:00"
+      "slowAt": "2026-10-26T14:21:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -497109,6 +497128,8 @@
         "6620875",
         "6620878",
         "6620880",
+        "6620881",
+        "6620882",
         "6620886",
         "6620889",
         "6620893",
@@ -497146,7 +497167,8 @@
         "6621028",
         "6621030",
         "6621033",
-        "6621034"
+        "6621034",
+        "6621041"
       ]
     },
     "blind": {
