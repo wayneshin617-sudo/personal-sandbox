@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T12:11:43+00:00",
+  "updatedAt": "2026-10-26T12:13:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -501941,6 +501941,46 @@
       "firstSeenAt": "2026-10-26T12:11:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85147,
+      "source": "blind",
+      "externalId": "cmt-458458051",
+      "title": "순자경수네 인기많으니까 그꼴못봐주겠어서 그러는거 아닐까",
+      "excerpt": "옥뭐시기는 왜 저러는거야?",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EB%AD%90%EC%8B%9C%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%A0%80%EB%9F%AC%EB%8A%94%EA%B1%B0%EC%95%BC-u6ba2j01#458458051",
+      "postedLabel": "43분",
+      "postedAt": "2026-10-26T20:30:24+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T12:13:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85148,
+      "source": "blind",
+      "externalId": "cmt-458462470",
+      "title": "재결합 할뻔햇는데 뭔가 엇나간건가 엿맥일라고 오픈한거처럼 보임",
+      "excerpt": "옥뭐시기는 왜 저러는거야?",
+      "author": "a*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EB%AD%90%EC%8B%9C%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%A0%80%EB%9F%AC%EB%8A%94%EA%B1%B0%EC%95%BC-u6ba2j01#458462470",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-26T21:00:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T12:13:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -502065,7 +502105,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T21:10:24+09:00"
+      "slowAt": "2026-10-26T21:13:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -506365,7 +506405,8 @@
         "6622247",
         "6622251",
         "6622252",
-        "6622255"
+        "6622255",
+        "6622259"
       ]
     },
     "blind": {
