@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T07:59:41+00:00",
+  "updatedAt": "2026-10-26T08:00:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -496587,6 +496587,85 @@
       "firstSeenAt": "2026-10-26T07:59:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84876,
+      "source": "qoo",
+      "externalId": "cmt-4386943764",
+      "title": "ㄹㅇ 이제 모르겠어",
+      "excerpt": "이젠 하도 기수가 많으니까 xx기 영숙, xx기 영호 이러면 뇌정지 오네 ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386939200#4386943764",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T16:00:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T08:00:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84877,
+      "source": "qoo",
+      "externalId": "4387003439",
+      "title": "블라에 계정 올린 시간이랑 뭐 게시물 수정한 시간이랑 겹친다는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4387003439",
+      "postedLabel": "17:00",
+      "postedAt": "2026-10-26T17:00:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T08:00:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84878,
+      "source": "dc",
+      "externalId": "cmt-10973239",
+      "title": "찐따영호",
+      "excerpt": "경수는 순자한테 이런 텐션 안나옴ㅋㅋㅋㅋㅋㅋㅋㅋㅋ ㅋㅋㅋㅋㅋ",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621406&page=1#cmt_10973239",
+      "postedLabel": "10.26 17:00:02",
+      "postedAt": "2026-10-26T17:00:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T08:00:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84879,
+      "source": "blind",
+      "externalId": "cmt-458434353",
+      "title": "누군지를써",
+      "excerpt": "34기 빚투 터졌던데",
+      "author": "l*********",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%B9%9A%ED%88%AC-%ED%84%B0%EC%A1%8C%EB%8D%98%EB%8D%B0-t5h4zd28#458434353",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T17:00:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T08:00:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -496667,7 +496746,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T16:57:27+09:00"
+      "slowAt": "2026-10-26T17:00:26+09:00"
     },
     "ig": {
       "doneIds": [
@@ -500777,6 +500856,7 @@
         "6621255",
         "6621265",
         "6621267",
+        "6621276",
         "6621282",
         "6621293",
         "6621295",
@@ -500804,6 +500884,7 @@
         "6621385",
         "6621396",
         "6621401",
+        "6621406",
         "6621411"
       ]
     },
@@ -506938,7 +507019,8 @@
         "4386968202",
         "4386977531",
         "4386999779",
-        "4387002498"
+        "4387002498",
+        "4387003439"
       ]
     },
     "keep": "v2",
