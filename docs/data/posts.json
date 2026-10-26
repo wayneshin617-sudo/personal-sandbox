@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T06:30:54+00:00",
+  "updatedAt": "2026-10-26T06:32:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -494625,6 +494625,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-26T06:30:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84777,
+      "source": "qoo",
+      "externalId": "cmt-4386866257",
+      "title": "@2 ㅋㅋㅋㅋㅋㅋㅋㅋ와 걘 진짜 그럴꺼같음",
+      "excerpt": "실수로 공개됐다는것도 그냥 추측인거지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386797724#4386866257",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T14:32:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:32:53+00:00",
       "isSeed": false,
       "kind": "reply"
     }
