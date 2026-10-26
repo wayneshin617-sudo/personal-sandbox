@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:48:42+00:00",
+  "updatedAt": "2026-10-26T11:49:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -501326,6 +501326,26 @@
       "firstSeenAt": "2026-10-26T11:48:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85116,
+      "source": "blind",
+      "externalId": "cmt-458460617",
+      "title": "니가 그래?",
+      "excerpt": "헤어졌는데 혼자 럽스타 ㄷㄷ",
+      "author": "i*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%97%A4%EC%96%B4%EC%A1%8C%EB%8A%94%EB%8D%B0-%ED%98%BC%EC%9E%90-%EB%9F%BD%EC%8A%A4%ED%83%80-%E3%84%B7%E3%84%B7-dh2kn4bh#458460617",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:49:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:49:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -501450,7 +501470,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T20:46:23+09:00"
+      "slowAt": "2026-10-26T20:49:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -505727,7 +505747,8 @@
         "6622164",
         "6622166",
         "6622169",
-        "6622171"
+        "6622171",
+        "6622174"
       ]
     },
     "blind": {
