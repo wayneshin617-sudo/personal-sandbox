@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T00:02:21+00:00",
+  "updatedAt": "2026-10-26T00:03:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -486542,6 +486542,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T00:02:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84368,
+      "source": "blind",
+      "externalId": "cmt-458388191",
+      "title": "털보는 왜 거름?",
+      "excerpt": "살면서 거르는 인간",
+      "author": "|*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%B4%EB%A9%B4%EC%84%9C-%EA%B1%B0%EB%A5%B4%EB%8A%94-%EC%9D%B8%EA%B0%84-3d7elfxq#458388191",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T09:03:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T00:03:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84369,
+      "source": "blind",
+      "externalId": "cmt-458388172",
+      "title": "실언 80% 아가리가 너무심해",
+      "excerpt": "영철은 정작 할 말은 안하네",
+      "author": "i*********",
+      "company": "선진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A0%95%EC%9E%91-%ED%95%A0-%EB%A7%90%EC%9D%80-%EC%95%88%ED%95%98%EB%84%A4-xfr3tvh5#458388172",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T09:03:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T00:03:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84370,
+      "source": "blind",
+      "externalId": "cmt-458388139",
+      "title": "말이 너무 많으니 실언도 높은 듯",
+      "excerpt": "영철은 정작 할 말은 안하네",
+      "author": "b***** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A0%95%EC%9E%91-%ED%95%A0-%EB%A7%90%EC%9D%80-%EC%95%88%ED%95%98%EB%84%A4-xfr3tvh5#458388139",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T09:03:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T00:03:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -486665,7 +486725,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T09:00:05+09:00"
+      "slowAt": "2026-10-26T09:03:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -486837,6 +486897,8 @@
         "6568946",
         "6569002",
         "6569042",
+        "6569060",
+        "6569089",
         "6600977",
         "6600980",
         "6600981",
@@ -493178,6 +493240,7 @@
         "/kr/post/%EC%A0%80-%EC%A4%91%EB%85%80-%EC%82%AC%EA%B7%BC%EC%82%AC%EA%B7%BC-%EC%95%A0%EA%B5%90-%EB%A7%8E%EB%8B%A4-iol6sqch",
         "/kr/post/%EC%A0%80-%EC%A7%80%EB%9E%84-%ED%95%A0-%EA%B1%B0%EB%A9%B4-%EC%9E%91%EC%97%85%EC%9D%80-%EC%99%9C-%EC%B9%9C-%EA%B1%B0%EC%9E%84-8oupxvh4",
         "/kr/post/%EC%A0%80-%EC%B9%A8%EB%8C%80%EC%97%90-%EB%88%95%EA%B8%B0-%EC%8B%AB%EA%B2%A0%EB%8B%A4-nm3y2cbv",
+        "/kr/post/%EC%A0%80-%ED%8A%B9%EC%9C%A0%EC%9D%98-%EC%9E%91%EC%9C%84%EC%A0%81-%ED%91%9C%EC%A0%95-a0f7bjf8",
         "/kr/post/%EC%A0%80-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%97%AC%EC%9E%90-qrkp4rtn",
         "/kr/post/%EC%A0%84%EA%B5%AD%EC%97%90-%EB%AA%B0%EB%9E%98-%EB%AC%B8%EC%8B%A0%ED%95%9C%EC%95%A0%EB%93%A4-%EB%8B%A4-%EB%82%98%EC%98%A4%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B-wccsjof8",
         "/kr/post/%EC%A0%84%EA%B6%81%EA%B8%88%ED%95%9C%EA%B2%8C-%EC%98%81%EC%88%99%EB%8B%98%EA%B0%99%EC%9D%80-%EA%B4%80%EC%83%81%EC%9D%80-%EC%99%9C-%EC%A0%84%EB%B6%80-%EC%84%B1%EA%B2%A9%EC%9D%B4-h5tab1gw",
