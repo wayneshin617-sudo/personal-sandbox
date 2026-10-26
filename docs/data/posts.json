@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T01:56:24+00:00",
+  "updatedAt": "2026-10-26T02:00:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -488399,6 +488399,44 @@
       "firstSeenAt": "2026-10-26T01:56:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84462,
+      "source": "qoo",
+      "externalId": "4386652413",
+      "title": "34기 정숙님 윤승아 느낌있다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386652413",
+      "postedLabel": "10:59",
+      "postedAt": "2026-10-26T10:59:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T02:00:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84463,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%B8%EA%B5%AD%EC%9D%B8-%ED%8A%B9%EC%A7%91-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-z7wa8t6x",
+      "title": "외국인 특집 보면서 느낀점",
+      "excerpt": "진짜 우리나라 남자들 못생긴 사람들 많구나 요즘은 직업 좋아도 외모 안되면 컷이다.. 외국인 여성들 천벌 특집이냐? 그냥 한국여자vs외국남자 특집으로해라 남출 외모 수준 못봐주겠다",
+      "author": "a*****",
+      "company": "SK",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%B8%EA%B5%AD%EC%9D%B8-%ED%8A%B9%EC%A7%91-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-z7wa8t6x",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T11:00:06+09:00",
+      "views": 0,
+      "recommends": 3,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T02:00:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -492366,7 +492404,8 @@
         "6620500",
         "6620501",
         "6620503",
-        "6620508"
+        "6620508",
+        "6620511"
       ]
     },
     "blind": {
@@ -498394,7 +498433,8 @@
         "4386318435",
         "4386434620",
         "4386529581",
-        "4386572251"
+        "4386572251",
+        "4386652413"
       ]
     },
     "keep": "v2",
