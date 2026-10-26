@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T13:21:42+00:00",
+  "updatedAt": "2026-10-26T13:22:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -503637,6 +503637,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T13:21:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85233,
+      "source": "dc",
+      "externalId": "cmt-10973771",
+      "title": "야 그정도면 암걸린다 고작알바면 걍 딴거해 - dc App",
+      "excerpt": "아니 내가 뭘 잘못한걸까 알바가디싫어",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622433&page=1#cmt_10973771",
+      "postedLabel": "10.26 22:21:49",
+      "postedAt": "2026-10-26T22:21:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:22:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -503761,7 +503781,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T22:19:24+09:00"
+      "slowAt": "2026-10-26T22:22:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -508112,7 +508132,9 @@
         "6622419",
         "6622420",
         "6622422",
-        "6622427"
+        "6622427",
+        "6622431",
+        "6622433"
       ]
     },
     "blind": {
@@ -508656,6 +508678,7 @@
         "/kr/post/%EB%82%B4%EA%B0%80-34%EA%B8%B0-%EC%98%81%ED%98%B8%EB%9D%BC%EB%A9%B4-3%EB%AA%85%EC%9D%B4%EB%9E%91-%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%A9%B0-%ED%98%84%ED%83%80-%EC%A1%B4%EB%82%98-%EC%98%AC%EB%93%AF-zzcmd6mw",
         "/kr/post/%EB%82%B4%EA%B8%B0%EC%A4%80-%EB%82%98%EC%86%94-%EB%82%A8%EC%B6%9C-%ED%83%915-1jp23dpb",
         "/kr/post/%EB%82%B4%ED%96%A5%EC%9D%B8%EC%9D%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EB%AA%BB%EC%B9%9C%ED%95%B4%EC%A0%B8-6oqy4hgm",
+        "/kr/post/%EB%82%B4-%EA%B8%B0%EC%A4%80-%EC%97%AC%EC%9E%90-%EC%99%B8%EB%AA%A8%EC%88%9C%EC%9C%84-181pr54i",
         "/kr/post/%EB%82%B4-%EB%AC%B8%EC%8B%A0%EC%9D%80-%EC%9D%B8%EC%A0%95%ED%95%B4%EC%A3%BC%EB%83%90-uhfzkf4n",
         "/kr/post/%EB%82%B4-%EC%97%AC%EC%82%AC%EC%B9%9C-%ED%8C%94-or-%EB%8B%A4%EB%A6%AC%EA%B0%80-%EB%8B%A4-%EB%8B%A4-%EB%AC%B8%EC%8B%A0%EC%9D%B8%EB%8D%B0-d6je0kbo",
         "/kr/post/%EB%82%B4-%EC%9D%B4%EC%83%81%ED%98%95-fca1ntbd",
