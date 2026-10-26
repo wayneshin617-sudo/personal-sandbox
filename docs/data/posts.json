@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T14:10:20+00:00",
+  "updatedAt": "2026-10-26T14:12:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -504917,6 +504917,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T14:10:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85298,
+      "source": "blind",
+      "externalId": "cmt-458484278",
+      "title": "기계치면 그럴 수도 있지 뭐 인덕션보다는 아직까진 가스레인지가 보편화되있으니까",
+      "excerpt": "인덕션 작동법이 그렇게 어렵나?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B8%EB%8D%95%EC%85%98-%EC%9E%91%EB%8F%99%EB%B2%95%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%96%B4%EB%A0%B5%EB%82%98-3php8uic#458484278",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T23:12:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:12:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -504997,7 +505017,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T23:09:04+09:00"
+      "slowAt": "2026-10-26T23:12:04+09:00"
     },
     "ig": {
       "doneIds": [
@@ -509422,6 +509442,7 @@
         "6622569",
         "6622585",
         "6622589",
+        "6622599",
         "6622612",
         "6622616"
       ]
