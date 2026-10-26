@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T04:49:54+00:00",
+  "updatedAt": "2026-10-26T04:51:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -492450,6 +492450,45 @@
       "firstSeenAt": "2026-10-26T04:49:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84667,
+      "source": "qoo",
+      "externalId": "cmt-4386763381",
+      "title": "ㄹㅇ 나 아직도 그들의 얼굴이 떠오름",
+      "excerpt": "안잊혀질 것 같은데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386757202#4386763381",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T12:51:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:51:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84668,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AC%EA%B8%B0-%EB%AA%B8%EB%A7%A4-%EC%82%AC%EC%A7%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%99%9C-%EA%B7%B8%EB%9F%B0%EA%B1%B0%EC%95%BC-lw52dp18",
+      "title": "근데 여기 몸매 사진 올리는 여자들은 왜 그런거야?",
+      "excerpt": "댓글 다는 사람들한테 선착순으로 줄 것도 아니잖아... 그냥 내 몸 자랑 기분 좋고 거가에 찬양 올라오면 도파민 터져서 그러는거라면 얼굴에 스티커는 왜붙임? 얼굴 까고 올리지 까는게 아니라 걍 심리가 궁금해서 물어봄",
+      "author": "W*****",
+      "company": "솔트룩스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AC%EA%B8%B0-%EB%AA%B8%EB%A7%A4-%EC%82%AC%EC%A7%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%99%9C-%EA%B7%B8%EB%9F%B0%EA%B1%B0%EC%95%BC-lw52dp18",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T13:51:36+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T04:51:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -492530,7 +492569,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T13:48:36+09:00"
+      "slowAt": "2026-10-26T13:51:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -496527,7 +496566,8 @@
         "6620924",
         "6620944",
         "6620945",
-        "6620948"
+        "6620948",
+        "6620950"
       ]
     },
     "blind": {
