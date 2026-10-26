@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T01:38:22+00:00",
+  "updatedAt": "2026-10-26T01:40:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -488201,6 +488201,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-26T01:38:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84452,
+      "source": "qoo",
+      "externalId": "cmt-4386583230",
+      "title": "갑자기 뭐야.. 의사가 왜 아니야???",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386583230",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T09:40:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T01:40:22+00:00",
       "isSeed": false,
       "kind": "reply"
     }
