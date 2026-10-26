@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:33:42+00:00",
+  "updatedAt": "2026-10-26T11:34:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500908,6 +500908,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T11:33:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85095,
+      "source": "blind",
+      "externalId": "cmt-458458489",
+      "title": "ㅇㄷ",
+      "excerpt": "그만하시죠..",
+      "author": "s*********",
+      "company": "롯데케미칼",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%A7%8C%ED%95%98%EC%8B%9C%EC%A3%A0-j20ehd0n#458458489",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:34:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:34:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -501032,7 +501052,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T20:31:24+09:00"
+      "slowAt": "2026-10-26T20:34:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -505300,7 +505320,8 @@
         "6622115",
         "6622119",
         "6622134",
-        "6622136"
+        "6622136",
+        "6622138"
       ]
     },
     "blind": {
