@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T09:54:43+00:00",
+  "updatedAt": "2026-10-26T09:55:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -499144,6 +499144,46 @@
       "firstSeenAt": "2026-10-26T09:54:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85005,
+      "source": "qoo",
+      "externalId": "cmt-4387052304",
+      "title": "취향 일관적이네ㅋㅋㅋㅋ",
+      "excerpt": "숙교수 격투기선수랑 사귀는거 맞구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386875063#4387052304",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T17:55:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:55:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85006,
+      "source": "blind",
+      "externalId": "cmt-458446244",
+      "title": "설마 인간이 그런 짓을 한다고..? 걍 재결합 아닐까 티내고 싶어서 안달난",
+      "excerpt": "팔계는 영호 새여친 생겨서 소금뿌리는거 아닐까",
+      "author": "U*****",
+      "company": "농심",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8C%94%EA%B3%84%EB%8A%94-%EC%98%81%ED%98%B8-%EC%83%88%EC%97%AC%EC%B9%9C-%EC%83%9D%EA%B2%A8%EC%84%9C-%EC%86%8C%EA%B8%88%EB%BF%8C%EB%A6%AC%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%90%EA%B9%8C-pf324wii#458446244",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T18:55:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:55:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -499268,7 +499308,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T18:52:27+09:00"
+      "slowAt": "2026-10-26T18:55:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -503459,7 +503499,8 @@
         "6621759",
         "6621763",
         "6621764",
-        "6621766"
+        "6621766",
+        "6621771"
       ]
     },
     "blind": {
