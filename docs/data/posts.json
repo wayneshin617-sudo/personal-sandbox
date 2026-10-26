@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T14:35:30+00:00",
+  "updatedAt": "2026-10-26T14:36:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -505512,6 +505512,44 @@
       "firstSeenAt": "2026-10-26T14:35:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85328,
+      "source": "dc",
+      "externalId": "6622724",
+      "title": "방금 계약사항 말한 피디새끼 ㅋㅋ",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622724&page=1",
+      "postedLabel": "23:35",
+      "postedAt": "2026-10-26T23:35:25+09:00",
+      "views": 38,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:36:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85329,
+      "source": "dc",
+      "externalId": "6622725",
+      "title": "영숙이가 옆소파에서 자면되자나",
+      "excerpt": "",
+      "author": "한우살치살",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622725&page=1",
+      "postedLabel": "23:35",
+      "postedAt": "2026-10-26T23:35:27+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:36:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -505592,7 +505630,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T23:33:14+09:00"
+      "slowAt": "2026-10-26T23:36:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -510037,7 +510075,8 @@
         "6622696",
         "6622701",
         "6622703",
-        "6622713"
+        "6622713",
+        "6622714"
       ]
     },
     "blind": {
