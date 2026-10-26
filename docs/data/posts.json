@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:37:51+00:00",
+  "updatedAt": "2026-10-26T05:42:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -493336,6 +493336,64 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T05:37:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84712,
+      "source": "qoo",
+      "externalId": "cmt-4386817888",
+      "title": "영식영자는 아직 만나나?ㅋㅋ 그냥 밝히고 편하게들 만나시지ㅎ",
+      "excerpt": "나솔세계관 위장이별 벌써 둘이나 있네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386800525#4386817888",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:41:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:42:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84713,
+      "source": "qoo",
+      "externalId": "4386875063",
+      "title": "숙교수 격투기선수랑 사귀는거 맞구나",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386875063",
+      "postedLabel": "14:42",
+      "postedAt": "2026-10-26T14:42:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:42:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84714,
+      "source": "blind",
+      "externalId": "/kr/post/32-%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D%EB%8F%84-%EA%B2%B0%EB%B3%84-d2wa0rw1",
+      "title": "32 돌싱 영숙 영식도 결별",
+      "excerpt": "잘 만나는 것 같던데ㅠ 장거리 극복이 힘들었던 거 같아",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/32-%EB%8F%8C%EC%8B%B1-%EC%98%81%EC%88%99-%EC%98%81%EC%8B%9D%EB%8F%84-%EA%B2%B0%EB%B3%84-d2wa0rw1",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:42:35+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T05:42:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -493416,7 +493474,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T14:39:36+09:00"
+      "slowAt": "2026-10-26T14:42:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -497383,6 +497441,7 @@
         "6620778",
         "6620780",
         "6620785",
+        "6620789",
         "6620790",
         "6620793",
         "6620796",
@@ -503564,7 +503623,8 @@
         "4386830861",
         "4386863656",
         "4386866401",
-        "4386871110"
+        "4386871110",
+        "4386875063"
       ]
     },
     "keep": "v2",
