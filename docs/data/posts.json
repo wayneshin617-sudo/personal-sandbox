@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T20:08:41+00:00",
+  "updatedAt": "2026-10-26T20:09:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -507043,6 +507043,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T20:08:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85406,
+      "source": "dc",
+      "externalId": "cmt-10974169",
+      "title": "미국 공교육에 비하면 한국은 수준 무지 높은거임 특히 요즘엔 학생 숫자 줄어서 수준 엄청 높음",
+      "excerpt": "간호사면 한국에서도 살기 좋지 않음?",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623296&page=1#cmt_10974169",
+      "postedLabel": "10.27 05:09:23",
+      "postedAt": "2026-10-27T05:09:23+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T20:09:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -507124,7 +507144,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T05:06:24+09:00"
+      "slowAt": "2026-10-27T05:09:24+09:00"
     },
     "ig": {
       "doneIds": [
