@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T09:12:45+00:00",
+  "updatedAt": "2026-10-26T09:13:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -498513,6 +498513,26 @@
       "firstSeenAt": "2026-10-26T09:12:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84973,
+      "source": "blind",
+      "externalId": "cmt-458441726",
+      "title": "순천지 단어가 찰져서 습관적으로 쓰는듯",
+      "excerpt": "순자경수관심없고 인플루언서 하는거 짜치는데",
+      "author": "l*********",
+      "company": "아주대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B2%BD%EC%88%98%EA%B4%80%EC%8B%AC%EC%97%86%EA%B3%A0-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C-%ED%95%98%EB%8A%94%EA%B1%B0-%EC%A7%9C%EC%B9%98%EB%8A%94%EB%8D%B0-jym07k4e#458441726",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T18:13:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:13:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -498637,7 +498657,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T18:10:27+09:00"
+      "slowAt": "2026-10-26T18:13:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -502790,7 +502810,8 @@
         "6621609",
         "6621611",
         "6621615",
-        "6621620"
+        "6621620",
+        "6621621"
       ]
     },
     "blind": {
