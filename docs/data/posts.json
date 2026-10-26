@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T17:13:39+00:00",
+  "updatedAt": "2026-10-26T17:16:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -506728,6 +506728,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T17:13:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85390,
+      "source": "blind",
+      "externalId": "cmt-458505001",
+      "title": "어디서?? 방송에서?",
+      "excerpt": "나는솔로에서 출연자가 다른사람한테",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C%EC%97%90%EC%84%9C-%EC%B6%9C%EC%97%B0%EC%9E%90%EA%B0%80-%EB%8B%A4%EB%A5%B8%EC%82%AC%EB%9E%8C%ED%95%9C%ED%85%8C-m8aym0gg#458505001",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T02:16:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T17:16:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -506853,7 +506873,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T02:13:22+09:00"
+      "slowAt": "2026-10-27T02:16:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -511347,7 +511367,8 @@
         "6623171",
         "6623184",
         "6623189",
-        "6623195"
+        "6623195",
+        "6623200"
       ]
     },
     "blind": {
