@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T14:03:19+00:00",
+  "updatedAt": "2026-10-26T14:04:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -504620,6 +504620,25 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T14:03:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85283,
+      "source": "dc",
+      "externalId": "6622587",
+      "title": "싸우면 누가이길까 빅토리아 vs 고죠",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622587&page=1",
+      "postedLabel": "23:03",
+      "postedAt": "2026-10-26T23:03:19+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:04:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -504744,7 +504763,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T23:01:04+09:00"
+      "slowAt": "2026-10-26T23:04:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -509121,7 +509140,9 @@
         "6622539",
         "6622552",
         "6622561",
-        "6622569"
+        "6622569",
+        "6622585",
+        "6622589"
       ]
     },
     "blind": {
@@ -512230,6 +512251,7 @@
         "/kr/post/%ED%8F%89%EC%83%9D-%EC%A0%80%EB%9E%98%EC%A4%84-%EC%88%98-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EC%98%81%ED%98%B8%EC%B2%98%EB%9F%BC-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%8B%A4-qy771wo1",
         "/kr/post/%ED%8F%AD%EB%A1%9C%EB%8A%94-%EB%B0%A9%EC%86%A1-%EB%8B%A4-%EB%81%9D%EB%82%98%EA%B3%A0%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%A7%80-%EC%95%8A%EB%82%98%EC%9A%94-k3ub1fs5",
         "/kr/post/%ED%90%81%EB%A7%99%EC%86%8C%EB%8A%94-%EB%8C%80%EC%B2%B4-%EB%88%84%EA%B0%80-%EC%A7%80%EC%97%88%EB%8A%94%EC%A7%80-5uap2da0",
+        "/kr/post/%ED%90%81%EB%A7%99%EC%86%8C-mnv8vqo5",
         "/kr/post/%ED%90%81%EC%98%A5%EC%88%9C-%EA%B1%B0%EC%A7%93%EB%A7%90-%ED%95%98%EB%8A%94%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-nb65vabx",
         "/kr/post/%ED%92%8D%EC%98%A5%EC%88%9C-%EA%B1%B0%EC%A7%93%EB%A7%90-%ED%95%98%EB%8A%94%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-nb65vabx",
         "/kr/post/%ED%94%84%EB%9E%91%EC%8A%A4-%EC%A6%9D%EA%B6%8C%EC%82%AC-%EC%96%B4%EB%94%94%EC%95%BC-mbwxe1st",
