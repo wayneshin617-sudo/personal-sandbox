@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T13:37:21+00:00",
+  "updatedAt": "2026-10-26T13:38:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -504014,6 +504014,45 @@
       "firstSeenAt": "2026-10-26T13:37:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85252,
+      "source": "qoo",
+      "externalId": "4387417018",
+      "title": "밥 먹을때 지저분한이야기 좀",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4387417018",
+      "postedLabel": "22:37",
+      "postedAt": "2026-10-26T22:37:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:38:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85253,
+      "source": "blind",
+      "externalId": "cmt-458478720",
+      "title": "이걸 불편해하는 니가 더 짜침",
+      "excerpt": "아니 근데 왜자꾸 9출이 7급이라고 말하는거냐",
+      "author": "|*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EA%B7%BC%EB%8D%B0-%EC%99%9C%EC%9E%90%EA%BE%B8-9%EC%B6%9C%EC%9D%B4-7%EA%B8%89%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%A7%90%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-oi7rv25b#458478720",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T22:38:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T13:38:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -514716,7 +514755,9 @@
         "4387278268",
         "4387289244",
         "4387314674",
-        "4387414819"
+        "4387414819",
+        "4387416997",
+        "4387417018"
       ]
     },
     "keep": "v2",
