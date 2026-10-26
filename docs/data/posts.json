@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T00:58:21+00:00",
+  "updatedAt": "2026-10-26T00:59:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -487453,6 +487453,65 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T00:58:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84414,
+      "source": "blind",
+      "externalId": "cmt-458389245",
+      "title": "ㅇㅇ 한 귀로 듣고 흘릴 듯 영자한테 하는 거 보면 나중엔 듣는 척도 안 할 거 같은데",
+      "excerpt": "영철은 정작 할 말은 안하네",
+      "author": "b***** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A0%95%EC%9E%91-%ED%95%A0-%EB%A7%90%EC%9D%80-%EC%95%88%ED%95%98%EB%84%A4-xfr3tvh5#458389245",
+      "postedLabel": "42분",
+      "postedAt": "2026-10-26T09:17:05+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T00:59:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84415,
+      "source": "blind",
+      "externalId": "cmt-458392652",
+      "title": "말이 많은것도 많은건데 일단 말도 재미없게 함. 개그랍시고 하는게 전부 썰렁함 ㅠ",
+      "excerpt": "영철은 정작 할 말은 안하네",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A0%95%EC%9E%91-%ED%95%A0-%EB%A7%90%EC%9D%80-%EC%95%88%ED%95%98%EB%84%A4-xfr3tvh5#458392652",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-26T09:57:05+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T00:59:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84416,
+      "source": "dc",
+      "externalId": "6620393",
+      "title": "이런애들도 남자가 데이트비용 전액부담함???",
+      "excerpt": "",
+      "author": "inspect2631",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620393&page=1",
+      "postedLabel": "09:58",
+      "postedAt": "2026-10-26T09:58:25+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T00:59:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -487533,7 +487592,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T09:56:05+09:00"
+      "slowAt": "2026-10-26T09:59:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -491383,7 +491442,8 @@
         "6620371",
         "6620376",
         "6620379",
-        "6620384"
+        "6620384",
+        "6620392"
       ]
     },
     "blind": {
