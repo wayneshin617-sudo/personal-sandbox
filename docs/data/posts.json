@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:39:27+00:00",
+  "updatedAt": "2026-10-26T03:40:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -491033,6 +491033,63 @@
       "firstSeenAt": "2026-10-26T03:39:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84595,
+      "source": "dc",
+      "externalId": "6620779",
+      "title": "영호 사랑에 푹 빠진 사진",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620779&page=1",
+      "postedLabel": "12:39",
+      "postedAt": "2026-10-26T12:39:27+09:00",
+      "views": 30,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:40:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84596,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EB%AC%B8%EB%B0%8D%EC%95%84%EC%9B%83-%EB%8B%B9%ED%96%88%EB%8B%A4%EC%B9%98%EA%B3%A0-%ED%98%84%EC%88%99%EC%9D%80-%ED%8C%90%EB%B0%95%EC%9D%B4%EB%9D%BC-n3ksx58s",
+      "title": "순자는 문밍아웃 당했다치고 현숙은 판박이라..",
+      "excerpt": "난 실시간으로 방송보면서 요즘 사람들, 방송가가 꽤나 열려있다고 생각했음 문신이 너무 적나라하게 드러나서. 근데 판박이라는 글이 올라왔네 안지워지는 판박이라.. 방송에 굳이..? 싶긴한데 이걸 또 망상병자취급하니..",
+      "author": "p*********",
+      "company": "고려대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EB%AC%B8%EB%B0%8D%EC%95%84%EC%9B%83-%EB%8B%B9%ED%96%88%EB%8B%A4%EC%B9%98%EA%B3%A0-%ED%98%84%EC%88%99%EC%9D%80-%ED%8C%90%EB%B0%95%EC%9D%B4%EB%9D%BC-n3ksx58s",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T12:40:07+09:00",
+      "views": 82,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T03:40:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84597,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EC%82%B0%EB%B3%91%EC%9B%90-%EA%B0%84%ED%98%B8%EC%82%AC%EB%93%A4-%EC%A0%95%EB%A7%90-%EC%A1%B4%EA%B2%BD%ED%95%98%EA%B3%A0%EC%9D%91%EC%9B%90%ED%95%B4%EC%9A%94-lf6qmc3n",
+      "title": "아산병원 간호사들 정말 존경하고응원해요",
+      "excerpt": "가족중에 아픈 사람 있어본 분들은 아실거에요. 특히 아산병원 의사, 간호사분들은 큰 의지가 되고 존경해요. 순자님 문신이야 프라이버시고 그거 싫은 남자는 어차피 안만날테니까 알아서들 하시겠죠 순자님 포함 아산 간호사님들, 의료진들 응원합니당^^",
+      "author": "사*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%82%B0%EB%B3%91%EC%9B%90-%EA%B0%84%ED%98%B8%EC%82%AC%EB%93%A4-%EC%A0%95%EB%A7%90-%EC%A1%B4%EA%B2%BD%ED%95%98%EA%B3%A0%EC%9D%91%EC%9B%90%ED%95%B4%EC%9A%94-lf6qmc3n",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T12:40:08+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T03:40:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -491113,7 +491170,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T12:37:08+09:00"
+      "slowAt": "2026-10-26T12:40:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -495060,7 +495117,8 @@
         "6620743",
         "6620752",
         "6620760",
-        "6620770"
+        "6620770",
+        "6620778"
       ]
     },
     "blind": {
