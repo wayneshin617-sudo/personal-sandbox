@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:30:43+00:00",
+  "updatedAt": "2026-10-26T11:31:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500810,6 +500810,25 @@
       "firstSeenAt": "2026-10-26T11:30:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85090,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%B8%EB%A7%8C%ED%95%98%EC%8B%9C%EC%A3%A0-j20ehd0n",
+      "title": "그만하시죠..",
+      "excerpt": "스토리에 올라온 거 봤는데 너무 힘들어보여 본인이 저기에 적힌 내용으로 전국민한테 조리돌림 당하고 있다 생각해봐 개인 간의 이슈는 개인끼리 풀면 되는거고, 안풀리면 서로 고소를 하든 손절을 하면 되는건데 상관 없는 사람들이 온라인으로 그러지말자ㅜ 진심으로 걱정돼",
+      "author": "i*********",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%A7%8C%ED%95%98%EC%8B%9C%EC%A3%A0-j20ehd0n",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:31:24+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T11:31:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -500934,7 +500953,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T20:28:24+09:00"
+      "slowAt": "2026-10-26T20:31:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -505198,7 +505217,8 @@
         "6622107",
         "6622110",
         "6622114",
-        "6622115"
+        "6622115",
+        "6622119"
       ]
     },
     "blind": {
