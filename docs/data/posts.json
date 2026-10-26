@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T15:14:31+00:00",
+  "updatedAt": "2026-10-26T15:15:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -506140,6 +506140,26 @@
       "firstSeenAt": "2026-10-26T15:14:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85360,
+      "source": "blind",
+      "externalId": "cmt-458493519",
+      "title": "애초에 릴스 내용이 우리보라고 만든건데 관심 안가져주면 팔계가 서운할것같아",
+      "excerpt": "관심 좀 꺼라, 본인 인생살아라는 인간들은",
+      "author": "i*********",
+      "company": "대우건설",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%80%EC%8B%AC-%EC%A2%80-%EA%BA%BC%EB%9D%BC-%EB%B3%B8%EC%9D%B8-%EC%9D%B8%EC%83%9D%EC%82%B4%EC%95%84%EB%9D%BC%EB%8A%94-%EC%9D%B8%EA%B0%84%EB%93%A4%EC%9D%80-7ignb6pq#458493519",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T00:15:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T15:15:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -506220,7 +506240,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T00:12:14+09:00"
+      "slowAt": "2026-10-27T00:15:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -510696,6 +510716,7 @@
         "6622849",
         "6622852",
         "6622858",
+        "6622859",
         "6622861",
         "6622862"
       ]
