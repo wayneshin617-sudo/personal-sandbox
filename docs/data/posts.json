@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T15:25:31+00:00",
+  "updatedAt": "2026-10-26T15:31:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -506219,6 +506219,45 @@
       "firstSeenAt": "2026-10-26T15:25:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85364,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B7%A8%EC%A4%91%EC%A7%84%EB%8C%AC-ezq08qv2",
+      "title": "취중진댬!!",
+      "excerpt": "184 3n 남자랑 통화해요!!",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B7%A8%EC%A4%91%EC%A7%84%EB%8C%AC-ezq08qv2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T00:31:15+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-26T15:31:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85365,
+      "source": "blind",
+      "externalId": "cmt-458495595",
+      "title": "저욤",
+      "excerpt": "취중진댬!!",
+      "author": "u****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B7%A8%EC%A4%91%EC%A7%84%EB%8C%AC-ezq08qv2#458495595",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T00:31:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T15:31:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -506344,7 +506383,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T00:28:15+09:00"
+      "slowAt": "2026-10-27T00:31:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -510790,7 +510829,8 @@
         "6622905",
         "6622914",
         "6622923",
-        "6622930"
+        "6622930",
+        "6622935"
       ]
     },
     "blind": {
@@ -513848,6 +513888,7 @@
         "/kr/post/%EC%B6%A4-%EC%A2%80-%EC%B6%94%EC%A7%80%EB%A7%88-f83imzfj",
         "/kr/post/%EC%B6%A9%EC%B2%AD%EB%8F%84-%ED%98%95%EB%93%A4-%EC%A6%89%EB%8B%B9%ED%9E%88-%ED%95%98%EC%87%BC-iaefhpcx",
         "/kr/post/%EC%B7%A8%EB%AF%B8%EB%A7%8E%EC%9C%BC%EB%A9%B4-y3gxpkam",
+        "/kr/post/%EC%B7%A8%EC%A4%91%EC%A7%84%EB%8C%AC-ezq08qv2",
         "/kr/post/%EC%B9%98%EA%B3%BC%EC%9D%98%EC%82%AC-vs-%EC%82%BC%EC%A0%84-%EB%B0%98%EB%8F%84%EC%B2%B4%EC%97%B0%EA%B5%AC%EC%86%8C-04aua287",
         "/kr/post/%EC%B9%98%EC%97%B4%ED%95%98%EB%8B%A4-%EB%B6%80%EC%97%8C-%EC%9F%81%ED%83%88%EC%A0%84-gqt3shdm",
         "/kr/post/%EC%B9%98%EC%A2%80-%EB%B0%94%EA%BF%94%EB%9D%BC-kfm0txu6",
