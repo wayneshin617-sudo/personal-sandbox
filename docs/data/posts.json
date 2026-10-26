@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T15:31:32+00:00",
+  "updatedAt": "2026-10-26T15:33:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -506258,6 +506258,26 @@
       "firstSeenAt": "2026-10-26T15:31:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85366,
+      "source": "blind",
+      "externalId": "cmt-458495881",
+      "title": "블라1026 ㄱㄱ",
+      "excerpt": "취중진댬!!",
+      "author": "l********* 작성자",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B7%A8%EC%A4%91%EC%A7%84%EB%8C%AC-ezq08qv2#458495881",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T00:33:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T15:33:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -506339,7 +506359,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T00:30:14+09:00"
+      "slowAt": "2026-10-27T00:33:15+09:00"
     },
     "ig": {
       "doneIds": [
@@ -510758,6 +510778,7 @@
         "6622459",
         "6622465",
         "6622468",
+        "6622475",
         "6622481",
         "6622483",
         "6622484",
@@ -510830,7 +510851,8 @@
         "6622914",
         "6622923",
         "6622930",
-        "6622935"
+        "6622935",
+        "6622938"
       ]
     },
     "blind": {
