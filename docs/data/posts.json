@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:56:23+00:00",
+  "updatedAt": "2026-10-26T03:58:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -491362,6 +491362,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T03:56:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84612,
+      "source": "blind",
+      "externalId": "cmt-458408867",
+      "title": "그럴리가 있나. 34기에 전문직도 없는데 뭔",
+      "excerpt": "31옥순 글 삭제됏넼",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EC%98%A5%EC%88%9C-%EA%B8%80-%EC%82%AD%EC%A0%9C%EB%90%8F%EB%84%BC-pozk0qui#458408867",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-26T12:45:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:58:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -491442,7 +491462,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T12:55:08+09:00"
+      "slowAt": "2026-10-26T12:58:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -501475,7 +501495,8 @@
         "4386748836",
         "4386755632",
         "4386757202",
-        "4386767493"
+        "4386767493",
+        "4386770608"
       ]
     },
     "keep": "v2",
