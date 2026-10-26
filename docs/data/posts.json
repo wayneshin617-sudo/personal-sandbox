@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:07:53+00:00",
+  "updatedAt": "2026-10-26T05:08:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -492864,6 +492864,65 @@
       "firstSeenAt": "2026-10-26T05:07:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84688,
+      "source": "qoo",
+      "externalId": "cmt-4386780728",
+      "title": "살면서 첨으로 그시간까지 라방을 봄",
+      "excerpt": "안잊혀질 것 같은데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386757202#4386780728",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T13:07:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:08:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84689,
+      "source": "dc",
+      "externalId": "6621009",
+      "title": "라방에서 a4용지만 없었어도 불쌍하다고 해줬을텐데",
+      "excerpt": "",
+      "author": "갈치얌ʕ••ʕ••ʔ",
+      "company": "",
+      "ip": "58.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621009&page=1",
+      "postedLabel": "14:08",
+      "postedAt": "2026-10-26T14:08:03+09:00",
+      "views": 10,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:08:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84690,
+      "source": "blind",
+      "externalId": "cmt-458416923",
+      "title": "누군데??",
+      "excerpt": "34기 출연자 부모 빚투",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%B6%80%EB%AA%A8-%EB%B9%9A%ED%88%AC-c440zmac#458416923",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:08:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:08:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -496954,7 +497013,8 @@
         "6620987",
         "6620993",
         "6620997",
-        "6621002"
+        "6621002",
+        "6621006"
       ]
     },
     "blind": {
