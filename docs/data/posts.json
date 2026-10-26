@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:30:53+00:00",
+  "updatedAt": "2026-10-26T05:31:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -493179,6 +493179,25 @@
       "firstSeenAt": "2026-10-26T05:30:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84704,
+      "source": "dc",
+      "externalId": "6621067",
+      "title": "싸우면 누가이길까 18호 vs 바드",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621067&page=1",
+      "postedLabel": "14:31",
+      "postedAt": "2026-10-26T14:31:08+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:31:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -493302,7 +493321,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T14:28:36+09:00"
+      "slowAt": "2026-10-26T14:31:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -497217,6 +497236,7 @@
         "6620736",
         "6620740",
         "6620743",
+        "6620745",
         "6620749",
         "6620752",
         "6620760",
@@ -497293,7 +497313,8 @@
         "6621046",
         "6621049",
         "6621051",
-        "6621056"
+        "6621056",
+        "6621063"
       ]
     },
     "blind": {
