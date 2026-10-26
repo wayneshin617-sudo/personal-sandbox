@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T10:54:42+00:00",
+  "updatedAt": "2026-10-26T10:55:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -500143,6 +500143,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T10:54:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85056,
+      "source": "qoo",
+      "externalId": "cmt-4387101386",
+      "title": "난 오히려 기수 붙이는게 낫더라 네이버에 검색해서 찾아봐서 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "이젠 하도 기수가 많으니까 xx기 영숙, xx기 영호 이러면 뇌정지 오네 ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386939200#4387101386",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T18:44:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:55:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85057,
+      "source": "qoo",
+      "externalId": "4387189129",
+      "title": "전애인이 나랑 하던 럽스타 안 지우고 있으면 소름일 듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4387189129",
+      "postedLabel": "19:54",
+      "postedAt": "2026-10-26T19:54:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T10:55:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -500267,7 +500306,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T19:52:24+09:00"
+      "slowAt": "2026-10-26T19:55:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -504492,7 +504531,9 @@
         "6621940",
         "6621944",
         "6621945",
-        "6621960"
+        "6621960",
+        "6621972",
+        "6621978"
       ]
     },
     "blind": {
@@ -504719,6 +504760,7 @@
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EB%B2%88-%EB%8B%A4%EB%91%A5%EC%9D%B4-%ED%8A%B9%EC%A7%91%EC%9D%80-%EB%A7%90%EB%A7%8C-%EB%8B%A4%EB%91%A5%EC%9D%B4%EA%B3%A0-guxpsr3i",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%95%EC%88%99%EC%95%84-%EA%B7%B8%EA%B1%B8-%EC%84%A0%ED%83%9D%ED%95%98%EA%B3%A0%EB%82%98%EC%84%9C-%EA%B9%A8%EB%8B%AB%EB%8A%94-%EA%B1%B0%EB%8A%94-gy7u8sp3",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A3%BC%EB%B3%80%EC%97%90-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8E%EC%95%84-ylp1pr7q",
+        "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A7%84%EC%A7%9C-%EC%9D%B4%ED%95%B4-%EC%95%88%EB%8F%BC%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%9D%B4%EB%B2%88-%EC%9D%BC-%EC%83%81%EB%8C%80%EC%97%90%EA%B2%8C-%EC%82%AC%EA%B3%BC%EB%A7%8C-%ED%95%98%EB%A9%B4-%EB%90%98%EC%A7%80%EC%95%8A%EB%82%98-eti8tjmy",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A7%84%EC%A7%9C-%EC%9E%91%EC%9D%80-%EB%B3%84%EB%AA%A8%EC%96%91-%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%82%98-%EB%A0%88%ED%84%B0%EB%A7%81%EB%AC%B8%EC%8B%A0%EB%8F%84-%EC%8B%AB%EC%96%B4-cfweaosu",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%B2%AB%EC%9D%B8%EC%83%81%EC%9D%84-%EB%AF%B8%EB%A6%AC-%EB%BD%91%EC%95%84%EB%86%93%EB%8A%94%EA%B1%B0%EC%95%BC-6amddhq3",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%B4%88%EC%A4%91%EA%B3%A0%EB%8C%80%ED%95%99%EA%B5%90-%EB%82%98%EC%99%80%EC%84%9C-%EC%A7%81%EC%9E%A5%EC%83%9D%ED%99%9C%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%A4%91%EC%97%90-a51eywgx",
@@ -510660,7 +510702,8 @@
         "4387121594",
         "4387134003",
         "4387138408",
-        "4387184728"
+        "4387184728",
+        "4387189129"
       ]
     },
     "keep": "v2",
