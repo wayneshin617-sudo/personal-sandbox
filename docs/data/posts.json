@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T14:12:21+00:00",
+  "updatedAt": "2026-10-26T14:14:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -504937,6 +504937,44 @@
       "firstSeenAt": "2026-10-26T14:12:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85299,
+      "source": "qoo",
+      "externalId": "4387458339",
+      "title": "엠씨들 재밌어ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4387458339",
+      "postedLabel": "23:13",
+      "postedAt": "2026-10-26T23:13:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:14:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85300,
+      "source": "dc",
+      "externalId": "6622638",
+      "title": "싸우면 누가이길까 릭 산체스 vs 비루스",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622638&page=1",
+      "postedLabel": "23:14",
+      "postedAt": "2026-10-26T23:14:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T14:14:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -509416,6 +509454,7 @@
         "6622401",
         "6622407",
         "6622412",
+        "6622418",
         "6622419",
         "6622420",
         "6622422",
@@ -509444,7 +509483,8 @@
         "6622589",
         "6622599",
         "6622612",
-        "6622616"
+        "6622616",
+        "6622635"
       ]
     },
     "blind": {
@@ -515682,7 +515722,8 @@
         "4387418466",
         "4387423444",
         "4387426173",
-        "4387445987"
+        "4387445987",
+        "4387458339"
       ]
     },
     "keep": "v2",
