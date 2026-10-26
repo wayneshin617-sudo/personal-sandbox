@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T09:33:43+00:00",
+  "updatedAt": "2026-10-26T09:34:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -498769,6 +498769,26 @@
       "firstSeenAt": "2026-10-26T09:33:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84986,
+      "source": "qoo",
+      "externalId": "cmt-4387034058",
+      "title": "@1 그니까 오열까지 해놓고 ㅋㅋ",
+      "excerpt": "더 멀리 날아갈 수 있도록 응원해 줘서 감사하다며",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386968202#4387034058",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T17:34:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:34:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -498893,7 +498913,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T18:31:27+09:00"
+      "slowAt": "2026-10-26T18:34:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -503067,7 +503087,8 @@
         "6621690",
         "6621698",
         "6621701",
-        "6621703"
+        "6621703",
+        "6621709"
       ]
     },
     "blind": {
