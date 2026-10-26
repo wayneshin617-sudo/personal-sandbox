@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:38:23+00:00",
+  "updatedAt": "2026-10-26T03:39:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -490993,6 +490993,46 @@
       "comments": 1,
       "firstSeenAt": "2026-10-26T03:38:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84593,
+      "source": "blind",
+      "externalId": "cmt-458404485",
+      "title": "성격이 똑같다며;; 직장용 성격 따로있음??",
+      "excerpt": "나는 솔로 34기 보면서",
+      "author": "l******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-34%EA%B8%B0-%EB%B3%B4%EB%A9%B4%EC%84%9C-byaiy002#458404485",
+      "postedLabel": "38분",
+      "postedAt": "2026-10-26T12:01:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:39:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84594,
+      "source": "blind",
+      "externalId": "cmt-458406478",
+      "title": "아유 답답한 공무들 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋ 좀 대충 말하면 알아들어라",
+      "excerpt": "나는 솔로 34기 보면서",
+      "author": "새******* 작성자",
+      "company": "아워홈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-34%EA%B8%B0-%EB%B3%B4%EB%A9%B4%EC%84%9C-byaiy002#458406478",
+      "postedLabel": "16분",
+      "postedAt": "2026-10-26T12:23:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:39:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -494996,6 +495036,7 @@
         "6620591",
         "6620594",
         "6620601",
+        "6620602",
         "6620604",
         "6620607",
         "6620611",
