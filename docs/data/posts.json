@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:52:26+00:00",
+  "updatedAt": "2026-10-26T03:54:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -491282,6 +491282,45 @@
       "recommends": 15,
       "comments": null,
       "firstSeenAt": "2026-10-26T03:52:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84608,
+      "source": "dc",
+      "externalId": "6620809",
+      "title": "나 당신을 사랑하게 되어",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6620809&page=1",
+      "postedLabel": "12:53",
+      "postedAt": "2026-10-26T12:53:29+09:00",
+      "views": 14,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:54:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84609,
+      "source": "blind",
+      "externalId": "cmt-458409833",
+      "title": "맨아래 왼쪽사진은 봐도봐도 신기해",
+      "excerpt": "사실 저희 둘 사겨요",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EC%8B%A4-%EC%A0%80%ED%9D%AC-%EB%91%98-%EC%82%AC%EA%B2%A8%EC%9A%94-os5kg5ep#458409833",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T12:54:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T03:54:25+00:00",
       "isSeed": false,
       "kind": "reply"
     }
