@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T01:40:22+00:00",
+  "updatedAt": "2026-10-26T01:42:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -488223,6 +488223,26 @@
       "firstSeenAt": "2026-10-26T01:40:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84453,
+      "source": "blind",
+      "externalId": "cmt-458397005",
+      "title": "해어진거래??",
+      "excerpt": "헤어진 여자 친구가 과거 사진 올려대는건 정병인가",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%97%A4%EC%96%B4%EC%A7%84-%EC%97%AC%EC%9E%90-%EC%B9%9C%EA%B5%AC%EA%B0%80-%EA%B3%BC%EA%B1%B0-%EC%82%AC%EC%A7%84-%EC%98%AC%EB%A0%A4%EB%8C%80%EB%8A%94%EA%B1%B4-%EC%A0%95%EB%B3%91%EC%9D%B8%EA%B0%80-rrvk6qa2#458397005",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T10:42:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T01:42:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -488346,7 +488366,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T10:39:05+09:00"
+      "slowAt": "2026-10-26T10:42:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -492177,7 +492197,8 @@
         "6620458",
         "6620460",
         "6620464",
-        "6620475"
+        "6620475",
+        "6620479"
       ]
     },
     "blind": {
@@ -495243,6 +495264,7 @@
         "/kr/post/%ED%97%8C%ED%8C%85%ED%8F%AC%EC%B0%A8%EC%8A%A4%ED%83%80%EC%9D%BC-nzeuqbsl",
         "/kr/post/%ED%97%90-%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-%EB%82%98%EC%98%A4%EB%84%A4-uxecy1f8",
         "/kr/post/%ED%97%90-%EC%98%81%EC%88%99%EC%A1%B0%EC%B9%B4-382oym2v",
+        "/kr/post/%ED%97%A4%EC%96%B4%EC%A7%84-%EC%97%AC%EC%9E%90-%EC%B9%9C%EA%B5%AC%EA%B0%80-%EA%B3%BC%EA%B1%B0-%EC%82%AC%EC%A7%84-%EC%98%AC%EB%A0%A4%EB%8C%80%EB%8A%94%EA%B1%B4-%EC%A0%95%EB%B3%91%EC%9D%B8%EA%B0%80-rrvk6qa2",
         "/kr/post/%ED%98%80%EA%B0%80-%EA%B8%B8%EB%8B%A4-%EC%98%81%EC%B2%A0%EC%95%84-gkfufxqw",
         "/kr/post/%ED%98%84%EC%88%99%EA%B0%99%EC%9D%80-%EC%97%AC%EC%9E%90-%EB%A7%8C%EB%82%98%EB%B4%A4%EB%8A%94%EB%8D%B0-%ED%9E%98%EB%93%A6-2iow3t86",
         "/kr/post/%ED%98%84%EC%88%99%EB%88%84%EB%8B%98-%EC%BB%A4%ED%94%BC%EB%A5%BC-%EB%84%88%EB%AC%B4-%EB%93%9C%EC%85%A8%EB%82%98-tnm7ztlu",
