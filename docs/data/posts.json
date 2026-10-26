@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T02:38:26+00:00",
+  "updatedAt": "2026-10-26T02:39:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -489846,6 +489846,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T02:38:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84535,
+      "source": "qoo",
+      "externalId": "cmt-4386632616",
+      "title": "보통 한의사라고 하지 않아..?",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386632616",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T10:38:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T02:39:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84536,
+      "source": "blind",
+      "externalId": "cmt-458399797",
+      "title": "약간 대학생때 친구 많은 티내는 복학생느낌이.. 막 경계할 타입은 아닌듯. 의도가 눈에 훤히 보임",
+      "excerpt": "영철 그냥",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B7%B8%EB%83%A5-8i6ji4qs#458399797",
+      "postedLabel": "29분",
+      "postedAt": "2026-10-26T11:10:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T02:39:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84537,
+      "source": "blind",
+      "externalId": "cmt-458401193",
+      "title": "ㅋㅋㅋㅋㅋ그런 행동을 안하면 사람이 더 진중해보이고 괜찮아보일텐데 본인만 몰라 ㅠㅠ",
+      "excerpt": "영철 그냥",
+      "author": "i*******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B7%B8%EB%83%A5-8i6ji4qs#458401193",
+      "postedLabel": "14분",
+      "postedAt": "2026-10-26T11:25:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T02:39:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -493833,7 +493893,8 @@
         "6620585",
         "6620586",
         "6620588",
-        "6620591"
+        "6620591",
+        "6620601"
       ]
     },
     "blind": {
