@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T05:14:53+00:00",
+  "updatedAt": "2026-10-26T05:15:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -492983,6 +492983,45 @@
       "firstSeenAt": "2026-10-26T05:14:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84694,
+      "source": "dc",
+      "externalId": "6621024",
+      "title": "잘생겼으면 셔츠 단추 5개 까지 풀어도 되나",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621024&page=1",
+      "postedLabel": "14:14",
+      "postedAt": "2026-10-26T14:14:45+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:15:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84695,
+      "source": "blind",
+      "externalId": "cmt-458417617",
+      "title": "그건 안밝혀졌어 그냥 누군가라고만 나오고",
+      "excerpt": "34기 출연자 부모 빚투",
+      "author": "h***",
+      "company": "해비치호텔&리조트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%B6%80%EB%AA%A8-%EB%B9%9A%ED%88%AC-c440zmac#458417617",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T14:15:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T05:15:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -493063,7 +493102,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T14:12:35+09:00"
+      "slowAt": "2026-10-26T14:15:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -497079,7 +497118,9 @@
         "6621002",
         "6621006",
         "6621009",
-        "6621011"
+        "6621011",
+        "6621013",
+        "6621022"
       ]
     },
     "blind": {
