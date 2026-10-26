@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T04:54:51+00:00",
+  "updatedAt": "2026-10-26T04:55:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -492548,6 +492548,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T04:54:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84672,
+      "source": "qoo",
+      "externalId": "cmt-4386765937",
+      "title": "새벽이라 실수같음. 찐 결혼이면 반지나 샵화장받은거라도 올렸겠지",
+      "excerpt": "아니 신기한게 그냥 조용히 결혼하든가 만나든가하면 알빠임?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386748836#4386765937",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T12:54:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:55:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84673,
+      "source": "qoo",
+      "externalId": "cmt-4386767235",
+      "title": "진심 최악",
+      "excerpt": "안잊혀질 것 같은데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386757202#4386767235",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T12:55:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:55:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84674,
+      "source": "blind",
+      "externalId": "cmt-458415065",
+      "title": "좀 있다",
+      "excerpt": "순자 심은우 닮지않음?",
+      "author": "i*****",
+      "company": "ex-공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%8B%AC%EC%9D%80%EC%9A%B0-%EB%8B%AE%EC%A7%80%EC%95%8A%EC%9D%8C-sc8m1rrz#458415065",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-26T13:50:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:55:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -492671,7 +492731,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T13:52:35+09:00"
+      "slowAt": "2026-10-26T13:55:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -496629,7 +496689,8 @@
         "6620945",
         "6620948",
         "6620950",
-        "6620964"
+        "6620964",
+        "6620967"
       ]
     },
     "blind": {
