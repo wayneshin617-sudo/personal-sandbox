@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T04:16:27+00:00",
+  "updatedAt": "2026-10-26T04:17:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -491718,6 +491718,25 @@
       "firstSeenAt": "2026-10-26T04:16:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84630,
+      "source": "qoo",
+      "externalId": "4386790431",
+      "title": "방송 끝난지 오래됐는데 그동안 목격담이 없었던 것도 신기하다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4386790431",
+      "postedLabel": "13:16",
+      "postedAt": "2026-10-26T13:16:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T04:17:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -491841,7 +491860,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T13:14:08+09:00"
+      "slowAt": "2026-10-26T13:17:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -501850,7 +501869,8 @@
         "4386767493",
         "4386770608",
         "4386779713",
-        "4386784075"
+        "4386784075",
+        "4386790431"
       ]
     },
     "keep": "v2",
