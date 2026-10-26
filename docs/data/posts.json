@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T16:05:32+00:00",
+  "updatedAt": "2026-10-26T16:17:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -506532,6 +506532,26 @@
       "firstSeenAt": "2026-10-26T16:05:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85380,
+      "source": "dc",
+      "externalId": "cmt-10974031",
+      "title": "4월임",
+      "excerpt": "최근 인생네컷 보면 영호 팔이 반팔부위만 안탔던데",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623063&page=1#cmt_10974031",
+      "postedLabel": "10.27 01:16:36",
+      "postedAt": "2026-10-27T01:16:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T16:17:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -511130,7 +511150,8 @@
         "6623043",
         "6623052",
         "6623053",
-        "6623056"
+        "6623056",
+        "6623063"
       ]
     },
     "blind": {
