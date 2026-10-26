@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T02:39:25+00:00",
+  "updatedAt": "2026-10-26T02:40:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -489906,6 +489906,26 @@
       "firstSeenAt": "2026-10-26T02:39:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84538,
+      "source": "qoo",
+      "externalId": "cmt-4386633681",
+      "title": "의사가 아님 뭔데",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386633681",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T10:39:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T02:40:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -489986,7 +490006,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T11:37:08+09:00"
+      "slowAt": "2026-10-26T11:40:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -493894,7 +493914,8 @@
         "6620586",
         "6620588",
         "6620591",
-        "6620601"
+        "6620601",
+        "6620604"
       ]
     },
     "blind": {
