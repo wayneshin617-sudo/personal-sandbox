@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T06:55:51+00:00",
+  "updatedAt": "2026-10-26T06:57:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -495502,6 +495502,106 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T06:55:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84821,
+      "source": "qoo",
+      "externalId": "cmt-4386888595",
+      "title": "생각보다 큰 덩치는 아니던데 몸 좋더라",
+      "excerpt": "숙교수 격투기선수랑 사귀는거 맞구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386875063#4386888595",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T14:57:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:57:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84822,
+      "source": "blind",
+      "externalId": "cmt-458422720",
+      "title": "ㅋㅋㅋㅋ 그만 때려~~",
+      "excerpt": "공무원들 급수 기준",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EB%93%A4-%EA%B8%89%EC%88%98-%EA%B8%B0%EC%A4%80-68o6srpi#458422720",
+      "postedLabel": "50분",
+      "postedAt": "2026-10-26T15:07:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:57:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84823,
+      "source": "blind",
+      "externalId": "cmt-458422952",
+      "title": "넌 군대에서 이등병출신 병장입니다 이렇게 말함? 아 군대 안갔다왔지?",
+      "excerpt": "공무원들 급수 기준",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EB%93%A4-%EA%B8%89%EC%88%98-%EA%B8%B0%EC%A4%80-68o6srpi#458422952",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-26T15:09:35+09:00",
+      "views": null,
+      "recommends": 7,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:57:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84824,
+      "source": "blind",
+      "externalId": "cmt-458423606",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "공무원들 급수 기준",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EB%93%A4-%EA%B8%89%EC%88%98-%EA%B8%B0%EC%A4%80-68o6srpi#458423606",
+      "postedLabel": "41분",
+      "postedAt": "2026-10-26T15:16:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:57:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84825,
+      "source": "blind",
+      "externalId": "cmt-458424109",
+      "title": "님 어디가서 사원시작 현재 과장이에요 이롬?",
+      "excerpt": "공무원들 급수 기준",
+      "author": "o*****",
+      "company": "엔테크서비스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EB%93%A4-%EA%B8%89%EC%88%98-%EA%B8%B0%EC%A4%80-68o6srpi#458424109",
+      "postedLabel": "36분",
+      "postedAt": "2026-10-26T15:21:35+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T06:57:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -495582,7 +495682,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T15:54:35+09:00"
+      "slowAt": "2026-10-26T15:57:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -499682,7 +499782,8 @@
         "6621250",
         "6621251",
         "6621253",
-        "6621255"
+        "6621255",
+        "6621267"
       ]
     },
     "blind": {
