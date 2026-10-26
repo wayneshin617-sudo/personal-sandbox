@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T01:30:21+00:00",
+  "updatedAt": "2026-10-26T01:32:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -488064,6 +488064,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-26T01:30:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 84445,
+      "source": "qoo",
+      "externalId": "cmt-4386577369",
+      "title": "그럼 환자라고 해?",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386577369",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T09:32:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T01:32:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 84446,
+      "source": "qoo",
+      "externalId": "cmt-4386577485",
+      "title": "그럼 뭐라고 함..?",
+      "excerpt": "한의사들이 자기 스스로 '의사'라고 칭하는 거 너무 싫어",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4386529581#4386577485",
+      "postedLabel": "",
+      "postedAt": "2026-10-26T09:32:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T01:32:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -488144,7 +488184,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T10:29:05+09:00"
+      "slowAt": "2026-10-26T10:32:04+09:00"
     },
     "ig": {
       "doneIds": [
