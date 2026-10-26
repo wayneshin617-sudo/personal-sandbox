@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T10:58:42+00:00",
+  "updatedAt": "2026-10-26T11:00:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500280,6 +500280,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-26T10:58:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85063,
+      "source": "blind",
+      "externalId": "cmt-458454245",
+      "title": "여기 아무도 모르는데 뭘 맞음? 이러고 있냐",
+      "excerpt": "그니까 옥팔계가 지금 영호한테 헤일메리 던진거?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%8B%88%EA%B9%8C-%EC%98%A5%ED%8C%94%EA%B3%84%EA%B0%80-%EC%A7%80%EA%B8%88-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%ED%97%A4%EC%9D%BC%EB%A9%94%EB%A6%AC-%EB%8D%98%EC%A7%84%EA%B1%B0-3rj3bc3b#458454245",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T20:00:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:00:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -500360,7 +500380,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T19:57:24+09:00"
+      "slowAt": "2026-10-26T20:00:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -504636,7 +504656,8 @@
         "6621982",
         "6621983",
         "6621985",
-        "6621992"
+        "6621992",
+        "6622006"
       ]
     },
     "blind": {
