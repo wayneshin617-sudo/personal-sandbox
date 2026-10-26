@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T09:13:44+00:00",
+  "updatedAt": "2026-10-26T09:15:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -498533,6 +498533,44 @@
       "firstSeenAt": "2026-10-26T09:13:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84974,
+      "source": "dc",
+      "externalId": "6621631",
+      "title": "싸우면 누가이길까 종건 vs 무사시",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621631&page=1",
+      "postedLabel": "18:14",
+      "postedAt": "2026-10-26T18:14:36+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:15:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 84975,
+      "source": "dc",
+      "externalId": "6621633",
+      "title": "잃을거 없는 애들은 겁날게 없지",
+      "excerpt": "",
+      "author": "해갤러",
+      "company": "",
+      "ip": "61.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6621633&page=1",
+      "postedLabel": "18:14",
+      "postedAt": "2026-10-26T18:14:44+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T09:15:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -498613,7 +498651,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T18:12:27+09:00"
+      "slowAt": "2026-10-26T18:15:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -502811,7 +502849,9 @@
         "6621611",
         "6621615",
         "6621620",
-        "6621621"
+        "6621621",
+        "6621627",
+        "6621628"
       ]
     },
     "blind": {
