@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T11:32:41+00:00",
+  "updatedAt": "2026-10-26T11:33:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -500889,6 +500889,25 @@
       "firstSeenAt": "2026-10-26T11:32:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85094,
+      "source": "dc",
+      "externalId": "6622144",
+      "title": "싸우면 누가이길까 박하얀 vs 데드풀",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6622144&page=1",
+      "postedLabel": "20:33",
+      "postedAt": "2026-10-26T20:33:07+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-26T11:33:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -500969,7 +500988,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-26T20:30:24+09:00"
+      "slowAt": "2026-10-26T20:33:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -505280,7 +505299,8 @@
         "6622114",
         "6622115",
         "6622119",
-        "6622134"
+        "6622134",
+        "6622136"
       ]
     },
     "blind": {
