@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-26T03:55:26+00:00",
+  "updatedAt": "2026-10-26T03:56:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -491343,6 +491343,25 @@
       "firstSeenAt": "2026-10-26T03:55:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 84611,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%9A%8C%EC%82%AC%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9E%87%EB%8A%94%EC%82%AC%EB%9E%8C-%EA%B1%B4%EB%84%88%EA%B1%B4%EB%84%88-%ED%91%9C%ED%98%84%ED%95%98%EB%A9%B4-z388gaa1",
+      "title": "회사에 관심잇는사람 건너건너 표현하면",
+      "excerpt": "나 여자고 상대방 남잔데 오다가다 뵙다가 관심잇어서 말은 못하고 같은팀 분한테 그분 한테 관심잇다고 말하면 싫어 하실려나..? 근데 근무 지역이 달라.. 아에 ..",
+      "author": "s*****",
+      "company": "세정",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EC%82%AC%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9E%87%EB%8A%94%EC%82%AC%EB%9E%8C-%EA%B1%B4%EB%84%88%EA%B1%B4%EB%84%88-%ED%91%9C%ED%98%84%ED%95%98%EB%A9%B4-z388gaa1",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-26T12:56:08+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-26T03:56:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -491466,7 +491485,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-26T12:53:08+09:00"
+      "slowAt": "2026-10-26T12:56:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -501454,7 +501473,8 @@
         "4386746993",
         "4386748836",
         "4386755632",
-        "4386757202"
+        "4386757202",
+        "4386767493"
       ]
     },
     "keep": "v2",
