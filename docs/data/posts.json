@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T00:45:28+00:00",
+  "updatedAt": "2026-10-27T00:46:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -508282,6 +508282,64 @@
       "firstSeenAt": "2026-10-27T00:45:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85469,
+      "source": "blind",
+      "externalId": "cmt-458526964",
+      "title": "위로?",
+      "excerpt": "8살 많은 사람한테 관심이",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/8%EC%82%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%ED%95%9C%ED%85%8C-%EA%B4%80%EC%8B%AC%EC%9D%B4-73gsqq0x#458526964",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-27T09:44:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:46:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85470,
+      "source": "dc",
+      "externalId": "6623562",
+      "title": "이거 ai가 글쓰는거 같다",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623562&page=1",
+      "postedLabel": "09:45",
+      "postedAt": "2026-10-27T09:45:17+09:00",
+      "views": 15,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:46:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85471,
+      "source": "dc",
+      "externalId": "6623563",
+      "title": "상위입지 서울 주요 부동산 아파트하락률 체크",
+      "excerpt": "",
+      "author": "many",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623563&page=1",
+      "postedLabel": "09:45",
+      "postedAt": "2026-10-27T09:45:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:46:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
