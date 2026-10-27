@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:25:30+00:00",
+  "updatedAt": "2026-10-27T03:26:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -510142,6 +510142,46 @@
       "firstSeenAt": "2026-10-27T03:25:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85563,
+      "source": "blind",
+      "externalId": "cmt-458543251",
+      "title": "영철(X) 영자",
+      "excerpt": "34기 한의사 영철님이요",
+      "author": "k*****",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk#458543251",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:26:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:26:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85564,
+      "source": "blind",
+      "externalId": "cmt-458543222",
+      "title": "왠지 블라인드 꾸게 만남만도 못한 그런 거일 거 같아요",
+      "excerpt": "34기 한의사 영철님이요",
+      "author": "딜** 작성자",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk#458543222",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:26:14+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:26:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510223,7 +510263,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T12:23:13+09:00"
+      "slowAt": "2026-10-27T12:26:14+09:00"
     },
     "ig": {
       "doneIds": [
