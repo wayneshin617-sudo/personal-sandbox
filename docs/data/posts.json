@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:28:29+00:00",
+  "updatedAt": "2026-10-27T03:29:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -510261,6 +510261,46 @@
       "firstSeenAt": "2026-10-27T03:28:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85569,
+      "source": "blind",
+      "externalId": "cmt-458543454",
+      "title": "진짜 비공개 속도 너무 빨라 뭔가 시스템이 있나???",
+      "excerpt": "신고 개빠름 (주어없음)",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%A0%EA%B3%A0-%EA%B0%9C%EB%B9%A0%EB%A6%84-%EC%A3%BC%EC%96%B4%EC%97%86%EC%9D%8C-vmzarid8#458543454",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:29:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:29:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85570,
+      "source": "blind",
+      "externalId": "cmt-458543532",
+      "title": "특정주제 키워드면 신고 한명만 해도 비공개 처리된다더라 나도 비슷한 경우 두번 있었음 글 거의 쓰지도 않는데",
+      "excerpt": "신고 개빠름 (주어없음)",
+      "author": "m******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%A0%EA%B3%A0-%EA%B0%9C%EB%B9%A0%EB%A6%84-%EC%A3%BC%EC%96%B4%EC%97%86%EC%9D%8C-vmzarid8#458543532",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:29:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:29:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510342,7 +510382,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T12:26:14+09:00"
+      "slowAt": "2026-10-27T12:29:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -515073,7 +515113,8 @@
         "6623884",
         "6623894",
         "6623897",
-        "6623907"
+        "6623907",
+        "6623912"
       ]
     },
     "blind": {
