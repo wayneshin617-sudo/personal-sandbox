@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:45:29+00:00",
+  "updatedAt": "2026-10-27T03:46:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -510380,6 +510380,45 @@
       "firstSeenAt": "2026-10-27T03:45:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85575,
+      "source": "qoo",
+      "externalId": "4387871009",
+      "title": "나는 인스타 수정전 시간이랑 커뮤에 퍼진 시간이 같단 말이 있어서",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4387871009",
+      "postedLabel": "12:46",
+      "postedAt": "2026-10-27T12:46:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:46:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85576,
+      "source": "blind",
+      "externalId": "cmt-458545326",
+      "title": "자기자신을 팜므파탈로 보이고싶어서 지가 지입으로 더 말하는거 같던데ㅋㅋㅋㄲ",
+      "excerpt": "옥팔계는 항상 이런식",
+      "author": "i********",
+      "company": "LS전선",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%ED%8C%94%EA%B3%84%EB%8A%94-%ED%95%AD%EC%83%81-%EC%9D%B4%EB%9F%B0%EC%8B%9D-055p2e8h#458545326",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:46:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:46:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -521521,7 +521560,8 @@
         "4387627086",
         "4387633904",
         "4387731855",
-        "4387785563"
+        "4387785563",
+        "4387871009"
       ]
     },
     "keep": "v2",
