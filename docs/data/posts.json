@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:37:30+00:00",
+  "updatedAt": "2026-10-27T03:42:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -510340,6 +510340,26 @@
       "firstSeenAt": "2026-10-27T03:37:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85573,
+      "source": "dc",
+      "externalId": "cmt-10975019",
+      "title": "뭐노 존나이쁘노 ㄷㄷ",
+      "excerpt": "유일하게 결혼하고 행복해보이는 커플 근황 ㄷㄷㄷㄷㄷㄷㄷ",
+      "author": "도르댕댕",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623952&page=1#cmt_10975019",
+      "postedLabel": "10.27 12:42:17",
+      "postedAt": "2026-10-27T12:42:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:42:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510465,7 +510485,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T12:39:14+09:00"
+      "slowAt": "2026-10-27T12:42:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -515110,6 +515130,7 @@
         "6623675",
         "6623680",
         "6623682",
+        "6623683",
         "6623689",
         "6623691",
         "6623701",
