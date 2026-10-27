@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:06:29+00:00",
+  "updatedAt": "2026-10-27T04:13:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -510671,6 +510671,46 @@
       "firstSeenAt": "2026-10-27T04:06:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85590,
+      "source": "blind",
+      "externalId": "cmt-458547971",
+      "title": "근데 둘이 너무 안어울려서 ㅋㅋ",
+      "excerpt": "근데 34기 정숙이는",
+      "author": "l********",
+      "company": "딜로이트안진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0-%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-wiqhrvy3#458547971",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-27T13:07:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:13:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85591,
+      "source": "blind",
+      "externalId": "cmt-458547908",
+      "title": "아니 뭐 지원버튼도 못 눌러?",
+      "excerpt": "근데 34기 정숙이는",
+      "author": "o*****",
+      "company": "한국팜비오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0-%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-wiqhrvy3#458547908",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-27T13:08:00+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:13:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510752,7 +510792,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T13:05:14+09:00"
+      "slowAt": "2026-10-27T13:13:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -515489,6 +515529,7 @@
         "6623859",
         "6623868",
         "6623874",
+        "6623875",
         "6623879",
         "6623882",
         "6623884",
@@ -515517,7 +515558,9 @@
         "6624004",
         "6624006",
         "6624010",
-        "6624023"
+        "6624023",
+        "6624039",
+        "6624041"
       ]
     },
     "blind": {
@@ -521832,7 +521875,8 @@
         "4387633904",
         "4387731855",
         "4387785563",
-        "4387871009"
+        "4387871009",
+        "4387888936"
       ]
     },
     "keep": "v2",
