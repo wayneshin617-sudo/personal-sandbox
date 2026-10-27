@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T00:27:27+00:00",
+  "updatedAt": "2026-10-27T00:28:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -508027,6 +508027,45 @@
       "firstSeenAt": "2026-10-27T00:27:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85456,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EA%B1%B0-%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B0%9C-%EC%9E%91%EC%97%85-%EA%B0%99%EC%A7%80-epvk062h",
+      "title": "이거 왜이렇개 작업 같지",
+      "excerpt": "추척 60분 보니까 4만원만 주면 조회수 10만에 리플 100개 써준다는데 아이디나 워딩 엄청 비슷하네",
+      "author": "장*****",
+      "company": "NEOPLE",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EA%B1%B0-%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B0%9C-%EC%9E%91%EC%97%85-%EA%B0%99%EC%A7%80-epvk062h",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T09:28:10+09:00",
+      "views": 22,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-27T00:28:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85457,
+      "source": "blind",
+      "externalId": "cmt-458525344",
+      "title": "글로리단 시종하던분",
+      "excerpt": "31변호사상철",
+      "author": "l*********",
+      "company": "아주대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EB%B3%80%ED%98%B8%EC%82%AC%EC%83%81%EC%B2%A0-mka7hqzz#458525344",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T09:28:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:28:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -512716,6 +512755,7 @@
         "6623458",
         "6623460",
         "6623461",
+        "6623462",
         "6623465",
         "6623476",
         "6623483",
@@ -512729,7 +512769,8 @@
         "6623526",
         "6623528",
         "6623529",
-        "6623534"
+        "6623534",
+        "6623539"
       ]
     },
     "blind": {
