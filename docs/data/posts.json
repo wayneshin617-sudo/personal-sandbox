@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T00:09:27+00:00",
+  "updatedAt": "2026-10-27T00:12:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -507868,6 +507868,46 @@
       "firstSeenAt": "2026-10-27T00:09:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85448,
+      "source": "blind",
+      "externalId": "cmt-458523690",
+      "title": "dm 보내봐",
+      "excerpt": "옥순 진짜로 전남친이랑 6년 사귄게 맞아?",
+      "author": "조*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%A7%84%EC%A7%9C%EB%A1%9C-%EC%A0%84%EB%82%A8%EC%B9%9C%EC%9D%B4%EB%9E%91-6%EB%85%84-%EC%82%AC%EA%B7%84%EA%B2%8C-%EB%A7%9E%EC%95%84-pomzb1yz#458523690",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-27T09:11:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:12:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85449,
+      "source": "dc",
+      "externalId": "cmt-10974440",
+      "title": "뇌가없네 ㅋㅋㅋㅋ",
+      "excerpt": "한녀 공무원",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623508&page=1#cmt_10974440",
+      "postedLabel": "10.27 09:12:09",
+      "postedAt": "2026-10-27T09:12:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:12:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -507993,7 +508033,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T09:09:10+09:00"
+      "slowAt": "2026-10-27T09:12:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -512563,7 +512603,8 @@
         "6623491",
         "6623497",
         "6623500",
-        "6623505"
+        "6623505",
+        "6623508"
       ]
     },
     "blind": {
