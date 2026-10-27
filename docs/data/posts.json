@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T08:35:46+00:00",
+  "updatedAt": "2026-10-27T08:38:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -514421,6 +514421,44 @@
       "firstSeenAt": "2026-10-27T08:35:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85780,
+      "source": "dc",
+      "externalId": "6624615",
+      "title": "이건 무슨 떨이특집인듯",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624615&page=1",
+      "postedLabel": "17:37",
+      "postedAt": "2026-10-27T17:37:32+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:38:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85781,
+      "source": "dc",
+      "externalId": "6624619",
+      "title": "인플레이션 시대에 이 포지션 조합은 좀 위험할 수 있겠죠",
+      "excerpt": "",
+      "author": "Zue",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624619&page=1",
+      "postedLabel": "17:38",
+      "postedAt": "2026-10-27T17:38:27+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:38:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -514546,7 +514584,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T17:35:30+09:00"
+      "slowAt": "2026-10-27T17:38:31+09:00"
     },
     "dc": {
       "doneIds": [
