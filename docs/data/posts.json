@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:30:16+00:00",
+  "updatedAt": "2026-10-27T04:33:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -511105,6 +511105,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T04:30:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85612,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%80%ED%95%B4%EC%9E%90-%ED%8A%B9-%EA%B0%80%ED%95%B4%ED%95%9C-%EA%B1%B0-%EC%95%84%EB%8B%98-or-%EA%B3%A0%EC%9D%98-%EC%95%84%EB%8B%88%EB%9D%BC%EA%B3%A0-%ED%95%A8-3bml4flh",
+      "title": "가해자 특 가해한 거 아님 or 고의 아니라고 함",
+      "excerpt": "가해자가 가해 인정하는 경우 매우 드문듯 그게 잘못된 걸 알았으면 가해를 하지 않았을 것이므로 가해한 게 아니라고 하거나 고의가 아니라고 함",
+      "author": "j*****",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%ED%95%B4%EC%9E%90-%ED%8A%B9-%EA%B0%80%ED%95%B4%ED%95%9C-%EA%B1%B0-%EC%95%84%EB%8B%98-or-%EA%B3%A0%EC%9D%98-%EC%95%84%EB%8B%88%EB%9D%BC%EA%B3%A0-%ED%95%A8-3bml4flh",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-27T11:33:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-27T04:33:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -515973,7 +515992,8 @@
         "6624071",
         "6624072",
         "6624077",
-        "6624080"
+        "6624080",
+        "6624089"
       ]
     },
     "blind": {
