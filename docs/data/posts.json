@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:13:29+00:00",
+  "updatedAt": "2026-10-27T03:15:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -509924,6 +509924,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T03:13:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85552,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk",
+      "title": "34기 한의사 영철님이요",
+      "excerpt": "약간 무표정 하게 분위기 탐색하시는 거 솔까 존나 무서운데요 근데 10살 연하 인턴남 꼬셨다는 얘기는 대체 언제 어디서 나온 건가요",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:15:14+09:00",
+      "views": 17,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-27T03:15:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510049,7 +510068,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T12:12:14+09:00"
+      "slowAt": "2026-10-27T12:15:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -514707,6 +514726,7 @@
         "6623731",
         "6623734",
         "6623739",
+        "6623745",
         "6623748",
         "6623755",
         "6623767",
@@ -514726,7 +514746,8 @@
         "6623853",
         "6623855",
         "6623858",
-        "6623868"
+        "6623868",
+        "6623874"
       ]
     },
     "blind": {
