@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:20:15+00:00",
+  "updatedAt": "2026-10-27T04:22:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -510909,6 +510909,66 @@
       "firstSeenAt": "2026-10-27T04:20:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85602,
+      "source": "qoo",
+      "externalId": "cmt-4387854675",
+      "title": "ㄹㅇ 멘트 역해 편집했어야지",
+      "excerpt": "오늘밤 출산율 높일 수도 있겠다는 발언은 너무 실례임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387731855#4387854675",
+      "postedLabel": "",
+      "postedAt": "2026-10-27T12:21:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:22:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85603,
+      "source": "dc",
+      "externalId": "cmt-10975126",
+      "title": "디지고 싶긔?",
+      "excerpt": "ㅗㅜㅑ 오랜만에 보는것같아",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624068&page=1#cmt_10975126",
+      "postedLabel": "10.27 13:21:05",
+      "postedAt": "2026-10-27T13:21:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:22:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85604,
+      "source": "blind",
+      "externalId": "cmt-458549355",
+      "title": "상향지원이 아니라 신분상승급",
+      "excerpt": "근데 34기 정숙이는",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0-%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-wiqhrvy3#458549355",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T13:22:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:22:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510990,7 +511050,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T13:18:59+09:00"
+      "slowAt": "2026-10-27T13:22:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -515737,6 +515797,7 @@
         "6623894",
         "6623895",
         "6623897",
+        "6623899",
         "6623907",
         "6623912",
         "6623919",
@@ -515767,7 +515828,9 @@
         "6624052",
         "6624060",
         "6624061",
-        "6624064"
+        "6624064",
+        "6624068",
+        "6624070"
       ]
     },
     "blind": {
