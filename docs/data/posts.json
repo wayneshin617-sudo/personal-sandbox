@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T09:08:47+00:00",
+  "updatedAt": "2026-10-27T09:09:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -515013,6 +515013,46 @@
       "firstSeenAt": "2026-10-27T09:08:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85810,
+      "source": "dc",
+      "externalId": "cmt-10975596",
+      "title": "오 ㅆ 진짜 닮았는데",
+      "excerpt": "충격 닮은꼴",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624572&page=2#cmt_10975596",
+      "postedLabel": "10.27 17:23:36",
+      "postedAt": "2026-10-27T17:23:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T09:09:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85811,
+      "source": "blind",
+      "externalId": "cmt-458580286",
+      "title": "너 소희 안티팬이냐?? ㅡㅡ",
+      "excerpt": "34기 영자",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90-ka3mm0l3#458580286",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T18:09:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T09:09:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -520032,6 +520072,7 @@
         "6624556",
         "6624557",
         "6624571",
+        "6624572",
         "6624580",
         "6624581",
         "6624583",
