@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:57:30+00:00",
+  "updatedAt": "2026-10-27T03:59:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -510536,6 +510536,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T03:57:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85583,
+      "source": "dc",
+      "externalId": "6624008",
+      "title": "내가 뭔짓을 했긔? 지랄 깝치고 있긔",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624008&page=1",
+      "postedLabel": "12:58",
+      "postedAt": "2026-10-27T12:58:49+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:59:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510617,7 +510636,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T12:56:13+09:00"
+      "slowAt": "2026-10-27T12:59:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -515376,7 +515395,9 @@
         "6623991",
         "6623996",
         "6623999",
-        "6624001"
+        "6624001",
+        "6624004",
+        "6624006"
       ]
     },
     "blind": {
