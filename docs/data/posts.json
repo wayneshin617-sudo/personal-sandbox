@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T08:12:46+00:00",
+  "updatedAt": "2026-10-27T08:15:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -513983,6 +513983,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-27T08:12:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85758,
+      "source": "blind",
+      "externalId": "cmt-458571413",
+      "title": "요즘엔 간단하게 암간호사, 수간호사 둘로만 분류함",
+      "excerpt": "수간호사가 간호사 중간정도지?",
+      "author": "ㅂ****",
+      "company": "연세대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%98%EA%B0%84%ED%98%B8%EC%82%AC%EA%B0%80-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%A4%91%EA%B0%84%EC%A0%95%EB%8F%84%EC%A7%80-evw4y56o#458571413",
+      "postedLabel": "33분",
+      "postedAt": "2026-10-27T16:42:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:15:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85759,
+      "source": "blind",
+      "externalId": "cmt-458573914",
+      "title": "나 였으면 간호사중 최고가 수간호사면 의사중 최고는 수의사 냐? 라고 했음",
+      "excerpt": "수간호사가 간호사 중간정도지?",
+      "author": "신***",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%98%EA%B0%84%ED%98%B8%EC%82%AC%EA%B0%80-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%A4%91%EA%B0%84%EC%A0%95%EB%8F%84%EC%A7%80-evw4y56o#458573914",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-27T17:06:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:15:46+00:00",
       "isSeed": false,
       "kind": "reply"
     }
