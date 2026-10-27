@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:58:16+00:00",
+  "updatedAt": "2026-10-27T05:02:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -511537,6 +511537,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T04:58:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85634,
+      "source": "dc",
+      "externalId": "6624162",
+      "title": "삼계탕으로 보신하고 좀 자야겠긔",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624162&page=1",
+      "postedLabel": "14:01",
+      "postedAt": "2026-10-27T14:01:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T05:02:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -511662,7 +511681,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T13:58:59+09:00"
+      "slowAt": "2026-10-27T14:01:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -516319,6 +516338,7 @@
         "6623705",
         "6623710",
         "6623713",
+        "6623719",
         "6623720",
         "6623723",
         "6623725",
@@ -516433,6 +516453,7 @@
         "6624146",
         "6624150",
         "6624155",
+        "6624156",
         "6624158"
       ]
     },
@@ -516889,6 +516910,7 @@
         "/kr/post/%EB%82%98-34%EA%B8%B0-%EC%98%A5%EC%88%9C-%EB%88%84%EA%B5%AC%EB%8B%AE%EC%95%98%EB%8A%94%EC%A7%80-%EB%93%9C%EB%94%94%EC%96%B4-%EC%83%9D%EA%B0%81%EB%82%AC%EC%96%B4-3bggpj0a",
         "/kr/post/%EB%82%9C%EC%98%A5%EC%88%9C%EC%9D%B4%EC%A2%8B%EB%84%A4-u5zuc54f",
         "/kr/post/%EB%82%9C%ED%95%B4%ED%95%98%EB%84%A4-aiclxzm8",
+        "/kr/post/%EB%82%9C-%EA%B7%B8%EB%9E%98%EB%8F%84-31-%EC%88%9C%EC%9E%90%EA%B0%80-%EB%8D%94-%EC%8B%AB%EB%8B%A4-cbbsma7v",
         "/kr/post/%EB%82%9C-%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99-%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%8F%84-%EC%98%88%EC%81%98%EA%B3%A0-%EB%A7%A4%EB%A0%A5%EC%9E%88%EA%B2%8C-%EB%8A%90%EA%BB%B4%EC%A7%90-n4wllog3",
         "/kr/post/%EB%82%9C-%EB%82%98%EC%86%94-%EC%9D%B4%EA%B2%8C-%EC%99%84%EC%A1%B4-%EC%B6%A9%EA%B2%A9-sjikupto",
         "/kr/post/%EB%82%9C-%EB%82%A8%EC%9E%90%EA%B3%A0-%EC%9C%A0%EB%B6%80%EC%9D%B8%EB%8D%B0-fyr6ya8e",
