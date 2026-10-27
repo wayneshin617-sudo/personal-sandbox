@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T10:55:16+00:00",
+  "updatedAt": "2026-10-27T10:56:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -516478,6 +516478,46 @@
       "firstSeenAt": "2026-10-27T10:55:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85884,
+      "source": "blind",
+      "externalId": "cmt-458586862",
+      "title": "아직 뭣도 아닌데 호감도 묻는 질문을 왜하지 진짜 갑갑스",
+      "excerpt": "정숙 메타인지 너무심각",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80-%EB%84%88%EB%AC%B4%EC%8B%AC%EA%B0%81-p83wfbs3#458586862",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-27T19:07:58+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T10:56:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85885,
+      "source": "blind",
+      "externalId": "cmt-458591661",
+      "title": "기대를 했다는 게 신기하긴 했어 기대하니까 실망하는 법인데",
+      "excerpt": "정숙 메타인지 너무심각",
+      "author": "C*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80-%EB%84%88%EB%AC%B4%EC%8B%AC%EA%B0%81-p83wfbs3#458591661",
+      "postedLabel": "8분",
+      "postedAt": "2026-10-27T19:47:58+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T10:56:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -516559,7 +516599,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T19:52:58+09:00"
+      "slowAt": "2026-10-27T19:55:58+09:00"
     },
     "ig": {
       "doneIds": [
@@ -521542,6 +521582,7 @@
         "6624723",
         "6624737",
         "6624739",
+        "6624740",
         "6624751",
         "6624752",
         "6624756",
