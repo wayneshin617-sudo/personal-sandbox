@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T08:23:46+00:00",
+  "updatedAt": "2026-10-27T08:24:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -514124,6 +514124,26 @@
       "firstSeenAt": "2026-10-27T08:23:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85765,
+      "source": "blind",
+      "externalId": "cmt-458575660",
+      "title": "심해어처럼생긴사람이 저런얘기하면 어떻게반응해야할까",
+      "excerpt": "망신살이란 이런걸까",
+      "author": "h*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%9D%EC%8B%A0%EC%82%B4%EC%9D%B4%EB%9E%80-%EC%9D%B4%EB%9F%B0%EA%B1%B8%EA%B9%8C-tq6t802k#458575660",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T17:24:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:24:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -519142,7 +519162,9 @@
         "6624580",
         "6624581",
         "6624583",
-        "6624588"
+        "6624588",
+        "6624597",
+        "6624599"
       ]
     },
     "blind": {
