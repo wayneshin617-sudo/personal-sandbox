@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T23:28:11+00:00",
+  "updatedAt": "2026-10-27T23:30:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -525343,6 +525343,25 @@
       "firstSeenAt": "2026-10-27T23:28:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86331,
+      "source": "qoo",
+      "externalId": "4388601954",
+      "title": "역대급이다 어쩐다 해도 새 기수 1화만 나와도 기억 안나는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4388601954",
+      "postedLabel": "08:29",
+      "postedAt": "2026-10-28T08:29:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T23:30:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -525475,7 +525494,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T08:26:53+09:00"
+      "slowAt": "2026-10-28T08:29:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -537046,7 +537065,8 @@
         "4388162031",
         "4388376857",
         "4388446790",
-        "4388461218"
+        "4388461218",
+        "4388601954"
       ]
     },
     "keep": "v2",
