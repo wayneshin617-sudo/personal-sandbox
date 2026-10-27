@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T05:48:16+00:00",
+  "updatedAt": "2026-10-27T05:50:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -512382,6 +512382,46 @@
       "firstSeenAt": "2026-10-27T05:48:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85677,
+      "source": "blind",
+      "externalId": "cmt-458551689",
+      "title": "10살연하 만나봤다는 말은 이득될게없는거 같은데…..",
+      "excerpt": "34기 한의사 영철님이요",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk#458551689",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-27T13:49:56+09:00",
+      "views": null,
+      "recommends": 10,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T05:50:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85678,
+      "source": "blind",
+      "externalId": "cmt-458552935",
+      "title": "진짜 10살 연하 그냥 여미새가 눈나 그러면서 엉긴거 아닌가",
+      "excerpt": "34기 한의사 영철님이요",
+      "author": "여*******",
+      "company": "두산밥캣",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk#458552935",
+      "postedLabel": "52분",
+      "postedAt": "2026-10-27T13:57:59+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T05:50:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -512507,7 +512547,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T14:46:59+09:00"
+      "slowAt": "2026-10-27T14:49:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -523648,7 +523688,8 @@
         "4387888936",
         "4387891918",
         "4387901417",
-        "4387964069"
+        "4387964069",
+        "4387969887"
       ]
     },
     "keep": "v2",
