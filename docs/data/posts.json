@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T06:40:15+00:00",
+  "updatedAt": "2026-10-27T06:42:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -512838,6 +512838,26 @@
       "recommends": 8,
       "comments": null,
       "firstSeenAt": "2026-10-27T06:40:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85700,
+      "source": "qoo",
+      "externalId": "cmt-4387962312",
+      "title": "@1 설정 쪽 가서 공개범위 눌러야 공개 비공개 설정가능한데... 그거 눌러도 다시한번 공개로 전환할거냐고 물어봄..",
+      "excerpt": "나는 인스타 수정전 시간이랑 커뮤에 퍼진 시간이 같단 말이 있어서",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387871009#4387962312",
+      "postedLabel": "",
+      "postedAt": "2026-10-27T14:41:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T06:42:14+00:00",
       "isSeed": false,
       "kind": "reply"
     }
