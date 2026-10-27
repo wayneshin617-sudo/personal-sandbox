@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T02:40:30+00:00",
+  "updatedAt": "2026-10-27T02:43:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -509746,6 +509746,26 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-27T02:40:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85543,
+      "source": "blind",
+      "externalId": "cmt-458539199",
+      "title": "얼굴 작게 생기지 않았어? 비율 좋아보여서 키 작다고 못 느끼는듯",
+      "excerpt": "34영철 생각보다 키가 작네",
+      "author": "!********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%ED%82%A4%EA%B0%80-%EC%9E%91%EB%84%A4-5n4kwywv#458539199",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T11:43:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T02:43:29+00:00",
       "isSeed": false,
       "kind": "reply"
     }
