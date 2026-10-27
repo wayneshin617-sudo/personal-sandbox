@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T06:03:15+00:00",
+  "updatedAt": "2026-10-27T06:04:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -512581,6 +512581,46 @@
       "firstSeenAt": "2026-10-27T06:03:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85687,
+      "source": "qoo",
+      "externalId": "cmt-4387930453",
+      "title": "자기 인스타도 아니고 럽스타 계정이네",
+      "excerpt": "나는 인스타 수정전 시간이랑 커뮤에 퍼진 시간이 같단 말이 있어서",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387871009#4387930453",
+      "postedLabel": "",
+      "postedAt": "2026-10-27T14:04:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T06:04:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85688,
+      "source": "blind",
+      "externalId": "cmt-458559645",
+      "title": "내맘",
+      "excerpt": "투표글 얼굴생긴거만 보면 누가 더 나음 (몸매빼고) 투표",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%BC%EA%B5%B4%EC%83%9D%EA%B8%B4%EA%B1%B0%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EB%88%84%EA%B0%80-%EB%8D%94-%EB%82%98%EC%9D%8C-%EB%AA%B8%EB%A7%A4%EB%B9%BC%EA%B3%A0-t4gkkh3n#458559645",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T15:03:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T06:04:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -512662,7 +512702,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T15:00:59+09:00"
+      "slowAt": "2026-10-27T15:03:59+09:00"
     },
     "ig": {
       "doneIds": [
@@ -517526,7 +517566,8 @@
         "6624287",
         "6624290",
         "6624294",
-        "6624297"
+        "6624297",
+        "6624302"
       ]
     },
     "blind": {
