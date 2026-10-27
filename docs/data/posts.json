@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T00:17:27+00:00",
+  "updatedAt": "2026-10-27T00:21:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -507967,6 +507967,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-27T00:17:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85453,
+      "source": "blind",
+      "externalId": "cmt-458524546",
+      "title": "출연 이후에 잘 풀린 케이스",
+      "excerpt": "31변호사상철",
+      "author": "냠***",
+      "company": "리인터내셔널특허법률사무소",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EB%B3%80%ED%98%B8%EC%82%AC%EC%83%81%EC%B2%A0-mka7hqzz#458524546",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T09:21:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:21:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -508092,7 +508112,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T09:18:10+09:00"
+      "slowAt": "2026-10-27T09:21:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -512664,7 +512684,8 @@
         "6623500",
         "6623505",
         "6623508",
-        "6623522"
+        "6623522",
+        "6623526"
       ]
     },
     "blind": {
