@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T00:21:27+00:00",
+  "updatedAt": "2026-10-27T00:24:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -507987,6 +507987,26 @@
       "firstSeenAt": "2026-10-27T00:21:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85454,
+      "source": "blind",
+      "externalId": "cmt-458524883",
+      "title": "ㅊㅊ",
+      "excerpt": "31변호사상철",
+      "author": "y********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EB%B3%80%ED%98%B8%EC%82%AC%EC%83%81%EC%B2%A0-mka7hqzz#458524883",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T09:24:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:24:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -508112,7 +508132,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T09:21:10+09:00"
+      "slowAt": "2026-10-27T09:24:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -512686,7 +512706,8 @@
         "6623508",
         "6623522",
         "6623526",
-        "6623528"
+        "6623528",
+        "6623529"
       ]
     },
     "blind": {
