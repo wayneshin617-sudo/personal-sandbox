@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T00:44:28+00:00",
+  "updatedAt": "2026-10-27T00:45:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -508223,6 +508223,65 @@
       "firstSeenAt": "2026-10-27T00:44:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85466,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B0%A9%EC%86%A1%EA%B5%AD-pd%EC%8B%9C%EC%B2%AD%EC%9E%90%EB%93%A0-10%EB%85%84%EC%A0%84%EC%9D%B4%EB%82%98-%EB%B0%94%EB%80%90%EA%B2%8C-%EC%97%86%EC%9D%8C-hz7cdvn7",
+      "title": "방송국 pd,시청자든 10년전이나 바뀐게 없음",
+      "excerpt": "코리아 좋아요 한국인 좋아요 하던 외국인들 모셔다가 홍어 맥이고 청국장 먹이며 서로 낄낄 대는 건 유구한 전통임.",
+      "author": "o*****",
+      "company": "한국팜비오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%A9%EC%86%A1%EA%B5%AD-pd%EC%8B%9C%EC%B2%AD%EC%9E%90%EB%93%A0-10%EB%85%84%EC%A0%84%EC%9D%B4%EB%82%98-%EB%B0%94%EB%80%90%EA%B2%8C-%EC%97%86%EC%9D%8C-hz7cdvn7",
+      "postedLabel": "어제",
+      "postedAt": "2026-10-26T09:44:55+09:00",
+      "views": 1312,
+      "recommends": 5,
+      "comments": 2,
+      "firstSeenAt": "2026-10-27T00:45:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85467,
+      "source": "blind",
+      "externalId": "cmt-458527085",
+      "title": "온갖곳에서 다 저짓함ㅋㅋㅋ본인아니면 누가 돈주고 저렇게 바이럴하겟음?속일걸속여야지 지금도 어그로끄는게 고맙소한테 관심끌려고 하는거거나 합의금장사하려고 저러는걸로 보임",
+      "excerpt": "이거 왜이렇게 작업 같지",
+      "author": "l*********",
+      "company": "한국수력원자력",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EA%B1%B0-%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9E%91%EC%97%85-%EA%B0%99%EC%A7%80-epvk062h#458527085",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T09:45:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:45:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85468,
+      "source": "dc",
+      "externalId": "cmt-10974527",
+      "title": "정병올만 하긴 하네ㅋㅋ 팩트는 어떻든 자기는 영호랑 사귄거 + 왕따 가해자인거 전국민한테 박제되고... 직업도 불안정해, 앞으로 연애도 답이 없어, 인생 ㅈ망 직전인데ㅋㅋ 전남친은 새로운 사람 잘 만나서 결혼까지 한다고 하면 눈깔 돌아버리긴 할 듯",
+      "excerpt": "전직 정병녀로서 옥순 해석해본다",
+      "author": "시대정신",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623229&page=4#cmt_10974527",
+      "postedLabel": "10.27 09:45:17",
+      "postedAt": "2026-10-27T09:45:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T00:45:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -508348,7 +508407,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T09:42:10+09:00"
+      "slowAt": "2026-10-27T09:45:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -512934,7 +512993,8 @@
         "6623550",
         "6623553",
         "6623554",
-        "6623558"
+        "6623558",
+        "6623559"
       ]
     },
     "blind": {
