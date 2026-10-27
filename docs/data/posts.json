@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T08:45:46+00:00",
+  "updatedAt": "2026-10-27T08:50:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -514518,6 +514518,85 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T08:45:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85785,
+      "source": "blind",
+      "externalId": "cmt-458574767",
+      "title": "이게 맞지. 근데 이거 말해봤자 영호 질투한다고 할거임",
+      "excerpt": "여자들이 영호를 만만히 보는 듯",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%98%81%ED%98%B8%EB%A5%BC-%EB%A7%8C%EB%A7%8C%ED%9E%88-%EB%B3%B4%EB%8A%94-%EB%93%AF-aceg3kmg#458574767",
+      "postedLabel": "35분",
+      "postedAt": "2026-10-27T17:15:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:50:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85786,
+      "source": "blind",
+      "externalId": "cmt-458575066",
+      "title": "이건 영호좋게보고 여자까는글인데 왠질투? 질투는 잘생긴줄모르겠다 이딴글이지",
+      "excerpt": "여자들이 영호를 만만히 보는 듯",
+      "author": "h*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%98%81%ED%98%B8%EB%A5%BC-%EB%A7%8C%EB%A7%8C%ED%9E%88-%EB%B3%B4%EB%8A%94-%EB%93%AF-aceg3kmg#458575066",
+      "postedLabel": "32분",
+      "postedAt": "2026-10-27T17:18:30+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:50:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85787,
+      "source": "blind",
+      "externalId": "cmt-458575843",
+      "title": "ㅋㅋ내가보기엔 그 둘이 연애경험이 별로 없어보여..",
+      "excerpt": "여자들이 영호를 만만히 보는 듯",
+      "author": "도*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%98%81%ED%98%B8%EB%A5%BC-%EB%A7%8C%EB%A7%8C%ED%9E%88-%EB%B3%B4%EB%8A%94-%EB%93%AF-aceg3kmg#458575843",
+      "postedLabel": "25분",
+      "postedAt": "2026-10-27T17:25:30+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:50:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85788,
+      "source": "dc",
+      "externalId": "6624637",
+      "title": "ㅄ들 방송 봐놓고 이제와서 옥순이 피해자다라는건",
+      "excerpt": "",
+      "author": "아주주",
+      "company": "",
+      "ip": "211.245",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624637&page=1",
+      "postedLabel": "17:49",
+      "postedAt": "2026-10-27T17:49:42+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T08:50:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -514643,7 +514722,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T17:47:31+09:00"
+      "slowAt": "2026-10-27T17:50:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -519548,7 +519627,8 @@
         "6624613",
         "6624614",
         "6624620",
-        "6624621"
+        "6624621",
+        "6624636"
       ]
     },
     "blind": {
