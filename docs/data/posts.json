@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T15:38:48+00:00",
+  "updatedAt": "2026-10-27T15:49:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -521349,6 +521349,66 @@
       "firstSeenAt": "2026-10-27T15:38:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86130,
+      "source": "blind",
+      "externalId": "cmt-458635357",
+      "title": "응 머리도 머리지만 외모가 일반적 범주는 아님",
+      "excerpt": "34정숙님이 그렇게 못생기셨나요",
+      "author": "뉴**",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%A0%95%EC%88%99%EB%8B%98%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%AA%BB%EC%83%9D%EA%B8%B0%EC%85%A8%EB%82%98%EC%9A%94-y8vkb2v0#458635357",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-28T00:38:30+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T15:49:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86131,
+      "source": "blind",
+      "externalId": "cmt-458635824",
+      "title": "34정숙님 외모가 무슨 특수반이라는 말씀이신가요",
+      "excerpt": "34정숙님이 그렇게 못생기셨나요",
+      "author": "딜** 작성자",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%A0%95%EC%88%99%EB%8B%98%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%AA%BB%EC%83%9D%EA%B8%B0%EC%85%A8%EB%82%98%EC%9A%94-y8vkb2v0#458635824",
+      "postedLabel": "6분",
+      "postedAt": "2026-10-28T00:43:30+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T15:49:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86132,
+      "source": "blind",
+      "externalId": "cmt-458635956",
+      "title": "정숙 외모가 특수반 정도는 아니고 특수반을 언급한 사람이 특수반 같음",
+      "excerpt": "34정숙님이 그렇게 못생기셨나요",
+      "author": "뉴**",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%A0%95%EC%88%99%EB%8B%98%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%AA%BB%EC%83%9D%EA%B8%B0%EC%85%A8%EB%82%98%EC%9A%94-y8vkb2v0#458635956",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-28T00:44:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T15:49:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -526553,7 +526613,8 @@
         "6625249",
         "6625251",
         "6625257",
-        "6625261"
+        "6625261",
+        "6625269"
       ]
     },
     "blind": {
