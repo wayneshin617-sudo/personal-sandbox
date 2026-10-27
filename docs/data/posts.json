@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T19:42:17+00:00",
+  "updatedAt": "2026-10-27T20:27:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -524454,6 +524454,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-27T19:42:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86286,
+      "source": "dc",
+      "externalId": "6625462",
+      "title": "서울 주요 부동산 아파트하락률 체크해보죠?",
+      "excerpt": "",
+      "author": "Zue",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625462&page=1",
+      "postedLabel": "05:26",
+      "postedAt": "2026-10-28T05:26:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T20:27:17+00:00",
       "isSeed": false
     }
   ],
