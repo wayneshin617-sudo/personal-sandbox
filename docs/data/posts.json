@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T22:41:10+00:00",
+  "updatedAt": "2026-10-27T22:44:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -524968,6 +524968,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T22:41:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 86312,
+      "source": "dc",
+      "externalId": "cmt-10976519",
+      "title": "그동안 받은 출연료 모은걸로 결정사 갈 생각은 1도 안하고 계속 왜 방송 나오는거냐",
+      "excerpt": "7영호는 2세욕심땜에 학원강사랑 헤어진거 같은데",
+      "author": "딸랑딸랑고추",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625540&page=1#cmt_10976519",
+      "postedLabel": "10.28 07:43:20",
+      "postedAt": "2026-10-28T07:43:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T22:44:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -525050,7 +525070,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T07:40:52+09:00"
+      "slowAt": "2026-10-28T07:43:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -530248,7 +530268,8 @@
         "6625517",
         "6625521",
         "6625529",
-        "6625534"
+        "6625534",
+        "6625540"
       ]
     },
     "blind": {
