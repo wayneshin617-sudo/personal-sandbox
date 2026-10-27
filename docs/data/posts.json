@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T10:35:16+00:00",
+  "updatedAt": "2026-10-27T10:36:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -516201,6 +516201,66 @@
       "firstSeenAt": "2026-10-27T10:35:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85870,
+      "source": "qoo",
+      "externalId": "cmt-4388163762",
+      "title": "@1 ㄴㄴ 그건아님 @2 아 초반러시 러브바밍 엄청심했어 ㄹㅇ",
+      "excerpt": "영수 전남친이랑 너무 똑같아서 못보겠음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4388145981#4388163762",
+      "postedLabel": "",
+      "postedAt": "2026-10-27T18:35:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T10:36:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85871,
+      "source": "blind",
+      "externalId": "cmt-458590082",
+      "title": "아니 다들 이상하게 보길래 불법도 아니고..?",
+      "excerpt": "문신 갖고 왤케 호들갑임? ㄹㅇ",
+      "author": "i******** 작성자",
+      "company": "K2코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EA%B0%96%EA%B3%A0-%EC%99%A4%EC%BC%80-%ED%98%B8%EB%93%A4%EA%B0%91%EC%9E%84-%E3%84%B9%E3%85%87-wmelrp1w#458590082",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T19:35:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T10:36:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85872,
+      "source": "blind",
+      "externalId": "cmt-458590071",
+      "title": "우리나라를 포함한 동북아에서 문신에 대한 인식이 미성년자 흡연하고 비슷하니까",
+      "excerpt": "문신 갖고 왤케 호들갑임? ㄹㅇ",
+      "author": "l*********",
+      "company": "프라이스워터하우스쿠퍼스컨설팅",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EA%B0%96%EA%B3%A0-%EC%99%A4%EC%BC%80-%ED%98%B8%EB%93%A4%EA%B0%91%EC%9E%84-%E3%84%B9%E3%85%87-wmelrp1w#458590071",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T19:35:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T10:36:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -516326,7 +516386,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T19:32:58+09:00"
+      "slowAt": "2026-10-27T19:35:58+09:00"
     },
     "dc": {
       "doneIds": [
@@ -521270,7 +521330,8 @@
         "6624756",
         "6624766",
         "6624769",
-        "6624772"
+        "6624772",
+        "6624783"
       ]
     },
     "blind": {
