@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:26:29+00:00",
+  "updatedAt": "2026-10-27T03:27:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -510182,6 +510182,45 @@
       "firstSeenAt": "2026-10-27T03:26:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85565,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%8B%A0%EA%B3%A0-%EA%B0%9C%EB%B9%A0%EB%A6%84-%EC%A3%BC%EC%96%B4%EC%97%86%EC%9D%8C-vmzarid8",
+      "title": "신고 개빠름 (주어없음)",
+      "excerpt": "조회 4 하자마자 신고해서 비공개처리됨 계속 상주하면서 신고하고 있는듯",
+      "author": "j*****",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%A0%EA%B3%A0-%EA%B0%9C%EB%B9%A0%EB%A6%84-%EC%A3%BC%EC%96%B4%EC%97%86%EC%9D%8C-vmzarid8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:27:14+09:00",
+      "views": 34,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-27T03:27:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85566,
+      "source": "blind",
+      "externalId": "cmt-458543319",
+      "title": "ㄴㄴ 특정단어 신고야 ㅋㅋ",
+      "excerpt": "신고 개빠름 (주어없음)",
+      "author": "흰*********",
+      "company": "아주오토리움",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%A0%EA%B3%A0-%EA%B0%9C%EB%B9%A0%EB%A6%84-%EC%A3%BC%EC%96%B4%EC%97%86%EC%9D%8C-vmzarid8#458543319",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:27:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:27:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510307,7 +510346,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T12:24:13+09:00"
+      "slowAt": "2026-10-27T12:27:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -514993,7 +515032,8 @@
         "6623882",
         "6623884",
         "6623894",
-        "6623897"
+        "6623897",
+        "6623907"
       ]
     },
     "blind": {
@@ -516405,6 +516445,7 @@
         "/kr/post/%EC%8B%9C%EC%95%A0%ED%8B%80-%EC%BB%A4%ED%94%8C---%ED%8C%81-20%ED%94%84%EB%A1%9C%EB%9D%BC%EB%8B%88-%E3%84%B7%E3%84%B7-2hmlxe10",
         "/kr/post/%EC%8B%9C%EC%B2%AD%EC%9E%90%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%A0-34%EA%B8%B0-%EC%A0%95%EC%88%99-%EA%B4%91%EC%88%98-%EA%B7%B8%EB%A6%BC%EC%B2%B4%EA%B0%80-%EB%A7%9E%EC%9D%8C-2gfnown8",
         "/kr/post/%EC%8B%A0%EA%B0%95%EC%97%90-%ED%95%B4%EB%82%98%EC%96%B8%EB%8B%88-%EC%9E%88%EC%9D%8C%E3%85%8E-nk5x3wgi",
+        "/kr/post/%EC%8B%A0%EA%B3%A0-%EA%B0%9C%EB%B9%A0%EB%A6%84-%EC%A3%BC%EC%96%B4%EC%97%86%EC%9D%8C-vmzarid8",
         "/kr/post/%EC%8B%A0%EC%A3%BC%EC%BF%A0%EC%83%81-1%EC%9C%84%EB%8A%94-%ED%98%84%EC%88%99%EC%9D%B8%EB%8D%B0-kvwhi4gz",
         "/kr/post/%EC%8B%AC%EC%8B%A0-%EC%95%BD%ED%95%B4%EC%84%9C-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EA%B0%80-5shebwdt",
         "/kr/post/%EC%8B%AC%EC%8B%AC%ED%95%98%EB%8B%A4-ftkaqxox",
