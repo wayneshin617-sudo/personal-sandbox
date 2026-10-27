@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T11:28:16+00:00",
+  "updatedAt": "2026-10-27T11:31:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -517250,6 +517250,25 @@
       "recommends": null,
       "comments": 2,
       "firstSeenAt": "2026-10-27T11:28:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 85923,
+      "source": "dc",
+      "externalId": "6624890",
+      "title": "싸우면 누가이길까 오오츠츠키 카구야 vs 바드",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624890&page=1",
+      "postedLabel": "20:30",
+      "postedAt": "2026-10-27T20:30:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T11:31:15+00:00",
       "isSeed": false
     }
   ],
