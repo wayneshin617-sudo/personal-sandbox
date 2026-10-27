@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T11:54:16+00:00",
+  "updatedAt": "2026-10-27T11:55:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -517545,6 +517545,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T11:54:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85938,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EC%B9%9C-%EA%B5%AC%ED%95%A8-28-2x366qwd",
+      "title": "여친 구함 (28)",
+      "excerpt": "ㅈㄱㄴ",
+      "author": "j*********",
+      "company": "POSCO",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%B9%9C-%EA%B5%AC%ED%95%A8-28-2x366qwd",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T20:54:59+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-27T11:55:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -522652,7 +522671,8 @@
         "6624900",
         "6624913",
         "6624915",
-        "6624921"
+        "6624921",
+        "6624925"
       ]
     },
     "blind": {
