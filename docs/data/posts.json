@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:43:14+00:00",
+  "updatedAt": "2026-10-27T04:44:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -511162,6 +511162,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T04:43:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85615,
+      "source": "dc",
+      "externalId": "6624128",
+      "title": "가야겠긔... 갤이 많이 죽었다긔",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624128&page=1",
+      "postedLabel": "13:43",
+      "postedAt": "2026-10-27T13:43:40+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:44:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -511287,7 +511306,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T13:40:59+09:00"
+      "slowAt": "2026-10-27T13:43:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -516040,6 +516059,7 @@
         "6624105",
         "6624106",
         "6624111",
+        "6624117",
         "6624121"
       ]
     },
