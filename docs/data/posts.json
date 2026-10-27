@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T07:22:45+00:00",
+  "updatedAt": "2026-10-27T07:23:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -513315,6 +513315,25 @@
       "firstSeenAt": "2026-10-27T07:22:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85724,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%96%B4%EC%A9%8C%EA%B3%A0%EC%97%90%EC%84%9C-d30jqfxi",
+      "title": "간스유어쩌고에서",
+      "excerpt": "간호사는 왜거름?? 진짜몰라서",
+      "author": "y*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%96%B4%EC%A9%8C%EA%B3%A0%EC%97%90%EC%84%9C-d30jqfxi",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T16:23:30+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-27T07:23:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -513440,7 +513459,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T16:20:29+09:00"
+      "slowAt": "2026-10-27T16:23:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -524642,7 +524661,8 @@
         "4387964069",
         "4387969887",
         "4387990361",
-        "4388011241"
+        "4388011241",
+        "4388055325"
       ]
     },
     "keep": "v2",
