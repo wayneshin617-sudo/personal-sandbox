@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T11:50:15+00:00",
+  "updatedAt": "2026-10-27T11:52:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -517507,6 +517507,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T11:50:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85936,
+      "source": "dc",
+      "externalId": "6624923",
+      "title": "니들 같으면 순자로 살래 ?옥순이로 살래 ?",
+      "excerpt": "",
+      "author": "해갤러",
+      "company": "",
+      "ip": "61.80",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624923&page=1",
+      "postedLabel": "20:51",
+      "postedAt": "2026-10-27T20:51:30+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T11:52:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -522613,7 +522632,8 @@
         "6624893",
         "6624900",
         "6624913",
-        "6624915"
+        "6624915",
+        "6624921"
       ]
     },
     "blind": {
