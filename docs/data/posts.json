@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T01:30:29+00:00",
+  "updatedAt": "2026-10-27T01:33:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -508896,6 +508896,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-27T01:30:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85500,
+      "source": "qoo",
+      "externalId": "cmt-4387713683",
+      "title": "@2 22",
+      "excerpt": "16상철 본방때랑은 성격 달라진것같아",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4387633904#4387713683",
+      "postedLabel": "",
+      "postedAt": "2026-10-27T09:33:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T01:33:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85501,
+      "source": "dc",
+      "externalId": "cmt-10974669",
+      "title": "멘헤라가 뭔지 몰라서 찾아봄. 의존 결핍 정병같은거냐?",
+      "excerpt": "정희줌 아침부터 풀메이크업 전투복장 봐라",
+      "author": "inspect2631",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623662&page=1#cmt_10974669",
+      "postedLabel": "10.27 10:32:45",
+      "postedAt": "2026-10-27T10:32:45+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T01:33:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -509021,7 +509061,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T10:30:14+09:00"
+      "slowAt": "2026-10-27T10:33:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -513615,6 +513655,7 @@
         "6623542",
         "6623545",
         "6623546",
+        "6623548",
         "6623550",
         "6623553",
         "6623554",
