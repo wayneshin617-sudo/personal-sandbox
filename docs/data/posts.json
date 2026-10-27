@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T07:23:45+00:00",
+  "updatedAt": "2026-10-27T07:24:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -513334,6 +513334,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-27T07:23:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85725,
+      "source": "blind",
+      "externalId": "cmt-458569068",
+      "title": "태움문화도있고 그래서그런거아님??",
+      "excerpt": "간스유어쩌고에서",
+      "author": "e*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%96%B4%EC%A9%8C%EA%B3%A0%EC%97%90%EC%84%9C-d30jqfxi#458569068",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T16:24:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T07:24:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85726,
+      "source": "blind",
+      "externalId": "cmt-458569119",
+      "title": "여초. 저기 목록에 있는 직업군 중 상당수가 여초 직장임",
+      "excerpt": "간스유어쩌고에서",
+      "author": "✠",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%96%B4%EC%A9%8C%EA%B3%A0%EC%97%90%EC%84%9C-d30jqfxi#458569119",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T16:24:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T07:24:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85727,
+      "source": "blind",
+      "externalId": "cmt-458569145",
+      "title": "기가 쎄",
+      "excerpt": "간스유어쩌고에서",
+      "author": "g*****",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%96%B4%EC%A9%8C%EA%B3%A0%EC%97%90%EC%84%9C-d30jqfxi#458569145",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T16:24:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T07:24:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -518302,6 +518362,7 @@
         "6624342",
         "6624343",
         "6624348",
+        "6624352",
         "6624369",
         "6624371",
         "6624383",
@@ -518323,7 +518384,9 @@
         "6624463",
         "6624466",
         "6624469",
-        "6624470"
+        "6624470",
+        "6624479",
+        "6624487"
       ]
     },
     "blind": {
@@ -518356,6 +518419,7 @@
         "/kr/post/%EA%B0%84%EB%A7%8C%EC%97%90-%EB%AA%85%EC%9E%91%EB%82%98%EC%98%B4-1b6c4s7u",
         "/kr/post/%EA%B0%84%EB%A7%8C%EC%97%90-%ED%94%84%EB%A1%9C%EA%B4%80%EC%83%81%EB%9F%AC-%EA%B8%B0%EC%88%98-%ED%8F%89%EA%B0%80-%ED%95%B4%EB%B4%84-ketet7xe",
         "/kr/post/%EA%B0%84%EB%A7%8C%EC%97%90-%ED%94%84%EB%A1%9C%EA%B4%80%EC%83%81%EB%9F%AC-34%EA%B8%B0-%ED%95%9C%EC%A4%84%ED%8F%89-%ED%95%B4%EB%B4%84-ketet7xe",
+        "/kr/post/%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%96%B4%EC%A9%8C%EA%B3%A0%EC%97%90%EC%84%9C-d30jqfxi",
         "/kr/post/%EA%B0%84%ED%98%B8%EC%82%AC%EB%9D%BC%EB%8A%94-%EC%A7%81%EC%97%85-vjvtkq1r",
         "/kr/post/%EA%B0%84%ED%98%B8%EC%82%AC%EB%AC%B8%EC%8B%A0-%EC%A1%B0%ED%95%A9%EC%9D%B4%EB%9D%BC-zuiwrilc",
         "/kr/post/%EA%B0%84%ED%98%B8%EC%82%AC-%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-5-6%EA%B0%9C%EB%8A%94-%EC%9D%98%EC%99%B8%EB%84%A4-egsw05t6",
