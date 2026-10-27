@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T12:42:17+00:00",
+  "updatedAt": "2026-10-27T12:43:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -518207,6 +518207,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-27T12:42:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85972,
+      "source": "blind",
+      "externalId": "cmt-458607519",
+      "title": "쉰내",
+      "excerpt": "답십리에서 아무목적 없이 그냥 한잔",
+      "author": "i********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%B5%EC%8B%AD%EB%A6%AC%EC%97%90%EC%84%9C-%EC%95%84%EB%AC%B4%EB%AA%A9%EC%A0%81-%EC%97%86%EC%9D%B4-%EA%B7%B8%EB%83%A5-%ED%95%9C%EC%9E%94-jz3qae4e#458607519",
+      "postedLabel": "5분",
+      "postedAt": "2026-10-27T21:37:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T12:43:16+00:00",
       "isSeed": false,
       "kind": "reply"
     }
