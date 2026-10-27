@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:04:29+00:00",
+  "updatedAt": "2026-10-27T04:05:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -510632,6 +510632,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T04:04:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85588,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0-%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-wiqhrvy3",
+      "title": "근데 34기 정숙이는",
+      "excerpt": "애초에 34기 영호한테 자기가 해볼만하다 생각했던거임? 이건 상향지원 수준이 아니라 그보다 심한데.. 정숙보다는 훨씬 나은 영숙, 순자도 영호 성에 안 차는데",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0-%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-wiqhrvy3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T13:05:14+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-27T04:05:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510713,7 +510732,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T13:02:14+09:00"
+      "slowAt": "2026-10-27T13:05:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -515447,6 +515466,7 @@
         "6623853",
         "6623855",
         "6623858",
+        "6623859",
         "6623868",
         "6623874",
         "6623879",
@@ -515476,7 +515496,8 @@
         "6624001",
         "6624004",
         "6624006",
-        "6624010"
+        "6624010",
+        "6624023"
       ]
     },
     "blind": {
