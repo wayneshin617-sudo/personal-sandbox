@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T11:39:16+00:00",
+  "updatedAt": "2026-10-27T11:43:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -517310,6 +517310,26 @@
       "firstSeenAt": "2026-10-27T11:39:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85926,
+      "source": "blind",
+      "externalId": "cmt-458599025",
+      "title": "불",
+      "excerpt": "답십리에서 아무목적 없이 그냥 한잔",
+      "author": "유******",
+      "company": "LG화학",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%B5%EC%8B%AD%EB%A6%AC%EC%97%90%EC%84%9C-%EC%95%84%EB%AC%B4%EB%AA%A9%EC%A0%81-%EC%97%86%EC%9D%B4-%EA%B7%B8%EB%83%A5-%ED%95%9C%EC%9E%94-jz3qae4e#458599025",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T20:42:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T11:43:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -522410,7 +522430,8 @@
         "6624879",
         "6624880",
         "6624886",
-        "6624893"
+        "6624893",
+        "6624900"
       ]
     },
     "blind": {
