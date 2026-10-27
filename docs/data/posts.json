@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T16:31:27+00:00",
+  "updatedAt": "2026-10-27T16:36:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -521802,6 +521802,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T16:31:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 86153,
+      "source": "dc",
+      "externalId": "cmt-10976302",
+      "title": "뿡",
+      "excerpt": "솔직히 외모로는 옥순까기 힘들지",
+      "author": "부동산",
+      "company": "",
+      "ip": "221.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625256&page=2#cmt_10976302",
+      "postedLabel": "10.28 01:22:35",
+      "postedAt": "2026-10-28T01:22:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T16:36:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -521883,7 +521903,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T01:33:09+09:00"
+      "slowAt": "2026-10-28T01:36:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -527009,6 +527029,7 @@
         "6625246",
         "6625249",
         "6625251",
+        "6625256",
         "6625257",
         "6625261",
         "6625269",
