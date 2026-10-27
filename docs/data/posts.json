@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T12:41:16+00:00",
+  "updatedAt": "2026-10-27T12:42:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -518189,6 +518189,26 @@
       "firstSeenAt": "2026-10-27T12:41:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85971,
+      "source": "blind",
+      "externalId": "cmt-458608170",
+      "title": "헛소리 ㄴ 지금이딴 머리하고있는게 최저점이야",
+      "excerpt": "보다보니까 영호는",
+      "author": "고점 판독기",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B3%B4%EB%8B%A4%EB%B3%B4%EB%8B%88%EA%B9%8C-%EC%98%81%ED%98%B8%EB%8A%94-wxa1oe4o#458608170",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T21:41:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T12:42:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -518314,7 +518334,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T21:38:59+09:00"
+      "slowAt": "2026-10-27T21:41:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -523327,7 +523347,8 @@
         "6624987",
         "6624989",
         "6624992",
-        "6624997"
+        "6624997",
+        "6625006"
       ]
     },
     "blind": {
