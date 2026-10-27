@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T13:13:47+00:00",
+  "updatedAt": "2026-10-27T13:15:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -519022,6 +519022,26 @@
       "firstSeenAt": "2026-10-27T13:13:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86013,
+      "source": "blind",
+      "externalId": "cmt-458611981",
+      "title": "옥순 여론이 좋아질 방법은 뿌링클 쿠폰 뿌리는 것 말고는 없어",
+      "excerpt": "bhc옥순이 공구 하려고 밑밥 까는건가",
+      "author": "l********",
+      "company": "차병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/bhc%EC%98%A5%EC%88%9C%EC%9D%B4-%EA%B3%B5%EA%B5%AC-%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B0%91%EB%B0%A5-%EA%B9%8C%EB%8A%94%EA%B1%B4%EA%B0%80-jumqk3vz#458611981",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-27T22:04:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T13:15:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -519147,7 +519167,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T22:12:29+09:00"
+      "slowAt": "2026-10-27T22:15:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -524154,6 +524174,7 @@
         "6624945",
         "6624951",
         "6624958",
+        "6624962",
         "6624969",
         "6624973",
         "6624978",
@@ -524170,7 +524191,8 @@
         "6625030",
         "6625042",
         "6625046",
-        "6625050"
+        "6625050",
+        "6625058"
       ]
     },
     "blind": {
