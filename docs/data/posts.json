@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T18:20:26+00:00",
+  "updatedAt": "2026-10-27T18:21:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -522222,6 +522222,25 @@
       "firstSeenAt": "2026-10-27T18:20:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86174,
+      "source": "dc",
+      "externalId": "6625410",
+      "title": "34영철 미리보기",
+      "excerpt": "",
+      "author": "리듬",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625410&page=1",
+      "postedLabel": "03:21",
+      "postedAt": "2026-10-28T03:21:06+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T18:21:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -522303,7 +522322,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T03:18:09+09:00"
+      "slowAt": "2026-10-28T03:21:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -527468,7 +527487,8 @@
         "6625385",
         "6625386",
         "6625393",
-        "6625406"
+        "6625406",
+        "6625408"
       ]
     },
     "blind": {
