@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:01:29+00:00",
+  "updatedAt": "2026-10-27T04:02:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -510574,6 +510574,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T04:01:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85585,
+      "source": "dc",
+      "externalId": "6624020",
+      "title": "기사 개웃기긔 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624020&page=1",
+      "postedLabel": "13:01",
+      "postedAt": "2026-10-27T13:01:51+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:02:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510655,7 +510674,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T12:59:14+09:00"
+      "slowAt": "2026-10-27T13:02:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -515417,7 +515436,8 @@
         "6623999",
         "6624001",
         "6624004",
-        "6624006"
+        "6624006",
+        "6624010"
       ]
     },
     "blind": {
