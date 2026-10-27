@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T12:44:17+00:00",
+  "updatedAt": "2026-10-27T12:45:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -518287,6 +518287,86 @@
       "comments": 0,
       "firstSeenAt": "2026-10-27T12:44:17+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85976,
+      "source": "blind",
+      "externalId": "cmt-458604169",
+      "title": "뿌링클 먹고싶다ㅜ",
+      "excerpt": "bhc옥순이 공구 하려고 밑밥 까는건가",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/bhc%EC%98%A5%EC%88%9C%EC%9D%B4-%EA%B3%B5%EA%B5%AC-%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B0%91%EB%B0%A5-%EA%B9%8C%EB%8A%94%EA%B1%B4%EA%B0%80-jumqk3vz#458604169",
+      "postedLabel": "28분",
+      "postedAt": "2026-10-27T21:16:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T12:45:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85977,
+      "source": "blind",
+      "externalId": "cmt-458606504",
+      "title": "역효과날듯..",
+      "excerpt": "bhc옥순이 공구 하려고 밑밥 까는건가",
+      "author": "여*******",
+      "company": "두산밥캣",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/bhc%EC%98%A5%EC%88%9C%EC%9D%B4-%EA%B3%B5%EA%B5%AC-%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B0%91%EB%B0%A5-%EA%B9%8C%EB%8A%94%EA%B1%B4%EA%B0%80-jumqk3vz#458606504",
+      "postedLabel": "14분",
+      "postedAt": "2026-10-27T21:30:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T12:45:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85978,
+      "source": "blind",
+      "externalId": "cmt-458608725",
+      "title": "너보다 세배는 벌걸?",
+      "excerpt": "대병 간호사는 어떤점에서 직업적으로 좋은거야?",
+      "author": "등**",
+      "company": "한국자산관리공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8C%80%EB%B3%91-%EA%B0%84%ED%98%B8%EC%82%AC%EB%8A%94-%EC%96%B4%EB%96%A4%EC%A0%90%EC%97%90%EC%84%9C-%EC%A7%81%EC%97%85%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A2%8B%EC%9D%80%EA%B1%B0%EC%95%BC-i85dl24i#458608725",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T21:44:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T12:45:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85979,
+      "source": "blind",
+      "externalId": "cmt-458608780",
+      "title": "20년 30년 다닌사람들도많구 순자돈잘벌걸",
+      "excerpt": "대병 간호사는 어떤점에서 직업적으로 좋은거야?",
+      "author": "V*****",
+      "company": "차병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8C%80%EB%B3%91-%EA%B0%84%ED%98%B8%EC%82%AC%EB%8A%94-%EC%96%B4%EB%96%A4%EC%A0%90%EC%97%90%EC%84%9C-%EC%A7%81%EC%97%85%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A2%8B%EC%9D%80%EA%B1%B0%EC%95%BC-i85dl24i#458608780",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T21:44:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T12:45:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -518412,7 +518492,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T21:41:59+09:00"
+      "slowAt": "2026-10-27T21:44:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -523405,6 +523485,7 @@
         "6624900",
         "6624901",
         "6624908",
+        "6624912",
         "6624913",
         "6624915",
         "6624921",
@@ -523426,7 +523507,8 @@
         "6624989",
         "6624992",
         "6624997",
-        "6625006"
+        "6625006",
+        "6625017"
       ]
     },
     "blind": {
@@ -524084,6 +524166,7 @@
         "/kr/post/%EB%8C%80%EA%B5%AC-c400cv16",
         "/kr/post/%EB%8C%80%EB%9E%B5-%ED%95%9C%EB%8B%AC%EB%8F%99%EC%95%88%EC%9D%80-%EB%AC%B8%EC%8B%A0-%EA%B0%80%EC%A7%80%EA%B3%A0-%EC%94%A8%EB%81%84%EB%9F%BD%EA%B2%A0%EA%B5%B0-k3w7r0ev",
         "/kr/post/%EB%8C%80%EB%B0%95-6gzak0jy",
+        "/kr/post/%EB%8C%80%EB%B3%91-%EA%B0%84%ED%98%B8%EC%82%AC%EB%8A%94-%EC%96%B4%EB%96%A4%EC%A0%90%EC%97%90%EC%84%9C-%EC%A7%81%EC%97%85%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A2%8B%EC%9D%80%EA%B1%B0%EC%95%BC-i85dl24i",
         "/kr/post/%EB%8C%80%EB%B3%91-%EC%B1%85%EC%9E%84%EA%B0%84%ED%98%B8%EC%82%AC%EA%B0%80-%EB%AD%90%EC%95%BC-v28x70zh",
         "/kr/post/%EB%8C%80%EC%B2%B4-%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EC%99%9C-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EB%90%98%EB%8A%94-%EA%B1%B0%EC%95%BC-w1g75252",
         "/kr/post/%EB%8C%80%ED%95%99%EB%82%B4%EC%9D%BC-epxmvixc",
