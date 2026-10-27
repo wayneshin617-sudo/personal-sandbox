@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:56:29+00:00",
+  "updatedAt": "2026-10-27T03:57:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -510517,6 +510517,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T03:56:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85582,
+      "source": "dc",
+      "externalId": "6623998",
+      "title": "나솔 보면 출연자들은 늘 주댕이로 망한다긔",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6623998&page=1",
+      "postedLabel": "12:56",
+      "postedAt": "2026-10-27T12:56:54+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:57:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510642,7 +510661,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T12:54:14+09:00"
+      "slowAt": "2026-10-27T12:57:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -515353,7 +515372,8 @@
         "6623971",
         "6623974",
         "6623989",
-        "6623991"
+        "6623991",
+        "6623996"
       ]
     },
     "blind": {
