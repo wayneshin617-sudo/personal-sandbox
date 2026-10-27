@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T15:17:47+00:00",
+  "updatedAt": "2026-10-27T15:19:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -521010,6 +521010,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-27T15:17:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86113,
+      "source": "blind",
+      "externalId": "cmt-458633124",
+      "title": "하지마제발",
+      "excerpt": "회사동료 짝남한테 인스타 팔로우걸기",
+      "author": "z*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EC%82%AC%EB%8F%99%EB%A3%8C-%EC%A7%9D%EB%82%A8%ED%95%9C%ED%85%8C-%EC%9D%B8%EC%8A%A4%ED%83%80-%ED%8C%94%EB%A1%9C%EC%9A%B0%EA%B1%B8%EA%B8%B0-t23tjr1c#458633124",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T00:19:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T15:19:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86114,
+      "source": "blind",
+      "externalId": "cmt-458633135",
+      "title": "음 연락빈도는요",
+      "excerpt": "회사동료 짝남한테 인스타 팔로우걸기",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EC%82%AC%EB%8F%99%EB%A3%8C-%EC%A7%9D%EB%82%A8%ED%95%9C%ED%85%8C-%EC%9D%B8%EC%8A%A4%ED%83%80-%ED%8C%94%EB%A1%9C%EC%9A%B0%EA%B1%B8%EA%B8%B0-t23tjr1c#458633135",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T00:19:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T15:19:48+00:00",
       "isSeed": false,
       "kind": "reply"
     }
