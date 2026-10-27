@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T13:59:47+00:00",
+  "updatedAt": "2026-10-27T14:00:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -519659,6 +519659,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T13:59:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 86045,
+      "source": "blind",
+      "externalId": "cmt-458621178",
+      "title": "내 기준에선 상철보단 영수가 나음 영수는 일찍 일어나서 밥도 차려주는데 상철은 비행기 10시간 넘게 타고온 사람한테 시킴 물셔틀 시킴",
+      "excerpt": "시애틀 결혼계약 재밌네 ㅋ",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%9C%EC%95%A0%ED%8B%80-%EA%B2%B0%ED%98%BC%EA%B3%84%EC%95%BD-%EC%9E%AC%EB%B0%8C%EB%84%A4-%E3%85%8B-tgipmt6f#458621178",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T23:00:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T14:00:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -519784,7 +519804,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T22:57:29+09:00"
+      "slowAt": "2026-10-27T23:00:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -524828,7 +524848,8 @@
         "6625086",
         "6625089",
         "6625103",
-        "6625106"
+        "6625106",
+        "6625108"
       ]
     },
     "blind": {
