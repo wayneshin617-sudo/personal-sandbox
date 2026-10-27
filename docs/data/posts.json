@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:03:28+00:00",
+  "updatedAt": "2026-10-27T03:06:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -509886,6 +509886,25 @@
       "firstSeenAt": "2026-10-27T03:03:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85550,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%82%AC%EB%AA%A8%EB%8B%98%EA%B3%BC-%EA%B7%B8%EB%83%A5-%EC%95%84%EC%A4%8C%EB%A7%88%EB%8A%94-%ED%95%9C-%EB%81%97-%EC%B0%A8%EC%9D%B4-7gi7juaz",
+      "title": "사모님과 그냥 아줌마는 한 끗 차이",
+      "excerpt": "자업자득",
+      "author": "v*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EB%AA%A8%EB%8B%98%EA%B3%BC-%EA%B7%B8%EB%83%A5-%EC%95%84%EC%A4%8C%EB%A7%88%EB%8A%94-%ED%95%9C-%EB%81%97-%EC%B0%A8%EC%9D%B4-7gi7juaz",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:06:14+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-27T03:06:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510011,7 +510030,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T12:03:13+09:00"
+      "slowAt": "2026-10-27T12:06:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -514684,7 +514703,8 @@
         "6623842",
         "6623849",
         "6623853",
-        "6623855"
+        "6623855",
+        "6623858"
       ]
     },
     "blind": {
