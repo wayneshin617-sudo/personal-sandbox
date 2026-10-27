@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T15:32:48+00:00",
+  "updatedAt": "2026-10-27T15:36:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -521309,6 +521309,26 @@
       "firstSeenAt": "2026-10-27T15:32:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86128,
+      "source": "dc",
+      "externalId": "cmt-10976269",
+      "title": "부자되세요 다은양",
+      "excerpt": "그러거나 말거나 광고",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625251&page=1#cmt_10976269",
+      "postedLabel": "10.28 00:36:11",
+      "postedAt": "2026-10-28T00:36:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T15:36:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -521434,7 +521454,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T00:33:29+09:00"
+      "slowAt": "2026-10-28T00:36:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -526509,7 +526529,8 @@
         "6625232",
         "6625237",
         "6625246",
-        "6625249"
+        "6625249",
+        "6625251"
       ]
     },
     "blind": {
