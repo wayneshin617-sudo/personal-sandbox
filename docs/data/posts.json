@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:24:29+00:00",
+  "updatedAt": "2026-10-27T03:25:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -510120,6 +510120,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-27T03:24:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85562,
+      "source": "blind",
+      "externalId": "cmt-458543141",
+      "title": "무려 자기소개때 한번 더 이야기함.",
+      "excerpt": "34기 한의사 영철님이요",
+      "author": "l****",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk#458543141",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:25:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:25:30+00:00",
       "isSeed": false,
       "kind": "reply"
     }
