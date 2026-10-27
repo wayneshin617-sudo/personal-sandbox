@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T05:10:15+00:00",
+  "updatedAt": "2026-10-27T05:11:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -511633,6 +511633,46 @@
       "firstSeenAt": "2026-10-27T05:10:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85639,
+      "source": "dc",
+      "externalId": "cmt-10975237",
+      "title": "블라는 서버가 해외라 거의 못잡아 해외에는 명예훼손죄같은 것도 없고 한국에서 수사한다고 협조할 의무도 없어",
+      "excerpt": "여기서 ㅈㄴ의아한거 한가지",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624182&page=1#cmt_10975237",
+      "postedLabel": "10.27 14:10:46",
+      "postedAt": "2026-10-27T14:10:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T05:11:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85640,
+      "source": "blind",
+      "externalId": "cmt-458554242",
+      "title": "옥순이?",
+      "excerpt": "순자 출세했넹",
+      "author": "j********* 작성자",
+      "company": "NHN",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%B6%9C%EC%84%B8%ED%96%88%EB%84%B9-oho6a140#458554242",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T14:11:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T05:11:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -511758,7 +511798,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T14:07:59+09:00"
+      "slowAt": "2026-10-27T14:11:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -516385,6 +516425,7 @@
         "6623611",
         "6623616",
         "6623618",
+        "6623621",
         "6623624",
         "6623628",
         "6623633",
@@ -516458,6 +516499,7 @@
         "6623863",
         "6623867",
         "6623868",
+        "6623871",
         "6623874",
         "6623875",
         "6623879",
@@ -516540,7 +516582,8 @@
         "6624158",
         "6624159",
         "6624169",
-        "6624175"
+        "6624175",
+        "6624182"
       ]
     },
     "blind": {
