@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T03:20:29+00:00",
+  "updatedAt": "2026-10-27T03:24:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -510082,6 +510082,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T03:20:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 85560,
+      "source": "blind",
+      "externalId": "cmt-458540957",
+      "title": "그래도 저정도면 스타일 괜찮은거 같은데.. 키가 그렇게 작나",
+      "excerpt": "34영철 생각보다 키가 작네",
+      "author": "여*******",
+      "company": "두산밥캣",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%ED%82%A4%EA%B0%80-%EC%9E%91%EB%84%A4-5n4kwywv#458540957",
+      "postedLabel": "22분",
+      "postedAt": "2026-10-27T12:02:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:24:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 85561,
+      "source": "blind",
+      "externalId": "cmt-458543032",
+      "title": "느낌상 180은 될거같았는데 생각보다 작나보네",
+      "excerpt": "34영철 생각보다 키가 작네",
+      "author": "1*******",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%ED%82%A4%EA%B0%80-%EC%9E%91%EB%84%A4-5n4kwywv#458543032",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T12:24:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T03:24:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510207,7 +510247,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T12:21:14+09:00"
+      "slowAt": "2026-10-27T12:24:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -514869,6 +514909,7 @@
         "6623748",
         "6623750",
         "6623755",
+        "6623764",
         "6623767",
         "6623777",
         "6623782",
