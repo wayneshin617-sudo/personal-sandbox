@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T04:15:13+00:00",
+  "updatedAt": "2026-10-27T04:16:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -510831,6 +510831,25 @@
       "firstSeenAt": "2026-10-27T04:15:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85598,
+      "source": "dc",
+      "externalId": "6624060",
+      "title": "야 어떤 회사가 근무시간 단축하고 사람 하나",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624060&page=1",
+      "postedLabel": "13:15",
+      "postedAt": "2026-10-27T13:15:40+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T04:16:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510912,7 +510931,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-27T13:13:00+09:00"
+      "slowAt": "2026-10-27T13:16:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -515651,6 +515670,7 @@
         "6623874",
         "6623875",
         "6623879",
+        "6623880",
         "6623882",
         "6623884",
         "6623894",
