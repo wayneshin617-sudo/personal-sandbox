@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T12:04:16+00:00",
+  "updatedAt": "2026-10-27T12:10:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -517738,6 +517738,26 @@
       "firstSeenAt": "2026-10-27T12:04:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 85948,
+      "source": "dc",
+      "externalId": "cmt-10976002",
+      "title": "입장문=입장하는 문 퇴장문=퇴장하는 문 - dc App",
+      "excerpt": "입장문은 뭐야 ?",
+      "author": "딸랑딸랑고추",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6624951&page=1#cmt_10976002",
+      "postedLabel": "10.27 21:09:24",
+      "postedAt": "2026-10-27T21:09:24+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T12:10:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -522856,7 +522876,8 @@
         "6624934",
         "6624938",
         "6624940",
-        "6624945"
+        "6624945",
+        "6624951"
       ]
     },
     "blind": {
