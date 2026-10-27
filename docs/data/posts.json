@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-27T13:29:46+00:00",
+  "updatedAt": "2026-10-27T13:30:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -519160,6 +519160,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-27T13:29:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 86020,
+      "source": "blind",
+      "externalId": "cmt-458616275",
+      "title": "외모도 별로였는데 그런일이 있었어? 최악 술먹는하마",
+      "excerpt": "광수 사전인터뷰 보면 정숙이랑 겸상할 급은 아님",
+      "author": "!*******",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%82%AC%EC%A0%84%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%B3%B4%EB%A9%B4-%EC%A0%95%EC%88%99%EC%9D%B4%EB%9E%91-%EA%B2%B8%EC%83%81%ED%95%A0-%EA%B8%89%EC%9D%80-%EC%95%84%EB%8B%98-37bc27gf#458616275",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T22:30:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T13:30:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86021,
+      "source": "blind",
+      "externalId": "cmt-458616184",
+      "title": "광수는 외모 문제보다.. 메타인지랑 술이 좀 문제임.. 첫화부터 선택 못받아서 징징대고 술 먹고 비틀거리는 모습이 비호감..",
+      "excerpt": "광수 사전인터뷰 보면 정숙이랑 겸상할 급은 아님",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%82%AC%EC%A0%84%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%B3%B4%EB%A9%B4-%EC%A0%95%EC%88%99%EC%9D%B4%EB%9E%91-%EA%B2%B8%EC%83%81%ED%95%A0-%EA%B8%89%EC%9D%80-%EC%95%84%EB%8B%98-37bc27gf#458616184",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-27T22:30:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-27T13:30:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -519285,7 +519325,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-27T22:27:29+09:00"
+      "slowAt": "2026-10-27T22:30:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -524318,7 +524358,8 @@
         "6625065",
         "6625070",
         "6625076",
-        "6625077"
+        "6625077",
+        "6625084"
       ]
     },
     "blind": {
