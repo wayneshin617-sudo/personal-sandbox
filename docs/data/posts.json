@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T07:11:56+00:00",
+  "updatedAt": "2026-10-28T07:23:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -531157,6 +531157,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-28T07:11:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86624,
+      "source": "dc",
+      "externalId": "6626253",
+      "title": "나솔은 말이요",
+      "excerpt": "",
+      "author": "파스쿠찌",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6626253&page=1",
+      "postedLabel": "16:23",
+      "postedAt": "2026-10-28T16:23:32+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T07:23:56+00:00",
       "isSeed": false
     }
   ],
