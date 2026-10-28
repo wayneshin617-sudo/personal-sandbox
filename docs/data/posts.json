@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T23:52:29+00:00",
+  "updatedAt": "2026-10-28T23:53:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -601072,6 +601072,65 @@
       "firstSeenAt": "2026-10-28T23:52:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90237,
+      "source": "blind",
+      "externalId": "cmt-458804625",
+      "title": "김지영 진짜 존예더라",
+      "excerpt": "솔직히 영호 정도면",
+      "author": "!********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%98%81%ED%98%B8-%EC%A0%95%EB%8F%84%EB%A9%B4-so03bvt8#458804625",
+      "postedLabel": "16분",
+      "postedAt": "2026-10-29T08:37:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:53:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90238,
+      "source": "blind",
+      "externalId": "cmt-458806202",
+      "title": "남자들 좋아서 울던데",
+      "excerpt": "뭐? 나는솔로 한국남자x외국여자 특집한다고?",
+      "author": "인**** 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AD%90-%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%ED%95%9C%EA%B5%AD%EB%82%A8%EC%9E%90x%EC%99%B8%EA%B5%AD%EC%97%AC%EC%9E%90-%ED%8A%B9%EC%A7%91%ED%95%9C%EB%8B%A4%EA%B3%A0-723xtwl2#458806202",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T08:53:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:53:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90239,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0-%EC%98%A5%EC%88%9C-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%95%8C-%EC%83%81%EC%B2%A0-%EC%99%A4%EC%BC%80-%EA%BA%BC%EB%93%9C%EB%9F%AD%EA%B1%B0%EB%A0%A4-gu024685",
+      "title": "상철 옥순 데이트 때 상철 왤케 꺼드럭거려?",
+      "excerpt": "민망스럽네",
+      "author": "l*********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%98%A5%EC%88%9C-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%95%8C-%EC%83%81%EC%B2%A0-%EC%99%A4%EC%BC%80-%EA%BA%BC%EB%93%9C%EB%9F%AD%EA%B1%B0%EB%A0%A4-gu024685",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T08:53:12+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T23:53:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -601211,7 +601270,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T08:50:13+09:00"
+      "slowAt": "2026-10-29T08:53:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -607583,7 +607642,8 @@
         "6634037",
         "6634039",
         "6634041",
-        "6634045"
+        "6634045",
+        "6634051"
       ]
     },
     "blind": {
@@ -608775,6 +608835,7 @@
         "/kr/post/%EB%AD%90%EC%95%BC-k4tgsgl8",
         "/kr/post/%EB%AD%90%EC%A7%80-hloafzqa",
         "/kr/post/%EB%AD%90-%EA%B7%B8%EB%A0%87%EA%B2%8C-%ED%95%99%EB%B2%8C-%EC%A7%81%EA%B5%B0%EC%97%90-%EC%97%B0%EC%97%B0%ED%95%98%EB%83%90-p00lynhc",
+        "/kr/post/%EB%AD%90-%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%ED%95%9C%EA%B5%AD%EB%82%A8%EC%9E%90x%EC%99%B8%EA%B5%AD%EC%97%AC%EC%9E%90-%ED%8A%B9%EC%A7%91%ED%95%9C%EB%8B%A4%EA%B3%A0-723xtwl2",
         "/kr/post/%EB%AD%90-%EB%AC%B8%EC%8B%A0-%EC%96%B4%EC%9D%98%EA%B0%80%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90-o7wwss6a",
         "/kr/post/%EB%AD%94-%EC%A0%84%EC%9F%81%EC%9D%B4%EC%95%BC-ya066b1w",
         "/kr/post/%EB%AD%94-%ED%95%98%EB%A3%A8%EC%A3%99%EC%9D%BC-%EB%AC%B8%EC%8B%A0%EC%96%98%EA%B8%B0%EB%A7%8C-%ED%95%98%EB%83%90-673afyk6",
@@ -611785,6 +611846,7 @@
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%97%AD%EB%8C%80-%EC%A7%81%EC%97%85-%EA%B3%A0%ED%8A%B8%EB%84%A4-ef5trapg",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%81%EC%B2%A0-%EC%84%A0%ED%83%9D%ED%95%A0-%ED%99%95%EB%A5%A0-%EA%B1%B0%EC%9D%98-%EC%97%86%EB%8B%A4%EA%B3%A0-%EB%B4%84-eqqtcuyj",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%81%EC%B2%A0-%EC%B2%AB-%EC%84%A0%ED%83%9D%ED%95%9C%EA%B1%B4-%EC%9D%B4%ED%95%B4%EB%90%A8-xkrwc87g",
+        "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%81%ED%98%B8%EC%A0%95%EB%8F%84%EB%A1%9C-%ED%98%84%EC%BB%A4%EB%90%A0%EA%B1%B0%EC%98%80%EC%9C%BC%EB%A9%B4-fz6eksrw",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%88%EC%81%98%EA%B8%B4%ED%95%9C%EB%8D%B0-72q5itxl",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EA%B1%B8-%EA%B0%90%EA%B2%BC%EB%84%A4-o5grsgmc",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EA%B8%B4%ED%95%98%EB%84%A4-08yoysqf",
