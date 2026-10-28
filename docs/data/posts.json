@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:40:14+00:00",
+  "updatedAt": "2026-10-28T17:41:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -595893,6 +595893,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T17:40:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 89974,
+      "source": "blind",
+      "externalId": "cmt-458787527",
+      "title": "승차감이 좋은 차는 아닌데 현숙이 멀미쪽으로 예민한듯",
+      "excerpt": "영철 차",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%B0%A8-yoybx6zv#458787527",
+      "postedLabel": "41분",
+      "postedAt": "2026-10-29T01:59:56+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:41:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -596027,7 +596047,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T02:37:57+09:00"
+      "slowAt": "2026-10-29T02:40:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -602109,7 +602129,8 @@
         "6633201",
         "6633204",
         "6633205",
-        "6633211"
+        "6633211",
+        "6633218"
       ]
     },
     "blind": {
@@ -606275,6 +606296,7 @@
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%97%AD%EB%8C%80-%EC%A7%81%EC%97%85-%EA%B3%A0%ED%8A%B8%EB%84%A4-ef5trapg",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%81%EC%B2%A0-%EC%84%A0%ED%83%9D%ED%95%A0-%ED%99%95%EB%A5%A0-%EA%B1%B0%EC%9D%98-%EC%97%86%EB%8B%A4%EA%B3%A0-%EB%B4%84-eqqtcuyj",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%81%EC%B2%A0-%EC%B2%AB-%EC%84%A0%ED%83%9D%ED%95%9C%EA%B1%B4-%EC%9D%B4%ED%95%B4%EB%90%A8-xkrwc87g",
+        "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%88%EC%81%98%EA%B8%B4%ED%95%9C%EB%8D%B0-72q5itxl",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EA%B1%B8-%EA%B0%90%EA%B2%BC%EB%84%A4-o5grsgmc",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EA%B8%B4%ED%95%98%EB%84%A4-08yoysqf",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%9C%ED%8E%B8%EC%9D%B8%EA%B0%80-uc5xt4ig",
