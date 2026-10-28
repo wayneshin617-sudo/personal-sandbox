@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T15:55:12+00:00",
+  "updatedAt": "2026-10-28T15:56:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -587534,6 +587534,84 @@
       "firstSeenAt": "2026-10-28T15:55:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89551,
+      "source": "qoo",
+      "externalId": "4389404409",
+      "title": "순자-영호는 안어울려 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389404409",
+      "postedLabel": "00:55",
+      "postedAt": "2026-10-29T00:54:59+09:00",
+      "views": 35,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-28T15:56:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89552,
+      "source": "qoo",
+      "externalId": "4389404562",
+      "title": "담주 궁금해서 첫화 다시 보고옴",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389404562",
+      "postedLabel": "00:55",
+      "postedAt": "2026-10-29T00:55:00+09:00",
+      "views": 17,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:56:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89553,
+      "source": "blind",
+      "externalId": "cmt-458782318",
+      "title": "각자 데이트 상대를 피디한테 얘기함 -> 낮에 남자픽 데이트였다면 저녁은 여자픽 데이트임 상대는 낮에 피디한테 말했던대로 찾아가야돼서 낮 데이트 하면서 마음 바꼈어도 밤에 선택 못바꿈",
+      "excerpt": "동시선택 데이트가 뭐더라",
+      "author": "i*********",
+      "company": "대우건설",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%99%EC%8B%9C%EC%84%A0%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EA%B0%80-%EB%AD%90%EB%8D%94%EB%9D%BC-f8zux1rl#458782318",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T00:55:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:56:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89554,
+      "source": "blind",
+      "externalId": "cmt-458782331",
+      "title": "오늘 다대일 데이트에서 좀 느껴지지던데ㅋㅋ 착하지만 갑의 연애를 해오신 분",
+      "excerpt": "영호랑 현숙 사귈까?",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%9E%91-%ED%98%84%EC%88%99-%EC%82%AC%EA%B7%88%EA%B9%8C-88d68aub#458782331",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T00:55:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:56:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -587668,7 +587746,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T00:52:56+09:00"
+      "slowAt": "2026-10-29T00:55:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -593561,7 +593639,10 @@
         "6632514",
         "6632538",
         "6632540",
-        "6632547"
+        "6632541",
+        "6632542",
+        "6632547",
+        "6632560"
       ]
     },
     "blind": {
@@ -601790,7 +601871,9 @@
         "4389402550",
         "4389402808",
         "4389403119",
-        "4389404116"
+        "4389404116",
+        "4389404409",
+        "4389404562"
       ]
     },
     "keep": "v2",
