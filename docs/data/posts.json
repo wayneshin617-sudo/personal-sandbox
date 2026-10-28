@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T21:39:46+00:00",
+  "updatedAt": "2026-10-28T21:43:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -598665,6 +598665,25 @@
       "firstSeenAt": "2026-10-28T21:39:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90115,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%88%99%EA%B0%99%EC%9D%80-%EC%97%AC%EC%9E%90-%EC%A7%81%EC%9E%A5-%EC%83%81%EC%82%AC-%EB%A7%8C%EB%82%98%EB%A9%B4-eksg1aqu",
+      "title": "투표글 34영숙같은 여자 직장 상사 만나면 투표",
+      "excerpt": "내가 남자인 경우, 무력으로 제압해도 인정이다? 안된다. 하나만 골라보자.",
+      "author": "i*******",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%99%EA%B0%99%EC%9D%80-%EC%97%AC%EC%9E%90-%EC%A7%81%EC%9E%A5-%EC%83%81%EC%82%AC-%EB%A7%8C%EB%82%98%EB%A9%B4-eksg1aqu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T06:43:27+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T21:43:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -598804,7 +598823,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T06:40:27+09:00"
+      "slowAt": "2026-10-29T06:43:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -605117,7 +605136,8 @@
         "6633766",
         "6633781",
         "6633788",
-        "6633798"
+        "6633798",
+        "6633801"
       ]
     },
     "blind": {
