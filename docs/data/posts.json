@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T23:02:29+00:00",
+  "updatedAt": "2026-10-28T23:03:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -599448,6 +599448,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T23:02:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90155,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EC%95%BC%EB%A7%9D%EC%9E%87%EA%B3%A0-%ED%98%BC%EC%9E%90%EC%84%9C%ED%95%A0%EA%B2%83%EB%8F%84%EB%A7%8E%EA%B3%A0-%EA%B7%B8%EB%9E%98%EC%84%9C-f1gu24av",
+      "title": "현숙은 야망잇고 혼자서할것도많고 그래서",
+      "excerpt": "그동안 결혼생각없엇을듯 근데 주변친구들 다 가는거보니까 슬슬 나도가고싶어져서 나온듯함",
+      "author": "c******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EC%95%BC%EB%A7%9D%EC%9E%87%EA%B3%A0-%ED%98%BC%EC%9E%90%EC%84%9C%ED%95%A0%EA%B2%83%EB%8F%84%EB%A7%8E%EA%B3%A0-%EA%B7%B8%EB%9E%98%EC%84%9C-f1gu24av",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T08:03:12+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T23:03:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90156,
+      "source": "blind",
+      "externalId": "cmt-458801493",
+      "title": "말이 많은건 괜찮은데 다 실언이잖아",
+      "excerpt": "말이 많은 사람은 만나면 안되는 이유",
+      "author": "l*******",
+      "company": "ex-스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3spbyfrq#458801493",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T08:03:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:03:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -599537,7 +599576,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T08:00:11+09:00"
+      "slowAt": "2026-10-29T08:03:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -605908,6 +605947,7 @@
         "6633812",
         "6633821",
         "6633822",
+        "6633824",
         "6633903",
         "6633909"
       ]
@@ -606787,6 +606827,7 @@
         "/kr/post/%EB%A7%90%EC%9D%84-%EB%AA%BB-%EB%B0%B0%EC%9A%B4%EB%93%AF-bf6k8vrp",
         "/kr/post/%EB%A7%90%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%83%90-0bow8e7k",
         "/kr/post/%EB%A7%90%EC%9D%84-%EC%99%A4%EC%BC%80-%EC%9E%AC%EC%88%98%EC%97%86%EA%B2%8C%ED%95%98%EB%83%90-mctkako2",
+        "/kr/post/%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3spbyfrq",
         "/kr/post/%EB%A7%90%ED%88%AC-1gg8krtq",
         "/kr/post/%EB%A7%90%ED%95%98%EB%8A%94-%EC%88%98%EC%A4%80%EC%9C%BC%EB%A1%9C%EB%8A%94-8bs232f3",
         "/kr/post/%EB%A7%90-%E3%85%88%E3%84%B4-%EC%8B%B8%EA%B0%80%EC%A7%80%EC%97%86%EA%B2%8C%ED%95%98%EB%84%A4-mhqeieb0",
