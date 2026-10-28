@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T23:01:29+00:00",
+  "updatedAt": "2026-10-28T23:02:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -599409,6 +599409,45 @@
       "firstSeenAt": "2026-10-28T23:01:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90153,
+      "source": "blind",
+      "externalId": "cmt-458799259",
+      "title": "ㅋㅋ 남자는 맘에도 없는데 연애타령 웃겼음",
+      "excerpt": "어디 언니가 연애하는데~",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EB%94%94-%EC%96%B8%EB%8B%88%EA%B0%80-%EC%97%B0%EC%95%A0%ED%95%98%EB%8A%94%EB%8D%B0-a3iv4kwm#458799259",
+      "postedLabel": "26분",
+      "postedAt": "2026-10-29T07:36:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:02:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90154,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3spbyfrq",
+      "title": "말이 많은 사람은 만나면 안되는 이유",
+      "excerpt": "영철이가 다보여주네",
+      "author": "m*******",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3spbyfrq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T08:02:12+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T23:02:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -599548,7 +599587,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T07:59:12+09:00"
+      "slowAt": "2026-10-29T08:02:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -605868,6 +605907,7 @@
         "6633811",
         "6633812",
         "6633821",
+        "6633822",
         "6633903",
         "6633909"
       ]
