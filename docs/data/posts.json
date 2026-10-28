@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T23:04:29+00:00",
+  "updatedAt": "2026-10-28T23:05:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -599507,6 +599507,26 @@
       "firstSeenAt": "2026-10-28T23:04:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90158,
+      "source": "blind",
+      "externalId": "cmt-458801668",
+      "title": "영철:항상",
+      "excerpt": "말이 많은 사람은 만나면 안되는 이유",
+      "author": "l*******",
+      "company": "ex-스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3spbyfrq#458801668",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T08:05:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:05:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -599646,7 +599666,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T08:02:12+09:00"
+      "slowAt": "2026-10-29T08:05:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -605970,7 +605990,9 @@
         "6633824",
         "6633825",
         "6633903",
-        "6633909"
+        "6633909",
+        "6633918",
+        "6633921"
       ]
     },
     "blind": {
