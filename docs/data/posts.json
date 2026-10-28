@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T09:06:57+00:00",
+  "updatedAt": "2026-10-28T09:07:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -532386,6 +532386,26 @@
       "firstSeenAt": "2026-10-28T09:06:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86686,
+      "source": "dc",
+      "externalId": "cmt-10977461",
+      "title": "가족건드리지마라",
+      "excerpt": "순자언니도 40인데 결혼못함",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6626435&page=1#cmt_10977461",
+      "postedLabel": "10.28 18:07:22",
+      "postedAt": "2026-10-28T18:07:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T09:07:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -532519,7 +532539,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T18:04:39+09:00"
+      "slowAt": "2026-10-28T18:07:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -537961,7 +537981,8 @@
         "6626413",
         "6626417",
         "6626427",
-        "6626431"
+        "6626431",
+        "6626435"
       ]
     },
     "blind": {
