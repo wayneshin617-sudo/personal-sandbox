@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T15:49:14+00:00",
+  "updatedAt": "2026-10-28T15:50:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -587125,6 +587125,64 @@
       "firstSeenAt": "2026-10-28T15:49:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89530,
+      "source": "qoo",
+      "externalId": "4389401118",
+      "title": "영철 외대 서울캠임?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389401118",
+      "postedLabel": "00:49",
+      "postedAt": "2026-10-29T00:49:00+09:00",
+      "views": 27,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:50:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89531,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%85%BC%EC%82%B0-%EC%82%B4%EB%A9%B4-%EC%95%84%EC%9A%B0%EB%94%94%EB%8F%84-%EB%AA%A8%EB%A5%B4%EB%82%98-m6mfekzk",
+      "title": "근데 논산 살면 아우디도 모르나??",
+      "excerpt": "차값은 모른다고 쳐도. 벤츠, bmw는 알겠지?? 인플루언서 되서 외제차 타시길",
+      "author": "1*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%85%BC%EC%82%B0-%EC%82%B4%EB%A9%B4-%EC%95%84%EC%9A%B0%EB%94%94%EB%8F%84-%EB%AA%A8%EB%A5%B4%EB%82%98-m6mfekzk",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T00:49:56+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T15:50:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89532,
+      "source": "blind",
+      "externalId": "cmt-458781711",
+      "title": "아닐걸 현숙",
+      "excerpt": "영호랑 현숙 사귈까?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%9E%91-%ED%98%84%EC%88%99-%EC%82%AC%EA%B7%88%EA%B9%8C-88d68aub#458781711",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T00:49:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:50:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -587259,7 +587317,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T00:46:57+09:00"
+      "slowAt": "2026-10-29T00:49:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -596241,6 +596299,7 @@
         "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%EC%98%81%EC%B2%A0%EC%9D%98-%EB%AC%B4%EC%8A%A8-%EA%BA%BC%EB%93%9C%EB%9F%AD%EC%9D%84-%EB%B4%90%EC%95%BC%ED%95%98%EC%95%84-hdu2pyd4",
         "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%ED%98%84%EC%88%99%EB%B3%B4%EB%8B%A4-w60zy546",
         "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%98-%EA%B5%90%ED%9B%88-702sq5yg",
+        "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%9D%B5%EC%9E%A5%EB%A9%B4-47znpetu",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%82%98%EC%86%94%EC%96%98%EA%B8%B0-%EC%A2%80%EB%A7%8C-%ED%95%98%EB%8B%A4-%EC%9E%90%EC%8B%A4%EB%B6%84-p4cuc81n",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%84%88%EB%AC%B4-%EC%9E%AC%EB%AF%B8%EC%97%86%EB%8B%A4-%EC%9E%98%EA%B9%8C%EB%A7%90%EA%B9%8C-%EA%B3%A0%EB%AF%BC%EC%A4%91-c52mjir1",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%82%98-%ED%81%B4%EB%9F%BD%EA%B0%80%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-z67gcaab",
@@ -601359,9 +601418,13 @@
         "4389397696",
         "4389397804",
         "4389398182",
+        "4389398711",
+        "4389398828",
         "4389398979",
         "4389399049",
-        "4389400051"
+        "4389399078",
+        "4389400051",
+        "4389401118"
       ]
     },
     "keep": "v2",
