@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T18:15:14+00:00",
+  "updatedAt": "2026-10-28T18:20:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -596862,6 +596862,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T18:15:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90023,
+      "source": "dc",
+      "externalId": "6633374",
+      "title": "7급공무원이면 곧 5급될듯",
+      "excerpt": "",
+      "author": "나솔",
+      "company": "",
+      "ip": "221.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633374&page=1",
+      "postedLabel": "03:19",
+      "postedAt": "2026-10-29T03:19:48+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:20:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -596996,7 +597015,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T03:16:56+09:00"
+      "slowAt": "2026-10-29T03:19:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -603072,6 +603091,7 @@
         "6633130",
         "6633131",
         "6633132",
+        "6633137",
         "6633138",
         "6633146",
         "6633147",
@@ -603145,7 +603165,9 @@
         "6633362",
         "6633365",
         "6633366",
-        "6633370"
+        "6633369",
+        "6633370",
+        "6633372"
       ]
     },
     "blind": {
