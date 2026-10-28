@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T07:10:56+00:00",
+  "updatedAt": "2026-10-28T07:11:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -531099,6 +531099,65 @@
       "firstSeenAt": "2026-10-28T07:10:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86621,
+      "source": "blind",
+      "externalId": "cmt-458708830",
+      "title": "성격이나 언행 자체가 살면서 저렇게 해도 앵간히 먹히니 안 고치고 사는거 같은데 직업이 달랐어도 크게 다르진 않을거 같음…",
+      "excerpt": "영철이 공무원이 아닌 더 좋은 직업군이었다면 어땠을까?????",
+      "author": "s********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%8C-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%97%85%EA%B5%B0%EC%9D%B4%EC%97%88%EB%8B%A4%EB%A9%B4-%EC%96%B4%EB%95%A0%EC%9D%84%EA%B9%8C-50v5bizt#458708830",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-28T16:09:38+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T07:11:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86622,
+      "source": "dc",
+      "externalId": "cmt-10977294",
+      "title": "앤 매력이없어 말할때마다 깸",
+      "excerpt": "이정도 이뻐도 안되는데 옥순이 되겠냐",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6626226&page=1#cmt_10977294",
+      "postedLabel": "10.28 16:11:06",
+      "postedAt": "2026-10-28T16:11:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T07:11:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86623,
+      "source": "dc",
+      "externalId": "6626234",
+      "title": "36살 아재 오늘의 OOTD평가점!",
+      "excerpt": "",
+      "author": "파스쿠찌",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6626234&page=1",
+      "postedLabel": "16:11",
+      "postedAt": "2026-10-28T16:11:31+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T07:11:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -536621,7 +536680,8 @@
         "6626209",
         "6626212",
         "6626219",
-        "6626225"
+        "6626225",
+        "6626226"
       ]
     },
     "blind": {
