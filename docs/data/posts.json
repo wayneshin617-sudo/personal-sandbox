@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T03:56:14+00:00",
+  "updatedAt": "2026-10-28T03:58:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -528990,6 +528990,26 @@
       "firstSeenAt": "2026-10-28T03:56:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86515,
+      "source": "dc",
+      "externalId": "cmt-10976896",
+      "title": "우리 동키 퐈이팅",
+      "excerpt": "34영자는 영철이 아니라",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625794&page=2#cmt_10976896",
+      "postedLabel": "10.28 12:09:44",
+      "postedAt": "2026-10-28T12:09:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T03:58:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -529073,7 +529093,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T12:54:57+09:00"
+      "slowAt": "2026-10-28T12:57:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -534393,6 +534413,7 @@
         "6625780",
         "6625785",
         "6625793",
+        "6625794",
         "6625871"
       ]
     },
