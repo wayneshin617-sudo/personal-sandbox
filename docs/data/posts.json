@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T11:12:28+00:00",
+  "updatedAt": "2026-10-28T11:13:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -533888,6 +533888,26 @@
       "firstSeenAt": "2026-10-28T11:12:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86762,
+      "source": "blind",
+      "externalId": "cmt-458737940",
+      "title": "95라니...99퍼센",
+      "excerpt": "직설적으로 꽂아버리는 T들이 주변에 없으면",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%81%EC%84%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%BD%82%EC%95%84%EB%B2%84%EB%A6%AC%EB%8A%94-T%EB%93%A4%EC%9D%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%97%86%EC%9C%BC%EB%A9%B4-lbt51f1n#458737940",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T20:13:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T11:13:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -534021,7 +534041,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T20:10:11+09:00"
+      "slowAt": "2026-10-28T20:13:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -539549,7 +539569,8 @@
         "6626663",
         "6626664",
         "6626665",
-        "6626674"
+        "6626674",
+        "6626679"
       ]
     },
     "blind": {
