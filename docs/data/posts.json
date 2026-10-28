@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T10:08:26+00:00",
+  "updatedAt": "2026-10-28T10:10:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -533098,6 +533098,25 @@
       "firstSeenAt": "2026-10-28T10:08:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86722,
+      "source": "dc",
+      "externalId": "6626537",
+      "title": "34기는 망한듯",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6626537&page=1",
+      "postedLabel": "19:10",
+      "postedAt": "2026-10-28T19:10:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T10:10:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -533231,7 +533250,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T19:07:10+09:00"
+      "slowAt": "2026-10-28T19:10:10+09:00"
     },
     "dc": {
       "doneIds": [
