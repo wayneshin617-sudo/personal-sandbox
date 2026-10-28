@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T10:47:28+00:00",
+  "updatedAt": "2026-10-28T10:49:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -533731,6 +533731,46 @@
       "firstSeenAt": "2026-10-28T10:47:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86754,
+      "source": "blind",
+      "externalId": "cmt-458734000",
+      "title": "너땜시 피자 땡긴다. 책임져!!!",
+      "excerpt": "일정좀 짜줘",
+      "author": "M******",
+      "company": "커리어케어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%BC%EC%A0%95%EC%A2%80-%EC%A7%9C%EC%A4%98-41i3kpa5#458734000",
+      "postedLabel": "3분",
+      "postedAt": "2026-10-28T19:46:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T10:49:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86755,
+      "source": "blind",
+      "externalId": "cmt-458734339",
+      "title": "넌 운동 안하지? 난 운동해서 ㄱㅊ아 살이나 쪄 ㅉ",
+      "excerpt": "일정좀 짜줘",
+      "author": "R***** 작성자",
+      "company": "유나이티드파슬서비스코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%BC%EC%A0%95%EC%A2%80-%EC%A7%9C%EC%A4%98-41i3kpa5#458734339",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T19:49:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T10:49:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -533864,7 +533904,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T19:46:11+09:00"
+      "slowAt": "2026-10-28T19:49:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -539368,7 +539408,8 @@
         "6626601",
         "6626602",
         "6626605",
-        "6626609"
+        "6626609",
+        "6626615"
       ]
     },
     "blind": {
