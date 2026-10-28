@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T16:58:14+00:00",
+  "updatedAt": "2026-10-28T16:59:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -593539,6 +593539,46 @@
       "firstSeenAt": "2026-10-28T16:58:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89855,
+      "source": "qoo",
+      "externalId": "cmt-4389406451",
+      "title": "할말못할말 다하는게 adhd같기도해",
+      "excerpt": "아니 솔직히 자기소개 때 자가가 있니없니 사는 동네 다 밝히는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389406227#4389406451",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T00:59:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T16:59:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89856,
+      "source": "blind",
+      "externalId": "cmt-458787453",
+      "title": "그건 맞지. 근데 예뻐도 차 탈때마다 멀미하면 정떨어짐",
+      "excerpt": "현숙 멀미 보니까",
+      "author": "l******** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%A9%80%EB%AF%B8-%EB%B3%B4%EB%8B%88%EA%B9%8C-qwpe0cwl#458787453",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T01:58:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T16:59:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -593673,7 +593713,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T01:55:56+09:00"
+      "slowAt": "2026-10-29T01:58:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -599582,6 +599622,7 @@
         "6632589",
         "6632593",
         "6632597",
+        "6632600",
         "6632601",
         "6632606",
         "6632609",
@@ -599690,7 +599731,8 @@
         "6633018",
         "6633022",
         "6633025",
-        "6633039"
+        "6633039",
+        "6633042"
       ]
     },
     "blind": {
