@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T18:23:16+00:00",
+  "updatedAt": "2026-10-28T18:25:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -596939,6 +596939,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T18:23:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90027,
+      "source": "blind",
+      "externalId": "cmt-458790209",
+      "title": "나는솔로 영수가 계약결혼 영수는 아니지? 나 그렁거 처음봤는데 영수가 여기저기에 많나보네.",
+      "excerpt": "영수 잘보면",
+      "author": "i*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%9E%98%EB%B3%B4%EB%A9%B4-eednpk7m#458790209",
+      "postedLabel": "27분",
+      "postedAt": "2026-10-29T02:57:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:25:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90028,
+      "source": "dc",
+      "externalId": "cmt-10979168",
+      "title": "7급이면 금방 5급될듯",
+      "excerpt": "영철이 자기소개에서 있는척 ㅋㅋ",
+      "author": "나솔",
+      "company": "",
+      "ip": "221.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633394&page=1#cmt_10979168",
+      "postedLabel": "10.29 03:24:34",
+      "postedAt": "2026-10-29T03:24:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:25:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -597023,7 +597063,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T03:21:56+09:00"
+      "slowAt": "2026-10-29T03:24:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -603235,7 +603275,10 @@
         "6633375",
         "6633378",
         "6633380",
-        "6633384"
+        "6633384",
+        "6633385",
+        "6633389",
+        "6633394"
       ]
     },
     "blind": {
