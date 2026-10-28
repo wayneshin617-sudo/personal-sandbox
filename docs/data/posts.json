@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:22:15+00:00",
+  "updatedAt": "2026-10-28T17:23:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -595403,6 +595403,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T17:22:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 89949,
+      "source": "qoo",
+      "externalId": "cmt-4389418428",
+      "title": "남출중에 직장 제일 좋음. 감자상도 수요 있음",
+      "excerpt": "근데 여자들 후순위에 상철이 은근 많다 ㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389412244#4389418428",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:22:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:23:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89950,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%E2%80%A6-z5v8ohig",
+      "title": "영철이…",
+      "excerpt": "눈팅 쫙 해보니 왜케 과거의 자기모습같다는 사람들이 많앜 ㅋㅋㅋ 진심 저런 캐릭터가 공감이 될수 있다고…? 너무독보적인데..",
+      "author": "g********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%E2%80%A6-z5v8ohig",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T02:22:57+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T17:23:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -595537,7 +595576,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T02:19:56+09:00"
+      "slowAt": "2026-10-29T02:22:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -601514,6 +601553,7 @@
         "6632817",
         "6632822",
         "6632824",
+        "6632825",
         "6632827",
         "6632830",
         "6632842",
@@ -601587,7 +601627,9 @@
         "6633123",
         "6633128",
         "6633132",
-        "6633138"
+        "6633138",
+        "6633146",
+        "6633147"
       ]
     },
     "blind": {
