@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T09:27:57+00:00",
+  "updatedAt": "2026-10-28T09:28:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -532663,6 +532663,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T09:27:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 86700,
+      "source": "blind",
+      "externalId": "cmt-458724647",
+      "title": "좀 역하긴 함.. 멀쩡하게 생기신분이 가만히만 있어도 반은 먹고 들어갈 것 같은데..",
+      "excerpt": "영수 나이에 싱글이면 저리 스킨십 집착하나?",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EB%82%98%EC%9D%B4%EC%97%90-%EC%8B%B1%EA%B8%80%EC%9D%B4%EB%A9%B4-%EC%A0%80%EB%A6%AC-%EC%8A%A4%ED%82%A8%EC%8B%AD-%EC%A7%91%EC%B0%A9%ED%95%98%EB%82%98-vgljebh2#458724647",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T18:28:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T09:28:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -532796,7 +532816,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T18:25:39+09:00"
+      "slowAt": "2026-10-28T18:28:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -538253,7 +538273,9 @@
         "6626454",
         "6626459",
         "6626460",
-        "6626466"
+        "6626466",
+        "6626472",
+        "6626476"
       ]
     },
     "blind": {
@@ -540826,6 +540848,7 @@
         "/kr/post/%EC%98%9B%EB%82%A0%EC%97%90-%EB%A7%90%ED%95%98%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%8B%A0%EC%97%86%EB%8D%98-%EC%B6%9C%EC%97%B0%EC%9E%90-%EB%88%84%EA%B5%AC%EB%8D%94%EB%9D%BC-ji0qp1oj",
         "/kr/post/%EC%98%9B%EB%82%A0%EC%97%90-%EB%AC%B8%EC%8B%A0%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0-bhdkkyzq",
         "/kr/post/%EC%98%9B%EB%82%A0-%EB%B6%80%EB%AA%A8%EB%8B%98-%EC%8B%9C%EB%8C%80%EB%8A%94-%EA%B1%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%97%AC%EC%84%B1%EC%9D%B4-2n5y803a",
+        "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%EB%98%90-u71tbq0n",
         "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%ED%98%84%EC%88%99%EB%B3%B4%EB%8B%A4-w60zy546",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%82%98-%ED%81%B4%EB%9F%BD%EA%B0%80%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-z67gcaab",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%B0%A9%EC%86%A1%EC%8B%9C%EA%B0%84-%EC%8B%A4%ED%99%94%EB%83%90-udc8lfry",
