@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:39:15+00:00",
+  "updatedAt": "2026-10-28T17:40:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -595835,6 +595835,64 @@
       "firstSeenAt": "2026-10-28T17:39:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89971,
+      "source": "qoo",
+      "externalId": "cmt-4389402534",
+      "title": "ㄱㅇㅇ",
+      "excerpt": "상철옥순 잘어울림",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389395600#4389402534",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T00:51:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:40:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89972,
+      "source": "dc",
+      "externalId": "6633212",
+      "title": "남자가 학대나 폭행이 많다는게 개소리인 이유",
+      "excerpt": "",
+      "author": "ㅋㅋㅋ",
+      "company": "",
+      "ip": "14.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633212&page=1",
+      "postedLabel": "02:39",
+      "postedAt": "2026-10-29T02:39:47+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:40:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89973,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%88%EC%81%98%EA%B8%B4%ED%95%9C%EB%8D%B0-72q5itxl",
+      "title": "현숙이 예쁘긴한데",
+      "excerpt": "까다롭고 예민할거같음..",
+      "author": "a******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%88%EC%81%98%EA%B8%B4%ED%95%9C%EB%8D%B0-72q5itxl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T02:39:57+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T17:40:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -595919,7 +595977,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T02:36:57+09:00"
+      "slowAt": "2026-10-29T02:39:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -601983,6 +602041,7 @@
         "6632927",
         "6632928",
         "6632931",
+        "6632934",
         "6632935",
         "6632937",
         "6632957",
@@ -602049,7 +602108,8 @@
         "6633200",
         "6633201",
         "6633204",
-        "6633205"
+        "6633205",
+        "6633211"
       ]
     },
     "blind": {
