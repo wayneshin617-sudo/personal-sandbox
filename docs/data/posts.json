@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T13:39:39+00:00",
+  "updatedAt": "2026-10-28T13:40:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -536054,6 +536054,102 @@
       "firstSeenAt": "2026-10-28T13:39:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86873,
+      "source": "qoo",
+      "externalId": "4389311955",
+      "title": "정숙 빠르다 진짜ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4389311955",
+      "postedLabel": "22:40",
+      "postedAt": "2026-10-28T22:39:59+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T13:40:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86874,
+      "source": "qoo",
+      "externalId": "4389312124",
+      "title": "영호가 뭐랬어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4389312124",
+      "postedLabel": "22:40",
+      "postedAt": "2026-10-28T22:40:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T13:40:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86875,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EB%8B%88-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A9%B4-upy6v2el",
+      "title": "아니 데이트면",
+      "excerpt": "서로를 알아가고 대화를 해야지 왜자꾸 순위만 따지지;;",
+      "author": "i*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A9%B4-upy6v2el",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T22:40:24+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-10-28T13:40:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86876,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%B6%A9%EA%B2%A9%EB%B0%9B%EC%9D%84%EA%B2%8C-%EC%9E%88%EC%96%B4-lrsz8qw3",
+      "title": "정숙이 충격받을게 있어 ?",
+      "excerpt": "거울 안보냐 광수로 빨리 노선이나 틀어라",
+      "author": "r*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%B6%A9%EA%B2%A9%EB%B0%9B%EC%9D%84%EA%B2%8C-%EC%9E%88%EC%96%B4-lrsz8qw3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T22:40:25+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T13:40:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86877,
+      "source": "blind",
+      "externalId": "cmt-458761188",
+      "title": "넘 호감없이 예의차리는거 같으니까 물어봐야지",
+      "excerpt": "아니 데이트면",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A9%B4-upy6v2el#458761188",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T22:40:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T13:40:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -536188,7 +536284,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T22:37:25+09:00"
+      "slowAt": "2026-10-28T22:40:25+09:00"
     },
     "dc": {
       "doneIds": [
@@ -541812,7 +541908,9 @@
         "6627096",
         "6627123",
         "6627143",
-        "6627184"
+        "6627184",
+        "6627192",
+        "6627216"
       ]
     },
     "blind": {
@@ -542271,6 +542369,7 @@
         "/kr/post/%EB%82%98%EC%9D%98-%ED%94%BD%EC%9D%80-nrjj3agu",
         "/kr/post/%EB%82%98%EC%9D%B4%EB%93%A4%EB%A9%B4-%EA%B2%B0%ED%98%BC-%EC%95%88%ED%95%9C%EA%B1%B0-%EC%A0%90%EC%A0%90-%ED%9B%84%ED%9A%8C%EB%90%A0%EA%B9%8C-lzafj6ue",
         "/kr/post/%EB%82%98%ED%94%BC%EB%94%94%EB%8A%94-%EC%9E%87%EB%AA%B8-%EB%B3%B4%EC%9D%B4%EB%A9%B4-8hrysmsf",
+        "/kr/post/%EB%82%98%ED%95%9C%ED%85%8C-%ED%98%B8%EA%B0%90-%EC%9E%88%EB%82%98-%EC%97%86%EB%82%98-%ED%95%98%EB%A9%B4-%EB%84%88%ED%95%9C%ED%85%8C-%ED%98%B8%EA%B0%90%EC%97%86%EB%8A%94%EA%B1%B0%EB%8B%A4%E3%85%8B%E3%85%8B-qxogif4n",
         "/kr/post/%EB%82%98-%EA%B4%80%EC%A2%85%EC%9D%B8%EB%8D%B0-%EB%82%98%EC%86%94-%EB%82%98%EA%B0%80%EB%A9%B4-%E3%85%88%EB%90%98%EA%B2%A0%EC%A7%80-fiqjty5i",
         "/kr/post/%EB%82%98-%EB%82%98%EB%A6%84-%EC%82%AC%EB%9E%8C-%EC%9D%B8%EC%83%81%EC%9D%B4%EB%9E%91-%EC%A7%81%EC%97%85-%EC%9E%98-%EB%A7%9E%ED%9E%88%EB%8A%94%EB%8D%B0-5ewjc3zn",
         "/kr/post/%EB%82%98-%EB%82%A8%EC%9E%90-%EB%8F%84%ED%83%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B8%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%9D%91%EC%9B%90%ED%95%9C%EB%8B%A4-d8jjnw6v",
@@ -543237,6 +543336,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9D%B4%EC%81%98%EB%84%A4-olziukpo",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9D%B4%EC%81%98%EB%8B%A4%EB%8A%94-%EC%95%A0%EB%93%A4-%EB%88%88%EC%A2%80-%EB%86%92%EB%86%92%ED%98%80%EB%9F%AC-c6v0o477",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9D%B4%EC%81%98%EB%8B%B9-c6onfp3a",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%AD%90%EC%95%BC-0luvuceh",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9D%B8%EC%84%B1%EC%9D%B4-%EC%A0%95%EB%A7%90-%EC%A2%8B%EC%9D%80%EC%97%AC%EC%9E%90-%EA%B0%99%EC%9D%8C-xijgjpq7",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9D%B8%EC%8A%A4%ED%83%80-h2drjy2m",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9E%90%EC%86%8C%EB%95%8C-%EC%98%B7-%EC%9E%85%EA%B3%A0%EB%82%98%EC%98%A8%EA%B1%B0-%EB%B3%B4%EB%A9%B4-%EC%87%84%EA%B3%A8-%ED%8C%94-%EB%B0%9C%EB%AA%A9%EC%A2%85%EC%95%84%EB%A6%AC-bl0hfg1p",
@@ -543329,6 +543429,7 @@
         "/kr/post/%EC%95%84%EB%8B%88-%EA%B7%BC%EB%8D%B0-%EC%A7%84%EC%A7%9C-zeewixrn",
         "/kr/post/%EC%95%84%EB%8B%88-%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99-%EA%B0%9C%EC%9D%B4%EC%81%98%EB%84%A4-n6fjh6ke",
         "/kr/post/%EC%95%84%EB%8B%88-%EB%84%88%EB%AC%B4-%EA%BC%BD%EC%A3%BC%EB%84%A4-wyyetnkf",
+        "/kr/post/%EC%95%84%EB%8B%88-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A9%B4-upy6v2el",
         "/kr/post/%EC%95%84%EB%8B%88-%EB%AC%B8%EC%8B%A0%EC%9D%B4-vldrhopp",
         "/kr/post/%EC%95%84%EB%8B%88-%EB%B3%B4%ED%86%B5-%EC%98%B7%EC%9D%84-%EC%A0%9C%EC%9D%BC-%EC%9E%90%EA%B8%B0%EA%B0%80%EB%A9%8B%EC%A0%B8%EB%B3%B4%EC%9D%BC%EA%B1%B0%EC%9E%85%EC%A7%80%EC%95%8A%EB%82%98-%EA%B4%91%EC%88%98%ED%98%95-bz8cehbh",
         "/kr/post/%EC%95%84%EB%8B%88-%EC%82%AC%EA%B3%84-%EB%82%A8%EC%B6%9C%EB%93%A4-%EB%A8%B8%EC%9E%84-luida44i",
@@ -543527,6 +543628,7 @@
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EB%82%98%EC%9D%B4-%EB%82%98%EC%99%94%EC%96%B4-zkbfec5c",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EB%8B%A4%EC%A0%95%ED%95%9C-%EB%82%A8%EC%9E%90%EC%A2%8B%EB%8B%A4%EB%8A%94-%EB%A7%90-%EC%9E%85%EB%B2%84%EB%A6%87%EC%B2%98%EB%9F%BC-%ED%95%98%EB%8A%94%EB%8D%B0-u2w4erwt",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EB%8F%88%EB%B3%B8%EB%8B%A4%EB%8A%94-%EA%B1%B0-%EA%B5%AC%EB%9D%BC%EC%9E%84-tz7pe6fa",
+        "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EB%A7%A4%EB%A0%A5%EB%8F%84-0%EC%97%90-%EC%88%98%EB%A0%B4%EC%A4%91-rly568uj",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%98%81%EC%B2%A0-%EA%B0%99%EC%9D%80-%EB%82%A8%EC%9E%90-%EC%96%B4%EB%95%8C-i2jspynh",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%98%81%EC%B2%A0-m0njk8mq",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%99%9C-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-zj5ufo72",
@@ -543715,6 +543817,7 @@
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%9A%94%EB%85%84-%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8A%94%EA%B1%B0-%EC%95%8C%EA%B3%A0-%EB%8F%8C%EB%A0%A4%EA%B9%9C%E3%85%8B%E3%85%8B%E3%85%8B-ft0whcdz",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%9A%94%EC%8B%A4%EA%B8%88%EC%9E%88%EB%82%98-%EC%89%AC%EC%89%AC-%E3%85%88%E3%84%B9%EA%B1%B0%EB%A6%AC%EB%84%A4-%EA%BC%B4%EB%B5%88%EA%B8%B0%EC%8B%AB%EC%96%B4%E3%85%8B-6w34mpef",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%9D%B8%EC%8A%A4%ED%83%80-%EB%B9%84%ED%99%9C%ED%95%98%EA%B3%A0-ol7mmlxi",
+        "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%82%AC%EA%B3%BC%EC%95%88%ED%95%A0%ED%83%80%EC%9E%85-yos4imfc",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%A1%B0%EC%B9%B4%EB%93%A4%EC%9D%B4-%EB%8D%94-%EC%98%88%EC%81%98%EB%84%A4-zov0wkcz",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%A1%B0%EC%B9%B4-%EA%B7%80%EC%97%BD%EB%84%A4-yboeudnv",
         "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%A7%81%EC%97%85%EC%9D%B4-%EB%AD%90%EC%95%BC-5r73xul3",
@@ -544326,6 +544429,7 @@
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B9%80%EC%84%A0%ED%98%B8-%EB%8B%AE%EC%95%97%EB%8B%A4-mtqwn87m",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%82%A8%EC%9E%90%EA%B0%80-%EB%B4%90%EB%8F%84-%EB%84%88%EB%AC%B4-%EA%B4%9C%EC%B0%AE%EB%84%A4-51v4q7ur",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%84%88%EB%AC%B4%ED%95%98%EB%84%A4-kwtafkah",
+        "/kr/post/%EC%98%81%ED%98%B8-%EB%84%88%EB%AC%B4-%EC%9D%98%EC%9A%95%EC%A0%80%ED%95%98-ug3okbcm",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%88%84%EA%B5%AC%EB%8B%AE%EC%95%97%EB%8A%94%EC%A7%80-%EC%83%9D%EA%B0%81%EB%82%AB%EB%8B%A4-p2ggm8ro",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%8B%A4%EB%8C%80%EC%9D%BC%EB%95%8C-%ED%98%84%EC%88%99-%EB%84%88%EB%AC%B4-%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%97%88%EA%B2%A0%EB%8B%A4-vypztp5t",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%8B%A4%EB%8C%80%EC%9D%BC-%EB%85%B8%EC%9E%BC%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4%EC%9C%A0-0upn6d4p",
@@ -544562,6 +544666,7 @@
         "/kr/post/%EC%99%9C-%EC%98%81%EC%8B%9D%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%EA%B1%B0%EB%A1%A0%EB%8F%84-%EC%95%88%EB%90%A0%EA%B9%8C-zadeb3ph",
         "/kr/post/%EC%99%9C-%EC%A0%80%EB%9F%AC%EB%8A%94%EC%A7%80-%EC%86%94%EC%A7%81%ED%9E%88-%EC%95%8E-m7g210tq",
         "/kr/post/%EC%99%9C-%EC%A7%81%EC%97%85%EB%B3%B4%EB%8B%A4-%EC%99%B8%EB%AA%A8%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%98%EB%83%90%EB%A9%B4-qdel3wz7",
+        "/kr/post/%EC%99%A4%EC%BC%80-%EB%8B%A4%EB%93%A4-%EA%B8%89%ED%95%B4-etkscn6p",
         "/kr/post/%EC%99%B8%EA%B5%AD%EA%B3%84-%EC%9D%80%ED%96%89-%EB%8B%A4%EB%8B%88%EB%A9%B4-%EC%84%B8%EA%B3%84-%EC%96%B4%EB%94%94-%EC%A7%80%EC%A0%90%EC%9D%B4%EB%93%A0-%EC%9D%B4%EB%8F%99-%EC%89%AC%EC%9B%8C-07152z1h",
         "/kr/post/%EC%99%B8%EA%B5%AD%EB%85%80%EB%93%A4%EC%9D%80-%ED%91%9C%EB%8F%85%ED%95%A8%EC%9D%B4-%EC%95%88-%EB%8A%90%EA%BB%B4%EC%A7%80%EA%B8%B4-%ED%95%98%EB%84%A4-2ffyjt41",
         "/kr/post/%EC%99%B8%EA%B5%AD%EB%8F%84-%EB%AC%B8%EC%8B%A0%EC%9E%88%EC%9C%BC%EB%A9%B4-%EC%95%88%EC%A2%8B%EA%B2%8C-%EB%B4%84-m37gh0cx",
@@ -544999,6 +545104,7 @@
         "/kr/post/%EC%A7%84%EC%A7%9C-%EC%A4%98%ED%8C%A8%EA%B3%A0-%EC%8B%B6%EB%84%A4-a8qe43c5",
         "/kr/post/%EC%A7%91%EC%88%9C%EC%9D%B4-%EC%96%B4%ED%95%84%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90%EB%8A%94-%EA%B1%B8%EB%9F%AC%EB%9D%BC%E3%85%8B%E3%85%8B-gllvfbc1",
         "/kr/post/%EC%A7%91%EC%88%9C%EC%9D%B8%EB%8D%B0-%ED%83%80%ED%88%AC-%EC%9D%80%EB%B0%80%ED%95%9C-%EA%B3%B3%EC%97%90-%EB%8B%A4%EC%84%AF%EA%B0%9C-457nr4x1",
+        "/kr/post/%EC%A7%91%EC%97%90%EC%84%9C-%EB%A7%89%EB%82%B4%EA%B0%80-%E3%85%8B%E3%85%8B%E3%85%8B-%EC%96%B8%EB%8B%88-%EC%96%B8%EB%8B%88-%EA%B1%B0%EB%A6%AC%EA%B8%B0%EB%8A%94-s0lbjzdk",
         "/kr/post/%EC%A7%91%EC%97%90%EC%84%9C-%ED%8B%B0%EB%B9%84%EB%A1%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%93%B1%EC%9E%A5-j3ddb0nb",
         "/kr/post/%EC%A7%91%EC%9D%B4-%EC%B5%9C%EA%B3%A0%EC%95%BC-3g1hd5ve",
         "/kr/post/%EC%A7%91-%ED%95%98%EB%82%98-%EB%8D%94-%EC%82%AC%EB%A9%B4-%EB%90%98%EC%A3%A0-%ED%95%98%EA%B3%A0-%EA%BA%BC%EB%93%9C%EB%9F%AD-%EB%8C%84%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-uyuwprbx",
@@ -548325,7 +548431,9 @@
         "4389307046",
         "4389308160",
         "4389309801",
-        "4389310671"
+        "4389310671",
+        "4389311955",
+        "4389312124"
       ]
     },
     "keep": "v2",
