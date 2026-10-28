@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T10:36:28+00:00",
+  "updatedAt": "2026-10-28T10:40:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -533612,6 +533612,25 @@
       "firstSeenAt": "2026-10-28T10:36:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86748,
+      "source": "dc",
+      "externalId": "6626587",
+      "title": "남규홍은 웃고있다",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6626587&page=1",
+      "postedLabel": "19:39",
+      "postedAt": "2026-10-28T19:39:24+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T10:40:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -533745,7 +533764,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T19:37:12+09:00"
+      "slowAt": "2026-10-28T19:40:11+09:00"
     },
     "dc": {
       "doneIds": [
