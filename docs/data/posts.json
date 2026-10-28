@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:58:14+00:00",
+  "updatedAt": "2026-10-28T18:00:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -596387,6 +596387,85 @@
       "firstSeenAt": "2026-10-28T17:58:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89999,
+      "source": "qoo",
+      "externalId": "cmt-4389411178",
+      "title": "@1 ㄹㅇ",
+      "excerpt": "이래서 비슷한 사람끼리 만나는게 나음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389407000#4389411178",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:07:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:00:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90000,
+      "source": "qoo",
+      "externalId": "cmt-4389415542",
+      "title": "그 영수는 짜친다는 느낌은 아니었음",
+      "excerpt": "영철 약간 급 나누는거 다른결로 학벌무새 영수 생각나긴 함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389406927#4389415542",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:16:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:00:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90001,
+      "source": "qoo",
+      "externalId": "cmt-4389420868",
+      "title": "그사람은 자기가 잘난 직업이긴 해서...",
+      "excerpt": "영철 약간 급 나누는거 다른결로 학벌무새 영수 생각나긴 함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389406927#4389420868",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:27:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:00:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90002,
+      "source": "qoo",
+      "externalId": "4389448358",
+      "title": "영숙 미리보기 데이트 중에",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389448358",
+      "postedLabel": "03:00",
+      "postedAt": "2026-10-29T03:00:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:00:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -610953,7 +611032,8 @@
         "4389444180",
         "4389444333",
         "4389444493",
-        "4389446414"
+        "4389446414",
+        "4389448358"
       ]
     },
     "keep": "v2",
