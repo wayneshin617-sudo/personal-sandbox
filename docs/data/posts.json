@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:01:14+00:00",
+  "updatedAt": "2026-10-28T17:02:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -593797,6 +593797,106 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T17:01:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 89868,
+      "source": "qoo",
+      "externalId": "cmt-4389407795",
+      "title": "@2 ㄹㅇ임 잘못 발현되면 끔찍하기까지 함",
+      "excerpt": "이래서 비슷한 사람끼리 만나는게 나음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389407000#4389407795",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:01:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:02:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89869,
+      "source": "qoo",
+      "externalId": "cmt-4389407964",
+      "title": "ㅁㅈㅁㅈ",
+      "excerpt": "영철 자존심은 강한데 자존감은 낮아보임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389407908#4389407964",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:01:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:02:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89870,
+      "source": "qoo",
+      "externalId": "cmt-4389408014",
+      "title": "ㄹㅇ 무슨 만나기도 전부터 갑을 재고 있냐 짜치게",
+      "excerpt": "막상 현숙 만나면 자격지심 쩔것같아",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389407781#4389408014",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:01:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:02:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89871,
+      "source": "qoo",
+      "externalId": "cmt-4389408043",
+      "title": "그 분은 좀 미숙했던거 아닐까? 소아과 중환자실 근무하셔서 그냥 좋게보임",
+      "excerpt": "영철 약간 급 나누는거 다른결로 학벌무새 영수 생각나긴 함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389406927#4389408043",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:01:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:02:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89872,
+      "source": "qoo",
+      "externalId": "cmt-4389408098",
+      "title": "그사람은 그래도 본인이 공부잘해서 따지는거지 영철은..",
+      "excerpt": "영철 약간 급 나누는거 다른결로 학벌무새 영수 생각나긴 함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389406927#4389408098",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:01:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:02:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -593931,7 +594031,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T01:58:56+09:00"
+      "slowAt": "2026-10-29T02:01:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -599848,6 +599948,7 @@
         "6632615",
         "6632624",
         "6632625",
+        "6632627",
         "6632630",
         "6632634",
         "6632636",
@@ -599951,7 +600052,9 @@
         "6633022",
         "6633025",
         "6633039",
-        "6633042"
+        "6633042",
+        "6633044",
+        "6633046"
       ]
     },
     "blind": {
