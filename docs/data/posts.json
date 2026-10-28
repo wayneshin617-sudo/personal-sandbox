@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T00:54:07+00:00",
+  "updatedAt": "2026-10-28T00:55:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -526214,6 +526214,26 @@
       "firstSeenAt": "2026-10-28T00:54:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86375,
+      "source": "dc",
+      "externalId": "cmt-10937642",
+      "title": "시술이 풀리고 있는 중인지 좌우가 움직임이 다름",
+      "excerpt": "영숙 좀 거시기 하구만",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6570856&page=116#cmt_10937642",
+      "postedLabel": "10.08 11:40:53",
+      "postedAt": "2026-10-08T11:40:53+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T00:55:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -526347,7 +526367,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T09:47:56+09:00"
+      "slowAt": "2026-10-28T09:54:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -526573,6 +526593,7 @@
         "6570671",
         "6570762",
         "6570847",
+        "6570856",
         "6600977",
         "6600980",
         "6600981",
