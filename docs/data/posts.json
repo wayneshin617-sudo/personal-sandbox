@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T19:52:37+00:00",
+  "updatedAt": "2026-10-28T19:54:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -598019,6 +598019,45 @@
       "firstSeenAt": "2026-10-28T19:52:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90082,
+      "source": "dc",
+      "externalId": "cmt-10979303",
+      "title": "이이경 짭숙이 나왔을때 씨발 거의 입모양으로 욕했음",
+      "excerpt": "지금 보고있는데.. 이새끼 진짜 심하네",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633504&page=3#cmt_10979303",
+      "postedLabel": "10.29 03:55:10",
+      "postedAt": "2026-10-29T03:55:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T19:54:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90083,
+      "source": "dc",
+      "externalId": "6633649",
+      "title": "34기 여출 솔까 외모가 후달리긴 함",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633649&page=1",
+      "postedLabel": "04:53",
+      "postedAt": "2026-10-29T04:53:31+09:00",
+      "views": 9,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T19:54:37+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -598157,7 +598196,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T04:51:18+09:00"
+      "slowAt": "2026-10-29T04:54:18+09:00"
     },
     "dc": {
       "doneIds": [
@@ -604371,6 +604410,7 @@
         "6633499",
         "6633502",
         "6633503",
+        "6633504",
         "6633515",
         "6633516",
         "6633528",
@@ -604409,7 +604449,9 @@
         "6633634",
         "6633635",
         "6633637",
-        "6633642"
+        "6633642",
+        "6633643",
+        "6633647"
       ]
     },
     "blind": {
