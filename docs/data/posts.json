@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T04:44:14+00:00",
+  "updatedAt": "2026-10-28T04:46:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -529705,6 +529705,45 @@
       "firstSeenAt": "2026-10-28T04:44:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86551,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%80%EA%B8%88-%EB%8F%99%ED%83%84%EC%97%AD-%EA%B7%BC%EC%B2%98%EC%97%90%EC%84%9C-41iy6f33",
+      "title": "지금 동탄역 근처에서",
+      "excerpt": "커피마실 사람 없겠지?",
+      "author": "j********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%80%EA%B8%88-%EB%8F%99%ED%83%84%EC%97%AD-%EA%B7%BC%EC%B2%98%EC%97%90%EC%84%9C-41iy6f33",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T13:45:57+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T04:46:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86552,
+      "source": "blind",
+      "externalId": "cmt-458692160",
+      "title": "이쁜 여의에 운동선수는 완전 하향혼 아님?",
+      "excerpt": "내 주변 여자 전문직 결혼 상황",
+      "author": "냠***",
+      "company": "리인터내셔널특허법률사무소",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4-%EC%A3%BC%EB%B3%80-%EC%97%AC%EC%9E%90-%EC%A0%84%EB%AC%B8%EC%A7%81-%EA%B2%B0%ED%98%BC-%EC%83%81%ED%99%A9-4qhqojc0#458692160",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T13:45:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T04:46:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -529788,7 +529827,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T13:42:57+09:00"
+      "slowAt": "2026-10-28T13:45:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -535112,6 +535151,7 @@
         "6625767",
         "6625769",
         "6625770",
+        "6625776",
         "6625780",
         "6625785",
         "6625793",
@@ -535129,6 +535169,7 @@
         "6625852",
         "6625857",
         "6625860",
+        "6625868",
         "6625871",
         "6625881",
         "6625905",
@@ -535143,7 +535184,8 @@
         "6625952",
         "6625954",
         "6625959",
-        "6625962"
+        "6625962",
+        "6625971"
       ]
     },
     "blind": {
