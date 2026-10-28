@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:08:14+00:00",
+  "updatedAt": "2026-10-28T17:09:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -594493,6 +594493,26 @@
       "firstSeenAt": "2026-10-28T17:08:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89903,
+      "source": "dc",
+      "externalId": "cmt-10978774",
+      "title": "자꾸 쓸데없이 의미부여하니까 헷갈리는거임.. 그냥 영철 선택하면 영철 선택하는구나 하면되는데 그걸 다대일 피하려했다고 너혼자 망상 서사붙이니까 그러지",
+      "excerpt": "현숙이 하는 행동들이 계산을 하는건지 아닌건지 모르겠음",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633077&page=1#cmt_10978774",
+      "postedLabel": "10.29 02:08:11",
+      "postedAt": "2026-10-29T02:08:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:09:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -600656,6 +600676,8 @@
         "6633057",
         "6633062",
         "6633063",
+        "6633066",
+        "6633077",
         "6633078"
       ]
     },
