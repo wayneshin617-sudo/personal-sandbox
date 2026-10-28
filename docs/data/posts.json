@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T20:52:47+00:00",
+  "updatedAt": "2026-10-28T21:04:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -598468,6 +598468,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T20:52:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90105,
+      "source": "blind",
+      "externalId": "cmt-458794658",
+      "title": "불소불위인 영호에게 질투심을 느끼다 갑에서 을이 되었어",
+      "excerpt": "여기 여론이 급 짠하게봐? 무슨일",
+      "author": "l*******",
+      "company": "LS전선",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EC%97%AC%EB%A1%A0%EC%9D%B4-%EA%B8%89-%EC%A7%A0%ED%95%98%EA%B2%8C%EB%B4%90-%EB%AC%B4%EC%8A%A8%EC%9D%BC-nhzszm3l#458794658",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T06:03:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T21:04:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -598606,7 +598626,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T06:00:43+09:00"
+      "slowAt": "2026-10-29T06:03:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -604890,6 +604910,7 @@
         "6633659",
         "6633664",
         "6633668",
+        "6633670",
         "6633674",
         "6633677",
         "6633679",
@@ -604906,7 +604927,8 @@
         "6633735",
         "6633737",
         "6633738",
-        "6633748"
+        "6633748",
+        "6633756"
       ]
     },
     "blind": {
