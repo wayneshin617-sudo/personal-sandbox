@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:54:14+00:00",
+  "updatedAt": "2026-10-28T17:56:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -596308,6 +596308,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T17:54:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 89995,
+      "source": "qoo",
+      "externalId": "cmt-4389408416",
+      "title": "상철 순자도 어울림 딱히 비주얼 떠나서 성격이나 이런게",
+      "excerpt": "순자-영호는 안어울려 ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389404409#4389408416",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:02:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:56:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89996,
+      "source": "blind",
+      "externalId": "cmt-458790074",
+      "title": "실수한두개는 이해가능 34영철은 정신줄놓은수준인데 이해안됨",
+      "excerpt": "진짜 촬영 좀 하다보면 카메라가 돌아간다는 걸 인식못하나봐",
+      "author": "h*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%9C-%EC%B4%AC%EC%98%81-%EC%A2%80-%ED%95%98%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EC%B9%B4%EB%A9%94%EB%9D%BC%EA%B0%80-%EB%8F%8C%EC%95%84%EA%B0%84%EB%8B%A4%EB%8A%94-%EA%B1%B8-%EC%9D%B8%EC%8B%9D%EB%AA%BB%ED%95%98%EB%82%98%EB%B4%90-ora2fr31#458790074",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T02:55:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:56:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -596442,7 +596482,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T02:52:56+09:00"
+      "slowAt": "2026-10-29T02:55:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -602549,7 +602589,9 @@
         "6633261",
         "6633262",
         "6633265",
-        "6633269"
+        "6633269",
+        "6633271",
+        "6633272"
       ]
     },
     "blind": {
@@ -606425,6 +606467,7 @@
         "/kr/post/%EC%A7%84%EC%A7%9C-%EC%A1%B0%EC%98%A8%EB%82%98%EA%B2%8C-%EC%9E%91%EC%9C%84%EC%A0%81%EC%9D%B4%EB%8B%A4-%EC%98%81%EC%B2%A0%EC%95%84-nzcltz4s",
         "/kr/post/%EC%A7%84%EC%A7%9C-%EC%A4%98%ED%8C%A8%EA%B3%A0-%EC%8B%B6%EB%84%A4-a8qe43c5",
         "/kr/post/%EC%A7%84%EC%A7%9C-%EC%B1%85-%EB%A7%88%EB%8B%88-%EC%9D%BD%EB%8A%94-%EA%B1%B0-%EB%A7%9E%EB%83%90%EA%B3%A0-5u3aei4t",
+        "/kr/post/%EC%A7%84%EC%A7%9C-%EC%B4%AC%EC%98%81-%EC%A2%80-%ED%95%98%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EC%B9%B4%EB%A9%94%EB%9D%BC%EA%B0%80-%EB%8F%8C%EC%95%84%EA%B0%84%EB%8B%A4%EB%8A%94-%EA%B1%B8-%EC%9D%B8%EC%8B%9D%EB%AA%BB%ED%95%98%EB%82%98%EB%B4%90-ora2fr31",
         "/kr/post/%EC%A7%84%EC%A7%9C-%EC%B5%9C%EC%95%85%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%84%A4-%EC%8B%9C%ED%8E%84-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-gnnt4l4n",
         "/kr/post/%EC%A7%84%EC%A7%9C-%ED%86%A0%EB%82%98%EC%98%A4%EB%84%A4-h6qolesu",
         "/kr/post/%EC%A7%88%EB%AC%B8%EC%9D%84-%ED%95%98%EB%A9%B4-%EC%A7%88%EB%AC%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%B5%EC%9D%84-%ED%95%B4%EC%95%BC%EB%90%98%EC%A7%80-%EC%95%8A%EB%83%90-0sjx8buy",
