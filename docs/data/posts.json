@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:41:14+00:00",
+  "updatedAt": "2026-10-28T17:42:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -595913,6 +595913,46 @@
       "firstSeenAt": "2026-10-28T17:41:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89975,
+      "source": "qoo",
+      "externalId": "cmt-4389405225",
+      "title": "@2 ㄹㅇ",
+      "excerpt": "영수가 의외로 좀 치고올라왔음 처음에 누워있는거 보여줘서 뭐야했는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389396671#4389405225",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T00:56:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:42:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89976,
+      "source": "dc",
+      "externalId": "cmt-10978923",
+      "title": "ㅇㅇ 남중 남고 군대 딱히 폭력 없는데 남들이 유난떠는거맞지?",
+      "excerpt": "남자가 학대나 폭행이 많다는게 개소리인 이유",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633212&page=1#cmt_10978923",
+      "postedLabel": "10.29 02:41:33",
+      "postedAt": "2026-10-29T02:41:33+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:42:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -602130,6 +602170,8 @@
         "6633204",
         "6633205",
         "6633211",
+        "6633212",
+        "6633214",
         "6633218"
       ]
     },
