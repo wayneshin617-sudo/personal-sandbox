@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T19:31:37+00:00",
+  "updatedAt": "2026-10-28T19:37:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -597823,6 +597823,45 @@
       "firstSeenAt": "2026-10-28T19:31:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90072,
+      "source": "qoo",
+      "externalId": "cmt-4389453678",
+      "title": "현시점하이닉스빨 무시 못하지ㅋㅋ",
+      "excerpt": "근데 여자들 후순위에 상철이 은근 많다 ㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389412244#4389453678",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T03:37:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T19:37:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90073,
+      "source": "dc",
+      "externalId": "6633620",
+      "title": "근데 친구로써 같이 놀기엔 영호보단 영철이임",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633620&page=1",
+      "postedLabel": "04:37",
+      "postedAt": "2026-10-29T04:37:00+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T19:37:37+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -604182,7 +604221,8 @@
         "6633602",
         "6633605",
         "6633608",
-        "6633613"
+        "6633613",
+        "6633618"
       ]
     },
     "blind": {
