@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T18:03:14+00:00",
+  "updatedAt": "2026-10-28T18:05:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -596686,6 +596686,26 @@
       "firstSeenAt": "2026-10-28T18:03:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90014,
+      "source": "dc",
+      "externalId": "cmt-10978834",
+      "title": "저번 주에 전두지휘라고 하던데",
+      "excerpt": "60권",
+      "author": "곰꼬리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633066&page=5#cmt_10978834",
+      "postedLabel": "10.29 02:21:29",
+      "postedAt": "2026-10-29T02:21:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:05:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -596820,7 +596840,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T03:01:56+09:00"
+      "slowAt": "2026-10-29T03:04:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -602938,7 +602958,9 @@
         "6633278",
         "6633282",
         "6633285",
-        "6633301"
+        "6633301",
+        "6633304",
+        "6633308"
       ]
     },
     "blind": {
