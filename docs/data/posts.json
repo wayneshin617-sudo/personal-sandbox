@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T07:47:56+00:00",
+  "updatedAt": "2026-10-28T07:48:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -531573,6 +531573,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T07:47:56+00:00",
       "isSeed": false
+    },
+    {
+      "id": 86645,
+      "source": "dc",
+      "externalId": "cmt-10977357",
+      "title": "나중에는 ai가 사고력 순간판단력도 생기겠지",
+      "excerpt": "회계사는 절대 ai 대체 안되는 직업임",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6626286&page=1#cmt_10977357",
+      "postedLabel": "10.28 16:48:35",
+      "postedAt": "2026-10-28T16:48:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T07:48:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86646,
+      "source": "blind",
+      "externalId": "cmt-458713428",
+      "title": "옥순아 가서 피나 뽑아라",
+      "excerpt": "현숙 올려치기가 심하군",
+      "author": "I*********",
+      "company": "한국남동발전",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%98%AC%EB%A0%A4%EC%B9%98%EA%B8%B0%EA%B0%80-%EC%8B%AC%ED%95%98%EA%B5%B0-bxgbx5t6#458713428",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T16:48:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T07:48:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -531656,7 +531696,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T16:45:38+09:00"
+      "slowAt": "2026-10-28T16:48:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -537114,7 +537154,8 @@
         "6626262",
         "6626263",
         "6626267",
-        "6626277"
+        "6626277",
+        "6626286"
       ]
     },
     "blind": {
@@ -537698,6 +537739,7 @@
         "/kr/post/%EB%82%B4%EA%B0%80-%EC%97%AC%EC%B6%9C%EC%9D%B4%EB%9D%BC%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0-%ED%95%9C%EB%AA%85-%EA%B3%A8%EB%9D%BC%EB%B3%BC%EB%9D%BC%ED%96%88%EB%8A%94%EB%8D%B0-ja2hdqwf",
         "/kr/post/%EB%82%B4%EA%B0%80-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%A9%B4-%EC%98%81%EC%9E%90%ED%95%9C%ED%85%8C-%EC%98%AC%EC%9D%B8%ED%95%9C%EB%8B%A4%E3%85%A1%E3%85%A1-ohj1xl4z",
         "/kr/post/%EB%82%B4%EA%B0%80-%EC%98%81%ED%98%B8%EC%98%80%EC%9C%BC%EB%A9%B4-357d4rob",
+        "/kr/post/%EB%82%B4%EA%B0%80-%EC%98%81%ED%98%B8-%EC%97%84%EB%A7%88%EB%A9%B4-%EB%AF%B8%EC%B9%98%EA%B3%A0-%ED%8C%94%EC%A7%9D-%EB%9B%B0%EA%B2%A0%EB%84%A4-rz0vw3uw",
         "/kr/post/%EB%82%B4%EA%B0%80-%EC%9E%A5%EB%8B%B4%ED%95%98%EB%8A%94%EB%8D%B0-%EC%98%81%ED%98%B8-%EC%99%BC%EC%AA%BD-%EC%9C%99%EC%9E%84-4iy7mjo6",
         "/kr/post/%EB%82%B4%EA%B0%80-%ED%83%80%ED%88%AC-%ED%95%A0%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8B%A4-%EC%95%88%ED%95%9C-%EC%9D%B4%EC%9C%A0-rgef2l2h",
         "/kr/post/%EB%82%B4%EA%B0%80-%ED%96%88%EB%8D%98-%EB%AA%B8%EC%97%90-%EB%82%99%EC%84%9C%EB%8A%94-vap71cqd",
