@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T02:24:06+00:00",
+  "updatedAt": "2026-10-28T02:25:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -527801,6 +527801,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T02:24:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 86455,
+      "source": "dc",
+      "externalId": "cmt-10976613",
+      "title": "4월달임",
+      "excerpt": "4월달 사진이야?ㄷㄷㄷ 최근이 아니고...",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625574&page=3#cmt_10976613",
+      "postedLabel": "10.28 08:32:52",
+      "postedAt": "2026-10-28T08:32:52+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T02:25:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -527934,7 +527954,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T11:21:48+09:00"
+      "slowAt": "2026-10-28T11:24:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -528193,6 +528213,7 @@
         "6571586",
         "6571640",
         "6571696",
+        "6571701",
         "6600977",
         "6600980",
         "6600981",
@@ -533170,10 +533191,12 @@
         "6625688",
         "6625689",
         "6625693",
+        "6625695",
         "6625701",
         "6625707",
         "6625722",
-        "6625753"
+        "6625753",
+        "6625754"
       ]
     },
     "blind": {
@@ -535229,6 +535252,7 @@
         "/kr/post/%EC%98%81%EC%9E%90-%EC%95%88%EC%93%B0%EB%9F%AC%EC%9B%8C-s8pyy2b1",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%96%B4%EB%96%A1%ED%95%B4-8rq7w8fo",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%96%B4%EC%B9%B4%EB%83%90-%E3%85%A0%E3%85%A0-urmx4c0a",
+        "/kr/post/%EC%98%81%EC%9E%90-%EC%96%BC%EA%B5%B4-%EB%AA%BB%EC%83%9D%EA%B2%BB%EB%83%90%EB%A5%BC-%EB%96%A0%EB%82%98%EC%84%9C-6qd0ibix",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%8F%AC%EA%B8%B0%ED%95%A0%EA%B9%8C-wkukqx1o",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-%EC%98%81%ED%98%B8-kiemq2lg",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%98%81%EC%B2%A0-pvqclvq1",
