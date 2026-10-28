@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:25:13+00:00",
+  "updatedAt": "2026-10-28T17:32:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -595461,6 +595461,86 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T17:25:13+00:00",
       "isSeed": false
+    },
+    {
+      "id": 89952,
+      "source": "qoo",
+      "externalId": "cmt-4389422551",
+      "title": "@1 ㄱㄴㄲ 괜찮은데 진심ㅋㅋ",
+      "excerpt": "걍 현숙은 카페가서 각자 할 일 하는거 좋다 이러는거 봐도 걍 연애에 목 매고 사랑에 빠져서 물불 안가리는 타입이 아님",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389410719#4389422551",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:31:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:32:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89953,
+      "source": "qoo",
+      "externalId": "cmt-4389422701",
+      "title": "남교사랑 여의사 부부 본적 있음 둘다 독실한 크리스찬이라 교회에서 만남 흔한 경우는 아니지",
+      "excerpt": "남자공무원이 한의사나 회계사 만나는거 본적잇어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389413196#4389422701",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:31:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:32:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89954,
+      "source": "qoo",
+      "externalId": "cmt-4389422907",
+      "title": "ㄹㅇ 둘이 만나",
+      "excerpt": "영호 현숙 둘 다 눈높아서 아직까지 결혼 안한듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389419940#4389422907",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T01:32:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:32:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 89955,
+      "source": "blind",
+      "externalId": "cmt-458787638",
+      "title": "영철보고 잘생겼다는거ㅠ아직도 이해못함;",
+      "excerpt": "공무원은 안분지족인데",
+      "author": "i*********",
+      "company": "KOTRA",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%80-%EC%95%88%EB%B6%84%EC%A7%80%EC%A1%B1%EC%9D%B8%EB%8D%B0-woi05di0#458787638",
+      "postedLabel": "30분",
+      "postedAt": "2026-10-29T02:01:56+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:32:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -595595,7 +595675,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T02:28:56+09:00"
+      "slowAt": "2026-10-29T02:31:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -601593,6 +601673,7 @@
         "6632871",
         "6632872",
         "6632876",
+        "6632878",
         "6632881",
         "6632885",
         "6632886",
@@ -601659,7 +601740,8 @@
         "6633170",
         "6633172",
         "6633173",
-        "6633176"
+        "6633176",
+        "6633178"
       ]
     },
     "blind": {
