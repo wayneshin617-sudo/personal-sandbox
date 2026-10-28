@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T15:51:13+00:00",
+  "updatedAt": "2026-10-28T15:52:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -587261,6 +587261,83 @@
       "firstSeenAt": "2026-10-28T15:51:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89537,
+      "source": "qoo",
+      "externalId": "4389402335",
+      "title": "나는 약간 영혼없이 맞지맞지 하는 타입이라 나솔 나가면 큰일날 듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389402335",
+      "postedLabel": "00:51",
+      "postedAt": "2026-10-29T00:50:58+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:52:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89538,
+      "source": "qoo",
+      "externalId": "4389402380",
+      "title": "영철 2억 벌었다고 하지 않았어??",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389402380",
+      "postedLabel": "00:51",
+      "postedAt": "2026-10-29T00:50:59+09:00",
+      "views": 17,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:52:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89539,
+      "source": "qoo",
+      "externalId": "4389402550",
+      "title": "난 내가 얼빠여도 차에서 그런 행동을 보면 정떨어질것같음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389402550",
+      "postedLabel": "00:51",
+      "postedAt": "2026-10-29T00:51:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:52:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89540,
+      "source": "blind",
+      "externalId": "cmt-458781938",
+      "title": "저게 실제로 먹히는 놈이 있다는게 증명 되어버렸네(아직 안봄)",
+      "excerpt": "오늘의 띵장면",
+      "author": "못*****",
+      "company": "ex-HL클레무브",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%9D%B5%EC%9E%A5%EB%A9%B4-47znpetu#458781938",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T00:51:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:52:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -587345,7 +587422,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T00:48:57+09:00"
+      "slowAt": "2026-10-29T00:51:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -593282,7 +593359,8 @@
         "6632466",
         "6632467",
         "6632470",
-        "6632476"
+        "6632476",
+        "6632489"
       ]
     },
     "blind": {
@@ -601504,7 +601582,10 @@
         "4389399078",
         "4389400051",
         "4389401118",
-        "4389401606"
+        "4389401606",
+        "4389402335",
+        "4389402380",
+        "4389402550"
       ]
     },
     "keep": "v2",
