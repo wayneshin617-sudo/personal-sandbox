@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T18:31:15+00:00",
+  "updatedAt": "2026-10-28T18:32:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -597116,6 +597116,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T18:31:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90036,
+      "source": "blind",
+      "externalId": "cmt-458785711",
+      "title": "요즘 남자들도 먹고 살기 힘들어서 다 따짐 ㅋㅋㅋㅋ",
+      "excerpt": "와 근데 충격이야",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EA%B7%BC%EB%8D%B0-%EC%B6%A9%EA%B2%A9%EC%9D%B4%EC%95%BC-s3627xyo#458785711",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-29T01:31:52+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:32:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -597250,7 +597270,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T03:28:58+09:00"
+      "slowAt": "2026-10-29T03:31:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -603425,7 +603445,9 @@
         "6633406",
         "6633408",
         "6633410",
-        "6633413"
+        "6633413",
+        "6633415",
+        "6633422"
       ]
     },
     "blind": {
@@ -606043,6 +606065,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%98%81%EC%88%99%EC%9D%80-bfnml1ce",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%ED%98%84%EC%88%99-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EB%8A%94%EA%B1%B8-%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%9D%80%EA%B1%B4-%EC%95%84%EB%8B%8C%EB%8D%B0-e1fua0ep",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EC%A7%84%EC%A7%9C-%EB%A9%8B%EC%9E%88%EA%B8%B4%ED%95%98%EB%8B%A4%E3%85%9C-urrvtjh6",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%95%9C%ED%85%8C-%EC%98%81%EC%9E%90%EA%B0%80-%EB%94%B1%EC%9D%B8%EB%8D%B0-ubx1idh2",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%98%95-%EB%A0%88%EC%A0%84%EB%93%9C%EB%84%A4-ew4cm18d",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%98%95-8tbydoqh",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%E3%85%85%E3%85%82-20%EB%AA%85-%EB%A7%8C%EB%82%98%EB%B4%A4%EB%8B%A4%EB%8A%94%EA%B1%B0-%EB%8B%A4-%EA%B5%AC%EB%9D%BC%EB%83%90-xxpj1rhy",
