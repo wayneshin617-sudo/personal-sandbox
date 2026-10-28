@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T04:04:13+00:00",
+  "updatedAt": "2026-10-28T04:07:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -529090,6 +529090,26 @@
       "firstSeenAt": "2026-10-28T04:04:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86520,
+      "source": "blind",
+      "externalId": "cmt-458687601",
+      "title": "강약약강",
+      "excerpt": "영숙이 솔직하고 직설적이라면서",
+      "author": "1*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-%EC%86%94%EC%A7%81%ED%95%98%EA%B3%A0-%EC%A7%81%EC%84%A4%EC%A0%81%EC%9D%B4%EB%9D%BC%EB%A9%B4%EC%84%9C-3vvq8h51#458687601",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T13:06:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T04:07:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -529173,7 +529193,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T13:03:57+09:00"
+      "slowAt": "2026-10-28T13:06:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -534502,7 +534522,8 @@
         "6625806",
         "6625811",
         "6625871",
-        "6625881"
+        "6625881",
+        "6625905"
       ]
     },
     "blind": {
