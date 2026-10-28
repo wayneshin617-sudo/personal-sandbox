@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T19:20:37+00:00",
+  "updatedAt": "2026-10-28T19:22:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -597545,6 +597545,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T19:20:37+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90058,
+      "source": "dc",
+      "externalId": "6633589",
+      "title": "이 형님 이후로 이 정도로 여자 스펙 보는 남출",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633589&page=1",
+      "postedLabel": "04:22",
+      "postedAt": "2026-10-29T04:22:05+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T19:22:36+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -603884,7 +603903,9 @@
         "6633568",
         "6633570",
         "6633571",
-        "6633573"
+        "6633573",
+        "6633579",
+        "6633580"
       ]
     },
     "blind": {
