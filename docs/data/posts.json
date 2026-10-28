@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T04:43:14+00:00",
+  "updatedAt": "2026-10-28T04:44:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -529685,6 +529685,26 @@
       "firstSeenAt": "2026-10-28T04:43:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86550,
+      "source": "dc",
+      "externalId": "cmt-10977017",
+      "title": "꺼지라고 사귀든가말든가",
+      "excerpt": "옥순영호 지금 팔로잉 같이 늘어나고 있는데",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625962&page=1#cmt_10977017",
+      "postedLabel": "10.28 13:43:13",
+      "postedAt": "2026-10-28T13:43:13+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T04:44:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -529818,7 +529838,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T13:40:57+09:00"
+      "slowAt": "2026-10-28T13:43:58+09:00"
     },
     "dc": {
       "doneIds": [
@@ -535122,7 +535142,8 @@
         "6625946",
         "6625952",
         "6625954",
-        "6625959"
+        "6625959",
+        "6625962"
       ]
     },
     "blind": {
