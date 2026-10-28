@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T02:39:07+00:00",
+  "updatedAt": "2026-10-28T02:40:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -528017,6 +528017,45 @@
       "firstSeenAt": "2026-10-28T02:39:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86466,
+      "source": "dc",
+      "externalId": "6625773",
+      "title": "인플레이션 시대에 이 포지션 조합은 좀 위험할 수 있겠죠",
+      "excerpt": "",
+      "author": "Zue",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625773&page=1",
+      "postedLabel": "11:39",
+      "postedAt": "2026-10-28T11:39:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T02:40:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86467,
+      "source": "blind",
+      "externalId": "cmt-458678185",
+      "title": "이런 남자들은 퐁퐁이 어울리지",
+      "excerpt": "여자가 직업좋으면 잘난 남자 만난다는 생각은 버렸으면",
+      "author": "나***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EA%B0%80-%EC%A7%81%EC%97%85%EC%A2%8B%EC%9C%BC%EB%A9%B4-%EC%9E%98%EB%82%9C-%EB%82%A8%EC%9E%90-%EB%A7%8C%EB%82%9C%EB%8B%A4%EB%8A%94-%EC%83%9D%EA%B0%81%EC%9D%80-%EB%B2%84%EB%A0%B8%EC%9C%BC%EB%A9%B4-m1gnw7ba#458678185",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T11:39:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T02:40:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -528150,7 +528189,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T11:36:50+09:00"
+      "slowAt": "2026-10-28T11:39:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -528421,6 +528460,7 @@
         "6571856",
         "6571890",
         "6571901",
+        "6571909",
         "6600977",
         "6600980",
         "6600981",
