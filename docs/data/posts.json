@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T19:22:36+00:00",
+  "updatedAt": "2026-10-28T19:23:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -597564,6 +597564,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T19:22:36+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90059,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B9%88%EC%88%98%EB%A0%88%EA%B0%80-%EC%9A%94%EB%9E%80%ED%95%98%EB%8B%A4-5i2ipf5r",
+      "title": "빈수레가 요란하다",
+      "excerpt": "1) 여유가 없다. 2) 과시욕이 있다. 3) 있는 그대로의 본인에 자신이 없으니 자꾸 뭔가 연출하려한다. 없는게 문제가 아니러 없으면 다른 장점으로 채우면 되는데 없는 걸 있는 척을 하려다보니 뽀록이 난다는거 저건 짠해야 하는게 아니라 못난 거에 가깝다",
+      "author": "o******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B9%88%EC%88%98%EB%A0%88%EA%B0%80-%EC%9A%94%EB%9E%80%ED%95%98%EB%8B%A4-5i2ipf5r",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-29T04:22:19+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T19:23:38+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -597652,7 +597671,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T04:20:19+09:00"
+      "slowAt": "2026-10-29T04:23:19+09:00"
     },
     "ig": {
       "doneIds": [
@@ -603905,7 +603924,9 @@
         "6633571",
         "6633573",
         "6633579",
-        "6633580"
+        "6633580",
+        "6633583",
+        "6633585"
       ]
     },
     "blind": {
