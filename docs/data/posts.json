@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T16:16:15+00:00",
+  "updatedAt": "2026-10-28T16:17:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -588884,6 +588884,26 @@
       "firstSeenAt": "2026-10-28T16:16:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89621,
+      "source": "blind",
+      "externalId": "cmt-458784482",
+      "title": "여기 나솔갤이긴 해.",
+      "excerpt": "남자 입장에서 어떤 말 듣는게 제일 슬플까?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EB%A7%90-%EB%93%A3%EB%8A%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%8A%AC%ED%94%8C%EA%B9%8C-jcfhzou4#458784482",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T01:16:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T16:17:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -589018,7 +589038,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T01:13:56+09:00"
+      "slowAt": "2026-10-29T01:16:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -594961,8 +594981,10 @@
         "6632743",
         "6632745",
         "6632753",
+        "6632755",
         "6632758",
-        "6632759"
+        "6632759",
+        "6632764"
       ]
     },
     "blind": {
@@ -597853,6 +597875,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%80-%EB%82%98%EB%8C%80%EB%84%A4%E3%85%9C-alfayzte",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%80-%EB%B3%B4%EA%B8%B0-%EB%B6%88%ED%8E%B8%ED%95%98%EB%8B%A4-tr618b51",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%80-%EC%A3%BC%EB%B3%80%EC%82%AC%EB%9E%8C-%EB%B6%88%ED%8E%B8%ED%95%98%EA%B2%8C%ED%95%98%EB%84%A4%E3%85%8B%E3%85%8B-6ymeaeja",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%80-%EC%A7%A0%ED%95%B4%EC%A7%84%EB%8B%A4-pgwkpa8c",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90-vs-%EC%98%81%EC%88%99-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90-1lchhx4g",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A4%80%EC%BC%80%EC%9D%B4%EB%83%90-cxhxacxx",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%80%EA%B8%88-%EC%A2%85%EB%A1%9C-%EC%95%BC%EC%9E%A5%EC%97%90%EC%84%9C-5b7krsxc",
@@ -599125,6 +599148,7 @@
         "/kr/post/%ED%98%84%EC%88%99-%EA%B3%A0%EB%8C%80%EB%9D%BC%EB%A9%94-zn13hhxa",
         "/kr/post/%ED%98%84%EC%88%99-%EA%B5%AC%ED%86%A0-0ii6s3e0",
         "/kr/post/%ED%98%84%EC%88%99-%EB%82%B4-%EC%9D%B4%EC%83%81%ED%98%95-28xpllgo",
+        "/kr/post/%ED%98%84%EC%88%99-%EB%84%88%EB%AC%B4-%EB%A7%A4%EB%A0%A5%EC%9E%88%EC%96%B4%E2%80%A6-v8lbzckm",
         "/kr/post/%ED%98%84%EC%88%99-%EB%84%88%EB%AC%B4-%EC%99%84%EB%B2%BD%ED%95%98%EB%8B%A4%E3%85%9C%E3%85%9C-f1auzcjb",
         "/kr/post/%ED%98%84%EC%88%99-%EB%8B%AE%EC%95%97%EB%82%98-%EC%9D%B4%EA%B1%B0-%EC%9E%90%EA%BE%B8-%EC%83%9D%EA%B0%81%EB%82%98%EB%8A%94%EB%8D%B0-atje8cd0",
         "/kr/post/%ED%98%84%EC%88%99-%EB%8B%AE%EC%9D%80%EA%BC%B4-%EC%B0%BE%EC%9D%8C-pezyud5i",
