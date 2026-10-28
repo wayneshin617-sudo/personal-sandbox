@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T13:35:43+00:00",
+  "updatedAt": "2026-10-28T13:36:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -535417,6 +535417,84 @@
       "firstSeenAt": "2026-10-28T13:35:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86840,
+      "source": "qoo",
+      "externalId": "4389308160",
+      "title": "영호 현숙이랑 대화하는거 보고싶음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4389308160",
+      "postedLabel": "22:35",
+      "postedAt": "2026-10-28T22:35:00+09:00",
+      "views": 18,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-28T13:36:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86841,
+      "source": "blind",
+      "externalId": "cmt-458760458",
+      "title": "외모는 괜찮지 외모는…",
+      "excerpt": "영숙언니 왜 이뻐보이지..?",
+      "author": "R******",
+      "company": "경기대학교교직원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%96%B8%EB%8B%88-%EC%99%9C-%EC%9D%B4%EB%BB%90%EB%B3%B4%EC%9D%B4%EC%A7%80-ndipyrg1#458760458",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T22:36:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T13:36:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86842,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%86%8D%EB%A7%88%EC%9D%8C-%EC%BA%90%EB%AC%BB%EB%8A%94%EA%B1%B0-%EC%A7%84%EC%A7%9C-%EB%A7%A4%EB%A0%A5%EC%97%86%EB%8A%94-%ED%96%89%EB%8F%99%EC%9D%B4%EC%95%BC-jqu4qrfj",
+      "title": "속마음 캐묻는거 진짜 매력없는 행동이야",
+      "excerpt": "걍 서로 알아가는 대화해야지 첨 본 사람한테 나한테 관심있냐 없냐 압박면접을 왜 자꾸하지 있던 호감도 떨어지겠네",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%8D%EB%A7%88%EC%9D%8C-%EC%BA%90%EB%AC%BB%EB%8A%94%EA%B1%B0-%EC%A7%84%EC%A7%9C-%EB%A7%A4%EB%A0%A5%EC%97%86%EB%8A%94-%ED%96%89%EB%8F%99%EC%9D%B4%EC%95%BC-jqu4qrfj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T22:36:25+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T13:36:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86843,
+      "source": "blind",
+      "externalId": "cmt-458760421",
+      "title": "앞모습이 더 이쁘던뎅",
+      "excerpt": "영숙언니 왜 이뻐보이지..?",
+      "author": "a****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%96%B8%EB%8B%88-%EC%99%9C-%EC%9D%B4%EB%BB%90%EB%B3%B4%EC%9D%B4%EC%A7%80-ndipyrg1#458760421",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T22:36:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T13:36:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -535501,7 +535579,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T22:33:25+09:00"
+      "slowAt": "2026-10-28T22:36:25+09:00"
     },
     "ig": {
       "doneIds": [
@@ -541169,7 +541247,8 @@
         "6627021",
         "6627043",
         "6627055",
-        "6627079"
+        "6627079",
+        "6627096"
       ]
     },
     "blind": {
@@ -547671,7 +547750,8 @@
         "4389243596",
         "4389278784",
         "4389293565",
-        "4389307046"
+        "4389307046",
+        "4389308160"
       ]
     },
     "keep": "v2",
