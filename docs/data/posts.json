@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T16:06:15+00:00",
+  "updatedAt": "2026-10-28T16:07:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -588383,6 +588383,101 @@
       "firstSeenAt": "2026-10-28T16:06:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89595,
+      "source": "qoo",
+      "externalId": "4389410620",
+      "title": "엇 근데 고독정식 세명부터 탕수육 주는거 아니였어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389410620",
+      "postedLabel": "01:06",
+      "postedAt": "2026-10-29T01:05:58+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T16:07:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89596,
+      "source": "qoo",
+      "externalId": "4389410658",
+      "title": "직업은 본인 능력이니 그렇다쳐도 집안까지 대놓고 평가하는건",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389410658",
+      "postedLabel": "01:06",
+      "postedAt": "2026-10-29T01:05:59+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T16:07:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89597,
+      "source": "qoo",
+      "externalId": "4389410719",
+      "title": "걍 현숙은 카페가서 각자 할 일 하는거 좋다 이러는거 봐도 걍 연애에 목 매고 사랑에 빠져서 물불 안가리는 타입이 아님",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389410719",
+      "postedLabel": "01:06",
+      "postedAt": "2026-10-29T01:06:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T16:07:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89598,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%91%90%EC%96%BC%EA%B5%B4%EC%9D%98-%EC%82%AC%EB%82%98%EC%9D%B4-%EC%98%81%EC%B2%A0-juqqhd7j",
+      "title": "두얼굴의 사나이 영철",
+      "excerpt": "머리는 쓰는데 오히려 모자라보이고 순수한것 같은데 영악해보이고 연애고수인듯한데 연애고ㅈ이고 신기한 사람",
+      "author": "l*********",
+      "company": "아주대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%91%90%EC%96%BC%EA%B5%B4%EC%9D%98-%EC%82%AC%EB%82%98%EC%9D%B4-%EC%98%81%EC%B2%A0-juqqhd7j",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T01:06:56+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T16:07:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89599,
+      "source": "qoo",
+      "externalId": "4389410820",
+      "title": "영철 고독은 안먹으려나",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389410820",
+      "postedLabel": "01:07",
+      "postedAt": "2026-10-29T01:07:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T16:07:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -588467,7 +588562,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T01:03:56+09:00"
+      "slowAt": "2026-10-29T01:06:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -594435,7 +594530,9 @@
         "6632650",
         "6632653",
         "6632660",
-        "6632672"
+        "6632664",
+        "6632672",
+        "6632677"
       ]
     },
     "blind": {
@@ -602693,7 +602790,11 @@
         "4389408681",
         "4389409369",
         "4389409457",
-        "4389409490"
+        "4389409490",
+        "4389410620",
+        "4389410658",
+        "4389410719",
+        "4389410820"
       ]
     },
     "keep": "v2",
