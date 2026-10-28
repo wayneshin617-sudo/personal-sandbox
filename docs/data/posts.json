@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T12:10:28+00:00",
+  "updatedAt": "2026-10-28T12:12:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -534377,6 +534377,26 @@
       "firstSeenAt": "2026-10-28T12:10:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86787,
+      "source": "blind",
+      "externalId": "cmt-458747043",
+      "title": "아 메뉴 자체가 의도를 해야 들어가는거구나 그러면 실수가 있을수 없는거네",
+      "excerpt": "인스타 공개 비공개 설정 하는게 실수로 가능해?",
+      "author": "!********* 작성자",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B8%EC%8A%A4%ED%83%80-%EA%B3%B5%EA%B0%9C-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%84%A4%EC%A0%95-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%8B%A4%EC%88%98%EB%A1%9C-%EA%B0%80%EB%8A%A5%ED%95%B4-uig3e87t#458747043",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T21:12:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T12:12:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -534460,7 +534480,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-28T21:09:11+09:00"
+      "slowAt": "2026-10-28T21:12:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -540075,7 +540095,8 @@
         "6626797",
         "6626810",
         "6626811",
-        "6626821"
+        "6626821",
+        "6626825"
       ]
     },
     "blind": {
