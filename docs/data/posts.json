@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T04:37:13+00:00",
+  "updatedAt": "2026-10-28T04:38:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -529487,6 +529487,26 @@
       "firstSeenAt": "2026-10-28T04:37:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86540,
+      "source": "dc",
+      "externalId": "cmt-10976934",
+      "title": "김새론생각난다",
+      "excerpt": "어쩌다 조금 예쁘장하게 태어나서 연예계 기웃기웃거리는 여자치고",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625852&page=2#cmt_10976934",
+      "postedLabel": "10.28 12:38:56",
+      "postedAt": "2026-10-28T12:38:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T04:38:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -529620,7 +529640,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T13:34:58+09:00"
+      "slowAt": "2026-10-28T13:37:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -534908,6 +534928,7 @@
         "6625839",
         "6625844",
         "6625845",
+        "6625852",
         "6625871",
         "6625881",
         "6625905",
@@ -534918,7 +534939,8 @@
         "6625935",
         "6625936",
         "6625939",
-        "6625946"
+        "6625946",
+        "6625952"
       ]
     },
     "blind": {
