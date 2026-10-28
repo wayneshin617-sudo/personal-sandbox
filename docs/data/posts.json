@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T17:56:15+00:00",
+  "updatedAt": "2026-10-28T17:58:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -596348,6 +596348,45 @@
       "firstSeenAt": "2026-10-28T17:56:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 89997,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A5%EC%88%9C-%ED%95%98%EB%A7%88%EC%82%AC%ED%82%A4-%EC%95%84%EC%9C%A0%EB%AF%B8-%EB%8B%AE%EC%9D%8C-u20vn0he",
+      "title": "옥순 하마사키 아유미 닮음",
+      "excerpt": "일녀 st 히메갸루스탈로 꾸미면 에겐력 더 폭발할거같음",
+      "author": "j*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%ED%95%98%EB%A7%88%EC%82%AC%ED%82%A4-%EC%95%84%EC%9C%A0%EB%AF%B8-%EB%8B%AE%EC%9D%8C-u20vn0he",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-29T02:56:56+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-28T17:58:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89998,
+      "source": "blind",
+      "externalId": "cmt-458790168",
+      "title": "20대때 공주로 살았을걸...",
+      "excerpt": "현숙이 예쁘긴한데",
+      "author": "j*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%88%EC%81%98%EA%B8%B4%ED%95%9C%EB%8D%B0-72q5itxl#458790168",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T02:57:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T17:58:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -596432,7 +596471,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T02:54:56+09:00"
+      "slowAt": "2026-10-29T02:57:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -602594,7 +602633,9 @@
         "6633271",
         "6633272",
         "6633273",
-        "6633278"
+        "6633277",
+        "6633278",
+        "6633285"
       ]
     },
     "blind": {
