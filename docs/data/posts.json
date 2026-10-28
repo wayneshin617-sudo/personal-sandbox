@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T23:46:30+00:00",
+  "updatedAt": "2026-10-28T23:47:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -600814,6 +600814,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T23:46:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90224,
+      "source": "qoo",
+      "externalId": "cmt-4389489717",
+      "title": "그 나이가지고 집합시키겠단 식으로 말해서 그게 좀",
+      "excerpt": "근데 상철 별로야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389456230#4389489717",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T07:46:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:47:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90225,
+      "source": "blind",
+      "externalId": "cmt-458805584",
+      "title": "같은 20대 정신연령 만나겠지 뭐",
+      "excerpt": "영철 하는짓이 딱 20대초 복학생 느낌",
+      "author": "투***",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%95%98%EB%8A%94%EC%A7%93%EC%9D%B4-%EB%94%B1-20%EB%8C%80%EC%B4%88-%EB%B3%B5%ED%95%99%EC%83%9D-%EB%8A%90%EB%82%8C-c30vuzwp#458805584",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T08:47:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:47:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -600953,7 +600993,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T08:44:12+09:00"
+      "slowAt": "2026-10-29T08:47:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -607290,6 +607330,7 @@
         "6633865",
         "6633867",
         "6633881",
+        "6633889",
         "6633903",
         "6633909",
         "6633918",
@@ -607312,7 +607353,8 @@
         "6634014",
         "6634019",
         "6634023",
-        "6634026"
+        "6634026",
+        "6634028"
       ]
     },
     "blind": {
@@ -610035,6 +610077,10 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%80%EB%9F%AC%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EC%9E%90%EA%B2%A9%EC%A7%80%EC%8B%AC-%ED%95%98%EB%82%98-%EB%95%8C%EB%AC%B8%EC%9D%B4%EC%95%BC-tpwg2tvn",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%80%EC%83%88%EB%81%BC-%EB%88%88%EA%B9%94-%EC%B0%8C%EB%A5%B4%EA%B3%A0%EC%8B%B6%EC%9D%80%EC%82%AC%EB%9E%8C-%EC%A0%80%ED%98%BC%EC%9E%94%EA%B0%80%EC%9A%94-cg3ilu72",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%80-%E3%85%82%E3%85%85%E3%85%85%EB%81%BC-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-6b03u7r1",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%83%81%ED%96%A5%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-1m600nfv",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%83%81%ED%96%A5%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-6qvydprj",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%83%81%ED%96%A5%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8g3s276y",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%83%81%ED%96%A5%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-h1frcs6c",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%9C%EC%9D%BC-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EB%A8%B8%EB%A6%AC%EB%A5%BC-%EB%84%88%EB%AC%B4-%EA%B5%B4%EB%A6%B0%EB%8B%A4%EB%8A%94%EA%B1%B0-5fswgt38",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A1%B0%EC%A6%9D-%EC%98%A8%EB%93%AF-n3nd83wk",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A1%B4%EB%82%98-%EB%82%98%EB%8C%80%EB%84%A4-lmxdx36n",
