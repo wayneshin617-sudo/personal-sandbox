@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T15:53:12+00:00",
+  "updatedAt": "2026-10-28T15:55:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -587495,6 +587495,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T15:53:12+00:00",
       "isSeed": false
+    },
+    {
+      "id": 89549,
+      "source": "qoo",
+      "externalId": "4389404116",
+      "title": "20대였으면 영수가 영숙 만나봤을 거라는 말 바로 이해함",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389404116",
+      "postedLabel": "00:54",
+      "postedAt": "2026-10-29T00:54:00+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:55:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 89550,
+      "source": "blind",
+      "externalId": "cmt-458782279",
+      "title": "대북곤 표정 웃기다",
+      "excerpt": "오늘의 띵장면",
+      "author": "s********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%9D%B5%EC%9E%A5%EB%A9%B4-47znpetu#458782279",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T00:54:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T15:55:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -587579,7 +587618,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T00:51:56+09:00"
+      "slowAt": "2026-10-29T00:54:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -593519,7 +593558,10 @@
         "6632476",
         "6632480",
         "6632489",
-        "6632514"
+        "6632514",
+        "6632538",
+        "6632540",
+        "6632547"
       ]
     },
     "blind": {
@@ -601747,7 +601789,8 @@
         "4389402380",
         "4389402550",
         "4389402808",
-        "4389403119"
+        "4389403119",
+        "4389404116"
       ]
     },
     "keep": "v2",
