@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T23:33:29+00:00",
+  "updatedAt": "2026-10-28T23:34:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -600341,6 +600341,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-28T23:33:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90200,
+      "source": "blind",
+      "externalId": "cmt-458803173",
+      "title": "그건 니 시야가 좁은거 어디든 예외는 있다",
+      "excerpt": "내주변에 남공이나 교직원 공기업이 여자전문직 만나는경우",
+      "author": "!*********",
+      "company": "SK",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EC%A3%BC%EB%B3%80%EC%97%90-%EB%82%A8%EA%B3%B5%EC%9D%B4%EB%82%98-%EA%B5%90%EC%A7%81%EC%9B%90-%EA%B3%B5%EA%B8%B0%EC%97%85%EC%9D%B4-%EC%97%AC%EC%9E%90%EC%A0%84%EB%AC%B8%EC%A7%81-%EB%A7%8C%EB%82%98%EB%8A%94%EA%B2%BD%EC%9A%B0-qcj76qnw#458803173",
+      "postedLabel": "12분",
+      "postedAt": "2026-10-29T08:22:11+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T23:34:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -606796,6 +606816,7 @@
         "6633779",
         "6633781",
         "6633788",
+        "6633793",
         "6633798",
         "6633801",
         "6633806",
@@ -606824,7 +606845,8 @@
         "6633965",
         "6633970",
         "6633974",
-        "6633978"
+        "6633978",
+        "6633998"
       ]
     },
     "blind": {
@@ -608246,6 +608268,7 @@
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%99%80%EC%9D%B4%ED%94%84-%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%86%8C%EA%B0%9C%ED%8C%85%ED%95%B4%EC%A4%80-%EC%82%AC%EB%9E%8C-%EC%95%84%EB%8B%90%EB%93%AF-cjjjidcz",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B2%8C-%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%80%EB%8A%94%EA%B2%83%EA%B0%99%EC%A7%80-5ic3ez6z",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%ED%99%94%EB%B2%95%EC%9D%B4-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4%EC%A7%80-bn5hlhb4",
+        "/kr/post/%EC%83%81%EC%B2%A0-%EC%99%A4%EC%BC%80-%EB%AA%A8%EB%93%A0-%EA%B2%83%EC%97%90-%EC%83%9D%EC%83%89%EC%9D%B4%EB%83%90-tfuf37de",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%A7%84%EA%B8%B0%EC%A3%BC-%EB%8B%AE%EC%95%98%EB%8B%A4-oswyjnna",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%B0%A8%ED%83%9C%ED%98%84%EB%8B%AE%EC%95%98%EB%8B%A4%E2%80%A6-5266s4rs",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%B4%AC%EC%98%81%ED%95%A0%EB%95%8C-%ED%95%9C%EC%B0%BD-%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%ED%95%AB%ED%95%A0%EB%95%8C%EC%98%80%EC%9D%8C-fr1cv77v",
