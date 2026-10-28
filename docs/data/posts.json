@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T04:38:14+00:00",
+  "updatedAt": "2026-10-28T04:41:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -529507,6 +529507,65 @@
       "firstSeenAt": "2026-10-28T04:38:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 86541,
+      "source": "dc",
+      "externalId": "6625960",
+      "title": "팔계 보니까 내친구 생각난다",
+      "excerpt": "",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625960&page=1",
+      "postedLabel": "13:39",
+      "postedAt": "2026-10-28T13:39:58+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T04:41:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 86542,
+      "source": "dc",
+      "externalId": "cmt-10977010",
+      "title": "진짜 영숙이랑 연애는 해보고 싶다",
+      "excerpt": "아~ 옥팔계 때문에 밀렸네~",
+      "author": "오어징쫘?",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6625959&page=1#cmt_10977010",
+      "postedLabel": "10.28 13:40:32",
+      "postedAt": "2026-10-28T13:40:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T04:41:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 86543,
+      "source": "blind",
+      "externalId": "cmt-458691408",
+      "title": "전체 비율 100퍼 중에 직업은 살짝 내려가고 외모가 대폭 상승하긴 했지 남자 보는 기준중에",
+      "excerpt": "남자 외모>직업인건 최근에 바뀐거 아니야?",
+      "author": "y*****",
+      "company": "야놀자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-%EC%99%B8%EB%AA%A8%EC%A7%81%EC%97%85%EC%9D%B8%EA%B1%B4-%EC%B5%9C%EA%B7%BC%EC%97%90-%EB%B0%94%EB%80%90%EA%B1%B0-%EC%95%84%EB%8B%88%EC%95%BC-mid0351n#458691408",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-28T13:40:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T04:41:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -529640,7 +529699,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-28T13:37:57+09:00"
+      "slowAt": "2026-10-28T13:40:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -534930,6 +534989,7 @@
         "6625845",
         "6625852",
         "6625857",
+        "6625860",
         "6625871",
         "6625881",
         "6625905",
@@ -534942,7 +535002,8 @@
         "6625939",
         "6625946",
         "6625952",
-        "6625954"
+        "6625954",
+        "6625959"
       ]
     },
     "blind": {
