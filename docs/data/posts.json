@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T18:22:14+00:00",
+  "updatedAt": "2026-10-28T18:23:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -596920,6 +596920,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-28T18:22:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90026,
+      "source": "dc",
+      "externalId": "6633389",
+      "title": "솔직히 친구로는 34영철같은 타입이 좋음",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6633389&page=1",
+      "postedLabel": "03:22",
+      "postedAt": "2026-10-29T03:22:33+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-28T18:23:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -597054,7 +597073,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T03:19:56+09:00"
+      "slowAt": "2026-10-29T03:22:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -603138,6 +603157,7 @@
         "6633147",
         "6633149",
         "6633150",
+        "6633152",
         "6633157",
         "6633162",
         "6633167",
