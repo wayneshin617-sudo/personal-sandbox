@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:02:01+00:00",
+  "updatedAt": "2026-10-29T03:03:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -611332,6 +611332,63 @@
       "firstSeenAt": "2026-10-29T03:02:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90757,
+      "source": "dc",
+      "externalId": "6634904",
+      "title": "내 마음속 goat",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634904&page=1",
+      "postedLabel": "12:02",
+      "postedAt": "2026-10-29T12:02:07+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:03:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90758,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%A0%95%EC%88%99%EC%9D%80-yarolxvl",
+      "title": "34정숙은",
+      "excerpt": "바지를 끝까지 올려입었네 ㅋㅋ",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%A0%95%EC%88%99%EC%9D%80-yarolxvl",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:02:42+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:03:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90759,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99%EC%9D%B4%EB%A5%BC-%EB%B0%96%EC%97%90%EC%84%A0-%EB%AA%BB%EB%A7%8C%EB%82%A0%EB%93%AF-f7hoyyn2",
+      "title": "투표글 34기 영철이 현숙이를 밖에선 못만날듯 투표",
+      "excerpt": "영철이는 9출 7급 공무원 이니깐 세후 300 현숙이는 연봉 1억은 될테니 세후 640인데 둘다 외모 괜찮지만 여자가 자기 1/2 버는 남자한테 일반적으론 매력을 못 느끼자나 나솔이니깐 기회있는거지 밖에선 못 만나지 않을까?",
+      "author": "a*******",
+      "company": "현대자동차",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99%EC%9D%B4%EB%A5%BC-%EB%B0%96%EC%97%90%EC%84%A0-%EB%AA%BB%EB%A7%8C%EB%82%A0%EB%93%AF-f7hoyyn2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:02:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:03:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611471,7 +611528,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T11:59:43+09:00"
+      "slowAt": "2026-10-29T12:02:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -618103,7 +618160,8 @@
         "6634890",
         "6634892",
         "6634893",
-        "6634894"
+        "6634894",
+        "6634901"
       ]
     },
     "blind": {
