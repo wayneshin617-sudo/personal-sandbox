@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:43:30+00:00",
+  "updatedAt": "2026-10-29T00:44:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -603517,6 +603517,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T00:43:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90361,
+      "source": "qoo",
+      "externalId": "cmt-4389515544",
+      "title": "화법이 좀 비호감임 ㅋㅋ",
+      "excerpt": "근데 상철 별로야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389456230#4389515544",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T08:43:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:44:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90362,
+      "source": "qoo",
+      "externalId": "cmt-4389515681",
+      "title": "너무 투명하더라 ㅋㅋㅋㅋㅋ",
+      "excerpt": "영철 짜치는점 하나 더",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389511210#4389515681",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T08:44:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:44:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -603656,7 +603696,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T09:41:12+09:00"
+      "slowAt": "2026-10-29T09:44:12+09:00"
     },
     "dc": {
       "doneIds": [
