@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:23:03+00:00",
+  "updatedAt": "2026-10-29T04:24:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -615625,6 +615625,85 @@
       "firstSeenAt": "2026-10-29T04:23:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90975,
+      "source": "blind",
+      "externalId": "cmt-458829122",
+      "title": "자존감 낮은거 여기까지 느껴짐 직업이 별로라 그런가",
+      "excerpt": "영철 너무 비호감인데",
+      "author": "i********* 작성자",
+      "company": "신한투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%84%88%EB%AC%B4-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B8%EB%8D%B0-8vty0qhr#458829122",
+      "postedLabel": "51분",
+      "postedAt": "2026-10-29T12:32:45+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:24:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90976,
+      "source": "blind",
+      "externalId": "cmt-458829628",
+      "title": "어제꺼 아직 안봤는데 기대된다…",
+      "excerpt": "영철 너무 비호감인데",
+      "author": "쿵*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%84%88%EB%AC%B4-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B8%EB%8D%B0-8vty0qhr#458829628",
+      "postedLabel": "46분",
+      "postedAt": "2026-10-29T12:37:45+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:24:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90977,
+      "source": "dc",
+      "externalId": "cmt-10981124",
+      "title": "잘생긴 9급이면 가능하지 - dc App",
+      "excerpt": "대기업 공순이가 9급을 왜만나",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635280&page=1#cmt_10981124",
+      "postedLabel": "10.29 13:23:14",
+      "postedAt": "2026-10-29T13:23:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:24:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90978,
+      "source": "blind",
+      "externalId": "/kr/post/34%ED%98%84%EC%88%99%EC%9D%80-%EA%B8%B0%EC%88%98%EC%9A%B4%EC%9D%B4-%E3%84%B9%E3%85%87-%EC%95%84%EC%89%AC%EC%9B%80-mbwejee2",
+      "title": "34현숙은 기수운이 ㄹㅇ 아쉬움",
+      "excerpt": "3남매 정도면 다둥이 아니라 다른 기수 갈 수 있는데…. 직장동료 30영숙 나솔 나온 거 보고 30기 남자들 직업 외모 괜찮은 거 보고 신청했을텐데…",
+      "author": "!*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99%EC%9D%80-%EA%B8%B0%EC%88%98%EC%9A%B4%EC%9D%B4-%E3%84%B9%E3%85%87-%EC%95%84%EC%89%AC%EC%9B%80-mbwejee2",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:23:45+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T04:24:02+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -615764,7 +615843,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T13:20:45+09:00"
+      "slowAt": "2026-10-29T13:23:45+09:00"
     },
     "dc": {
       "doneIds": [
@@ -622507,7 +622586,9 @@
         "6635258",
         "6635262",
         "6635271",
-        "6635274"
+        "6635274",
+        "6635275",
+        "6635280"
       ]
     },
     "blind": {
