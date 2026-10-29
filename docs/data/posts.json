@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T07:27:52+00:00",
+  "updatedAt": "2026-10-29T07:28:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -626076,6 +626076,65 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T07:27:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91503,
+      "source": "qoo",
+      "externalId": "cmt-4389814994",
+      "title": "1순위 현숙이 왔었다면 영호도 어찌됐을지 모른다고 봄",
+      "excerpt": "다대일할때 공평하면 노잼이야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389642989#4389814994",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T15:09:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T07:28:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91504,
+      "source": "blind",
+      "externalId": "cmt-458853499",
+      "title": "ㅈㄴ공감안되고 글도 개같이 못썼으니까 자꾸 끌올 해대지 마라 그냥 꺼져ㅋ",
+      "excerpt": "남자중에 영철이 욕할수 있는 자 얼마나 될까",
+      "author": "w*****",
+      "company": "한국가스안전공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90%EC%A4%91%EC%97%90-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9A%95%ED%95%A0%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9E%90-%EC%96%BC%EB%A7%88%EB%82%98-%EB%90%A0%EA%B9%8C-ke7vcr3l#458853499",
+      "postedLabel": "29분",
+      "postedAt": "2026-10-29T15:59:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T07:28:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91505,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%80-%ED%98%84%EC%88%99-%EC%A1%B4%EC%98%88%EB%84%A4-3pjjkmfy",
+      "title": "와 현숙 존예네",
+      "excerpt": "나 눈 높아서 여자92 이상은 쳐다도 안보는데 현숙 정도면 가능할듯",
+      "author": "i*********",
+      "company": "기업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%ED%98%84%EC%88%99-%EC%A1%B4%EC%98%88%EB%84%A4-3pjjkmfy",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T16:28:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T07:28:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -626165,7 +626224,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T16:25:37+09:00"
+      "slowAt": "2026-10-29T16:28:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -633232,7 +633291,8 @@
         "6635975",
         "6635977",
         "6635981",
-        "6635984"
+        "6635984",
+        "6635985"
       ]
     },
     "blind": {
