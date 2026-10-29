@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T16:10:14+00:00",
+  "updatedAt": "2026-10-29T16:11:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -653700,6 +653700,85 @@
       "firstSeenAt": "2026-10-29T16:10:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92904,
+      "source": "blind",
+      "externalId": "cmt-458924508",
+      "title": "니베아 체리같은거 들고다니더라",
+      "excerpt": "영철",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-g16cr0dp#458924508",
+      "postedLabel": "36분",
+      "postedAt": "2026-10-30T00:34:54+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T16:11:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92905,
+      "source": "blind",
+      "externalId": "cmt-458924709",
+      "title": "인터뷰때 입술 급 시뻘개짐 김치국물색",
+      "excerpt": "영철",
+      "author": "!********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-g16cr0dp#458924709",
+      "postedLabel": "35분",
+      "postedAt": "2026-10-30T00:35:54+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T16:11:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92906,
+      "source": "dc",
+      "externalId": "6638527",
+      "title": "문신은 곧 걸레",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638527&page=1",
+      "postedLabel": "01:10",
+      "postedAt": "2026-10-30T01:10:01+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T16:11:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92907,
+      "source": "dc",
+      "externalId": "cmt-10983224",
+      "title": "응 한국끼리는 50퍼임 - dc App",
+      "excerpt": "국제결혼 이혼율 36%ㅋㅋㅋ",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638524&page=1#cmt_10983224",
+      "postedLabel": "10.30 01:10:10",
+      "postedAt": "2026-10-30T01:10:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T16:11:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -653842,7 +653921,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T01:07:55+09:00"
+      "slowAt": "2026-10-30T01:10:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -661332,7 +661411,8 @@
         "6638508",
         "6638517",
         "6638518",
-        "6638520"
+        "6638520",
+        "6638524"
       ]
     },
     "blind": {
