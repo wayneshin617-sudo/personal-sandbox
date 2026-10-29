@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:26:00+00:00",
+  "updatedAt": "2026-10-29T02:26:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -608808,6 +608808,64 @@
       "firstSeenAt": "2026-10-29T02:26:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90629,
+      "source": "qoo",
+      "externalId": "4389641313",
+      "title": "근데 첼로랑 프랑스어 배운다고 그렇게까지 생각할 줄 몰랐음...",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389641313",
+      "postedLabel": "11:26",
+      "postedAt": "2026-10-29T11:26:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:26:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90630,
+      "source": "dc",
+      "externalId": "6634733",
+      "title": "어쩐지 34기 초반부터 정숙이 과하게 칭찬하더라니",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634733&page=1",
+      "postedLabel": "11:26",
+      "postedAt": "2026-10-29T11:26:14+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:26:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90631,
+      "source": "blind",
+      "externalId": "cmt-458822639",
+      "title": "A3 중고천만언이면삼",
+      "excerpt": "현숙이 타고 온차인데",
+      "author": "j*******",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%ED%83%80%EA%B3%A0-%EC%98%A8%EC%B0%A8%EC%9D%B8%EB%8D%B0-jemore6y#458822639",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:26:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:26:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -608947,7 +609005,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T11:23:43+09:00"
+      "slowAt": "2026-10-29T11:26:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -615455,6 +615513,7 @@
         "6634450",
         "6634453",
         "6634456",
+        "6634458",
         "6634461",
         "6634463",
         "6634464",
@@ -615514,6 +615573,7 @@
         "6634711",
         "6634713",
         "6634716",
+        "6634717",
         "6634724"
       ]
     },
@@ -623953,7 +624013,8 @@
         "4389608931",
         "4389614434",
         "4389632082",
-        "4389633719"
+        "4389633719",
+        "4389641313"
       ]
     },
     "keep": "v2",
