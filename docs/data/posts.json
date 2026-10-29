@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:13:29+00:00",
+  "updatedAt": "2026-10-29T00:14:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -601819,6 +601819,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T00:13:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90275,
+      "source": "blind",
+      "externalId": "cmt-458807055",
+      "title": "잘생긴경우요",
+      "excerpt": "내주변에 남공이나 교직원 공기업이 여자전문직 만나는경우",
+      "author": "p***",
+      "company": "한국거래소",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EC%A3%BC%EB%B3%80%EC%97%90-%EB%82%A8%EA%B3%B5%EC%9D%B4%EB%82%98-%EA%B5%90%EC%A7%81%EC%9B%90-%EA%B3%B5%EA%B8%B0%EC%97%85%EC%9D%B4-%EC%97%AC%EC%9E%90%EC%A0%84%EB%AC%B8%EC%A7%81-%EB%A7%8C%EB%82%98%EB%8A%94%EA%B2%BD%EC%9A%B0-qcj76qnw#458807055",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-29T09:01:13+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:14:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90276,
+      "source": "dc",
+      "externalId": "6634144",
+      "title": "잠 좀 자자",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634144&page=1",
+      "postedLabel": "09:13",
+      "postedAt": "2026-10-29T09:13:37+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:14:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -601958,7 +601997,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T09:11:12+09:00"
+      "slowAt": "2026-10-29T09:14:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -608351,7 +608390,8 @@
         "6634121",
         "6634122",
         "6634127",
-        "6634139"
+        "6634139",
+        "6634140"
       ]
     },
     "blind": {
@@ -609160,6 +609200,7 @@
         "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98%EC%9D%B4-%EB%AC%B8%EC%8B%A0%EC%97%86%EB%8A%94-%EA%B2%8C-%EB%8D%94-%EB%86%80%EB%9D%BC%EC%9B%80-6ttl0fjz",
         "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98%ED%95%9C%ED%85%8C-%EC%84%A0%ED%83%9D%EC%A7%80%EA%B0%80-%EC%9E%88%EC%9D%8C-%EB%88%84%EA%B5%AC-%EA%B3%A0%EB%A5%BC%EA%BA%BC-%EA%B0%99%EC%9D%8C-ninlz2rd",
         "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98-%EB%94%B1-%EB%B4%90%EB%8F%84-%EB%88%88%EC%8D%B9%EB%AC%B8%EC%8B%A0-%ED%96%88%EA%B5%AC%EB%A7%8C-dma3gxbo",
+        "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98-%EC%99%9C-%EC%98%81%EC%B2%A0%EB%B3%B4%EA%B3%A0-%EC%9E%84%EC%8B%9C%EC%99%84%EC%9D%B4-w70ktiup",
         "/kr/post/%EB%8D%B1%EC%8A%A4%EB%8A%94-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%B8%EB%8D%B0-%EC%99%9C-%EC%A2%8B%EC%95%84%ED%95%B4-gqjqrvq4",
         "/kr/post/%EB%8D%B1%EC%8A%A4%EC%B2%98%EB%9F%BC-%EB%8F%8C%ED%8C%8C%ED%95%B4%EB%82%98%EA%B0%80%EB%A9%B4-%EB%90%98%EC%A7%80%EC%95%8A%EC%9D%84%EA%B9%8C-5ql3dbvh",
         "/kr/post/%EB%8D%B1%EC%8A%A4-%EC%9D%B8%EA%B8%B0-%EC%97%84%EC%B2%AD-%EB%A7%8E%EC%9E%96%EC%95%84-5iapylnk",
