@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T07:32:54+00:00",
+  "updatedAt": "2026-10-29T07:33:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -626674,6 +626674,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T07:32:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91533,
+      "source": "qoo",
+      "externalId": "cmt-4389809243",
+      "title": "모든게..",
+      "excerpt": "영철같은 애한테 현숙이 너무 아깝다 ㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389784687#4389809243",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T15:02:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T07:33:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91534,
+      "source": "qoo",
+      "externalId": "cmt-4389831153",
+      "title": "어떤 여출 갖다대도 아까울듯..",
+      "excerpt": "영철같은 애한테 현숙이 너무 아깝다 ㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389784687#4389831153",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T15:30:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T07:33:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -626814,7 +626854,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T16:30:36+09:00"
+      "slowAt": "2026-10-29T16:33:36+09:00"
     },
     "dc": {
       "doneIds": [
