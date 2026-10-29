@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:59:00+00:00",
+  "updatedAt": "2026-10-29T03:01:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -611215,6 +611215,64 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T02:59:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90751,
+      "source": "dc",
+      "externalId": "cmt-10980834",
+      "title": "존나 소심하고 지삐모름",
+      "excerpt": "공무원은 공뭔끼리 만나야함",
+      "author": "00",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634894&page=1#cmt_10980834",
+      "postedLabel": "10.29 11:59:50",
+      "postedAt": "2026-10-29T11:59:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:01:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90752,
+      "source": "dc",
+      "externalId": "6634896",
+      "title": "영철이 까이는 이유",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634896&page=1",
+      "postedLabel": "12:00",
+      "postedAt": "2026-10-29T12:00:12+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:01:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90753,
+      "source": "blind",
+      "externalId": "/kr/post/%E3%84%B9%E3%85%87-%EC%A0%95%EC%88%99%EC%9D%B4%EA%B0%80-%EB%94%B1-%EC%A0%80%EC%A0%90%EB%A7%A4%EC%88%98%ED%95%B4%EC%95%BC%ED%95%A0-face-dbokwm0q",
+      "title": "ㄹㅇ 정숙이가 딱 저점매수해야할 face...",
+      "excerpt": "라방때 두고봐라 다들 화들짝 놀랄것.",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%E3%84%B9%E3%85%87-%EC%A0%95%EC%88%99%EC%9D%B4%EA%B0%80-%EB%94%B1-%EC%A0%80%EC%A0%90%EB%A7%A4%EC%88%98%ED%95%B4%EC%95%BC%ED%95%A0-face-dbokwm0q",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:00:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:01:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611304,7 +611362,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T11:57:43+09:00"
+      "slowAt": "2026-10-29T12:00:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -617983,7 +618041,9 @@
         "6634869",
         "6634875",
         "6634886",
-        "6634892"
+        "6634890",
+        "6634892",
+        "6634894"
       ]
     },
     "blind": {
