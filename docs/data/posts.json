@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:08:04+00:00",
+  "updatedAt": "2026-10-29T04:09:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -614820,6 +614820,65 @@
       "firstSeenAt": "2026-10-29T04:08:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90934,
+      "source": "dc",
+      "externalId": "6635203",
+      "title": "생각해보면 출연자들 잠도 거의 못자고 술도 존나 마실텐데",
+      "excerpt": "",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635203&page=1",
+      "postedLabel": "13:08",
+      "postedAt": "2026-10-29T13:08:04+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:09:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90935,
+      "source": "blind",
+      "externalId": "cmt-458833521",
+      "title": "아씨 ㅜㅜㅋㅋ",
+      "excerpt": "정숙 머리 이거라니까",
+      "author": "p******* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EB%A8%B8%EB%A6%AC-%EC%9D%B4%EA%B1%B0%EB%9D%BC%EB%8B%88%EA%B9%8C-256v4yiy#458833521",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:08:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:09:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90936,
+      "source": "blind",
+      "externalId": "cmt-458833506",
+      "title": "나도 공감함",
+      "excerpt": "정숙 머리 이거라니까",
+      "author": "p******* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EB%A8%B8%EB%A6%AC-%EC%9D%B4%EA%B1%B0%EB%9D%BC%EB%8B%88%EA%B9%8C-256v4yiy#458833506",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:08:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:09:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -614959,7 +615018,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T13:05:45+09:00"
+      "slowAt": "2026-10-29T13:08:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -621674,7 +621733,8 @@
         "6635185",
         "6635187",
         "6635188",
-        "6635189"
+        "6635189",
+        "6635193"
       ]
     },
     "blind": {
