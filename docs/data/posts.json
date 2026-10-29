@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:04:30+00:00",
+  "updatedAt": "2026-10-29T12:05:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -638909,6 +638909,45 @@
       "firstSeenAt": "2026-10-29T12:04:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92152,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-laolttyc",
+      "title": "영철이",
+      "excerpt": "하면 안되는거 다리꼬기 머그잔들고 말하기 턱 20도 비스듬히 들기 턱에 손올리기 그리고 뭐있음? 지금보는중",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-laolttyc",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:05:12+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T12:05:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92153,
+      "source": "blind",
+      "externalId": "cmt-458892260",
+      "title": "패션 센스 없긴해..",
+      "excerpt": "34 현숙 키",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-%ED%82%A4-g2yviulq#458892260",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:05:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:05:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -639049,7 +639088,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T21:02:12+09:00"
+      "slowAt": "2026-10-29T21:05:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -646325,7 +646364,9 @@
         "6636791",
         "6636800",
         "6636803",
-        "6636809"
+        "6636809",
+        "6636812",
+        "6636819"
       ]
     },
     "blind": {
