@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T01:38:28+00:00",
+  "updatedAt": "2026-10-29T01:39:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -606364,6 +606364,64 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T01:38:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90505,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%98-%EB%8D%A9%EC%B9%98%EB%A7%8C-%EC%96%98%EA%B8%B0%ED%95%98%EB%8A%94%EB%8D%B0-%ED%94%BC%EB%B6%80%EB%8A%94-%EC%8B%A0%EA%B2%BD%EC%95%88%EC%93%B0%EC%97%AC-nfvrjl75",
+      "title": "영수 덩치만 얘기하는데 피부는 신경안쓰여?",
+      "excerpt": "피부 많이 안좋아보이는데 신경안쓰여?",
+      "author": "i*********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EB%8D%A9%EC%B9%98%EB%A7%8C-%EC%96%98%EA%B8%B0%ED%95%98%EB%8A%94%EB%8D%B0-%ED%94%BC%EB%B6%80%EB%8A%94-%EC%8B%A0%EA%B2%BD%EC%95%88%EC%93%B0%EC%97%AC-nfvrjl75",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-29T10:38:12+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-29T01:39:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90506,
+      "source": "qoo",
+      "externalId": "4389602189",
+      "title": "아 근데 존잼이네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389602189",
+      "postedLabel": "10:39",
+      "postedAt": "2026-10-29T10:39:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:39:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90507,
+      "source": "blind",
+      "externalId": "cmt-458817054",
+      "title": "쓰여...한의사 잇몸도 쓰이고",
+      "excerpt": "영수 덩치만 얘기하는데 피부는 신경안쓰여?",
+      "author": "못***",
+      "company": "GS리테일",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EB%8D%A9%EC%B9%98%EB%A7%8C-%EC%96%98%EA%B8%B0%ED%95%98%EB%8A%94%EB%8D%B0-%ED%94%BC%EB%B6%80%EB%8A%94-%EC%8B%A0%EA%B2%BD%EC%95%88%EC%93%B0%EC%97%AC-nfvrjl75#458817054",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T10:39:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:39:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -606453,7 +606511,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T10:36:12+09:00"
+      "slowAt": "2026-10-29T10:39:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -612952,6 +613010,7 @@
         "6634243",
         "6634248",
         "6634253",
+        "6634255",
         "6634257",
         "6634258",
         "6634259",
@@ -613013,7 +613072,8 @@
         "6634482",
         "6634483",
         "6634495",
-        "6634499"
+        "6634499",
+        "6634508"
       ]
     },
     "blind": {
@@ -615115,6 +615175,7 @@
         "/kr/post/%EC%98%81%EC%88%98-%EB%82%98%EC%9D%B4%EC%97%90-%EC%8B%B1%EA%B8%80%EC%9D%B4%EB%A9%B4-%EC%A0%80%EB%A6%AC-%EC%8A%A4%ED%82%A8%EC%8B%AD-%EC%A7%91%EC%B0%A9%ED%95%98%EB%82%98-vgljebh2",
         "/kr/post/%EC%98%81%EC%88%98-%EB%88%84%EB%81%BC%EC%BB%B7-kq67684w",
         "/kr/post/%EC%98%81%EC%88%98-%EB%88%84%EC%9B%8C%EC%84%9C-%EB%96%BC%EC%93%B0%EB%8A%94%EB%8D%B0-30k06ch7",
+        "/kr/post/%EC%98%81%EC%88%98-%EB%8D%A9%EC%B9%98%EB%A7%8C-%EC%96%98%EA%B8%B0%ED%95%98%EB%8A%94%EB%8D%B0-%ED%94%BC%EB%B6%80%EB%8A%94-%EC%8B%A0%EA%B2%BD%EC%95%88%EC%93%B0%EC%97%AC-nfvrjl75",
         "/kr/post/%EC%98%81%EC%88%98-%EB%92%A4%EB%A1%9C-%EB%B2%8C%EB%9F%AC%EB%8D%A9%EC%95%88%ED%95%B4%EC%84%9C-%EC%B2%9C%EB%A7%8C%EB%8B%A4%ED%96%89-byjssf4r",
         "/kr/post/%EC%98%81%EC%88%98-%EB%9D%A0%EA%BA%BC%EC%9A%B4%ED%91%9C%EC%A0%95-an28kuh7",
         "/kr/post/%EC%98%81%EC%88%98-%EB%A1%9C%EC%9D%B4%EB%8D%94%EC%98%80%EC%9D%8C-s7jkvynh",
@@ -621430,7 +621491,8 @@
         "4389581027",
         "4389598554",
         "4389598955",
-        "4389601118"
+        "4389601118",
+        "4389602189"
       ]
     },
     "keep": "v2",
