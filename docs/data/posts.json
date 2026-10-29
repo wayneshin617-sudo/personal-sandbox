@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T11:26:30+00:00",
+  "updatedAt": "2026-10-29T11:28:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -636497,6 +636497,65 @@
       "firstSeenAt": "2026-10-29T11:26:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92030,
+      "source": "qoo",
+      "externalId": "cmt-4390001171",
+      "title": "1순위가 없으니까",
+      "excerpt": "다대일할때 공평하면 노잼이야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389642989#4390001171",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T19:03:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:28:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92031,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EC%BB%B5%EB%93%A4%EA%B3%A0-%EB%A7%90%ED%95%A8-otpe0qd6",
+      "title": "영철 왜케 컵들고 말함?",
+      "excerpt": "ㅇㅇ?",
+      "author": "l*********",
+      "company": "NH농협",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EC%BB%B5%EB%93%A4%EA%B3%A0-%EB%A7%90%ED%95%A8-otpe0qd6",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:28:12+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T11:28:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92032,
+      "source": "blind",
+      "externalId": "cmt-458886992",
+      "title": "얼굴은 조화지 뭐 카즈하도 눈빡 코빡 아닌데 존예잖아.",
+      "excerpt": "근데 현숙은 왜이쁜거지…(긍정적의미)",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%99%9C%EC%9D%B4%EC%81%9C%EA%B1%B0%EC%A7%80%E2%80%A6%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%98%EB%AF%B8-grhvyxdj#458886992",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:28:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:28:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -643870,7 +643929,9 @@
         "6636694",
         "6636702",
         "6636706",
-        "6636709"
+        "6636709",
+        "6636711",
+        "6636713"
       ]
     },
     "blind": {
