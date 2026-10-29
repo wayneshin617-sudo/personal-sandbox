@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T11:44:30+00:00",
+  "updatedAt": "2026-10-29T11:46:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -637300,6 +637300,45 @@
       "firstSeenAt": "2026-10-29T11:44:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92071,
+      "source": "dc",
+      "externalId": "6636761",
+      "title": "34 영철과 동급",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636761&page=1",
+      "postedLabel": "20:45",
+      "postedAt": "2026-10-29T20:45:45+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:46:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92072,
+      "source": "blind",
+      "externalId": "cmt-458889594",
+      "title": "지금도저래?",
+      "excerpt": "영철보면",
+      "author": "i********",
+      "company": "KB증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4-88tc2x15#458889594",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:46:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:46:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -644693,7 +644732,8 @@
         "6636742",
         "6636748",
         "6636751",
-        "6636755"
+        "6636755",
+        "6636758"
       ]
     },
     "blind": {
