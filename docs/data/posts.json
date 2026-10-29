@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:33:09+00:00",
+  "updatedAt": "2026-10-29T10:34:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -633532,6 +633532,45 @@
       "firstSeenAt": "2026-10-29T10:33:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91880,
+      "source": "qoo",
+      "externalId": "cmt-4389975384",
+      "title": "얼굴 보는거 같아서 영자도 다른 대안이 없어",
+      "excerpt": "나는솔로 어제편 이제서야 다봤는데 와 난 영자가 신기하다n",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389918038#4389975384",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T18:33:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:34:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91881,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%B2%98%EB%9F%BC-%EC%97%AC%EA%B8%B0%EC%A0%80%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%82%98-%EC%9E%A0%EC%9E%90%EB%A6%AC-%EC%96%98%EA%B8%B0-%EB%A7%90%ED%95%98%EA%B3%A0%EB%8B%A4%EB%8B%88%EB%8A%94-%EB%82%A8%EC%9E%90-%EA%B5%AC%EB%B6%84%EA%B0%80%EB%8A%A5%ED%95%B4-fzdyshu5",
+      "title": "영철처럼 여기저기 데이트나 잠자리 얘기 말하고다니는 남자 구분가능해?",
+      "excerpt": "여자앞에서 진중한척 컨셉잡으면 알방법이 없나? 저런 스타일 특징있어? 만날까봐 무섲더",
+      "author": "b****",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%B2%98%EB%9F%BC-%EC%97%AC%EA%B8%B0%EC%A0%80%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%82%98-%EC%9E%A0%EC%9E%90%EB%A6%AC-%EC%96%98%EA%B8%B0-%EB%A7%90%ED%95%98%EA%B3%A0%EB%8B%A4%EB%8B%88%EB%8A%94-%EB%82%A8%EC%9E%90-%EA%B5%AC%EB%B6%84%EA%B0%80%EB%8A%A5%ED%95%B4-fzdyshu5",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T19:33:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T10:34:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -633621,7 +633660,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T19:30:50+09:00"
+      "slowAt": "2026-10-29T19:33:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -640821,6 +640860,7 @@
         "6636371",
         "6636375",
         "6636376",
+        "6636378",
         "6636382",
         "6636383",
         "6636386",
@@ -640854,7 +640894,8 @@
         "6636505",
         "6636506",
         "6636510",
-        "6636512"
+        "6636512",
+        "6636514"
       ]
     },
     "blind": {
