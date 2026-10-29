@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:28:00+00:00",
+  "updatedAt": "2026-10-29T03:32:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -612514,6 +612514,44 @@
       "firstSeenAt": "2026-10-29T03:28:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90817,
+      "source": "dc",
+      "externalId": "6635039",
+      "title": "정숙이는 지극히 FM대로 움직임. 그래서 싫음.",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635039&page=1",
+      "postedLabel": "12:31",
+      "postedAt": "2026-10-29T12:31:05+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:32:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90818,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4-%EC%97%AC%EC%84%B1%ED%99%94-%EC%99%84%EB%A3%8C%EB%90%9C-%EB%82%A8%EC%9E%90%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B0%99%EC%9D%8C-6mc4lpsv",
+      "title": "영철보면 여성화 완료된 남자공무원같음",
+      "excerpt": "모든거 하나하나에 의미부여하면서 기싸움 누구보다 계산적임 주변을 하나하나 다 의식해서 뒷담하고 계산함(외제차 등등) 여기에 있는 여자공무원 아줌마들 남자로 바꿔놓은거 같음 그냥 여초조직에 제대로 물들어서 여자들이 제일 싫어할만한 것만 모아놓은 에겐화 완료된 남공",
+      "author": "I*********",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4-%EC%97%AC%EC%84%B1%ED%99%94-%EC%99%84%EB%A3%8C%EB%90%9C-%EB%82%A8%EC%9E%90%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B0%99%EC%9D%8C-6mc4lpsv",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:31:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:32:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -619323,7 +619361,8 @@
         "6635010",
         "6635018",
         "6635028",
-        "6635031"
+        "6635031",
+        "6635036"
       ]
     },
     "blind": {
