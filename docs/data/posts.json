@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:40:10+00:00",
+  "updatedAt": "2026-10-29T10:42:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -634043,6 +634043,25 @@
       "firstSeenAt": "2026-10-29T10:40:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91906,
+      "source": "dc",
+      "externalId": "6636555",
+      "title": "난 영철이를 돌진하는 존잘이라고 생각하는데",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636555&page=1",
+      "postedLabel": "19:41",
+      "postedAt": "2026-10-29T19:41:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:42:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -634183,7 +634202,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T19:38:51+09:00"
+      "slowAt": "2026-10-29T19:41:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -641374,7 +641393,9 @@
         "6636525",
         "6636526",
         "6636527",
-        "6636536"
+        "6636536",
+        "6636550",
+        "6636551"
       ]
     },
     "blind": {
