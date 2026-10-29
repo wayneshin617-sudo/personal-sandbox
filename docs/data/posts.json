@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T22:37:51+00:00",
+  "updatedAt": "2026-10-29T22:40:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -657084,6 +657084,26 @@
       "firstSeenAt": "2026-10-29T22:37:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93075,
+      "source": "blind",
+      "externalId": "cmt-458940825",
+      "title": "원주캠애들이 유독 본캠으로 속이며 살더라",
+      "excerpt": "딱 영철이 같은 애 고딩때 있었는데ㅋ",
+      "author": "l*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%94%B1-%EC%98%81%EC%B2%A0%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%95%A0-%EA%B3%A0%EB%94%A9%EB%95%8C-%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0%E3%85%8B-6frb5s7u#458940825",
+      "postedLabel": "15분",
+      "postedAt": "2026-10-30T07:25:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T22:40:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -657228,7 +657248,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T07:37:34+09:00"
+      "slowAt": "2026-10-30T07:40:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -664809,7 +664829,8 @@
         "6638828",
         "6638830",
         "6638841",
-        "6638854"
+        "6638854",
+        "6638859"
       ]
     },
     "blind": {
