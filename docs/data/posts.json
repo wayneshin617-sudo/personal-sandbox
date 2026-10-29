@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:27:28+00:00",
+  "updatedAt": "2026-10-29T00:28:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -602568,6 +602568,65 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T00:27:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90313,
+      "source": "qoo",
+      "externalId": "cmt-4389506705",
+      "title": "@3 엔지니어라고 나왔었어",
+      "excerpt": "근데 상철 별로야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389456230#4389506705",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T08:27:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:28:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90314,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p",
+      "title": "현숙이 이쁘냐?",
+      "excerpt": "솔직히 그냥 평타에서 조금 위 아닌가.. 그렇게 퀸카 대접 받을 애인지",
+      "author": "주*****",
+      "company": "한국수자원공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-29T09:27:11+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-29T00:28:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90315,
+      "source": "blind",
+      "externalId": "cmt-458809767",
+      "title": "이쁨 분위기 고급짐",
+      "excerpt": "현숙이 이쁘냐?",
+      "author": "이******",
+      "company": "대창기업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p#458809767",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:28:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:28:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -609117,7 +609176,8 @@
         "6634197",
         "6634202",
         "6634204",
-        "6634209"
+        "6634209",
+        "6634210"
       ]
     },
     "blind": {
@@ -609532,6 +609592,7 @@
         "/kr/post/%EB%82%98%EB%9D%BD-%EB%B0%9C%EC%96%B8-on-6x75mhre",
         "/kr/post/%EB%82%98%EB%9E%91-%EA%B2%B0%ED%98%BC%ED%95%A0-%EC%84%9C%EB%B0%A9-wdmewsrr",
         "/kr/post/%EB%82%98%EB%A5%B4%EC%8B%9C%EC%8B%9C%EC%8A%A4%ED%8A%B8-%EC%95%84%EB%8B%98-18cigjsa",
+        "/kr/post/%EB%82%98%EB%A5%B4-=-%EB%8F%84%ED%8C%8C%EB%AF%BC-%EB%B3%B4%EC%A6%9D-%EC%88%98%ED%91%9C-6rx1ydor",
         "/kr/post/%EB%82%98%EB%A7%8C-%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8A%94%EC%82%AC%EB%9E%8C-%ED%8E%B8%EA%B2%AC%EC%97%86%EB%8A%94%EA%B1%B0%EB%8B%88-ew0nwpgd",
         "/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%EC%88%98-%EC%86%8C%EC%A7%80%EC%84%AD-%EA%B0%99%EC%95%84-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-sy28fg2w",
         "/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%EC%88%99%EB%B3%B4%EB%8B%A4-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%8B%AB%EC%9D%8C-606h7qhc",
@@ -613337,6 +613398,7 @@
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%98%88%EC%81%98%EA%B8%B4%ED%95%9C%EB%8D%B0-72q5itxl",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EA%B1%B8-%EA%B0%90%EA%B2%BC%EB%84%A4-o5grsgmc",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EA%B8%B4%ED%95%98%EB%84%A4-08yoysqf",
+        "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%9C%ED%8E%B8%EC%9D%B8%EA%B0%80-uc5xt4ig",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%ED%95%B4%EB%90%9C%EB%8B%A4-tdw3736g",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%97%94%EC%9E%90-%EC%A7%80%EB%A7%9D%EC%83%9D%EC%9E%84-jq0gzmot",
