@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T09:44:09+00:00",
+  "updatedAt": "2026-10-29T09:45:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -631721,6 +631721,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T09:44:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91788,
+      "source": "qoo",
+      "externalId": "cmt-4389939319",
+      "title": "영자한테도 영호 추천했잖아 ㅋㅋㅋㅋ 장거리 걸린다고 하니깐 휴가 많다고",
+      "excerpt": "영철 자꾸 영호한테 다른여출들 넘기는거 웃겨 ㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389938361#4389939319",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T17:44:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:45:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91789,
+      "source": "blind",
+      "externalId": "cmt-458874300",
+      "title": "하남자라그럼",
+      "excerpt": "영철 진짜 자의식 과잉 쩌네",
+      "author": "솔*******",
+      "company": "자동차융합기술원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%9E%90%EC%9D%98%EC%8B%9D-%EA%B3%BC%EC%9E%89-%EC%A9%8C%EB%84%A4-q2jgugee#458874300",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T18:44:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:45:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -631861,7 +631901,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T18:41:50+09:00"
+      "slowAt": "2026-10-29T18:44:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -639006,7 +639046,8 @@
         "6636390",
         "6636391",
         "6636394",
-        "6636399"
+        "6636399",
+        "6636401"
       ]
     },
     "blind": {
@@ -639024,6 +639065,7 @@
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-%E3%85%88%E3%84%B4%EC%9B%83%EA%B8%B0%EB%8B%A4-%EC%98%81%EC%B2%A0-jpuc63sc",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-%EB%92%B7%EC%A2%8C%EC%84%9D%EC%97%90%EC%84%9C%EB%8F%84-%EC%AB%93%EC%95%84%EB%83%84-tyqyrmua",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%EC%9A%B0%EB%A6%AC%EC%97%84%EB%A7%88-ty8a5nsc",
+        "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-%EC%99%80-%EC%98%81%EC%B2%A0%EC%9D%B4-o1gmhl57",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-%EA%BC%B4%EA%B0%92%ED%95%98%EB%84%A4-34dhdmvd",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-%EB%82%98%EB%8A%94-%EC%98%81%ED%98%B8%EB%B3%B4%EB%8B%A4-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%98%EC%83%9D%EA%B8%B4%EA%B1%B0%EA%B0%99%EC%9D%8C-nowy3cpg",
         "/kr/post/%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-%EC%98%81%EC%9E%90-%EC%9D%B8%EA%B0%84%EB%84%A4%EB%B9%84-zj4enoaj",
@@ -642067,6 +642109,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EB%B3%B4%EA%B8%B0-%EC%8B%AB%EB%8B%A4-amdjfvpe",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EB%B3%BC%EC%88%98%EB%A1%9D-%EA%B0%9C%EB%B3%84%EB%A1%9C%EA%B8%B4%ED%95%98%EB%84%A4-blc0t7m7",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%93%B8%EB%8D%B0%EC%97%86%EB%8A%94%EC%86%8C%EB%A6%AC-%EC%97%84%EC%B2%AD%ED%95%98%EB%84%A4-re8y0iup",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%9E%90%EC%9D%98%EC%8B%9D-%EA%B3%BC%EC%9E%89-%EC%A9%8C%EB%84%A4-q2jgugee",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%A0%80%EB%9F%B0-%EC%82%AC%EB%9E%8C-%EC%B2%98%EC%9D%8C%EB%B3%B8%EB%8B%A4-ql1mxf8i",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%A4%80%EB%82%B4-%EC%8B%AB%EB%8B%A4-%ED%95%98-%EC%A3%BC%EA%B9%83%EB%82%A8-3aiemav2",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-20%EB%8C%80-%EC%B4%88%EB%B0%98%EC%97%90%EC%84%9C-%EB%A9%88%EC%B7%84%EB%84%A4-pkvad4vi",
