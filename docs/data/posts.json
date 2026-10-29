@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:37:01+00:00",
+  "updatedAt": "2026-10-29T03:38:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -612749,6 +612749,85 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T03:37:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90829,
+      "source": "qoo",
+      "externalId": "cmt-4389649129",
+      "title": "차등 둘 정도로 마음 없어서 그렇지 뭐",
+      "excerpt": "다대일할때 공평하면 노잼이야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389642989#4389649129",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T11:37:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:38:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90830,
+      "source": "blind",
+      "externalId": "cmt-458826920",
+      "title": "아무리 그래도 담배가 더 안좋움. 문신은 지우면 되는데 담배는 거의 못끊고 입냄새에 옷냄새에 이빨 누렇고 속도 누렇고 으",
+      "excerpt": "투표글 여자 문신 VS 담배 투표",
+      "author": "U*****",
+      "company": "현대홈쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-%EB%AC%B8%EC%8B%A0-VS-%EB%8B%B4%EB%B0%B0-gvq4qdn4#458826920",
+      "postedLabel": "27분",
+      "postedAt": "2026-10-29T12:10:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:38:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90831,
+      "source": "blind",
+      "externalId": "/kr/post/34-%EC%98%81%EC%B2%A0%EC%9D%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%9D%94%ED%9E%88-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B0%90%EB%94%B0%EC%9E%84-m7kpygm8",
+      "title": "34 영철은 우리가 흔히 말하는 찐따임",
+      "excerpt": "우리가 흔히 말하는 찐따임 근데 그들과 다른점은 멀끔한 외관임(얼굴과 키) 나머진 다 똑같음 난 얼굴로 여자 꼬시는 남자보다 34영철 행동을 보니 오히려 세상은 외모가 다인거 같다 느껴지네 ㅋㅋ",
+      "author": "l*********",
+      "company": "한국전기안전공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%B2%A0%EC%9D%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%9D%94%ED%9E%88-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B0%90%EB%94%B0%EC%9E%84-m7kpygm8",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:37:44+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:38:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90832,
+      "source": "blind",
+      "externalId": "cmt-458829616",
+      "title": "칭찬인데 뭐 어때 ㅋㅋ",
+      "excerpt": "영철보면 여성화 완료된 남자공무원같음",
+      "author": "d*****",
+      "company": "연합인포맥스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4-%EC%97%AC%EC%84%B1%ED%99%94-%EC%99%84%EB%A3%8C%EB%90%9C-%EB%82%A8%EC%9E%90%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B0%99%EC%9D%8C-6mc4lpsv#458829616",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:37:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:38:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -619567,7 +619646,9 @@
         "6635050",
         "6635051",
         "6635052",
-        "6635053"
+        "6635053",
+        "6635061",
+        "6635062"
       ]
     },
     "blind": {
@@ -622230,6 +622311,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-l15bpi5m",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-uhivz5i6",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-wn75qjft",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8F%84-%EC%9E%98%EB%82%98%EA%B0%80%EB%8D%98-20%EB%8C%80%EB%95%8C-%EA%B7%B8%EB%83%A5-%EA%B2%B0%ED%98%BC%ED%95%98%EC%A7%80-sh82x0kq",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%95%8C%EB%AC%B8%EC%97%90-%EB%AA%BB%EC%9E%A4%EB%8B%A4-qc5noe2a",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%83%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EB%B0%A9%EC%97%90%EC%84%9C-%EB%8C%80%ED%99%94%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-gmp6r3rh",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%98%81%EC%88%99%EC%9D%80-bfnml1ce",
