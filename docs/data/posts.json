@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T01:44:30+00:00",
+  "updatedAt": "2026-10-29T01:45:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -606699,6 +606699,64 @@
       "firstSeenAt": "2026-10-29T01:44:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90522,
+      "source": "blind",
+      "externalId": "cmt-458813582",
+      "title": "영자에겐 이성적인 감정조차 어려우니",
+      "excerpt": "영철은",
+      "author": "i*********",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-tg2t6fsr#458813582",
+      "postedLabel": "39분",
+      "postedAt": "2026-10-29T10:06:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:45:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90523,
+      "source": "dc",
+      "externalId": "6634541",
+      "title": "관상이 과학인 이유",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634541&page=1",
+      "postedLabel": "10:44",
+      "postedAt": "2026-10-29T10:44:13+09:00",
+      "views": 17,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:45:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90524,
+      "source": "dc",
+      "externalId": "6634544",
+      "title": "퐁호 보고싶으면 개추 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634544&page=1",
+      "postedLabel": "10:44",
+      "postedAt": "2026-10-29T10:44:33+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:45:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -606788,7 +606846,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T10:42:12+09:00"
+      "slowAt": "2026-10-29T10:45:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -613297,6 +613355,7 @@
         "6634272",
         "6634283",
         "6634285",
+        "6634287",
         "6634288",
         "6634290",
         "6634294",
@@ -613356,7 +613415,8 @@
         "6634523",
         "6634526",
         "6634527",
-        "6634532"
+        "6634532",
+        "6634540"
       ]
     },
     "blind": {
@@ -616242,6 +616302,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4-i3xmi6iz",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%84%B1%EC%9E%A5%ED%95%98%EB%9F%AC-%EB%82%98%EC%98%B4-6nzkbrf1",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%88%98%EC%98%81%EA%B0%95%EC%82%AC-%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%9E%84-xafiywjm",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%88%98%ED%98%B8%EB%8B%A8%EB%93%A4-%EB%B0%A9%EC%86%A1%ED%95%A0%EC%88%98%EB%A1%9D-%EC%A1%B0%EC%9A%A9%ED%95%B4%EC%A7%80%EB%84%A4-6njxla6l",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%8A%A4%ED%83%80%EC%9D%BC-1g7a0i32",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%8A%A4%ED%86%A0%EC%BB%A4%EC%95%BC-r44chu4f",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%8A%B9%ED%97%8C%EC%93%B0%EA%B0%99%EC%A7%80-%EC%95%8A%EC%9D%8C-apblbecp",
