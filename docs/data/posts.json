@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:52:13+00:00",
+  "updatedAt": "2026-10-29T14:53:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -651491,6 +651491,25 @@
       "firstSeenAt": "2026-10-29T14:52:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92792,
+      "source": "qoo",
+      "externalId": "4390301801",
+      "title": "아우디 첼로 보고 잘사는 것 같다고 느꼈다는거 실화?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390301801",
+      "postedLabel": "23:52",
+      "postedAt": "2026-10-29T23:52:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:53:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -651632,7 +651651,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-29T23:49:54+09:00"
+      "slowAt": "2026-10-29T23:52:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -667955,7 +667974,8 @@
         "4390294248",
         "4390295624",
         "4390297100",
-        "4390298877"
+        "4390298877",
+        "4390301801"
       ]
     },
     "keep": "v2",
