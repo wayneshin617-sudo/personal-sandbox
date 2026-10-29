@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T13:25:29+00:00",
+  "updatedAt": "2026-10-29T13:26:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -644223,6 +644223,45 @@
       "firstSeenAt": "2026-10-29T13:25:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92421,
+      "source": "qoo",
+      "externalId": "cmt-4390149127",
+      "title": "걍 주변에서 물어봐도 안알려준대",
+      "excerpt": "뭐지 방금 영호 스포 있었지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390135613#4390149127",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T21:26:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T13:26:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92422,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EA%B0%80%EB%B0%9C-%EB%A7%9E%EC%95%84-fahewsbm",
+      "title": "영호 가발 맞아?",
+      "excerpt": "탈모충들 등판해주세요",
+      "author": "m*******",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B0%80%EB%B0%9C-%EB%A7%9E%EC%95%84-fahewsbm",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T22:26:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T13:26:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -644363,7 +644402,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T22:23:11+09:00"
+      "slowAt": "2026-10-29T22:26:11+09:00"
     },
     "dc": {
       "doneIds": [
