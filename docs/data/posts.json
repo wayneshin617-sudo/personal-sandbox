@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:35:30+00:00",
+  "updatedAt": "2026-10-29T12:36:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -640886,6 +640886,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T12:35:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92252,
+      "source": "qoo",
+      "externalId": "4390160395",
+      "title": "영철 저 불도저상태로 밀고나거기만 했어도 몰랐다고 생걱함",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390160395",
+      "postedLabel": "21:36",
+      "postedAt": "2026-10-29T21:36:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:36:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92253,
+      "source": "blind",
+      "externalId": "cmt-458897121",
+      "title": "이성으로 호감은 안들지만.. 상철 닮으면 애기는 귀여울듯ㅋㅋㅋㅋ",
+      "excerpt": "보다보니 상철 괜찮은거 같기도해 ㅋㅋㅋㅋ",
+      "author": "팩트핑",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B3%B4%EB%8B%A4%EB%B3%B4%EB%8B%88-%EC%83%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EA%B1%B0-%EA%B0%99%EA%B8%B0%EB%8F%84%ED%95%B4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-jm6axw5j#458897121",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:36:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:36:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -640975,7 +641014,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T21:33:12+09:00"
+      "slowAt": "2026-10-29T21:36:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -648292,6 +648331,7 @@
         "6636727",
         "6636728",
         "6636731",
+        "6636735",
         "6636736",
         "6636741",
         "6636742",
@@ -648333,7 +648373,8 @@
         "6636884",
         "6636885",
         "6636888",
-        "6636902"
+        "6636902",
+        "6636903"
       ]
     },
     "blind": {
@@ -649634,6 +649675,7 @@
         "/kr/post/%EB%B3%B4%EA%B3%A0%EC%9E%88%EC%A7%80-%EB%84%88-3d21872e",
         "/kr/post/%EB%B3%B4%EB%8B%88%EA%B9%8C-%EC%9A%B4%EC%A0%84%EB%8F%84-%EC%A1%B4%EB%82%98-%EA%BA%BC%EB%93%9C%EB%9E%99-%EB%8C%80%EB%A9%B0-%ED%95%98%EB%8A%94%EB%93%AF-og63bldt",
         "/kr/post/%EB%B3%B4%EB%8B%A4%EB%B3%B4%EB%8B%88%EA%B9%8C-%EC%98%81%ED%98%B8%EB%8A%94-wxa1oe4o",
+        "/kr/post/%EB%B3%B4%EB%8B%A4%EB%B3%B4%EB%8B%88-%EC%83%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EA%B1%B0-%EA%B0%99%EA%B8%B0%EB%8F%84%ED%95%B4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-jm6axw5j",
         "/kr/post/%EB%B3%B4%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EC%96%BC%EA%B5%B4%EC%9D%80-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8B%A4-qta3k2h4",
         "/kr/post/%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%88%88%EC%9D%B4-%ED%8E%B8%ED%95%98%EB%8B%A4-vus3v5xp",
         "/kr/post/%EB%B3%B4%EB%A9%B4-%EC%9E%98%EC%83%9D%EA%B8%B4-%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%B4-%EB%A7%A4%EB%84%88%EB%8F%84-%EC%A2%8B%EA%B3%A0-%EC%84%B1%EA%B2%A9%EB%8F%84-%EC%A2%8B%EB%8D%94%EB%9D%BC-5nqn34jj",
@@ -657064,7 +657106,8 @@
         "4390153752",
         "4390156542",
         "4390156721",
-        "4390157548"
+        "4390157548",
+        "4390160395"
       ]
     },
     "keep": "v2",
