@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T11:30:30+00:00",
+  "updatedAt": "2026-10-29T11:31:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -636673,6 +636673,45 @@
       "firstSeenAt": "2026-10-29T11:30:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92039,
+      "source": "qoo",
+      "externalId": "cmt-4390027796",
+      "title": "또 덜덜떨면서 멘트하는거 아님?",
+      "excerpt": "영철 라방 나올까..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389831816#4390027796",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T19:30:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:31:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92040,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90-fmwdv5k6",
+      "title": "영철 & 영자",
+      "excerpt": "가 그림체가 맞지않나? 돌출해서 하안이 비슷해보여",
+      "author": "벌****",
+      "company": "교보생명보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90-fmwdv5k6",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:31:12+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T11:31:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -644049,6 +644088,7 @@
         "6636709",
         "6636711",
         "6636713",
+        "6636715",
         "6636716"
       ]
     },
