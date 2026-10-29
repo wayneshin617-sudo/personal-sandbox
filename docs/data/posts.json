@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:47:13+00:00",
+  "updatedAt": "2026-10-29T14:48:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -651215,6 +651215,105 @@
       "firstSeenAt": "2026-10-29T14:47:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92778,
+      "source": "qoo",
+      "externalId": "cmt-4390243801",
+      "title": "영식괜찮음 ㅠ 내가 나갔으면 영호➡️영식이었을듯",
+      "excerpt": "한 15페이지까지 연어했는데 아무도 언급 안하는 영식이가 난 괜찮아보인다....",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390241018#4390243801",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T22:47:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:48:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92779,
+      "source": "dc",
+      "externalId": "cmt-10983104",
+      "title": "활기가 돌긴함 맨날 누워있던 영감들 - dc App",
+      "excerpt": "오랜만에 재밌었다 세계로ㅋㅋ",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638286&page=1#cmt_10983104",
+      "postedLabel": "10.29 23:47:08",
+      "postedAt": "2026-10-29T23:47:08+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:48:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92780,
+      "source": "blind",
+      "externalId": "cmt-458918142",
+      "title": "니가 가져가라",
+      "excerpt": "잘생긴 34영철 욕하지마",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-34%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EC%A7%80%EB%A7%88-tzcscpnu#458918142",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:47:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:48:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92781,
+      "source": "blind",
+      "externalId": "cmt-458918050",
+      "title": "피부색이 너무 달라서 솔직히 힘들지",
+      "excerpt": "투표글 이번 기수 유니버스 대전 투표",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%8C%80%EC%A0%84-qdm8n1ml#458918050",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:47:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:48:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92782,
+      "source": "qoo",
+      "externalId": "4390298877",
+      "title": "다들 그냥 인플루언서 하세요ㅠㅠ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4390298877",
+      "postedLabel": "23:48",
+      "postedAt": "2026-10-29T23:48:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:48:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -651304,7 +651403,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T23:44:55+09:00"
+      "slowAt": "2026-10-29T23:47:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -658796,7 +658895,10 @@
         "6638261",
         "6638264",
         "6638266",
-        "6638271"
+        "6638271",
+        "6638274",
+        "6638283",
+        "6638286"
       ]
     },
     "blind": {
@@ -667672,7 +667774,8 @@
         "4390294219",
         "4390294248",
         "4390295624",
-        "4390297100"
+        "4390297100",
+        "4390298877"
       ]
     },
     "keep": "v2",
