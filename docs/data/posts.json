@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:31:30+00:00",
+  "updatedAt": "2026-10-29T00:32:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -602766,6 +602766,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T00:31:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90323,
+      "source": "blind",
+      "externalId": "cmt-458801253",
+      "title": "어린애들 집합 하는건 뭐지? 싶긴했음 혼자 군대 왔나 + 하닉정도면 그럴만하다는 사람들에게 : 나솔에 전문직도 한두명 나오는 게 아닌데 그들도 저러진 않았음",
+      "excerpt": "상철 괜찮지 않아?",
+      "author": "I*********",
+      "company": "현대케피코",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%A7%80-%EC%95%8A%EC%95%84-cph4hey6#458801253",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-29T07:32:08+09:00",
+      "views": null,
+      "recommends": 10,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:32:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90324,
+      "source": "blind",
+      "externalId": "cmt-458810169",
+      "title": "ㅋㅋㅋ현생도 문제있나보네",
+      "excerpt": "영철님 방송 나가서 잘나가는 인플루언서 될까봐 걱정했는데",
+      "author": "h*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EB%B0%A9%EC%86%A1-%EB%82%98%EA%B0%80%EC%84%9C-%EC%9E%98%EB%82%98%EA%B0%80%EB%8A%94-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C-%EB%90%A0%EA%B9%8C%EB%B4%90-%EA%B1%B1%EC%A0%95%ED%96%88%EB%8A%94%EB%8D%B0-4x6xwllq#458810169",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:32:12+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:32:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -602905,7 +602945,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T09:29:12+09:00"
+      "slowAt": "2026-10-29T09:32:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -609317,7 +609357,8 @@
         "6634204",
         "6634209",
         "6634210",
-        "6634221"
+        "6634221",
+        "6634231"
       ]
     },
     "blind": {
@@ -611824,6 +611865,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%80-%EC%A7%80%EA%B8%88-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EA%B8%80-%EB%B3%B4%EC%8B%A4-%EC%8B%9C%EA%B0%84-%EC%97%86%EC%9D%84%EA%B1%B0%EC%97%90%EC%98%A4-vjwd4xrj",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%84-%EC%A0%9C%EC%96%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%83%81%EA%B8%89%EC%9E%90%EA%B0%80-%EC%97%86%EC%97%88%EC%9D%8C-tkqvmt0b",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EB%8D%95%EB%B6%84%EC%97%90-%EB%8F%99%EA%B8%B0%EB%B0%A9-%ED%8F%AD%ED%8C%8C%EB%90%90%EC%97%88%EB%8A%94%EB%94%94-uapv7w3q",
+        "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EB%B0%A9%EC%86%A1-%EB%82%98%EA%B0%80%EC%84%9C-%EC%9E%98%EB%82%98%EA%B0%80%EB%8A%94-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C-%EB%90%A0%EA%B9%8C%EB%B4%90-%EA%B1%B1%EC%A0%95%ED%96%88%EB%8A%94%EB%8D%B0-4x6xwllq",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EC%8D%B0-%ED%95%98%EB%82%98-%ED%92%80%EA%B2%8C%EC%9A%94-kjiq0ux1",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EC%B6%9C%EA%B7%BC%ED%95%98%EC%8B%A0-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-w4o3jhc7",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8D%95%EC%97%90-%EC%A0%95%EC%88%99%EC%83%81%EC%B2%A0-%EB%96%A1%EC%83%81-dq4df0o5",
