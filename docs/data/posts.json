@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T11:05:29+00:00",
+  "updatedAt": "2026-10-29T11:06:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -635446,6 +635446,86 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T11:05:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91977,
+      "source": "qoo",
+      "externalId": "cmt-4389996297",
+      "title": "유쾌하고 상식적일 듯 이런 친구 좋지",
+      "excerpt": "정숙이랑 친구하고 싶다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389761807#4389996297",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T18:58:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:06:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91978,
+      "source": "qoo",
+      "externalId": "cmt-4390003558",
+      "title": "그런듯ㅋㅋ 잘 됐으면 좋겠다",
+      "excerpt": "영호 bnp면 남규홍이 현숙하고 이어줄라고 캐스팅한거아님?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389954087#4390003558",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T19:06:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:06:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91979,
+      "source": "blind",
+      "externalId": "cmt-458878092",
+      "title": "그럼 이제 또 마흔 앞두고 연애 20번한다구...",
+      "excerpt": "영철이는 늘 그래왔듯 헌팅 포차에서 지같은 여자 만나는게 맞음",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-%EB%8A%98-%EA%B7%B8%EB%9E%98%EC%99%94%EB%93%AF-%ED%97%8C%ED%8C%85-%ED%8F%AC%EC%B0%A8%EC%97%90%EC%84%9C-%EC%A7%80%EA%B0%99%EC%9D%80-%EC%97%AC%EC%9E%90-%EB%A7%8C%EB%82%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EC%9D%8C-t23oopa4#458878092",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-29T19:18:12+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:06:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91980,
+      "source": "blind",
+      "externalId": "cmt-458884068",
+      "title": "혹시 상철오빠?",
+      "excerpt": "나솔 1회부터 봤는데 34기 불소 영철이가 제일 극혐임",
+      "author": "i*****",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-1%ED%9A%8C%EB%B6%80%ED%84%B0-%EB%B4%A4%EB%8A%94%EB%8D%B0-34%EA%B8%B0-%EB%B6%88%EC%86%8C-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EC%A0%9C%EC%9D%BC-%EA%B7%B9%ED%98%90%EC%9E%84-w5fm4gv2#458884068",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:06:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:06:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -635535,7 +635615,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T20:03:11+09:00"
+      "slowAt": "2026-10-29T20:06:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -642761,6 +642841,7 @@
         "6636451",
         "6636452",
         "6636453",
+        "6636456",
         "6636461",
         "6636467",
         "6636476",
@@ -642796,7 +642877,9 @@
         "6636624",
         "6636625",
         "6636641",
-        "6636644"
+        "6636644",
+        "6636647",
+        "6636648"
       ]
     },
     "blind": {
