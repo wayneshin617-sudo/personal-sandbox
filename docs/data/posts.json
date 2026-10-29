@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T09:38:09+00:00",
+  "updatedAt": "2026-10-29T09:39:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -631506,6 +631506,65 @@
       "firstSeenAt": "2026-10-29T09:38:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91777,
+      "source": "qoo",
+      "externalId": "cmt-4389935168",
+      "title": "입털어야돼서 무조건 나옴ㅋㅋㅋ",
+      "excerpt": "영철 라방 나올까..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389831816#4389935168",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T17:38:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:39:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91778,
+      "source": "qoo",
+      "externalId": "4389979678",
+      "title": "이번기수 나솔 너무 재밌어!!!!!❤❤❤❤",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389979678",
+      "postedLabel": "18:38",
+      "postedAt": "2026-10-29T18:38:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:39:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91779,
+      "source": "blind",
+      "externalId": "cmt-458873556",
+      "title": "근데 있어보이긴함 돈이되기 때문에 공부하는 언어는 절대 아니니까",
+      "excerpt": "현숙이 프랑스어말고 중국어나 일본어 배운다그랬음 고급문화가 아닌건가?",
+      "author": "i*******",
+      "company": "NH농협",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%ED%94%84%EB%9E%91%EC%8A%A4%EC%96%B4%EB%A7%90%EA%B3%A0-%EC%A4%91%EA%B5%AD%EC%96%B4%EB%82%98-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EB%B0%B0%EC%9A%B4%EB%8B%A4%EA%B7%B8%EB%9E%AC%EC%9D%8C-%EA%B3%A0%EA%B8%89%EB%AC%B8%ED%99%94%EA%B0%80-%EC%95%84%EB%8B%8C%EA%B1%B4%EA%B0%80-dswiuubv#458873556",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T18:38:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:39:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -631646,7 +631705,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T18:35:50+09:00"
+      "slowAt": "2026-10-29T18:38:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -638748,6 +638807,7 @@
         "6636200",
         "6636201",
         "6636204",
+        "6636206",
         "6636209",
         "6636210",
         "6636211",
@@ -638783,7 +638843,8 @@
         "6636371",
         "6636375",
         "6636382",
-        "6636383"
+        "6636383",
+        "6636386"
       ]
     },
     "blind": {
@@ -647410,7 +647471,8 @@
         "4389950809",
         "4389954087",
         "4389961951",
-        "4389973454"
+        "4389973454",
+        "4389979678"
       ]
     },
     "keep": "v2",
