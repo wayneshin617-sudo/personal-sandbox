@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T01:46:29+00:00",
+  "updatedAt": "2026-10-29T01:47:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -606776,6 +606776,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T01:46:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90526,
+      "source": "qoo",
+      "externalId": "4389608931",
+      "title": "외제차, 첼로, 프랑스어",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389608931",
+      "postedLabel": "10:47",
+      "postedAt": "2026-10-29T10:47:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:47:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90527,
+      "source": "blind",
+      "externalId": "cmt-458817980",
+      "title": "초반 영철수호단들이 진짜 책임없는쾌락이지 ㅋㅋㅋ 실제아는사람들도 아닐테고 걍 발 슬쩍 빼면 그만임",
+      "excerpt": "영철 수호단들 방송할수록 조용해지네",
+      "author": "고점 판독기",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%88%98%ED%98%B8%EB%8B%A8%EB%93%A4-%EB%B0%A9%EC%86%A1%ED%95%A0%EC%88%98%EB%A1%9D-%EC%A1%B0%EC%9A%A9%ED%95%B4%EC%A7%80%EB%84%A4-6njxla6l#458817980",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T10:47:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:47:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -606915,7 +606954,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T10:44:12+09:00"
+      "slowAt": "2026-10-29T10:47:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -613436,7 +613475,8 @@
         "6634527",
         "6634532",
         "6634540",
-        "6634542"
+        "6634542",
+        "6634551"
       ]
     },
     "blind": {
@@ -621858,7 +621898,8 @@
         "4389598554",
         "4389598955",
         "4389601118",
-        "4389602189"
+        "4389602189",
+        "4389608931"
       ]
     },
     "keep": "v2",
