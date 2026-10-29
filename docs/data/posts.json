@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T15:46:13+00:00",
+  "updatedAt": "2026-10-29T15:47:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -653286,6 +653286,25 @@
       "firstSeenAt": "2026-10-29T15:46:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92883,
+      "source": "dc",
+      "externalId": "6638484",
+      "title": "중녀 얼굴 예쁘고 키크고 생활력 강해서 괜찮은데?",
+      "excerpt": "",
+      "author": "바토s",
+      "company": "",
+      "ip": "14.46",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638484&page=1",
+      "postedLabel": "00:46",
+      "postedAt": "2026-10-30T00:46:15+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:47:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -653427,7 +653446,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T00:43:55+09:00"
+      "slowAt": "2026-10-30T00:46:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -660903,7 +660922,8 @@
         "6638464",
         "6638468",
         "6638472",
-        "6638474"
+        "6638474",
+        "6638480"
       ]
     },
     "blind": {
