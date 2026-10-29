@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:36:01+00:00",
+  "updatedAt": "2026-10-29T03:37:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -612710,6 +612710,45 @@
       "firstSeenAt": "2026-10-29T03:36:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90827,
+      "source": "qoo",
+      "externalId": "cmt-4389648650",
+      "title": "무게중심 잡는게 힘드니까",
+      "excerpt": "다대일할때 공평하면 노잼이야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389642989#4389648650",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T11:36:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:37:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90828,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8F%84-%EC%9E%98%EB%82%98%EA%B0%80%EB%8D%98-20%EB%8C%80%EB%95%8C-%EA%B7%B8%EB%83%A5-%EA%B2%B0%ED%98%BC%ED%95%98%EC%A7%80-sh82x0kq",
+      "title": "영철이도 잘나가던 20대때 그냥 결혼하지",
+      "excerpt": "경제력 결핍이 있어 보이는데 자산도 집안도 크게 안따지는 20대면 모를까 상대부모 노후까지 따지는 30대 결혼시장에서 데인건지 자격지심이 커진거 같네",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8F%84-%EC%9E%98%EB%82%98%EA%B0%80%EB%8D%98-20%EB%8C%80%EB%95%8C-%EA%B7%B8%EB%83%A5-%EA%B2%B0%ED%98%BC%ED%95%98%EC%A7%80-sh82x0kq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:36:44+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:37:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -612799,7 +612838,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T12:33:44+09:00"
+      "slowAt": "2026-10-29T12:36:44+09:00"
     },
     "ig": {
       "doneIds": [
@@ -619527,7 +619566,8 @@
         "6635041",
         "6635050",
         "6635051",
-        "6635052"
+        "6635052",
+        "6635053"
       ]
     },
     "blind": {
