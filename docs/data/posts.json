@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T11:53:31+00:00",
+  "updatedAt": "2026-10-29T11:54:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -638015,6 +638015,64 @@
       "firstSeenAt": "2026-10-29T11:53:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92107,
+      "source": "qoo",
+      "externalId": "4390111353",
+      "title": "영식 자기소개",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390111353",
+      "postedLabel": "20:54",
+      "postedAt": "2026-10-29T20:54:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:54:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92108,
+      "source": "blind",
+      "externalId": "/kr/post/34-%ED%98%84%EC%88%99-%ED%82%A4-g2yviulq",
+      "title": "34 현숙 키",
+      "excerpt": "내스탈로 너무이쁘던데 현숙키 몇같아보여? 여리호리 여출중에 키커보이는거 영숙 옥순 현숙 정도던데 키몇일까?",
+      "author": "i********",
+      "company": "KB증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-%ED%82%A4-g2yviulq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:54:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T11:54:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92109,
+      "source": "blind",
+      "externalId": "cmt-458890608",
+      "title": "91년생이면 소개팅도 많이 줄지 않으려나",
+      "excerpt": "현숙 괜찮은 소개팅 많이 들어올거같은데",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EC%86%8C%EA%B0%9C%ED%8C%85-%EB%A7%8E%EC%9D%B4-%EB%93%A4%EC%96%B4%EC%98%AC%EA%B1%B0%EA%B0%99%EC%9D%80%EB%8D%B0-lo02kxl2#458890608",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:54:11+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:54:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -638104,7 +638162,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T20:51:12+09:00"
+      "slowAt": "2026-10-29T20:54:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -654127,7 +654185,8 @@
         "4390089553",
         "4390093942",
         "4390095079",
-        "4390096665"
+        "4390096665",
+        "4390111353"
       ]
     },
     "keep": "v2",
