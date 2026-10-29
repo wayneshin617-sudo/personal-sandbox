@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:29:27+00:00",
+  "updatedAt": "2026-10-29T12:30:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -640453,6 +640453,84 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T12:29:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92230,
+      "source": "blind",
+      "externalId": "cmt-458890900",
+      "title": "영자야 자라",
+      "excerpt": "영철 & 영자",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90-fmwdv5k6#458890900",
+      "postedLabel": "35분",
+      "postedAt": "2026-10-29T20:55:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:30:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92231,
+      "source": "blind",
+      "externalId": "cmt-458891349",
+      "title": "낵아보귀엔 영철도 당나귀상인뎁?",
+      "excerpt": "영철 & 영자",
+      "author": "벌**** 작성자",
+      "company": "교보생명보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90-fmwdv5k6#458891349",
+      "postedLabel": "32분",
+      "postedAt": "2026-10-29T20:58:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:30:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92232,
+      "source": "qoo",
+      "externalId": "4390153752",
+      "title": "근데 그건 논란될거같아",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390153752",
+      "postedLabel": "21:30",
+      "postedAt": "2026-10-29T21:30:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:30:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92233,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EB%A1%A4%EB%AA%A8%EB%8D%B8-x68xwv0s",
+      "title": "영철 롤모델",
+      "excerpt": "눈이부시게 아름다운바닷가",
+      "author": "f********",
+      "company": "KOTRA",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%A1%A4%EB%AA%A8%EB%8D%B8-x68xwv0s",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:30:11+09:00",
+      "views": 35,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T12:30:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -640542,7 +640620,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T21:27:11+09:00"
+      "slowAt": "2026-10-29T21:30:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -647893,7 +647971,8 @@
         "6636879",
         "6636880",
         "6636883",
-        "6636884"
+        "6636884",
+        "6636888"
       ]
     },
     "blind": {
@@ -656618,7 +656697,8 @@
         "4390124753",
         "4390128834",
         "4390135613",
-        "4390152072"
+        "4390152072",
+        "4390153752"
       ]
     },
     "keep": "v2",
