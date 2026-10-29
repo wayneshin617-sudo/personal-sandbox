@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T20:50:50+00:00",
+  "updatedAt": "2026-10-29T21:00:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -656261,6 +656261,26 @@
       "firstSeenAt": "2026-10-29T20:50:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93033,
+      "source": "dc",
+      "externalId": "cmt-10983441",
+      "title": "수민이는 왜끼워팜",
+      "excerpt": "34영철이 죽었다 깨어나도 현숙이나 정숙처럼 진짜로 배운 여자는 안 됨",
+      "author": "허키",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638778&page=1#cmt_10983441",
+      "postedLabel": "10.30 06:00:23",
+      "postedAt": "2026-10-30T06:00:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T21:00:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -656351,7 +656371,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T05:57:33+09:00"
+      "slowAt": "2026-10-30T06:00:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -663975,6 +663995,7 @@
         "6638755",
         "6638765",
         "6638777",
+        "6638778",
         "6638782"
       ]
     },
