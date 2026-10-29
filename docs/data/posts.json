@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T15:55:13+00:00",
+  "updatedAt": "2026-10-29T15:56:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -653444,6 +653444,44 @@
       "firstSeenAt": "2026-10-29T15:55:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92891,
+      "source": "dc",
+      "externalId": "6638500",
+      "title": "외국여자한테 먹히는 스타일이 있는것같다",
+      "excerpt": "",
+      "author": "바토s",
+      "company": "",
+      "ip": "14.46",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638500&page=1",
+      "postedLabel": "00:55",
+      "postedAt": "2026-10-30T00:55:14+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:56:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92892,
+      "source": "qoo",
+      "externalId": "4390349185",
+      "title": "근데 영철 마이크도 빼고 카메라 의식을 못했다쳐도 같은 출연자와도 하기 좀 그런 대화지않나ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390349185",
+      "postedLabel": "00:56",
+      "postedAt": "2026-10-30T00:56:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:56:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -653585,7 +653623,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T00:52:54+09:00"
+      "slowAt": "2026-10-30T00:55:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -661068,7 +661106,8 @@
         "6638480",
         "6638483",
         "6638485",
-        "6638491"
+        "6638491",
+        "6638495"
       ]
     },
     "blind": {
@@ -669966,7 +670005,8 @@
         "4390297100",
         "4390298877",
         "4390301801",
-        "4390305970"
+        "4390305970",
+        "4390349185"
       ]
     },
     "keep": "v2",
