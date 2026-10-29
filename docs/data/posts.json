@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T01:37:30+00:00",
+  "updatedAt": "2026-10-29T01:38:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -606305,6 +606305,65 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T01:37:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90502,
+      "source": "blind",
+      "externalId": "cmt-458811614",
+      "title": "나도 이생각 하긴함ㅋㅋ",
+      "excerpt": "34영호 닮은 연예인",
+      "author": "l*******",
+      "company": "티몬",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%98%88%EC%9D%B8-j3srpje7#458811614",
+      "postedLabel": "52분",
+      "postedAt": "2026-10-29T09:46:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:38:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90503,
+      "source": "blind",
+      "externalId": "cmt-458812318",
+      "title": "마돈나남편ㅋㅋㅋㅋㅋㅋㅋ 딱 떠오르네",
+      "excerpt": "34영호 닮은 연예인",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%98%88%EC%9D%B8-j3srpje7#458812318",
+      "postedLabel": "45분",
+      "postedAt": "2026-10-29T09:53:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:38:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90504,
+      "source": "qoo",
+      "externalId": "4389601118",
+      "title": "상철 순자도 잘 어울리긴 하다 딱 잘 큰 장남장녀 느낌",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389601118",
+      "postedLabel": "10:37",
+      "postedAt": "2026-10-29T10:37:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:38:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -606444,7 +606503,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T10:35:12+09:00"
+      "slowAt": "2026-10-29T10:38:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -621370,7 +621429,8 @@
         "4389577022",
         "4389581027",
         "4389598554",
-        "4389598955"
+        "4389598955",
+        "4389601118"
       ]
     },
     "keep": "v2",
