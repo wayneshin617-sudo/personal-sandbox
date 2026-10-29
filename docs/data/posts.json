@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:40:00+00:00",
+  "updatedAt": "2026-10-29T02:40:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -609977,6 +609977,82 @@
       "firstSeenAt": "2026-10-29T02:40:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90688,
+      "source": "dc",
+      "externalId": "6634791",
+      "title": "밖에선 회계사인데 안에선 뻐꾸기나 하려니 자존심 상했겠지ㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634791&page=1",
+      "postedLabel": "11:39",
+      "postedAt": "2026-10-29T11:39:49+09:00",
+      "views": 21,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:40:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90689,
+      "source": "qoo",
+      "externalId": "4389651555",
+      "title": "영식순자 영호현숙 얼합 좋음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389651555",
+      "postedLabel": "11:40",
+      "postedAt": "2026-10-29T11:40:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:40:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90690,
+      "source": "dc",
+      "externalId": "6634792",
+      "title": "영철이 절마저거 어휴 진짜",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634792&page=1",
+      "postedLabel": "11:40",
+      "postedAt": "2026-10-29T11:40:09+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:40:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90691,
+      "source": "dc",
+      "externalId": "6634793",
+      "title": "정숙은 머리 어케 감지 ?",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634793&page=1",
+      "postedLabel": "11:40",
+      "postedAt": "2026-10-29T11:40:17+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:40:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -616643,6 +616719,7 @@
         "6634508",
         "6634520",
         "6634523",
+        "6634524",
         "6634526",
         "6634527",
         "6634532",
@@ -616703,7 +616780,10 @@
         "6634775",
         "6634776",
         "6634779",
-        "6634780"
+        "6634780",
+        "6634787",
+        "6634789",
+        "6634790"
       ]
     },
     "blind": {
@@ -625146,7 +625226,8 @@
         "4389632082",
         "4389633719",
         "4389641313",
-        "4389642989"
+        "4389642989",
+        "4389651555"
       ]
     },
     "keep": "v2",
