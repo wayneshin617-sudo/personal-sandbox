@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:55:58+00:00",
+  "updatedAt": "2026-10-29T02:57:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -611099,6 +611099,65 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T02:55:58+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90745,
+      "source": "qoo",
+      "externalId": "cmt-4389616141",
+      "title": "@3 상철 하이닉스 다녀서 이직 생각 절대 없다 했으니ㅋㅋㅋ걍 타 지역이면 자기가 집 하나 더 구하면 된다고ㅋㅋㅋ근데 둘이 잘되면 순자가 아무래도 상철한테 맞춰서 근무하는걸 고려해야 할 듯",
+      "excerpt": "상철 순자도 잘 어울리긴 하다 딱 잘 큰 장남장녀 느낌",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389601118#4389616141",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T10:55:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:57:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90746,
+      "source": "blind",
+      "externalId": "cmt-458818285",
+      "title": "영철",
+      "excerpt": "나르 = 도파민 보증 수표",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%A5%B4-=-%EB%8F%84%ED%8C%8C%EB%AF%BC-%EB%B3%B4%EC%A6%9D-%EC%88%98%ED%91%9C-6rx1ydor#458818285",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-29T10:56:38+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:57:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90747,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0-zn0cains",
+      "title": "와 영철",
+      "excerpt": "극하남자의 표본이네 보면서 내가 부끄럽네 하는행동, 말투하나하나 저렇게 멋대가리 없는 선택만하기도 힘들것같다 와",
+      "author": "x*********",
+      "company": "현대자동차",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0-zn0cains",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:56:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T02:57:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611238,7 +611297,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T11:53:44+09:00"
+      "slowAt": "2026-10-29T11:56:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -617785,6 +617844,7 @@
         "6634586",
         "6634590",
         "6634600",
+        "6634602",
         "6634604",
         "6634605",
         "6634606",
@@ -617861,7 +617921,9 @@
         "6634850",
         "6634853",
         "6634860",
-        "6634866"
+        "6634865",
+        "6634866",
+        "6634869"
       ]
     },
     "blind": {
