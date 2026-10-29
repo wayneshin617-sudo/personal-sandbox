@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T20:12:50+00:00",
+  "updatedAt": "2026-10-29T20:16:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -656162,6 +656162,25 @@
       "firstSeenAt": "2026-10-29T20:12:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93028,
+      "source": "dc",
+      "externalId": "6638757",
+      "title": "혐한제조기 On",
+      "excerpt": "",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638757&page=1",
+      "postedLabel": "05:15",
+      "postedAt": "2026-10-30T05:15:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T20:16:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -656306,7 +656325,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T05:13:33+09:00"
+      "slowAt": "2026-10-30T05:16:33+09:00"
     },
     "dc": {
       "doneIds": [
