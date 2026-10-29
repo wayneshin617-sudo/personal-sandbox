@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T06:20:53+00:00",
+  "updatedAt": "2026-10-29T06:22:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -623375,6 +623375,25 @@
       "firstSeenAt": "2026-10-29T06:20:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91367,
+      "source": "dc",
+      "externalId": "6635756",
+      "title": "복수선택5개가능",
+      "excerpt": "",
+      "author": "kike^-^",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635756&page=1",
+      "postedLabel": "15:22",
+      "postedAt": "2026-10-29T15:22:03+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:22:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -623464,7 +623483,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T15:19:36+09:00"
+      "slowAt": "2026-10-29T15:22:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -630452,7 +630471,8 @@
         "6635739",
         "6635743",
         "6635747",
-        "6635748"
+        "6635748",
+        "6635751"
       ]
     },
     "blind": {
