@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:25:54+00:00",
+  "updatedAt": "2026-10-29T05:26:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -619695,6 +619695,64 @@
       "firstSeenAt": "2026-10-29T05:25:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91181,
+      "source": "qoo",
+      "externalId": "4389778730",
+      "title": "영호 외국계증권? 회사라며 어딘지 밝혀진거 있어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389778730",
+      "postedLabel": "14:26",
+      "postedAt": "2026-10-29T14:26:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:26:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91182,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%98%EC%86%94-%EC%A2%80-%EB%B4%A4%EC%9C%BC%EB%A9%B4-h2o040er",
+      "title": "근데 나솔 좀 봤으면",
+      "excerpt": "어디서든 다 녹화되고 있어서 저렇게 속 마음 다 못 이야기할 것 같은데 이야기하는 영철이 대단하더라. 말도 엄청 많이 하고,, 공직 좀 겪으면 입 닫는게 미덕이라는걸 알텐데",
+      "author": "!********",
+      "company": "인천광역시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%98%EC%86%94-%EC%A2%80-%EB%B4%A4%EC%9C%BC%EB%A9%B4-h2o040er",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T14:26:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T05:26:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91183,
+      "source": "blind",
+      "externalId": "cmt-458842501",
+      "title": "영숙이 얼굴은 이뻐 코가 너무 티나서 옥의티지만 이쁘긴해",
+      "excerpt": "영숙 같은 얼굴이 취향이신 분????",
+      "author": "a******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EA%B0%99%EC%9D%80-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EC%B7%A8%ED%96%A5%EC%9D%B4%EC%8B%A0-%EB%B6%84-gnkogfjt#458842501",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T14:26:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:26:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -626670,7 +626728,10 @@
         "6635493",
         "6635496",
         "6635506",
-        "6635507"
+        "6635507",
+        "6635518",
+        "6635521",
+        "6635524"
       ]
     },
     "blind": {
@@ -635209,7 +635270,8 @@
         "4389767455",
         "4389767859",
         "4389770055",
-        "4389770214"
+        "4389770214",
+        "4389778730"
       ]
     },
     "keep": "v2",
