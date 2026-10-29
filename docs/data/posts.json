@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T11:18:27+00:00",
+  "updatedAt": "2026-10-29T11:19:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -636261,6 +636261,46 @@
       "firstSeenAt": "2026-10-29T11:18:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92018,
+      "source": "blind",
+      "externalId": "cmt-458880826",
+      "title": "영철 영숙 ㅋㅋ",
+      "excerpt": "나솔 이번기수 빌런",
+      "author": "a*******",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%B9%8C%EB%9F%B0-ijl77ybg#458880826",
+      "postedLabel": "39분",
+      "postedAt": "2026-10-29T19:40:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:19:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92019,
+      "source": "dc",
+      "externalId": "cmt-10982612",
+      "title": "여자는 27 28이 결혼시장 최고점이야",
+      "excerpt": "결혼은 원래 가장 고점일때 하는거임",
+      "author": "박우리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636683&page=1#cmt_10982612",
+      "postedLabel": "10.29 20:18:55",
+      "postedAt": "2026-10-29T20:18:55+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:19:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -643626,7 +643666,8 @@
         "6636667",
         "6636668",
         "6636676",
-        "6636681"
+        "6636681",
+        "6636683"
       ]
     },
     "blind": {
