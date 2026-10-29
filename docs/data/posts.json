@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T18:52:00+00:00",
+  "updatedAt": "2026-10-29T19:01:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -655283,6 +655283,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-29T18:52:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92984,
+      "source": "blind",
+      "externalId": "cmt-458934966",
+      "title": "바로 갓차형님들 떠오르긴하더랔ㅋㅋㅋㅋㅋ",
+      "excerpt": "옥순이 블라 중독 맞나봐",
+      "author": "😳*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%B8%94%EB%9D%BC-%EC%A4%91%EB%8F%85-%EB%A7%9E%EB%82%98%EB%B4%90-kto2qu6y#458934966",
+      "postedLabel": "29분",
+      "postedAt": "2026-10-30T03:32:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T19:01:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92985,
+      "source": "blind",
+      "externalId": "cmt-458935321",
+      "title": "뉴진스가 쓰던 말투 아닌가 ㅋㅋ",
+      "excerpt": "옥순이 블라 중독 맞나봐",
+      "author": "이*****",
+      "company": "한국항공우주산업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%B8%94%EB%9D%BC-%EC%A4%91%EB%8F%85-%EB%A7%9E%EB%82%98%EB%B4%90-kto2qu6y#458935321",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-30T03:48:45+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T19:01:59+00:00",
       "isSeed": false,
       "kind": "reply"
     }
