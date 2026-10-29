@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:59:52+00:00",
+  "updatedAt": "2026-10-29T06:00:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -622182,6 +622182,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T05:59:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91307,
+      "source": "blind",
+      "externalId": "cmt-458844128",
+      "title": "엉깃남인데..잘 어울릴것같아. 그림체도 비슷하고",
+      "excerpt": "근데 공주랑 왕자는 절대 안 만나더라 (현숙)",
+      "author": "i*********",
+      "company": "하나투어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EA%B3%B5%EC%A3%BC%EB%9E%91-%EC%99%95%EC%9E%90%EB%8A%94-%EC%A0%88%EB%8C%80-%EC%95%88-%EB%A7%8C%EB%82%98%EB%8D%94%EB%9D%BC-%ED%98%84%EC%88%99-jg2z1dkb#458844128",
+      "postedLabel": "20분",
+      "postedAt": "2026-10-29T14:40:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:00:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91308,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%84%EC%97%AC%EC%B9%9C-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EB%82%98%EC%99%80%EC%A4%98-3jju8wgj",
+      "title": "전여친 있으면 나와줘",
+      "excerpt": "소감 궁금",
+      "author": "i*********",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%84%EC%97%AC%EC%B9%9C-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EB%82%98%EC%99%80%EC%A4%98-3jju8wgj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T15:00:36+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T06:00:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -622322,7 +622361,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T14:57:36+09:00"
+      "slowAt": "2026-10-29T15:00:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -629150,6 +629189,7 @@
         "6635411",
         "6635415",
         "6635417",
+        "6635420",
         "6635422",
         "6635423",
         "6635425",
@@ -629225,6 +629265,8 @@
         "6635661",
         "6635664",
         "6635667",
+        "6635670",
+        "6635671",
         "6635672"
       ]
     },
