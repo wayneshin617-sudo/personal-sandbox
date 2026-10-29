@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:59:02+00:00",
+  "updatedAt": "2026-10-29T04:00:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -614188,6 +614188,46 @@
       "firstSeenAt": "2026-10-29T03:59:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90902,
+      "source": "blind",
+      "externalId": "cmt-458832374",
+      "title": "살짝 줌마상",
+      "excerpt": "영숙 얼굴 이쁜거 아님?",
+      "author": "i*********",
+      "company": "신한투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%96%BC%EA%B5%B4-%EC%9D%B4%EC%81%9C%EA%B1%B0-%EC%95%84%EB%8B%98-bssccq7v#458832374",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:59:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:00:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90903,
+      "source": "blind",
+      "externalId": "cmt-458832377",
+      "title": "난 오히려 손안댄거 같아서 더 호감이었으",
+      "excerpt": "가끔 현숙 후려치는 글보면 너무신기함",
+      "author": "대******",
+      "company": "LG HelloVision",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%EB%81%94-%ED%98%84%EC%88%99-%ED%9B%84%EB%A0%A4%EC%B9%98%EB%8A%94-%EA%B8%80%EB%B3%B4%EB%A9%B4-%EB%84%88%EB%AC%B4%EC%8B%A0%EA%B8%B0%ED%95%A8-j36d8cvs#458832377",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:59:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:00:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -614327,7 +614367,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T12:56:46+09:00"
+      "slowAt": "2026-10-29T12:59:45+09:00"
     },
     "dc": {
       "doneIds": [
@@ -621035,7 +621075,9 @@
         "6635148",
         "6635151",
         "6635153",
-        "6635160"
+        "6635160",
+        "6635163",
+        "6635165"
       ]
     },
     "blind": {
