@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T11:55:30+00:00",
+  "updatedAt": "2026-10-29T11:56:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -638093,6 +638093,26 @@
       "firstSeenAt": "2026-10-29T11:55:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92111,
+      "source": "blind",
+      "externalId": "cmt-458891036",
+      "title": "영호 영철 사이 있을때 보니까 172-173이정도 같음",
+      "excerpt": "34 현숙 키",
+      "author": "l*********",
+      "company": "현대해상",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-%ED%82%A4-g2yviulq#458891036",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T20:56:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T11:56:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -638233,7 +638253,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T20:53:12+09:00"
+      "slowAt": "2026-10-29T20:56:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -645460,6 +645480,7 @@
         "6636597",
         "6636599",
         "6636606",
+        "6636610",
         "6636611",
         "6636612",
         "6636615",
@@ -645499,7 +645520,8 @@
         "6636758",
         "6636763",
         "6636768",
-        "6636779"
+        "6636779",
+        "6636783"
       ]
     },
     "blind": {
