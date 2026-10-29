@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:25:02+00:00",
+  "updatedAt": "2026-10-29T04:26:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -615784,6 +615784,64 @@
       "firstSeenAt": "2026-10-29T04:25:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90983,
+      "source": "qoo",
+      "externalId": "4389728818",
+      "title": "이번기수 연프적으로도 충족 될거 같고 나솔만의 재미로도 충족될 느낌ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389728818",
+      "postedLabel": "13:25",
+      "postedAt": "2026-10-29T13:25:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:26:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90984,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%B9%ED%98%B8%EA%B8%80-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%98%81%EC%B2%A0-%EB%B3%B8%EC%9D%B8-%EC%95%84%EB%8B%88%EB%83%90-nxb1ku6y",
+      "title": "영철 옹호글 쓰는 사람 영철 본인 아니냐",
+      "excerpt": "왜자꾸 잘생겼다하는거야",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%98%B9%ED%98%B8%EA%B8%80-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%98%81%EC%B2%A0-%EB%B3%B8%EC%9D%B8-%EC%95%84%EB%8B%88%EB%83%90-nxb1ku6y",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:25:45+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T04:26:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90985,
+      "source": "blind",
+      "externalId": "cmt-458835398",
+      "title": "영자가 훨씬 아깝지…",
+      "excerpt": "투표글 34기 7급 영철 ♥️ 한의사 영자 결혼하면 누가아까움? 투표",
+      "author": "!*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-7%EA%B8%89-%EC%98%81%EC%B2%A0-%E2%99%A5%EF%B8%8F-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%9E%90-%EA%B2%B0%ED%98%BC%ED%95%98%EB%A9%B4-%EB%88%84%EA%B0%80%EC%95%84%EA%B9%8C%EC%9B%80-rhjixux3#458835398",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:25:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:26:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -622669,7 +622727,9 @@
         "6635271",
         "6635274",
         "6635275",
-        "6635280"
+        "6635280",
+        "6635289",
+        "6635290"
       ]
     },
     "blind": {
@@ -631170,7 +631230,8 @@
         "4389713341",
         "4389717456",
         "4389724907",
-        "4389725354"
+        "4389725354",
+        "4389728818"
       ]
     },
     "keep": "v2",
