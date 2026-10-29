@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:17:03+00:00",
+  "updatedAt": "2026-10-29T04:18:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -615196,6 +615196,64 @@
       "firstSeenAt": "2026-10-29T04:17:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90953,
+      "source": "dc",
+      "externalId": "cmt-10981096",
+      "title": "잘생남을 만나지마 - dc App",
+      "excerpt": "남자들 보면 잘생겼어도 어느정도 후려쳐야하는게 맞는듯",
+      "author": "ㅇㅇ.",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635242&page=1#cmt_10981096",
+      "postedLabel": "10.29 13:17:29",
+      "postedAt": "2026-10-29T13:17:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:18:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90954,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%99%9C-%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EA%B2%B0%ED%98%BC-%EB%AA%BB-%ED%96%88%EB%8A%94%EC%A7%80-%EC%9D%B4%ED%95%B4%EB%90%A8-o4u02x3y",
+      "title": "현숙이 왜 지금까지 결혼 못 했는지 이해됨",
+      "excerpt": "현숙 스펙 보면 학벌·직업·외모 다 되는 육각형인데 당연히 상대도 그 정도 되는 남자를 원하겠지. 근데 그 육각형 남자가 생각보다 진짜 적음. 20대부터 30대 초중반까지 일과 자기개발에 몰두하느라 연애 제대로 못 했을 거고, 본격적으로 찾으려니 이미 30대 중반 넘은 상태. 육각형 남자는 희소성이 워낙 높아서 대부분 30대 초반에 여자들이 다 데려가버림. 그 나이대 넘어가면 남아있는 사람 거의 없고, 남아있어도 눈이 엄청 높은 경우가 많음. 그래서 이번 영호가 현숙이랑 나이차도 적당하고 남자 육각형이라 현숙이 영호 쪽으로",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%99%9C-%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EA%B2%B0%ED%98%BC-%EB%AA%BB-%ED%96%88%EB%8A%94%EC%A7%80-%EC%9D%B4%ED%95%B4%EB%90%A8-o4u02x3y",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:17:45+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T04:18:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90955,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-%EA%B1%B8%EA%B9%8C-agco860k",
+      "title": "근데 왜 이렇게 보고 있었던 걸까",
+      "excerpt": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 반가움의 눈빛은 아님",
+      "author": "p*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-%EA%B1%B8%EA%B9%8C-agco860k",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:17:46+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T04:18:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -615335,7 +615393,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T13:14:45+09:00"
+      "slowAt": "2026-10-29T13:17:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -622065,7 +622123,11 @@
         "6635227",
         "6635236",
         "6635237",
-        "6635239"
+        "6635239",
+        "6635242",
+        "6635243",
+        "6635244",
+        "6635247"
       ]
     },
     "blind": {
