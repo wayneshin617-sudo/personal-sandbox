@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:58:53+00:00",
+  "updatedAt": "2026-10-29T04:59:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -617477,6 +617477,45 @@
       "firstSeenAt": "2026-10-29T04:58:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91069,
+      "source": "qoo",
+      "externalId": "cmt-4389707646",
+      "title": "어디서 저런 인재들을 캐스팅하는건지 ㅋㅋ 면접보면 다 티가나나",
+      "excerpt": "나만 그냥 이번기수에 감사해?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389706162#4389707646",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T12:59:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:59:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91070,
+      "source": "blind",
+      "externalId": "/kr/post/14%EC%98%A5%EC%88%9C%EB%8B%98%EC%9D%B4%EB%9E%91-34%EC%88%9C%EC%9E%90%EB%8B%98%EC%9D%B4%EB%9E%91-%EB%8B%AE%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%95%84-0s5vwmlo",
+      "title": "14옥순님이랑 34순자님이랑 닮은 것 같아",
+      "excerpt": "둘 다 이쁘심 ㅇㅇ 몸매도 얼굴도 굿굿",
+      "author": "r***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/14%EC%98%A5%EC%88%9C%EB%8B%98%EC%9D%B4%EB%9E%91-34%EC%88%9C%EC%9E%90%EB%8B%98%EC%9D%B4%EB%9E%91-%EB%8B%AE%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%95%84-0s5vwmlo",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:59:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T04:59:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -624410,7 +624449,9 @@
         "6635402",
         "6635403",
         "6635407",
-        "6635410"
+        "6635410",
+        "6635411",
+        "6635417"
       ]
     },
     "blind": {
@@ -627012,6 +627053,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EA%B7%BC%EB%8D%B0-%EC%99%9C-%EB%82%98%EC%98%A8%EA%B1%B0%EC%9E%84-2rujq1dc",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%82%B4%EB%B9%84-%EC%8B%9C%ED%82%A8%EA%B1%B0-xiszdifj",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%88%88%EC%9D%84-l68f7cso",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%98%90%EB%9E%98-%EC%97%AC%EC%9E%90-%EB%A7%90%EA%B3%A0-xef6nga8",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%A7%90%EC%9E%AC%EC%A3%BC%EA%B0%80-%EC%9E%88%EA%B8%B4%ED%95%98%EB%84%A4-0kpveekd",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B2%83-%EB%A7%88%EB%8B%A4-%EC%99%9C%EC%BC%80-1wdpwhlc",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%A8%B8%EB%9D%BC-%ED%95%A0%EB%A7%90%EC%9D%B4-%EC%95%88-%EC%83%9D%EA%B8%B0%EB%84%A4-iunyeo8n",
