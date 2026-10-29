@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:01:54+00:00",
+  "updatedAt": "2026-10-29T05:02:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -617694,6 +617694,44 @@
       "comments": 1,
       "firstSeenAt": "2026-10-29T05:01:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91080,
+      "source": "dc",
+      "externalId": "6635430",
+      "title": "34기 현숙눈물 (1화) / 현숙의 잘못",
+      "excerpt": "",
+      "author": "후추짜장면",
+      "company": "",
+      "ip": "59.20",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635430&page=1",
+      "postedLabel": "14:01",
+      "postedAt": "2026-10-29T14:01:59+09:00",
+      "views": 23,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:02:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91081,
+      "source": "qoo",
+      "externalId": "4389758699",
+      "title": "영철-상철 대화할때 새벽도 아니고 거의 아침이던데 상철 잠 다 깬듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389758699",
+      "postedLabel": "14:02",
+      "postedAt": "2026-10-29T14:02:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:02:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -624632,7 +624670,9 @@
         "6635415",
         "6635417",
         "6635422",
-        "6635425"
+        "6635423",
+        "6635425",
+        "6635428"
       ]
     },
     "blind": {
@@ -633155,7 +633195,8 @@
         "4389742183",
         "4389748484",
         "4389749512",
-        "4389749545"
+        "4389749545",
+        "4389758699"
       ]
     },
     "keep": "v2",
