@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:00:30+00:00",
+  "updatedAt": "2026-10-29T00:02:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -601405,6 +601405,46 @@
       "firstSeenAt": "2026-10-29T00:00:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90254,
+      "source": "blind",
+      "externalId": "cmt-458802341",
+      "title": "진짜 말많네..... 미주알고주알",
+      "excerpt": "말이 많은 사람은 만나면 안되는 이유",
+      "author": "m******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3spbyfrq#458802341",
+      "postedLabel": "49분",
+      "postedAt": "2026-10-29T08:13:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:02:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90255,
+      "source": "blind",
+      "externalId": "cmt-458804935",
+      "title": "맞는 말이야 연애뿐만 아니라 전반적으로 다 통용되는",
+      "excerpt": "말이 많은 사람은 만나면 안되는 이유",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%90%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3spbyfrq#458804935",
+      "postedLabel": "22분",
+      "postedAt": "2026-10-29T08:40:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:02:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -601544,7 +601584,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T08:59:12+09:00"
+      "slowAt": "2026-10-29T09:02:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -607924,7 +607964,9 @@
         "6634062",
         "6634065",
         "6634076",
-        "6634080"
+        "6634080",
+        "6634082",
+        "6634089"
       ]
     },
     "blind": {
