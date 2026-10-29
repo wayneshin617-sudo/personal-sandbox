@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:26:10+00:00",
+  "updatedAt": "2026-10-29T10:27:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -633294,6 +633294,45 @@
       "firstSeenAt": "2026-10-29T10:26:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91868,
+      "source": "qoo",
+      "externalId": "cmt-4389952314",
+      "title": "@1 진짜? 미친 그럼 진짜 현숙하고 되라고 뽑은거네 남pd가",
+      "excerpt": "영호 외국계증권? 회사라며 어딘지 밝혀진거 있어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389778730#4389952314",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T18:02:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:27:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91869,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0%EB%8F%84-%EC%83%81%EB%8B%B9%ED%9E%88-%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%80%EB%8A%94%EB%8D%B0-38nrv6tu",
+      "title": "상철도 상당히 꺼드럭대는데",
+      "excerpt": "사람 급 나누고, 자기가 보기에 아래급인 사람은 일시키며 쫓아내는 식으로 꺼드럭대는 영철이 옆에 있어서 그런가 저정도면 선녀로 보이네. 자기 자랑을 하는거지 남을 무시하진 않으니까..",
+      "author": "ilj1ljj",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EB%8F%84-%EC%83%81%EB%8B%B9%ED%9E%88-%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%80%EB%8A%94%EB%8D%B0-38nrv6tu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T19:26:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T10:27:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -633434,7 +633473,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T19:23:50+09:00"
+      "slowAt": "2026-10-29T19:26:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -640607,7 +640646,8 @@
         "6636483",
         "6636488",
         "6636490",
-        "6636493"
+        "6636493",
+        "6636495"
       ]
     },
     "blind": {
