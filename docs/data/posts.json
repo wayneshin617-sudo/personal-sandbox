@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:42:10+00:00",
+  "updatedAt": "2026-10-29T10:43:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -634062,6 +634062,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T10:42:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91907,
+      "source": "qoo",
+      "externalId": "cmt-4389953049",
+      "title": "@10 ㄹㅇ",
+      "excerpt": "잘생긴 남자가 어떻게 살았길래 저렇게 조급해진거지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389742183#4389953049",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T18:03:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:43:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91908,
+      "source": "qoo",
+      "externalId": "cmt-4389979390",
+      "title": "@10 ㄹㅇ",
+      "excerpt": "잘생긴 남자가 어떻게 살았길래 저렇게 조급해진거지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389742183#4389979390",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T18:38:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:43:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91909,
+      "source": "blind",
+      "externalId": "cmt-458881197",
+      "title": "밖에선 먹혔나보지",
+      "excerpt": "정숙이는 왜 영호가 자기를 좋아할수 있다고 생각하는걸까...",
+      "author": "국***",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-%EC%99%9C-%EC%98%81%ED%98%B8%EA%B0%80-%EC%9E%90%EA%B8%B0%EB%A5%BC-%EC%A2%8B%EC%95%84%ED%95%A0%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94%EA%B1%B8%EA%B9%8C-oqrvce4o#458881197",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T19:42:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:43:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -634151,7 +634211,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T19:39:50+09:00"
+      "slowAt": "2026-10-29T19:42:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -641395,7 +641455,8 @@
         "6636527",
         "6636536",
         "6636550",
-        "6636551"
+        "6636551",
+        "6636553"
       ]
     },
     "blind": {
