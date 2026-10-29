@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T09:39:07+00:00",
+  "updatedAt": "2026-10-29T09:41:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -631565,6 +631565,45 @@
       "firstSeenAt": "2026-10-29T09:39:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91780,
+      "source": "blind",
+      "externalId": "cmt-458871372",
+      "title": "둘다 키크고 대기업이면서 생산직? 이런거랑 가장 연장자인거랑 묵직함? 이런게 비슷해",
+      "excerpt": "상철 생각보다 괜찮은데??",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-3y4nsxbk#458871372",
+      "postedLabel": "22분",
+      "postedAt": "2026-10-29T18:18:51+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:41:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91781,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EC%9E%90%EA%B8%B0-%EB%AA%87%EC%88%9C%EC%9C%84%EB%83%90%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B1%B0-cl6dz2lm",
+      "title": "정숙이 영호한테 자기 몇순위냐고 하는거",
+      "excerpt": "개웃기노 ㅋㅋㅋㅋ 영호 개불쌍하네 그래도 알파끼리 서로 끌려서 다행",
+      "author": "l********",
+      "company": "딜로이트안진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EC%9E%90%EA%B8%B0-%EB%AA%87%EC%88%9C%EC%9C%84%EB%83%90%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B1%B0-cl6dz2lm",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T18:40:51+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T09:41:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -638845,7 +638884,8 @@
         "6636382",
         "6636383",
         "6636386",
-        "6636387"
+        "6636387",
+        "6636390"
       ]
     },
     "blind": {
