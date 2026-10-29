@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:57:01+00:00",
+  "updatedAt": "2026-10-29T02:57:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -611158,6 +611158,44 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T02:57:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90748,
+      "source": "qoo",
+      "externalId": "4389663803",
+      "title": "영철은 성격때문에 다 말아먹음 안타깝기도 함",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389663803",
+      "postedLabel": "11:57",
+      "postedAt": "2026-10-29T11:57:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:57:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90749,
+      "source": "dc",
+      "externalId": "6634884",
+      "title": "영철이 까는 년들 봐라",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634884&page=1",
+      "postedLabel": "11:57",
+      "postedAt": "2026-10-29T11:57:34+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:57:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611247,7 +611285,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T11:54:43+09:00"
+      "slowAt": "2026-10-29T11:57:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -621279,6 +621317,7 @@
         "/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C%E2%80%A6-%EA%B9%83%ED%84%B8%EA%B0%99%EC%95%84-1zjksgyi",
         "/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%88%A8%EC%89%AC%EB%93%AF%EB%AC%B4%EB%A1%80%ED%95%98%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-ge380awm",
         "/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0-aximg18m",
+        "/kr/post/%EC%99%80-%EC%98%81%EC%B2%A0-zn0cains",
         "/kr/post/%EC%99%80-%EC%98%81%ED%98%B8%EB%9E%91-%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%903%EB%AA%85-lg7uvezs",
         "/kr/post/%EC%99%80-%EC%98%81%ED%98%B8-%EC%A0%95-%EB%96%A8%EC%96%B4%EC%A1%8C%EC%9D%84%EB%93%AF-%E3%85%8B%E3%85%8B%E3%85%8B-8bx4r687",
         "/kr/post/%EC%99%80-%EC%98%A4%EB%8A%98-%EC%84%A4%EB%A7%88-%EB%82%A8%EC%9E%90%EC%A7%81%EC%97%85-%EA%B3%B5%EA%B0%9C%EC%95%88%ED%95%A8-2nqwfukm",
@@ -626375,7 +626414,8 @@
         "4389653543",
         "4389655814",
         "4389659007",
-        "4389661955"
+        "4389661955",
+        "4389663803"
       ]
     },
     "keep": "v2",
