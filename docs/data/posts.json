@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T15:34:14+00:00",
+  "updatedAt": "2026-10-29T15:36:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -653110,6 +653110,26 @@
       "firstSeenAt": "2026-10-29T15:34:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92874,
+      "source": "blind",
+      "externalId": "cmt-458924651",
+      "title": "외모를 봐줄 필요가 있어야 쓰니가 말한 숫자가 의미있지 아무짝에 필요 없다",
+      "excerpt": "영철을 외모로 까는건 좀 아니지 않음?",
+      "author": "j*********",
+      "company": "라인플러스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%84-%EC%99%B8%EB%AA%A8%EB%A1%9C-%EA%B9%8C%EB%8A%94%EA%B1%B4-%EC%A2%80-%EC%95%84%EB%8B%88%EC%A7%80-%EC%95%8A%EC%9D%8C-lpyztqvk#458924651",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T00:35:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:36:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -653199,7 +653219,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T00:32:55+09:00"
+      "slowAt": "2026-10-30T00:35:55+09:00"
     },
     "ig": {
       "doneIds": [
@@ -660719,7 +660739,8 @@
         "6638421",
         "6638435",
         "6638445",
-        "6638448"
+        "6638448",
+        "6638451"
       ]
     },
     "blind": {
