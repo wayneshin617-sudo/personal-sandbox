@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:16:58+00:00",
+  "updatedAt": "2026-10-29T02:18:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -607939,6 +607939,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T02:16:58+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90585,
+      "source": "dc",
+      "externalId": "6634692",
+      "title": "다중이특집 나솔보면서 느낌점",
+      "excerpt": "",
+      "author": "인천S2",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634692&page=1",
+      "postedLabel": "11:17",
+      "postedAt": "2026-10-29T11:17:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:18:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90586,
+      "source": "blind",
+      "externalId": "cmt-458821647",
+      "title": "난 지루하기도 한데 어제 영철이 한건 터트려줘서",
+      "excerpt": "이번 기수 좀 재미있나보네?",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%A2%80-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%82%98%EB%B3%B4%EB%84%A4-58h76bne#458821647",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:17:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:18:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -608078,7 +608117,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T11:14:43+09:00"
+      "slowAt": "2026-10-29T11:17:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -618845,6 +618884,7 @@
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%94%BC%EB%B6%80%EA%B0%80-%EC%B0%90%EC%9D%B4%EB%8B%A4-rnkrm6x3",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%96%89%EB%8F%99%EC%9D%84-%EC%9D%BC%EB%B6%80%EB%9F%AC-%EA%B5%BC%EB%9C%A8%EA%B2%8C-%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-7stbd3tm",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-16%EB%85%84-%EC%A0%84-%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C-%EB%96%A0%EC%98%A4%EB%A5%BC-%EB%93%AF-r51eebum",
+        "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-j1hjm8bo",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%98-%EA%B3%A0%EC%8B%AC%EB%8F%84-%EA%B4%80%EC%A0%84%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B0%99%EC%9D%80%EB%8D%B0-zyli5fz4",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%98%81%EC%9E%90%EB%B3%B4%EA%B3%A0-%EC%98%A4%EC%A7%80%EB%A7%88%EC%84%B8%EC%9A%94-%ED%95%A0%EB%95%8C-virkmsm3",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%B2%AB%EC%9D%B8%EC%83%81-%EC%98%81%EC%88%98-%EB%BD%91%EC%9D%80-%EC%9D%B4%EC%9C%A0-fj27wx27",
