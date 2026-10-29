@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:50:13+00:00",
+  "updatedAt": "2026-10-29T14:51:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -651373,6 +651373,104 @@
       "firstSeenAt": "2026-10-29T14:50:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92786,
+      "source": "qoo",
+      "externalId": "cmt-4390246588",
+      "title": "자기가 뚫으면 됨",
+      "excerpt": "노무사가 원래 외국인이랑 일 많이해?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390245714#4390246588",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T22:50:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:51:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92787,
+      "source": "qoo",
+      "externalId": "cmt-4390246710",
+      "title": "영식 은근 언급 있어 ㅋㅋㅋㅋ",
+      "excerpt": "한 15페이지까지 연어했는데 아무도 언급 안하는 영식이가 난 괜찮아보인다....",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390241018#4390246710",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T22:50:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:51:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92788,
+      "source": "dc",
+      "externalId": "6638309",
+      "title": "외국녀들 전부 홍보인듯",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638309&page=1",
+      "postedLabel": "23:50",
+      "postedAt": "2026-10-29T23:50:24+09:00",
+      "views": 23,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:51:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92789,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%A0%9C%EC%9D%BC-%ED%8C%90%EB%8B%A8-%EC%9E%98%ED%95%A8-88qjymch",
+      "title": "순자가 제일 판단 잘함",
+      "excerpt": "난 오히려 순자가 계산 빠르고, 더 여우같아 ㅋㅋ",
+      "author": "l*********",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%A0%9C%EC%9D%BC-%ED%8C%90%EB%8B%A8-%EC%9E%98%ED%95%A8-88qjymch",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:50:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T14:51:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92790,
+      "source": "blind",
+      "externalId": "cmt-458918643",
+      "title": "코는 세운거야 찝은거야 뭐지 진짜",
+      "excerpt": "망도 잘되는게",
+      "author": "|********",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%9D%EB%8F%84-%EC%9E%98%EB%90%98%EB%8A%94%EA%B2%8C-2v0fqt5c#458918643",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:50:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:51:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -651462,7 +651560,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T23:47:54+09:00"
+      "slowAt": "2026-10-29T23:50:55+09:00"
     },
     "ig": {
       "doneIds": [
@@ -658958,7 +659056,8 @@
         "6638274",
         "6638283",
         "6638286",
-        "6638287"
+        "6638287",
+        "6638303"
       ]
     },
     "blind": {
