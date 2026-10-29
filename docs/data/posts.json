@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:06:01+00:00",
+  "updatedAt": "2026-10-29T03:07:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -611545,6 +611545,65 @@
       "firstSeenAt": "2026-10-29T03:06:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90768,
+      "source": "dc",
+      "externalId": "6634927",
+      "title": "나는 이번기수 영식이 제일 근본있고 멋있다고 생각함",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634927&page=1",
+      "postedLabel": "12:06",
+      "postedAt": "2026-10-29T12:06:29+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:07:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90769,
+      "source": "blind",
+      "externalId": "cmt-458826543",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "34 현숙이",
+      "author": "i********",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4-gsr650d5#458826543",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:06:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:07:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90770,
+      "source": "blind",
+      "externalId": "cmt-458826561",
+      "title": "응 9/100 의 여자",
+      "excerpt": "34 현숙이",
+      "author": "투***",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4-gsr650d5#458826561",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:06:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:07:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -611634,7 +611693,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T12:03:43+09:00"
+      "slowAt": "2026-10-29T12:06:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -618323,7 +618382,9 @@
         "6634901",
         "6634902",
         "6634909",
-        "6634914"
+        "6634914",
+        "6634916",
+        "6634922"
       ]
     },
     "blind": {
@@ -623151,6 +623212,7 @@
         "/kr/post/34-%ED%95%98%EB%8B%89-%EC%83%81%EC%B2%A0-%ED%82%A4-%EB%AA%87%EC%9D%BC%EA%B9%8C-io0mcx1d",
         "/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%A0%95%EC%88%99%EC%9D%B4%EB%9E%91-%EC%98%86%EC%97%90-%EC%95%89%EC%95%84%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C-7bd2du2r",
         "/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4-6fznn4k4",
+        "/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4-gsr650d5",
         "/kr/post/34-%ED%98%84%EC%88%99-%EA%B9%80%EB%AF%BC%ED%95%98-%EB%8A%90%EB%82%8C-mqiqssi8",
         "/kr/post/34-%ED%98%84%EC%88%99-%EB%8B%AE%EC%9D%80-%EC%82%AC%EB%9E%8C-%EC%B0%BE%EC%9D%8C-4jhw1y5r",
         "/kr/post/34-%ED%98%84%EC%88%99-%EC%86%8C%EA%B0%9C-%EC%98%81%EC%83%81-0wjxfw5p",
