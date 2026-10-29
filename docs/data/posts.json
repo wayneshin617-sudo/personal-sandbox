@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T15:43:14+00:00",
+  "updatedAt": "2026-10-29T15:44:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -653246,6 +653246,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T15:43:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92881,
+      "source": "blind",
+      "externalId": "cmt-458925479",
+      "title": "마자 피부도 좋고 잘생겼더라 ㅋㅋㅋㅋ 약간 시골청년 같은 촌스러운 감이 있지만 ㅋㅋㅋㅋㅋ",
+      "excerpt": "영철을 외모로 까는건 좀 아니지 않음?",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%84-%EC%99%B8%EB%AA%A8%EB%A1%9C-%EA%B9%8C%EB%8A%94%EA%B1%B4-%EC%A2%80-%EC%95%84%EB%8B%88%EC%A7%80-%EC%95%8A%EC%9D%8C-lpyztqvk#458925479",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T00:43:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:44:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -653387,7 +653407,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T00:40:54+09:00"
+      "slowAt": "2026-10-30T00:43:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -660860,7 +660880,9 @@
         "6638454",
         "6638458",
         "6638464",
-        "6638468"
+        "6638468",
+        "6638472",
+        "6638474"
       ]
     },
     "blind": {
@@ -663998,6 +664020,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EB%B3%B4%EA%B8%B0%ED%9E%98%EB%93%A4%EC%A7%80-r0xz5ddh",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4%EC%A7%80-0d2eay2m",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EC%8B%AB%E3%85%88%E3%85%A3-8pagcpm4",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EC%9A%95%EB%A8%B9%EB%82%98-%ED%96%88%EB%8D%94%EB%8B%88-5ovmghe8",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EC%9E%AC%EC%88%98%EC%97%86%EC%A7%80%E3%85%9C-cdxe8rvi",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EC%BB%B5%EB%93%A4%EA%B3%A0-%EB%A7%90%ED%95%A8-otpe0qd6",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B3%84%EB%A1%9C%EC%A7%80-mg7mb0mz",
