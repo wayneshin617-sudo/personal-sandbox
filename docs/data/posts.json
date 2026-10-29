@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:16:00+00:00",
+  "updatedAt": "2026-10-29T02:16:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -607901,6 +607901,44 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T02:16:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90583,
+      "source": "qoo",
+      "externalId": "4389633719",
+      "title": "이번 기수 남자들은 여자 형제 많아서 여성에 관한 인식은 괜찮은 편인듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389633719",
+      "postedLabel": "11:16",
+      "postedAt": "2026-10-29T11:16:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:16:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90584,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-j1hjm8bo",
+      "title": "현숙은",
+      "excerpt": "아직 시집 못간거보면 방송에서 보이지않는 엄청난 하자가 있는거 아닌 이상 눈이 개높은거임 근데 그런 하자 있는 사람은 아닌것같고 눈이 개높은것같은데 저렇게 가벼워보이는 영철이 눈에 찰리가 없지",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-j1hjm8bo",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:16:43+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T02:16:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -614592,7 +614630,9 @@
         "6634666",
         "6634670",
         "6634676",
-        "6634677"
+        "6634677",
+        "6634681",
+        "6634683"
       ]
     },
     "blind": {
@@ -623024,7 +623064,8 @@
         "4389602189",
         "4389608931",
         "4389614434",
-        "4389632082"
+        "4389632082",
+        "4389633719"
       ]
     },
     "keep": "v2",
