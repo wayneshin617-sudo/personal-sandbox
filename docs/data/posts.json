@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:44:51+00:00",
+  "updatedAt": "2026-10-29T05:45:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -621153,6 +621153,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T05:44:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91255,
+      "source": "qoo",
+      "externalId": "cmt-4389743777",
+      "title": "기겁할만함 ㅠㅠㅠ 질색팔색",
+      "excerpt": "어제 나솔 차에서 영철이 현숙 지긋이 바라볼 때 송해나 반응 너무 웃기다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389735871#4389743777",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T13:44:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:45:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91256,
+      "source": "qoo",
+      "externalId": "cmt-4389744881",
+      "title": "못 만나본 사람인데다 다른 남자에게도 기회가 열려있으니까 본인이 너무 만나고 싶은가봠",
+      "excerpt": "잘생긴 남자가 어떻게 살았길래 저렇게 조급해진거지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389742183#4389744881",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T13:45:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:45:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -621293,7 +621333,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T14:42:36+09:00"
+      "slowAt": "2026-10-29T14:45:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -628097,6 +628137,8 @@
         "6635362",
         "6635363",
         "6635365",
+        "6635367",
+        "6635369",
         "6635372",
         "6635373",
         "6635376",
@@ -628163,7 +628205,9 @@
         "6635595",
         "6635596",
         "6635597",
-        "6635601"
+        "6635601",
+        "6635619",
+        "6635620"
       ]
     },
     "blind": {
