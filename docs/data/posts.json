@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:06:09+00:00",
+  "updatedAt": "2026-10-29T08:07:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -627567,6 +627567,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T08:06:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91578,
+      "source": "blind",
+      "externalId": "cmt-458856541",
+      "title": "피코 뭔지 한참 생각했네",
+      "excerpt": "영철 친구는 있냐",
+      "author": "o*****",
+      "company": "한국팜비오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%B9%9C%EA%B5%AC%EB%8A%94-%EC%9E%88%EB%83%90-wr6u2vde#458856541",
+      "postedLabel": "45분",
+      "postedAt": "2026-10-29T16:21:49+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:07:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91579,
+      "source": "blind",
+      "externalId": "cmt-458859247",
+      "title": "닭집 알아봐주는 친구 있잖아요",
+      "excerpt": "영철 친구는 있냐",
+      "author": "-**",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%B9%9C%EA%B5%AC%EB%8A%94-%EC%9E%88%EB%83%90-wr6u2vde#458859247",
+      "postedLabel": "26분",
+      "postedAt": "2026-10-29T16:40:49+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:07:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -627656,7 +627696,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T17:03:49+09:00"
+      "slowAt": "2026-10-29T17:06:49+09:00"
     },
     "ig": {
       "doneIds": [
