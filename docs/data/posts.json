@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T09:53:09+00:00",
+  "updatedAt": "2026-10-29T09:54:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -632096,6 +632096,65 @@
       "firstSeenAt": "2026-10-29T09:53:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91807,
+      "source": "qoo",
+      "externalId": "4389992561",
+      "title": "아 영철 뭐야! 시트를 왜 지가 젖히려고해",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389992561",
+      "postedLabel": "18:53",
+      "postedAt": "2026-10-29T18:53:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:54:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91808,
+      "source": "blind",
+      "externalId": "cmt-458875337",
+      "title": "책 60권읽어라 영어사전으로",
+      "excerpt": "트리거 뜻을 모르는거지?",
+      "author": "l*******",
+      "company": "ex-스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8A%B8%EB%A6%AC%EA%B1%B0-%EB%9C%BB%EC%9D%84-%EB%AA%A8%EB%A5%B4%EB%8A%94%EA%B1%B0%EC%A7%80-4tixgywa#458875337",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T18:53:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:54:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91809,
+      "source": "blind",
+      "externalId": "cmt-458875346",
+      "title": "트리거가 어떤계기긴 한데 보통 부정적의미로 쓰여서 지금 영철이 쓰는 맥락에는 절대 안맞는 흐름임. 글많이 안읽고 무식한사람 티나ㅠㅠ 전두지휘, 불소불위 다 같은 결임",
+      "excerpt": "트리거 뜻을 모르는거지?",
+      "author": "h******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8A%B8%EB%A6%AC%EA%B1%B0-%EB%9C%BB%EC%9D%84-%EB%AA%A8%EB%A5%B4%EB%8A%94%EA%B1%B0%EC%A7%80-4tixgywa#458875346",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T18:53:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:54:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -632236,7 +632295,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T18:50:50+09:00"
+      "slowAt": "2026-10-29T18:53:51+09:00"
     },
     "dc": {
       "doneIds": [
@@ -639351,6 +639410,7 @@
         "6636232",
         "6636234",
         "6636246",
+        "6636249",
         "6636250",
         "6636251",
         "6636255",
@@ -639389,7 +639449,8 @@
         "6636402",
         "6636403",
         "6636406",
-        "6636414"
+        "6636414",
+        "6636422"
       ]
     },
     "blind": {
@@ -648025,7 +648086,8 @@
         "4389961951",
         "4389973454",
         "4389979678",
-        "4389983262"
+        "4389983262",
+        "4389992561"
       ]
     },
     "keep": "v2",
