@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T22:55:59+00:00",
+  "updatedAt": "2026-10-29T22:58:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -657584,6 +657584,25 @@
       "firstSeenAt": "2026-10-29T22:55:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93100,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B6%84-%EC%9B%90%EB%9E%98-%EC%9D%B4%EB%9F%B0-%EC%BC%80%EB%A6%AD%ED%84%B0%EC%9E%84-agy211oq",
+      "title": "이분 원래 이런 케릭터임?",
+      "excerpt": "나는 나솔 안봐서 모르는데 진짜 저렇게 말하는 스타일 임? 여기 나솔 방송보는사람들 많은거 같아서 궁금해서 물어봄.",
+      "author": "괜**",
+      "company": "머큐리",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B6%84-%EC%9B%90%EB%9E%98-%EC%9D%B4%EB%9F%B0-%EC%BC%80%EB%A6%AD%ED%84%B0%EC%9E%84-agy211oq",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T07:57:42+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T22:58:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -657730,7 +657749,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T07:54:42+09:00"
+      "slowAt": "2026-10-30T07:57:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -665313,7 +665332,8 @@
         "6638841",
         "6638854",
         "6638859",
-        "6638871"
+        "6638871",
+        "6638877"
       ]
     },
     "blind": {
