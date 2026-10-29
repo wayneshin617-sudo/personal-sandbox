@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:44:06+00:00",
+  "updatedAt": "2026-10-29T08:45:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -629411,6 +629411,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T08:44:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91671,
+      "source": "blind",
+      "externalId": "cmt-458867339",
+      "title": "ㅋㅋㅋㅋ 나도 그 부분에선 좋게 보였는데 다른데선 ㄷ 너무 떠드럭대가지구 별로..",
+      "excerpt": "상철 생각보다 괜찮은데??",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-3y4nsxbk#458867339",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T17:44:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:45:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91672,
+      "source": "blind",
+      "externalId": "cmt-458867408",
+      "title": "ㅋㅋㅋㅋ내가 방금 올린글이랑 똑같다",
+      "excerpt": "상철 생각보다 괜찮은데??",
+      "author": "l********",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-3y4nsxbk#458867408",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T17:44:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:45:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -629551,7 +629591,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T17:41:50+09:00"
+      "slowAt": "2026-10-29T17:44:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -636639,7 +636679,8 @@
         "6636209",
         "6636210",
         "6636211",
-        "6636220"
+        "6636220",
+        "6636224"
       ]
     },
     "blind": {
@@ -638621,6 +638662,7 @@
         "/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%98%A8-%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%EC%A7%81%EC%9B%90-%EC%A7%91-%ED%95%98%EB%82%98-%EB%8D%94-%EC%82%AC%EB%A9%B4-%EB%90%98%EC%A3%A0-ecvigcn5",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EB%B0%A9%EC%86%A1%EB%B3%B4%EA%B3%A0-%EC%98%81%EC%9E%90-288zqhlu",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EC%98%81%EC%8B%9D%EC%9D%B4-ir721n86",
+        "/kr/post/%EC%96%B4%EC%A0%9C-%EC%98%81%EC%B2%A0%EB%95%8C%EB%A9%94-%EC%83%81%EC%B2%A0-%EB%8B%A4%EC%8B%9C%EB%B4%84-ae5xakuz",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EC%9E%BC%EC%8D%BC%EC%96%B4-zzakln3x",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-6gn021i7",
         "/kr/post/%EC%96%B4%EC%A9%8C%EA%B3%A0-%EA%B5%90%EC%9C%A1-%EB%AA%BB-%EB%B0%9B%EC%95%98%EB%83%90-%EC%98%81%EC%88%99%EC%95%84-yza4vm0v",
