@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T22:22:51+00:00",
+  "updatedAt": "2026-10-29T22:23:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -656848,6 +656848,65 @@
       "firstSeenAt": "2026-10-29T22:22:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93063,
+      "source": "qoo",
+      "externalId": "cmt-4390406966",
+      "title": "음....................... 난 모르겠다.................................",
+      "excerpt": "근데 영자보고 진짜 열굴 많이 보나보다 할 정도의 외몬가? 영철이?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390211414#4390406966",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T06:23:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T22:23:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93064,
+      "source": "dc",
+      "externalId": "6638850",
+      "title": "1찍들아. 트럼프 아니였으면 중국한테 반도체 먹혔어",
+      "excerpt": "",
+      "author": "나솔",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638850&page=1",
+      "postedLabel": "07:23",
+      "postedAt": "2026-10-30T07:23:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T22:23:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93065,
+      "source": "blind",
+      "externalId": "cmt-458940631",
+      "title": "정숙이도 첨에는 그냥 넘어가려고 했는데 하는짓보니까 브레이크 안걸어주면 폭주하겠다싶어서 한마디 한거겠지. 고지능자는 달라.",
+      "excerpt": "정숙이가 선을 넘은거야?",
+      "author": "i******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4%EA%B0%80-%EC%84%A0%EC%9D%84-%EB%84%98%EC%9D%80%EA%B1%B0%EC%95%BC-t6eb5ins#458940631",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T07:23:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T22:23:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -664570,7 +664629,8 @@
         "6638814",
         "6638815",
         "6638828",
-        "6638830"
+        "6638830",
+        "6638841"
       ]
     },
     "blind": {
@@ -667107,6 +667167,7 @@
         "/kr/post/%EC%98%81%EC%9E%90%EB%88%84%EB%82%98%EB%8A%94-%EC%8B%9C%EC%88%A0%EB%A1%9C-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%A2%80-%ED%95%98%EA%B3%A0%EC%98%A8%EB%93%AF-iygrwp6l",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%E3%84%B9%E3%85%87-%EC%96%B4%EB%96%A1%ED%95%98%EB%83%90-55tcfy6m",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EA%B7%B8%EB%83%A5-%EB%B3%B8%EC%9D%B8%EC%9D%B4-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%82%98%EC%95%BC%ED%95%A8-7jc4jw1g",
+        "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EA%B7%BC%EB%8D%B0-0%EA%B3%A0%EB%B0%B1-1%EC%B0%A8%EC%9E%84%EC%9D%B4%EB%9D%BC%EA%B3%A0%ED%95%A0-%EC%88%98-%EC%97%86%EC%A7%80%EC%95%8A%EB%82%98-3rpyayyc",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EA%B9%80%EC%98%81%EC%B2%A0-iyfkv4y7",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%82%A8%EC%9E%90-%EC%9B%90%ED%95%98%EB%A9%B0-%EB%8B%A4-%EA%BC%AC%EC%8B%A0%EB%8C%80%EB%A7%A4-dv6ejv56",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%82%A8%EC%9E%90-%EC%9B%90%ED%95%98%EB%A9%B4-%EB%8B%A4-%EA%BC%AC%EC%8B%A0%EB%8C%80%EB%A7%A4-dv6ejv56",
