@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:13:04+00:00",
+  "updatedAt": "2026-10-29T05:13:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -618485,6 +618485,45 @@
       "firstSeenAt": "2026-10-29T05:13:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91120,
+      "source": "qoo",
+      "externalId": "4389767859",
+      "title": "나름 연애프로그램인데 갑을이 나온다고????",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389767859",
+      "postedLabel": "14:12",
+      "postedAt": "2026-10-29T14:12:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:13:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91121,
+      "source": "blind",
+      "externalId": "cmt-458841010",
+      "title": "성격이 인생을 좌지우지함 저정도 외모 7급 공무원이고 성격이 유했으면 잘 살았을텐데 꺼드럭 자체임",
+      "excerpt": "영철이 이제는 안쓰럽다..",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EC%95%88%EC%93%B0%EB%9F%BD%EB%8B%A4-ambyt8uf#458841010",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T14:13:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:13:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -618574,7 +618613,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T14:10:37+09:00"
+      "slowAt": "2026-10-29T14:13:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -633971,7 +634010,8 @@
         "4389758699",
         "4389761807",
         "4389764729",
-        "4389767455"
+        "4389767455",
+        "4389767859"
       ]
     },
     "keep": "v2",
