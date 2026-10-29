@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T06:35:54+00:00",
+  "updatedAt": "2026-10-29T06:36:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -624109,6 +624109,46 @@
       "firstSeenAt": "2026-10-29T06:35:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91404,
+      "source": "blind",
+      "externalId": "cmt-458847915",
+      "title": "족두리",
+      "excerpt": "모자를 쓴거야 얹어놓은거야?",
+      "author": "l*******",
+      "company": "티몬",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AA%A8%EC%9E%90%EB%A5%BC-%EC%93%B4%EA%B1%B0%EC%95%BC-%EC%96%B9%EC%96%B4%EB%86%93%EC%9D%80%EA%B1%B0%EC%95%BC-gtlg7g7w#458847915",
+      "postedLabel": "24분",
+      "postedAt": "2026-10-29T15:12:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:36:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91405,
+      "source": "blind",
+      "externalId": "cmt-458848749",
+      "title": "아니 부여인인데 우리도 저렇게는 안써!!",
+      "excerpt": "모자를 쓴거야 얹어놓은거야?",
+      "author": "s********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AA%A8%EC%9E%90%EB%A5%BC-%EC%93%B4%EA%B1%B0%EC%95%BC-%EC%96%B9%EC%96%B4%EB%86%93%EC%9D%80%EA%B1%B0%EC%95%BC-gtlg7g7w#458848749",
+      "postedLabel": "17분",
+      "postedAt": "2026-10-29T15:19:36+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:36:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -624249,7 +624289,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T15:33:36+09:00"
+      "slowAt": "2026-10-29T15:36:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -631206,7 +631246,9 @@
         "6635801",
         "6635803",
         "6635807",
-        "6635812"
+        "6635812",
+        "6635820",
+        "6635825"
       ]
     },
     "blind": {
