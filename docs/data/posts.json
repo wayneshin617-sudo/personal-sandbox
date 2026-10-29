@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:24:00+00:00",
+  "updatedAt": "2026-10-29T02:25:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -608611,6 +608611,84 @@
       "firstSeenAt": "2026-10-29T02:24:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90619,
+      "source": "dc",
+      "externalId": "6634726",
+      "title": "정숙은 머리 정리 좀 해라..김어준 나온 줄 알았노..",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634726&page=1",
+      "postedLabel": "11:24",
+      "postedAt": "2026-10-29T11:24:33+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:25:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90620,
+      "source": "blind",
+      "externalId": "cmt-458822368",
+      "title": "남pd는 신났을듯",
+      "excerpt": "영철",
+      "author": "j********",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-5yjkgc0l#458822368",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:24:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:25:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90621,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A034%EA%B8%B0-5makiu02",
+      "title": "영철(34기)",
+      "excerpt": "뭔가 집착적이고 손해1도 보기 싫어하고 불안핑에 자기우월마인드 자기연민(집안얘기) 셀수없지만 이런애들이 공통적으로 없이 살았더라 사랑은 과하게 넘치게 받음",
+      "author": "못***",
+      "company": "GS리테일",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A034%EA%B8%B0-5makiu02",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:24:44+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T02:25:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90622,
+      "source": "blind",
+      "externalId": "cmt-458822396",
+      "title": "열심히살아왔을텐데.. 너무 비약아닌가 ㅜㅜ 와모는그래도 개인적으로 만나다보면 매력이있을수도있쟈나",
+      "excerpt": "영자는 여태껏 누군가의 진지한 연애대상인 적이 없었을 듯",
+      "author": "😳*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%97%AC%ED%83%9C%EA%BB%8F-%EB%88%84%EA%B5%B0%EA%B0%80%EC%9D%98-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%97%B0%EC%95%A0%EB%8C%80%EC%83%81%EC%9D%B8-%EC%A0%81%EC%9D%B4-%EC%97%86%EC%97%88%EC%9D%84-%EB%93%AF-rxfecby2#458822396",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:24:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:25:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -608700,7 +608778,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T11:21:43+09:00"
+      "slowAt": "2026-10-29T11:24:44+09:00"
     },
     "ig": {
       "doneIds": [
@@ -615313,6 +615391,7 @@
         "6634705",
         "6634707",
         "6634709",
+        "6634711",
         "6634713",
         "6634716"
       ]
