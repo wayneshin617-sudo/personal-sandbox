@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:32:01+00:00",
+  "updatedAt": "2026-10-29T03:32:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -612552,6 +612552,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T03:32:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90819,
+      "source": "qoo",
+      "externalId": "4389687201",
+      "title": "어제 방송 34기 다같이 모여 보는 불상사는 없었기를 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389687201",
+      "postedLabel": "12:32",
+      "postedAt": "2026-10-29T12:32:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:32:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90820,
+      "source": "blind",
+      "externalId": "cmt-458829105",
+      "title": "ㅇㄱㄹㅇ",
+      "excerpt": "영철보면 여성화 완료된 남자공무원같음",
+      "author": "!*********",
+      "company": "SK",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4-%EC%97%AC%EC%84%B1%ED%99%94-%EC%99%84%EB%A3%8C%EB%90%9C-%EB%82%A8%EC%9E%90%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B0%99%EC%9D%8C-6mc4lpsv#458829105",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:32:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:32:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -612691,7 +612730,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T12:29:43+09:00"
+      "slowAt": "2026-10-29T12:32:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -619362,7 +619401,8 @@
         "6635018",
         "6635028",
         "6635031",
-        "6635036"
+        "6635036",
+        "6635041"
       ]
     },
     "blind": {
@@ -621893,6 +621933,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EB%A7%9D%ED%95%A0%EA%B1%B0-%EA%B0%99%EC%95%84-2z3fmvzd",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%8B%88-ptsd%EC%98%A4%EB%84%A4-2rbf6qnx",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%8B%A4-%EC%83%81%EC%B2%A0-b5w3o7fb",
+        "/kr/post/%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4-%EC%97%AC%EC%84%B1%ED%99%94-%EC%99%84%EB%A3%8C%EB%90%9C-%EB%82%A8%EC%9E%90%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B0%99%EC%9D%8C-6mc4lpsv",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EC%9E%90%EC%BC%93-%EA%B1%B8%EC%B3%90%EC%9E%85%EC%9D%80-%EA%B1%B0-%EC%A7%80%EC%9D%B8%ED%95%9C%ED%85%8C-%EC%A0%84%ED%99%94%ED%95%98%EB%8A%94-%EA%B2%83%EA%B9%8C%EC%A7%80-ho3yjzlv",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%99%EC%9D%B4-%EB%AF%B8%ED%8C%85%ED%95%98%EB%A9%B4-%EC%B5%9C%EC%95%85%EC%9E%84-oyel1h2x",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%8A%A4-%EB%B9%84%ED%98%B8%EA%B0%90%EA%B3%BC-%EB%82%A0%ED%8B%B0%EB%82%98%EB%8A%94-%EA%B0%80%EB%B2%BC%EC%9B%80%EB%A7%8C-%EC%9E%88%EB%8A%94%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-k4j784v2",
@@ -627827,7 +627868,8 @@
         "4389659007",
         "4389661955",
         "4389663803",
-        "4389673704"
+        "4389673704",
+        "4389687201"
       ]
     },
     "keep": "v2",
