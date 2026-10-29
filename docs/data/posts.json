@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T09:04:09+00:00",
+  "updatedAt": "2026-10-29T09:05:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -630080,6 +630080,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T09:04:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91705,
+      "source": "qoo",
+      "externalId": "4389954087",
+      "title": "영호 bnp면 남규홍이 현숙하고 이어줄라고 캐스팅한거아님?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389954087",
+      "postedLabel": "18:04",
+      "postedAt": "2026-10-29T18:04:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:05:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -645944,7 +645963,8 @@
         "4389942120",
         "4389947892",
         "4389948045",
-        "4389950809"
+        "4389950809",
+        "4389954087"
       ]
     },
     "keep": "v2",
