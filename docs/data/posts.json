@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:43:59+00:00",
+  "updatedAt": "2026-10-29T02:45:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -610231,6 +610231,85 @@
       "firstSeenAt": "2026-10-29T02:43:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90701,
+      "source": "qoo",
+      "externalId": "cmt-4389606642",
+      "title": "하남자 특 = 침발라놓기",
+      "excerpt": "걍 너무 인기 많은 여자가 좋으니까 선점하려고 계속 공용거실에서 티내고 따로 남출 여출들한테도 상담 받으면서 티내고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389598955#4389606642",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T10:44:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:45:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90702,
+      "source": "dc",
+      "externalId": "cmt-10980770",
+      "title": "정확하다",
+      "excerpt": "영철은 현숙이를 좋아하는게 아니라",
+      "author": "00",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634804&page=1#cmt_10980770",
+      "postedLabel": "10.29 11:44:29",
+      "postedAt": "2026-10-29T11:44:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:45:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90703,
+      "source": "dc",
+      "externalId": "6634817",
+      "title": "정숙은 그 말 하고나서 자괴감 개쩔었을 것 같음...",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634817&page=1",
+      "postedLabel": "11:44",
+      "postedAt": "2026-10-29T11:44:39+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:45:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90704,
+      "source": "blind",
+      "externalId": "cmt-458824393",
+      "title": "페페 닮음",
+      "excerpt": "34상철이가",
+      "author": "|********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%83%81%EC%B2%A0%EC%9D%B4%EA%B0%80-pokx3v17#458824393",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:44:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:45:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -610370,7 +610449,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T11:41:43+09:00"
+      "slowAt": "2026-10-29T11:44:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -616905,6 +616984,7 @@
         "6634532",
         "6634540",
         "6634542",
+        "6634544",
         "6634550",
         "6634551",
         "6634604",
@@ -616965,7 +617045,10 @@
         "6634789",
         "6634790",
         "6634796",
-        "6634801"
+        "6634800",
+        "6634801",
+        "6634804",
+        "6634809"
       ]
     },
     "blind": {
