@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T07:39:53+00:00",
+  "updatedAt": "2026-10-29T07:41:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -626893,6 +626893,44 @@
       "firstSeenAt": "2026-10-29T07:39:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91544,
+      "source": "qoo",
+      "externalId": "4389892744",
+      "title": "현숙은 글고 카페 얘기보면 서로 갓생살면서 잔잔한 연애 바라는것같던데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389892744",
+      "postedLabel": "16:41",
+      "postedAt": "2026-10-29T16:41:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T07:41:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91545,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B1%85-%EB%A7%88%EB%8B%88-%EC%9D%BD%EC%9C%BC%EB%A9%B4-%EB%AD%90%ED%95%98%EB%82%98-hxrygrcz",
+      "title": "책 마니 읽으면 뭐하나",
+      "excerpt": "불소불위 😑",
+      "author": "l*********",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B1%85-%EB%A7%88%EB%8B%88-%EC%9D%BD%EC%9C%BC%EB%A9%B4-%EB%AD%90%ED%95%98%EB%82%98-hxrygrcz",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T16:41:36+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T07:41:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -634069,7 +634107,8 @@
         "6636025",
         "6636027",
         "6636029",
-        "6636033"
+        "6636033",
+        "6636035"
       ]
     },
     "blind": {
@@ -642658,7 +642697,8 @@
         "4389829657",
         "4389831816",
         "4389841165",
-        "4389881770"
+        "4389881770",
+        "4389892744"
       ]
     },
     "keep": "v2",
