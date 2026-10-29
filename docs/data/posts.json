@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:26:11+00:00",
+  "updatedAt": "2026-10-29T14:27:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -649015,6 +649015,85 @@
       "firstSeenAt": "2026-10-29T14:26:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92666,
+      "source": "qoo",
+      "externalId": "cmt-4390218540",
+      "title": "ㅋㅋㅋㅋ존잼",
+      "excerpt": "어제꺼 너무 재밌어서 3번째 보는중 ㅋㅋㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390183740#4390218540",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T22:25:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:27:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92667,
+      "source": "qoo",
+      "externalId": "cmt-4390219633",
+      "title": "이목구비 진해서 ㅋㅋㅋ 난 유엔 최정원 생각나더라 길거리 나가면 이정도 얼굴도 없긴햐ㅠㅠㅠ",
+      "excerpt": "근데 영자보고 진짜 열굴 많이 보나보다 할 정도의 외몬가? 영철이?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390211414#4390219633",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T22:26:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:27:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92668,
+      "source": "dc",
+      "externalId": "cmt-10983049",
+      "title": "외모로 걸러지는거 안나와서 속이 다 시원한가봐?",
+      "excerpt": "프로그램에 한녀 좀 없다고 바로 힐링물되는거 보소 ㅋㅋㅋ",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6637865&page=1#cmt_10983049",
+      "postedLabel": "10.29 23:26:11",
+      "postedAt": "2026-10-29T23:26:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:27:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92669,
+      "source": "dc",
+      "externalId": "6637896",
+      "title": "도태남 얘기한놈",
+      "excerpt": "",
+      "author": "홀스킹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6637896&page=1",
+      "postedLabel": "23:26",
+      "postedAt": "2026-10-29T23:26:23+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:27:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -649104,7 +649183,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T23:23:55+09:00"
+      "slowAt": "2026-10-29T23:26:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -656564,7 +656643,10 @@
         "6637818",
         "6637825",
         "6637828",
-        "6637856"
+        "6637856",
+        "6637865",
+        "6637881",
+        "6637889"
       ]
     },
     "blind": {
