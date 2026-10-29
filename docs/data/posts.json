@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-28T23:59:28+00:00",
+  "updatedAt": "2026-10-29T00:00:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -601326,6 +601326,85 @@
       "firstSeenAt": "2026-10-28T23:59:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90250,
+      "source": "blind",
+      "externalId": "cmt-458804869",
+      "title": "불소불위",
+      "excerpt": "영철이 60권 독서로 까지 말라던 애들",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-60%EA%B6%8C-%EB%8F%85%EC%84%9C%EB%A1%9C-%EA%B9%8C%EC%A7%80-%EB%A7%90%EB%9D%BC%EB%8D%98-%EC%95%A0%EB%93%A4-ltddp7y1#458804869",
+      "postedLabel": "21분",
+      "postedAt": "2026-10-29T08:39:12+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:00:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90251,
+      "source": "blind",
+      "externalId": "cmt-458805775",
+      "title": "치약인줄 ㅋㅋ",
+      "excerpt": "영철이 60권 독서로 까지 말라던 애들",
+      "author": "i*********",
+      "company": "대홍기획",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-60%EA%B6%8C-%EB%8F%85%EC%84%9C%EB%A1%9C-%EA%B9%8C%EC%A7%80-%EB%A7%90%EB%9D%BC%EB%8D%98-%EC%95%A0%EB%93%A4-ltddp7y1#458805775",
+      "postedLabel": "12분",
+      "postedAt": "2026-10-29T08:48:12+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:00:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90252,
+      "source": "dc",
+      "externalId": "6634079",
+      "title": "영철이가 이해가 간다",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634079&page=1",
+      "postedLabel": "08:59",
+      "postedAt": "2026-10-29T08:59:21+09:00",
+      "views": 27,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:00:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90253,
+      "source": "blind",
+      "externalId": "cmt-458806945",
+      "title": "충청도가 제일 음흉하다니까",
+      "excerpt": "상철 옥순 데이트 때 상철 왤케 꺼드럭거려?",
+      "author": "l********* 작성자",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%98%A5%EC%88%9C-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%95%8C-%EC%83%81%EC%B2%A0-%EC%99%A4%EC%BC%80-%EA%BA%BC%EB%93%9C%EB%9F%AD%EA%B1%B0%EB%A0%A4-gu024685#458806945",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:00:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:00:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -601415,7 +601494,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T08:57:12+09:00"
+      "slowAt": "2026-10-29T09:00:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -607810,6 +607889,7 @@
         "6633896",
         "6633903",
         "6633909",
+        "6633912",
         "6633918",
         "6633921",
         "6633924",
@@ -607841,7 +607921,9 @@
         "6634051",
         "6634055",
         "6634056",
-        "6634062"
+        "6634062",
+        "6634065",
+        "6634076"
       ]
     },
     "blind": {
