@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:23:00+00:00",
+  "updatedAt": "2026-10-29T02:24:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -608571,6 +608571,46 @@
       "firstSeenAt": "2026-10-29T02:23:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90617,
+      "source": "blind",
+      "externalId": "cmt-458815689",
+      "title": "직장생활가능하겠어? ㅋㅋ 오히려 방송편집됨",
+      "excerpt": "영철 기사회생방법 생각남",
+      "author": "n****",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B8%B0%EC%82%AC%ED%9A%8C%EC%83%9D%EB%B0%A9%EB%B2%95-%EC%83%9D%EA%B0%81%EB%82%A8-uzw2k33f#458815689",
+      "postedLabel": "56분",
+      "postedAt": "2026-10-29T10:27:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:24:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90618,
+      "source": "blind",
+      "externalId": "cmt-458822244",
+      "title": "영숙을 기대했는데 ㅋㅋㅋㅋ 영철에 묻히는구나",
+      "excerpt": "영철",
+      "author": "n****",
+      "company": "SK브로드밴드",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-5yjkgc0l#458822244",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:23:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:24:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -608710,7 +608750,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T11:20:43+09:00"
+      "slowAt": "2026-10-29T11:23:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -615213,6 +615253,7 @@
         "6634435",
         "6634436",
         "6634438",
+        "6634439",
         "6634443",
         "6634453",
         "6634456",
@@ -615272,7 +615313,8 @@
         "6634705",
         "6634707",
         "6634709",
-        "6634713"
+        "6634713",
+        "6634716"
       ]
     },
     "blind": {
