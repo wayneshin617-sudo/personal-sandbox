@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T23:43:59+00:00",
+  "updatedAt": "2026-10-29T23:48:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -658690,6 +658690,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T23:43:59+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93156,
+      "source": "blind",
+      "externalId": "cmt-458940306",
+      "title": "눈빛이 부담스러..",
+      "excerpt": "작업거는 헌포남 영철",
+      "author": "아**",
+      "company": "현대건설",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%91%EC%97%85%EA%B1%B0%EB%8A%94-%ED%97%8C%ED%8F%AC%EB%82%A8-%EC%98%81%EC%B2%A0-vkxktu5p#458940306",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-30T06:47:42+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93157,
+      "source": "qoo",
+      "externalId": "cmt-4390423490",
+      "title": "내취향은 아니지만 얼굴만 보면 반반한건 맞는데 제목은 그만큼 ㅈㄴ잘생겨서라기보단 덬말대로 성격이나 다른게 별로같은데도 얼굴땜에 계속 좋다고 하니 나오는말아님? 얼빠라 다른거 흐린눈한다 얼굴하나만본다 이말",
+      "excerpt": "근데 영자보고 진짜 열굴 많이 보나보다 할 정도의 외몬가? 영철이?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390211414#4390423490",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T07:47:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658781,7 +658821,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T08:44:41+09:00"
+      "slowAt": "2026-10-30T08:47:42+09:00"
     },
     "ig": {
       "doneIds": [
@@ -666431,7 +666471,8 @@
         "6638898",
         "6638900",
         "6638903",
-        "6638922"
+        "6638922",
+        "6638923"
       ]
     },
     "blind": {
