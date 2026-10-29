@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:25:07+00:00",
+  "updatedAt": "2026-10-29T08:27:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -628480,6 +628480,26 @@
       "firstSeenAt": "2026-10-29T08:25:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91624,
+      "source": "qoo",
+      "externalId": "cmt-4389881302",
+      "title": "@3 ㅋㅌㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영철 라방 나올까..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389831816#4389881302",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T16:26:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:27:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -628620,7 +628640,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T17:23:50+09:00"
+      "slowAt": "2026-10-29T17:26:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -635688,7 +635708,8 @@
         "6636154",
         "6636158",
         "6636162",
-        "6636166"
+        "6636166",
+        "6636170"
       ]
     },
     "blind": {
