@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:25:30+00:00",
+  "updatedAt": "2026-10-29T12:27:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -640135,6 +640135,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T12:25:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92214,
+      "source": "blind",
+      "externalId": "cmt-458895547",
+      "title": "난 영호가좋더라 영철이 ㅠ 여자 많이 다뤄봤을 것 같은 느낌",
+      "excerpt": "영철 ㅈㄴ느끼하다",
+      "author": "나*******",
+      "company": "중앙대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%E3%85%88%E3%84%B4%EB%8A%90%EB%81%BC%ED%95%98%EB%8B%A4-5ekpgymo#458895547",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:27:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:27:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -640224,7 +640244,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T21:24:11+09:00"
+      "slowAt": "2026-10-29T21:27:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -647570,7 +647590,9 @@
         "6636862",
         "6636864",
         "6636867",
-        "6636874"
+        "6636874",
+        "6636879",
+        "6636880"
       ]
     },
     "blind": {
