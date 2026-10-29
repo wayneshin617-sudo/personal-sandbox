@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:14:30+00:00",
+  "updatedAt": "2026-10-29T00:15:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -601858,6 +601858,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T00:14:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90277,
+      "source": "dc",
+      "externalId": "6634154",
+      "title": "영철이 이해가는 애들 없니 ?",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634154&page=1",
+      "postedLabel": "09:14",
+      "postedAt": "2026-10-29T09:14:56+09:00",
+      "views": 5,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:15:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90278,
+      "source": "blind",
+      "externalId": "cmt-458808461",
+      "title": "전혀..영철은 좀 빈티나게 생김",
+      "excerpt": "성격말고 외모만으로보면",
+      "author": "d******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%B1%EA%B2%A9%EB%A7%90%EA%B3%A0-%EC%99%B8%EB%AA%A8%EB%A7%8C%EC%9C%BC%EB%A1%9C%EB%B3%B4%EB%A9%B4-7zv3u6bs#458808461",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:15:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:15:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -601947,7 +601986,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T09:12:12+09:00"
+      "slowAt": "2026-10-29T09:15:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -608391,7 +608430,9 @@
         "6634122",
         "6634127",
         "6634139",
-        "6634140"
+        "6634140",
+        "6634142",
+        "6634143"
       ]
     },
     "blind": {
