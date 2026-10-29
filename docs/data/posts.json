@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:08:30+00:00",
+  "updatedAt": "2026-10-29T00:09:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -601623,6 +601623,45 @@
       "firstSeenAt": "2026-10-29T00:08:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90265,
+      "source": "qoo",
+      "externalId": "4389530138",
+      "title": "상철도 키큰편이구나",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389530138",
+      "postedLabel": "09:08",
+      "postedAt": "2026-10-29T09:08:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:09:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90266,
+      "source": "blind",
+      "externalId": "cmt-458807875",
+      "title": "힘주는게 아니라 짝눈이라 그렇게보이는걸걸 나도 저래",
+      "excerpt": "성격말고 외모만으로보면",
+      "author": "i**** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%B1%EA%B2%A9%EB%A7%90%EA%B3%A0-%EC%99%B8%EB%AA%A8%EB%A7%8C%EC%9C%BC%EB%A1%9C%EB%B3%B4%EB%A9%B4-7zv3u6bs#458807875",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:09:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:09:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -601712,7 +601751,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T09:06:12+09:00"
+      "slowAt": "2026-10-29T09:09:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -616525,7 +616564,8 @@
         "4389493990",
         "4389504997",
         "4389511210",
-        "4389523838"
+        "4389523838",
+        "4389530138"
       ]
     },
     "keep": "v2",
