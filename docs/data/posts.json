@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:55:13+00:00",
+  "updatedAt": "2026-10-29T14:56:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -651570,6 +651570,26 @@
       "firstSeenAt": "2026-10-29T14:55:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92796,
+      "source": "blind",
+      "externalId": "cmt-458919264",
+      "title": "오랑우탄",
+      "excerpt": "잘생긴 34영철 욕하지마",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-34%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EC%A7%80%EB%A7%88-tzcscpnu#458919264",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:55:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:56:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -651711,7 +651731,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-29T23:52:55+09:00"
+      "slowAt": "2026-10-29T23:55:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -659159,7 +659179,8 @@
         "6638303",
         "6638315",
         "6638316",
-        "6638323"
+        "6638323",
+        "6638333"
       ]
     },
     "blind": {
