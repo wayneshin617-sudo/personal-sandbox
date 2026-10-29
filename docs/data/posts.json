@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:11:02+00:00",
+  "updatedAt": "2026-10-29T04:12:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -614919,6 +614919,64 @@
       "firstSeenAt": "2026-10-29T04:11:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90939,
+      "source": "qoo",
+      "externalId": "cmt-4389673103",
+      "title": "성격이 그래서 나솔 나온게 아니라 이미 사전 인텁에서도 연애 많이 해봤다고 함 ㅇㅇ 걍 이쁜 여자들이나 어느정도 자기랑 비슷한 스펙 안에서는 만난거 같은데 자기 현실보다 더 상위레벨로 올라가고 싶은 욕망이 큰거야 여자 본인이 걍 공부 잘해서 좋은 직업만 가진 정도 말고...(한의사가 얼빠라 그렇게 대놓고 매달리는데도 만족 못하자나 뭐 한의사의 배경이나 이런건 알 수 없지만) 그 몇 개의 포인트로 추측하는 현숙의 살아온 환경 자체가 중상층 이상의 집안 이런거 같으니까 욕심나서 이성을 잃은거",
+      "excerpt": "영철은 성격때문에 다 말아먹음 안타깝기도 함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389663803#4389673103",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T12:11:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:12:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90940,
+      "source": "qoo",
+      "externalId": "4389717456",
+      "title": "영숙영수 웃기다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389717456",
+      "postedLabel": "13:11",
+      "postedAt": "2026-10-29T13:11:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:12:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90941,
+      "source": "dc",
+      "externalId": "6635221",
+      "title": "그 분홍색 나는솔로맥주 조사해야함",
+      "excerpt": "",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635221&page=1",
+      "postedLabel": "13:11",
+      "postedAt": "2026-10-29T13:11:25+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:12:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -615058,7 +615116,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T13:08:46+09:00"
+      "slowAt": "2026-10-29T13:11:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -621778,7 +621836,9 @@
         "6635197",
         "6635200",
         "6635203",
-        "6635206"
+        "6635206",
+        "6635216",
+        "6635219"
       ]
     },
     "blind": {
@@ -630269,7 +630329,8 @@
         "4389706361",
         "4389710632",
         "4389712132",
-        "4389713341"
+        "4389713341",
+        "4389717456"
       ]
     },
     "keep": "v2",
