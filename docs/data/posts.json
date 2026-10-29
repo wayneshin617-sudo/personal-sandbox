@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T01:15:28+00:00",
+  "updatedAt": "2026-10-29T01:16:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -605159,6 +605159,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T01:15:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90444,
+      "source": "blind",
+      "externalId": "cmt-458812146",
+      "title": "그거난데...... 와꾸바리가 박살나서 안됨..ㅠㅠ",
+      "excerpt": "영철이 절대 상향혼 못하는 이유",
+      "author": "1*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%83%81%ED%96%A5%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-1m600nfv#458812146",
+      "postedLabel": "25분",
+      "postedAt": "2026-10-29T09:51:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:16:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90445,
+      "source": "dc",
+      "externalId": "6634400",
+      "title": "영수님은, 나의 군대.의 선임.을 닮으셨음..",
+      "excerpt": "",
+      "author": "예쁘고1이쁘고2귀엽고3사랑스러워",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634400&page=1",
+      "postedLabel": "10:15",
+      "postedAt": "2026-10-29T10:15:20+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:16:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611768,7 +611807,8 @@
         "6634374",
         "6634375",
         "6634376",
-        "6634387"
+        "6634387",
+        "6634394"
       ]
     },
     "blind": {
