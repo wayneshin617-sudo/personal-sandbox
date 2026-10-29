@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:22:30+00:00",
+  "updatedAt": "2026-10-29T12:23:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -640037,6 +640037,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T12:22:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92209,
+      "source": "blind",
+      "externalId": "cmt-458895014",
+      "title": "진짜 나이만 먹었어..",
+      "excerpt": "영숙은 단어 선택들이 다",
+      "author": "l********",
+      "company": "트리니티항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EB%8B%A8%EC%96%B4-%EC%84%A0%ED%83%9D%EB%93%A4%EC%9D%B4-%EB%8B%A4-ydgfd42s#458895014",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:23:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:23:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -640177,7 +640197,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T21:20:12+09:00"
+      "slowAt": "2026-10-29T21:23:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -647469,7 +647489,9 @@
         "6636851",
         "6636853",
         "6636856",
-        "6636862"
+        "6636862",
+        "6636864",
+        "6636867"
       ]
     },
     "blind": {
@@ -648934,6 +648956,7 @@
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%9A%B4-%EC%A2%8B%EC%9C%BC%EB%A9%B4-%EC%88%9C%EC%A7%84%ED%95%9C-%EC%A1%B4%EC%98%88%EB%85%80-%EB%8D%B0%EB%A0%A4%EA%B0%90-qxxva1a5",
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%B0%9C%EC%A7%88%ED%88%AC%ED%95%98%EB%84%A4%E3%85%8B%E3%85%8B-qpju8sri",
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%B2%80%EC%A0%95%EA%B3%A0%EB%AC%B4%EC%8B%A0-%EB%8B%AE%EC%9D%8C-dtqrts6r",
+        "/kr/post/%EC%83%81%EC%B2%A0-%EA%B3%A0%EC%A1%B8%EC%9D%B4%EC%A7%80-22y0drj1",
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-%EC%99%9C-%EC%9A%95%EB%A8%B9%EB%8A%94%EA%B2%A8-%E3%85%8B%E3%85%8B%E3%85%8B-obnxv1uf",
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%A7%80-%EC%95%8A%EC%95%84-cph4hey6",
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%B7%B8-%ED%83%80%EC%A7%9C-%EC%B4%88%EB%B0%98%EC%97%90-%EA%B3%A0%EB%8B%88%ED%95%9C%ED%85%8C-%ED%8C%90-%ED%82%A4%EC%9B%8C%EB%8B%AC%EB%9D%BC-%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%8B%AE%EC%9D%8C-x0p2be38",
