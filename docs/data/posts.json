@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:16:08+00:00",
+  "updatedAt": "2026-10-29T08:17:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -627804,6 +627804,26 @@
       "firstSeenAt": "2026-10-29T08:16:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91590,
+      "source": "dc",
+      "externalId": "cmt-10982066",
+      "title": "어흐~",
+      "excerpt": "친구지킴이 수진이 그자체",
+      "author": "김러너",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636139&page=1#cmt_10982066",
+      "postedLabel": "10.29 17:16:42",
+      "postedAt": "2026-10-29T17:16:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:17:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -635003,7 +635023,8 @@
         "6636116",
         "6636123",
         "6636128",
-        "6636135"
+        "6636135",
+        "6636139"
       ]
     },
     "blind": {
