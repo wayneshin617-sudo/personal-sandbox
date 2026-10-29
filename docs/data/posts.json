@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T13:34:31+00:00",
+  "updatedAt": "2026-10-29T13:35:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -644656,6 +644656,84 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T13:34:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92443,
+      "source": "qoo",
+      "externalId": "cmt-4390158857",
+      "title": "쉬쌀래 / 턱주가리 / 엄마아빠 같은 분 맞냐 등등",
+      "excerpt": "영숙 언어선택이 되게 저렴하네..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390157548#4390158857",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T21:34:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T13:35:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92444,
+      "source": "dc",
+      "externalId": "cmt-10982824",
+      "title": "둘다 불가",
+      "excerpt": "34영숙 결혼할 확률 vs 9옥순 결혼할 확률",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636903&page=4#cmt_10982824",
+      "postedLabel": "10.29 21:38:43",
+      "postedAt": "2026-10-29T21:38:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T13:35:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92445,
+      "source": "qoo",
+      "externalId": "4390229446",
+      "title": "여기도 타투얘기하네ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4390229446",
+      "postedLabel": "22:34",
+      "postedAt": "2026-10-29T22:34:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T13:35:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92446,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%B4-%ED%97%88%EC%9A%B0%EB%8C%80-%EB%A9%80%EC%A9%A1%ED%95%98%EA%B3%A0-%EC%97%B0%EC%95%A0-%EB%A7%8E%EC%9D%B4%ED%95%B4-%EB%B4%A4%EC%9D%84%EA%BA%BC-%EA%B0%99%EC%9D%80-k2dpf57e",
+      "title": "근데 영철같이 허우대 멀쩡하고 연애 많이해 봤을꺼 같은",
+      "excerpt": "남자가 사람들앞에서 좋아서 떠벌리거나 현숙공용거실 왔을때 부담스러워 영철 근처에도 안오는거 보면서 어쩔줄 몰라하는 왜 저렇게 모쏠같은 행동을 하는거지??!",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%B4-%ED%97%88%EC%9A%B0%EB%8C%80-%EB%A9%80%EC%A9%A1%ED%95%98%EA%B3%A0-%EC%97%B0%EC%95%A0-%EB%A7%8E%EC%9D%B4%ED%95%B4-%EB%B4%A4%EC%9D%84%EA%BA%BC-%EA%B0%99%EC%9D%80-k2dpf57e",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T22:35:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T13:35:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -644796,7 +644874,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T22:32:12+09:00"
+      "slowAt": "2026-10-29T22:35:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -652149,7 +652227,8 @@
         "6637045",
         "6637059",
         "6637062",
-        "6637064"
+        "6637064",
+        "6637074"
       ]
     },
     "blind": {
@@ -656210,6 +656289,7 @@
         "/kr/post/%EC%A0%95%EC%9C%A1%EA%B0%81%ED%98%95-%EC%83%81%EC%B2%A0%EC%97%90%EC%84%9C-%EB%B3%B4%ED%97%98%EC%99%95-%EC%98%81%EC%88%98-%E3%84%B7%E3%84%B7-34i456jr",
         "/kr/post/%EC%A0%95%ED%98%9C%EC%84%B1-%EC%97%AD%EB%8C%80%EA%B8%89-%EB%AF%B8%EB%AA%A8%E3%84%B7%E3%84%B7-lzlsp5ft",
         "/kr/post/%EC%A0%95%ED%98%9C%EC%84%B1-%EC%98%A4%EB%8A%98-%EC%9D%B4%EC%81%98%EB%84%A4-lz20nbh2",
+        "/kr/post/%EC%A0%95%ED%98%9C%EC%84%B1-%EC%9E%90%EC%84%B8-%EA%B0%9C%ED%85%8C%ED%86%A0-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-gjsipvyj",
         "/kr/post/%EC%A0%9C%EA%B0%80%EC%95%84%EB%8A%94-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94%EC%9A%94-0f0npnsk",
         "/kr/post/%EC%A0%9C%EB%B0%9C-%EC%97%AC%EC%B6%9C%EB%93%A4%EB%81%BC%EB%A6%AC%EB%A7%8C-0zatafbn",
         "/kr/post/%EC%A0%9C%EB%B0%9C-%EC%9E%90%EA%B8%B0-%EC%86%8C%EA%B0%9C-%EC%A2%80-%ED%95%B4%EB%9D%BC-60t1mbxu",
@@ -660928,7 +661008,8 @@
         "4390183740",
         "4390196411",
         "4390202877",
-        "4390211414"
+        "4390211414",
+        "4390229446"
       ]
     },
     "keep": "v2",
