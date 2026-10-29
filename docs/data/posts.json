@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:48:11+00:00",
+  "updatedAt": "2026-10-29T14:49:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -651314,6 +651314,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T14:48:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92783,
+      "source": "dc",
+      "externalId": "6638296",
+      "title": "광수 피부 까맣고 쌍꺼풀 있어서 인기있는듯",
+      "excerpt": "",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638296&page=1",
+      "postedLabel": "23:47",
+      "postedAt": "2026-10-29T23:47:58+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:49:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92784,
+      "source": "dc",
+      "externalId": "cmt-10983109",
+      "title": "빨게없어서 라오스 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "21살 네일샵 라오스녀 ㅁㅌㅊ",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638287&page=1#cmt_10983109",
+      "postedLabel": "10.29 23:48:45",
+      "postedAt": "2026-10-29T23:48:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:49:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658898,7 +658937,8 @@
         "6638271",
         "6638274",
         "6638283",
-        "6638286"
+        "6638286",
+        "6638287"
       ]
     },
     "blind": {
