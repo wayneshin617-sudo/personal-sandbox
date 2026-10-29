@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:20:32+00:00",
+  "updatedAt": "2026-10-29T12:21:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -639719,6 +639719,65 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T12:20:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92193,
+      "source": "qoo",
+      "externalId": "cmt-4390076146",
+      "title": "그냥 듣기만 했다",
+      "excerpt": "영철이 동생한테 코치 같은거 받고 나왔다 하지않았나?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389996874#4390076146",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T20:21:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:21:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92194,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EB%8B%A8%EC%96%B4-%EC%84%A0%ED%83%9D%EB%93%A4%EC%9D%B4-%EB%8B%A4-ydgfd42s",
+      "title": "영숙은 단어 선택들이 다",
+      "excerpt": "교양도 품위도 찾을수가 없네 ㅅ마려, 꼬라보냐, 노리개, 첫 빠따 주변에서 보지 못한 범주의 사람이야",
+      "author": "i*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EB%8B%A8%EC%96%B4-%EC%84%A0%ED%83%9D%EB%93%A4%EC%9D%B4-%EB%8B%A4-ydgfd42s",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:21:12+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T12:21:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92195,
+      "source": "blind",
+      "externalId": "cmt-458894652",
+      "title": "이건 또 뭐요?",
+      "excerpt": "대신 복수해 줄래요?",
+      "author": "o*****",
+      "company": "한국팜비오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8C%80%EC%8B%A0-%EB%B3%B5%EC%88%98%ED%95%B4-%EC%A4%84%EB%9E%98%EC%9A%94-ngmox0hs#458894652",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:21:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:21:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -639808,7 +639867,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T21:18:11+09:00"
+      "slowAt": "2026-10-29T21:21:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -647108,6 +647167,7 @@
         "6636683",
         "6636687",
         "6636689",
+        "6636691",
         "6636694",
         "6636702",
         "6636706",
@@ -647148,7 +647208,8 @@
         "6636841",
         "6636844",
         "6636851",
-        "6636853"
+        "6636853",
+        "6636856"
       ]
     },
     "blind": {
@@ -648042,6 +648103,7 @@
         "/kr/post/%EB%94%94%EC%A6%88%EB%8B%88-%EC%95%A0%EB%8B%88-%EC%9D%B4%EA%B1%B0%EC%83%9D%EA%B0%81%EB%82%9C%EB%8B%A4-3xaooi7u",
         "/kr/post/%EB%94%A9%ED%95%98-mtguq0iq",
         "/kr/post/%EB%94%B1-%EB%94%B1-bevkegyy",
+        "/kr/post/%EB%94%B1-%EC%A0%95%EB%A6%AC%ED%95%9C%EB%8B%A4-acykdi77",
         "/kr/post/%EB%94%B4%EA%B1%B4%EB%AA%A8%EB%A5%B4%EA%B2%A0%EA%B3%A0-%EC%A0%80%EB%9F%B0%ED%8C%80%EC%9E%A5-%EB%B0%91%EC%97%90-%EC%9E%88%EC%9D%84-%ED%8C%80%EC%9B%90%EB%93%A4-%EA%B0%9C%EB%B6%88%EC%8C%8D%ED%95%98%EB%8B%A4-s1h1wg8j",
         "/kr/post/%EB%98%90%EA%B0%80%EC%8A%A4-%EB%98%90%EB%98%90%EA%B0%80%EC%8A%A4-5zwf2gtx",
         "/kr/post/%EB%98%A5%EB%A7%88%EB%A0%A4%EB%8A%94-%EC%95%88%ED%95%98%EB%83%90-4pkgfmtn",
