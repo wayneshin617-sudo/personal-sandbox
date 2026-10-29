@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T23:51:00+00:00",
+  "updatedAt": "2026-10-29T23:51:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -658829,6 +658829,106 @@
       "firstSeenAt": "2026-10-29T23:51:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93163,
+      "source": "qoo",
+      "externalId": "cmt-4390424669",
+      "title": "영철 외모로 얘기할거면 영자 외모도 봐야지",
+      "excerpt": "근데 영자보고 진짜 열굴 많이 보나보다 할 정도의 외몬가? 영철이?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390211414#4390424669",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T07:51:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:51:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93164,
+      "source": "qoo",
+      "externalId": "cmt-4390424916",
+      "title": "존잘이런건 모르겠음.. 그냥 영자 취향인가봐",
+      "excerpt": "근데 영자보고 진짜 열굴 많이 보나보다 할 정도의 외몬가? 영철이?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390211414#4390424916",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T07:51:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:51:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93165,
+      "source": "blind",
+      "externalId": "cmt-458948630",
+      "title": "꼬시면 월북하는 소리하고 자빠졌네",
+      "excerpt": "투표글 꼬시면 넘어간다? 투표",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%BC%AC%EC%8B%9C%EB%A9%B4-%EB%84%98%EC%96%B4%EA%B0%84%EB%8B%A4-3mcjkgr7#458948630",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T08:51:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:51:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93166,
+      "source": "blind",
+      "externalId": "cmt-458948643",
+      "title": "왜 무섭지",
+      "excerpt": "투표글 꼬시면 넘어간다? 투표",
+      "author": "d******",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%BC%AC%EC%8B%9C%EB%A9%B4-%EB%84%98%EC%96%B4%EA%B0%84%EB%8B%A4-3mcjkgr7#458948643",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T08:51:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:51:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93167,
+      "source": "blind",
+      "externalId": "cmt-458948741",
+      "title": "한의사면 넘어간다",
+      "excerpt": "투표글 꼬시면 넘어간다? 투표",
+      "author": ",********",
+      "company": "SK쉴더스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%BC%AC%EC%8B%9C%EB%A9%B4-%EB%84%98%EC%96%B4%EA%B0%84%EB%8B%A4-3mcjkgr7#458948741",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T08:51:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:51:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658975,7 +659075,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T08:48:41+09:00"
+      "slowAt": "2026-10-30T08:51:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -666572,7 +666672,8 @@
         "6638900",
         "6638903",
         "6638922",
-        "6638923"
+        "6638923",
+        "6638928"
       ]
     },
     "blind": {
