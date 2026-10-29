@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T01:17:30+00:00",
+  "updatedAt": "2026-10-29T01:19:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -605318,6 +605318,84 @@
       "firstSeenAt": "2026-10-29T01:17:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90452,
+      "source": "qoo",
+      "externalId": "cmt-4389537141",
+      "title": "존멋이야",
+      "excerpt": "하~ 정숙 개사이다다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389460155#4389537141",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T09:18:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:19:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90453,
+      "source": "blind",
+      "externalId": "cmt-458813833",
+      "title": "나도 이 생각함.. 사람 감정을 자기 필요에 의한 도구로 생각하는 놈.. 그동안 짜치는 행동은 그럴 수 있다 봤는데 저런 생각하는 자체가 어떤 사람인지 보이더라..",
+      "excerpt": "어제 방송보고 영자",
+      "author": "새*****",
+      "company": "방사선사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EB%B0%A9%EC%86%A1%EB%B3%B4%EA%B3%A0-%EC%98%81%EC%9E%90-288zqhlu#458813833",
+      "postedLabel": "10분",
+      "postedAt": "2026-10-29T10:09:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:19:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90454,
+      "source": "dc",
+      "externalId": "6634414",
+      "title": "나중에 현숙 운다며",
+      "excerpt": "",
+      "author": "띠용",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634414&page=1",
+      "postedLabel": "10:18",
+      "postedAt": "2026-10-29T10:18:19+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:19:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90455,
+      "source": "dc",
+      "externalId": "6634419",
+      "title": "테슬라·스페이스X '27년 합병 시나리오와 양도세",
+      "excerpt": "",
+      "author": "JJUE",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634419&page=1",
+      "postedLabel": "10:19",
+      "postedAt": "2026-10-29T10:19:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T01:19:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611932,7 +612010,8 @@
         "6634387",
         "6634394",
         "6634397",
-        "6634401"
+        "6634401",
+        "6634411"
       ]
     },
     "blind": {
