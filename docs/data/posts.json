@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:46:02+00:00",
+  "updatedAt": "2026-10-29T03:47:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -613202,6 +613202,46 @@
       "firstSeenAt": "2026-10-29T03:46:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90852,
+      "source": "qoo",
+      "externalId": "cmt-4389655767",
+      "title": "영식 진국인거같애",
+      "excerpt": "영식은 눈높아서 지금까지 결혼안한듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389653543#4389655767",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T11:46:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:47:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90853,
+      "source": "blind",
+      "externalId": "cmt-458830696",
+      "title": "전기먹은 머리하고 직장생활하는게 신기",
+      "excerpt": "정숙 파마머리",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%ED%8C%8C%EB%A7%88%EB%A8%B8%EB%A6%AC-7bplervd#458830696",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:46:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:47:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -619963,6 +620003,7 @@
         "6634818",
         "6634822",
         "6634825",
+        "6634827",
         "6634829",
         "6634831",
         "6634832",
@@ -620026,7 +620067,8 @@
         "6635066",
         "6635069",
         "6635087",
-        "6635101"
+        "6635101",
+        "6635107"
       ]
     },
     "blind": {
