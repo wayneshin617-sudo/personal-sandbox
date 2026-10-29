@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:44:30+00:00",
+  "updatedAt": "2026-10-29T00:45:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -603557,6 +603557,64 @@
       "firstSeenAt": "2026-10-29T00:44:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90363,
+      "source": "blind",
+      "externalId": "cmt-458800247",
+      "title": "말투가 너무 직설적이고 배려 교양이 약간 부족 에고가 있어 보임. 막상 결혼하고 맨날 부대끼면 쉽지않을거여",
+      "excerpt": "상철 괜찮지 않아?",
+      "author": "i********",
+      "company": "금융감독원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%A7%80-%EC%95%8A%EC%95%84-cph4hey6#458800247",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-29T07:45:06+09:00",
+      "views": null,
+      "recommends": 12,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:45:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90364,
+      "source": "dc",
+      "externalId": "6634288",
+      "title": "남자 서열 없다는남자 특",
+      "excerpt": "",
+      "author": "욞",
+      "company": "",
+      "ip": "222.108",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634288&page=1",
+      "postedLabel": "09:44",
+      "postedAt": "2026-10-29T09:44:29+09:00",
+      "views": 17,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:45:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90365,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-tg2t6fsr",
+      "title": "영철은",
+      "excerpt": "상향혼 하려면 영자뿐이 없을거 같은대 ㅠ 왜 현숙한테 올인이야 😵",
+      "author": "****",
+      "company": "한국자산관리공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-tg2t6fsr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:45:11+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T00:45:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -603646,7 +603704,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T09:42:12+09:00"
+      "slowAt": "2026-10-29T09:45:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -610127,7 +610185,8 @@
         "6634261",
         "6634268",
         "6634270",
-        "6634272"
+        "6634272",
+        "6634285"
       ]
     },
     "blind": {
