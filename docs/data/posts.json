@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:01:08+00:00",
+  "updatedAt": "2026-10-29T08:02:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -627429,6 +627429,45 @@
       "firstSeenAt": "2026-10-29T08:01:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91571,
+      "source": "blind",
+      "externalId": "cmt-458857972",
+      "title": "열등감 개짜침 ㅋ",
+      "excerpt": "근데 영철 현숙이 멀미할 때",
+      "author": "l*******",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99%EC%9D%B4-%EB%A9%80%EB%AF%B8%ED%95%A0-%EB%95%8C-pldlea7f#458857972",
+      "postedLabel": "30분",
+      "postedAt": "2026-10-29T16:31:48+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:02:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91572,
+      "source": "dc",
+      "externalId": "6636104",
+      "title": "영철은 가난하게 자란게 보인다",
+      "excerpt": "",
+      "author": "조까",
+      "company": "",
+      "ip": "223.33",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636104&page=1",
+      "postedLabel": "17:01",
+      "postedAt": "2026-10-29T17:01:38+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:02:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -634618,7 +634657,8 @@
         "6636087",
         "6636088",
         "6636098",
-        "6636099"
+        "6636099",
+        "6636103"
       ]
     },
     "blind": {
