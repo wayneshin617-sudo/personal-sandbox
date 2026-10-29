@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:37:30+00:00",
+  "updatedAt": "2026-10-29T00:38:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -603182,6 +603182,44 @@
       "firstSeenAt": "2026-10-29T00:37:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90344,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B4%91%EC%88%98-%EB%B0%B1%ED%8D%BC-%EB%AA%A8%EC%8F%A0%EC%9D%B4%EB%8B%A4-3bh06w1w",
+      "title": "34광수 백퍼 모쏠이다",
+      "excerpt": "모쏠의 기운이 넘친다 “제가 노력하면 순자님의 관심의 대상이 될 수 있을까요?” 으~모쏠 냄새!",
+      "author": "l*********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B4%91%EC%88%98-%EB%B0%B1%ED%8D%BC-%EB%AA%A8%EC%8F%A0%EC%9D%B4%EB%8B%A4-3bh06w1w",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:38:11+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T00:38:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90345,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%98%88%EC%9D%B8-j3srpje7",
+      "title": "34영호 닮은 연예인",
+      "excerpt": "가수 김재환",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%98%88%EC%9D%B8-j3srpje7",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:38:12+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T00:38:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -603321,7 +603359,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T09:35:12+09:00"
+      "slowAt": "2026-10-29T09:38:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -609743,7 +609781,8 @@
         "6634240",
         "6634241",
         "6634243",
-        "6634248"
+        "6634248",
+        "6634253"
       ]
     },
     "blind": {
