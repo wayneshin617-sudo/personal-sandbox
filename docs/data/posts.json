@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:13:08+00:00",
+  "updatedAt": "2026-10-29T08:14:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -627685,6 +627685,45 @@
       "firstSeenAt": "2026-10-29T08:13:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91584,
+      "source": "qoo",
+      "externalId": "4389918038",
+      "title": "나는솔로 어제편 이제서야 다봤는데 와 난 영자가 신기하다n",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389918038",
+      "postedLabel": "17:13",
+      "postedAt": "2026-10-29T17:13:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:14:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91585,
+      "source": "blind",
+      "externalId": "cmt-458863398",
+      "title": "2억벌었다도 추가해",
+      "excerpt": "불소영철 헛소리 모음 더 추가 할 거 있나?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%88%EC%86%8C%EC%98%81%EC%B2%A0-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%AA%A8%EC%9D%8C-%EB%8D%94-%EC%B6%94%EA%B0%80-%ED%95%A0-%EA%B1%B0-%EC%9E%88%EB%82%98-n1rwlart#458863398",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T17:13:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:14:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -643476,7 +643515,8 @@
         "4389831816",
         "4389841165",
         "4389881770",
-        "4389892744"
+        "4389892744",
+        "4389918038"
       ]
     },
     "keep": "v2",
