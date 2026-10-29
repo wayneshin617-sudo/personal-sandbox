@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:56:03+00:00",
+  "updatedAt": "2026-10-29T03:58:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -614110,6 +614110,64 @@
       "firstSeenAt": "2026-10-29T03:56:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90898,
+      "source": "qoo",
+      "externalId": "4389706162",
+      "title": "나만 그냥 이번기수에 감사해?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389706162",
+      "postedLabel": "12:57",
+      "postedAt": "2026-10-29T12:56:59+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:58:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90899,
+      "source": "qoo",
+      "externalId": "4389706361",
+      "title": "남자들이 영철 같은 남자 더 정확히 평가함ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389706361",
+      "postedLabel": "12:57",
+      "postedAt": "2026-10-29T12:57:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:58:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90900,
+      "source": "blind",
+      "externalId": "cmt-458832161",
+      "title": "코랑 이마가",
+      "excerpt": "영숙 얼굴 이쁜거 아님?",
+      "author": "~******",
+      "company": "한미약품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%96%BC%EA%B5%B4-%EC%9D%B4%EC%81%9C%EA%B1%B0-%EC%95%84%EB%8B%98-bssccq7v#458832161",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:57:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:58:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -614199,7 +614257,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T12:54:46+09:00"
+      "slowAt": "2026-10-29T12:57:45+09:00"
     },
     "ig": {
       "doneIds": [
@@ -620890,6 +620948,7 @@
         "6634872",
         "6634873",
         "6634875",
+        "6634882",
         "6634886",
         "6634890",
         "6634892",
@@ -620953,7 +621012,8 @@
         "6635140",
         "6635143",
         "6635148",
-        "6635151"
+        "6635151",
+        "6635153"
       ]
     },
     "blind": {
@@ -629436,7 +629496,9 @@
         "4389673704",
         "4389687201",
         "4389698262",
-        "4389700551"
+        "4389700551",
+        "4389706162",
+        "4389706361"
       ]
     },
     "keep": "v2",
