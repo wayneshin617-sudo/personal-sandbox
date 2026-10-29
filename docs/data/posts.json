@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:51:29+00:00",
+  "updatedAt": "2026-10-29T00:52:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -603933,6 +603933,44 @@
       "firstSeenAt": "2026-10-29T00:51:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90382,
+      "source": "dc",
+      "externalId": "6634306",
+      "title": "여자 4살의 중요성",
+      "excerpt": "",
+      "author": "우빈유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634306&page=1",
+      "postedLabel": "09:51",
+      "postedAt": "2026-10-29T09:51:41+09:00",
+      "views": 15,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:52:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90383,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%9E%98%EC%84%9C-%EC%A7%91%EC%95%88-%EC%B0%A8%EC%9D%B4%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B4%EB%8D%B0-hoprjl7a",
+      "title": "이래서 집안 차이나면 안되는건데",
+      "excerpt": "영철 시골 출신에 아빠 일찍 여의고 홀어머니 모시고 노후준비도 어려울듯 동생챙기고 현숙 평촌 출신에 본인 능력좋아서 취미 대학원 누리는 삶 부모님 부양 필요 × 현숙 그렇게 잘사는편도 아닌데 영철이 너무 떨어지니 돋보일정도임 둘이 무슨대화를 하겠나",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%9E%98%EC%84%9C-%EC%A7%91%EC%95%88-%EC%B0%A8%EC%9D%B4%EB%82%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B4%EB%8D%B0-hoprjl7a",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:52:12+09:00",
+      "views": 47,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T00:52:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -610510,6 +610548,7 @@
         "6634288",
         "6634290",
         "6634294",
+        "6634299",
         "6634302"
       ]
     },
