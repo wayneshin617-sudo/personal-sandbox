@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:26:31+00:00",
+  "updatedAt": "2026-10-29T00:27:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -602530,6 +602530,44 @@
       "firstSeenAt": "2026-10-29T00:26:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90311,
+      "source": "qoo",
+      "externalId": "4389542452",
+      "title": "나솔은 저 안에서는 쟤를 왜.. 하고 흘러가도 현생 살면서 대부분 바로잡혀서",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389542452",
+      "postedLabel": "09:26",
+      "postedAt": "2026-10-29T09:26:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:27:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90312,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%A5%B4-=-%EB%8F%84%ED%8C%8C%EB%AF%BC-%EB%B3%B4%EC%A6%9D-%EC%88%98%ED%91%9C-6rx1ydor",
+      "title": "나르 = 도파민 보증 수표",
+      "excerpt": "짝 시절부터 애청자인데, 나르끼 있는 출연자들이 나오면 도파민 터지고 큰 이슈가 됫었음. 대표적인 나르 공통점이: - 자격지심, 결핍을 숨기려 과장/허황된 언행을 함 - 타인을 도구화 - 안타깝지만 상당수 여유롭지 못한 가정환경 - 열등감과 우월감이 공존 - 타인에게 보여질 자기모습에 취해있음 수많은 출연진을 통해서 남규홍pd님도 이미 아실거 같은데, 앞으로도 지속적인 나르들 섭외 부탁드립니다!",
+      "author": "l*********",
+      "company": "한국투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%A5%B4-=-%EB%8F%84%ED%8C%8C%EB%AF%BC-%EB%B3%B4%EC%A6%9D-%EC%88%98%ED%91%9C-6rx1ydor",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T09:27:12+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T00:27:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -602619,7 +602657,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T09:24:12+09:00"
+      "slowAt": "2026-10-29T09:27:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -609078,7 +609116,8 @@
         "6634188",
         "6634197",
         "6634202",
-        "6634204"
+        "6634204",
+        "6634209"
       ]
     },
     "blind": {
@@ -617460,7 +617499,8 @@
         "4389511210",
         "4389523838",
         "4389530138",
-        "4389538753"
+        "4389538753",
+        "4389542452"
       ]
     },
     "keep": "v2",
