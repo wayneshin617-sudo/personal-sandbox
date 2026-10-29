@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T15:19:14+00:00",
+  "updatedAt": "2026-10-29T15:20:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -652632,6 +652632,86 @@
       "firstSeenAt": "2026-10-29T15:19:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92850,
+      "source": "qoo",
+      "externalId": "cmt-4390275840",
+      "title": "ㄹㅇ 걍 인플할라고 나왓겟지ㅠ 이미 유튜브도 하지만",
+      "excerpt": "여출들 아무도 최종선택 안할듯 ㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390273830#4390275840",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T23:19:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:20:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92851,
+      "source": "blind",
+      "externalId": "cmt-458922623",
+      "title": "34",
+      "excerpt": "옥순아 꼭 헤어져",
+      "author": "i********* 작성자",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%95%84-%EA%BC%AD-%ED%97%A4%EC%96%B4%EC%A0%B8-f7kn4tdf#458922623",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T00:19:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:20:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92852,
+      "source": "blind",
+      "externalId": "cmt-458922559",
+      "title": "모.....델이야.....",
+      "excerpt": "흑언니 너무 예쁘다",
+      "author": "ॱ",
+      "company": "스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9D%91%EC%96%B8%EB%8B%88-%EB%84%88%EB%AC%B4-%EC%98%88%EC%81%98%EB%8B%A4-m4ggodrl#458922559",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T00:19:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:20:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92853,
+      "source": "blind",
+      "externalId": "cmt-458922619",
+      "title": "저나이에 20명 사겨봤다는것도 정상은 아니다.. 제대로된 연애를 해본적이 없는듯 ㅠㅠ",
+      "excerpt": "영철 뭔가 애잔해....",
+      "author": "H******",
+      "company": "선진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%AD%94%EA%B0%80-%EC%95%A0%EC%9E%94%ED%95%B4-y4vvkbal#458922619",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T00:19:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:20:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -652773,7 +652853,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T00:16:55+09:00"
+      "slowAt": "2026-10-30T00:19:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -660232,6 +660312,7 @@
         "6638389",
         "6638391",
         "6638392",
+        "6638399",
         "6638400",
         "6638403"
       ]
