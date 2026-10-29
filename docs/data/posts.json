@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:51:02+00:00",
+  "updatedAt": "2026-10-29T03:52:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -613595,6 +613595,65 @@
       "firstSeenAt": "2026-10-29T03:51:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90872,
+      "source": "dc",
+      "externalId": "6635134",
+      "title": "영철이가 얘네보단 선녀자나",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635134&page=1",
+      "postedLabel": "12:51",
+      "postedAt": "2026-10-29T12:51:28+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:52:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90873,
+      "source": "blind",
+      "externalId": "cmt-458831303",
+      "title": "ㅋㅋㅋㅋㅋ 이런건 또 우찌찾아썽ㅋㅋㅋㅋㅋㄲ",
+      "excerpt": "34기 옥순 닮은꼴",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%A5%EC%88%9C-%EB%8B%AE%EC%9D%80%EA%BC%B4-ksive50l#458831303",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:51:44+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:52:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90874,
+      "source": "blind",
+      "externalId": "cmt-458831389",
+      "title": "한없이 가벼운 경솔 그잡채",
+      "excerpt": "영철이 보다가 실시간으로",
+      "author": "i*********",
+      "company": "삼일회계법인",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%B4%EB%8B%A4%EA%B0%80-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%9C%BC%EB%A1%9C-pbbdgfwa#458831389",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:51:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:52:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -613684,7 +613743,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T12:48:45+09:00"
+      "slowAt": "2026-10-29T12:51:45+09:00"
     },
     "ig": {
       "doneIds": [
@@ -620366,6 +620425,7 @@
         "6634846",
         "6634850",
         "6634853",
+        "6634854",
         "6634860",
         "6634865",
         "6634866",
@@ -620567,6 +620627,7 @@
         "/kr/post/%EA%B3%B5%EC%8B%9D-%EC%88%9C%EC%9E%90-%EC%98%81%EC%88%99-%EC%84%9C%EB%A1%9C-%ED%92%80%EC%97%88%EB%8C%80-vxoz87qt",
         "/kr/post/%EA%B3%B5%EC%9A%A9%EA%B1%B0%EC%8B%A4%EC%84%9C-%EC%97%AC%EC%9E%90%EC%85%8B%EC%9D%B4-%EC%86%8D%EB%8B%A5%EC%86%8D%EB%8B%A5-%ED%95%98%EB%8B%88%EA%B9%8C-hthx1kkd",
         "/kr/post/%EA%B3%B5%ED%86%B5%EC%A0%90%EC%9D%B4-h3kg3jqr",
+        "/kr/post/%EA%B3%BC%EC%8B%9C%EB%8A%94-%EA%B2%B0%ED%95%8D%EC%9D%B4-%EB%A7%9E%EB%82%98%EB%B4%90-7ara75hr",
         "/kr/post/%EA%B3%BC%ED%95%98%EB%8B%A4-%EA%B3%BC%ED%95%B4-5vx0sksj",
         "/kr/post/%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9D%B4%EA%B8%B8%EC%88%98%EB%8A%94-%EC%97%86%EB%93%AF%EC%9D%B4-%EB%AF%BC%EC%8B%AC%EB%8F%84-%EC%9D%B4%EA%B8%B8%EC%88%98-%EC%97%86%EB%8A%94%EA%B1%B0%EC%9E%84-bmq0wy7n",
         "/kr/post/%EA%B4%80%EB%A6%AC-%EC%9E%98%ED%95%98%EC%9E%90-h6e5zd2x",
