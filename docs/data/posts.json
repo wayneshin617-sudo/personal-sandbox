@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T13:14:28+00:00",
+  "updatedAt": "2026-10-29T13:16:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -643474,6 +643474,46 @@
       "firstSeenAt": "2026-10-29T13:14:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92383,
+      "source": "blind",
+      "externalId": "cmt-458898960",
+      "title": "너처럼 눈치 많이보는 영철과보단 정숙과이긴하지",
+      "excerpt": "정숙이는 왜 영호가 자기를 좋아할수 있다고 생각하는걸까...",
+      "author": "|*********",
+      "company": "NEXON",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-%EC%99%9C-%EC%98%81%ED%98%B8%EA%B0%80-%EC%9E%90%EA%B8%B0%EB%A5%BC-%EC%A2%8B%EC%95%84%ED%95%A0%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94%EA%B1%B8%EA%B9%8C-oqrvce4o#458898960",
+      "postedLabel": "29분",
+      "postedAt": "2026-10-29T21:47:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T13:16:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92384,
+      "source": "blind",
+      "externalId": "cmt-458901259",
+      "title": "그냥 좋은사람 만나면 될듯",
+      "excerpt": "정숙이는 왜 영호가 자기를 좋아할수 있다고 생각하는걸까...",
+      "author": "💰***** 작성자",
+      "company": "경신",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-%EC%99%9C-%EC%98%81%ED%98%B8%EA%B0%80-%EC%9E%90%EA%B8%B0%EB%A5%BC-%EC%A2%8B%EC%95%84%ED%95%A0%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94%EA%B1%B8%EA%B9%8C-oqrvce4o#458901259",
+      "postedLabel": "15분",
+      "postedAt": "2026-10-29T22:01:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T13:16:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -650918,6 +650958,7 @@
         "6636840",
         "6636841",
         "6636844",
+        "6636849",
         "6636851",
         "6636853",
         "6636856",
@@ -650954,7 +650995,8 @@
         "6636997",
         "6637005",
         "6637008",
-        "6637010"
+        "6637010",
+        "6637014"
       ]
     },
     "blind": {
