@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T09:42:10+00:00",
+  "updatedAt": "2026-10-29T09:43:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -631624,6 +631624,45 @@
       "firstSeenAt": "2026-10-29T09:42:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91783,
+      "source": "qoo",
+      "externalId": "cmt-4389938215",
+      "title": "캐스팅 안목이 미친 듯",
+      "excerpt": "나솔은 진짜 신기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389932808#4389938215",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T17:42:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:43:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91784,
+      "source": "qoo",
+      "externalId": "4389983262",
+      "title": "난 아직까지는 이번 기수 남출 최애 영식",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389983262",
+      "postedLabel": "18:42",
+      "postedAt": "2026-10-29T18:42:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:43:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -631713,7 +631752,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T18:39:50+09:00"
+      "slowAt": "2026-10-29T18:42:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -638907,7 +638946,8 @@
         "6636387",
         "6636390",
         "6636391",
-        "6636394"
+        "6636394",
+        "6636399"
       ]
     },
     "blind": {
@@ -647536,7 +647576,8 @@
         "4389954087",
         "4389961951",
         "4389973454",
-        "4389979678"
+        "4389979678",
+        "4389983262"
       ]
     },
     "keep": "v2",
