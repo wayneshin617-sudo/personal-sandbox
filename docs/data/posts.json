@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:43:54+00:00",
+  "updatedAt": "2026-10-29T05:44:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -621114,6 +621114,45 @@
       "firstSeenAt": "2026-10-29T05:43:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91253,
+      "source": "qoo",
+      "externalId": "cmt-4389743645",
+      "title": "본인말대로 이쁜 사람은 만났어도 이쁘고 현숙정도의 조건은 밖에서 못만나나보지",
+      "excerpt": "잘생긴 남자가 어떻게 살았길래 저렇게 조급해진거지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389742183#4389743645",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T13:44:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:44:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91254,
+      "source": "qoo",
+      "externalId": "4389794005",
+      "title": "아 나솔 리뷰하는 영상에서 유투버가 영철",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389794005",
+      "postedLabel": "14:44",
+      "postedAt": "2026-10-29T14:44:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:44:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -628055,6 +628094,7 @@
         "6635358",
         "6635359",
         "6635360",
+        "6635362",
         "6635363",
         "6635365",
         "6635372",
@@ -636680,7 +636720,8 @@
         "4389783320",
         "4389783870",
         "4389784687",
-        "4389789753"
+        "4389789753",
+        "4389794005"
       ]
     },
     "keep": "v2",
