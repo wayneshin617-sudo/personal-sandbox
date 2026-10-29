@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:45:08+00:00",
+  "updatedAt": "2026-10-29T08:46:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -629451,6 +629451,46 @@
       "firstSeenAt": "2026-10-29T08:45:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91673,
+      "source": "qoo",
+      "externalId": "cmt-4389897022",
+      "title": "MC까지하실듯",
+      "excerpt": "영철 라방 나올까..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389831816#4389897022",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T16:46:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:46:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91674,
+      "source": "dc",
+      "externalId": "cmt-10982041",
+      "title": "이분은 황족이셔",
+      "excerpt": "34기 영자 닮았어...",
+      "author": "여붕이",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636050&page=3#cmt_10982041",
+      "postedLabel": "10.29 17:07:12",
+      "postedAt": "2026-10-29T17:07:12+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:46:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -629540,7 +629580,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T17:42:50+09:00"
+      "slowAt": "2026-10-29T17:45:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -636643,6 +636683,7 @@
         "6636041",
         "6636043",
         "6636048",
+        "6636050",
         "6636081",
         "6636085",
         "6636087",
@@ -636680,7 +636721,8 @@
         "6636210",
         "6636211",
         "6636220",
-        "6636224"
+        "6636224",
+        "6636227"
       ]
     },
     "blind": {
