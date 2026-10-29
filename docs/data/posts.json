@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:33:28+00:00",
+  "updatedAt": "2026-10-29T12:34:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -640668,6 +640668,45 @@
       "comments": 3,
       "firstSeenAt": "2026-10-29T12:33:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92241,
+      "source": "blind",
+      "externalId": "cmt-458895483",
+      "title": "ㅇㅇ 내가그랬음 이번주꺼 보는중인데 찐 adhd 맞음 초딩부터 평생 저랬겠지. Adhd는 유전이니까",
+      "excerpt": "저번에 누가 영철 ADHD 라고 했는데",
+      "author": "x*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%80%EB%B2%88%EC%97%90-%EB%88%84%EA%B0%80-%EC%98%81%EC%B2%A0-ADHD-%EB%9D%BC%EA%B3%A0-%ED%96%88%EB%8A%94%EB%8D%B0-tsatzk1y#458895483",
+      "postedLabel": "8분",
+      "postedAt": "2026-10-29T21:26:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:34:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92242,
+      "source": "qoo",
+      "externalId": "4390157548",
+      "title": "영숙 언어선택이 되게 저렴하네..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390157548",
+      "postedLabel": "21:33",
+      "postedAt": "2026-10-29T21:33:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:34:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -648071,6 +648110,8 @@
         "6636721",
         "6636723",
         "6636724",
+        "6636727",
+        "6636728",
         "6636731",
         "6636736",
         "6636741",
@@ -656842,7 +656883,8 @@
         "4390152072",
         "4390153752",
         "4390156542",
-        "4390156721"
+        "4390156721",
+        "4390157548"
       ]
     },
     "keep": "v2",
