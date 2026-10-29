@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:20:02+00:00",
+  "updatedAt": "2026-10-29T04:21:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -615393,6 +615393,63 @@
       "firstSeenAt": "2026-10-29T04:20:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90963,
+      "source": "qoo",
+      "externalId": "4389724907",
+      "title": "난 멀미전혀 없는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389724907",
+      "postedLabel": "13:20",
+      "postedAt": "2026-10-29T13:20:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:21:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90964,
+      "source": "dc",
+      "externalId": "6635267",
+      "title": "영철이는 누나 여동생이",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635267&page=1",
+      "postedLabel": "13:20",
+      "postedAt": "2026-10-29T13:20:15+09:00",
+      "views": 19,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:21:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90965,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-7%EA%B8%89-%EC%98%81%EC%B2%A0-%E2%99%A5%EF%B8%8F-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%9E%90-%EA%B2%B0%ED%98%BC%ED%95%98%EB%A9%B4-%EB%88%84%EA%B0%80%EC%95%84%EA%B9%8C%EC%9B%80-rhjixux3",
+      "title": "투표글 34기 7급 영철 ♥️ 한의사 영자 결혼하면 누가아까움? 투표",
+      "excerpt": "7급공무원 영철 90년생 가난함 (부여 거주, 홀어머니) 외모 상 성격 하 한의사 영자 94년생 전문직 외모 중하 성격 중 누가 아까움???",
+      "author": "h******",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-7%EA%B8%89-%EC%98%81%EC%B2%A0-%E2%99%A5%EF%B8%8F-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%9E%90-%EA%B2%B0%ED%98%BC%ED%95%98%EB%A9%B4-%EB%88%84%EA%B0%80%EC%95%84%EA%B9%8C%EC%9B%80-rhjixux3",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:20:45+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T04:21:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -615532,7 +615589,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T13:17:46+09:00"
+      "slowAt": "2026-10-29T13:20:45+09:00"
     },
     "dc": {
       "doneIds": [
@@ -622271,6 +622328,7 @@
         "6635247",
         "6635248",
         "6635249",
+        "6635255",
         "6635262"
       ]
     },
@@ -630767,7 +630825,8 @@
         "4389710632",
         "4389712132",
         "4389713341",
-        "4389717456"
+        "4389717456",
+        "4389724907"
       ]
     },
     "keep": "v2",
