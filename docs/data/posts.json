@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:34:10+00:00",
+  "updatedAt": "2026-10-29T10:35:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -633571,6 +633571,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T10:34:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91882,
+      "source": "qoo",
+      "externalId": "cmt-4389944290",
+      "title": "무슨 복이야",
+      "excerpt": "나솔은 진짜 신기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389932808#4389944290",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T17:51:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:35:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91883,
+      "source": "qoo",
+      "externalId": "cmt-4389972420",
+      "title": "계속 다른 사람들이 나와ㅋㅋㅋㅋㅋ 가챠확률 미쳤음 축복ㅋㅋㅋ",
+      "excerpt": "나솔은 진짜 신기",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389932808#4389972420",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T18:30:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:35:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91884,
+      "source": "blind",
+      "externalId": "cmt-458880053",
+      "title": "매력이 없어서?",
+      "excerpt": "상철 아재",
+      "author": "이*****",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%95%84%EC%9E%AC-fmkljrwz#458880053",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T19:34:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:35:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -640861,6 +640921,7 @@
         "6636375",
         "6636376",
         "6636378",
+        "6636380",
         "6636382",
         "6636383",
         "6636386",
@@ -640895,7 +640956,8 @@
         "6636506",
         "6636510",
         "6636512",
-        "6636514"
+        "6636514",
+        "6636518"
       ]
     },
     "blind": {
@@ -643782,6 +643844,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%9D%BC-%EA%B4%80%EB%91%90%EA%B3%A0-exavuxdj",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%A3%BC%EB%AC%B4%EA%B4%80%EB%8B%98-%EB%84%88%EB%82%98%EC%9E%98%ED%95%98%EC%84%B8%EC%9A%94%E3%85%A0-%EB%AF%B8%EC%B9%9C%EC%95%84-clzemhjj",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%B0%A8-%EB%A0%8C%ED%8A%B8%EC%B9%B4-%EC%95%BC-zw6xuc3j",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%B2%98%EB%9F%BC-%EC%97%AC%EA%B8%B0%EC%A0%80%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%82%98-%EC%9E%A0%EC%9E%90%EB%A6%AC-%EC%96%98%EA%B8%B0-%EB%A7%90%ED%95%98%EA%B3%A0%EB%8B%A4%EB%8B%88%EB%8A%94-%EB%82%A8%EC%9E%90-%EA%B5%AC%EB%B6%84%EA%B0%80%EB%8A%A5%ED%95%B4-fzdyshu5",
         "/kr/post/%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-%EA%B3%A7-%EC%97%AC%EC%9E%90%EB%93%A4-%EB%AA%B0%EB%A6%B0%EB%8B%A4-kxxtrva6",
         "/kr/post/%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-%ED%95%A8-%EA%B1%B8%EB%A0%A4%EB%B4%90-ofe1u580",
         "/kr/post/%EC%98%81%EC%B2%A0-%E3%84%B9%E3%85%87-%EC%97%B0%EC%95%A020%EB%B2%88%EC%9D%B4%EB%A9%B4-%EC%82%AD%EB%B0%9C%ED%95%A8-yxz4w7dg",
