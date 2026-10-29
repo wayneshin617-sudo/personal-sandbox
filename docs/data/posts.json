@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T15:36:14+00:00",
+  "updatedAt": "2026-10-29T15:37:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -653130,6 +653130,26 @@
       "firstSeenAt": "2026-10-29T15:36:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92875,
+      "source": "dc",
+      "externalId": "cmt-10983180",
+      "title": "왜",
+      "excerpt": "팀장 시발년 존나싫다 진짜",
+      "author": "커피빵",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638454&page=1#cmt_10983180",
+      "postedLabel": "10.30 00:36:12",
+      "postedAt": "2026-10-30T00:36:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T15:37:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -660740,7 +660760,8 @@
         "6638435",
         "6638445",
         "6638448",
-        "6638451"
+        "6638451",
+        "6638454"
       ]
     },
     "blind": {
