@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T06:16:53+00:00",
+  "updatedAt": "2026-10-29T06:17:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -623095,6 +623095,26 @@
       "firstSeenAt": "2026-10-29T06:16:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91353,
+      "source": "qoo",
+      "externalId": "cmt-4389771344",
+      "title": "오면서 자기 첫인상 몰표 예상했을텐데 ㅋㅋㅋ그거부터 영호에 긁혔을듯 ㅋㅋ",
+      "excerpt": "영철 조급한게 현숙 조건도 있지만 그 상대가 영호라서 더 그런듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389770214#4389771344",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T14:17:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:17:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -630161,7 +630181,9 @@
         "6635707",
         "6635718",
         "6635722",
-        "6635726"
+        "6635726",
+        "6635727",
+        "6635728"
       ]
     },
     "blind": {
