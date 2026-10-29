@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:08:54+00:00",
+  "updatedAt": "2026-10-29T05:09:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -617928,6 +617928,45 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T05:08:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91092,
+      "source": "qoo",
+      "externalId": "4389764729",
+      "title": "정숙 영호한테 마음접고 광수한테 바로가는거 좋아보임",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389764729",
+      "postedLabel": "14:09",
+      "postedAt": "2026-10-29T14:09:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:09:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91093,
+      "source": "blind",
+      "externalId": "cmt-458840574",
+      "title": "네",
+      "excerpt": "34 현숙님이 의외로 평범한 집안이면",
+      "author": "w*****",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99%EB%8B%98%EC%9D%B4-%EC%9D%98%EC%99%B8%EB%A1%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%A7%91%EC%95%88%EC%9D%B4%EB%A9%B4-1pl085ie#458840574",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T14:09:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:09:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -618067,7 +618106,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T14:06:36+09:00"
+      "slowAt": "2026-10-29T14:09:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -624876,7 +624915,8 @@
         "6635439",
         "6635442",
         "6635443",
-        "6635446"
+        "6635446",
+        "6635451"
       ]
     },
     "blind": {
@@ -629748,6 +629788,7 @@
         "/kr/post/34-%EC%A0%95%EC%88%99-%EC%B6%A4-r7u45hdf",
         "/kr/post/34-%EC%A0%95%EC%88%99-46t6o7pv",
         "/kr/post/34-%ED%95%98%EB%8B%89-%EC%83%81%EC%B2%A0-%ED%82%A4-%EB%AA%87%EC%9D%BC%EA%B9%8C-io0mcx1d",
+        "/kr/post/34-%ED%98%84%EC%88%99%EB%8B%98%EC%9D%B4-%EC%9D%98%EC%99%B8%EB%A1%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%A7%91%EC%95%88%EC%9D%B4%EB%A9%B4-1pl085ie",
         "/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%A0%95%EC%88%99%EC%9D%B4%EB%9E%91-%EC%98%86%EC%97%90-%EC%95%89%EC%95%84%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C-7bd2du2r",
         "/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4-6fznn4k4",
         "/kr/post/34-%ED%98%84%EC%88%99%EC%9D%B4-gsr650d5",
@@ -633402,7 +633443,8 @@
         "4389749512",
         "4389749545",
         "4389758699",
-        "4389761807"
+        "4389761807",
+        "4389764729"
       ]
     },
     "keep": "v2",
