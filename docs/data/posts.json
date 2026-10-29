@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T13:32:31+00:00",
+  "updatedAt": "2026-10-29T13:34:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -644617,6 +644617,45 @@
       "firstSeenAt": "2026-10-29T13:32:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92441,
+      "source": "qoo",
+      "externalId": "cmt-4390158196",
+      "title": "존잼ㅋㅋㅋㅋ",
+      "excerpt": "이번 기수 재밌지 않아?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389999384#4390158196",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T21:34:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T13:34:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92442,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%ED%98%9C%EC%84%B1-%EC%9E%90%EC%84%B8-%EA%B0%9C%ED%85%8C%ED%86%A0-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-gjsipvyj",
+      "title": "정혜성 자세 개테토 ㅋㅋㅋㅋ",
+      "excerpt": "매력있다..",
+      "author": "p*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%ED%98%9C%EC%84%B1-%EC%9E%90%EC%84%B8-%EA%B0%9C%ED%85%8C%ED%86%A0-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-gjsipvyj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T22:34:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T13:34:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
