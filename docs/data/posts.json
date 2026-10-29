@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T23:31:59+00:00",
+  "updatedAt": "2026-10-29T23:33:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -658354,6 +658354,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T23:31:59+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93139,
+      "source": "blind",
+      "externalId": "cmt-458946651",
+      "title": "와꾸가 되니까",
+      "excerpt": "읔 영철",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%94-%EC%98%81%EC%B2%A0-akl658gn#458946651",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T08:33:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:33:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93140,
+      "source": "blind",
+      "externalId": "cmt-458946725",
+      "title": "영철이 영자한테 사귀자하면 사귈거 같은데?",
+      "excerpt": "읔 영철",
+      "author": "낚*****",
+      "company": "삼성중공업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%94-%EC%98%81%EC%B2%A0-akl658gn#458946725",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T08:33:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:33:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658500,7 +658540,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T08:30:41+09:00"
+      "slowAt": "2026-10-30T08:33:41+09:00"
     },
     "dc": {
       "doneIds": [
