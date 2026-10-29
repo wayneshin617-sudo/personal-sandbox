@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T00:20:30+00:00",
+  "updatedAt": "2026-10-29T00:21:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -602215,6 +602215,105 @@
       "firstSeenAt": "2026-10-29T00:20:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90295,
+      "source": "blind",
+      "externalId": "cmt-458804011",
+      "title": "하 ㅡㅡ",
+      "excerpt": "난 영철 괜찮은데...",
+      "author": "!********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-de4207ui#458804011",
+      "postedLabel": "50분",
+      "postedAt": "2026-10-29T08:31:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:21:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90296,
+      "source": "blind",
+      "externalId": "cmt-458804173",
+      "title": "디엠 한번 보내면 바로 나올듯 만나바",
+      "excerpt": "난 영철 괜찮은데...",
+      "author": "H*****",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-de4207ui#458804173",
+      "postedLabel": "49분",
+      "postedAt": "2026-10-29T08:32:12+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:21:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90297,
+      "source": "blind",
+      "externalId": "cmt-458804207",
+      "title": "공무원들이 다 뇌를 뺀 심봉사가 아닐텐데",
+      "excerpt": "난 영철 괜찮은데...",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-de4207ui#458804207",
+      "postedLabel": "48분",
+      "postedAt": "2026-10-29T08:33:12+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:21:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90298,
+      "source": "blind",
+      "externalId": "cmt-458804320",
+      "title": "너 같은 애 연락 기다릴거야",
+      "excerpt": "난 영철 괜찮은데...",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-de4207ui#458804320",
+      "postedLabel": "47분",
+      "postedAt": "2026-10-29T08:34:12+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:21:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90299,
+      "source": "qoo",
+      "externalId": "4389538753",
+      "title": "어제 잼있었어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389538753",
+      "postedLabel": "09:21",
+      "postedAt": "2026-10-29T09:21:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T00:21:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -602304,7 +602403,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T09:18:12+09:00"
+      "slowAt": "2026-10-29T09:21:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -608755,7 +608854,9 @@
         "6634154",
         "6634163",
         "6634165",
-        "6634167"
+        "6634167",
+        "6634170",
+        "6634173"
       ]
     },
     "blind": {
@@ -617134,7 +617235,8 @@
         "4389504997",
         "4389511210",
         "4389523838",
-        "4389530138"
+        "4389530138",
+        "4389538753"
       ]
     },
     "keep": "v2",
