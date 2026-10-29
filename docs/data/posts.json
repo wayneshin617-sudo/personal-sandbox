@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T04:37:03+00:00",
+  "updatedAt": "2026-10-29T04:38:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -616394,6 +616394,84 @@
       "firstSeenAt": "2026-10-29T04:37:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91014,
+      "source": "blind",
+      "externalId": "cmt-458831283",
+      "title": "고흥",
+      "excerpt": "영철 보면서 느낀점",
+      "author": "ľ*********",
+      "company": "현대자동차",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-ty7d4mns#458831283",
+      "postedLabel": "47분",
+      "postedAt": "2026-10-29T12:50:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:38:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91015,
+      "source": "blind",
+      "externalId": "cmt-458831401",
+      "title": "에휴 정신병이다",
+      "excerpt": "영철 보면서 느낀점",
+      "author": "p******",
+      "company": "LG에너지솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-ty7d4mns#458831401",
+      "postedLabel": "46분",
+      "postedAt": "2026-10-29T12:51:46+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:38:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91016,
+      "source": "dc",
+      "externalId": "6635338",
+      "title": "여자애들한테 귀엽게 보이려고 모자 이렇게 쓴거",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635338&page=1",
+      "postedLabel": "13:36",
+      "postedAt": "2026-10-29T13:36:53+09:00",
+      "views": 19,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T04:38:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91017,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9E%90%EA%B8%B0%EA%B0%80-%EC%9D%B8%EA%B8%B0-%EB%A7%8E%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-3040%EC%9D%80-%EB%82%98%EC%86%94-%EB%82%98%EA%B0%80%EB%B3%B4%EB%A9%B4-%EB%90%8C-lgl7ska0",
+      "title": "자기가 인기 많다고 생각하는 3040은 나솔 나가보면 됌",
+      "excerpt": "방송이나 인터넷댓글보면 그럼 바로 본인위치 파악가능함",
+      "author": "I*********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%90%EA%B8%B0%EA%B0%80-%EC%9D%B8%EA%B8%B0-%EB%A7%8E%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-3040%EC%9D%80-%EB%82%98%EC%86%94-%EB%82%98%EA%B0%80%EB%B3%B4%EB%A9%B4-%EB%90%8C-lgl7ska0",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T13:37:46+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T04:38:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -623300,7 +623378,8 @@
         "6635321",
         "6635323",
         "6635324",
-        "6635326"
+        "6635326",
+        "6635337"
       ]
     },
     "blind": {
