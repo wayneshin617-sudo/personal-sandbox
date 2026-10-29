@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:14:54+00:00",
+  "updatedAt": "2026-10-29T05:15:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -618564,6 +618564,64 @@
       "firstSeenAt": "2026-10-29T05:14:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91124,
+      "source": "qoo",
+      "externalId": "4389770055",
+      "title": "어제 온에어 엄청 달렸네 지금 보면서 같이보는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389770055",
+      "postedLabel": "14:15",
+      "postedAt": "2026-10-29T14:14:59+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:15:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91125,
+      "source": "qoo",
+      "externalId": "4389770214",
+      "title": "영철 조급한게 현숙 조건도 있지만 그 상대가 영호라서 더 그런듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389770214",
+      "postedLabel": "14:15",
+      "postedAt": "2026-10-29T14:15:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:15:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91126,
+      "source": "dc",
+      "externalId": "cmt-10981357",
+      "title": "외모로는 못까지 - dc App",
+      "excerpt": "34영철정도면 일반인 존잘은 맞냐??",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635463&page=1#cmt_10981357",
+      "postedLabel": "10.29 14:15:35",
+      "postedAt": "2026-10-29T14:15:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:15:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -618704,7 +618762,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T14:12:36+09:00"
+      "slowAt": "2026-10-29T14:15:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -625521,7 +625579,8 @@
         "6635451",
         "6635454",
         "6635461",
-        "6635463"
+        "6635463",
+        "6635469"
       ]
     },
     "blind": {
@@ -634052,7 +634111,9 @@
         "4389761807",
         "4389764729",
         "4389767455",
-        "4389767859"
+        "4389767859",
+        "4389770055",
+        "4389770214"
       ]
     },
     "keep": "v2",
