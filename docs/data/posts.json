@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T07:18:54+00:00",
+  "updatedAt": "2026-10-29T07:19:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -625699,6 +625699,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T07:18:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91484,
+      "source": "blind",
+      "externalId": "cmt-458856278",
+      "title": "만화 삼국지 60권짜리 읽은듯",
+      "excerpt": "책 60권 읽었다는거",
+      "author": "D*****",
+      "company": "수의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8A%94%EA%B1%B0-d5t2m5m3#458856278",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T16:19:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T07:19:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91485,
+      "source": "blind",
+      "externalId": "cmt-458856194",
+      "title": "요즘은 에세이라도 읽으면 인정임 웹소설도 인정인 추세인데",
+      "excerpt": "책 60권 읽었다는거",
+      "author": "줴**",
+      "company": "한미약품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8A%94%EA%B1%B0-d5t2m5m3#458856194",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T16:19:36+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T07:19:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -625788,7 +625828,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T16:16:37+09:00"
+      "slowAt": "2026-10-29T16:19:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -632842,7 +632882,9 @@
         "6635931",
         "6635939",
         "6635942",
-        "6635947"
+        "6635947",
+        "6635959",
+        "6635961"
       ]
     },
     "blind": {
@@ -636891,6 +636933,7 @@
         "/kr/post/%EC%B1%84%EC%8B%9D%EC%88%9C%EC%9E%90-%EB%82%A8%EC%82%AC%EC%B9%9C%EC%88%9C%EC%9E%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AC%B8%EC%8B%A0%EC%88%9C%EC%9E%90-2lkx8wtq",
         "/kr/post/%EC%B1%85%EB%A7%8E%EC%9D%B4-%EC%9D%BD%EB%8A%94%EB%8B%A4%EB%A9%B0-%EB%AC%B4%EC%8A%A8%EC%B1%85-%EB%B3%B8%EA%B1%B4%EB%8D%B0-wj1opwr5",
         "/kr/post/%EC%B1%85-%EB%A7%8E%EC%9D%B4-%EC%9D%BD%EC%9C%BC%EC%8B%A0%EB%8B%A4%EB%A9%B4%EC%84%9C-qgfhzpl3",
+        "/kr/post/%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8A%94%EA%B1%B0-d5t2m5m3",
         "/kr/post/%EC%B2%A0%EC%95%84-%EC%A0%9C%EB%B0%9C-%EB%B9%A0%EC%A0%B8-4wjbx0et",
         "/kr/post/%EC%B2%A0%EC%9D%B4-fifrpgxt",
         "/kr/post/%EC%B2%AB%EB%82%A0%EC%97%90-%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8-%EC%B0%9C%ED%96%88%EC%97%88%EB%8A%94%EB%8D%B0-emnpf2gt",
