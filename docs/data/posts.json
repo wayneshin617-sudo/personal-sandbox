@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:16:13+00:00",
+  "updatedAt": "2026-10-29T14:17:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -648254,6 +648254,45 @@
       "firstSeenAt": "2026-10-29T14:16:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92627,
+      "source": "qoo",
+      "externalId": "4390273830",
+      "title": "여출들 아무도 최종선택 안할듯 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4390273830",
+      "postedLabel": "23:16",
+      "postedAt": "2026-10-29T23:16:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:17:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92628,
+      "source": "blind",
+      "externalId": "cmt-458913203",
+      "title": "눈 희번득하는거 못보겠어….",
+      "excerpt": "어제 나솔 이제야 보는데",
+      "author": "-***",
+      "company": "골프존",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%86%94-%EC%9D%B4%EC%A0%9C%EC%95%BC-%EB%B3%B4%EB%8A%94%EB%8D%B0-ywuff4z2#458913203",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:16:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:17:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -648395,7 +648434,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-29T23:13:54+09:00"
+      "slowAt": "2026-10-29T23:16:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -655788,7 +655827,8 @@
         "6637669",
         "6637672",
         "6637677",
-        "6637685"
+        "6637685",
+        "6637699"
       ]
     },
     "blind": {
@@ -664626,7 +664666,8 @@
         "4390263568",
         "4390265764",
         "4390267540",
-        "4390270661"
+        "4390270661",
+        "4390273830"
       ]
     },
     "keep": "v2",
