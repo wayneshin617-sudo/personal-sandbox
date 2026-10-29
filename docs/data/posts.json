@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T23:34:59+00:00",
+  "updatedAt": "2026-10-29T23:37:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -658571,6 +658571,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-29T23:34:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93150,
+      "source": "dc",
+      "externalId": "6638908",
+      "title": "영철은 그냥 ㅈ됐네ㅋㅋㅋ영호랑 될듯",
+      "excerpt": "",
+      "author": "라갤러",
+      "company": "",
+      "ip": "115.21",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638908&page=1",
+      "postedLabel": "08:36",
+      "postedAt": "2026-10-30T08:36:51+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:37:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93151,
+      "source": "blind",
+      "externalId": "cmt-458947090",
+      "title": "많을거같아",
+      "excerpt": "공무원에 영철같은 사람 많음 ㅋㅋ",
+      "author": "c******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%97%90-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C-%EB%A7%8E%EC%9D%8C-%E3%85%8B%E3%85%8B-p8f4w2kx#458947090",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T08:37:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:37:59+00:00",
       "isSeed": false,
       "kind": "reply"
     }
