@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T13:39:30+00:00",
+  "updatedAt": "2026-10-29T13:40:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -644989,6 +644989,44 @@
       "firstSeenAt": "2026-10-29T13:39:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92460,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-nz3pahdi",
+      "title": "34기 영철",
+      "excerpt": "나쏠 방송보다보면 가끔씩 트리거라는 단어를 쓰는 출연자들이 있단말이야 영철도 그 회차를 보고 ‘어라 트리거가 무슨 뜻이지?’ 하고 검색해본 다음 나도 앞으로 트리거란 단어를 써야겠다 마음먹은 …초딩같아…ㅋ",
+      "author": "l*********",
+      "company": "롯데케미칼",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-nz3pahdi",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T22:40:10+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T13:40:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92461,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B9%A8%EA%B0%84%EB%A8%B8%EB%A6%AC-oprnoo2o",
+      "title": "빨간머리",
+      "excerpt": "솔비다",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B9%A8%EA%B0%84%EB%A8%B8%EB%A6%AC-oprnoo2o",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T22:40:12+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T13:40:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -652484,7 +652522,9 @@
         "6637062",
         "6637064",
         "6637074",
-        "6637096"
+        "6637096",
+        "6637124",
+        "6637127"
       ]
     },
     "blind": {
