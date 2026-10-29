@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:00:27+00:00",
+  "updatedAt": "2026-10-29T12:01:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -638369,6 +638369,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T12:00:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 92125,
+      "source": "blind",
+      "externalId": "cmt-458891711",
+      "title": "옷 잘 입는다고 생각했는데.",
+      "excerpt": "34 현숙 키",
+      "author": "!*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-%ED%82%A4-g2yviulq#458891711",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:01:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:01:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -645781,7 +645801,9 @@
         "6636783",
         "6636786",
         "6636788",
-        "6636790"
+        "6636790",
+        "6636791",
+        "6636800"
       ]
     },
     "blind": {
