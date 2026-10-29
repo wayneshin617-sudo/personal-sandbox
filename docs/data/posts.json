@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:28:58+00:00",
+  "updatedAt": "2026-10-29T02:30:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -609083,6 +609083,85 @@
       "firstSeenAt": "2026-10-29T02:28:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90643,
+      "source": "qoo",
+      "externalId": "cmt-4389594184",
+      "title": "남초 환경에서 누적된 꺼드럭같은 느낌",
+      "excerpt": "영철 수위 너무 노골적이라 상철도 선넘으려나 불안했는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389581027#4389594184",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T10:29:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:30:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90644,
+      "source": "dc",
+      "externalId": "6634746",
+      "title": "정숙이 이숙캠 버전",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634746&page=1",
+      "postedLabel": "11:29",
+      "postedAt": "2026-10-29T11:29:31+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:30:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90645,
+      "source": "blind",
+      "externalId": "cmt-458823002",
+      "title": "ㅈㄴ얼빠",
+      "excerpt": "영철은 얼굴이아깝네",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%96%BC%EA%B5%B4%EC%9D%B4%EC%95%84%EA%B9%9D%EB%84%A4-hrekvnvn#458823002",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:29:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:30:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90646,
+      "source": "blind",
+      "externalId": "cmt-458822983",
+      "title": "영자나꼬셔보짘ㅋㅋ 그게 유일한 상향혼 방법",
+      "excerpt": "영철은 얼굴이아깝네",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%96%BC%EA%B5%B4%EC%9D%B4%EC%95%84%EA%B9%9D%EB%84%A4-hrekvnvn#458822983",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:29:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:30:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -609222,7 +609301,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T11:26:44+09:00"
+      "slowAt": "2026-10-29T11:29:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -615792,6 +615871,7 @@
         "6634713",
         "6634716",
         "6634717",
+        "6634721",
         "6634724",
         "6634732",
         "6634737"
