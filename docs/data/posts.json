@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:10:09+00:00",
+  "updatedAt": "2026-10-29T08:12:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -627627,6 +627627,44 @@
       "firstSeenAt": "2026-10-29T08:10:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91581,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99-%EC%98%81%ED%98%B8%EB%8B%98%EC%9D%80-%EC%B2%AD%EC%88%9C%ED%95%9C-%EC%97%AC%EC%9E%90%EA%B0%80-%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%B4%EB%9D%BC-%EB%82%98%EB%8A%94-%ED%9B%84%EC%88%9C%EC%9C%84%EA%B5%AC%EB%82%98-kwd2znbb",
+      "title": "정숙 : '영호님은 청순한 여자가 이상형이라 나는 후순위구나'",
+      "excerpt": "메타인지 개박살",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EC%98%81%ED%98%B8%EB%8B%98%EC%9D%80-%EC%B2%AD%EC%88%9C%ED%95%9C-%EC%97%AC%EC%9E%90%EA%B0%80-%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%B4%EB%9D%BC-%EB%82%98%EB%8A%94-%ED%9B%84%EC%88%9C%EC%9C%84%EA%B5%AC%EB%82%98-kwd2znbb",
+      "postedLabel": "1분",
+      "postedAt": "2026-10-29T17:10:49+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T08:12:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91582,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B6%88%EC%86%8C%EC%98%81%EC%B2%A0-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%AA%A8%EC%9D%8C-%EB%8D%94-%EC%B6%94%EA%B0%80-%ED%95%A0-%EA%B1%B0-%EC%9E%88%EB%82%98-n1rwlart",
+      "title": "불소영철 헛소리 모음 더 추가 할 거 있나?",
+      "excerpt": "(다 들으란 듯)치킨 맛집 너만 믿는다 (영자) 먹기 전에 줘야지 (만난지 하루만에) 심장을 도려내는 멀미사건이 트리거 전두지휘 불소불위의 권력을 가지고 영호에겐 순자님 적극 추천드려요 (저는 노땡큐지만 견제되는 1인자에게 세일즈) 커피 먹이고 대놓고 현숙바라기하면 사람들은 신경 안쓰겠죠 (알아서 피해주겠죠) 여러사람 앞에서 현숙 없을때 (발표) 난 현숙만 알아보기로 결정했고, 현숙은 영호를 알아보고 싶어해요 영호가 현숙이랑 단둘이 설거지하는 것이 ㅎㄷㄷ 국산차 suv라 멀미가 심했나 저는 집안도 좋은 것도 아닌데 외제차 타",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%88%EC%86%8C%EC%98%81%EC%B2%A0-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%AA%A8%EC%9D%8C-%EB%8D%94-%EC%B6%94%EA%B0%80-%ED%95%A0-%EA%B1%B0-%EC%9E%88%EB%82%98-n1rwlart",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T17:11:49+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T08:12:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -627767,7 +627805,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T17:08:50+09:00"
+      "slowAt": "2026-10-29T17:11:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -634821,7 +634859,9 @@
         "6636099",
         "6636101",
         "6636103",
-        "6636114"
+        "6636114",
+        "6636116",
+        "6636123"
       ]
     },
     "blind": {
