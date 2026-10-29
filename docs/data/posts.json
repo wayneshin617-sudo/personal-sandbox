@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:45:14+00:00",
+  "updatedAt": "2026-10-29T14:46:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -651039,6 +651039,103 @@
       "firstSeenAt": "2026-10-29T14:45:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92769,
+      "source": "qoo",
+      "externalId": "4390297100",
+      "title": "외국남 한국여도 신청받네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390297100",
+      "postedLabel": "23:45",
+      "postedAt": "2026-10-29T23:45:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:46:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92770,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-34%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EC%A7%80%EB%A7%88-tzcscpnu",
+      "title": "잘생긴 34영철 욕하지마",
+      "excerpt": "못생긴 뇬들아 😡",
+      "author": "****",
+      "company": "한국자산관리공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-34%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EC%A7%80%EB%A7%88-tzcscpnu",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:45:53+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 2,
+      "firstSeenAt": "2026-10-29T14:46:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92771,
+      "source": "blind",
+      "externalId": "cmt-458917779",
+      "title": "너 혹시 너도 말상이니?",
+      "excerpt": "잘생긴 34영철 욕하지마",
+      "author": "황*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-34%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EC%A7%80%EB%A7%88-tzcscpnu#458917779",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:45:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:46:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92772,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%8C%80%EC%A0%84-qdm8n1ml",
+      "title": "투표글 이번 기수 유니버스 대전 투표",
+      "excerpt": "누가 젤 예뻐?",
+      "author": "화*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%8C%80%EC%A0%84-qdm8n1ml",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:45:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T14:46:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92773,
+      "source": "blind",
+      "externalId": "cmt-458917780",
+      "title": "기분이다! 너 해라!~!",
+      "excerpt": "잘생긴 34영철 욕하지마",
+      "author": "l*******",
+      "company": "ex-스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-34%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EC%A7%80%EB%A7%88-tzcscpnu#458917780",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:45:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:46:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658616,7 +658713,9 @@
         "6638227",
         "6638243",
         "6638252",
-        "6638258"
+        "6638258",
+        "6638261",
+        "6638264"
       ]
     },
     "blind": {
@@ -662538,6 +662637,7 @@
         "/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-%EB%82%A8%EC%9E%90%EA%B0%80-%EC%97%B0%EC%95%A0-%EB%8D%94-%EB%AA%BB%ED%95%9C%EB%8B%A4%EB%8A%94-%EC%98%88%EC%98%81%EC%B2%A0-apddndmi",
         "/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-%EC%98%81%EC%B2%A0-%EC%97%B0%EB%B4%895%EC%B2%9C-vs-%EA%B0%93%EB%8B%89-%EC%83%81%EC%B2%A0-%EC%97%B0%EB%B4%897%EC%96%B5-kh3rssc8",
         "/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-%EC%98%81%EC%B2%A0-%EC%97%B0%EB%B4%895%EC%B2%9C-vs-%EC%83%81%EC%B2%A0-%EC%97%B0%EB%B4%897%EC%96%B5-kh3rssc8",
+        "/kr/post/%EC%9E%98%EC%83%9D%EA%B8%B4-34%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EC%A7%80%EB%A7%88-tzcscpnu",
         "/kr/post/%EC%9E%98%ED%95%B4-elgqhphf",
         "/kr/post/%EC%9E%98-%EB%A7%9E%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%98-kezzqkco",
         "/kr/post/%EC%9E%98-%EB%AA%B0%EB%9D%BC%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EA%B3%A0%EC%A1%B8%EC%83%9D%EC%82%B0%EC%A7%81%EC%9D%80-6kd3ouai",
@@ -667489,7 +667589,8 @@
         "4390291911",
         "4390294219",
         "4390294248",
-        "4390295624"
+        "4390295624",
+        "4390297100"
       ]
     },
     "keep": "v2",
