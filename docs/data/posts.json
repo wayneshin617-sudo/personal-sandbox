@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:15:00+00:00",
+  "updatedAt": "2026-10-29T03:16:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -611860,6 +611860,85 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T03:15:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 90784,
+      "source": "blind",
+      "externalId": "cmt-458822219",
+      "title": "외적으로는 합격이니까",
+      "excerpt": "현숙은",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-j1hjm8bo#458822219",
+      "postedLabel": "53분",
+      "postedAt": "2026-10-29T11:22:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:16:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90785,
+      "source": "blind",
+      "externalId": "cmt-458822520",
+      "title": "오히려 선시장나가면 개쩔꺼같은데... 하자랑은 거리가멀어보임. 너무예뻐 ㅠㅠ 진짜 영철이는 말도안된다....",
+      "excerpt": "현숙은",
+      "author": "😳*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-j1hjm8bo#458822520",
+      "postedLabel": "50분",
+      "postedAt": "2026-10-29T11:25:43+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:16:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90786,
+      "source": "blind",
+      "externalId": "cmt-458826534",
+      "title": "근데 나이가 37이라 후려치기만 당할거같음 ㅠ",
+      "excerpt": "현숙은",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-j1hjm8bo#458826534",
+      "postedLabel": "10분",
+      "postedAt": "2026-10-29T12:05:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:16:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90787,
+      "source": "dc",
+      "externalId": "6634973",
+      "title": "영철이는 노괴들이 발작할 짓을 다 함",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6634973&page=1",
+      "postedLabel": "12:15",
+      "postedAt": "2026-10-29T12:15:38+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:16:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611949,7 +612028,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T12:12:43+09:00"
+      "slowAt": "2026-10-29T12:15:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -618653,7 +618732,9 @@
         "6634950",
         "6634954",
         "6634958",
-        "6634961"
+        "6634961",
+        "6634965",
+        "6634970"
       ]
     },
     "blind": {
