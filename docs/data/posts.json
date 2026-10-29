@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:50:54+00:00",
+  "updatedAt": "2026-10-29T05:51:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -621586,6 +621586,26 @@
       "firstSeenAt": "2026-10-29T05:50:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91277,
+      "source": "dc",
+      "externalId": "cmt-10981273",
+      "title": "에휴 - dc App",
+      "excerpt": "정숙이 그래도 이쁜 이목구비임",
+      "author": "미니약과",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635390&page=5#cmt_10981273",
+      "postedLabel": "10.29 13:53:01",
+      "postedAt": "2026-10-29T13:53:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:51:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -621726,7 +621746,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T14:48:36+09:00"
+      "slowAt": "2026-10-29T14:51:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -628540,6 +628560,8 @@
         "6635379",
         "6635380",
         "6635383",
+        "6635389",
+        "6635390",
         "6635400",
         "6635402",
         "6635403",
@@ -628612,7 +628634,9 @@
         "6635628",
         "6635631",
         "6635633",
-        "6635635"
+        "6635635",
+        "6635639",
+        "6635641"
       ]
     },
     "blind": {
@@ -630573,6 +630597,7 @@
         "/kr/post/%EC%96%B4%EC%9E%A5-%EB%AC%B4%EC%97%87-xg31qiwh",
         "/kr/post/%EC%96%B4%EC%A0%9C%EA%B9%8C%EC%A7%80-%EC%A4%91%EB%A6%BD%EA%B8%B0%EC%96%B4-%EB%B0%95%EB%8D%98-%EB%82%B4-%EC%9E%90%EC%8B%A0%EC%9D%84-%EB%B0%98%EC%84%B1-2vglnjvc",
         "/kr/post/%EC%96%B4%EC%A0%9C%EA%BA%BC-%EC%A7%80%EA%B8%88-%EB%B4%A4%EB%8A%94%EB%8D%B0-73c188lx",
+        "/kr/post/%EC%96%B4%EC%A0%9C-%EA%BE%B8%EB%B2%85%EA%BE%B8%EB%B2%85-%EC%A1%B8%EB%8B%A4%EA%B0%80-ajbrbeyd",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%86%94%EB%B0%A9%EC%86%A1-%EB%B3%B4%EB%8A%94%EC%A4%91-%E3%85%8E%E3%85%8E-%EC%96%B4%EC%A0%9C%EA%BA%BC-%EC%9E%AC%EB%B0%8C%EC%A7%80-zpsowbn1",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EB%A7%90-%EC%A2%80-%EA%B7%B8%EB%A7%8C%ED%95%B4%E3%85%8B%E3%85%8B-m7r7beer",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%8F%A0-%EC%A1%B4%EC%9E%BC%EC%9D%B4%EA%B5%AC%EB%82%98-lavicdzu",
@@ -631314,6 +631339,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%95%9C%ED%85%8C-%EC%98%81%EC%9E%90%EA%B0%80-%EB%94%B1%EC%9D%B8%EB%8D%B0-ubx1idh2",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%98%95-%EB%A0%88%EC%A0%84%EB%93%9C%EB%84%A4-ew4cm18d",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%98%95-8tbydoqh",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%E3%84%B1%E3%85%8A%ED%95%B4%EB%B3%B4%EC%9D%B4%EB%A9%B4-de65jdkd",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%E3%85%85%E3%85%82-20%EB%AA%85-%EB%A7%8C%EB%82%98%EB%B4%A4%EB%8B%A4%EB%8A%94%EA%B1%B0-%EB%8B%A4-%EA%B5%AC%EB%9D%BC%EB%83%90-xxpj1rhy",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EA%B0%80%EC%A1%B1%EA%B3%B5%EA%B0%9C-%EC%99%9C-%ED%96%88%EB%83%90%ED%95%98-71pcu3wf",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EA%B0%90%EC%A3%BC-%ED%97%8C%ED%8F%AC-%EC%8A%A4%ED%83%80%EC%9D%BC-dwozoxrb",
