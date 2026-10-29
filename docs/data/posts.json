@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:01:10+00:00",
+  "updatedAt": "2026-10-29T10:02:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -632273,6 +632273,44 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T10:01:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91816,
+      "source": "qoo",
+      "externalId": "4389999384",
+      "title": "이번 기수 재밌지 않아?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389999384",
+      "postedLabel": "19:01",
+      "postedAt": "2026-10-29T19:01:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:02:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91817,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EB%82%98%EB%A7%8C-%EB%B3%84%EB%A1%9C-%EC%95%84%EB%8B%88%EC%A7%80-yudfiqgx",
+      "title": "영철 나만 별로 아니지?",
+      "excerpt": "진짜 왜저래 싶다... 외모 괜찮아도 정뚝떨... 영자 불쌍... 영철보단 좋은 남자 만날거야!!!",
+      "author": "l*********",
+      "company": "근로복지공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%82%98%EB%A7%8C-%EB%B3%84%EB%A1%9C-%EC%95%84%EB%8B%88%EC%A7%80-yudfiqgx",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T19:01:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T10:02:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -642321,6 +642359,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%82%BC%EB%AA%A8%EB%A0%88-38%EC%97%90-%EB%8F%88%EC%97%86%EC%96%B4%EC%84%9C-%EA%B9%A1%ED%86%B5%EC%8A%A4%ED%8F%AC%ED%8B%B0%EC%A7%80-%EB%A0%8C%ED%8A%B8-onqk1ejw",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%84%88%EB%AC%B4-%EB%82%98%EB%8C%84%EB%8B%A4-de25nnkz",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%84%88%EB%AC%B4-%EB%8C%95%EC%B2%AD%ED%95%B4%EC%84%9C-ti3xz8oe",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%84%88%EB%AC%B4-%EC%95%88%EC%93%B0%EB%9F%BD%EB%8B%A4-nohvq763",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%84%88%EB%AC%B4-%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%A7%90%ED%95%9C%EA%B2%83%EB%8F%84-%EA%B7%B8%EB%A0%87%EA%B8%B4%ED%95%9C%EB%8D%B0-byqqow88",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%85%B8%EC%82%B0%ED%83%80%EB%A0%B9%ED%95%98%EB%A9%B4%EC%84%9C-%EC%82%B0%ED%9B%84%EC%A1%B0%EB%A6%AC%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%B6%84%EB%85%B8%ED%95%98%EB%A9%B4-%EB%B8%94%EB%9D%BC%EB%82%A8-%EA%B7%B8-%EC%9E%90%EC%B2%B4-%EC%95%84%EB%8B%98-twxy87g0",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%88%88%EC%9D%84-%EC%99%9C%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%96%A0-vjisr4hu",
@@ -648211,7 +648250,8 @@
         "4389979678",
         "4389983262",
         "4389992561",
-        "4389996874"
+        "4389996874",
+        "4389999384"
       ]
     },
     "keep": "v2",
