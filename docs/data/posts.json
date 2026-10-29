@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:01:13+00:00",
+  "updatedAt": "2026-10-29T14:02:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -646828,6 +646828,44 @@
       "firstSeenAt": "2026-10-29T14:01:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92554,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99%EB%B3%B4%EA%B3%A0-%EC%9E%90%EA%B8%B0%EB%9E%91-%EA%B0%99%EB%8B%A4%EA%B3%A0-%ED%95%A0-%EB%95%8C-%EC%9B%83%EA%B2%BC%EB%8D%98%EA%B2%8C-czw8a04i",
+      "title": "영철이 현숙보고 자기랑 같다고 할 때 웃겼던게",
+      "excerpt": "약사가 죠스로 보이나.. 아웃풋이 너무 다른데 뭐가 같아",
+      "author": "나솔러",
+      "company": "SK텔레콤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99%EB%B3%B4%EA%B3%A0-%EC%9E%90%EA%B8%B0%EB%9E%91-%EA%B0%99%EB%8B%A4%EA%B3%A0-%ED%95%A0-%EB%95%8C-%EC%9B%83%EA%B2%BC%EB%8D%98%EA%B2%8C-czw8a04i",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:01:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T14:02:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92555,
+      "source": "blind",
+      "externalId": "/kr/post/Sk-%ED%95%98%EB%8B%89-%EC%83%9D%EC%82%B0%EC%A7%81-%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B3%BC%EA%B8%89-%ED%8F%AC%ED%95%A8-6%EC%96%B5-fzm5hsja",
+      "title": "Sk 하닉 생산직 상철 성과급 포함 6억?",
+      "excerpt": "맞어? 인센포함해서 세전 6억..;;",
+      "author": "I******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/Sk-%ED%95%98%EB%8B%89-%EC%83%9D%EC%82%B0%EC%A7%81-%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B3%BC%EA%B8%89-%ED%8F%AC%ED%95%A8-6%EC%96%B5-fzm5hsja",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:01:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T14:02:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -646969,7 +647007,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-29T22:58:54+09:00"
+      "slowAt": "2026-10-29T23:01:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -654346,7 +654384,10 @@
         "6637373",
         "6637386",
         "6637392",
-        "6637401"
+        "6637401",
+        "6637410",
+        "6637417",
+        "6637421"
       ]
     },
     "blind": {
