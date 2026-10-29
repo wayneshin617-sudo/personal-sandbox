@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:46:10+00:00",
+  "updatedAt": "2026-10-29T14:47:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -651136,6 +651136,85 @@
       "firstSeenAt": "2026-10-29T14:46:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92774,
+      "source": "dc",
+      "externalId": "6638283",
+      "title": "이제 망도 아니고 흑도다",
+      "excerpt": "",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638283&page=1",
+      "postedLabel": "23:46",
+      "postedAt": "2026-10-29T23:46:34+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:47:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92775,
+      "source": "dc",
+      "externalId": "cmt-10983102",
+      "title": "이거지",
+      "excerpt": "망도가 여자들이 환장하는 상이긴 함",
+      "author": "친하게지내자",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638266&page=1#cmt_10983102",
+      "postedLabel": "10.29 23:46:44",
+      "postedAt": "2026-10-29T23:46:44+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:47:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92776,
+      "source": "blind",
+      "externalId": "cmt-458917902",
+      "title": "얼굴 이목구비는 튤립이야",
+      "excerpt": "투표글 이번 기수 유니버스 대전 투표",
+      "author": "ॱ",
+      "company": "스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%8C%80%EC%A0%84-qdm8n1ml#458917902",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:46:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:47:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92777,
+      "source": "blind",
+      "externalId": "cmt-458917937",
+      "title": "튤립이쁘긴한데 인종다른건 힘드네",
+      "excerpt": "투표글 이번 기수 유니버스 대전 투표",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%8C%80%EC%A0%84-qdm8n1ml#458917937",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:46:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:47:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -651277,7 +651356,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-29T23:43:54+09:00"
+      "slowAt": "2026-10-29T23:46:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -658715,7 +658794,9 @@
         "6638252",
         "6638258",
         "6638261",
-        "6638264"
+        "6638264",
+        "6638266",
+        "6638271"
       ]
     },
     "blind": {
@@ -662507,6 +662588,7 @@
         "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-ncfrqqpu",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-nnaccchg",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%99%A4%EC%BC%80-%EC%96%B4%EA%B1%B0%EC%A7%80%EA%B0%99%EB%83%90-sfhkh1ry",
+        "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%8C%80%EC%A0%84-qdm8n1ml",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%95%EB%A6%AC-%EC%99%84%EB%A3%8C-sfkofbyt",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%A0%95%EC%88%99-5zz7ym1v",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%A2%80-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%82%98%EB%B3%B4%EB%84%A4-58h76bne",
