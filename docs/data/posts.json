@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T02:13:00+00:00",
+  "updatedAt": "2026-10-29T02:14:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -607705,6 +607705,45 @@
       "firstSeenAt": "2026-10-29T02:13:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90573,
+      "source": "qoo",
+      "externalId": "cmt-4389579272",
+      "title": "질문하는거보니까 똑띠야",
+      "excerpt": "근데 현숙 저 스펙에 얼굴도 이뻤으니 영철같은 남자 쳐내는건 일상이었을듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389577022#4389579272",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T10:13:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T02:14:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90574,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%A2%80-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%82%98%EB%B3%B4%EB%84%A4-58h76bne",
+      "title": "이번 기수 좀 재미있나보네?",
+      "excerpt": "넷플 독점으로 건너 간 후에 33기부터는 못 보고 있는데... ㅠㅠ",
+      "author": "n*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%A2%80-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%82%98%EB%B3%B4%EB%84%A4-58h76bne",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T11:13:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T02:14:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -614392,6 +614431,7 @@
         "6634657",
         "6634658",
         "6634659",
+        "6634665",
         "6634666",
         "6634670"
       ]
