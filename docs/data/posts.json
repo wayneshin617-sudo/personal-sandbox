@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:56:30+00:00",
+  "updatedAt": "2026-10-29T12:57:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -642131,6 +642131,64 @@
       "firstSeenAt": "2026-10-29T12:56:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92315,
+      "source": "qoo",
+      "externalId": "cmt-4390113989",
+      "title": "트리거라고 하면 쟁반 떨어뜨려야됨",
+      "excerpt": "이미 트리거 말 많이 나왔구나 ㅋㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390095079#4390113989",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T20:56:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:57:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92316,
+      "source": "qoo",
+      "externalId": "4390183740",
+      "title": "어제꺼 너무 재밌어서 3번째 보는중 ㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390183740",
+      "postedLabel": "21:57",
+      "postedAt": "2026-10-29T21:57:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:57:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92317,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AC%B4%ED%84%B1%EC%9E%84-%EB%8F%8C%EC%B6%9C%EC%9E%85%EC%9E%84-wkh61ltx",
+      "title": "34기 영철은 무턱임? 돌출입임?",
+      "excerpt": "둘 중에 하나는 맞는거같은데",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AC%B4%ED%84%B1%EC%9E%84-%EB%8F%8C%EC%B6%9C%EC%9E%85%EC%9E%84-wkh61ltx",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:57:11+09:00",
+      "views": 13,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T12:57:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -642220,7 +642278,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T21:54:11+09:00"
+      "slowAt": "2026-10-29T21:57:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -658344,7 +658402,8 @@
         "4390157548",
         "4390160395",
         "4390162708",
-        "4390174061"
+        "4390174061",
+        "4390183740"
       ]
     },
     "keep": "v2",
