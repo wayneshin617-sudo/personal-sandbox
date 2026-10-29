@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:34:02+00:00",
+  "updatedAt": "2026-10-29T03:35:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -612671,6 +612671,25 @@
       "firstSeenAt": "2026-10-29T03:34:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90825,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4%EC%A7%80-0d2eay2m",
+      "title": "영철 왜케 비호감이지",
+      "excerpt": "외모 허우대 멀쩡하고 쾌활한 성격이면 좀 호감이 느껴져야하는데 뭔가 가식같고 쾌활을 넘어서 나대는 거 같고 그러기도 쉽지 않을 것 같은디;;",
+      "author": "대******",
+      "company": "LG HelloVision",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4%EC%A7%80-0d2eay2m",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:34:44+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:35:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -619482,6 +619501,7 @@
         "6635028",
         "6635031",
         "6635036",
+        "6635038",
         "6635040",
         "6635041"
       ]
