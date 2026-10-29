@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T06:44:54+00:00",
+  "updatedAt": "2026-10-29T06:45:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -624425,6 +624425,46 @@
       "comments": 1,
       "firstSeenAt": "2026-10-29T06:44:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91420,
+      "source": "qoo",
+      "externalId": "cmt-4389795262",
+      "title": "@4 ㅇㅈ 티내면 티낸다고 더 욕 먹음",
+      "excerpt": "다대일할때 공평하면 노잼이야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389642989#4389795262",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T14:45:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:45:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91421,
+      "source": "blind",
+      "externalId": "cmt-458851644",
+      "title": "1,16,31 추천 스릴러 좋아하면 16,31",
+      "excerpt": "솔로 재미있나?",
+      "author": "y*****",
+      "company": "화성도시공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EB%A1%9C-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%82%98-dwbloooj#458851644",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T15:45:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:45:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -624565,7 +624605,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T15:42:36+09:00"
+      "slowAt": "2026-10-29T15:45:36+09:00"
     },
     "dc": {
       "doneIds": [
