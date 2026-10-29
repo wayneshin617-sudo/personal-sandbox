@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T09:57:08+00:00",
+  "updatedAt": "2026-10-29T09:59:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -632215,6 +632215,45 @@
       "firstSeenAt": "2026-10-29T09:57:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91813,
+      "source": "qoo",
+      "externalId": "cmt-4389948821",
+      "title": "ㄴㄷ 영호현숙 될거같음 영호랑 다른 여출 편집점 잡아주는거도 딱히 없는거보면",
+      "excerpt": "영호현숙 그냥 무난하게 될거같음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389942120#4389948821",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T17:58:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:59:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91814,
+      "source": "qoo",
+      "externalId": "4389996874",
+      "title": "영철이 동생한테 코치 같은거 받고 나왔다 하지않았나?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389996874",
+      "postedLabel": "18:58",
+      "postedAt": "2026-10-29T18:58:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T09:59:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -639512,7 +639551,8 @@
         "6636406",
         "6636414",
         "6636420",
-        "6636422"
+        "6636422",
+        "6636424"
       ]
     },
     "blind": {
@@ -648149,7 +648189,8 @@
         "4389973454",
         "4389979678",
         "4389983262",
-        "4389992561"
+        "4389992561",
+        "4389996874"
       ]
     },
     "keep": "v2",
