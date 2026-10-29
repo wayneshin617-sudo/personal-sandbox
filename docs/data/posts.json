@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T08:57:10+00:00",
+  "updatedAt": "2026-10-29T08:58:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -629925,6 +629925,44 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T08:57:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91697,
+      "source": "qoo",
+      "externalId": "4389947892",
+      "title": "와 내가 현숙 부모님이면 영철 개싫을듯",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389947892",
+      "postedLabel": "17:57",
+      "postedAt": "2026-10-29T17:56:59+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:58:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91698,
+      "source": "qoo",
+      "externalId": "4389948045",
+      "title": "마지막엔딩 노래 왜 배반의 장미일까",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4389948045",
+      "postedLabel": "17:57",
+      "postedAt": "2026-10-29T17:57:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T08:58:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -630014,7 +630052,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T17:54:50+09:00"
+      "slowAt": "2026-10-29T17:57:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -640838,6 +640876,7 @@
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%8A%94-%ED%8C%A8%EC%8A%A4%EB%8B%A4-%EB%82%A8%ED%94%BC%EB%94%94-or4tbs3w",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%B3%B4%EA%B3%A0-%EB%86%80%EB%9E%80%EC%A0%90%E2%80%A6-37f0kyhj",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84%EB%B3%B4%EB%8A%94%EB%8D%B0-cs2rvrn7",
+        "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EB%AD%90%EC%A7%80-3o6uni0b",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EB%B3%B4%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%84%BC%E3%85%8B%E3%85%8B-l4bzt1zz",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EC%97%AC%EC%B6%9C%EB%93%A4-%ED%91%9C%EC%A0%95%EC%9D%B4-%EB%B0%9D%EC%9D%80%EA%B2%8C-%EC%8B%A0%EA%B8%B0%ED%95%98%EB%8B%A4-u0it1kem",
         "/kr/post/%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EC%A7%84%EC%A7%9C-%EB%B3%B4%EA%B8%B0%EA%B0%80-%ED%9E%98%EB%93%A4%EC%A0%95%EB%8F%84%EC%9E%84-78wwu501",
@@ -645779,7 +645818,9 @@
         "4389918038",
         "4389932808",
         "4389938361",
-        "4389942120"
+        "4389942120",
+        "4389947892",
+        "4389948045"
       ]
     },
     "keep": "v2",
