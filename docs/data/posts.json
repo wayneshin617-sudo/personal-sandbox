@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T05:53:54+00:00",
+  "updatedAt": "2026-10-29T05:54:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -621744,6 +621744,46 @@
       "firstSeenAt": "2026-10-29T05:53:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91285,
+      "source": "qoo",
+      "externalId": "cmt-4389752260",
+      "title": "ㅋㅋㅋㅋ혐관",
+      "excerpt": "영수 건축회사 영숙 인테리어회사",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389749545#4389752260",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T13:54:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:54:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91286,
+      "source": "blind",
+      "externalId": "cmt-458845913",
+      "title": "영숙은 8자매라 그래보여",
+      "excerpt": "가난하게 컸어?는 진짜 명대사다",
+      "author": "무**",
+      "company": "방사선사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%EB%82%9C%ED%95%98%EA%B2%8C-%EC%BB%B8%EC%96%B4%EB%8A%94-%EC%A7%84%EC%A7%9C-%EB%AA%85%EB%8C%80%EC%82%AC%EB%8B%A4-bth44a3w#458845913",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T14:54:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T05:54:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -621884,7 +621924,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T14:51:36+09:00"
+      "slowAt": "2026-10-29T14:54:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -628701,6 +628741,7 @@
         "6635389",
         "6635390",
         "6635393",
+        "6635399",
         "6635400",
         "6635402",
         "6635403",
@@ -628779,7 +628820,8 @@
         "6635641",
         "6635642",
         "6635644",
-        "6635647"
+        "6635647",
+        "6635648"
       ]
     },
     "blind": {
@@ -628818,6 +628860,7 @@
         "/kr/post/%E3%85%A0%E3%85%A0-%E3%85%A1%E3%85%A1%E3%85%A1%E3%85%A1%EA%B5%AD%ED%99%94%EA%B0%9C%EB%B6%88%EC%8C%8D%ED%95%B4-wrszmxma",
         "/kr/post/%E3%85%A0%E3%85%A0-%EB%82%98%EB%8A%94-%EC%83%81%EC%B2%A0%EC%9D%B4-%EB%AD%94%EA%B0%80-%EC%A0%9C%EC%9D%BC-%EB%B3%84%EB%A1%9C%EC%9D%BC%EA%B1%B0%EA%B0%99%EC%95%84-tl62u55q",
         "/kr/post/%EA%B0%80%EB%81%94-%ED%98%84%EC%88%99-%ED%9B%84%EB%A0%A4%EC%B9%98%EB%8A%94-%EA%B8%80%EB%B3%B4%EB%A9%B4-%EB%84%88%EB%AC%B4%EC%8B%A0%EA%B8%B0%ED%95%A8-j36d8cvs",
+        "/kr/post/%EA%B0%80%EB%82%9C%ED%95%98%EA%B2%8C-%EC%BB%B8%EC%96%B4%EB%8A%94-%EC%A7%84%EC%A7%9C-%EB%AA%85%EB%8C%80%EC%82%AC%EB%8B%A4-bth44a3w",
         "/kr/post/%EA%B0%80%EC%8B%9C%EB%B2%88-%EC%95%88%ED%95%B4%EB%8F%84-%EC%9D%B4%EC%81%A0-%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-5t3lspku",
         "/kr/post/%EA%B0%80%EC%9E%A5-%EA%B8%B0-%EC%8E%88-%EC%B6%9C%EC%97%B0%EC%9E%90-csgvc6th",
         "/kr/post/%EA%B0%80%ED%95%B4%EC%9E%90-%ED%8A%B9-%EA%B0%80%ED%95%B4%ED%95%9C-%EA%B1%B0-%EC%95%84%EB%8B%98-or-%EA%B3%A0%EC%9D%98-%EC%95%84%EB%8B%88%EB%9D%BC%EA%B3%A0-%ED%95%A8-3bml4flh",
