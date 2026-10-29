@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:40:03+00:00",
+  "updatedAt": "2026-10-29T03:41:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -612907,6 +612907,64 @@
       "firstSeenAt": "2026-10-29T03:40:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90837,
+      "source": "qoo",
+      "externalId": "cmt-4389651675",
+      "title": "근데 티내면 또 다른사람은 왜 무안하게 만드냐며 욕하는 세상이라",
+      "excerpt": "다대일할때 공평하면 노잼이야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389642989#4389651675",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T11:40:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:41:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 90838,
+      "source": "dc",
+      "externalId": "6635077",
+      "title": "여자도 요즘은 외모를 본다는건 인정하면서",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6635077&page=1",
+      "postedLabel": "12:40",
+      "postedAt": "2026-10-29T12:40:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:41:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90839,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EC%A7%84%EC%A7%9C-%EB%AD%94-%ED%98%84%EC%88%99%EC%9D%84-%EC%95%88%EC%95%84%EC%84%9C-%EC%A1%B0%EC%88%98%EC%84%9D-%EC%9D%98%EC%9E%90%EB%A5%BC-%EC%A1%B0%EC%A0%88%ED%95%B4%EC%A3%BC%EB%83%90%E3%85%A0%E3%85%A0%E3%85%A0-bcnfa47p",
+      "title": "아진짜 뭔 현숙을 안아서 조수석 의자를 조절해주냐ㅠㅠㅠ",
+      "excerpt": "너무 부담르러유ㅓ퓨ㅠㅠㅠㅠ",
+      "author": "m*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%A7%84%EC%A7%9C-%EB%AD%94-%ED%98%84%EC%88%99%EC%9D%84-%EC%95%88%EC%95%84%EC%84%9C-%EC%A1%B0%EC%88%98%EC%84%9D-%EC%9D%98%EC%9E%90%EB%A5%BC-%EC%A1%B0%EC%A0%88%ED%95%B4%EC%A3%BC%EB%83%90%E3%85%A0%E3%85%A0%E3%85%A0-bcnfa47p",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:40:45+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:41:02+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -619728,6 +619786,7 @@
         "6635053",
         "6635061",
         "6635062",
+        "6635066",
         "6635069"
       ]
     },
