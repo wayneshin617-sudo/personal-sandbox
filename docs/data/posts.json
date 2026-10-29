@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:57:13+00:00",
+  "updatedAt": "2026-10-29T14:58:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -651610,6 +651610,45 @@
       "firstSeenAt": "2026-10-29T14:57:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92798,
+      "source": "dc",
+      "externalId": "6638345",
+      "title": "어금니아빠가 광수냐 영수냐???",
+      "excerpt": "",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638345&page=1",
+      "postedLabel": "23:57",
+      "postedAt": "2026-10-29T23:57:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:58:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92799,
+      "source": "blind",
+      "externalId": "cmt-458919699",
+      "title": "광수는 단칼에 차단하고 상철 영식은 어장치는거보고 느낌ㅋㅋ",
+      "excerpt": "순자가 제일 판단 잘함",
+      "author": "k*******",
+      "company": "밀리언볼트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%A0%9C%EC%9D%BC-%ED%8C%90%EB%8B%A8-%EC%9E%98%ED%95%A8-88qjymch#458919699",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:57:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:58:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -668079,7 +668118,8 @@
         "4390295624",
         "4390297100",
         "4390298877",
-        "4390301801"
+        "4390301801",
+        "4390305970"
       ]
     },
     "keep": "v2",
