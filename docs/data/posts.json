@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:22:09+00:00",
+  "updatedAt": "2026-10-29T10:24:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -633235,6 +633235,45 @@
       "firstSeenAt": "2026-10-29T10:22:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91865,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%EC%A0%9C-%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%84%88%EB%AC%B4-%EA%B4%B4%EB%A1%9C%EC%9B%A0%EC%96%B4-arold63v",
+      "title": "어제 영철보면서 너무 괴로웠어",
+      "excerpt": "원래 공감성 수치 잘느끼는편이라 그런지... 이제 사회생활 어떻게하냐ㅠ 너무 뭐랄까 적나라해서 불쾌할정도.. 남피디 나뻐",
+      "author": "b*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EC%98%81%EC%B2%A0%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%84%88%EB%AC%B4-%EA%B4%B4%EB%A1%9C%EC%9B%A0%EC%96%B4-arold63v",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T19:23:50+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T10:24:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 91866,
+      "source": "blind",
+      "externalId": "cmt-458878673",
+      "title": "남피디 영숙이가 고소 하고 깽판칠거 같아서 쫄았나",
+      "excerpt": "나솔 이번기수 빌런",
+      "author": "!*********",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%B9%8C%EB%9F%B0-ijl77ybg#458878673",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T19:23:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:24:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -633375,7 +633414,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T19:20:50+09:00"
+      "slowAt": "2026-10-29T19:23:50+09:00"
     },
     "dc": {
       "doneIds": [
