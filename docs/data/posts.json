@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T06:53:54+00:00",
+  "updatedAt": "2026-10-29T06:55:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -625103,6 +625103,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-29T06:53:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91454,
+      "source": "blind",
+      "externalId": "cmt-458852968",
+      "title": "1은 그냥 아예 안어울림 2는 얼굴합이라도 맞음",
+      "excerpt": "투표글 도쿄영호랑 바야바정숙 사귐 vs 불소영철과 멀미현숙 사귐 투표",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%84%EC%BF%84%EC%98%81%ED%98%B8%EB%9E%91-%EB%B0%94%EC%95%BC%EB%B0%94%EC%A0%95%EC%88%99-%EC%82%AC%EA%B7%90-vs-%EB%B6%88%EC%86%8C%EC%98%81%EC%B2%A0%EA%B3%BC-%EB%A9%80%EB%AF%B8%ED%98%84%EC%88%99-%EC%82%AC%EA%B7%90-myzfwu4f#458852968",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T15:55:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:55:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -625192,7 +625212,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T15:52:36+09:00"
+      "slowAt": "2026-10-29T15:55:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -632221,7 +632241,8 @@
         "6635864",
         "6635866",
         "6635867",
-        "6635877"
+        "6635877",
+        "6635878"
       ]
     },
     "blind": {
