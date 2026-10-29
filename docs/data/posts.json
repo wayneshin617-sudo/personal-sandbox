@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T12:05:30+00:00",
+  "updatedAt": "2026-10-29T12:07:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -638948,6 +638948,105 @@
       "firstSeenAt": "2026-10-29T12:05:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92154,
+      "source": "blind",
+      "externalId": "cmt-458891304",
+      "title": "그니까 왜케 계속 지껄이면서 나대는거야",
+      "excerpt": "와 재방 보는데",
+      "author": "!*********",
+      "company": "SK",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EC%9E%AC%EB%B0%A9-%EB%B3%B4%EB%8A%94%EB%8D%B0-65wqputa#458891304",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-29T20:58:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:07:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92155,
+      "source": "blind",
+      "externalId": "cmt-458891485",
+      "title": "말하다가 토를 했어야 돼 시트 한 번 싹~~",
+      "excerpt": "와 재방 보는데",
+      "author": "u*****",
+      "company": "한양이엔지",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EC%9E%AC%EB%B0%A9-%EB%B3%B4%EB%8A%94%EB%8D%B0-65wqputa#458891485",
+      "postedLabel": "8분",
+      "postedAt": "2026-10-29T20:59:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:07:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92156,
+      "source": "qoo",
+      "externalId": "4390124753",
+      "title": "영철 그동안 항상 갑이었던거 같긴함 연애에서 ㅇㅇ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390124753",
+      "postedLabel": "21:06",
+      "postedAt": "2026-10-29T21:06:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:07:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92157,
+      "source": "blind",
+      "externalId": "cmt-458892614",
+      "title": "입 열기",
+      "excerpt": "영철이",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-laolttyc#458892614",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:07:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:07:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92158,
+      "source": "blind",
+      "externalId": "cmt-458892532",
+      "title": "연프 나오기",
+      "excerpt": "영철이",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-laolttyc#458892532",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T21:07:11+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T12:07:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -646367,7 +646466,8 @@
         "6636809",
         "6636812",
         "6636819",
-        "6636822"
+        "6636822",
+        "6636824"
       ]
     },
     "blind": {
@@ -655080,7 +655180,8 @@
         "4390096665",
         "4390111353",
         "4390116306",
-        "4390117168"
+        "4390117168",
+        "4390124753"
       ]
     },
     "keep": "v2",
