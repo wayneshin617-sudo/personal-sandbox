@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:37:13+00:00",
+  "updatedAt": "2026-10-29T14:38:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -650236,6 +650236,105 @@
       "firstSeenAt": "2026-10-29T14:37:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92728,
+      "source": "dc",
+      "externalId": "6638113",
+      "title": "쇄골에 타투한 누나랑 결혼하고 싶다",
+      "excerpt": "",
+      "author": "장카설유",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638113&page=1",
+      "postedLabel": "23:37",
+      "postedAt": "2026-10-29T23:37:12+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:38:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92729,
+      "source": "dc",
+      "externalId": "cmt-10983072",
+      "title": "바로 차돌리고 싶을듯 - dc App",
+      "excerpt": "BTS 보고 한국에 온 외국녀 현실",
+      "author": "닥나좆커",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638112&page=1#cmt_10983072",
+      "postedLabel": "10.29 23:37:38",
+      "postedAt": "2026-10-29T23:37:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:38:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92730,
+      "source": "blind",
+      "externalId": "cmt-458916539",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영식이는 무슨상이야?",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%8A%A8%EC%83%81%EC%9D%B4%EC%95%BC-13ppnlmr#458916539",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:37:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:38:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92731,
+      "source": "blind",
+      "externalId": "cmt-458916523",
+      "title": "와나나가뉴구양",
+      "excerpt": "영식이는 무슨상이야?",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%8A%A8%EC%83%81%EC%9D%B4%EC%95%BC-13ppnlmr#458916523",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:37:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:38:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92732,
+      "source": "blind",
+      "externalId": "cmt-458916536",
+      "title": "뭔말임 문신잇든 없든 닥 손이겟짘ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "여자만 그런게 아니라 남자도 문신 있는건 결혼시장 감점 요소임",
+      "author": ".***",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%A7%8C-%EA%B7%B8%EB%9F%B0%EA%B2%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EB%82%A8%EC%9E%90%EB%8F%84-%EB%AC%B8%EC%8B%A0-%EC%9E%88%EB%8A%94%EA%B1%B4-%EA%B2%B0%ED%98%BC%EC%8B%9C%EC%9E%A5-%EA%B0%90%EC%A0%90-%EC%9A%94%EC%86%8C%EC%9E%84-3t7pdnk6#458916536",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:37:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:38:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -650377,7 +650476,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-29T23:34:55+09:00"
+      "slowAt": "2026-10-29T23:37:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -657801,7 +657900,8 @@
         "6638094",
         "6638096",
         "6638100",
-        "6638107"
+        "6638107",
+        "6638112"
       ]
     },
     "blind": {
