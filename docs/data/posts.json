@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T23:00:57+00:00",
+  "updatedAt": "2026-10-29T23:01:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -657720,6 +657720,25 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T23:00:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93107,
+      "source": "dc",
+      "externalId": "6638885",
+      "title": "1찍. 전라도. 중공인 그리고 영호",
+      "excerpt": "",
+      "author": "나솔",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638885&page=1",
+      "postedLabel": "08:00",
+      "postedAt": "2026-10-30T08:00:58+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T23:01:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -665447,6 +665466,7 @@
         "6638828",
         "6638830",
         "6638834",
+        "6638835",
         "6638841",
         "6638854",
         "6638859",
