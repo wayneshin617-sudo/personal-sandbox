@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T21:34:52+00:00",
+  "updatedAt": "2026-10-29T21:51:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -656475,6 +656475,25 @@
       "firstSeenAt": "2026-10-29T21:34:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93044,
+      "source": "qoo",
+      "externalId": "4390410532",
+      "title": "34영철 남출이랑 얘기할때 돈에 집착하지 않는척할뿐 되게 민감한거같다 생각했는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390410532",
+      "postedLabel": "06:51",
+      "postedAt": "2026-10-30T06:51:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T21:51:49+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -656565,7 +656584,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T06:48:35+09:00"
+      "slowAt": "2026-10-30T06:51:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -673120,7 +673139,8 @@
         "4390301801",
         "4390305970",
         "4390349185",
-        "4390355304"
+        "4390355304",
+        "4390410532"
       ]
     },
     "keep": "v2",
