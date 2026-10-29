@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T03:50:01+00:00",
+  "updatedAt": "2026-10-29T03:51:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -613556,6 +613556,45 @@
       "firstSeenAt": "2026-10-29T03:50:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 90870,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B3%BC%EC%8B%9C%EB%8A%94-%EA%B2%B0%ED%95%8D%EC%9D%B4-%EB%A7%9E%EB%82%98%EB%B4%90-7ara75hr",
+      "title": "과시는 결핍이 맞나봐",
+      "excerpt": "인터뷰 때 20대 때 2억 벌었다고 자랑했잖아 (모았다고는 안함) 저렇게 자격지심이 있을 줄이야",
+      "author": "p*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%BC%EC%8B%9C%EB%8A%94-%EA%B2%B0%ED%95%8D%EC%9D%B4-%EB%A7%9E%EB%82%98%EB%B4%90-7ara75hr",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:50:45+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T03:51:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 90871,
+      "source": "blind",
+      "externalId": "cmt-458831233",
+      "title": "ㅁㅊㅋㅋㅋㅋㅋ",
+      "excerpt": "34기 옥순 닮은꼴",
+      "author": "l*******",
+      "company": "한국거래소",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%A5%EC%88%9C-%EB%8B%AE%EC%9D%80%EA%BC%B4-ksive50l#458831233",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T12:50:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T03:51:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -613695,7 +613734,7 @@
         "DewucasE6nk",
         "DexpSnWmyGa"
       ],
-      "slowAt": "2026-10-29T12:47:45+09:00"
+      "slowAt": "2026-10-29T12:50:45+09:00"
     },
     "dc": {
       "doneIds": [
@@ -620387,6 +620426,7 @@
         "6635111",
         "6635114",
         "6635117",
+        "6635120",
         "6635121"
       ]
     },
