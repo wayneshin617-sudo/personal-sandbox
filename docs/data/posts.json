@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T10:28:10+00:00",
+  "updatedAt": "2026-10-29T10:29:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -633393,6 +633393,46 @@
       "firstSeenAt": "2026-10-29T10:28:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91873,
+      "source": "qoo",
+      "externalId": "cmt-4389971306",
+      "title": "영철이 그렇게 잘생긴것도 아닌데.. 너무 취향인가봄 ㅠ",
+      "excerpt": "나는솔로 어제편 이제서야 다봤는데 와 난 영자가 신기하다n",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389918038#4389971306",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T18:28:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:29:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91874,
+      "source": "dc",
+      "externalId": "cmt-10982357",
+      "title": "누구겠냐 ㅋㅋㅋㅋㅋㅋ - dc App",
+      "excerpt": "어떤 정신병일까 고민했는데 \"외향형 찐따\" 요거 같음",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6636362&page=3#cmt_10982357",
+      "postedLabel": "10.29 18:45:44",
+      "postedAt": "2026-10-29T18:45:44+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T10:29:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -640708,7 +640748,9 @@
         "6636488",
         "6636490",
         "6636493",
-        "6636495"
+        "6636495",
+        "6636502",
+        "6636505"
       ]
     },
     "blind": {
