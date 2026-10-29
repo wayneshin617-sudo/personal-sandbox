@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T14:06:14+00:00",
+  "updatedAt": "2026-10-29T14:07:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -647201,6 +647201,103 @@
       "firstSeenAt": "2026-10-29T14:06:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 92573,
+      "source": "qoo",
+      "externalId": "4390263568",
+      "title": "아무리생각해도 나이차이가 개오바다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4390263568",
+      "postedLabel": "23:06",
+      "postedAt": "2026-10-29T23:06:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:07:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92574,
+      "source": "dc",
+      "externalId": "6637503",
+      "title": "오지콤 특집임...?",
+      "excerpt": "",
+      "author": "욞",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6637503&page=1",
+      "postedLabel": "23:06",
+      "postedAt": "2026-10-29T23:06:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:07:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92575,
+      "source": "dc",
+      "externalId": "cmt-10983011",
+      "title": "억지웃음ㅋㅋㅋ - dc App",
+      "excerpt": "혜성이 현타옴",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6637509&page=1#cmt_10983011",
+      "postedLabel": "10.29 23:06:30",
+      "postedAt": "2026-10-29T23:06:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:07:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 92576,
+      "source": "dc",
+      "externalId": "6637520",
+      "title": "효도관광이냐",
+      "excerpt": "",
+      "author": "사과맛제리뽀",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6637520&page=1",
+      "postedLabel": "23:06",
+      "postedAt": "2026-10-29T23:06:40+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:07:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 92577,
+      "source": "blind",
+      "externalId": "cmt-458911363",
+      "title": "그래도 좋은회사라 영철보단 스펙훨씬좋음ㅋㅋ",
+      "excerpt": "영철이 현숙보고 자기랑 같다고 할 때 웃겼던게",
+      "author": "a********",
+      "company": "가톨릭중앙의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99%EB%B3%B4%EA%B3%A0-%EC%9E%90%EA%B8%B0%EB%9E%91-%EA%B0%99%EB%8B%A4%EA%B3%A0-%ED%95%A0-%EB%95%8C-%EC%9B%83%EA%B2%BC%EB%8D%98%EA%B2%8C-czw8a04i#458911363",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T23:06:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T14:07:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -654726,7 +654823,9 @@
         "6637421",
         "6637430",
         "6637460",
-        "6637482"
+        "6637482",
+        "6637509",
+        "6637516"
       ]
     },
     "blind": {
@@ -663547,7 +663646,8 @@
         "4390248077",
         "4390251177",
         "4390255125",
-        "4390260012"
+        "4390260012",
+        "4390263568"
       ]
     },
     "keep": "v2",
