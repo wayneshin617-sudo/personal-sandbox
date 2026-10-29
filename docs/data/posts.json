@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T06:40:02+00:00",
+  "updatedAt": "2026-10-29T06:40:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -624227,6 +624227,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-29T06:40:02+00:00",
       "isSeed": false
+    },
+    {
+      "id": 91410,
+      "source": "qoo",
+      "externalId": "cmt-4389790575",
+      "title": "그치 1순위라고 말해주는 사람 좋지",
+      "excerpt": "순자도 맘에 드는 남출한테 2순위라 답답하겠다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4389789753#4389790575",
+      "postedLabel": "",
+      "postedAt": "2026-10-29T14:40:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:40:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91411,
+      "source": "blind",
+      "externalId": "cmt-458851001",
+      "title": "이번 34기는 재밋음",
+      "excerpt": "솔로 재미있나?",
+      "author": "f****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EB%A1%9C-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%82%98-dwbloooj#458851001",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T15:40:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:40:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -624316,7 +624356,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-29T15:37:36+09:00"
+      "slowAt": "2026-10-29T15:40:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -631328,7 +631368,8 @@
         "6635816",
         "6635820",
         "6635824",
-        "6635825"
+        "6635825",
+        "6635828"
       ]
     },
     "blind": {
