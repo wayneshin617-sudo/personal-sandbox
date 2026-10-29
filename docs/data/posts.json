@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-29T06:51:54+00:00",
+  "updatedAt": "2026-10-29T06:53:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -625064,6 +625064,45 @@
       "firstSeenAt": "2026-10-29T06:51:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 91452,
+      "source": "blind",
+      "externalId": "cmt-458851579",
+      "title": "가난하다고 다들 그러는 것도 아니자나 그냥 저런 인간이 알고보니 가난했던거지 너무 그렇게 엮지 말자",
+      "excerpt": "가난하게 컸어?는 진짜 명대사다",
+      "author": "l********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%EB%82%9C%ED%95%98%EA%B2%8C-%EC%BB%B8%EC%96%B4%EB%8A%94-%EC%A7%84%EC%A7%9C-%EB%AA%85%EB%8C%80%EC%82%AC%EB%8B%A4-bth44a3w#458851579",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-29T15:44:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-29T06:53:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 91453,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8F%84%EC%BF%84%EC%98%81%ED%98%B8%EB%9E%91-%EB%B0%94%EC%95%BC%EB%B0%94%EC%A0%95%EC%88%99-%EC%82%AC%EA%B7%90-vs-%EB%B6%88%EC%86%8C%EC%98%81%EC%B2%A0%EA%B3%BC-%EB%A9%80%EB%AF%B8%ED%98%84%EC%88%99-%EC%82%AC%EA%B7%90-myzfwu4f",
+      "title": "투표글 도쿄영호랑 바야바정숙 사귐 vs 불소영철과 멀미현숙 사귐 투표",
+      "excerpt": "뭐가 더 벨붕임?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%84%EC%BF%84%EC%98%81%ED%98%B8%EB%9E%91-%EB%B0%94%EC%95%BC%EB%B0%94%EC%A0%95%EC%88%99-%EC%82%AC%EA%B7%90-vs-%EB%B6%88%EC%86%8C%EC%98%81%EC%B2%A0%EA%B3%BC-%EB%A9%80%EB%AF%B8%ED%98%84%EC%88%99-%EC%82%AC%EA%B7%90-myzfwu4f",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-29T15:53:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-29T06:53:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -632181,7 +632220,8 @@
         "6635863",
         "6635864",
         "6635866",
-        "6635867"
+        "6635867",
+        "6635877"
       ]
     },
     "blind": {
