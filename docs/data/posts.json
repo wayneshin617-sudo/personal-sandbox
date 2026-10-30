@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T03:52:30+00:00",
+  "updatedAt": "2026-10-30T03:53:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -668464,6 +668464,45 @@
       "firstSeenAt": "2026-10-30T03:52:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93649,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%A8%EC%9E%90%EB%93%A4-%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%98%88-%E3%85%87%E3%85%88%E3%84%B9%ED%95%98%EB%A9%B4%EC%84%9C-xb4jnhuj",
+      "title": "남자들 간스유예 ㅇㅈㄹ하면서",
+      "excerpt": "간호사 직업 비하 해대더니 막상 순자 직업은 좋다고 난리네?ㅋㅋㅋㅋ 블라에서 여교서 신나게 까여도 현실에선 소개팅감 1순위인거랑 같은건가... 역시 커뮤는 그사세다",
+      "author": "a******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90%EB%93%A4-%EA%B0%84%EC%8A%A4%EC%9C%A0%EC%98%88-%E3%85%87%E3%85%88%E3%84%B9%ED%95%98%EB%A9%B4%EC%84%9C-xb4jnhuj",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:53:14+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T03:53:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93650,
+      "source": "blind",
+      "externalId": "cmt-458975851",
+      "title": "또회사",
+      "excerpt": "영철 부여 공무원 아니고",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B6%80%EC%97%AC-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%95%84%EB%8B%88%EA%B3%A0-385fcgbx#458975851",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:53:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:53:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -668610,7 +668649,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T12:50:14+09:00"
+      "slowAt": "2026-10-30T12:53:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -676318,7 +676357,8 @@
         "6639346",
         "6639348",
         "6639349",
-        "6639360"
+        "6639360",
+        "6639362"
       ]
     },
     "blind": {
