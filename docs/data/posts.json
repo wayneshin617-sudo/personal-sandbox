@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T15:35:44+00:00",
+  "updatedAt": "2026-10-30T15:36:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -690320,6 +690320,46 @@
       "recommends": 4,
       "comments": null,
       "firstSeenAt": "2026-10-30T15:35:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94752,
+      "source": "blind",
+      "externalId": "cmt-459067784",
+      "title": "그냥 궁금한건데 왜? 불행해보여?",
+      "excerpt": "현숙이 고대 세종이야 안암이야?",
+      "author": ")******** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EA%B3%A0%EB%8C%80-%EC%84%B8%EC%A2%85%EC%9D%B4%EC%95%BC-%EC%95%88%EC%95%94%EC%9D%B4%EC%95%BC-af6xiz7o#459067784",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T00:36:25+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T15:36:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94753,
+      "source": "blind",
+      "externalId": "cmt-459067762",
+      "title": "엥? 서울캠 아냐?",
+      "excerpt": "현숙이도 고대세종캠 문신..",
+      "author": "i*********",
+      "company": "교보증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%8F%84-%EA%B3%A0%EB%8C%80%EC%84%B8%EC%A2%85%EC%BA%A0-%EB%AC%B8%EC%8B%A0-czo7nqlg#459067762",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T00:36:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T15:36:43+00:00",
       "isSeed": false,
       "kind": "reply"
     }
