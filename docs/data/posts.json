@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T03:12:30+00:00",
+  "updatedAt": "2026-10-30T03:13:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -667156,6 +667156,44 @@
       "firstSeenAt": "2026-10-30T03:12:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93583,
+      "source": "dc",
+      "externalId": "6639250",
+      "title": "영호 키가 188",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639250&page=1",
+      "postedLabel": "12:12",
+      "postedAt": "2026-10-30T12:12:34+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:13:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93584,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AC%B8%EC%8B%A0-rz7jameo",
+      "title": "문신",
+      "excerpt": "여자들은 지 평판 x되는 것도 있어보이면 따라하고 보는 듯. 멍청하다고 하는게 맞는 건 지, 자제력이라는게 없는 건 지.",
+      "author": "l*********",
+      "company": "GE코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-rz7jameo",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:13:14+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T03:13:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -674981,7 +675019,8 @@
         "6639228",
         "6639233",
         "6639238",
-        "6639247"
+        "6639247",
+        "6639248"
       ]
     },
     "blind": {
