@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T03:47:31+00:00",
+  "updatedAt": "2026-10-30T03:48:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -668245,6 +668245,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T03:47:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93638,
+      "source": "blind",
+      "externalId": "cmt-458975240",
+      "title": "그냥 딸딸이용",
+      "excerpt": "궁금",
+      "author": "i********",
+      "company": "SK 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B6%81%EA%B8%88-m12ldtzu#458975240",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:48:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:48:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93639,
+      "source": "blind",
+      "externalId": "cmt-458975265",
+      "title": "질문이 멍청함",
+      "excerpt": "궁금",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B6%81%EA%B8%88-m12ldtzu#458975265",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:48:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:48:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93640,
+      "source": "blind",
+      "externalId": "cmt-458975321",
+      "title": "모두가 그렇진 않아 감정이 없으면 잠자리 못하지",
+      "excerpt": "궁금",
+      "author": "비**",
+      "company": "한국국토정보공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B6%81%EA%B8%88-m12ldtzu#458975321",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:48:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:48:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -668336,7 +668396,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T12:45:14+09:00"
+      "slowAt": "2026-10-30T12:48:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -676072,6 +676132,7 @@
         "6639172",
         "6639176",
         "6639188",
+        "6639196",
         "6639202",
         "6639211",
         "6639212",
@@ -676095,7 +676156,8 @@
         "6639329",
         "6639336",
         "6639344",
-        "6639346"
+        "6639346",
+        "6639348"
       ]
     },
     "blind": {
@@ -676308,6 +676370,7 @@
         "/kr/post/%EA%B6%81%EA%B8%88%ED%95%9C%EA%B1%B0-%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%EC%83%81%EC%B2%A0-e8bzof6k",
         "/kr/post/%EA%B6%81%EA%B8%88%ED%95%9C%EA%B2%8C-%EC%98%81%EC%88%99%EC%9D%80-nqwouuzm",
         "/kr/post/%EA%B6%81%EA%B8%88%ED%95%9C%EB%8D%B0-%EB%B0%B0%EC%9A%B0%EC%9E%90%EB%A1%9C-4vo0h76x",
+        "/kr/post/%EA%B6%81%EA%B8%88-m12ldtzu",
         "/kr/post/%EA%B7%80%EC%97%90-%ED%94%BC%EC%96%B4%EC%8B%B1-%EB%A7%8E%EC%9D%80-%EC%97%AC%EC%9E%94-%EC%96%B4%EB%95%8C-1psdzzry",
         "/kr/post/%EA%B7%80%EC%97%BD%EA%B2%8C-%EC%9E%98%EC%83%9D%EA%B8%B4-vs-%EB%82%A8%EC%9E%90%EB%8B%B5%EA%B2%8C-%EC%9E%98%EC%83%9D%EA%B8%B4-%EB%82%A8%EC%9E%90-%EC%A4%91-%EB%88%84%EA%B0%80-%EB%8D%94-%EC%B7%A8%ED%96%A5%EC%9D%B4%EC%95%BC-2i7h5nj1",
         "/kr/post/%EA%B7%9C%ED%99%8D%ED%98%95%ED%95%9C%ED%85%8C-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%86%8D%EC%95%98%EB%84%A4-hh2sagrb",
