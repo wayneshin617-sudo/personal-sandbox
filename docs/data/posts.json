@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T10:09:13+00:00",
+  "updatedAt": "2026-10-30T10:11:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -681285,6 +681285,85 @@
       "firstSeenAt": "2026-10-30T10:09:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94296,
+      "source": "blind",
+      "externalId": "cmt-459021442",
+      "title": "옥순은 갈수록 떡상할듯",
+      "excerpt": "옥순 영수 미방분 올라옴ㅋㅋㅋ",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%98%81%EC%88%98-%EB%AF%B8%EB%B0%A9%EB%B6%84-%EC%98%AC%EB%9D%BC%EC%98%B4%E3%85%8B%E3%85%8B%E3%85%8B-gcr4g17x#459021442",
+      "postedLabel": "8분",
+      "postedAt": "2026-10-30T19:02:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:11:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94297,
+      "source": "blind",
+      "externalId": "cmt-459022009",
+      "title": "이렇게보니 잘 어울리네 ㅎㅎ",
+      "excerpt": "옥순 영수 미방분 올라옴ㅋㅋㅋ",
+      "author": "T*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%98%81%EC%88%98-%EB%AF%B8%EB%B0%A9%EB%B6%84-%EC%98%AC%EB%9D%BC%EC%98%B4%E3%85%8B%E3%85%8B%E3%85%8B-gcr4g17x#459022009",
+      "postedLabel": "3분",
+      "postedAt": "2026-10-30T19:07:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:11:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94298,
+      "source": "qoo",
+      "externalId": "4390970242",
+      "title": "이번기수 어떤가요",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390970242",
+      "postedLabel": "19:10",
+      "postedAt": "2026-10-30T19:10:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:11:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94299,
+      "source": "blind",
+      "externalId": "cmt-459022317",
+      "title": "이게바로, 공뭔끼리 시기질투인건가",
+      "excerpt": "영철은 부여 멸치공무원이 작업친거라며",
+      "author": "o****",
+      "company": "유니크",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%B6%80%EC%97%AC-%EB%A9%B8%EC%B9%98%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4-%EC%9E%91%EC%97%85%EC%B9%9C%EA%B1%B0%EB%9D%BC%EB%A9%B0-35eihewb#459022317",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T19:10:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:11:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681432,7 +681511,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T19:07:54+09:00"
+      "slowAt": "2026-10-30T19:10:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -689386,6 +689465,7 @@
         "6640075",
         "6640078",
         "6640079",
+        "6640082",
         "6640083",
         "6640086",
         "6640089",
@@ -689407,6 +689487,7 @@
         "6640177",
         "6640183",
         "6640186",
+        "6640187",
         "6640188"
       ]
     },
@@ -698533,7 +698614,8 @@
         "4390950443",
         "4390953326",
         "4390960994",
-        "4390963588"
+        "4390963588",
+        "4390970242"
       ]
     },
     "keep": "v2",
