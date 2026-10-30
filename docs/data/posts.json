@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T05:24:53+00:00",
+  "updatedAt": "2026-10-30T05:25:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -671273,6 +671273,65 @@
       "firstSeenAt": "2026-10-30T05:24:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93791,
+      "source": "dc",
+      "externalId": "6639552",
+      "title": "[부동산문학] 저는 부동산말고 미국주식 할건데요?",
+      "excerpt": "",
+      "author": "미닝",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639552&page=1",
+      "postedLabel": "14:24",
+      "postedAt": "2026-10-30T14:24:49+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:25:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93792,
+      "source": "blind",
+      "externalId": "cmt-458987054",
+      "title": "도람프 자녀도 문신 안하지 않나? 상류층일수록 안하는거 맞는듯",
+      "excerpt": "문신 싫어하는 남자들 보면 ㅋㅋ 죄다 삼후 이상일 듯",
+      "author": "l*********",
+      "company": "트리니티항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90%EB%93%A4-%EB%B3%B4%EB%A9%B4-%E3%85%8B%E3%85%8B-%EC%A3%84%EB%8B%A4-%EC%82%BC%ED%9B%84-%EC%9D%B4%EC%83%81%EC%9D%BC-%EB%93%AF-7jlhaai7#458987054",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T14:25:34+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:25:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93793,
+      "source": "blind",
+      "externalId": "cmt-458987071",
+      "title": "남이사 뭐라하든 왜 난리임 ㅋㅋㅋ 자기가 먼저 올려놓고 ㅋ",
+      "excerpt": "문신 싫어하는 남자들 보면 ㅋㅋ 죄다 삼후 이상일 듯",
+      "author": "l*********",
+      "company": "현대트랜시스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90%EB%93%A4-%EB%B3%B4%EB%A9%B4-%E3%85%8B%E3%85%8B-%EC%A3%84%EB%8B%A4-%EC%82%BC%ED%9B%84-%EC%9D%B4%EC%83%81%EC%9D%BC-%EB%93%AF-7jlhaai7#458987071",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T14:25:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:25:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -679180,7 +679239,8 @@
         "6639515",
         "6639526",
         "6639543",
-        "6639547"
+        "6639547",
+        "6639550"
       ]
     },
     "blind": {
