@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T01:08:57+00:00",
+  "updatedAt": "2026-10-30T01:09:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -661758,6 +661758,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T01:08:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93311,
+      "source": "qoo",
+      "externalId": "cmt-4390461558",
+      "title": "순자가 그랬나 크면서 모난부분이 깎인다고? 진짜 약간 다둥이가 그런게 있긴 있나봐",
+      "excerpt": "이번기수 남출들 근데 한사람 빼고는 뭔가 다 상식적이고 괜찮지않아??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390427708#4390461558",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T09:09:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T01:09:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93312,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%BC%EA%B5%AC-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-ivb48w07",
+      "title": "야구 좋아하는",
+      "excerpt": "여성분 연락주세여 ㅎㅎㅎ(전 남자)",
+      "author": "i*********",
+      "company": "인천공항시설관리",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%BC%EA%B5%AC-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-ivb48w07",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T10:09:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T01:09:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -661904,7 +661943,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T10:06:41+09:00"
+      "slowAt": "2026-10-30T10:09:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -669537,7 +669576,8 @@
         "6639010",
         "6639015",
         "6639019",
-        "6639026"
+        "6639026",
+        "6639031"
       ]
     },
     "blind": {
