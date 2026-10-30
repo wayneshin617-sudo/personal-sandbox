@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T15:20:43+00:00",
+  "updatedAt": "2026-10-30T15:24:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -689807,6 +689807,26 @@
       "firstSeenAt": "2026-10-30T15:20:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94726,
+      "source": "dc",
+      "externalId": "cmt-10985417",
+      "title": "그니까 남피디가 좋아하지 - dc App",
+      "excerpt": "영철이가 약간 턱식이과잖아???",
+      "author": "어리굴저리굴",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640604&page=2#cmt_10985417",
+      "postedLabel": "10.30 23:40:30",
+      "postedAt": "2026-10-30T23:40:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T15:24:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -698060,6 +698080,7 @@
         "6640598",
         "6640599",
         "6640601",
+        "6640604",
         "6640609",
         "6640618",
         "6640625",
@@ -698075,7 +698096,8 @@
         "6640697",
         "6640698",
         "6640700",
-        "6640708"
+        "6640708",
+        "6640709"
       ]
     },
     "blind": {
