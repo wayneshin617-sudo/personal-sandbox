@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T06:15:52+00:00",
+  "updatedAt": "2026-10-30T06:17:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -673775,6 +673775,66 @@
       "firstSeenAt": "2026-10-30T06:15:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93917,
+      "source": "blind",
+      "externalId": "cmt-458987285",
+      "title": "나솔이니 그러려니 하지만 세련되진 않은 방식이라 생각해요",
+      "excerpt": "영철 급하게 노선 변경하는거 나만 짜치는거 아니지?",
+      "author": "죠*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B8%89%ED%95%98%EA%B2%8C-%EB%85%B8%EC%84%A0-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%EA%B1%B0-%EB%82%98%EB%A7%8C-%EC%A7%9C%EC%B9%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EC%A7%80-qxsaz2vq#458987285",
+      "postedLabel": "51분",
+      "postedAt": "2026-10-30T14:26:36+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:17:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93918,
+      "source": "blind",
+      "externalId": "cmt-458990024",
+      "title": "노선변경이 아니라 질투심유발용인거 같은데",
+      "excerpt": "영철 급하게 노선 변경하는거 나만 짜치는거 아니지?",
+      "author": "S*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B8%89%ED%95%98%EA%B2%8C-%EB%85%B8%EC%84%A0-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%EA%B1%B0-%EB%82%98%EB%A7%8C-%EC%A7%9C%EC%B9%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EC%A7%80-qxsaz2vq#458990024",
+      "postedLabel": "30분",
+      "postedAt": "2026-10-30T14:47:36+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:17:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93919,
+      "source": "blind",
+      "externalId": "cmt-458993730",
+      "title": "난 그냥 이상한 애들이 공무원을하는거같은데... 블라에서도 공뭔들 이상한글 많잖아",
+      "excerpt": "나솔출연 공뭔들은",
+      "author": "c******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%B6%9C%EC%97%B0-%EA%B3%B5%EB%AD%94%EB%93%A4%EC%9D%80-efw6m4c1#458993730",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T15:17:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:17:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -673921,7 +673981,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T15:14:36+09:00"
+      "slowAt": "2026-10-30T15:17:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -681718,7 +681778,8 @@
         "6639642",
         "6639650",
         "6639656",
-        "6639659"
+        "6639659",
+        "6639665"
       ]
     },
     "blind": {
