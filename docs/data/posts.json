@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T08:13:12+00:00",
+  "updatedAt": "2026-10-30T08:14:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -677936,6 +677936,26 @@
       "firstSeenAt": "2026-10-30T08:13:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94127,
+      "source": "blind",
+      "externalId": "cmt-459008163",
+      "title": "활명수 의문의 1패",
+      "excerpt": "현숙이를 좋아하는건아닌거같음",
+      "author": "l*********",
+      "company": "에스엠상선",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%A5%BC-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%EA%B1%B4%EC%95%84%EB%8B%8C%EA%B1%B0%EA%B0%99%EC%9D%8C-trw1q15b#459008163",
+      "postedLabel": "6분",
+      "postedAt": "2026-10-30T17:07:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:14:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -678082,7 +678102,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T17:10:54+09:00"
+      "slowAt": "2026-10-30T17:13:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -685965,7 +685985,8 @@
         "6639941",
         "6639945",
         "6639950",
-        "6639951"
+        "6639951",
+        "6639954"
       ]
     },
     "blind": {
