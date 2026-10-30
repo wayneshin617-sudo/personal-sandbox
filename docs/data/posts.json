@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:23:12+00:00",
+  "updatedAt": "2026-10-30T09:24:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -679883,6 +679883,45 @@
       "firstSeenAt": "2026-10-30T09:23:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94225,
+      "source": "qoo",
+      "externalId": "cmt-4390881030",
+      "title": "해외는 슴슴나솔이구나",
+      "excerpt": "해외살아서 나솔 우회없이 볼수있어서 좋아했는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390877786#4390881030",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T17:23:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:24:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94226,
+      "source": "qoo",
+      "externalId": "4390928104",
+      "title": "영숙 영수랑 무례한 대화할 때",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390928104",
+      "postedLabel": "18:23",
+      "postedAt": "2026-10-30T18:23:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:24:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -679974,7 +680013,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T18:20:55+09:00"
+      "slowAt": "2026-10-30T18:23:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -687977,7 +688016,8 @@
         "6640089",
         "6640091",
         "6640101",
-        "6640105"
+        "6640105",
+        "6640107"
       ]
     },
     "blind": {
@@ -697089,7 +697129,8 @@
         "4390860672",
         "4390876220",
         "4390877786",
-        "4390915117"
+        "4390915117",
+        "4390928104"
       ]
     },
     "keep": "v2",
