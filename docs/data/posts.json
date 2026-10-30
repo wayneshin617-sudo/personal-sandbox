@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T21:04:26+00:00",
+  "updatedAt": "2026-10-30T21:21:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -692020,6 +692020,26 @@
       "firstSeenAt": "2026-10-30T21:04:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94838,
+      "source": "dc",
+      "externalId": "cmt-10985726",
+      "title": "쉽게 비유하면 키 180이 작다거나 연봉 3억이 평범하다거나 이런 정규 분포에서 한참 벗어난 소리하는 애들 보면 온오프를 막론하고 현실감 떨어져 보이는 게 사실임. - dc App",
+      "excerpt": "영철이 수준에서 상향혼 하는 유일한 방법은",
+      "author": "뚱보",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640977&page=1#cmt_10985726",
+      "postedLabel": "10.31 06:19:20",
+      "postedAt": "2026-10-31T06:19:20+09:00",
+      "views": null,
+      "recommends": 28,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T21:21:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -692094,6 +692114,7 @@
         "DQW1J2zEsOT",
         "DRt-ZW7EYcf",
         "DRziDQ4EuRG",
+        "DSPPDtsgbPa",
         "DSf_mr8lCeH",
         "DSw6xOvEjr8",
         "DT63-qtgerP",
@@ -692114,7 +692135,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T06:10:09+09:00"
+      "slowAt": "2026-10-31T06:20:55+09:00"
     },
     "ig": {
       "doneIds": [
@@ -700380,7 +700401,8 @@
         "6640970",
         "6640975",
         "6640977",
-        "6641011"
+        "6641011",
+        "6641022"
       ]
     },
     "blind": {
