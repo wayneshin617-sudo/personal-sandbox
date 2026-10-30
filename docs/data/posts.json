@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T04:57:53+00:00",
+  "updatedAt": "2026-10-30T04:59:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -670302,6 +670302,25 @@
       "firstSeenAt": "2026-10-30T04:57:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93742,
+      "source": "dc",
+      "externalId": "6639490",
+      "title": "외국남 특집에서 보고싶은 사람",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639490&page=1",
+      "postedLabel": "13:58",
+      "postedAt": "2026-10-30T13:58:57+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T04:59:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -670448,7 +670467,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T13:56:36+09:00"
+      "slowAt": "2026-10-30T13:59:35+09:00"
     },
     "dc": {
       "doneIds": [
