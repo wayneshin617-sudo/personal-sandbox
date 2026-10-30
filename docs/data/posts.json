@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T10:33:12+00:00",
+  "updatedAt": "2026-10-30T10:34:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -682056,6 +682056,46 @@
       "firstSeenAt": "2026-10-30T10:33:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94335,
+      "source": "blind",
+      "externalId": "cmt-459023064",
+      "title": "아.. 알겠다고 ㅋㅋㅋㅋㅋㅋㅋ 성격은 이쁘심 최고임",
+      "excerpt": "정숙이 이쁜거 가타",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%9C%EA%B1%B0-%EA%B0%80%ED%83%80-8kjys5ab#459023064",
+      "postedLabel": "17분",
+      "postedAt": "2026-10-30T19:16:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:34:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94336,
+      "source": "dc",
+      "externalId": "cmt-10985088",
+      "title": "영철이 하관 보면 그 정도는 아님 - dc App",
+      "excerpt": "34 영철 영호는 타 기수 가더라도 인기 있었을 비주얼임",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640217&page=1#cmt_10985088",
+      "postedLabel": "10.30 19:32:57",
+      "postedAt": "2026-10-30T19:32:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:34:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -690188,6 +690228,7 @@
         "6640199",
         "6640212",
         "6640215",
+        "6640217",
         "6640222"
       ]
     },
