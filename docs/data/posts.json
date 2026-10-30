@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:36:12+00:00",
+  "updatedAt": "2026-10-30T09:37:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -680355,6 +680355,26 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-10-30T09:36:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94249,
+      "source": "qoo",
+      "externalId": "cmt-4390890047",
+      "title": "그거 너무 거슬림ㅜㅜ",
+      "excerpt": "이제 나솔 보는데 영철 트리거 왜 이렇게 자주 써",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390726870#4390890047",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T17:36:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:37:12+00:00",
       "isSeed": false,
       "kind": "reply"
     }
