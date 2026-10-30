@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T08:07:12+00:00",
+  "updatedAt": "2026-10-30T08:08:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -677778,6 +677778,45 @@
       "firstSeenAt": "2026-10-30T08:07:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94119,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A5%EC%88%9C-%EC%9D%BC%EB%B3%B8%EC%97%AC%EC%9E%90-%EB%8A%90%EB%82%8C%EC%9D%B8%EB%8D%B0-rffpvo58",
+      "title": "옥순 일본여자 느낌인데",
+      "excerpt": "리액션 좋고 순해서 그런지 일본여자 느낌나",
+      "author": "l********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%9D%BC%EB%B3%B8%EC%97%AC%EC%9E%90-%EB%8A%90%EB%82%8C%EC%9D%B8%EB%8D%B0-rffpvo58",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T17:07:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T08:08:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94120,
+      "source": "blind",
+      "externalId": "cmt-459008103",
+      "title": "위장남여사친",
+      "excerpt": "여사친 남사친은 예비 애인인거네?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%82%AC%EC%B9%9C-%EB%82%A8%EC%82%AC%EC%B9%9C%EC%9D%80-%EC%98%88%EB%B9%84-%EC%95%A0%EC%9D%B8%EC%9D%B8%EA%B1%B0%EB%84%A4-8p25w5zh#459008103",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T17:07:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:08:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -677924,7 +677963,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T17:04:54+09:00"
+      "slowAt": "2026-10-30T17:07:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -685783,6 +685822,7 @@
         "6639791",
         "6639793",
         "6639794",
+        "6639799",
         "6639805",
         "6639806",
         "6639816",
