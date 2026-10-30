@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T06:27:55+00:00",
+  "updatedAt": "2026-10-30T06:29:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -674247,6 +674247,45 @@
       "firstSeenAt": "2026-10-30T06:27:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93941,
+      "source": "qoo",
+      "externalId": "4390786137",
+      "title": "영철 진짜 ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390786137",
+      "postedLabel": "15:29",
+      "postedAt": "2026-10-30T15:29:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:29:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93942,
+      "source": "dc",
+      "externalId": "cmt-10984342",
+      "title": "보려대인데도 일리 들어갈수있구나 - dc App",
+      "excerpt": "아우디a3, 보려대, 첼로, 프랑스어 = 전부다 겉모습이 중요한거지",
+      "author": "OO",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639698&page=1#cmt_10984342",
+      "postedLabel": "10.30 15:29:26",
+      "postedAt": "2026-10-30T15:29:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:29:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -674393,7 +674432,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T15:26:36+09:00"
+      "slowAt": "2026-10-30T15:29:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -682203,7 +682242,8 @@
         "6639680",
         "6639687",
         "6639691",
-        "6639695"
+        "6639695",
+        "6639698"
       ]
     },
     "blind": {
@@ -691278,7 +691318,8 @@
         "4390741604",
         "4390750891",
         "4390774243",
-        "4390776929"
+        "4390776929",
+        "4390786137"
       ]
     },
     "keep": "v2",
