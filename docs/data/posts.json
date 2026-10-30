@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T00:32:57+00:00",
+  "updatedAt": "2026-10-30T00:33:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -660492,6 +660492,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T00:32:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93247,
+      "source": "blind",
+      "externalId": "cmt-458947866",
+      "title": "진짜 싫다…",
+      "excerpt": "공무원에 영철같은 사람 많음 ㅋㅋ",
+      "author": "S*****",
+      "company": "SK텔레콤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%97%90-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C-%EB%A7%8E%EC%9D%8C-%E3%85%8B%E3%85%8B-p8f4w2kx#458947866",
+      "postedLabel": "49분",
+      "postedAt": "2026-10-30T08:44:41+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:33:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93248,
+      "source": "blind",
+      "externalId": "cmt-458949361",
+      "title": "개나소나 들어오기 쉽고 고이고 고여서 썩어문드러지는 조직..",
+      "excerpt": "공무원에 영철같은 사람 많음 ㅋㅋ",
+      "author": "s********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%97%90-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C-%EB%A7%8E%EC%9D%8C-%E3%85%8B%E3%85%8B-p8f4w2kx#458949361",
+      "postedLabel": "37분",
+      "postedAt": "2026-10-30T08:56:41+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:33:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93249,
+      "source": "blind",
+      "externalId": "cmt-458949798",
+      "title": "ㅇㅇ 꼴값많지 남자들도 여자 직업 재산 이런거 뭐 어떻다~ 여자들도 마찬가지 미친조직임 환멸감든다",
+      "excerpt": "공무원에 영철같은 사람 많음 ㅋㅋ",
+      "author": "s*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%97%90-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C-%EB%A7%8E%EC%9D%8C-%E3%85%8B%E3%85%8B-p8f4w2kx#458949798",
+      "postedLabel": "33분",
+      "postedAt": "2026-10-30T09:00:41+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:33:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -660638,7 +660698,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T09:30:41+09:00"
+      "slowAt": "2026-10-30T09:33:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -668254,7 +668314,8 @@
         "6638965",
         "6638971",
         "6638974",
-        "6638977"
+        "6638977",
+        "6638980"
       ]
     },
     "blind": {
