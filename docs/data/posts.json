@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T08:10:12+00:00",
+  "updatedAt": "2026-10-30T08:11:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -677876,6 +677876,46 @@
       "firstSeenAt": "2026-10-30T08:10:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94124,
+      "source": "qoo",
+      "externalId": "cmt-4390820206",
+      "title": "상철이 훨씬나은데",
+      "excerpt": "영철보다 상철 보는게 더 힘들어ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390787903#4390820206",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T16:10:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:11:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94125,
+      "source": "blind",
+      "externalId": "cmt-459002171",
+      "title": "그래서 하닉상철은 현명한 선택",
+      "excerpt": "옥순패딩 몽클 어느모델인지 아는사람!",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%ED%8C%A8%EB%94%A9-%EB%AA%BD%ED%81%B4-%EC%96%B4%EB%8A%90%EB%AA%A8%EB%8D%B8%EC%9D%B8%EC%A7%80-%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-yb3g28db#459002171",
+      "postedLabel": "47분",
+      "postedAt": "2026-10-30T16:23:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:11:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -678022,7 +678062,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T17:07:54+09:00"
+      "slowAt": "2026-10-30T17:10:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -685902,7 +685942,8 @@
         "6639934",
         "6639938",
         "6639941",
-        "6639945"
+        "6639945",
+        "6639950"
       ]
     },
     "blind": {
