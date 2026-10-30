@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:47:12+00:00",
+  "updatedAt": "2026-10-30T09:50:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -680676,6 +680676,25 @@
       "firstSeenAt": "2026-10-30T09:47:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94265,
+      "source": "qoo",
+      "externalId": "4390950443",
+      "title": "ㅇㅊ 책 많이 읽었다고 했잖아",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390950443",
+      "postedLabel": "18:49",
+      "postedAt": "2026-10-30T18:49:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:50:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -680823,7 +680842,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T18:46:54+09:00"
+      "slowAt": "2026-10-30T18:49:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -697906,7 +697925,8 @@
         "4390928104",
         "4390931935",
         "4390933411",
-        "4390946740"
+        "4390946740",
+        "4390950443"
       ]
     },
     "keep": "v2",
