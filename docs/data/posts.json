@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T10:05:12+00:00",
+  "updatedAt": "2026-10-30T10:07:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -681146,6 +681146,45 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-10-30T10:05:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94289,
+      "source": "qoo",
+      "externalId": "cmt-4390913659",
+      "title": "좀 많이 놀랍긴 해.. 노리개, 개떼, 꼬라보냐, 눈알에 반가움 장착 등등 깜짝깜짝 놀람 모든 대화가 어떻게...",
+      "excerpt": "영숙 단어선택이 진짜 저렴하다...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390876220#4390913659",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T18:06:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:07:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94290,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%B6%80%EC%97%AC-%EB%A9%B8%EC%B9%98%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4-%EC%9E%91%EC%97%85%EC%B9%9C%EA%B1%B0%EB%9D%BC%EB%A9%B0-35eihewb",
+      "title": "영철은 부여 멸치공무원이 작업친거라며",
+      "excerpt": "멸치공무원이 영철 묻으려고 작업치는거라더니 요새는 또 그런말 없네 방송모습만봐도 공직생활 잘햇을것같진 않은데 ㅋㅋㅋ 글고 특유의 잘생긴척하는 표정이 진짜 보기싫음",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EB%B6%80%EC%97%AC-%EB%A9%B8%EC%B9%98%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4-%EC%9E%91%EC%97%85%EC%B9%9C%EA%B1%B0%EB%9D%BC%EB%A9%B0-35eihewb",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T19:06:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T10:07:13+00:00",
       "isSeed": false
     }
   ],
