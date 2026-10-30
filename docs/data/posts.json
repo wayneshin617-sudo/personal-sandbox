@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T08:05:12+00:00",
+  "updatedAt": "2026-10-30T08:06:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -677618,6 +677618,66 @@
       "firstSeenAt": "2026-10-30T08:05:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94111,
+      "source": "qoo",
+      "externalId": "cmt-4390815766",
+      "title": "존잼",
+      "excerpt": "이번주 나솔재밌었어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390812998#4390815766",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T16:05:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:06:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94112,
+      "source": "qoo",
+      "externalId": "cmt-4390816020",
+      "title": "이번주 봤어?",
+      "excerpt": "영철보다 상철 보는게 더 힘들어ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390787903#4390816020",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T16:06:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:06:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94113,
+      "source": "dc",
+      "externalId": "cmt-10984454",
+      "title": "니 좆대로해 씹년아 그걸 왜 여따 처물어",
+      "excerpt": "나 아반떼 신형 사려고 하는데 개오바임?",
+      "author": "레넥토이",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639793&page=3#cmt_10984454",
+      "postedLabel": "10.30 16:08:04",
+      "postedAt": "2026-10-30T16:08:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:06:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -677709,7 +677769,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T17:02:55+09:00"
+      "slowAt": "2026-10-30T17:05:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -685621,6 +685681,7 @@
         "6639784",
         "6639790",
         "6639791",
+        "6639793",
         "6639794",
         "6639805",
         "6639806",
