@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T08:28:12+00:00",
+  "updatedAt": "2026-10-30T08:30:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -678372,6 +678372,25 @@
       "firstSeenAt": "2026-10-30T08:28:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94149,
+      "source": "dc",
+      "externalId": "6639989",
+      "title": "시계글좀 올려줘",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639989&page=1",
+      "postedLabel": "17:29",
+      "postedAt": "2026-10-30T17:29:01+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:30:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -678463,7 +678482,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T17:26:54+09:00"
+      "slowAt": "2026-10-30T17:29:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -686354,6 +686373,7 @@
         "6639697",
         "6639698",
         "6639699",
+        "6639703",
         "6639704",
         "6639708",
         "6639710",
