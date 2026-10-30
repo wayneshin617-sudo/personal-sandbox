@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T00:02:59+00:00",
+  "updatedAt": "2026-10-30T00:04:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -659643,6 +659643,65 @@
       "firstSeenAt": "2026-10-30T00:02:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93204,
+      "source": "qoo",
+      "externalId": "cmt-4390428666",
+      "title": "@24 응...? 그럼 너가 새로 글 쓰면되지",
+      "excerpt": "근데 영자보고 진짜 열굴 많이 보나보다 할 정도의 외몬가? 영철이?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390211414#4390428666",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T08:03:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:04:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93205,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99-%EC%A1%B4%EB%82%98-%EC%9D%B4%EC%81%98%EA%B3%A0-%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%EB%8D%B0-mm3wopk4",
+      "title": "현숙 존나 이쁘고 고급스러운데",
+      "excerpt": "문신 보니 확 깨네;; 그냥 영철이 줘야겠다,,.",
+      "author": "b*****",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%A1%B4%EB%82%98-%EC%9D%B4%EC%81%98%EA%B3%A0-%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%EB%8D%B0-mm3wopk4",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T09:03:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T00:04:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93206,
+      "source": "blind",
+      "externalId": "cmt-458950122",
+      "title": "트리거가 나의 트리거다",
+      "excerpt": "금지어 지정 시급",
+      "author": "e***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B8%88%EC%A7%80%EC%96%B4-%EC%A7%80%EC%A0%95-%EC%8B%9C%EA%B8%89-ecreks6d#458950122",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T09:03:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:04:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -659789,7 +659848,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T09:00:41+09:00"
+      "slowAt": "2026-10-30T09:03:41+09:00"
     },
     "dc": {
       "doneIds": [
