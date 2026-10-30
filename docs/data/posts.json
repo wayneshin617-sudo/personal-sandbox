@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T13:04:55+00:00",
+  "updatedAt": "2026-10-30T13:05:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -684418,6 +684418,45 @@
       "firstSeenAt": "2026-10-30T13:04:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94455,
+      "source": "dc",
+      "externalId": "cmt-10985244",
+      "title": "그런뜻이 아니고 웃지않으면 위엄도 없다는 뜻이지…권력자가 웃음(인품)을 갖춰야 위엄이 선다는 뜻인데 그 7급이 이야기할때는 그런 맥락의 말이 나올 상황이 아니었잖아 ㅡㅡ - dc App",
+      "excerpt": "불소불위 한자 뜻 있다고 하더라",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640383&page=2#cmt_10985244",
+      "postedLabel": "10.30 21:30:46",
+      "postedAt": "2026-10-30T21:30:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:05:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94456,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%88%99-27%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%A8-ysd81wau",
+      "title": "34영숙 27영숙이랑 비슷함",
+      "excerpt": "둘이 굉장히 느낌 비슷함",
+      "author": "B*****",
+      "company": "비즈플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%99-27%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%A8-ysd81wau",
+      "postedLabel": "2분",
+      "postedAt": "2026-10-30T22:03:37+09:00",
+      "views": 42,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T13:05:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -684566,7 +684605,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T22:02:38+09:00"
+      "slowAt": "2026-10-30T22:05:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -692573,6 +692612,7 @@
         "6640375",
         "6640379",
         "6640382",
+        "6640383",
         "6640446",
         "6640472"
       ]
@@ -697883,6 +697923,7 @@
         "/kr/post/34-%EC%88%9C%EC%9E%90-7t7ami31",
         "/kr/post/34-%EC%88%9C%EC%9E%90-mgapjahy",
         "/kr/post/34-%EC%98%81%EC%88%99%EC%9D%80-%EA%B7%B8-%EB%8F%8C%EC%8B%B1-%EA%B7%B8-%EC%97%AC%EC%9E%90-%EC%95%8C%EC%A7%80-%EC%A7%AD%ED%8C%94%EB%8D%98-%EC%97%AC%EC%9E%90-624y2fuu",
+        "/kr/post/34-%EC%98%81%EC%88%99%EC%9D%80-27%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%A8-ysd81wau",
         "/kr/post/34-%EC%98%81%EC%88%99%EC%9D%80-2omt2jpm",
         "/kr/post/34-%EC%98%81%EC%88%99%EC%9D%B4-%EC%86%8C%EC%8B%9C%EC%98%A4%ED%8C%A8%EC%8A%A4%EA%B0%99%EC%9D%8C-yegr7581",
         "/kr/post/34-%EC%98%81%EC%88%99-%EB%84%88%EB%AC%B4-%EB%AC%B4%EB%A1%80%ED%95%B4-zqzdtiat",
