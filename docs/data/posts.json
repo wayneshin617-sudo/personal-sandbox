@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T08:04:12+00:00",
+  "updatedAt": "2026-10-30T08:05:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -677598,6 +677598,26 @@
       "firstSeenAt": "2026-10-30T08:04:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94110,
+      "source": "qoo",
+      "externalId": "cmt-4390814753",
+      "title": "존잼",
+      "excerpt": "이번주 나솔재밌었어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390812998#4390814753",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T16:04:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:05:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -677744,7 +677764,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T17:01:54+09:00"
+      "slowAt": "2026-10-30T17:04:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -685619,7 +685639,8 @@
         "6639919",
         "6639929",
         "6639932",
-        "6639934"
+        "6639934",
+        "6639938"
       ]
     },
     "blind": {
