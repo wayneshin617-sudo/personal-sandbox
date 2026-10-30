@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T06:52:55+00:00",
+  "updatedAt": "2026-10-30T06:53:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -675298,6 +675298,26 @@
       "firstSeenAt": "2026-10-30T06:52:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93994,
+      "source": "blind",
+      "externalId": "cmt-458997963",
+      "title": "알맹이 없는 부류",
+      "excerpt": "34기 현숙 제일 닮은 건",
+      "author": "d*******",
+      "company": "한국남부발전",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EC%A0%9C%EC%9D%BC-%EB%8B%AE%EC%9D%80-%EA%B1%B4-3gtgpszy#458997963",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T15:53:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:53:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -675444,7 +675464,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T15:50:36+09:00"
+      "slowAt": "2026-10-30T15:53:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -683273,7 +683293,8 @@
         "6639732",
         "6639746",
         "6639748",
-        "6639754"
+        "6639754",
+        "6639756"
       ]
     },
     "blind": {
