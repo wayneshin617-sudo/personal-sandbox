@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T14:01:54+00:00",
+  "updatedAt": "2026-10-30T14:02:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -687841,6 +687841,64 @@
       "firstSeenAt": "2026-10-30T14:01:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94627,
+      "source": "qoo",
+      "externalId": "cmt-4391182034",
+      "title": "친해지면 장난칠 스탈같은데 뭔가 뒤에 현숙이랑 설거지할때 살살 쪼개더만 그거보고 현숙이 그냥 원픽이구나 했음",
+      "excerpt": "이번주 보는중인데 영호 계속 저래??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391178542#4391182034",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T22:02:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:02:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94628,
+      "source": "qoo",
+      "externalId": "4391246266",
+      "title": "영철은 인생에 처음본 이상형을 만난건가",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391246266",
+      "postedLabel": "23:01",
+      "postedAt": "2026-10-30T23:01:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:02:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94629,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-v5brhkky",
+      "title": "영숙",
+      "excerpt": "",
+      "author": "i******",
+      "company": "서울시설공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-v5brhkky",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T23:02:37+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T14:02:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -687989,7 +688047,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T22:59:38+09:00"
+      "slowAt": "2026-10-30T23:02:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -696069,7 +696127,8 @@
         "6640531",
         "6640541",
         "6640548",
-        "6640560"
+        "6640560",
+        "6640568"
       ]
     },
     "blind": {
@@ -701186,6 +701245,7 @@
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99%EC%9D%80-%EB%8B%A8%EC%96%B4-%EB%A7%90%ED%95%98%EB%8A%94%EA%B1%B0-%EC%8E%84%ED%95%9C%EB%8D%B0-lvrovumv",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-3kwum15n",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99%EC%9D%B4-%EB%B3%B8-%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EB%AD%98%EA%B9%8C-0xt55khd",
+        "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99%EC%9D%B4-%EC%A2%80-%EC%9D%B4%ED%95%B4-%EC%95%88-%EA%B0%80%EB%8A%94-%EB%B6%80%EB%B6%84%EC%9D%B4-x243stkh",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%EB%8B%AE%EC%9D%80-%EA%BC%B4-nwmhgxpw",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%EB%B0%9C%EB%93%B1%EC%97%90%EB%8F%84-%EB%AC%B8%EC%8B%A0-%EC%9E%88%EB%84%A4-xnhlsq4g",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%EC%88%8F%EC%BB%B7-uuftfouw",
@@ -705251,7 +705311,8 @@
         "4391204833",
         "4391207986",
         "4391224377",
-        "4391237306"
+        "4391237306",
+        "4391246266"
       ]
     },
     "keep": "v2",
