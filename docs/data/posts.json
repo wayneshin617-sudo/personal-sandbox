@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T06:50:54+00:00",
+  "updatedAt": "2026-10-30T06:51:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -675219,6 +675219,65 @@
       "firstSeenAt": "2026-10-30T06:50:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93990,
+      "source": "dc",
+      "externalId": "cmt-10984250",
+      "title": "3실은 명차긴 하지 - dc App",
+      "excerpt": "차종 티어 정리해드림 (feat. 아우디a3)",
+      "author": "비트코인외않삶",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639602&page=3#cmt_10984250",
+      "postedLabel": "10.30 15:00:50",
+      "postedAt": "2026-10-30T15:00:50+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:51:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93991,
+      "source": "blind",
+      "externalId": "cmt-458994105",
+      "title": "제발 금리인하좀",
+      "excerpt": "현숙 초엘리트였네",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%B4%88%EC%97%98%EB%A6%AC%ED%8A%B8%EC%98%80%EB%84%A4-d303zqz1#458994105",
+      "postedLabel": "31분",
+      "postedAt": "2026-10-30T15:20:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:51:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93992,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EC%A0%9C%EC%9D%BC-%EB%8B%AE%EC%9D%80-%EA%B1%B4-3gtgpszy",
+      "title": "34기 현숙 제일 닮은 건",
+      "excerpt": "22기 옥순인데",
+      "author": "y********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EC%A0%9C%EC%9D%BC-%EB%8B%AE%EC%9D%80-%EA%B1%B4-3gtgpszy",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T15:51:37+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T06:51:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -675310,7 +675369,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T15:48:36+09:00"
+      "slowAt": "2026-10-30T15:51:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -683160,6 +683219,7 @@
         "6639589",
         "6639590",
         "6639600",
+        "6639602",
         "6639604",
         "6639608",
         "6639609",
