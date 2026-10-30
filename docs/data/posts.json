@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T07:56:24+00:00",
+  "updatedAt": "2026-10-30T07:57:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -677163,6 +677163,85 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T07:56:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94088,
+      "source": "qoo",
+      "externalId": "4390860672",
+      "title": "왜 자꾸 트리거 트리거 거리지??????",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390860672",
+      "postedLabel": "16:56",
+      "postedAt": "2026-10-30T16:56:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T07:57:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94089,
+      "source": "blind",
+      "externalId": "cmt-459006516",
+      "title": "돌싱 영숙이 더 예쁨. 스타일이 미시 스타일이라 그렇지.",
+      "excerpt": "둘이 두살 차이래",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%91%98%EC%9D%B4-%EB%91%90%EC%82%B4-%EC%B0%A8%EC%9D%B4%EB%9E%98-37rvxa13#459006516",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T16:56:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T07:57:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94090,
+      "source": "blind",
+      "externalId": "cmt-459006529",
+      "title": "영숙이는 시집 갔잖아 ㅋㅋ",
+      "excerpt": "둘이 두살 차이래",
+      "author": "셀****",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%91%98%EC%9D%B4-%EB%91%90%EC%82%B4-%EC%B0%A8%EC%9D%B4%EB%9E%98-37rvxa13#459006529",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T16:56:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T07:57:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94091,
+      "source": "blind",
+      "externalId": "cmt-459006589",
+      "title": "아냐 좀 있어 사진 봐봐",
+      "excerpt": "둘이 두살 차이래",
+      "author": "성**",
+      "company": "한국공항",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%91%98%EC%9D%B4-%EB%91%90%EC%82%B4-%EC%B0%A8%EC%9D%B4%EB%9E%98-37rvxa13#459006589",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T16:56:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T07:57:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -677254,7 +677333,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T16:42:36+09:00"
+      "slowAt": "2026-10-30T16:56:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -694269,7 +694348,8 @@
         "4390787903",
         "4390812998",
         "4390816349",
-        "4390826458"
+        "4390826458",
+        "4390860672"
       ]
     },
     "keep": "v2",
