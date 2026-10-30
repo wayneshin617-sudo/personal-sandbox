@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T00:40:59+00:00",
+  "updatedAt": "2026-10-30T00:41:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -660769,6 +660769,64 @@
       "firstSeenAt": "2026-10-30T00:40:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93261,
+      "source": "qoo",
+      "externalId": "cmt-4390445021",
+      "title": "아직까지는 나도 본문이랑 비슷",
+      "excerpt": "이번기수 남출들 근데 한사람 빼고는 뭔가 다 상식적이고 괜찮지않아??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390427708#4390445021",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T08:41:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:41:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93262,
+      "source": "qoo",
+      "externalId": "4390484679",
+      "title": "집안얘기보다 다른 여출은 밖에서도 만날수있을것같다 이얘기가 ㄹㅇ 충격",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390484679",
+      "postedLabel": "09:40",
+      "postedAt": "2026-10-30T09:40:00+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-30T00:41:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93263,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-utn12l18",
+      "title": "나솔 출연자들 보면 기본적으로",
+      "excerpt": "자의식 과잉, 비대 상태가 많은거 같아 난 남들과 달라, 특별해 이런 마인드가 장착되어 있어야 방송 출연하는거 같아,,,, 34영자만 봐도 연애 어려운 수준인데 “10살 연하까지 만나봤어요”, “제가 잘 꼬시는 편이에요” 이런 말 하는거 보면,,,, 모든 인간은 자신이 평범하다는걸 인정할 때 현실을 즉시하게 되는데 이게 무척이나 어렵다",
+      "author": "m*****",
+      "company": "CJ",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-utn12l18",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T09:41:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T00:41:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -660860,7 +660918,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T09:38:42+09:00"
+      "slowAt": "2026-10-30T09:41:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -677498,7 +677556,8 @@
         "4390410532",
         "4390426978",
         "4390427708",
-        "4390477706"
+        "4390477706",
+        "4390484679"
       ]
     },
     "keep": "v2",
