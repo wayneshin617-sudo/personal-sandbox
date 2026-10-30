@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T01:06:57+00:00",
+  "updatedAt": "2026-10-30T01:08:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -661720,6 +661720,44 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T01:06:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93309,
+      "source": "dc",
+      "externalId": "6639032",
+      "title": "성적인 관계 맺고 싶은 출연진",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639032&page=1",
+      "postedLabel": "10:07",
+      "postedAt": "2026-10-30T10:07:45+09:00",
+      "views": 27,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T01:08:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93310,
+      "source": "qoo",
+      "externalId": "4390510995",
+      "title": "현숙은 데이트후에 호감도 떨어진거 아니라고 말했지만 넘나 떨어져보였지?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390510995",
+      "postedLabel": "10:08",
+      "postedAt": "2026-10-30T10:08:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T01:08:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -661811,7 +661849,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T10:05:41+09:00"
+      "slowAt": "2026-10-30T10:08:42+09:00"
     },
     "ig": {
       "doneIds": [
@@ -669498,7 +669536,8 @@
         "6639006",
         "6639010",
         "6639015",
-        "6639019"
+        "6639019",
+        "6639026"
       ]
     },
     "blind": {
@@ -678472,7 +678511,8 @@
         "4390477706",
         "4390484679",
         "4390498144",
-        "4390499485"
+        "4390499485",
+        "4390510995"
       ]
     },
     "keep": "v2",
