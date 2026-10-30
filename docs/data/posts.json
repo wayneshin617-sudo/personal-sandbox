@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T05:34:53+00:00",
+  "updatedAt": "2026-10-30T05:35:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -671631,6 +671631,44 @@
       "firstSeenAt": "2026-10-30T05:34:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93809,
+      "source": "qoo",
+      "externalId": "4390741604",
+      "title": "불소불위 너무 웃김",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390741604",
+      "postedLabel": "14:34",
+      "postedAt": "2026-10-30T14:34:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:35:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93810,
+      "source": "dc",
+      "externalId": "6639569",
+      "title": "한국에서",
+      "excerpt": "",
+      "author": "경기",
+      "company": "",
+      "ip": "23.158",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639569&page=1",
+      "postedLabel": "14:35",
+      "postedAt": "2026-10-30T14:35:22+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:35:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -671777,7 +671815,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T14:32:35+09:00"
+      "slowAt": "2026-10-30T14:35:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -679527,6 +679565,7 @@
         "6639447",
         "6639450",
         "6639453",
+        "6639457",
         "6639460",
         "6639477",
         "6639479",
@@ -688599,7 +688638,8 @@
         "4390618775",
         "4390634701",
         "4390713920",
-        "4390726870"
+        "4390726870",
+        "4390741604"
       ]
     },
     "keep": "v2",
