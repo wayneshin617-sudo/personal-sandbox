@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T14:22:25+00:00",
+  "updatedAt": "2026-10-30T14:23:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -688433,6 +688433,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T14:22:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94657,
+      "source": "qoo",
+      "externalId": "cmt-4391134392",
+      "title": "이전에도 한엄마아빠 맞냐고 할 때 어이 없었는데 본인이 그런 말 들으면 발작할 거 같은데",
+      "excerpt": "영숙 영수랑 무례한 대화할 때",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390928104#4391134392",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T21:30:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:23:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94658,
+      "source": "qoo",
+      "externalId": "cmt-4391146070",
+      "title": "경박스러",
+      "excerpt": "영숙 영수랑 무례한 대화할 때",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390928104#4391146070",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T21:36:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:23:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -688581,7 +688621,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T23:20:38+09:00"
+      "slowAt": "2026-10-30T23:23:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -696671,7 +696711,8 @@
         "6640581",
         "6640589",
         "6640591",
-        "6640599"
+        "6640599",
+        "6640601"
       ]
     },
     "blind": {
@@ -698366,6 +698407,7 @@
         "/kr/post/%EC%86%90-%EB%B0%94%EB%93%A4%EB%B0%94%EB%93%A4%EB%B3%B4%EB%8B%88%EA%B9%8C-%EA%BA%BC%EB%93%9C%EB%9F%AD%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-w1nng7m3",
         "/kr/post/%EC%86%94%EA%B9%8C-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%9E%91-%EA%B2%B0%ED%98%BC%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9D%80-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EA%B7%B8-%EC%9B%90%EB%A6%AC%EA%B0%80-%EB%A7%A4%EC%9A%B0-%EA%B0%84%EB%8B%A8%ED%95%B4%EC%9A%94-joc1f3za",
         "/kr/post/%EC%86%94%EA%B9%8C-%EC%99%B8%EB%AA%A8%EB%8A%94-%EC%98%81%EC%88%98%EB%B3%B4%EB%8B%A4-%EA%B4%91%EC%88%98%EA%B0%80-%EB%8D%94-%EB%AA%BB%EB%82%A8-toaic60b",
+        "/kr/post/%EC%86%94%EA%B9%8C-34%EA%B8%B0-%EC%97%AC%EC%B6%9C%EB%93%A4-%EC%A4%91%EC%97%90-%ED%98%84%EC%88%99%EB%8B%98%EC%9D%B4-6%EC%88%9C%EC%9C%84%EA%B8%B4-%ED%95%98%EC%A3%A0-fmafrzvd",
         "/kr/post/%EC%86%94%EA%B9%8C-34%EC%98%81%EC%88%99%EB%8B%98-%EA%B0%99%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-%EC%83%9D%EA%B0%81-%EB%B3%B4%EB%8B%A4-%EB%B3%84%EB%A1%9C-%EB%82%9C%EC%9D%B4%EB%8F%84-%EC%95%88-%EB%86%92%EB%8D%94%EB%9D%BC%EA%B5%AC%EC%9A%94-5vh2xt6z",
         "/kr/post/%EC%86%94%EA%B9%8C-34%ED%98%84%EC%88%99%EB%8B%98%EC%9D%80-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%A0-%EB%95%8C-%EA%B3%A8-%EA%B9%8C%EB%8A%94-%EC%97%AC%EC%9E%90%EA%B8%B4-%ED%95%98%EC%A3%A0-1ommm445",
         "/kr/post/%EC%86%94%EB%A1%9C%EA%B0%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EB%AA%BB%EB%A7%8C%EB%82%9C%EB%8B%A4-v0352yxq",
@@ -699863,6 +699905,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%A7%90-%EC%A7%84%EC%A7%9C-%EB%A7%8E%EB%8B%A4-8w7b3xf3",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%A7%9B%ED%83%B1%EC%9D%B4-%EA%B0%94%EB%84%A4-h1gjany8",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%A9%80%EB%AF%B8%EC%95%BD-%EC%82%AC%EB%9F%AC-%ED%8E%B8%EC%9D%98%EC%A0%90%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%AA%A8%EC%8A%B5%EC%9D%B4-%EB%A7%88%EC%B9%98-qenel5sa",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EB%A9%B4%EC%A7%81%EC%9D%80-%EA%B1%8D-%EB%B0%A9%EC%86%A1-%EC%A0%84%EB%B6%80%ED%84%B0-%ED%81%B0%EA%B7%B8%EB%A6%BC%EC%9D%B4%EC%97%88%EC%9D%84%EB%93%AF-80f3zo5z",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%A9%B4%EC%A7%81%ED%95%9C%EA%B1%B0-%EC%A7%84%EC%A7%9C%EC%95%BC-c6bmkvrj",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%A9%B4%EC%A7%81-%ED%96%88%EB%8B%A4%EB%8A%94%EB%8D%B0-yjw8gfaj",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%AA%A8%EC%9E%90%EB%8A%94-%EC%99%9C%EA%B7%B8%EB%9E%98-ciiwlvku",
