@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T00:04:58+00:00",
+  "updatedAt": "2026-10-30T00:05:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -659722,6 +659722,25 @@
       "firstSeenAt": "2026-10-30T00:04:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93208,
+      "source": "dc",
+      "externalId": "6638949",
+      "title": "34기 제일 악질이 정숙인데ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "라갤러",
+      "company": "",
+      "ip": "115.21",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6638949&page=1",
+      "postedLabel": "09:05",
+      "postedAt": "2026-10-30T09:05:07+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:05:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -659813,7 +659832,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T09:02:41+09:00"
+      "slowAt": "2026-10-30T09:05:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -667471,7 +667490,8 @@
         "6638930",
         "6638931",
         "6638933",
-        "6638935"
+        "6638935",
+        "6638942"
       ]
     },
     "blind": {
