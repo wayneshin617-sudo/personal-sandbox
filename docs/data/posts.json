@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T10:31:12+00:00",
+  "updatedAt": "2026-10-30T10:32:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -681956,6 +681956,86 @@
       "firstSeenAt": "2026-10-30T10:31:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94330,
+      "source": "qoo",
+      "externalId": "cmt-4390924666",
+      "title": "진짜 싫음 그 자신감찬 눈빛 조차도",
+      "excerpt": "영철보다 상철 보는게 더 힘들어ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390787903#4390924666",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T18:19:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:32:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94331,
+      "source": "qoo",
+      "externalId": "cmt-4390925457",
+      "title": "남초라 그런 거 같긴 함 영철한테 조언할 때도 ㅋㅋㅋ 내용은 좋은데 뭔가 태도가 형으로서 꺼드럭대는 너낌",
+      "excerpt": "영철보다 상철 보는게 더 힘들어ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390787903#4390925457",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T18:20:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:32:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94332,
+      "source": "qoo",
+      "externalId": "cmt-4390929817",
+      "title": "영호가 열심히 뭐 하고 있으면 옆에서 겁나 꺼드럭거려.. 영철땜에 묻혀서 그렇지 상철영철 둘이 세트로 보고싶지않음 ㅠㅠ",
+      "excerpt": "영철보다 상철 보는게 더 힘들어ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390787903#4390929817",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T18:26:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:32:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94333,
+      "source": "dc",
+      "externalId": "cmt-10985085",
+      "title": "현대음악 자체가 서구권 기원이라서??? 동양 음악은 동양인이 낫잖아?! - dc App",
+      "excerpt": "왜 동양인들은 서양인에 비해 노래를 못부르노",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640222&page=1#cmt_10985085",
+      "postedLabel": "10.30 19:31:45",
+      "postedAt": "2026-10-30T19:31:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:32:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -682103,7 +682183,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T19:28:54+09:00"
+      "slowAt": "2026-10-30T19:31:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -690087,7 +690167,8 @@
         "6640198",
         "6640199",
         "6640212",
-        "6640215"
+        "6640215",
+        "6640222"
       ]
     },
     "blind": {
