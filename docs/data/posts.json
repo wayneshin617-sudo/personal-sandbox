@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T15:30:43+00:00",
+  "updatedAt": "2026-10-30T15:32:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -689984,6 +689984,25 @@
       "firstSeenAt": "2026-10-30T15:30:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94735,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%8F%84-%EA%B3%A0%EB%8C%80%EC%84%B8%EC%A2%85%EC%BA%A0-%EB%AC%B8%EC%8B%A0-czo7nqlg",
+      "title": "현숙이도 고대세종캠 문신..",
+      "excerpt": "영호야.. 도망가자",
+      "author": "j*******",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%8F%84-%EA%B3%A0%EB%8C%80%EC%84%B8%EC%A2%85%EC%BA%A0-%EB%AC%B8%EC%8B%A0-czo7nqlg",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T00:32:26+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T15:32:43+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -690132,7 +690151,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T00:29:26+09:00"
+      "slowAt": "2026-10-31T00:32:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -698162,6 +698181,7 @@
         "6640332",
         "6640333",
         "6640334",
+        "6640336",
         "6640337",
         "6640343",
         "6640346",
@@ -698258,7 +698278,8 @@
         "6640708",
         "6640709",
         "6640715",
-        "6640718"
+        "6640718",
+        "6640724"
       ]
     },
     "blind": {
