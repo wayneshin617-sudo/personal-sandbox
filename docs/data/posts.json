@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T04:13:31+00:00",
+  "updatedAt": "2026-10-30T04:14:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -669359,6 +669359,25 @@
       "firstSeenAt": "2026-10-30T04:13:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93694,
+      "source": "dc",
+      "externalId": "6639416",
+      "title": "34정숙 이목구비 자체가 못생긴건지는 진짜 모르겠는데ㅋㅋ",
+      "excerpt": "",
+      "author": "ㄹㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639416&page=1",
+      "postedLabel": "13:13",
+      "postedAt": "2026-10-30T13:13:26+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T04:14:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -669505,7 +669524,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T13:11:14+09:00"
+      "slowAt": "2026-10-30T13:14:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -677227,7 +677246,8 @@
         "6639397",
         "6639399",
         "6639401",
-        "6639402"
+        "6639402",
+        "6639413"
       ]
     },
     "blind": {
