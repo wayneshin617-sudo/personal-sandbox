@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T13:52:55+00:00",
+  "updatedAt": "2026-10-30T13:53:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -687563,6 +687563,45 @@
       "firstSeenAt": "2026-10-30T13:52:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94613,
+      "source": "qoo",
+      "externalId": "4391237306",
+      "title": "나솔 미방분 광고 뭐야???ㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391237306",
+      "postedLabel": "22:53",
+      "postedAt": "2026-10-30T22:53:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:53:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94614,
+      "source": "blind",
+      "externalId": "cmt-459053728",
+      "title": "그렇진 않겠지 그땐 25살이었고 예상치 못했던 시련이고. 지금 마흔이 넘어서 엄마가 돌아가시는건 인생의 수순이라는 생각이 들겠지",
+      "excerpt": "나 어깨에 문신 있는데",
+      "author": "a****** 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EC%96%B4%EA%B9%A8%EC%97%90-%EB%AC%B8%EC%8B%A0-%EC%9E%88%EB%8A%94%EB%8D%B0-ipsacakb#459053728",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T22:53:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:53:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -687711,7 +687750,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T22:50:37+09:00"
+      "slowAt": "2026-10-30T22:53:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -704967,7 +705006,8 @@
         "4391178542",
         "4391204833",
         "4391207986",
-        "4391224377"
+        "4391224377",
+        "4391237306"
       ]
     },
     "keep": "v2",
