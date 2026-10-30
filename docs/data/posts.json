@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T08:19:10+00:00",
+  "updatedAt": "2026-10-30T08:20:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -678094,6 +678094,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T08:19:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94135,
+      "source": "dc",
+      "externalId": "cmt-10984382",
+      "title": "헌팅포차가면 저정돈 만나지 - dc App",
+      "excerpt": "영철이 밖에서 회계사 한의사 여자는 사귈 수 있냐?",
+      "author": "어리굴저리굴",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639670&page=5#cmt_10984382",
+      "postedLabel": "10.30 15:38:44",
+      "postedAt": "2026-10-30T15:38:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T08:20:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -678240,7 +678260,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T17:16:54+09:00"
+      "slowAt": "2026-10-30T17:19:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -686063,6 +686083,7 @@
         "6639665",
         "6639668",
         "6639669",
+        "6639670",
         "6639671",
         "6639675",
         "6639680",
@@ -686106,6 +686127,7 @@
         "6639812",
         "6639816",
         "6639817",
+        "6639836",
         "6639840",
         "6639846",
         "6639850",
