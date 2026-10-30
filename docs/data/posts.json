@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T04:04:31+00:00",
+  "updatedAt": "2026-10-30T04:05:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -669159,6 +669159,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T04:04:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93684,
+      "source": "blind",
+      "externalId": "cmt-458971808",
+      "title": "현숙은 나는솔로에서 최대한 이미지 챙기고 사고없이 무탈하게 끝내는게 현실적 전략",
+      "excerpt": "현숙 닮은 사람 찾음",
+      "author": "킹**",
+      "company": "한국지능정보사회진흥원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%8B%AE%EC%9D%80-%EC%82%AC%EB%9E%8C-%EC%B0%BE%EC%9D%8C-i4pyhvx2#458971808",
+      "postedLabel": "49분",
+      "postedAt": "2026-10-30T12:16:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T04:05:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -669305,7 +669325,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T13:02:15+09:00"
+      "slowAt": "2026-10-30T13:05:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -677024,7 +677044,8 @@
         "6639384",
         "6639392",
         "6639395",
-        "6639397"
+        "6639397",
+        "6639399"
       ]
     },
     "blind": {
@@ -680347,6 +680368,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-mbti-%EB%AD%98%EA%B9%8C-vo4o11y8",
         "/kr/post/%EC%98%81%EC%B2%A0-mc%EC%95%BC%E3%85%8B%E3%85%8B-2n3c5iwf",
         "/kr/post/%EC%98%81%EC%B2%A0-mhqk02bh",
+        "/kr/post/%EC%98%81%EC%B2%A0-ory4qal4",
         "/kr/post/%EC%98%81%EC%B2%A0-qt5xcobw",
         "/kr/post/%EC%98%81%EC%B2%A0-twcs6dc8",
         "/kr/post/%EC%98%81%EC%B2%A0-vuygys1l",
@@ -680781,6 +680803,7 @@
         "/kr/post/%EC%9B%83%EC%9D%84-%EB%95%8C-%EC%9E%87%EB%AA%B8-%EB%B3%B4%EC%9D%B4%EB%8A%94%EA%B1%B4-%EC%8B%9C%EC%88%A0%EC%9D%B4%EB%82%98-%EC%88%98%EC%88%A0-%EC%95%88%EB%8F%BC-dgu7wulc",
         "/kr/post/%EC%9B%90%EB%9E%98%EB%9D%BC%EB%A9%B4-%EC%A7%80%EA%B8%88-34%EA%B8%B0%EA%B0%80-%EB%8F%8C%EC%8B%B1%ED%8E%B8-%ED%95%A0%EB%95%8C%EC%9D%B8%EB%8D%B0-xejvytun",
         "/kr/post/%EC%9B%90%EB%9E%98-%EB%82%A8%EB%85%80%EC%97%90%EA%B2%8C-%EA%B8%B0%EC%A4%80%EC%9D%B4-%EB%8B%A4%EB%A5%B4%EA%B2%8C-%EC%A0%81%EC%9A%A9-%EB%8F%BC-7hqx1zdm",
+        "/kr/post/%EC%9B%90%EB%9E%98-%EC%88%9C%EC%9E%90%EA%B0%99%EC%9D%80-%EB%84%99%EB%8D%B0%EB%8D%B0%ED%95%9C-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EC%82%AC%EC%A7%84%EB%B9%A8-%EC%95%88%EB%B0%9B%EC%95%84-tcpibf6e",
         "/kr/post/%EC%9B%90%EB%9E%98-%EC%9E%85%ED%81%AC%EA%B3%A0-%ED%84%B1%EC%9D%B4-%EC%A2%80-%EB%B0%9C%EB%8B%AC%EB%90%98%EB%A9%B4-%EC%A2%80-%EC%97%AC%EB%AF%B8%EC%83%88-%EA%B4%80%EC%83%81%EC%9D%B8%EA%B0%80-lid7x2ah",
         "/kr/post/%EC%9B%90%EC%8A%A4%ED%83%80%EB%A9%B4-%EA%B7%B8%EB%83%A5-%ED%95%9C%EB%B2%88-%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%97%90-%EC%B9%9C%EA%B5%AC%EB%93%A4%ED%95%98%EB%8B%88%EA%B9%8C-58twlwpb",
         "/kr/post/%EC%9B%90%EC%9E%A5%EC%83%98-5dj7xlnq",
