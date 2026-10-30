@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T02:52:31+00:00",
+  "updatedAt": "2026-10-30T02:53:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -666002,6 +666002,26 @@
       "firstSeenAt": "2026-10-30T02:52:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93525,
+      "source": "qoo",
+      "externalId": "cmt-4390554169",
+      "title": "진짜 반성해야됨 영철",
+      "excerpt": "영철은 나이가 90년생이라는게 더 충격적임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390545131#4390554169",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T10:52:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T02:53:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -666148,7 +666168,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T11:50:15+09:00"
+      "slowAt": "2026-10-30T11:53:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -682830,7 +682850,8 @@
         "4390522922",
         "4390545131",
         "4390546675",
-        "4390591781"
+        "4390591781",
+        "4390610432"
       ]
     },
     "keep": "v2",
