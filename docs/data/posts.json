@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T00:35:59+00:00",
+  "updatedAt": "2026-10-30T00:36:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -660611,6 +660611,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T00:35:59+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93253,
+      "source": "blind",
+      "externalId": "cmt-458953566",
+      "title": "현숙 지금은 송파살아",
+      "excerpt": "현숙 잘 산다고하는데 영식이가 훨 잘 사는거아님?",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%9E%98-%EC%82%B0%EB%8B%A4%EA%B3%A0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%98%81%EC%8B%9D%EC%9D%B4%EA%B0%80-%ED%9B%A8-%EC%9E%98-%EC%82%AC%EB%8A%94%EA%B1%B0%EC%95%84%EB%8B%98-ila7wqoo#458953566",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T09:36:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:36:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -660757,7 +660777,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T09:33:41+09:00"
+      "slowAt": "2026-10-30T09:36:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -668375,7 +668395,8 @@
         "6638974",
         "6638977",
         "6638980",
-        "6638981"
+        "6638981",
+        "6638982"
       ]
     },
     "blind": {
@@ -673043,6 +673064,7 @@
         "/kr/post/%ED%98%84%EC%88%99-%EC%9E%85-%EB%B2%8C%EB%A6%AC%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B1%B0-%EB%84%88%EB%AC%B4-%EA%B7%80%EC%97%AC%EC%9B%8C%E3%85%A0-8mxpu0fg",
         "/kr/post/%ED%98%84%EC%88%99-%EC%9E%98%EA%BE%B8%EB%AF%B8%EA%B3%A0-%ED%99%94%EC%9E%A5%EB%8F%84-%EC%9E%98%ED%95%9C%EB%8B%A4-mycphiwh",
         "/kr/post/%ED%98%84%EC%88%99-%EC%9E%98-%EB%93%A4%EC%96%B4-73xm363h",
+        "/kr/post/%ED%98%84%EC%88%99-%EC%9E%98-%EC%82%B0%EB%8B%A4%EA%B3%A0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%98%81%EC%8B%9D%EC%9D%B4%EA%B0%80-%ED%9B%A8-%EC%9E%98-%EC%82%AC%EB%8A%94%EA%B1%B0%EC%95%84%EB%8B%98-ila7wqoo",
         "/kr/post/%ED%98%84%EC%88%99-%EC%A0%80%EA%B1%B0-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-odrvgynm",
         "/kr/post/%ED%98%84%EC%88%99-%EC%A0%95%EB%8F%84%EB%A1%9C-%EB%A9%80%EB%AF%B8-%EC%8B%AC%ED%95%9C-%EC%82%AC%EB%9E%8C-%EC%9E%88%EC%96%B4-6x7sb8o5",
         "/kr/post/%ED%98%84%EC%88%99-%EC%A1%B4%EB%82%98-%EC%9D%B4%EC%81%98%EA%B3%A0-%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%EB%8D%B0-mm3wopk4",
