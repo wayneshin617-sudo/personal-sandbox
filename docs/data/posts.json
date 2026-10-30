@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T18:32:23+00:00",
+  "updatedAt": "2026-10-30T18:33:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -691044,6 +691044,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T18:32:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94789,
+      "source": "blind",
+      "externalId": "cmt-459081053",
+      "title": "거기도 나솔 터져?",
+      "excerpt": "중동인데..",
+      "author": "쿵*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A4%91%EB%8F%99%EC%9D%B8%EB%8D%B0-5zrnr1kz#459081053",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T03:33:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T18:33:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -699334,6 +699354,7 @@
         "6640810",
         "6640814",
         "6640815",
+        "6640818",
         "6640888",
         "6640898",
         "6640920"
@@ -703687,6 +703708,7 @@
         "/kr/post/%EC%A3%BC%EB%B3%80%EC%97%90-%EC%98%81%EC%88%99%EA%B0%99%EC%9D%80-%EC%99%80%EC%9D%B4%ED%94%84-%EC%9D%80%EA%B7%BC%ED%9E%88-%EB%A7%8E%EC%9D%80%EB%8D%B0-h0la7zkc",
         "/kr/post/%EC%A4%91%EA%B5%AD%EC%97%AC%EC%9E%90-%EB%B9%A1%EC%84%BC%EB%8D%B0-omrrbm0m",
         "/kr/post/%EC%A4%91%EA%B5%AD%EC%9D%B8%EC%9D%B4-%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%EC%97%90%EC%84%9C-%EC%A0%84%EC%95%A1%EA%B5%AD%EB%B9%84%EC%9E%A5%ED%95%99%EC%83%9D%E2%80%A6-n1z5y1ia",
+        "/kr/post/%EC%A4%91%EB%8F%99%EC%9D%B8%EB%8D%B0-5zrnr1kz",
         "/kr/post/%EC%A6%9D%EB%A7%90-%EC%97%B4%EC%8B%AC%ED%9E%88%EC%82%B0%EB%8B%A4-%EC%97%B4%EC%8B%AC%ED%9E%88%EC%82%B4%EC%96%B4-pwh2yxft",
         "/kr/post/%EC%A7%80%EA%B0%80-%EB%B4%A4%EC%8A%88-yb1nj6bs",
         "/kr/post/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EA%B4%91%EC%88%98-%EC%A4%91%EC%97%90-m84rupfi",
