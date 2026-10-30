@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T14:36:43+00:00",
+  "updatedAt": "2026-10-30T14:37:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -688772,6 +688772,25 @@
       "firstSeenAt": "2026-10-30T14:36:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94674,
+      "source": "qoo",
+      "externalId": "4391281871",
+      "title": "영숙은 본인스타일이랑 안맞는 사람을 고르네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391281871",
+      "postedLabel": "23:37",
+      "postedAt": "2026-10-30T23:37:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:37:43+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -688863,7 +688882,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T23:34:26+09:00"
+      "slowAt": "2026-10-30T23:37:28+09:00"
     },
     "ig": {
       "doneIds": [
@@ -706210,7 +706229,8 @@
         "4391224377",
         "4391237306",
         "4391246266",
-        "4391278728"
+        "4391278728",
+        "4391281871"
       ]
     },
     "keep": "v2",
