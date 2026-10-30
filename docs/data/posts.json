@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T23:28:13+00:00",
+  "updatedAt": "2026-10-30T23:29:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -693344,6 +693344,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-30T23:28:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94905,
+      "source": "blind",
+      "externalId": "cmt-459093108",
+      "title": "조려대 같은 소리 하고 있네",
+      "excerpt": "가발충 vs 문신충",
+      "author": "I*********",
+      "company": "한국연구재단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%EB%B0%9C%EC%B6%A9-vs-%EB%AC%B8%EC%8B%A0%EC%B6%A9-nk0qmz01#459093108",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T08:28:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T23:29:13+00:00",
       "isSeed": false,
       "kind": "reply"
     }
