@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T13:49:54+00:00",
+  "updatedAt": "2026-10-30T13:50:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -687425,6 +687425,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T13:49:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94606,
+      "source": "dc",
+      "externalId": "cmt-10985196",
+      "title": "보정",
+      "excerpt": "31 정희 눈나는 어떻게 급속도로 이뻐진거냐",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640362&page=3#cmt_10985196",
+      "postedLabel": "10.30 20:54:44",
+      "postedAt": "2026-10-30T20:54:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:50:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94607,
+      "source": "blind",
+      "externalId": "cmt-459045163",
+      "title": "취향차이..여잔데 상철이 훨씬 나음",
+      "excerpt": "옥순이는 상철이가 좋은이유가 뭘까",
+      "author": "o****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4%EB%8A%94-%EC%83%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EC%A2%8B%EC%9D%80%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%98%EA%B9%8C-tsslciio#459045163",
+      "postedLabel": "53분",
+      "postedAt": "2026-10-30T21:57:37+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:50:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -687573,7 +687613,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T22:47:37+09:00"
+      "slowAt": "2026-10-30T22:50:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -695582,6 +695622,7 @@
         "6640246",
         "6640248",
         "6640251",
+        "6640254",
         "6640262",
         "6640266",
         "6640275",
@@ -695606,6 +695647,7 @@
         "6640347",
         "6640354",
         "6640355",
+        "6640362",
         "6640368",
         "6640372",
         "6640375",
@@ -695628,6 +695670,7 @@
         "6640438",
         "6640440",
         "6640442",
+        "6640444",
         "6640446",
         "6640472",
         "6640477",
@@ -697745,6 +697788,7 @@
         "/kr/post/%EC%95%A0%EC%B4%88%EC%97%90-%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EB%AD%98-%EA%B8%B0%EB%8C%80%ED%95%98%EB%83%90-zp1qpx17",
         "/kr/post/%EC%95%A0%EC%B4%88%EC%97%90-%EB%AC%B8%EC%8B%A0%EC%9D%84-%EC%99%9C%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-qvkd2hg0",
         "/kr/post/%EC%95%A0%EC%B4%88%EC%97%90-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%97%AC%EC%9E%90-%ED%8A%B9%EC%A7%91%EC%9D%B4%EB%A9%B4-%EB%82%A8%EC%9E%90-%EC%99%B8%EB%AA%A8%EB%8A%94-%ED%95%98%ED%95%9C%EC%84%A0-%EC%88%98%EC%A4%80%EC%9E%84-5bbv1szu",
+        "/kr/post/%EC%95%B5%EA%B0%84%ED%95%98%EB%A9%B4-%EB%AC%B8%EC%8B%A0%EB%85%80%EB%93%A4%EC%9D%80-%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%8B%9C%ED%82%A4%EC%A7%80-%EB%A7%90%EC%9E%90-crf4krks",
         "/kr/post/%EC%95%BC%EA%B5%AC-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-ivb48w07",
         "/kr/post/%EC%95%BC%EC%9D%B4%EC%94%A8-%EC%88%9C%EC%9E%90-%EB%A7%8F%EB%A9%B0%EB%8A%90%EB%A6%AC-%EC%8A%A4%ED%83%AF-%EB%8B%A4-%EC%B0%8D%EC%96%B4%EB%86%93%EA%B3%A0-rgr2poau",
         "/kr/post/%EC%95%BC-%EA%B2%B0%EA%B5%AD-%EC%99%B8%EB%AA%A8%EC%95%BC-hhkcuoge",
