@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:12:12+00:00",
+  "updatedAt": "2026-10-30T09:13:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -679664,6 +679664,26 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T09:12:12+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94214,
+      "source": "blind",
+      "externalId": "cmt-459015902",
+      "title": "괜찮네",
+      "excerpt": "투표글 영철 어떰 투표",
+      "author": "i*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%96%B4%EB%96%B0-j0z6z1tf#459015902",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T18:12:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:13:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -687752,7 +687772,8 @@
         "6640066",
         "6640070",
         "6640075",
-        "6640079"
+        "6640079",
+        "6640083"
       ]
     },
     "blind": {
@@ -691365,6 +691386,7 @@
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%97%AC%EA%B8%B0%EC%84%9C-%EC%A1%B4%EC%98%88%EB%84%A4-80wu6ndz",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%97%AC%EC%9E%90%EB%A0%A5-%EB%BF%9C%EB%BF%9C%EC%9D%B4%EB%8B%A4-1pkq1dbq",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%98%81%EC%88%98-%EB%AF%B8%EB%B0%A9%EB%B6%84-%EC%98%AC%EB%9D%BC%EC%98%B4%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-gcr4g17x",
+        "/kr/post/%EC%98%A5%EC%88%9C-%EC%98%81%EC%88%98-%EB%AF%B8%EB%B0%A9%EB%B6%84-%EC%98%AC%EB%9D%BC%EC%98%B4%E3%85%8B%E3%85%8B%E3%85%8B-gcr4g17x",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%98%81%EC%8B%9D%EC%9D%B4-%EA%B2%B0-%EB%A7%9E%EC%9D%84-%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-pnwpo686",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%98%88%EC%81%9C%EB%8D%B0-%EA%B8%B0%EC%88%98%EB%A5%BC-%EC%9E%98%EB%AA%BB-%EB%A7%8C%EB%82%AC%EB%84%A4-f8547grf",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%9D%B4-%EA%B0%80%EC%9A%B4%EC%82%AC%EC%A7%84-%EA%B6%81%EA%B8%88%ED%95%9C%EA%B2%8C-%EC%9E%88%EB%8A%94%EB%8D%B0-t3dgmvan",
