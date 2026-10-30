@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T10:28:12+00:00",
+  "updatedAt": "2026-10-30T10:29:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -681777,6 +681777,25 @@
       "firstSeenAt": "2026-10-30T10:28:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94321,
+      "source": "dc",
+      "externalId": "6640222",
+      "title": "왜 동양인들은 서양인에 비해 노래를 못부르노",
+      "excerpt": "",
+      "author": "ㅋㅋ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640222&page=1",
+      "postedLabel": "19:28",
+      "postedAt": "2026-10-30T19:28:25+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:29:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -681924,7 +681943,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T19:25:54+09:00"
+      "slowAt": "2026-10-30T19:28:54+09:00"
     },
     "dc": {
       "doneIds": [
