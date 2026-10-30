@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T23:55:12+00:00",
+  "updatedAt": "2026-10-30T23:56:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -694019,6 +694019,45 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-10-30T23:55:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94939,
+      "source": "dc",
+      "externalId": "6641115",
+      "title": "하트오브 비스트 영화 보고 왓는데",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6641115&page=1",
+      "postedLabel": "08:55",
+      "postedAt": "2026-10-31T08:55:11+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T23:56:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94940,
+      "source": "blind",
+      "externalId": "cmt-459095679",
+      "title": "공무원이 꺼드럭거리는거 보단 봐줄만하긴해 그래도 상철은 돈이라도 벌면서 꺼드럭대지 ㅋㅋㅋ",
+      "excerpt": "상철 성격괜찮지않나",
+      "author": "l********",
+      "company": "딜로이트안진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9%EA%B4%9C%EC%B0%AE%EC%A7%80%EC%95%8A%EB%82%98-nufgulwq#459095679",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T08:55:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T23:56:13+00:00",
       "isSeed": false,
       "kind": "reply"
     }
