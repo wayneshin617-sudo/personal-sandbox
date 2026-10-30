@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T02:46:30+00:00",
+  "updatedAt": "2026-10-30T02:47:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -665784,6 +665784,46 @@
       "firstSeenAt": "2026-10-30T02:46:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93514,
+      "source": "qoo",
+      "externalId": "cmt-4390548258",
+      "title": "행동이 20대초반에 머물러있어",
+      "excerpt": "영철은 나이가 90년생이라는게 더 충격적임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390545131#4390548258",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T10:46:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T02:47:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93515,
+      "source": "blind",
+      "externalId": "cmt-458960059",
+      "title": "영철이 잘생겼다고..? 입매가 뭔 아프리카쪽이던데",
+      "excerpt": "솔직히 외모만 보면 영철이가 더 아깝긴함",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%99%B8%EB%AA%A8%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EB%8D%94-%EC%95%84%EA%B9%9D%EA%B8%B4%ED%95%A8-dl1q21hm#458960059",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-30T10:47:09+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T02:47:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -665930,7 +665970,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T11:44:14+09:00"
+      "slowAt": "2026-10-30T11:47:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -673583,6 +673623,7 @@
         "6639072",
         "6639084",
         "6639088",
+        "6639090",
         "6639102",
         "6639106",
         "6639109",
