@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T00:36:59+00:00",
+  "updatedAt": "2026-10-30T00:37:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -660629,6 +660629,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-30T00:36:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93254,
+      "source": "blind",
+      "externalId": "cmt-458953777",
+      "title": "이런걸로 언급되는거 진짜 싫을듯 불쌍해",
+      "excerpt": "현숙 잘 산다고하는데 영식이가 훨 잘 사는거아님?",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%9E%98-%EC%82%B0%EB%8B%A4%EA%B3%A0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%98%81%EC%8B%9D%EC%9D%B4%EA%B0%80-%ED%9B%A8-%EC%9E%98-%EC%82%AC%EB%8A%94%EA%B1%B0%EC%95%84%EB%8B%98-ila7wqoo#458953777",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T09:37:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T00:37:59+00:00",
       "isSeed": false,
       "kind": "reply"
     }
