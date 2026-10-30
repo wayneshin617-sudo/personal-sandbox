@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:58:12+00:00",
+  "updatedAt": "2026-10-30T10:00:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -680931,6 +680931,106 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T09:58:12+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94278,
+      "source": "qoo",
+      "externalId": "cmt-4390908148",
+      "title": "눈깔이런거 그냥 툭툭 말해서 놀람...",
+      "excerpt": "영숙 단어선택이 진짜 저렴하다...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390876220#4390908148",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T17:59:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:00:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94279,
+      "source": "blind",
+      "externalId": "cmt-459018134",
+      "title": "니는 얼마나 디피컬트한데 이지같은 소리하고 자빠져잇어",
+      "excerpt": "파일럿과 승무원",
+      "author": "룰*******",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8C%8C%EC%9D%BC%EB%9F%BF%EA%B3%BC-%EC%8A%B9%EB%AC%B4%EC%9B%90-o0dnfw30#459018134",
+      "postedLabel": "27분",
+      "postedAt": "2026-10-30T18:32:55+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:00:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94280,
+      "source": "blind",
+      "externalId": "cmt-459019068",
+      "title": "둘다 스케쥴 근무니 한쪽은 안정된 사람 원하는거 아닐까?",
+      "excerpt": "파일럿과 승무원",
+      "author": "j********",
+      "company": "LG에너지솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8C%8C%EC%9D%BC%EB%9F%BF%EA%B3%BC-%EC%8A%B9%EB%AC%B4%EC%9B%90-o0dnfw30#459019068",
+      "postedLabel": "19분",
+      "postedAt": "2026-10-30T18:40:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:00:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94281,
+      "source": "blind",
+      "externalId": "cmt-459019813",
+      "title": "잘난 남자한테는 결혼용과 연애용 여자는 분리임",
+      "excerpt": "파일럿과 승무원",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8C%8C%EC%9D%BC%EB%9F%BF%EA%B3%BC-%EC%8A%B9%EB%AC%B4%EC%9B%90-o0dnfw30#459019813",
+      "postedLabel": "12분",
+      "postedAt": "2026-10-30T18:47:55+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:00:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94282,
+      "source": "blind",
+      "externalId": "cmt-459020244",
+      "title": "군대에서 관련학과 애들 많이 만나서 그 질문 했는데 승무원 수준이 일반적으로 별로라서 선호하지 않는다고 함 그리고 스케줄 근무라 육아가 매우 힘들기도함 그럼에도 불구하고 한명은 승무원 만나서 결혼함. 타 항공사 사람들끼리 서로 자기 직장 동료들 소개시켜준다고도 들었음",
+      "excerpt": "파일럿과 승무원",
+      "author": "준***",
+      "company": "LVMH",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8C%8C%EC%9D%BC%EB%9F%BF%EA%B3%BC-%EC%8A%B9%EB%AC%B4%EC%9B%90-o0dnfw30#459020244",
+      "postedLabel": "8분",
+      "postedAt": "2026-10-30T18:51:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:00:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681022,7 +681122,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T18:56:54+09:00"
+      "slowAt": "2026-10-30T18:59:55+09:00"
     },
     "ig": {
       "doneIds": [
