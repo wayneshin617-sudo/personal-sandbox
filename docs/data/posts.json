@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T03:50:30+00:00",
+  "updatedAt": "2026-10-30T03:51:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -668404,6 +668404,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T03:50:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93646,
+      "source": "blind",
+      "externalId": "cmt-458975617",
+      "title": "아니오",
+      "excerpt": "영철 부여 공무원 아니고",
+      "author": "m******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B6%80%EC%97%AC-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%95%84%EB%8B%88%EA%B3%A0-385fcgbx#458975617",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:51:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:51:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93647,
+      "source": "blind",
+      "externalId": "cmt-458975642",
+      "title": "결국 지빙에서나 먹히는 저급 플러팅이지 너무 성급하고 가벼움",
+      "excerpt": "영철 부여 공무원 아니고",
+      "author": "S*****",
+      "company": "SK텔레콤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B6%80%EC%97%AC-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%95%84%EB%8B%88%EA%B3%A0-385fcgbx#458975642",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:51:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:51:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -668495,7 +668535,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T12:48:14+09:00"
+      "slowAt": "2026-10-30T12:51:15+09:00"
     },
     "ig": {
       "doneIds": [
@@ -676256,7 +676296,8 @@
         "6639336",
         "6639344",
         "6639346",
-        "6639348"
+        "6639348",
+        "6639349"
       ]
     },
     "blind": {
@@ -679406,6 +679447,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EB%A9%B4-%ED%95%99%EA%B5%90-%EB%8B%A4%EB%8B%90%EB%95%8C-%EB%AA%BB%EB%82%98%EA%B0%80%EB%8A%94-%EA%B7%B8%EB%A3%B9%EC%97%90%EC%84%9C-%EC%9D%B8%EA%B8%B0%EB%82%A8-%EC%97%AD%ED%95%A0-%ED%95%98%EB%8D%98-%EC%95%A0-%EB%B3%B4%EB%8A%94%EA%B2%83-%EA%B0%99%EC%9D%8C-02nlnry4",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-qcqpw2hx",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B6%80%EC%97%AC%EB%9D%BC%EB%A9%B0-j5ra3izq",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EB%B6%80%EC%97%AC-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%95%84%EB%8B%88%EA%B3%A0-385fcgbx",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%A7%84%EC%A7%9C-%EA%B0%80%EB%B3%8D%EB%84%A4-gqmdrkpf",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%82%B4%EC%A7%9D-%EA%B3%B5%EC%9C%A0-%EB%8A%90%EB%82%8C-%EC%9E%88%EB%8A%94%EB%8D%B0-glwbla85",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%83%81%ED%83%9C%EA%B0%80-%EC%9D%B4%ED%95%B4%EB%8A%94-%EB%90%A8-77bo5ejr",
