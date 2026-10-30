@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T06:13:55+00:00",
+  "updatedAt": "2026-10-30T06:15:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -673716,6 +673716,65 @@
       "firstSeenAt": "2026-10-30T06:13:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93914,
+      "source": "blind",
+      "externalId": "cmt-458991816",
+      "title": "이건 진짜 맞음",
+      "excerpt": "다들 뭐라해도",
+      "author": "i*****",
+      "company": "ex-공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EB%93%A4-%EB%AD%90%EB%9D%BC%ED%95%B4%EB%8F%84-s3ijy8rr#458991816",
+      "postedLabel": "13분",
+      "postedAt": "2026-10-30T15:02:37+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:15:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93915,
+      "source": "qoo",
+      "externalId": "4390774243",
+      "title": "책을 연 60권 읽었다는 사람이 참",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390774243",
+      "postedLabel": "15:15",
+      "postedAt": "2026-10-30T15:15:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:15:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93916,
+      "source": "blind",
+      "externalId": "cmt-458993459",
+      "title": "공뭔이 정말 힘든직업이라 다들 멘탈 나가있는듯",
+      "excerpt": "나솔출연 공뭔들은",
+      "author": "D*****",
+      "company": "수의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%B6%9C%EC%97%B0-%EA%B3%B5%EB%AD%94%EB%93%A4%EC%9D%80-efw6m4c1#458993459",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T15:15:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:15:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -673807,7 +673866,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T15:12:36+09:00"
+      "slowAt": "2026-10-30T15:15:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -681657,7 +681716,8 @@
         "6639629",
         "6639637",
         "6639642",
-        "6639650"
+        "6639650",
+        "6639656"
       ]
     },
     "blind": {
@@ -690726,7 +690786,8 @@
         "4390713920",
         "4390726870",
         "4390741604",
-        "4390750891"
+        "4390750891",
+        "4390774243"
       ]
     },
     "keep": "v2",
