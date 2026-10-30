@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:30:10+00:00",
+  "updatedAt": "2026-10-30T09:31:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -680180,6 +680180,64 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T09:30:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94240,
+      "source": "blind",
+      "externalId": "cmt-459002115",
+      "title": "약사는 약사수당이 더붙겠지 비약사는 내려갈거고",
+      "excerpt": "근데 한국릴리는 왜렇게 치켜세워주는거야?",
+      "author": "j******* 작성자",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%95%9C%EA%B5%AD%EB%A6%B4%EB%A6%AC%EB%8A%94-%EC%99%9C%EB%A0%87%EA%B2%8C-%EC%B9%98%EC%BC%9C%EC%84%B8%EC%9B%8C%EC%A3%BC%EB%8A%94%EA%B1%B0%EC%95%BC-fpwehui5#459002115",
+      "postedLabel": "2시간",
+      "postedAt": "2026-10-30T16:30:46+09:00",
+      "views": null,
+      "recommends": 7,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:31:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94241,
+      "source": "dc",
+      "externalId": "6640126",
+      "title": "내가보기엔 세상에서 제일 꼬시기 쉬운 mbti는 잇프피임",
+      "excerpt": "",
+      "author": "야옹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640126&page=1",
+      "postedLabel": "18:29",
+      "postedAt": "2026-10-30T18:29:57+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:31:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94242,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94-%EB%85%B8%EB%9E%98-%EB%B0%B0%EB%B0%98%EC%9D%98-%EC%9E%A5%EB%AF%B8%EB%A1%9C-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0-%EC%95%8C%EB%A0%A4%EC%A4%84%EA%B9%8C-20osplds",
+      "title": "나솔 노래 배반의 장미로 바꾼 이유 알려줄까",
+      "excerpt": "영철이 때문이다 17부작의 주인공",
+      "author": "i*********",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%85%B8%EB%9E%98-%EB%B0%B0%EB%B0%98%EC%9D%98-%EC%9E%A5%EB%AF%B8%EB%A1%9C-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0-%EC%95%8C%EB%A0%A4%EC%A4%84%EA%B9%8C-20osplds",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T18:30:54+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T09:31:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -688280,7 +688338,9 @@
         "6640105",
         "6640107",
         "6640110",
-        "6640117"
+        "6640117",
+        "6640119",
+        "6640122"
       ]
     },
     "blind": {
