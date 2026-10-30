@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:29:23+00:00",
+  "updatedAt": "2026-10-30T09:30:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -680101,6 +680101,85 @@
       "firstSeenAt": "2026-10-30T09:29:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94236,
+      "source": "blind",
+      "externalId": "cmt-459011032",
+      "title": "구글코리아도 유한회사인데 그럼 별 볼일없는 회사네",
+      "excerpt": "근데 한국릴리는 왜렇게 치켜세워주는거야?",
+      "author": "팩******",
+      "company": "몰로코",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%95%9C%EA%B5%AD%EB%A6%B4%EB%A6%AC%EB%8A%94-%EC%99%9C%EB%A0%87%EA%B2%8C-%EC%B9%98%EC%BC%9C%EC%84%B8%EC%9B%8C%EC%A3%BC%EB%8A%94%EA%B1%B0%EC%95%BC-fpwehui5#459011032",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-30T17:29:49+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:30:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94237,
+      "source": "blind",
+      "externalId": "cmt-459011656",
+      "title": "구글코리아는 358명기준 임직원 감사보고서상 급여 175,796백만원으로 평균연봉(임원포함) 인당 근4억9천임. 저기숫자적어놓은거안보임? 구글코리아>>>릴리한국지사는 연봉만최소5배차이",
+      "excerpt": "근데 한국릴리는 왜렇게 치켜세워주는거야?",
+      "author": "j******* 작성자",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%95%9C%EA%B5%AD%EB%A6%B4%EB%A6%AC%EB%8A%94-%EC%99%9C%EB%A0%87%EA%B2%8C-%EC%B9%98%EC%BC%9C%EC%84%B8%EC%9B%8C%EC%A3%BC%EB%8A%94%EA%B1%B0%EC%95%BC-fpwehui5#459011656",
+      "postedLabel": "56분",
+      "postedAt": "2026-10-30T17:33:54+09:00",
+      "views": null,
+      "recommends": 7,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:30:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94238,
+      "source": "blind",
+      "externalId": "cmt-459016670",
+      "title": "영철이 헤드라인에 하남자 박혀서 뉴스타고있음ㅋㅋㅋ",
+      "excerpt": "영철이 성별 바뀌었으면 이미 매장임",
+      "author": "1*********",
+      "company": "유플러스아이티",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%84%B1%EB%B3%84-%EB%B0%94%EB%80%8C%EC%97%88%EC%9C%BC%EB%A9%B4-%EC%9D%B4%EB%AF%B8-%EB%A7%A4%EC%9E%A5%EC%9E%84-cbsrveq4#459016670",
+      "postedLabel": "11분",
+      "postedAt": "2026-10-30T18:18:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:30:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94239,
+      "source": "qoo",
+      "externalId": "4390933411",
+      "title": "34기 처음 등장할때 영철잘생겼다고..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390933411",
+      "postedLabel": "18:29",
+      "postedAt": "2026-10-30T18:29:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:30:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -680192,7 +680271,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T18:26:54+09:00"
+      "slowAt": "2026-10-30T18:29:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -697315,7 +697394,8 @@
         "4390877786",
         "4390915117",
         "4390928104",
-        "4390931935"
+        "4390931935",
+        "4390933411"
       ]
     },
     "keep": "v2",
