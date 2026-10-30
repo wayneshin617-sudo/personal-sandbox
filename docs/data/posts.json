@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T14:34:41+00:00",
+  "updatedAt": "2026-10-30T14:35:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -688652,6 +688652,66 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T14:34:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94668,
+      "source": "qoo",
+      "externalId": "cmt-4391219346",
+      "title": "이번 기수에 책 많이 읽었다는말 누가 했지?? 영철?",
+      "excerpt": "본인 입으로 책 많이 읽었다고 하는 사람 : 실제로는 그럴리가 없는",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391204833#4391219346",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T22:34:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:35:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94669,
+      "source": "qoo",
+      "externalId": "cmt-4391219683",
+      "title": "아숩..",
+      "excerpt": "영수 옥순 미방봤는데 옥순이 영수한테 관심없구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391035845#4391219683",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T22:34:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:35:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94670,
+      "source": "blind",
+      "externalId": "cmt-459059747",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋ ㅆㅂ",
+      "excerpt": "34기 순자 문신 있으면서 광수를 거부해???",
+      "author": "M*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EC%9E%88%EC%9C%BC%EB%A9%B4%EC%84%9C-%EA%B4%91%EC%88%98%EB%A5%BC-%EA%B1%B0%EB%B6%80%ED%95%B4-rpz6epta#459059747",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T23:35:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:35:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -688800,7 +688860,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T23:32:25+09:00"
+      "slowAt": "2026-10-30T23:35:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -696880,6 +696940,7 @@
         "6640514",
         "6640515",
         "6640518",
+        "6640521",
         "6640523",
         "6640525",
         "6640528",
