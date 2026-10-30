@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T10:13:12+00:00",
+  "updatedAt": "2026-10-30T10:15:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -681384,6 +681384,26 @@
       "firstSeenAt": "2026-10-30T10:13:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94301,
+      "source": "dc",
+      "externalId": "cmt-10984977",
+      "title": "2세는 불쌍",
+      "excerpt": "와이프 구하러 다음 달에 베트남 간다",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640091&page=2#cmt_10984977",
+      "postedLabel": "10.30 18:22:23",
+      "postedAt": "2026-10-30T18:22:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T10:15:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681475,7 +681495,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-30T19:11:54+09:00"
+      "slowAt": "2026-10-30T19:14:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -689510,6 +689530,7 @@
         "6640187",
         "6640188",
         "6640192",
+        "6640198",
         "6640199"
       ]
     },
