@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T03:15:30+00:00",
+  "updatedAt": "2026-10-30T03:16:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -667213,6 +667213,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T03:15:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93586,
+      "source": "blind",
+      "externalId": "cmt-458970307",
+      "title": "의사 좋아하는 여자도 다 그런거지 뭐",
+      "excerpt": "투표글 근데 상대방 집안 봐야되는 거 맞지않음? 투표",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%83%81%EB%8C%80%EB%B0%A9-%EC%A7%91%EC%95%88-%EB%B4%90%EC%95%BC%EB%90%98%EB%8A%94-%EA%B1%B0-%EB%A7%9E%EC%A7%80%EC%95%8A%EC%9D%8C-b2jtf8of#458970307",
+      "postedLabel": "15분",
+      "postedAt": "2026-10-30T12:01:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:16:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93587,
+      "source": "blind",
+      "externalId": "cmt-458971765",
+      "title": "남이사 하든 말든",
+      "excerpt": "문신",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B8%EC%8B%A0-rz7jameo#458971765",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T12:16:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T03:16:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -675040,7 +675080,8 @@
         "6639238",
         "6639247",
         "6639248",
-        "6639253"
+        "6639253",
+        "6639263"
       ]
     },
     "blind": {
