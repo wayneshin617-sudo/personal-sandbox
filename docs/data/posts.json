@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T14:25:25+00:00",
+  "updatedAt": "2026-10-30T14:26:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -688513,6 +688513,66 @@
       "firstSeenAt": "2026-10-30T14:25:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94661,
+      "source": "dc",
+      "externalId": "cmt-10985351",
+      "title": "비율좋다.",
+      "excerpt": "34 영호 조쉬 하트넷 느낌 나네",
+      "author": "뽀삐",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640510&page=2#cmt_10985351",
+      "postedLabel": "10.30 22:42:49",
+      "postedAt": "2026-10-30T22:42:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:26:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94662,
+      "source": "blind",
+      "externalId": "cmt-459057232",
+      "title": "처음 영철 나올 때 부여성골파라며 영철 욕하는 동료들이랑 영철 옹호하는 동료들이 있었는데 그 내용이 너무나 짜쳐서 오히려 사람들이 성골 세력을 욕하는 분위기였는데 방송 나온걸 보니 사람들이 오히려 성골세력들 보고 영철이 가만히 둬도 나락갔을텐데 뭣하러 그런 수고를 했냐며 오히려 성골 세력을 옹호하는 상황이야. 다만 얼마전 동료가 영철 변호사 선임 했다고해서 다들 몸사리고 있다는 댓글달고 바로 삭제 했었는데 사실이면 영철이 지금 힘든 시기를 보내고 있지않나 싶어. 그러니 다들 너무 심한 말은 자제하자~",
+      "excerpt": "영철 사표냈어??",
+      "author": "a***",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%82%AC%ED%91%9C%EB%83%88%EC%96%B4-fincc53v#459057232",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-30T23:17:25+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:26:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94663,
+      "source": "blind",
+      "externalId": "cmt-459058434",
+      "title": "현숙한테 뺨맞았어? 뭔 잘못을 했길래 이렇게 내려치는거임",
+      "excerpt": "솔까 34기 여출들 중에 현숙님이 6순위긴 하죠",
+      "author": "I*********",
+      "company": "쿠팡풀필먼트서비스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EA%B9%8C-34%EA%B8%B0-%EC%97%AC%EC%B6%9C%EB%93%A4-%EC%A4%91%EC%97%90-%ED%98%84%EC%88%99%EB%8B%98%EC%9D%B4-6%EC%88%9C%EC%9C%84%EA%B8%B4-%ED%95%98%EC%A3%A0-fmafrzvd#459058434",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T23:26:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T14:26:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -688661,7 +688721,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T23:23:09+09:00"
+      "slowAt": "2026-10-30T23:26:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -696737,6 +696797,7 @@
         "6640501",
         "6640506",
         "6640507",
+        "6640510",
         "6640515",
         "6640518",
         "6640523",
