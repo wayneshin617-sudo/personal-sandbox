@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T05:45:53+00:00",
+  "updatedAt": "2026-10-30T05:46:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -672424,6 +672424,104 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T05:45:53+00:00",
       "isSeed": false
+    },
+    {
+      "id": 93849,
+      "source": "blind",
+      "externalId": "cmt-458981433",
+      "title": "왜 관두지 ㅠ",
+      "excerpt": "영철 퇴사했다던데",
+      "author": "x********",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%87%B4%EC%82%AC%ED%96%88%EB%8B%A4%EB%8D%98%EB%8D%B0-tst8kzzj#458981433",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-30T13:46:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:46:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93850,
+      "source": "blind",
+      "externalId": "cmt-458986501",
+      "title": "퇴사 생각하고 출연?",
+      "excerpt": "영철 퇴사했다던데",
+      "author": "l*********",
+      "company": "현대모비스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%87%B4%EC%82%AC%ED%96%88%EB%8B%A4%EB%8D%98%EB%8D%B0-tst8kzzj#458986501",
+      "postedLabel": "26분",
+      "postedAt": "2026-10-30T14:20:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:46:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93851,
+      "source": "qoo",
+      "externalId": "4390750891",
+      "title": "영철도 그냥 시트콤 인물이라고 생각하고 보니까 스트레스 덜 받음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390750891",
+      "postedLabel": "14:46",
+      "postedAt": "2026-10-30T14:46:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:46:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93852,
+      "source": "dc",
+      "externalId": "6639594",
+      "title": "내 최애는 미킴이 형이에요",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639594&page=1",
+      "postedLabel": "14:46",
+      "postedAt": "2026-10-30T14:46:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:46:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 93853,
+      "source": "blind",
+      "externalId": "cmt-458989722",
+      "title": "그럴거같음",
+      "excerpt": "원래 순자같은 넙데데한 얼굴이 사진빨 안받아",
+      "author": "p*****",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9B%90%EB%9E%98-%EC%88%9C%EC%9E%90%EA%B0%99%EC%9D%80-%EB%84%99%EB%8D%B0%EB%8D%B0%ED%95%9C-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EC%82%AC%EC%A7%84%EB%B9%A8-%EC%95%88%EB%B0%9B%EC%95%84-tcpibf6e#458989722",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T14:46:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T05:46:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -680348,7 +680446,8 @@
         "6639577",
         "6639581",
         "6639583",
-        "6639584"
+        "6639584",
+        "6639589"
       ]
     },
     "blind": {
@@ -685432,6 +685531,7 @@
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%A0%95%EB%8F%84%EB%A9%B4-zitdee5k",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%B7%A8%EC%A7%91%ED%95%98%EB%9F%AC-%EC%98%A8%EA%B1%B4%EA%B0%80%EC%9A%94-x6u0xo65",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%8C%A8%EA%B1%B0%EB%A6%AC-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%B0%98%EB%B0%95%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B0%98%EB%B0%95-4eekdc1f",
+        "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%95%98%EB%8F%84-%EC%9A%95%EB%A8%B9%EA%B8%B8%EB%9E%98-%EB%B4%A4%EB%8D%94%EB%8B%88-%EB%B3%84%EA%B2%83%EB%8F%84-%EC%95%84%EB%8B%88%EB%84%A4-4j5fmjtc",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%95%9C%EB%A7%88%EB%94%94%EB%A1%9C-%EC%A0%95%EB%A6%AC-iulmdz0v",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99%EC%9D%80-%EC%B5%9C%EC%BB%A4%EB%8A%94-%EC%A0%88%EB%8C%80%EC%95%84%EB%8B%98-yk5g7033",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%9E%98-%EB%90%9C%EB%8B%A4-%EC%95%88-%EB%90%9C%EB%8B%A4-pcw1101n",
@@ -689410,7 +689510,8 @@
         "4390634701",
         "4390713920",
         "4390726870",
-        "4390741604"
+        "4390741604",
+        "4390750891"
       ]
     },
     "keep": "v2",
