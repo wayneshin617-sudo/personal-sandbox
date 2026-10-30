@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T09:24:10+00:00",
+  "updatedAt": "2026-10-30T09:25:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -679922,6 +679922,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-30T09:24:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94227,
+      "source": "qoo",
+      "externalId": "cmt-4390881932",
+      "title": "이런 도파민 자막이 없구나 슴슴하겠다 진짜",
+      "excerpt": "해외살아서 나솔 우회없이 볼수있어서 좋아했는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390877786#4390881932",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T17:24:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T09:25:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -687981,6 +688001,7 @@
         "6639966",
         "6639970",
         "6639971",
+        "6639982",
         "6639984",
         "6639993",
         "6639994",
