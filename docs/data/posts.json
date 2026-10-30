@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T13:31:55+00:00",
+  "updatedAt": "2026-10-30T13:32:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -686531,6 +686531,66 @@
       "comments": 0,
       "firstSeenAt": "2026-10-30T13:31:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 94561,
+      "source": "qoo",
+      "externalId": "cmt-4391136322",
+      "title": "@1 영호겠지? 만약 영철이었어도 이번화 보면 바뀌었을 거 같아 사랑 얘기에 진저리 치던데 ㅋㅋ",
+      "excerpt": "영수 옥순 미방봤는데 옥순이 영수한테 관심없구나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391035845#4391136322",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T21:31:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:32:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94562,
+      "source": "dc",
+      "externalId": "cmt-10985249",
+      "title": "촌구석 상위 1%가 현실에 대가리 터지는중? - dc App",
+      "excerpt": "논산서 영철 와꾸에 공먼이면",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6640410&page=2#cmt_10985249",
+      "postedLabel": "10.30 21:34:36",
+      "postedAt": "2026-10-30T21:34:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:32:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94563,
+      "source": "blind",
+      "externalId": "cmt-459050489",
+      "title": "내가 남출이면 바로 중도 퇴소했다ㅋㅋㅋ",
+      "excerpt": "34기는 그냥 여출문신특집이라 봐야",
+      "author": "l*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0%EB%8A%94-%EA%B7%B8%EB%83%A5-%EC%97%AC%EC%B6%9C%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91%EC%9D%B4%EB%9D%BC-%EB%B4%90%EC%95%BC-bf0n7pbm#459050489",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T22:32:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T13:32:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -686679,7 +686739,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T22:29:38+09:00"
+      "slowAt": "2026-10-30T22:32:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -694700,6 +694760,7 @@
         "6640328",
         "6640332",
         "6640333",
+        "6640334",
         "6640368",
         "6640372",
         "6640375",
@@ -694713,6 +694774,7 @@
         "6640403",
         "6640408",
         "6640409",
+        "6640410",
         "6640446",
         "6640472",
         "6640477",
@@ -694721,7 +694783,8 @@
         "6640489",
         "6640495",
         "6640501",
-        "6640507"
+        "6640507",
+        "6640515"
       ]
     },
     "blind": {
@@ -699765,6 +699828,7 @@
         "/kr/post/34%EA%B4%91%EC%88%98-1em030lz",
         "/kr/post/34%EA%B4%91%EC%88%98-27%EC%98%81%EC%B2%A0-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%8A%90%EB%82%8C-44rp1rb1",
         "/kr/post/34%EA%B8%B0%EB%8A%94-%EA%B0%84%EB%A7%8C%EC%97%90-%EB%B3%B8%EB%B0%A9%EC%82%AC%EC%88%98-%EC%9A%95%EA%B5%AC%EA%B0%80-%EB%BF%9C%EB%BF%9C%EC%9D%B4%EB%8B%B7-2cfh0dex",
+        "/kr/post/34%EA%B8%B0%EB%8A%94-%EA%B7%B8%EB%83%A5-%EC%97%AC%EC%B6%9C%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91%EC%9D%B4%EB%9D%BC-%EB%B4%90%EC%95%BC-bf0n7pbm",
         "/kr/post/34%EA%B8%B0%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%98%81%ED%84%B8%EB%8B%98%EC%9D%B4%EB%9E%91-%EC%98%81%EC%88%99%EB%8B%98%EC%9D%B4-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8%EA%B0%80%EC%9A%94-yhym72pk",
         "/kr/post/34%EA%B8%B0%EB%8A%94-%EC%98%81%EC%88%99%EC%9D%B4-%ED%95%98%EB%93%9C%EC%BC%80%EB%A6%AC%ED%95%A0%EC%A4%84-%EC%95%8C%EC%95%98%EB%8D%94%EB%A7%8C%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%B5%EB%B3%91%EC%9D%B4%EC%98%80%EB%84%A4-uy77j0e3",
         "/kr/post/34%EA%B8%B0%EB%8A%94-%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%B0%90%EC%9D%B4%EB%8B%A4-6av4nnbv",
