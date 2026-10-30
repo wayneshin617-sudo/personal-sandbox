@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T07:01:54+00:00",
+  "updatedAt": "2026-10-30T07:02:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -675554,6 +675554,65 @@
       "firstSeenAt": "2026-10-30T07:01:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94007,
+      "source": "dc",
+      "externalId": "cmt-10984439",
+      "title": "영수 박해일 닮아서 존잘이네",
+      "excerpt": "와꾸차이 살벌하네..",
+      "author": "박우리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6639779&page=1#cmt_10984439",
+      "postedLabel": "10.30 16:01:47",
+      "postedAt": "2026-10-30T16:01:47+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T07:02:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 94008,
+      "source": "qoo",
+      "externalId": "4390812998",
+      "title": "이번주 나솔재밌었어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4390812998",
+      "postedLabel": "16:02",
+      "postedAt": "2026-10-30T16:02:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T07:02:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 94009,
+      "source": "blind",
+      "externalId": "cmt-458999178",
+      "title": "아니 그럼 연프에서 띄워줄거는 최대한 띄워줘야지, 안경 척 하면서 “한국 릴리는 보따리상이죠~“ 이래야 함? ㅋㅋㅋㅋ",
+      "excerpt": "근데 한국릴리는 왜렇게 치켜세워주는거야?",
+      "author": "l*********",
+      "company": "프라이스워터하우스쿠퍼스컨설팅",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%95%9C%EA%B5%AD%EB%A6%B4%EB%A6%AC%EB%8A%94-%EC%99%9C%EB%A0%87%EA%B2%8C-%EC%B9%98%EC%BC%9C%EC%84%B8%EC%9B%8C%EC%A3%BC%EB%8A%94%EA%B1%B0%EC%95%BC-fpwehui5#458999178",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T16:02:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T07:02:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -675700,7 +675759,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T15:59:36+09:00"
+      "slowAt": "2026-10-30T16:02:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -683535,7 +683594,8 @@
         "6639756",
         "6639764",
         "6639768",
-        "6639771"
+        "6639771",
+        "6639779"
       ]
     },
     "blind": {
@@ -686555,6 +686615,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%83%81%ED%96%A5%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8g3s276y",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%88%EB%8C%80-%EC%83%81%ED%96%A5%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-h1frcs6c",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A0%9C%EC%9D%BC-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EB%A8%B8%EB%A6%AC%EB%A5%BC-%EB%84%88%EB%AC%B4-%EA%B5%B4%EB%A6%B0%EB%8B%A4%EB%8A%94%EA%B1%B0-5fswgt38",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A1%B0%EA%B8%88-%EB%82%A0%ED%8B%B0%EB%82%98%EC%A7%80%EB%A7%8C-%EA%B7%B8%EB%9E%98%EB%8F%84-0myowlhu",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A1%B0%EC%A6%9D-%EC%98%A8%EB%93%AF-n3nd83wk",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A1%B4%EB%82%98-%EB%82%98%EB%8C%80%EB%84%A4-lmxdx36n",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A1%B4%EB%82%98-%EC%9B%83%EA%B8%B0%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-k721ru83",
@@ -692617,7 +692678,8 @@
         "4390774243",
         "4390776929",
         "4390786137",
-        "4390787903"
+        "4390787903",
+        "4390812998"
       ]
     },
     "keep": "v2",
