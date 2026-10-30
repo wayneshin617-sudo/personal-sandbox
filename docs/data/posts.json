@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-30T06:40:55+00:00",
+  "updatedAt": "2026-10-30T06:41:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -674582,6 +674582,45 @@
       "firstSeenAt": "2026-10-30T06:40:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 93958,
+      "source": "qoo",
+      "externalId": "cmt-4390746893",
+      "title": "고진감내 환골탈퇴 황당무개 수준ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "불소불위 너무 웃김",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4390741604#4390746893",
+      "postedLabel": "",
+      "postedAt": "2026-10-30T14:41:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-30T06:41:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 93959,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EC%A2%80-%EC%96%B5%ED%85%90%EC%95%84%EB%8B%88%EC%95%BC-u3rqck2t",
+      "title": "정숙은 좀 억텐아니야?",
+      "excerpt": "그래서 보기가 불편",
+      "author": "k*********",
+      "company": "국민연금공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EC%A2%80-%EC%96%B5%ED%85%90%EC%95%84%EB%8B%88%EC%95%BC-u3rqck2t",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-30T15:41:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-30T06:41:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -674728,7 +674767,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-30T15:38:36+09:00"
+      "slowAt": "2026-10-30T15:41:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -682549,7 +682588,8 @@
         "6639715",
         "6639725",
         "6639727",
-        "6639728"
+        "6639728",
+        "6639732"
       ]
     },
     "blind": {
