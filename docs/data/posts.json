@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T22:38:35+00:00",
+  "updatedAt": "2026-10-31T22:44:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -713174,6 +713174,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-31T22:38:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95907,
+      "source": "blind",
+      "externalId": "cmt-459222108",
+      "title": "34현숙이 더 이쁨",
+      "excerpt": "23 영숙은 외모가 어느정도임?",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/23-%EC%98%81%EC%88%99%EC%9D%80-%EC%99%B8%EB%AA%A8%EA%B0%80-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84%EC%9E%84-ur86zw3c#459222108",
+      "postedLabel": "5분",
+      "postedAt": "2026-11-01T07:39:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T22:44:35+00:00",
       "isSeed": false,
       "kind": "reply"
     }
