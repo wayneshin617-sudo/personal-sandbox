@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T14:54:50+00:00",
+  "updatedAt": "2026-10-31T14:55:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -709826,6 +709826,44 @@
       "firstSeenAt": "2026-10-31T14:54:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95738,
+      "source": "dc",
+      "externalId": "6642344",
+      "title": "영철은 입이 천박한게 느껴짐 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "211.236",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642344&page=1",
+      "postedLabel": "23:54",
+      "postedAt": "2026-10-31T23:54:35+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T14:55:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 95739,
+      "source": "dc",
+      "externalId": "6642345",
+      "title": "투표",
+      "excerpt": "",
+      "author": "비알트",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642345&page=1",
+      "postedLabel": "23:55",
+      "postedAt": "2026-10-31T23:55:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T14:55:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -709980,7 +710018,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T23:52:33+09:00"
+      "slowAt": "2026-10-31T23:55:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -718434,6 +718472,7 @@
         "6641944",
         "6641960",
         "6641967",
+        "6641971",
         "6641977",
         "6641979",
         "6641982",
@@ -718456,6 +718495,7 @@
         "6642044",
         "6642048",
         "6642050",
+        "6642052",
         "6642054",
         "6642061",
         "6642070",
