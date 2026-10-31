@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T01:35:58+00:00",
+  "updatedAt": "2026-10-31T01:36:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -695698,6 +695698,45 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-31T01:35:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 95024,
+      "source": "qoo",
+      "externalId": "cmt-4391452027",
+      "title": "강툌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영철은 인생에 처음본 이상형을 만난건가",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391246266#4391452027",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T09:36:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:36:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95025,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%8A%B8%EB%A6%AC%EA%B1%B0-shen3acd",
+      "title": "트리거",
+      "excerpt": "화이팅 응원합니다!",
+      "author": "i********",
+      "company": "나이스평가정보",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8A%B8%EB%A6%AC%EA%B1%B0-shen3acd",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T10:36:40+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-31T01:36:58+00:00",
       "isSeed": false
     }
   ],
