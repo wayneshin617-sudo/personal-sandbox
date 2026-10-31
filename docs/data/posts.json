@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T11:00:46+00:00",
+  "updatedAt": "2026-10-31T11:01:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -705810,6 +705810,46 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-31T11:00:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95535,
+      "source": "blind",
+      "externalId": "cmt-459162323",
+      "title": "나는야수민이~",
+      "excerpt": "미안한데.. 너무닮았어요",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AF%B8%EC%95%88%ED%95%9C%EB%8D%B0-%EB%84%88%EB%AC%B4%EB%8B%AE%EC%95%98%EC%96%B4%EC%9A%94-aa85hleh#459162323",
+      "postedLabel": "9분",
+      "postedAt": "2026-10-31T19:52:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T11:01:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95536,
+      "source": "blind",
+      "externalId": "cmt-459162635",
+      "title": "수민이 실제로봤는데 체형도 존똑",
+      "excerpt": "미안한데.. 너무닮았어요",
+      "author": "k*******",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AF%B8%EC%95%88%ED%95%9C%EB%8D%B0-%EB%84%88%EB%AC%B4%EB%8B%AE%EC%95%98%EC%96%B4%EC%9A%94-aa85hleh#459162635",
+      "postedLabel": "6분",
+      "postedAt": "2026-10-31T19:55:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T11:01:46+00:00",
       "isSeed": false,
       "kind": "reply"
     }
