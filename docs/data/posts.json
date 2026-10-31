@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T15:26:50+00:00",
+  "updatedAt": "2026-10-31T15:31:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -710877,6 +710877,86 @@
       "firstSeenAt": "2026-10-31T15:26:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95791,
+      "source": "blind",
+      "externalId": "cmt-458909675",
+      "title": "역시 명품회사라 인사이트가 좋네",
+      "excerpt": "현숙이 이쁘냐?",
+      "author": "l*********",
+      "company": "에스엠상선",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p#458909675",
+      "postedLabel": "3일",
+      "postedAt": "2026-10-29T00:31:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:31:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95792,
+      "source": "blind",
+      "externalId": "cmt-458866122",
+      "title": "너무해ㅜㅠㅠㅠㅜ",
+      "excerpt": "현숙이 이쁘냐?",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p#458866122",
+      "postedLabel": "3일",
+      "postedAt": "2026-10-29T00:31:26+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:31:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95793,
+      "source": "blind",
+      "externalId": "cmt-458852281",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "현숙이 이쁘냐?",
+      "author": "힘내는 쿼카킁카🦫",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p#458852281",
+      "postedLabel": "3일",
+      "postedAt": "2026-10-29T00:31:27+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:31:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95794,
+      "source": "blind",
+      "externalId": "cmt-458816105",
+      "title": "양반집 품격있는 규수같은 느낌이 있음 영철은 기생만 꼬시던 천민 느낌",
+      "excerpt": "현숙이 이쁘냐?",
+      "author": "준***",
+      "company": "LVMH",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EC%81%98%EB%83%90-u3z33e1p#458816105",
+      "postedLabel": "3일",
+      "postedAt": "2026-10-29T00:31:28+09:00",
+      "views": null,
+      "recommends": 77,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:31:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -711031,7 +711111,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-11-01T00:28:34+09:00"
+      "slowAt": "2026-11-01T00:31:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -719594,7 +719674,8 @@
         "6642363",
         "6642371",
         "6642373",
-        "6642375"
+        "6642375",
+        "6642380"
       ]
     },
     "blind": {
