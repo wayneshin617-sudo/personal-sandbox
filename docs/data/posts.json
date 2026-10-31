@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T19:51:12+00:00",
+  "updatedAt": "2026-10-31T19:53:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -712581,6 +712581,25 @@
       "firstSeenAt": "2026-10-31T19:51:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95877,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90-%EB%8F%99%EC%B0%BD%EC%9D%B4%EC%97%88%EB%84%A4-h2hnfmea",
+      "title": "현숙이 초등학교 동창이었네",
+      "excerpt": "얼굴 보고 갑자기 기억나서 이름 검색해보니 맞네",
+      "author": "헌****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90-%EB%8F%99%EC%B0%BD%EC%9D%B4%EC%97%88%EB%84%A4-h2hnfmea",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T04:52:55+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-31T19:53:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -712739,7 +712758,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T04:49:55+09:00"
+      "slowAt": "2026-11-01T04:52:55+09:00"
     },
     "dc": {
       "doneIds": [
