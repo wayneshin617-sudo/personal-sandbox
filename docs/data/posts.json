@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T15:07:50+00:00",
+  "updatedAt": "2026-10-31T15:08:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -710421,6 +710421,45 @@
       "firstSeenAt": "2026-10-31T15:07:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95768,
+      "source": "qoo",
+      "externalId": "cmt-4392066740",
+      "title": "난 걍 별생각없음 영철만큼 이상한사람 아니면 ㄱㅊ ㅋㅋㅋㅋㅋ 어쩌다 한 말 한마디나 작은행동으로 불편할거면 세상에 불호아닐 사람이 없다 생각해서",
+      "excerpt": "정숙 불호인 사람은 없음?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4392059634#4392066740",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T23:08:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:08:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95769,
+      "source": "dc",
+      "externalId": "6642359",
+      "title": "투표",
+      "excerpt": "",
+      "author": "비알트",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642359&page=1",
+      "postedLabel": "00:08",
+      "postedAt": "2026-11-01T00:08:25+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:08:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
