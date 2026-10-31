@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T07:55:28+00:00",
+  "updatedAt": "2026-10-31T07:58:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -703774,6 +703774,26 @@
       "firstSeenAt": "2026-10-31T07:55:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95432,
+      "source": "qoo",
+      "externalId": "cmt-4391714747",
+      "title": "바다 산 중에 80퍼는 바다 고름",
+      "excerpt": "나 이제 봤어 온에어 폭발할만하네 영철은 공통점 쥐어짠게 겨우 바다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391534164#4391714747",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T15:58:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T07:58:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -712322,7 +712342,8 @@
         "6641737",
         "6641751",
         "6641754",
-        "6641778"
+        "6641778",
+        "6641787"
       ]
     },
     "blind": {
