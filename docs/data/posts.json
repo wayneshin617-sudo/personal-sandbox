@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T03:51:13+00:00",
+  "updatedAt": "2026-10-31T03:53:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -699518,6 +699518,65 @@
       "firstSeenAt": "2026-10-31T03:51:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95217,
+      "source": "qoo",
+      "externalId": "cmt-4391550913",
+      "title": "바다 안좋아하는 사람 찾기가 더 힘들듯ㅋㅋ",
+      "excerpt": "나 이제 봤어 온에어 폭발할만하네 영철은 공통점 쥐어짠게 겨우 바다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391534164#4391550913",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T11:53:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T03:53:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95218,
+      "source": "blind",
+      "externalId": "cmt-459117611",
+      "title": "ㅋㅋㅋㅋ3회차 보니까 가벼울만큼 가벼운 여미새같은 느낌을 지울수가없음",
+      "excerpt": "영철이",
+      "author": "s*********",
+      "company": "세아상역",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-njayfuaa#459117611",
+      "postedLabel": "27분",
+      "postedAt": "2026-10-31T12:25:55+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T03:53:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95219,
+      "source": "blind",
+      "externalId": "/kr/post/%E3%85%87%E3%85%87-v50hm71g",
+      "title": "ㅇㅇ",
+      "excerpt": "ㅇ",
+      "author": "오******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%E3%85%87%E3%85%87-v50hm71g",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T12:52:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-31T03:53:13+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -699672,7 +699731,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T12:49:55+09:00"
+      "slowAt": "2026-10-31T12:52:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -707975,7 +708034,8 @@
         "6641405",
         "6641409",
         "6641414",
-        "6641416"
+        "6641416",
+        "6641422"
       ]
     },
     "blind": {
