@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T01:09:57+00:00",
+  "updatedAt": "2026-10-31T01:10:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -695367,6 +695367,46 @@
       "comments": 8,
       "firstSeenAt": "2026-10-31T01:09:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95007,
+      "source": "blind",
+      "externalId": "cmt-459096312",
+      "title": "ㄱ소리 그만",
+      "excerpt": "34영호님 가족사진들에서도 이마 라인이 약간 가발스러운 부분이 있긴 한데",
+      "author": "g*********",
+      "company": "현대그린푸드",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%ED%98%B8%EB%8B%98-%EA%B0%80%EC%A1%B1%EC%82%AC%EC%A7%84%EB%93%A4%EC%97%90%EC%84%9C%EB%8F%84-%EC%9D%B4%EB%A7%88-%EB%9D%BC%EC%9D%B8%EC%9D%B4-%EC%95%BD%EA%B0%84-%EA%B0%80%EB%B0%9C%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%B4-%EC%9E%88%EA%B8%B4-%ED%95%9C%EB%8D%B0-qvx5atfb#459096312",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-31T09:10:37+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:10:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95008,
+      "source": "blind",
+      "externalId": "cmt-459103307",
+      "title": "아우디는 알아도 세부모델 머른다는거일듯. 벤츠 Aces클래스 차이 모를정도로 관심없어보이긴함. 대충보면 어느정도 급인지는 알텐데.",
+      "excerpt": "아우디 모르는 남자 처음 봄",
+      "author": "T*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%9A%B0%EB%94%94-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EB%82%A8%EC%9E%90-%EC%B2%98%EC%9D%8C-%EB%B4%84-euafog8r#459103307",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T10:10:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:10:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -695463,7 +695503,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T10:07:40+09:00"
+      "slowAt": "2026-10-31T10:10:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -703744,6 +703784,7 @@
         "6641059",
         "6641068",
         "6641072",
+        "6641082",
         "6641083",
         "6641087",
         "6641090",
