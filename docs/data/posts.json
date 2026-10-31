@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T15:06:48+00:00",
+  "updatedAt": "2026-10-31T15:07:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -710381,6 +710381,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-31T15:06:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95766,
+      "source": "qoo",
+      "externalId": "cmt-4392065516",
+      "title": "성격이 엄청 좋지도 나쁘지도 않은 딱 평범한 분이신것같음 불호까진 아님 걍 빌런도 아니신 분이니 그냥저냥",
+      "excerpt": "정숙 불호인 사람은 없음?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4392059634#4392065516",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T23:07:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:07:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95767,
+      "source": "dc",
+      "externalId": "cmt-10986750",
+      "title": "못생김",
+      "excerpt": "경수 나름 잘생겼음",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642280&page=2#cmt_10986750",
+      "postedLabel": "10.31 23:11:58",
+      "postedAt": "2026-10-31T23:11:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:07:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -710535,7 +710575,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-11-01T00:04:33+09:00"
+      "slowAt": "2026-11-01T00:07:33+09:00"
     },
     "dc": {
       "doneIds": [
