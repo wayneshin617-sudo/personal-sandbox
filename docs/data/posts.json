@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T14:11:51+00:00",
+  "updatedAt": "2026-10-31T14:13:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -707792,6 +707792,25 @@
       "firstSeenAt": "2026-10-31T14:11:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95636,
+      "source": "dc",
+      "externalId": "6642289",
+      "title": "순자는 옥순에게 벤츠 한대는 뽑아줘야 되지 않음??",
+      "excerpt": "",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642289&page=1",
+      "postedLabel": "23:13",
+      "postedAt": "2026-10-31T23:13:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T14:13:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -707946,7 +707965,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T23:10:34+09:00"
+      "slowAt": "2026-10-31T23:13:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -716414,10 +716433,12 @@
         "6642054",
         "6642061",
         "6642070",
+        "6642074",
         "6642162",
         "6642166",
         "6642170",
         "6642172",
+        "6642177",
         "6642263",
         "6642271",
         "6642280",
