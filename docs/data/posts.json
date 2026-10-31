@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T02:10:58+00:00",
+  "updatedAt": "2026-10-31T02:12:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -696658,6 +696658,45 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-31T02:10:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95073,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EC%82%B0%EC%A7%81-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9D%BC%EB%8A%94%EB%94%94-7wbwspbm",
+      "title": "상철 생산직 아니라 엔지니어라는디?",
+      "excerpt": "생산직이라는건 소문이었던건가",
+      "author": "7******",
+      "company": "유진투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EC%82%B0%EC%A7%81-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9D%BC%EB%8A%94%EB%94%94-7wbwspbm",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T11:12:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-31T02:12:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 95074,
+      "source": "blind",
+      "externalId": "cmt-459109873",
+      "title": "뭐 까였음?",
+      "excerpt": "내가 싫어하는 사람이 나솔 나오면 좋겠다",
+      "author": "I*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B0%80-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%82%98%EC%86%94-%EB%82%98%EC%98%A4%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4-nqa73zt8#459109873",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T11:12:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:12:58+00:00",
       "isSeed": false,
       "kind": "reply"
     }
