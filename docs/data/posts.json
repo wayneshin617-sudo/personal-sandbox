@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T04:41:10+00:00",
+  "updatedAt": "2026-10-31T04:43:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -700307,6 +700307,46 @@
       "comments": null,
       "firstSeenAt": "2026-10-31T04:41:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95257,
+      "source": "blind",
+      "externalId": "cmt-459123674",
+      "title": "예쁜애들 이미 다 시집감ㅋㅋㅋㅋ...내주변 예쁜애들 중에 시집 못 간 애 없우 ㅠㅠㅋㅋ",
+      "excerpt": "근데 예쁜여자많다는거 나솔보면 아닌것같음...",
+      "author": "도*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%88%EC%81%9C%EC%97%AC%EC%9E%90%EB%A7%8E%EB%8B%A4%EB%8A%94%EA%B1%B0-%EB%82%98%EC%86%94%EB%B3%B4%EB%A9%B4-%EC%95%84%EB%8B%8C%EA%B2%83%EA%B0%99%EC%9D%8C-fab2dwws#459123674",
+      "postedLabel": "18분",
+      "postedAt": "2026-10-31T13:24:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T04:43:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95258,
+      "source": "blind",
+      "externalId": "cmt-459125270",
+      "title": "그립습니다..",
+      "excerpt": "얼마전에 강남역에서 6영수 걸어가는거 봤는데",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%BC%EB%A7%88%EC%A0%84%EC%97%90-%EA%B0%95%EB%82%A8%EC%97%AD%EC%97%90%EC%84%9C-6%EC%98%81%EC%88%98-%EA%B1%B8%EC%96%B4%EA%B0%80%EB%8A%94%EA%B1%B0-%EB%B4%A4%EB%8A%94%EB%8D%B0-hi0svkru#459125270",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T13:42:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T04:43:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -700404,7 +700444,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T13:39:55+09:00"
+      "slowAt": "2026-10-31T13:42:55+09:00"
     },
     "ig": {
       "doneIds": [
@@ -708787,7 +708827,8 @@
         "6641476",
         "6641479",
         "6641496",
-        "6641503"
+        "6641503",
+        "6641511"
       ]
     },
     "blind": {
