@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T18:54:12+00:00",
+  "updatedAt": "2026-10-31T18:56:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -712423,6 +712423,26 @@
       "firstSeenAt": "2026-10-31T18:54:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95869,
+      "source": "dc",
+      "externalId": "cmt-10986942",
+      "title": "ㄹㅇ 뚜껑 열면 뭐가 더 튀어 나올지 ㅎㄷㄷㄷㄷ",
+      "excerpt": "34 여출 중에는 현실적으로 순자가 젤 빡쌤",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642416&page=2#cmt_10986942",
+      "postedLabel": "11.01 01:06:26",
+      "postedAt": "2026-11-01T01:06:26+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T18:56:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -712581,7 +712601,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T03:52:55+09:00"
+      "slowAt": "2026-11-01T03:55:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -721187,6 +721207,7 @@
         "6642505",
         "6642508",
         "6642512",
+        "6642515",
         "6642517",
         "6642521",
         "6642536"
