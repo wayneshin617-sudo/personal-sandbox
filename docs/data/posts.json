@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T01:45:57+00:00",
+  "updatedAt": "2026-10-31T01:46:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -696073,6 +696073,65 @@
       "firstSeenAt": "2026-10-31T01:45:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95043,
+      "source": "blind",
+      "externalId": "cmt-459104113",
+      "title": "ㅇㅈ 영수 분량 좀 늘려줬으면",
+      "excerpt": "이번 나솔 ㅋㅋ 영수가 성격 재밌던데",
+      "author": "o********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94-%E3%85%8B%E3%85%8B-%EC%98%81%EC%88%98%EA%B0%80-%EC%84%B1%EA%B2%A9-%EC%9E%AC%EB%B0%8C%EB%8D%98%EB%8D%B0-5sfw3llv#459104113",
+      "postedLabel": "30분",
+      "postedAt": "2026-10-31T10:16:40+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:46:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95044,
+      "source": "blind",
+      "externalId": "cmt-459105544",
+      "title": "나도 영수 괜찮던데 수요있을 상이야 상철도 처음에 좀 그랬는데 볼수록 괜찮은데? 강원도 찐감자처럼 생겨서",
+      "excerpt": "이번 나솔 ㅋㅋ 영수가 성격 재밌던데",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94-%E3%85%8B%E3%85%8B-%EC%98%81%EC%88%98%EA%B0%80-%EC%84%B1%EA%B2%A9-%EC%9E%AC%EB%B0%8C%EB%8D%98%EB%8D%B0-5sfw3llv#459105544",
+      "postedLabel": "16분",
+      "postedAt": "2026-10-31T10:30:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:46:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95045,
+      "source": "qoo",
+      "externalId": "4391509511",
+      "title": "난 왜 순자상철 밀고싶지 솔직히 상철도 순자 1순위같은데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391509511",
+      "postedLabel": "10:46",
+      "postedAt": "2026-10-31T10:46:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:46:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -696169,7 +696228,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T10:43:40+09:00"
+      "slowAt": "2026-10-31T10:46:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -707600,6 +707659,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-22lqvbtc",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-2sj57vht",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-2z2eahm5",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-4fxg41k2",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-60%EA%B6%8C-%EB%8F%85%EC%84%9C%EB%A1%9C-%EA%B9%8C%EC%A7%80-%EB%A7%90%EB%9D%BC%EB%8D%98-%EC%95%A0%EB%93%A4-ltddp7y1",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-adhd-%EC%95%84%EB%83%90-%EC%A7%84%EC%8B%AC-%EA%B0%9C%EC%A0%95%EC%8B%A0%EC%97%86%EC%9D%8C-hmw6nbyj",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-bbu6hrxq",
@@ -713735,7 +713795,8 @@
         "4391390396",
         "4391460910",
         "4391483988",
-        "4391486571"
+        "4391486571",
+        "4391509511"
       ]
     },
     "keep": "v2",
