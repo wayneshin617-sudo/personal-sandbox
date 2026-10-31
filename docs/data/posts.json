@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T05:30:13+00:00",
+  "updatedAt": "2026-10-31T05:31:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -701278,6 +701278,46 @@
       "firstSeenAt": "2026-10-31T05:30:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95306,
+      "source": "dc",
+      "externalId": "cmt-10986097",
+      "title": "꺼지라고 현커든말든",
+      "excerpt": "31영혹은 결혼한다고",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6641490&page=2#cmt_10986097",
+      "postedLabel": "10.31 13:34:42",
+      "postedAt": "2026-10-31T13:34:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T05:31:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95307,
+      "source": "blind",
+      "externalId": "cmt-459126469",
+      "title": "끼리끼리겠지",
+      "excerpt": "이번 나솔 34 영철이랑 아는 지인 없나ㅋㅋㅋㅋ",
+      "author": "l********",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EB%82%98%EC%86%94-34-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%95%84%EB%8A%94-%EC%A7%80%EC%9D%B8-%EC%97%86%EB%82%98%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-om5nh1ql#459126469",
+      "postedLabel": "37분",
+      "postedAt": "2026-10-31T13:53:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T05:31:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -701375,7 +701415,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T14:27:55+09:00"
+      "slowAt": "2026-10-31T14:30:55+09:00"
     },
     "ig": {
       "doneIds": [
@@ -709765,6 +709805,7 @@
         "6641478",
         "6641479",
         "6641484",
+        "6641490",
         "6641496",
         "6641503",
         "6641511",
