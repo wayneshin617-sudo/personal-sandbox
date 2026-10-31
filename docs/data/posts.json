@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T02:24:57+00:00",
+  "updatedAt": "2026-10-31T02:25:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -696997,6 +696997,65 @@
       "firstSeenAt": "2026-10-31T02:24:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95090,
+      "source": "qoo",
+      "externalId": "cmt-4391493255",
+      "title": "ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "근데 빌런들은 서로를 알아보는 게 더 웃김 ㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391460910#4391493255",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T10:25:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:25:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95091,
+      "source": "qoo",
+      "externalId": "cmt-4391493305",
+      "title": "턱식이는 기인스러운데 트리거영철은 현실 블라남이라 심연 느낌임",
+      "excerpt": "이번주 꺼 보는 중인데 영철 진짜 줘패고싶닼ㅋㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391486571#4391493305",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T10:25:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:25:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95092,
+      "source": "qoo",
+      "externalId": "4391534164",
+      "title": "나 이제 봤어 온에어 폭발할만하네 영철은 공통점 쥐어짠게 겨우 바다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391534164",
+      "postedLabel": "11:24",
+      "postedAt": "2026-10-31T11:24:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:25:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -697093,7 +697152,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T11:22:41+09:00"
+      "slowAt": "2026-10-31T11:25:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -714682,7 +714741,8 @@
         "4391483988",
         "4391486571",
         "4391509511",
-        "4391510320"
+        "4391510320",
+        "4391534164"
       ]
     },
     "keep": "v2",
