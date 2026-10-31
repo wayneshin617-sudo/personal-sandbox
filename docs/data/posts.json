@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T04:00:12+00:00",
+  "updatedAt": "2026-10-31T04:02:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -699735,6 +699735,45 @@
       "firstSeenAt": "2026-10-31T04:00:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95228,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8A%94%EA%B2%8C-dxzgxtve",
+      "title": "영철 책 60권 읽었다는게",
+      "excerpt": "1년에 60권 읽었다는 거야?? 리뷰 알고리즘 떠서 보는데 60권 읽었다고 하는데 1년 기준인건거??",
+      "author": "대*****",
+      "company": "동서식품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8A%94%EA%B2%8C-dxzgxtve",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T13:01:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-10-31T04:02:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 95229,
+      "source": "blind",
+      "externalId": "cmt-459121358",
+      "title": "동화책인거 같은데",
+      "excerpt": "영철 책 60권 읽었다는게",
+      "author": "달*******",
+      "company": "대혜건축",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8A%94%EA%B2%8C-dxzgxtve#459121358",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T13:01:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T04:02:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -699889,7 +699928,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T12:58:55+09:00"
+      "slowAt": "2026-10-31T13:01:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -708183,6 +708222,7 @@
         "6641340",
         "6641345",
         "6641348",
+        "6641349",
         "6641354",
         "6641359",
         "6641360",
@@ -711587,6 +711627,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%B0%A8%EC%97%90-%EC%99%9C-%ED%8F%B0%EA%B1%B0%EC%B9%98%EB%8C%80%EB%82%98-%EB%84%A4%EB%B9%84%EA%B8%B0%EB%8A%A5-%EC%97%86%EA%B8%B0-tdggjoqc",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%B0%A8-%EB%A0%8C%ED%8A%B8%EC%9E%84-roae573k",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%B0%A8-yoybx6zv",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8A%94%EA%B2%8C-dxzgxtve",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%B2%98%EB%9F%BC-%ED%9B%88%EB%82%A8-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%80-burpqf5n",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%B5%9C%EA%B3%A0-%EB%84%88%EB%95%9C%EC%97%90-%EB%B3%B8%EB%8B%A4-10qzue5f",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%B5%9C%EC%95%85%EC%9D%B4%EB%84%A4-hhgar6wy",
