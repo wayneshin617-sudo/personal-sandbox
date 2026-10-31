@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T01:30:58+00:00",
+  "updatedAt": "2026-10-31T01:33:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -695658,6 +695658,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-31T01:30:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95022,
+      "source": "qoo",
+      "externalId": "cmt-4391448835",
+      "title": "귀한 막내인데 난리날듯",
+      "excerpt": "영수한테 영숙이... 영수가 아깝지 않나",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391323282#4391448835",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T09:32:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:33:57+00:00",
       "isSeed": false,
       "kind": "reply"
     }
