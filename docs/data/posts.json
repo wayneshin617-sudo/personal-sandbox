@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T14:30:51+00:00",
+  "updatedAt": "2026-10-31T14:31:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -708667,6 +708667,45 @@
       "firstSeenAt": "2026-10-31T14:30:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95680,
+      "source": "dc",
+      "externalId": "cmt-10986678",
+      "title": "순자무믈에도 결혼질문에 답안함",
+      "excerpt": "경수 무물에 결혼 질문 엄청 많았을텐데 싹다 모른척하고",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642208&page=2#cmt_10986678",
+      "postedLabel": "10.31 22:32:28",
+      "postedAt": "2026-10-31T22:32:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T14:31:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95681,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9E%98%EC%83%9D-xvly6bc6",
+      "title": "투표글 누가더잘생 ? 투표",
+      "excerpt": "난 34영호 상철인 잘생긴지모르겟으",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9E%98%EC%83%9D-xvly6bc6",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T23:31:33+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-31T14:31:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -708821,7 +708860,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T23:28:33+09:00"
+      "slowAt": "2026-10-31T23:31:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -717284,6 +717323,7 @@
         "6642009",
         "6642012",
         "6642015",
+        "6642021",
         "6642024",
         "6642030",
         "6642031",
@@ -717298,6 +717338,7 @@
         "6642095",
         "6642099",
         "6642102",
+        "6642104",
         "6642162",
         "6642166",
         "6642170",
@@ -717309,6 +717350,7 @@
         "6642196",
         "6642200",
         "6642207",
+        "6642208",
         "6642263",
         "6642271",
         "6642280",
