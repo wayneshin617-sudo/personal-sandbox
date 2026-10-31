@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T15:05:51+00:00",
+  "updatedAt": "2026-10-31T15:06:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -710342,6 +710342,45 @@
       "firstSeenAt": "2026-10-31T15:05:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95764,
+      "source": "qoo",
+      "externalId": "cmt-4392063913",
+      "title": "영호랑 다대일 데이트할때 태도에서 별로였어",
+      "excerpt": "정숙 불호인 사람은 없음?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4392059634#4392063913",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T23:05:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:06:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95765,
+      "source": "qoo",
+      "externalId": "4392112515",
+      "title": "현숙처럼 멀미 심한 사람은 차 어케타고 다녀??",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4392112515",
+      "postedLabel": "00:06",
+      "postedAt": "2026-11-01T00:06:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:06:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -710439,7 +710478,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T00:03:34+09:00"
+      "slowAt": "2026-11-01T00:06:33+09:00"
     },
     "ig": {
       "doneIds": [
@@ -719030,6 +719069,7 @@
         "6642263",
         "6642271",
         "6642273",
+        "6642276",
         "6642280",
         "6642282",
         "6642288",
@@ -728438,7 +728478,8 @@
         "4391834464",
         "4391868504",
         "4392042374",
-        "4392059634"
+        "4392059634",
+        "4392112515"
       ]
     },
     "keep": "v2",
