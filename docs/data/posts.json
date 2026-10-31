@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T05:51:12+00:00",
+  "updatedAt": "2026-10-31T05:53:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -701554,6 +701554,25 @@
       "firstSeenAt": "2026-10-31T05:51:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95320,
+      "source": "dc",
+      "externalId": "6641597",
+      "title": "34기 상철 둘리에 나오는 꼴뚜기 왕자 안닮음?",
+      "excerpt": "",
+      "author": "황구지천",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6641597&page=1",
+      "postedLabel": "14:52",
+      "postedAt": "2026-10-31T14:52:26+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T05:53:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -701708,7 +701727,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T14:49:55+09:00"
+      "slowAt": "2026-10-31T14:52:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -710001,6 +710020,7 @@
         "6641325",
         "6641333",
         "6641335",
+        "6641338",
         "6641340",
         "6641345",
         "6641348",
