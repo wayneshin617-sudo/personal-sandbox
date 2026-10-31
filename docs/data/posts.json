@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T07:49:28+00:00",
+  "updatedAt": "2026-10-31T07:52:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -703713,6 +703713,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-10-31T07:49:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95429,
+      "source": "qoo",
+      "externalId": "cmt-4391709514",
+      "title": "완전 케미넘칠 듯!!",
+      "excerpt": "영숙영수 뭔가 지볶행 재질임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391691951#4391709514",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T15:52:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T07:52:29+00:00",
       "isSeed": false,
       "kind": "reply"
     }
