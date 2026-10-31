@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T15:03:51+00:00",
+  "updatedAt": "2026-10-31T15:05:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -710302,6 +710302,46 @@
       "firstSeenAt": "2026-10-31T15:03:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95762,
+      "source": "dc",
+      "externalId": "cmt-10986743",
+      "title": "잘 어울리는 한쌍이긴 해",
+      "excerpt": "22경륜 영숙 찐으로 사귀네",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642273&page=2#cmt_10986743",
+      "postedLabel": "10.31 23:10:19",
+      "postedAt": "2026-10-31T23:10:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:05:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95763,
+      "source": "blind",
+      "externalId": "cmt-459196926",
+      "title": "의산데 쌉가능~",
+      "excerpt": "내 연프 역대 최애가 핱시3 박지현인데",
+      "author": "l*********",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4-%EC%97%B0%ED%94%84-%EC%97%AD%EB%8C%80-%EC%B5%9C%EC%95%A0%EA%B0%80-%ED%95%B1%EC%8B%9C3-%EB%B0%95%EC%A7%80%ED%98%84%EC%9D%B8%EB%8D%B0-isb50zyf#459196926",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T00:05:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:05:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -718989,6 +719029,7 @@
         "6642262",
         "6642263",
         "6642271",
+        "6642273",
         "6642280",
         "6642282",
         "6642288",
