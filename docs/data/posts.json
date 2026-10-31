@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T11:08:46+00:00",
+  "updatedAt": "2026-10-31T11:11:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -705930,6 +705930,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-31T11:08:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95541,
+      "source": "qoo",
+      "externalId": "cmt-4391857556",
+      "title": "딩동댕",
+      "excerpt": "심리아재 7영식 리뷰",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391834464#4391857556",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T19:11:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T11:11:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95542,
+      "source": "qoo",
+      "externalId": "cmt-4391857614",
+      "title": "그냥 스스로 본인부터 여러 계산을 하고 있는... 그냥 사랑을 하시라구요",
+      "excerpt": "심리아재 7영식 리뷰",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4391834464#4391857614",
+      "postedLabel": "",
+      "postedAt": "2026-10-31T19:11:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T11:11:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -706084,7 +706124,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T20:08:28+09:00"
+      "slowAt": "2026-10-31T20:11:29+09:00"
     },
     "dc": {
       "doneIds": [
