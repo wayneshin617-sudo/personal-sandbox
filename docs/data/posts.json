@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T06:42:29+00:00",
+  "updatedAt": "2026-10-31T06:45:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -702464,6 +702464,26 @@
       "firstSeenAt": "2026-10-31T06:42:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95366,
+      "source": "dc",
+      "externalId": "cmt-10986202",
+      "title": "저런 아재한테 호감도 높아서 어따 쓰냐 ㅋㅋㅋㅋ - dc App",
+      "excerpt": "한녀와 비슷하면 호감도 하락",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6641592&page=2#cmt_10986202",
+      "postedLabel": "10.31 15:05:20",
+      "postedAt": "2026-10-31T15:05:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T06:45:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -702618,7 +702638,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T15:42:11+09:00"
+      "slowAt": "2026-10-31T15:45:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -710979,6 +710999,7 @@
         "6641580",
         "6641587",
         "6641589",
+        "6641592",
         "6641604",
         "6641624",
         "6641631",
