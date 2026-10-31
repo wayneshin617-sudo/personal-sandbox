@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T14:34:50+00:00",
+  "updatedAt": "2026-10-31T14:35:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -708806,6 +708806,26 @@
       "firstSeenAt": "2026-10-31T14:34:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95687,
+      "source": "dc",
+      "externalId": "cmt-10986692",
+      "title": "그정도아님",
+      "excerpt": "34기는 16기 같은 명작의 향기가 남",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642215&page=2#cmt_10986692",
+      "postedLabel": "10.31 22:43:28",
+      "postedAt": "2026-10-31T22:43:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T14:35:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -717455,6 +717475,7 @@
         "6642208",
         "6642212",
         "6642213",
+        "6642215",
         "6642263",
         "6642271",
         "6642280",
