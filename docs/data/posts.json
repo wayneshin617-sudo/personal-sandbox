@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T19:11:12+00:00",
+  "updatedAt": "2026-10-31T19:30:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -712520,6 +712520,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-10-31T19:11:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95874,
+      "source": "dc",
+      "externalId": "cmt-10987164",
+      "title": "40대들한테 물어봐라",
+      "excerpt": "20대 분들 정신차리니 30대면 어떡할거임???",
+      "author": "엄마가너랑놀지말래",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642558&page=1#cmt_10987164",
+      "postedLabel": "11.01 04:29:27",
+      "postedAt": "2026-11-01T04:29:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T19:30:12+00:00",
       "isSeed": false,
       "kind": "reply"
     }
