@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T15:50:51+00:00",
+  "updatedAt": "2026-10-31T15:55:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -711036,6 +711036,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-31T15:50:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95799,
+      "source": "dc",
+      "externalId": "cmt-10986918",
+      "title": "갓영철!",
+      "excerpt": "솔직히 영철 아니였으면 34기는 망한 기수임",
+      "author": "한우브로콜리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642252&page=3#cmt_10986918",
+      "postedLabel": "11.01 00:52:01",
+      "postedAt": "2026-11-01T00:52:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:55:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95800,
+      "source": "dc",
+      "externalId": "6642416",
+      "title": "34 여출 중에는 현실적으로 순자가 젤 빡쌤",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642416&page=1",
+      "postedLabel": "00:55",
+      "postedAt": "2026-11-01T00:55:21+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T15:55:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -711190,7 +711229,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-11-01T00:52:33+09:00"
+      "slowAt": "2026-11-01T00:55:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -719721,6 +719760,7 @@
         "6642242",
         "6642245",
         "6642247",
+        "6642252",
         "6642259",
         "6642262",
         "6642263",
@@ -724161,6 +724201,7 @@
         "/kr/post/%EC%A0%95%EC%88%99-%EB%B0%9C%EC%96%B8-%EC%99%9C-%EB%85%BC%EB%9E%80%EC%9D%B8%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%9D%8C-vv6vk672",
         "/kr/post/%EC%A0%95%EC%88%99-%EB%B6%88%EC%86%8C-%ED%8A%B8%EB%A6%AC%EA%B1%B0-%EC%8F%9C%EB%8B%A4-y1u7f8wy",
         "/kr/post/%EC%A0%95%EC%88%99-%EC%82%AC%EC%9D%B4%EB%8B%A4-jclvrkpc",
+        "/kr/post/%EC%A0%95%EC%88%99-%EC%82%B4%EB%B9%BC%EB%A9%B4-ry6jnk8o",
         "/kr/post/%EC%A0%95%EC%88%99-%EC%82%B4%EC%9D%80-%EC%97%B0%ED%94%84-%EC%B6%9C%EC%97%B0%EA%B8%B0%EC%A4%80-%EC%9C%A0%EC%A3%84-%EA%B0%99%EC%9D%80%EB%8D%B0-6wiksuiz",
         "/kr/post/%EC%A0%95%EC%88%99-%EC%82%B4-%EB%B9%BC%EB%A9%B4-%EC%9D%B4%EC%81%9C-%EC%96%BC%EA%B5%B4%EC%9D%B4%EB%9D%BC%EB%8A%94%EB%8D%B0-ivtmyv2o",
         "/kr/post/%EC%A0%95%EC%88%99-%EC%82%BC%EB%B0%B1%EC%95%88%EC%97%90-%EB%A9%94%EC%B6%94%EB%A6%AC%EC%95%8C%EC%96%BC%EA%B5%B4%ED%98%95-m5u4donx",
