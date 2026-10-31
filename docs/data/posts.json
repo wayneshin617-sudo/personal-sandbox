@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T05:43:11+00:00",
+  "updatedAt": "2026-10-31T05:44:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -701495,6 +701495,45 @@
       "comments": null,
       "firstSeenAt": "2026-10-31T05:43:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95317,
+      "source": "qoo",
+      "externalId": "4391658603",
+      "title": "영숙 하는 말들 진짜 안 웃기고 걍 별로여..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391658603",
+      "postedLabel": "14:43",
+      "postedAt": "2026-10-31T14:43:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T05:44:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 95318,
+      "source": "blind",
+      "externalId": "cmt-459131257",
+      "title": "옛날 그 영식이의 그녀, KT 비서 옥순처럼 픽업 강의할듯",
+      "excerpt": "34 영철 스타성은 확실함",
+      "author": "l*********",
+      "company": "파라다이스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%B2%A0-%EC%8A%A4%ED%83%80%EC%84%B1%EC%9D%80-%ED%99%95%EC%8B%A4%ED%95%A8-jhp7sxeg#459131257",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T14:43:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T05:44:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -701649,7 +701688,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T14:40:54+09:00"
+      "slowAt": "2026-10-31T14:43:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -715470,6 +715509,7 @@
         "/kr/post/34-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%82%A8%EC%9E%90%EB%93%A4-%EC%A7%A0%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94%EA%B2%8C-%EC%9E%88%EB%82%98%EB%B4%90-kghhxjgj",
         "/kr/post/34-%EC%98%81%EC%B2%A0-%E3%85%8C%E3%85%8B%E3%85%8B-0jbpko5k",
         "/kr/post/34-%EC%98%81%EC%B2%A0-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-%EA%B9%80%EC%9E%AC%EC%9B%90-%EB%8B%AE%EC%95%98%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%96%88%EB%8A%94%EB%8D%B0-35obflmc",
+        "/kr/post/34-%EC%98%81%EC%B2%A0-%EC%8A%A4%ED%83%80%EC%84%B1%EC%9D%80-%ED%99%95%EC%8B%A4%ED%95%A8-jhp7sxeg",
         "/kr/post/34-%EC%98%81%EC%B2%A0-%EC%8B%A4%EC%A0%9C-%ED%8F%89%ED%8C%90%EA%B8%80-%EC%96%B4%EB%94%94%EA%B0%94%EB%83%90-yl2430fi",
         "/kr/post/34-%EC%98%81%EC%B2%A0-%EC%9D%B8%EC%83%81-d1z36bdj",
         "/kr/post/34-%EC%98%81%EC%B2%A0-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EC%97%84%EC%B2%AD-%EB%96%A0%EB%84%A4-wk7jaov2",
@@ -719319,7 +719359,8 @@
         "4391612390",
         "4391620095",
         "4391645602",
-        "4391658317"
+        "4391658317",
+        "4391658603"
       ]
     },
     "keep": "v2",
