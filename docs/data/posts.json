@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T14:15:50+00:00",
+  "updatedAt": "2026-10-31T14:16:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -707830,6 +707830,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-31T14:15:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95638,
+      "source": "dc",
+      "externalId": "cmt-10986655",
+      "title": "외모는 상위권 근데 그것뿐 ..매력없다",
+      "excerpt": "영철이 솔직히 역대 남출 중 외모는 손가락 안에 듦",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642180&page=2#cmt_10986655",
+      "postedLabel": "10.31 22:17:29",
+      "postedAt": "2026-10-31T22:17:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T14:16:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -707984,7 +708004,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T23:13:34+09:00"
+      "slowAt": "2026-10-31T23:16:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -716458,6 +716478,7 @@
         "6642170",
         "6642172",
         "6642177",
+        "6642180",
         "6642263",
         "6642271",
         "6642280",
