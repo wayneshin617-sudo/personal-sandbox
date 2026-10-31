@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T04:45:13+00:00",
+  "updatedAt": "2026-10-31T04:47:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -700466,6 +700466,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-31T04:45:13+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95265,
+      "source": "blind",
+      "externalId": "cmt-459121976",
+      "title": "최근에 만난애 얘기들어보니까 못한다던데 요즘은",
+      "excerpt": "근데 요즘도 간호사 태움문화 심해?",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%9A%94%EC%A6%98%EB%8F%84-%EA%B0%84%ED%98%B8%EC%82%AC-%ED%83%9C%EC%9B%80%EB%AC%B8%ED%99%94-%EC%8B%AC%ED%95%B4-tt7hyq5g#459121976",
+      "postedLabel": "39분",
+      "postedAt": "2026-10-31T13:07:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T04:47:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95266,
+      "source": "blind",
+      "externalId": "cmt-459123944",
+      "title": "궁금해?",
+      "excerpt": "근데 요즘도 간호사 태움문화 심해?",
+      "author": "🍎****",
+      "company": "건강보험심사평가원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%9A%94%EC%A6%98%EB%8F%84-%EA%B0%84%ED%98%B8%EC%82%AC-%ED%83%9C%EC%9B%80%EB%AC%B8%ED%99%94-%EC%8B%AC%ED%95%B4-tt7hyq5g#459123944",
+      "postedLabel": "19분",
+      "postedAt": "2026-10-31T13:27:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T04:47:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -700620,7 +700660,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T13:43:55+09:00"
+      "slowAt": "2026-10-31T13:46:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -708936,6 +708976,7 @@
         "6641414",
         "6641415",
         "6641416",
+        "6641418",
         "6641422",
         "6641428",
         "6641433",
