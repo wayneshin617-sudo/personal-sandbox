@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T04:24:13+00:00",
+  "updatedAt": "2026-10-31T04:27:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -700034,6 +700034,25 @@
       "firstSeenAt": "2026-10-31T04:24:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95243,
+      "source": "qoo",
+      "externalId": "4391610752",
+      "title": "이제 보는데 현숙 멀미 진짜 괴로워보인다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391610752",
+      "postedLabel": "13:26",
+      "postedAt": "2026-10-31T13:26:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T04:27:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -717808,7 +717827,8 @@
         "4391534164",
         "4391539296",
         "4391567745",
-        "4391600218"
+        "4391600218",
+        "4391610752"
       ]
     },
     "keep": "v2",
