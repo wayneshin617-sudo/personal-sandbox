@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T11:49:45+00:00",
+  "updatedAt": "2026-10-31T11:51:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -706188,6 +706188,45 @@
       "firstSeenAt": "2026-10-31T11:49:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95554,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99-%EC%96%B4%EB%94%94-%ED%9A%8C%EB%B2%95%EC%9D%B4%EC%95%BC-4qhamvka",
+      "title": "정숙 어디 회법이야?",
+      "excerpt": "아는분?",
+      "author": "7******",
+      "company": "유진투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EC%96%B4%EB%94%94-%ED%9A%8C%EB%B2%95%EC%9D%B4%EC%95%BC-4qhamvka",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T20:51:28+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-10-31T11:51:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 95555,
+      "source": "blind",
+      "externalId": "cmt-459169545",
+      "title": "난 보자마자 이분 떠오르던디",
+      "excerpt": "옥순",
+      "author": "i********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-3t2uq0sy#459169545",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T20:51:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T11:51:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -706285,7 +706324,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T20:48:28+09:00"
+      "slowAt": "2026-10-31T20:51:28+09:00"
     },
     "ig": {
       "doneIds": [
