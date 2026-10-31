@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T01:14:55+00:00",
+  "updatedAt": "2026-10-31T01:17:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -695484,6 +695484,44 @@
       "comments": null,
       "firstSeenAt": "2026-10-31T01:14:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95013,
+      "source": "qoo",
+      "externalId": "4391486571",
+      "title": "이번주 꺼 보는 중인데 영철 진짜 줘패고싶닼ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391486571",
+      "postedLabel": "10:17",
+      "postedAt": "2026-10-31T10:17:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:17:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 95014,
+      "source": "dc",
+      "externalId": "6641185",
+      "title": "한의사 회계사 일라일인데 연봉 비교",
+      "excerpt": "",
+      "author": "꾸르르륵",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6641185&page=1",
+      "postedLabel": "10:17",
+      "postedAt": "2026-10-31T10:17:32+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T01:17:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -695637,7 +695675,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T10:14:40+09:00"
+      "slowAt": "2026-10-31T10:17:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -713130,7 +713168,8 @@
         "4391352875",
         "4391390396",
         "4391460910",
-        "4391483988"
+        "4391483988",
+        "4391486571"
       ]
     },
     "keep": "v2",
