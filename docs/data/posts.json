@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T00:44:59+00:00",
+  "updatedAt": "2026-10-31T00:48:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -694852,6 +694852,25 @@
       "firstSeenAt": "2026-10-31T00:44:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 94981,
+      "source": "qoo",
+      "externalId": "4391460910",
+      "title": "근데 빌런들은 서로를 알아보는 게 더 웃김 ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391460910",
+      "postedLabel": "09:47",
+      "postedAt": "2026-10-31T09:47:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T00:48:02+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -695005,7 +695024,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T09:44:40+09:00"
+      "slowAt": "2026-10-31T09:47:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -712484,7 +712503,8 @@
         "4391323282",
         "4391339030",
         "4391352875",
-        "4391390396"
+        "4391390396",
+        "4391460910"
       ]
     },
     "keep": "v2",
