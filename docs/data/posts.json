@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T21:42:39+00:00",
+  "updatedAt": "2026-10-31T21:45:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -712740,6 +712740,25 @@
       "firstSeenAt": "2026-10-31T21:42:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95885,
+      "source": "qoo",
+      "externalId": "4392206283",
+      "title": "이거 실화야?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4392206283",
+      "postedLabel": "06:45",
+      "postedAt": "2026-11-01T06:45:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T21:45:33+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -712840,7 +712859,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T06:42:21+09:00"
+      "slowAt": "2026-11-01T06:45:18+09:00"
     },
     "ig": {
       "doneIds": [
@@ -730933,7 +730952,8 @@
         "4391868504",
         "4392042374",
         "4392059634",
-        "4392112515"
+        "4392112515",
+        "4392206283"
       ]
     },
     "keep": "v2",
