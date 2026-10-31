@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T10:58:46+00:00",
+  "updatedAt": "2026-10-31T10:59:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -705713,6 +705713,46 @@
       "comments": 0,
       "firstSeenAt": "2026-10-31T10:58:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95530,
+      "source": "blind",
+      "externalId": "cmt-459163032",
+      "title": "미안하다.",
+      "excerpt": "나솔 34기 순자 심진화 안닮았어?",
+      "author": "l********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EC%8B%AC%EC%A7%84%ED%99%94-%EC%95%88%EB%8B%AE%EC%95%98%EC%96%B4-wpos1k3f#459163032",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T19:59:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T10:59:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95531,
+      "source": "blind",
+      "externalId": "cmt-459162989",
+      "title": "똑같은 글 블라 나솔게에만 100번도 더 올라옴",
+      "excerpt": "나솔 34기 순자 심진화 안닮았어?",
+      "author": "!*********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EC%8B%AC%EC%A7%84%ED%99%94-%EC%95%88%EB%8B%AE%EC%95%98%EC%96%B4-wpos1k3f#459162989",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T19:59:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T10:59:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -705867,7 +705907,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T19:56:28+09:00"
+      "slowAt": "2026-10-31T19:59:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -714311,7 +714351,8 @@
         "6641923",
         "6641927",
         "6641944",
-        "6641960"
+        "6641960",
+        "6641977"
       ]
     },
     "blind": {
@@ -714943,6 +714984,7 @@
         "/kr/post/%EB%82%98%EC%86%94-25%EA%B8%B0-%EC%88%9C%EC%9E%90%EB%9E%91-%EC%98%81%EC%88%98-%EA%B2%B0%ED%98%BC%ED%95%98%EB%8A%94%EA%B1%B0-%EB%8C%80%EB%B0%95%EC%9D%B8%EA%B1%B0%EC%95%BC-5hu475sj",
         "/kr/post/%EB%82%98%EC%86%94-25%EA%B8%B0-%EC%88%9C%EC%9E%90-w7em6doj",
         "/kr/post/%EB%82%98%EC%86%94-31%EA%B8%B0-vs-33%EA%B8%B0-ni4x6mz3",
+        "/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EC%8B%AC%EC%A7%84%ED%99%94-%EC%95%88%EB%8B%AE%EC%95%98%EC%96%B4-wpos1k3f",
         "/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%97%AC%EC%B6%9C-%EC%99%B8%EB%AA%A8-1iuugnqv",
         "/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%98%81%EC%88%98-32%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%A1%B4%EB%98%91-wp0oguxf",
         "/kr/post/%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%98%81%EC%88%99-qjilwicg",
