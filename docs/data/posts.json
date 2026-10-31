@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T11:22:46+00:00",
+  "updatedAt": "2026-10-31T11:27:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -706049,6 +706049,26 @@
       "comments": null,
       "firstSeenAt": "2026-10-31T11:22:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 95547,
+      "source": "dc",
+      "externalId": "cmt-10986481",
+      "title": "삐끼",
+      "excerpt": "34영철도 별명이 시급하다",
+      "author": "ㄹㅇ",
+      "company": "",
+      "ip": "180.64",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642012&page=1#cmt_10986481",
+      "postedLabel": "10.31 20:27:04",
+      "postedAt": "2026-10-31T20:27:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T11:27:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -706146,7 +706166,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T20:24:29+09:00"
+      "slowAt": "2026-10-31T20:27:28+09:00"
     },
     "ig": {
       "doneIds": [
@@ -714650,6 +714670,7 @@
         "6641923",
         "6641926",
         "6641927",
+        "6641928",
         "6641944",
         "6641960",
         "6641977",
@@ -714657,7 +714678,8 @@
         "6641982",
         "6641989",
         "6641995",
-        "6642004"
+        "6642004",
+        "6642012"
       ]
     },
     "blind": {
