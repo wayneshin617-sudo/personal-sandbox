@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T04:40:12+00:00",
+  "updatedAt": "2026-10-31T04:41:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -700288,6 +700288,25 @@
       "firstSeenAt": "2026-10-31T04:40:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95256,
+      "source": "qoo",
+      "externalId": "4391620095",
+      "title": "일반화의 오류이긴하지만 덕선이롤이 성격이 좋은 것같아...",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4391620095",
+      "postedLabel": "13:40",
+      "postedAt": "2026-10-31T13:40:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T04:41:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -700442,7 +700461,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T13:37:55+09:00"
+      "slowAt": "2026-10-31T13:40:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -714047,6 +714066,7 @@
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-2z5issi8",
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-543pewdc",
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-mbti-egoc4o1t",
+        "/kr/post/34%EA%B8%B0-%EC%98%A5%EC%88%9C%EC%B2%98%EB%9F%BC-qecyekkc",
         "/kr/post/34%EA%B8%B0-%EC%98%A5%EC%88%9C-%EA%B0%99%EC%9D%80-%EC%96%BC%EA%B5%B4-gp2wvzms",
         "/kr/post/34%EA%B8%B0-%EC%98%A5%EC%88%9C-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-%EC%99%9C-%EC%9D%B8%EA%B8%B0-%EC%97%86%EC%96%B4-hp3zq73v",
         "/kr/post/34%EA%B8%B0-%EC%98%A5%EC%88%9C-%EB%8B%AE%EC%9D%80%EA%BC%B4-ksive50l",
@@ -718072,7 +718092,8 @@
         "4391567745",
         "4391600218",
         "4391610752",
-        "4391612390"
+        "4391612390",
+        "4391620095"
       ]
     },
     "keep": "v2",
