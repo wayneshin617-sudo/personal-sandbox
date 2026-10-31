@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T02:40:59+00:00",
+  "updatedAt": "2026-10-31T02:42:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -697631,6 +697631,46 @@
       "firstSeenAt": "2026-10-31T02:40:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95122,
+      "source": "blind",
+      "externalId": "cmt-459107069",
+      "title": "팔계야 사라지렴",
+      "excerpt": "나솔 역대 미모는 이분 못이기는듯",
+      "author": "!*********",
+      "company": "WEMADE",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%97%AD%EB%8C%80-%EB%AF%B8%EB%AA%A8%EB%8A%94-%EC%9D%B4%EB%B6%84-%EB%AA%BB%EC%9D%B4%EA%B8%B0%EB%8A%94%EB%93%AF-hj5yjfvk#459107069",
+      "postedLabel": "57분",
+      "postedAt": "2026-10-31T10:45:40+09:00",
+      "views": null,
+      "recommends": 10,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:42:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95123,
+      "source": "blind",
+      "externalId": "cmt-459107148",
+      "title": "풍채가 아줌만데?",
+      "excerpt": "나솔 역대 미모는 이분 못이기는듯",
+      "author": "i*****",
+      "company": "ex-공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%97%AD%EB%8C%80-%EB%AF%B8%EB%AA%A8%EB%8A%94-%EC%9D%B4%EB%B6%84-%EB%AA%BB%EC%9D%B4%EA%B8%B0%EB%8A%94%EB%93%AF-hj5yjfvk#459107148",
+      "postedLabel": "56분",
+      "postedAt": "2026-10-31T10:46:40+09:00",
+      "views": null,
+      "recommends": 7,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:42:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -706051,7 +706091,8 @@
         "6641284",
         "6641290",
         "6641293",
-        "6641300"
+        "6641300",
+        "6641305"
       ]
     },
     "blind": {
