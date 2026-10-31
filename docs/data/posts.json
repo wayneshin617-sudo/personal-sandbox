@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T10:08:47+00:00",
+  "updatedAt": "2026-10-31T10:09:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -705276,6 +705276,46 @@
       "firstSeenAt": "2026-10-31T10:08:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95508,
+      "source": "blind",
+      "externalId": "cmt-459150838",
+      "title": "매의 눈이네. 대단하다",
+      "excerpt": "34순자님 문신하나 찾음",
+      "author": "s*********",
+      "company": "SK브로드밴드",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%88%9C%EC%9E%90%EB%8B%98-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%82%98-%EC%B0%BE%EC%9D%8C-m50hd04q#459150838",
+      "postedLabel": "1시간",
+      "postedAt": "2026-10-31T18:09:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T10:09:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95509,
+      "source": "blind",
+      "externalId": "cmt-459152549",
+      "title": "저거 쪼가리 씹힌 거 아닌가요",
+      "excerpt": "34순자님 문신하나 찾음",
+      "author": "딜**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%88%9C%EC%9E%90%EB%8B%98-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%82%98-%EC%B0%BE%EC%9D%8C-m50hd04q#459152549",
+      "postedLabel": "50분",
+      "postedAt": "2026-10-31T18:19:28+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T10:09:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -705373,7 +705413,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T19:06:29+09:00"
+      "slowAt": "2026-10-31T19:09:28+09:00"
     },
     "ig": {
       "doneIds": [
@@ -713861,6 +713901,7 @@
         "6641871",
         "6641875",
         "6641889",
+        "6641896",
         "6641899"
       ]
     },
