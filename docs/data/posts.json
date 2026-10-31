@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T10:12:46+00:00",
+  "updatedAt": "2026-10-31T10:13:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -705356,6 +705356,46 @@
       "firstSeenAt": "2026-10-31T10:12:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95512,
+      "source": "blind",
+      "externalId": "cmt-459154213",
+      "title": "지우는 시술이 덜끝난게 아닐까",
+      "excerpt": "나솔 나오는데 판박이 안지우고 나와?",
+      "author": "r******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%82%98%EC%98%A4%EB%8A%94%EB%8D%B0-%ED%8C%90%EB%B0%95%EC%9D%B4-%EC%95%88%EC%A7%80%EC%9A%B0%EA%B3%A0-%EB%82%98%EC%99%80-4hl31tua#459154213",
+      "postedLabel": "38분",
+      "postedAt": "2026-10-31T18:35:29+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T10:13:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95513,
+      "source": "blind",
+      "externalId": "cmt-459154976",
+      "title": "판박이가 아니기 때문",
+      "excerpt": "나솔 나오는데 판박이 안지우고 나와?",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%82%98%EC%98%A4%EB%8A%94%EB%8D%B0-%ED%8C%90%EB%B0%95%EC%9D%B4-%EC%95%88%EC%A7%80%EC%9A%B0%EA%B3%A0-%EB%82%98%EC%99%80-4hl31tua#459154976",
+      "postedLabel": "29분",
+      "postedAt": "2026-10-31T18:44:29+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T10:13:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -713937,6 +713977,7 @@
         "6641848",
         "6641853",
         "6641856",
+        "6641859",
         "6641863",
         "6641864",
         "6641871",
@@ -713944,7 +713985,8 @@
         "6641889",
         "6641896",
         "6641899",
-        "6641907"
+        "6641907",
+        "6641910"
       ]
     },
     "blind": {
