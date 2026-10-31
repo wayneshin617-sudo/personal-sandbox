@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T07:31:28+00:00",
+  "updatedAt": "2026-10-31T07:32:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -703459,6 +703459,45 @@
       "firstSeenAt": "2026-10-31T07:31:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95416,
+      "source": "blind",
+      "externalId": "cmt-459136933",
+      "title": "공무원 관뒀다며 ㅠ 뭐하려고 관뒀으려나...",
+      "excerpt": "투표글 영철이 스타성? 화제성? 하난 타고났다 투표",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%8A%A4%ED%83%80%EC%84%B1-%ED%99%94%EC%A0%9C%EC%84%B1-%ED%95%98%EB%82%9C-%ED%83%80%EA%B3%A0%EB%82%AC%EB%8B%A4-pbk1p4x1#459136933",
+      "postedLabel": "53분",
+      "postedAt": "2026-10-31T15:39:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T07:32:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95417,
+      "source": "dc",
+      "externalId": "6641759",
+      "title": "(역)성장캐",
+      "excerpt": "",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6641759&page=1",
+      "postedLabel": "16:31",
+      "postedAt": "2026-10-31T16:31:39+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T07:32:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -703556,7 +703595,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-10-31T16:29:10+09:00"
+      "slowAt": "2026-10-31T16:32:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -712001,7 +712040,8 @@
         "6641714",
         "6641715",
         "6641730",
-        "6641737"
+        "6641737",
+        "6641751"
       ]
     },
     "blind": {
