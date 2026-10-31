@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-10-31T02:13:57+00:00",
+  "updatedAt": "2026-10-31T02:14:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -696739,6 +696739,46 @@
       "firstSeenAt": "2026-10-31T02:13:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95077,
+      "source": "blind",
+      "externalId": "cmt-459110120",
+      "title": "엔지니어중에 생산직 있을껄",
+      "excerpt": "상철 생산직 아니라 엔지니어라는디?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EC%82%B0%EC%A7%81-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9D%BC%EB%8A%94%EB%94%94-7wbwspbm#459110120",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T11:14:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:14:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95078,
+      "source": "blind",
+      "externalId": "cmt-459110150",
+      "title": "본인이 메인트라 하지않앗나",
+      "excerpt": "상철 생산직 아니라 엔지니어라는디?",
+      "author": "김**",
+      "company": "어플라이드머티어리얼즈코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EC%82%B0%EC%A7%81-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9D%BC%EB%8A%94%EB%94%94-7wbwspbm#459110150",
+      "postedLabel": "방금",
+      "postedAt": "2026-10-31T11:14:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-10-31T02:14:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -696892,7 +696932,7 @@
         "DexpSnWmyGa",
         "DfCvZUUnUbL"
       ],
-      "slowAt": "2026-10-31T11:11:41+09:00"
+      "slowAt": "2026-10-31T11:14:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -705140,6 +705180,7 @@
         "6641165",
         "6641170",
         "6641171",
+        "6641181",
         "6641185",
         "6641187",
         "6641188",
