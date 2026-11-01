@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T03:28:59+00:00",
+  "updatedAt": "2026-11-01T03:30:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -716484,6 +716484,26 @@
       "firstSeenAt": "2026-11-01T03:28:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96074,
+      "source": "blind",
+      "externalId": "cmt-459247403",
+      "title": "방송땜에 긴장도 하구 비포장도로 때문에 더 그랬을듯",
+      "excerpt": "내생각인데 현숙 멀미는 마운자로 부작용일수도",
+      "author": "******",
+      "company": "경희대학교교직원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EC%83%9D%EA%B0%81%EC%9D%B8%EB%8D%B0-%ED%98%84%EC%88%99-%EB%A9%80%EB%AF%B8%EB%8A%94-%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EB%B6%80%EC%9E%91%EC%9A%A9%EC%9D%BC%EC%88%98%EB%8F%84-rj3s8qxi#459247403",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T12:29:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T03:30:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -716642,7 +716662,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T12:26:43+09:00"
+      "slowAt": "2026-11-01T12:29:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -725318,7 +725338,8 @@
         "6642861",
         "6642867",
         "6642869",
-        "6642873"
+        "6642873",
+        "6642876"
       ]
     },
     "blind": {
