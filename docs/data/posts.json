@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T07:48:03+00:00",
+  "updatedAt": "2026-11-01T07:49:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -721112,6 +721112,44 @@
       "firstSeenAt": "2026-11-01T07:48:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96308,
+      "source": "dc",
+      "externalId": "6643225",
+      "title": "순자님 짤 중엔 이게 제일 좋음",
+      "excerpt": "",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643225&page=1",
+      "postedLabel": "16:48",
+      "postedAt": "2026-11-01T16:48:41+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T07:49:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96309,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98-%E3%84%B9%E3%85%87%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%9E%84-uf38wu15",
+      "title": "나 ㄹㅇ궁금해서 그러는데 정숙은 어떤 마인드임?",
+      "excerpt": "나도 회법 다녀봐서 주변에 여자회계사 개많이알음 근데 막 본인 전문직이라서 외모필요없다고 저러고다니지도 않고 일부 외모 놓고다니는 사람도 있는데 그런 사람은 아예 연애 결혼에 노관심 근데 정숙은 특이해 본인을 전혀 가꾸지는 않으면서 눈이높아 연애결혼도 하고싶어하는데 흔히 남자들이 좋아할만한 조건에 본인을 전혀 맞추지 않음 뭐 그것까지도 본인취향이지 근데 그러면서 나솔에 나오는게 ㅈㄴㅈㄴ특이해 여기까지도 이해한다 쳐 근데 영호의 3순위안에도 안들어가서 놀라워함<<이게 ㄹㅇ개신기 저 나이면 그정도 객관화가 분명 되는데 왜 안된거지",
+      "author": "7******",
+      "company": "유진투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%E3%84%B9%E3%85%87%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%9E%84-uf38wu15",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T16:48:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T07:49:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -730056,7 +730094,8 @@
         "6643202",
         "6643203",
         "6643210",
-        "6643214"
+        "6643214",
+        "6643217"
       ]
     },
     "blind": {
