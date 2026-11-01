@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T01:57:00+00:00",
+  "updatedAt": "2026-11-01T01:58:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -715174,6 +715174,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-01T01:57:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96008,
+      "source": "blind",
+      "externalId": "cmt-459233879",
+      "title": "근데 방송분 보면 영자한테도 차일거같은데?;;;",
+      "excerpt": "영철 진짜 면직했어?",
+      "author": "ilj1ljj",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EB%A9%B4%EC%A7%81%ED%96%88%EC%96%B4-1gq7m7hf#459233879",
+      "postedLabel": "40분",
+      "postedAt": "2026-11-01T10:17:44+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T01:58:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96009,
+      "source": "blind",
+      "externalId": "cmt-459237985",
+      "title": "나도 솔직히 순수 얼굴은 그닥..? 싶음 ㅋㅋㅋㅋㅋ 키+스타일+애티튜드의 승리라 생각함. 다른 댓글 말대로 느좋남 ㅇㅇ",
+      "excerpt": "영호 근데 잘생긴거야?",
+      "author": "ilj1ljj",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B7%BC%EB%8D%B0-%EC%9E%98%EC%83%9D%EA%B8%B4%EA%B1%B0%EC%95%BC-wx6zhfkd#459237985",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T10:57:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T01:58:00+00:00",
       "isSeed": false,
       "kind": "reply"
     }
