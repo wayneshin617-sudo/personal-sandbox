@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T08:01:04+00:00",
+  "updatedAt": "2026-11-01T08:03:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -721569,6 +721569,45 @@
       "firstSeenAt": "2026-11-01T08:01:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96331,
+      "source": "dc",
+      "externalId": "6643247",
+      "title": "한국 코시 우승 ㄷㄷㄷ",
+      "excerpt": "",
+      "author": "타쿠우나미",
+      "company": "",
+      "ip": "221.155",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643247&page=1",
+      "postedLabel": "17:02",
+      "postedAt": "2026-11-01T17:02:03+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T08:03:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96332,
+      "source": "blind",
+      "externalId": "cmt-459279032",
+      "title": "본인은 외모 관리 전혀 안하면서 남자가 자기 순위 안에 없다니까 놀람 (내가 더 놀람) + 본인은 영호한테 자기 시간 낭비했다고 무례의 극치를 보여주고 영철이는 끌고 나와서 자중하라고 조언 ㅋㅋㅋㅋㅋㅋ 이 2개만 봐도 본인한테는 한없이 관대하고 남들한테는 엄격한, 메타인지 부족한 케이스 ㅋㅋㅋㅋ",
+      "excerpt": "나 ㄹㅇ궁금해서 그러는데 정숙은 어떤 마인드임?",
+      "author": "l********",
+      "company": "딜로이트안진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%E3%84%B9%E3%85%87%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%9E%84-uf38wu15#459279032",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T17:02:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T08:03:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -721728,7 +721767,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T16:59:46+09:00"
+      "slowAt": "2026-11-01T17:02:46+09:00"
     },
     "dc": {
       "doneIds": [
