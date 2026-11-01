@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T08:29:03+00:00",
+  "updatedAt": "2026-11-01T08:32:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -722026,6 +722026,46 @@
       "firstSeenAt": "2026-11-01T08:29:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96354,
+      "source": "qoo",
+      "externalId": "cmt-4392673618",
+      "title": "ㄹㅇ 보고싶다",
+      "excerpt": "현숙 영호랑 데이트 나가서 차에서 멀미 안하는거 보고싶다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4392625517#4392673618",
+      "postedLabel": "",
+      "postedAt": "2026-11-01T16:31:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T08:32:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96355,
+      "source": "blind",
+      "externalId": "cmt-459281838",
+      "title": "영호는 키가 185자나",
+      "excerpt": "투표글 31기경수vs34기영호 투표",
+      "author": "v*********",
+      "company": "한국동서발전",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EA%B8%B0%EA%B2%BD%EC%88%98vs34%EA%B8%B0%EC%98%81%ED%98%B8-wz3w76id#459281838",
+      "postedLabel": "7분",
+      "postedAt": "2026-11-01T17:24:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T08:32:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -722126,7 +722166,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T17:28:46+09:00"
+      "slowAt": "2026-11-01T17:31:47+09:00"
     },
     "ig": {
       "doneIds": [
