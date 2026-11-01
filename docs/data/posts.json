@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T05:42:51+00:00",
+  "updatedAt": "2026-11-01T05:47:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -718852,6 +718852,26 @@
       "firstSeenAt": "2026-11-01T05:42:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96194,
+      "source": "dc",
+      "externalId": "cmt-10987526",
+      "title": "동키는 시발아 ㅋㅋㅋㅋㅋ",
+      "excerpt": "순자는 대체 왜 인기있음?",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642902&page=2#cmt_10987526",
+      "postedLabel": "11.01 13:57:23",
+      "postedAt": "2026-11-01T13:57:23+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T05:47:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -719010,7 +719030,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T14:44:33+09:00"
+      "slowAt": "2026-11-01T14:47:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -727743,7 +727763,8 @@
         "6643011",
         "6643016",
         "6643023",
-        "6643026"
+        "6643026",
+        "6643033"
       ]
     },
     "blind": {
