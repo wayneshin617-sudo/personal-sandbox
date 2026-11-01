@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T07:38:04+00:00",
+  "updatedAt": "2026-11-01T07:39:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -720756,6 +720756,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-01T07:38:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96290,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99-%E3%84%B9%E3%85%87-%EB%88%88%EB%8F%84-%ED%81%AC%EA%B3%A0-%EC%BD%94%EB%8F%84-%EC%98%A4%EB%98%91%ED%95%98%EA%B3%A0-fzany3q2",
+      "title": "정숙 ㄹㅇ 눈도 크고 코도 오똑하고",
+      "excerpt": "눈썹마저 예쁜데 살만 빼면 되겠구만",
+      "author": "감*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%E3%84%B9%E3%85%87-%EB%88%88%EB%8F%84-%ED%81%AC%EA%B3%A0-%EC%BD%94%EB%8F%84-%EC%98%A4%EB%98%91%ED%95%98%EA%B3%A0-fzany3q2",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T16:38:46+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T07:39:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96291,
+      "source": "blind",
+      "externalId": "cmt-459275846",
+      "title": "다들 당당하게 좀 살지 ㅉㅉ 인생 별거 없는데 말야",
+      "excerpt": "영철도 어쩔수없는 흙수저 공뭔이구나",
+      "author": "투***",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%8F%84-%EC%96%B4%EC%A9%94%EC%88%98%EC%97%86%EB%8A%94-%ED%9D%99%EC%88%98%EC%A0%80-%EA%B3%B5%EB%AD%94%EC%9D%B4%EA%B5%AC%EB%82%98-fcktbdqu#459275846",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T16:38:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T07:39:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -720915,7 +720954,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T16:35:46+09:00"
+      "slowAt": "2026-11-01T16:38:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -729681,6 +729720,7 @@
         "6643102",
         "6643104",
         "6643118",
+        "6643123",
         "6643124",
         "6643127",
         "6643140",
@@ -734035,6 +734075,7 @@
         "/kr/post/%EC%A0%84%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC-%ED%83%80%ED%88%AC-%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%98%80%EB%8A%94%EB%8D%B0-ojse5s2y",
         "/kr/post/%EC%A0%84%EC%97%AC%EC%B9%9C%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B0%EB%B3%B4%EB%8B%88%EA%B9%8C-%EC%A7%84%EC%A7%9C%EC%8B%A0%EA%B8%B0%ED%95%98%EB%84%A4-7z08tkl8",
         "/kr/post/%EC%A0%84%EC%97%AC%EC%B9%9C-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EB%82%98%EC%99%80%EC%A4%98-3jju8wgj",
+        "/kr/post/%EC%A0%84%EC%9D%B8%EA%B6%8C%EC%94%A8%EB%8A%94-%EB%82%98%EC%86%94-%EB%82%98%EC%98%A4%EC%8B%9C%EB%8A%94%EB%8D%B0-%EB%84%88%EB%AC%B4-%EC%95%88-%EA%BE%B8%EB%AF%B8%EA%B3%A0-%EB%82%98%EC%98%A4%EC%8B%A0-%EA%B1%B0-%EC%95%84%EB%8B%88%EB%83%90%EA%B3%A0-ukf45w3j",
         "/kr/post/%EC%A0%84%EC%9D%B8%EA%B6%8C-%EC%99%9C-%EC%97%AC%EA%B8%B0%EC%84%9C-%EA%B8%89%EB%B0%9C%EC%A7%84%ED%95%98%EB%8A%94-%EA%B1%B4%EC%A7%80-%EC%84%A4%EB%AA%85-%EC%A2%80-18or2vn7",
         "/kr/post/%EC%A0%84%EC%9F%81%EC%9D%B4%EB%9D%BC-orlhylgm",
         "/kr/post/%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8-%EC%97%AC%EB%AF%B8%EC%83%88%EB%86%90%E3%85%8B%E3%85%8B%E3%84%B1%E3%85%82%E3%85%8B%E3%85%8B%E3%85%8B-jgdm1ktz",
