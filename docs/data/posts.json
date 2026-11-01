@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T05:31:51+00:00",
+  "updatedAt": "2026-11-01T05:32:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -718496,6 +718496,26 @@
       "firstSeenAt": "2026-11-01T05:31:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96176,
+      "source": "blind",
+      "externalId": "cmt-459261017",
+      "title": "눈 한쪽이 찌그러져있어 ㅜ",
+      "excerpt": "옥순이 라바 닮았어!!!!",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%9D%BC%EB%B0%94-%EB%8B%AE%EC%95%98%EC%96%B4-thvlajpc#459261017",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T14:32:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T05:32:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -718654,7 +718674,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T14:29:33+09:00"
+      "slowAt": "2026-11-01T14:32:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -727382,7 +727402,8 @@
         "6643004",
         "6643006",
         "6643010",
-        "6643011"
+        "6643011",
+        "6643016"
       ]
     },
     "blind": {
