@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T07:27:03+00:00",
+  "updatedAt": "2026-11-01T07:28:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -720499,6 +720499,45 @@
       "firstSeenAt": "2026-11-01T07:27:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96277,
+      "source": "qoo",
+      "externalId": "cmt-4392599257",
+      "title": "난 특히 정숙이 자기의 도파민을 위해 영호의 관심가는 사람 두명이 순자 영숙이냐 말해달라는게 너무 무례했음",
+      "excerpt": "영호랑 다대일 하러온 여출들 좀 무례하긴했음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4392520752#4392599257",
+      "postedLabel": "",
+      "postedAt": "2026-11-01T15:27:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T07:28:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96278,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99-%EC%A7%84%EC%A7%9C-%EC%98%88%EC%81%98%EB%8B%A4-e15805zb",
+      "title": "현숙 진짜 예쁘다",
+      "excerpt": "일반인 3중 넘은 여자한테 예쁘다는 진짜 오랜만에 느낀다",
+      "author": "1********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%A7%84%EC%A7%9C-%EC%98%88%EC%81%98%EB%8B%A4-e15805zb",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T16:27:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T07:28:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -729431,7 +729470,8 @@
         "6643157",
         "6643177",
         "6643185",
-        "6643190"
+        "6643190",
+        "6643194"
       ]
     },
     "blind": {
