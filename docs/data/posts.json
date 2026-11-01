@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T19:39:58+00:00",
+  "updatedAt": "2026-11-01T19:42:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -727929,6 +727929,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-11-01T19:39:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96652,
+      "source": "dc",
+      "externalId": "cmt-10988425",
+      "title": "내가 들은 것도 '9급 = 중견, 7급 = 대기업'임. 상위 대기업이랑 비교하면 안 되지. - dc App",
+      "excerpt": "영철이 얘 말빨만 됐어도 다 조지고 다니는데",
+      "author": "뚱보",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643775&page=2#cmt_10988425",
+      "postedLabel": "11.02 02:08:24",
+      "postedAt": "2026-11-02T02:08:24+09:00",
+      "views": null,
+      "recommends": 12,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T19:42:59+00:00",
       "isSeed": false,
       "kind": "reply"
     }
