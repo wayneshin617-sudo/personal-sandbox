@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T03:58:21+00:00",
+  "updatedAt": "2026-11-01T03:59:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -716839,6 +716839,26 @@
       "firstSeenAt": "2026-11-01T03:58:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96092,
+      "source": "blind",
+      "externalId": "cmt-459250227",
+      "title": "전라도 유지? 그정도",
+      "excerpt": "나솔 금수저 5대장",
+      "author": "j******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EA%B8%88%EC%88%98%EC%A0%80-5%EB%8C%80%EC%9E%A5-rvirfyki#459250227",
+      "postedLabel": "4분",
+      "postedAt": "2026-11-01T12:55:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T03:59:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -716997,7 +717017,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T12:56:03+09:00"
+      "slowAt": "2026-11-01T12:59:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -725684,7 +725704,8 @@
         "6642899",
         "6642901",
         "6642902",
-        "6642906"
+        "6642906",
+        "6642908"
       ]
     },
     "blind": {
