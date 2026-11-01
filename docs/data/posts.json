@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T09:23:05+00:00",
+  "updatedAt": "2026-11-01T09:29:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -723018,6 +723018,45 @@
       "firstSeenAt": "2026-11-01T09:23:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96404,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%B9%EC%8B%9C-%EC%9D%B4%ED%98%BC%ED%95%98%EC%8B%A0%EB%B6%84-%EA%B3%84%EC%8B%A4%EA%B9%8C%EC%9A%94-dfjkx12o",
+      "title": "혹시 이혼하신분 계실까요?",
+      "excerpt": "최근 짧게 결혼생활을 하고 이혼을 하게 되서 연락 드립니다. 혹시 서울, 경기권에 사시는 여성분 계시면 연락부탁드립니다. 나이는 30대 초반입니다.",
+      "author": "P*****",
+      "company": "경동나비엔",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%B9%EC%8B%9C-%EC%9D%B4%ED%98%BC%ED%95%98%EC%8B%A0%EB%B6%84-%EA%B3%84%EC%8B%A4%EA%B9%8C%EC%9A%94-dfjkx12o",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T18:28:47+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-01T09:29:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96405,
+      "source": "blind",
+      "externalId": "cmt-459289468",
+      "title": "돌진?",
+      "excerpt": "혹시 이혼하신분 계실까요?",
+      "author": "-*********",
+      "company": "기업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%B9%EC%8B%9C-%EC%9D%B4%ED%98%BC%ED%95%98%EC%8B%A0%EB%B6%84-%EA%B3%84%EC%8B%A4%EA%B9%8C%EC%9A%94-dfjkx12o#459289468",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T18:28:47+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T09:29:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -723118,7 +723157,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T18:25:48+09:00"
+      "slowAt": "2026-11-01T18:28:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -737078,6 +737117,7 @@
         "/kr/post/%ED%98%B8%EA%B0%90%EC%9D%B4-%EC%BB%A4%EC%A1%8C%EB%8B%A4%EA%B3%A0-fr06ms3r",
         "/kr/post/%ED%98%B8%ED%85%94%EA%B0%80%EC%9A%B4-%EC%82%AC%EC%A7%84%EC%9D%80-%EA%B1%B0%EC%9D%98-%EB%A6%AC%EB%B2%A4%EC%A7%80%ED%8F%AC%EB%A5%B4%EB%85%B8%EA%B8%89-%EC%95%84%EB%8B%98-k8hdimy4",
         "/kr/post/%ED%98%B8%ED%85%94%EB%A3%B8-%ED%99%94%EC%9E%A5%EC%8B%A4%EC%97%90%EC%84%9C-%EB%91%98%EC%9D%B4-%EC%83%A4%EC%9B%8C%EA%B0%80%EC%9A%B4-%EC%9E%85%EA%B3%A0-%EC%B0%8D%EC%9D%80%EA%B1%B4-%EC%99%9C-%EC%98%AC%EB%A0%B8%EC%9D%84%EA%B9%8C-by7djs51",
+        "/kr/post/%ED%98%B9%EC%8B%9C-%EC%9D%B4%ED%98%BC%ED%95%98%EC%8B%A0%EB%B6%84-%EA%B3%84%EC%8B%A4%EA%B9%8C%EC%9A%94-dfjkx12o",
         "/kr/post/%ED%98%BC%EC%9E%90-%EC%9A%B0%EC%88%98%EC%97%90-%EC%B0%AC-%EB%88%88%EB%B9%9B-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-y8yuu6gs",
         "/kr/post/%ED%99%8D%EC%B2%9C-%EC%B9%98%ED%82%A8%EC%A7%91-%EC%A0%84%ED%99%94%ED%95%A0-%EB%95%8C-puz0x72g",
         "/kr/post/%ED%99%94%EB%82%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90-%ED%98%95%EB%8B%98%EB%93%A4-15c2h8rl",
