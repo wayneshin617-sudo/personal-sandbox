@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T08:10:04+00:00",
+  "updatedAt": "2026-11-01T08:15:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -721767,6 +721767,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-01T08:10:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96341,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%95%EC%88%99-uasfvmd4",
+      "title": "개인적으로 정숙",
+      "excerpt": "20대때도 저렇게 살이 피둥피둥하게 찐 상태였을지 그게 궁금하다. 그땐 날씬했다면 최소한 지금 자신감의 근거가 약간은 이해가 가는 편이고(정말 약간) 아니었다면.. 앞으로 리즈시절이란게 안 올 가능성이 크니 안쓰럽네",
+      "author": "ilj1ljj",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%95%EC%88%99-uasfvmd4",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T17:14:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T08:15:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96342,
+      "source": "blind",
+      "externalId": "cmt-459280449",
+      "title": "왜 근데 항상 얼굴만 봐야함? 얼굴만 둥둥 떠다닐 것도 아니고 무슨 의미가 있는건지..",
+      "excerpt": "투표글 31기경수vs34기영호 투표",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EA%B8%B0%EA%B2%BD%EC%88%98vs34%EA%B8%B0%EC%98%81%ED%98%B8-wz3w76id#459280449",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T17:14:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T08:15:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -721926,7 +721965,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T17:11:46+09:00"
+      "slowAt": "2026-11-01T17:14:47+09:00"
     },
     "dc": {
       "doneIds": [
