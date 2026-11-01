@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T07:55:03+00:00",
+  "updatedAt": "2026-11-01T07:56:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -721349,6 +721349,46 @@
       "firstSeenAt": "2026-11-01T07:55:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96320,
+      "source": "blind",
+      "externalId": "cmt-459278129",
+      "title": "아 이건가",
+      "excerpt": "나 ㄹㅇ궁금해서 그러는데 정숙은 어떤 마인드임?",
+      "author": "7****** 작성자",
+      "company": "유진투자증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%E3%84%B9%E3%85%87%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%9E%84-uf38wu15#459278129",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T16:55:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T07:56:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96321,
+      "source": "blind",
+      "externalId": "cmt-459278085",
+      "title": "운좋게 잘생남 만나본 경험 있을 듯",
+      "excerpt": "나 ㄹㅇ궁금해서 그러는데 정숙은 어떤 마인드임?",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%E3%84%B9%E3%85%87%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%9E%84-uf38wu15#459278085",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T16:55:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T07:56:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -721449,7 +721489,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T16:52:46+09:00"
+      "slowAt": "2026-11-01T16:55:46+09:00"
     },
     "ig": {
       "doneIds": [
@@ -730284,6 +730324,7 @@
         "6643140",
         "6643141",
         "6643144",
+        "6643146",
         "6643150",
         "6643152",
         "6643156",
