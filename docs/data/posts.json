@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T06:03:51+00:00",
+  "updatedAt": "2026-11-01T06:07:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -718989,6 +718989,45 @@
       "firstSeenAt": "2026-11-01T06:03:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96201,
+      "source": "blind",
+      "externalId": "cmt-459259855",
+      "title": "고릴라는 돌싱 현숙 아님?",
+      "excerpt": "아씨 옥순 누가 고릴라 닮았다고 했냐?",
+      "author": "l********",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%94%A8-%EC%98%A5%EC%88%9C-%EB%88%84%EA%B0%80-%EA%B3%A0%EB%A6%B4%EB%9D%BC-%EB%8B%AE%EC%95%98%EB%8B%A4%EA%B3%A0-%ED%96%88%EB%83%90-ddj8x008#459259855",
+      "postedLabel": "46분",
+      "postedAt": "2026-11-01T14:21:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T06:07:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96202,
+      "source": "dc",
+      "externalId": "6643073",
+      "title": "테슬라·스페이스X '27년 합병 시나리오와 양도소득세",
+      "excerpt": "",
+      "author": "스겜",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643073&page=1",
+      "postedLabel": "15:07",
+      "postedAt": "2026-11-01T15:07:11+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T06:07:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -719089,7 +719128,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T15:04:33+09:00"
+      "slowAt": "2026-11-01T15:07:33+09:00"
     },
     "ig": {
       "doneIds": [
@@ -727876,6 +727915,7 @@
         "6642992",
         "6642993",
         "6642994",
+        "6642998",
         "6643001",
         "6643004",
         "6643006",
