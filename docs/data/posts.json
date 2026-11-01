@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T09:02:03+00:00",
+  "updatedAt": "2026-11-01T09:03:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -722640,6 +722640,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-01T09:02:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96385,
+      "source": "blind",
+      "externalId": "cmt-459286376",
+      "title": "여자들은 40 넘지 않는 이상 5살 늙남 대체적으로 싫어해요 아저씨;",
+      "excerpt": "나솔은 왜 맨날 할머니들만 나옴 ?",
+      "author": "ilj1ljj",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%9D%80-%EC%99%9C-%EB%A7%A8%EB%82%A0-%ED%95%A0%EB%A8%B8%EB%8B%88%EB%93%A4%EB%A7%8C-%EB%82%98%EC%98%B4-1kavonuk#459286376",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T18:02:46+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T09:03:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -722799,7 +722819,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T17:59:46+09:00"
+      "slowAt": "2026-11-01T18:02:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -731557,6 +731577,7 @@
         "6643057",
         "6643060",
         "6643066",
+        "6643067",
         "6643071",
         "6643074",
         "6643081",
