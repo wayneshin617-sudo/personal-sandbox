@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T16:07:12+00:00",
+  "updatedAt": "2026-11-01T16:28:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -727456,6 +727456,25 @@
       "firstSeenAt": "2026-11-01T16:07:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96628,
+      "source": "blind",
+      "externalId": "/kr/post/20%EC%98%81%EC%8B%9D-vs-34%EC%98%81%ED%98%B8-yk038wna",
+      "title": "투표글 20영식 vs 34영호 투표",
+      "excerpt": "진짜 두부 vs 두부다",
+      "author": "ㅣ********",
+      "company": "ex-COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/20%EC%98%81%EC%8B%9D-vs-34%EC%98%81%ED%98%B8-yk038wna",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T01:27:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T16:28:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -727617,7 +727636,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-02T01:24:55+09:00"
+      "slowAt": "2026-11-02T01:27:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -736559,7 +736578,8 @@
         "6643775",
         "6643777",
         "6643782",
-        "6643796"
+        "6643796",
+        "6643797"
       ]
     },
     "blind": {
