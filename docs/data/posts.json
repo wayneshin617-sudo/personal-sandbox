@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T04:57:50+00:00",
+  "updatedAt": "2026-11-01T05:00:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -717827,6 +717827,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-01T04:57:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96142,
+      "source": "dc",
+      "externalId": "6642988",
+      "title": "흙철대전의 승자는 누구냐",
+      "excerpt": "",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642988&page=1",
+      "postedLabel": "14:00",
+      "postedAt": "2026-11-01T14:00:21+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T05:00:49+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -726686,6 +726705,7 @@
         "6642908",
         "6642914",
         "6642915",
+        "6642916",
         "6642918",
         "6642923",
         "6642924",
