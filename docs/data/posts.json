@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T04:00:21+00:00",
+  "updatedAt": "2026-11-01T04:02:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -716879,6 +716879,26 @@
       "firstSeenAt": "2026-11-01T04:00:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96094,
+      "source": "dc",
+      "externalId": "cmt-10987440",
+      "title": "전남친들만 아는 순자의 비밀",
+      "excerpt": "순자 문신 궁금하지않냐",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642915&page=1#cmt_10987440",
+      "postedLabel": "11.01 13:01:42",
+      "postedAt": "2026-11-01T13:01:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T04:02:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -717037,7 +717057,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T12:59:03+09:00"
+      "slowAt": "2026-11-01T13:02:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -725725,7 +725745,8 @@
         "6642901",
         "6642902",
         "6642906",
-        "6642908"
+        "6642908",
+        "6642915"
       ]
     },
     "blind": {
