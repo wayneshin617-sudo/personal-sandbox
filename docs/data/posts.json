@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T03:43:24+00:00",
+  "updatedAt": "2026-11-01T03:44:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -716583,6 +716583,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-01T03:43:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96079,
+      "source": "dc",
+      "externalId": "6642900",
+      "title": "문신충들을 믿고 걸러야 하는 이유. EU",
+      "excerpt": "",
+      "author": "회색늑대",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642900&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-11-01T12:43:51+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T03:44:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -716741,7 +716760,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T12:29:44+09:00"
+      "slowAt": "2026-11-01T12:44:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -725408,6 +725427,7 @@
         "6642823",
         "6642827",
         "6642829",
+        "6642830",
         "6642833",
         "6642841",
         "6642845",
@@ -725419,7 +725439,8 @@
         "6642869",
         "6642873",
         "6642876",
-        "6642893"
+        "6642893",
+        "6642898"
       ]
     },
     "blind": {
