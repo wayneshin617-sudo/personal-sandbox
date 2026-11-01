@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T07:50:04+00:00",
+  "updatedAt": "2026-11-01T07:51:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -721170,6 +721170,46 @@
       "firstSeenAt": "2026-11-01T07:50:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96311,
+      "source": "blind",
+      "externalId": "cmt-459277406",
+      "title": "나도 진심 궁금함. 방송에 나오는데 처참한 외모와 성격은 진짜 무슨 마인드인지. 기본적인 태도가 안 되어 있음",
+      "excerpt": "나 ㄹㅇ궁금해서 그러는데 정숙은 어떤 마인드임?",
+      "author": "✠",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%E3%84%B9%E3%85%87%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%9E%84-uf38wu15#459277406",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-01T16:49:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T07:51:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96312,
+      "source": "blind",
+      "externalId": "cmt-459277428",
+      "title": "결정사에서 소개해주던 회계사들은 보통 정숙이처럼 생겼던데 내가 부적했구나",
+      "excerpt": "나 ㄹㅇ궁금해서 그러는데 정숙은 어떤 마인드임?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%E3%84%B9%E3%85%87%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EC%9E%84-uf38wu15#459277428",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T16:50:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T07:51:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -721329,7 +721369,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T16:47:46+09:00"
+      "slowAt": "2026-11-01T16:50:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -730116,7 +730156,8 @@
         "6643203",
         "6643210",
         "6643214",
-        "6643217"
+        "6643217",
+        "6643223"
       ]
     },
     "blind": {
