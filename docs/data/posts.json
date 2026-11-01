@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T08:32:05+00:00",
+  "updatedAt": "2026-11-01T08:36:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -722066,6 +722066,25 @@
       "firstSeenAt": "2026-11-01T08:32:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96356,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B0%A9%EC%86%A1-%EC%95%88%EB%B3%B4%EA%B3%A0-%EC%A7%A4%EB%A7%8C-%EB%B4%90%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-eq4ztvwf",
+      "title": "투표글 방송 안보고 짤만 봐서 그러는데 투표",
+      "excerpt": "영철 같은 애는 본인이 어떤지 모르고 나온거임?",
+      "author": "!********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%A9%EC%86%A1-%EC%95%88%EB%B3%B4%EA%B3%A0-%EC%A7%A4%EB%A7%8C-%EB%B4%90%EC%84%9C-%EA%B7%B8%EB%9F%AC%EB%8A%94%EB%8D%B0-eq4ztvwf",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T17:35:46+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T08:36:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -722225,7 +722244,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T17:32:46+09:00"
+      "slowAt": "2026-11-01T17:35:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -731041,7 +731060,8 @@
         "6643287",
         "6643288",
         "6643292",
-        "6643296"
+        "6643296",
+        "6643297"
       ]
     },
     "blind": {
