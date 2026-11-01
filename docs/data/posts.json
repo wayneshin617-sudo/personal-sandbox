@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T01:28:59+00:00",
+  "updatedAt": "2026-11-01T01:29:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -714559,6 +714559,46 @@
       "firstSeenAt": "2026-11-01T01:28:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95977,
+      "source": "blind",
+      "externalId": "cmt-459235050",
+      "title": "이거지",
+      "excerpt": "영철은 조건을 보는게 아님",
+      "author": "p********",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A1%B0%EA%B1%B4%EC%9D%84-%EB%B3%B4%EB%8A%94%EA%B2%8C-%EC%95%84%EB%8B%98-0f78xgtk#459235050",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T10:29:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T01:29:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 95978,
+      "source": "blind",
+      "externalId": "cmt-459235086",
+      "title": "나도그냥 첨엔 아 웃는게 이쁘시네 잘생겼네 였는데 2화보자마자 개짜침ㅋㅋㅋ",
+      "excerpt": "나도 첫등장때 영철 원픽이었는데",
+      "author": "Ι********",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8F%84-%EC%B2%AB%EB%93%B1%EC%9E%A5%EB%95%8C-%EC%98%81%EC%B2%A0-%EC%9B%90%ED%94%BD%EC%9D%B4%EC%97%88%EB%8A%94%EB%8D%B0-qoshma5a#459235086",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T10:29:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T01:29:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -714717,7 +714757,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T10:26:43+09:00"
+      "slowAt": "2026-11-01T10:29:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -723362,6 +723402,7 @@
         "6642689",
         "6642693",
         "6642702",
+        "6642716",
         "6642718",
         "6642727",
         "6642732",
