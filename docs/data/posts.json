@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T15:11:12+00:00",
+  "updatedAt": "2026-11-01T15:16:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -726938,6 +726938,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-01T15:11:12+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96602,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98-34%EA%B8%B0-%ED%98%84%EC%88%99-%EB%8B%AE%EC%95%98%EB%8C%80-ud6btwc3",
+      "title": "나 34기 현숙 닮았대",
+      "excerpt": "좋은거야?",
+      "author": "x******",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-34%EA%B8%B0-%ED%98%84%EC%88%99-%EB%8B%AE%EC%95%98%EB%8C%80-ud6btwc3",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T00:15:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-01T15:16:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96603,
+      "source": "blind",
+      "externalId": "cmt-459337902",
+      "title": "이쁘다고 하는거야ㅎㅎ",
+      "excerpt": "나 34기 현숙 닮았대",
+      "author": "l********",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-34%EA%B8%B0-%ED%98%84%EC%88%99-%EB%8B%AE%EC%95%98%EB%8C%80-ud6btwc3#459337902",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T00:15:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T15:16:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -727098,7 +727137,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-02T00:12:54+09:00"
+      "slowAt": "2026-11-02T00:15:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -736725,6 +736764,7 @@
         "/kr/post/%EB%82%98-16%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EC%A4%91%EC%9D%B8%EB%8D%B0-ay5kt6of",
         "/kr/post/%EB%82%98-34%EA%B8%B0-%EC%98%81%ED%98%B8%EB%8F%84-%EB%88%84%EA%B5%AC%EB%8B%AE%EC%9D%80%EC%A7%80-%EC%B0%BE%EC%95%98%EC%96%B4-edszkh5e",
         "/kr/post/%EB%82%98-34%EA%B8%B0-%EC%98%A5%EC%88%9C-%EB%88%84%EA%B5%AC%EB%8B%AE%EC%95%98%EB%8A%94%EC%A7%80-%EB%93%9C%EB%94%94%EC%96%B4-%EC%83%9D%EA%B0%81%EB%82%AC%EC%96%B4-3bggpj0a",
+        "/kr/post/%EB%82%98-34%EA%B8%B0-%ED%98%84%EC%88%99-%EB%8B%AE%EC%95%98%EB%8C%80-ud6btwc3",
         "/kr/post/%EB%82%9C%EB%A8%BC%EA%B0%80-34%EA%B8%B0%EC%83%81%EC%B2%A0-%EC%96%BC%EA%B5%B4-%EB%82%B4%EC%B7%A8%ED%96%A5%EC%9E%84-5fzobby8",
         "/kr/post/%EB%82%9C%EC%98%A5%EC%88%9C%EC%9D%B4%EC%A2%8B%EB%84%A4-u5zuc54f",
         "/kr/post/%EB%82%9C%ED%95%B4%ED%95%98%EB%84%A4-aiclxzm8",
