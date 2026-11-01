@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T03:06:00+00:00",
+  "updatedAt": "2026-11-01T03:12:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -716088,6 +716088,25 @@
       "firstSeenAt": "2026-11-01T03:06:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96054,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%81%EC%97%85-%EC%B6%94%EC%B2%9C-vchogqv1",
+      "title": "영철 직업 추천",
+      "excerpt": "1. 수련회 수학여행 조교 2. 결혼식 mc 3. 로테이션 mc 4. 고등학교 체육선생(잘꼬실듯) 5.헌팅포차 사장",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%81%EC%97%85-%EC%B6%94%EC%B2%9C-vchogqv1",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T12:11:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T03:12:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -716246,7 +716265,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T12:08:44+09:00"
+      "slowAt": "2026-11-01T12:11:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -724916,7 +724935,8 @@
         "6642845",
         "6642846",
         "6642849",
-        "6642856"
+        "6642856",
+        "6642861"
       ]
     },
     "blind": {
