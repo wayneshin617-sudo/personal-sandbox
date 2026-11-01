@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T05:37:51+00:00",
+  "updatedAt": "2026-11-01T05:39:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -718693,6 +718693,45 @@
       "firstSeenAt": "2026-11-01T05:37:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96186,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%80-%ED%8A%B8%EB%A6%AC%EA%B1%B0%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%B5%9C%EA%B7%BC%EC%97%90-%EC%95%8C%EC%95%98%EB%82%98-vnoaaqzu",
+      "title": "영철님은 트리거라는 단어를 최근에 알았나..",
+      "excerpt": "왜 이리 많이 써...",
+      "author": "i*********",
+      "company": "ex-위메프",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%80-%ED%8A%B8%EB%A6%AC%EA%B1%B0%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%B5%9C%EA%B7%BC%EC%97%90-%EC%95%8C%EC%95%98%EB%82%98-vnoaaqzu",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T14:39:33+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-01T05:39:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96187,
+      "source": "blind",
+      "externalId": "cmt-459261856",
+      "title": "지피티한테 60권 요약 받았는데 그 중에 나온 내용인가",
+      "excerpt": "영철님은 트리거라는 단어를 최근에 알았나..",
+      "author": "처***",
+      "company": "LG생활건강",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%80-%ED%8A%B8%EB%A6%AC%EA%B1%B0%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%B5%9C%EA%B7%BC%EC%97%90-%EC%95%8C%EC%95%98%EB%82%98-vnoaaqzu#459261856",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T14:39:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T05:39:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -727583,7 +727622,8 @@
         "6643010",
         "6643011",
         "6643016",
-        "6643023"
+        "6643023",
+        "6643026"
       ]
     },
     "blind": {
@@ -730472,6 +730512,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EB%85%BC%EC%9F%81-ovktxgjm",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EB%A7%89-%EB%A7%90%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%94%A9-hibopvld",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%80-%EC%A7%80%EA%B8%88-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EA%B8%80-%EB%B3%B4%EC%8B%A4-%EC%8B%9C%EA%B0%84-%EC%97%86%EC%9D%84%EA%B1%B0%EC%97%90%EC%98%A4-vjwd4xrj",
+        "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%80-%ED%8A%B8%EB%A6%AC%EA%B1%B0%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%B5%9C%EA%B7%BC%EC%97%90-%EC%95%8C%EC%95%98%EB%82%98-vnoaaqzu",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%84-%EC%A0%9C%EC%96%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%83%81%EA%B8%89%EC%9E%90%EA%B0%80-%EC%97%86%EC%97%88%EC%9D%8C-tkqvmt0b",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%98-%EC%97%B4%EB%93%B1%EA%B0%90-ce8zgpgv",
         "/kr/post/%EC%98%81%EC%B2%A0%EB%8B%98-%EB%8D%95%EB%B6%84%EC%97%90-%EB%8F%99%EA%B8%B0%EB%B0%A9-%ED%8F%AD%ED%8C%8C%EB%90%90%EC%97%88%EB%8A%94%EB%94%94-uapv7w3q",
