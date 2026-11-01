@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T01:29:59+00:00",
+  "updatedAt": "2026-11-01T01:39:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -714599,6 +714599,26 @@
       "firstSeenAt": "2026-11-01T01:29:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95979,
+      "source": "dc",
+      "externalId": "cmt-10987291",
+      "title": "다라이 크고 다리 짧아도 보지 달리면 여자는 맞지",
+      "excerpt": "여자는 다라이크고 다리짧으면 여자가 아님",
+      "author": "00",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642773&page=1#cmt_10987291",
+      "postedLabel": "11.01 10:39:32",
+      "postedAt": "2026-11-01T10:39:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T01:39:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -723407,7 +723427,8 @@
         "6642727",
         "6642732",
         "6642736",
-        "6642749"
+        "6642749",
+        "6642773"
       ]
     },
     "blind": {
