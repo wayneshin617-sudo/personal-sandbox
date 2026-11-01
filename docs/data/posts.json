@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T19:42:59+00:00",
+  "updatedAt": "2026-11-01T19:44:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -727951,6 +727951,25 @@
       "firstSeenAt": "2026-11-01T19:42:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96653,
+      "source": "dc",
+      "externalId": "6643883",
+      "title": "데프콘에 말에 따르면 임시완이 보인다길래",
+      "excerpt": "",
+      "author": "안녕",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643883&page=1",
+      "postedLabel": "04:44",
+      "postedAt": "2026-11-02T04:44:07+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T19:44:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -728112,7 +728131,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-02T04:41:41+09:00"
+      "slowAt": "2026-11-02T04:44:41+09:00"
     },
     "dc": {
       "doneIds": [
