@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T00:53:00+00:00",
+  "updatedAt": "2026-11-01T00:54:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -714084,6 +714084,25 @@
       "firstSeenAt": "2026-11-01T00:53:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 95953,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9A%94%EC%A6%98%EC%9D%80-%EB%82%A8%EC%9E%90%EB%8F%84-%EC%9E%98%EC%83%9D%EA%B8%B0%EB%A9%B4-%EA%B3%A0%EC%8B%9C-3%EA%B4%80%EC%99%95%EC%9D%B8%EB%93%AF-1xhwnge5",
+      "title": "요즘은 남자도 잘생기면 고시 3관왕인듯",
+      "excerpt": "그 동안 나솔 나온 전문직이나 금수저들도 키작거나 못생기면 관심조차 못받던데 이번 기수 영철, 영호 인기 보니까 요즘은 남자도 잘생긴게 고시 3관왕이라는 생각이드네 여자들도 잘 벌고 직업 괜찮고하니 남자 외모를 오히려 많이 보는거 같다",
+      "author": "!*********",
+      "company": "LG화학",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%94%EC%A6%98%EC%9D%80-%EB%82%A8%EC%9E%90%EB%8F%84-%EC%9E%98%EC%83%9D%EA%B8%B0%EB%A9%B4-%EA%B3%A0%EC%8B%9C-3%EA%B4%80%EC%99%95%EC%9D%B8%EB%93%AF-1xhwnge5",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T09:53:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T00:54:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -714242,7 +714261,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T09:50:43+09:00"
+      "slowAt": "2026-11-01T09:53:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -722886,7 +722905,8 @@
         "6642693",
         "6642702",
         "6642718",
-        "6642727"
+        "6642727",
+        "6642732"
       ]
     },
     "blind": {
