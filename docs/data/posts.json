@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T14:33:12+00:00",
+  "updatedAt": "2026-11-01T14:34:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -725783,6 +725783,46 @@
       "firstSeenAt": "2026-11-01T14:33:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96544,
+      "source": "dc",
+      "externalId": "cmt-10988233",
+      "title": "볼매야 - dc App",
+      "excerpt": "옥순도 매력 있지않냐?",
+      "author": "어리굴저리굴",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643536&page=3#cmt_10988233",
+      "postedLabel": "11.01 23:18:26",
+      "postedAt": "2026-11-01T23:18:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T14:34:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96545,
+      "source": "blind",
+      "externalId": "cmt-459332504",
+      "title": "감자상",
+      "excerpt": "난먼가 34기상철 얼굴 내취향임",
+      "author": "l*********",
+      "company": "국세청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C%EB%A8%BC%EA%B0%80-34%EA%B8%B0%EC%83%81%EC%B2%A0-%EC%96%BC%EA%B5%B4-%EB%82%B4%EC%B7%A8%ED%96%A5%EC%9E%84-5fzobby8#459332504",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T23:33:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T14:34:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -725943,7 +725983,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T23:30:54+09:00"
+      "slowAt": "2026-11-01T23:33:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -734812,6 +734852,7 @@
         "6643517",
         "6643523",
         "6643530",
+        "6643536",
         "6643556",
         "6643562",
         "6643565",
@@ -734820,6 +734861,7 @@
         "6643579",
         "6643582",
         "6643588",
+        "6643599",
         "6643621",
         "6643624",
         "6643633",
