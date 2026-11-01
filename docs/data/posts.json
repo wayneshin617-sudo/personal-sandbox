@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T05:56:51+00:00",
+  "updatedAt": "2026-11-01T05:58:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -718911,6 +718911,25 @@
       "firstSeenAt": "2026-11-01T05:56:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96197,
+      "source": "dc",
+      "externalId": "6643053",
+      "title": "이게 연프가 맞는거냐",
+      "excerpt": "",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643053&page=1",
+      "postedLabel": "14:57",
+      "postedAt": "2026-11-01T14:57:45+09:00",
+      "views": 15,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T05:58:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -719011,7 +719030,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T14:55:33+09:00"
+      "slowAt": "2026-11-01T14:58:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -727805,7 +727824,8 @@
         "6643026",
         "6643033",
         "6643034",
-        "6643043"
+        "6643043",
+        "6643052"
       ]
     },
     "blind": {
