@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T03:23:00+00:00",
+  "updatedAt": "2026-11-01T03:23:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -716305,6 +716305,85 @@
       "firstSeenAt": "2026-11-01T03:23:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96065,
+      "source": "qoo",
+      "externalId": "cmt-4392385588",
+      "title": "@2 아아 역시 ㅋㅋㅋㅋㅋ",
+      "excerpt": "이거 실화야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4392206283#4392385588",
+      "postedLabel": "",
+      "postedAt": "2026-11-01T11:23:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T03:23:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96066,
+      "source": "blind",
+      "externalId": "cmt-459245253",
+      "title": "1인분 안해두됭 한예슬 남편봐",
+      "excerpt": "요즘은 남자도 잘생기면 고시 3관왕인듯",
+      "author": "냥*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%94%EC%A6%98%EC%9D%80-%EB%82%A8%EC%9E%90%EB%8F%84-%EC%9E%98%EC%83%9D%EA%B8%B0%EB%A9%B4-%EA%B3%A0%EC%8B%9C-3%EA%B4%80%EC%99%95%EC%9D%B8%EB%93%AF-1xhwnge5#459245253",
+      "postedLabel": "15분",
+      "postedAt": "2026-11-01T12:08:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T03:23:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96067,
+      "source": "blind",
+      "externalId": "cmt-459245426",
+      "title": "돈도 돈인데 못생남 애낳기가 싫어서 돈많남이랑 결혼은 못할거같아서 헤어졌어…",
+      "excerpt": "요즘은 남자도 잘생기면 고시 3관왕인듯",
+      "author": "냥*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%94%EC%A6%98%EC%9D%80-%EB%82%A8%EC%9E%90%EB%8F%84-%EC%9E%98%EC%83%9D%EA%B8%B0%EB%A9%B4-%EA%B3%A0%EC%8B%9C-3%EA%B4%80%EC%99%95%EC%9D%B8%EB%93%AF-1xhwnge5#459245426",
+      "postedLabel": "14분",
+      "postedAt": "2026-11-01T12:09:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T03:23:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96068,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EC%83%9D%EA%B0%81%EC%9D%B8%EB%8D%B0-%ED%98%84%EC%88%99-%EB%A9%80%EB%AF%B8%EB%8A%94-%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EB%B6%80%EC%9E%91%EC%9A%A9%EC%9D%BC%EC%88%98%EB%8F%84-rj3s8qxi",
+      "title": "내생각인데 현숙 멀미는 마운자로 부작용일수도",
+      "excerpt": "친구들 보면 마른 애들도 마운자로로 관리하는데 현숙은 심지어 일라이릴리자너",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EC%83%9D%EA%B0%81%EC%9D%B8%EB%8D%B0-%ED%98%84%EC%88%99-%EB%A9%80%EB%AF%B8%EB%8A%94-%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EB%B6%80%EC%9E%91%EC%9A%A9%EC%9D%BC%EC%88%98%EB%8F%84-rj3s8qxi",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T12:23:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T03:23:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -716463,7 +716542,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T12:20:43+09:00"
+      "slowAt": "2026-11-01T12:23:43+09:00"
     },
     "dc": {
       "doneIds": [
