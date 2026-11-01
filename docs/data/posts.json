@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T06:00:51+00:00",
+  "updatedAt": "2026-11-01T06:03:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -718969,6 +718969,26 @@
       "firstSeenAt": "2026-11-01T06:00:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96200,
+      "source": "dc",
+      "externalId": "cmt-10987536",
+      "title": "유대균 보다는 낫잖아. 한잔해~",
+      "excerpt": "순자가 인기있다고?",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642992&page=2#cmt_10987536",
+      "postedLabel": "11.01 14:04:59",
+      "postedAt": "2026-11-01T14:04:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T06:03:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -727853,6 +727873,7 @@
         "6642985",
         "6642988",
         "6642990",
+        "6642992",
         "6642993",
         "6642994",
         "6643001",
