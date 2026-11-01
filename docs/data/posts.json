@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T06:28:51+00:00",
+  "updatedAt": "2026-11-01T06:29:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -719547,6 +719547,26 @@
       "firstSeenAt": "2026-11-01T06:28:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96229,
+      "source": "dc",
+      "externalId": "cmt-10987611",
+      "title": "합 합",
+      "excerpt": "경수의 1차 위기",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643019&page=2#cmt_10987611",
+      "postedLabel": "11.01 14:59:15",
+      "postedAt": "2026-11-01T14:59:15+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T06:29:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -719705,7 +719725,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T15:26:33+09:00"
+      "slowAt": "2026-11-01T15:29:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -728446,6 +728466,7 @@
         "6643013",
         "6643016",
         "6643018",
+        "6643019",
         "6643023",
         "6643026",
         "6643033",
