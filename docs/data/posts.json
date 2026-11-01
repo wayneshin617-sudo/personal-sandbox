@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T16:29:12+00:00",
+  "updatedAt": "2026-11-01T16:30:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -727495,6 +727495,26 @@
       "firstSeenAt": "2026-11-01T16:29:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96630,
+      "source": "blind",
+      "externalId": "cmt-459345738",
+      "title": "찐두부",
+      "excerpt": "투표글 20영식 vs 34영호 투표",
+      "author": "g******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/20%EC%98%81%EC%8B%9D-vs-34%EC%98%81%ED%98%B8-yk038wna#459345738",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T01:29:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T16:30:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -727597,7 +727617,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-02T01:26:55+09:00"
+      "slowAt": "2026-11-02T01:29:54+09:00"
     },
     "ig": {
       "doneIds": [
@@ -736592,6 +736612,7 @@
         "6643756",
         "6643757",
         "6643760",
+        "6643763",
         "6643764",
         "6643771",
         "6643773",
@@ -736600,7 +736621,8 @@
         "6643782",
         "6643796",
         "6643797",
-        "6643806"
+        "6643806",
+        "6643808"
       ]
     },
     "blind": {
