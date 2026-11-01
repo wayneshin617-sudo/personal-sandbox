@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T06:51:19+00:00",
+  "updatedAt": "2026-11-01T06:53:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -720045,6 +720045,44 @@
       "firstSeenAt": "2026-11-01T06:51:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96254,
+      "source": "qoo",
+      "externalId": "4392625517",
+      "title": "현숙 영호랑 데이트 나가서 차에서 멀미 안하는거 보고싶다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4392625517",
+      "postedLabel": "15:52",
+      "postedAt": "2026-11-01T15:52:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T06:53:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96255,
+      "source": "blind",
+      "externalId": "/kr/post/25%ED%95%98%EB%8B%89%EC%83%81%EC%B2%A0%EC%9D%B4-wyt447q6",
+      "title": "25하닉상철이",
+      "excerpt": "범죄자 닮아서 라방 때 그 사람 포즈 취했던 것처럼 34영자가 라방 때 김영철 흉내내면 화제성 폭발일 듯 ㅋㅋ 당당당당당다라라당~~🎵",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/25%ED%95%98%EB%8B%89%EC%83%81%EC%B2%A0%EC%9D%B4-wyt447q6",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-01T15:52:47+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-01T06:53:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -720145,7 +720183,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T15:49:49+09:00"
+      "slowAt": "2026-11-01T15:52:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -728960,7 +728998,8 @@
         "6643096",
         "6643102",
         "6643124",
-        "6643127"
+        "6643127",
+        "6643140"
       ]
     },
     "blind": {
@@ -738428,7 +738467,8 @@
         "4392468269",
         "4392517873",
         "4392520752",
-        "4392530359"
+        "4392530359",
+        "4392625517"
       ]
     },
     "keep": "v2",
