@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T05:01:50+00:00",
+  "updatedAt": "2026-11-01T05:04:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -717866,6 +717866,26 @@
       "firstSeenAt": "2026-11-01T05:01:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96144,
+      "source": "dc",
+      "externalId": "cmt-10987535",
+      "title": "퐁맙소... 퐁맙소..",
+      "excerpt": "퐁맙소라고 조롱당해도 영호가 진정성 있었지",
+      "author": "꼬순견",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6642993&page=1#cmt_10987535",
+      "postedLabel": "11.01 14:04:30",
+      "postedAt": "2026-11-01T14:04:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T05:04:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -717966,7 +717986,7 @@
         "DeOmNhbmP0l",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-01T14:01:32+09:00"
+      "slowAt": "2026-11-01T14:04:32+09:00"
     },
     "ig": {
       "doneIds": [
@@ -726742,7 +726762,8 @@
         "6642976",
         "6642981",
         "6642983",
-        "6642985"
+        "6642985",
+        "6642993"
       ]
     },
     "blind": {
