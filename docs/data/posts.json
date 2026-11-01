@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-01T09:32:05+00:00",
+  "updatedAt": "2026-11-01T09:33:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -723117,6 +723117,26 @@
       "firstSeenAt": "2026-11-01T09:32:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96409,
+      "source": "qoo",
+      "externalId": "cmt-4392751107",
+      "title": "직접 운전",
+      "excerpt": "현숙처럼 멀미 심한 사람은 차 어케타고 다녀??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4392112515#4392751107",
+      "postedLabel": "",
+      "postedAt": "2026-11-01T17:32:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-01T09:33:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -723276,7 +723296,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-01T18:29:48+09:00"
+      "slowAt": "2026-11-01T18:32:48+09:00"
     },
     "dc": {
       "doneIds": [
@@ -732117,7 +732137,8 @@
         "6643348",
         "6643350",
         "6643353",
-        "6643356"
+        "6643356",
+        "6643363"
       ]
     },
     "blind": {
