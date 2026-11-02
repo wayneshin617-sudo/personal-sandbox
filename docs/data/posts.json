@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T10:51:26+00:00",
+  "updatedAt": "2026-11-02T10:53:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -738551,6 +738551,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-11-02T10:51:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97188,
+      "source": "blind",
+      "externalId": "cmt-459432056",
+      "title": "바지속에 상의 집어넣는거 좋아하네...",
+      "excerpt": "회계사가 예쁘기까지하네",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EA%B0%80-%EC%98%88%EC%81%98%EA%B8%B0%EA%B9%8C%EC%A7%80%ED%95%98%EB%84%A4-goncr0yb#459432056",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T19:53:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T10:53:25+00:00",
       "isSeed": false,
       "kind": "reply"
     }
