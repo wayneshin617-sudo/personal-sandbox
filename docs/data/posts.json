@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T00:08:56+00:00",
+  "updatedAt": "2026-11-02T00:09:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -729102,6 +729102,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-02T00:08:56+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96711,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EA%B1%8D-%EC%95%88%EA%B8%81%EC%9D%80-%EB%B3%B5%EA%B6%8C%EC%9E%84-m3f0xr37",
+      "title": "정숙은 걍 안긁은 복권임",
+      "excerpt": "눈도 가로로 크고 길고 코도 예쁘고 걍 얼굴살만 빠지면 얼굴도 개작아질 상임 머리도 매직좀하고 걍 이악물고 본인 내면의 락 컨셉을 죽이고 한번 청순컨셉 노려보면 개쩔거같은데",
+      "author": "i*********",
+      "company": "한국전자기술연구원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EA%B1%8D-%EC%95%88%EA%B8%81%EC%9D%80-%EB%B3%B5%EA%B6%8C%EC%9E%84-m3f0xr37",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T09:09:41+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-02T00:09:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96712,
+      "source": "blind",
+      "externalId": "cmt-459364446",
+      "title": "자꾸 쑥이누나생각나요 미안해정숙 ㅠ",
+      "excerpt": "정숙은 걍 안긁은 복권임",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EA%B1%8D-%EC%95%88%EA%B8%81%EC%9D%80-%EB%B3%B5%EA%B6%8C%EC%9E%84-m3f0xr37#459364446",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T09:09:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T00:09:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -738256,8 +738295,10 @@
         "6643939",
         "6643940",
         "6643941",
+        "6643945",
         "6643952",
-        "6643954"
+        "6643954",
+        "6643962"
       ]
     },
     "blind": {
@@ -742648,6 +742689,7 @@
         "/kr/post/%EC%A0%95%EC%88%99%EC%95%84-%EC%A0%95%EC%8B%A0%EC%B0%A8%EB%A0%A4-rxmylgd1",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%E3%85%88%E3%84%B4%EC%95%88%ED%83%80%EA%B9%9D%EB%84%A4-i5rjkdeb",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EA%B0%9D%EA%B4%80%ED%99%94%EA%B0%80-%EC%95%84%EC%97%90-%EC%95%88%EB%90%98%EC%96%B4%EC%9E%88%EB%84%A4-az88bl0l",
+        "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EA%B1%8D-%EC%95%88%EA%B8%81%EC%9D%80-%EB%B3%B5%EA%B6%8C%EC%9E%84-m3f0xr37",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EB%84%88%EB%AC%B4-%EA%BE%B8%EB%B0%80%EC%A4%84-%EB%AA%A8%EB%A5%B8%EB%8B%A4%E3%85%9C%E3%85%A0%E3%85%A0%E3%85%A0-vlb15c7y",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EB%8C%80%EC%B2%B4-%EB%AD%94-%EC%83%9D%EA%B0%81%EC%9C%BC%EB%A1%9C-%EC%A0%80%EB%A8%B8%EB%A6%B4-%ED%95%98%EA%B3%A0%EA%B0%84%EA%B1%B8%EA%B9%8C-5t3c7q4i",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EB%A3%A8%EC%A3%BC%EB%9D%BC-%EB%8B%AE%EC%9D%8C-7l5tyix6",
