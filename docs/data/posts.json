@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T05:29:29+00:00",
+  "updatedAt": "2026-11-02T05:30:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -734145,6 +734145,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-02T05:29:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96965,
+      "source": "qoo",
+      "externalId": "cmt-4393511575",
+      "title": "안타깝긴하지만 나솔의 재미가 짧은 시간 안에 누가 누구랑 이어지나 왜 갑자기 노선을 트는 건가 등등.. 감정선이 중요해서 무조건 짤랐어야 하는진 모르겠음",
+      "excerpt": "제작진도 너무 도파민만 추구하는거 아닌가",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4393328503#4393511575",
+      "postedLabel": "",
+      "postedAt": "2026-11-02T13:30:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T05:30:29+00:00",
       "isSeed": false,
       "kind": "reply"
     }
