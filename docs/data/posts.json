@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T00:50:22+00:00",
+  "updatedAt": "2026-11-02T00:52:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -729401,6 +729401,45 @@
       "firstSeenAt": "2026-11-02T00:50:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96726,
+      "source": "qoo",
+      "externalId": "4393328503",
+      "title": "제작진도 너무 도파민만 추구하는거 아닌가",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4393328503",
+      "postedLabel": "09:51",
+      "postedAt": "2026-11-02T09:51:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T00:52:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96727,
+      "source": "blind",
+      "externalId": "cmt-459367938",
+      "title": "복권이 아닌데",
+      "excerpt": "정숙은 걍 안긁은 복권임",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EA%B1%8D-%EC%95%88%EA%B8%81%EC%9D%80-%EB%B3%B5%EA%B6%8C%EC%9E%84-m3f0xr37#459367938",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T09:52:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T00:52:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -748094,7 +748133,8 @@
         "4392789626",
         "4392790941",
         "4392864089",
-        "4393300210"
+        "4393300210",
+        "4393328503"
       ]
     },
     "keep": "v2",
