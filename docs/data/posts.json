@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T09:42:27+00:00",
+  "updatedAt": "2026-11-02T09:44:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -737392,6 +737392,84 @@
       "firstSeenAt": "2026-11-02T09:42:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97129,
+      "source": "dc",
+      "externalId": "6644588",
+      "title": "나솔 출연자들이 주제파악을 못하나본데 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6644588&page=1",
+      "postedLabel": "18:44",
+      "postedAt": "2026-11-02T18:44:12+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:44:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 97130,
+      "source": "blind",
+      "externalId": "cmt-459423386",
+      "title": "오…..",
+      "excerpt": "남녀 불문 개 고양이 키우는 애들은 피해라",
+      "author": "I*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EB%85%80-%EB%B6%88%EB%AC%B8-%EA%B0%9C-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EB%8A%94-%EC%95%A0%EB%93%A4%EC%9D%80-%ED%94%BC%ED%95%B4%EB%9D%BC-14y05ik1#459423386",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T18:44:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:44:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97131,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%A8%EB%85%80-%EB%B6%88%EB%AC%B8-%EA%B0%9C-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EB%8A%94-%EC%95%A0%EB%93%A4%EC%9D%80-%ED%94%BC%ED%95%B4%EB%9D%BC-14y05ik1",
+      "title": "남녀 불문 개 고양이 키우는 애들은 피해라",
+      "excerpt": "정상인 찾기 힘듬 이혼숙려캠프 봐도 그와중에 개들은 다 키우더라 혹시 두마리 이상이라면 문신만큼 과학임",
+      "author": "i*********",
+      "company": "미래에셋증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EB%85%80-%EB%B6%88%EB%AC%B8-%EA%B0%9C-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EB%8A%94-%EC%95%A0%EB%93%A4%EC%9D%80-%ED%94%BC%ED%95%B4%EB%9D%BC-14y05ik1",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T18:44:23+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 2,
+      "firstSeenAt": "2026-11-02T09:44:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 97132,
+      "source": "blind",
+      "externalId": "cmt-459423400",
+      "title": "이거저거 거르다가 아무도 못만남.. ㅜ",
+      "excerpt": "남녀 불문 개 고양이 키우는 애들은 피해라",
+      "author": "|*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EB%85%80-%EB%B6%88%EB%AC%B8-%EA%B0%9C-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EB%8A%94-%EC%95%A0%EB%93%A4%EC%9D%80-%ED%94%BC%ED%95%B4%EB%9D%BC-14y05ik1#459423400",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T18:44:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:44:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -737557,7 +737635,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T18:40:58+09:00"
+      "slowAt": "2026-11-02T18:44:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -746733,7 +746811,8 @@
         "6644560",
         "6644571",
         "6644574",
-        "6644578"
+        "6644578",
+        "6644585"
       ]
     },
     "blind": {
@@ -747496,6 +747575,7 @@
         "/kr/post/%EB%82%A8%EB%85%80%EC%82%AC%EC%9D%B4%EC%97%90-%EC%B9%9C%EA%B5%AC%EA%B0%80%EC%96%B4%EB%94%A8%EC%96%B4-l5ph882p",
         "/kr/post/%EB%82%A8%EB%85%80%EC%82%AC%EC%9D%B4-%EC%B9%9C%EA%B5%AC-%EC%9E%88%EB%8B%A4-%EC%97%86%EB%8B%A4-nnkoqb80",
         "/kr/post/%EB%82%A8%EB%85%80-%EB%8D%94%EC%B9%98%ED%8E%98%EC%9D%B4%EC%8A%A4%EA%B0%80-%EC%95%88%EB%90%98%EB%84%A4-c1so5rpt",
+        "/kr/post/%EB%82%A8%EB%85%80-%EB%B6%88%EB%AC%B8-%EA%B0%9C-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EB%8A%94-%EC%95%A0%EB%93%A4%EC%9D%80-%ED%94%BC%ED%95%B4%EB%9D%BC-14y05ik1",
         "/kr/post/%EB%82%A8%EB%93%A4-%EB%8B%A4-%EC%88%A0%EB%A8%B9%EB%8A%94%EB%8D%B0-%EC%84%A4%EA%B1%B0%EC%A7%80%ED%95%98%EB%A9%B4-8vvcnk8p",
         "/kr/post/%EB%82%A8%EC%82%AC%EC%B9%9C%EC%88%9C%EC%9E%90-%EB%82%A8%EC%82%AC%EC%B9%9C%EC%9D%B4%EB%9E%91-%EA%B2%B0%ED%98%BC%ED%95%9C%EA%B2%8C-%EB%84%88%EB%AC%B4-%EC%9B%83%EA%B8%B0%EB%8B%A4-bizfkiho",
         "/kr/post/%EB%82%A8%EC%82%AC%EC%B9%9C%EC%88%9C%EC%9E%90-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EB%82%A8%EC%82%AC%EC%B9%9C%EC%97%86%EC%9D%8C%EC%9D%84-%EC%A6%9D%EB%AA%85%ED%96%88%EB%84%A4-epbqh8in",
