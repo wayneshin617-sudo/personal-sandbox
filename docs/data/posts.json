@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T00:06:00+00:00",
+  "updatedAt": "2026-11-02T00:08:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -729063,6 +729063,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-02T00:06:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96709,
+      "source": "dc",
+      "externalId": "cmt-10988547",
+      "title": "배칠수의 39000 꽃배달!",
+      "excerpt": "34기 배칠수씨 그만 나대....",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643941&page=1#cmt_10988547",
+      "postedLabel": "11.02 08:49:32",
+      "postedAt": "2026-11-02T08:49:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T00:08:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96710,
+      "source": "qoo",
+      "externalId": "4393300210",
+      "title": "옥수동 귀여워서 가져옴ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4393300210",
+      "postedLabel": "09:08",
+      "postedAt": "2026-11-02T09:08:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T00:08:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -729225,7 +729264,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-02T09:05:42+09:00"
+      "slowAt": "2026-11-02T09:08:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -738216,6 +738255,7 @@
         "6643936",
         "6643939",
         "6643940",
+        "6643941",
         "6643952",
         "6643954"
       ]
@@ -747747,7 +747787,8 @@
         "4392772861",
         "4392789626",
         "4392790941",
-        "4392864089"
+        "4392864089",
+        "4393300210"
       ]
     },
     "keep": "v2",
