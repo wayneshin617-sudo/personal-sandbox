@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T09:16:08+00:00",
+  "updatedAt": "2026-11-02T09:17:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -736817,6 +736817,46 @@
       "firstSeenAt": "2026-11-02T09:16:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97100,
+      "source": "blind",
+      "externalId": "cmt-459420213",
+      "title": "ㅋㅋㅋ해외대 나와서 잘 모름",
+      "excerpt": "현숙 학벌 좋아?",
+      "author": "팩트핑",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%ED%95%99%EB%B2%8C-%EC%A2%8B%EC%95%84-hbbnem77#459420213",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T18:17:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:17:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97101,
+      "source": "blind",
+      "externalId": "cmt-459420150",
+      "title": "조려대를 모름? 고대 조치원이 조려대인데",
+      "excerpt": "현숙 학벌 좋아?",
+      "author": "마******** 작성자",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%ED%95%99%EB%B2%8C-%EC%A2%8B%EC%95%84-hbbnem77#459420150",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T18:17:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:17:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -736982,7 +737022,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T18:13:40+09:00"
+      "slowAt": "2026-11-02T18:17:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -746136,7 +746176,8 @@
         "6644519",
         "6644523",
         "6644535",
-        "6644536"
+        "6644536",
+        "6644540"
       ]
     },
     "blind": {
