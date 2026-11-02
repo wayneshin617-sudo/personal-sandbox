@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T02:48:18+00:00",
+  "updatedAt": "2026-11-02T02:51:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -730732,6 +730732,65 @@
       "firstSeenAt": "2026-11-02T02:48:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96793,
+      "source": "dc",
+      "externalId": "cmt-10988714",
+      "title": "근데왜 여출들은 싫어하냐 ㅋㅋㅋ",
+      "excerpt": "한녀들도 34영철 좋아했음 한남들은 그걸 모르는듯",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6644077&page=1#cmt_10988714",
+      "postedLabel": "11.02 11:50:37",
+      "postedAt": "2026-11-02T11:50:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T02:51:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96794,
+      "source": "blind",
+      "externalId": "cmt-459379074",
+      "title": "중경외시 와 건동홍 이 급이 달라? 도찐개찐 아냐?",
+      "excerpt": "이화여대는 중경외시급이냐 건동홍급이냐?",
+      "author": "v***",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%ED%99%94%EC%97%AC%EB%8C%80%EB%8A%94-%EC%A4%91%EA%B2%BD%EC%99%B8%EC%8B%9C%EA%B8%89%EC%9D%B4%EB%83%90-%EA%B1%B4%EB%8F%99%ED%99%8D%EA%B8%89%EC%9D%B4%EB%83%90-bdpn5pgf#459379074",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T11:51:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T02:51:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96795,
+      "source": "ig",
+      "externalId": "DfMCvLqH6UF",
+      "title": "트렌드잼 | 나솔 34기 아직 도파민 파티 시작도 안함 #나는솔로 #34기 #나솔 #나솔34기 #나는솔로34기",
+      "excerpt": "374 likes, 45 comments - zzal_news on October 31, 2026: \"나솔 34기 아직 도파민 파티 시작도 안함 #나는솔로 # 34 기 #나솔 #나솔 34 기 #나는솔로 34 기\".",
+      "author": "트렌드잼",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.instagram.com/p/DfMCvLqH6UF/",
+      "postedLabel": "15:02",
+      "postedAt": "2026-11-01T15:02:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T02:51:33+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -730894,7 +730953,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-02T11:48:01+09:00"
+      "slowAt": "2026-11-02T11:51:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -739926,7 +739985,8 @@
         "6644064",
         "6644071",
         "6644074",
-        "6644075"
+        "6644075",
+        "6644077"
       ]
     },
     "blind": {
