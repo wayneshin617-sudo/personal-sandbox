@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T03:20:19+00:00",
+  "updatedAt": "2026-11-02T03:21:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -731761,6 +731761,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-02T03:20:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96845,
+      "source": "blind",
+      "externalId": "cmt-459381791",
+      "title": "채순이도 공부만 잘 한... 그 인풋이면 금융가에 있어야 되는데",
+      "excerpt": "근데 34영숙은 걍 키큰 채순이 아님?",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%98%81%EC%88%99%EC%9D%80-%EA%B1%8D-%ED%82%A4%ED%81%B0-%EC%B1%84%EC%88%9C%EC%9D%B4-%EC%95%84%EB%8B%98-mp38cmtj#459381791",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T12:21:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T03:21:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96846,
+      "source": "blind",
+      "externalId": "cmt-459381717",
+      "title": "채순이보다 능지 떨어짐",
+      "excerpt": "근데 34영숙은 걍 키큰 채순이 아님?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%98%81%EC%88%99%EC%9D%80-%EA%B1%8D-%ED%82%A4%ED%81%B0-%EC%B1%84%EC%88%9C%EC%9D%B4-%EC%95%84%EB%8B%98-mp38cmtj#459381717",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T12:21:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T03:21:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -731924,7 +731964,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T12:18:01+09:00"
+      "slowAt": "2026-11-02T12:21:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -740965,7 +741005,8 @@
         "6644081",
         "6644091",
         "6644094",
-        "6644104"
+        "6644104",
+        "6644107"
       ]
     },
     "blind": {
@@ -741378,6 +741419,7 @@
         "/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0-%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-wiqhrvy3",
         "/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0-%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%A7%8E%EC%9D%B4-%EB%B2%84%EB%82%98-hlnkv18m",
         "/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%83%81%ED%84%B8%EB%8B%98-%EC%86%94%EA%B9%8C-%EB%8F%99%EC%95%88%EC%9D%B8%EA%B0%80%EC%9A%94-rck5ctjf",
+        "/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%98%81%EC%88%99%EC%9D%80-%EA%B1%8D-%ED%82%A4%ED%81%B0-%EC%B1%84%EC%88%9C%EC%9D%B4-%EC%95%84%EB%8B%98-mp38cmtj",
         "/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%98%81%EC%88%99%EC%9D%B4-%EC%95%84%EB%AC%B4%EB%A6%AC-%EC%A0%80%EB%9E%98%EB%8F%84-t0c6nld0",
         "/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%98%81%EC%9E%90%EB%8B%98-04%EB%85%84%EC%83%9D-%EB%A7%8C%EB%82%98%EC%85%A8%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EA%B1%B0-%EC%99%A0%EC%A7%80-%EA%B5%B0%EB%B0%94%EB%A6%AC-100%EC%9D%BC-%ED%9C%B4%EA%B0%80-%EB%95%8C-%ED%81%B4%EB%9F%BD%EC%97%90%EC%84%9C-%EC%9E%A0%EA%B9%90-%EC%9D%BC%ED%83%88%ED%95%9C-%EA%B1%B0-%EC%95%84%EB%8B%90%EA%B9%8C-%ED%95%98%EB%8A%94-3dkr7atj",
         "/kr/post/%EA%B7%BC%EB%8D%B0-34%EC%98%81%EC%B2%A0-%EC%A7%81%EC%97%85%EC%9C%BC%EB%A1%9C-%EA%B9%8C%EB%8A%94%EA%B1%B4-%EC%A2%80-%EC%96%B5%EC%A7%80-%EC%95%84%EB%8B%8C%EA%B0%80-ayrkvgt7",
