@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T04:04:28+00:00",
+  "updatedAt": "2026-11-02T04:05:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -732456,6 +732456,45 @@
       "firstSeenAt": "2026-11-02T04:04:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96880,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B2%B0%EA%B5%AD-%EB%AA%A8%EB%93%A0%EA%B1%B4-%EB%8B%A4-%EC%9E%90%EA%B8%B0%EC%A4%91%EC%8B%AC%EC%A0%81%EC%9D%B4%EA%B3%A0-%EA%B0%90%EC%A0%95%EC%A0%81%EC%9E%84-ivlsr45d",
+      "title": "결국 모든건 다 자기중심적이고 감정적임",
+      "excerpt": "정숙태도 보면 알 수 있음 영철한텐 본인 상황 아니니까, 그 누구보다도 단호하고 객관적 T적으로 말하는데 영호한텐 본인 상황이니까, 감정적으로 왜 나 없냐고 객관성 잃고 삐짐 정숙뿐만 아니라 많은 사람들이 이러는데 본인 상황 생각 못하고 너무 남에게 단호한게 있지않나 싶다 요즘",
+      "author": "C*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%B0%EA%B5%AD-%EB%AA%A8%EB%93%A0%EA%B1%B4-%EB%8B%A4-%EC%9E%90%EA%B8%B0%EC%A4%91%EC%8B%AC%EC%A0%81%EC%9D%B4%EA%B3%A0-%EA%B0%90%EC%A0%95%EC%A0%81%EC%9E%84-ivlsr45d",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T13:05:11+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-02T04:05:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96881,
+      "source": "blind",
+      "externalId": "cmt-459386206",
+      "title": "김치 된장녀 오랜만이네. 아니 상향혼의 ㅅ까지 가지도 않았음 스벅커피가 된장녀였음 국밥충들이~국밥이 몇그릇이냐~",
+      "excerpt": "영철이가 잘못한게 뭐있냐",
+      "author": "이********",
+      "company": "유선엔지니어링건축사사무소",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EC%9E%98%EB%AA%BB%ED%95%9C%EA%B2%8C-%EB%AD%90%EC%9E%88%EB%83%90-y81bkeuc#459386206",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T13:05:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T04:05:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -732621,7 +732660,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T13:02:11+09:00"
+      "slowAt": "2026-11-02T13:05:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -741673,7 +741712,8 @@
         "6644120",
         "6644136",
         "6644140",
-        "6644144"
+        "6644144",
+        "6644146"
       ]
     },
     "blind": {
