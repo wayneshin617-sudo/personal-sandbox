@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T06:08:29+00:00",
+  "updatedAt": "2026-11-02T06:11:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -734700,6 +734700,46 @@
       "firstSeenAt": "2026-11-02T06:08:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96993,
+      "source": "dc",
+      "externalId": "cmt-10988935",
+      "title": "진짜현커아니면 스토커나다름없음",
+      "excerpt": "옥팔계는 관심종자라 사귀는척 하는거",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6644265&page=1#cmt_10988935",
+      "postedLabel": "11.02 15:10:36",
+      "postedAt": "2026-11-02T15:10:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T06:11:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96994,
+      "source": "blind",
+      "externalId": "cmt-459399132",
+      "title": "똑똑스멜",
+      "excerpt": "여자들은 자기객관화 할수가없음",
+      "author": "치*****",
+      "company": "하이프라자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9E%90%EA%B8%B0%EA%B0%9D%EA%B4%80%ED%99%94-%ED%95%A0%EC%88%98%EA%B0%80%EC%97%86%EC%9D%8C-jjpe7edj#459399132",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T15:11:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T06:11:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -734865,7 +734905,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T15:08:12+09:00"
+      "slowAt": "2026-11-02T15:11:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -743964,7 +744004,8 @@
         "6644251",
         "6644256",
         "6644257",
-        "6644262"
+        "6644262",
+        "6644265"
       ]
     },
     "blind": {
@@ -746324,6 +746365,7 @@
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EB%82%A8%EB%93%A4-%ED%95%98%EB%8A%94-%EA%B1%B0-%EB%8B%A4-%ED%95%B4%EC%95%BC%EB%8F%BC-ocvnxpci",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%99%9C-%EC%8B%9C%EB%8C%81-%EC%96%B4%EC%A9%8C%EA%B3%A0-%EC%8B%9C%EB%88%84%EC%9D%B4-%EC%96%B4%EC%A9%8C%EA%B3%A0%EC%97%90-%EB%B0%9C%EC%9E%91%ED%95%A8-df6236bv",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%9F%B0%EA%B1%B0%EB%B3%B4%EB%A9%B4-%EB%82%A8%EC%9E%90%EB%B3%B4%EB%8B%A4-%EA%B0%84%EC%9D%B4%ED%81%B0%EB%93%AF-4tfh7ixf",
+        "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%9E%90%EA%B8%B0%EA%B0%9D%EA%B4%80%ED%99%94-%ED%95%A0%EC%88%98%EA%B0%80%EC%97%86%EC%9D%8C-jjpe7edj",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%98-%EB%AC%B4%EC%84%9C%EC%9B%80-lfr4tkp0",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EB%82%98%EC%86%94%EC%97%90%EC%84%9C-%EC%A7%81%EC%97%85-%EB%B3%B8%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%A9%B4-nip00qvz",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EB%B4%A4%EC%9D%84%EB%95%8C-%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4-%EC%96%B4%EB%95%8C-iu5gmuua",
