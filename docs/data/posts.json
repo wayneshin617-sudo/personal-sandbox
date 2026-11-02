@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T04:37:27+00:00",
+  "updatedAt": "2026-11-02T04:38:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -733129,6 +733129,26 @@
       "firstSeenAt": "2026-11-02T04:37:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96914,
+      "source": "dc",
+      "externalId": "cmt-10988764",
+      "title": "믹키유천상",
+      "excerpt": "잘생김 34영철>>>>34영호인 이유",
+      "author": "숏레버",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6644124&page=1#cmt_10988764",
+      "postedLabel": "11.02 12:53:04",
+      "postedAt": "2026-11-02T12:53:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T04:38:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -733294,7 +733314,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T13:35:12+09:00"
+      "slowAt": "2026-11-02T13:38:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -742347,6 +742367,7 @@
         "6644119",
         "6644120",
         "6644123",
+        "6644124",
         "6644136",
         "6644140",
         "6644144",
