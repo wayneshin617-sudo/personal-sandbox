@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T09:46:52+00:00",
+  "updatedAt": "2026-11-02T09:48:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -737489,6 +737489,65 @@
       "comments": 0,
       "firstSeenAt": "2026-11-02T09:46:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97134,
+      "source": "dc",
+      "externalId": "6644593",
+      "title": "잡아봐 씹년아 ㅋㅋㅋ 까질 원투데이하냐 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6644593&page=1",
+      "postedLabel": "18:46",
+      "postedAt": "2026-11-02T18:46:36+09:00",
+      "views": 19,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:48:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 97135,
+      "source": "blind",
+      "externalId": "cmt-459423701",
+      "title": "너어가 제일 나빠",
+      "excerpt": "회계사가 예쁘기까지하네",
+      "author": "팩트핑",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EA%B0%80-%EC%98%88%EC%81%98%EA%B8%B0%EA%B9%8C%EC%A7%80%ED%95%98%EB%84%A4-goncr0yb#459423701",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-02T18:46:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:48:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97136,
+      "source": "blind",
+      "externalId": "cmt-459423791",
+      "title": "정숙 인기 믾네",
+      "excerpt": "회계사가 예쁘기까지하네",
+      "author": "바***",
+      "company": "골프존",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EA%B0%80-%EC%98%88%EC%81%98%EA%B8%B0%EA%B9%8C%EC%A7%80%ED%95%98%EB%84%A4-goncr0yb#459423791",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T18:47:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:48:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -737654,7 +737713,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T18:44:23+09:00"
+      "slowAt": "2026-11-02T18:47:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -751975,6 +752034,7 @@
         "/kr/post/%ED%99%95%EC%8B%A4%ED%9E%88-10%EB%85%84-%EC%A0%84%EB%B3%B4%EB%8B%A4-%EB%82%A8%EC%9E%90-%EA%B2%B0%ED%98%BC%EC%97%B0%EB%A0%B9%EC%9D%B4-%EB%86%92%EC%95%84%EC%A7%90-low8v2a8",
         "/kr/post/%ED%99%A9%EA%B8%88%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%B9%98%ED%82%A8%EC%9D%B4%EB%82%98-%EB%A8%B9%EC%96%B4-mbfjyga8",
         "/kr/post/%ED%99%A9%EC%9D%B8%EB%B2%94-%EC%A1%B4%EC%9E%98%EB%B2%84%EC%A0%84-y0ibilhm",
+        "/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EA%B0%80-%EC%98%88%EC%81%98%EA%B8%B0%EA%B9%8C%EC%A7%80%ED%95%98%EB%84%A4-goncr0yb",
         "/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EB%8B%98-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%82%98%EC%98%A4%EB%A9%B4-%EC%95%88%EB%90%98%EC%A7%80-2a8oo1hn",
         "/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EB%B6%84-%EB%A7%88%EC%9D%B8%EB%B6%80%EC%9A%B0-2%EB%8B%A8%EA%B3%84-%EB%8B%AE%EC%9D%8C-6yru0g1u",
         "/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98%EB%8A%94-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-m1vvoff7",
