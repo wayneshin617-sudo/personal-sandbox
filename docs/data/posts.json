@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T09:32:15+00:00",
+  "updatedAt": "2026-11-02T09:33:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -737295,6 +737295,25 @@
       "firstSeenAt": "2026-11-02T09:32:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97124,
+      "source": "dc",
+      "externalId": "6644565",
+      "title": "순자랑 옥순이 말할때 특징이 뭔줄 아냐긔?",
+      "excerpt": "",
+      "author": "ㅗㅜㅑ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6644565&page=1",
+      "postedLabel": "18:32",
+      "postedAt": "2026-11-02T18:32:43+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:33:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -737399,7 +737418,7 @@
         "DeYKlsngaV5",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-02T18:29:34+09:00"
+      "slowAt": "2026-11-02T18:32:58+09:00"
     },
     "ig": {
       "doneIds": [
@@ -746595,6 +746614,7 @@
         "6644357",
         "6644361",
         "6644364",
+        "6644368",
         "6644371",
         "6644372",
         "6644374",
