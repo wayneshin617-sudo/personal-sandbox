@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T05:55:30+00:00",
+  "updatedAt": "2026-11-02T05:56:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -734503,6 +734503,45 @@
       "firstSeenAt": "2026-11-02T05:55:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96983,
+      "source": "blind",
+      "externalId": "cmt-459397690",
+      "title": "김영삼 현숙",
+      "excerpt": "나솔에서 나온 여출중에",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%97%90%EC%84%9C-%EB%82%98%EC%98%A8-%EC%97%AC%EC%B6%9C%EC%A4%91%EC%97%90-z1z3w1he#459397690",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T14:56:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T05:56:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96984,
+      "source": "ig",
+      "externalId": "DfOFsRaE8sb",
+      "title": "놀평tv | 역대급 빌런 파티라는 나솔 34기, 내년 1월까지 방송한다고? 현재 방송 중인 '나는 Solo' 34기가 연일 ...",
+      "excerpt": "31 likes, 7 comments - nolweek_tv on November 1, 2026: \" 역대급 빌런 파티라는 나솔 34 기, 내년 1월까지 방송한다고? 현재 방송 중인 '나는 SOLO' 34 기가 연일 화제를 모으고 있습니다. 특히 영철과 영숙을 비롯한 출연자들의 거침없는 발언과 예측하기 어려운 행동들이 이어지면서 시청자들 사이에서는 \"역대급 ...",
+      "author": "놀평tv",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.instagram.com/p/DfOFsRaE8sb/",
+      "postedLabel": "10:07",
+      "postedAt": "2026-11-02T10:07:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T05:56:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -734668,7 +734707,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T14:53:13+09:00"
+      "slowAt": "2026-11-02T14:56:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -743759,7 +743798,8 @@
         "6644232",
         "6644240",
         "6644243",
-        "6644244"
+        "6644244",
+        "6644249"
       ]
     },
     "blind": {
