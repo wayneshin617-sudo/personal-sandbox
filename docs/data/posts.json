@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T06:04:29+00:00",
+  "updatedAt": "2026-11-02T06:05:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -734581,6 +734581,45 @@
       "firstSeenAt": "2026-11-02T06:04:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96987,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4-%EC%B1%84%EB%84%90%EC%9D%80-%E2%80%98%EB%82%98%EB%8A%94-SOLO%E2%80%99-%EC%B1%84%EB%84%90%EC%9D%B4-%EB%A7%9E%EC%8A%B5%EB%8B%88%EB%8B%A4-cv4izi23",
+      "title": "이 채널은 ‘나는 SOLO’ 채널이 맞습니다",
+      "excerpt": "경기도청님, K2님 당신들을 위해 문의 하였읍니다…",
+      "author": "*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4-%EC%B1%84%EB%84%90%EC%9D%80-%E2%80%98%EB%82%98%EB%8A%94-SOLO%E2%80%99-%EC%B1%84%EB%84%90%EC%9D%B4-%EB%A7%9E%EC%8A%B5%EB%8B%88%EB%8B%A4-cv4izi23",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T15:05:13+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-02T06:05:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96988,
+      "source": "blind",
+      "externalId": "cmt-459398519",
+      "title": "??? 감전 당했어?",
+      "excerpt": "영철 딱히 상향혼도 아닌데",
+      "author": "!*********",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%94%B1%ED%9E%88-%EC%83%81%ED%96%A5%ED%98%BC%EB%8F%84-%EC%95%84%EB%8B%8C%EB%8D%B0-3e2gjje1#459398519",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T15:05:13+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T06:05:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -734746,7 +734785,7 @@
         "DfDrZnhn6y5",
         "DfMCvLqH6UF"
       ],
-      "slowAt": "2026-11-02T15:02:13+09:00"
+      "slowAt": "2026-11-02T15:05:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -743832,6 +743871,7 @@
         "6644192",
         "6644193",
         "6644199",
+        "6644206",
         "6644214",
         "6644216",
         "6644222",
@@ -747176,6 +747216,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%8C%80%EB%86%93%EA%B3%A0-v8jp4qml",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%8C%80%EB%8B%A8%ED%95%98%EB%8B%A4-p0uana27",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%B6%80%EB%B6%84-hawcbetv",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EB%94%B1%ED%9E%88-%EC%83%81%ED%96%A5%ED%98%BC%EB%8F%84-%EC%95%84%EB%8B%8C%EB%8D%B0-3e2gjje1",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%94%B1-%EB%B0%A9%EC%86%A1%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EC%95%84%EC%A7%81-%EC%9A%95%ED%95%A0%EC%A0%95%EB%8F%84%EB%8A%94-%EC%95%84%EB%8B%88%EC%A7%80%EC%95%8A%EB%82%98-41vnqly5",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%96%A8%EA%B5%AC%EA%B8%B0-%EC%8B%A4%ED%8C%A8-%E3%85%8B%E3%85%8B-6m8x2l23",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%A1%A4%EB%AA%A8%EB%8D%B8-x68xwv0s",
