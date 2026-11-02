@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T00:11:00+00:00",
+  "updatedAt": "2026-11-02T00:11:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -729161,6 +729161,46 @@
       "firstSeenAt": "2026-11-02T00:11:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 96714,
+      "source": "dc",
+      "externalId": "cmt-10988553",
+      "title": "ㅆ",
+      "excerpt": "결혼해보니 부모반대하는결혼하는거 아니고 비슷한사람끼리해야됨",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6643840&page=2#cmt_10988553",
+      "postedLabel": "11.02 09:02:56",
+      "postedAt": "2026-11-02T09:02:56+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T00:11:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 96715,
+      "source": "blind",
+      "externalId": "cmt-459364612",
+      "title": "인상이...",
+      "excerpt": "정숙은 걍 안긁은 복권임",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%80-%EA%B1%8D-%EC%95%88%EA%B8%81%EC%9D%80-%EB%B3%B5%EA%B6%8C%EC%9E%84-m3f0xr37#459364612",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T09:11:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T00:11:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -729323,7 +729363,7 @@
         "DfCvZUUnUbL",
         "DfDrZnhn6y5"
       ],
-      "slowAt": "2026-11-02T09:08:41+09:00"
+      "slowAt": "2026-11-02T09:11:41+09:00"
     },
     "dc": {
       "doneIds": [
