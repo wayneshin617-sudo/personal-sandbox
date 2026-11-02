@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T03:02:19+00:00",
+  "updatedAt": "2026-11-02T03:04:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -731248,6 +731248,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-02T03:02:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 96819,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EC%97%90-%EC%9D%B4%EC%81%98%EA%B3%A0-%ED%9B%88%ED%9B%88%ED%95%9C-%EC%A0%84%EB%AC%B8%EC%A7%81-%EC%95%88-%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B4-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%ED%8C%A8%EC%B9%98%EC%9D%B8%EB%93%AF-z1cifoen",
+      "title": "나솔에 이쁘고 훈훈한 전문직 안 나오는건 밸런스 패치인듯",
+      "excerpt": "나쏠의 의도가 남피디의 사회실험인데 잘생긴 일반회사원 vs 못생기고 성격있는 전문직 누가더 인기 있을까? 이런식으로 밸런스 대결하는 거라서 이쁘고 훈훈한 전문직들은 커트한다고 본다 이쁘고 잘생긴 의사 변호사 있었나 생각해보면 아마 거의 없지 않아?",
+      "author": "c*****",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%97%90-%EC%9D%B4%EC%81%98%EA%B3%A0-%ED%9B%88%ED%9B%88%ED%95%9C-%EC%A0%84%EB%AC%B8%EC%A7%81-%EC%95%88-%EB%82%98%EC%98%A4%EB%8A%94%EA%B1%B4-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%ED%8C%A8%EC%B9%98%EC%9D%B8%EB%93%AF-z1cifoen",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T12:04:01+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-02T03:04:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 96820,
+      "source": "blind",
+      "externalId": "cmt-459380175",
+      "title": "진짜 세상이 망해서 무조건 둘 중 하나랑 자야하면 닥 영숙이지",
+      "excerpt": "누가더예쁨?",
+      "author": "마********",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%98%88%EC%81%A8-3ptr8ogm#459380175",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T12:04:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T03:04:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
