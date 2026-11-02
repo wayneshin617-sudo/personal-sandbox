@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-02T09:27:39+00:00",
+  "updatedAt": "2026-11-02T09:29:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -737216,6 +737216,46 @@
       "firstSeenAt": "2026-11-02T09:27:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97120,
+      "source": "dc",
+      "externalId": "cmt-10989167",
+      "title": "책읽음",
+      "excerpt": "북클럽 80분 4회 강연을 뭘하는거냐?",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6644559&page=1#cmt_10989167",
+      "postedLabel": "11.02 18:29:00",
+      "postedAt": "2026-11-02T18:29:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:29:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97121,
+      "source": "blind",
+      "externalId": "cmt-459421655",
+      "title": "실제로 있지않음? 충청권이었나",
+      "excerpt": "현숙 학벌 좋아?",
+      "author": "ilj1ljj",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%ED%95%99%EB%B2%8C-%EC%A2%8B%EC%95%84-hbbnem77#459421655",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-02T18:29:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-02T09:29:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -737320,7 +737360,7 @@
         "DeYKlsngaV5",
         "DeiRNuamSJL"
       ],
-      "slowAt": "2026-11-02T18:26:10+09:00"
+      "slowAt": "2026-11-02T18:29:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -746515,6 +746555,7 @@
         "6644343",
         "6644357",
         "6644361",
+        "6644364",
         "6644371",
         "6644372",
         "6644374",
@@ -746537,6 +746578,7 @@
         "6644466",
         "6644469",
         "6644479",
+        "6644483",
         "6644484",
         "6644489",
         "6644493",
@@ -746548,7 +746590,8 @@
         "6644535",
         "6644536",
         "6644540",
-        "6644547"
+        "6644547",
+        "6644559"
       ]
     },
     "blind": {
