@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T01:33:22+00:00",
+  "updatedAt": "2026-11-03T01:34:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -743201,6 +743201,25 @@
       "firstSeenAt": "2026-11-03T01:33:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97426,
+      "source": "qoo",
+      "externalId": "4394318694",
+      "title": "나 타임랩스같은거 찍는거 좋아하긴하는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4394318694",
+      "postedLabel": "10:33",
+      "postedAt": "2026-11-03T10:33:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T01:34:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -762345,7 +762364,8 @@
         "4394273347",
         "4394280881",
         "4394283730",
-        "4394311918"
+        "4394311918",
+        "4394318694"
       ]
     },
     "keep": "v2",
