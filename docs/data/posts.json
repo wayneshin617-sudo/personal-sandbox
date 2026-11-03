@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T23:17:45+00:00",
+  "updatedAt": "2026-11-03T23:18:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -752425,6 +752425,46 @@
       "firstSeenAt": "2026-11-03T23:17:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97894,
+      "source": "qoo",
+      "externalId": "cmt-4395266507",
+      "title": "이건 찐 몰랐을것처럼 보여ㅋ",
+      "excerpt": "조화인지 몰랐다는 것도 거짓말 같음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395261796#4395266507",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T07:17:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:18:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97895,
+      "source": "blind",
+      "externalId": "cmt-459641010",
+      "title": "전설의 사진 손예진이나영 닮은꼴 검색해봐 보인다고 닮았다고 이성적 호감을 느끼진 않아요",
+      "excerpt": "이러면 안되는거 아는데 34기 영수, 영숙...",
+      "author": "G*** 작성자",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%9F%AC%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8A%94%EB%8D%B0-34%EA%B8%B0-%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-rfnp330g#459641010",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T08:18:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:18:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -752597,7 +752637,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T08:15:27+09:00"
+      "slowAt": "2026-11-04T08:18:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -762355,7 +762395,8 @@
         "6647905",
         "6647907",
         "6647909",
-        "6647918"
+        "6647918",
+        "6647919"
       ]
     },
     "blind": {
