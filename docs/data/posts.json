@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T23:16:45+00:00",
+  "updatedAt": "2026-11-03T23:17:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -752365,6 +752365,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T23:16:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97891,
+      "source": "dc",
+      "externalId": "cmt-10992224",
+      "title": "몽골이 ㅈ노잼 - dc App",
+      "excerpt": "지볶행이 전편 리얼 레전드",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647918&page=1#cmt_10992224",
+      "postedLabel": "11.04 08:16:47",
+      "postedAt": "2026-11-04T08:16:47+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:17:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97892,
+      "source": "blind",
+      "externalId": "cmt-459640882",
+      "title": "너도 해태야?",
+      "excerpt": "이러면 안되는거 아는데 34기 영수, 영숙...",
+      "author": "G*** 작성자",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%9F%AC%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8A%94%EB%8D%B0-34%EA%B8%B0-%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-rfnp330g#459640882",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T08:17:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:17:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97893,
+      "source": "blind",
+      "externalId": "cmt-459640915",
+      "title": "보여? 보이냐구? 나만 보이는거 아니지?",
+      "excerpt": "이러면 안되는거 아는데 34기 영수, 영숙...",
+      "author": "G*** 작성자",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%9F%AC%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8A%94%EB%8D%B0-34%EA%B8%B0-%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-rfnp330g#459640915",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T08:17:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:17:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -762294,7 +762354,8 @@
         "6647904",
         "6647905",
         "6647907",
-        "6647909"
+        "6647909",
+        "6647918"
       ]
     },
     "blind": {
