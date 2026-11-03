@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T03:25:26+00:00",
+  "updatedAt": "2026-11-03T03:26:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -744954,6 +744954,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-03T03:25:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97515,
+      "source": "qoo",
+      "externalId": "4394408446",
+      "title": "나 아직 방송 안 봤는데 유튭 제목 남편의 깜짝이벤트 실화냐…",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4394408446",
+      "postedLabel": "12:25",
+      "postedAt": "2026-11-03T12:25:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T03:26:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -745060,7 +745079,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-03T12:23:07+09:00"
+      "slowAt": "2026-11-03T12:26:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -760034,6 +760053,7 @@
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%96%98-%EC%99%9C-%EC%9D%B4%EB%9F%AC%EB%83%90-przt6et3",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%99%B8%EB%AA%A8%EB%A7%8C-32lm3xep",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%9E%85%EB%A7%A4-4er5bnzy",
+        "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%99%B8%EB%AA%A8%EB%8A%94-%EC%96%B4%EB%96%B0-hela2d55",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%A0%95%EB%8F%84%EB%A9%B4-zitdee5k",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%EC%B7%A8%EC%A7%91%ED%95%98%EB%9F%AC-%EC%98%A8%EA%B1%B4%EA%B0%80%EC%9A%94-x6u0xo65",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0-%ED%8C%A8%EA%B1%B0%EB%A6%AC-%ED%97%9B%EC%86%8C%EB%A6%AC-%EB%B0%98%EB%B0%95%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B0%98%EB%B0%95-4eekdc1f",
@@ -764225,7 +764245,8 @@
         "4394402971",
         "4394403590",
         "4394405018",
-        "4394406565"
+        "4394406565",
+        "4394408446"
       ]
     },
     "keep": "v2",
