@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T10:28:29+00:00",
+  "updatedAt": "2026-11-03T10:30:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -749633,6 +749633,45 @@
       "firstSeenAt": "2026-11-03T10:28:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97752,
+      "source": "blind",
+      "externalId": "cmt-459572778",
+      "title": "내가쓴 한국릴리검색ㄱ 1.임원포함해도 한국릴리유한회사는 평균연봉이1억이안됨 2.임직원평균기준7천대 그게어케 좋은기업이냐 빡통아. 이런멍청한색히는 숫자로패야 알아듣지.",
+      "excerpt": "34기 현숙은 18기 현숙 처럼.....",
+      "author": "j*******",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EC%9D%80-18%EA%B8%B0-%ED%98%84%EC%88%99-%EC%B2%98%EB%9F%BC-g1pxtb5w#459572778",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-03T19:29:12+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T10:30:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97753,
+      "source": "dc",
+      "externalId": "6647267",
+      "title": "30살 흙수저 자수성가 15억 내집 마련기 후기",
+      "excerpt": "",
+      "author": "크로롤",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647267&page=1",
+      "postedLabel": "19:30",
+      "postedAt": "2026-11-03T19:30:13+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T10:30:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -749740,7 +749779,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-03T19:27:13+09:00"
+      "slowAt": "2026-11-03T19:30:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -759392,7 +759431,9 @@
         "6647244",
         "6647245",
         "6647248",
-        "6647251"
+        "6647251",
+        "6647260",
+        "6647261"
       ]
     },
     "blind": {
