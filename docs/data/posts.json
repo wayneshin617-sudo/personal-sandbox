@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T23:12:45+00:00",
+  "updatedAt": "2026-11-03T23:16:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -752346,6 +752346,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T23:12:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97890,
+      "source": "dc",
+      "externalId": "6647918",
+      "title": "지볶행이 전편 리얼 레전드",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647918&page=1",
+      "postedLabel": "08:16",
+      "postedAt": "2026-11-04T08:16:02+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:16:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -752453,7 +752472,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-04T08:13:26+09:00"
+      "slowAt": "2026-11-04T08:16:26+09:00"
     },
     "ig": {
       "doneIds": [
