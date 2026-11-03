@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T10:21:29+00:00",
+  "updatedAt": "2026-11-03T10:26:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -749594,6 +749594,25 @@
       "firstSeenAt": "2026-11-03T10:21:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97750,
+      "source": "dc",
+      "externalId": "6647257",
+      "title": "옥수동 커플은 왜 옥수동임?",
+      "excerpt": "",
+      "author": "이이",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647257&page=1",
+      "postedLabel": "19:26",
+      "postedAt": "2026-11-03T19:26:01+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T10:26:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -759352,7 +759371,8 @@
         "6647243",
         "6647244",
         "6647245",
-        "6647248"
+        "6647248",
+        "6647251"
       ]
     },
     "blind": {
