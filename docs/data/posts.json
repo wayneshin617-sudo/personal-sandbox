@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T23:39:43+00:00",
+  "updatedAt": "2026-11-03T23:42:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -752919,6 +752919,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T23:39:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97919,
+      "source": "dc",
+      "externalId": "6647940",
+      "title": "야 여기 요새 너무 독하네..전에 나는 어떤 돈년 그냥 병원가야지 말하고",
+      "excerpt": "",
+      "author": "나는나",
+      "company": "",
+      "ip": "180.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647940&page=1",
+      "postedLabel": "08:42",
+      "postedAt": "2026-11-04T08:42:04+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:42:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -753091,7 +753110,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T08:39:27+09:00"
+      "slowAt": "2026-11-04T08:42:28+09:00"
     },
     "dc": {
       "doneIds": [
