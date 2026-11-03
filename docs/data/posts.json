@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T03:33:25+00:00",
+  "updatedAt": "2026-11-03T03:34:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -745011,6 +745011,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-03T03:33:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97518,
+      "source": "qoo",
+      "externalId": "cmt-4394365205",
+      "title": "미친거야?????",
+      "excerpt": "헉 아직 안 봤는데 뭘 몰래 찍은 거야??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4394166151#4394365205",
+      "postedLabel": "",
+      "postedAt": "2026-11-03T11:33:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T03:34:26+00:00",
       "isSeed": false,
       "kind": "reply"
     }
