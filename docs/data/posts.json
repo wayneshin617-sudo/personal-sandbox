@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T01:29:39+00:00",
+  "updatedAt": "2026-11-03T01:33:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -743161,6 +743161,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T01:29:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97424,
+      "source": "dc",
+      "externalId": "cmt-10990265",
+      "title": "강렬하다 진짜 - dc App",
+      "excerpt": "폭렬이는 짭숙이 못 잊은 것 같다",
+      "author": "HungryGhost",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6645969&page=3#cmt_10990265",
+      "postedLabel": "11.03 09:57:19",
+      "postedAt": "2026-11-03T09:57:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T01:33:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97425,
+      "source": "dc",
+      "externalId": "cmt-10990274",
+      "title": "벌칙 수행중? - dc App",
+      "excerpt": "폭렬이는 짭숙이 못 잊은 것 같다",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6645969&page=3#cmt_10990274",
+      "postedLabel": "11.03 10:01:42",
+      "postedAt": "2026-11-03T10:01:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T01:33:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -743330,7 +743370,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T10:30:06+09:00"
+      "slowAt": "2026-11-03T10:33:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -752614,6 +752654,7 @@
         "6645927",
         "6645957",
         "6645966",
+        "6645969",
         "6646017",
         "6646106",
         "6646111",
