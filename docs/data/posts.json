@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T08:29:29+00:00",
+  "updatedAt": "2026-11-03T08:30:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -747886,6 +747886,26 @@
       "firstSeenAt": "2026-11-03T08:29:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97664,
+      "source": "dc",
+      "externalId": "cmt-10990956",
+      "title": "존잘 꼬시는 법",
+      "excerpt": "순자 강의 예매인증",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6646848&page=3#cmt_10990956",
+      "postedLabel": "11.03 15:49:43",
+      "postedAt": "2026-11-03T15:49:43+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:30:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -747993,7 +748013,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-03T17:27:13+09:00"
+      "slowAt": "2026-11-03T17:30:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -757495,6 +757515,7 @@
         "6646833",
         "6646836",
         "6646845",
+        "6646848",
         "6646916",
         "6646923",
         "6646927",
