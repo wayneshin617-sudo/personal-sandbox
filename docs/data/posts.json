@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T03:52:25+00:00",
+  "updatedAt": "2026-11-03T03:54:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -745506,6 +745506,25 @@
       "firstSeenAt": "2026-11-03T03:52:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97543,
+      "source": "dc",
+      "externalId": "6646484",
+      "title": "내가 늙어서 결혼했는데 와이프 의사고 예쁨.",
+      "excerpt": "",
+      "author": "이이",
+      "company": "",
+      "ip": "175.200",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6646484&page=1",
+      "postedLabel": "12:53",
+      "postedAt": "2026-11-03T12:53:09+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T03:54:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -745676,7 +745695,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T12:51:07+09:00"
+      "slowAt": "2026-11-03T12:54:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -755074,7 +755093,8 @@
         "6646461",
         "6646465",
         "6646474",
-        "6646478"
+        "6646478",
+        "6646485"
       ]
     },
     "blind": {
