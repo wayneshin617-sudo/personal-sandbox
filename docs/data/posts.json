@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T09:00:30+00:00",
+  "updatedAt": "2026-11-03T09:04:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -748582,6 +748582,46 @@
       "firstSeenAt": "2026-11-03T09:00:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97699,
+      "source": "dc",
+      "externalId": "cmt-10990616",
+      "title": "멤버 보소",
+      "excerpt": "나솔 남출 모임 라인업",
+      "author": "dd",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6646507&page=8#cmt_10990616",
+      "postedLabel": "11.03 13:07:44",
+      "postedAt": "2026-11-03T13:07:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T09:04:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97700,
+      "source": "dc",
+      "externalId": "cmt-10991056",
+      "title": "이건 민주화다 ㅈ됐네",
+      "excerpt": "미킴 전라도 음식 재사용 의혹 언급",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647001&page=2#cmt_10991056",
+      "postedLabel": "11.03 17:06:17",
+      "postedAt": "2026-11-03T17:06:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T09:04:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -748752,7 +748792,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T18:01:12+09:00"
+      "slowAt": "2026-11-03T18:04:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -758244,6 +758284,7 @@
         "6646899",
         "6646902",
         "6646908",
+        "6646912",
         "6646916",
         "6646923",
         "6646927",
@@ -758262,6 +758303,7 @@
         "6646971",
         "6646973",
         "6646987",
+        "6647001",
         "6647005",
         "6647015",
         "6647017",
@@ -758287,7 +758329,8 @@
         "6647103",
         "6647108",
         "6647112",
-        "6647113"
+        "6647113",
+        "6647116"
       ]
     },
     "blind": {
