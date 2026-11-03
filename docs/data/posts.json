@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T03:38:25+00:00",
+  "updatedAt": "2026-11-03T03:39:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -745171,6 +745171,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T03:38:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97526,
+      "source": "dc",
+      "externalId": "6646449",
+      "title": "근데 영수는 그냥 정말 추억으로 만들고 싶어서 촬영한거일수도",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6646449&page=1",
+      "postedLabel": "12:38",
+      "postedAt": "2026-11-03T12:38:45+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T03:39:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 97527,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EB%8B%B9%EA%B7%BC-%EC%95%88%EC%B0%8D%EA%B3%A0-%EC%9E%88%EB%8A%94%EC%A4%84-%EC%95%8C%EA%B3%A0-%EC%86%8D%EC%96%98%EA%B8%B0-%ED%95%9C%EA%B1%B0%EA%B2%A0%EC%A7%80-tomgfq0g",
+      "title": "영철 당근 안찍고 있는줄 알고 속얘기 한거겠지..",
+      "excerpt": "현숙 빼고 다른 여자들은 나가면 얼마든지 만날수있다 나는 집안도 별론데 현숙은 집도 잘사는거같다 이런 발언들.... 당근 안찍히는줄 알고 말한거겠지?",
+      "author": "e****",
+      "company": "LG CNS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%8B%B9%EA%B7%BC-%EC%95%88%EC%B0%8D%EA%B3%A0-%EC%9E%88%EB%8A%94%EC%A4%84-%EC%95%8C%EA%B3%A0-%EC%86%8D%EC%96%98%EA%B8%B0-%ED%95%9C%EA%B1%B0%EA%B2%A0%EC%A7%80-tomgfq0g",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T12:39:07+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-03T03:39:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -745341,7 +745379,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T12:36:07+09:00"
+      "slowAt": "2026-11-03T12:39:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -754728,7 +754766,8 @@
         "6646421",
         "6646429",
         "6646431",
-        "6646435"
+        "6646435",
+        "6646439"
       ]
     },
     "blind": {
