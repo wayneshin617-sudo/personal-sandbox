@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T17:23:58+00:00",
+  "updatedAt": "2026-11-03T17:33:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -751757,6 +751757,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T17:23:58+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97860,
+      "source": "qoo",
+      "externalId": "cmt-4395223706",
+      "title": "흠...",
+      "excerpt": "영수 사과문 올라옴",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395213339#4395223706",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T01:32:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T17:33:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -751864,7 +751884,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-04T02:29:42+09:00"
+      "slowAt": "2026-11-04T02:32:42+09:00"
     },
     "ig": {
       "doneIds": [
@@ -761639,6 +761659,7 @@
         "6647727",
         "6647729",
         "6647733",
+        "6647734",
         "6647738",
         "6647741",
         "6647745",
