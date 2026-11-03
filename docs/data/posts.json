@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T08:30:29+00:00",
+  "updatedAt": "2026-11-03T08:32:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -747906,6 +747906,46 @@
       "firstSeenAt": "2026-11-03T08:30:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97665,
+      "source": "qoo",
+      "externalId": "cmt-4394627046",
+      "title": "멀까 왜찍지 진짜 궁금",
+      "excerpt": "근데 진심 왜 찍었을까?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4394572625#4394627046",
+      "postedLabel": "",
+      "postedAt": "2026-11-03T16:31:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:32:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97666,
+      "source": "dc",
+      "externalId": "cmt-10991009",
+      "title": "방송카메라 없었으면 어디에 숨겼을지 누가 알아. - dc App",
+      "excerpt": "카메라를 화장실에 숨긴것도 아니고",
+      "author": "oo2",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6646944&page=2#cmt_10991009",
+      "postedLabel": "11.03 16:34:24",
+      "postedAt": "2026-11-03T16:34:24+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:32:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -757523,6 +757563,7 @@
         "6646931",
         "6646937",
         "6646938",
+        "6646944",
         "6647005",
         "6647015",
         "6647017",
