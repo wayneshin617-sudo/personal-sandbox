@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T01:38:22+00:00",
+  "updatedAt": "2026-11-03T01:39:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -743239,6 +743239,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T01:38:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97428,
+      "source": "blind",
+      "externalId": "cmt-459511447",
+      "title": "피부 추가",
+      "excerpt": "투표글 요새 여자 부티는 투표",
+      "author": "l********",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%94%EC%83%88-%EC%97%AC%EC%9E%90-%EB%B6%80%ED%8B%B0%EB%8A%94-lrqrz65g#459511447",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T10:39:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T01:39:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97429,
+      "source": "blind",
+      "externalId": "cmt-459511431",
+      "title": "현숙은 자기중심을 잘 잡는 타입이라. 남자들이 못 꼬시고 떨어져나갈 타입이고 순자는 썸남 몇 정도는 있을 타입",
+      "excerpt": "근데 솔까 순자 정도 생긴 여자는 주변에 겁나 많지 않음?",
+      "author": "준***",
+      "company": "LVMH",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%86%94%EA%B9%8C-%EC%88%9C%EC%9E%90-%EC%A0%95%EB%8F%84-%EC%83%9D%EA%B8%B4-%EC%97%AC%EC%9E%90%EB%8A%94-%EC%A3%BC%EB%B3%80%EC%97%90-%EA%B2%81%EB%82%98-%EB%A7%8E%EC%A7%80-%EC%95%8A%EC%9D%8C-kj8i1qd8#459511431",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T10:39:06+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T01:39:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -743408,7 +743448,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T10:36:06+09:00"
+      "slowAt": "2026-11-03T10:39:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -752705,7 +752745,8 @@
         "6646202",
         "6646209",
         "6646210",
-        "6646218"
+        "6646218",
+        "6646224"
       ]
     },
     "blind": {
