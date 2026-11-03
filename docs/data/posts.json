@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T03:40:25+00:00",
+  "updatedAt": "2026-11-03T03:41:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -745229,6 +745229,26 @@
       "firstSeenAt": "2026-11-03T03:40:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97529,
+      "source": "blind",
+      "externalId": "cmt-459523907",
+      "title": "당근마켓인줄 몰랐을듯",
+      "excerpt": "영철 당근 안찍고 있는줄 알고 속얘기 한거겠지..",
+      "author": "I*********",
+      "company": "ex-삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%8B%B9%EA%B7%BC-%EC%95%88%EC%B0%8D%EA%B3%A0-%EC%9E%88%EB%8A%94%EC%A4%84-%EC%95%8C%EA%B3%A0-%EC%86%8D%EC%96%98%EA%B8%B0-%ED%95%9C%EA%B1%B0%EA%B2%A0%EC%A7%80-tomgfq0g#459523907",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T12:41:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T03:41:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -745336,7 +745356,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-03T12:38:07+09:00"
+      "slowAt": "2026-11-03T12:41:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -754788,7 +754808,8 @@
         "6646431",
         "6646435",
         "6646439",
-        "6646449"
+        "6646449",
+        "6646451"
       ]
     },
     "blind": {
