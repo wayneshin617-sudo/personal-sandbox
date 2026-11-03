@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T08:32:29+00:00",
+  "updatedAt": "2026-11-03T08:33:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -747946,6 +747946,65 @@
       "firstSeenAt": "2026-11-03T08:32:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97667,
+      "source": "dc",
+      "externalId": "cmt-10990784",
+      "title": "ㄹㅇ ㅋㅋ 20대 남자같음 - dc App",
+      "excerpt": "영철은 진짜 갈수록 비호감이네",
+      "author": "나는야퉁퉁이",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6646690&page=5#cmt_10990784",
+      "postedLabel": "11.03 14:33:52",
+      "postedAt": "2026-11-03T14:33:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:33:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97668,
+      "source": "dc",
+      "externalId": "6647050",
+      "title": "영철 흙수저 출신인듯",
+      "excerpt": "",
+      "author": "나는야퉁퉁이",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647050&page=1",
+      "postedLabel": "17:32",
+      "postedAt": "2026-11-03T17:32:29+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:33:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 97669,
+      "source": "blind",
+      "externalId": "cmt-459559207",
+      "title": "난 하얗고 피부 좋은게 더 크다고 봄",
+      "excerpt": "순자 몸매",
+      "author": "퇴*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4-l1banj26#459559207",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T17:33:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:33:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -748053,7 +748112,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-03T17:30:12+09:00"
+      "slowAt": "2026-11-03T17:33:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -757541,6 +757600,7 @@
         "6646549",
         "6646556",
         "6646565",
+        "6646569",
         "6646647",
         "6646657",
         "6646661",
@@ -757548,6 +757608,7 @@
         "6646671",
         "6646677",
         "6646685",
+        "6646690",
         "6646793",
         "6646801",
         "6646809",
@@ -757557,6 +757618,7 @@
         "6646836",
         "6646845",
         "6646848",
+        "6646854",
         "6646916",
         "6646923",
         "6646927",
@@ -757572,7 +757634,8 @@
         "6647035",
         "6647037",
         "6647038",
-        "6647042"
+        "6647042",
+        "6647048"
       ]
     },
     "blind": {
