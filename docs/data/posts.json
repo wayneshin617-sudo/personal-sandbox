@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T23:07:43+00:00",
+  "updatedAt": "2026-11-03T23:11:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -752308,6 +752308,25 @@
       "firstSeenAt": "2026-11-03T23:07:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97888,
+      "source": "dc",
+      "externalId": "6647912",
+      "title": "현대에 태어난게 다행인 이유",
+      "excerpt": "",
+      "author": "나솔갤",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647912&page=1",
+      "postedLabel": "08:10",
+      "postedAt": "2026-11-04T08:10:49+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T23:11:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -762236,7 +762255,8 @@
         "6647902",
         "6647904",
         "6647905",
-        "6647907"
+        "6647907",
+        "6647909"
       ]
     },
     "blind": {
