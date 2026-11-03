@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T09:07:29+00:00",
+  "updatedAt": "2026-11-03T09:10:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -748662,6 +748662,25 @@
       "firstSeenAt": "2026-11-03T09:07:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97703,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9D%B4%EC%81%A8-2bftazc3",
+      "title": "투표글 누가더이쁨 ? 투표",
+      "excerpt": "???",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9D%B4%EC%81%A8-2bftazc3",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T18:10:12+09:00",
+      "views": 28,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-03T09:10:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -748832,7 +748851,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T18:07:12+09:00"
+      "slowAt": "2026-11-03T18:10:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -758376,7 +758395,8 @@
         "6647113",
         "6647116",
         "6647120",
-        "6647122"
+        "6647122",
+        "6647127"
       ]
     },
     "blind": {
