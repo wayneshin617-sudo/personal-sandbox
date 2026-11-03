@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T02:16:22+00:00",
+  "updatedAt": "2026-11-03T02:25:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -744052,6 +744052,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T02:16:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97469,
+      "source": "blind",
+      "externalId": "cmt-459512721",
+      "title": "흔한 차지 간호사상.",
+      "excerpt": "근데 솔까 순자 정도 생긴 여자는 주변에 겁나 많지 않음?",
+      "author": "c******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%86%94%EA%B9%8C-%EC%88%9C%EC%9E%90-%EC%A0%95%EB%8F%84-%EC%83%9D%EA%B8%B4-%EC%97%AC%EC%9E%90%EB%8A%94-%EC%A3%BC%EB%B3%80%EC%97%90-%EA%B2%81%EB%82%98-%EB%A7%8E%EC%A7%80-%EC%95%8A%EC%9D%8C-kj8i1qd8#459512721",
+      "postedLabel": "33분",
+      "postedAt": "2026-11-03T10:52:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T02:25:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97470,
+      "source": "blind",
+      "externalId": "cmt-459513694",
+      "title": "맞긴하지 현숙같은 애들은 찾아보기 어렵지만 순자는 흔하긴해.",
+      "excerpt": "근데 솔까 순자 정도 생긴 여자는 주변에 겁나 많지 않음?",
+      "author": "블******",
+      "company": "락플레이스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%86%94%EA%B9%8C-%EC%88%9C%EC%9E%90-%EC%A0%95%EB%8F%84-%EC%83%9D%EA%B8%B4-%EC%97%AC%EC%9E%90%EB%8A%94-%EC%A3%BC%EB%B3%80%EC%97%90-%EA%B2%81%EB%82%98-%EB%A7%8E%EC%A7%80-%EC%95%8A%EC%9D%8C-kj8i1qd8#459513694",
+      "postedLabel": "23분",
+      "postedAt": "2026-11-03T11:02:07+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T02:25:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -753535,6 +753575,7 @@
         "6646091",
         "6646092",
         "6646096",
+        "6646100",
         "6646106",
         "6646111",
         "6646112",
