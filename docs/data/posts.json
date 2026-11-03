@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T09:04:29+00:00",
+  "updatedAt": "2026-11-03T09:07:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -748622,6 +748622,46 @@
       "firstSeenAt": "2026-11-03T09:04:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97701,
+      "source": "blind",
+      "externalId": "cmt-459563299",
+      "title": "예를들어 내결혼식에서 친구가 열심히 영상 사진 찍어주면 내가 몰랐던 상황을 영상사진으로 보면 재밌고 추억이잖아? 그런느낌으로 찍은듯. 의도는 알겠지만 나같아도 저런사람 정떨어지고 못만남.",
+      "excerpt": "영수 의도 설명해 줄 사람",
+      "author": "i*******",
+      "company": "놀유니버스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%9D%98%EB%8F%84-%EC%84%A4%EB%AA%85%ED%95%B4-%EC%A4%84-%EC%82%AC%EB%9E%8C-rtj0cg1z#459563299",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T18:07:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T09:07:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97702,
+      "source": "blind",
+      "externalId": "cmt-459563208",
+      "title": "스펙좋고 집안좋은남자가.. 중견기업, 91년생을..?",
+      "excerpt": "34기 현숙은 18기 현숙 처럼.....",
+      "author": "j*******",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EC%9D%80-18%EA%B8%B0-%ED%98%84%EC%88%99-%EC%B2%98%EB%9F%BC-g1pxtb5w#459563208",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T18:07:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T09:07:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -748792,7 +748832,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T18:04:12+09:00"
+      "slowAt": "2026-11-03T18:07:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -758333,7 +758373,8 @@
         "6647108",
         "6647112",
         "6647113",
-        "6647116"
+        "6647116",
+        "6647120"
       ]
     },
     "blind": {
