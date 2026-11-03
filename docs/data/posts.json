@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T22:37:43+00:00",
+  "updatedAt": "2026-11-03T22:49:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -752209,6 +752209,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T22:37:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97883,
+      "source": "qoo",
+      "externalId": "cmt-4395261862",
+      "title": "몰랐다는 거 자체가 이해가 안 됨 얼마나 생각이 없는 건지",
+      "excerpt": "영수 사과문 올라옴",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395213339#4395261862",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T06:49:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T22:49:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97884,
+      "source": "qoo",
+      "externalId": "4395274558",
+      "title": "이제 영상 봤는데 빡치는 게 본인도 세팅하고 만지면서 눈치보더만",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4395274558",
+      "postedLabel": "07:49",
+      "postedAt": "2026-11-04T07:49:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T22:49:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -752316,7 +752355,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-04T07:46:25+09:00"
+      "slowAt": "2026-11-04T07:49:25+09:00"
     },
     "ig": {
       "doneIds": [
@@ -768002,6 +768041,7 @@
         "/kr/post/9%EA%B8%B0-%EA%B4%91%EC%88%98%EA%B0%80-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EB%82%98%EC%99%94%EC%9C%BC%EB%A9%B4-%EC%9D%B8%EA%B8%B0-%EC%9E%88%EC%9C%BC%EB%A0%A4%EB%82%98-b5c54jok",
         "/kr/post/9%EC%98%A5%EC%88%9C-16%EC%98%81%EC%88%99-24%EC%98%A5%EC%88%9C-31%EC%98%A5%EC%88%9C-34%EC%98%81%EC%88%99-vdnyhn8l",
         "/kr/post/9%EC%B6%9C%EA%B3%B5%EB%AC%B4%EC%9B%90%ED%97%88%EC%84%B8%EB%82%A8%EC%9D%B4-%EA%B3%A0%EB%8C%80-%EC%9D%BC%EB%9D%BC%EC%9D%B4%EB%A6%B4%EB%A6%AC%EB%AF%B8%EB%85%80-%EB%B3%B4%EB%8B%88-%EB%88%88%EB%8F%8C%EC%95%84%EA%B0%84%EA%B1%B0%EC%A7%80-a8jwdfuz",
+        "/kr/post/9-%EC%98%A5%EC%88%9C-vs-31-%EC%98%A5%EC%88%9C-cgwpm6u0",
         "/kr/post/90%EB%85%84%EB%8C%80-%EB%93%9C%EB%9D%BC%EB%A7%88%EC%97%90%EC%84%9C-%EB%B3%BC%EC%88%98-%EC%9E%88%EB%8A%94%EB%93%AF%ED%95%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%ED%97%8C%ED%8C%85-%EB%AA%A9%EA%B2%A9-kmclv8ed",
         "/kr/post/94%EB%85%84%EC%83%9D-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EA%B7%80%EB%8A%90%EB%8B%88-tko860t8",
         "/kr/post/98%EB%85%84%EC%83%9D%EC%9D%B4%EB%9D%BC-%ED%95%9C-%EA%B1%B0-%EA%B5%AC%EB%9D%BC%EC%98%80%EB%84%A4%E3%85%8B%E3%85%8B-db6nkxuc",
@@ -771939,7 +771979,8 @@
         "4395094038",
         "4395213339",
         "4395238398",
-        "4395261796"
+        "4395261796",
+        "4395274558"
       ]
     },
     "keep": "v2",
