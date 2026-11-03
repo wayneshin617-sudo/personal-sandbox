@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T17:40:02+00:00",
+  "updatedAt": "2026-11-03T17:41:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -751796,6 +751796,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-03T17:40:02+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97862,
+      "source": "qoo",
+      "externalId": "cmt-4395226842",
+      "title": "@2 엥 ㄹㅇ",
+      "excerpt": "뭔가 메모리카드 한개 아닌거 같은...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4394983501#4395226842",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T01:40:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T17:41:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -751968,7 +751988,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T02:37:46+09:00"
+      "slowAt": "2026-11-04T02:40:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -761689,7 +761709,8 @@
         "6647754",
         "6647761",
         "6647770",
-        "6647776"
+        "6647776",
+        "6647778"
       ]
     },
     "blind": {
