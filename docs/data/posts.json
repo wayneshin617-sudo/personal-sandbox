@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T08:17:29+00:00",
+  "updatedAt": "2026-11-03T08:18:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -747627,6 +747627,85 @@
       "firstSeenAt": "2026-11-03T08:17:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97651,
+      "source": "qoo",
+      "externalId": "cmt-4394405345",
+      "title": "그니까 .. 메모리 카드랑 별개로 폰이랑 연동되어있는것도 확인했으니 찝찝함 .. 폰도 확인해봐야할듯",
+      "excerpt": "근데 저정도면 영상 싹 사라진거 맞지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4394403590#4394405345",
+      "postedLabel": "",
+      "postedAt": "2026-11-03T12:21:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:18:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97652,
+      "source": "qoo",
+      "externalId": "cmt-4394407032",
+      "title": "일단 당연히 휴지통도 지웠어야 되는데 그걸 안한거 같고 휴지통 지워도 사실은 복구 할수 있어 그 뒤에 덮어쓰기 안되어있으면 다 복원되지",
+      "excerpt": "근데 저정도면 영상 싹 사라진거 맞지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4394403590#4394407032",
+      "postedLabel": "",
+      "postedAt": "2026-11-03T12:23:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:18:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97653,
+      "source": "qoo",
+      "externalId": "cmt-4394422924",
+      "title": "유튭에서 봤는데 폰으로 볼수있는거면 폰에 자동 저장되어 있을 수도 있다고 하더라구",
+      "excerpt": "근데 저정도면 영상 싹 사라진거 맞지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4394403590#4394422924",
+      "postedLabel": "",
+      "postedAt": "2026-11-03T12:44:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:18:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97654,
+      "source": "dc",
+      "externalId": "6647027",
+      "title": "7영호 진짜 심하다",
+      "excerpt": "",
+      "author": "123",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647027&page=1",
+      "postedLabel": "17:18",
+      "postedAt": "2026-11-03T17:18:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:18:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -747734,7 +747813,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-03T17:14:59+09:00"
+      "slowAt": "2026-11-03T17:18:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -757187,6 +757266,7 @@
         "6646393",
         "6646400",
         "6646404",
+        "6646412",
         "6646414",
         "6646418",
         "6646421",
@@ -757216,12 +757296,14 @@
         "6646801",
         "6646809",
         "6646814",
+        "6646819",
         "6646916",
         "6646923",
         "6646927",
         "6647005",
         "6647015",
-        "6647017"
+        "6647017",
+        "6647024"
       ]
     },
     "blind": {
