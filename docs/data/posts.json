@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T01:44:21+00:00",
+  "updatedAt": "2026-11-03T01:46:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -743318,6 +743318,45 @@
       "firstSeenAt": "2026-11-03T01:44:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97432,
+      "source": "blind",
+      "externalId": "cmt-459506164",
+      "title": "아구통 돌리고싶음",
+      "excerpt": "아 나 나솔 34기 이제 보는데 영철 진짜 주먹이 운다",
+      "author": "팩트핑",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EB%82%98-%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%9D%B4%EC%A0%9C-%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%A3%BC%EB%A8%B9%EC%9D%B4-%EC%9A%B4%EB%8B%A4-6gyw2t7h#459506164",
+      "postedLabel": "59분",
+      "postedAt": "2026-11-03T09:47:06+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T01:46:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97433,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%8834%EA%B8%B0%EB%8A%94-%EB%A7%A4%EC%B9%AD%EC%9D%B4-%EC%B0%B0%EB%96%A1%EC%9E%84-3xs7djyv",
+      "title": "이번34기는 매칭이 찰떡임",
+      "excerpt": "수준이 비슷하거나 서로의 보완점을 커버해줄 커플이 많아보임 영숙-영수 현숙-영호 영자-영철 옥순-상철 정숙-광수 순자-영식 내맘대로 매칭해봄",
+      "author": "l********",
+      "company": "트리니티항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%8834%EA%B8%B0%EB%8A%94-%EB%A7%A4%EC%B9%AD%EC%9D%B4-%EC%B0%B0%EB%96%A1%EC%9E%84-3xs7djyv",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T10:46:06+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-03T01:46:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -752789,7 +752828,8 @@
         "6646209",
         "6646210",
         "6646218",
-        "6646224"
+        "6646224",
+        "6646236"
       ]
     },
     "blind": {
@@ -754961,6 +755001,7 @@
         "/kr/post/%EC%95%84-%EA%B7%BC%EB%8D%B0-%EC%97%AC%EC%B6%9C-%EC%86%8C%EA%B0%9C%ED%95%A0-%EB%95%8C-%EC%98%81%EC%B2%A0-%ED%8C%8C%EB%9E%80%EC%95%88%EA%B2%BD%EC%96%B4%EA%B9%A8%EA%B1%B8%EC%B9%98%EA%B8%B0-%EB%AF%B8%EC%B9%A0-%EA%B1%B0-%EA%B0%99%EC%95%84-%EC%A7%84%EC%A7%9C-pruz3p6b",
         "/kr/post/%EC%95%84-%EA%B7%BC%EB%8D%B0-%EC%97%AC%EC%B6%9C-%EC%86%8C%EA%B0%9C%ED%95%A0-%EB%95%8C-%EC%98%81%EC%B2%A0-%ED%8C%8C%EB%9E%80%EC%95%88%EA%B2%BD%EC%99%B8%ED%88%AC-%EC%96%B4%EA%B9%A8%EA%B1%B8%EC%B9%98%EA%B8%B0-%EB%AF%B8%EC%B9%A0-%EA%B1%B0-%EA%B0%99%EC%95%84-%EC%A7%84%EC%A7%9C-pruz3p6b",
         "/kr/post/%EC%95%84-%EB%82%98%EC%86%94%EB%85%B8%EB%9E%98%EC%9D%B4%EC%83%81%ED%95%B4-rfqhybta",
+        "/kr/post/%EC%95%84-%EB%82%98-%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%9D%B4%EC%A0%9C-%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%A3%BC%EB%A8%B9%EC%9D%B4-%EC%9A%B4%EB%8B%A4-6gyw2t7h",
         "/kr/post/%EC%95%84-%EB%82%A8%EC%B6%9C-%EC%98%A4%EB%B0%98%EB%8D%B0-xm8bbauz",
         "/kr/post/%EC%95%84-%EB%82%A8pd-%EC%9D%B4-%ED%98%90%ED%95%9C%EC%A0%9C%EC%A1%B0%EA%B8%B0-bkqb02py",
         "/kr/post/%EC%95%84-%EB%84%88%EB%AC%B4-%EC%8B%A4%EB%A7%9D%EC%9D%B8%EB%8D%B0-%EC%98%81%EC%B2%A0-6lybgo3h",
