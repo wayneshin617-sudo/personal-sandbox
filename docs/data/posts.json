@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-03T08:33:29+00:00",
+  "updatedAt": "2026-11-03T08:37:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -748005,6 +748005,46 @@
       "firstSeenAt": "2026-11-03T08:33:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97670,
+      "source": "qoo",
+      "externalId": "cmt-4394631995",
+      "title": "으악",
+      "excerpt": "안정환 둘에서 셋된다는 말이나 출산율 올라가겠다는 발언까지 최악임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4394406565#4394631995",
+      "postedLabel": "",
+      "postedAt": "2026-11-03T16:37:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:37:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97671,
+      "source": "blind",
+      "externalId": "cmt-459559649",
+      "title": "그게 좋은거야 통통파가 얼마나 많은데",
+      "excerpt": "순자 몸매",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4-l1banj26#459559649",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-03T17:37:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-03T08:37:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -748175,7 +748215,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-03T17:34:12+09:00"
+      "slowAt": "2026-11-03T17:37:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -757611,6 +757651,7 @@
         "6646677",
         "6646685",
         "6646690",
+        "6646699",
         "6646793",
         "6646801",
         "6646809",
@@ -757641,7 +757682,8 @@
         "6647037",
         "6647038",
         "6647042",
-        "6647048"
+        "6647048",
+        "6647055"
       ]
     },
     "blind": {
