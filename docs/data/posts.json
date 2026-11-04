@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:44:00+00:00",
+  "updatedAt": "2026-11-04T17:44:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -771812,6 +771812,106 @@
       "firstSeenAt": "2026-11-04T17:44:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98876,
+      "source": "qoo",
+      "externalId": "cmt-4396254596",
+      "title": "그런말도 못할거면 왜 다같이 봐?나솔방에서?",
+      "excerpt": "그림체가 뭐가 중요하다고 그림체 타령을 하는거임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396242301#4396254596",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:03:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:44:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98877,
+      "source": "qoo",
+      "externalId": "cmt-4396255235",
+      "title": "그림체 어울린다 안어울린다 얼합 좋다 아니다 이런 얘기는 그냥 흔하게 하는건디",
+      "excerpt": "그림체가 뭐가 중요하다고 그림체 타령을 하는거임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396242301#4396255235",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:04:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:44:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98878,
+      "source": "blind",
+      "externalId": "cmt-459772677",
+      "title": "깁스때문에 옷이 안들어가는거아닐까... 저렇게 깁스할정도면 손이고 손목이고 탱탱부어",
+      "excerpt": "정숙이는 옷이 없냐",
+      "author": "j*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4%EB%8A%94-%EC%98%B7%EC%9D%B4-%EC%97%86%EB%83%90-sbtmbx6y#459772677",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:44:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:44:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98879,
+      "source": "blind",
+      "externalId": "cmt-459772668",
+      "title": "영철이 업보가 있어서 현숙 판단 불가라 봄 아직은...영철 아니라 다른 사람이었으면 현숙 여우 ㅇㅈ",
+      "excerpt": "나 여우 판독기거든",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EC%97%AC%EC%9A%B0-%ED%8C%90%EB%8F%85%EA%B8%B0%EA%B1%B0%EB%93%A0-qxrhmmfv#459772668",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:44:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:44:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98880,
+      "source": "blind",
+      "externalId": "cmt-459772682",
+      "title": "누나말듣고 그 부분 돌려봣는데 그 질문 시작은 영철이 현숙한테 한거를 똑같이 되물은건뎅?",
+      "excerpt": "나 여우 판독기거든",
+      "author": "i*********",
+      "company": "한국과학기술연구원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EC%97%AC%EC%9A%B0-%ED%8C%90%EB%8F%85%EA%B8%B0%EA%B1%B0%EB%93%A0-qxrhmmfv#459772682",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:44:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:44:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -771984,7 +772084,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T02:41:40+09:00"
+      "slowAt": "2026-11-05T02:44:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -782094,7 +782194,9 @@
         "6655869",
         "6655870",
         "6655871",
-        "6655880"
+        "6655880",
+        "6655903",
+        "6655904"
       ]
     },
     "blind": {
