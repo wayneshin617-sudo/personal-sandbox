@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T03:30:37+00:00",
+  "updatedAt": "2026-11-04T03:31:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -754765,6 +754765,26 @@
       "firstSeenAt": "2026-11-04T03:30:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98012,
+      "source": "blind",
+      "externalId": "cmt-459665974",
+      "title": "왜 돌싱인지 이해된 시점",
+      "excerpt": "상식적으로 아무리 이벤트 목적이라도",
+      "author": "c*****",
+      "company": "NH농협생명",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%84%EB%AC%B4%EB%A6%AC-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%AA%A9%EC%A0%81%EC%9D%B4%EB%9D%BC%EB%8F%84-euhlszyn#459665974",
+      "postedLabel": "11분",
+      "postedAt": "2026-11-04T12:20:21+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T03:31:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -754872,7 +754892,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-04T12:28:22+09:00"
+      "slowAt": "2026-11-04T12:31:21+09:00"
     },
     "ig": {
       "doneIds": [
@@ -764775,7 +764795,8 @@
         "6648176",
         "6648180",
         "6648182",
-        "6648183"
+        "6648183",
+        "6648185"
       ]
     },
     "blind": {
