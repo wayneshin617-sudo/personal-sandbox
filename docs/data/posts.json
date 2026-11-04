@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T10:12:55+00:00",
+  "updatedAt": "2026-11-04T10:13:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -757969,6 +757969,45 @@
       "firstSeenAt": "2026-11-04T10:12:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98174,
+      "source": "qoo",
+      "externalId": "cmt-4395791225",
+      "title": "하 빨리 보고싶어",
+      "excerpt": "34기 영철, 현숙에 사과했는데…“너무 여러 번 해” (나는솔로)",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395416257#4395791225",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T18:13:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T10:13:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98175,
+      "source": "qoo",
+      "externalId": "4395845658",
+      "title": "티비없으면 실시간으로못봐?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4395845658",
+      "postedLabel": "19:13",
+      "postedAt": "2026-11-04T19:13:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T10:13:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -768105,6 +768144,7 @@
         "6648702",
         "6648703",
         "6648707",
+        "6648708",
         "6648710",
         "6648723",
         "6648728",
@@ -777984,7 +778024,8 @@
         "4395736652",
         "4395765494",
         "4395783514",
-        "4395793845"
+        "4395793845",
+        "4395845658"
       ]
     },
     "keep": "v2",
