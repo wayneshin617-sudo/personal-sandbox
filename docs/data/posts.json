@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T22:17:14+00:00",
+  "updatedAt": "2026-11-04T22:18:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -776135,6 +776135,26 @@
       "firstSeenAt": "2026-11-04T22:17:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99094,
+      "source": "blind",
+      "externalId": "cmt-459779774",
+      "title": "몸매도 좋음",
+      "excerpt": "적당히 예뻐야지",
+      "author": "한********",
+      "company": "한화시스템",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%81%EB%8B%B9%ED%9E%88-%EC%98%88%EB%BB%90%EC%95%BC%EC%A7%80-xr7a3pnh#459779774",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T07:17:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:18:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -776308,7 +776328,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T07:14:57+09:00"
+      "slowAt": "2026-11-05T07:17:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -786528,7 +786548,8 @@
         "6656320",
         "6656368",
         "6656370",
-        "6656407"
+        "6656407",
+        "6656410"
       ]
     },
     "blind": {
