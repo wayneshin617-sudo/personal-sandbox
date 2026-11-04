@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T11:01:17+00:00",
+  "updatedAt": "2026-11-04T11:03:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -758898,6 +758898,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-04T11:01:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98221,
+      "source": "qoo",
+      "externalId": "cmt-4395836441",
+      "title": "ㅇㄴㅅ 달고 올라오는 글들보면 다 돌싱프로들 뿐이던데 일반연프 아니고 공수치 사회실험으로 같은 결이라 퉁쳐서 맨날 여기 올리는건지",
+      "excerpt": "여기 나솔말고 다른프로 얘기 해도되는거야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395783514#4395836441",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T19:03:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T11:03:46+00:00",
       "isSeed": false,
       "kind": "reply"
     }
