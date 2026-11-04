@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T03:40:36+00:00",
+  "updatedAt": "2026-11-04T03:41:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -754844,6 +754844,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T03:40:36+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98016,
+      "source": "qoo",
+      "externalId": "cmt-4395431595",
+      "title": "미안하지만 영철이때문에 존잼ㅋㅋㅋ",
+      "excerpt": "34기 영철, 현숙에 사과했는데…“너무 여러 번 해” (나는솔로)",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395416257#4395431595",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T11:40:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T03:41:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -755016,7 +755036,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T12:38:22+09:00"
+      "slowAt": "2026-11-04T12:41:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -764857,7 +764877,8 @@
         "6648182",
         "6648183",
         "6648185",
-        "6648190"
+        "6648190",
+        "6648194"
       ]
     },
     "blind": {
