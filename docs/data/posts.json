@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:23:00+00:00",
+  "updatedAt": "2026-11-04T17:24:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -770558,6 +770558,106 @@
       "firstSeenAt": "2026-11-04T17:23:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98813,
+      "source": "qoo",
+      "externalId": "cmt-4396265073",
+      "title": "이번 기수에서 만날 사람 없어보여...",
+      "excerpt": "난 영식이 제일 나아보이는데 안풀리네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396264008#4396265073",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:23:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:24:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98814,
+      "source": "qoo",
+      "externalId": "cmt-4396265305",
+      "title": "너무 소극적이긴해ㅠ",
+      "excerpt": "난 영식이 제일 나아보이는데 안풀리네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396264008#4396265305",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:23:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:24:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98815,
+      "source": "qoo",
+      "externalId": "cmt-4396265361",
+      "title": "@7 글로벌 스포츠 브랜드 회사 다닌다고 했던 거 같아",
+      "excerpt": "난 영식이 제일 나아보이는데 안풀리네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396264008#4396265361",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:23:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:24:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98816,
+      "source": "blind",
+      "externalId": "cmt-459772032",
+      "title": "너는 현숙 어떤것같은데?",
+      "excerpt": "현숙이가 착한지 모르겠다, 본모습 모르겠다",
+      "author": "m*********",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%B0%A9%ED%95%9C%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-%EB%B3%B8%EB%AA%A8%EC%8A%B5-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-r5eltx20#459772032",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:23:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:24:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98817,
+      "source": "blind",
+      "externalId": "cmt-459771993",
+      "title": "나도 남잔데 마찬가지야 ㅋㅋㅋ",
+      "excerpt": "현숙이가 착한지 모르겠다, 본모습 모르겠다",
+      "author": "l********* 작성자",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%B0%A9%ED%95%9C%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-%EB%B3%B8%EB%AA%A8%EC%8A%B5-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-r5eltx20#459771993",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:23:41+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:24:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -770730,7 +770830,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T02:20:41+09:00"
+      "slowAt": "2026-11-05T02:23:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -780743,6 +780843,7 @@
         "6655341",
         "6655346",
         "6655350",
+        "6655356",
         "6655403",
         "6655408",
         "6655411",
@@ -780809,7 +780910,8 @@
         "6655748",
         "6655757",
         "6655774",
-        "6655780"
+        "6655780",
+        "6655791"
       ]
     },
     "blind": {
