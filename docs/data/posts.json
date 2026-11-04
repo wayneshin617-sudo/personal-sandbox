@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T00:06:45+00:00",
+  "updatedAt": "2026-11-04T00:08:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -753115,6 +753115,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-11-04T00:06:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97929,
+      "source": "dc",
+      "externalId": "cmt-10992301",
+      "title": "도망치면 안 돼. 도망치면 안 돼. 도망치면 안 돼",
+      "excerpt": "에바 신지를 올린 이유는 그거지",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647955&page=1#cmt_10992301",
+      "postedLabel": "11.04 09:07:30",
+      "postedAt": "2026-11-04T09:07:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T00:08:45+00:00",
       "isSeed": false,
       "kind": "reply"
     }
