@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:32:59+00:00",
+  "updatedAt": "2026-11-04T17:33:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -771195,6 +771195,86 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T17:32:59+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98845,
+      "source": "qoo",
+      "externalId": "cmt-4396269059",
+      "title": "isfj",
+      "excerpt": "영호 너무 enfj 같음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396267854#4396269059",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:33:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:33:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98846,
+      "source": "qoo",
+      "externalId": "cmt-4396269075",
+      "title": "ㅇㅈ 그리고 기준 깐깐해서 금방 혼자 식을 거 같음",
+      "excerpt": "영호는 이 사람이 공평하게 챙기는 다수중 1인으로 있을때 제일 좋은 사람같아",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396267321#4396269075",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:33:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:33:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98847,
+      "source": "qoo",
+      "externalId": "cmt-4396269334",
+      "title": "월에 한번 출장온다면서.. 순자는 거리가 더 만니기 힘들텐데",
+      "excerpt": "한달에 한두번 만난다는건 그냥",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396266751#4396269334",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:33:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:33:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98848,
+      "source": "blind",
+      "externalId": "cmt-459772346",
+      "title": "애초에 얼빠라 어쩔수없음",
+      "excerpt": "영자는 좀 안타깝네",
+      "author": "i********",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%A2%80-%EC%95%88%ED%83%80%EA%B9%9D%EB%84%A4-cf8qjffb#459772346",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:33:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:33:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -781466,7 +781546,8 @@
         "6655827",
         "6655829",
         "6655837",
-        "6655839"
+        "6655839",
+        "6655843"
       ]
     },
     "blind": {
