@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T18:41:01+00:00",
+  "updatedAt": "2026-11-04T18:42:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -774774,6 +774774,44 @@
       "firstSeenAt": "2026-11-04T18:41:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99025,
+      "source": "dc",
+      "externalId": "6656147",
+      "title": "흙수저 30살 자수성가 15억 내집 마련기 리얼후기",
+      "excerpt": "",
+      "author": "내고진크",
+      "company": "",
+      "ip": "58.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656147&page=1",
+      "postedLabel": "03:40",
+      "postedAt": "2026-11-05T03:40:53+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:42:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99026,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EC%8B%9C%EB%A6%BD%EB%8C%80%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8A%94%EA%B1%B0-%EB%93%A3%EA%B3%A0-%EB%8B%A4%EB%A5%B8%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EB%8F%84-%EC%A0%81%EC%96%B4%EB%B4%84-xmbjtvit",
+      "title": "영호 시립대상이라는거 듣고 다른출연자들도 적어봄",
+      "excerpt": "영수-고대 영호-시립대 영식-연대 영철-숭실대 광수-한성대 또는 중앙대 상철-삼육대 영숙-서울여대 정숙-서강대 순자-덕성여대 또는 숙명여대 영자-외대 옥순-성신여대 현숙-고대",
+      "author": "y*****",
+      "company": "조선일보",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%8B%9C%EB%A6%BD%EB%8C%80%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8A%94%EA%B1%B0-%EB%93%A3%EA%B3%A0-%EB%8B%A4%EB%A5%B8%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EB%8F%84-%EC%A0%81%EC%96%B4%EB%B4%84-xmbjtvit",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T03:41:42+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-04T18:42:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -774947,7 +774985,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T03:38:41+09:00"
+      "slowAt": "2026-11-05T03:41:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -785076,6 +785114,7 @@
         "6655876",
         "6655880",
         "6655885",
+        "6655893",
         "6655894",
         "6655902",
         "6655903",
