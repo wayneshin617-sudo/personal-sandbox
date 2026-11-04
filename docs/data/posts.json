@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T23:58:14+00:00",
+  "updatedAt": "2026-11-04T23:59:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -778945,6 +778945,25 @@
       "firstSeenAt": "2026-11-04T23:58:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99236,
+      "source": "dc",
+      "externalId": "6656588",
+      "title": "순자 슴보고 반했다",
+      "excerpt": "",
+      "author": "ilIliIiilIillIiIilil",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656588&page=1",
+      "postedLabel": "08:58",
+      "postedAt": "2026-11-05T08:58:39+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T23:59:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -779052,7 +779071,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T08:55:56+09:00"
+      "slowAt": "2026-11-05T08:58:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -789424,7 +789443,8 @@
         "6656557",
         "6656568",
         "6656570",
-        "6656580"
+        "6656580",
+        "6656585"
       ]
     },
     "blind": {
