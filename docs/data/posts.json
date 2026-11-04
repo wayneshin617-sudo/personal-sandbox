@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T22:18:16+00:00",
+  "updatedAt": "2026-11-04T22:20:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -776155,6 +776155,46 @@
       "firstSeenAt": "2026-11-04T22:18:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99095,
+      "source": "dc",
+      "externalId": "cmt-10994899",
+      "title": "대박 - dc App",
+      "excerpt": "블라 이 남출 누군지 딱 알겠노 ㅋㅋㅋㅋㅋ",
+      "author": "OO",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656372&page=1#cmt_10994899",
+      "postedLabel": "11.05 06:32:59",
+      "postedAt": "2026-11-05T06:32:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:20:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99096,
+      "source": "blind",
+      "externalId": "cmt-459779877",
+      "title": "막줄 뭔소리인지",
+      "excerpt": "영철 지현우+최정원",
+      "author": "아**",
+      "company": "현대건설",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%A7%80%ED%98%84%EC%9A%B0%EC%B5%9C%EC%A0%95%EC%9B%90-q614guju#459779877",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T07:19:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:20:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -776262,7 +776302,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T07:16:56+09:00"
+      "slowAt": "2026-11-05T07:19:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -786547,9 +786587,11 @@
         "6656227",
         "6656232",
         "6656243",
+        "6656245",
         "6656320",
         "6656368",
         "6656370",
+        "6656372",
         "6656407",
         "6656410"
       ]
