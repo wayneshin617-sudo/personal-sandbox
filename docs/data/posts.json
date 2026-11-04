@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T22:38:15+00:00",
+  "updatedAt": "2026-11-04T22:39:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -776731,6 +776731,26 @@
       "firstSeenAt": "2026-11-04T22:38:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99124,
+      "source": "blind",
+      "externalId": "cmt-459780934",
+      "title": "마지막 1분이 젤 재밌음",
+      "excerpt": "어제꺼 재밌었어?",
+      "author": "l*******",
+      "company": "ex-스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C%EA%BA%BC-%EC%9E%AC%EB%B0%8C%EC%97%88%EC%96%B4-mcoczilf#459780934",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T07:38:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:39:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -776904,7 +776924,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T07:35:57+09:00"
+      "slowAt": "2026-11-05T07:38:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -787148,7 +787168,8 @@
         "6656419",
         "6656422",
         "6656425",
-        "6656426"
+        "6656426",
+        "6656436"
       ]
     },
     "blind": {
@@ -789534,6 +789555,7 @@
         "/kr/post/%EC%96%B4%EC%9C%BC-%EB%82%98%EB%8A%94-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%A7%84%EC%A7%9C%EC%A7%84%EC%A7%9C-%EC%8B%AB%EC%96%B4-01c17qj5",
         "/kr/post/%EC%96%B4%EC%9E%A5-%EB%AC%B4%EC%97%87-xg31qiwh",
         "/kr/post/%EC%96%B4%EC%A0%9C%EA%B9%8C%EC%A7%80-%EC%A4%91%EB%A6%BD%EA%B8%B0%EC%96%B4-%EB%B0%95%EB%8D%98-%EB%82%B4-%EC%9E%90%EC%8B%A0%EC%9D%84-%EB%B0%98%EC%84%B1-2vglnjvc",
+        "/kr/post/%EC%96%B4%EC%A0%9C%EA%BA%BC-%EC%9E%AC%EB%B0%8C%EC%97%88%EC%96%B4-mcoczilf",
         "/kr/post/%EC%96%B4%EC%A0%9C%EA%BA%BC-%EC%A7%80%EA%B8%88-%EB%B4%A4%EB%8A%94%EB%8D%B0-73c188lx",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EA%BE%B8%EB%B2%85%EA%BE%B8%EB%B2%85-%EC%A1%B8%EB%8B%A4%EA%B0%80-ajbrbeyd",
         "/kr/post/%EC%96%B4%EC%A0%9C-%EB%82%98%EC%86%94%EB%B0%A9%EC%86%A1-%EB%B3%B4%EB%8A%94%EC%A4%91-%E3%85%8E%E3%85%8E-%EC%96%B4%EC%A0%9C%EA%BA%BC-%EC%9E%AC%EB%B0%8C%EC%A7%80-zpsowbn1",
