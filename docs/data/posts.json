@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T23:41:15+00:00",
+  "updatedAt": "2026-11-04T23:42:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -778349,6 +778349,45 @@
       "firstSeenAt": "2026-11-04T23:41:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99206,
+      "source": "blind",
+      "externalId": "cmt-459784420",
+      "title": "캡처도 이상한거 올리고 왜 이러는 거임?",
+      "excerpt": "적당히 예뻐야지",
+      "author": "U****",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%81%EB%8B%B9%ED%9E%88-%EC%98%88%EB%BB%90%EC%95%BC%EC%A7%80-xr7a3pnh#459784420",
+      "postedLabel": "22분",
+      "postedAt": "2026-11-05T08:19:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T23:42:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99207,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%ED%98%B8%EB%9E%91-%EC%96%98%EA%B8%B0%ED%95%98%EB%A9%B4%EC%84%9C-mvuryezk",
+      "title": "근데 영호랑 얘기하면서",
+      "excerpt": "영호가 달에 1-2번 한국에 올 수 있다고 얘기하는데, 여자가 자기가 일본에 놀러가면 된다고 말하는 사람은 한명도 없네 편집이 된건가 비행기값만 내면 되는데 아직 그정도로 마음이 가는 상태는 아니라 생각을 안하는건가",
+      "author": "a*****",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%ED%98%B8%EB%9E%91-%EC%96%98%EA%B8%B0%ED%95%98%EB%A9%B4%EC%84%9C-mvuryezk",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-05T08:40:57+09:00",
+      "views": 26,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-04T23:42:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -778522,7 +778561,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T08:38:56+09:00"
+      "slowAt": "2026-11-05T08:41:57+09:00"
     },
     "dc": {
       "doneIds": [
