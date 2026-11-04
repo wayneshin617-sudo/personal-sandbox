@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T08:24:32+00:00",
+  "updatedAt": "2026-11-04T08:27:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -756409,6 +756409,25 @@
       "firstSeenAt": "2026-11-04T08:24:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98095,
+      "source": "dc",
+      "externalId": "6648625",
+      "title": "솔직히 이번기수는 삐에로 영철볼려고 보는거아님?",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6648625&page=1",
+      "postedLabel": "17:27",
+      "postedAt": "2026-11-04T17:27:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T08:27:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -756516,7 +756535,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-04T17:24:16+09:00"
+      "slowAt": "2026-11-04T17:27:16+09:00"
     },
     "ig": {
       "doneIds": [
@@ -766452,9 +766471,11 @@
         "6648330",
         "6648338",
         "6648420",
+        "6648428",
         "6648482",
         "6648491",
-        "6648606"
+        "6648606",
+        "6648621"
       ]
     },
     "blind": {
