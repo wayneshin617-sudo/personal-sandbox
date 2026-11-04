@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T16:43:59+00:00",
+  "updatedAt": "2026-11-04T16:44:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -763445,6 +763445,105 @@
       "firstSeenAt": "2026-11-04T16:43:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98456,
+      "source": "qoo",
+      "externalId": "cmt-4396242003",
+      "title": "22222 현숙이 제일 ㅋ 그리고 다른여출도 어이없었을듯",
+      "excerpt": "현숙 영철이 상철이랑 나눈 대화내용 같은건 방송보고 알았을텐데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396241663#4396242003",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:43:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:44:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98457,
+      "source": "qoo",
+      "externalId": "cmt-4396242493",
+      "title": "긍까 ㅋㅋㅋㅋㅋ",
+      "excerpt": "그림체가 뭐가 중요하다고 그림체 타령을 하는거임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396242301#4396242493",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:44:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:44:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98458,
+      "source": "qoo",
+      "externalId": "cmt-4396242527",
+      "title": "ㄹㅇ",
+      "excerpt": "현숙 영철이 상철이랑 나눈 대화내용 같은건 방송보고 알았을텐데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396241663#4396242527",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:44:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:44:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98459,
+      "source": "qoo",
+      "externalId": "cmt-4396242714",
+      "title": "걍 시청자로서 감상 아님?",
+      "excerpt": "그림체가 뭐가 중요하다고 그림체 타령을 하는거임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396242301#4396242714",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:44:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:44:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98460,
+      "source": "qoo",
+      "externalId": "4396272886",
+      "title": "영철땜시 현숙만 욕먹네 ㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396272886",
+      "postedLabel": "01:44",
+      "postedAt": "2026-11-05T01:44:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:44:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -763617,7 +763716,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T01:41:41+09:00"
+      "slowAt": "2026-11-05T01:44:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -773633,7 +773732,8 @@
         "6655501",
         "6655507",
         "6655522",
-        "6655523"
+        "6655523",
+        "6655529"
       ]
     },
     "blind": {
@@ -783614,7 +783714,8 @@
         "4396269120",
         "4396270627",
         "4396271258",
-        "4396271829"
+        "4396271829",
+        "4396272886"
       ]
     },
     "keep": "v2",
