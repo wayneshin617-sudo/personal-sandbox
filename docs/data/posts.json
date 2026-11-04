@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:37:59+00:00",
+  "updatedAt": "2026-11-04T17:38:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -771554,6 +771554,46 @@
       "firstSeenAt": "2026-11-04T17:37:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98863,
+      "source": "qoo",
+      "externalId": "cmt-4396270945",
+      "title": "@1 ㄹㅇ ㅋㅋ 소름돋으면서도 도대체 무슨이유로 저렇게 된건가 싶어 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "도대체 어떤계기로 리프레쉬해서 다시 현숙한테 들이대는지 너무 궁금 ㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396270627#4396270945",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:38:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:38:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98864,
+      "source": "blind",
+      "externalId": "cmt-459772506",
+      "title": "정숙이니",
+      "excerpt": "영호 영철 현숙 영자 재밋네",
+      "author": "j*********",
+      "company": "ex-삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-%EC%98%81%EC%9E%90-%EC%9E%AC%EB%B0%8B%EB%84%A4-7n6nm2on#459772506",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:38:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:38:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -771726,7 +771766,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T02:35:41+09:00"
+      "slowAt": "2026-11-05T02:38:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -781830,7 +781870,9 @@
         "6655847",
         "6655849",
         "6655864",
-        "6655869"
+        "6655867",
+        "6655869",
+        "6655870"
       ]
     },
     "blind": {
@@ -785656,6 +785698,7 @@
         "/kr/post/%EC%98%81%ED%98%B8-%EC%98%81%EC%8B%9D-%EC%98%81%EC%B2%A0-wwth8cp6",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A7%84%EC%A7%9C-%EC%9C%A1%EA%B0%81%ED%98%95-%EB%82%A8%EC%9E%90%EB%84%A4-fe4wzsrw",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%98%81%EC%B2%A0-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EA%B1%B4%EB%8D%B0-sbhz2j6w",
+        "/kr/post/%EC%98%81%ED%98%B8-%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-%EC%98%81%EC%9E%90-%EC%9E%AC%EB%B0%8B%EB%84%A4-7n6nm2on",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%98%81%EC%B2%A0-j8knkz8u",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%98%81%EC%B2%A0-rn7v2qk1",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%98%86-%EB%8B%A4%EB%A5%B8-%EB%82%A8%EC%B6%9C%EB%93%A4-%EC%95%BD%EA%B0%84-%EC%98%9B%EB%82%A0-%EC%9A%B0%EA%B2%B0-%EC%95%8C%EB%A0%89%EC%8A%A4-%EB%B3%B4%EB%8A%94-%EA%B8%B0%EB%B6%84%EC%9D%BC%EB%93%AF-e6kzqxkw",
