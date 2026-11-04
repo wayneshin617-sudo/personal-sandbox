@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T23:01:15+00:00",
+  "updatedAt": "2026-11-04T23:03:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -777264,6 +777264,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-04T23:01:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99151,
+      "source": "dc",
+      "externalId": "cmt-10995007",
+      "title": "ㄷㄷ - dc App",
+      "excerpt": "틴더를 하긴 했나보네",
+      "author": "OO",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656402&page=2#cmt_10995007",
+      "postedLabel": "11.05 07:57:34",
+      "postedAt": "2026-11-05T07:57:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T23:03:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -777437,7 +777457,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T07:59:56+09:00"
+      "slowAt": "2026-11-05T08:02:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -787672,6 +787692,7 @@
         "6656297",
         "6656300",
         "6656301",
+        "6656305",
         "6656320",
         "6656329",
         "6656332",
@@ -787693,6 +787714,7 @@
         "6656395",
         "6656398",
         "6656400",
+        "6656402",
         "6656407",
         "6656410",
         "6656415",
