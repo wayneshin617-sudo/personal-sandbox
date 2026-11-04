@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T08:45:31+00:00",
+  "updatedAt": "2026-11-04T08:50:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -756645,6 +756645,26 @@
       "firstSeenAt": "2026-11-04T08:45:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98107,
+      "source": "qoo",
+      "externalId": "cmt-4395718523",
+      "title": "나 내일 연차썼다..!",
+      "excerpt": "오늘만 기다렸다면 믿어줄래?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395694515#4395718523",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T16:49:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T08:50:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -766711,6 +766731,7 @@
         "6648514",
         "6648516",
         "6648542",
+        "6648544",
         "6648606",
         "6648621",
         "6648628",
