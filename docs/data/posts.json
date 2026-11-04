@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T18:15:57+00:00",
+  "updatedAt": "2026-11-04T18:18:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -773978,6 +773978,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T18:15:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98985,
+      "source": "qoo",
+      "externalId": "cmt-4396275694",
+      "title": "개어이없어 누가 보면 영자가 조종하고 있는줄",
+      "excerpt": "영철 모든 핑계를 다 영자로만 댐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396262836#4396275694",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:52:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:18:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -784308,6 +784328,7 @@
         "6656033",
         "6656042",
         "6656045",
+        "6656053",
         "6656059"
       ]
     },
