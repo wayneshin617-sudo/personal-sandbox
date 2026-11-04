@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T16:46:59+00:00",
+  "updatedAt": "2026-11-04T16:48:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -764143,6 +764143,64 @@
       "firstSeenAt": "2026-11-04T16:46:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98491,
+      "source": "qoo",
+      "externalId": "cmt-4396244907",
+      "title": "현숙이 더 잘 어울리긴함ㅋㅋ",
+      "excerpt": "그림체가 뭐가 중요하다고 그림체 타령을 하는거임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396242301#4396244907",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:47:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98492,
+      "source": "dc",
+      "externalId": "6655571",
+      "title": "위기를 기회로바꾸는사람이 부자되는거다. 돈벌기쉽제?",
+      "excerpt": "",
+      "author": "갠프천재훈이",
+      "company": "",
+      "ip": "51.158",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6655571&page=1",
+      "postedLabel": "01:47",
+      "postedAt": "2026-11-05T01:47:16+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:48:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 98493,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%88%9C%EC%9E%90-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B2%8C%EB%90%9C%EA%B1%B0-%EA%B3%B5%EA%B0%90%ED%95%A8-br0lvtyc",
+      "title": "영호가 순자 다시 생각하게된거 공감함",
+      "excerpt": "일단 영호가 말했듯이 영호는 계속 현숙 선택함 그런데 그에반해 현숙은 영호한테 아직 확실하게 얘기를 안함 물론 2:1 일 때 현숙의 태도에서 영철과 영호 그 차이가 들어나긴 했지만 편집과 자막을 보고 직접적으로 차이를 비교하면서 본 우리와 현장은 분위기다 달랐을 수 있고 현숙에게 본인이 조금 더 우세 같다는 생각은 들 수 있어도 아직 확실히 현숙에게 데이트 선택을 받거나 얘기를 듣지는 않았음 게다가 2:1 데이트에서 영철에게 보인 싸늘함에서 뭔가 안좋은 인상을 받은것도 있을 수 있고 이렇게 데이트를 마치고 와보면 영호같이 남",
+      "author": "h********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%88%9C%EC%9E%90-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B2%8C%EB%90%9C%EA%B1%B0-%EA%B3%B5%EA%B0%90%ED%95%A8-br0lvtyc",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T01:47:42+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-04T16:48:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -764315,7 +764373,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T01:44:41+09:00"
+      "slowAt": "2026-11-05T01:47:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -774339,7 +774397,9 @@
         "6655552",
         "6655553",
         "6655556",
-        "6655559"
+        "6655559",
+        "6655566",
+        "6655567"
       ]
     },
     "blind": {
