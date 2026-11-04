@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T18:23:00+00:00",
+  "updatedAt": "2026-11-04T18:25:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -774176,6 +774176,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-04T18:23:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98995,
+      "source": "blind",
+      "externalId": "cmt-459773941",
+      "title": "그니까...너무 나갔다",
+      "excerpt": "영철이 누나 여동생",
+      "author": "I*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%88%84%EB%82%98-%EC%97%AC%EB%8F%99%EC%83%9D-webiws2d#459773941",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T03:24:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:25:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -784516,6 +784536,7 @@
         "6656073",
         "6656079",
         "6656080",
+        "6656083",
         "6656084"
       ]
     },
