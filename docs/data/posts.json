@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T16:51:59+00:00",
+  "updatedAt": "2026-11-04T16:52:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -764919,6 +764919,105 @@
       "firstSeenAt": "2026-11-04T16:51:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98530,
+      "source": "qoo",
+      "externalId": "cmt-4396247732",
+      "title": "대화는 잘 통하는데 이성적 느낌은 별로 없더라",
+      "excerpt": "영호랑 현숙 대화 잘 통하던데 의외임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396246909#4396247732",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:51:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:52:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98531,
+      "source": "qoo",
+      "externalId": "cmt-4396248149",
+      "title": "답답함 사실 ㅇㅇ",
+      "excerpt": "영호 일본인 같음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396247846#4396248149",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:52:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:52:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98532,
+      "source": "qoo",
+      "externalId": "cmt-4396248177",
+      "title": "난 호감도에 비해 생각만큼 잘되는것같지않다고 느꼈음",
+      "excerpt": "영호랑 현숙 대화 잘 통하던데 의외임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396246909#4396248177",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T00:52:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:52:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98533,
+      "source": "qoo",
+      "externalId": "4396275538",
+      "title": "현숙 되게 물음표를 많이쓴다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396275538",
+      "postedLabel": "01:52",
+      "postedAt": "2026-11-05T01:52:00+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:52:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 98534,
+      "source": "blind",
+      "externalId": "cmt-459770639",
+      "title": "키도 작은데 배포도 작네",
+      "excerpt": "아 진짜 키크고싶다 ㅠㅠ",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EC%A7%84%EC%A7%9C-%ED%82%A4%ED%81%AC%EA%B3%A0%EC%8B%B6%EB%8B%A4-%E3%85%A0%E3%85%A0-8p1omwit#459770639",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T01:52:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:52:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -765026,7 +765125,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T01:49:41+09:00"
+      "slowAt": "2026-11-05T01:52:42+09:00"
     },
     "ig": {
       "doneIds": [
@@ -775124,7 +775223,8 @@
         "6655576",
         "6655582",
         "6655584",
-        "6655593"
+        "6655593",
+        "6655600"
       ]
     },
     "blind": {
@@ -785115,7 +785215,8 @@
         "4396270627",
         "4396271258",
         "4396271829",
-        "4396272886"
+        "4396272886",
+        "4396275538"
       ]
     },
     "keep": "v2",
