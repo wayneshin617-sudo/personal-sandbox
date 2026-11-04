@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T18:31:00+00:00",
+  "updatedAt": "2026-11-04T18:33:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -774256,6 +774256,65 @@
       "firstSeenAt": "2026-11-04T18:31:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98999,
+      "source": "blind",
+      "externalId": "cmt-459771889",
+      "title": "현숙 보다도 카메라를 더 의식하는 느낌",
+      "excerpt": "이런 자세를 어디선가 봤었다",
+      "author": "r****** 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%9F%B0-%EC%9E%90%EC%84%B8%EB%A5%BC-%EC%96%B4%EB%94%94%EC%84%A0%EA%B0%80-%EB%B4%A4%EC%97%88%EB%8B%A4-0ttfsr7f#459771889",
+      "postedLabel": "1시간",
+      "postedAt": "2026-11-05T02:32:39+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:32:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99000,
+      "source": "blind",
+      "externalId": "cmt-459772623",
+      "title": "영철 사고방식이나 걍 철없는 중딩 수준같음 ㅜ 근데 영호가 형님? 이라고 하니까 진짜 더최악 ㅋㅋㅋㅋ 나이 진짜 헛먹은 케이스",
+      "excerpt": "이런 자세를 어디선가 봤었다",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%9F%B0-%EC%9E%90%EC%84%B8%EB%A5%BC-%EC%96%B4%EB%94%94%EC%84%A0%EA%B0%80-%EB%B4%A4%EC%97%88%EB%8B%A4-0ttfsr7f#459772623",
+      "postedLabel": "50분",
+      "postedAt": "2026-11-05T02:42:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:32:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99001,
+      "source": "ig",
+      "externalId": "DecO5C9HZzs",
+      "title": "실시간검색이슈 | 나는솔로 34기영숙 직업 ... - Instagram",
+      "excerpt": "175 likes, 46 comments - realtimeissue on October 13, 2026: \"나는솔로 34 기영숙 직업 올라와서화제 논현동 가구회사에 근무하고 있다고 확실한건 이번주 자기소개에서 확인가능 #나는솔로 # 34 기영숙 # 34 영숙 📷나는솔로, 블라인드\".",
+      "author": "실시간검색이슈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.instagram.com/p/DecO5C9HZzs/",
+      "postedLabel": "01:25",
+      "postedAt": "2026-10-14T01:25:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:33:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -774428,7 +774487,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T03:29:41+09:00"
+      "slowAt": "2026-11-05T03:32:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -784545,6 +784604,7 @@
         "6655837",
         "6655839",
         "6655843",
+        "6655844",
         "6655847",
         "6655849",
         "6655864",
@@ -784604,7 +784664,8 @@
         "6656088",
         "6656103",
         "6656109",
-        "6656110"
+        "6656110",
+        "6656111"
       ]
     },
     "blind": {
