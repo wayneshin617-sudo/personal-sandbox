@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T04:18:39+00:00",
+  "updatedAt": "2026-11-04T04:24:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -755041,6 +755041,44 @@
       "firstSeenAt": "2026-11-04T04:18:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98026,
+      "source": "dc",
+      "externalId": "6648247",
+      "title": "분당 2차 선도지구 지정 그리고 분당재건축에 대한 단상",
+      "excerpt": "",
+      "author": "크롱",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6648247&page=1",
+      "postedLabel": "13:23",
+      "postedAt": "2026-11-04T13:23:43+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T04:24:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 98027,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%9C%EC%9D%B8%EC%86%8C%EC%9E%A5%EC%9D%B4%EB%9E%AC%EB%8B%A4%EA%B0%80-%EB%93%A4%ED%82%A4%EB%8B%88%EA%B9%8C-%EB%A7%90-%EB%B0%94%EA%BE%BC%EA%B2%8C-cbqt8l7p",
+      "title": "개인소장이랬다가 들키니까 말 바꾼게",
+      "excerpt": "들키니까 둘만 보는거라고 말바꿈. 안들켰으면 백퍼 은밀한 곳까지 설치했다.",
+      "author": "j********",
+      "company": "신세계",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%86%8C%EC%9E%A5%EC%9D%B4%EB%9E%AC%EB%8B%A4%EA%B0%80-%EB%93%A4%ED%82%A4%EB%8B%88%EA%B9%8C-%EB%A7%90-%EB%B0%94%EA%BE%BC%EA%B2%8C-cbqt8l7p",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T13:24:22+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-04T04:24:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -765069,7 +765107,8 @@
         "6648230",
         "6648238",
         "6648241",
-        "6648243"
+        "6648243",
+        "6648245"
       ]
     },
     "blind": {
