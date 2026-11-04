@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:26:00+00:00",
+  "updatedAt": "2026-11-04T17:26:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -770737,6 +770737,65 @@
       "comments": 0,
       "firstSeenAt": "2026-11-04T17:26:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98822,
+      "source": "qoo",
+      "externalId": "cmt-4396266476",
+      "title": "영철현숙 사이의 이슈를 잘 몰라서 더 그런 마음을 가진거 같음",
+      "excerpt": "오늘 영호태도 보니까 현숙이 아깝다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396265871#4396266476",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:26:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:26:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98823,
+      "source": "qoo",
+      "externalId": "cmt-4396266641",
+      "title": "그럴 수도 있겟네",
+      "excerpt": "근데 현숙이 느꼈던 걸 영호도 느낀 거 아님?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396266469#4396266641",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:26:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:26:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98824,
+      "source": "dc",
+      "externalId": "6655808",
+      "title": "솔직발랄 한의사 셔터맨 되기 vs 3살많은 병약 노괴 수발들기",
+      "excerpt": "",
+      "author": "친하게지내자",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6655808&page=1",
+      "postedLabel": "02:26",
+      "postedAt": "2026-11-05T02:26:03+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:26:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -770909,7 +770968,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T02:23:41+09:00"
+      "slowAt": "2026-11-05T02:26:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -780924,6 +780983,8 @@
         "6655350",
         "6655356",
         "6655378",
+        "6655389",
+        "6655390",
         "6655403",
         "6655408",
         "6655411",
@@ -780993,7 +781054,8 @@
         "6655780",
         "6655791",
         "6655801",
-        "6655805"
+        "6655805",
+        "6655807"
       ]
     },
     "blind": {
@@ -783911,6 +783973,7 @@
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%9E%90%EA%B8%B0%EA%B0%9D%EA%B4%80%ED%99%94%EA%B0%80-4tinrhxp",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%9E%98%EC%83%9D%EA%B8%B4-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%A5%BC-%ED%9A%8D%EB%93%9D%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%88%EC%9D%8C%EC%9D%B4-%ED%81%AC%EA%B8%B0-%EB%95%8C%EB%AC%B8%EC%97%90-x8vf2qt2",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%A1%B0%EC%84%A0%EC%8B%9C%EB%8C%80-%EC%96%91%EB%B0%98%EC%A7%91-%EB%94%B8-%ED%95%98%EC%9D%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80-xqb8180w",
+        "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%A2%80-%EC%95%88%ED%83%80%EA%B9%9D%EB%84%A4-cf8qjffb",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%ED%95%9C%EB%B3%B5%EC%9E%85%EC%9C%BC%EB%A9%B4-%EB%94%B1%EC%9D%B8%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-6kl0rlk4",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EB%B0%98%EB%82%A9%ED%95%B4%EB%9D%BC-ee2jxz4q",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%ED%97%8C%EC%88%99%EC%9D%B4-%EC%9E%98%EB%95%8C-%EA%B8%89%EC%86%8C%ED%98%88-%EC%B9%A8%EB%86%93%EC%9D%84%EA%BA%BC-%EA%B0%99%EC%9D%8C-0gtjpqlb",
