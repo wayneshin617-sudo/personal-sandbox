@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T23:52:14+00:00",
+  "updatedAt": "2026-11-04T23:54:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -778687,6 +778687,45 @@
       "firstSeenAt": "2026-11-04T23:52:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99223,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%95%EB%8F%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%81%B0-%EC%88%9C%EC%9E%90-0o1gzch8",
+      "title": "압도적으로 큰 순자",
+      "excerpt": "마음이",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%95%EB%8F%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%81%B0-%EC%88%9C%EC%9E%90-0o1gzch8",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T08:53:57+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-04T23:54:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99224,
+      "source": "blind",
+      "externalId": "cmt-459787649",
+      "title": "영호는 그냥 방송에 나갈 자기 이미지만 챙기는 애야. 그러니까 단 한번도 상대방들한테 정확히 애기를 안하고 돌리고 돌리고 있는거고",
+      "excerpt": "어제 현숙 그냥 영호한테 빠진 여자아님?",
+      "author": "마******** 작성자",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%ED%98%84%EC%88%99-%EA%B7%B8%EB%83%A5-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EB%B9%A0%EC%A7%84-%EC%97%AC%EC%9E%90%EC%95%84%EB%8B%98-c3mlc0h0#459787649",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T08:53:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T23:54:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -778860,7 +778899,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T08:50:56+09:00"
+      "slowAt": "2026-11-05T08:53:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -789146,6 +789185,7 @@
         "6656456",
         "6656465",
         "6656467",
+        "6656470",
         "6656478",
         "6656486",
         "6656490",
