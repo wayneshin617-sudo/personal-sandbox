@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:29:59+00:00",
+  "updatedAt": "2026-11-04T17:30:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -770936,6 +770936,66 @@
       "firstSeenAt": "2026-11-04T17:29:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98832,
+      "source": "qoo",
+      "externalId": "cmt-4396267755",
+      "title": "@2 ㅇㅇ이거같음",
+      "excerpt": "한달에 한두번 만난다는건 그냥",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396266751#4396267755",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:29:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:30:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98833,
+      "source": "blind",
+      "externalId": "cmt-459772266",
+      "title": "ㄹㅇㅋㅋ 자기객관화 시급해보임",
+      "excerpt": "현숙이가 착한지 모르겠다, 본모습 모르겠다",
+      "author": "l********* 작성자",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%B0%A9%ED%95%9C%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-%EB%B3%B8%EB%AA%A8%EC%8A%B5-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-r5eltx20#459772266",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:30:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:30:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98834,
+      "source": "blind",
+      "externalId": "cmt-459772246",
+      "title": "ㄴㄷ 잘 모르겠음 여기서 까내리는 사람들이 더 악질같아ㅋㅋㅋ",
+      "excerpt": "현숙이가 착한지 모르겠다, 본모습 모르겠다",
+      "author": "m*********",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%B0%A9%ED%95%9C%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-%EB%B3%B8%EB%AA%A8%EC%8A%B5-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4-r5eltx20#459772246",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:30:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:30:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -781133,6 +781193,7 @@
         "6655412",
         "6655413",
         "6655415",
+        "6655422",
         "6655424",
         "6655425",
         "6655435",
@@ -781199,7 +781260,9 @@
         "6655805",
         "6655807",
         "6655814",
-        "6655816"
+        "6655816",
+        "6655827",
+        "6655829"
       ]
     },
     "blind": {
