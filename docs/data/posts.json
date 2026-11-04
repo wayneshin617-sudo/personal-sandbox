@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T10:41:03+00:00",
+  "updatedAt": "2026-11-04T10:42:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -758620,6 +758620,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-04T10:41:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98207,
+      "source": "qoo",
+      "externalId": "cmt-4395814551",
+      "title": "예능방가면 되는뎁",
+      "excerpt": "여기 나솔말고 다른프로 얘기 해도되는거야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395783514#4395814551",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T18:41:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T10:42:04+00:00",
       "isSeed": false,
       "kind": "reply"
     }
