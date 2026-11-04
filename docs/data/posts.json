@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T19:02:00+00:00",
+  "updatedAt": "2026-11-04T19:03:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -775410,6 +775410,46 @@
       "firstSeenAt": "2026-11-04T19:02:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99057,
+      "source": "blind",
+      "externalId": "cmt-459766790",
+      "title": "이게 은근히 수요가 잇다는게 ㅋㅋㅋㅋ",
+      "excerpt": "상철 여자한테 수요있는 상임??",
+      "author": "l******** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%97%AC%EC%9E%90%ED%95%9C%ED%85%8C-%EC%88%98%EC%9A%94%EC%9E%88%EB%8A%94-%EC%83%81%EC%9E%84-5qo20khr#459766790",
+      "postedLabel": "3시간",
+      "postedAt": "2026-11-05T01:02:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T19:03:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99058,
+      "source": "blind",
+      "externalId": "cmt-459766703",
+      "title": "밭에서 막 캔 감자상",
+      "excerpt": "상철 여자한테 수요있는 상임??",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%97%AC%EC%9E%90%ED%95%9C%ED%85%8C-%EC%88%98%EC%9A%94%EC%9E%88%EB%8A%94-%EC%83%81%EC%9E%84-5qo20khr#459766703",
+      "postedLabel": "3시간",
+      "postedAt": "2026-11-05T01:02:33+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T19:03:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -775583,7 +775623,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T03:59:42+09:00"
+      "slowAt": "2026-11-05T04:02:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -785785,7 +785825,8 @@
         "6656178",
         "6656181",
         "6656194",
-        "6656197"
+        "6656197",
+        "6656207"
       ]
     },
     "blind": {
