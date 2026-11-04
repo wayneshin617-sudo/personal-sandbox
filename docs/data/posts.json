@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T22:23:15+00:00",
+  "updatedAt": "2026-11-04T22:25:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -776394,6 +776394,66 @@
       "firstSeenAt": "2026-11-04T22:23:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99107,
+      "source": "dc",
+      "externalId": "cmt-10994772",
+      "title": "영철 정도면 7점은 걍 만나지 뭔 4점을 왜 만남? - dc App",
+      "excerpt": "34영철 진짜 이쁜애는 못만나 본듯",
+      "author": "뚱보",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656089&page=6#cmt_10994772",
+      "postedLabel": "11.05 03:53:24",
+      "postedAt": "2026-11-05T03:53:24+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:25:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99108,
+      "source": "blind",
+      "externalId": "cmt-459776412",
+      "title": "그래도 저런 남자가 좋은 사람임.",
+      "excerpt": "영호님",
+      "author": "날*******",
+      "company": "KG모빌리티",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-uzqzk2lh#459776412",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-05T05:24:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:25:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99109,
+      "source": "blind",
+      "externalId": "cmt-459775990",
+      "title": "오 나는 남자인데 그렇게 보임",
+      "excerpt": "영호님",
+      "author": "🐡***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-uzqzk2lh#459775990",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-05T05:24:56+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:25:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -786757,6 +786817,7 @@
         "6656083",
         "6656084",
         "6656088",
+        "6656089",
         "6656103",
         "6656109",
         "6656110",
@@ -786788,12 +786849,16 @@
         "6656243",
         "6656245",
         "6656247",
+        "6656251",
         "6656320",
+        "6656329",
         "6656368",
         "6656370",
         "6656372",
+        "6656377",
         "6656407",
-        "6656410"
+        "6656410",
+        "6656415"
       ]
     },
     "blind": {
@@ -790569,6 +790634,7 @@
         "/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-5gyop8rq",
         "/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-c3vodut1",
         "/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-gmupattv",
+        "/kr/post/%EC%98%81%ED%98%B8%EB%8B%98-uzqzk2lh",
         "/kr/post/%EC%98%81%ED%98%B8%EB%8F%84-%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%9D%BC-ypg2qozz",
         "/kr/post/%EC%98%81%ED%98%B8%EB%8F%84-%EC%9D%B8%EC%8A%A4%ED%83%80-%EB%B9%84%ED%99%9C-%ED%92%80%EC%97%88%EB%84%A4-j0fomvkv",
         "/kr/post/%EC%98%81%ED%98%B8%EB%8F%84-%EC%9D%BC%EB%85%80-%EB%A7%8C%EB%82%98%EA%B3%A0%EC%8B%B6%EC%96%B4%EC%84%9C-%EB%8F%84%EC%BF%84-%EA%B0%93%EC%9D%84%EA%B1%B0%EB%8B%A4-qfzs3wjx",
