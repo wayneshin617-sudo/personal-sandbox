@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T13:57:39+00:00",
+  "updatedAt": "2026-11-04T13:58:36+00:00",
   "posts": [
     {
       "id": 1,
@@ -395770,6 +395770,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-04T13:57:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 26497,
+      "source": "yt",
+      "externalId": "UgyKk6mwoN1Yudn61Up4AaABAg",
+      "title": "밤에커피사는거보고 헉했는데",
+      "excerpt": "[나는솔로 34기] 현숙이가 서울 살면서 수입차 몰고 집이 잘살아서 좋다는 영철",
+      "author": "@qpuio001",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=k1RP1-ZeWfY&lc=UgyKk6mwoN1Yudn61Up4AaABAg",
+      "postedLabel": "18분 전",
+      "postedAt": "2026-11-04T22:40:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T13:58:31+00:00",
       "isSeed": false
     }
   ]
