@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T19:09:00+00:00",
+  "updatedAt": "2026-11-04T19:10:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -775489,6 +775489,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T19:09:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99061,
+      "source": "qoo",
+      "externalId": "cmt-4396287352",
+      "title": "난 그 도라에몽 좋아하는 탈렌트도 닮은 듯",
+      "excerpt": "근데 영호 닮은꼴 누구 있어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396257800#4396287352",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T02:47:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T19:10:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99062,
+      "source": "dc",
+      "externalId": "cmt-10994801",
+      "title": "뭘 물러나 다음주예고 보고오셈 - dc App",
+      "excerpt": "영철 ☜ 그래도 멋있는 사람 아님?",
+      "author": "jdhfjehdjdkdjj",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656227&page=1#cmt_10994801",
+      "postedLabel": "11.05 04:09:22",
+      "postedAt": "2026-11-05T04:09:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T19:10:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -785872,7 +785912,8 @@
         "6656207",
         "6656208",
         "6656218",
-        "6656222"
+        "6656222",
+        "6656227"
       ]
     },
     "blind": {
