@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T09:03:31+00:00",
+  "updatedAt": "2026-11-04T09:04:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -756882,6 +756882,45 @@
       "firstSeenAt": "2026-11-04T09:03:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98119,
+      "source": "qoo",
+      "externalId": "4395783514",
+      "title": "여기 나솔말고 다른프로 얘기 해도되는거야?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4395783514",
+      "postedLabel": "18:03",
+      "postedAt": "2026-11-04T18:03:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T09:04:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 98120,
+      "source": "blind",
+      "externalId": "cmt-459706164",
+      "title": "진심?",
+      "excerpt": "현재 논란인 분",
+      "author": "y******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%9E%AC-%EB%85%BC%EB%9E%80%EC%9D%B8-%EB%B6%84-dgmruina#459706164",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T18:04:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T09:04:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -757054,7 +757093,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T18:01:15+09:00"
+      "slowAt": "2026-11-04T18:04:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -766942,6 +766981,7 @@
         "6648388",
         "6648390",
         "6648392",
+        "6648394",
         "6648420",
         "6648428",
         "6648432",
@@ -766976,7 +767016,8 @@
         "6648665",
         "6648673",
         "6648678",
-        "6648689"
+        "6648689",
+        "6648691"
       ]
     },
     "blind": {
@@ -776834,7 +776875,8 @@
         "4395613743",
         "4395694515",
         "4395736652",
-        "4395765494"
+        "4395765494",
+        "4395783514"
       ]
     },
     "keep": "v2",
