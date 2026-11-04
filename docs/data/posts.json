@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T09:12:32+00:00",
+  "updatedAt": "2026-11-04T09:13:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -757038,6 +757038,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-04T09:12:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98127,
+      "source": "dc",
+      "externalId": "cmt-10992747",
+      "title": "병신아 모집 다되간다는거자나 자리몇밖에없다고",
+      "excerpt": "날짜땜에 마감임박인데 인원이 다 차긴 개뿔 ㅋㅋㅋ",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6648316&page=6#cmt_10992747",
+      "postedLabel": "11.04 14:16:12",
+      "postedAt": "2026-11-04T14:16:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T09:13:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -757210,7 +757230,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T18:10:16+09:00"
+      "slowAt": "2026-11-04T18:13:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -767090,6 +767110,7 @@
         "6648305",
         "6648310",
         "6648312",
+        "6648316",
         "6648330",
         "6648338",
         "6648343",
@@ -767811,6 +767832,7 @@
         "/kr/post/%EB%82%98%EC%86%94-%EC%8B%A0%EC%B2%AD%EC%84%9C-%EB%82%B4%EB%B3%B8-%EC%82%AC%EB%9E%8C%EC%9E%88%EC%96%B4-qptqy41b",
         "/kr/post/%EB%82%98%EC%86%94-%EC%8B%A0%EC%B2%AD%ED%95%A0%EA%B9%8C-vmkdoemc",
         "/kr/post/%EB%82%98%EC%86%94-%EC%8B%A0%EC%B2%AD%ED%95%B4%EB%B3%BC%EA%B9%8C-%EC%A7%84%EC%A7%80%ED%95%98%EA%B2%8C-%EA%B3%A0%EB%AF%BC-3xrobvi1",
+        "/kr/post/%EB%82%98%EC%86%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-ott-%EC%97%86%EC%A7%80%E3%85%A0%E3%85%A0-q2eug5n3",
         "/kr/post/%EB%82%98%EC%86%94-%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-%EB%82%98%EC%99%94%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4%EB%8A%94-%EB%B0%94%EB%9E%A8%EC%9D%B4-%EB%B0%A9%EA%B8%88-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%90-yxk0q1f1",
         "/kr/post/%EB%82%98%EC%86%94-%EC%95%88%EB%B3%B4%EB%8A%94-%EB%82%98%EC%95%8C%EB%AA%BB%EC%9D%B8%EB%8D%B0-in7opcoc",
         "/kr/post/%EB%82%98%EC%86%94-%EC%96%B8%EC%A0%9C-v8ufqkj2",
