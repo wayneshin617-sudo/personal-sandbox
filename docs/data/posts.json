@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:38:59+00:00",
+  "updatedAt": "2026-11-04T17:40:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -771592,6 +771592,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-04T17:38:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98865,
+      "source": "qoo",
+      "externalId": "cmt-4396271428",
+      "title": "ㄹㅇㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "근데 이번 기수 간만에 다 잡은 느낌이다 ㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396271258#4396271428",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:39:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:40:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98866,
+      "source": "qoo",
+      "externalId": "cmt-4396271486",
+      "title": "아진짜? ㅋㅋㅋㅋㅋㅋ 나도 볼래",
+      "excerpt": "아 1화부터 다시봐야겠다 ㅎㅎㅎㅎㅎ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396269058#4396271486",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:39:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:40:00+00:00",
       "isSeed": false,
       "kind": "reply"
     }
