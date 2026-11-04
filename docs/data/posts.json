@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T23:38:15+00:00",
+  "updatedAt": "2026-11-04T23:41:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -778310,6 +778310,45 @@
       "firstSeenAt": "2026-11-04T23:38:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99204,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%84%A0%EB%8C%93-%ED%99%95%EC%9D%B8-%ED%9B%84-%EA%B0%90%EC%83%81%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B3%B4%EA%B3%A0%EC%9E%88%EB%8A%94%EB%8D%B0-a1gt4dvm",
+      "title": "선댓 확인 후 감상하려고 보고있는데",
+      "excerpt": "여기 전체적으로 맘에 안들면 그냥 넘어갈것들도 굳이굳이 이상하다고 몰고가서 까는게 좀 많은듯 완벽한 사람 아니면 살아남기 힘들듯",
+      "author": "금*********",
+      "company": "KCC건설",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%A0%EB%8C%93-%ED%99%95%EC%9D%B8-%ED%9B%84-%EA%B0%90%EC%83%81%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B3%B4%EA%B3%A0%EC%9E%88%EB%8A%94%EB%8D%B0-a1gt4dvm",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T08:40:57+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-04T23:41:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99205,
+      "source": "blind",
+      "externalId": "cmt-459786339",
+      "title": "일단 나솔 출연자들은 정신건강을 위해 블라앱 삭제해야됨ㅋㅋㅋㅋ",
+      "excerpt": "선댓 확인 후 감상하려고 보고있는데",
+      "author": "처***",
+      "company": "LG생활건강",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%A0%EB%8C%93-%ED%99%95%EC%9D%B8-%ED%9B%84-%EA%B0%90%EC%83%81%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B3%B4%EA%B3%A0%EC%9E%88%EB%8A%94%EB%8D%B0-a1gt4dvm#459786339",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T08:40:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T23:41:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -778417,7 +778456,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T08:37:56+09:00"
+      "slowAt": "2026-11-05T08:40:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -788781,7 +788820,8 @@
         "6656531",
         "6656537",
         "6656540",
-        "6656543"
+        "6656543",
+        "6656544"
       ]
     },
     "blind": {
@@ -790650,6 +790690,7 @@
         "/kr/post/%EC%84%9C%ED%98%95-%EB%81%9D%EA%B9%8C%EC%A7%80-%EC%9E%A5%EB%82%9C%EC%9D%B4%EC%95%BC-f34vkdfe",
         "/kr/post/%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%82%A8-%EB%B9%8C%EB%9F%B0%EC%9E%84-2k1fopyv",
         "/kr/post/%EC%84%A0%EB%82%A8%EC%84%A0%EB%85%80-v2jp6yxs",
+        "/kr/post/%EC%84%A0%EB%8C%93-%ED%99%95%EC%9D%B8-%ED%9B%84-%EA%B0%90%EC%83%81%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B3%B4%EA%B3%A0%EC%9E%88%EB%8A%94%EB%8D%B0-a1gt4dvm",
         "/kr/post/%EC%84%A0%EB%A7%88%ED%83%9C%EC%95%84-2ju4x51t",
         "/kr/post/%EC%84%A0%EB%A7%88-%EB%B3%B4%EA%B3%A0%EC%8B%B6%EB%8B%A4-%EC%84%A0%EB%A7%88%ED%83%9C%EC%95%84-%EC%9A%94%EC%A6%98-%EA%B7%BC%ED%99%A9-%EB%AD%90%EC%95%BC-er2ao1nv",
         "/kr/post/%EC%84%A4%EB%A7%88-%EC%96%BC%EA%B5%B4%EB%A7%8C%ED%95%9C-%EB%AC%B8%EC%8B%A0%EC%9D%84-%ED%96%88%EA%B2%A0%EB%83%90-580hdtx5",
