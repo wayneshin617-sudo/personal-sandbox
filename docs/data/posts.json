@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T23:24:16+00:00",
+  "updatedAt": "2026-11-04T23:25:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -777795,6 +777795,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-04T23:24:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99178,
+      "source": "qoo",
+      "externalId": "cmt-4396309171",
+      "title": "지팔지꼰",
+      "excerpt": "영철도 보다보니 안타깝다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396290939#4396309171",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T07:24:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T23:25:14+00:00",
       "isSeed": false,
       "kind": "reply"
     }
