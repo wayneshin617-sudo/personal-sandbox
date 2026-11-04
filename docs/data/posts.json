@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T00:08:45+00:00",
+  "updatedAt": "2026-11-04T00:11:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -753135,6 +753135,26 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-04T00:08:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97930,
+      "source": "blind",
+      "externalId": "cmt-459646109",
+      "title": "싫어할 줄 알고 예방차원에서 미안하다고 얘기하는 것도 있는 듯",
+      "excerpt": "돌싱영수는 입에",
+      "author": "b***** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%8C%EC%8B%B1%EC%98%81%EC%88%98%EB%8A%94-%EC%9E%85%EC%97%90-w2icsf0m#459646109",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T09:11:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T00:11:45+00:00",
       "isSeed": false,
       "kind": "reply"
     }
