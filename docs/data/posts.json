@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T23:51:14+00:00",
+  "updatedAt": "2026-11-04T23:52:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -778667,6 +778667,26 @@
       "firstSeenAt": "2026-11-04T23:51:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99222,
+      "source": "blind",
+      "externalId": "cmt-459787375",
+      "title": "그렇게 생각하셨으면 정상인보다 EQ가 낮다고 알고계시면 됨",
+      "excerpt": "어제 현숙 그냥 영호한테 빠진 여자아님?",
+      "author": "|*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%ED%98%84%EC%88%99-%EA%B7%B8%EB%83%A5-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EB%B9%A0%EC%A7%84-%EC%97%AC%EC%9E%90%EC%95%84%EB%8B%98-c3mlc0h0#459787375",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T08:51:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T23:52:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -789125,6 +789145,7 @@
         "6656455",
         "6656456",
         "6656465",
+        "6656467",
         "6656478",
         "6656486",
         "6656490",
@@ -789141,7 +789162,8 @@
         "6656543",
         "6656544",
         "6656555",
-        "6656557"
+        "6656557",
+        "6656568"
       ]
     },
     "blind": {
