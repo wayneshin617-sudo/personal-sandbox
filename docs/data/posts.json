@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T18:55:01+00:00",
+  "updatedAt": "2026-11-04T18:57:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -775290,6 +775290,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-04T18:55:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99051,
+      "source": "qoo",
+      "externalId": "cmt-4396288636",
+      "title": "ㄴㅇㄱ",
+      "excerpt": "다른 얘긴데, mc들 생일 붙어있는거 신기하닼ㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396287321#4396288636",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T02:57:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:57:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99052,
+      "source": "blind",
+      "externalId": "cmt-459774497",
+      "title": "가볍고 조급하고 심지가 약할뿐 악해보이진 않음",
+      "excerpt": "근데 난 영철이가 인성이 나빠보이지는 않음",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%9C-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EC%9D%B8%EC%84%B1%EC%9D%B4-%EB%82%98%EB%B9%A0%EB%B3%B4%EC%9D%B4%EC%A7%80%EB%8A%94-%EC%95%8A%EC%9D%8C-u0zqp546#459774497",
+      "postedLabel": "14분",
+      "postedAt": "2026-11-05T03:43:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:57:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99053,
+      "source": "blind",
+      "externalId": "cmt-459774717",
+      "title": "적어도 애가 최소한의 눈치는 있어서 현숙이 대놓고 영호랑만 이야기할때 끼어들진 않음 현숙이 오히려 별로였음",
+      "excerpt": "근데 난 영철이가 인성이 나빠보이지는 않음",
+      "author": "I*********",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%82%9C-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EC%9D%B8%EC%84%B1%EC%9D%B4-%EB%82%98%EB%B9%A0%EB%B3%B4%EC%9D%B4%EC%A7%80%EB%8A%94-%EC%95%8A%EC%9D%8C-u0zqp546#459774717",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-05T03:51:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:57:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -785614,6 +785674,7 @@
         "6655951",
         "6655952",
         "6655953",
+        "6655961",
         "6655962",
         "6655964",
         "6655965",
@@ -785663,7 +785724,8 @@
         "6656169",
         "6656178",
         "6656181",
-        "6656194"
+        "6656194",
+        "6656197"
       ]
     },
     "blind": {
