@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T08:27:32+00:00",
+  "updatedAt": "2026-11-04T08:29:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -756428,6 +756428,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T08:27:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98096,
+      "source": "blind",
+      "externalId": "cmt-459691058",
+      "title": "나듀...",
+      "excerpt": "나 나솔중독인듯",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EB%82%98%EC%86%94%EC%A4%91%EB%8F%85%EC%9D%B8%EB%93%AF-8fje0nqq#459691058",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-04T15:29:11+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T08:29:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98097,
+      "source": "qoo",
+      "externalId": "cmt-4395700037",
+      "title": "나도..;;;;",
+      "excerpt": "오늘만 기다렸다면 믿어줄래?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4395694515#4395700037",
+      "postedLabel": "",
+      "postedAt": "2026-11-04T16:28:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T08:29:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -766471,10 +766511,12 @@
         "6648330",
         "6648338",
         "6648343",
+        "6648346",
         "6648420",
         "6648428",
         "6648482",
         "6648491",
+        "6648500",
         "6648606",
         "6648621"
       ]
