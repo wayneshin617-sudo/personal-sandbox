@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T18:42:01+00:00",
+  "updatedAt": "2026-11-04T18:43:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -774812,6 +774812,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-04T18:42:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99027,
+      "source": "qoo",
+      "externalId": "cmt-4396286447",
+      "title": "@6 2222 내 사람 되고 나면 잘 챙기고 가정적이고 좋을것 같음",
+      "excerpt": "영호 지인으로는 좋은 사람인 거 같은데 남친이나 남편으로는 모르겠음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396269120#4396286447",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T02:42:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:43:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99028,
+      "source": "blind",
+      "externalId": "cmt-459774459",
+      "title": "정숙은 왱기억에안나지",
+      "excerpt": "영호 시립대상이라는거 듣고 다른출연자들도 적어봄",
+      "author": "i****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%8B%9C%EB%A6%BD%EB%8C%80%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8A%94%EA%B1%B0-%EB%93%A3%EA%B3%A0-%EB%8B%A4%EB%A5%B8%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EB%8F%84-%EC%A0%81%EC%96%B4%EB%B4%84-xmbjtvit#459774459",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T03:42:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:43:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -785172,7 +785212,8 @@
         "6656129",
         "6656136",
         "6656142",
-        "6656145"
+        "6656145",
+        "6656151"
       ]
     },
     "blind": {
@@ -788997,6 +789038,7 @@
         "/kr/post/%EC%98%81%ED%98%B8-%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%EC%96%98%EA%B8%B0%EB%93%A3%EB%8D%94%EB%8B%88-znudynkf",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%8A%A4%EC%8B%9C%EB%85%80-%EB%A7%8C%EB%82%98%EB%9F%AC%EA%B0%93%EB%8B%A4-%EC%8B%A4%ED%8C%A8%ED%96%87%EB%82%98%EB%B3%B4%EB%88%84-u8x3j3jr",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%8A%AC%EC%8A%AC-%EC%97%B4%EB%B0%9B%EB%84%A4-lhfjrnlc",
+        "/kr/post/%EC%98%81%ED%98%B8-%EC%8B%9C%EB%A6%BD%EB%8C%80%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8A%94%EA%B1%B0-%EB%93%A3%EA%B3%A0-%EB%8B%A4%EB%A5%B8%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EB%8F%84-%EC%A0%81%EC%96%B4%EB%B4%84-xmbjtvit",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%8C%89-%EB%85%B8%EC%9E%BC%EC%9D%B4%EB%88%84-4qivn2q8",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%95%95%EC%82%B4-eod2n2f7",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%96%91%EB%A7%90-eidy5jun",
