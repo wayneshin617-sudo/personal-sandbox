@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T16:32:03+00:00",
+  "updatedAt": "2026-11-04T16:32:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -762221,6 +762221,25 @@
       "firstSeenAt": "2026-11-04T16:32:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98394,
+      "source": "dc",
+      "externalId": "6655443",
+      "title": "전세계경제 이제 ㅈ된다고 숏쳐라 경제대공항온다.",
+      "excerpt": "",
+      "author": "갠프천재훈이",
+      "company": "",
+      "ip": "51.158",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6655443&page=1",
+      "postedLabel": "01:32",
+      "postedAt": "2026-11-05T01:32:25+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T16:32:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -762393,7 +762412,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T20:06:02+09:00"
+      "slowAt": "2026-11-05T01:32:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -772390,8 +772409,10 @@
         "6655403",
         "6655408",
         "6655411",
+        "6655412",
         "6655413",
-        "6655415"
+        "6655415",
+        "6655425"
       ]
     },
     "blind": {
@@ -775964,6 +775985,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%91%EB%85%84%EC%97%90-%EC%B1%85-60%EA%B6%8C-%EC%9D%BD%EC%97%88%EB%8B%A4%EB%8D%98%EB%8D%B0-uzu7p6xw",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%98%EC%83%9D%EA%B2%A8%EB%8F%84-%EC%9E%85%EC%9D%B4-%EA%B0%80%EB%B2%BC%EC%9A%B0%EB%A9%B4-%EB%B3%84%EB%A1%9C%EA%B5%AC%EB%82%98-l1ma10do",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8B%A4-1e2fz1vd",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%98%EC%83%9D%EA%B8%B0%EA%B8%B4%ED%96%88%EB%8A%94%EB%8D%B0-w242dfrb",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%98%EC%83%9D%EA%B8%B0%EA%B8%B4%ED%96%88%EB%8B%A4-%ED%97%8C%ED%8F%AC%EC%97%90%EC%84%9C-%EB%A7%8C%EB%82%98%EB%A9%B4-%EB%84%98%EC%96%B4%EA%B0%94%EC%9D%8C-6ocr8ern",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%9E%A5%EC%9D%B4%EC%88%98-%EC%95%88%EB%8B%AE%EC%95%98%EB%83%90%EA%B3%A0-%E3%85%A0%E3%85%A0-ugq5q4hp",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%9F%A4-%EB%AA%A8%EC%8F%A0%EC%95%84%EB%8B%98-hcf883vy",
@@ -776258,6 +776280,7 @@
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%98%81%EC%88%99-%EC%A0%84%EB%B3%B4%EB%8B%A4-%EC%A2%80-%EA%B4%9C%EC%B0%AE%EC%A7%80%EC%95%8A%EC%9D%8C-xpsjoho1",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%98%81%EC%9E%90-%EC%98%88%EC%81%98%EB%84%A4-fqcvpbqq",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%B2%AB%EC%8B%9C%EC%B2%AD%EC%9E%84-2f0ted43",
+        "/kr/post/%EC%98%A4%EB%8A%98-%EC%9D%B4%EC%8A%88-%EA%B3%B5%EC%9C%A0%EC%A2%80-mfmuor1m",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%97%AC%EC%9E%90-%EC%86%8C%EA%B0%9C%ED%95%98%EB%A0%A4-%ED%95%A0%EB%95%8C-%EB%81%9D%EB%82%9C%EB%8B%A4-in4lseji",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%9E%90-%EA%B8%B8%EA%B0%80%EB%8B%A4-%EB%A7%88%EC%A3%BC%EC%B9%9C%E2%80%A6%EC%B4%8C%EC%9E%A5%EB%8B%98-vs4va5ul",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%9C%84%EB%84%88%EB%8A%94-u5oowaj8",
@@ -777316,6 +777339,7 @@
         "/kr/post/%ED%8C%A8%EB%84%90%EB%93%A4-%EC%89%B4%EB%93%9C%EA%B0%80-%EC%A7%80%EA%B5%AC%EB%B0%A9%EC%9C%84%EB%8C%80-%EC%88%98%EC%A4%80%EC%9D%B4%EB%84%A4-rgk3rrqy",
         "/kr/post/%ED%8C%A8%EC%85%98-%EC%A7%91%EC%88%9C%EC%9D%B4%EB%93%A4%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%A7%80%EA%B8%B4-%ED%96%88%EB%84%A4-0ir3bbg6",
         "/kr/post/%ED%8C%A9%ED%8A%B8%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4-90%EB%8A%94-%ED%98%84%EC%8B%A4%EC%97%90%EC%84%9C-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%91%EC%97%85%EA%B1%B8%EB%A9%B4-mnwt2l68",
+        "/kr/post/%ED%8C%A9%ED%8A%B8%EB%8A%94-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%8B%A4%EC%9D%8C%EC%A3%BC%EC%97%90%EB%8F%84-%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-%EB%93%A4%EC%9D%B4%EB%8C%84%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%9E%84-4mxn5g5l",
         "/kr/post/%ED%8E%98%EC%96%B4%ED%97%A4%EC%9D%B4%EB%B8%90%EC%9D%84-%EB%91%90%EA%B3%A0-1r2vgdjx",
         "/kr/post/%ED%8E%B8%EC%9D%98%EC%A0%90%EC%97%90-%EB%A9%80%EB%AF%B8%EC%95%BD-%EC%95%88%ED%8C%8C%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%98%EC%82%AC%EC%98%A8%EA%B1%B0%EB%83%90-n7qrb2c3",
         "/kr/post/%ED%8F%89%EC%83%9D-%EC%A0%80%EB%9E%98%EC%A4%84-%EC%88%98-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EC%98%81%ED%98%B8%EC%B2%98%EB%9F%BC-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%8B%A4-qy771wo1",
@@ -782285,6 +782309,14 @@
         "4396240765",
         "4396240855",
         "4396240907",
+        "4396241062",
+        "4396241352",
+        "4396241650",
+        "4396241663",
+        "4396242277",
+        "4396242301",
+        "4396242557",
+        "4396242987",
         "4396265871",
         "4396266469",
         "4396266533",
