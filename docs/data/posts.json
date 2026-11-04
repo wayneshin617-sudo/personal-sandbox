@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T02:23:35+00:00",
+  "updatedAt": "2026-11-04T02:26:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -754131,6 +754131,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T02:23:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 97980,
+      "source": "blind",
+      "externalId": "cmt-459660763",
+      "title": "누구",
+      "excerpt": "뚱뚱하게 출연하면 안되는거아니냐?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%9A%B1%EB%9A%B1%ED%95%98%EA%B2%8C-%EC%B6%9C%EC%97%B0%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B0%EC%95%84%EB%8B%88%EB%83%90-ibymbr7o#459660763",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T11:26:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T02:26:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -754303,7 +754323,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T11:23:19+09:00"
+      "slowAt": "2026-11-04T11:26:20+09:00"
     },
     "dc": {
       "doneIds": [
@@ -764088,6 +764108,7 @@
         "6647966",
         "6647968",
         "6647971",
+        "6647976",
         "6647977",
         "6647980",
         "6647983",
