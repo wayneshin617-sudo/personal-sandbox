@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T18:03:00+00:00",
+  "updatedAt": "2026-11-04T18:04:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -773400,6 +773400,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T18:03:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98956,
+      "source": "qoo",
+      "externalId": "cmt-4396275822",
+      "title": "ㄴㄷ",
+      "excerpt": "근데 순자랑 영호 잘 어울림",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396254591#4396275822",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:53:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:04:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -783710,7 +783730,9 @@
         "6655962",
         "6655964",
         "6655965",
-        "6655969"
+        "6655969",
+        "6655973",
+        "6655980"
       ]
     },
     "blind": {
@@ -785595,6 +785617,7 @@
         "/kr/post/%EC%84%B8%EB%84%A4%EA%B0%88-%ED%8A%A4%EB%A6%BD-%EC%95%88%EC%9C%A0%EC%A7%84-%EB%8B%AE%EC%95%98%EB%8B%A4-wrq6kj4s",
         "/kr/post/%EC%84%B8%EC%83%81%EC%97%90-%EC%83%9D%EB%AA%85%EC%9D%B4-%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94-%EB%AA%A8%EB%93%A0-%EA%B1%B4-ecd340bz",
         "/kr/post/%EC%84%B8%EC%83%81%EC%97%90-%EC%97%AC%EC%9C%A0%EC%9E%88%EB%8A%94-%EB%82%A8%EC%9E%94%EC%97%86%EC%96%B4-ln4iyopu",
+        "/kr/post/%EC%84%B8%EC%83%81%EC%9D%B4-%EB%82%98%EB%A5%BC-%EB%AA%B0%EC%B9%B4%ED%95%98%EB%82%98-%EC%9D%B4%EA%B2%8C-%EC%99%9C-%ED%98%84%EC%88%99%EC%9D%B4-%EC%9A%95-%EB%A8%B9%EC%A7%80-7g7dieqj",
         "/kr/post/%EC%84%B8%EC%83%81%EC%9D%B4-%EB%B6%88%ED%95%A9%EB%A6%AC%ED%95%9C%EA%B2%8C-0tku6ruw",
         "/kr/post/%EC%85%80%EC%86%8C-4qn3d63b",
         "/kr/post/%EC%86%8C%EA%B0%9C%ED%8C%85%EB%82%A8%ED%95%9C%ED%85%8C-%EC%97%B0%EB%9D%BD%ED%95%B4%EB%B4%90%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C%EC%9A%94-kkqo2hx5",
