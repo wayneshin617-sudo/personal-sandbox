@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T22:34:14+00:00",
+  "updatedAt": "2026-11-04T22:35:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -776652,6 +776652,26 @@
       "firstSeenAt": "2026-11-04T22:34:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99120,
+      "source": "blind",
+      "externalId": "cmt-459776487",
+      "title": "얘가 1등 아님?ㅋㅋ",
+      "excerpt": "나솔 유니버스 가식 톱2",
+      "author": "삼*****",
+      "company": "가톨릭중앙의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EA%B0%80%EC%8B%9D-%ED%86%B12-v77f3uth#459776487",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-05T05:34:55+09:00",
+      "views": null,
+      "recommends": 9,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:35:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -776759,7 +776779,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T07:31:57+09:00"
+      "slowAt": "2026-11-05T07:34:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -787051,9 +787071,11 @@
         "6656251",
         "6656255",
         "6656259",
+        "6656264",
         "6656320",
         "6656329",
         "6656332",
+        "6656337",
         "6656368",
         "6656370",
         "6656372",
@@ -787064,7 +787086,8 @@
         "6656415",
         "6656417",
         "6656419",
-        "6656422"
+        "6656422",
+        "6656425"
       ]
     },
     "blind": {
@@ -787747,6 +787770,7 @@
         "/kr/post/%EB%82%98%EC%86%94-%EC%98%A4%EB%9E%98%EB%B3%B8-%EC%95%A0%EB%93%A4%EC%95%84-%EB%8B%88%EB%84%A4-%EA%B4%80%EC%83%81-%EB%B3%B4%EB%8A%94-%EC%8A%A4%ED%82%AC-%EC%98%AC%EB%9D%BC%EA%B0%90-jk8804aq",
         "/kr/post/%EB%82%98%EC%86%94-%EC%98%A4%EB%9E%AB%EB%8F%99%EC%95%88-%EB%B3%B8-%EC%95%A0%EB%93%A4%EC%9D%80-%EC%98%81%EC%88%99%EC%9D%B4-%EB%93%B1%EC%9E%A5%ED%96%88%EC%9D%84%EB%95%8C-%EB%91%90%EA%B7%BC%EB%91%90%EA%B7%BC%ED%96%88%EC%9D%84%EA%B1%B0%EC%95%BC-4somqpte",
         "/kr/post/%EB%82%98%EC%86%94-%EC%98%A5%EC%88%9C%EC%9D%B4%EB%9E%91-%EC%82%AC%EA%B3%84-%EC%9E%91%EC%95%BD%EC%9D%84-%EB%B3%B4%EB%8B%88-qc04zelh",
+        "/kr/post/%EB%82%98%EC%86%94-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EA%B0%80%EC%8B%9D-%ED%86%B12-v77f3uth",
         "/kr/post/%EB%82%98%EC%86%94-%EC%9C%A1%EA%B0%81%ED%98%95%EB%85%80-%EA%B3%A0%ED%8A%B8-ng8ldetj",
         "/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%A6%84%EC%9D%80-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%82%98-ve82suw4",
         "/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B1%B0-%EB%B3%B4%EB%8A%94%EB%8D%B0-mrpo1rhe",
