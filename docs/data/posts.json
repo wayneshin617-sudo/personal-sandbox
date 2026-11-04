@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T03:00:38+00:00",
+  "updatedAt": "2026-11-04T03:09:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -754448,6 +754448,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-04T03:00:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 97996,
+      "source": "blind",
+      "externalId": "cmt-459663650",
+      "title": "출연하기로 했다가 막바지에 철회하면 대기자들 중에 급하게 섭외하는 경우가 많나봄",
+      "excerpt": "뚱뚱하게 출연하면 안되는거아니냐?",
+      "author": "리****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%9A%B1%EB%9A%B1%ED%95%98%EA%B2%8C-%EC%B6%9C%EC%97%B0%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B0%EC%95%84%EB%8B%88%EB%83%90-ibymbr7o#459663650",
+      "postedLabel": "13분",
+      "postedAt": "2026-11-04T11:56:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T03:09:39+00:00",
       "isSeed": false,
       "kind": "reply"
     }
