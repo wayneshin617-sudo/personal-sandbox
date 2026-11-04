@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:25:00+00:00",
+  "updatedAt": "2026-11-04T17:26:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -770698,6 +770698,45 @@
       "firstSeenAt": "2026-11-04T17:25:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98820,
+      "source": "qoo",
+      "externalId": "cmt-4396266096",
+      "title": "ㄹㅇ",
+      "excerpt": "오늘 영호태도 보니까 현숙이 아깝다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396265871#4396266096",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T01:25:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T17:26:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98821,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%A2%80-%EC%95%88%ED%83%80%EA%B9%9D%EB%84%A4-cf8qjffb",
+      "title": "영자는 좀 안타깝네",
+      "excerpt": "2픽이 둘 다 씹상향지원임 ㅋㅋㅋ",
+      "author": "l*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EC%A2%80-%EC%95%88%ED%83%80%EA%B9%9D%EB%84%A4-cf8qjffb",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T02:25:41+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-04T17:26:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -770805,7 +770844,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T02:22:41+09:00"
+      "slowAt": "2026-11-05T02:25:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -780884,6 +780923,7 @@
         "6655346",
         "6655350",
         "6655356",
+        "6655378",
         "6655403",
         "6655408",
         "6655411",
@@ -780952,7 +780992,8 @@
         "6655774",
         "6655780",
         "6655791",
-        "6655801"
+        "6655801",
+        "6655805"
       ]
     },
     "blind": {
