@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T17:59:59+00:00",
+  "updatedAt": "2026-11-04T18:00:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -773124,6 +773124,64 @@
       "firstSeenAt": "2026-11-04T17:59:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 98942,
+      "source": "qoo",
+      "externalId": "cmt-4396277952",
+      "title": "아아 이해해쓰",
+      "excerpt": "현숙 되게 물음표를 많이쓴다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396275538#4396277952",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T02:00:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:00:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 98943,
+      "source": "qoo",
+      "externalId": "4396289053",
+      "title": "지금 보는 중인데 걍 영호현숙 누구의 잘못도 아니고 분위기가 그렇게 만들어버린거 같음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396289053",
+      "postedLabel": "03:00",
+      "postedAt": "2026-11-05T03:00:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:00:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 98944,
+      "source": "dc",
+      "externalId": "6655971",
+      "title": "내가 20대 중후반이라면 이런 단지를 사겠어요",
+      "excerpt": "",
+      "author": "크롱",
+      "company": "",
+      "ip": "58.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6655971&page=1",
+      "postedLabel": "03:00",
+      "postedAt": "2026-11-05T03:00:04+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T18:00:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -783373,6 +783431,8 @@
         "6655634",
         "6655635",
         "6655648",
+        "6655656",
+        "6655657",
         "6655659",
         "6655660",
         "6655664",
@@ -783431,7 +783491,8 @@
         "6655952",
         "6655962",
         "6655964",
-        "6655965"
+        "6655965",
+        "6655969"
       ]
     },
     "blind": {
@@ -793480,7 +793541,8 @@
         "4396281032",
         "4396282709",
         "4396286171",
-        "4396287321"
+        "4396287321",
+        "4396289053"
       ]
     },
     "keep": "v2",
