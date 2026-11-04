@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T22:47:15+00:00",
+  "updatedAt": "2026-11-04T22:48:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -776887,6 +776887,26 @@
       "firstSeenAt": "2026-11-04T22:47:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99132,
+      "source": "blind",
+      "externalId": "cmt-459781586",
+      "title": "모자해서 모자 두개썼나",
+      "excerpt": "영철이는 짜증나지만 뒤끝이 찝찝하진 않은데",
+      "author": "나는야 좋은 사람",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-%EC%A7%9C%EC%A6%9D%EB%82%98%EC%A7%80%EB%A7%8C-%EB%92%A4%EB%81%9D%EC%9D%B4-%EC%B0%9D%EC%B0%9D%ED%95%98%EC%A7%84-%EC%95%8A%EC%9D%80%EB%8D%B0-rcfkpzje#459781586",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T07:47:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T22:48:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -777060,7 +777080,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T07:44:56+09:00"
+      "slowAt": "2026-11-05T07:47:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -787291,6 +787311,7 @@
         "6656278",
         "6656281",
         "6656284",
+        "6656286",
         "6656320",
         "6656329",
         "6656332",
