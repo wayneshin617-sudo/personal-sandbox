@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T01:58:40+00:00",
+  "updatedAt": "2026-11-04T01:59:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -753794,6 +753794,26 @@
       "firstSeenAt": "2026-11-04T01:58:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 97963,
+      "source": "dc",
+      "externalId": "cmt-10992299",
+      "title": "흑화한 영철 때문에 영자가 옴팡 뒤집어 쓰겠구만 ㅋ",
+      "excerpt": "오늘 34기 동시 선택 결과 예상해 본다",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6647952&page=2#cmt_10992299",
+      "postedLabel": "11.04 09:06:46",
+      "postedAt": "2026-11-04T09:06:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-04T01:59:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -753966,7 +753986,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-04T09:45:27+09:00"
+      "slowAt": "2026-11-04T10:59:19+09:00"
     },
     "dc": {
       "doneIds": [
@@ -763757,7 +763777,9 @@
         "6647991",
         "6647994",
         "6648019",
-        "6648079"
+        "6648022",
+        "6648079",
+        "6648081"
       ]
     },
     "blind": {
