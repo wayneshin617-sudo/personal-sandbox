@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-04T09:05:32+00:00",
+  "updatedAt": "2026-11-04T09:06:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -756940,6 +756940,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-04T09:05:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 98122,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8F%8C%EB%8F%8C%EB%8F%8C%EC%8B%B1-%EC%8B%A0%EB%B9%99%EC%84%B1-%EC%9E%88%EC%96%B4-%EB%B3%B4%EC%9E%84-gsqbtzas",
+      "title": "돌돌돌싱 신빙성 있어 보임",
+      "excerpt": "금사빠에 엄청 본능적이더만 근데 궁금한 건 애를 그렇게 갖고 싶어하면서 그 많은 결혼생활동안 왜 하나도 못 가졌지 높은 확률로 남자쪽에서 문제 있는 거 아님?",
+      "author": "y******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%8C%EB%8F%8C%EB%8F%8C%EC%8B%B1-%EC%8B%A0%EB%B9%99%EC%84%B1-%EC%9E%88%EC%96%B4-%EB%B3%B4%EC%9E%84-gsqbtzas",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-04T18:06:16+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-04T09:06:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -757047,7 +757066,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-04T18:03:15+09:00"
+      "slowAt": "2026-11-04T18:06:16+09:00"
     },
     "ig": {
       "doneIds": [
@@ -767039,7 +767058,8 @@
         "6648673",
         "6648678",
         "6648689",
-        "6648691"
+        "6648691",
+        "6648696"
       ]
     },
     "blind": {
