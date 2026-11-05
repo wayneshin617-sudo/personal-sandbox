@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T18:46:55+00:00",
+  "updatedAt": "2026-11-05T18:47:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -818513,6 +818513,26 @@
       "firstSeenAt": "2026-11-05T18:46:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101237,
+      "source": "dc",
+      "externalId": "cmt-10997833",
+      "title": "이미 아들 삼형제 키우는 강인한 여성 같아보여.",
+      "excerpt": "순자 아줌마상인데 왜케 인기가 많은거냐",
+      "author": "00",
+      "company": "",
+      "ip": "175.115",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6659913&page=3#cmt_10997833",
+      "postedLabel": "11.06 03:03:31",
+      "postedAt": "2026-11-06T03:03:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T18:47:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -818688,7 +818708,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T03:44:38+09:00"
+      "slowAt": "2026-11-06T03:47:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -829440,6 +829460,7 @@
         "6659897",
         "6659904",
         "6659906",
+        "6659913",
         "6659920",
         "6659927",
         "6659930",
