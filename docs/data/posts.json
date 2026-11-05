@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T04:10:41+00:00",
+  "updatedAt": "2026-11-05T04:11:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -791382,6 +791382,65 @@
       "firstSeenAt": "2026-11-05T04:10:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99865,
+      "source": "qoo",
+      "externalId": "cmt-4396501457",
+      "title": "나도 뒤에 배경처럼 나오는게 웃겼음 ... 제작진 일부러 저러나 싶음",
+      "excerpt": "현숙영철 1:1 대화할 때 뒤에 영호 실루엣 뭐야 했더니..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396490660#4396501457",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T12:10:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:11:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99866,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%ED%95%98%EA%B3%A0-%ED%98%84%EC%88%99-%EB%B9%84%EA%B5%90%ED%96%88%EC%9D%84%EB%95%8C-%EC%98%81%ED%98%B8%EA%B0%80-%ED%9B%A8%EC%94%AC-%EC%95%84%EA%B9%9D%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%EB%93%9C%EB%84%A4-ejvlj6uy",
+      "title": "영호 하고 현숙 비교했을때 영호가 훨씬 아깝다고 생각드네",
+      "excerpt": "영호도 현숙 별로 눈에 안차는 느낌",
+      "author": "I******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%ED%95%98%EA%B3%A0-%ED%98%84%EC%88%99-%EB%B9%84%EA%B5%90%ED%96%88%EC%9D%84%EB%95%8C-%EC%98%81%ED%98%B8%EA%B0%80-%ED%9B%A8%EC%94%AC-%EC%95%84%EA%B9%9D%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%EB%93%9C%EB%84%A4-ejvlj6uy",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-05T13:10:23+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T04:11:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99867,
+      "source": "blind",
+      "externalId": "cmt-459816555",
+      "title": "영수형 괴롭히지마",
+      "excerpt": "다 영철 현숙 얘기밖에 없네 영수 영숙 응원하는 사람 없니?",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4-%EC%98%81%EC%B2%A0-%ED%98%84%EC%88%99-%EC%96%98%EA%B8%B0%EB%B0%96%EC%97%90-%EC%97%86%EB%84%A4-%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-%EC%9D%91%EC%9B%90%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%97%86%EB%8B%88-uslqbhp3#459816555",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T13:11:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:11:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -802038,7 +802097,8 @@
         "6657392",
         "6657393",
         "6657394",
-        "6657401"
+        "6657401",
+        "6657403"
       ]
     },
     "blind": {
