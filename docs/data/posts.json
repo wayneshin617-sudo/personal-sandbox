@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:04:35+00:00",
+  "updatedAt": "2026-11-05T11:05:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -807133,6 +807133,45 @@
       "firstSeenAt": "2026-11-05T11:04:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100661,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0-%EB%8B%AE%EC%9D%80%EA%BC%B4-%EC%B0%BE%EC%95%98%EB%8B%A4-t16gc5j0",
+      "title": "상철 닮은꼴 찾았다",
+      "excerpt": "눈감으면 더 똑같음 ㄹㅇ",
+      "author": "i******",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EB%8B%AE%EC%9D%80%EA%BC%B4-%EC%B0%BE%EC%95%98%EB%8B%A4-t16gc5j0",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:05:16+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-05T11:05:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100662,
+      "source": "blind",
+      "externalId": "cmt-459866406",
+      "title": "비와이 아니냐",
+      "excerpt": "상철 닮은꼴 찾았다",
+      "author": "!*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EB%8B%AE%EC%9D%80%EA%BC%B4-%EC%B0%BE%EC%95%98%EB%8B%A4-t16gc5j0#459866406",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:05:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:05:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -817956,6 +817995,7 @@
         "6658604",
         "6658615",
         "6658617",
+        "6658619",
         "6658621"
       ]
     },
@@ -819792,6 +819832,7 @@
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%BA%BC%EB%93%9C%EB%9F%AD%EC%9D%80-%EC%9B%90%EB%9E%98-%EC%84%B1%EA%B2%A9%EC%9D%B8%EA%B0%80%EB%B4%90-dbg04omf",
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%BA%BC%EB%93%9C%EB%9F%AD%EC%9D%80-%EC%A3%BC%EA%B0%80%EC%97%90-%EB%B9%84%EB%A1%80%ED%95%9C%EB%8B%A4-cdhypzrm",
         "/kr/post/%EC%83%81%EC%B2%A0-%EA%BA%BC%EB%93%9C%EB%9F%AD-rg2t8357",
+        "/kr/post/%EC%83%81%EC%B2%A0-%EB%8B%AE%EC%9D%80%EA%BC%B4-%EC%B0%BE%EC%95%98%EB%8B%A4-t16gc5j0",
         "/kr/post/%EC%83%81%EC%B2%A0-%EB%8B%AE%EC%9D%80-%EA%BC%B4-zihx0jsr",
         "/kr/post/%EC%83%81%EC%B2%A0-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%8B%A0%EC%B2%AD%EB%A9%98%ED%8A%B8-%EC%A7%9C%EC%B9%9C%EB%8B%A4-ydvluasu",
         "/kr/post/%EC%83%81%EC%B2%A0-%EB%98%A5%EA%BC%AC-%EC%9E%85%EC%88%A0-bjx5pcis",
