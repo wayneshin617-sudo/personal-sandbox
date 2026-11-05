@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T02:41:42+00:00",
+  "updatedAt": "2026-11-05T02:42:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -785638,6 +785638,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T02:41:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99575,
+      "source": "qoo",
+      "externalId": "cmt-4396427088",
+      "title": "나도 영주권 준비가 좀 놀라웠어 아예 정착까지 생각하는고만.... 자기소개에는 왜 말안했지?? 그리고 영주권 받고 한국에 살아도 되지만 일본에 몇개월에 한번씩 입국은 해야한다고 알고있음",
+      "excerpt": "근데 영호 사람 진짜 좋아보이는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396408504#4396427088",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T10:42:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:42:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -785745,7 +785765,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T11:39:23+09:00"
+      "slowAt": "2026-11-05T11:42:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -796185,7 +796205,8 @@
         "6657063",
         "6657071",
         "6657077",
-        "6657078"
+        "6657078",
+        "6657083"
       ]
     },
     "blind": {
