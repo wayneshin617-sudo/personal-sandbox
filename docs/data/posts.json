@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:06:32+00:00",
+  "updatedAt": "2026-11-05T11:07:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -807269,6 +807269,46 @@
       "firstSeenAt": "2026-11-05T11:06:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100668,
+      "source": "qoo",
+      "externalId": "cmt-4396885350",
+      "title": "내말이 ㅜ 영철때문에 현숙영호만 피해봄",
+      "excerpt": "아니 머라고 할거면 제발 영철한테 머라고 해",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396862394#4396885350",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T19:06:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:07:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100669,
+      "source": "dc",
+      "externalId": "cmt-10996839",
+      "title": "머리 풀은게 낫던데 묶으면 하관이 더 강조됨.",
+      "excerpt": "현숙 역대급 얼굴이라는 인간들 신기했음",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "61.78",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6658442&page=4#cmt_10996839",
+      "postedLabel": "11.05 19:20:40",
+      "postedAt": "2026-11-05T19:20:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:07:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -807444,7 +807484,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T20:04:16+09:00"
+      "slowAt": "2026-11-05T20:07:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -818061,6 +818101,7 @@
         "6658436",
         "6658437",
         "6658438",
+        "6658442",
         "6658444",
         "6658447",
         "6658448",
@@ -818667,6 +818708,7 @@
         "/kr/post/%EB%82%98%EC%86%94%EB%82%98%EA%B0%80%EC%84%9C-%EC%BB%A4%EB%AE%A4%ED%95%98%EB%8A%94-%EA%B1%B0%EB%8A%94-%EC%88%A8%EA%B2%A8%EC%95%BC%ED%95%A8-1rfacuyn",
         "/kr/post/%EB%82%98%EC%86%94%EB%A0%89%EC%B9%B4%EB%93%A4-%EC%98%81%EC%83%81-%EC%99%9C%EB%B3%B4%EB%8A%94%EA%B1%B0%EC%95%BC-hrxh60bq",
         "/kr/post/%EB%82%98%EC%86%94%EB%B0%A9%EC%86%A1%EB%A7%8C-%EC%99%84%EC%A3%BC%ED%95%B4%EB%8F%84-%EC%97%B0%EC%95%A0%EB%8A%94-%EC%9E%98%ED%95%A0%EB%93%AF-6nb3pkrs",
+        "/kr/post/%EB%82%98%EC%86%94%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-zltifa6d",
         "/kr/post/%EB%82%98%EC%86%94%EB%B3%B4%EB%8A%94%EB%8D%B0-sgd0dp54",
         "/kr/post/%EB%82%98%EC%86%94%EB%B3%B4%EB%8A%94%EC%82%AC%EB%9E%8C-yjo81dr7",
         "/kr/post/%EB%82%98%EC%86%94%EB%B3%B4%EB%8B%A4%EA%B0%80-%EA%B7%80%EC%8B%A0%EB%B0%9C%EA%B2%AC%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-x7flu285",
@@ -819955,6 +819997,7 @@
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%99%9C%EC%BC%80-%ED%99%94%EB%B2%95%EC%9D%B4-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4%EC%A7%80-bn5hlhb4",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%99%A4%EC%BC%80-%EB%AA%A8%EB%93%A0-%EA%B2%83%EC%97%90-%EC%83%9D%EC%83%89%EC%9D%B4%EB%83%90-tfuf37de",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%A0%80%EC%A0%95%EB%8F%84-%EA%BA%BC%EB%93%9C%EB%9F%AD%EC%A0%95%EB%8F%84%EB%A9%B4%EC%9D%80-fmrfeuul",
+        "/kr/post/%EC%83%81%EC%B2%A0-%EC%A0%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%99%9C-%EC%A0%80%EB%A0%87%EA%B2%8C-%EA%BA%BC%EB%93%9C%EB%9F%AD%EA%B1%B0%EB%A0%A4-mnkxea6o",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%A7%84%EA%B8%B0%EC%A3%BC-%EB%8B%AE%EC%95%98%EB%8B%A4-oswyjnna",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%B0%A8%ED%83%9C%ED%98%84%EB%8B%AE%EC%95%98%EB%8B%A4%E2%80%A6-5266s4rs",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%B4%AC%EC%98%81%ED%95%A0%EB%95%8C-%ED%95%9C%EC%B0%BD-%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%ED%95%AB%ED%95%A0%EB%95%8C%EC%98%80%EC%9D%8C-fr1cv77v",
