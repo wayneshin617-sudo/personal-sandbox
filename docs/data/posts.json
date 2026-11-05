@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:49:34+00:00",
+  "updatedAt": "2026-11-05T11:50:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -810350,6 +810350,44 @@
       "firstSeenAt": "2026-11-05T11:49:34+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100824,
+      "source": "dc",
+      "externalId": "6658745",
+      "title": "영숙이 크냐 순자가 더 크냐",
+      "excerpt": "",
+      "author": "공",
+      "company": "",
+      "ip": "112.157",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6658745&page=1",
+      "postedLabel": "20:49",
+      "postedAt": "2026-11-05T20:49:28+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:50:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100825,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%EC%A0%9C%EA%BA%BC-%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC-o3mic2xn",
+      "title": "어제꺼 보는데 영철이 분위기를",
+      "excerpt": "불편하게 만드는거 같은데 현숙 입장에선 영철이랑 이미 데이트도 해봤고 영호랑 얘기해보고싶고 궁금했으니 더 질문을 많이 할 수 밖에 없지않았을까,, 현숙이 욕먹을 정도까진 아닌거 같았는데 생각보다 욕을 많이먹어서 놀랬네ㅋㅋㅋ 영철이 1:1 카페에서 자기는 영자한테 좀 신경썼다고 말하는거도 어이없고",
+      "author": "잇*******",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C%EA%BA%BC-%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC-o3mic2xn",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:50:16+09:00",
+      "views": 17,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T11:50:34+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -821209,7 +821247,8 @@
         "6658723",
         "6658727",
         "6658735",
-        "6658737"
+        "6658737",
+        "6658739"
       ]
     },
     "blind": {
