@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T02:42:42+00:00",
+  "updatedAt": "2026-11-05T02:43:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -785658,6 +785658,65 @@
       "firstSeenAt": "2026-11-05T02:42:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99576,
+      "source": "dc",
+      "externalId": "cmt-10995438",
+      "title": "잘생긴영철",
+      "excerpt": "34기 영철 33기 영수 누가더 스타성 있음??",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656905&page=4#cmt_10995438",
+      "postedLabel": "11.05 10:44:27",
+      "postedAt": "2026-11-05T10:44:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:43:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99577,
+      "source": "qoo",
+      "externalId": "4396479193",
+      "title": "영철 면직했어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396479193",
+      "postedLabel": "11:42",
+      "postedAt": "2026-11-05T11:42:00+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-05T02:43:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99578,
+      "source": "blind",
+      "externalId": "cmt-459806167",
+      "title": "압도적으로 많은데?",
+      "excerpt": "나솔 게시판 회사 비중은 공무원이 압도적임",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%9A%8C%EC%82%AC-%EB%B9%84%EC%A4%91%EC%9D%80-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4-%EC%95%95%EB%8F%84%EC%A0%81%EC%9E%84-602oa4qn#459806167",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T11:43:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:43:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -785832,7 +785891,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T11:40:23+09:00"
+      "slowAt": "2026-11-05T11:43:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -796199,6 +796258,7 @@
         "6656889",
         "6656890",
         "6656894",
+        "6656905",
         "6657050",
         "6657057",
         "6657062",
@@ -806351,7 +806411,8 @@
         "4396466020",
         "4396470806",
         "4396470958",
-        "4396477201"
+        "4396477201",
+        "4396479193"
       ]
     },
     "keep": "v2",
