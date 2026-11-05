@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T12:03:35+00:00",
+  "updatedAt": "2026-11-05T12:04:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -811338,6 +811338,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T12:03:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 100874,
+      "source": "blind",
+      "externalId": "cmt-459866813",
+      "title": "오빠……?",
+      "excerpt": "상철 닮은꼴 찾았다",
+      "author": "l*******",
+      "company": "CJ",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EB%8B%AE%EC%9D%80%EA%BC%B4-%EC%B0%BE%EC%95%98%EB%8B%A4-t16gc5j0#459866813",
+      "postedLabel": "56분",
+      "postedAt": "2026-11-05T20:08:16+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T12:04:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100875,
+      "source": "blind",
+      "externalId": "cmt-459871245",
+      "title": "ㅋㅋㅋㅋ샴페인으로 염병꼴깞떤거 생각나넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "상철 닮은꼴 찾았다",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EB%8B%AE%EC%9D%80%EA%BC%B4-%EC%B0%BE%EC%95%98%EB%8B%A4-t16gc5j0#459871245",
+      "postedLabel": "25분",
+      "postedAt": "2026-11-05T20:39:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T12:04:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100876,
+      "source": "blind",
+      "externalId": "cmt-459875144",
+      "title": "오히려 영철이가 분위기 더 불편하게 만들었구만..현숙 억까같음",
+      "excerpt": "아니 뭐 현숙 욕개많길래 기대하고봣더니",
+      "author": "잇*******",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EB%AD%90-%ED%98%84%EC%88%99-%EC%9A%95%EA%B0%9C%EB%A7%8E%EA%B8%B8%EB%9E%98-%EA%B8%B0%EB%8C%80%ED%95%98%EA%B3%A0%EB%B4%A3%EB%8D%94%EB%8B%88-mq0cusoj#459875144",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T21:04:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T12:04:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -811513,7 +811573,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T21:01:16+09:00"
+      "slowAt": "2026-11-05T21:04:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -822175,6 +822235,7 @@
         "6658617",
         "6658619",
         "6658621",
+        "6658629",
         "6658633",
         "6658639",
         "6658640",
