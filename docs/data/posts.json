@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:53:41+00:00",
+  "updatedAt": "2026-11-05T03:54:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -790497,6 +790497,84 @@
       "firstSeenAt": "2026-11-05T03:53:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99820,
+      "source": "qoo",
+      "externalId": "cmt-4396488670",
+      "title": "ㅇㅇ진짜 둘이 비슷하거든? 근데 대화할때도 둘이 너무 비슷해서 재미가 없음 ㅠㅠㅠ",
+      "excerpt": "영호랑 현숙은 그거같음 성격이랑 결은 비슷한데 그래서 안맞는 사람들 있잖아",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396483690#4396488670",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T11:53:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:54:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99821,
+      "source": "dc",
+      "externalId": "6657340",
+      "title": "능력남 영호랑 머리가 모자란 여자 순자가 만나는게 맞아",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657340&page=1",
+      "postedLabel": "12:53",
+      "postedAt": "2026-11-05T12:53:53+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:54:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99822,
+      "source": "dc",
+      "externalId": "6657342",
+      "title": "만난지 3일만에 담배 끊으라고 갑질",
+      "excerpt": "",
+      "author": "글렌벤튼",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657342&page=1",
+      "postedLabel": "12:54",
+      "postedAt": "2026-11-05T12:54:20+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:54:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99823,
+      "source": "dc",
+      "externalId": "cmt-10995744",
+      "title": "여기 나솔갤이야",
+      "excerpt": "로메로 또 쳐누웠노 ㅋㅋㅋㅋㅋㅋㅋ",
+      "author": "hxt",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657338&page=1#cmt_10995744",
+      "postedLabel": "11.05 12:54:23",
+      "postedAt": "2026-11-05T12:54:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:54:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -790604,7 +790682,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T12:51:23+09:00"
+      "slowAt": "2026-11-05T12:54:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -801060,6 +801138,7 @@
         "6656894",
         "6656905",
         "6656933",
+        "6656935",
         "6656937",
         "6656942",
         "6656953",
@@ -801135,7 +801214,8 @@
         "6657316",
         "6657318",
         "6657330",
-        "6657333"
+        "6657333",
+        "6657338"
       ]
     },
     "blind": {
