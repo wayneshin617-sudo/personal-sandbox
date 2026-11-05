@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T10:40:35+00:00",
+  "updatedAt": "2026-11-05T10:41:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -805784,6 +805784,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-05T10:40:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 100593,
+      "source": "blind",
+      "externalId": "cmt-459863011",
+      "title": "웃기려고그랬나",
+      "excerpt": "영철이 모자 두개쓴거 왜 그랬을까",
+      "author": "h********",
+      "company": "삼성의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%AA%A8%EC%9E%90-%EB%91%90%EA%B0%9C%EC%93%B4%EA%B1%B0-%EC%99%9C-%EA%B7%B8%EB%9E%AC%EC%9D%84%EA%B9%8C-veamychn#459863011",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-05T19:40:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T10:41:36+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -816517,6 +816537,7 @@
         "6658157",
         "6658165",
         "6658170",
+        "6658174",
         "6658239",
         "6658248",
         "6658250",
@@ -816544,6 +816565,7 @@
         "6658367",
         "6658369",
         "6658370",
+        "6658375",
         "6658415",
         "6658417",
         "6658418",
@@ -816573,7 +816595,8 @@
         "6658530",
         "6658532",
         "6658537",
-        "6658541"
+        "6658541",
+        "6658542"
       ]
     },
     "blind": {
@@ -819936,6 +819959,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%A6%AC%EC%95%A1%EC%85%98%EC%9D%B4%EB%82%98-%EB%A7%90%ED%95%98%EB%8A%94%EA%B2%8C-%EB%AA%A8%EC%86%94%EC%98%81%EC%88%98%EA%B0%99%EC%9D%8C%E3%85%8B%E3%85%8B%E3%85%8B-ict105sf",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EC%9D%B8%EB%8B%A4-dz5fhv5j",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%A9%80%EB%AF%B8%EC%95%BD-%EB%B3%B4%EB%8B%88%EA%B9%8C-%ED%97%8C%ED%8F%AC-%EC%B4%88%EC%BD%94%EC%97%90%EB%AA%BD-%EC%83%9D%EA%B0%81%EB%82%A8%E3%85%8B%E3%85%8B-cbdjkski",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%AA%A8%EC%9E%90-%EB%91%90%EA%B0%9C%EC%93%B4%EA%B1%B0-%EC%99%9C-%EA%B7%B8%EB%9E%AC%EC%9D%84%EA%B9%8C-veamychn",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%AA%B8%EC%9D%B4-%EA%B8%B0%EC%9A%B8%EC%96%B4%EC%A0%B8%EC%9E%88%EB%8B%A4-%E3%85%8B%E3%85%8B%E3%85%8B-ce8xhkua",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%AA%B8-%EC%A2%8B%EB%84%A4-%E3%84%B7%E3%84%B7-w6g2niyc",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%AD%94%EA%B0%80-%EB%82%98%EA%B0%99%EC%95%84%EC%84%9C-%EC%A7%A0%ED%95%B4-f6rorzbk",
