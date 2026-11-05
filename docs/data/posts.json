@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:51:41+00:00",
+  "updatedAt": "2026-11-05T03:52:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -790399,6 +790399,64 @@
       "firstSeenAt": "2026-11-05T03:51:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99815,
+      "source": "qoo",
+      "externalId": "cmt-4396464662",
+      "title": "걍 미리 생각해두는 거 같아 일본에서 직장인으로 10년은 세금내야 할 걸",
+      "excerpt": "근데 일본 영주권 받기 어렵지않아?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396436221#4396464662",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T11:24:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:52:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99816,
+      "source": "qoo",
+      "externalId": "4396531258",
+      "title": "미방분 이번주도 영수일까?ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396531258",
+      "postedLabel": "12:52",
+      "postedAt": "2026-11-05T12:52:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:52:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99817,
+      "source": "dc",
+      "externalId": "6657333",
+      "title": "영철이 보면 ㄹㅇ 동아리에서 잘나가던 형 실연당한느낌",
+      "excerpt": "",
+      "author": "에어팟",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657333&page=1",
+      "postedLabel": "12:52",
+      "postedAt": "2026-11-05T12:52:10+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:52:38+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -790573,7 +790631,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T12:49:23+09:00"
+      "slowAt": "2026-11-05T12:52:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -801035,7 +801093,8 @@
         "6657297",
         "6657314",
         "6657316",
-        "6657318"
+        "6657318",
+        "6657330"
       ]
     },
     "blind": {
@@ -811225,7 +811284,8 @@
         "4396519831",
         "4396522793",
         "4396528923",
-        "4396529739"
+        "4396529739",
+        "4396531258"
       ]
     },
     "keep": "v2",
