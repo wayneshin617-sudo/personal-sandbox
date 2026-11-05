@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:34:41+00:00",
+  "updatedAt": "2026-11-05T03:35:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -789532,6 +789532,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T03:34:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99771,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EC%95%BC-%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A2%80-%EC%84%A0%ED%83%9D%ED%95%B4%EC%A3%BC%EC%A7%80-nroev0d5",
+      "title": "영호야 옥순이 좀 선택해주지!!",
+      "excerpt": "물론 나도 볼륨파라 순자가 나쁘지 않다고 보는데 니가 옥순이 선택하면 방송 진짜 엄청 살았을텐데 상철이 멘탈 털리고 현숙이도 벙벙해지구 글구 난 옥순이랑 영호가 결이 잘 맞는다고 생각함",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EC%95%BC-%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%A2%80-%EC%84%A0%ED%83%9D%ED%95%B4%EC%A3%BC%EC%A7%80-nroev0d5",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:35:23+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T03:35:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99772,
+      "source": "blind",
+      "externalId": "cmt-459812003",
+      "title": "어떻게보면 일본남성 체질이라 일본쪽으로 취업한거일수도",
+      "excerpt": "영호는 한국여자랑 연애 못함",
+      "author": "I********* 작성자",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%ED%95%9C%EA%B5%AD%EC%97%AC%EC%9E%90%EB%9E%91-%EC%97%B0%EC%95%A0-%EB%AA%BB%ED%95%A8-mcs0ys7i#459812003",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:35:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:35:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -800152,7 +800191,8 @@
         "6657244",
         "6657249",
         "6657251",
-        "6657254"
+        "6657254",
+        "6657258"
       ]
     },
     "blind": {
