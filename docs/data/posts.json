@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T23:39:20+00:00",
+  "updatedAt": "2026-11-05T23:42:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -819939,6 +819939,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-05T23:39:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101309,
+      "source": "blind",
+      "externalId": "cmt-459934049",
+      "title": "알파남이니까 여출연자들이 눈에 안찰만도 하지",
+      "excerpt": "난 34영호 별로임.",
+      "author": "l********",
+      "company": "딜로이트안진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-34%EC%98%81%ED%98%B8-%EB%B3%84%EB%A1%9C%EC%9E%84-sitj5yzg#459934049",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T08:42:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T23:42:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -830975,7 +830995,8 @@
         "6660324",
         "6660327",
         "6660331",
-        "6660340"
+        "6660340",
+        "6660343"
       ]
     },
     "blind": {
