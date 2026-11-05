@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T00:54:16+00:00",
+  "updatedAt": "2026-11-05T00:57:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -781337,6 +781337,26 @@
       "firstSeenAt": "2026-11-05T00:54:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99357,
+      "source": "blind",
+      "externalId": "cmt-459792063",
+      "title": "현숙이가 누가봐도 영호한테만 웃고 질문하는데ㅋㅋ",
+      "excerpt": "집단대화 상황에서 누군가 소외되는거 다들 느끼는구나",
+      "author": "l******",
+      "company": "시공테크",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%91%EB%8B%A8%EB%8C%80%ED%99%94-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EB%88%84%EA%B5%B0%EA%B0%80-%EC%86%8C%EC%99%B8%EB%90%98%EB%8A%94%EA%B1%B0-%EB%8B%A4%EB%93%A4-%EB%8A%90%EB%81%BC%EB%8A%94%EA%B5%AC%EB%82%98-p0kc3aj2#459792063",
+      "postedLabel": "20분",
+      "postedAt": "2026-11-05T09:36:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:57:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -781510,7 +781530,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T09:53:57+09:00"
+      "slowAt": "2026-11-05T09:56:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -791853,7 +791873,8 @@
         "6656731",
         "6656740",
         "6656745",
-        "6656746"
+        "6656746",
+        "6656748"
       ]
     },
     "blind": {
