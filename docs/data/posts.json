@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:00:41+00:00",
+  "updatedAt": "2026-11-05T03:01:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -787230,6 +787230,65 @@
       "firstSeenAt": "2026-11-05T03:00:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99655,
+      "source": "qoo",
+      "externalId": "cmt-4396444162",
+      "title": "혐관 로맨스 재질 ㅋㅋㅋㅋㅋ",
+      "excerpt": "영수영숙이 제일 드라마 같지 않아????",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396371896#4396444162",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T11:01:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:01:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99656,
+      "source": "qoo",
+      "externalId": "4396494309",
+      "title": "근데 이번기수 너무 재밌어 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396494309",
+      "postedLabel": "12:01",
+      "postedAt": "2026-11-05T12:01:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:01:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99657,
+      "source": "blind",
+      "externalId": "cmt-459808079",
+      "title": "울어버린다 ㅋㅋㅋㅋ 그러면 영철 의원면직 이해될듯",
+      "excerpt": "현숙은 다대일 데이트에서 영철한테 대놓고 무시하고 1대1에서도 거절을 했다",
+      "author": "j*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EB%8B%A4%EB%8C%80%EC%9D%BC-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-%EB%8C%80%EB%86%93%EA%B3%A0-%EB%AC%B4%EC%8B%9C%ED%95%98%EA%B3%A0-1%EB%8C%801%EC%97%90%EC%84%9C%EB%8F%84-%EA%B1%B0%EC%A0%88%EC%9D%84-%ED%96%88%EB%8B%A4-beujz2b5#459808079",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:01:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:01:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -787404,7 +787463,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T11:58:23+09:00"
+      "slowAt": "2026-11-05T12:01:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -797782,6 +797841,7 @@
         "6656953",
         "6656955",
         "6656958",
+        "6656961",
         "6657050",
         "6657057",
         "6657062",
@@ -807956,7 +808016,8 @@
         "4396480501",
         "4396483690",
         "4396487998",
-        "4396490660"
+        "4396490660",
+        "4396494309"
       ]
     },
     "keep": "v2",
