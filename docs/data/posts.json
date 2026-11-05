@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T04:51:40+00:00",
+  "updatedAt": "2026-11-05T04:52:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -793887,6 +793887,85 @@
       "firstSeenAt": "2026-11-05T04:51:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99991,
+      "source": "dc",
+      "externalId": "cmt-10995740",
+      "title": "순진하고 그런애들 많이넘어갔을듯 영자처럼 - dc App",
+      "excerpt": "영철이 보면 ㄹㅇ 동아리에서 잘나가던 형 실연당한느낌",
+      "author": "에어팟",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657333&page=4#cmt_10995740",
+      "postedLabel": "11.05 12:53:43",
+      "postedAt": "2026-11-05T12:53:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:52:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99992,
+      "source": "dc",
+      "externalId": "cmt-10995745",
+      "title": "저렇게 실연당하고 고추들끼리 술파티하는것까지가 본론인디 원래 - dc App",
+      "excerpt": "영철이 보면 ㄹㅇ 동아리에서 잘나가던 형 실연당한느낌",
+      "author": "에어팟",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657333&page=4#cmt_10995745",
+      "postedLabel": "11.05 12:54:27",
+      "postedAt": "2026-11-05T12:54:27+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:52:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99993,
+      "source": "qoo",
+      "externalId": "4396587279",
+      "title": "어제편 지금 다 봤는데 도대체 영호가 욕먹어야 하는 포인트를 모르겠음;;;",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396587279",
+      "postedLabel": "13:51",
+      "postedAt": "2026-11-05T13:51:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:52:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99994,
+      "source": "blind",
+      "externalId": "cmt-459821466",
+      "title": "아그래? 일라이릴리가 ㅈ방직이랑 비슷한거였냐.....",
+      "excerpt": "냉정하게 현숙 영철은 인생스펙큰차이가나지않음.",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%83%89%EC%A0%95%ED%95%98%EA%B2%8C-%ED%98%84%EC%88%99-%EC%98%81%EC%B2%A0%EC%9D%80-%EC%9D%B8%EC%83%9D%EC%8A%A4%ED%8E%99%ED%81%B0%EC%B0%A8%EC%9D%B4%EA%B0%80%EB%82%98%EC%A7%80%EC%95%8A%EC%9D%8C-ld515d6f#459821466",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T13:52:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:52:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -794062,7 +794141,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T13:49:23+09:00"
+      "slowAt": "2026-11-05T13:52:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -814790,7 +814869,8 @@
         "4396551009",
         "4396554026",
         "4396554430",
-        "4396556755"
+        "4396556755",
+        "4396587279"
       ]
     },
     "keep": "v2",
