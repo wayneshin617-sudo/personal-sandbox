@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T00:33:16+00:00",
+  "updatedAt": "2026-11-05T00:34:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -780368,6 +780368,45 @@
       "firstSeenAt": "2026-11-05T00:33:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99308,
+      "source": "blind",
+      "externalId": "cmt-459788028",
+      "title": "영호는 순자랑 최커되고 바로 ㅂㅂ2각",
+      "excerpt": "34기 현시점 출연자 평가",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%8B%9C%EC%A0%90-%EC%B6%9C%EC%97%B0%EC%9E%90-%ED%8F%89%EA%B0%80-r1s45d2o#459788028",
+      "postedLabel": "37분",
+      "postedAt": "2026-11-05T08:56:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:34:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99309,
+      "source": "qoo",
+      "externalId": "4396364884",
+      "title": "영철은 성격이 어쩌다 그렇게 된거지",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396364884",
+      "postedLabel": "09:33",
+      "postedAt": "2026-11-05T09:33:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:34:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -800974,7 +801013,8 @@
         "4396290100",
         "4396290939",
         "4396350856",
-        "4396362688"
+        "4396362688",
+        "4396364884"
       ]
     },
     "keep": "v2",
