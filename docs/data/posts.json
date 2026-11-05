@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:33:41+00:00",
+  "updatedAt": "2026-11-05T03:34:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -789474,6 +789474,64 @@
       "firstSeenAt": "2026-11-05T03:33:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99768,
+      "source": "blind",
+      "externalId": "cmt-459811787",
+      "title": "일본 가기 전부터 저런 성향이고 영주권 준비하는거 보니 체질인가봄",
+      "excerpt": "영호는 한국여자랑 연애 못함",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%ED%95%9C%EA%B5%AD%EC%97%AC%EC%9E%90%EB%9E%91-%EC%97%B0%EC%95%A0-%EB%AA%BB%ED%95%A8-mcs0ys7i#459811787",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-05T12:33:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:34:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99769,
+      "source": "dc",
+      "externalId": "6657257",
+      "title": "논산이 이 정도로 욕 먹을정도는 아니잖아",
+      "excerpt": "",
+      "author": "박우리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657257&page=1",
+      "postedLabel": "12:33",
+      "postedAt": "2026-11-05T12:33:31+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:34:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99770,
+      "source": "dc",
+      "externalId": "6657258",
+      "title": "현숙은 만나면 좀 재미가 없을것같애",
+      "excerpt": "",
+      "author": "ㅎ",
+      "company": "",
+      "ip": "121.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657258&page=1",
+      "postedLabel": "12:33",
+      "postedAt": "2026-11-05T12:33:41+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:34:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -789648,7 +789706,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T12:31:23+09:00"
+      "slowAt": "2026-11-05T12:34:23+09:00"
     },
     "dc": {
       "doneIds": [
