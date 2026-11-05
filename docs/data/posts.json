@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:47:35+00:00",
+  "updatedAt": "2026-11-05T11:48:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -810231,6 +810231,45 @@
       "firstSeenAt": "2026-11-05T11:47:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100818,
+      "source": "qoo",
+      "externalId": "4396976495",
+      "title": "근데 덬들은 껍데기만 보면 영철 vs 영호 누가 더 호감이야?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396976495",
+      "postedLabel": "20:47",
+      "postedAt": "2026-11-05T20:47:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:48:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100819,
+      "source": "blind",
+      "externalId": "cmt-459872427",
+      "title": "동물들도 수컷은 암컷 차지할라고 별쇼를 다하는데 차려놓은 밥상앞에서도 가만히 있으면 누가 좋아해",
+      "excerpt": "34영식은 남성적 매력이 없나",
+      "author": "l********",
+      "company": "인천교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%8B%9D%EC%9D%80-%EB%82%A8%EC%84%B1%EC%A0%81-%EB%A7%A4%EB%A0%A5%EC%9D%B4-%EC%97%86%EB%82%98-e514r32l#459872427",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:48:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:48:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -810339,7 +810378,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T20:45:17+09:00"
+      "slowAt": "2026-11-05T20:48:16+09:00"
     },
     "ig": {
       "doneIds": [
@@ -823223,6 +823262,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%98%88%EC%81%9C%EA%B1%B4%EA%B0%80%EC%9A%94-ebsy6t71",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%98%B7-%EC%9E%85%EC%9C%BC%EB%A9%B4-%EB%AC%B8%EC%8B%A0-%EC%95%88%EB%B3%B4%EC%97%AC%EC%9A%94-6zjux383",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%99%9C%EC%BC%80-%EC%98%88%EB%BB%90-ipm7gluw",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EC%99%B8%EB%AA%A8-%EC%96%B4%EB%95%8C-1dmstksw",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%99%BC%EC%AA%BD-%EC%96%B4%EA%B9%A8%EB%9D%BC%EC%9D%B8-%EB%AC%B8%EC%8B%A0%EC%9E%88%EB%8B%A4%EC%97%90-%ED%95%9C%ED%91%9C-l202mjm7",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9A%95%EC%8B%AC-%EB%A7%8E%EC%95%84%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-v88opyn0",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%9A%B0%EB%A6%AC-%EC%B2%98%EB%82%A8-%EC%99%80%EC%9D%B4%ED%94%84%EB%9E%91-%EB%84%88%EB%AC%B4-%EB%8B%AE%EC%9D%8C-qpemaj0t",
@@ -831450,7 +831490,8 @@
         "4396936857",
         "4396952712",
         "4396955955",
-        "4396958951"
+        "4396958951",
+        "4396976495"
       ]
     },
     "keep": "v2",
