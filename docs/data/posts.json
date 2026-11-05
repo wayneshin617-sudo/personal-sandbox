@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:52:38+00:00",
+  "updatedAt": "2026-11-05T03:53:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -790457,6 +790457,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T03:52:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99818,
+      "source": "qoo",
+      "externalId": "cmt-4396487979",
+      "title": "투명인간 취급하면 늘 말 나왔던거같긴해 현숙 말하는거아님!! 영철 ㅋㅋ",
+      "excerpt": "나솔 다대일때 한쪽 기울어지는거",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396480501#4396487979",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T11:53:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:53:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99819,
+      "source": "qoo",
+      "externalId": "cmt-4396488235",
+      "title": "대 존 잼 빨리 다음주 와라 제발 ㅠ",
+      "excerpt": "34기 모두 감사함ㅋㅋㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396487998#4396488235",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T11:53:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:53:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -801094,7 +801134,8 @@
         "6657314",
         "6657316",
         "6657318",
-        "6657330"
+        "6657330",
+        "6657333"
       ]
     },
     "blind": {
