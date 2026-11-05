@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T04:57:41+00:00",
+  "updatedAt": "2026-11-05T04:58:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -794202,6 +794202,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-05T04:57:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 100007,
+      "source": "blind",
+      "externalId": "cmt-459822182",
+      "title": "근데 또 입담 없고 끼 없었으면 결혼 하지 않았을까 싶음",
+      "excerpt": "영호 진짜 다 좋은데",
+      "author": "누******",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%A7%84%EC%A7%9C-%EB%8B%A4-%EC%A2%8B%EC%9D%80%EB%8D%B0-odzdqypu#459822182",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T13:58:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:58:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100008,
+      "source": "dc",
+      "externalId": "cmt-10995954",
+      "title": "성균줌&#x2764;&#xfe0f; - dc App",
+      "excerpt": "고우시다",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657537&page=1#cmt_10995954",
+      "postedLabel": "11.05 13:58:22",
+      "postedAt": "2026-11-05T13:58:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:58:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100009,
+      "source": "blind",
+      "externalId": "cmt-459822127",
+      "title": "아 ㅇㅈㅇㅈ",
+      "excerpt": "영호 진짜 다 좋은데",
+      "author": "누******",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%A7%84%EC%A7%9C-%EB%8B%A4-%EC%A2%8B%EC%9D%80%EB%8D%B0-odzdqypu#459822127",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T13:58:23+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:58:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -794377,7 +794437,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T13:55:23+09:00"
+      "slowAt": "2026-11-05T13:58:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -804862,6 +804922,7 @@
         "6657347",
         "6657350",
         "6657359",
+        "6657361",
         "6657364",
         "6657376",
         "6657387",
@@ -804898,7 +804959,8 @@
         "6657516",
         "6657523",
         "6657524",
-        "6657532"
+        "6657532",
+        "6657537"
       ]
     },
     "blind": {
@@ -805090,6 +805152,7 @@
         "/kr/post/%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9D%B4%EA%B8%B8%EC%88%98%EB%8A%94-%EC%97%86%EB%93%AF%EC%9D%B4-%EB%AF%BC%EC%8B%AC%EB%8F%84-%EC%9D%B4%EA%B8%B8%EC%88%98-%EC%97%86%EB%8A%94%EA%B1%B0%EC%9E%84-bmq0wy7n",
         "/kr/post/%EA%B4%80%EB%A6%AC-%EC%9E%98%ED%95%98%EC%9E%90-h6e5zd2x",
         "/kr/post/%EA%B4%80%EC%83%81%EA%B3%BC-%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A1%9C-%EB%B4%A4%EC%9D%84%EB%95%90-%EC%BB%A4%ED%94%8C%EC%9D%80-%EC%A0%95%ED%95%B4%EC%A0%B8%EC%9E%88%EC%9D%8C-5gskbrdz",
+        "/kr/post/%EA%B4%80%EC%83%81%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-%EB%A6%AC%EB%B7%B0-0zotsrfl",
         "/kr/post/%EA%B4%80%EC%83%81%EC%9D%80-%EA%B3%BC%ED%95%99-6judb4yr",
         "/kr/post/%EA%B4%80%EC%83%81-%EC%9E%90%EC%8B%A0%EC%9E%88%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%A4%AB%EB%82%98%EC%8B%B8%ED%95%98%EB%8B%A4-4xms8obv",
         "/kr/post/%EA%B4%80%EC%83%81-%EC%9E%98-%EB%B3%B4%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%9E%88%EC%96%B4-2dk2orbp",
@@ -808834,6 +808897,7 @@
         "/kr/post/%EC%98%81%ED%98%B8-%EC%A7%81%EC%97%85%EB%A7%8C-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%9D%BC-i472lsp1",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%A7%81%EC%97%85%EB%AD%90%EB%9E%98-2w3af8wm",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%A7%81%EC%97%85%EC%9D%B4-%EB%AD%90%EC%95%BC-irdaboxb",
+        "/kr/post/%EC%98%81%ED%98%B8-%EC%A7%84%EC%A7%9C-%EB%8B%A4-%EC%A2%8B%EC%9D%80%EB%8D%B0-odzdqypu",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%A7%84%EC%A7%9C-%EC%95%9E%EB%A8%B8%EB%A6%AC-%EA%B0%80%EB%B0%9C%EC%9D%B4%EC%95%BC-8rw4xpvs",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%A7%91%EC%95%88%EC%9D%B4-%EB%B6%88%EC%8C%8D%ED%95%98%EA%B3%A0-%EC%96%B4%EC%A9%8C%EA%B3%A0%EB%A5%BC-%EB%96%A0%EB%82%98%EC%84%9C-%EC%98%A5%ED%8C%94%EA%B3%84-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94-%EB%8C%80%EB%B0%95%EC%9D%B4%EC%A7%80-6lrcdp3z",
         "/kr/post/%EC%98%81%ED%98%B8-%EC%B5%9C%EC%A2%85%EC%84%A0%ED%83%9D-%EB%88%84%EA%B5%AC%ED%95%A0%EA%B1%B0%EA%B0%99%EC%95%84-00jo61wn",
