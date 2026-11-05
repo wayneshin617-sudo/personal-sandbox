@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T02:54:41+00:00",
+  "updatedAt": "2026-11-05T02:55:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -786752,6 +786752,86 @@
       "firstSeenAt": "2026-11-05T02:54:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99631,
+      "source": "blind",
+      "externalId": "cmt-459801087",
+      "title": "결국 울어버려..",
+      "excerpt": "영철 보기 힘들다ㅠ",
+      "author": "d*********",
+      "company": "근로복지공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EA%B8%B0-%ED%9E%98%EB%93%A4%EB%8B%A4%E3%85%A0-irz5ykxb#459801087",
+      "postedLabel": "58분",
+      "postedAt": "2026-11-05T10:57:23+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99632,
+      "source": "blind",
+      "externalId": "cmt-459802389",
+      "title": "잘생긴 버전",
+      "excerpt": "영철 보기 힘들다ㅠ",
+      "author": "d*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EA%B8%B0-%ED%9E%98%EB%93%A4%EB%8B%A4%E3%85%A0-irz5ykxb#459802389",
+      "postedLabel": "48분",
+      "postedAt": "2026-11-05T11:07:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99633,
+      "source": "blind",
+      "externalId": "cmt-459804566",
+      "title": "이기적인 불도저는 옥순 너무 후려치는 발언들을 했어 너 뽑은 남자 아무도 없다 이런식으로 몇번 말함 그점이 짜치는 핵심 포인트였어. 이번 영철은 현숙을 오히려 우러러 봄 그점이 좀 다르게 느껴짐",
+      "excerpt": "영철 보기 힘들다ㅠ",
+      "author": "o*********",
+      "company": "인천광역시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EA%B8%B0-%ED%9E%98%EB%93%A4%EB%8B%A4%E3%85%A0-irz5ykxb#459804566",
+      "postedLabel": "29분",
+      "postedAt": "2026-11-05T11:26:23+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99634,
+      "source": "blind",
+      "externalId": "cmt-459807481",
+      "title": "만약에 현숙이 영철 보험으로 쓰면 나는 내가 사람보는 눈을 더 길러야겠다고 생각할 듯 ㅋㅋ 그럴거 같진 않음",
+      "excerpt": "현숙은 다대일 데이트에서 영철한테 대놓고 무시하고 1대1에서도 거절을 했다",
+      "author": "R***** 작성자",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EB%8B%A4%EB%8C%80%EC%9D%BC-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-%EB%8C%80%EB%86%93%EA%B3%A0-%EB%AC%B4%EC%8B%9C%ED%95%98%EA%B3%A0-1%EB%8C%801%EC%97%90%EC%84%9C%EB%8F%84-%EA%B1%B0%EC%A0%88%EC%9D%84-%ED%96%88%EB%8B%A4-beujz2b5#459807481",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T11:55:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:55:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -786926,7 +787006,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T11:52:23+09:00"
+      "slowAt": "2026-11-05T11:55:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -797309,7 +797389,8 @@
         "6657096",
         "6657098",
         "6657106",
-        "6657109"
+        "6657109",
+        "6657112"
       ]
     },
     "blind": {
@@ -800865,6 +800946,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B0%9C%EC%96%B8-wnp1nto3",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%84%EB%A1%9C%EB%8B%A4-qsga7d40",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EA%B3%A0%EC%9E%88%EA%B8%B0-%ED%9E%98%EB%93%A4%EB%8B%A4-f2yo8lx3",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EA%B8%B0-%ED%9E%98%EB%93%A4%EB%8B%A4%E3%85%A0-irz5ykxb",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EB%8B%88%EA%B9%8C-%EC%96%B4%EB%A6%B4%EB%95%8C-%EB%82%B4-%EB%AA%A8%EC%8A%B5%EA%B0%99%EB%8B%A4%E3%85%8B%E3%85%8B%E3%85%8B-wun0m11a",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-ty7d4mns",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%B3%B4%EB%A9%B4-%EC%A2%80-%EC%8B%A0%EA%B8%B0%ED%95%A8-tdadvyr5",
