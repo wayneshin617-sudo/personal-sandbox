@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T00:41:17+00:00",
+  "updatedAt": "2026-11-05T00:42:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -780823,6 +780823,45 @@
       "firstSeenAt": "2026-11-05T00:41:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99331,
+      "source": "qoo",
+      "externalId": "4396371896",
+      "title": "영수영숙이 제일 드라마 같지 않아????",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396371896",
+      "postedLabel": "09:41",
+      "postedAt": "2026-11-05T09:41:00+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:42:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99332,
+      "source": "blind",
+      "externalId": "cmt-459792598",
+      "title": "기르셔도 됩니다 긴 거 좋아하는 여자 만나면 그만",
+      "excerpt": "여자들 ㅈㄴ 역설적인거",
+      "author": "i*********",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%E3%85%88%E3%84%B4-%EC%97%AD%EC%84%A4%EC%A0%81%EC%9D%B8%EA%B1%B0-r8yiu142#459792598",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T09:41:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:42:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -780996,7 +781035,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T09:38:57+09:00"
+      "slowAt": "2026-11-05T09:41:58+09:00"
     },
     "dc": {
       "doneIds": [
@@ -791303,6 +791342,7 @@
         "6656540",
         "6656543",
         "6656544",
+        "6656551",
         "6656555",
         "6656557",
         "6656568",
@@ -791328,7 +791368,8 @@
         "6656688",
         "6656695",
         "6656702",
-        "6656710"
+        "6656710",
+        "6656716"
       ]
     },
     "blind": {
@@ -801437,7 +801478,8 @@
         "4396350856",
         "4396362688",
         "4396364884",
-        "4396368735"
+        "4396368735",
+        "4396371896"
       ]
     },
     "keep": "v2",
