@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T10:18:35+00:00",
+  "updatedAt": "2026-11-05T10:19:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -804004,6 +804004,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T10:18:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 100503,
+      "source": "dc",
+      "externalId": "6658473",
+      "title": "ㅋ",
+      "excerpt": "",
+      "author": "비알트",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6658473&page=1",
+      "postedLabel": "19:18",
+      "postedAt": "2026-11-05T19:18:46+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T10:19:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100504,
+      "source": "qoo",
+      "externalId": "4396896291",
+      "title": "영철이 한 일 ->아무도현숙이랑대화못하게침바르기->현숙이다른사람이랑화기애애하지못하게분위기곱창내며시위하기",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396896291",
+      "postedLabel": "19:19",
+      "postedAt": "2026-11-05T19:19:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T10:19:33+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -804179,7 +804217,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T19:16:16+09:00"
+      "slowAt": "2026-11-05T19:19:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -825045,7 +825083,8 @@
         "4396852264",
         "4396862394",
         "4396863268",
-        "4396871662"
+        "4396871662",
+        "4396896291"
       ]
     },
     "keep": "v2",
