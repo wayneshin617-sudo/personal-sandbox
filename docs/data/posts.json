@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:00:35+00:00",
+  "updatedAt": "2026-11-05T11:01:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -807014,6 +807014,26 @@
       "firstSeenAt": "2026-11-05T11:00:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100655,
+      "source": "blind",
+      "externalId": "cmt-459862388",
+      "title": "영호가 차한잔 하자고 하면 꺼지라는 뜻으로 눈치껏 알아들어야겠군",
+      "excerpt": "개인적으로 영호 보면",
+      "author": "n*****",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%98%81%ED%98%B8-%EB%B3%B4%EB%A9%B4-bt71omoo#459862388",
+      "postedLabel": "26분",
+      "postedAt": "2026-11-05T19:35:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:01:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -807189,7 +807209,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T19:58:17+09:00"
+      "slowAt": "2026-11-05T20:01:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -817833,7 +817853,8 @@
         "6658595",
         "6658596",
         "6658604",
-        "6658615"
+        "6658615",
+        "6658617"
       ]
     },
     "blind": {
