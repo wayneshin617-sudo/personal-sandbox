@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:52:35+00:00",
+  "updatedAt": "2026-11-05T11:53:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -810506,6 +810506,25 @@
       "firstSeenAt": "2026-11-05T11:52:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100832,
+      "source": "qoo",
+      "externalId": "4396981971",
+      "title": "영철 말끝마다 영자 끌어와서 말하는것도 너무 별로야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396981971",
+      "postedLabel": "20:53",
+      "postedAt": "2026-11-05T20:53:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:53:33+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -821367,7 +821386,8 @@
         "6658735",
         "6658737",
         "6658739",
-        "6658743"
+        "6658743",
+        "6658747"
       ]
     },
     "blind": {
@@ -825054,6 +825074,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8%EB%8A%94-%EA%B0%88%EC%88%98%EB%A1%9D-%EC%99%B8%EB%AA%A8%EB%8F%84-%EC%9E%98%EB%AA%A8%EB%A5%B4%EA%B2%9F%EB%84%A4-esp5j11q",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EC%98%81%EC%9E%90-%EB%96%A0%EB%84%98%EA%B8%B0%EB%8A%94-%EA%B1%B0-%EB%B4%90%EB%9D%BC-%E3%85%8B%E3%85%8B%E3%85%8B-wm546rne",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8-%EC%B5%9C%EC%BB%A4-%EB%A7%9E%EC%A7%80-0imetf3g",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8-%ED%82%A4-%EB%AA%87%EC%9E%84-fztmesl6",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8-%ED%98%84%EC%88%99-%EC%85%8B-%EC%A1%B0%ED%95%A9-%EC%A7%84%EC%A7%9C-%EA%B3%A8%EB%95%8C%EB%A6%AC%EB%84%A4-jmrwdz3c",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%A4%EB%8A%98-%EC%A2%80-%EC%9E%98%EC%83%9D%EA%B2%A8-%EB%B3%B4%EC%9E%84-vz2udocb",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%EC%88%9C%EC%88%98%EA%B4%91%EA%B8%B0%EA%B0%99%EC%95%84-nq0xw813",
@@ -831731,7 +831752,8 @@
         "4396952712",
         "4396955955",
         "4396958951",
-        "4396976495"
+        "4396976495",
+        "4396981971"
       ]
     },
     "keep": "v2",
