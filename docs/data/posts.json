@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T19:03:56+00:00",
+  "updatedAt": "2026-11-05T19:05:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -818893,6 +818893,46 @@
       "firstSeenAt": "2026-11-05T19:03:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101256,
+      "source": "qoo",
+      "externalId": "cmt-4397249394",
+      "title": "헐 닮음ㅋㅋㅋㅋㅋ",
+      "excerpt": "영호 누구 닮았나했는데 윤후가 보여",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397043598#4397249394",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T03:05:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T19:05:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101257,
+      "source": "qoo",
+      "externalId": "cmt-4397249475",
+      "title": "영호",
+      "excerpt": "성격직업 등 다른거 다 빼고 딱 외모만 봤을때 제일 취향인 남출 누구야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397041940#4397249475",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T03:05:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T19:05:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -819068,7 +819108,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T04:02:39+09:00"
+      "slowAt": "2026-11-06T04:05:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -829875,6 +829915,7 @@
         "6660081",
         "6660082",
         "6660084",
+        "6660085",
         "6660092",
         "6660093",
         "6660105",
