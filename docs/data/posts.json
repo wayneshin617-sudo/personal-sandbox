@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T23:46:23+00:00",
+  "updatedAt": "2026-11-05T23:50:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -820038,6 +820038,44 @@
       "firstSeenAt": "2026-11-05T23:46:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101314,
+      "source": "dc",
+      "externalId": "6660352",
+      "title": "영자 동창 게시글 글쓴이 애미입니다",
+      "excerpt": "",
+      "author": "ㅇㅇㅈㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6660352&page=1",
+      "postedLabel": "08:49",
+      "postedAt": "2026-11-06T08:49:12+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T23:50:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101315,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%A8%EB%85%80%EB%A7%8C%EB%82%A0%EB%95%8C-%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC%EB%90%98%EB%8A%94%EA%B2%83-46lnz21p",
+      "title": "남녀만날때 조심해야되는것",
+      "excerpt": "문신, 타투 기독교 개명 바디프로필 찍은건 괜찮은데 sns에 올린거 여자가 남자처럼 하고 다니는거 남자가 여자처럼 하고 다니는거 취미 부자 남사친 여사친 많은거 직장인이라면 저축은 하고 살것",
+      "author": "f*****",
+      "company": "한화생명",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EB%85%80%EB%A7%8C%EB%82%A0%EB%95%8C-%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC%EB%90%98%EB%8A%94%EA%B2%83-46lnz21p",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T08:50:03+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T23:50:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -820217,7 +820255,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T08:47:03+09:00"
+      "slowAt": "2026-11-06T08:50:03+09:00"
     },
     "dc": {
       "doneIds": [
