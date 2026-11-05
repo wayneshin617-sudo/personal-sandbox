@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T00:01:16+00:00",
+  "updatedAt": "2026-11-05T00:04:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -779041,6 +779041,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-05T00:01:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99241,
+      "source": "qoo",
+      "externalId": "cmt-4396318410",
+      "title": "대박",
+      "excerpt": "다른 얘긴데, mc들 생일 붙어있는거 신기하닼ㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396287321#4396318410",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T08:03:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:04:16+00:00",
       "isSeed": false,
       "kind": "reply"
     }
