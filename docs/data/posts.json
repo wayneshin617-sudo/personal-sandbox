@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:31:41+00:00",
+  "updatedAt": "2026-11-05T03:32:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -789355,6 +789355,45 @@
       "firstSeenAt": "2026-11-05T03:31:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99762,
+      "source": "qoo",
+      "externalId": "4396516860",
+      "title": "솔직히 해외거주에 한국정착할생각 없어보이는 출연자는",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396516860",
+      "postedLabel": "12:31",
+      "postedAt": "2026-11-05T12:31:00+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:32:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99763,
+      "source": "blind",
+      "externalId": "cmt-459811627",
+      "title": "여잔데 감정이입해서 보다보니",
+      "excerpt": "영호 소심해서",
+      "author": "l******* 작성자",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%86%8C%EC%8B%AC%ED%95%B4%EC%84%9C-i4wv3snv#459811627",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:32:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:32:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -799973,7 +800012,8 @@
         "6657226",
         "6657227",
         "6657244",
-        "6657249"
+        "6657249",
+        "6657251"
       ]
     },
     "blind": {
@@ -810152,7 +810192,8 @@
         "4396490660",
         "4396494309",
         "4396502275",
-        "4396509641"
+        "4396509641",
+        "4396516860"
       ]
     },
     "keep": "v2",
