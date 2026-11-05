@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T23:42:21+00:00",
+  "updatedAt": "2026-11-05T23:45:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -819957,6 +819957,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-05T23:42:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101310,
+      "source": "blind",
+      "externalId": "cmt-459934473",
+      "title": "남은 회차가 있으니까 더 지켜봐",
+      "excerpt": "난 34영호 별로임.",
+      "author": "코**",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-34%EC%98%81%ED%98%B8-%EB%B3%84%EB%A1%9C%EC%9E%84-sitj5yzg#459934473",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T08:45:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T23:45:21+00:00",
       "isSeed": false,
       "kind": "reply"
     }
