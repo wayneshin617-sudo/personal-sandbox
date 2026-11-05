@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T23:57:21+00:00",
+  "updatedAt": "2026-11-05T23:58:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -820155,6 +820155,46 @@
       "firstSeenAt": "2026-11-05T23:57:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101320,
+      "source": "qoo",
+      "externalId": "cmt-4397098204",
+      "title": "((나는))계속 선택한것만으로도 표현이 아닌가싶어",
+      "excerpt": "근데 영호가 그렇게 현숙한테 표현을 많이 했나..",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396700170#4397098204",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T23:03:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T23:58:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101321,
+      "source": "blind",
+      "externalId": "cmt-459936122",
+      "title": "귀엽던데",
+      "excerpt": "현숙 도라에몽도 많이 깨긴 했음ㅋㅋㅋ",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%8F%84%EB%9D%BC%EC%97%90%EB%AA%BD%EB%8F%84-%EB%A7%8E%EC%9D%B4-%EA%B9%A8%EA%B8%B4-%ED%96%88%EC%9D%8C%E3%85%8B%E3%85%8B%E3%85%8B-wiul12lq#459936122",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T08:58:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T23:58:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -820266,7 +820306,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T08:55:03+09:00"
+      "slowAt": "2026-11-06T08:58:03+09:00"
     },
     "ig": {
       "doneIds": [
@@ -831209,7 +831249,8 @@
         "6660343",
         "6660344",
         "6660353",
-        "6660363"
+        "6660363",
+        "6660364"
       ]
     },
     "blind": {
