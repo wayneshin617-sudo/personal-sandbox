@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T00:29:17+00:00",
+  "updatedAt": "2026-11-05T00:31:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -780269,6 +780269,85 @@
       "firstSeenAt": "2026-11-05T00:29:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99303,
+      "source": "qoo",
+      "externalId": "cmt-4396317694",
+      "title": "@5 정확 엔프제는 나르끼 있는데 영호는 전혀아니더라",
+      "excerpt": "영호 너무 enfj 같음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396267854#4396317694",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T08:00:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:31:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99304,
+      "source": "blind",
+      "externalId": "cmt-459786478",
+      "title": "공기 머그컵에도 공기",
+      "excerpt": "영철 가방에 뭐들었을까?",
+      "author": "i*********",
+      "company": "코웨이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B0%80%EB%B0%A9%EC%97%90-%EB%AD%90%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C-3kmd141u#459786478",
+      "postedLabel": "49분",
+      "postedAt": "2026-11-05T08:41:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:31:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99305,
+      "source": "blind",
+      "externalId": "cmt-459787978",
+      "title": "아버지",
+      "excerpt": "영철 가방에 뭐들었을까?",
+      "author": "d*******",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EA%B0%80%EB%B0%A9%EC%97%90-%EB%AD%90%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C-3kmd141u#459787978",
+      "postedLabel": "34분",
+      "postedAt": "2026-11-05T08:56:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:31:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99306,
+      "source": "qoo",
+      "externalId": "4396362688",
+      "title": "영호 속마음 정말 모르겠음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396362688",
+      "postedLabel": "09:31",
+      "postedAt": "2026-11-05T09:31:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T00:31:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -790768,7 +790847,8 @@
         "6656659",
         "6656665",
         "6656674",
-        "6656677"
+        "6656677",
+        "6656679"
       ]
     },
     "blind": {
@@ -800872,7 +800952,8 @@
         "4396289053",
         "4396290100",
         "4396290939",
-        "4396350856"
+        "4396350856",
+        "4396362688"
       ]
     },
     "keep": "v2",
