@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:24:33+00:00",
+  "updatedAt": "2026-11-05T11:25:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -808239,6 +808239,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-05T11:24:33+00:00",
       "isSeed": false
+    },
+    {
+      "id": 100717,
+      "source": "qoo",
+      "externalId": "cmt-4396901865",
+      "title": "ㄹㅇ",
+      "excerpt": "아니 머라고 할거면 제발 영철한테 머라고 해",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396862394#4396901865",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T19:25:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:25:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100718,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84-%ED%98%84%EC%88%99-%EB%8C%80%EB%A6%AC%EC%88%98%EC%B9%98-xoogj4go",
+      "title": "아 현숙 대리수치",
+      "excerpt": "도라에몽 성대모사 개오글거림 영호가 웃어주니까 일절 이절 쉬지않고 하네 오바",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%ED%98%84%EC%88%99-%EB%8C%80%EB%A6%AC%EC%88%98%EC%B9%98-xoogj4go",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:25:16+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T11:25:35+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -808414,7 +808453,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T20:22:16+09:00"
+      "slowAt": "2026-11-05T20:25:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -819043,6 +819082,7 @@
         "6658485",
         "6658492",
         "6658493",
+        "6658494",
         "6658495",
         "6658502",
         "6658504",
@@ -821725,6 +821765,7 @@
         "/kr/post/%EC%98%81%EC%88%98%EA%B0%80-%EC%98%81%EC%88%99%EC%9D%B4%ED%95%9C%ED%85%8C-tjhl3bvr",
         "/kr/post/%EC%98%81%EC%88%98%EA%B0%80-%EC%98%81%EC%B2%A0-%EA%B0%9C%EC%8B%9C%EB%9F%AC%ED%95%98%EB%8A%94-%EA%B1%B0-%EA%B0%99%EC%9D%8C-u3crjlf0",
         "/kr/post/%EC%98%81%EC%88%98%EA%B0%80-%EC%9C%A0%EC%BE%8C%ED%95%B4%EC%84%9C-%EC%9E%98%EB%B0%9B%EC%95%84%EC%A3%BC%EB%84%A4-do2uc8dc",
+        "/kr/post/%EC%98%81%EC%88%98%EA%B0%80-%EC%A0%A4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EA%B1%B0%EA%B0%99%EB%88%84-%EC%84%B1%EA%B2%A9%EC%9D%B4-%E3%85%8B%E3%85%8B%E3%85%8B-j8ynayhr",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EA%B4%80%EC%9D%8C%EC%A6%9D-%EC%9E%88%EB%8A%94%EB%93%AF-n47lkuuu",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EA%B7%B8%EB%83%A5-%EA%B5%AD%ED%99%94%ED%95%9C%ED%85%8C-%EC%98%AC%EC%9D%B8%EC%9D%B4%EB%84%A4-8rdchs7g",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EB%A8%B9%EA%B8%88%EC%97%90-%EB%8B%A8%EB%A0%A8%EB%90%98%EC%96%B4-%EC%9E%88%EB%84%A4-pedzezn1",
