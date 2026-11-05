@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:57:38+00:00",
+  "updatedAt": "2026-11-05T03:58:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -790713,6 +790713,64 @@
       "firstSeenAt": "2026-11-05T03:57:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99831,
+      "source": "dc",
+      "externalId": "6657357",
+      "title": "마른남자는 같은 마른여자 좋아하냐",
+      "excerpt": "",
+      "author": "쿙",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657357&page=1",
+      "postedLabel": "12:57",
+      "postedAt": "2026-11-05T12:57:29+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:58:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99832,
+      "source": "dc",
+      "externalId": "6657359",
+      "title": "여자는 이름에 ㅇ 많이 들어갈수록 예쁨.txt",
+      "excerpt": "",
+      "author": "에어팟",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657359&page=1",
+      "postedLabel": "12:58",
+      "postedAt": "2026-11-05T12:58:01+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:58:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99833,
+      "source": "blind",
+      "externalId": "cmt-459814793",
+      "title": "ㅇㅇ나도 저런 성격 의뭉스럽고 싫어(물론 내가 한참전에 까일예정)",
+      "excerpt": "영호 같은 사람은 많이 피곤 할 수도 있음",
+      "author": "쌍**",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%A7%8E%EC%9D%B4-%ED%94%BC%EA%B3%A4-%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EC%9D%8C-or4q0gpf#459814793",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:58:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:58:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -790887,7 +790945,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T12:55:23+09:00"
+      "slowAt": "2026-11-05T12:58:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -801320,6 +801378,7 @@
         "6657117",
         "6657121",
         "6657127",
+        "6657128",
         "6657133",
         "6657134",
         "6657153",
