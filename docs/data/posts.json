@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T04:00:42+00:00",
+  "updatedAt": "2026-11-05T04:01:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -790891,6 +790891,25 @@
       "firstSeenAt": "2026-11-05T04:00:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99840,
+      "source": "dc",
+      "externalId": "6657370",
+      "title": "복수선택3개가능",
+      "excerpt": "",
+      "author": "김광현29",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657370&page=1",
+      "postedLabel": "13:00",
+      "postedAt": "2026-11-05T13:00:55+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:01:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -791065,7 +791084,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T12:58:23+09:00"
+      "slowAt": "2026-11-05T13:01:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -801537,7 +801556,8 @@
         "6657340",
         "6657343",
         "6657350",
-        "6657359"
+        "6657359",
+        "6657364"
       ]
     },
     "blind": {
@@ -807614,6 +807634,7 @@
         "/kr/post/34-%ED%98%84%EC%88%99-%EC%86%8C%EA%B0%9C-%EC%98%81%EC%83%81-0wjxfw5p",
         "/kr/post/34-%ED%98%84%EC%88%99-%ED%82%A4-g2yviulq",
         "/kr/post/34-%ED%98%84%EC%88%99-5h11safu",
+        "/kr/post/35%EA%B8%B0-%EC%98%81%EC%B2%A0-%EB%8B%AE%EC%9D%80%EA%BC%B4-loqw4hmq",
         "/kr/post/38%EA%B9%8C%EC%A7%80-%EC%86%94%EB%A1%9C%EA%B3%A0-ss8lfjjn",
         "/kr/post/4%EB%A7%8C%EC%9B%90%EC%96%B4%EC%B9%98-%EA%B3%84%EC%A0%95-%EC%82%AC%EC%84%9C-%EB%8F%8C%EB%A0%A4%EB%8F%84-%EC%8B%9C%EC%9B%90%EC%B0%AE%EC%95%98%EC%96%B4-8j5glfxo",
         "/kr/post/40%EB%8C%80-%EA%B3%B5%EB%8C%80-%EB%B0%95%EC%82%AC-m5x2mkp6",
