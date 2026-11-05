@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T04:25:42+00:00",
+  "updatedAt": "2026-11-05T04:26:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -792593,6 +792593,86 @@
       "firstSeenAt": "2026-11-05T04:25:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99926,
+      "source": "dc",
+      "externalId": "cmt-10995667",
+      "title": "외모는 기본이고 경제력도 중요해짐 - dc App",
+      "excerpt": "이런거 보면 남자는 나이 먹어도 외모가 전부임",
+      "author": "뚱보",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657235&page=4#cmt_10995667",
+      "postedLabel": "11.05 12:29:55",
+      "postedAt": "2026-11-05T12:29:55+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:26:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99927,
+      "source": "blind",
+      "externalId": "cmt-459813826",
+      "title": "늘 저런식으로 다른 여자한테 수요 없는 인성에 얼굴만 말짱한애 픽해서 다른 여자한테 까이고 오면 받아줬나봐",
+      "excerpt": "영자는 남자 다 꼬실수 있다 하더만",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%82%A8%EC%9E%90-%EB%8B%A4-%EA%BC%AC%EC%8B%A4%EC%88%98-%EC%9E%88%EB%8B%A4-%ED%95%98%EB%8D%94%EB%A7%8C-zgiu4z7l#459813826",
+      "postedLabel": "36분",
+      "postedAt": "2026-11-05T12:50:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:26:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99928,
+      "source": "blind",
+      "externalId": "cmt-459817687",
+      "title": "데이트하면 돈 다 내줬을거 같음",
+      "excerpt": "영자는 남자 다 꼬실수 있다 하더만",
+      "author": "노****",
+      "company": "LX세미콘",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%82%A8%EC%9E%90-%EB%8B%A4-%EA%BC%AC%EC%8B%A4%EC%88%98-%EC%9E%88%EB%8B%A4-%ED%95%98%EB%8D%94%EB%A7%8C-zgiu4z7l#459817687",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-05T13:20:23+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:26:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99929,
+      "source": "blind",
+      "externalId": "cmt-459818211",
+      "title": "그거야 나솔 보는 주 시청자가 피해의식 있는 사람들이라 그러지않을까 싶긴함. 한두해 한 프로그램도 아니고 시청자 취향맞춰서 진행하겠지",
+      "excerpt": "데프콘이 상황 정리할 때",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98%EC%9D%B4-%EC%83%81%ED%99%A9-%EC%A0%95%EB%A6%AC%ED%95%A0-%EB%95%8C-3n8ht2bt#459818211",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T13:26:23+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:26:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -803219,6 +803299,7 @@
         "6657223",
         "6657226",
         "6657227",
+        "6657235",
         "6657244",
         "6657249",
         "6657251",
@@ -803260,7 +803341,8 @@
         "6657422",
         "6657431",
         "6657436",
-        "6657438"
+        "6657438",
+        "6657441"
       ]
     },
     "blind": {
