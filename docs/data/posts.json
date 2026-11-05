@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:29:35+00:00",
+  "updatedAt": "2026-11-05T11:30:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -808554,6 +808554,104 @@
       "firstSeenAt": "2026-11-05T11:29:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100733,
+      "source": "dc",
+      "externalId": "6658706",
+      "title": "현숙의 이상한 점",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6658706&page=1",
+      "postedLabel": "20:29",
+      "postedAt": "2026-11-05T20:29:35+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:30:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100734,
+      "source": "qoo",
+      "externalId": "4396958951",
+      "title": "영철 인터뷰가 제일 빡치던데 대놓고 현숙 묻으려고 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396958951",
+      "postedLabel": "20:30",
+      "postedAt": "2026-11-05T20:30:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:30:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100735,
+      "source": "blind",
+      "externalId": "cmt-459869830",
+      "title": "시골 촌구석 공무원인게 현타와서, 동생인 영호랑 자신을 비교해보니 초라해서",
+      "excerpt": "영철은 진짜 왜 의원면직했을까",
+      "author": "#***",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A7%84%EC%A7%9C-%EC%99%9C-%EC%9D%98%EC%9B%90%EB%A9%B4%EC%A7%81%ED%96%88%EC%9D%84%EA%B9%8C-6d1b0fv4#459869830",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:30:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:30:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100736,
+      "source": "blind",
+      "externalId": "cmt-459869832",
+      "title": "연예인병 걸려서가 아닐까 싶다",
+      "excerpt": "영철은 진짜 왜 의원면직했을까",
+      "author": "e******",
+      "company": "ex-동화약품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A7%84%EC%A7%9C-%EC%99%9C-%EC%9D%98%EC%9B%90%EB%A9%B4%EC%A7%81%ED%96%88%EC%9D%84%EA%B9%8C-6d1b0fv4#459869832",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:30:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:30:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100737,
+      "source": "blind",
+      "externalId": "cmt-459869876",
+      "title": "성장캐니까",
+      "excerpt": "영철은 진짜 왜 의원면직했을까",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%A7%84%EC%A7%9C-%EC%99%9C-%EC%9D%98%EC%9B%90%EB%A9%B4%EC%A7%81%ED%96%88%EC%9D%84%EA%B9%8C-6d1b0fv4#459869876",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T20:30:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:30:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -808662,7 +808760,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T20:27:16+09:00"
+      "slowAt": "2026-11-05T20:30:16+09:00"
     },
     "ig": {
       "doneIds": [
@@ -829739,7 +829837,8 @@
         "4396933582",
         "4396936857",
         "4396952712",
-        "4396955955"
+        "4396955955",
+        "4396958951"
       ]
     },
     "keep": "v2",
