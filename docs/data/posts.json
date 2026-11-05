@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T17:59:55+00:00",
+  "updatedAt": "2026-11-05T18:03:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -818333,6 +818333,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T17:59:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101228,
+      "source": "dc",
+      "externalId": "cmt-10997520",
+      "title": "인간자체가 음침해보여 눈알굴리는거 개소름이고 - dc App",
+      "excerpt": "영식은 대체 왜 순자한테 무시당한걸까",
+      "author": "colocase",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6659844&page=4#cmt_10997520",
+      "postedLabel": "11.06 00:07:17",
+      "postedAt": "2026-11-06T00:07:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T18:03:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -829235,6 +829255,7 @@
         "6659834",
         "6659838",
         "6659839",
+        "6659844",
         "6659920",
         "6659927",
         "6659930",
