@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T11:01:35+00:00",
+  "updatedAt": "2026-11-05T11:02:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -807034,6 +807034,45 @@
       "firstSeenAt": "2026-11-05T11:01:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100656,
+      "source": "blind",
+      "externalId": "cmt-459864732",
+      "title": "그럴거면 일본에 있는 여자만나야지 나솔나와서 한국사는 여자 왜 찾냐",
+      "excerpt": "한달에 1번이나 2달에 한번?",
+      "author": "y*********",
+      "company": "한국항공우주산업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%9C%EB%8B%AC%EC%97%90-1%EB%B2%88%EC%9D%B4%EB%82%98-2%EB%8B%AC%EC%97%90-%ED%95%9C%EB%B2%88-f2yj5ivs#459864732",
+      "postedLabel": "9분",
+      "postedAt": "2026-11-05T19:53:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:02:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100657,
+      "source": "qoo",
+      "externalId": "4396933582",
+      "title": "진짜 현숙 살려인게 영호가 순자하고 잘되가고 영철이 다시 들이대면",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396933582",
+      "postedLabel": "20:01",
+      "postedAt": "2026-11-05T20:01:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T11:02:33+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -817821,6 +817860,7 @@
         "6658425",
         "6658427",
         "6658430",
+        "6658432",
         "6658435",
         "6658436",
         "6658437",
@@ -817854,7 +817894,8 @@
         "6658596",
         "6658604",
         "6658615",
-        "6658617"
+        "6658617",
+        "6658621"
       ]
     },
     "blind": {
@@ -828177,7 +828218,8 @@
         "4396906898",
         "4396917602",
         "4396919168",
-        "4396930709"
+        "4396930709",
+        "4396933582"
       ]
     },
     "keep": "v2",
