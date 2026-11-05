@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T04:01:41+00:00",
+  "updatedAt": "2026-11-05T04:03:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -790910,6 +790910,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T04:01:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99841,
+      "source": "dc",
+      "externalId": "6657382",
+      "title": "흙첨이햄 어제 질질짠거 모여서들 같이봣을까?",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657382&page=1",
+      "postedLabel": "13:03",
+      "postedAt": "2026-11-05T13:03:04+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:03:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99842,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%80-%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%9C%EC%9D%98%EC%82%AC%EB%90%9C%EA%B1%B0%EC%9E%84-88kjmcm6",
+      "title": "와 근데 현숙 어떻게 한의사된거임?",
+      "excerpt": "진짜 맹해보인다……… 본인이 말할때 영호가 약간 헛웃는걸 눈치 못채는거봐 나솔은 진짜 어리고 직업좋다고 다가 아니네…. 청학동 머리 어떻게 해주고싶다",
+      "author": "l*******",
+      "company": "CJ",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%9C%EC%9D%98%EC%82%AC%EB%90%9C%EA%B1%B0%EC%9E%84-88kjmcm6",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T13:03:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T04:03:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -791017,7 +791055,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T13:00:23+09:00"
+      "slowAt": "2026-11-05T13:03:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -801557,7 +801595,8 @@
         "6657343",
         "6657350",
         "6657359",
-        "6657364"
+        "6657364",
+        "6657376"
       ]
     },
     "blind": {
