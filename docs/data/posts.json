@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:49:38+00:00",
+  "updatedAt": "2026-11-05T03:50:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -790340,6 +790340,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T03:49:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99812,
+      "source": "qoo",
+      "externalId": "4396529739",
+      "title": "영호 눈치 너무 본다ㅠㅠ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396529739",
+      "postedLabel": "12:50",
+      "postedAt": "2026-11-05T12:50:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:50:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99813,
+      "source": "blind",
+      "externalId": "cmt-459813701",
+      "title": "역하네 신고해",
+      "excerpt": "영호 잠자리 얘기는 좀 심한거 아니냐??",
+      "author": "p********",
+      "company": "고려대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%9E%A0%EC%9E%90%EB%A6%AC-%EC%96%98%EA%B8%B0%EB%8A%94-%EC%A2%80-%EC%8B%AC%ED%95%9C%EA%B1%B0-%EC%95%84%EB%8B%88%EB%83%90-ubp45yrb#459813701",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:50:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:50:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -800975,6 +801014,7 @@
         "6657290",
         "6657297",
         "6657314",
+        "6657316",
         "6657318"
       ]
     },
@@ -811164,7 +811204,8 @@
         "4396516860",
         "4396519831",
         "4396522793",
-        "4396528923"
+        "4396528923",
+        "4396529739"
       ]
     },
     "keep": "v2",
