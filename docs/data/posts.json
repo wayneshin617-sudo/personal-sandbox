@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T02:48:39+00:00",
+  "updatedAt": "2026-11-05T02:49:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -786415,6 +786415,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T02:48:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99614,
+      "source": "qoo",
+      "externalId": "cmt-4396432792",
+      "title": "마음에 들면 엄청 잘할거 같긴해",
+      "excerpt": "근데 영호 사람 진짜 좋아보이는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396408504#4396432792",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T10:48:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:49:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99615,
+      "source": "qoo",
+      "externalId": "cmt-4396433139",
+      "title": "@1 오 글쿠나!! 알려줘서 고마워!",
+      "excerpt": "영호 대학은 어디나왔는지 안나왔어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396430574#4396433139",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T10:48:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:49:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99616,
+      "source": "dc",
+      "externalId": "6657101",
+      "title": "순자 뭔가 통통빵빵한게 흑인남자랑 어울릴듯",
+      "excerpt": "",
+      "author": "친하게지내자",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657101&page=1",
+      "postedLabel": "11:48",
+      "postedAt": "2026-11-05T11:48:58+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T02:49:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -786589,7 +786648,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T11:46:23+09:00"
+      "slowAt": "2026-11-05T11:49:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -796940,6 +796999,7 @@
         "6656716",
         "6656720",
         "6656731",
+        "6656735",
         "6656740",
         "6656745",
         "6656746",
