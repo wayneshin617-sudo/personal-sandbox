@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:39:42+00:00",
+  "updatedAt": "2026-11-05T03:40:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -789928,6 +789928,25 @@
       "firstSeenAt": "2026-11-05T03:39:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99791,
+      "source": "dc",
+      "externalId": "6657287",
+      "title": "어제 방송못봤는데 영철이가 어쨌길래",
+      "excerpt": "",
+      "author": "나다이새끼야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657287&page=1",
+      "postedLabel": "12:39",
+      "postedAt": "2026-11-05T12:39:40+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:40:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -790102,7 +790121,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T12:37:23+09:00"
+      "slowAt": "2026-11-05T12:40:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -800553,7 +800572,8 @@
         "6657261",
         "6657265",
         "6657274",
-        "6657278"
+        "6657278",
+        "6657284"
       ]
     },
     "blind": {
