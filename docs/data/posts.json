@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T12:00:35+00:00",
+  "updatedAt": "2026-11-05T12:01:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -811019,6 +811019,66 @@
       "firstSeenAt": "2026-11-05T12:00:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100858,
+      "source": "qoo",
+      "externalId": "cmt-4396932756",
+      "title": "오 그렇구나",
+      "excerpt": "나 솔직히 껍데기는 상철이 젤취향",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396919168#4396932756",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T20:00:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T12:01:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100859,
+      "source": "blind",
+      "externalId": "cmt-459874696",
+      "title": "51구역이냐",
+      "excerpt": "영숙 코 한거 맞지?",
+      "author": "부*********",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%BD%94-%ED%95%9C%EA%B1%B0-%EB%A7%9E%EC%A7%80-5cpar7s8#459874696",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T21:01:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T12:01:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100860,
+      "source": "blind",
+      "externalId": "cmt-459874613",
+      "title": "간호사언니 어떤 삶을 살고있는겨?",
+      "excerpt": "영철은 의원면직해도 할거많을거같은데",
+      "author": "**********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%80-%EC%9D%98%EC%9B%90%EB%A9%B4%EC%A7%81%ED%95%B4%EB%8F%84-%ED%95%A0%EA%B1%B0%EB%A7%8E%EC%9D%84%EA%B1%B0%EA%B0%99%EC%9D%80%EB%8D%B0-3ostu0zh#459874613",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T21:01:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T12:01:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -811194,7 +811254,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T20:58:16+09:00"
+      "slowAt": "2026-11-05T21:01:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -821885,7 +821945,8 @@
         "6658743",
         "6658747",
         "6658753",
-        "6658762"
+        "6658762",
+        "6658763"
       ]
     },
     "blind": {
