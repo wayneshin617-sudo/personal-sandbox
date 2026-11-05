@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T23:16:25+00:00",
+  "updatedAt": "2026-11-05T23:26:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -819680,6 +819680,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T23:16:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101296,
+      "source": "dc",
+      "externalId": "cmt-10997944",
+      "title": "대도식당 5만원이다 그냥소고기",
+      "excerpt": "저런데 나와서 소고기 3인분 시키는 걸 저리 주저주저하냐",
+      "author": "정재형",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6660124&page=3#cmt_10997944",
+      "postedLabel": "11.06 06:14:24",
+      "postedAt": "2026-11-06T06:14:24+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T23:26:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -819856,7 +819876,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T08:19:06+09:00"
+      "slowAt": "2026-11-06T08:26:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -830701,7 +830721,8 @@
         "6660295",
         "6660300",
         "6660303",
-        "6660311"
+        "6660311",
+        "6660316"
       ]
     },
     "blind": {
