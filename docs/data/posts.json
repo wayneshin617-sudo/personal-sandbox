@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T18:42:55+00:00",
+  "updatedAt": "2026-11-05T18:46:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -818493,6 +818493,26 @@
       "firstSeenAt": "2026-11-05T18:42:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101236,
+      "source": "dc",
+      "externalId": "cmt-10997475",
+      "title": "근자감 - dc App",
+      "excerpt": "수학할재는 왜 자기만나면 좋을꺼라고 꺼드럭됨??",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6659798&page=5#cmt_10997475",
+      "postedLabel": "11.05 23:47:06",
+      "postedAt": "2026-11-05T23:47:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T18:46:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -818601,7 +818621,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T03:43:38+09:00"
+      "slowAt": "2026-11-06T03:46:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -829398,6 +829418,7 @@
         "6659766",
         "6659775",
         "6659785",
+        "6659798",
         "6659825",
         "6659832",
         "6659834",
