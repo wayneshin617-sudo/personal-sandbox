@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T18:58:56+00:00",
+  "updatedAt": "2026-11-05T19:02:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -818833,6 +818833,46 @@
       "firstSeenAt": "2026-11-05T18:58:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101253,
+      "source": "qoo",
+      "externalId": "cmt-4397248889",
+      "title": "나도... 아 진심 그리고 좋다고 표현하는 그 리액션이 너무... 우욱",
+      "excerpt": "일본여자 너무좋아하는 남자한테 편견있음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397119179#4397248889",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T03:02:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T19:02:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101254,
+      "source": "qoo",
+      "externalId": "cmt-4397248978",
+      "title": "내말이.. 진짜 꼴보기싫더라ㅠ",
+      "excerpt": "7영식",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397121424#4397248978",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T03:02:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T19:02:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -819008,7 +819048,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T03:59:38+09:00"
+      "slowAt": "2026-11-06T04:02:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -829817,7 +829857,8 @@
         "6660084",
         "6660092",
         "6660093",
-        "6660105"
+        "6660105",
+        "6660112"
       ]
     },
     "blind": {
