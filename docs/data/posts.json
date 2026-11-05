@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:11:41+00:00",
+  "updatedAt": "2026-11-05T03:12:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -787647,6 +787647,44 @@
       "firstSeenAt": "2026-11-05T03:11:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99676,
+      "source": "qoo",
+      "externalId": "4396502275",
+      "title": "어제 영호가 영주권 얘기해서 당황함",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396502275",
+      "postedLabel": "12:11",
+      "postedAt": "2026-11-05T12:11:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:12:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99677,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9D%B8%EA%B8%B0-%EB%A7%8E%EC%9D%80-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%90%EC%95%BC-%EB%82%A8%EC%9E%90%EB%93%A4%EC%95%84-w8wcf4li",
+      "title": "순자가 인기 많은 이유가 뭐야? 남자들아",
+      "excerpt": "외모보면 현숙 옥순이 인기 많아야하는데 신기하게 넙대대한 순자가 인기가 많잖아 남자 여자 보는 눈이 다르다지만 어떤 이유인지 너무 궁금해~",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9D%B8%EA%B8%B0-%EB%A7%8E%EC%9D%80-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%90%EC%95%BC-%EB%82%A8%EC%9E%90%EB%93%A4%EC%95%84-w8wcf4li",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:12:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T03:12:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -787754,7 +787792,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T12:09:23+09:00"
+      "slowAt": "2026-11-05T12:12:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -798213,6 +798251,7 @@
         "6656991",
         "6656996",
         "6657006",
+        "6657007",
         "6657050",
         "6657057",
         "6657062",
@@ -808397,7 +808436,8 @@
         "4396483690",
         "4396487998",
         "4396490660",
-        "4396494309"
+        "4396494309",
+        "4396502275"
       ]
     },
     "keep": "v2",
