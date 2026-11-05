@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T00:04:16+00:00",
+  "updatedAt": "2026-11-05T00:06:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -779063,6 +779063,44 @@
       "firstSeenAt": "2026-11-05T00:04:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99242,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%EC%A0%9C%EB%8A%94-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%84%88%EB%AC%B4-%EA%B9%8C%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EC%95%BC-%E3%85%8B%E3%85%8B%E3%85%8B-s6b5u4jt",
+      "title": "어제는 영철이 너무 까는거 아니야?? ㅋㅋㅋ",
+      "excerpt": "지난주엔 영철이 아가리에 나도 절레절레 하긴 했는데 이번화는 데프콘 포함 자막도 온 제작진이 힘을 합쳐 ‘이렇게 까지 깐다고?‘ 싶을정도로 영철이 억까하는거 같아서 짠했음. 힘내라 영철아",
+      "author": "i*********",
+      "company": "선진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C%EB%8A%94-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%84%88%EB%AC%B4-%EA%B9%8C%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EC%95%BC-%E3%85%8B%E3%85%8B%E3%85%8B-s6b5u4jt",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T09:05:56+09:00",
+      "views": 19,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T00:06:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 99243,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%A7%84%EA%B5%AD%EC%9D%B4%EB%84%A4-4z4oygea",
+      "title": "영식이 진국이네",
+      "excerpt": "귀공자가 저기서 썩다니 ㅜ",
+      "author": "D***",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%A7%84%EA%B5%AD%EC%9D%B4%EB%84%A4-4z4oygea",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T09:05:57+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-05T00:06:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -779236,7 +779274,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T09:02:56+09:00"
+      "slowAt": "2026-11-05T09:05:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -789545,7 +789583,8 @@
         "6656580",
         "6656585",
         "6656590",
-        "6656597"
+        "6656597",
+        "6656612"
       ]
     },
     "blind": {
