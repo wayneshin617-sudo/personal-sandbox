@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T10:51:35+00:00",
+  "updatedAt": "2026-11-05T10:52:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -806697,6 +806697,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-05T10:51:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 100639,
+      "source": "blind",
+      "externalId": "cmt-459864590",
+      "title": "괜찮아 내가 유잼임",
+      "excerpt": "영호는 잘생겼는데 노잼이네",
+      "author": "누******",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8A%94%EB%8D%B0-%EB%85%B8%EC%9E%BC%EC%9D%B4%EB%84%A4-tn5eem7z#459864590",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T19:52:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T10:52:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -806872,7 +806892,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T19:49:16+09:00"
+      "slowAt": "2026-11-05T19:52:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -817469,6 +817489,7 @@
         "6658398",
         "6658400",
         "6658406",
+        "6658410",
         "6658415",
         "6658417",
         "6658418",
