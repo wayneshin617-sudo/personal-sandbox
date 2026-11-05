@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T10:32:35+00:00",
+  "updatedAt": "2026-11-05T10:35:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -805152,6 +805152,44 @@
       "firstSeenAt": "2026-11-05T10:32:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100561,
+      "source": "dc",
+      "externalId": "6658530",
+      "title": "근데 영호도 정신병임",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6658530&page=1",
+      "postedLabel": "19:34",
+      "postedAt": "2026-11-05T19:34:46+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-05T10:35:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100562,
+      "source": "dc",
+      "externalId": "6658532",
+      "title": "영자 웃음 아무도 말 안해주나?",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "61.78",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6658532&page=1",
+      "postedLabel": "19:35",
+      "postedAt": "2026-11-05T19:35:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T10:35:35+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -815881,6 +815919,7 @@
         "6658128",
         "6658132",
         "6658143",
+        "6658152",
         "6658239",
         "6658248",
         "6658250",
@@ -815903,6 +815942,7 @@
         "6658336",
         "6658346",
         "6658351",
+        "6658357",
         "6658415",
         "6658417",
         "6658418",
@@ -815927,7 +815967,9 @@
         "6658502",
         "6658504",
         "6658514",
-        "6658518"
+        "6658518",
+        "6658525",
+        "6658530"
       ]
     },
     "blind": {
