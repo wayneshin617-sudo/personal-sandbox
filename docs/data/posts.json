@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T05:08:42+00:00",
+  "updatedAt": "2026-11-05T05:09:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -794920,6 +794920,65 @@
       "firstSeenAt": "2026-11-05T05:08:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 100043,
+      "source": "dc",
+      "externalId": "cmt-10995808",
+      "title": "벌써 디엠 받고 스시녀 사귀고 있을듯",
+      "excerpt": "힌달에 한번이면 그냥 일본가서 구해라 씨발아",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6657403&page=4#cmt_10995808",
+      "postedLabel": "11.05 13:12:30",
+      "postedAt": "2026-11-05T13:12:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T05:09:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 100044,
+      "source": "qoo",
+      "externalId": "4396606039",
+      "title": "난 영호도 매력 떨어졌긴 함",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4396606039",
+      "postedLabel": "14:09",
+      "postedAt": "2026-11-05T14:09:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T05:09:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 100045,
+      "source": "blind",
+      "externalId": "cmt-459823383",
+      "title": "왜왱 어딘뎅",
+      "excerpt": "영호 진짜 다 좋은데",
+      "author": "y****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%A7%84%EC%A7%9C-%EB%8B%A4-%EC%A2%8B%EC%9D%80%EB%8D%B0-odzdqypu#459823383",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T14:09:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T05:09:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -795028,7 +795087,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-05T14:06:23+09:00"
+      "slowAt": "2026-11-05T14:09:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -805624,7 +805683,8 @@
         "6657546",
         "6657556",
         "6657561",
-        "6657565"
+        "6657565",
+        "6657567"
       ]
     },
     "blind": {
@@ -815842,7 +815902,8 @@
         "4396556755",
         "4396587279",
         "4396595153",
-        "4396599961"
+        "4396599961",
+        "4396606039"
       ]
     },
     "keep": "v2",
