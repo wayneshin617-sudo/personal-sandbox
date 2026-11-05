@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T03:06:41+00:00",
+  "updatedAt": "2026-11-05T03:07:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -787467,6 +787467,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-05T03:06:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 99667,
+      "source": "dc",
+      "externalId": "cmt-10995475",
+      "title": "미야코지마가 뜬금 없긴 했어. 거기 독점 취항하는 항공사가 스폰해줬나 했으니...",
+      "excerpt": "영철이 일본여행 이야기 한거보면 \"광고\" 맞어",
+      "author": "dd",
+      "company": "",
+      "ip": "27.1",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6656983&page=4#cmt_10995475",
+      "postedLabel": "11.05 11:10:38",
+      "postedAt": "2026-11-05T11:10:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:07:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99668,
+      "source": "blind",
+      "externalId": "cmt-459808662",
+      "title": "가발은. ;;",
+      "excerpt": "영호 나이가 내일 모레 37살인데",
+      "author": "I********",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EB%82%98%EC%9D%B4%EA%B0%80-%EB%82%B4%EC%9D%BC-%EB%AA%A8%EB%A0%88-37%EC%82%B4%EC%9D%B8%EB%8D%B0-qn4fd3ot#459808662",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-05T12:07:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T03:07:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -787641,7 +787681,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T12:04:23+09:00"
+      "slowAt": "2026-11-05T12:07:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -798004,6 +798044,7 @@
         "6656768",
         "6656776",
         "6656778",
+        "6656783",
         "6656855",
         "6656858",
         "6656860",
@@ -798026,6 +798067,7 @@
         "6656966",
         "6656970",
         "6656981",
+        "6656983",
         "6657050",
         "6657057",
         "6657062",
@@ -801895,6 +801937,7 @@
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B7%BC%EB%8D%B0-zyiazpty",
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B9%80%EC%84%A0%ED%98%B8-%EB%8B%AE%EC%95%97%EB%8B%A4-mtqwn87m",
         "/kr/post/%EC%98%81%ED%98%B8-%EA%BA%BC%EB%93%9C%EB%9F%AD-0j1q7zor",
+        "/kr/post/%EC%98%81%ED%98%B8-%EB%82%98%EC%9D%B4%EA%B0%80-%EB%82%B4%EC%9D%BC-%EB%AA%A8%EB%A0%88-37%EC%82%B4%EC%9D%B8%EB%8D%B0-qn4fd3ot",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%82%A8%EC%9E%90%EA%B0%80-%EB%B4%90%EB%8F%84-%EB%84%88%EB%AC%B4-%EA%B4%9C%EC%B0%AE%EB%84%A4-51v4q7ur",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%84%88%EB%AC%B4%ED%95%98%EB%84%A4-kwtafkah",
         "/kr/post/%EC%98%81%ED%98%B8-%EB%84%88%EB%AC%B4-%EC%9D%98%EC%9A%95%EC%A0%80%ED%95%98-ug3okbcm",
