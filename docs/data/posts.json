@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-05T04:45:41+00:00",
+  "updatedAt": "2026-11-05T04:46:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -793589,6 +793589,46 @@
       "firstSeenAt": "2026-11-05T04:45:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 99976,
+      "source": "qoo",
+      "externalId": "cmt-4396526431",
+      "title": "@3 근데 거기 어차피 영호 성향에 맞는 여출 없음ㅋㅋ",
+      "excerpt": "영호현숙 밀었는데 그냥 둘의 엇갈림이 아쉬움",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396477201#4396526431",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T12:45:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:46:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 99977,
+      "source": "qoo",
+      "externalId": "cmt-4396526918",
+      "title": "ㄹㅇ",
+      "excerpt": "솔직히 해외거주에 한국정착할생각 없어보이는 출연자는",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4396516860#4396526918",
+      "postedLabel": "",
+      "postedAt": "2026-11-05T12:46:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-05T04:46:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -793764,7 +793804,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-05T13:43:23+09:00"
+      "slowAt": "2026-11-05T13:46:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -804236,6 +804276,7 @@
         "6657296",
         "6657297",
         "6657306",
+        "6657313",
         "6657314",
         "6657316",
         "6657318",
@@ -804276,7 +804317,8 @@
         "6657484",
         "6657485",
         "6657493",
-        "6657500"
+        "6657500",
+        "6657501"
       ]
     },
     "blind": {
