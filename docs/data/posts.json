@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T13:50:18+00:00",
+  "updatedAt": "2026-11-06T13:51:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -843092,6 +843092,25 @@
       "firstSeenAt": "2026-11-06T13:50:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102479,
+      "source": "dc",
+      "externalId": "6662308",
+      "title": "장카설유 맞냐? 유는 빼야 되는거 아닌가",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662308&page=1",
+      "postedLabel": "22:50",
+      "postedAt": "2026-11-06T22:50:37+09:00",
+      "views": 6,
+      "recommends": 2,
+      "comments": 1,
+      "firstSeenAt": "2026-11-06T13:51:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -854659,7 +854678,8 @@
         "6662288",
         "6662289",
         "6662294",
-        "6662297"
+        "6662297",
+        "6662308"
       ]
     },
     "blind": {
