@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T23:17:20+00:00",
+  "updatedAt": "2026-11-06T23:19:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -845777,6 +845777,64 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T23:17:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102615,
+      "source": "dc",
+      "externalId": "6662478",
+      "title": "영호가 굳이 일본에서 사는 이유",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662478&page=1",
+      "postedLabel": "08:04",
+      "postedAt": "2026-11-07T08:04:58+09:00",
+      "views": 138,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T23:19:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102616,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EB%9E%91-%EC%98%81%EC%9E%90%EA%B0%80-%EC%96%BC%EA%B5%B4%ED%95%A9%EC%9D%B4-%EB%A7%9E%EB%84%A4-fmbdyrkt",
+      "title": "영호랑 영자가 얼굴합이 맞네",
+      "excerpt": "둘다 두부상에 피부가 하얗고 키가 커서 그런가 둘이 대화하는거보니 얼굴합이 은근히 맞네",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%9E%91-%EC%98%81%EC%9E%90%EA%B0%80-%EC%96%BC%EA%B5%B4%ED%95%A9%EC%9D%B4-%EB%A7%9E%EB%84%A4-fmbdyrkt",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-07T08:18:09+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T23:19:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102617,
+      "source": "blind",
+      "externalId": "cmt-460072431",
+      "title": "넌 블라인드 너무많이해서 안돼",
+      "excerpt": "나도 나는솔로 나가볼까 어때..",
+      "author": "l*********",
+      "company": "넥스트엔터테인먼트월드",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8F%84-%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EB%82%98%EA%B0%80%EB%B3%BC%EA%B9%8C-%EC%96%B4%EB%95%8C-ptnw7nxx#460072431",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-07T08:19:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T23:19:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -857382,9 +857440,11 @@
         "6662401",
         "6662403",
         "6662410",
+        "6662420",
         "6662441",
         "6662446",
-        "6662469"
+        "6662469",
+        "6662475"
       ]
     },
     "blind": {
