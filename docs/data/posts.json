@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T13:07:18+00:00",
+  "updatedAt": "2026-11-06T13:09:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -840486,6 +840486,45 @@
       "firstSeenAt": "2026-11-06T13:07:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102348,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-qvasbtej",
+      "title": "영철이 볼때마다",
+      "excerpt": "테크몽이 생각나는데 집중이 안 돼",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-qvasbtej",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T22:09:01+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-06T13:09:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102349,
+      "source": "blind",
+      "externalId": "cmt-460031471",
+      "title": "테크몽이머야???",
+      "excerpt": "영철이 볼때마다",
+      "author": "B*****",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-qvasbtej#460031471",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T22:09:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T13:09:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -852035,7 +852074,8 @@
         "6662223",
         "6662231",
         "6662233",
-        "6662235"
+        "6662235",
+        "6662240"
       ]
     },
     "blind": {
@@ -855505,6 +855545,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%B4%EB%A9%B4%EC%84%9C-6o0oia1b",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%B4%EB%A9%B4-20%EA%B8%B0-%EB%82%98%EC%86%94-%EB%91%90%EA%B0%9C%EC%9D%98%EC%8B%AC%EC%9E%A5-%ED%98%84%EC%88%99-%EC%83%9D%EA%B0%81%EB%82%A8-1xnmpaen",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%B8%EC%9D%B8%EC%9D%84-%EC%84%B1%EC%9E%A5%EC%BA%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ctia71yn",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-qvasbtej",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B9%A1%EB%8C%80%EA%B0%88-%EB%B0%95%EC%A0%9C%EB%90%98%EB%84%A4-saaeg80p",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%B9%A8%EB%A6%AC-%EC%9E%90%EB%9D%BC-ggmj41y1",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%BC%88%EB%A7%88%EB%8B%88%EC%95%84%ED%94%84%EA%B2%A0%EB%8B%A4-3zngfsg8",
