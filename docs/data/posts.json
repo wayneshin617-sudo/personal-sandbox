@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:21:16+00:00",
+  "updatedAt": "2026-11-06T11:22:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -834133,6 +834133,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-06T11:21:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102028,
+      "source": "blind",
+      "externalId": "cmt-460016734",
+      "title": "네 그럴게요 감사합니다",
+      "excerpt": "훈남 남동생 소개팅 주선을 시켜주고 싶어요.",
+      "author": "u********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9B%88%EB%82%A8-%EB%82%A8%EB%8F%99%EC%83%9D-%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%A3%BC%EC%84%A0%EC%9D%84-%EC%8B%9C%EC%BC%9C%EC%A3%BC%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-x6obv2ll#460016734",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:22:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:22:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102029,
+      "source": "blind",
+      "externalId": "cmt-460016623",
+      "title": "누나 셀소게로 가주세요 예쁜올케찾길바라요",
+      "excerpt": "훈남 남동생 소개팅 주선을 시켜주고 싶어요.",
+      "author": "😳*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9B%88%EB%82%A8-%EB%82%A8%EB%8F%99%EC%83%9D-%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%A3%BC%EC%84%A0%EC%9D%84-%EC%8B%9C%EC%BC%9C%EC%A3%BC%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-x6obv2ll#460016623",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:22:01+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:22:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -834244,7 +834284,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T20:19:01+09:00"
+      "slowAt": "2026-11-06T20:22:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -845504,6 +845544,7 @@
         "6661670",
         "6661675",
         "6661678",
+        "6661680",
         "6661782",
         "6661785",
         "6661786",
@@ -845532,7 +845573,8 @@
         "6662066",
         "6662072",
         "6662075",
-        "6662080"
+        "6662080",
+        "6662082"
       ]
     },
     "blind": {
