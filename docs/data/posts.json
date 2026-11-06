@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T04:36:54+00:00",
+  "updatedAt": "2026-11-06T04:37:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -826726,6 +826726,44 @@
       "firstSeenAt": "2026-11-06T04:36:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101652,
+      "source": "qoo",
+      "externalId": "4397560186",
+      "title": "현숙 욕 먹는거 어이없",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397560186",
+      "postedLabel": "13:37",
+      "postedAt": "2026-11-06T13:37:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:37:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101653,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%B4%EA%B0%80-%EB%8A%90%EB%81%BC%EB%8A%94-%EA%B1%B4%EB%8D%B0-%EB%82%98%EC%9D%B4%EB%93%A4%EC%88%98%EB%A1%9D-eoe4xd46",
+      "title": "내가 느끼는 건데 나이들수록",
+      "excerpt": "패션도 조신한 스타일로 입는게 귀티나고 우아한거같음 짧은치마니 그런건 좀 너무 어린애같고",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4%EA%B0%80-%EB%8A%90%EB%81%BC%EB%8A%94-%EA%B1%B4%EB%8D%B0-%EB%82%98%EC%9D%B4%EB%93%A4%EC%88%98%EB%A1%9D-eoe4xd46",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T13:37:38+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T04:37:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -848477,7 +848515,8 @@
         "4397528110",
         "4397531552",
         "4397550899",
-        "4397555059"
+        "4397555059",
+        "4397560186"
       ]
     },
     "keep": "v2",
