@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T04:32:54+00:00",
+  "updatedAt": "2026-11-06T04:33:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -826566,6 +826566,86 @@
       "firstSeenAt": "2026-11-06T04:32:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101644,
+      "source": "blind",
+      "externalId": "cmt-459961956",
+      "title": "사과할일도아닌데 사실 ㅋㅋㅋㅋ",
+      "excerpt": "근데 현숙은 영철한테",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-rzx4dmtz#459961956",
+      "postedLabel": "40분",
+      "postedAt": "2026-11-06T12:53:37+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:33:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101645,
+      "source": "blind",
+      "externalId": "cmt-459961936",
+      "title": "넌 사과한다고 풀릴거같냐; 짧게 본 남녀사이인데 상대방이 잘못한 행동이 쉽게 풀어지겄냐? 그냥 돌아서면 되는 쉬운 선택지도 있는데",
+      "excerpt": "근데 현숙은 영철한테",
+      "author": "x*****",
+      "company": "크래프톤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-rzx4dmtz#459961936",
+      "postedLabel": "40분",
+      "postedAt": "2026-11-06T12:53:38+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:33:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101646,
+      "source": "blind",
+      "externalId": "cmt-459963317",
+      "title": "인프피의마음은 알수없음 머릿속에서 무슨잉이 일어났는지 몰라 ㅋㅋㅋ",
+      "excerpt": "근데 현숙은 영철한테",
+      "author": "T*****",
+      "company": "물리치료사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-rzx4dmtz#459963317",
+      "postedLabel": "29분",
+      "postedAt": "2026-11-06T13:04:38+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:33:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101647,
+      "source": "blind",
+      "externalId": "cmt-459966908",
+      "title": "아닌데",
+      "excerpt": "나솔 애청자 중에",
+      "author": "i*********",
+      "company": "법무법인(유한)대륜",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%95%A0%EC%B2%AD%EC%9E%90-%EC%A4%91%EC%97%90-wcfkt1a0#459966908",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T13:33:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:33:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -826746,7 +826826,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T13:30:37+09:00"
+      "slowAt": "2026-11-06T13:33:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -837833,7 +837913,8 @@
         "6661111",
         "6661114",
         "6661117",
-        "6661120"
+        "6661120",
+        "6661121"
       ]
     },
     "blind": {
