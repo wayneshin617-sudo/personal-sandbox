@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T12:34:19+00:00",
+  "updatedAt": "2026-11-06T12:35:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -839120,6 +839120,65 @@
       "firstSeenAt": "2026-11-06T12:34:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102279,
+      "source": "blind",
+      "externalId": "cmt-460021658",
+      "title": "순자가 끼는게 맞아? 외모로는 진짜 영숙>>>순자 같은데",
+      "excerpt": "투표글 객관적으로 누가 이쁨? 투표",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9D%EA%B4%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%88%84%EA%B0%80-%EC%9D%B4%EC%81%A8-7v51u62s#460021658",
+      "postedLabel": "38분",
+      "postedAt": "2026-11-06T20:57:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:35:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102280,
+      "source": "blind",
+      "externalId": "cmt-460023727",
+      "title": "난 영숙 진짜 너무 별로임 코는 성형티 확나고 얼굴 번들번들 거리고 눈은 나도 무쌍이라 여자는 유쌍 선호하는데 매력있는 무쌍도 아니고 나보다 눈 훨씬 작고 차라리 순자가 훨씬 나음",
+      "excerpt": "투표글 객관적으로 누가 이쁨? 투표",
+      "author": "A*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9D%EA%B4%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%88%84%EA%B0%80-%EC%9D%B4%EC%81%A8-7v51u62s#460023727",
+      "postedLabel": "23분",
+      "postedAt": "2026-11-06T21:12:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:35:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102281,
+      "source": "qoo",
+      "externalId": "4397989290",
+      "title": "옥순 이번 착장이쁘다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397989290",
+      "postedLabel": "21:34",
+      "postedAt": "2026-11-06T21:34:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:35:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -839300,7 +839359,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T21:32:01+09:00"
+      "slowAt": "2026-11-06T21:35:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -850632,6 +850691,7 @@
         "6662118",
         "6662127",
         "6662128",
+        "6662130",
         "6662132",
         "6662134",
         "6662138",
@@ -852924,6 +852984,7 @@
         "/kr/post/%EC%8B%B1%EC%B2%A0-%EC%B4%88%EB%8C%80%EC%A1%B8%EC%9D%B4%EC%95%BC-w4wl4ww1",
         "/kr/post/%EC%8B%BC%EB%A7%88%EC%9D%B4-%EC%98%81%EC%B2%A0%EC%9D%B4-34ne12an",
         "/kr/post/%EC%8C%88%EB%B0%B0%ED%98%95%EC%9D%80-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EA%B9%8C%EB%8D%94%EB%8B%88-%EB%AC%B8%EC%8B%A0%EC%B6%A9-%EC%89%B4%EB%93%9C%EB%8A%94-%EC%98%A4%EC%A7%80%EB%84%A4-%E3%85%8B%E3%85%8B-552akigg",
+        "/kr/post/%EC%8C%88%EB%B0%B0%ED%98%95%EC%9D%B4%EB%9E%91-26%EC%98%A5%EC%88%9C-s3txs7xv",
         "/kr/post/%EC%8C%8D%EC%88%98%EC%95%88%ED%95%9C-%EB%8F%99%EC%83%9D%EB%93%A4%EC%9D%80-%EB%88%88%ED%81%AC%EA%B8%B0%EA%B0%80-lo3szk4x",
         "/kr/post/%EC%8C%8D%EC%B2%A0-%EB%B6%88-%EC%A2%80-%EA%BA%BC%EC%A3%BC%EB%9D%BC-3hbexqe3",
         "/kr/post/%EC%8D%B8%EB%84%A4%EC%9D%BC-%ED%8F%AD%EB%A0%A5%EC%A0%81%EC%9D%B4%EB%84%A4-7fesvxbv",
@@ -861229,7 +861290,8 @@
         "4397924505",
         "4397931333",
         "4397933580",
-        "4397947112"
+        "4397947112",
+        "4397989290"
       ]
     },
     "keep": "v2",
