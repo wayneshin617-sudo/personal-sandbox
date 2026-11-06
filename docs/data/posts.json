@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:59:54+00:00",
+  "updatedAt": "2026-11-06T06:00:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -829526,6 +829526,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T05:59:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101793,
+      "source": "blind",
+      "externalId": "cmt-459977737",
+      "title": "ㅋㅋㅋ",
+      "excerpt": "옥순 성형 어디를 했다는 거야???",
+      "author": "i*******",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%84%B1%ED%98%95-%EC%96%B4%EB%94%94%EB%A5%BC-%ED%96%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%95%BC-ro6xe64i#459977737",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T15:00:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T06:00:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101794,
+      "source": "blind",
+      "externalId": "cmt-459977802",
+      "title": "몰러",
+      "excerpt": "옥순 성형 어디를 했다는 거야???",
+      "author": "d*******",
+      "company": "안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%84%B1%ED%98%95-%EC%96%B4%EB%94%94%EB%A5%BC-%ED%96%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%95%BC-ro6xe64i#459977802",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T15:00:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T06:00:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -829706,7 +829746,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T14:57:37+09:00"
+      "slowAt": "2026-11-06T15:00:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -840877,7 +840917,8 @@
         "6661340",
         "6661343",
         "6661345",
-        "6661346"
+        "6661346",
+        "6661348"
       ]
     },
     "blind": {
@@ -845083,6 +845124,7 @@
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%82%BC%EC%A0%84-%EB%8B%A4%EB%8B%88%EB%8B%A4%EB%B3%B4%EB%8B%A4-%E3%85%8B%E3%85%8B-1fttfhjm",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%83%81%EC%B2%A0%EC%9D%80-%EC%9E%98%EC%96%B4%EC%9A%B8%EB%A6%B0%EB%8B%A4-haat52l4",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%83%81%EC%B2%A0-%EC%84%9C%EB%A1%9C-%ED%86%B5%ED%96%88%EB%84%A4-%EC%9E%98%EC%96%B4%EC%9A%B8%EB%A6%AC%EB%84%A4-%E3%85%8B%E3%85%8B-iarai1kx",
+        "/kr/post/%EC%98%A5%EC%88%9C-%EC%84%B1%ED%98%95-%EC%96%B4%EB%94%94%EB%A5%BC-%ED%96%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%95%BC-ro6xe64i",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%95%84%ED%98%84%EB%8B%AE%EC%95%98%EC%A7%80%EC%95%8A%EC%96%B4-016v86dc",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%95%BD%EA%B0%84-%EA%B3%A0%EC%9C%A4%EC%A0%95-%EB%8A%90%EB%82%8C%EC%9D%B8%EB%8D%B0-cdfdwv0n",
         "/kr/post/%EC%98%A5%EC%88%9C-%EC%95%BD%EA%B0%84-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B0%90%EC%9E%90-%ED%95%84%ED%84%B0-%EA%B0%99%EC%95%84-c6as7itx",
