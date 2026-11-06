@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:18:18+00:00",
+  "updatedAt": "2026-11-06T11:19:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -834034,6 +834034,66 @@
       "firstSeenAt": "2026-11-06T11:18:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102023,
+      "source": "qoo",
+      "externalId": "cmt-4397833651",
+      "title": "정숙은 저기 나가면 광수 안만날거 같음",
+      "excerpt": "광수정숙 너무 커여움",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397693724#4397833651",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T19:10:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:19:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102024,
+      "source": "blind",
+      "externalId": "cmt-460016238",
+      "title": "아 죄송해요..",
+      "excerpt": "훈남 남동생 소개팅 주선을 시켜주고 싶어요.",
+      "author": "u********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9B%88%EB%82%A8-%EB%82%A8%EB%8F%99%EC%83%9D-%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%A3%BC%EC%84%A0%EC%9D%84-%EC%8B%9C%EC%BC%9C%EC%A3%BC%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-x6obv2ll#460016238",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:19:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:19:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102025,
+      "source": "blind",
+      "externalId": "cmt-460016208",
+      "title": "나쏠 게시판임",
+      "excerpt": "훈남 남동생 소개팅 주선을 시켜주고 싶어요.",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9B%88%EB%82%A8-%EB%82%A8%EB%8F%99%EC%83%9D-%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%A3%BC%EC%84%A0%EC%9D%84-%EC%8B%9C%EC%BC%9C%EC%A3%BC%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-x6obv2ll#460016208",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:19:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:19:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -834145,7 +834205,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T20:16:01+09:00"
+      "slowAt": "2026-11-06T20:19:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -845402,12 +845462,14 @@
         "6661659",
         "6661662",
         "6661669",
+        "6661670",
         "6661782",
         "6661785",
         "6661786",
         "6661788",
         "6661789",
         "6661794",
+        "6661796",
         "6661896",
         "6661903",
         "6661904",
@@ -845422,7 +845484,9 @@
         "6662057",
         "6662058",
         "6662064",
-        "6662066"
+        "6662066",
+        "6662072",
+        "6662075"
       ]
     },
     "blind": {
@@ -850652,6 +850716,7 @@
         "/kr/post/%ED%8C%A8%EC%85%98-%EC%A7%91%EC%88%9C%EC%9D%B4%EB%93%A4%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%A7%80%EA%B8%B4-%ED%96%88%EB%84%A4-0ir3bbg6",
         "/kr/post/%ED%8C%A9%ED%8A%B8%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4-90%EB%8A%94-%ED%98%84%EC%8B%A4%EC%97%90%EC%84%9C-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%91%EC%97%85%EA%B1%B8%EB%A9%B4-mnwt2l68",
         "/kr/post/%ED%8C%A9%ED%8A%B8%EB%8A%94-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%8B%A4%EC%9D%8C%EC%A3%BC%EC%97%90%EB%8F%84-%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-%EB%93%A4%EC%9D%B4%EB%8C%84%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%9E%84-4mxn5g5l",
+        "/kr/post/%ED%8E%8C-%EC%82%AC%EA%B3%84-1%EA%B8%B0-%EC%98%81%ED%98%B8-%EC%9E%A5%EB%AF%B8-%ED%86%B5%ED%8E%B8%EC%A7%91-%EC%9D%B4%EC%9C%A0-stykmaax",
         "/kr/post/%ED%8E%98%EC%96%B4%ED%97%A4%EC%9D%B4%EB%B8%90%EC%9D%84-%EB%91%90%EA%B3%A0-1r2vgdjx",
         "/kr/post/%ED%8E%B8%EC%9D%98%EC%A0%90%EC%97%90-%EB%A9%80%EB%AF%B8%EC%95%BD-%EC%95%88%ED%8C%8C%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EB%AD%98%EC%82%AC%EC%98%A8%EA%B1%B0%EB%83%90-n7qrb2c3",
         "/kr/post/%ED%8F%89%EC%83%9D-%EC%A0%80%EB%9E%98%EC%A4%84-%EC%88%98-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EC%98%81%ED%98%B8%EC%B2%98%EB%9F%BC-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%8B%A4-qy771wo1",
@@ -851072,6 +851137,7 @@
         "/kr/post/%ED%9A%8C%EC%9E%A5%EB%8B%98%EC%9D%B4-%EC%97%AC%EB%9F%BF-%EC%9E%A5%EA%B0%80%EB%B3%B4%EB%82%B4%EC%A3%BC%EC%8B%9C%EB%84%A4-3dihizgk",
         "/kr/post/%ED%9A%8C%ED%94%BC%ED%98%95%EB%A7%8C-%EA%BC%AC%EC%9D%B8%EB%8B%A4%EB%8A%94%EA%B1%B4-0rrdxc5u",
         "/kr/post/%ED%9A%A8%EC%97%B0%EC%9D%B4-%EC%A0%80%EB%9E%98%EC%9D%B4%EB%BB%A4%EB%82%98-um0mut2z",
+        "/kr/post/%ED%9B%88%EB%82%A8-%EB%82%A8%EB%8F%99%EC%83%9D-%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%A3%BC%EC%84%A0%EC%9D%84-%EC%8B%9C%EC%BC%9C%EC%A3%BC%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-x6obv2ll",
         "/kr/post/%ED%9D%90%EC%9D%8C-81c1wp72",
         "/kr/post/%ED%9D%91%EB%88%84%EB%82%98-%EC%A2%85-%EC%97%AC%EB%9F%AC%EB%B2%88-%EC%B9%A0%EB%95%8C-%EA%B0%9C%EC%9B%83%EA%B8%B0%EB%84%A4-%E3%85%8B%E3%85%8B-mnqb4wih",
         "/kr/post/%ED%9D%91%EB%B9%84%EB%B9%84-%EB%82%98%EC%99%94%EB%8B%A4-ptalf7df",
