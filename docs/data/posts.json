@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:13:55+00:00",
+  "updatedAt": "2026-11-06T05:15:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -828056,6 +828056,45 @@
       "firstSeenAt": "2026-11-06T05:13:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101719,
+      "source": "dc",
+      "externalId": "6661246",
+      "title": "짝을 찾으러 나오면 감정 동요가 보임",
+      "excerpt": "",
+      "author": "사과맛제리뽀",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661246&page=1",
+      "postedLabel": "14:14",
+      "postedAt": "2026-11-06T14:14:40+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:15:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101720,
+      "source": "blind",
+      "externalId": "cmt-459971951",
+      "title": "ㄴㄴ 순자 문신충 까였듯이 현숙한테 기대했던 이미지랑 다르게 성격 있고 ㅆㄱㅈ 없어보여서 까이는거",
+      "excerpt": "현숙이 까이는 이유는 하나임",
+      "author": "j*******",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EA%B9%8C%EC%9D%B4%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94-%ED%95%98%EB%82%98%EC%9E%84-n5cdrfl8#459971951",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:15:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:15:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -828236,7 +828275,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T14:12:38+09:00"
+      "slowAt": "2026-11-06T14:15:37+09:00"
     },
     "dc": {
       "doneIds": [
