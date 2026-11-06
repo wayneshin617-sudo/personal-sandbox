@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T12:51:19+00:00",
+  "updatedAt": "2026-11-06T12:53:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -839753,6 +839753,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T12:51:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102311,
+      "source": "qoo",
+      "externalId": "cmt-4397935938",
+      "title": "ㅋㅋㅋ눈빛이 죽어있어 ㅋㅋㅋㅋ",
+      "excerpt": "아니 근데 순자는 너무 투명하다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397933580#4397935938",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T20:52:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:53:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102312,
+      "source": "dc",
+      "externalId": "cmt-11000741",
+      "title": "이쁨 세련된얼굴 - dc App",
+      "excerpt": "34옥순은 이쁜거임 안 이쁜거임",
+      "author": "Hjwjwjjju",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662160&page=2#cmt_11000741",
+      "postedLabel": "11.06 21:00:14",
+      "postedAt": "2026-11-06T21:00:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:53:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102313,
+      "source": "blind",
+      "externalId": "cmt-460028999",
+      "title": "약간 모쏠느낌남",
+      "excerpt": "34영철이 짠해보이는 이유는 결핍이 심해보여서",
+      "author": "아***",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A7%A0%ED%95%B4%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EA%B2%B0%ED%95%8D%EC%9D%B4-%EC%8B%AC%ED%95%B4%EB%B3%B4%EC%97%AC%EC%84%9C-l2do6ij0#460028999",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T21:53:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:53:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -839933,7 +839993,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T21:50:02+09:00"
+      "slowAt": "2026-11-06T21:53:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -851275,6 +851335,7 @@
         "6662150",
         "6662155",
         "6662159",
+        "6662160",
         "6662162",
         "6662166",
         "6662169",
