@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:11:17+00:00",
+  "updatedAt": "2026-11-06T11:12:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -833040,6 +833040,83 @@
       "firstSeenAt": "2026-11-06T11:11:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101973,
+      "source": "qoo",
+      "externalId": "cmt-4397834617",
+      "title": "현숙이 많이 땡기고있지않나...? 오히려 영호는 땡기길 기다리기보단 아예 생각이 없어보임",
+      "excerpt": "현숙 영호는 뭔가 서로 당겨주기만을 기다리는 조합 느낌이네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397822062#4397834617",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T19:11:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:12:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101974,
+      "source": "qoo",
+      "externalId": "4397893529",
+      "title": "영호는 전날에 원하던 두분 나왔냐는 질문이 왜 어려울까?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397893529",
+      "postedLabel": "20:11",
+      "postedAt": "2026-11-06T20:11:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:12:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101975,
+      "source": "dc",
+      "externalId": "6662056",
+      "title": "복수선택3개가능",
+      "excerpt": "",
+      "author": "김광현29",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662056&page=1",
+      "postedLabel": "20:11",
+      "postedAt": "2026-11-06T20:11:37+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:12:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101976,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%B0%EC%95%A0-12%EB%B2%88-%ED%95%9C-%EC%97%AC%EC%9E%90-vs-%EB%AA%A8%EC%86%94-%EC%97%AC%EC%9E%90-pl3ckbhq",
+      "title": "투표글 연애 12번 한 여자 vs 모솔 여자 투표",
+      "excerpt": "외모가 같다면 당신의 선택은?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0-12%EB%B2%88-%ED%95%9C-%EC%97%AC%EC%9E%90-vs-%EB%AA%A8%EC%86%94-%EC%97%AC%EC%9E%90-pl3ckbhq",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:12:01+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T11:12:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -844407,8 +844484,10 @@
         "6661782",
         "6661896",
         "6661903",
+        "6661904",
         "6662045",
         "6662049",
+        "6662051",
         "6662052"
       ]
     },
@@ -846163,6 +846242,7 @@
         "/kr/post/%EC%82%AC%EA%B3%84-%EB%8A%99%EB%8B%A4%EB%A6%AC%EB%93%A4%EA%B7%B8%EB%A7%8C-xh5i0ng4",
         "/kr/post/%EC%82%AC%EA%B3%84-%EB%AA%BD%EA%B3%A8%EB%85%80-k3jez3hn",
         "/kr/post/%EC%82%AC%EA%B3%84-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%EB%85%BC%EB%9E%80-bn05leta",
+        "/kr/post/%EC%82%AC%EA%B3%84-%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%99%9C%EC%BC%80-%EC%A7%A0%ED%95%98%EB%83%90%E2%80%A6-lwxlcdgm",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%84%B1%EC%95%85%EA%B0%80-%EB%A8%B8%EB%A6%AC-%EB%8B%A4%EC%8B%9C-%EB%B9%A0%EC%A7%84%EA%B1%B0%EC%9E%84-0ra2dopn",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%86%94%EC%A7%81%ED%9E%88-%EB%84%88%EB%AC%B4%ED%95%A8-mwto3q5h",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%95%84%EC%9E%AC%EB%93%A4-yjmakt2x",
@@ -854932,7 +855012,8 @@
         "4397822062",
         "4397853481",
         "4397858667",
-        "4397860263"
+        "4397860263",
+        "4397893529"
       ]
     },
     "keep": "v2",
