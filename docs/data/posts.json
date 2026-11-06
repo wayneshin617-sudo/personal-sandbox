@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:53:52+00:00",
+  "updatedAt": "2026-11-06T05:54:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -829387,6 +829387,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T05:53:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101786,
+      "source": "blind",
+      "externalId": "cmt-459977061",
+      "title": "무죄",
+      "excerpt": "예쁜게 죄라면",
+      "author": "경********",
+      "company": "경동나비엔",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%88%EC%81%9C%EA%B2%8C-%EC%A3%84%EB%9D%BC%EB%A9%B4-gm35qppr#459977061",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:54:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:54:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101787,
+      "source": "blind",
+      "externalId": "cmt-459977103",
+      "title": "훈방",
+      "excerpt": "예쁜게 죄라면",
+      "author": "u*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%88%EC%81%9C%EA%B2%8C-%EC%A3%84%EB%9D%BC%EB%A9%B4-gm35qppr#459977103",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:54:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:54:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -829567,7 +829607,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T14:51:38+09:00"
+      "slowAt": "2026-11-06T14:54:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -840731,7 +840771,9 @@
         "6661319",
         "6661320",
         "6661325",
-        "6661326"
+        "6661326",
+        "6661328",
+        "6661329"
       ]
     },
     "blind": {
@@ -844830,6 +844872,7 @@
         "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-%E3%85%8B%E3%85%8B-cz802bha",
         "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-5nhsuold",
         "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%A8-0hef7vve",
+        "/kr/post/%EC%98%88%EC%81%9C%EA%B2%8C-%EC%A3%84%EB%9D%BC%EB%A9%B4-gm35qppr",
         "/kr/post/%EC%98%88%EC%81%9C%EB%8D%B0-f1alhf8j",
         "/kr/post/%EC%98%88%EC%81%9C%EC%95%A0%EB%93%A4%EC%9D%80-%EC%99%9C-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94%EA%B1%B0%EB%83%90-4yofzah1",
         "/kr/post/%EC%98%88%EC%A0%84%EC%97%90-%EC%86%8C%EB%B0%A9%EA%B4%80-%EC%97%B0%EB%B4%89-%EC%96%BC%EB%A7%88-%EC%95%88%EB%90%9C%EB%8B%A4-%ED%96%88%EB%8D%98-%EC%B6%9C%EC%97%B0%EC%9E%90-%EC%9D%B4%ED%9B%84%EB%A1%9C-pzs5kpx2",
