@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:32:54+00:00",
+  "updatedAt": "2026-11-06T05:33:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -828752,6 +828752,66 @@
       "firstSeenAt": "2026-11-06T05:32:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101754,
+      "source": "qoo",
+      "externalId": "cmt-4397556952",
+      "title": "자기는 영자한테 7:3했는데 어쩌고 하는게 너무 별로였어 개무시해놓고",
+      "excerpt": "난 영철 갑자기 의기소침해진척 불쌍한척 하는것도 짜증났음ㅠㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397528110#4397556952",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T13:33:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:33:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101755,
+      "source": "qoo",
+      "externalId": "cmt-4397557329",
+      "title": "회차 지날수록 점점 더 괜찮음 ㅋㅋㅋㅋ",
+      "excerpt": "영수 진짜 괜찮다 느낀건 갈비탕 끓여놓고 자기는 남은 콩나물국 먹은거",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397531552#4397557329",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T13:33:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:33:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101756,
+      "source": "blind",
+      "externalId": "cmt-459974319",
+      "title": "자기 혐오지 뭐 ㅋㅋ",
+      "excerpt": "여자들 내로남불 역겨울때",
+      "author": "i******",
+      "company": "KCC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EB%82%B4%EB%A1%9C%EB%82%A8%EB%B6%88-%EC%97%AD%EA%B2%A8%EC%9A%B8%EB%95%8C-qqy6yrlf#459974319",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:33:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:33:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -828932,7 +828992,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T14:30:37+09:00"
+      "slowAt": "2026-11-06T14:33:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -840078,7 +840138,8 @@
         "6661270",
         "6661276",
         "6661277",
-        "6661281"
+        "6661281",
+        "6661283"
       ]
     },
     "blind": {
