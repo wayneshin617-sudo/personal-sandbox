@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T00:25:22+00:00",
+  "updatedAt": "2026-11-06T00:26:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -820451,6 +820451,25 @@
       "firstSeenAt": "2026-11-06T00:25:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101335,
+      "source": "dc",
+      "externalId": "6660436",
+      "title": "다들 모해요",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6660436&page=1",
+      "postedLabel": "09:25",
+      "postedAt": "2026-11-06T09:25:42+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T00:26:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -820630,7 +820649,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T09:23:03+09:00"
+      "slowAt": "2026-11-06T09:26:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -831518,7 +831537,8 @@
         "6660401",
         "6660407",
         "6660424",
-        "6660427"
+        "6660427",
+        "6660429"
       ]
     },
     "blind": {
