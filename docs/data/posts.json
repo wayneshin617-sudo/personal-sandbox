@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:24:54+00:00",
+  "updatedAt": "2026-11-06T05:26:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -828452,6 +828452,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T05:24:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101739,
+      "source": "qoo",
+      "externalId": "cmt-4397551160",
+      "title": "ㄹㅇ....",
+      "excerpt": "영호 속마음 진짜 말 잘 안하는거 같애",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397516635#4397551160",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T13:26:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:26:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101740,
+      "source": "blind",
+      "externalId": "cmt-459966757",
+      "title": "그래서 욕 먹을만큼 먹었잖아 일주일동안 ㅋㅋ",
+      "excerpt": "근데 영철이 현숙 + 영자때",
+      "author": "l********",
+      "company": "진에어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99-%EC%98%81%EC%9E%90%EB%95%8C-fz3e6um0#459966757",
+      "postedLabel": "55분",
+      "postedAt": "2026-11-06T13:31:38+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:26:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -828563,7 +828603,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T14:23:37+09:00"
+      "slowAt": "2026-11-06T14:26:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -839773,7 +839813,8 @@
         "6661257",
         "6661261",
         "6661263",
-        "6661266"
+        "6661266",
+        "6661270"
       ]
     },
     "blind": {
