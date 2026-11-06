@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T03:42:54+00:00",
+  "updatedAt": "2026-11-06T03:43:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -824283,6 +824283,46 @@
       "firstSeenAt": "2026-11-06T03:42:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101529,
+      "source": "blind",
+      "externalId": "cmt-459960426",
+      "title": "이거 진리인데 여기는 노처녀들 많아서 저항 많이 받을거야",
+      "excerpt": "여자나이 35세 이상인데 결혼을 못했다?",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%82%98%EC%9D%B4-35%EC%84%B8-%EC%9D%B4%EC%83%81%EC%9D%B8%EB%8D%B0-%EA%B2%B0%ED%98%BC%EC%9D%84-%EB%AA%BB%ED%96%88%EB%8B%A4-w2jyx4sw#459960426",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-06T12:42:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T03:43:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101530,
+      "source": "blind",
+      "externalId": "cmt-459960466",
+      "title": "근데 그 기준이란게 다 자기맘임ㅋㅋ 난 여자 31살 남자 32살 이상인데 솔로면 좀 그런가싶어지던데",
+      "excerpt": "여자나이 35세 이상인데 결혼을 못했다?",
+      "author": "U*****",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%82%98%EC%9D%B4-35%EC%84%B8-%EC%9D%B4%EC%83%81%EC%9D%B8%EB%8D%B0-%EA%B2%B0%ED%98%BC%EC%9D%84-%EB%AA%BB%ED%96%88%EB%8B%A4-w2jyx4sw#459960466",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T12:43:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T03:43:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -835412,6 +835452,7 @@
         "6660605",
         "6660607",
         "6660608",
+        "6660610",
         "6660614",
         "6660615",
         "6660616",
@@ -835432,6 +835473,8 @@
         "6660791",
         "6660793",
         "6660801",
+        "6660809",
+        "6660810",
         "6660929",
         "6660932",
         "6660934",
@@ -835447,7 +835490,8 @@
         "6660981",
         "6660983",
         "6660986",
-        "6660991"
+        "6660991",
+        "6660993"
       ]
     },
     "blind": {
@@ -845911,7 +845955,8 @@
         "4397439601",
         "4397496449",
         "4397505115",
-        "4397507883"
+        "4397507883",
+        "4397514787"
       ]
     },
     "keep": "v2",
