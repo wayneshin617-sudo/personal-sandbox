@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T13:00:18+00:00",
+  "updatedAt": "2026-11-06T13:01:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -840151,6 +840151,65 @@
       "firstSeenAt": "2026-11-06T13:00:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102331,
+      "source": "blind",
+      "externalId": "cmt-460021818",
+      "title": "잇몸만 아니먼 나도 가끔 보이는데.. 욕먹을거같아서 굳이 말 안꺼내긴함... 피부좀 하얗고 안웃으면 쪼끔 보이는대",
+      "excerpt": "나만 영자 안소희같음?",
+      "author": "k****",
+      "company": "쿠쿠전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%EC%9E%90-%EC%95%88%EC%86%8C%ED%9D%AC%EA%B0%99%EC%9D%8C-jeotn6f0#460021818",
+      "postedLabel": "1시간",
+      "postedAt": "2026-11-06T21:00:57+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T13:01:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102332,
+      "source": "qoo",
+      "externalId": "4398019413",
+      "title": "다음주 예고보는데 현숙 영호 안깨진거같아",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4398019413",
+      "postedLabel": "22:00",
+      "postedAt": "2026-11-06T22:00:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T13:01:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102333,
+      "source": "dc",
+      "externalId": "cmt-11000906",
+      "title": "남미새",
+      "excerpt": "와..진짜 이쁘시다..와...ㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662231&page=1#cmt_11000906",
+      "postedLabel": "11.06 22:00:18",
+      "postedAt": "2026-11-06T22:00:18+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T13:01:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -840262,7 +840321,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T21:58:01+09:00"
+      "slowAt": "2026-11-06T22:01:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -851696,7 +851755,9 @@
         "6662215",
         "6662218",
         "6662219",
-        "6662223"
+        "6662223",
+        "6662231",
+        "6662233"
       ]
     },
     "blind": {
@@ -862281,7 +862342,8 @@
         "4397931333",
         "4397933580",
         "4397947112",
-        "4397989290"
+        "4397989290",
+        "4398019413"
       ]
     },
     "keep": "v2",
