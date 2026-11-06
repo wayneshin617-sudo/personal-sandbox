@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T04:19:54+00:00",
+  "updatedAt": "2026-11-06T04:23:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -826169,6 +826169,26 @@
       "firstSeenAt": "2026-11-06T04:19:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101624,
+      "source": "qoo",
+      "externalId": "cmt-4397499284",
+      "title": "자기소개때랑 말바뀐거보고 왜저래싶었음",
+      "excerpt": "영호 겁나 호감이었는데 장거리계획에서 좀 읭 싶었음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397439601#4397499284",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T12:23:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:23:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -826280,7 +826300,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T13:20:38+09:00"
+      "slowAt": "2026-11-06T13:23:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -837427,7 +837447,8 @@
         "6661079",
         "6661081",
         "6661084",
-        "6661092"
+        "6661092",
+        "6661094"
       ]
     },
     "blind": {
