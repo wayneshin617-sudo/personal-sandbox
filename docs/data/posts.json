@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T12:43:18+00:00",
+  "updatedAt": "2026-11-06T12:44:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -839397,6 +839397,66 @@
       "firstSeenAt": "2026-11-06T12:43:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102293,
+      "source": "qoo",
+      "externalId": "cmt-4397926439",
+      "title": "@1 내말이!!!!!!!!!!!!!!!!!!!!!!!! 현숙 진짜 뭔 봉변이야 이개",
+      "excerpt": "현숙이 왜 욕먹는지 알겠다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397924505#4397926439",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T20:43:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:44:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102294,
+      "source": "blind",
+      "externalId": "cmt-460026973",
+      "title": "돈 많아서 안해본거같지않아?",
+      "excerpt": "영식이 귀티나고 좋다는데",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EA%B7%80%ED%8B%B0%EB%82%98%EA%B3%A0-%EC%A2%8B%EB%8B%A4%EB%8A%94%EB%8D%B0-6274hgv1#460026973",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-06T21:38:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:44:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102295,
+      "source": "blind",
+      "externalId": "cmt-460027827",
+      "title": "아 근데 내가 넘 싫어하는 비호감 유형이야",
+      "excerpt": "영철 난 싫진않음",
+      "author": "g*****",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%82%9C-%EC%8B%AB%EC%A7%84%EC%95%8A%EC%9D%8C-8t77fyp2#460027827",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T21:44:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:44:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -839577,7 +839637,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T21:41:01+09:00"
+      "slowAt": "2026-11-06T21:44:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -850781,6 +850841,7 @@
         "6661716",
         "6661718",
         "6661719",
+        "6661722",
         "6661725",
         "6661730",
         "6661732",
