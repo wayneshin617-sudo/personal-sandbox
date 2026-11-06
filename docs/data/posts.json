@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T01:05:21+00:00",
+  "updatedAt": "2026-11-06T01:08:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -821045,6 +821045,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T01:05:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101365,
+      "source": "dc",
+      "externalId": "cmt-10998502",
+      "title": "지방한이 설대높공 수준임",
+      "excerpt": "전교1등이 동신대 한의대를 왜 감?",
+      "author": "꾸르르륵",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6660203&page=5#cmt_10998502",
+      "postedLabel": "11.06 09:57:16",
+      "postedAt": "2026-11-06T09:57:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T01:08:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -821224,7 +821244,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T10:05:03+09:00"
+      "slowAt": "2026-11-06T10:08:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -832143,7 +832163,8 @@
         "6660504",
         "6660506",
         "6660511",
-        "6660521"
+        "6660521",
+        "6660525"
       ]
     },
     "blind": {
