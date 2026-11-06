@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T06:02:53+00:00",
+  "updatedAt": "2026-11-06T06:03:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -829626,6 +829626,45 @@
       "firstSeenAt": "2026-11-06T06:02:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101798,
+      "source": "dc",
+      "externalId": "6661361",
+      "title": "얼굴 잘생기면 남대문 스카프 팔아도 월 2천 버는데",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661361&page=1",
+      "postedLabel": "15:03",
+      "postedAt": "2026-11-06T15:03:21+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T06:03:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101799,
+      "source": "blind",
+      "externalId": "cmt-459978101",
+      "title": "그러니까 그냥 그렇게 태어난 사람들도 있는 건데 자꾸 사람들이 성형한 거 같다니까 궁금했어",
+      "excerpt": "옥순 성형 어디를 했다는 거야???",
+      "author": "l********* 작성자",
+      "company": "삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%84%B1%ED%98%95-%EC%96%B4%EB%94%94%EB%A5%BC-%ED%96%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%95%BC-ro6xe64i#459978101",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T15:03:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T06:03:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -829806,7 +829845,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T15:00:38+09:00"
+      "slowAt": "2026-11-06T15:03:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -840980,6 +841019,7 @@
         "6661346",
         "6661348",
         "6661349",
+        "6661352",
         "6661357"
       ]
     },
