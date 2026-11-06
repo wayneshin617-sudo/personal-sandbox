@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T04:46:54+00:00",
+  "updatedAt": "2026-11-06T04:47:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -827223,6 +827223,45 @@
       "firstSeenAt": "2026-11-06T04:46:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101677,
+      "source": "dc",
+      "externalId": "6661155",
+      "title": "변호사 월 2천씩 벌면 잘버눈거 아닌가",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661155&page=1",
+      "postedLabel": "13:47",
+      "postedAt": "2026-11-06T13:47:13+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:47:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101678,
+      "source": "blind",
+      "externalId": "cmt-459968603",
+      "title": "걸렸다 이 영자같은 녀석아",
+      "excerpt": "영자같은 여자들이 영철까가 많은듯",
+      "author": "!********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EA%B0%99%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%98%81%EC%B2%A0%EA%B9%8C%EA%B0%80-%EB%A7%8E%EC%9D%80%EB%93%AF-wf7guhm1#459968603",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T13:47:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:47:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -827334,7 +827373,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T13:44:37+09:00"
+      "slowAt": "2026-11-06T13:47:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -838499,7 +838538,8 @@
         "6661134",
         "6661135",
         "6661141",
-        "6661150"
+        "6661150",
+        "6661153"
       ]
     },
     "blind": {
