@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:29:19+00:00",
+  "updatedAt": "2026-11-06T11:31:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -834648,6 +834648,64 @@
       "firstSeenAt": "2026-11-06T11:29:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102054,
+      "source": "qoo",
+      "externalId": "cmt-4397853808",
+      "title": "정리해도 안될 듯ㅋㅋㅋㅋㅋ 거머리야",
+      "excerpt": "근데 현숙 확실히 영철 정리해야 살길인거같지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397853481#4397853808",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T19:31:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:31:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102055,
+      "source": "qoo",
+      "externalId": "4397913015",
+      "title": "영호 엄청 눈치보넼ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397913015",
+      "postedLabel": "20:30",
+      "postedAt": "2026-11-06T20:30:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:31:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102056,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%EC%9E%90-%EC%95%88%EC%86%8C%ED%9D%AC%EA%B0%99%EC%9D%8C-jeotn6f0",
+      "title": "나만 영자 안소희같음?",
+      "excerpt": "뭔가 얼굴에 안소희가 있어",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%EC%9E%90-%EC%95%88%EC%86%8C%ED%9D%AC%EA%B0%99%EC%9D%8C-jeotn6f0",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:31:06+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T11:31:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -834759,7 +834817,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T20:28:01+09:00"
+      "slowAt": "2026-11-06T20:31:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -846023,6 +846081,7 @@
         "6661683",
         "6661690",
         "6661692",
+        "6661695",
         "6661782",
         "6661785",
         "6661786",
@@ -846038,6 +846097,7 @@
         "6661813",
         "6661814",
         "6661815",
+        "6661817",
         "6661896",
         "6661903",
         "6661904",
@@ -856608,7 +856668,8 @@
         "4397893529",
         "4397897854",
         "4397902494",
-        "4397910240"
+        "4397910240",
+        "4397913015"
       ]
     },
     "keep": "v2",
