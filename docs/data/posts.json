@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:44:54+00:00",
+  "updatedAt": "2026-11-06T05:45:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -829190,6 +829190,26 @@
       "firstSeenAt": "2026-11-06T05:44:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101776,
+      "source": "blind",
+      "externalId": "cmt-459976013",
+      "title": "ㅎㅎ",
+      "excerpt": "요즘 다들 나보고 영호 같다는 말 되게 많이 하던데",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%94%EC%A6%98-%EB%8B%A4%EB%93%A4-%EB%82%98%EB%B3%B4%EA%B3%A0-%EC%98%81%ED%98%B8-%EA%B0%99%EB%8B%A4%EB%8A%94-%EB%A7%90-%EB%90%98%EA%B2%8C-%EB%A7%8E%EC%9D%B4-%ED%95%98%EB%8D%98%EB%8D%B0-y50cknnj#459976013",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:45:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:45:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -829370,7 +829390,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T14:42:38+09:00"
+      "slowAt": "2026-11-06T14:45:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -840526,7 +840546,8 @@
         "6661302",
         "6661304",
         "6661305",
-        "6661308"
+        "6661308",
+        "6661310"
       ]
     },
     "blind": {
