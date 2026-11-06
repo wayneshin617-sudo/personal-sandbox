@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:06:54+00:00",
+  "updatedAt": "2026-11-06T05:08:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -827898,6 +827898,45 @@
       "firstSeenAt": "2026-11-06T05:06:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101711,
+      "source": "qoo",
+      "externalId": "cmt-4397535134",
+      "title": "ㅇㅇ 맏며느리 이런 얘기는 하지말고ㅋㅋㅋ",
+      "excerpt": "영수 진짜 괜찮다 느낀건 갈비탕 끓여놓고 자기는 남은 콩나물국 먹은거",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397531552#4397535134",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T13:08:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:08:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101712,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%9E%98%EB%AA%BB%ED%95%9C%EA%B1%B4-%ED%95%98%EB%82%98%EB%BF%90%EC%9E%84-lz5csupj",
+      "title": "현숙이가 잘못한건 하나뿐임",
+      "excerpt": "토 얘기 공용거실에서 영철이 나불댄거 들은 순간 손절쳤어야 했는데 망설이다가 손절이 늦어진거.",
+      "author": "i*********",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%9E%98%EB%AA%BB%ED%95%9C%EA%B1%B4-%ED%95%98%EB%82%98%EB%BF%90%EC%9E%84-lz5csupj",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:08:38+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T05:08:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -828009,7 +828048,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T14:05:37+09:00"
+      "slowAt": "2026-11-06T14:08:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -839155,6 +839194,7 @@
         "6661054",
         "6661058",
         "6661061",
+        "6661062",
         "6661063",
         "6661065",
         "6661067",
@@ -839200,7 +839240,9 @@
         "6661202",
         "6661212",
         "6661213",
-        "6661219"
+        "6661219",
+        "6661222",
+        "6661224"
       ]
     },
     "blind": {
