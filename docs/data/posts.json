@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T06:08:54+00:00",
+  "updatedAt": "2026-11-06T06:09:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -829805,6 +829805,46 @@
       "firstSeenAt": "2026-11-06T06:08:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101807,
+      "source": "blind",
+      "externalId": "cmt-459978919",
+      "title": "성형보다는 시술 몇군데 했을것 같은데 입술이랑 눈쪽?",
+      "excerpt": "옥순 성형 어디를 했다는 거야???",
+      "author": "d*****",
+      "company": "애터미",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%84%B1%ED%98%95-%EC%96%B4%EB%94%94%EB%A5%BC-%ED%96%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%95%BC-ro6xe64i#459978919",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T15:09:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T06:09:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101808,
+      "source": "blind",
+      "externalId": "cmt-459978948",
+      "title": "그니까 안 건드렸는데 그런 오해 들으면 억울하잖아 나도 쌍수 어디서 했냐는 말 많이 들었는데",
+      "excerpt": "옥순 성형 어디를 했다는 거야???",
+      "author": "l********* 작성자",
+      "company": "삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%84%B1%ED%98%95-%EC%96%B4%EB%94%94%EB%A5%BC-%ED%96%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%95%BC-ro6xe64i#459978948",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T15:09:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T06:09:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -829985,7 +830025,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T15:06:37+09:00"
+      "slowAt": "2026-11-06T15:09:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -841165,7 +841205,8 @@
         "6661359",
         "6661361",
         "6661369",
-        "6661370"
+        "6661370",
+        "6661372"
       ]
     },
     "blind": {
