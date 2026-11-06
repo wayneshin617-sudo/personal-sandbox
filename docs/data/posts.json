@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:52:54+00:00",
+  "updatedAt": "2026-11-06T05:53:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -829349,6 +829349,44 @@
       "firstSeenAt": "2026-11-06T05:52:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101784,
+      "source": "qoo",
+      "externalId": "4397623452",
+      "title": "이번주 재밌었어? 저번주보다???",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397623452",
+      "postedLabel": "14:53",
+      "postedAt": "2026-11-06T14:53:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:53:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101785,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%88%EC%81%9C%EA%B2%8C-%EC%A3%84%EB%9D%BC%EB%A9%B4-gm35qppr",
+      "title": "예쁜게 죄라면",
+      "excerpt": "영숙의 형량은?",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%88%EC%81%9C%EA%B2%8C-%EC%A3%84%EB%9D%BC%EB%A9%B4-gm35qppr",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:53:37+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T05:53:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -829460,7 +829498,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T14:50:37+09:00"
+      "slowAt": "2026-11-06T14:53:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -840653,6 +840691,7 @@
         "6661170",
         "6661172",
         "6661175",
+        "6661176",
         "6661178",
         "6661179",
         "6661185",
@@ -840690,7 +840729,9 @@
         "6661310",
         "6661317",
         "6661319",
-        "6661320"
+        "6661320",
+        "6661325",
+        "6661326"
       ]
     },
     "blind": {
@@ -851187,7 +851228,8 @@
         "4397560186",
         "4397570247",
         "4397570452",
-        "4397593815"
+        "4397593815",
+        "4397623452"
       ]
     },
     "keep": "v2",
