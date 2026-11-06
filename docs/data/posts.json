@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T05:18:54+00:00",
+  "updatedAt": "2026-11-06T05:19:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -828154,6 +828154,45 @@
       "firstSeenAt": "2026-11-06T05:18:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101724,
+      "source": "qoo",
+      "externalId": "4397593815",
+      "title": "줌내 이런 단어 싫어하는데 유튜브 댓글들 진짜... 심함",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397593815",
+      "postedLabel": "14:19",
+      "postedAt": "2026-11-06T14:19:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:19:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101725,
+      "source": "blind",
+      "externalId": "cmt-459972607",
+      "title": "영철 허우대 멀쩡하니까 인기관리용으로 데리고 있으려했는데 직업 공무원인거 듣고 자꾸 들러붙어서 영호랑도 훼방 놓을거 같으니까 열뻗쳐서 팽한거지",
+      "excerpt": "현숙 ㅈㄴ불쌍하네 ㅋㅋㅋㅋ",
+      "author": "j*******",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%E3%85%88%E3%84%B4%EB%B6%88%EC%8C%8D%ED%95%98%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-bwwqzsae#459972607",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T14:19:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T05:19:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -839424,6 +839463,7 @@
         "6661079",
         "6661081",
         "6661084",
+        "6661085",
         "6661092",
         "6661094",
         "6661105",
@@ -849956,7 +849996,8 @@
         "4397555059",
         "4397560186",
         "4397570247",
-        "4397570452"
+        "4397570452",
+        "4397593815"
       ]
     },
     "keep": "v2",
