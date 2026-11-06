@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T03:56:54+00:00",
+  "updatedAt": "2026-11-06T03:58:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -825137,6 +825137,45 @@
       "firstSeenAt": "2026-11-06T03:56:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101572,
+      "source": "qoo",
+      "externalId": "4397526880",
+      "title": "딴소린데 난 여출들 아침에 준비하는 씬이나 잘 준비하는 씬 좋아함",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397526880",
+      "postedLabel": "12:58",
+      "postedAt": "2026-11-06T12:58:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T03:58:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101573,
+      "source": "blind",
+      "externalId": "cmt-459962425",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 평범한 남자들은 얼굴 또는 몸매 둘 중 하나만 되도 사랑에 빠지지…",
+      "excerpt": "순자가 인기 많은 이유를 남자들은 다 알고있음",
+      "author": "수********",
+      "company": "ex-공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9D%B8%EA%B8%B0-%EB%A7%8E%EC%9D%80-%EC%9D%B4%EC%9C%A0%EB%A5%BC-%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%80-%EB%8B%A4-%EC%95%8C%EA%B3%A0%EC%9E%88%EC%9D%8C-ie1ni3oa#459962425",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T12:58:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T03:58:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -836279,6 +836318,7 @@
         "6660639",
         "6660647",
         "6660649",
+        "6660653",
         "6660733",
         "6660735",
         "6660743",
@@ -838349,6 +838389,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%99%9C-%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94%EA%B1%B0%EC%95%BC-650tyko4",
         "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9D%B4%EC%81%9C%ED%8E%B8%EC%9D%B4%EC%95%BC-gu4xr3kx",
         "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9D%B8%EA%B8%B0-%EB%A7%8E%EC%9D%80-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%90%EC%95%BC-%EB%82%A8%EC%9E%90%EB%93%A4%EC%95%84-w8wcf4li",
+        "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9D%B8%EA%B8%B0-%EB%A7%8E%EC%9D%80-%EC%9D%B4%EC%9C%A0%EB%A5%BC-%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%80-%EB%8B%A4-%EC%95%8C%EA%B3%A0%EC%9E%88%EC%9D%8C-ie1ni3oa",
         "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EB%95%8C-%EB%AC%B8%EC%8B%A0%EC%9D%84-%EB%B0%9D%ED%9E%88%EB%8A%94%EA%B1%B0%EB%8A%94-%EC%96%B4%EC%B0%8C%EC%83%9D%EA%B0%81%ED%95%A8-fqxjk50m",
         "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%A0%9C%EC%9D%BC-%ED%8C%90%EB%8B%A8-%EC%9E%98%ED%95%A8-88qjymch",
         "/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%A7%84%EC%A0%95-ssag27s6",
@@ -846798,7 +846839,8 @@
         "4397505115",
         "4397507883",
         "4397514787",
-        "4397516635"
+        "4397516635",
+        "4397526880"
       ]
     },
     "keep": "v2",
