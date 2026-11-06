@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T04:25:55+00:00",
+  "updatedAt": "2026-11-06T04:26:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -826408,6 +826408,64 @@
       "firstSeenAt": "2026-11-06T04:25:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101636,
+      "source": "qoo",
+      "externalId": "cmt-4397501267",
+      "title": "ㄴㄷ 영수는 진짜 볼수록 괜찮은 사람 같아보여",
+      "excerpt": "오 아침 갈비탕장면보니 영수영호 괜찮다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397496449#4397501267",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T12:25:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:26:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101637,
+      "source": "qoo",
+      "externalId": "4397550899",
+      "title": "34영철 너무 사기꾼 화법임",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397550899",
+      "postedLabel": "13:26",
+      "postedAt": "2026-11-06T13:26:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:26:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101638,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99-%EC%98%81%EC%9E%90%EB%95%8C-fz3e6um0",
+      "title": "근데 영철이 현숙 + 영자때",
+      "excerpt": "본인은 영자한테 더 심하게하지않음??",
+      "author": "부*********",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99-%EC%98%81%EC%9E%90%EB%95%8C-fz3e6um0",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T13:26:37+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T04:26:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -826519,7 +826577,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T13:23:37+09:00"
+      "slowAt": "2026-11-06T13:26:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -848146,7 +848204,8 @@
         "4397516635",
         "4397526880",
         "4397528110",
-        "4397531552"
+        "4397531552",
+        "4397550899"
       ]
     },
     "keep": "v2",
