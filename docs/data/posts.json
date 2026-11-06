@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:28:16+00:00",
+  "updatedAt": "2026-11-06T11:29:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -834568,6 +834568,86 @@
       "comments": null,
       "firstSeenAt": "2026-11-06T11:28:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102050,
+      "source": "dc",
+      "externalId": "cmt-11000414",
+      "title": "속으로만 간보고 아무 행동도 안하는 애들이 더 직무유기 근무태만임",
+      "excerpt": "근데 영철이는 연애 프로 나가서 직진한거 뿐인데",
+      "author": "북극물개",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661937&page=4#cmt_11000414",
+      "postedLabel": "11.06 19:35:46",
+      "postedAt": "2026-11-06T19:35:46+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:29:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102051,
+      "source": "dc",
+      "externalId": "cmt-11000440",
+      "title": "금마도 진지하게 자기 마음을 표현했을뿐임 좀 미숙하고 보기 힘들고 그런건 맞지만",
+      "excerpt": "근데 영철이는 연애 프로 나가서 직진한거 뿐인데",
+      "author": "북극물개",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661937&page=4#cmt_11000440",
+      "postedLabel": "11.06 19:42:21",
+      "postedAt": "2026-11-06T19:42:21+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:29:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102052,
+      "source": "dc",
+      "externalId": "cmt-11000441",
+      "title": "ㄹㅇ임",
+      "excerpt": "근데 영철이는 연애 프로 나가서 직진한거 뿐인데",
+      "author": "북극물개",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661937&page=4#cmt_11000441",
+      "postedLabel": "11.06 19:42:28",
+      "postedAt": "2026-11-06T19:42:28+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:29:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102053,
+      "source": "dc",
+      "externalId": "cmt-11000444",
+      "title": "그것도 깡 좋은거고 리스크 감수한거고 용기낸거지 거기에 정면으로 마주하지 못하고 암말 못하던 애들이 더 잘못임",
+      "excerpt": "근데 영철이는 연애 프로 나가서 직진한거 뿐인데",
+      "author": "북극물개",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661937&page=4#cmt_11000444",
+      "postedLabel": "11.06 19:43:15",
+      "postedAt": "2026-11-06T19:43:15+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:29:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -834748,7 +834828,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T20:26:01+09:00"
+      "slowAt": "2026-11-06T20:29:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -845941,6 +846021,7 @@
         "6661678",
         "6661680",
         "6661683",
+        "6661690",
         "6661782",
         "6661785",
         "6661786",
@@ -845954,6 +846035,7 @@
         "6661806",
         "6661811",
         "6661813",
+        "6661814",
         "6661896",
         "6661903",
         "6661904",
@@ -845966,6 +846048,8 @@
         "6661926",
         "6661929",
         "6661932",
+        "6661937",
+        "6661938",
         "6662045",
         "6662049",
         "6662051",
@@ -845982,7 +846066,9 @@
         "6662093",
         "6662099",
         "6662100",
-        "6662102"
+        "6662102",
+        "6662107",
+        "6662110"
       ]
     },
     "blind": {
