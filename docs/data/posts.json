@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T13:42:19+00:00",
+  "updatedAt": "2026-11-06T13:43:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -842833,6 +842833,26 @@
       "firstSeenAt": "2026-11-06T13:42:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102466,
+      "source": "blind",
+      "externalId": "cmt-460036790",
+      "title": "법조인한테 물었는데 전자형님이 무슨 일이세요",
+      "excerpt": "변호사 형들 있나",
+      "author": "i******* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B3%80%ED%98%B8%EC%82%AC-%ED%98%95%EB%93%A4-%EC%9E%88%EB%82%98-cp5l0ahp#460036790",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T22:43:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T13:43:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -842944,7 +842964,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T22:40:01+09:00"
+      "slowAt": "2026-11-06T22:43:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -854384,6 +854404,7 @@
         "6662215",
         "6662218",
         "6662219",
+        "6662221",
         "6662223",
         "6662231",
         "6662233",
@@ -854396,7 +854417,8 @@
         "6662268",
         "6662276",
         "6662280",
-        "6662288"
+        "6662288",
+        "6662289"
       ]
     },
     "blind": {
