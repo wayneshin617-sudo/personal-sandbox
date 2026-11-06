@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T00:21:22+00:00",
+  "updatedAt": "2026-11-06T00:23:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -820411,6 +820411,26 @@
       "firstSeenAt": "2026-11-06T00:21:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101333,
+      "source": "qoo",
+      "externalId": "cmt-4397304633",
+      "title": "손흥민은 전혀 모르겠다",
+      "excerpt": "난 이번기수 영호랑 옥순보면",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397280807#4397304633",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T08:23:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T00:23:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -820590,7 +820610,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T09:20:03+09:00"
+      "slowAt": "2026-11-06T09:23:03+09:00"
     },
     "dc": {
       "doneIds": [
