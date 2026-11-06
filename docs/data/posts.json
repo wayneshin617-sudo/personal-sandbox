@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T01:26:20+00:00",
+  "updatedAt": "2026-11-06T01:27:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -821739,6 +821739,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-06T01:26:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 101400,
+      "source": "dc",
+      "externalId": "6660573",
+      "title": "영자 동창 딱봐도 인생 시궁창인 이유",
+      "excerpt": "",
+      "author": "인팁괴벨스",
+      "company": "",
+      "ip": "97.99",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6660573&page=1",
+      "postedLabel": "10:26",
+      "postedAt": "2026-11-06T10:26:31+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T01:27:21+00:00",
       "isSeed": false
     }
   ],
