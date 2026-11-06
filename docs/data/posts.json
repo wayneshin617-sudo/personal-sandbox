@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:15:19+00:00",
+  "updatedAt": "2026-11-06T11:16:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -833896,6 +833896,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T11:15:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102016,
+      "source": "qoo",
+      "externalId": "cmt-4397838758",
+      "title": "@3 22",
+      "excerpt": "현숙 영호는 뭔가 서로 당겨주기만을 기다리는 조합 느낌이네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397822062#4397838758",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T19:16:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:16:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102017,
+      "source": "qoo",
+      "externalId": "4397897854",
+      "title": "나 지금 보고있는데 현숙은 영철을 싫어하는 것 같은데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397897854",
+      "postedLabel": "20:15",
+      "postedAt": "2026-11-06T20:15:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:16:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -834007,7 +834046,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T20:13:01+09:00"
+      "slowAt": "2026-11-06T20:16:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -845266,6 +845305,7 @@
         "6661782",
         "6661785",
         "6661786",
+        "6661788",
         "6661896",
         "6661903",
         "6661904",
@@ -845276,7 +845316,8 @@
         "6662051",
         "6662052",
         "6662057",
-        "6662058"
+        "6662058",
+        "6662066"
       ]
     },
     "blind": {
@@ -848274,6 +848315,7 @@
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%8A%A8%EC%83%81%EC%9D%B4%EC%95%BC-13ppnlmr",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4%EB%8A%94-0oxebwg5",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-pcg7va11",
+        "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EA%B7%80%ED%8B%B0%EB%82%98%EA%B3%A0-%EC%A2%8B%EB%8B%A4%EB%8A%94%EB%8D%B0-6274hgv1",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EA%B8%B0%EC%97%85%EC%96%B4%EB%94%98%EA%B0%80%EC%9A%94-f10i2jbx",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EB%82%B4%EA%B0%80-%EC%A0%80%EC%A0%90%EB%A7%A4%EC%88%98%ED%95%A0%EB%9E%98-r0uk7e1x",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EB%91%90%EB%B6%80%EC%83%81%EC%9D%B4%EC%95%BC-e8dpnihm",
@@ -855804,7 +855846,8 @@
         "4397853481",
         "4397858667",
         "4397860263",
-        "4397893529"
+        "4397893529",
+        "4397897854"
       ]
     },
     "keep": "v2",
