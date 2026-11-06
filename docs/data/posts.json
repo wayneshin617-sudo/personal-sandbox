@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T01:15:21+00:00",
+  "updatedAt": "2026-11-06T01:16:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -821205,6 +821205,45 @@
       "firstSeenAt": "2026-11-06T01:15:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101373,
+      "source": "blind",
+      "externalId": "cmt-459943166",
+      "title": "ㄴ",
+      "excerpt": "벙식 정도면",
+      "author": "k*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B2%99%EC%8B%9D-%EC%A0%95%EB%8F%84%EB%A9%B4-ihqvekpy#459943166",
+      "postedLabel": "17분",
+      "postedAt": "2026-11-06T09:59:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T01:16:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101374,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%ED%98%84%EC%88%99-%EC%97%84%EC%B2%AD%EC%8B%9C%EB%9F%AC%ED%95%98%EB%84%A4-4mscc7h0",
+      "title": "여자들 현숙 엄청시러하네",
+      "excerpt": "어케든 깔 거리를 찾는 느낌",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%ED%98%84%EC%88%99-%EC%97%84%EC%B2%AD%EC%8B%9C%EB%9F%AC%ED%95%98%EB%84%A4-4mscc7h0",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T10:16:03+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-06T01:16:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -821316,7 +821355,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T10:13:03+09:00"
+      "slowAt": "2026-11-06T10:16:03+09:00"
     },
     "ig": {
       "doneIds": [
@@ -832308,7 +832347,8 @@
         "6660525",
         "6660530",
         "6660536",
-        "6660539"
+        "6660539",
+        "6660541"
       ]
     },
     "blind": {
@@ -842747,7 +842787,8 @@
         "4397261296",
         "4397280807",
         "4397334151",
-        "4397359882"
+        "4397359882",
+        "4397392714"
       ]
     },
     "keep": "v2",
