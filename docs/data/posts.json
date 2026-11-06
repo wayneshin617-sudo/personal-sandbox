@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T12:08:19+00:00",
+  "updatedAt": "2026-11-06T12:09:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -837867,6 +837867,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-06T12:08:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102216,
+      "source": "dc",
+      "externalId": "cmt-11000561",
+      "title": "김동완이 깨어있네 - dc App",
+      "excerpt": "기회 갖는게 불법인 나라",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662049&page=3#cmt_11000561",
+      "postedLabel": "11.06 20:11:46",
+      "postedAt": "2026-11-06T20:11:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:09:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102217,
+      "source": "blind",
+      "externalId": "cmt-460017945",
+      "title": "방탈",
+      "excerpt": "승무원 오프",
+      "author": "*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8A%B9%EB%AC%B4%EC%9B%90-%EC%98%A4%ED%94%84-g6jncnpq#460017945",
+      "postedLabel": "39분",
+      "postedAt": "2026-11-06T20:30:02+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T12:09:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -849266,6 +849306,7 @@
         "6661772",
         "6661775",
         "6661779",
+        "6661780",
         "6661782",
         "6661785",
         "6661786",
@@ -849383,7 +849424,8 @@
         "6662166",
         "6662169",
         "6662171",
-        "6662175"
+        "6662175",
+        "6662184"
       ]
     },
     "blind": {
