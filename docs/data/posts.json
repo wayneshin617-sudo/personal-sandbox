@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T04:49:52+00:00",
+  "updatedAt": "2026-11-06T04:50:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -827400,6 +827400,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-06T04:49:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101686,
+      "source": "qoo",
+      "externalId": "cmt-4397519483",
+      "title": "웃참하는거 웃기더라 나였음 벌써 터졌을듯 ㅠ",
+      "excerpt": "영호 영자 대화 개웃기넼ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397507883#4397519483",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T12:49:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:50:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101687,
+      "source": "blind",
+      "externalId": "cmt-459964523",
+      "title": "그니깐ㅋㅋ 어디모지란 남동생같은느낌 퓨",
+      "excerpt": "34영철이",
+      "author": "😳*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4-ex6vj4lk#459964523",
+      "postedLabel": "37분",
+      "postedAt": "2026-11-06T13:13:38+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:50:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101688,
+      "source": "blind",
+      "externalId": "cmt-459968048",
+      "title": "투명한 여미새 느낌이야 안그런척해도 다 보이는",
+      "excerpt": "34영철이",
+      "author": "l********* 작성자",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4-ex6vj4lk#459968048",
+      "postedLabel": "8분",
+      "postedAt": "2026-11-06T13:42:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T04:50:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -827511,7 +827571,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T13:47:37+09:00"
+      "slowAt": "2026-11-06T13:50:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -838680,7 +838740,9 @@
         "6661150",
         "6661151",
         "6661152",
-        "6661153"
+        "6661153",
+        "6661157",
+        "6661163"
       ]
     },
     "blind": {
