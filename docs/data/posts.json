@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:35:18+00:00",
+  "updatedAt": "2026-11-06T11:37:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -835025,6 +835025,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-06T11:35:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102073,
+      "source": "qoo",
+      "externalId": "cmt-4397859001",
+      "title": "나도 그렇게 느낌",
+      "excerpt": "영철 대답하는 타이밍이 좀 빠르지않아?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397799388#4397859001",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T19:36:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:37:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102074,
+      "source": "qoo",
+      "externalId": "cmt-4397859621",
+      "title": "그 영수랑 옥순 투탕카멘 영수랑 밝은옥순",
+      "excerpt": "나솔에서 여자가 엄청 적극적으로 대시해서 성사된 최커 누구있어??!",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397858667#4397859621",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T19:36:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:37:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102075,
+      "source": "dc",
+      "externalId": "6662137",
+      "title": "복수선택3개가능",
+      "excerpt": "",
+      "author": "김광현29",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662137&page=1",
+      "postedLabel": "20:36",
+      "postedAt": "2026-11-06T20:36:45+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:37:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102076,
+      "source": "blind",
+      "externalId": "cmt-460018808",
+      "title": "이혜성",
+      "excerpt": "나만 영자 안소희같음?",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%EC%9E%90-%EC%95%88%EC%86%8C%ED%9D%AC%EA%B0%99%EC%9D%8C-jeotn6f0#460018808",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:37:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:37:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -835136,7 +835215,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T20:34:02+09:00"
+      "slowAt": "2026-11-06T20:37:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -846404,6 +846483,7 @@
         "6661700",
         "6661704",
         "6661707",
+        "6661708",
         "6661782",
         "6661785",
         "6661786",
@@ -846423,6 +846503,7 @@
         "6661819",
         "6661821",
         "6661823",
+        "6661828",
         "6661896",
         "6661903",
         "6661904",
@@ -846442,6 +846523,7 @@
         "6661946",
         "6661949",
         "6661950",
+        "6661951",
         "6662045",
         "6662049",
         "6662051",
@@ -846464,7 +846546,9 @@
         "6662111",
         "6662117",
         "6662127",
-        "6662128"
+        "6662128",
+        "6662132",
+        "6662134"
       ]
     },
     "blind": {
