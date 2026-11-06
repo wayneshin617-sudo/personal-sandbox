@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T03:55:55+00:00",
+  "updatedAt": "2026-11-06T03:56:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -825097,6 +825097,46 @@
       "firstSeenAt": "2026-11-06T03:55:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 101570,
+      "source": "qoo",
+      "externalId": "cmt-4397479721",
+      "title": "@2 자기소개 땐 그렇게 얘기 안했음",
+      "excerpt": "영호 겁나 호감이었는데 장거리계획에서 좀 읭 싶었음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4397439601#4397479721",
+      "postedLabel": "",
+      "postedAt": "2026-11-06T11:56:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T03:56:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 101571,
+      "source": "blind",
+      "externalId": "cmt-459962175",
+      "title": "코가 얇아졋네",
+      "excerpt": "31정희....?",
+      "author": "l********",
+      "company": "딜로이트안진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/31%EC%A0%95%ED%9D%AC-tjwq7t68#459962175",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T12:56:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T03:56:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -825208,7 +825248,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T12:53:37+09:00"
+      "slowAt": "2026-11-06T12:56:37+09:00"
     },
     "ig": {
       "doneIds": [
@@ -836237,6 +836277,8 @@
         "6660636",
         "6660638",
         "6660639",
+        "6660647",
+        "6660649",
         "6660733",
         "6660735",
         "6660743",
@@ -836284,7 +836326,8 @@
         "6660999",
         "6661016",
         "6661020",
-        "6661021"
+        "6661021",
+        "6661032"
       ]
     },
     "blind": {
