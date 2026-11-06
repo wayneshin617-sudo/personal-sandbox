@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T11:16:16+00:00",
+  "updatedAt": "2026-11-06T11:17:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -833935,6 +833935,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-06T11:16:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102018,
+      "source": "dc",
+      "externalId": "cmt-11000258",
+      "title": "9급색히엿어? 아니근데 재는 그냥 비호야 - dc App",
+      "excerpt": "영철아재같은 금사빠스타일이 식는것도 빠름",
+      "author": "빙그레청주",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6661789&page=5#cmt_11000258",
+      "postedLabel": "11.06 18:42:42",
+      "postedAt": "2026-11-06T18:42:42+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:17:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102019,
+      "source": "blind",
+      "externalId": "cmt-460015886",
+      "title": "모솔을 누가만낰ㅋㅋㅋㅋㅋㅋㅋㅋ개극혐",
+      "excerpt": "투표글 연애 12번 한 여자 vs 모솔 여자 투표",
+      "author": "!*******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0-12%EB%B2%88-%ED%95%9C-%EC%97%AC%EC%9E%90-vs-%EB%AA%A8%EC%86%94-%EC%97%AC%EC%9E%90-pl3ckbhq#460015886",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T20:17:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T11:17:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -834115,7 +834155,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T20:14:02+09:00"
+      "slowAt": "2026-11-06T20:17:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -845306,17 +845346,21 @@
         "6661785",
         "6661786",
         "6661788",
+        "6661789",
         "6661896",
         "6661903",
         "6661904",
         "6661905",
         "6661908",
+        "6661913",
+        "6661914",
         "6662045",
         "6662049",
         "6662051",
         "6662052",
         "6662057",
         "6662058",
+        "6662064",
         "6662066"
       ]
     },
