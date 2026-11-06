@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T13:03:18+00:00",
+  "updatedAt": "2026-11-06T13:04:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -840268,6 +840268,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T13:03:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102337,
+      "source": "blind",
+      "externalId": "cmt-460030660",
+      "title": "컨설팅 지린다",
+      "excerpt": "34영철 면직했다는 거",
+      "author": "!********",
+      "company": "ex-어린이재단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0-%EB%A9%B4%EC%A7%81%ED%96%88%EB%8B%A4%EB%8A%94-%EA%B1%B0-tls80n5b#460030660",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T22:04:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T13:04:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102338,
+      "source": "blind",
+      "externalId": "cmt-460030614",
+      "title": "아직 모름",
+      "excerpt": "1영호가 스토킹했다는거야 장미가 했다는거야??",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/1%EC%98%81%ED%98%B8%EA%B0%80-%EC%8A%A4%ED%86%A0%ED%82%B9%ED%96%88%EB%8B%A4%EB%8A%94%EA%B1%B0%EC%95%BC-%EC%9E%A5%EB%AF%B8%EA%B0%80-%ED%96%88%EB%8B%A4%EB%8A%94%EA%B1%B0%EC%95%BC-ngtk6dap#460030614",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T22:04:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T13:04:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -840379,7 +840419,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T22:01:01+09:00"
+      "slowAt": "2026-11-06T22:04:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -857529,6 +857569,7 @@
         "/kr/post/1%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%91%90%ED%94%BC%EB%AC%B8%EC%8B%A0-%EC%A7%80%EB%AA%BB%EB%AF%B8-%E3%85%A0%E3%85%A0-n4hqv5dw",
         "/kr/post/1%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%B2%8C%EC%8D%A8-%EC%8B%A0%EB%82%AC%EB%84%A4-wvykzlsh",
         "/kr/post/1%EB%93%B1%EC%8B%A0%EB%9E%91%EA%B0%90-%EC%98%81%ED%98%B8-6bhe7uni",
+        "/kr/post/1%EC%98%81%ED%98%B8%EA%B0%80-%EC%8A%A4%ED%86%A0%ED%82%B9%ED%96%88%EB%8B%A4%EB%8A%94%EA%B1%B0%EC%95%BC-%EC%9E%A5%EB%AF%B8%EA%B0%80-%ED%96%88%EB%8B%A4%EB%8A%94%EA%B1%B0%EC%95%BC-ngtk6dap",
         "/kr/post/1%ED%99%94%EB%A7%8C-%EB%B4%A4%EB%8A%94%EB%8D%B0-zhbi7xi0",
         "/kr/post/10%EB%8C%80-%EC%95%84%EB%8B%88%EC%9E%96%EC%95%84-%EC%82%AC%ED%9A%8C%EC%9D%B8%EC%9D%B4%EC%9E%96%EC%95%84-da0friee",
         "/kr/post/100%EA%B3%A0%EB%B0%B1-1%EC%B0%A8%EC%9E%84-%EC%95%84%EB%8B%88%EB%83%90-5eymcygl",
