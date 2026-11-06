@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T01:16:18+00:00",
+  "updatedAt": "2026-11-06T01:17:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -821244,6 +821244,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T01:16:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101375,
+      "source": "blind",
+      "externalId": "cmt-459945029",
+      "title": "나도 처음부터 별로던데 잘생겼단 의견이 많길래 내 취향과 멀어서 그런가 했음",
+      "excerpt": "난 이제 영철이 잘생긴지도 모르겠어..",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%9D%B4%EC%A0%9C-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%98%EC%83%9D%EA%B8%B4%EC%A7%80%EB%8F%84-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4-3en0v7dg#459945029",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-06T10:17:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-06T01:17:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -821423,7 +821443,7 @@
         "DfMCvLqH6UF",
         "DfOFsRaE8sb"
       ],
-      "slowAt": "2026-11-06T10:14:02+09:00"
+      "slowAt": "2026-11-06T10:17:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -832322,6 +832342,7 @@
         "6660400",
         "6660401",
         "6660407",
+        "6660410",
         "6660424",
         "6660427",
         "6660429",
@@ -832348,7 +832369,8 @@
         "6660530",
         "6660536",
         "6660539",
-        "6660541"
+        "6660541",
+        "6660544"
       ]
     },
     "blind": {
@@ -834948,6 +834970,7 @@
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A4%91%EC%95%88%EB%B6%80-%ED%83%80%EB%A0%B9%EC%9D%B4-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8A%94-%EC%9D%B4%EC%9C%A0-uxcx4hib",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4%ED%95%98%EB%8B%A4-xo8gylhz",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%ED%95%84%EB%8F%85-vy2pvddu",
+        "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%ED%98%84%EC%88%99-%EC%97%84%EC%B2%AD%EC%8B%9C%EB%9F%AC%ED%95%98%EB%84%A4-4mscc7h0",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-7bree8nt",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-qlbsasop",
         "/kr/post/%EC%97%AC%EC%9E%90%EB%9D%BC%EB%A9%B4-95-%ED%99%95%EB%A5%A0%EB%A1%9C-2ew3h4e2",
