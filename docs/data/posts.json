@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-06T03:34:55+00:00",
+  "updatedAt": "2026-11-06T03:35:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -824045,6 +824045,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-06T03:34:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 101517,
+      "source": "qoo",
+      "externalId": "4397507883",
+      "title": "영호 영자 대화 개웃기넼ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4397507883",
+      "postedLabel": "12:35",
+      "postedAt": "2026-11-06T12:35:00+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-06T03:35:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -824156,7 +824175,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-06T12:32:37+09:00"
+      "slowAt": "2026-11-06T12:35:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -835169,6 +835188,7 @@
         "6660591",
         "6660592",
         "6660593",
+        "6660594",
         "6660605",
         "6660607",
         "6660608",
@@ -835186,6 +835206,7 @@
         "6660758",
         "6660762",
         "6660766",
+        "6660779",
         "6660929",
         "6660932",
         "6660934",
@@ -835641,6 +835662,7 @@
         "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%95%9C%EA%B5%AD%EB%A6%B4%EB%A6%AC%EB%8A%94-%EC%99%9C%EB%A0%87%EA%B2%8C-%EC%B9%98%EC%BC%9C%EC%84%B8%EC%9B%8C%EC%A3%BC%EB%8A%94%EA%B1%B0%EC%95%BC-fpwehui5",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%95%B8%EB%93%9C%ED%8F%B0-%EA%B1%B0%EC%B9%98%EB%8C%80%EC%97%86%EC%9D%B4-%EB%82%B4%EB%B9%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B4%EA%B1%B0%EC%A7%80-rqszcnmw",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%97%A4%EC%96%B4%EC%A7%80%EA%B3%A0-%EC%9D%B8%EC%8A%A4%ED%83%80-%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%98%AC%EB%A6%AC%EB%8A%94%EA%B1%B0-%EB%82%98%EB%8F%84-%EB%8B%B9%ED%95%A8-58x22n60",
+        "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-rzx4dmtz",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%99%9C%EC%9D%B4%EC%81%9C%EA%B1%B0%EC%A7%80%E2%80%A6%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%98%EB%AF%B8-grhvyxdj",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%99%9C-%EC%9A%95%EB%A8%B9%EB%8A%94%EA%B1%B0%EC%9E%84-pekabpx2",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%A0%80%EC%A0%95%EB%8F%84%EB%A1%9C-%EB%A9%80%EB%AF%B8%EA%B0%80-%EC%8B%AC%ED%95%98%EB%A9%B4-kdour1e6",
@@ -845655,7 +845677,8 @@
         "4397392714",
         "4397439601",
         "4397496449",
-        "4397505115"
+        "4397505115",
+        "4397507883"
       ]
     },
     "keep": "v2",
