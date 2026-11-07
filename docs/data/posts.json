@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T01:01:26+00:00",
+  "updatedAt": "2026-11-07T01:02:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -847145,6 +847145,45 @@
       "firstSeenAt": "2026-11-07T01:01:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102684,
+      "source": "dc",
+      "externalId": "6662545",
+      "title": "재혼황후 혹시 보는 애들 잇니",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662545&page=1",
+      "postedLabel": "09:48",
+      "postedAt": "2026-11-07T09:48:25+09:00",
+      "views": 56,
+      "recommends": 1,
+      "comments": 4,
+      "firstSeenAt": "2026-11-07T01:02:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102685,
+      "source": "blind",
+      "externalId": "cmt-460081985",
+      "title": "영자도 껴줘잉",
+      "excerpt": "핫시 보는거같음",
+      "author": "I*********",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%AB%EC%8B%9C-%EB%B3%B4%EB%8A%94%EA%B1%B0%EA%B0%99%EC%9D%8C-uvp1xlbn#460081985",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-07T10:01:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T01:02:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -847326,7 +847365,7 @@
         "DfOFsRaE8sb",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-07T09:59:47+09:00"
+      "slowAt": "2026-11-07T10:02:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -858769,7 +858808,8 @@
         "6662507",
         "6662509",
         "6662523",
-        "6662530"
+        "6662530",
+        "6662558"
       ]
     },
     "blind": {
