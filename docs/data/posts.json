@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T09:30:07+00:00",
+  "updatedAt": "2026-11-07T09:31:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -852666,6 +852666,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-07T09:30:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 102963,
+      "source": "dc",
+      "externalId": "cmt-11001982",
+      "title": "마스크 단어만빼면 글이,야하노",
+      "excerpt": "옛날에 내가 코로나때 여자 걸렀던 방법",
+      "author": "ㄱㄱ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662907&page=5#cmt_11001982",
+      "postedLabel": "11.07 14:31:50",
+      "postedAt": "2026-11-07T14:31:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T09:31:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102964,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B0%91%EC%97%90-%ED%98%84%EC%88%99%EA%B8%80-%E3%84%B9%E3%85%87%EC%B9%9C%EA%B5%AC%EA%B1%B8%EB%A1%9C-%EC%93%B4%EA%B1%B0%EB%84%A4%E3%85%8B%E3%85%8B-zrkr4pz7",
+      "title": "밑에 현숙글 ㄹㅇ친구걸로 쓴거네ㅋㅋ",
+      "excerpt": "1. 현숙 대학친구가 갈법한 회사 2. 다른 출연자들도 봤다면서 그들에 대한 언급 일절없이 현숙이 실물이 더 예쁘네 뭐네로 깔아놓은 후, 결국 하고싶은 문신 얘기 3. 누가봐도 현숙한테 컨펌받고 올린걸로 보이는 본격 현숙컷",
+      "author": "l******",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%91%EC%97%90-%ED%98%84%EC%88%99%EA%B8%80-%E3%84%B9%E3%85%87%EC%B9%9C%EA%B5%AC%EA%B1%B8%EB%A1%9C-%EC%93%B4%EA%B1%B0%EB%84%A4%E3%85%8B%E3%85%8B-zrkr4pz7",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-07T18:30:49+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-07T09:31:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -864416,6 +864455,7 @@
         "6662896",
         "6662899",
         "6662901",
+        "6662907",
         "6662977",
         "6662978",
         "6662980",
@@ -864429,6 +864469,7 @@
         "6663063",
         "6663069",
         "6663072",
+        "6663076",
         "6663139",
         "6663141",
         "6663143",
