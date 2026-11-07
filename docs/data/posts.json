@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T03:50:56+00:00",
+  "updatedAt": "2026-11-07T03:52:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -849516,6 +849516,26 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-07T03:50:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102804,
+      "source": "qoo",
+      "externalId": "cmt-4398361548",
+      "title": "같이살면 막 못살거같고... 정돈된 삶만 있을거같고 피곤할듯",
+      "excerpt": "연애도 결혼도 난 내맘 편한 게 최고라서 그런가",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4398321085#4398361548",
+      "postedLabel": "",
+      "postedAt": "2026-11-07T11:51:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T03:52:05+00:00",
       "isSeed": false,
       "kind": "reply"
     }
