@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T09:48:06+00:00",
+  "updatedAt": "2026-11-07T09:49:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -853142,6 +853142,66 @@
       "firstSeenAt": "2026-11-07T09:48:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102987,
+      "source": "qoo",
+      "externalId": "cmt-4398674073",
+      "title": "그냥 여자는 조금만 잘못해도 겁나 욕함",
+      "excerpt": "나 이번주꺼 보는디 현숙이 욕 먹은 포인트가 뭐야? 온에어 달렸어도 난 전혀 못 느꼈을 것 같긴한데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4398591169#4398674073",
+      "postedLabel": "",
+      "postedAt": "2026-11-07T17:48:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T09:49:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102988,
+      "source": "blind",
+      "externalId": "cmt-460136646",
+      "title": "왔니",
+      "excerpt": "여기 게시판 애들 젤 짜치는 점",
+      "author": "i*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EC%95%A0%EB%93%A4-%EC%A0%A4-%EC%A7%9C%EC%B9%98%EB%8A%94-%EC%A0%90-i1beicf0#460136646",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-07T18:47:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T09:49:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102989,
+      "source": "blind",
+      "externalId": "cmt-460136650",
+      "title": "누구 어서오고~",
+      "excerpt": "여기 게시판 애들 젤 짜치는 점",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EC%95%A0%EB%93%A4-%EC%A0%A4-%EC%A7%9C%EC%B9%98%EB%8A%94-%EC%A0%90-i1beicf0#460136650",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-07T18:48:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T09:49:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -864939,7 +864999,8 @@
         "6663211",
         "6663221",
         "6663229",
-        "6663230"
+        "6663230",
+        "6663240"
       ]
     },
     "blind": {
