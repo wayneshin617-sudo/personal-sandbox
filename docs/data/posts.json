@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T03:47:41+00:00",
+  "updatedAt": "2026-11-07T03:48:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -849419,6 +849419,45 @@
       "firstSeenAt": "2026-11-07T03:47:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102799,
+      "source": "qoo",
+      "externalId": "cmt-4398358666",
+      "title": "문신 빼고 다 괜찮았나보지",
+      "excerpt": "영호 신기한게 순자 문신 싫어서 호감 떨어졌다더니",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4398358341#4398358666",
+      "postedLabel": "",
+      "postedAt": "2026-11-07T11:47:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T03:48:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102800,
+      "source": "dc",
+      "externalId": "6662751",
+      "title": "애들아 인조인간 18호 어떰?존나 아름답지?",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662751&page=1",
+      "postedLabel": "12:47",
+      "postedAt": "2026-11-07T12:47:31+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T03:48:49+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -861095,6 +861134,7 @@
         "6662663",
         "6662668",
         "6662669",
+        "6662670",
         "6662673",
         "6662676",
         "6662677",
