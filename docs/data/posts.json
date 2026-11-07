@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T04:28:09+00:00",
+  "updatedAt": "2026-11-07T04:29:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -850311,6 +850311,26 @@
       "firstSeenAt": "2026-11-07T04:28:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102844,
+      "source": "qoo",
+      "externalId": "cmt-4398384729",
+      "title": "인터뷰 아니면 속을 알수가 없어 관심 없으니 한달에 한번 얘기한건지 출연자마다 싫은점 꼭 얘기하던데 어려운 스타일이야",
+      "excerpt": "한달에 한번 두달에 한번 만날거면 왜 나오심",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4398367597#4398384729",
+      "postedLabel": "",
+      "postedAt": "2026-11-07T12:28:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T04:29:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -850422,7 +850442,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-07T13:25:35+09:00"
+      "slowAt": "2026-11-07T13:28:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -862025,7 +862045,8 @@
         "6662771",
         "6662781",
         "6662789",
-        "6662794"
+        "6662794",
+        "6662800"
       ]
     },
     "blind": {
