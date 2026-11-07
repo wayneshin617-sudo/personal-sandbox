@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T04:40:13+00:00",
+  "updatedAt": "2026-11-07T04:41:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -850688,6 +850688,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-07T04:40:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102863,
+      "source": "qoo",
+      "externalId": "cmt-4398392442",
+      "title": "사바사이긴한데 환경도 좋았던듯",
+      "excerpt": "이번 34기 보면서 K-장남 관련해서 인지부조화 옴 ㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4398305318#4398392442",
+      "postedLabel": "",
+      "postedAt": "2026-11-07T12:40:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T04:41:26+00:00",
       "isSeed": false,
       "kind": "reply"
     }
