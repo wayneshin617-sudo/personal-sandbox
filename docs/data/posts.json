@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T17:40:40+00:00",
+  "updatedAt": "2026-11-07T17:41:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -856342,6 +856342,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-07T17:40:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 103149,
+      "source": "blind",
+      "externalId": "cmt-460194081",
+      "title": "그정도라고??",
+      "excerpt": "34 현숙",
+      "author": "i*******",
+      "company": "효성중공업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-z7ivirlb#460194081",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T02:41:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T17:41:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103150,
+      "source": "blind",
+      "externalId": "cmt-460194092",
+      "title": "왤케 꼬였어",
+      "excerpt": "34 현숙",
+      "author": "|********",
+      "company": "크래프톤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-z7ivirlb#460194092",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T02:41:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T17:41:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103151,
+      "source": "blind",
+      "externalId": "cmt-460194128",
+      "title": "자기 소개때 나옴",
+      "excerpt": "34기 영호님 대학은 어디 나오셨어?",
+      "author": "i********",
+      "company": "부산대학교교직원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8%EB%8B%98-%EB%8C%80%ED%95%99%EC%9D%80-%EC%96%B4%EB%94%94-%EB%82%98%EC%98%A4%EC%85%A8%EC%96%B4-104lgit5#460194128",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T02:41:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T17:41:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -856523,7 +856583,7 @@
         "DfOFsRaE8sb",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-08T02:38:02+09:00"
+      "slowAt": "2026-11-08T02:41:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -874537,6 +874597,7 @@
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8%EB%8A%94-%EC%99%9C-%EB%82%98%EC%99%94%EC%A7%80-w037yoco",
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8%EB%8A%94-%EC%9E%AC%EB%B2%8C%EC%A7%91-%EB%A7%89%EB%82%B4%EC%95%84%EB%93%A4-%EC%86%A1%EC%A4%91%EA%B8%B0-%EC%95%84%EB%B9%A0-%EB%8B%AE%EC%9D%8C-o07lunad",
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8%EB%8A%94-24%EA%B8%B0-%EC%98%A5%EC%88%9C%EA%B3%BC-%EB%8F%99%EC%9D%BC-%EB%AA%A9%EC%A0%81-%EB%8B%A4%EB%A5%B8-%EC%A0%84%EB%9E%B5-6uwml1pc",
+        "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8%EB%8B%98-%EB%8C%80%ED%95%99%EC%9D%80-%EC%96%B4%EB%94%94-%EB%82%98%EC%98%A4%EC%85%A8%EC%96%B4-104lgit5",
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B8%B4-%EB%82%A8%EC%B9%9C%EC%9E%88%EC%9C%BC%EB%A9%B4-x4ijs77o",
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%82%AC%EB%9E%8C-rpxvfj6e",
         "/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EC%86%8C%EB%A6%84-%EB%8F%8B%EC%9D%8C-xspwmaqj",
