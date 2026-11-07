@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T10:01:06+00:00",
+  "updatedAt": "2026-11-07T10:02:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -853301,6 +853301,26 @@
       "firstSeenAt": "2026-11-07T10:01:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102995,
+      "source": "blind",
+      "externalId": "cmt-460137995",
+      "title": "현커라는 소리는 있던데 나도 유투브에서 누가 블라글 캡쳐한거 올린거봄",
+      "excerpt": "영철 누구랑 현커야?",
+      "author": "l***** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%88%84%EA%B5%AC%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%BC-cbvbi4b6#460137995",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-07T19:01:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T10:02:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -853482,7 +853502,7 @@
         "DfOFsRaE8sb",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-07T18:58:48+09:00"
+      "slowAt": "2026-11-07T19:01:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -865099,6 +865119,7 @@
         "6663107",
         "6663110",
         "6663114",
+        "6663115",
         "6663139",
         "6663141",
         "6663143",
