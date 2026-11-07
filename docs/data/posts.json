@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T11:10:40+00:00",
+  "updatedAt": "2026-11-07T11:12:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -853979,6 +853979,25 @@
       "firstSeenAt": "2026-11-07T11:10:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103029,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EB%8B%98%EC%9D%B4%EC%8B%A0%EA%B0%80%EC%9A%94-4p5guv8r",
+      "title": "현숙님이신가요?",
+      "excerpt": "겁나 이쁘시고 실력도 좋으실 듯. 비발디 g minor 협주곡인거 같아요. 혹시 현숙님 아니시면 삭제할게요.",
+      "author": "i********",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EB%8B%98%EC%9D%B4%EC%8B%A0%EA%B0%80%EC%9A%94-4p5guv8r",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-07T20:11:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-07T11:12:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -854160,7 +854179,7 @@
         "DfOFsRaE8sb",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-07T20:09:00+09:00"
+      "slowAt": "2026-11-07T20:11:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -865836,6 +865855,7 @@
         "6663277",
         "6663281",
         "6663284",
+        "6663285",
         "6663287",
         "6663296",
         "6663297",
@@ -865854,7 +865874,8 @@
         "6663342",
         "6663350",
         "6663356",
-        "6663357"
+        "6663357",
+        "6663360"
       ]
     },
     "blind": {
