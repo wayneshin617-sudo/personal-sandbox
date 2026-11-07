@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T10:00:06+00:00",
+  "updatedAt": "2026-11-07T10:01:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -853262,6 +853262,45 @@
       "firstSeenAt": "2026-11-07T10:00:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102993,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EB%88%84%EA%B5%AC%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%BC-cbvbi4b6",
+      "title": "영철 누구랑 현커야?",
+      "excerpt": "영자일지 옥순일지 아님 뜬금 영숙,정숙,순자일지 ㅋㅋ 궁금 ㅜ",
+      "author": "l*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%88%84%EA%B5%AC%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%BC-cbvbi4b6",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-07T19:00:49+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-07T10:01:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 102994,
+      "source": "blind",
+      "externalId": "cmt-460137873",
+      "title": "현커래??",
+      "excerpt": "영철 누구랑 현커야?",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%88%84%EA%B5%AC%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%BC-cbvbi4b6#460137873",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-07T19:00:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T10:01:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -865059,6 +865098,7 @@
         "6663106",
         "6663107",
         "6663110",
+        "6663114",
         "6663139",
         "6663141",
         "6663143",
@@ -865082,7 +865122,8 @@
         "6663244",
         "6663245",
         "6663250",
-        "6663256"
+        "6663256",
+        "6663263"
       ]
     },
     "blind": {
@@ -868778,6 +868819,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%84%98-%EC%9E%91%EC%9C%84%EC%A0%81%EC%9D%B8%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-7nk72glb",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%85%BC%EB%9E%80-%EC%99%80%EC%A4%91%EC%97%90%EB%8F%84-%EC%B6%95%EA%B5%AC-%EC%9E%98%ED%95%9C%EB%8B%A4%EB%8A%94-%EB%A7%90%EC%9D%80-%ED%95%9C%EA%B2%B0%EA%B0%99%EC%9D%8C-gp6vaghw",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%85%BC%EC%82%B0%EC%97%90-%ED%98%84%EC%88%99%EA%B0%99%EC%9D%80-%EC%97%AC%EC%9E%90-%EC%97%86%EC%9C%BC%EB%8B%88-%EC%95%88%EB%8B%AC%EB%82%AC%EC%9D%8C-%E3%85%8B-frku2qyb",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EB%88%84%EA%B5%AC%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%BC-cbvbi4b6",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%88%84%EA%B5%AC-%EB%8B%AE%EC%95%98%EB%82%98-%ED%96%88%EB%8D%94%EB%8B%88-hvxk1xah",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%88%88%EC%95%8C%EC%97%90-%ED%9E%98%EC%9D%84-%EC%97%84%EC%B2%AD-%EC%A3%BC%EB%84%A4-s85ufahu",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%88%88%EC%B9%98-%EC%97%86%EA%B3%A0-%EA%B2%BD%EC%A3%BC%EB%A7%88%EB%9D%BC-%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%9E%AC%EB%B0%8C%EA%B2%A0%EB%84%A4-2ty1nqpt",
