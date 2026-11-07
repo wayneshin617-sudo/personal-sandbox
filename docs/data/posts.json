@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T16:06:58+00:00",
+  "updatedAt": "2026-11-07T16:07:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -855728,6 +855728,26 @@
       "firstSeenAt": "2026-11-07T16:06:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103118,
+      "source": "blind",
+      "externalId": "cmt-460186718",
+      "title": "직접 받는 건 안 되나요?",
+      "excerpt": "서로 소개팅",
+      "author": "s*****",
+      "company": "효성중공업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%9C%EB%A1%9C-%EC%86%8C%EA%B0%9C%ED%8C%85-rxdz5mrm#460186718",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T01:07:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T16:07:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -867640,6 +867660,7 @@
         "6663433",
         "6663436",
         "6663441",
+        "6663442",
         "6663502",
         "6663507",
         "6663510",
@@ -867675,7 +867696,8 @@
         "6663784",
         "6663786",
         "6663794",
-        "6663799"
+        "6663799",
+        "6663807"
       ]
     },
     "blind": {
