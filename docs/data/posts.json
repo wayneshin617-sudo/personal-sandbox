@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T03:49:48+00:00",
+  "updatedAt": "2026-11-07T03:50:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -849498,6 +849498,26 @@
       "firstSeenAt": "2026-11-07T03:49:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102803,
+      "source": "dc",
+      "externalId": "cmt-11001654",
+      "title": "그럼뭘해 입이 한없이가벼움",
+      "excerpt": "클로즈업하면 영철,순자가 살아남네",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6662672&page=2#cmt_11001654",
+      "postedLabel": "11.07 11:52:23",
+      "postedAt": "2026-11-07T11:52:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T03:50:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -849679,7 +849699,7 @@
         "DfOFsRaE8sb",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-07T12:47:24+09:00"
+      "slowAt": "2026-11-07T12:50:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -861175,6 +861195,7 @@
         "6662668",
         "6662669",
         "6662670",
+        "6662672",
         "6662673",
         "6662676",
         "6662677",
