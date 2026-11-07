@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-07T04:00:43+00:00",
+  "updatedAt": "2026-11-07T04:01:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -849635,6 +849635,46 @@
       "firstSeenAt": "2026-11-07T04:00:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 102810,
+      "source": "qoo",
+      "externalId": "cmt-4398368224",
+      "title": "현숙도 문신있자나",
+      "excerpt": "영호 신기한게 순자 문신 싫어서 호감 떨어졌다더니",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4398358341#4398368224",
+      "postedLabel": "",
+      "postedAt": "2026-11-07T12:01:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T04:01:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 102811,
+      "source": "qoo",
+      "externalId": "cmt-4398368316",
+      "title": "애초에 호감 떨어져도 3순위는 아웃이었는데 순자는 아니었고 현숙에 대한 호감이 떨어지니까 5:5가 된 거지",
+      "excerpt": "영호 신기한게 순자 문신 싫어서 호감 떨어졌다더니",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4398358341#4398368316",
+      "postedLabel": "",
+      "postedAt": "2026-11-07T12:01:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-07T04:01:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -861320,6 +861360,7 @@
         "6662679",
         "6662683",
         "6662684",
+        "6662686",
         "6662689",
         "6662700",
         "6662702",
@@ -861332,7 +861373,8 @@
         "6662738",
         "6662743",
         "6662752",
-        "6662759"
+        "6662759",
+        "6662767"
       ]
     },
     "blind": {
