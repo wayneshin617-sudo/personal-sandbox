@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T04:21:31+00:00",
+  "updatedAt": "2026-11-08T04:25:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -859929,6 +859929,25 @@
       "firstSeenAt": "2026-11-08T04:21:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103330,
+      "source": "dc",
+      "externalId": "6664352",
+      "title": "저출산때메 곧한국망한다고하던 판매자분 결국 이민가네",
+      "excerpt": "",
+      "author": "체인쏘",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6664352&page=1",
+      "postedLabel": "13:24",
+      "postedAt": "2026-11-08T13:24:08+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T04:25:38+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -860112,7 +860131,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-08T13:22:35+09:00"
+      "slowAt": "2026-11-08T13:25:20+09:00"
     },
     "dc": {
       "doneIds": [
@@ -872086,7 +872105,8 @@
         "6664327",
         "6664329",
         "6664333",
-        "6664336"
+        "6664336",
+        "6664348"
       ]
     },
     "blind": {
