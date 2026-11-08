@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T22:45:42+00:00",
+  "updatedAt": "2026-11-08T22:50:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -867038,6 +867038,85 @@
       "firstSeenAt": "2026-11-08T22:45:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103690,
+      "source": "qoo",
+      "externalId": "cmt-4400218165",
+      "title": "@7 19 영수 괜찮지 ㅎㅎ 이번 기수 영수도 괜찮던데 근데 딱 생각나는 영수가 없긴 하다 ㅋㅋㅋ",
+      "excerpt": "근데 영수 ㄱㅊ았던 기수도 있어??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4399765147#4400218165",
+      "postedLabel": "",
+      "postedAt": "2026-11-09T06:49:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T22:50:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103691,
+      "source": "qoo",
+      "externalId": "cmt-4400218193",
+      "title": "무슨 글인디",
+      "excerpt": "오잉 현숙 오케스트라 글 왜 사라졌지",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4400196521#4400218193",
+      "postedLabel": "",
+      "postedAt": "2026-11-09T06:49:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T22:50:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103692,
+      "source": "dc",
+      "externalId": "6665693",
+      "title": "리센느 벌써 3위로 밀려남 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6665693&page=1",
+      "postedLabel": "07:48",
+      "postedAt": "2026-11-09T07:48:59+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T22:50:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 103693,
+      "source": "blind",
+      "externalId": "cmt-460335302",
+      "title": "ㅋㅋㅋㅋㅋㅋ ㅠㅠ",
+      "excerpt": "순자가 왜 인기많지",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%99%9C-%EC%9D%B8%EA%B8%B0%EB%A7%8E%EC%A7%80-tqfarsxg#460335302",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-09T07:49:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T22:50:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -867221,7 +867300,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T07:46:36+09:00"
+      "slowAt": "2026-11-09T07:49:57+09:00"
     },
     "dc": {
       "doneIds": [
