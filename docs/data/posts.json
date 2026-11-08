@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T12:03:16+00:00",
+  "updatedAt": "2026-11-08T12:04:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -863881,6 +863881,44 @@
       "firstSeenAt": "2026-11-08T12:03:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103530,
+      "source": "dc",
+      "externalId": "6665061",
+      "title": "집단으로 화나서 열불터진게 개웃기네 ㅋㅋ",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6665061&page=1",
+      "postedLabel": "21:03",
+      "postedAt": "2026-11-08T21:03:26+09:00",
+      "views": 14,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T12:04:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 103531,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EC%99%B8%EB%AA%A8%EB%A1%9C%EB%A7%8C-%EB%94%B1-%EB%B4%A4%EC%9D%84%EB%95%8C-wubkj4ue",
+      "title": "영호 외모로만 딱 봤을때",
+      "excerpt": "다른거 빼고 외모로만 봤을때 잘생긴편이야??",
+      "author": "l********",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%99%B8%EB%AA%A8%EB%A1%9C%EB%A7%8C-%EB%94%B1-%EB%B4%A4%EC%9D%84%EB%95%8C-wubkj4ue",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T21:04:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-08T12:04:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -864064,7 +864102,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-08T21:00:45+09:00"
+      "slowAt": "2026-11-08T21:04:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -887009,7 +887047,8 @@
         "4399324670",
         "4399347291",
         "4399389756",
-        "4399765147"
+        "4399765147",
+        "4399873617"
       ]
     },
     "keep": "v2",
