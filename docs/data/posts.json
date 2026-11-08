@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T03:54:24+00:00",
+  "updatedAt": "2026-11-08T03:57:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -859651,6 +859651,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-08T03:54:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 103316,
+      "source": "dc",
+      "externalId": "cmt-11004287",
+      "title": "테사서 렌즈끼고 귀찮아 차라리 블루라이트렌즈라도 껴주던지 정말 팬심아니면 가격도 그렇고 못살듯",
+      "excerpt": "안경사러 출동하는 순천지들ㄷㄷ",
+      "author": "00",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6664295&page=1#cmt_11004287",
+      "postedLabel": "11.08 12:56:53",
+      "postedAt": "2026-11-08T12:56:53+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T03:57:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -859762,7 +859782,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-08T12:54:06+09:00"
+      "slowAt": "2026-11-08T12:57:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -871796,7 +871816,8 @@
         "6664265",
         "6664270",
         "6664279",
-        "6664281"
+        "6664281",
+        "6664295"
       ]
     },
     "blind": {
