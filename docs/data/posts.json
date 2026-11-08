@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T17:45:54+00:00",
+  "updatedAt": "2026-11-08T17:51:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -866207,6 +866207,26 @@
       "firstSeenAt": "2026-11-08T17:45:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103648,
+      "source": "dc",
+      "externalId": "cmt-11005599",
+      "title": "참 시바 할일 없나보다..",
+      "excerpt": "현재까지 나솔34기 호감도/관계도",
+      "author": "조까",
+      "company": "",
+      "ip": "211.44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6665310&page=3#cmt_11005599",
+      "postedLabel": "11.08 22:51:50",
+      "postedAt": "2026-11-08T22:51:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T17:51:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -866390,7 +866410,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T02:48:20+09:00"
+      "slowAt": "2026-11-09T02:51:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -878629,6 +878649,7 @@
         "6665301",
         "6665304",
         "6665307",
+        "6665310",
         "6665311",
         "6665313",
         "6665315",
@@ -878687,7 +878708,8 @@
         "6665525",
         "6665531",
         "6665536",
-        "6665537"
+        "6665537",
+        "6665541"
       ]
     },
     "blind": {
