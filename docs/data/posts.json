@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T05:06:43+00:00",
+  "updatedAt": "2026-11-08T05:09:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -860540,6 +860540,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-08T05:06:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 103361,
+      "source": "blind",
+      "externalId": "cmt-460238646",
+      "title": "아들 한명을 낳기위해 계속 출산을 트라이한 그 가족 분위기가 별로로 느껴져서;;",
+      "excerpt": "영수 얘기나올때마다 이해안되는게 시누이 얘긴데",
+      "author": "X*****",
+      "company": "DHL",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%96%98%EA%B8%B0%EB%82%98%EC%98%AC%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%9D%B4%ED%95%B4%EC%95%88%EB%90%98%EB%8A%94%EA%B2%8C-%EC%8B%9C%EB%88%84%EC%9D%B4-%EC%96%98%EA%B8%B4%EB%8D%B0-dksukkkq#460238646",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T14:09:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T05:09:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -860723,7 +860743,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-08T14:06:26+09:00"
+      "slowAt": "2026-11-08T14:09:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -872718,7 +872738,8 @@
         "6664403",
         "6664405",
         "6664407",
-        "6664414"
+        "6664414",
+        "6664428"
       ]
     },
     "blind": {
