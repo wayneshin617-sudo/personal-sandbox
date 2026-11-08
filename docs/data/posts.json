@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T12:05:39+00:00",
+  "updatedAt": "2026-11-08T12:07:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -864059,6 +864059,45 @@
       "firstSeenAt": "2026-11-08T12:05:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103539,
+      "source": "blind",
+      "externalId": "cmt-460286839",
+      "title": "와꾸는 영철이 위임 머리스타일 구린데 순수 와꾸로 커버 중",
+      "excerpt": "영호 외모로만 딱 봤을때",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%99%B8%EB%AA%A8%EB%A1%9C%EB%A7%8C-%EB%94%B1-%EB%B4%A4%EC%9D%84%EB%95%8C-wubkj4ue#460286839",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-08T21:06:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T12:07:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103540,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%97%90-%EC%97%B4%ED%8F%AD%ED%95%98%EB%8A%94-%EA%B0%9C%EC%A4%8C%EB%A7%88%EB%93%A4-%EB%A7%8E%EB%84%A4-%E3%84%B7%E3%84%B7-7c6smkxs",
+      "title": "현숙에 열폭하는 개줌마들 많네 ㄷㄷ",
+      "excerpt": "베스트글 보면 연주회 복장까지 지적하면서 관종이라고 ㄷㄷㄷ 대체 왜그렇게까지 까는건지 이해불가..",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%97%90-%EC%97%B4%ED%8F%AD%ED%95%98%EB%8A%94-%EA%B0%9C%EC%A4%8C%EB%A7%88%EB%93%A4-%EB%A7%8E%EB%84%A4-%E3%84%B7%E3%84%B7-7c6smkxs",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T21:07:34+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-08T12:07:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -864242,7 +864281,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-08T21:04:11+09:00"
+      "slowAt": "2026-11-08T21:07:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -876357,6 +876396,7 @@
         "6664828",
         "6664831",
         "6664832",
+        "6664835",
         "6664837",
         "6664839",
         "6664841",
