@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T03:45:24+00:00",
+  "updatedAt": "2026-11-08T03:50:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -859592,6 +859592,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-08T03:45:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 103313,
+      "source": "dc",
+      "externalId": "cmt-11004278",
+      "title": "느낌 있다 ㅎㅎ",
+      "excerpt": "장이수 닮은 것 같은데",
+      "author": "00",
+      "company": "",
+      "ip": "1.241",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6664281&page=1#cmt_11004278",
+      "postedLabel": "11.08 12:49:41",
+      "postedAt": "2026-11-08T12:49:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T03:50:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -871734,7 +871754,8 @@
         "6664260",
         "6664265",
         "6664270",
-        "6664279"
+        "6664279",
+        "6664281"
       ]
     },
     "blind": {
