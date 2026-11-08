@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T04:50:16+00:00",
+  "updatedAt": "2026-11-08T04:51:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -860124,6 +860124,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-08T04:50:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 103340,
+      "source": "blind",
+      "externalId": "cmt-460235053",
+      "title": "어떤 인생을 살길래 주말에 이렇게.... 걱정하는 척 글은 썼지만 댓글보니 엄청 공격적이네 불쌍한 한마리 ㅠㅜ",
+      "excerpt": "상향지원해보고 안 되면 결혼 안 하면 그만이야 하는 여자들중에",
+      "author": "escuela",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%ED%96%A5%EC%A7%80%EC%9B%90%ED%95%B4%EB%B3%B4%EA%B3%A0-%EC%95%88-%EB%90%98%EB%A9%B4-%EA%B2%B0%ED%98%BC-%EC%95%88-%ED%95%98%EB%A9%B4-%EA%B7%B8%EB%A7%8C%EC%9D%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4%EC%A4%91%EC%97%90-ax7eu8ez#460235053",
+      "postedLabel": "17분",
+      "postedAt": "2026-11-08T13:34:21+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T04:51:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103341,
+      "source": "blind",
+      "externalId": "cmt-460236699",
+      "title": "결정사 매니저들 직업을 한번 생각해보세요",
+      "excerpt": "상향지원해보고 안 되면 결혼 안 하면 그만이야 하는 여자들중에",
+      "author": "l********",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%ED%96%A5%EC%A7%80%EC%9B%90%ED%95%B4%EB%B3%B4%EA%B3%A0-%EC%95%88-%EB%90%98%EB%A9%B4-%EA%B2%B0%ED%98%BC-%EC%95%88-%ED%95%98%EB%A9%B4-%EA%B7%B8%EB%A7%8C%EC%9D%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4%EC%A4%91%EC%97%90-ax7eu8ez#460236699",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T13:51:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T04:51:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -860235,7 +860275,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-08T13:48:37+09:00"
+      "slowAt": "2026-11-08T13:51:21+09:00"
     },
     "ig": {
       "doneIds": [
@@ -872276,6 +872316,7 @@
         "6664279",
         "6664281",
         "6664282",
+        "6664291",
         "6664295",
         "6664299",
         "6664302",
@@ -872297,7 +872338,8 @@
         "6664390",
         "6664394",
         "6664397",
-        "6664403"
+        "6664403",
+        "6664405"
       ]
     },
     "blind": {
@@ -873069,6 +873111,7 @@
         "/kr/post/%EB%82%98%EC%86%94-34%EB%A1%9C-%EC%B2%98%EC%9D%8C-%EC%8A%A4%ED%83%80%ED%8A%B8-%EB%81%8A%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B8%EB%8D%B0-kr1ppqnr",
         "/kr/post/%EB%82%98%EC%86%94-7vikmwp2",
         "/kr/post/%EB%82%98%EC%86%94-vx7vtg43",
+        "/kr/post/%EB%82%98%EC%86%94mc%EB%93%A4-dfjgigab",
         "/kr/post/%EB%82%98%EC%8F%A0%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%83%81%EC%B2%A0-%EC%99%9C-%EC%9E%90%EA%BE%B8-%EB%8A%90%EB%81%BC%ED%95%98%EA%B2%8C-%EC%B9%98%EB%AA%85%EC%A0%81%EC%9D%B8%EC%B2%99%ED%95%A8-7k6mv8zb",
         "/kr/post/%EB%82%98%EC%8F%A0%EB%B3%B4%EB%8B%88%EA%B9%8C-%ED%99%95%EC%8B%A4%ED%9E%88-%ED%82%A4%EC%99%80-%EC%96%BC%EA%B5%B4%EC%9D%B4%EB%8B%A4-2y2qurwg",
         "/kr/post/%EB%82%98%EC%8F%A0-%EC%97%AC%EC%B6%9C-%ED%9B%84%EA%B8%B0-q8grzbpz",
