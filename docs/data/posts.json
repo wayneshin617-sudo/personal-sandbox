@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T12:07:52+00:00",
+  "updatedAt": "2026-11-08T12:10:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -864098,6 +864098,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-08T12:07:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 103541,
+      "source": "blind",
+      "externalId": "cmt-460287230",
+      "title": "남잔데 못생김",
+      "excerpt": "현숙에 열폭하는 개줌마들 많네 ㄷㄷ",
+      "author": "l*********",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%97%90-%EC%97%B4%ED%8F%AD%ED%95%98%EB%8A%94-%EA%B0%9C%EC%A4%8C%EB%A7%88%EB%93%A4-%EB%A7%8E%EB%84%A4-%E3%84%B7%E3%84%B7-7c6smkxs#460287230",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T21:09:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T12:10:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -864209,7 +864229,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-08T21:06:21+09:00"
+      "slowAt": "2026-11-08T21:09:48+09:00"
     },
     "ig": {
       "doneIds": [
@@ -876438,6 +876458,7 @@
         "6664962",
         "6664966",
         "6664971",
+        "6664973",
         "6664974",
         "6664980",
         "6664986",
@@ -876459,7 +876480,8 @@
         "6665045",
         "6665054",
         "6665057",
-        "6665064"
+        "6665064",
+        "6665071"
       ]
     },
     "blind": {
