@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T20:53:12+00:00",
+  "updatedAt": "2026-11-08T21:12:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -866563,6 +866563,26 @@
       "firstSeenAt": "2026-11-08T20:53:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103666,
+      "source": "blind",
+      "externalId": "cmt-460329907",
+      "title": "영철쿤 맘상했구나 ㅜㅜ",
+      "excerpt": "나는솔로 mc랑 제작진들 좀 심하다",
+      "author": "S****",
+      "company": "SK텔레콤",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-mc%EB%9E%91-%EC%A0%9C%EC%9E%91%EC%A7%84%EB%93%A4-%EC%A2%80-%EC%8B%AC%ED%95%98%EB%8B%A4-40ensu1h#460329907",
+      "postedLabel": "1시간",
+      "postedAt": "2026-11-09T05:11:53+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T21:12:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -866746,7 +866766,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T06:08:54+09:00"
+      "slowAt": "2026-11-09T06:11:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -879059,6 +879079,7 @@
         "6665551",
         "6665552",
         "6665559",
+        "6665563",
         "6665567",
         "6665578",
         "6665590",
