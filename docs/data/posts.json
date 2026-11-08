@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-08T03:11:24+00:00",
+  "updatedAt": "2026-11-08T03:15:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -859058,6 +859058,45 @@
       "firstSeenAt": "2026-11-08T03:11:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103286,
+      "source": "dc",
+      "externalId": "6664249",
+      "title": "성수동 젠몬",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6664249&page=1",
+      "postedLabel": "12:14",
+      "postedAt": "2026-11-08T12:14:30+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T03:15:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 103287,
+      "source": "blind",
+      "externalId": "cmt-460226992",
+      "title": "누가 저렇게 입음?",
+      "excerpt": "투표글 관종인가요...? 투표",
+      "author": "l******",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%80%EC%A2%85%EC%9D%B8%EA%B0%80%EC%9A%94-0yau3rgy#460226992",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-08T12:15:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-08T03:15:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -859169,7 +859208,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-08T12:12:06+09:00"
+      "slowAt": "2026-11-08T12:15:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -871179,7 +871218,8 @@
         "6664223",
         "6664227",
         "6664228",
-        "6664233"
+        "6664233",
+        "6664247"
       ]
     },
     "blind": {
