@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T16:08:54+00:00",
+  "updatedAt": "2026-11-09T16:11:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -877340,6 +877340,65 @@
       "firstSeenAt": "2026-11-09T16:08:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104214,
+      "source": "blind",
+      "externalId": "cmt-460452517",
+      "title": "어디가 좋은지 말해죠",
+      "excerpt": "ㅋㅋ글 첨써봐",
+      "author": "s********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%E3%85%8B%E3%85%8B%EA%B8%80-%EC%B2%A8%EC%8D%A8%EB%B4%90-u3y3spv2#460452517",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-10T01:10:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T16:11:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104215,
+      "source": "dc",
+      "externalId": "6667539",
+      "title": "빌런 없는 기수 추천 해줘 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㄱㄱ",
+      "company": "",
+      "ip": "121.178",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6667539&page=1",
+      "postedLabel": "01:10",
+      "postedAt": "2026-11-10T01:10:13+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T16:11:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104216,
+      "source": "blind",
+      "externalId": "cmt-460452620",
+      "title": "나잇값 하자",
+      "excerpt": "ㅋㅋ글 첨써봐",
+      "author": "|********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%E3%85%8B%E3%85%8B%EA%B8%80-%EC%B2%A8%EC%8D%A8%EB%B4%90-u3y3spv2#460452620",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T01:11:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T16:11:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -877451,7 +877510,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T01:08:37+09:00"
+      "slowAt": "2026-11-10T01:11:10+09:00"
     },
     "ig": {
       "doneIds": [
