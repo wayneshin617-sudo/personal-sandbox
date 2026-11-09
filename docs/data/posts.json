@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T07:04:29+00:00",
+  "updatedAt": "2026-11-09T07:09:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -872318,6 +872318,45 @@
       "firstSeenAt": "2026-11-09T07:04:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103957,
+      "source": "dc",
+      "externalId": "cmt-11007580",
+      "title": "실물이 이쁜듯. 둘다잘생예쁨",
+      "excerpt": "순까들이 절대 안퍼오는글 ㅋㅋㅋ",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666290&page=2#cmt_11007580",
+      "postedLabel": "11.09 15:11:37",
+      "postedAt": "2026-11-09T15:11:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T07:09:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103958,
+      "source": "dc",
+      "externalId": "6666406",
+      "title": "옥팔계년아 넌시집못가",
+      "excerpt": "",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666406&page=1",
+      "postedLabel": "16:08",
+      "postedAt": "2026-11-09T16:08:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T07:09:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -872501,7 +872540,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T16:06:25+09:00"
+      "slowAt": "2026-11-09T16:09:03+09:00"
     },
     "dc": {
       "doneIds": [
