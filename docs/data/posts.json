@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T15:01:24+00:00",
+  "updatedAt": "2026-11-09T15:02:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -876686,6 +876686,26 @@
       "firstSeenAt": "2026-11-09T15:01:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104181,
+      "source": "qoo",
+      "externalId": "cmt-4401156558",
+      "title": "지얘기만해",
+      "excerpt": "벨링햄은 그냥 노잼이에요 뭔 밥 먹기전에 물범 하나본다고 재밌어지냐고",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4401156231#4401156558",
+      "postedLabel": "",
+      "postedAt": "2026-11-09T23:02:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T15:02:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -876797,7 +876817,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-09T23:59:07+09:00"
+      "slowAt": "2026-11-10T00:02:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -889451,6 +889471,8 @@
         "6667076",
         "6667081",
         "6667090",
+        "6667106",
+        "6667108",
         "6667346",
         "6667348",
         "6667371",
