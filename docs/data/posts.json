@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T15:12:24+00:00",
+  "updatedAt": "2026-11-09T15:17:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -876865,6 +876865,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-09T15:12:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104190,
+      "source": "qoo",
+      "externalId": "cmt-4401172120",
+      "title": "ㄹㅇ",
+      "excerpt": "진짜 유해 레전드 방송이다 몰래카메라 찍는 남자를 순수로 포장",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4401171865#4401172120",
+      "postedLabel": "",
+      "postedAt": "2026-11-09T23:16:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T15:17:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104191,
+      "source": "qoo",
+      "externalId": "cmt-4401172418",
+      "title": "ㄹㅇ 이거 왜 징계안받음?",
+      "excerpt": "진짜 유해 레전드 방송이다 몰래카메라 찍는 남자를 순수로 포장",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4401171865#4401172418",
+      "postedLabel": "",
+      "postedAt": "2026-11-09T23:17:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T15:17:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -876976,7 +877016,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T00:14:06+09:00"
+      "slowAt": "2026-11-10T00:17:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -889639,6 +889679,8 @@
         "6667155",
         "6667161",
         "6667196",
+        "6667215",
+        "6667222",
         "6667346",
         "6667348",
         "6667371",
