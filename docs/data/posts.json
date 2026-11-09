@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T14:42:23+00:00",
+  "updatedAt": "2026-11-09T14:43:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -875624,6 +875624,44 @@
       "firstSeenAt": "2026-11-09T14:42:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104127,
+      "source": "dc",
+      "externalId": "6667363",
+      "title": "선마보다 낫지",
+      "excerpt": "",
+      "author": "사과맛제리뽀",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6667363&page=1",
+      "postedLabel": "23:42",
+      "postedAt": "2026-11-09T23:42:38+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T14:43:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104128,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EC%97%90-%EB%B9%84%ED%95%B4%EC%84%9C-%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC%EC%9D%B4-%EC%98%B9%ED%98%B8-rw0irxkk",
+      "title": "나솔에 비해서 계약결혼이 옹호",
+      "excerpt": "애지게 하니 힘드네 공감도 안되고 짜증만나네",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%97%90-%EB%B9%84%ED%95%B4%EC%84%9C-%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC%EC%9D%B4-%EC%98%B9%ED%98%B8-rw0irxkk",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-09T23:43:06+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-09T14:43:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -875807,7 +875845,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T23:40:11+09:00"
+      "slowAt": "2026-11-09T23:43:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -888378,6 +888416,7 @@
         "6666522",
         "6666528",
         "6666530",
+        "6666873",
         "6666875",
         "6666946",
         "6666968",
@@ -891523,6 +891562,7 @@
         "/kr/post/%EC%98%81%EC%8B%9D-%EC%A7%84%EC%A7%9C-%EC%84%A0%ED%95%98%EA%B2%8C%EC%83%9D%EA%B2%BC%EB%8B%A4-r0nkxx72",
         "/kr/post/%EC%98%81%EC%8B%9D-84atj8xr",
         "/kr/post/%EC%98%81%EC%8B%9D-cx4c50n5",
+        "/kr/post/%EC%98%81%EC%8B%9D-hud4sshk",
         "/kr/post/%EC%98%81%EC%9C%A0%EA%B9%8C%EC%A7%80-%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9C%BC%EB%A9%B4%EC%84%9C-oyoeav45",
         "/kr/post/%EC%98%81%EC%9E%90%EA%B0%80-%EA%B2%B0%ED%98%BC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EB%94%B1-%EC%A2%8B%EC%9D%80%EB%93%AF-4xtkcf5q",
         "/kr/post/%EC%98%81%EC%9E%90%EA%B0%80-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-tquy1jjp",
@@ -899245,7 +899285,15 @@
         "4401156231",
         "4401156596",
         "4401157638",
+        "4401157877",
+        "4401158036",
+        "4401158280",
         "4401159743",
+        "4401159944",
+        "4401164243",
+        "4401166211",
+        "4401170381",
+        "4401170546",
         "4401171865",
         "4401186027"
       ]
