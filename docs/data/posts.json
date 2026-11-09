@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T08:32:48+00:00",
+  "updatedAt": "2026-11-09T08:34:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -873491,6 +873491,46 @@
       "firstSeenAt": "2026-11-09T08:32:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104016,
+      "source": "dc",
+      "externalId": "cmt-11007864",
+      "title": "인증을 해줘도 못먹네",
+      "excerpt": "경수 안경팝업 후기~^^",
+      "author": "나솔",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666521&page=1#cmt_11007864",
+      "postedLabel": "11.09 17:33:16",
+      "postedAt": "2026-11-09T17:33:16+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T08:34:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104017,
+      "source": "dc",
+      "externalId": "cmt-11007865",
+      "title": "디피지랑허더니만 이쁘데 세팅되어있네",
+      "excerpt": "경수 안경팝업 후기~^^",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666521&page=1#cmt_11007865",
+      "postedLabel": "11.09 17:33:59",
+      "postedAt": "2026-11-09T17:33:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T08:34:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -873674,7 +873714,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T17:31:11+09:00"
+      "slowAt": "2026-11-09T17:33:55+09:00"
     },
     "dc": {
       "doneIds": [
