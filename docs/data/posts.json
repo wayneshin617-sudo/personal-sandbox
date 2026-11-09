@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T01:09:37+00:00",
+  "updatedAt": "2026-11-09T01:11:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -868122,6 +868122,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-09T01:09:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103745,
+      "source": "blind",
+      "externalId": "cmt-460345961",
+      "title": "욕먹을까봐 엄청 방어적으로 구는 것 같음 절대 건덕지를 주지 않겠다는 느낌",
+      "excerpt": "영호는 연프 왜 나온거냐",
+      "author": "g******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EC%97%B0%ED%94%84-%EC%99%9C-%EB%82%98%EC%98%A8%EA%B1%B0%EB%83%90-j0j2qvhd#460345961",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-09T10:11:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T01:11:35+00:00",
       "isSeed": false,
       "kind": "reply"
     }
