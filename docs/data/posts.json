@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T07:02:28+00:00",
+  "updatedAt": "2026-11-09T07:04:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -872278,6 +872278,46 @@
       "firstSeenAt": "2026-11-09T07:02:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103955,
+      "source": "dc",
+      "externalId": "cmt-11007711",
+      "title": "할머니 손녀한테 타자좀 대신쳐달라고 해보세요 담부턴",
+      "excerpt": "여기 순자 경수 까는애들 옥팔계와 더글로리단 그리고꼬봉들맞아??",
+      "author": "주당비휴틀딱",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666391&page=1#cmt_11007711",
+      "postedLabel": "11.09 16:03:16",
+      "postedAt": "2026-11-09T16:03:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T07:04:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 103956,
+      "source": "blind",
+      "externalId": "cmt-460381010",
+      "title": "쌉가능",
+      "excerpt": "송해나 40살인데",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%A1%ED%95%B4%EB%82%98-40%EC%82%B4%EC%9D%B8%EB%8D%B0-ufc4o1de#460381010",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-09T16:04:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T07:04:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -884981,7 +885021,8 @@
         "6666373",
         "6666382",
         "6666386",
-        "6666388"
+        "6666388",
+        "6666391"
       ]
     },
     "blind": {
