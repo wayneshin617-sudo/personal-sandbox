@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T08:30:09+00:00",
+  "updatedAt": "2026-11-09T08:31:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -873432,6 +873432,45 @@
       "firstSeenAt": "2026-11-09T08:30:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104013,
+      "source": "blind",
+      "externalId": "cmt-460376783",
+      "title": "친절한 스타일이지 흘리는 스타일은 아니라서. 그리고 훈훈하고 착하게 생겼잖아. 거기서 이미 끝.",
+      "excerpt": "근데 여자들은 영호같은 남자가 좋은가?",
+      "author": "b*********",
+      "company": "한국에머슨",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%80-%EC%98%81%ED%98%B8%EA%B0%99%EC%9D%80-%EB%82%A8%EC%9E%90%EA%B0%80-%EC%A2%8B%EC%9D%80%EA%B0%80-pcmetrix#460376783",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-09T15:31:07+09:00",
+      "views": null,
+      "recommends": 7,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T08:31:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104014,
+      "source": "dc",
+      "externalId": "6666521",
+      "title": "경수 안경팝업 후기~^^",
+      "excerpt": "",
+      "author": "나솔",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666521&page=1",
+      "postedLabel": "17:30",
+      "postedAt": "2026-11-09T17:30:49+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T08:31:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -873615,7 +873654,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T17:28:32+09:00"
+      "slowAt": "2026-11-09T17:31:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -886165,6 +886204,7 @@
         "6666427",
         "6666430",
         "6666435",
+        "6666437",
         "6666438",
         "6666447",
         "6666454",
@@ -886177,7 +886217,8 @@
         "6666498",
         "6666499",
         "6666509",
-        "6666512"
+        "6666512",
+        "6666513"
       ]
     },
     "blind": {
