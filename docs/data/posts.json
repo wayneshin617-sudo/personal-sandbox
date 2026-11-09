@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T16:28:07+00:00",
+  "updatedAt": "2026-11-09T16:33:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -877498,6 +877498,26 @@
       "firstSeenAt": "2026-11-09T16:28:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104222,
+      "source": "dc",
+      "externalId": "cmt-11008622",
+      "title": "지볶행도 다 여기서 중계했는대 뭔 - dc App",
+      "excerpt": "ㅅㅂ 여긴 나솔갤이라고 계약결혼 갤 쳐가라고",
+      "author": "페퍼톤즈",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6667490&page=1#cmt_11008622",
+      "postedLabel": "11.10 00:39:05",
+      "postedAt": "2026-11-10T00:39:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T16:33:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -877681,7 +877701,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-10T01:30:30+09:00"
+      "slowAt": "2026-11-10T01:33:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -890339,7 +890359,9 @@
         "6667539",
         "6667541",
         "6667543",
-        "6667545"
+        "6667545",
+        "6667555",
+        "6667556"
       ]
     },
     "blind": {
