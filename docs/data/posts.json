@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T02:19:51+00:00",
+  "updatedAt": "2026-11-09T02:26:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -869017,6 +869017,25 @@
       "firstSeenAt": "2026-11-09T02:19:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103790,
+      "source": "dc",
+      "externalId": "6665882",
+      "title": "연애 밸런스 게임",
+      "excerpt": "",
+      "author": "마키마쨩",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6665882&page=1",
+      "postedLabel": "11:26",
+      "postedAt": "2026-11-09T11:26:26+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T02:26:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -869200,7 +869219,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T11:23:40+09:00"
+      "slowAt": "2026-11-09T11:26:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -881591,7 +881610,8 @@
         "6665860",
         "6665863",
         "6665869",
-        "6665875"
+        "6665875",
+        "6665877"
       ]
     },
     "blind": {
