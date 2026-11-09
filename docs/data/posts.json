@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T06:07:29+00:00",
+  "updatedAt": "2026-11-09T06:08:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -870525,6 +870525,26 @@
       "firstSeenAt": "2026-11-09T06:07:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103867,
+      "source": "blind",
+      "externalId": "cmt-460374695",
+      "title": "당연 근데 엄청 영업할거임",
+      "excerpt": "결정사 상담만 받는것도 가능해?",
+      "author": "i******",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%B0%EC%A0%95%EC%82%AC-%EC%83%81%EB%8B%B4%EB%A7%8C-%EB%B0%9B%EB%8A%94%EA%B2%83%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%B4-osp8wm7v#460374695",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-09T15:08:11+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T06:08:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -870636,7 +870656,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-09T15:05:14+09:00"
+      "slowAt": "2026-11-09T15:08:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -883118,9 +883138,11 @@
         "6665918",
         "6665951",
         "6666051",
+        "6666055",
         "6666145",
         "6666153",
         "6666157",
+        "6666159",
         "6666280",
         "6666281"
       ]
