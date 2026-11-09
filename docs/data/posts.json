@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T06:14:29+00:00",
+  "updatedAt": "2026-11-09T06:15:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -870683,6 +870683,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-09T06:14:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 103875,
+      "source": "dc",
+      "externalId": "cmt-11007097",
+      "title": "현기수노잼이라서 이꼴",
+      "excerpt": "33기로 31기 좆같음지우는게좋았는데 갑자기돌아온이유가?",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666068&page=4#cmt_11007097",
+      "postedLabel": "11.09 13:16:49",
+      "postedAt": "2026-11-09T13:16:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T06:15:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -870866,7 +870886,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T15:12:11+09:00"
+      "slowAt": "2026-11-09T15:15:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -883283,6 +883303,7 @@
         "6666061",
         "6666063",
         "6666066",
+        "6666068",
         "6666145",
         "6666153",
         "6666157",
@@ -883296,7 +883317,8 @@
         "6666281",
         "6666290",
         "6666293",
-        "6666296"
+        "6666296",
+        "6666300"
       ]
     },
     "blind": {
