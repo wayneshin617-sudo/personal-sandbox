@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T15:18:23+00:00",
+  "updatedAt": "2026-11-09T15:25:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -876925,6 +876925,25 @@
       "firstSeenAt": "2026-11-09T15:18:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104193,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%84%EC%A7%9C-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94-%EB%AC%BC%EB%B2%94%EB%B3%B4%EB%9F%AC-%EC%9E%98-%EB%8B%A4%EB%8B%88%EB%82%98-mmlhkhod",
+      "title": "진짜 미국에서는 물범보러 잘 다니나",
+      "excerpt": "물범 치명적으로 귀엽긴한데 미국에서는 흔한 일인가 궁금해",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%9C-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94-%EB%AC%BC%EB%B2%94%EB%B3%B4%EB%9F%AC-%EC%9E%98-%EB%8B%A4%EB%8B%88%EB%82%98-mmlhkhod",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T00:25:07+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-09T15:25:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -877108,7 +877127,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-10T00:22:06+09:00"
+      "slowAt": "2026-11-10T00:25:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -889706,6 +889725,7 @@
         "6667260",
         "6667262",
         "6667270",
+        "6667276",
         "6667346",
         "6667348",
         "6667371",
