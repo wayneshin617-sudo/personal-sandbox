@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-09T07:46:28+00:00",
+  "updatedAt": "2026-11-09T07:49:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -873033,6 +873033,25 @@
       "firstSeenAt": "2026-11-09T07:46:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 103993,
+      "source": "dc",
+      "externalId": "6666468",
+      "title": "옥팔계꼬봉들모임",
+      "excerpt": "",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6666468&page=1",
+      "postedLabel": "16:47",
+      "postedAt": "2026-11-09T16:47:55+09:00",
+      "views": 19,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-11-09T07:49:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -873216,7 +873235,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-09T16:46:10+09:00"
+      "slowAt": "2026-11-09T16:48:48+09:00"
     },
     "dc": {
       "doneIds": [
