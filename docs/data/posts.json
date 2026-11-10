@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T07:18:02+00:00",
+  "updatedAt": "2026-11-10T07:28:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -881002,6 +881002,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-10T07:18:02+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104400,
+      "source": "dc",
+      "externalId": "6668477",
+      "title": "싸우면 누가이길까 사쿠라 vs 니코로빈",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6668477&page=1",
+      "postedLabel": "16:28",
+      "postedAt": "2026-11-10T16:28:26+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T07:28:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -881113,7 +881132,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T16:26:00+09:00"
+      "slowAt": "2026-11-10T16:28:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -894070,7 +894089,8 @@
         "6668457",
         "6668461",
         "6668466",
-        "6668473"
+        "6668473",
+        "6668474"
       ]
     },
     "blind": {
