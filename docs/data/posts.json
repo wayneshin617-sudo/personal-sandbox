@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T15:36:32+00:00",
+  "updatedAt": "2026-11-10T15:39:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -883535,6 +883535,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-10T15:36:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104529,
+      "source": "blind",
+      "externalId": "cmt-460590542",
+      "title": "물범아 미안해",
+      "excerpt": "물범상철은",
+      "author": "l********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%BC%EB%B2%94%EC%83%81%EC%B2%A0%EC%9D%80-3nph7twj#460590542",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T00:39:09+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T15:39:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -883718,7 +883738,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T00:36:16+09:00"
+      "slowAt": "2026-11-11T00:39:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -896702,6 +896722,7 @@
         "6669089",
         "6669090",
         "6669097",
+        "6669100",
         "6669106",
         "6669109",
         "6669112",
@@ -896720,7 +896741,8 @@
         "6669155",
         "6669166",
         "6669175",
-        "6669180"
+        "6669180",
+        "6669194"
       ]
     },
     "blind": {
