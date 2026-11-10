@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T21:29:54+00:00",
+  "updatedAt": "2026-11-10T21:31:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -884167,6 +884167,46 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-10T21:29:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104561,
+      "source": "blind",
+      "externalId": "cmt-460604665",
+      "title": "현숙을 너무 갖고싶어함",
+      "excerpt": "34기 잼난다길래 진도따라가는중인데",
+      "author": "전********",
+      "company": "포스코인터내셔널",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%9E%BC%EB%82%9C%EB%8B%A4%EA%B8%B8%EB%9E%98-%EC%A7%84%EB%8F%84%EB%94%B0%EB%9D%BC%EA%B0%80%EB%8A%94%EC%A4%91%EC%9D%B8%EB%8D%B0-y5cft0kz#460604665",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T06:31:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T21:31:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104562,
+      "source": "blind",
+      "externalId": "cmt-460604649",
+      "title": "콧털뽑은손으로 새우까줌",
+      "excerpt": "콧털뽑는거 뭔데..",
+      "author": "전********",
+      "company": "포스코인터내셔널",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%BD%A7%ED%84%B8%EB%BD%91%EB%8A%94%EA%B1%B0-%EB%AD%94%EB%8D%B0-8epev1mm#460604649",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T06:31:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T21:31:54+00:00",
       "isSeed": false,
       "kind": "reply"
     }
