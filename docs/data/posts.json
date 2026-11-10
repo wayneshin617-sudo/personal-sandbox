@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T15:49:01+00:00",
+  "updatedAt": "2026-11-10T15:53:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -883575,6 +883575,26 @@
       "firstSeenAt": "2026-11-10T15:49:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104531,
+      "source": "dc",
+      "externalId": "cmt-11010769",
+      "title": "34영철은 매력없다",
+      "excerpt": "34영철이 이목구비 미남 11영철이랑 삐까뜸",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669132&page=2#cmt_11010769",
+      "postedLabel": "11.10 23:55:00",
+      "postedAt": "2026-11-10T23:55:00+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T15:53:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -883758,7 +883778,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T00:50:03+09:00"
+      "slowAt": "2026-11-11T00:52:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -896755,6 +896775,7 @@
         "6669125",
         "6669126",
         "6669131",
+        "6669132",
         "6669136",
         "6669139",
         "6669143",
@@ -896770,7 +896791,8 @@
         "6669195",
         "6669196",
         "6669200",
-        "6669206"
+        "6669206",
+        "6669208"
       ]
     },
     "blind": {
