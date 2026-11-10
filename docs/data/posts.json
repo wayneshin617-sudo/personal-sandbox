@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T05:43:44+00:00",
+  "updatedAt": "2026-11-10T05:47:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -880412,6 +880412,63 @@
       "firstSeenAt": "2026-11-10T05:43:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104370,
+      "source": "dc",
+      "externalId": "6668304",
+      "title": "폭렬이의 진심",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6668304&page=1",
+      "postedLabel": "14:46",
+      "postedAt": "2026-11-10T14:46:37+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T05:47:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104371,
+      "source": "blind",
+      "externalId": "/kr/post/34%ED%98%84%EC%88%99-%EB%8B%AE%EC%9D%80%EA%BC%B4-odbagruq",
+      "title": "34현숙 닮은꼴",
+      "excerpt": "브배 마이크 아저씨 닮음",
+      "author": "!*********",
+      "company": "WEMADE",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%ED%98%84%EC%88%99-%EB%8B%AE%EC%9D%80%EA%BC%B4-odbagruq",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T14:47:29+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-10T05:47:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104372,
+      "source": "dc",
+      "externalId": "6668309",
+      "title": "모든게 딸각하나면 죄다 비교할 수 있는 시대니까",
+      "excerpt": "",
+      "author": "11",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6668309&page=1",
+      "postedLabel": "14:47",
+      "postedAt": "2026-11-10T14:47:29+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T05:47:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -893392,6 +893449,7 @@
         "6668182",
         "6668191",
         "6668192",
+        "6668197",
         "6668220",
         "6668236",
         "6668238",
@@ -893410,7 +893468,8 @@
         "6668276",
         "6668283",
         "6668291",
-        "6668292"
+        "6668292",
+        "6668302"
       ]
     },
     "blind": {
