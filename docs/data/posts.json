@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T21:25:54+00:00",
+  "updatedAt": "2026-11-10T21:29:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -884149,6 +884149,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-10T21:25:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104560,
+      "source": "dc",
+      "externalId": "cmt-11011162",
+      "title": "위댓대로 메인에서 멀어질수록 쌈 멀면 300가능 - dc App",
+      "excerpt": "성수 팝업 임대료 얼마야??",
+      "author": "HungryGhost",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669369&page=1#cmt_11011162",
+      "postedLabel": "11.11 06:29:14",
+      "postedAt": "2026-11-11T06:29:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T21:29:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -884332,7 +884352,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T06:26:37+09:00"
+      "slowAt": "2026-11-11T06:29:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -897365,7 +897385,8 @@
         "6669367",
         "6669369",
         "6669388",
-        "6669390"
+        "6669390",
+        "6669394"
       ]
     },
     "blind": {
