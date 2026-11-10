@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T00:56:22+00:00",
+  "updatedAt": "2026-11-10T01:03:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -878542,6 +878542,46 @@
       "firstSeenAt": "2026-11-10T00:56:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104275,
+      "source": "blind",
+      "externalId": "cmt-460477071",
+      "title": "언니..여기서이러시면안돼...요",
+      "excerpt": "예쁘긴 뒤지게 예쁘네",
+      "author": "지****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-fpjakeut#460477071",
+      "postedLabel": "9분",
+      "postedAt": "2026-11-10T09:53:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T01:03:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104276,
+      "source": "blind",
+      "externalId": "cmt-460477600",
+      "title": "나이가ㅡㅡ",
+      "excerpt": "예쁘긴 뒤지게 예쁘네",
+      "author": "j******",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-fpjakeut#460477600",
+      "postedLabel": "3분",
+      "postedAt": "2026-11-10T09:59:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T01:03:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -878725,7 +878765,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-10T10:00:13+09:00"
+      "slowAt": "2026-11-10T10:02:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -891437,6 +891477,7 @@
         "6667826",
         "6667828",
         "6667830",
+        "6667835",
         "6667836",
         "6667844",
         "6667845",
