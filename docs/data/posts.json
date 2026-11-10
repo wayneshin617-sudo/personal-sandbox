@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T00:46:57+00:00",
+  "updatedAt": "2026-11-10T00:48:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -878483,6 +878483,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-10T00:46:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104272,
+      "source": "dc",
+      "externalId": "6667885",
+      "title": "나스닥 시총 중 반도체 섹터의 비중은 얼마나 줄었을까?",
+      "excerpt": "",
+      "author": "snow",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6667885&page=1",
+      "postedLabel": "09:47",
+      "postedAt": "2026-11-10T09:47:53+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T00:48:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -878666,7 +878685,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-10T09:45:39+09:00"
+      "slowAt": "2026-11-10T09:48:38+09:00"
     },
     "dc": {
       "doneIds": [
