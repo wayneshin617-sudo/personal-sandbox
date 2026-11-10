@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T01:42:55+00:00",
+  "updatedAt": "2026-11-10T01:45:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -878913,6 +878913,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-10T01:42:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104294,
+      "source": "blind",
+      "externalId": "cmt-460481825",
+      "title": "내맘이지 4개밖에 안썼구만 어제 못봐서 지금 보는중이라 ㅋㅋ 심심",
+      "excerpt": "몰래카메라가 재밌다고????",
+      "author": "p***** 작성자",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AA%B0%EB%9E%98%EC%B9%B4%EB%A9%94%EB%9D%BC%EA%B0%80-%EC%9E%AC%EB%B0%8C%EB%8B%A4%EA%B3%A0-4f2dcbcj#460481825",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T10:45:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T01:45:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -879096,7 +879116,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-10T10:42:41+09:00"
+      "slowAt": "2026-11-10T10:45:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -891782,6 +891802,7 @@
         "6667702",
         "6667711",
         "6667712",
+        "6667717",
         "6667720",
         "6667722",
         "6667742",
@@ -891839,7 +891860,8 @@
         "6667935",
         "6667942",
         "6667949",
-        "6667953"
+        "6667953",
+        "6667955"
       ]
     },
     "blind": {
