@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T14:53:46+00:00",
+  "updatedAt": "2026-11-10T14:55:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -883078,6 +883078,66 @@
       "firstSeenAt": "2026-11-10T14:53:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104506,
+      "source": "dc",
+      "externalId": "cmt-11010766",
+      "title": "대충 박지성 플스짤",
+      "excerpt": "???: 안경 이야기 지겹지 않냐구요?",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669131&page=1#cmt_11010766",
+      "postedLabel": "11.10 23:54:06",
+      "postedAt": "2026-11-10T23:54:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T14:55:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104507,
+      "source": "blind",
+      "externalId": "cmt-460584922",
+      "title": "삼천으로 결혼어캐해? 스몰웨딩하면 삼천 끝날거같은데 가전가구+전세금 어디서구해?",
+      "excerpt": "돈 때문에 결혼 못하는 사람",
+      "author": "i*********",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%88-%EB%95%8C%EB%AC%B8%EC%97%90-%EA%B2%B0%ED%98%BC-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-ybgyqkpg#460584922",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T23:54:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T14:55:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104508,
+      "source": "blind",
+      "externalId": "cmt-460584902",
+      "title": "난2",
+      "excerpt": "투표글 누가 더 잘생 ? 투표",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80-%EB%8D%94-%EC%9E%98%EC%83%9D-4q5utfkf#460584902",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T23:54:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T14:55:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -883189,7 +883249,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T23:52:09+09:00"
+      "slowAt": "2026-11-10T23:54:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -896243,7 +896303,8 @@
         "6669118",
         "6669122",
         "6669124",
-        "6669126"
+        "6669126",
+        "6669131"
       ]
     },
     "blind": {
