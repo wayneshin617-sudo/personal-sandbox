@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T01:41:36+00:00",
+  "updatedAt": "2026-11-10T01:42:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -878894,6 +878894,25 @@
       "firstSeenAt": "2026-11-10T01:41:36+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104293,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%8A%94-%EC%82%AC%EC%8B%A4-%EA%B3%84%EA%B2%B0-%EC%83%81%EC%B2%A0%EC%9D%B4-%EC%9D%B4%ED%95%B4%EB%8F%BC-t85gh2l7",
+      "title": "나는 사실 계결 상철이 이해돼",
+      "excerpt": "동물 자연 좋아하고 사람은 질려하고 별로 안좋아하는 듯.. 타고난 성향+살면서 겪은 일들 때문에 저리 된 거 같은데 혼자 살면 그만임 외롭다고 남 들이지 말고",
+      "author": "i******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%82%AC%EC%8B%A4-%EA%B3%84%EA%B2%B0-%EC%83%81%EC%B2%A0%EC%9D%B4-%EC%9D%B4%ED%95%B4%EB%8F%BC-t85gh2l7",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-10T10:41:41+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-10T01:42:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -879077,7 +879096,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-10T10:40:02+09:00"
+      "slowAt": "2026-11-10T10:42:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -891819,7 +891838,8 @@
         "6667930",
         "6667935",
         "6667942",
-        "6667949"
+        "6667949",
+        "6667953"
       ]
     },
     "blind": {
