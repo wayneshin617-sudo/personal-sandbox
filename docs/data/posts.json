@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T13:54:24+00:00",
+  "updatedAt": "2026-11-10T14:02:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -882467,6 +882467,46 @@
       "firstSeenAt": "2026-11-10T13:54:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104475,
+      "source": "dc",
+      "externalId": "cmt-11010611",
+      "title": "개웃기넼ㅋㅋㅋㅋㅋㅋㅋㅋ - dc App",
+      "excerpt": "갤에 이 짤이 없길래 내가 쪄옴",
+      "author": "분당가디스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6668857&page=3#cmt_11010611",
+      "postedLabel": "11.10 22:56:40",
+      "postedAt": "2026-11-10T22:56:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T14:02:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104476,
+      "source": "dc",
+      "externalId": "cmt-11010623",
+      "title": "순까단글봐서 모하게 ㅂㅅㅇ",
+      "excerpt": "순천지들 진짜 단순하다ㅋㅋ 경수멘트",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669018&page=1#cmt_11010623",
+      "postedLabel": "11.10 23:01:37",
+      "postedAt": "2026-11-10T23:01:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T14:02:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -882578,7 +882618,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T22:59:08+09:00"
+      "slowAt": "2026-11-10T23:02:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -895568,6 +895608,7 @@
         "6668835",
         "6668843",
         "6668846",
+        "6668857",
         "6668889",
         "6668894",
         "6668898",
@@ -895592,7 +895633,8 @@
         "6668998",
         "6669003",
         "6669008",
-        "6669011"
+        "6669011",
+        "6669018"
       ]
     },
     "blind": {
