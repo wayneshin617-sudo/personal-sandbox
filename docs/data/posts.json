@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T02:26:56+00:00",
+  "updatedAt": "2026-11-10T02:28:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -879286,6 +879286,26 @@
       "firstSeenAt": "2026-11-10T02:26:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104313,
+      "source": "dc",
+      "externalId": "cmt-11009300",
+      "title": "남자도 애써 표정관리하고 급하게 자리 마무리하던데 진짜 저게 뭔 말임??",
+      "excerpt": "한의사 이 사람 혹시 보약 잘못먹은거임??",
+      "author": "코다리",
+      "company": "",
+      "ip": "211.60",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6667993&page=1#cmt_11009300",
+      "postedLabel": "11.10 11:27:41",
+      "postedAt": "2026-11-10T11:27:41+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T02:28:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -879469,7 +879489,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-10T11:25:21+09:00"
+      "slowAt": "2026-11-10T11:28:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -892225,7 +892245,8 @@
         "6667978",
         "6667980",
         "6667983",
-        "6667988"
+        "6667988",
+        "6667993"
       ]
     },
     "blind": {
