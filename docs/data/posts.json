@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T02:25:35+00:00",
+  "updatedAt": "2026-11-10T02:26:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -879227,6 +879227,65 @@
       "comments": 0,
       "firstSeenAt": "2026-11-10T02:25:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104310,
+      "source": "dc",
+      "externalId": "6667997",
+      "title": "솔까 짭숙정도 하드웨어면",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6667997&page=1",
+      "postedLabel": "11:25",
+      "postedAt": "2026-11-10T11:25:25+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T02:26:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104311,
+      "source": "blind",
+      "externalId": "cmt-460486336",
+      "title": "딱 어울리네",
+      "excerpt": "구라겠지?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%AC%EB%9D%BC%EA%B2%A0%EC%A7%80-ay1dk3p1#460486336",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-10T11:25:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T02:26:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104312,
+      "source": "blind",
+      "externalId": "cmt-460486409",
+      "title": "영수가 옥순 만나다가 눈이 하늘에있을텐데 현숙이 차겠냥",
+      "excerpt": "구라겠지?",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%AC%EB%9D%BC%EA%B2%A0%EC%A7%80-ay1dk3p1#460486409",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T11:26:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T02:26:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -879338,7 +879397,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T11:24:01+09:00"
+      "slowAt": "2026-11-10T11:26:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -892165,7 +892224,8 @@
         "6667977",
         "6667978",
         "6667980",
-        "6667983"
+        "6667983",
+        "6667988"
       ]
     },
     "blind": {
@@ -892435,6 +892495,7 @@
         "/kr/post/%EA%B4%9C%ED%9E%88-%EA%B3%BC%ED%95%99%EC%9D%B4-%EC%95%84%EB%8B%8C%EA%B2%83-%EA%B0%99%EC%9D%8C-84ct2d45",
         "/kr/post/%EA%B5%90%EB%8C%80%EA%B7%BC%EB%AC%B4-5ufguc0s",
         "/kr/post/%EA%B5%90%EC%88%98%EC%98%81%EC%88%98%EB%8B%98-%EA%B2%B0%ED%98%BC%ED%95%98%EB%8A%94%EA%B1%B0-%EC%9D%B4%EC%A0%9C%EC%95%8C%EC%95%98%EC%9D%8C-wp283o4w",
+        "/kr/post/%EA%B5%AC%EB%9D%BC%EA%B2%A0%EC%A7%80-ay1dk3p1",
         "/kr/post/%EA%B5%AC%EB%A6%84%EA%B3%BC%EC%9E%90-%EA%B0%99%EC%9D%80-%EC%86%8C%EB%A6%AC%ED%95%9C%EB%8B%A4-oh8yiyni",
         "/kr/post/%EA%B5%AC%EB%A6%AC-%EB%8B%A4%EC%82%B0-%EC%B9%9C%EA%B5%AC%EB%93%A4-4wpxcds6",
         "/kr/post/%EA%B5%AD%EB%B0%A5%ED%8A%B8%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%99%9C-%EC%B6%9C%EC%97%B0%EC%8B%9C%EC%BC%B0%EB%83%90%EB%8A%94-%EC%9E%98%EB%AA%BB%EB%90%9C-%EC%83%9D%EA%B0%81%EC%9E%84-kh7mdma7",
