@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T01:16:14+00:00",
+  "updatedAt": "2026-11-10T01:17:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -878660,6 +878660,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-10T01:16:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104281,
+      "source": "blind",
+      "externalId": "cmt-460479258",
+      "title": "잘 맞춰주려고 노력하는 모습은 많이 보이는데 상철은 그냥 혼자 사는게 나은거같긴해..",
+      "excerpt": "결혼계약 상철 말도 이해는감",
+      "author": "d*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%B0%ED%98%BC%EA%B3%84%EC%95%BD-%EC%83%81%EC%B2%A0-%EB%A7%90%EB%8F%84-%EC%9D%B4%ED%95%B4%EB%8A%94%EA%B0%90-ko5y6ian#460479258",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T10:17:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T01:17:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -878771,7 +878791,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T10:14:41+09:00"
+      "slowAt": "2026-11-10T10:17:19+09:00"
     },
     "ig": {
       "doneIds": [
@@ -891573,7 +891593,8 @@
         "6667884",
         "6667895",
         "6667897",
-        "6667904"
+        "6667904",
+        "6667909"
       ]
     },
     "blind": {
