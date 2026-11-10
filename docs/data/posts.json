@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T15:27:21+00:00",
+  "updatedAt": "2026-11-10T15:33:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -883496,6 +883496,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-10T15:27:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104527,
+      "source": "blind",
+      "externalId": "cmt-460589944",
+      "title": "물범도 상철이랑은 살기 싫어할거야",
+      "excerpt": "물범상철은",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%BC%EB%B2%94%EC%83%81%EC%B2%A0%EC%9D%80-3nph7twj#460589944",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T00:33:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T15:33:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -883679,7 +883699,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T00:31:00+09:00"
+      "slowAt": "2026-11-11T00:33:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -898364,6 +898384,7 @@
         "/kr/post/%EB%AC%B8%EC%8B%A0-rz7jameo",
         "/kr/post/%EB%AC%B8%EC%8B%A0-u32yt58w",
         "/kr/post/%EB%AC%B8%EC%8B%A0-wue5sovq",
+        "/kr/post/%EB%AC%BC%EB%B2%94%EC%83%81%EC%B2%A0%EC%9D%80-3nph7twj",
         "/kr/post/%EB%AD%90%EA%B0%80-%EB%8F%99%EC%95%88%EC%9D%B4%EC%95%BC-gbrv7kg4",
         "/kr/post/%EB%AD%90%EB%A8%B9%EA%B3%A0-%EC%8B%B6%EB%83%90-%EB%AC%BC%EC%9C%BC%EB%8B%88-%EB%8B%A8%EB%B0%B1%EC%A7%88%EC%9D%B4%EB%9D%BC-%ED%95%98%EB%8A%94%EA%B2%8C-eic4kimr",
         "/kr/post/%EB%AD%90%EC%95%BC-%EB%98%90-%EC%88%9C%EC%B2%9C%EC%A7%80%EB%93%A4-%EB%82%98%EB%8C%80%EB%8A%94%EA%B1%B0%EC%95%BC-ytbwtstw",
