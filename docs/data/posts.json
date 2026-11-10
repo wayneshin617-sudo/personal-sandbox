@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-10T14:16:24+00:00",
+  "updatedAt": "2026-11-10T14:17:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -882665,6 +882665,26 @@
       "firstSeenAt": "2026-11-10T14:16:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104485,
+      "source": "blind",
+      "externalId": "cmt-460578855",
+      "title": "솔로 맞으니까요",
+      "excerpt": "여자 공무원 만나고싶다",
+      "author": "c*** 작성자",
+      "company": "ASML",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EB%A7%8C%EB%82%98%EA%B3%A0%EC%8B%B6%EB%8B%A4-7jquf0vo#460578855",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-10T23:17:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-10T14:17:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -882776,7 +882796,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-10T23:14:08+09:00"
+      "slowAt": "2026-11-10T23:17:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -895745,6 +895765,7 @@
         "6668504",
         "6668691",
         "6668695",
+        "6668740",
         "6668748",
         "6668757",
         "6668758",
@@ -895805,7 +895826,8 @@
         "6669034",
         "6669035",
         "6669043",
-        "6669044"
+        "6669044",
+        "6669048"
       ]
     },
     "blind": {
