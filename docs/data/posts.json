@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T22:48:50+00:00",
+  "updatedAt": "2026-11-11T22:50:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -905174,6 +905174,25 @@
       "firstSeenAt": "2026-11-11T22:48:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105628,
+      "source": "dc",
+      "externalId": "6676758",
+      "title": "정숙이는 영철이 잘생겻다고 사랑하지 않나",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676758&page=1",
+      "postedLabel": "07:49",
+      "postedAt": "2026-11-12T07:49:33+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T22:50:50+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -905358,7 +905377,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T07:47:30+09:00"
+      "slowAt": "2026-11-12T07:50:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -918899,7 +918918,8 @@
         "6676732",
         "6676747",
         "6676754",
-        "6676755"
+        "6676755",
+        "6676757"
       ]
     },
     "blind": {
