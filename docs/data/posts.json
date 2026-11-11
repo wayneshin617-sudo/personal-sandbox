@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T17:26:45+00:00",
+  "updatedAt": "2026-11-11T17:28:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -902430,6 +902430,105 @@
       "comments": null,
       "firstSeenAt": "2026-11-11T17:26:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105489,
+      "source": "qoo",
+      "externalId": "cmt-4403297771",
+      "title": "북치고 장구침",
+      "excerpt": "영철은 고깃집에서 확실하게 거절 당하지 않았어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403297118#4403297771",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T01:26:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:28:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105490,
+      "source": "qoo",
+      "externalId": "cmt-4403298440",
+      "title": "ㄹㅇ",
+      "excerpt": "영수 튜닝 했냐고 묻는거 존ㄴㄴ나 무례하다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403294045#4403298440",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T01:27:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:28:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105491,
+      "source": "dc",
+      "externalId": "cmt-11013760",
+      "title": "ㅇㄱㄹㅇ",
+      "excerpt": "영호 순자가 비슷하고 영철 현숙이 비슷한듯",
+      "author": "ㅇㅅㅇ",
+      "company": "",
+      "ip": "39.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676062&page=4#cmt_11013760",
+      "postedLabel": "11.12 01:58:48",
+      "postedAt": "2026-11-12T01:58:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:28:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105492,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%98%EA%B0%80-%EC%A7%84%EA%B5%AD%EC%9D%B8%EA%B1%B0-%EB%A7%9E%EA%B8%B4%ED%95%98%EB%83%90-3a76lss8",
+      "title": "영수가 진국인거 맞긴하냐?",
+      "excerpt": "상남자인 척 엄청하는데 말하는게 머리가 별로 안 좋아보이고 단순무식해보임",
+      "author": "i*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98%EA%B0%80-%EC%A7%84%EA%B5%AD%EC%9D%B8%EA%B1%B0-%EB%A7%9E%EA%B8%B4%ED%95%98%EB%83%90-3a76lss8",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T02:27:44+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-11T17:28:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105493,
+      "source": "blind",
+      "externalId": "cmt-460742375",
+      "title": "에구 형님은 어디 세련된 도시남자인가요",
+      "excerpt": "이번 화는 촌티나는 사람들이 너무 많음",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%ED%99%94%EB%8A%94-%EC%B4%8C%ED%8B%B0%EB%82%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%8C-1up1ib2s#460742375",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T02:27:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:28:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -902614,7 +902713,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T02:25:06+09:00"
+      "slowAt": "2026-11-12T02:27:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -916037,6 +916136,7 @@
         "6676052",
         "6676057",
         "6676060",
+        "6676062",
         "6676063",
         "6676067",
         "6676071",
@@ -916088,7 +916188,8 @@
         "6676281",
         "6676283",
         "6676284",
-        "6676288"
+        "6676288",
+        "6676294"
       ]
     },
     "blind": {
