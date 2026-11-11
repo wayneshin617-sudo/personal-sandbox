@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T22:43:49+00:00",
+  "updatedAt": "2026-11-11T22:45:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -905015,6 +905015,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-11T22:43:49+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105620,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EB%B3%BC%EC%88%98%EB%A1%9D-%EB%B3%84%EB%A1%9C%EB%84%A4-uqejpgdr",
+      "title": "34기 현숙 볼수록 별로네",
+      "excerpt": "말하고 생각하는게 싹 다 자기 위주고( 저런 유형은 은은해서 자세히 봐야됨) 눈치도 없고 (혼자 신나서 개뜬금 웃는다던지...) 착한척 하는데 관계 깊어질 수록 쎄하고 ㅈㄴ 피곤해짐 걍 씹프피 표본인듯",
+      "author": "m******",
+      "company": "삼성전자서비스",
+      "ip": "",
+      "badge": "NOW",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EB%B3%BC%EC%88%98%EB%A1%9D-%EB%B3%84%EB%A1%9C%EB%84%A4-uqejpgdr",
+      "postedLabel": "8시간",
+      "postedAt": "2026-11-11T23:45:31+09:00",
+      "views": 2128,
+      "recommends": 79,
+      "comments": 12,
+      "firstSeenAt": "2026-11-11T22:45:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105621,
+      "source": "blind",
+      "externalId": "cmt-460751937",
+      "title": "100프로",
+      "excerpt": "영자도 코 한거임?",
+      "author": "s********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8F%84-%EC%BD%94-%ED%95%9C%EA%B1%B0%EC%9E%84-vfk888sw#460751937",
+      "postedLabel": "15분",
+      "postedAt": "2026-11-12T07:30:31+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T22:45:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -918724,6 +918763,7 @@
         "6676524",
         "6676538",
         "6676542",
+        "6676545",
         "6676600",
         "6676608",
         "6676610",
@@ -918733,6 +918773,7 @@
         "6676670",
         "6676672",
         "6676677",
+        "6676682",
         "6676732",
         "6676747",
         "6676754"
