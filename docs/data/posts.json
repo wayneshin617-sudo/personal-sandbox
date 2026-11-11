@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T10:09:05+00:00",
+  "updatedAt": "2026-11-11T10:10:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -888490,6 +888490,26 @@
       "firstSeenAt": "2026-11-11T10:09:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104780,
+      "source": "blind",
+      "externalId": "cmt-460684398",
+      "title": "무료야??",
+      "excerpt": "드디어!!",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%93%9C%EB%94%94%EC%96%B4-63eb1846#460684398",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T19:10:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T10:10:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -888673,7 +888693,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T19:07:32+09:00"
+      "slowAt": "2026-11-11T19:10:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -901902,6 +901922,7 @@
         "6670241",
         "6670247",
         "6670250",
+        "6670255",
         "6670257",
         "6670258",
         "6670262",
