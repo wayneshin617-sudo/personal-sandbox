@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T15:59:37+00:00",
+  "updatedAt": "2026-11-11T16:00:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -893010,6 +893010,64 @@
       "firstSeenAt": "2026-11-11T15:59:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105015,
+      "source": "qoo",
+      "externalId": "4403280024",
+      "title": "난 영호가 제일 별로 같다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403280024",
+      "postedLabel": "00:59",
+      "postedAt": "2026-11-12T00:59:00+09:00",
+      "views": 15,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:00:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105016,
+      "source": "qoo",
+      "externalId": "4403280183",
+      "title": "영호는 어쨌든 이득만 보고 나갈거 같아서 좀 짜증이",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403280183",
+      "postedLabel": "01:00",
+      "postedAt": "2026-11-12T01:00:00+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:00:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105017,
+      "source": "blind",
+      "externalId": "cmt-460736452",
+      "title": "댓글 고마워^^",
+      "excerpt": "스포 어디까지?",
+      "author": "r***** 작성자",
+      "company": "신용보증기금",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8A%A4%ED%8F%AC-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-0yvc5fmr#460736452",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:00:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:00:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -893193,7 +893251,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-12T00:57:19+09:00"
+      "slowAt": "2026-11-12T01:00:19+09:00"
     },
     "dc": {
       "doneIds": [
@@ -917712,7 +917770,9 @@
         "4403277270",
         "4403277403",
         "4403277505",
-        "4403278217"
+        "4403278217",
+        "4403280024",
+        "4403280183"
       ]
     },
     "keep": "v2",
