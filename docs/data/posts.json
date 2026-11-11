@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:52:20+00:00",
+  "updatedAt": "2026-11-11T23:56:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -906301,6 +906301,25 @@
       "firstSeenAt": "2026-11-11T23:52:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105685,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%A7%88%EA%B3%A1-%ED%98%BC%EC%88%A0%EB%B0%94-%EC%B6%94%EC%B2%9C-%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94-3cugivns",
+      "title": "마곡 혼술바 추천 해주세요.",
+      "excerpt": "오늘 가려는데 사람 넘 없을까요",
+      "author": "l*********",
+      "company": "한국공항보안",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%88%EA%B3%A1-%ED%98%BC%EC%88%A0%EB%B0%94-%EC%B6%94%EC%B2%9C-%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94-3cugivns",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T08:55:12+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-11T23:56:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -906485,7 +906504,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T08:53:25+09:00"
+      "slowAt": "2026-11-12T08:56:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -920086,7 +920105,8 @@
         "6676885",
         "6676890",
         "6676895",
-        "6676901"
+        "6676901",
+        "6676905"
       ]
     },
     "blind": {
