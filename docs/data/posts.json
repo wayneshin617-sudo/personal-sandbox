@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T17:41:13+00:00",
+  "updatedAt": "2026-11-11T17:43:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -903242,6 +903242,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-11T17:41:13+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105530,
+      "source": "dc",
+      "externalId": "cmt-11013722",
+      "title": "남자들 다 허우대 좋네",
+      "excerpt": "우리들이 좋아하는 단체 키짤",
+      "author": "ㅇㅅㅇ",
+      "company": "",
+      "ip": "39.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676129&page=4#cmt_11013722",
+      "postedLabel": "11.12 01:52:25",
+      "postedAt": "2026-11-12T01:52:25+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:43:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -903426,7 +903446,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T02:40:54+09:00"
+      "slowAt": "2026-11-12T02:43:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -916866,6 +916886,8 @@
         "6676107",
         "6676108",
         "6676117",
+        "6676129",
+        "6676133",
         "6676137",
         "6676140",
         "6676146",
