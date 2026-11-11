@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:19:52+00:00",
+  "updatedAt": "2026-11-11T01:22:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -884901,6 +884901,46 @@
       "firstSeenAt": "2026-11-11T01:19:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104598,
+      "source": "dc",
+      "externalId": "cmt-11011305",
+      "title": "ㅋㅋ 이사람 여자 주방오니까 해보세요 잘하실거같은데 ㅇㅈㄹ ㅋㅋ",
+      "excerpt": "저기에다 흰쌀밥 비벼먹고 싶은거 나만그럼?",
+      "author": "inspect2631",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669533&page=2#cmt_11011305",
+      "postedLabel": "11.11 09:23:44",
+      "postedAt": "2026-11-11T09:23:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:22:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104599,
+      "source": "dc",
+      "externalId": "cmt-11011306",
+      "title": "구토유발자",
+      "excerpt": "저기에다 흰쌀밥 비벼먹고 싶은거 나만그럼?",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669533&page=2#cmt_11011306",
+      "postedLabel": "11.11 09:23:51",
+      "postedAt": "2026-11-11T09:23:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:22:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -885012,7 +885052,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-11T10:19:35+09:00"
+      "slowAt": "2026-11-11T10:22:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -898140,6 +898180,7 @@
         "6669521",
         "6669526",
         "6669529",
+        "6669533",
         "6669596",
         "6669608"
       ]
