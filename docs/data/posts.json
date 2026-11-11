@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T08:03:40+00:00",
+  "updatedAt": "2026-11-11T08:04:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -887396,6 +887396,46 @@
       "firstSeenAt": "2026-11-11T08:03:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104725,
+      "source": "blind",
+      "externalId": "cmt-460670343",
+      "title": "SBS PLAY",
+      "excerpt": "얘덜아 집에 테레비 없는데",
+      "author": "박***",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%98%EB%8D%9C%EC%95%84-%EC%A7%91%EC%97%90-%ED%85%8C%EB%A0%88%EB%B9%84-%EC%97%86%EB%8A%94%EB%8D%B0-hmksp16c#460670343",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T17:04:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T08:04:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104726,
+      "source": "blind",
+      "externalId": "cmt-460670270",
+      "title": "아 그건 알지 근데 다음날 올라오거나 끝나고 올라오지 않아??",
+      "excerpt": "얘덜아 집에 테레비 없는데",
+      "author": "!********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%98%EB%8D%9C%EC%95%84-%EC%A7%91%EC%97%90-%ED%85%8C%EB%A0%88%EB%B9%84-%EC%97%86%EB%8A%94%EB%8D%B0-hmksp16c#460670270",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T17:04:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T08:04:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -900785,6 +900825,7 @@
         "6670240",
         "6670241",
         "6670247",
+        "6670250",
         "6670317",
         "6670321",
         "6670326",
