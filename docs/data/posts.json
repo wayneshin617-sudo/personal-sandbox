@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:51:51+00:00",
+  "updatedAt": "2026-11-11T01:53:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -885317,6 +885317,64 @@
       "comments": 0,
       "firstSeenAt": "2026-11-11T01:51:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104619,
+      "source": "dc",
+      "externalId": "cmt-11011400",
+      "title": "씨발 아침부터 ㅂㅅ같은… - dc App",
+      "excerpt": "역대 여출중 외모 몸매 피부 색기 동안 1위 여출",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669415&page=3#cmt_11011400",
+      "postedLabel": "11.11 10:12:28",
+      "postedAt": "2026-11-11T10:12:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:53:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104620,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0%EC%B2%98%EB%9F%BC-%EB%AD%94%EA%B0%80%EC%97%90-%EA%B3%BC%EB%AA%B0%EC%9E%85-%EB%90%98%EC%96%B4%EC%9E%88%EC%9C%BC%EB%A9%B4-4mbynxks",
+      "title": "상철처럼 뭔가에 과몰입 되어있으면",
+      "excerpt": "아스퍼거 성향 있어보이는데 아닌가? 6살짜리 애 마냥 자기중심적이라 남 입장 생각못하는게 사회성도 너무 떨어져보이고;;;;;",
+      "author": "j*******",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%B2%98%EB%9F%BC-%EB%AD%94%EA%B0%80%EC%97%90-%EA%B3%BC%EB%AA%B0%EC%9E%85-%EB%90%98%EC%96%B4%EC%9E%88%EC%9C%BC%EB%A9%B4-4mbynxks",
+      "postedLabel": "2분",
+      "postedAt": "2026-11-11T10:51:34+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-11T01:53:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104621,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%EB%82%98%EC%8F%A0-%EB%B0%A9%EC%98%81%ED%95%98%EB%8A%94-%EB%82%A0-qnx8y1nz",
+      "title": "오늘은 나쏠 방영하는 날",
+      "excerpt": "나쏠이 저녁 10시 반에 방영하면 나는 오전 10시 반부터 행복할거야 벌써부터 기다려지네요 출연자들 악플하지 말아요 우리에게 즐거움을 주는 소중한 존재니까 맥주사서 퇴근해야지",
+      "author": "퇴********",
+      "company": "농협금융지주",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%EB%82%98%EC%8F%A0-%EB%B0%A9%EC%98%81%ED%95%98%EB%8A%94-%EB%82%A0-qnx8y1nz",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T10:53:34+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-11T01:53:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -885500,7 +885558,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T10:50:35+09:00"
+      "slowAt": "2026-11-11T10:53:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -898581,6 +898639,7 @@
         "6669572",
         "6669575",
         "6669577",
+        "6669583",
         "6669596",
         "6669608",
         "6669610",
@@ -898592,7 +898651,8 @@
         "6669626",
         "6669627",
         "6669633",
-        "6669634"
+        "6669634",
+        "6669638"
       ]
     },
     "blind": {
