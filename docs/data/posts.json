@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:59:03+00:00",
+  "updatedAt": "2026-11-11T17:00:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -900677,6 +900677,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-11T16:59:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105401,
+      "source": "qoo",
+      "externalId": "cmt-4403279913",
+      "title": "길가는 남자들만 봐도 잘생긴편",
+      "excerpt": "난 영호가 잘생긴건 모르겠음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403277403#4403279913",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T00:59:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:00:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105402,
+      "source": "blind",
+      "externalId": "cmt-460740968",
+      "title": "했다고 했는데?",
+      "excerpt": "순자 성형 안했다고 하는데",
+      "author": "보**",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%84%B1%ED%98%95-%EC%95%88%ED%96%88%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-d37fkums#460740968",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T01:59:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:00:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105403,
+      "source": "blind",
+      "externalId": "cmt-460741040",
+      "title": "눈만 한듯",
+      "excerpt": "순자 성형 안했다고 하는데",
+      "author": "이****",
+      "company": "ex-교보증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%84%B1%ED%98%95-%EC%95%88%ED%96%88%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-d37fkums#460741040",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T02:00:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:00:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -900788,7 +900848,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T01:57:26+09:00"
+      "slowAt": "2026-11-12T02:00:03+09:00"
     },
     "ig": {
       "doneIds": [
@@ -914307,7 +914367,8 @@
         "6676186",
         "6676188",
         "6676193",
-        "6676195"
+        "6676195",
+        "6676196"
       ]
     },
     "blind": {
@@ -916616,6 +916677,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%82%AC%ED%9A%8C%EC%83%9D%ED%99%9C-%EC%9E%98-%ED%95%98%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B-bo70c74f",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%83%9D%EA%B0%81%ED%95%A0%EC%88%98%EB%A1%9D-%EC%86%8C%EB%A6%84%EB%8F%8B%EB%84%A4-sepdagg0",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%84%B1%EA%B2%A9-%EC%A2%8B%EC%95%84%EB%B3%B4%EC%9D%B8%EB%8B%A4%EB%8A%94%EB%8D%B0-%EC%9E%98-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4-y1gzw3ah",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EC%84%B1%ED%98%95-%EC%95%88%ED%96%88%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-d37fkums",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%84%B8%EB%8B%A4-yi77owm6",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%8A%A4%ED%82%AC%EC%93%B0%EB%84%A4-7cd1l215",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%8A%AC%EC%8A%AC-%EC%84%B1%EA%B2%A9-%EB%82%98%EC%98%A4%EB%A0%A4%EB%82%98-eszionvr",
