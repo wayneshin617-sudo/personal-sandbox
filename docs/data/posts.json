@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T03:14:08+00:00",
+  "updatedAt": "2026-11-11T03:18:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -886187,6 +886187,25 @@
       "firstSeenAt": "2026-11-11T03:14:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104663,
+      "source": "dc",
+      "externalId": "6669794",
+      "title": "바이럴도 바이럴 나름이지",
+      "excerpt": "",
+      "author": "O0",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669794&page=1",
+      "postedLabel": "12:16",
+      "postedAt": "2026-11-11T12:16:50+09:00",
+      "views": 11,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T03:18:13+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -886370,7 +886389,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T12:15:13+09:00"
+      "slowAt": "2026-11-11T12:17:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -899493,6 +899512,7 @@
         "6669672",
         "6669673",
         "6669674",
+        "6669676",
         "6669677",
         "6669681",
         "6669684",
