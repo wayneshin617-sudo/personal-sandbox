@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:23:51+00:00",
+  "updatedAt": "2026-11-11T01:26:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -884981,6 +884981,26 @@
       "firstSeenAt": "2026-11-11T01:23:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104602,
+      "source": "dc",
+      "externalId": "cmt-11011344",
+      "title": "34기가 존잼은 아니니 이꼴이야",
+      "excerpt": "34기 존나 재밌는데 31기에 밀려서 분하다",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669539&page=2#cmt_11011344",
+      "postedLabel": "11.11 09:33:38",
+      "postedAt": "2026-11-11T09:33:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:26:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -885164,7 +885184,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T10:23:34+09:00"
+      "slowAt": "2026-11-11T10:26:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -898225,6 +898245,7 @@
         "6669533",
         "6669534",
         "6669536",
+        "6669539",
         "6669596",
         "6669608",
         "6669610"
