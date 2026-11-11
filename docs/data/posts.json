@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:32:52+00:00",
+  "updatedAt": "2026-11-11T01:33:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -885081,6 +885081,25 @@
       "firstSeenAt": "2026-11-11T01:32:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104607,
+      "source": "dc",
+      "externalId": "6669622",
+      "title": "34옥순 개이쁨",
+      "excerpt": "",
+      "author": "전문약사",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669622&page=1",
+      "postedLabel": "10:33",
+      "postedAt": "2026-11-11T10:33:32+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:33:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -898336,7 +898355,8 @@
         "6669608",
         "6669610",
         "6669613",
-        "6669615"
+        "6669615",
+        "6669619"
       ]
     },
     "blind": {
