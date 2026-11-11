@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T02:39:50+00:00",
+  "updatedAt": "2026-11-11T02:41:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -885912,6 +885912,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-11T02:39:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104649,
+      "source": "dc",
+      "externalId": "6669720",
+      "title": "여기 북토크 신청한거 올린 사람 있었자나",
+      "excerpt": "",
+      "author": "O0",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669720&page=1",
+      "postedLabel": "11:39",
+      "postedAt": "2026-11-11T11:39:38+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T02:41:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -886023,7 +886042,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-11T11:38:12+09:00"
+      "slowAt": "2026-11-11T11:40:55+09:00"
     },
     "ig": {
       "doneIds": [
@@ -899222,7 +899241,8 @@
         "6669695",
         "6669703",
         "6669709",
-        "6669714"
+        "6669714",
+        "6669718"
       ]
     },
     "blind": {
