@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:04:36+00:00",
+  "updatedAt": "2026-11-11T16:05:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -893398,6 +893398,65 @@
       "firstSeenAt": "2026-11-11T16:04:36+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105035,
+      "source": "qoo",
+      "externalId": "4403283213",
+      "title": "영철이 초반부에 영호같은 태도였으면",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403283213",
+      "postedLabel": "01:04",
+      "postedAt": "2026-11-12T01:04:00+09:00",
+      "views": 40,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:05:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105036,
+      "source": "blind",
+      "externalId": "cmt-460737020",
+      "title": "1. 일반적이지 않은 본인만의 선을 만들어서, 그 선을 넘는 사람이 있으면 지 맘속의 데스노트에 이름적음 2. 착한아이 컴플렉스 3. 연애할 때 유쾌해야할 부분에서 혼자 심각함",
+      "excerpt": "씹프피 싫은 이유 뭐야",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%94%B9%ED%94%84%ED%94%BC-%EC%8B%AB%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EB%AD%90%EC%95%BC-oh3heb2p#460737020",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:05:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:05:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105037,
+      "source": "blind",
+      "externalId": "cmt-460737046",
+      "title": "헐 셧터맨?? ㅋㅋㅋ",
+      "excerpt": "영자 가스라이팅 잘하는 듯 영철이랑 현커아냐?",
+      "author": "l*********",
+      "company": "파라다이스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90-%EA%B0%80%EC%8A%A4%EB%9D%BC%EC%9D%B4%ED%8C%85-%EC%9E%98%ED%95%98%EB%8A%94-%EB%93%AF-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%84%EB%83%90-alfm8f3b#460737046",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:05:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:05:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -906941,6 +907000,8 @@
         "6675932",
         "6675937",
         "6675938",
+        "6675939",
+        "6675942",
         "6675943"
       ]
     },
@@ -910252,6 +910313,7 @@
         "/kr/post/%EC%98%81%EC%9E%90%ED%91%9C%EC%A0%95%EB%B4%90%EB%9D%BC-%E3%85%8B%E3%85%8B%E3%85%8B-dryu7jv4",
         "/kr/post/%EC%98%81%EC%9E%90%ED%95%9C%ED%85%8C-%EC%9E%90%EC%95%84%EC%9D%98%ED%83%81%ED%95%9C-%EC%95%A0%EB%93%A4-%EB%A7%8E%EB%84%A4-utf5byg3",
         "/kr/post/%EC%98%81%EC%9E%90-%E3%84%B7%E3%84%B7%E3%84%B7%E3%84%B7-wzja5yyd",
+        "/kr/post/%EC%98%81%EC%9E%90-%EA%B0%80%EC%8A%A4%EB%9D%BC%EC%9D%B4%ED%8C%85-%EC%9E%98%ED%95%98%EB%8A%94-%EB%93%AF-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%84%EB%83%90-alfm8f3b",
         "/kr/post/%EC%98%81%EC%9E%90-%EA%B0%99%EC%9D%80-%EB%A7%88%EC%9D%B8%EB%93%9C%EA%B0%80-2zoxm68s",
         "/kr/post/%EC%98%81%EC%9E%90-%EA%B0%99%EC%9D%80-%EB%B6%80%EB%A5%98%EB%8A%94-yh6aafk3",
         "/kr/post/%EC%98%81%EC%9E%90-%EA%B0%99%EC%9D%80-%EC%9E%87%EB%AA%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%A0%EC%B3%90-ka5zy74x",
@@ -918116,7 +918178,8 @@
         "4403281445",
         "4403282153",
         "4403282713",
-        "4403282926"
+        "4403282926",
+        "4403283213"
       ]
     },
     "keep": "v2",
