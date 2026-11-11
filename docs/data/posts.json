@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:17:36+00:00",
+  "updatedAt": "2026-11-11T16:18:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -894525,6 +894525,45 @@
       "firstSeenAt": "2026-11-11T16:17:36+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105092,
+      "source": "qoo",
+      "externalId": "4403291755",
+      "title": "ㅅㅍ 해줄 덬",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403291755",
+      "postedLabel": "01:17",
+      "postedAt": "2026-11-12T01:17:00+09:00",
+      "views": 18,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:18:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105093,
+      "source": "blind",
+      "externalId": "cmt-460738305",
+      "title": "영자는 절대 때려죽여도 아님",
+      "excerpt": "영자 가스라이팅 잘하는 듯 영철이랑 현커아냐?",
+      "author": "i*******",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90-%EA%B0%80%EC%8A%A4%EB%9D%BC%EC%9D%B4%ED%8C%85-%EC%9E%98%ED%95%98%EB%8A%94-%EB%93%AF-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%ED%98%84%EC%BB%A4%EC%95%84%EB%83%90-alfm8f3b#460738305",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:18:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:18:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -894708,7 +894747,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-12T01:15:18+09:00"
+      "slowAt": "2026-11-12T01:18:19+09:00"
     },
     "dc": {
       "doneIds": [
@@ -908084,7 +908123,8 @@
         "6675987",
         "6675988",
         "6675990",
-        "6675997"
+        "6675997",
+        "6676002"
       ]
     },
     "blind": {
@@ -919276,7 +919316,8 @@
         "4403290105",
         "4403290327",
         "4403290484",
-        "4403290492"
+        "4403290492",
+        "4403291755"
       ]
     },
     "keep": "v2",
