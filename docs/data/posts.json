@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T17:18:49+00:00",
+  "updatedAt": "2026-11-11T17:20:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -902096,6 +902096,26 @@
       "firstSeenAt": "2026-11-11T17:18:49+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105472,
+      "source": "qoo",
+      "externalId": "cmt-4403293216",
+      "title": "현숙 간만에 맘에 드는 여출인데 이젠 솔로로 나가라 소리만 나옴",
+      "excerpt": "현숙 욕먹은거 내가 다 억울 ㅠㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403290105#4403293216",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T01:19:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:20:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -902280,7 +902300,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T02:17:11+09:00"
+      "slowAt": "2026-11-12T02:19:48+09:00"
     },
     "dc": {
       "doneIds": [
@@ -915746,7 +915766,9 @@
         "6676247",
         "6676248",
         "6676256",
-        "6676260"
+        "6676260",
+        "6676262",
+        "6676268"
       ]
     },
     "blind": {
