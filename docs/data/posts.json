@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:24:51+00:00",
+  "updatedAt": "2026-11-11T16:25:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -895799,6 +895799,85 @@
       "firstSeenAt": "2026-11-11T16:24:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105156,
+      "source": "blind",
+      "externalId": "cmt-460738274",
+      "title": "제작진 실수로 영상 잠깐 올라왔다 내려갔대. 영철-정숙 랜데 예정.",
+      "excerpt": "개인적으론 정숙이 같은 스타일 넘 별로",
+      "author": "l*********",
+      "company": "파라다이스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%A0-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%84%98-%EB%B3%84%EB%A1%9C-icn8gz3y#460738274",
+      "postedLabel": "7분",
+      "postedAt": "2026-11-12T01:18:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:25:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105157,
+      "source": "blind",
+      "externalId": "cmt-460738387",
+      "title": "헐...",
+      "excerpt": "개인적으론 정숙이 같은 스타일 넘 별로",
+      "author": "약****** 작성자",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%A0-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%84%98-%EB%B3%84%EB%A1%9C-icn8gz3y#460738387",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-12T01:19:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:25:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105158,
+      "source": "blind",
+      "externalId": "cmt-460738430",
+      "title": "성격 좋은건 옥순임 정숙은 피곤한거고",
+      "excerpt": "개인적으론 정숙이 같은 스타일 넘 별로",
+      "author": "약****** 작성자",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%A0-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%84%98-%EB%B3%84%EB%A1%9C-icn8gz3y#460738430",
+      "postedLabel": "5분",
+      "postedAt": "2026-11-12T01:20:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:25:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105159,
+      "source": "qoo",
+      "externalId": "4403297011",
+      "title": "난 현숙이랑 영호 대화 좀 더 해보면 그나마",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403297011",
+      "postedLabel": "01:25",
+      "postedAt": "2026-11-12T01:25:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:25:35+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -895910,7 +895989,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T01:22:19+09:00"
+      "slowAt": "2026-11-12T01:25:19+09:00"
     },
     "ig": {
       "doneIds": [
@@ -909308,6 +909387,7 @@
         "6670589",
         "6670594",
         "6670596",
+        "6675561",
         "6675758",
         "6675761",
         "6675763",
@@ -909368,7 +909448,8 @@
         "6676017",
         "6676018",
         "6676029",
-        "6676033"
+        "6676033",
+        "6676040"
       ]
     },
     "blind": {
@@ -920570,7 +920651,8 @@
         "4403290484",
         "4403290492",
         "4403291755",
-        "4403294045"
+        "4403294045",
+        "4403297011"
       ]
     },
     "keep": "v2",
