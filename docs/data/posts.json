@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:11:37+00:00",
+  "updatedAt": "2026-11-11T16:12:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -893711,6 +893711,65 @@
       "firstSeenAt": "2026-11-11T16:11:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105051,
+      "source": "dc",
+      "externalId": "6675984",
+      "title": "ㅋㅋㅋ못본사람?",
+      "excerpt": "",
+      "author": "나ㅡ나",
+      "company": "",
+      "ip": "120.142",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6675984&page=1",
+      "postedLabel": "01:11",
+      "postedAt": "2026-11-12T01:11:42+09:00",
+      "views": 32,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:12:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105052,
+      "source": "blind",
+      "externalId": "cmt-460737677",
+      "title": "ㄴㄴ",
+      "excerpt": "개인적으론 정숙이 같은 스타일 넘 별로",
+      "author": "약****** 작성자",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%A0-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%84%98-%EB%B3%84%EB%A1%9C-icn8gz3y#460737677",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:12:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:12:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105053,
+      "source": "blind",
+      "externalId": "cmt-460737705",
+      "title": "개피곤하고 싫음",
+      "excerpt": "개인적으론 정숙이 같은 스타일 넘 별로",
+      "author": "약****** 작성자",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%A0-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%84%98-%EB%B3%84%EB%A1%9C-icn8gz3y#460737705",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:12:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:12:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -893894,7 +893953,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-12T01:09:18+09:00"
+      "slowAt": "2026-11-12T01:12:18+09:00"
     },
     "dc": {
       "doneIds": [
@@ -907264,7 +907323,9 @@
         "6675967",
         "6675972",
         "6675973",
-        "6675975"
+        "6675975",
+        "6675978",
+        "6675981"
       ]
     },
     "blind": {
