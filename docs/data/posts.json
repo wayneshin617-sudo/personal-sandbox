@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:25:52+00:00",
+  "updatedAt": "2026-11-11T23:26:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -906002,6 +906002,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-11T23:25:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105670,
+      "source": "blind",
+      "externalId": "cmt-460756480",
+      "title": "이건 사바사같음",
+      "excerpt": "상철 성격",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9-s46modtw#460756480",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T08:26:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:26:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -906186,7 +906206,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T08:23:33+09:00"
+      "slowAt": "2026-11-12T08:26:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -919718,6 +919738,7 @@
         "6676580",
         "6676587",
         "6676588",
+        "6676594",
         "6676600",
         "6676608",
         "6676610",
@@ -919744,6 +919765,7 @@
         "6676721",
         "6676725",
         "6676727",
+        "6676728",
         "6676732",
         "6676747",
         "6676754",
@@ -919763,7 +919785,8 @@
         "6676805",
         "6676807",
         "6676811",
-        "6676823"
+        "6676823",
+        "6676829"
       ]
     },
     "blind": {
@@ -921799,6 +921822,7 @@
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-3y4nsxbk",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EC%82%B0%EC%A7%81-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9D%BC%EB%8A%94%EB%94%94-7wbwspbm",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9%EA%B4%9C%EC%B0%AE%EC%A7%80%EC%95%8A%EB%82%98-nufgulwq",
+        "/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9-s46modtw",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%95%84%EC%9E%AC-fmkljrwz",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%95%84%EC%A7%81-%EC%84%B1%EA%B3%BC%EA%B8%89-%EB%AA%87%EC%96%B5-%EB%AA%BB%EB%B0%9B%EC%9D%80%EA%B1%B0-%EC%95%84%EB%8B%98-r42b5d5t",
         "/kr/post/%EC%83%81%EC%B2%A0-%EC%96%B5%EC%96%91%EC%9D%80-%EB%AC%B4%EC%8A%A8-%EC%82%AC%ED%88%AC%EB%A6%AC%EC%95%BC-xeafz1vx",
@@ -923722,6 +923746,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%86%94%EC%A7%81%ED%9E%88-%EC%9E%98%EC%83%9D%EC%9D%B4%EC%9E%96%EC%95%84-8lbz8381",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%88%98%EC%98%81%EA%B0%95%EC%82%AC-%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%9E%84-xafiywjm",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%88%98%ED%98%B8%EB%8B%A8%EB%93%A4-%EB%B0%A9%EC%86%A1%ED%95%A0%EC%88%98%EB%A1%9D-%EC%A1%B0%EC%9A%A9%ED%95%B4%EC%A7%80%EB%84%A4-6njxla6l",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%89%B4%EB%93%9C%EC%B3%A4%EB%8D%98-%EC%82%AC%EB%9E%8C%EC%9D%B8%EB%8D%B0-6hidq1ev",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%89%B4%EB%93%9C-%EC%99%A4%EC%BC%80-%EB%A7%8E%EB%83%90-8ctn0gel",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%8A%A4%ED%83%80%EC%9D%BC-1g7a0i32",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%8A%A4%ED%86%A0%EC%BB%A4%EC%95%BC-r44chu4f",
