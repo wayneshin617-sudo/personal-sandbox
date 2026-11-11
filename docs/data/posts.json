@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T02:27:26+00:00",
+  "updatedAt": "2026-11-11T02:28:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -885794,6 +885794,25 @@
       "firstSeenAt": "2026-11-11T02:27:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104643,
+      "source": "dc",
+      "externalId": "6669693",
+      "title": "나솔정도면",
+      "excerpt": "",
+      "author": "지알씨",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669693&page=1",
+      "postedLabel": "11:27",
+      "postedAt": "2026-11-11T11:27:44+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T02:28:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -885977,7 +885996,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T11:25:48+09:00"
+      "slowAt": "2026-11-11T11:28:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -899097,7 +899116,8 @@
         "6669681",
         "6669684",
         "6669686",
-        "6669687"
+        "6669687",
+        "6669690"
       ]
     },
     "blind": {
