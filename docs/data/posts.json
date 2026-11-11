@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:01:49+00:00",
+  "updatedAt": "2026-11-11T23:02:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -905490,6 +905490,26 @@
       "firstSeenAt": "2026-11-11T23:01:49+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105644,
+      "source": "qoo",
+      "externalId": "cmt-4403333932",
+      "title": "@6 나도 이거 같은데.. 영철 말 듣고 현숙 표정 바로 굳어졌잖아",
+      "excerpt": "현숙이 우는 이유가 영호 때문 같다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403281445#4403333932",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T02:42:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:02:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -905674,7 +905694,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T07:59:30+09:00"
+      "slowAt": "2026-11-12T08:02:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -919225,7 +919245,8 @@
         "6676761",
         "6676762",
         "6676766",
-        "6676770"
+        "6676770",
+        "6676775"
       ]
     },
     "blind": {
