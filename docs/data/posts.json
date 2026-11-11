@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:58:52+00:00",
+  "updatedAt": "2026-11-11T01:59:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -885554,6 +885554,46 @@
       "firstSeenAt": "2026-11-11T01:58:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104631,
+      "source": "dc",
+      "externalId": "cmt-11011390",
+      "title": "오른쪽은 개인방송임? 방송카메라빨이 아니고??",
+      "excerpt": "이거 와꾸 실화임?",
+      "author": "inspect2631",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669592&page=1#cmt_11011390",
+      "postedLabel": "11.11 10:01:14",
+      "postedAt": "2026-11-11T10:01:14+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:59:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104632,
+      "source": "blind",
+      "externalId": "cmt-460628218",
+      "title": "안주 뭐할거야?",
+      "excerpt": "오늘은 나쏠 방영하는 날",
+      "author": "힘내는 쿼카킁카🦫",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%EB%82%98%EC%8F%A0-%EB%B0%A9%EC%98%81%ED%95%98%EB%8A%94-%EB%82%A0-qnx8y1nz#460628218",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T10:59:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:59:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -885737,7 +885777,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T10:56:34+09:00"
+      "slowAt": "2026-11-11T10:59:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -898821,6 +898861,7 @@
         "6669577",
         "6669583",
         "6669588",
+        "6669592",
         "6669596",
         "6669608",
         "6669610",
