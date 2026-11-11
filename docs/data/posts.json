@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T17:21:25+00:00",
+  "updatedAt": "2026-11-11T17:22:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -902155,6 +902155,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-11T17:21:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105475,
+      "source": "qoo",
+      "externalId": "cmt-4403294992",
+      "title": "@2 영식 영숙이 서로한테?!?!",
+      "excerpt": "ㅅㅍ 해줄 덬",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403291755#4403294992",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T01:22:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:22:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105476,
+      "source": "dc",
+      "externalId": "6676281",
+      "title": "난 골든 영숙이 젤 좋음",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676281&page=1",
+      "postedLabel": "02:21",
+      "postedAt": "2026-11-12T02:21:17+09:00",
+      "views": 23,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:22:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105477,
+      "source": "dc",
+      "externalId": "6676283",
+      "title": "난 얘가 젤 무서움",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676283&page=1",
+      "postedLabel": "02:22",
+      "postedAt": "2026-11-12T02:22:10+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:22:43+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -902339,7 +902397,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T02:19:48+09:00"
+      "slowAt": "2026-11-12T02:22:24+09:00"
     },
     "dc": {
       "doneIds": [
