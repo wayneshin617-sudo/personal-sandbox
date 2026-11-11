@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:14:51+00:00",
+  "updatedAt": "2026-11-11T01:19:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -884881,6 +884881,26 @@
       "firstSeenAt": "2026-11-11T01:14:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104597,
+      "source": "dc",
+      "externalId": "cmt-11011414",
+      "title": "영수 아까워",
+      "excerpt": "영수 X 영숙",
+      "author": "뽀삐",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669608&page=1#cmt_11011414",
+      "postedLabel": "11.11 10:19:16",
+      "postedAt": "2026-11-11T10:19:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:19:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -884992,7 +885012,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-11T10:16:35+09:00"
+      "slowAt": "2026-11-11T10:19:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -898112,6 +898132,7 @@
         "6669450",
         "6669452",
         "6669458",
+        "6669460",
         "6669463",
         "6669512",
         "6669514",
