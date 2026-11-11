@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:42:37+00:00",
+  "updatedAt": "2026-11-11T16:43:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -898080,6 +898080,105 @@
       "firstSeenAt": "2026-11-11T16:42:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105271,
+      "source": "qoo",
+      "externalId": "cmt-4403267230",
+      "title": "잘어울려",
+      "excerpt": "영호 솔직히 그나마 옥순한테 생태임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403265992#4403267230",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T00:42:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:43:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105272,
+      "source": "qoo",
+      "externalId": "cmt-4403267607",
+      "title": "걍 편해서 그런득",
+      "excerpt": "영호 솔직히 그나마 옥순한테 생태임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403265992#4403267607",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T00:43:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:43:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105273,
+      "source": "qoo",
+      "externalId": "cmt-4403267644",
+      "title": "영식이랑 영숙 같이 쓰던데",
+      "excerpt": "슈데 누가 땄는지 다 나왔어?? ㅅㅍ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403265998#4403267644",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T00:43:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:43:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105274,
+      "source": "dc",
+      "externalId": "6676126",
+      "title": "싸우면 누가이길까 아카츠키 vs 칠무해",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676126&page=1",
+      "postedLabel": "01:42",
+      "postedAt": "2026-11-12T01:42:49+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:43:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105275,
+      "source": "blind",
+      "externalId": "cmt-460740003",
+      "title": "영수보다는!",
+      "excerpt": "영수 메타인지 뭐임……",
+      "author": "l******* 작성자",
+      "company": "CJ",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80-%EB%AD%90%EC%9E%84%E2%80%A6%E2%80%A6-g72z4wds#460740003",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:43:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:43:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -898191,7 +898290,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T01:40:19+09:00"
+      "slowAt": "2026-11-12T01:43:19+09:00"
     },
     "ig": {
       "doneIds": [
@@ -911690,7 +911789,8 @@
         "6676101",
         "6676104",
         "6676107",
-        "6676108"
+        "6676108",
+        "6676117"
       ]
     },
     "blind": {
