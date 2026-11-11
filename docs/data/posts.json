@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:18:51+00:00",
+  "updatedAt": "2026-11-11T23:19:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -905807,6 +905807,26 @@
       "firstSeenAt": "2026-11-11T23:18:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105660,
+      "source": "dc",
+      "externalId": "cmt-11014283",
+      "title": "재미도 없서 - dc App",
+      "excerpt": "영철 말은 존나 많은데 재미는 모르겠다 ㅋㅋㅋㅋㅋ",
+      "author": "뚱보",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676647&page=3#cmt_11014283",
+      "postedLabel": "11.12 06:24:37",
+      "postedAt": "2026-11-12T06:24:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:19:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -905918,7 +905938,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T08:16:33+09:00"
+      "slowAt": "2026-11-12T08:19:32+09:00"
     },
     "ig": {
       "doneIds": [
@@ -919531,6 +919551,7 @@
         "6676630",
         "6676635",
         "6676645",
+        "6676647",
         "6676668",
         "6676669",
         "6676670",
@@ -919558,7 +919579,8 @@
         "6676790",
         "6676796",
         "6676798",
-        "6676805"
+        "6676805",
+        "6676807"
       ]
     },
     "blind": {
