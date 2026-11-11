@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:12:51+00:00",
+  "updatedAt": "2026-11-11T01:14:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -884861,6 +884861,26 @@
       "firstSeenAt": "2026-11-11T01:12:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104596,
+      "source": "dc",
+      "externalId": "cmt-11011296",
+      "title": "근데 자기 회사임? 직원이 야근을 지맘대로 줄일수가 있나?",
+      "excerpt": "현업천재 순자.jpg",
+      "author": "inspect2631",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669521&page=2#cmt_11011296",
+      "postedLabel": "11.11 09:21:46",
+      "postedAt": "2026-11-11T09:21:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:14:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -885044,7 +885064,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T10:11:35+09:00"
+      "slowAt": "2026-11-11T10:14:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -898095,6 +898115,7 @@
         "6669512",
         "6669514",
         "6669516",
+        "6669521",
         "6669596"
       ]
     },
