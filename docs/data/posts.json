@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:31:52+00:00",
+  "updatedAt": "2026-11-11T23:35:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -906122,6 +906122,26 @@
       "firstSeenAt": "2026-11-11T23:31:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105676,
+      "source": "blind",
+      "externalId": "cmt-460757200",
+      "title": "그냥 아직 호기심 있는 정도인데 과했다고 봄 행동이 나쁜 건 아닌데 언제 말해야할지 모르는구나 싶었음 영철처럼 모든 걸 말로 뱉어야 되는 성격인가 생각함",
+      "excerpt": "상철 성격",
+      "author": "g******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9-s46modtw#460757200",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T08:34:33+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:35:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -906306,7 +906326,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T08:32:33+09:00"
+      "slowAt": "2026-11-12T08:35:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -919894,7 +919914,8 @@
         "6676835",
         "6676836",
         "6676840",
-        "6676848"
+        "6676848",
+        "6676854"
       ]
     },
     "blind": {
