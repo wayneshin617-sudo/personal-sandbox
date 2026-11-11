@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:57:51+00:00",
+  "updatedAt": "2026-11-11T01:58:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -885514,6 +885514,46 @@
       "firstSeenAt": "2026-11-11T01:57:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104629,
+      "source": "dc",
+      "externalId": "cmt-11011494",
+      "title": "얼마나 여자를 이성으로 생각안하면 ㅋㅋ",
+      "excerpt": "개념글 콧털 뽑는 장면 찐이야????",
+      "author": "000",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6669648&page=1#cmt_11011494",
+      "postedLabel": "11.11 10:57:41",
+      "postedAt": "2026-11-11T10:57:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:58:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104630,
+      "source": "blind",
+      "externalId": "cmt-460628134",
+      "title": "티비가 없어서 수요일에 행복해지지 못하는 나.. ㅠ",
+      "excerpt": "오늘은 나쏠 방영하는 날",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%EB%82%98%EC%8F%A0-%EB%B0%A9%EC%98%81%ED%95%98%EB%8A%94-%EB%82%A0-qnx8y1nz#460628134",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T10:58:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:58:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -885625,7 +885665,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-11T10:55:35+09:00"
+      "slowAt": "2026-11-11T10:58:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -898795,7 +898835,8 @@
         "6669634",
         "6669638",
         "6669641",
-        "6669646"
+        "6669646",
+        "6669648"
       ]
     },
     "blind": {
