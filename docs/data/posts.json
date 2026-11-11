@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:36:37+00:00",
+  "updatedAt": "2026-11-11T16:37:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -896907,6 +896907,85 @@
       "firstSeenAt": "2026-11-11T16:36:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105212,
+      "source": "qoo",
+      "externalId": "cmt-4403262820",
+      "title": "ㅇㅇ..영호 별로 마음 없어보이고 순자도 대충 눈치 챈 느낌",
+      "excerpt": "영호순자 ㅅㅍ 풀린 영상 봤는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403262531#4403262820",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T00:37:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:37:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105213,
+      "source": "qoo",
+      "externalId": "cmt-4403263007",
+      "title": "아 ㄴㅁㅇ 이 둘도 텐션 안 나옴",
+      "excerpt": "영호순자 ㅅㅍ 풀린 영상 봤는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403262531#4403263007",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T00:37:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:37:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105214,
+      "source": "dc",
+      "externalId": "6676098",
+      "title": "내 기준 나솔 역대 남출 1황",
+      "excerpt": "",
+      "author": "SM.ART",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676098&page=1",
+      "postedLabel": "01:36",
+      "postedAt": "2026-11-12T01:36:36+09:00",
+      "views": 24,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-11T16:37:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105215,
+      "source": "blind",
+      "externalId": "cmt-460739632",
+      "title": "옥순 영철 아니고? 현커썰 있다며",
+      "excerpt": "영호 옥순 본다",
+      "author": "i*******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%98%A5%EC%88%9C-%EB%B3%B8%EB%8B%A4-3mlztdev#460739632",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:37:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:37:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -897018,7 +897097,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T01:34:19+09:00"
+      "slowAt": "2026-11-12T01:37:18+09:00"
     },
     "ig": {
       "doneIds": [
@@ -910432,6 +910511,8 @@
         "6675676",
         "6675679",
         "6675680",
+        "6675686",
+        "6675688",
         "6675758",
         "6675761",
         "6675763",
@@ -910504,7 +910585,8 @@
         "6676075",
         "6676080",
         "6676085",
-        "6676087"
+        "6676087",
+        "6676098"
       ]
     },
     "blind": {
