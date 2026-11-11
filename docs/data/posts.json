@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T16:02:34+00:00",
+  "updatedAt": "2026-11-11T16:03:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -893223,6 +893223,85 @@
       "firstSeenAt": "2026-11-11T16:02:34+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105026,
+      "source": "qoo",
+      "externalId": "4403282153",
+      "title": "영상올라온거 랜덤데이트 결과만 보고 내용은 안봄ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403282153",
+      "postedLabel": "01:03",
+      "postedAt": "2026-11-12T01:03:00+09:00",
+      "views": 15,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:03:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105027,
+      "source": "blind",
+      "externalId": "cmt-460736846",
+      "title": "본인 얘기를 담백하게 하지 굳이",
+      "excerpt": "난 이번화에서 상철이 가장 영호랑 대비됐다고 봄",
+      "author": "약******",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%9D%B4%EB%B2%88%ED%99%94%EC%97%90%EC%84%9C-%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EC%98%81%ED%98%B8%EB%9E%91-%EB%8C%80%EB%B9%84%EB%90%90%EB%8B%A4%EA%B3%A0-%EB%B4%84-p1u5uccr#460736846",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:03:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:03:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105028,
+      "source": "blind",
+      "externalId": "cmt-460736869",
+      "title": "멘탈약하고 감정적이고 징징거린다?",
+      "excerpt": "씹프피 싫은 이유 뭐야",
+      "author": "!********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%94%B9%ED%94%84%ED%94%BC-%EC%8B%AB%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EB%AD%90%EC%95%BC-oh3heb2p#460736869",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:03:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:03:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105029,
+      "source": "blind",
+      "externalId": "cmt-460736798",
+      "title": "엥 랜덤 누군지 어케알아?",
+      "excerpt": "개인적으론 정숙이 같은 스타일 넘 별로",
+      "author": "약****** 작성자",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%A0-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%84%98-%EB%B3%84%EB%A1%9C-icn8gz3y#460736798",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T01:03:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T16:03:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -893406,7 +893485,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-12T01:00:19+09:00"
+      "slowAt": "2026-11-12T01:03:19+09:00"
     },
     "dc": {
       "doneIds": [
@@ -906762,7 +906841,8 @@
         "6675909",
         "6675918",
         "6675919",
-        "6675922"
+        "6675922",
+        "6675932"
       ]
     },
     "blind": {
@@ -917934,7 +918014,8 @@
         "4403280183",
         "4403280524",
         "4403280561",
-        "4403281445"
+        "4403281445",
+        "4403282153"
       ]
     },
     "keep": "v2",
