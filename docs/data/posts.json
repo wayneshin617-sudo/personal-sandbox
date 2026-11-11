@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T01:22:51+00:00",
+  "updatedAt": "2026-11-11T01:23:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -884941,6 +884941,46 @@
       "firstSeenAt": "2026-11-11T01:22:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104600,
+      "source": "qoo",
+      "externalId": "cmt-4402399159",
+      "title": "럭키황소니까 85아님? 소띠..",
+      "excerpt": "ㅇㄴㅅ 여기도 대박인거 같다.. 나솔에서 저랬으면 난리났을듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4402344953#4402399159",
+      "postedLabel": "",
+      "postedAt": "2026-11-11T09:23:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:23:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104601,
+      "source": "blind",
+      "externalId": "cmt-460624048",
+      "title": "ㄹㅇ 훨씬 예쁨 비교도 안됨",
+      "excerpt": "상철은 걍 예쁜여자가 좋은거야",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-%EA%B1%8D-%EC%98%88%EC%81%9C%EC%97%AC%EC%9E%90%EA%B0%80-%EC%A2%8B%EC%9D%80%EA%B1%B0%EC%95%BC-oxos63x6#460624048",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T10:23:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T01:23:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -885124,7 +885164,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T10:20:35+09:00"
+      "slowAt": "2026-11-11T10:23:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -898181,6 +898221,7 @@
         "6669526",
         "6669529",
         "6669533",
+        "6669534",
         "6669596",
         "6669608"
       ]
