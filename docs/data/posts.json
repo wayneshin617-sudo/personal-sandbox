@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T17:50:25+00:00",
+  "updatedAt": "2026-11-11T17:51:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -903542,6 +903542,26 @@
       "firstSeenAt": "2026-11-11T17:50:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105545,
+      "source": "blind",
+      "externalId": "cmt-460740537",
+      "title": "고기굽는간잽이",
+      "excerpt": "오늘의 시청소감",
+      "author": "삼***",
+      "company": "인천광역시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%8B%9C%EC%B2%AD%EC%86%8C%EA%B0%90-4uhox6kt#460740537",
+      "postedLabel": "1시간",
+      "postedAt": "2026-11-12T01:51:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T17:51:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -903726,7 +903746,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T02:48:47+09:00"
+      "slowAt": "2026-11-12T02:51:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -917220,7 +917240,9 @@
         "6676332",
         "6676336",
         "6676344",
-        "6676349"
+        "6676349",
+        "6676354",
+        "6676356"
       ]
     },
     "blind": {
