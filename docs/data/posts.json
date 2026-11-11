@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T15:48:37+00:00",
+  "updatedAt": "2026-11-11T15:49:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -891962,6 +891962,103 @@
       "comments": 0,
       "firstSeenAt": "2026-11-11T15:48:37+00:00",
       "isSeed": false
+    },
+    {
+      "id": 104961,
+      "source": "qoo",
+      "externalId": "4403271814",
+      "title": "영호 삼겹살 인터뷰에서 별로였던게 여자들 아직 더 알아갈 사람 있다는걸로",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403271814",
+      "postedLabel": "00:48",
+      "postedAt": "2026-11-12T00:48:00+09:00",
+      "views": 61,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-11T15:49:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104962,
+      "source": "qoo",
+      "externalId": "4403272172",
+      "title": "걍 영호 왜 나왔는지 모르겠음..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403272172",
+      "postedLabel": "00:49",
+      "postedAt": "2026-11-12T00:48:59+09:00",
+      "views": 16,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T15:49:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104963,
+      "source": "qoo",
+      "externalId": "4403272367",
+      "title": "난 영수가 젤 갠춘",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403272367",
+      "postedLabel": "00:49",
+      "postedAt": "2026-11-12T00:49:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T15:49:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 104964,
+      "source": "blind",
+      "externalId": "cmt-460735302",
+      "title": "다 죽어가노 ㅋㅋㅋㅋㅋ",
+      "excerpt": "영철이표정봨ㅋ 너무귀엽네",
+      "author": "l*****",
+      "company": "유나이티드파슬서비스코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%ED%91%9C%EC%A0%95%EB%B4%A8%E3%85%8B-%EB%84%88%EB%AC%B4%EA%B7%80%EC%97%BD%EB%84%A4-chi2ok7d#460735302",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T00:49:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T15:49:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 104965,
+      "source": "blind",
+      "externalId": "cmt-460735322",
+      "title": "싸우나",
+      "excerpt": "와 다담주가 랜덤데이트면",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80-%EB%8B%A4%EB%8B%B4%EC%A3%BC%EA%B0%80-%EB%9E%9C%EB%8D%A4%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A9%B4-tp84bvi7#460735322",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T00:49:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T15:49:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -892073,7 +892170,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T00:46:19+09:00"
+      "slowAt": "2026-11-12T00:49:19+09:00"
     },
     "ig": {
       "doneIds": [
@@ -905479,7 +905576,9 @@
         "6675809",
         "6675812",
         "6675814",
-        "6675826"
+        "6675826",
+        "6675827",
+        "6675831"
       ]
     },
     "blind": {
@@ -910022,6 +910121,7 @@
         "/kr/post/%EC%99%80-%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EC%82%AC%EB%8B%A8-bc2ocyfl",
         "/kr/post/%EC%99%80-%EB%82%98%EB%8A%94-%EC%98%81%EC%9E%90%EA%B0%80-%EC%99%9C%EC%9D%B4%EB%A6%AC-%EC%8B%AB%EC%A7%80-x2x464h3",
         "/kr/post/%EC%99%80-%EB%82%98-%EB%82%A8%EC%9E%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EB%84%88%EB%AC%B4-%EC%8B%AB%EC%9D%8C-3hnw7zyv",
+        "/kr/post/%EC%99%80-%EB%8B%A4%EB%8B%B4%EC%A3%BC%EA%B0%80-%EB%9E%9C%EB%8D%A4%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A9%B4-tp84bvi7",
         "/kr/post/%EC%99%80-%EC%82%AC%EA%B3%84-%EB%82%A8%EC%9E%90%EB%93%A4-%EC%96%BC%EA%B5%B4-xcsfn01a",
         "/kr/post/%EC%99%80-%EC%82%AC%EA%B3%84-%ED%9D%91%EB%88%84%EB%82%98-%EC%A1%B4%EC%98%88%EB%8B%A4-owq08lbq",
         "/kr/post/%EC%99%80-%EC%82%AC%EA%B3%84-%ED%9D%91%EC%9D%B8%EB%85%80-%EC%A1%B4%EC%98%88%EB%8B%A4-owq08lbq",
@@ -916558,6 +916658,14 @@
         "4403248947",
         "4403249251",
         "4403249264",
+        "4403249388",
+        "4403249472",
+        "4403249551",
+        "4403249843",
+        "4403249866",
+        "4403250785",
+        "4403250981",
+        "4403251131",
         "4403265998",
         "4403266729",
         "4403266922",
@@ -916572,8 +916680,12 @@
         "4403269425",
         "4403269847",
         "4403270479",
+        "4403270547",
         "4403270717",
-        "4403271083"
+        "4403270961",
+        "4403271083",
+        "4403271328",
+        "4403271814"
       ]
     },
     "keep": "v2",
