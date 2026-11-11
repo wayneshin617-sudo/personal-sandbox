@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:20:51+00:00",
+  "updatedAt": "2026-11-11T23:21:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -905887,6 +905887,45 @@
       "firstSeenAt": "2026-11-11T23:20:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105664,
+      "source": "dc",
+      "externalId": "cmt-11014157",
+      "title": "어릴때 이혼하고 새 살림 차렸으면 충분히 연락 안하고 지낼 수 있음",
+      "excerpt": "부모 중 한명이랑 절연한거 믿거인가?",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676588&page=4#cmt_11014157",
+      "postedLabel": "11.12 05:26:39",
+      "postedAt": "2026-11-12T05:26:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:21:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105665,
+      "source": "qoo",
+      "externalId": "4403383161",
+      "title": "어제꺼못봤는데 여전히 존잼이었어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403383161",
+      "postedLabel": "08:21",
+      "postedAt": "2026-11-12T08:21:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:21:49+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -919602,6 +919641,7 @@
         "6676573",
         "6676580",
         "6676587",
+        "6676588",
         "6676600",
         "6676608",
         "6676610",
@@ -919641,7 +919681,8 @@
         "6676796",
         "6676798",
         "6676805",
-        "6676807"
+        "6676807",
+        "6676811"
       ]
     },
     "blind": {
@@ -930900,7 +930941,8 @@
         "4403332534",
         "4403337959",
         "4403347832",
-        "4403372702"
+        "4403372702",
+        "4403383161"
       ]
     },
     "keep": "v2",
