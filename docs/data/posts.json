@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T22:54:47+00:00",
+  "updatedAt": "2026-11-11T22:56:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -905291,6 +905291,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-11T22:54:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105634,
+      "source": "blind",
+      "externalId": "cmt-460753930",
+      "title": "ㅋㅋㅋㅋ메이플짤을 여기서 보다니",
+      "excerpt": "영철이",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-rl8vcwkz#460753930",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T07:56:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T22:56:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -905475,7 +905495,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T07:53:30+09:00"
+      "slowAt": "2026-11-12T07:56:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -919014,6 +919034,7 @@
         "6676677",
         "6676682",
         "6676685",
+        "6676691",
         "6676732",
         "6676747",
         "6676754",
