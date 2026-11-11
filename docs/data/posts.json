@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:12:51+00:00",
+  "updatedAt": "2026-11-11T23:14:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -905608,6 +905608,86 @@
       "comments": null,
       "firstSeenAt": "2026-11-11T23:12:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105650,
+      "source": "blind",
+      "externalId": "cmt-460750991",
+      "title": "첫날은 보통 샵에서 받고오는 여출들이 많지않음?",
+      "excerpt": "현숙은 화장을 못하는거야 안하는거야",
+      "author": "i********",
+      "company": "국민연금공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%99%94%EC%9E%A5%EC%9D%84-%EB%AA%BB%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-%EC%95%88%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-g73aoeyz#460750991",
+      "postedLabel": "59분",
+      "postedAt": "2026-11-12T07:15:32+09:00",
+      "views": null,
+      "recommends": 8,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:14:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105651,
+      "source": "blind",
+      "externalId": "cmt-460752694",
+      "title": "윗분말도 맞고 다음 이야기도 이쁘던데 약간 달라지긴함 ㅋㅋ 피곤한지 외모로는 깔수없긴함 나솔 중에.. 개취로 갈릴순은 있지만 보편적으로 인기많을상",
+      "excerpt": "현숙은 화장을 못하는거야 안하는거야",
+      "author": "i*******",
+      "company": "KT",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%99%94%EC%9E%A5%EC%9D%84-%EB%AA%BB%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-%EC%95%88%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-g73aoeyz#460752694",
+      "postedLabel": "35분",
+      "postedAt": "2026-11-12T07:39:32+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:14:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105652,
+      "source": "blind",
+      "externalId": "cmt-460752728",
+      "title": "그래두 이쁘기만 하던데 피부표현 매끈함",
+      "excerpt": "현숙은 화장을 못하는거야 안하는거야",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%99%94%EC%9E%A5%EC%9D%84-%EB%AA%BB%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-%EC%95%88%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-g73aoeyz#460752728",
+      "postedLabel": "34분",
+      "postedAt": "2026-11-12T07:40:32+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:14:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105653,
+      "source": "blind",
+      "externalId": "cmt-460754584",
+      "title": "개취지만 별로임 뼈말라 표정도 그렇고 배려심고 부족해 보이고",
+      "excerpt": "현숙은 화장을 못하는거야 안하는거야",
+      "author": "Y*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%99%94%EC%9E%A5%EC%9D%84-%EB%AA%BB%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-%EC%95%88%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-g73aoeyz#460754584",
+      "postedLabel": "11분",
+      "postedAt": "2026-11-12T08:03:32+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:14:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -905792,7 +905872,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T08:11:33+09:00"
+      "slowAt": "2026-11-12T08:14:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -919338,6 +919418,7 @@
         "6676685",
         "6676691",
         "6676695",
+        "6676710",
         "6676732",
         "6676747",
         "6676754",
@@ -919353,7 +919434,8 @@
         "6676788",
         "6676790",
         "6676796",
-        "6676798"
+        "6676798",
+        "6676805"
       ]
     },
     "blind": {
@@ -925110,6 +925192,7 @@
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8-%ED%95%9C%EB%85%80%EA%B3%A0-%EC%98%81%ED%98%B8%EB%8A%94-%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8-%EC%9D%BC%EB%82%A8%EC%9E%84-0wcy2ie4",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%94%BC%EB%B6%80%EA%B0%80-%EC%B0%90%EC%9D%B4%EB%8B%A4-rnkrm6x3",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%96%89%EB%8F%99%EC%9D%84-%EC%9D%BC%EB%B6%80%EB%9F%AC-%EA%B5%BC%EB%9C%A8%EA%B2%8C-%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-7stbd3tm",
+        "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-%ED%99%94%EC%9E%A5%EC%9D%84-%EB%AA%BB%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-%EC%95%88%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-g73aoeyz",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-16%EB%85%84-%EC%A0%84-%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C-%EB%96%A0%EC%98%A4%EB%A5%BC-%EB%93%AF-r51eebum",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%80-j1hjm8bo",
         "/kr/post/%ED%98%84%EC%88%99%EC%9D%84-%EC%99%9C-%EC%9A%95%ED%95%98%EC%A7%80-8vgu66wk",
