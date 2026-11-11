@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T03:38:39+00:00",
+  "updatedAt": "2026-11-11T03:42:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -886246,6 +886246,26 @@
       "firstSeenAt": "2026-11-11T03:38:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104666,
+      "source": "blind",
+      "externalId": "cmt-460638771",
+      "title": "한주의 즐거움! 소듕해요",
+      "excerpt": "오늘은 나쏠 방영하는 날",
+      "author": "퇴******** 작성자",
+      "company": "농협금융지주",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98%EC%9D%80-%EB%82%98%EC%8F%A0-%EB%B0%A9%EC%98%81%ED%95%98%EB%8A%94-%EB%82%A0-qnx8y1nz#460638771",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-11T12:41:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T03:42:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -886429,7 +886449,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T12:39:44+09:00"
+      "slowAt": "2026-11-11T12:42:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -899575,6 +899595,7 @@
         "6669721",
         "6669723",
         "6669724",
+        "6669725",
         "6669728",
         "6669736",
         "6669739",
@@ -899592,7 +899613,8 @@
         "6669806",
         "6669823",
         "6669830",
-        "6669833"
+        "6669833",
+        "6669841"
       ]
     },
     "blind": {
