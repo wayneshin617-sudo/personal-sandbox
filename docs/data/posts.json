@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T23:16:51+00:00",
+  "updatedAt": "2026-11-11T23:18:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -905787,6 +905787,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-11T23:16:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105659,
+      "source": "dc",
+      "externalId": "cmt-11014153",
+      "title": "이번 광수는 뭔가 광수 답지 않다",
+      "excerpt": "34광수 이 배우 생각남",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6676587&page=4#cmt_11014153",
+      "postedLabel": "11.12 05:23:05",
+      "postedAt": "2026-11-12T05:23:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T23:18:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -919501,6 +919521,7 @@
         "6676564",
         "6676573",
         "6676580",
+        "6676587",
         "6676600",
         "6676608",
         "6676610",
