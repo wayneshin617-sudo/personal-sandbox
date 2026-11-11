@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-11T09:58:56+00:00",
+  "updatedAt": "2026-11-11T10:00:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -888390,6 +888390,26 @@
       "firstSeenAt": "2026-11-11T09:58:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 104775,
+      "source": "blind",
+      "externalId": "cmt-460683331",
+      "title": "아닌데요?",
+      "excerpt": "그니깐",
+      "author": "U**** 작성자",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%8B%88%EA%B9%90-yrmb0a15#460683331",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-11T18:59:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-11T10:00:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -888573,7 +888593,7 @@
         "DfUxdwCGXEC",
         "DfYVRN5E9jw"
       ],
-      "slowAt": "2026-11-11T18:57:24+09:00"
+      "slowAt": "2026-11-11T18:59:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -901888,7 +901908,8 @@
         "6670544",
         "6670548",
         "6670551",
-        "6670555"
+        "6670555",
+        "6670571"
       ]
     },
     "blind": {
