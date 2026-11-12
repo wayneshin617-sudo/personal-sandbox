@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T01:06:32+00:00",
+  "updatedAt": "2026-11-12T01:07:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -907738,6 +907738,25 @@
       "firstSeenAt": "2026-11-12T01:06:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105758,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%96%A1%EC%A4%84-%EC%82%AC%EB%9E%8C%EC%9D%80-%EA%B4%80%EC%8B%AC%EB%8F%84-%EC%97%86%EB%8A%94%EB%8D%B0-%ED%98%BC%EC%9E%90-%EB%B0%80%EB%8B%B9%ED%95%98%EA%B3%A0-%ED%99%94%EB%82%B4%EA%B3%A0-%EB%82%9C%EB%A6%AC%EB%82%AC%EB%84%A4-rep0vkm4",
+      "title": "영자는 떡줄 사람은 관심도 없는데 혼자 밀당하고 화내고 난리났네",
+      "excerpt": "보는 사람만 수치스럽고 영자는 저러다 셔터맨 만나서 잘 살겠지",
+      "author": "´****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%96%A1%EC%A4%84-%EC%82%AC%EB%9E%8C%EC%9D%80-%EA%B4%80%EC%8B%AC%EB%8F%84-%EC%97%86%EB%8A%94%EB%8D%B0-%ED%98%BC%EC%9E%90-%EB%B0%80%EB%8B%B9%ED%95%98%EA%B3%A0-%ED%99%94%EB%82%B4%EA%B3%A0-%EB%82%9C%EB%A6%AC%EB%82%AC%EB%84%A4-rep0vkm4",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T10:06:38+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-12T01:07:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -907922,7 +907941,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T10:04:44+09:00"
+      "slowAt": "2026-11-12T10:07:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -921572,7 +921591,8 @@
         "6677036",
         "6677042",
         "6677045",
-        "6677051"
+        "6677051",
+        "6677058"
       ]
     },
     "blind": {
@@ -924857,6 +924877,7 @@
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%88%88%EB%9C%B0%EB%95%8C-%ED%8C%8C%EB%A5%B4%EB%A5%B4-%EB%8A%90%EB%A6%AC%EA%B2%8C-%EB%96%A0-0w6tz0pu",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%88%88%EC%9D%84-%EC%99%9C%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%9C%B8-ehhlyhep",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%88%88%EC%B9%98%EB%8F%84-%EC%97%86%EB%85%B8-gsfacmsl",
+        "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%96%A1%EC%A4%84-%EC%82%AC%EB%9E%8C%EC%9D%80-%EA%B4%80%EC%8B%AC%EB%8F%84-%EC%97%86%EB%8A%94%EB%8D%B0-%ED%98%BC%EC%9E%90-%EB%B0%80%EB%8B%B9%ED%95%98%EA%B3%A0-%ED%99%94%EB%82%B4%EA%B3%A0-%EB%82%9C%EB%A6%AC%EB%82%AC%EB%84%A4-rep0vkm4",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%AA%A8%EC%8F%A0-%EB%8A%90%EB%82%8C-%EB%82%A8-1mhj7lx8",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%AA%BB%EC%83%9D%EA%B8%B4%EA%B1%B4-%EB%91%98%EC%A7%B8%EC%B9%98%EA%B3%A0-uil56fep",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-%EB%AD%94-%EC%9E%90%EC%8B%A0%EA%B0%90%EC%9C%BC%EB%A1%9C-%EC%84%B1%ED%98%95%EC%A7%88%EC%9D%84-%EC%95%88%ED%96%88%EC%9D%84%EA%B9%8C-1fnkwpwi",
