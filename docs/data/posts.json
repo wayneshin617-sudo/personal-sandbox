@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T05:40:19+00:00",
+  "updatedAt": "2026-11-12T05:43:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -917333,6 +917333,45 @@
       "firstSeenAt": "2026-11-12T05:40:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106244,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C%EB%82%98-%EC%98%81%EC%88%99%EA%B9%8C%EC%9D%B4%EC%A7%80-qls0qlpl",
+      "title": "여기서나 영숙까이지",
+      "excerpt": "여긴 다 직장인이고 사지멀쩡하니깐 영숙까지 현실 당근 모임가면 여왕벌 바로 가능함",
+      "author": "I******",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B0%EC%84%9C%EB%82%98-%EC%98%81%EC%88%99%EA%B9%8C%EC%9D%B4%EC%A7%80-qls0qlpl",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T14:42:45+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T05:43:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106245,
+      "source": "blind",
+      "externalId": "cmt-460798766",
+      "title": "이전 데이트때 광수가 다 사서 정숙이 그랬을수도 있고? 둘다 잘버는데 알아서 하겠지 ㅋㅋ 근데 둘 다 인싸호소인 같아서 텐션 부끄러움",
+      "excerpt": "광수가 커피까지 얻어먹는거 나쁘게보이나?",
+      "author": "l*******",
+      "company": "CJ",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EA%B0%80-%EC%BB%A4%ED%94%BC%EA%B9%8C%EC%A7%80-%EC%96%BB%EC%96%B4%EB%A8%B9%EB%8A%94%EA%B1%B0-%EB%82%98%EC%81%98%EA%B2%8C%EB%B3%B4%EC%9D%B4%EB%82%98-m4gvgyfa#460798766",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T14:42:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:43:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -917517,7 +917556,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T14:40:01+09:00"
+      "slowAt": "2026-11-12T14:42:45+09:00"
     },
     "dc": {
       "doneIds": [
@@ -931373,7 +931412,8 @@
         "6677821",
         "6677832",
         "6677839",
-        "6677848"
+        "6677848",
+        "6677856"
       ]
     },
     "blind": {
