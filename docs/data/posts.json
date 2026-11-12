@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T03:55:29+00:00",
+  "updatedAt": "2026-11-12T03:56:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -912124,6 +912124,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-12T03:55:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105981,
+      "source": "dc",
+      "externalId": "cmt-11015432",
+      "title": "넌 이제 정숙하자",
+      "excerpt": "정숙 카리나 닮지 않음?",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677504&page=1#cmt_11015432",
+      "postedLabel": "11.12 12:56:03",
+      "postedAt": "2026-11-12T12:56:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:56:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -912235,7 +912255,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T12:53:12+09:00"
+      "slowAt": "2026-11-12T12:56:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -925986,6 +926006,7 @@
         "6677180",
         "6677185",
         "6677189",
+        "6677190",
         "6677289",
         "6677290",
         "6677296",
@@ -926006,6 +926027,7 @@
         "6677346",
         "6677352",
         "6677355",
+        "6677358",
         "6677442",
         "6677452",
         "6677456",
@@ -926020,7 +926042,8 @@
         "6677488",
         "6677495",
         "6677497",
-        "6677502"
+        "6677502",
+        "6677504"
       ]
     },
     "blind": {
@@ -927335,6 +927358,7 @@
         "/kr/post/%EB%91%98%EC%9D%B4-%EB%91%90%EC%82%B4-%EC%B0%A8%EC%9D%B4%EB%9E%98-37rvxa13",
         "/kr/post/%EB%91%98%EC%9D%B4-%EB%AD%90-%ED%86%B5%ED%95%98%EB%8A%94%EA%B2%8C-%EC%9E%88%EC%97%88%EA%B2%A0%EC%A7%80-%EC%BD%94%EB%A0%88%EC%9D%BC%EC%9D%B4%EB%9E%91-%ED%9A%8C%EA%B3%84%EC%82%AC-pois5eb8",
         "/kr/post/%EB%91%98%EC%9D%B4-%EC%A2%80-%EB%8B%AE%EC%A7%80-%EC%95%8A%EC%9D%8C-7u4aqspx",
+        "/kr/post/%EB%91%98%EC%A4%91%EC%97%90-%EB%88%84%EA%B0%80-%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%95%84-chgmt8t0",
         "/kr/post/%EB%91%98%EC%A4%91-%EB%81%8C%EB%A6%AC%EB%8A%94-%EC%97%AC%EC%9E%90%EB%8A%94-mrzqv8va",
         "/kr/post/%EB%91%98%EC%A4%91-%ED%95%9C%EB%AA%85-%EA%BC%AD-%EC%82%AC%EA%B7%80%EC%96%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-lafq1cuo",
         "/kr/post/%EB%91%98%EC%A7%B8%EB%8A%94-%EC%9F%81%EC%B7%A8%ED%95%9C%EB%8B%A4-05re303l",
