@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:53:21+00:00",
+  "updatedAt": "2026-11-12T12:54:43+00:00",
   "posts": [
     {
       "id": 149,
@@ -927396,6 +927396,105 @@
       "firstSeenAt": "2026-11-12T12:53:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106753,
+      "source": "qoo",
+      "externalId": "4404115995",
+      "title": "영철은 현숙에 대한 얘기를 꼭 타인 앞에서 한다..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4404115995",
+      "postedLabel": "21:53",
+      "postedAt": "2026-11-12T21:53:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:54:43+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106754,
+      "source": "blind",
+      "externalId": "cmt-460853145",
+      "title": "디엠 해보자",
+      "excerpt": "영수 좋다",
+      "author": "팩트핑",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%A2%8B%EB%8B%A4-0l8hii4j#460853145",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T21:53:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:54:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106755,
+      "source": "blind",
+      "externalId": "cmt-460853232",
+      "title": "나 애둘맘임..",
+      "excerpt": "영수 좋다",
+      "author": "짜*** 작성자",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%A2%8B%EB%8B%A4-0l8hii4j#460853232",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:54:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:54:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106756,
+      "source": "blind",
+      "externalId": "cmt-460853327",
+      "title": "왠지 내여자한텐 잘할거같은데 ㅠ^ㅠ ㅋㅋ",
+      "excerpt": "영수 좋다",
+      "author": "짜*** 작성자",
+      "company": "아시아나항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%A2%8B%EB%8B%A4-0l8hii4j#460853327",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:54:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:54:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106757,
+      "source": "blind",
+      "externalId": "cmt-460853240",
+      "title": "저런스타일 좋아하다간 진짜 결혼해서 고생 오질나게 하지",
+      "excerpt": "영수 좋다",
+      "author": "잉***",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%A2%8B%EB%8B%A4-0l8hii4j#460853240",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:54:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:54:43+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -927580,7 +927679,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T21:51:36+09:00"
+      "slowAt": "2026-11-12T21:54:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -941565,7 +941664,8 @@
         "6678965",
         "6678967",
         "6678974",
-        "6678981"
+        "6678981",
+        "6678996"
       ]
     },
     "blind": {
@@ -953026,7 +953126,8 @@
         "4404066478",
         "4404094560",
         "4404097635",
-        "4404108568"
+        "4404108568",
+        "4404115995"
       ]
     },
     "keep": "v2",
