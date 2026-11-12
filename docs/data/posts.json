@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:20:28+00:00",
+  "updatedAt": "2026-11-12T04:21:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -914091,6 +914091,64 @@
       "firstSeenAt": "2026-11-12T04:20:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106080,
+      "source": "dc",
+      "externalId": "cmt-11015294",
+      "title": "넷플 밖에 다른데서 볼 수가 없다는 게 개짜증 나네~ 남규홍 이거 뭐야 진짜",
+      "excerpt": "근데 남규홍 얼마나 빡친건지 감도 안오내",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677432&page=3#cmt_11015294",
+      "postedLabel": "11.12 12:23:26",
+      "postedAt": "2026-11-12T12:23:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:21:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106081,
+      "source": "dc",
+      "externalId": "6677601",
+      "title": "교토 영호같은 애들은",
+      "excerpt": "",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677601&page=1",
+      "postedLabel": "13:20",
+      "postedAt": "2026-11-12T13:20:49+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:21:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106082,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98-%EC%88%9C%EC%9E%90%EB%9E%91-%EB%8F%99%EA%B0%91%EC%9D%B8%EB%8D%B0-t2pymn8q",
+      "title": "나 순자랑 동갑인데",
+      "excerpt": "실친이었으면 서경석이라고 놀렸을듯 솨솨솨 이런거 하면서 옆에서 얘기할때 공무원 합격은 에듀ㅇ ~ 이러면서 ㅋㅋㅋㅋ",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EC%88%9C%EC%9E%90%EB%9E%91-%EB%8F%99%EA%B0%91%EC%9D%B8%EB%8D%B0-t2pymn8q",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T13:21:11+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-12T04:21:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -914275,7 +914333,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T13:18:12+09:00"
+      "slowAt": "2026-11-12T13:21:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -927974,6 +928032,7 @@
         "6677239",
         "6677245",
         "6677255",
+        "6677262",
         "6677289",
         "6677290",
         "6677296",
@@ -928012,6 +928071,7 @@
         "6677417",
         "6677420",
         "6677427",
+        "6677432",
         "6677442",
         "6677452",
         "6677456",
@@ -928040,7 +928100,9 @@
         "6677570",
         "6677575",
         "6677580",
-        "6677586"
+        "6677586",
+        "6677589",
+        "6677598"
       ]
     },
     "blind": {
@@ -928918,6 +928980,7 @@
         "/kr/post/%EB%82%98-%EB%AC%B8%EC%8B%A0%EB%85%80%EC%9D%B8%EB%8D%B0-eaorcfdu",
         "/kr/post/%EB%82%98-%EB%AC%B8%EC%8B%A0-%EB%85%BC%EB%9E%80-%EB%B3%B4%EA%B3%A0-%EB%86%80%EB%9D%BC%EB%8A%94-%EC%A4%91-hg6d1xzl",
         "/kr/post/%EB%82%98-%EB%B0%A9%EA%B8%88-%EC%98%81%EC%B2%A0-%EC%96%BC%EA%B5%B4%EC%97%90%EC%84%9C-liazu1ea",
+        "/kr/post/%EB%82%98-%EC%88%9C%EC%9E%90%EB%9E%91-%EB%8F%99%EA%B0%91%EC%9D%B8%EB%8D%B0-t2pymn8q",
         "/kr/post/%EB%82%98-%EC%88%9C%EC%9E%90-%EA%B2%BD%EC%88%98%ED%95%9C%ED%85%8C-%EC%9D%B8%EC%8A%A4%ED%83%80-%EC%B0%A8%EB%8B%A8%EB%8B%B9%ED%96%88%EC%96%B4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-kbgqa2ks",
         "/kr/post/%EB%82%98-%EC%95%84%EC%A7%81-%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%B2%AB%ED%99%94%EB%A7%8C-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%99%A4%EC%BC%80-%EC%8B%AB%EC%A7%80-%E3%85%A0-zpavjzaf",
         "/kr/post/%EB%82%98-%EC%96%B4%EA%B9%A8%EC%97%90-%EB%AC%B8%EC%8B%A0-%EC%9E%88%EB%8A%94%EB%8D%B0-ipsacakb",
