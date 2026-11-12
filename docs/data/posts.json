@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:09:25+00:00",
+  "updatedAt": "2026-11-12T12:10:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -925237,6 +925237,26 @@
       "firstSeenAt": "2026-11-12T12:09:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106644,
+      "source": "dc",
+      "externalId": "cmt-11016670",
+      "title": "외출안하니까 편하게 입은거? - dc App",
+      "excerpt": "밤데이트 여자들 패션이 왜 다 저럼",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678740&page=3#cmt_11016670",
+      "postedLabel": "11.12 20:12:11",
+      "postedAt": "2026-11-12T20:12:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:10:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -925421,7 +925441,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T21:07:07+09:00"
+      "slowAt": "2026-11-12T21:10:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -939313,6 +939333,7 @@
         "6678492",
         "6678500",
         "6678508",
+        "6678512",
         "6678544",
         "6678549",
         "6678551",
@@ -939346,6 +939367,7 @@
         "6678717",
         "6678733",
         "6678735",
+        "6678740",
         "6678758",
         "6678767",
         "6678770",
