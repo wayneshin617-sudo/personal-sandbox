@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T05:23:42+00:00",
+  "updatedAt": "2026-11-12T05:26:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -916719,6 +916719,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T05:23:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106213,
+      "source": "dc",
+      "externalId": "cmt-11015568",
+      "title": "블라인드에도 올라 올 거 같음",
+      "excerpt": "영철이랑 결혼하면 부부싸움 내용 부여군청에 소문 다 남",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677625&page=4#cmt_11015568",
+      "postedLabel": "11.12 13:26:50",
+      "postedAt": "2026-11-12T13:26:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:26:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106214,
+      "source": "dc",
+      "externalId": "cmt-11015804",
+      "title": "조합상으론 둘이 맞는듯 - dc App",
+      "excerpt": "현숙은 차라리 영식이 어울리지 않냐?",
+      "author": "HungryGhost",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677802&page=1#cmt_11015804",
+      "postedLabel": "11.12 14:25:38",
+      "postedAt": "2026-11-12T14:25:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:26:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -916903,7 +916943,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T14:23:25+09:00"
+      "slowAt": "2026-11-12T14:26:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -930709,6 +930749,7 @@
         "6677611",
         "6677618",
         "6677620",
+        "6677625",
         "6677626",
         "6677629",
         "6677632",
