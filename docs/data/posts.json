@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:03:27+00:00",
+  "updatedAt": "2026-11-12T04:04:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -912639,6 +912639,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-12T04:03:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106007,
+      "source": "qoo",
+      "externalId": "cmt-4403554283",
+      "title": "진짜 깨더라",
+      "excerpt": "광수 밥도 얻어먹고 커피도 얻어먹네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403545010#4403554283",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:02:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:04:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106008,
+      "source": "qoo",
+      "externalId": "cmt-4403554986",
+      "title": "애초에 잘생기지가 않았음 그냥 키 + 그 정도 외모도 없는 남자 평균값 때문에 버프 받은거",
+      "excerpt": "영호 갈수록 안잘생겨보임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403531890#4403554986",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:03:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:04:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106009,
+      "source": "blind",
+      "externalId": "cmt-460787781",
+      "title": "돌싱 미혼은 만나기전에 오픈해야지 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "상철이가 오바한거야?",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EC%98%A4%EB%B0%94%ED%95%9C%EA%B1%B0%EC%95%BC-rav1i6yo#460787781",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T13:04:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:04:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -926510,6 +926570,7 @@
         "6677204",
         "6677206",
         "6677211",
+        "6677212",
         "6677289",
         "6677290",
         "6677296",
@@ -926557,7 +926618,8 @@
         "6677509",
         "6677516",
         "6677517",
-        "6677523"
+        "6677523",
+        "6677527"
       ]
     },
     "blind": {
@@ -928555,6 +928617,7 @@
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-%ED%99%94%EB%B2%95%EC%9D%B4%EB%9E%84%EA%B9%8C-yo8gils6",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-0syhdzht",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-lowtwxws",
+        "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EC%98%A4%EB%B0%94%ED%95%9C%EA%B1%B0%EC%95%BC-rav1i6yo",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4%EB%8A%94-%EC%82%AC%ED%9A%8C%EC%84%B1%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EB%B6%80%EC%A1%B1%ED%95%A8-etne3weq",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%98%A5%EC%88%9C-%EC%9E%98-%EB%90%A0%EA%B2%83-%EA%B0%99%EC%9D%8C%E3%85%8B%E3%85%8B-msw4q1aa",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%B4%80%EC%83%81%EC%9D%B4-z87x1aak",
