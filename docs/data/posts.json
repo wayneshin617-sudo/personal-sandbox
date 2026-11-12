@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:37:43+00:00",
+  "updatedAt": "2026-11-12T12:40:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -926526,6 +926526,45 @@
       "firstSeenAt": "2026-11-12T12:37:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106709,
+      "source": "qoo",
+      "externalId": "cmt-4404054339",
+      "title": "걍 여기만 봐도.... 너무 질질 끌고 영철 현숙한테 그러는거도 질리고 영호도 제대로 뭐 한 두명 좁히지도 않고",
+      "excerpt": "내 친구들 한정일수도있는데 나솔화력 좀죽었어 ㅠㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404048792#4404054339",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T20:39:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:40:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106710,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%84%EC%A7%9C-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%B7%A8%ED%96%A5%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EA%B0%88%EB%A6%AC%EB%8A%94%EA%B5%AC%EB%82%98-3mroal5y",
+      "title": "진짜 사람들 취향이 많이 갈리는구나",
+      "excerpt": "난 영호보단 영수인데",
+      "author": "크**",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%9C-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%B7%A8%ED%96%A5%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EA%B0%88%EB%A6%AC%EB%8A%94%EA%B5%AC%EB%82%98-3mroal5y",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:40:16+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T12:40:34+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -926710,7 +926749,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T21:37:25+09:00"
+      "slowAt": "2026-11-12T21:40:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -940690,7 +940729,8 @@
         "6678940",
         "6678943",
         "6678946",
-        "6678958"
+        "6678958",
+        "6678965"
       ]
     },
     "blind": {
