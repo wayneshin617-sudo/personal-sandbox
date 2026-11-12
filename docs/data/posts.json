@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T11:30:25+00:00",
+  "updatedAt": "2026-11-12T11:31:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -922117,6 +922117,46 @@
       "firstSeenAt": "2026-11-12T11:30:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106487,
+      "source": "qoo",
+      "externalId": "cmt-4403997125",
+      "title": "원래 한시간 반 함",
+      "excerpt": "나는 솔로 방송이 1:40분이아 ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403996881#4403997125",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T19:30:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T11:31:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106488,
+      "source": "blind",
+      "externalId": "cmt-460840516",
+      "title": "피부가 넘 조아",
+      "excerpt": "남성미 없는 이유가",
+      "author": "스***",
+      "company": "부광약품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%84%B1%EB%AF%B8-%EC%97%86%EB%8A%94-%EC%9D%B4%EC%9C%A0%EA%B0%80-d1nhkruw#460840516",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T20:31:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T11:31:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -922301,7 +922341,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T20:28:06+09:00"
+      "slowAt": "2026-11-12T20:31:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -936188,6 +936228,7 @@
         "6678564",
         "6678566",
         "6678577",
+        "6678584",
         "6678758",
         "6678767",
         "6678770",
