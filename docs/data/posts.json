@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:42:30+00:00",
+  "updatedAt": "2026-11-12T04:43:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -915174,6 +915174,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T04:42:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106135,
+      "source": "blind",
+      "externalId": "cmt-460791544",
+      "title": "개그맨 김현철",
+      "excerpt": "광수",
+      "author": "l****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-vtesdna6#460791544",
+      "postedLabel": "8분",
+      "postedAt": "2026-11-12T13:35:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:43:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -915285,7 +915305,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T13:40:52+09:00"
+      "slowAt": "2026-11-12T13:43:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -929161,7 +929181,8 @@
         "6677656",
         "6677661",
         "6677666",
-        "6677672"
+        "6677672",
+        "6677674"
       ]
     },
     "blind": {
