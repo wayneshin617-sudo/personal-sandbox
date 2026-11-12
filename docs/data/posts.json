@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:16:11+00:00",
+  "updatedAt": "2026-11-12T13:17:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -928668,6 +928668,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T13:16:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106817,
+      "source": "blind",
+      "externalId": "cmt-460833911",
+      "title": "보통 남동생들은 누나가 줘패서 할말못할말 잘 가리고 여자들이랑 대화 잘하는데 영수님은 누나 7명이나 두고 왜 언행 교육이 안 된 거야",
+      "excerpt": "34기 영수씨.. 2세 얼굴 걱정 때문에 성형녀 안된다구요?",
+      "author": "L*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%98%EC%94%A8-2%EC%84%B8-%EC%96%BC%EA%B5%B4-%EA%B1%B1%EC%A0%95-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%84%B1%ED%98%95%EB%85%80-%EC%95%88%EB%90%9C%EB%8B%A4%EA%B5%AC%EC%9A%94-gx0aqlvk#460833911",
+      "postedLabel": "3시간",
+      "postedAt": "2026-11-12T19:17:16+09:00",
+      "views": null,
+      "recommends": 20,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:17:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106818,
+      "source": "blind",
+      "externalId": "cmt-460838788",
+      "title": "누나랑 싸워서 져본적이 없다자너",
+      "excerpt": "34기 영수씨.. 2세 얼굴 걱정 때문에 성형녀 안된다구요?",
+      "author": "0***",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%98%EC%94%A8-2%EC%84%B8-%EC%96%BC%EA%B5%B4-%EA%B1%B1%EC%A0%95-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%84%B1%ED%98%95%EB%85%80-%EC%95%88%EB%90%9C%EB%8B%A4%EA%B5%AC%EC%9A%94-gx0aqlvk#460838788",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-12T20:17:17+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:17:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106819,
+      "source": "qoo",
+      "externalId": "4404136054",
+      "title": "광수 정숙 닭백숙데이트에서 멀 느꼈냐면",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4404136054",
+      "postedLabel": "22:17",
+      "postedAt": "2026-11-12T22:17:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:17:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106820,
+      "source": "dc",
+      "externalId": "6679045",
+      "title": "영숙은 경제적으로 여유가 잇는 남자를 만나고 싶엇던거네",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679045&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-11-12T22:17:04+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:17:37+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -928852,7 +928930,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T22:14:28+09:00"
+      "slowAt": "2026-11-12T22:17:20+09:00"
     },
     "dc": {
       "doneIds": [
@@ -942827,6 +942905,7 @@
         "6678892",
         "6678894",
         "6678897",
+        "6678901",
         "6678904",
         "6678905",
         "6678911",
@@ -942850,7 +942929,8 @@
         "6679019",
         "6679023",
         "6679027",
-        "6679031"
+        "6679031",
+        "6679044"
       ]
     },
     "blind": {
@@ -954318,7 +954398,8 @@
         "4404097635",
         "4404108568",
         "4404115995",
-        "4404122760"
+        "4404122760",
+        "4404136054"
       ]
     },
     "keep": "v2",
