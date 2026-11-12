@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T00:20:37+00:00",
+  "updatedAt": "2026-11-12T00:24:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -906811,6 +906811,86 @@
       "firstSeenAt": "2026-11-12T00:20:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105711,
+      "source": "blind",
+      "externalId": "cmt-460758434",
+      "title": "그니까 ㅋㅋ 지능 이슈지 뭐",
+      "excerpt": "상철 성격",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9-s46modtw#460758434",
+      "postedLabel": "38분",
+      "postedAt": "2026-11-12T08:46:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:24:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105712,
+      "source": "blind",
+      "externalId": "cmt-460759997",
+      "title": "응, 상대방 입장에서 상당한 호감이 아직 생기지 않았는데 저런 말 들으면… 정말 난감할 듯;;",
+      "excerpt": "상철 성격",
+      "author": "j********* 작성자",
+      "company": "티몬",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9-s46modtw#460759997",
+      "postedLabel": "24분",
+      "postedAt": "2026-11-12T09:00:35+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:24:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105713,
+      "source": "blind",
+      "externalId": "cmt-460762025",
+      "title": "본인의 약점이라고 생각해서 상대방한테 말 안하고 있으면 그만큼 마음이 쓰인다는 거잖아...착한거같은데?",
+      "excerpt": "상철 성격",
+      "author": "i********",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%84%B1%EA%B2%A9-s46modtw#460762025",
+      "postedLabel": "5분",
+      "postedAt": "2026-11-12T09:19:34+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:24:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105714,
+      "source": "blind",
+      "externalId": "cmt-460762490",
+      "title": "예쁘게 안 해도 여자가 자석처럼 붙으니까",
+      "excerpt": "영호 머리스탈",
+      "author": "g******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EB%A8%B8%EB%A6%AC%EC%8A%A4%ED%83%88-1eccko1m#460762490",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T09:24:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:24:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -906995,7 +907075,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T09:21:43+09:00"
+      "slowAt": "2026-11-12T09:24:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -920587,6 +920667,7 @@
         "6676811",
         "6676822",
         "6676823",
+        "6676826",
         "6676829",
         "6676835",
         "6676836",
@@ -920615,7 +920696,8 @@
         "6676959",
         "6676966",
         "6676970",
-        "6676972"
+        "6676972",
+        "6676974"
       ]
     },
     "blind": {
