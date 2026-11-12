@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:13:27+00:00",
+  "updatedAt": "2026-11-12T12:15:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -925576,6 +925576,84 @@
       "firstSeenAt": "2026-11-12T12:13:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106661,
+      "source": "dc",
+      "externalId": "cmt-11016699",
+      "title": "저 ㅂㅅ같은 짤은 왜 자꾸 올리냐??? 저게 예쁘냐??? - dc App",
+      "excerpt": "근데 나솔만보더라도 한국 여자 외모가 이쁜긴한듯",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678751&page=3#cmt_11016699",
+      "postedLabel": "11.12 20:18:41",
+      "postedAt": "2026-11-12T20:18:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:15:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106662,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%9C-%EA%B0%9C%EA%B7%B8%EC%9A%B0%EB%A8%BC%EC%9D%B4-%EC%9D%BC%EB%B0%98%EA%B8%B0%EC%88%98%EC%97%90-%EC%B6%9C%EC%97%B0%ED%95%B4-7nhyex3o",
+      "title": "왜 개그우먼이 일반기수에 출연해?",
+      "excerpt": "누구더라",
+      "author": "잊******",
+      "company": "Amazon",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%9C-%EA%B0%9C%EA%B7%B8%EC%9A%B0%EB%A8%BC%EC%9D%B4-%EC%9D%BC%EB%B0%98%EA%B8%B0%EC%88%98%EC%97%90-%EC%B6%9C%EC%97%B0%ED%95%B4-7nhyex3o",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:15:06+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T12:15:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106663,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A7%88%ED%88%AC-p4gdden8",
+      "title": "여자들 질투",
+      "excerpt": "댓글보면 여자들이 순자는 질투 안하던데 현숙은 질투 많이 받네 고기 구워 먹을때 현숙이가 자리를 비집고 들어간게 아니라 영호가 먼저 옆에 앉으라고 살짝 비켜 주는구만 현숙이 비집고 들어갔다고 욕하냐ㅋ",
+      "author": "d*****",
+      "company": "지마켓",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A7%88%ED%88%AC-p4gdden8",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:15:07+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T12:15:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106664,
+      "source": "blind",
+      "externalId": "cmt-460847318",
+      "title": "죄송한데 영호 우유부단해 보입니다",
+      "excerpt": "영호처럼 멘탈 단단한 균형 잡힌 사람 없는 듯",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EC%B2%98%EB%9F%BC-%EB%A9%98%ED%83%88-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EA%B7%A0%ED%98%95-%EC%9E%A1%ED%9E%8C-%EC%82%AC%EB%9E%8C-%EC%97%86%EB%8A%94-%EB%93%AF-6mvtulef#460847318",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:15:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:15:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -925687,7 +925765,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T21:12:08+09:00"
+      "slowAt": "2026-11-12T21:15:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -939656,6 +939734,7 @@
         "6678514",
         "6678515",
         "6678523",
+        "6678526",
         "6678544",
         "6678549",
         "6678551",
@@ -939692,6 +939771,7 @@
         "6678740",
         "6678743",
         "6678747",
+        "6678751",
         "6678758",
         "6678767",
         "6678770",
