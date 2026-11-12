@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T05:33:26+00:00",
+  "updatedAt": "2026-11-12T05:34:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -916937,6 +916937,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-12T05:33:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106224,
+      "source": "qoo",
+      "externalId": "4403715905",
+      "title": "영숙 첨에 빌런일줄 알았는데 여출들이 많이 의지하는듯 편이네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403715905",
+      "postedLabel": "14:33",
+      "postedAt": "2026-11-12T14:33:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-12T05:34:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106225,
+      "source": "blind",
+      "externalId": "cmt-460797778",
+      "title": "걍 하얗고 청순하고 예쁘자나?",
+      "excerpt": "34기 현숙은 어디가 매력적인거 같음?",
+      "author": "지****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%96%B4%EB%94%94%EA%B0%80-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8%EA%B1%B0-%EA%B0%99%EC%9D%8C-c4plhu8z#460797778",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T14:33:36+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:34:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -917121,7 +917160,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T14:31:40+09:00"
+      "slowAt": "2026-11-12T14:34:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -930938,6 +930977,7 @@
         "6677642",
         "6677643",
         "6677644",
+        "6677647",
         "6677652",
         "6677654",
         "6677656",
@@ -933975,6 +934015,7 @@
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-v4evm51s",
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%A5%EC%88%9C%EC%9D%B4-%ED%95%A0%EB%95%90-%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4-qid2571j",
         "/kr/post/%EC%98%81%EC%88%98-%EC%99%9C-%EB%B3%BC%EC%88%98%EB%A1%9D-%EC%9E%98%EC%83%9D%EA%B2%A8-%EB%B3%B4%EC%9D%B4%EC%A7%80%E3%85%A1%E3%85%A1-c1giz0jz",
+        "/kr/post/%EC%98%81%EC%88%98-%EC%99%9C-%EC%9E%90%EA%BE%B8-%EA%B3%A0%EB%8F%85%EC%A0%95%EC%8B%9D-%EB%AC%B5%EC%96%B4-cbzn038u",
         "/kr/post/%EC%98%81%EC%88%98-%EC%9D%80%EA%B7%BC-%EC%88%98%EC%9A%94-%EC%9E%88%EC%9D%84%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-8pa67lhh",
         "/kr/post/%EC%98%81%EC%88%98-%EC%9D%98%EB%8F%84-%EC%84%A4%EB%AA%85%ED%95%B4-%EC%A4%84-%EC%82%AC%EB%9E%8C-rtj0cg1z",
         "/kr/post/%EC%98%81%EC%88%98-%EC%9D%B4%EC%83%8A-%EC%9E%90%EC%84%B8-%EC%82%90%EB%94%B1%ED%95%9C%EA%B1%B0-%EB%B3%B4%EC%86%8C-527jah78",
@@ -937568,6 +937609,7 @@
         "/kr/post/34%EA%B8%B0-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%98%81%EC%B2%A0%EB%8B%98%EC%9D%B4%EC%9A%94-urtyo7zk",
         "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EB%8B%98-%EA%B9%80%EB%AC%B8%EC%88%98-%EC%A0%84-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%A7%80%EC%82%AC-%EC%95%84%EB%82%B4%EB%B6%84-%EC%A2%80-%EB%8B%AE%EC%9D%80%EB%93%AF-bghgjyx8",
         "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EB%8B%98-%EC%9D%B4-%EB%B0%B0%EC%9A%B0%EB%9E%91-%EB%8B%AE%EC%A7%80%EC%95%8A%EC%95%98%EC%96%B4-6jrb6xyk",
+        "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EC%9D%80-%EC%96%B4%EB%94%94%EA%B0%80-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8%EA%B1%B0-%EA%B0%99%EC%9D%8C-c4plhu8z",
         "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EC%9D%80-18%EA%B8%B0-%ED%98%84%EC%88%99-%EC%B2%98%EB%9F%BC-g1pxtb5w",
         "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EC%9D%80-2%EA%B8%B0-%EC%98%81%EC%88%99-%EB%8B%AE%EC%9D%80-%EB%93%AF-3lharmxk",
         "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99%EC%9D%B4%EB%A7%88%EC%A0%80-%EB%AC%B8%EC%8B%9D-%EA%B6%81%EA%B8%88%ED%95%B4%EC%84%9C-%EA%B5%AC%EA%B8%80%EB%A7%81%ED%95%A8-q661vsjo",
@@ -942336,7 +942378,8 @@
         "4403618134",
         "4403649623",
         "4403681788",
-        "4403697372"
+        "4403697372",
+        "4403715905"
       ]
     },
     "keep": "v2",
