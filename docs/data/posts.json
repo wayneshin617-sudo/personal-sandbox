@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:34:51+00:00",
+  "updatedAt": "2026-11-12T12:36:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -926446,6 +926446,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-12T12:34:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106705,
+      "source": "qoo",
+      "externalId": "cmt-4404051340",
+      "title": "@5 헐 현숙 말투로 욕하는 사람들은 봤는데 쥐박이 어쩌고는 진짜 황당하네 ㅁㅊ 여기도 열폭러들 몇 있는거 같다고 느끼긴했음 이상하리만치 현숙 글에 부정적으로 반응하는 사람들이 몇 있음",
+      "excerpt": "현숙 뭔가 한번 찍히니까 계속 욕먹는거 안타깝네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403747420#4404051340",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T20:36:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:36:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106706,
+      "source": "blind",
+      "externalId": "cmt-460850393",
+      "title": "Isxx 다 노잼임",
+      "excerpt": "isfp",
+      "author": "e*****",
+      "company": "COUPANG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/isfp-r2lxw01d#460850393",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:35:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:36:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106707,
+      "source": "blind",
+      "externalId": "cmt-460850321",
+      "title": "헐 완전 ㅇㅈ",
+      "excerpt": "isfp",
+      "author": "r*****",
+      "company": "고려대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/isfp-r2lxw01d#460850321",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:35:59+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:36:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -926557,7 +926617,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T21:33:10+09:00"
+      "slowAt": "2026-11-12T21:35:59+09:00"
     },
     "ig": {
       "doneIds": [
@@ -940608,7 +940668,8 @@
         "6678930",
         "6678936",
         "6678940",
-        "6678943"
+        "6678943",
+        "6678946"
       ]
     },
     "blind": {
@@ -947556,6 +947617,7 @@
         "/kr/post/bhc%EC%98%A5%EC%88%9C%EC%9D%B4-%EA%B3%B5%EA%B5%AC-%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%B0%91%EB%B0%A5-%EA%B9%8C%EB%8A%94%EA%B1%B4%EA%B0%80-jumqk3vz",
         "/kr/post/g3ti5n8c",
         "/kr/post/httpsteambleetcominvite3CMxNsfU%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%95%B1-%EB%B8%94%EB%A6%BF-%EA%B0%80%EC%9E%85%ED%95%98%EA%B3%A0-%EC%B4%88%EB%8C%80%EC%BD%94%EB%93%9C-%EC%9E%85%EB%A0%A5-%EB%B6%80%ED%83%81%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4%EC%9A%B0%EB%A6%AC-%EB%AA%A8%EB%91%90-%EC%BB%A4%ED%94%8C%EC%9D%B4-%EB%90%98%EC%96%B4%EB%B4%90%EC%9A%94%F0%9F%92%98-hq00liat",
+        "/kr/post/isfp-r2lxw01d",
         "/kr/post/jgqabf0i",
         "/kr/post/ott%EB%A7%8C-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%82%98%EC%86%94%EB%B3%B8%EB%B0%A9%EC%82%AC%EC%88%98%EB%AA%BB%ED%95%B4-b11oc0gg",
         "/kr/post/p1bfo3d0",
