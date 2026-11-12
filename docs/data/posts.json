@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:47:59+00:00",
+  "updatedAt": "2026-11-12T13:49:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -930504,6 +930504,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T13:47:59+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106910,
+      "source": "dc",
+      "externalId": "6679218",
+      "title": "망도가 뭔가요?",
+      "excerpt": "",
+      "author": "피버닉스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679218&page=1",
+      "postedLabel": "22:48",
+      "postedAt": "2026-11-12T22:48:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:49:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -930688,7 +930707,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T22:46:16+09:00"
+      "slowAt": "2026-11-12T22:49:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -944707,7 +944726,8 @@
         "6679140",
         "6679149",
         "6679160",
-        "6679189"
+        "6679189",
+        "6679208"
       ]
     },
     "blind": {
