@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T00:40:44+00:00",
+  "updatedAt": "2026-11-12T00:42:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -907185,6 +907185,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-12T00:40:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105730,
+      "source": "blind",
+      "externalId": "cmt-460764571",
+      "title": "초록도 있음",
+      "excerpt": "34기 영수 짜장면 좀 먹을것 같다고 처음 나올때부터 예상 했는데",
+      "author": "I*****",
+      "company": "마인엔지니어링건축사사무소",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%98-%EC%A7%9C%EC%9E%A5%EB%A9%B4-%EC%A2%80-%EB%A8%B9%EC%9D%84%EA%B2%83-%EA%B0%99%EB%8B%A4%EA%B3%A0-%EC%B2%98%EC%9D%8C-%EB%82%98%EC%98%AC%EB%95%8C%EB%B6%80%ED%84%B0-%EC%98%88%EC%83%81-%ED%96%88%EB%8A%94%EB%8D%B0-ziaa7kbq#460764571",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T09:40:50+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:42:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105731,
+      "source": "qoo",
+      "externalId": "4403432382",
+      "title": "어제꺼 안봤는데 재밌어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403432382",
+      "postedLabel": "09:41",
+      "postedAt": "2026-11-12T09:41:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:42:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -907369,7 +907408,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T09:38:54+09:00"
+      "slowAt": "2026-11-12T09:41:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -920999,7 +921038,8 @@
         "6676983",
         "6676993",
         "6676996",
-        "6677001"
+        "6677001",
+        "6677005"
       ]
     },
     "blind": {
@@ -924390,6 +924430,7 @@
         "/kr/post/%EC%98%81%EC%9E%90-%EC%9D%B4%EC%81%98%EB%8B%A4%EC%9E%89-hlhvm8ps",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%9D%B4%EC%81%9C%EA%B0%80%EC%9A%94-ecrh0jrj",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%9D%B4%EC%9A%A9-%EB%8B%B9%ED%95%98%EB%8A%94%EA%B1%B0%EC%95%BC-l7ybdmh1",
+        "/kr/post/%EC%98%81%EC%9E%90-%EC%9D%B8%EC%83%81-8zjcn2p5",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%9E%87%EB%AA%B8%EB%A7%8C-%EB%B3%B4%EC%97%AC-7kshg7zd",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%9E%87%EB%AA%B8%EB%A7%8C-%EC%95%84%EB%8B%88%EB%A9%B4-%EA%B4%9C%EC%B0%AE%EC%A7%80-%EC%95%8A%EC%95%84-zb5ndd2w",
         "/kr/post/%EC%98%81%EC%9E%90-%EC%9E%87%EB%AA%B8%EB%B9%A1%EC%84%B8%EB%84%A4-8p2exyiz",
@@ -932273,7 +932314,8 @@
         "4403347832",
         "4403372702",
         "4403383161",
-        "4403423141"
+        "4403423141",
+        "4403432382"
       ]
     },
     "keep": "v2",
