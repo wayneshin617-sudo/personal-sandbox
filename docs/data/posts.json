@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T03:49:27+00:00",
+  "updatedAt": "2026-11-12T03:50:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -911947,6 +911947,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T03:49:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105972,
+      "source": "dc",
+      "externalId": "cmt-11014707",
+      "title": "뭔가 어딘가에 닮은 구석이 있다",
+      "excerpt": "나솔 34기는 현숙이 아니라 옥순이 미녀인 이유",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677025&page=8#cmt_11014707",
+      "postedLabel": "11.12 09:52:23",
+      "postedAt": "2026-11-12T09:52:23+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:50:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105973,
+      "source": "blind",
+      "externalId": "cmt-460776079",
+      "title": "여사친 남사친으로 가능한 게 저런 사람들인 듯 미안하지만 내 여/남친이 저들과 같이 밥 먹고 온다고 해도 불안할 것 같지 않아",
+      "excerpt": "정숙, 광수씨는",
+      "author": "1*****",
+      "company": "제네웰",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EA%B4%91%EC%88%98%EC%94%A8%EB%8A%94-780nogwp#460776079",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-12T10:50:08+09:00",
+      "views": null,
+      "recommends": 10,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:50:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105974,
+      "source": "blind",
+      "externalId": "cmt-460786013",
+      "title": "키짝뚱 하남자",
+      "excerpt": "헐 광수 왜 밥계산 안함?",
+      "author": "i*********",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%97%90-%EA%B4%91%EC%88%98-%EC%99%9C-%EB%B0%A5%EA%B3%84%EC%82%B0-%EC%95%88%ED%95%A8-5fbhuofd#460786013",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T12:50:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:50:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -912058,7 +912118,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T12:47:11+09:00"
+      "slowAt": "2026-11-12T12:50:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -925780,6 +925840,7 @@
         "6677019",
         "6677023",
         "6677024",
+        "6677025",
         "6677029",
         "6677033",
         "6677036",
@@ -925802,6 +925863,7 @@
         "6677175",
         "6677176",
         "6677178",
+        "6677179",
         "6677289",
         "6677290",
         "6677296",
@@ -925817,6 +925879,7 @@
         "6677327",
         "6677329",
         "6677337",
+        "6677341",
         "6677442",
         "6677452",
         "6677456",
@@ -925828,7 +925891,8 @@
         "6677477",
         "6677480",
         "6677482",
-        "6677488"
+        "6677488",
+        "6677495"
       ]
     },
     "blind": {
