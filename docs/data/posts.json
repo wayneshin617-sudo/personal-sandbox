@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:11:55+00:00",
+  "updatedAt": "2026-11-12T13:13:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -928391,6 +928391,84 @@
       "firstSeenAt": "2026-11-12T13:11:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106803,
+      "source": "qoo",
+      "externalId": "cmt-4404080745",
+      "title": "영철과 엮이면 이미지만 안좋아짐",
+      "excerpt": "이게머임 유치하기 짝이없다 진심",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404065675#4404080745",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T21:12:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:13:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106804,
+      "source": "qoo",
+      "externalId": "cmt-4404081266",
+      "title": "ㄹㅇ",
+      "excerpt": "튜닝발언 다음날 문득 떠오를 정도로 내가 다 불쾌함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403774763#4404081266",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T21:12:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:13:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106805,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84-%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%A1%B4%EC%9E%BC%EC%9D%B4%EB%8B%A4-1%EC%A3%BC-%EB%98%90-%EC%96%B4%EC%BC%80%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%83%90-w2mao5si",
+      "title": "아 나솔 이번기수 존잼이다 1주 또 어케기다리냐..",
+      "excerpt": "다시 첨부터 복습할까 ㅋㅋㅋㅋ",
+      "author": "어****",
+      "company": "방사선사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%A1%B4%EC%9E%BC%EC%9D%B4%EB%8B%A4-1%EC%A3%BC-%EB%98%90-%EC%96%B4%EC%BC%80%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%83%90-w2mao5si",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T22:13:02+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T13:13:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106806,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B5%AD%EC%88%98%EC%A7%91-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%89%EC%95%84%EC%9E%88%EB%8A%94-%EC%98%81%EC%88%98-%EB%92%B7%EB%AA%A8%EC%8A%B5-%EC%9E%A1%ED%9E%90-%EB%95%8C-jihe2ns1",
+      "title": "국수집 데이트에서 앉아있는 영수 뒷모습 잡힐 때",
+      "excerpt": "등이.. 스팸인 줄 알았어....",
+      "author": "i******",
+      "company": "어댑트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B5%AD%EC%88%98%EC%A7%91-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%89%EC%95%84%EC%9E%88%EB%8A%94-%EC%98%81%EC%88%98-%EB%92%B7%EB%AA%A8%EC%8A%B5-%EC%9E%A1%ED%9E%90-%EB%95%8C-jihe2ns1",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T22:13:03+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T13:13:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -928502,7 +928580,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T22:10:13+09:00"
+      "slowAt": "2026-11-12T22:13:03+09:00"
     },
     "ig": {
       "doneIds": [
@@ -942570,7 +942648,8 @@
         "6679004",
         "6679010",
         "6679019",
-        "6679023"
+        "6679023",
+        "6679027"
       ]
     },
     "blind": {
