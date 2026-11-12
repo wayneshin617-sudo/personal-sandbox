@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T19:28:08+00:00",
+  "updatedAt": "2026-11-12T19:30:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -932743,6 +932743,25 @@
       "firstSeenAt": "2026-11-12T19:28:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107025,
+      "source": "dc",
+      "externalId": "6680087",
+      "title": "왜 리젠이 죽었냐 글 쓸 창의성이 없냐 저능",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680087&page=1",
+      "postedLabel": "04:29",
+      "postedAt": "2026-11-13T04:29:24+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T19:30:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -932854,7 +932873,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T04:26:51+09:00"
+      "slowAt": "2026-11-13T04:29:51+09:00"
     },
     "ig": {
       "doneIds": [
@@ -946964,6 +946983,7 @@
         "6679815",
         "6679817",
         "6679822",
+        "6679827",
         "6679902",
         "6679910",
         "6679911",
