@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:32:58+00:00",
+  "updatedAt": "2026-11-12T04:34:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -914641,6 +914641,86 @@
       "firstSeenAt": "2026-11-12T04:32:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106108,
+      "source": "qoo",
+      "externalId": "cmt-4403580518",
+      "title": "와 나도 개깜놀",
+      "excerpt": "운영알림 와서 깜짝놀랐는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403578571#4403580518",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:33:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:34:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106109,
+      "source": "dc",
+      "externalId": "cmt-11015379",
+      "title": "기본적인 매너가 베어 있고 상대방에게 안정감을 주는 태도와 언행 , 차분하고 조용한 편이지만 자기 계획 확실하고 내면이 생각보다 단단하고 여러 경험들이 보이는 내적인 모습 , 재미는 좀 떨어지지만 예의바른 모습. 큰 키 깔끔한 외모. 나도 쓰다보니깐 저기에 나온 여자들이 안 좋아할 이유가 별로 없어보이는데",
+      "excerpt": "영호 매력은 뭐길래 여자들이 몰려가는거냐???",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677462&page=4#cmt_11015379",
+      "postedLabel": "11.12 12:41:43",
+      "postedAt": "2026-11-12T12:41:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:34:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106110,
+      "source": "blind",
+      "externalId": "cmt-460788372",
+      "title": "영호는 문신도 없는데 뭔 영호같은이야 ㅡㅡ",
+      "excerpt": "순자는 약간 영호같은(?) 거라고 보면 될것 같은데",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%95%BD%EA%B0%84-%EC%98%81%ED%98%B8%EA%B0%99%EC%9D%80-%EA%B1%B0%EB%9D%BC%EA%B3%A0-%EB%B3%B4%EB%A9%B4-%EB%90%A0%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-rt0nnf1m#460788372",
+      "postedLabel": "25분",
+      "postedAt": "2026-11-12T13:09:01+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:34:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106111,
+      "source": "blind",
+      "externalId": "cmt-460791281",
+      "title": "그러면 이번기수에도 나갈 애들이 있네",
+      "excerpt": "다음 문신특집하는것도 괜찮지않음?",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EC%9D%8C-%EB%AC%B8%EC%8B%A0%ED%8A%B9%EC%A7%91%ED%95%98%EB%8A%94%EA%B2%83%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%A7%80%EC%95%8A%EC%9D%8C-uaobpbsf#460791281",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T13:34:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:34:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -914825,7 +914905,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T13:30:11+09:00"
+      "slowAt": "2026-11-12T13:34:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -928582,6 +928662,7 @@
         "6677456",
         "6677458",
         "6677459",
+        "6677462",
         "6677470",
         "6677471",
         "6677475",
@@ -928618,7 +928699,8 @@
         "6677629",
         "6677632",
         "6677633",
-        "6677639"
+        "6677639",
+        "6677642"
       ]
     },
     "blind": {
