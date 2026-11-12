@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:14:46+00:00",
+  "updatedAt": "2026-11-12T13:16:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -928589,6 +928589,85 @@
       "firstSeenAt": "2026-11-12T13:14:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106813,
+      "source": "qoo",
+      "externalId": "cmt-4404083893",
+      "title": "@3 아ㅋㅋㅋㅋㅋㅋ이거맞네",
+      "excerpt": "근데 순자 대처 잘한다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403914907#4404083893",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T21:15:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:16:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106814,
+      "source": "blind",
+      "externalId": "cmt-460849095",
+      "title": "영철 욕먹는건 못생긴남들 질투?",
+      "excerpt": "여자들 질투",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A7%88%ED%88%AC-p4gdden8#460849095",
+      "postedLabel": "49분",
+      "postedAt": "2026-11-12T21:26:53+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:16:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106815,
+      "source": "blind",
+      "externalId": "cmt-460855972",
+      "title": "빌런을 향한 분노일 뿐 오히려 영호를 질투할 가능성이 높음",
+      "excerpt": "여자들 질투",
+      "author": "i*********",
+      "company": "에스앤아이코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A7%88%ED%88%AC-p4gdden8#460855972",
+      "postedLabel": "8분",
+      "postedAt": "2026-11-12T22:07:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:16:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106816,
+      "source": "dc",
+      "externalId": "6679041",
+      "title": "34옥순 이렇게 예쁜데 ㄷㄷㄷ",
+      "excerpt": "",
+      "author": "OO",
+      "company": "",
+      "ip": "223.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679041&page=1",
+      "postedLabel": "22:15",
+      "postedAt": "2026-11-12T22:15:44+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:16:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -928700,7 +928779,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T22:13:03+09:00"
+      "slowAt": "2026-11-12T22:15:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -942746,6 +942825,7 @@
         "6678880",
         "6678887",
         "6678892",
+        "6678894",
         "6678897",
         "6678904",
         "6678905",
@@ -942769,7 +942849,8 @@
         "6679010",
         "6679019",
         "6679023",
-        "6679027"
+        "6679027",
+        "6679031"
       ]
     },
     "blind": {
