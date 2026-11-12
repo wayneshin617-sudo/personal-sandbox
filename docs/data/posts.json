@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:09:26+00:00",
+  "updatedAt": "2026-11-12T04:10:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -913135,6 +913135,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T04:09:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106032,
+      "source": "qoo",
+      "externalId": "cmt-4403559078",
+      "title": "사준다고 해도 커피는 제가 살게요가 기본아니냐...",
+      "excerpt": "광수 밥도 얻어먹고 커피도 얻어먹네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403545010#4403559078",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:08:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:10:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106033,
+      "source": "qoo",
+      "externalId": "cmt-4403559098",
+      "title": "그냥 마음이 없는거야ㅋ",
+      "excerpt": "현숙&순자는 영호한테 완전 호감이 있는게 눈에 보이는데 영호는 2명에서 4명으로 신중하게 늘려버림",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403479618#4403559098",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:08:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:10:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106034,
+      "source": "qoo",
+      "externalId": "cmt-4403560293",
+      "title": "헐 아직 안봤는데 그런 소리를 했어? 너무 무례하고 당황스럽다",
+      "excerpt": "얼굴에 튜닝한거 있어요?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403551174#4403560293",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:10:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:10:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -927010,6 +927070,7 @@
         "6677212",
         "6677218",
         "6677227",
+        "6677231",
         "6677289",
         "6677290",
         "6677296",
@@ -927042,6 +927103,7 @@
         "6677388",
         "6677393",
         "6677397",
+        "6677402",
         "6677442",
         "6677452",
         "6677456",
@@ -927064,7 +927126,8 @@
         "6677523",
         "6677527",
         "6677534",
-        "6677541"
+        "6677541",
+        "6677552"
       ]
     },
     "blind": {
