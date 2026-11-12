@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:49:25+00:00",
+  "updatedAt": "2026-11-12T13:50:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -930523,6 +930523,104 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T13:49:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106911,
+      "source": "dc",
+      "externalId": "cmt-11017049",
+      "title": "여자가 피부 하얀 게 중요함 어차피 남녀 타고난 피부색은 큰 차이없어서 피부 하얀 여자가 귀함 피부 하얀 걸 중요하게 보는 남자가 피부 하안 걸 중요하게 보는 여자보다 압도적으로 많음",
+      "excerpt": "일단 남녀 공통 피부는 하얗고 잡티없는게 +50은 먹음",
+      "author": "날붕이",
+      "company": "",
+      "ip": "175.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678985&page=5#cmt_11017049",
+      "postedLabel": "11.12 21:58:10",
+      "postedAt": "2026-11-12T21:58:10+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:50:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106912,
+      "source": "dc",
+      "externalId": "cmt-11017054",
+      "title": "남자는 잡티, 주름이 최대한 없어야함 있으면 적당한 화장으로 덮는 것도 나쁘지 않고(선크림만 발라도 낫베드)",
+      "excerpt": "일단 남녀 공통 피부는 하얗고 잡티없는게 +50은 먹음",
+      "author": "날붕이",
+      "company": "",
+      "ip": "175.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678985&page=5#cmt_11017054",
+      "postedLabel": "11.12 21:58:54",
+      "postedAt": "2026-11-12T21:58:54+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:50:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106913,
+      "source": "dc",
+      "externalId": "6679227",
+      "title": "고량주 사케 와인",
+      "excerpt": "",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679227&page=1",
+      "postedLabel": "22:49",
+      "postedAt": "2026-11-12T22:49:27+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:50:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106914,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-6ychx4uq",
+      "title": "순자 닮은꼴",
+      "excerpt": "그시절 솔비 닮았네",
+      "author": "디***",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-6ychx4uq",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T22:50:33+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-12T13:50:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106915,
+      "source": "blind",
+      "externalId": "cmt-460863048",
+      "title": "솔비는 갸름해",
+      "excerpt": "순자 닮은꼴",
+      "author": "아******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-6ychx4uq#460863048",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T22:50:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:50:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -930634,7 +930732,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T22:47:41+09:00"
+      "slowAt": "2026-11-12T22:50:33+09:00"
     },
     "ig": {
       "doneIds": [
@@ -944705,6 +944803,7 @@
         "6678971",
         "6678974",
         "6678981",
+        "6678985",
         "6678996",
         "6678999",
         "6679000",
@@ -944727,7 +944826,8 @@
         "6679149",
         "6679160",
         "6679189",
-        "6679208"
+        "6679208",
+        "6679225"
       ]
     },
     "blind": {
@@ -947055,6 +947155,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%82%98%EC%9D%B4%EA%B0%80-%EC%96%B4%EC%BC%80-%EB%90%98%EC%96%B4%EC%9A%94-rzmnnwj2",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%88%88%EB%82%98-yu8sl63x",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%88%88-%EC%A7%84%EC%A7%9C%EC%9D%B4%EC%81%98%EB%8B%A4-5ubb7vgh",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-6ychx4uq",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80%EA%BC%B4-uiohoqbw",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%8B%AE%EC%9D%80-%EA%BC%B4-1d4bssvy",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%98%91%EB%98%91%ED%95%98%EB%8B%B9-yrj4slqm",
