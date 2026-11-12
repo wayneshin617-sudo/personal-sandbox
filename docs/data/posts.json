@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T11:36:25+00:00",
+  "updatedAt": "2026-11-12T11:39:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -922655,6 +922655,45 @@
       "firstSeenAt": "2026-11-12T11:36:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106514,
+      "source": "qoo",
+      "externalId": "cmt-4403684344",
+      "title": "헐",
+      "excerpt": "내 글은 스포일거도 없긴 했는데 혹시 몰라서 ㅅㅍ 달아뒀더니 삭제됐다고 알림왔네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403649623#4403684344",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T14:09:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T11:39:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106515,
+      "source": "dc",
+      "externalId": "6678798",
+      "title": "지난주에는 mc들이 영철 존나 까더니 이번주는 쉴드 쳐주노",
+      "excerpt": "",
+      "author": "공",
+      "company": "",
+      "ip": "112.157",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678798&page=1",
+      "postedLabel": "20:39",
+      "postedAt": "2026-11-12T20:39:03+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T11:39:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -922766,7 +922805,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T20:36:07+09:00"
+      "slowAt": "2026-11-12T20:39:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -936721,6 +936760,7 @@
         "6678436",
         "6678444",
         "6678448",
+        "6678454",
         "6678544",
         "6678549",
         "6678551",
@@ -936734,6 +936774,7 @@
         "6678600",
         "6678610",
         "6678618",
+        "6678620",
         "6678758",
         "6678767",
         "6678770",
