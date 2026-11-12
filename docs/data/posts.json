@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:46:38+00:00",
+  "updatedAt": "2026-11-12T04:48:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -915253,6 +915253,66 @@
       "firstSeenAt": "2026-11-12T04:46:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106139,
+      "source": "dc",
+      "externalId": "cmt-11015413",
+      "title": "친하지도 않던 동창이 동창회에서 너는 잘 사는데 왜 니 친한 친구는 그렇게 사냐고 따질 때가 생각난다. 뭔 개똥 같은 논리라 비웃었는데 그때 감정을 느끼게 하는 글이네",
+      "excerpt": "영호야 삼겹살 혼자 먹는 영철은 왜 신경 안쓰냐",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677489&page=4#cmt_11015413",
+      "postedLabel": "11.12 12:51:33",
+      "postedAt": "2026-11-12T12:51:33+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106140,
+      "source": "blind",
+      "externalId": "cmt-460788976",
+      "title": "누가 삼전인데",
+      "excerpt": "이 시국에 삼전이 조건 좋은 거 아니면",
+      "author": "m*******",
+      "company": "Microsoft",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4-%EC%8B%9C%EA%B5%AD%EC%97%90-%EC%82%BC%EC%A0%84%EC%9D%B4-%EC%A1%B0%EA%B1%B4-%EC%A2%8B%EC%9D%80-%EA%B1%B0-%EC%95%84%EB%8B%88%EB%A9%B4-52h38gqq#460788976",
+      "postedLabel": "34분",
+      "postedAt": "2026-11-12T13:13:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106141,
+      "source": "blind",
+      "externalId": "cmt-460792824",
+      "title": "현숙이도 영숙이한테 일대일 고민상담 하더라 그와중에 영숙이 눕방 긔여웠음ㅋㅋ",
+      "excerpt": "영숙 뭐야",
+      "author": "l*****",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%AD%90%EC%95%BC-3wgoot7g#460792824",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T13:47:42+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -915437,7 +915497,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T13:44:59+09:00"
+      "slowAt": "2026-11-12T13:47:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -929204,6 +929264,7 @@
         "6677480",
         "6677482",
         "6677488",
+        "6677489",
         "6677495",
         "6677497",
         "6677502",
@@ -929242,7 +929303,8 @@
         "6677666",
         "6677672",
         "6677674",
-        "6677678"
+        "6677678",
+        "6677693"
       ]
     },
     "blind": {
