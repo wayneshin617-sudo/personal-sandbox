@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T05:19:37+00:00",
+  "updatedAt": "2026-11-12T05:20:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -916501,6 +916501,66 @@
       "firstSeenAt": "2026-11-12T05:19:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106202,
+      "source": "qoo",
+      "externalId": "cmt-4403630185",
+      "title": "나도 1화부터 욕너무 먹어서 안타까웠음 경솔한 발언 몇개 있긴하지ㅜ 저런지인 주변에 있는데 말 쎄서그렇지 꼬인거 없고 앞뒤똑같아서 다 잘 지내 ㅜㅜ",
+      "excerpt": "영숙 말 무례하게 한다 생각했는데 또 지내보면 괜찮은 사람인가봐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403590126#4403630185",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T13:20:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:20:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106203,
+      "source": "blind",
+      "externalId": "cmt-460792092",
+      "title": "눈에 차는 남자가 없거나 다들 성적으로 접근해서 그럴수도",
+      "excerpt": "순자가 왜 수요있는지 여자들이 잘 이해 안가는 이유",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%99%9C-%EC%88%98%EC%9A%94%EC%9E%88%EB%8A%94%EC%A7%80-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%9D%B4%ED%95%B4-%EC%95%88%EA%B0%80%EB%8A%94-%EC%9D%B4%EC%9C%A0-0h810aij#460792092",
+      "postedLabel": "40분",
+      "postedAt": "2026-11-12T13:40:41+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:20:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106204,
+      "source": "blind",
+      "externalId": "cmt-460796352",
+      "title": "그러게",
+      "excerpt": "아니근데 전남친 연락와서는 내 옮긴회사 듣더니",
+      "author": "크**",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88%EA%B7%BC%EB%8D%B0-%EC%A0%84%EB%82%A8%EC%B9%9C-%EC%97%B0%EB%9D%BD%EC%99%80%EC%84%9C%EB%8A%94-%EB%82%B4-%EC%98%AE%EA%B8%B4%ED%9A%8C%EC%82%AC-%EB%93%A3%EB%8D%94%EB%8B%88-m1g2um47#460796352",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T14:20:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:20:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -916685,7 +916745,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T14:17:59+09:00"
+      "slowAt": "2026-11-12T14:20:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -930523,6 +930583,7 @@
         "6677768",
         "6677777",
         "6677782",
+        "6677786",
         "6677787"
       ]
     },
