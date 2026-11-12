@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:01:57+00:00",
+  "updatedAt": "2026-11-12T13:03:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -927873,6 +927873,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T13:01:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106777,
+      "source": "dc",
+      "externalId": "cmt-11017061",
+      "title": "평가하는 글 쓰는 사람한테 평가 좀 하면 안 되누 ㅋㅋㅋ 심지어 평가한 것도 아니고 질문한 건데",
+      "excerpt": "근데 여기 글 쓰는 여자들 다 그렇게 잘난 여자들이냐?",
+      "author": "날붕이",
+      "company": "",
+      "ip": "175.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679004&page=1#cmt_11017061",
+      "postedLabel": "11.12 22:02:47",
+      "postedAt": "2026-11-12T22:02:47+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:03:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106778,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98%EB%8A%94-%EB%A7%89%EB%A7%90-%ED%8A%B9%EC%A7%91%EC%9D%B8%EA%B0%80-byvt5bae",
+      "title": "이번 기수는 막말 특집인가",
+      "excerpt": "영숙 영철 영수 광수...",
+      "author": "ilj1ljj",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98%EB%8A%94-%EB%A7%89%EB%A7%90-%ED%8A%B9%EC%A7%91%EC%9D%B8%EA%B0%80-byvt5bae",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T22:03:04+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T13:03:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -928057,7 +928096,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T22:00:14+09:00"
+      "slowAt": "2026-11-12T22:03:04+09:00"
     },
     "dc": {
       "doneIds": [
