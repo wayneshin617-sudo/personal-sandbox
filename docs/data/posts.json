@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:09:06+00:00",
+  "updatedAt": "2026-11-12T13:10:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -928132,6 +928132,85 @@
       "firstSeenAt": "2026-11-12T13:09:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106790,
+      "source": "qoo",
+      "externalId": "cmt-4404078389",
+      "title": "너무 싫어 진짜 여자가 싫어하는 행동만 하네",
+      "excerpt": "영철 진짜 너무 싫은점 동네방네 소문내는거",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404031314#4404078389",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T21:09:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:10:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106791,
+      "source": "qoo",
+      "externalId": "cmt-4404078981",
+      "title": "으휴",
+      "excerpt": "이게머임 유치하기 짝이없다 진심",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404065675#4404078981",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T21:09:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:10:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106792,
+      "source": "dc",
+      "externalId": "cmt-11016908",
+      "title": "영철이같은 애하고 헌포가면 알아서 다 세팅해줘서 좋긴 할듯 ㅋㅋㅋㅋ - dc App",
+      "excerpt": "솔까 현실에서 영철이 광수보다 여자한테 먹히지 않을까",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678878&page=3#cmt_11016908",
+      "postedLabel": "11.12 21:14:45",
+      "postedAt": "2026-11-12T21:14:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:10:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106793,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98-%EB%82%98%EC%86%94-4%ED%9A%8C%EB%B3%B4%EA%B3%A0-%EC%9E%88%EA%B1%B0%EB%93%A0-7sjwz1qw",
+      "title": "나 나솔 4회보고 있거든",
+      "excerpt": "뭐야뭐야 영철 일관뒀다던데 알려줄사람",
+      "author": "Q*****",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EB%82%98%EC%86%94-4%ED%9A%8C%EB%B3%B4%EA%B3%A0-%EC%9E%88%EA%B1%B0%EB%93%A0-7sjwz1qw",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T22:10:13+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T13:10:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -928243,7 +928322,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T22:07:23+09:00"
+      "slowAt": "2026-11-12T22:10:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -942285,6 +942364,7 @@
         "6678865",
         "6678868",
         "6678876",
+        "6678878",
         "6678880",
         "6678887",
         "6678892",
@@ -942309,7 +942389,8 @@
         "6679000",
         "6679004",
         "6679010",
-        "6679019"
+        "6679019",
+        "6679023"
       ]
     },
     "blind": {
