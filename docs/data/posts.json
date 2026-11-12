@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:33:41+00:00",
+  "updatedAt": "2026-11-12T13:35:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -929697,6 +929697,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T13:33:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106869,
+      "source": "blind",
+      "externalId": "cmt-460860301",
+      "title": "걔도 영숙과 도찐개찐임",
+      "excerpt": "근데 어제 영호 순자 데이트보면 순자 좋아하는게 얼굴에 다 티나던데",
+      "author": "신***",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%96%B4%EC%A0%9C-%EC%98%81%ED%98%B8-%EC%88%9C%EC%9E%90-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%B3%B4%EB%A9%B4-%EC%88%9C%EC%9E%90-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%EA%B2%8C-%EC%96%BC%EA%B5%B4%EC%97%90-%EB%8B%A4-%ED%8B%B0%EB%82%98%EB%8D%98%EB%8D%B0-5tlzn8ai#460860301",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T22:34:49+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:35:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -929881,7 +929901,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T22:31:55+09:00"
+      "slowAt": "2026-11-12T22:34:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -943891,7 +943911,8 @@
         "6679069",
         "6679079",
         "6679080",
-        "6679092"
+        "6679092",
+        "6679098"
       ]
     },
     "blind": {
@@ -955367,7 +955388,8 @@
         "4404108568",
         "4404115995",
         "4404122760",
-        "4404136054"
+        "4404136054",
+        "4404151411"
       ]
     },
     "keep": "v2",
