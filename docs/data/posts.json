@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:22:26+00:00",
+  "updatedAt": "2026-11-12T12:23:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -925953,6 +925953,25 @@
       "firstSeenAt": "2026-11-12T12:22:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106680,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EA%B7%BC%EB%8D%B0-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8B%A8%EC%96%B4%EB%9E%91-%EB%8B%A4%EB%A5%B4%EA%B2%8C-b4a36tsq",
+      "title": "영숙은 근데 사용하는 단어랑 다르게",
+      "excerpt": "성격 무난해보이는데.",
+      "author": "무****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%80-%EA%B7%BC%EB%8D%B0-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8B%A8%EC%96%B4%EB%9E%91-%EB%8B%A4%EB%A5%B4%EA%B2%8C-b4a36tsq",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T21:22:33+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T12:23:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -940105,7 +940124,8 @@
         "6678904",
         "6678905",
         "6678911",
-        "6678915"
+        "6678915",
+        "6678917"
       ]
     },
     "blind": {
