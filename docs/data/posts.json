@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T05:50:02+00:00",
+  "updatedAt": "2026-11-12T05:51:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -917589,6 +917589,85 @@
       "firstSeenAt": "2026-11-12T05:50:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106257,
+      "source": "qoo",
+      "externalId": "cmt-4403647459",
+      "title": "@5 맞아맞아",
+      "excerpt": "광수 밥도 얻어먹고 커피도 얻어먹네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403545010#4403647459",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T13:37:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:51:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106258,
+      "source": "blind",
+      "externalId": "cmt-460799689",
+      "title": "자연산도 중요한데 이쁜게 더 중요해",
+      "excerpt": "아.. 나 자연산인줄 알았는데 칼을 대긴 했다",
+      "author": "1*********",
+      "company": "롯데카드",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EB%82%98-%EC%9E%90%EC%97%B0%EC%82%B0%EC%9D%B8%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EC%B9%BC%EC%9D%84-%EB%8C%80%EA%B8%B4-%ED%96%88%EB%8B%A4-hhb02df7#460799689",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T14:50:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:51:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106259,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98%ED%98%95%EC%9D%80-%EB%A7%88%EC%9D%B8%EB%93%9C%EA%B0%80-%EC%A4%91%ED%95%99%EA%B5%902%ED%95%99%EB%85%84-%EA%B0%99%EB%84%A4-hdn0fuua",
+      "title": "광수형은 마인드가 중학교2학년 같네",
+      "excerpt": "\"나는 셀럽이야\" \"나라는 원석을 알아봐 줄 사람이 어딘가 기다리고 있어.\" 이런 생각하며 사는게 웃기네ㅋㅋ 아마 어디가서 댄스 멋있게 추면 여자들이 뙇 하고 반하는 상상 자주할 것 같음 ㅋㅋ",
+      "author": "o*****",
+      "company": "한국팜비오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%ED%98%95%EC%9D%80-%EB%A7%88%EC%9D%B8%EB%93%9C%EA%B0%80-%EC%A4%91%ED%95%99%EA%B5%902%ED%95%99%EB%85%84-%EA%B0%99%EB%84%A4-hdn0fuua",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T14:51:06+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T05:51:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106260,
+      "source": "blind",
+      "externalId": "cmt-460799791",
+      "title": "내가 자신 없었으면 자연산이라고 굳이 말은 안했을 것 같음 *^^*",
+      "excerpt": "아.. 나 자연산인줄 알았는데 칼을 대긴 했다",
+      "author": "l******* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EB%82%98-%EC%9E%90%EC%97%B0%EC%82%B0%EC%9D%B8%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EC%B9%BC%EC%9D%84-%EB%8C%80%EA%B8%B4-%ED%96%88%EB%8B%A4-hhb02df7#460799791",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T14:51:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:51:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -917773,7 +917852,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T14:48:20+09:00"
+      "slowAt": "2026-11-12T14:51:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -931635,7 +931714,8 @@
         "6677857",
         "6677865",
         "6677872",
-        "6677881"
+        "6677881",
+        "6677886"
       ]
     },
     "blind": {
@@ -934214,6 +934294,7 @@
         "/kr/post/%EC%95%84-%EB%82%98%EC%86%94%EB%85%B8%EB%9E%98%EC%9D%B4%EC%83%81%ED%95%B4-rfqhybta",
         "/kr/post/%EC%95%84-%EB%82%98-%EB%82%98%EC%86%94-34%EA%B8%B0-%EC%9D%B4%EC%A0%9C-%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%A3%BC%EB%A8%B9%EC%9D%B4-%EC%9A%B4%EB%8B%A4-6gyw2t7h",
         "/kr/post/%EC%95%84-%EB%82%98-%EC%98%81%ED%98%B8-%EB%A7%88%EC%9D%8C-%EC%95%8C%EC%95%98%EC%9D%8C-%EA%B1%8D-%EA%B7%B8-%EB%B6%84%EC%9C%84%EA%B8%B0%EA%B0%80-%EA%B0%9C%EB%B6%88%ED%8E%B8%ED%96%88%EB%8D%98-%EA%B2%83%EC%9E%84-b6qtlt3d",
+        "/kr/post/%EC%95%84-%EB%82%98-%EC%9E%90%EC%97%B0%EC%82%B0%EC%9D%B8%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EC%B9%BC%EC%9D%84-%EB%8C%80%EA%B8%B4-%ED%96%88%EB%8B%A4-hhb02df7",
         "/kr/post/%EC%95%84-%EB%82%A8%EC%B6%9C-%EC%98%A4%EB%B0%98%EB%8D%B0-xm8bbauz",
         "/kr/post/%EC%95%84-%EB%82%A8pd-%EC%9D%B4-%ED%98%90%ED%95%9C%EC%A0%9C%EC%A1%B0%EA%B8%B0-bkqb02py",
         "/kr/post/%EC%95%84-%EB%84%88%EB%AC%B4-%EC%8B%A4%EB%A7%9D%EC%9D%B8%EB%8D%B0-%EC%98%81%EC%B2%A0-6lybgo3h",
