@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T11:53:24+00:00",
+  "updatedAt": "2026-11-12T11:54:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -924347,6 +924347,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-12T11:53:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106599,
+      "source": "qoo",
+      "externalId": "4404065675",
+      "title": "이게머임 유치하기 짝이없다 진심",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4404065675",
+      "postedLabel": "20:54",
+      "postedAt": "2026-11-12T20:54:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T11:54:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -924458,7 +924477,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T20:51:06+09:00"
+      "slowAt": "2026-11-12T20:54:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -938443,6 +938462,7 @@
         "6678662",
         "6678672",
         "6678675",
+        "6678679",
         "6678758",
         "6678767",
         "6678770",
@@ -938621,6 +938641,7 @@
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%95%88%EC%A0%95%ED%99%98%EB%A7%8C-%EB%AA%BB%ED%95%9C%EB%8B%A4%EA%B3%A0%ED%95%98%EB%8D%98%EB%8D%B0-mp2zu5ls",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%95%88-%EB%B3%BC%EB%9E%AC%EB%8A%94%EB%8D%B0-tbniypym",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%97%A0%EC%94%A8%EB%8A%94-trpxshma",
+        "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%97%AC%EC%B6%9C%EB%93%A4%EC%9D%80-%EB%8F%88%EC%9D%B4-%EA%B8%89%ED%95%A8-jlt5jb7k",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%98%81%EC%88%98%EA%B0%80-%EC%9D%B4%ED%95%B4%EA%B0%80-%EC%95%88%EA%B0%80%EB%84%A4-usgomhkn",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%98%81%EC%88%98%EA%B5%AD%ED%99%94-xtevzl37",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%98%81%EC%88%98%EB%8A%94-%EC%A0%80-%EC%98%81%EC%83%81%EC%9D%84-%EB%82%98%EC%A4%91%EC%97%90-%EC%B6%94%EC%96%B5%EC%82%BC%EC%95%84-xlbisrru",
@@ -939393,6 +939414,7 @@
         "/kr/post/%EB%82%9C-%EC%98%81%EC%88%99-%EC%A2%8B%EC%95%84%EC%A1%8C%EB%8B%A4-rpc2p3nf",
         "/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%BA%90%EB%A6%AD%ED%84%B0-%EA%B8%B0%EC%88%98%EB%A7%88%EB%8B%A4-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-%EB%B3%B8%EB%8B%A4-ew7nqkr3",
         "/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-de4207ui",
+        "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8%EA%B0%80-%EC%A0%A4-%EB%B3%84%EB%A1%9C%EA%B0%99%EC%9D%80%EB%8D%B0-03td13ui",
         "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8%EB%B3%84%EB%A1%A0%EB%8D%B0-tp1tndzy",
         "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8%EB%B3%B4%EB%8B%A8-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EB%82%AB%EB%8B%A4%EA%B3%A0%EC%83%9D%EA%B0%81%ED%95%A8-83l23osk",
         "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8%EB%B3%B4%EB%8B%A8-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%82%AB%EB%8B%A4%EC%83%9D%EA%B0%81%ED%95%B4-u2h5gzul",
@@ -949882,7 +949904,8 @@
         "4404031314",
         "4404048792",
         "4404058245",
-        "4404059441"
+        "4404059441",
+        "4404065675"
       ]
     },
     "keep": "v2",
