@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T05:08:38+00:00",
+  "updatedAt": "2026-11-12T05:10:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -916007,6 +916007,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T05:08:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106177,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%9C-%EC%99%9C-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%ED%81%AC%EA%B2%8C-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4-%EC%95%84%EB%8B%88%EC%A7%80-5pl8h0jr",
+      "title": "난 왜 영철이가 크게 비호감이 아니지?",
+      "excerpt": "가볍고 급한 경향이 영철이의 단점인데 장점도 명확한거같음. 내려놓아야할 때 내려놓을 줄 알고 사람이 진솔한 편 같음",
+      "author": "i*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%99%9C-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%ED%81%AC%EA%B2%8C-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4-%EC%95%84%EB%8B%88%EC%A7%80-5pl8h0jr",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T14:08:43+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T05:10:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106178,
+      "source": "blind",
+      "externalId": "cmt-460795094",
+      "title": "ㅇㅇ 남출이 훨 나음",
+      "excerpt": "34기 남자들 영철 빼고",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EB%82%A8%EC%9E%90%EB%93%A4-%EC%98%81%EC%B2%A0-%EB%B9%BC%EA%B3%A0-2p3bhqj5#460795094",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T14:08:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:10:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106179,
+      "source": "blind",
+      "externalId": "/kr/post/34-%EA%B4%91%EC%88%98-%EB%88%88%EB%B9%9B-%EC%A1%B4%EB%82%98-jzt1dd3k",
+      "title": "34 광수 눈빛 존나....",
+      "excerpt": "생선 눈깔의 눈빛 ㅇ ㅑ동에 절어있는 눈빛인데..? 돌아있는 정도가 아니라 그냥 썩었어 절대 만나면 안될 유형",
+      "author": "j*****",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EA%B4%91%EC%88%98-%EB%88%88%EB%B9%9B-%EC%A1%B4%EB%82%98-jzt1dd3k",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T14:09:43+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T05:10:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -916191,7 +916249,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T14:07:01+09:00"
+      "slowAt": "2026-11-12T14:09:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -930020,7 +930078,8 @@
         "6677743",
         "6677755",
         "6677757",
-        "6677761"
+        "6677761",
+        "6677762"
       ]
     },
     "blind": {
