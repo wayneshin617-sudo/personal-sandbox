@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T20:00:08+00:00",
+  "updatedAt": "2026-11-12T20:02:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -933181,6 +933181,46 @@
       "firstSeenAt": "2026-11-12T20:00:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107047,
+      "source": "dc",
+      "externalId": "cmt-11017441",
+      "title": "그럼취소",
+      "excerpt": "영호 키가 5센티만 작아도 지금 인기 못된다",
+      "author": "김크리에이터",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679888&page=3#cmt_11017441",
+      "postedLabel": "11.13 01:05:10",
+      "postedAt": "2026-11-13T01:05:10+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T20:02:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107048,
+      "source": "dc",
+      "externalId": "cmt-11017442",
+      "title": "취소한다",
+      "excerpt": "영호 키가 5센티만 작아도 지금 인기 못된다",
+      "author": "김크리에이터",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679888&page=3#cmt_11017442",
+      "postedLabel": "11.13 01:05:14",
+      "postedAt": "2026-11-13T01:05:14+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T20:02:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -933365,7 +933405,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T04:58:50+09:00"
+      "slowAt": "2026-11-13T05:01:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -947423,6 +947463,7 @@
         "6679875",
         "6679884",
         "6679885",
+        "6679888",
         "6679902",
         "6679910",
         "6679911",
