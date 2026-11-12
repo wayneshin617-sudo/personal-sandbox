@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:00:25+00:00",
+  "updatedAt": "2026-11-12T12:01:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -924922,6 +924922,65 @@
       "firstSeenAt": "2026-11-12T12:00:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106628,
+      "source": "dc",
+      "externalId": "cmt-11016651",
+      "title": "ㄹㅇ 끌리는 여자 전혀 없는데 빈손으로 가기엔 민망해서 그런듯 - dc App",
+      "excerpt": "영호는 맘에 드는사람 없는거지",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678704&page=3#cmt_11016651",
+      "postedLabel": "11.12 20:07:43",
+      "postedAt": "2026-11-12T20:07:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:01:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106629,
+      "source": "dc",
+      "externalId": "6678852",
+      "title": "지금 부동산 매수하면 설거지라는 그대를 위한 편지",
+      "excerpt": "",
+      "author": "야르",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678852&page=1",
+      "postedLabel": "21:00",
+      "postedAt": "2026-11-12T21:00:25+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:01:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106630,
+      "source": "blind",
+      "externalId": "cmt-460845213",
+      "title": "왜케 현실인식안되는 친구들이 많을까 모든 여출이 영호 픽하는데 그걸 묻고 영수는 고독정식인데 그게 현실임",
+      "excerpt": "근데 영수 왜 인기 없는거임?",
+      "author": "j******",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%98-%EC%99%9C-%EC%9D%B8%EA%B8%B0-%EC%97%86%EB%8A%94%EA%B1%B0%EC%9E%84-ntwee41d#460845213",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T21:01:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T12:01:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -925106,7 +925165,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T20:58:08+09:00"
+      "slowAt": "2026-11-12T21:01:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -939024,6 +939083,7 @@
         "6678694",
         "6678696",
         "6678702",
+        "6678704",
         "6678758",
         "6678767",
         "6678770",
