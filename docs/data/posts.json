@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T12:59:04+00:00",
+  "updatedAt": "2026-11-12T13:00:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -927794,6 +927794,46 @@
       "firstSeenAt": "2026-11-12T12:59:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106773,
+      "source": "dc",
+      "externalId": "cmt-11016857",
+      "title": "예뻐도 자기랑 똑같이 머가리 텅텅인 여자였겠지 - dc App",
+      "excerpt": "영철 사귄여자 중 존예 별로없을거ㅇㅇ",
+      "author": "Zzz",
+      "company": "",
+      "ip": "210.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6678849&page=3#cmt_11016857",
+      "postedLabel": "11.12 21:02:03",
+      "postedAt": "2026-11-12T21:02:03+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:00:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106774,
+      "source": "dc",
+      "externalId": "cmt-11017059",
+      "title": "겠누 ㅋㅋㅋ 도태한녀들 집합소다 여기",
+      "excerpt": "근데 여기 글 쓰는 여자들 다 그렇게 잘난 여자들이냐?",
+      "author": "날붕이",
+      "company": "",
+      "ip": "175.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679004&page=1#cmt_11017059",
+      "postedLabel": "11.12 22:00:19",
+      "postedAt": "2026-11-12T22:00:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:00:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -927978,7 +928018,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T21:57:17+09:00"
+      "slowAt": "2026-11-12T22:00:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -941941,6 +941981,7 @@
         "6678828",
         "6678830",
         "6678839",
+        "6678849",
         "6678856",
         "6678861",
         "6678865",
@@ -941967,7 +942008,8 @@
         "6678981",
         "6678996",
         "6678999",
-        "6679000"
+        "6679000",
+        "6679004"
       ]
     },
     "blind": {
