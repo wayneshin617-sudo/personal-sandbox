@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:46:33+00:00",
+  "updatedAt": "2026-11-12T13:47:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -930466,6 +930466,44 @@
       "firstSeenAt": "2026-11-12T13:46:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106908,
+      "source": "dc",
+      "externalId": "6679200",
+      "title": "세네갈 여자들 시력이 안좋나본대",
+      "excerpt": "",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679200&page=1",
+      "postedLabel": "22:46",
+      "postedAt": "2026-11-12T22:46:41+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:47:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106909,
+      "source": "dc",
+      "externalId": "6679207",
+      "title": "와 핫팯츠",
+      "excerpt": "",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679207&page=1",
+      "postedLabel": "22:47",
+      "postedAt": "2026-11-12T22:47:35+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:47:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -930577,7 +930615,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T22:44:49+09:00"
+      "slowAt": "2026-11-12T22:47:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -944668,7 +944706,8 @@
         "6679117",
         "6679140",
         "6679149",
-        "6679160"
+        "6679160",
+        "6679189"
       ]
     },
     "blind": {
