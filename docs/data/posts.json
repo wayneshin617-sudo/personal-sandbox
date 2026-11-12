@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T05:56:53+00:00",
+  "updatedAt": "2026-11-12T05:58:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -917928,6 +917928,65 @@
       "firstSeenAt": "2026-11-12T05:56:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106274,
+      "source": "qoo",
+      "externalId": "cmt-4403669981",
+      "title": "어쩐지 댓글보려고 찾아봐도 ㅅㅍ글 업ㄹ더라고 ㄷㄷㄷ 뭐미",
+      "excerpt": "내 글은 스포일거도 없긴 했는데 혹시 몰라서 ㅅㅍ 달아뒀더니 삭제됐다고 알림왔네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403649623#4403669981",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T13:57:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:58:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106275,
+      "source": "blind",
+      "externalId": "cmt-460800405",
+      "title": "인스타 어떨까",
+      "excerpt": "광수형은 마인드가 중학교2학년 같네",
+      "author": "크**",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%ED%98%95%EC%9D%80-%EB%A7%88%EC%9D%B8%EB%93%9C%EA%B0%80-%EC%A4%91%ED%95%99%EA%B5%902%ED%95%99%EB%85%84-%EA%B0%99%EB%84%A4-hdn0fuua#460800405",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-12T14:56:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:58:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106276,
+      "source": "qoo",
+      "externalId": "4403746922",
+      "title": "이번주꺼 재밌었어??",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403746922",
+      "postedLabel": "14:58",
+      "postedAt": "2026-11-12T14:58:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T05:58:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -918039,7 +918098,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T14:55:13+09:00"
+      "slowAt": "2026-11-12T14:57:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -931950,6 +932009,7 @@
         "6677715",
         "6677721",
         "6677724",
+        "6677727",
         "6677729",
         "6677733",
         "6677738",
@@ -943356,7 +943416,8 @@
         "4403649623",
         "4403681788",
         "4403697372",
-        "4403715905"
+        "4403715905",
+        "4403746922"
       ]
     },
     "keep": "v2",
