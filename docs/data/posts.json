@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T11:39:25+00:00",
+  "updatedAt": "2026-11-12T11:40:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -922694,6 +922694,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T11:39:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 106516,
+      "source": "qoo",
+      "externalId": "cmt-4404004266",
+      "title": "ㄹㅇ",
+      "excerpt": "튜닝발언 다음날 문득 떠오를 정도로 내가 다 불쾌함",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403774763#4404004266",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T19:39:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T11:40:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -922878,7 +922898,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T20:37:06+09:00"
+      "slowAt": "2026-11-12T20:40:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -936775,13 +936795,15 @@
         "6678610",
         "6678618",
         "6678620",
+        "6678621",
         "6678758",
         "6678767",
         "6678770",
         "6678773",
         "6678782",
         "6678783",
-        "6678793"
+        "6678793",
+        "6678795"
       ]
     },
     "blind": {
