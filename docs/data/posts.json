@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:43:55+00:00",
+  "updatedAt": "2026-11-12T04:45:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -915194,6 +915194,45 @@
       "firstSeenAt": "2026-11-12T04:43:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106136,
+      "source": "qoo",
+      "externalId": "cmt-4403591803",
+      "title": "나도 여자들이 찾아와서 상담하고 그런거보고 ㅇㅇ",
+      "excerpt": "영숙 말 무례하게 한다 생각했는데 또 지내보면 괜찮은 사람인가봐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403590126#4403591803",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:44:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:45:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106137,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90%EC%9D%98-%EC%88%98%EB%82%9C%EC%8B%9C%EB%8C%80-mr2clkry",
+      "title": "순자의 수난시대",
+      "excerpt": "초반에는 영숙이가 문밍아웃 시키구 중반부엔 영수가 문신 확인사살에 성형 아웃팅 하고 영수가 면허 아웃팅해서 면허없는것도 걸리고 영수 영숙이 순자를 잘패네",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EC%9D%98-%EC%88%98%EB%82%9C%EC%8B%9C%EB%8C%80-mr2clkry",
+      "postedLabel": "5분",
+      "postedAt": "2026-11-12T13:39:58+09:00",
+      "views": 27,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-12T04:45:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -915378,7 +915417,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T13:42:13+09:00"
+      "slowAt": "2026-11-12T13:44:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -929182,7 +929221,8 @@
         "6677661",
         "6677666",
         "6677672",
-        "6677674"
+        "6677674",
+        "6677678"
       ]
     },
     "blind": {
