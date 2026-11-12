@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T03:37:26+00:00",
+  "updatedAt": "2026-11-12T03:38:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -910512,6 +910512,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T03:37:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 105900,
+      "source": "qoo",
+      "externalId": "cmt-4403533540",
+      "title": "원래도 잘생겼단 생각은 안했어서",
+      "excerpt": "영호 갈수록 안잘생겨보임",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403531890#4403533540",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T11:37:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:38:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105901,
+      "source": "dc",
+      "externalId": "cmt-11015113",
+      "title": "아니야 아직 한방이 부족해",
+      "excerpt": "영철이는 병원 좀 가봐야함",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677141&page=6#cmt_11015113",
+      "postedLabel": "11.12 11:45:03",
+      "postedAt": "2026-11-12T11:45:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:38:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105902,
+      "source": "dc",
+      "externalId": "6677472",
+      "title": "순자는 흉통이 넓어서 조금만 볼륨있어도 커보임",
+      "excerpt": "",
+      "author": "라갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677472&page=1",
+      "postedLabel": "12:38",
+      "postedAt": "2026-11-12T12:38:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:38:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105903,
+      "source": "blind",
+      "externalId": "cmt-460784571",
+      "title": "다이나거인? 닮음 ㅋㅋ",
+      "excerpt": "진격거 보신분들? 영자님",
+      "author": "서***",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EA%B2%A9%EA%B1%B0-%EB%B3%B4%EC%8B%A0%EB%B6%84%EB%93%A4-%EC%98%81%EC%9E%90%EB%8B%98-f856yutb#460784571",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T12:38:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T03:38:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -910623,7 +910702,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T12:35:11+09:00"
+      "slowAt": "2026-11-12T12:38:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -924355,16 +924434,19 @@
         "6677127",
         "6677135",
         "6677137",
+        "6677141",
         "6677289",
         "6677290",
         "6677296",
         "6677297",
         "6677303",
         "6677304",
+        "6677310",
         "6677442",
         "6677452",
         "6677456",
-        "6677458"
+        "6677458",
+        "6677470"
       ]
     },
     "blind": {
