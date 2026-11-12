@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:38:24+00:00",
+  "updatedAt": "2026-11-12T04:39:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -915038,6 +915038,64 @@
       "firstSeenAt": "2026-11-12T04:38:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106128,
+      "source": "qoo",
+      "externalId": "cmt-4403586360",
+      "title": "딱 맘에 드는 사람 없어보여",
+      "excerpt": "걍 영호 끌리는 사람이 딱히 없는 상태인듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4403584107#4403586360",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T12:39:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:39:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106129,
+      "source": "dc",
+      "externalId": "6677663",
+      "title": "34기 영숙 16기 영숙이랑 똑같이 생겼네",
+      "excerpt": "",
+      "author": "나는야퉁퉁이",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677663&page=1",
+      "postedLabel": "13:38",
+      "postedAt": "2026-11-12T13:38:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:39:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 106130,
+      "source": "qoo",
+      "externalId": "4403649623",
+      "title": "내 글은 스포일거도 없긴 했는데 혹시 몰라서 ㅅㅍ 달아뒀더니 삭제됐다고 알림왔네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4403649623",
+      "postedLabel": "13:39",
+      "postedAt": "2026-11-12T13:39:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:39:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -915222,7 +915280,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T13:36:45+09:00"
+      "slowAt": "2026-11-12T13:39:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -929020,7 +929078,9 @@
         "6677642",
         "6677643",
         "6677652",
-        "6677654"
+        "6677654",
+        "6677656",
+        "6677661"
       ]
     },
     "blind": {
@@ -940374,7 +940434,8 @@
         "4403610375",
         "4403611544",
         "4403614928",
-        "4403618134"
+        "4403618134",
+        "4403649623"
       ]
     },
     "keep": "v2",
