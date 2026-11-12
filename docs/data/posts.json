@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T19:30:09+00:00",
+  "updatedAt": "2026-11-12T19:31:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -932762,6 +932762,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-12T19:30:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107026,
+      "source": "qoo",
+      "externalId": "cmt-4404317104",
+      "title": "ㄴㄷ",
+      "excerpt": "뭔가 정숙이 아까움",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404305205#4404317104",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T03:30:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T19:31:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -947000,6 +947020,7 @@
         "6680012",
         "6680013",
         "6680015",
+        "6680017",
         "6680043",
         "6680048",
         "6680050",
