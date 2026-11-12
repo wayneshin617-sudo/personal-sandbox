@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T04:41:10+00:00",
+  "updatedAt": "2026-11-12T04:42:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -915155,6 +915155,25 @@
       "firstSeenAt": "2026-11-12T04:41:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106134,
+      "source": "dc",
+      "externalId": "6677670",
+      "title": "영숙 특징",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677670&page=1",
+      "postedLabel": "13:41",
+      "postedAt": "2026-11-12T13:41:30+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T04:42:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -915339,7 +915358,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T13:39:33+09:00"
+      "slowAt": "2026-11-12T13:42:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -929141,7 +929160,8 @@
         "6677654",
         "6677656",
         "6677661",
-        "6677666"
+        "6677666",
+        "6677672"
       ]
     },
     "blind": {
