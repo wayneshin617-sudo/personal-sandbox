@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T00:49:16+00:00",
+  "updatedAt": "2026-11-12T00:52:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -907462,6 +907462,65 @@
       "firstSeenAt": "2026-11-12T00:49:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 105744,
+      "source": "blind",
+      "externalId": "cmt-460764561",
+      "title": "그지?ㅋㅋ",
+      "excerpt": "흐음",
+      "author": "i***** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9D%90%EC%9D%8C-z536shjb#460764561",
+      "postedLabel": "11분",
+      "postedAt": "2026-11-12T09:40:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:52:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 105745,
+      "source": "dc",
+      "externalId": "6677027",
+      "title": "34기 현숙을 보고 떠오른 닮은 꼴.",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "220.76",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6677027&page=1",
+      "postedLabel": "09:51",
+      "postedAt": "2026-11-12T09:51:04+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:52:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 105746,
+      "source": "blind",
+      "externalId": "cmt-460765922",
+      "title": "오히려 반대라서 매력있는건데 밥상엎을거같이 생겨가자고 의외로 차분하고 매우 이성적임",
+      "excerpt": "순자는 확신의 이모상이고",
+      "author": "g*********",
+      "company": "한국농어촌공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%ED%99%95%EC%8B%A0%EC%9D%98-%EC%9D%B4%EB%AA%A8%EC%83%81%EC%9D%B4%EA%B3%A0-xmt5bm20#460765922",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-12T09:51:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T00:52:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -907573,7 +907632,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-12T09:48:58+09:00"
+      "slowAt": "2026-11-12T09:51:49+09:00"
     },
     "ig": {
       "doneIds": [
@@ -921259,6 +921318,7 @@
         "6676890",
         "6676892",
         "6676895",
+        "6676898",
         "6676901",
         "6676905",
         "6676920",
@@ -921284,7 +921344,8 @@
         "6677016",
         "6677017",
         "6677019",
-        "6677023"
+        "6677023",
+        "6677024"
       ]
     },
     "blind": {
