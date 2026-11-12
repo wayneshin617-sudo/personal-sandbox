@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-12T13:53:47+00:00",
+  "updatedAt": "2026-11-12T13:55:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -930780,6 +930780,66 @@
       "firstSeenAt": "2026-11-12T13:53:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 106924,
+      "source": "qoo",
+      "externalId": "cmt-4404095431",
+      "title": "현숙 진짜 무슨 죄야 ㅠㅠ",
+      "excerpt": "이게머임 유치하기 짝이없다 진심",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404065675#4404095431",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T21:29:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:55:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106925,
+      "source": "qoo",
+      "externalId": "cmt-4404113673",
+      "title": "진짜 개싫다",
+      "excerpt": "이게머임 유치하기 짝이없다 진심",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404065675#4404113673",
+      "postedLabel": "",
+      "postedAt": "2026-11-12T21:50:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:55:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 106926,
+      "source": "dc",
+      "externalId": "cmt-11017172",
+      "title": "나스닥 ㅈ댓다 ㅅㅂ - dc App",
+      "excerpt": "속보 ㅡ 젠슨황 사임",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6679269&page=1#cmt_11017172",
+      "postedLabel": "11.12 22:53:38",
+      "postedAt": "2026-11-12T22:53:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-12T13:55:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -930964,7 +931024,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-12T22:52:03+09:00"
+      "slowAt": "2026-11-12T22:54:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -944988,7 +945048,8 @@
         "6679189",
         "6679208",
         "6679225",
-        "6679232"
+        "6679232",
+        "6679269"
       ]
     },
     "blind": {
@@ -946953,6 +947014,7 @@
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%99%B8%EA%B5%AD%EC%9D%B8%ED%8A%B9%EC%A7%91-2p4faccl",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EA%B5%AD%ED%99%94-22%EA%B8%B0-%EC%83%81%EC%B2%A0-%EA%B7%B8%EB%A6%BC%EC%B2%B4%EA%B0%80-%EB%B9%84%EC%8A%B7%ED%95%B4%EC%84%9C-yfdx4tcg",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%99%B8%EA%B5%AD%EC%9D%B8-%ED%8A%B9%EC%A7%91%E2%80%A6-ljbohvt4",
+        "/kr/post/%EC%82%AC%EA%B3%84-%EC%99%B8%EA%B5%AD-%EC%97%AC%EC%9E%90%EB%B6%84%EB%93%A4%EC%9D%80-%EC%99%9C-43jgi3cd",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%9E%91%EC%95%BD-%EC%A7%84%EC%A7%9C-%EB%94%B1-bsga48f4",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%9E%AC%EB%B0%8C%EB%8A%94-%ED%9A%8C%EC%B0%A8-%EC%B6%94%EC%B2%9C%EC%A2%80%E3%85%8E%E3%85%8E%E3%85%8E-kxfxsjgb",
         "/kr/post/%EC%82%AC%EA%B3%84-%EC%B2%9C%EB%B2%8C%ED%8A%B9%EC%A7%91-oag1wyzv",
