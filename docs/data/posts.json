@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T07:33:22+00:00",
+  "updatedAt": "2026-11-13T07:35:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -942044,6 +942044,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T07:33:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107495,
+      "source": "dc",
+      "externalId": "cmt-11018773",
+      "title": "늙크크라 - dc App",
+      "excerpt": "와 여기 어디냐 부안 채석강이라매",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680952&page=2#cmt_11018773",
+      "postedLabel": "11.13 15:56:22",
+      "postedAt": "2026-11-13T15:56:22+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:35:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107496,
+      "source": "dc",
+      "externalId": "cmt-11018775",
+      "title": "멀수록 여행 분위기나자나 - dc App",
+      "excerpt": "와 여기 어디냐 부안 채석강이라매",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680952&page=2#cmt_11018775",
+      "postedLabel": "11.13 15:56:59",
+      "postedAt": "2026-11-13T15:56:59+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:35:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -942155,7 +942195,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T16:33:03+09:00"
+      "slowAt": "2026-11-13T16:35:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -956562,6 +956602,7 @@
         "6680943",
         "6680944",
         "6680947",
+        "6680952",
         "6680954",
         "6680963",
         "6680966",
