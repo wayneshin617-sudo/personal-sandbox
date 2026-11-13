@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T14:46:21+00:00",
+  "updatedAt": "2026-11-13T14:47:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -945943,6 +945943,45 @@
       "firstSeenAt": "2026-11-13T14:46:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107693,
+      "source": "qoo",
+      "externalId": "cmt-4405188191",
+      "title": "어디갔니 원덬아ㅠㅠㅠㅠㅠ",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405188191",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T22:46:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:47:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107694,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EC%95%A0%EA%B8%B0-%EA%B0%99%EC%9D%80-%EB%A7%90%ED%88%AC%EA%B0%80-%EA%B1%B0%EC%8A%AC%EB%A6%BC-4hfmzmsp",
+      "title": "34기 현숙 애기 같은 말투가 거슬림",
+      "excerpt": "처음엔 발음이 좀 안좋은 편인가? 말투가 느려서 그런가? 정도 생각했는데 씹프피글 보고나서 깨달음 추구미가 ‘순수하고 착한 나’라서 말투가 애기 같고 의도적으로 웅얼댐 뭐라 말로 표현하기 어려우나 계속 듣다보니 거슬리는 말투",
+      "author": "y********",
+      "company": "외교부",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EC%95%A0%EA%B8%B0-%EA%B0%99%EC%9D%80-%EB%A7%90%ED%88%AC%EA%B0%80-%EA%B1%B0%EC%8A%AC%EB%A6%BC-4hfmzmsp",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T23:47:17+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-13T14:47:35+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -946127,7 +946166,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T23:44:43+09:00"
+      "slowAt": "2026-11-13T23:47:17+09:00"
     },
     "dc": {
       "doneIds": [
@@ -960555,6 +960594,7 @@
         "6681522",
         "6681527",
         "6681531",
+        "6681534",
         "6681535",
         "6681542",
         "6681546",
