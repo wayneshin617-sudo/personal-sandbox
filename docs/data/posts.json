@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T14:34:05+00:00",
+  "updatedAt": "2026-11-13T14:36:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -945704,6 +945704,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T14:34:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107681,
+      "source": "qoo",
+      "externalId": "cmt-4405174672",
+      "title": "알려줘 ㅠ",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405174672",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T22:36:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:36:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -945815,7 +945835,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T23:32:49+09:00"
+      "slowAt": "2026-11-13T23:35:49+09:00"
     },
     "ig": {
       "doneIds": [
