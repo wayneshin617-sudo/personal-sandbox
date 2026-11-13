@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T02:39:39+00:00",
+  "updatedAt": "2026-11-13T02:40:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -938032,6 +938032,45 @@
       "firstSeenAt": "2026-11-13T02:39:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107292,
+      "source": "qoo",
+      "externalId": "cmt-4404443816",
+      "title": "ㅇㅇ마음 가는 사람이 없어 보여",
+      "excerpt": "영호는 아무한테도 반하지 않은거 같아",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404428329#4404443816",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T10:40:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T02:40:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107293,
+      "source": "qoo",
+      "externalId": "4404494105",
+      "title": "연프 나오는 일반인 다 관종 맞음ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4404494105",
+      "postedLabel": "11:40",
+      "postedAt": "2026-11-13T11:40:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T02:40:49+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -952436,7 +952475,8 @@
         "6680509",
         "6680511",
         "6680518",
-        "6680519"
+        "6680519",
+        "6680525"
       ]
     },
     "blind": {
@@ -963989,7 +964029,8 @@
         "4404428329",
         "4404473265",
         "4404481389",
-        "4404482784"
+        "4404482784",
+        "4404494105"
       ]
     },
     "keep": "v2",
