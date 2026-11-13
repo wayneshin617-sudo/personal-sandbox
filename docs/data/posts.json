@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T00:32:45+00:00",
+  "updatedAt": "2026-11-13T00:39:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -935220,6 +935220,26 @@
       "firstSeenAt": "2026-11-13T00:32:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107150,
+      "source": "dc",
+      "externalId": "cmt-11017767",
+      "title": "ㅁㅊ 왜이렇게 질질끌어",
+      "excerpt": "촌장에서 스포한 영상 그거",
+      "author": "kimsexer",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680174&page=3#cmt_11017767",
+      "postedLabel": "11.13 07:47:29",
+      "postedAt": "2026-11-13T07:47:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T00:39:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -935404,7 +935424,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T09:36:26+09:00"
+      "slowAt": "2026-11-13T09:39:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -949527,6 +949547,7 @@
         "6680163",
         "6680165",
         "6680171",
+        "6680174",
         "6680197",
         "6680203",
         "6680205",
