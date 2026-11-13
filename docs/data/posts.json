@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T06:59:13+00:00",
+  "updatedAt": "2026-11-13T07:01:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -941254,6 +941254,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-13T06:59:13+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107455,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%9C-%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%82%B4-%EC%8A%A4%ED%83%88%EB%A1%9C-%EC%98%88%EC%81%9C%EB%8D%B0-ogkmc0am",
+      "title": "난 옥순이 내 스탈로 예쁜데",
+      "excerpt": "글고 거기서 상위권이라고도 생각함 근데 왜 별로 인기가 없지 옥순 보다 순자가 인기 잇는 게 이해 안 돼",
+      "author": "아******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%82%B4-%EC%8A%A4%ED%83%88%EB%A1%9C-%EC%98%88%EC%81%9C%EB%8D%B0-ogkmc0am",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-13T16:00:32+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-13T07:01:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 107456,
+      "source": "blind",
+      "externalId": "cmt-460954344",
+      "title": "정말 모르겟니",
+      "excerpt": "난 옥순이 내 스탈로 예쁜데",
+      "author": "i******",
+      "company": "ASML",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%82%B4-%EC%8A%A4%ED%83%88%EB%A1%9C-%EC%98%88%EC%81%9C%EB%8D%B0-ogkmc0am#460954344",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T16:01:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:01:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -941365,7 +941404,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T15:58:56+09:00"
+      "slowAt": "2026-11-13T16:01:32+09:00"
     },
     "ig": {
       "doneIds": [
@@ -956740,6 +956779,7 @@
         "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8%EB%B3%B4%EB%8B%A8-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%EB%82%AB%EB%8B%A4%EA%B3%A0%EC%83%9D%EA%B0%81%ED%95%A8-83l23osk",
         "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8%EB%B3%B4%EB%8B%A8-%EC%98%81%EC%B2%A0%EC%9D%B4-%EB%82%AB%EB%8B%A4%EC%83%9D%EA%B0%81%ED%95%B4-u2h5gzul",
         "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8vs%EC%98%81%EC%B2%A0-%EC%98%81%EC%B2%A0-%EC%9D%91%EC%9B%90%ED%95%A8-e4f416ue",
+        "/kr/post/%EB%82%9C-%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%82%B4-%EC%8A%A4%ED%83%88%EB%A1%9C-%EC%98%88%EC%81%9C%EB%8D%B0-ogkmc0am",
         "/kr/post/%EB%82%9C-%EC%98%A5%EC%88%9C-%EB%B3%B4%EA%B3%A0-%ED%97%88%EC%9C%A4%EC%A7%84-%EC%83%9D%EA%B0%81%EB%82%AC%EB%8A%94%EB%8D%B0-yr5acoss",
         "/kr/post/%EB%82%9C-%EC%99%9C-%EC%98%81%EC%B2%A0%EC%9D%B4%EA%B0%80-%ED%81%AC%EA%B2%8C-%EB%B9%84%ED%98%B8%EA%B0%90%EC%9D%B4-%EC%95%84%EB%8B%88%EC%A7%80-5pl8h0jr",
         "/kr/post/%EB%82%9C-%EC%9B%90%ED%94%BD-lrv35x6y",
