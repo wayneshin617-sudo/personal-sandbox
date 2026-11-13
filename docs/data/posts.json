@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T14:44:01+00:00",
+  "updatedAt": "2026-11-13T14:46:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -945903,6 +945903,46 @@
       "firstSeenAt": "2026-11-13T14:44:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107691,
+      "source": "blind",
+      "externalId": "cmt-461016420",
+      "title": "내가 보기엔 표정 뚱하고 우울하고 자신감 없어보임",
+      "excerpt": "근데 옥순 여태까지 대부분 긍정적인 말밖에 안했는데",
+      "author": "b******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%A5%EC%88%9C-%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80-%EB%8C%80%EB%B6%80%EB%B6%84-%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%B8-%EB%A7%90%EB%B0%96%EC%97%90-%EC%95%88%ED%96%88%EB%8A%94%EB%8D%B0-xxiebhnv#461016420",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-13T23:45:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:46:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107692,
+      "source": "blind",
+      "externalId": "cmt-461016470",
+      "title": "글쿤아",
+      "excerpt": "근데 옥순 여태까지 대부분 긍정적인 말밖에 안했는데",
+      "author": "i****** 작성자",
+      "company": "어댑트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%A5%EC%88%9C-%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80-%EB%8C%80%EB%B6%80%EB%B6%84-%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%B8-%EB%A7%90%EB%B0%96%EC%97%90-%EC%95%88%ED%96%88%EB%8A%94%EB%8D%B0-xxiebhnv#461016470",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T23:46:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:46:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -946014,7 +946054,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T23:42:29+09:00"
+      "slowAt": "2026-11-13T23:46:02+09:00"
     },
     "ig": {
       "doneIds": [
@@ -960547,6 +960587,7 @@
         "6681644",
         "6681649",
         "6681656",
+        "6681657",
         "6681661",
         "6681677",
         "6681688",
@@ -960562,7 +960603,8 @@
         "6681755",
         "6681766",
         "6681770",
-        "6681779"
+        "6681779",
+        "6681781"
       ]
     },
     "blind": {
