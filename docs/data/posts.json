@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T01:44:14+00:00",
+  "updatedAt": "2026-11-13T01:46:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -936828,6 +936828,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-13T01:44:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107231,
+      "source": "dc",
+      "externalId": "6680442",
+      "title": "남피디야 시청률 봐라 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "joker",
+      "company": "",
+      "ip": "175.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680442&page=1",
+      "postedLabel": "10:45",
+      "postedAt": "2026-11-13T10:45:25+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:46:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -936939,7 +936958,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T10:42:43+09:00"
+      "slowAt": "2026-11-13T10:46:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -951207,7 +951226,8 @@
         "6680418",
         "6680421",
         "6680430",
-        "6680435"
+        "6680435",
+        "6680436"
       ]
     },
     "blind": {
