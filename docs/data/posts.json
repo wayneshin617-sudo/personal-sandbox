@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T14:24:10+00:00",
+  "updatedAt": "2026-11-13T14:26:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -945350,6 +945350,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T14:24:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107663,
+      "source": "qoo",
+      "externalId": "cmt-4405162237",
+      "title": "좋아좋아 알려줘!!!!!!!",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405162237",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T22:25:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:26:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107664,
+      "source": "blind",
+      "externalId": "cmt-461013520",
+      "title": "ㅇㅇ 좀 뚱해 보이긴 해도, 전혀 우울해 보이진 않던데 그런 말이 많더라.",
+      "excerpt": "근데 옥순 여태까지 대부분 긍정적인 말밖에 안했는데",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%A5%EC%88%9C-%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80-%EB%8C%80%EB%B6%80%EB%B6%84-%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%B8-%EB%A7%90%EB%B0%96%EC%97%90-%EC%95%88%ED%96%88%EB%8A%94%EB%8D%B0-xxiebhnv#461013520",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-13T23:24:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:26:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107665,
+      "source": "blind",
+      "externalId": "cmt-461013661",
+      "title": "약간 나른해 보이는?! 인상인데 나는 되게 매력적으로 보고 있음.",
+      "excerpt": "근데 옥순 여태까지 대부분 긍정적인 말밖에 안했는데",
+      "author": "l*********",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%A5%EC%88%9C-%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80-%EB%8C%80%EB%B6%80%EB%B6%84-%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%B8-%EB%A7%90%EB%B0%96%EC%97%90-%EC%95%88%ED%96%88%EB%8A%94%EB%8D%B0-xxiebhnv#461013661",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T23:25:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:26:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -945534,7 +945594,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T23:22:49+09:00"
+      "slowAt": "2026-11-13T23:25:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -959953,6 +960013,7 @@
         "6681486",
         "6681489",
         "6681502",
+        "6681505",
         "6681522",
         "6681527",
         "6681531",
@@ -959974,6 +960035,7 @@
         "6681591",
         "6681593",
         "6681598",
+        "6681602",
         "6681631",
         "6681635",
         "6681640",
@@ -959988,7 +960050,8 @@
         "6681714",
         "6681719",
         "6681727",
-        "6681728"
+        "6681728",
+        "6681739"
       ]
     },
     "blind": {
