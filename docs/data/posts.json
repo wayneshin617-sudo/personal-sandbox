@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T14:29:06+00:00",
+  "updatedAt": "2026-11-13T14:30:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -945568,6 +945568,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T14:29:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107674,
+      "source": "dc",
+      "externalId": "cmt-11019467",
+      "title": "사업을 하려면 사람많은데서 해야돼. 경수가 악플러 힘들댄다. 너가 잘하고 있다는 얘기야.",
+      "excerpt": "경수도 순자닮아서 컨셉질 좆되잖아",
+      "author": "나솔",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6681412&page=5#cmt_11019467",
+      "postedLabel": "11.13 21:37:03",
+      "postedAt": "2026-11-13T21:37:03+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:30:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107675,
+      "source": "dc",
+      "externalId": "cmt-11019472",
+      "title": "이런짓을 하지마. 망상말고, 그냥 싫다고 해라.",
+      "excerpt": "순자 경수 사귄 날짜도 말 못하는게",
+      "author": "나솔",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6681510&page=4#cmt_11019472",
+      "postedLabel": "11.13 21:40:05",
+      "postedAt": "2026-11-13T21:40:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:30:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107676,
+      "source": "qoo",
+      "externalId": "cmt-4405166981",
+      "title": "궁금하다!!!",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405166981",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T22:29:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:30:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -945679,7 +945739,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T23:26:49+09:00"
+      "slowAt": "2026-11-13T23:29:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -960160,6 +960220,7 @@
         "6681386",
         "6681399",
         "6681403",
+        "6681412",
         "6681424",
         "6681435",
         "6681440",
@@ -960173,6 +960234,7 @@
         "6681489",
         "6681502",
         "6681505",
+        "6681510",
         "6681522",
         "6681527",
         "6681531",
