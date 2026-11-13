@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T07:01:50+00:00",
+  "updatedAt": "2026-11-13T07:03:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -941293,6 +941293,85 @@
       "firstSeenAt": "2026-11-13T07:01:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107457,
+      "source": "qoo",
+      "externalId": "cmt-4404676335",
+      "title": "거르긴 뭘 걸러 워딩부터가 얼척없고 웃김ㅋㅋㅋㅋㅋ 그럴 주제가 안되세요",
+      "excerpt": "커뮤에서 남자들 문신 성형 어쩌고 고양이 키우는 여자는 어쩌고 해도",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404654379#4404676335",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T15:02:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:03:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107458,
+      "source": "blind",
+      "externalId": "cmt-460953135",
+      "title": "ㅋㅋ 박갈?",
+      "excerpt": "영자 웹툰 소녀재판 주인공 닮음",
+      "author": "G****",
+      "company": "한일병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90-%EC%9B%B9%ED%88%B0-%EC%86%8C%EB%85%80%EC%9E%AC%ED%8C%90-%EC%A3%BC%EC%9D%B8%EA%B3%B5-%EB%8B%AE%EC%9D%8C-fyerczz7#460953135",
+      "postedLabel": "12분",
+      "postedAt": "2026-11-13T15:50:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:03:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107459,
+      "source": "blind",
+      "externalId": "cmt-460954442",
+      "title": "사실 나솔 안 봐서 잘 모름 걍 얼굴만 봣음ㅋ",
+      "excerpt": "난 옥순이 내 스탈로 예쁜데",
+      "author": "아****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%82%B4-%EC%8A%A4%ED%83%88%EB%A1%9C-%EC%98%88%EC%81%9C%EB%8D%B0-ogkmc0am#460954442",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-13T16:01:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:03:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107460,
+      "source": "dc",
+      "externalId": "6680978",
+      "title": "이 사람 지금 라이브중인데",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680978&page=1",
+      "postedLabel": "16:02",
+      "postedAt": "2026-11-13T16:02:06+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:03:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -941477,7 +941556,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T16:00:14+09:00"
+      "slowAt": "2026-11-13T16:02:52+09:00"
     },
     "dc": {
       "doneIds": [
@@ -955790,6 +955869,7 @@
         "6680886",
         "6680888",
         "6680890",
+        "6680892",
         "6680894",
         "6680901",
         "6680902",
