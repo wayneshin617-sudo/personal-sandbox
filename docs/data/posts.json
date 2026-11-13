@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T13:43:07+00:00",
+  "updatedAt": "2026-11-13T13:45:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -944040,6 +944040,26 @@
       "firstSeenAt": "2026-11-13T13:43:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107597,
+      "source": "qoo",
+      "externalId": "cmt-4405108815",
+      "title": "머야모야",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405108815",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T21:44:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T13:45:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -944151,7 +944171,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T22:41:49+09:00"
+      "slowAt": "2026-11-13T22:44:49+09:00"
     },
     "ig": {
       "doneIds": [
@@ -958611,7 +958631,8 @@
         "6681631",
         "6681635",
         "6681640",
-        "6681649"
+        "6681649",
+        "6681656"
       ]
     },
     "blind": {
