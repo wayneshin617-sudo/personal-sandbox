@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T01:31:39+00:00",
+  "updatedAt": "2026-11-13T01:32:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -936371,6 +936371,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T01:31:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107208,
+      "source": "qoo",
+      "externalId": "cmt-4404390012",
+      "title": "어장 정리하고 둘이 잘되길",
+      "excerpt": "영호는 옥순과 대화가 잘되네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404382568#4404390012",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T09:32:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:32:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107209,
+      "source": "qoo",
+      "externalId": "cmt-4404390017",
+      "title": "컵드는거 영국인 따라하는거임 설마??ㅋㅋㅋ",
+      "excerpt": "이게머임 유치하기 짝이없다 진심",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404065675#4404390017",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T09:32:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:32:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -936482,7 +936522,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T10:28:57+09:00"
+      "slowAt": "2026-11-13T10:32:22+09:00"
     },
     "ig": {
       "doneIds": [
@@ -950743,7 +950783,8 @@
         "6680399",
         "6680407",
         "6680409",
-        "6680414"
+        "6680414",
+        "6680418"
       ]
     },
     "blind": {
