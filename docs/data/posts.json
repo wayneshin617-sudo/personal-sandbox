@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T13:52:06+00:00",
+  "updatedAt": "2026-11-13T13:55:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -944199,6 +944199,25 @@
       "firstSeenAt": "2026-11-13T13:52:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107605,
+      "source": "dc",
+      "externalId": "6681679",
+      "title": "adasdasdad",
+      "excerpt": "",
+      "author": "홍보원7",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6681679&page=1",
+      "postedLabel": "22:54",
+      "postedAt": "2026-11-13T22:54:41+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T13:55:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -958759,6 +958778,7 @@
         "6681224",
         "6681228",
         "6681232",
+        "6681238",
         "6681296",
         "6681306",
         "6681308",
