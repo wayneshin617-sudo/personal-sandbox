@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T15:02:41+00:00",
+  "updatedAt": "2026-11-13T15:04:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -947034,6 +947034,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-13T15:02:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107748,
+      "source": "qoo",
+      "externalId": "cmt-4405208856",
+      "title": "@35 아닐 것 같았는데 아니구나",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405208856",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T23:02:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T15:04:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107749,
+      "source": "qoo",
+      "externalId": "cmt-4405209616",
+      "title": "아하...ㅠㅠㅠㅠㅠ도파민 고마워ㅋㅋㅋ",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405209616",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T23:03:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T15:04:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -947218,7 +947258,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-14T00:00:13+09:00"
+      "slowAt": "2026-11-14T00:03:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -961704,7 +961744,8 @@
         "6681781",
         "6681791",
         "6681802",
-        "6681803"
+        "6681803",
+        "6681813"
       ]
     },
     "blind": {
