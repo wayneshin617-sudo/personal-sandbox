@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T01:09:45+00:00",
+  "updatedAt": "2026-11-13T01:13:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -936096,6 +936096,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T01:09:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107194,
+      "source": "qoo",
+      "externalId": "cmt-4404375606",
+      "title": "진짜 컵을 계속 들고있네 ㅋㅋㅋ",
+      "excerpt": "이게머임 유치하기 짝이없다 진심",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404065675#4404375606",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T09:12:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:13:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -936280,7 +936300,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T10:09:27+09:00"
+      "slowAt": "2026-11-13T10:12:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -950458,7 +950478,8 @@
         "6680368",
         "6680372",
         "6680377",
-        "6680379"
+        "6680379",
+        "6680385"
       ]
     },
     "blind": {
