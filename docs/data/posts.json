@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T00:50:46+00:00",
+  "updatedAt": "2026-11-13T00:51:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -935700,6 +935700,46 @@
       "firstSeenAt": "2026-11-13T00:50:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107174,
+      "source": "blind",
+      "externalId": "cmt-460910476",
+      "title": "원래 대중은 멍청해",
+      "excerpt": "영호를 평가하는거 보면 사람들이 좀 단순해보임",
+      "author": "w**",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%A5%BC-%ED%8F%89%EA%B0%80%ED%95%98%EB%8A%94%EA%B1%B0-%EB%B3%B4%EB%A9%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%A2%80-%EB%8B%A8%EC%88%9C%ED%95%B4%EB%B3%B4%EC%9E%84-gxjnu2rx#460910476",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T09:51:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T00:51:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107175,
+      "source": "blind",
+      "externalId": "cmt-460910542",
+      "title": "키크고 차분한 두부상은 맞는데 존잘까진 아님",
+      "excerpt": "영호를 평가하는거 보면 사람들이 좀 단순해보임",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%A5%BC-%ED%8F%89%EA%B0%80%ED%95%98%EB%8A%94%EA%B1%B0-%EB%B3%B4%EB%A9%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%A2%80-%EB%8B%A8%EC%88%9C%ED%95%B4%EB%B3%B4%EC%9E%84-gxjnu2rx#460910542",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T09:51:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T00:51:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -935884,7 +935924,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T09:48:27+09:00"
+      "slowAt": "2026-11-13T09:51:27+09:00"
     },
     "dc": {
       "doneIds": [
@@ -950020,6 +950060,7 @@
         "6680219",
         "6680222",
         "6680234",
+        "6680235",
         "6680260",
         "6680263",
         "6680271",
