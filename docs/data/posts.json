@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T01:43:00+00:00",
+  "updatedAt": "2026-11-13T01:44:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -936749,6 +936749,85 @@
       "firstSeenAt": "2026-11-13T01:43:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107227,
+      "source": "blind",
+      "externalId": "cmt-460914276",
+      "title": "화면에서 저정도면 실제로보면 날씬일거같은데",
+      "excerpt": "순자는 뭐야?",
+      "author": "아*****",
+      "company": "연세대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EB%AD%90%EC%95%BC-co55lf4x#460914276",
+      "postedLabel": "21분",
+      "postedAt": "2026-11-13T10:22:55+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:44:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107228,
+      "source": "blind",
+      "externalId": "cmt-460915808",
+      "title": "아차하면 뚱으로 넘어 가는 육덕",
+      "excerpt": "순자는 뭐야?",
+      "author": "l*****",
+      "company": "효성",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EB%AD%90%EC%95%BC-co55lf4x#460915808",
+      "postedLabel": "9분",
+      "postedAt": "2026-11-13T10:34:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:44:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107229,
+      "source": "blind",
+      "externalId": "cmt-460916716",
+      "title": "근데 사실 내가 먼저 고백도 잘 하긴 했어. 눈도 매우 낮음 ㅋㅋ 정답은 댓글로 써놨음..",
+      "excerpt": "성형 안함. 문신 없음. 반려동물 없음.",
+      "author": "l******* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%B1%ED%98%95-%EC%95%88%ED%95%A8-%EB%AC%B8%EC%8B%A0-%EC%97%86%EC%9D%8C-%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC-%EC%97%86%EC%9D%8C-aiybqzmv#460916716",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-13T10:42:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:44:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107230,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88%ED%8E%B8-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81-vqoruv7f",
+      "title": "이번편 보면서 끄적끄적",
+      "excerpt": "1. 시원하게 오픈해주는거 좋다 2. 남자 민소매에 셔츠 한쪽 어깨 흘러내리는거 흉함 3. 못생긴애가 상처받을 까봐 오냐오냐 해주는걸 본인은 슈퍼스타니 사랑받고 있다느니",
+      "author": "9*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%ED%8E%B8-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81-vqoruv7f",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T10:43:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-13T01:44:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -936933,7 +937012,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T10:40:30+09:00"
+      "slowAt": "2026-11-13T10:43:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -951127,7 +951206,8 @@
         "6680414",
         "6680418",
         "6680421",
-        "6680430"
+        "6680430",
+        "6680435"
       ]
     },
     "blind": {
