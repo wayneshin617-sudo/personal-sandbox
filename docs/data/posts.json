@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T05:58:25+00:00",
+  "updatedAt": "2026-11-13T05:59:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -939946,6 +939946,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T05:58:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107389,
+      "source": "dc",
+      "externalId": "cmt-11018484",
+      "title": "우와우 대단한데",
+      "excerpt": "그분 오셨노 ㅋㅋㅋㅋ",
+      "author": "한갤러",
+      "company": "",
+      "ip": "14.47",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680704&page=3#cmt_11018484",
+      "postedLabel": "11.13 13:40:25",
+      "postedAt": "2026-11-13T13:40:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T05:59:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -940057,7 +940077,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T14:56:07+09:00"
+      "slowAt": "2026-11-13T14:59:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -954371,6 +954391,7 @@
         "6680687",
         "6680689",
         "6680695",
+        "6680704",
         "6680797",
         "6680800",
         "6680806",
@@ -954379,7 +954400,8 @@
         "6680869",
         "6680873",
         "6680874",
-        "6680876"
+        "6680876",
+        "6680885"
       ]
     },
     "blind": {
