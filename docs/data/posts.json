@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T08:03:29+00:00",
+  "updatedAt": "2026-11-13T08:04:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -942502,6 +942502,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T08:03:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107518,
+      "source": "dc",
+      "externalId": "6681059",
+      "title": "윤통과 단종의 공통점",
+      "excerpt": "",
+      "author": "나솔",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6681059&page=1",
+      "postedLabel": "17:04",
+      "postedAt": "2026-11-13T17:04:00+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T08:04:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 107519,
+      "source": "dc",
+      "externalId": "6681060",
+      "title": "몽골인이 확실히 백인 혼혈 같은 사람 많은것 같음",
+      "excerpt": "",
+      "author": "호랑이",
+      "company": "",
+      "ip": "119.69",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6681060&page=1",
+      "postedLabel": "17:04",
+      "postedAt": "2026-11-13T17:04:07+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T08:04:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -942613,7 +942651,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T17:01:53+09:00"
+      "slowAt": "2026-11-13T17:04:29+09:00"
     },
     "ig": {
       "doneIds": [
@@ -957034,6 +957072,7 @@
         "6680973",
         "6680976",
         "6680979",
+        "6680980",
         "6680983",
         "6680995",
         "6680997",
@@ -957045,7 +957084,8 @@
         "6681039",
         "6681042",
         "6681043",
-        "6681053"
+        "6681053",
+        "6681056"
       ]
     },
     "blind": {
