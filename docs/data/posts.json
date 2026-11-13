@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T06:12:25+00:00",
+  "updatedAt": "2026-11-13T06:14:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -940461,6 +940461,45 @@
       "firstSeenAt": "2026-11-13T06:12:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107415,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%B0%B8-esm15u2w",
+      "title": "사람이 참",
+      "excerpt": "가볍 불안 안절부절 볼게 없다",
+      "author": "엥**",
+      "company": "MBC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%B0%B8-esm15u2w",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-13T15:13:07+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-13T06:14:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 107416,
+      "source": "blind",
+      "externalId": "cmt-460948806",
+      "title": "33상철인줄",
+      "excerpt": "34 광수 닮은 꼴",
+      "author": "해**",
+      "company": "롯데칠성음료",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EA%B4%91%EC%88%98-%EB%8B%AE%EC%9D%80-%EA%BC%B4-2t11e585#460948806",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T15:14:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T06:14:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -940572,7 +940611,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T15:11:07+09:00"
+      "slowAt": "2026-11-13T15:14:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -954897,6 +954936,7 @@
         "6680720",
         "6680729",
         "6680730",
+        "6680732",
         "6680797",
         "6680800",
         "6680806",
@@ -954909,6 +954949,7 @@
         "6680821",
         "6680823",
         "6680825",
+        "6680827",
         "6680869",
         "6680873",
         "6680874",
@@ -954920,7 +954961,8 @@
         "6680894",
         "6680901",
         "6680902",
-        "6680909"
+        "6680909",
+        "6680911"
       ]
     },
     "blind": {
