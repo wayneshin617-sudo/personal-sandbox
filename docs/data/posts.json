@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T01:04:45+00:00",
+  "updatedAt": "2026-11-13T01:07:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -935976,6 +935976,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-13T01:04:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107188,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8F%8C%EC%8B%B1N%EB%AA%A8%EC%86%94-%EC%9E%AC%EB%B0%8C%EC%9D%8C-lq1fuxcg",
+      "title": "돌싱N모솔 재밌음",
+      "excerpt": "자극적이고 재밌는데 화력이 약하길래 ㅋㅋ",
+      "author": "g*********",
+      "company": "한국농어촌공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%8C%EC%8B%B1N%EB%AA%A8%EC%86%94-%EC%9E%AC%EB%B0%8C%EC%9D%8C-lq1fuxcg",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T10:07:28+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-13T01:07:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 107189,
+      "source": "blind",
+      "externalId": "cmt-460912312",
+      "title": "본인에 대한 객관화와 피나는 노력이 필요한데 그것보단 나에게 맞고 나를 있는 그대로 좋아해줄 괜찮은 이성이 어딘가에 있을거라는 생각만 함",
+      "excerpt": "광수 정숙 보면 지금 연애 결혼 떡락한 이유가 있음",
+      "author": "j******",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%A0%95%EC%88%99-%EB%B3%B4%EB%A9%B4-%EC%A7%80%EA%B8%88-%EC%97%B0%EC%95%A0-%EA%B2%B0%ED%98%BC-%EB%96%A1%EB%9D%BD%ED%95%9C-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EC%9E%88%EC%9D%8C-f8vpgc52#460912312",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T10:07:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T01:07:46+00:00",
       "isSeed": false,
       "kind": "reply"
     }
