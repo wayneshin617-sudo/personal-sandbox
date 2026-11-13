@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T21:30:20+00:00",
+  "updatedAt": "2026-11-13T21:49:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -949513,6 +949513,26 @@
       "firstSeenAt": "2026-11-13T21:30:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107873,
+      "source": "dc",
+      "externalId": "cmt-11019938",
+      "title": "야 옥순이나 좀 패주라",
+      "excerpt": "경수 순자 곧 무슨 소식 들릴 듯",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6682081&page=1#cmt_11019938",
+      "postedLabel": "11.14 04:58:52",
+      "postedAt": "2026-11-14T04:58:52+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T21:49:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -949697,7 +949717,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-14T06:46:01+09:00"
+      "slowAt": "2026-11-14T06:49:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -964256,6 +964276,7 @@
         "6682069",
         "6682072",
         "6682073",
+        "6682081",
         "6682083",
         "6682085",
         "6682089",
