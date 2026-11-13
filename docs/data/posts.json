@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T07:20:14+00:00",
+  "updatedAt": "2026-11-13T07:21:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -941689,6 +941689,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-13T07:20:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107477,
+      "source": "dc",
+      "externalId": "6680993",
+      "title": "싸우면 누가이길까 18호 vs 죠르노 죠바나",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6680993&page=1",
+      "postedLabel": "16:20",
+      "postedAt": "2026-11-13T16:20:42+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:21:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 107478,
+      "source": "blind",
+      "externalId": "cmt-460956885",
+      "title": "저요",
+      "excerpt": "오늘 저녁7시 술드실 남자분 구함",
+      "author": "I*******",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EC%A0%80%EB%85%817%EC%8B%9C-%EC%88%A0%EB%93%9C%EC%8B%A4-%EB%82%A8%EC%9E%90%EB%B6%84-%EA%B5%AC%ED%95%A8-5l3xmqq1#460956885",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T16:21:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:21:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -941873,7 +941912,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T16:18:38+09:00"
+      "slowAt": "2026-11-13T16:21:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -960831,6 +960870,7 @@
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%9D%B4%EC%8A%88-%EA%B3%B5%EC%9C%A0%EC%A2%80-mfmuor1m",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%97%AC%EC%9E%90-%EC%86%8C%EA%B0%9C%ED%95%98%EB%A0%A4-%ED%95%A0%EB%95%8C-%EB%81%9D%EB%82%9C%EB%8B%A4-in4lseji",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%9E%90-%EA%B8%B8%EA%B0%80%EB%8B%A4-%EB%A7%88%EC%A3%BC%EC%B9%9C%E2%80%A6%EC%B4%8C%EC%9E%A5%EB%8B%98-vs4va5ul",
+        "/kr/post/%EC%98%A4%EB%8A%98-%EC%A0%80%EB%85%817%EC%8B%9C-%EC%88%A0%EB%93%9C%EC%8B%A4-%EB%82%A8%EC%9E%90%EB%B6%84-%EA%B5%AC%ED%95%A8-5l3xmqq1",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%A0%95%ED%98%9C%EC%84%B1-kcivzkze",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%9C%84%EB%84%88%EB%8A%94-u5oowaj8",
         "/kr/post/%EC%98%A4%EB%8A%98-%EC%B6%9C%EA%B7%BC%EA%B8%B8%EC%97%90-29%EA%B8%B0-%EC%98%81%EC%88%98-%EB%B3%B8%EA%B2%83%EA%B0%99%EC%9D%80%EB%8D%B0-3bvme4je",
