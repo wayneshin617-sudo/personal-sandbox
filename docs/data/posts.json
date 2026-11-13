@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T08:12:37+00:00",
+  "updatedAt": "2026-11-13T08:13:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -942678,6 +942678,45 @@
       "firstSeenAt": "2026-11-13T08:12:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107527,
+      "source": "dc",
+      "externalId": "6681075",
+      "title": "34기 지금꺼 다보고 여출들 봤는데",
+      "excerpt": "",
+      "author": "딸랑딸랑고추",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6681075&page=1",
+      "postedLabel": "17:12",
+      "postedAt": "2026-11-13T17:12:40+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T08:13:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 107528,
+      "source": "blind",
+      "externalId": "cmt-460963753",
+      "title": "ㅁㅊ 비유봨ㅋㅋㅋㅋ",
+      "excerpt": "광수 좀 놀랍긴하다",
+      "author": "x****** 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%A2%80-%EB%86%80%EB%9E%8D%EA%B8%B4%ED%95%98%EB%8B%A4-o8p7fan2#460963753",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T17:13:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T08:13:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -942862,7 +942901,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T17:11:00+09:00"
+      "slowAt": "2026-11-13T17:13:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -957214,6 +957253,7 @@
         "6680980",
         "6680983",
         "6680986",
+        "6680989",
         "6680995",
         "6680997",
         "6681006",
