@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T15:08:48+00:00",
+  "updatedAt": "2026-11-13T15:10:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -947431,6 +947431,46 @@
       "firstSeenAt": "2026-11-13T15:08:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107768,
+      "source": "qoo",
+      "externalId": "cmt-4405216685",
+      "title": "기다렸음ㅋㅋ 알려줘서 고마워",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405216685",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T23:09:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T15:10:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107769,
+      "source": "blind",
+      "externalId": "cmt-461019928",
+      "title": "내가 나이들어보니 안낮아짐 낮추는거 진짜 힘듬 내가 정해놓은 그 기준을 못넘으면 마음이 안생김 그러다 결국 혼자사는거여ㅋㅋ",
+      "excerpt": "근데 진짜 눈이 낮아짐?",
+      "author": "티******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A7%84%EC%A7%9C-%EB%88%88%EC%9D%B4-%EB%82%AE%EC%95%84%EC%A7%90-rsj33sss#461019928",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-14T00:09:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T15:10:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -962105,7 +962145,8 @@
         "6681803",
         "6681813",
         "6681815",
-        "6681822"
+        "6681822",
+        "6681829"
       ]
     },
     "blind": {
