@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T00:45:45+00:00",
+  "updatedAt": "2026-11-13T00:47:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -935440,6 +935440,86 @@
       "firstSeenAt": "2026-11-13T00:45:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107161,
+      "source": "qoo",
+      "externalId": "cmt-4404362770",
+      "title": "ㄴㄷ 정숙이랑 잘맞는다 어쩐다 하는데 뭔가 와주길 바라는 다른 사람이 또 있는 느낌임",
+      "excerpt": "뭔가 정숙이 아까움",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4404305205#4404362770",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T08:47:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T00:47:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107162,
+      "source": "blind",
+      "externalId": "cmt-460907276",
+      "title": "그러기엔 자기전 대화가 너무 심했어서 쉴드불가야",
+      "excerpt": "34기 영철님 여사친 등판",
+      "author": "|*********",
+      "company": "NEXON",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EB%8B%98-%EC%97%AC%EC%82%AC%EC%B9%9C-%EB%93%B1%ED%8C%90-eqyapz3c#460907276",
+      "postedLabel": "24분",
+      "postedAt": "2026-11-13T09:23:27+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T00:47:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107163,
+      "source": "blind",
+      "externalId": "cmt-460909762",
+      "title": "여동생아닐까 ㅋㅋ 영철이 나이에비해 너무 철딱서니없는건 확실함 좀 초딩같아서 진대가 어려움",
+      "excerpt": "34기 영철님 여사친 등판",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EB%8B%98-%EC%97%AC%EC%82%AC%EC%B9%9C-%EB%93%B1%ED%8C%90-eqyapz3c#460909762",
+      "postedLabel": "3분",
+      "postedAt": "2026-11-13T09:44:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T00:47:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107164,
+      "source": "blind",
+      "externalId": "cmt-460910019",
+      "title": "솔직히 외모 존잘도 아님 영철이가 빌런짓 하는 바람에 올려치기 당한 분위기 존잘이지",
+      "excerpt": "영호를 평가하는거 보면 사람들이 좀 단순해보임",
+      "author": "!*********",
+      "company": "SK",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%A5%BC-%ED%8F%89%EA%B0%80%ED%95%98%EB%8A%94%EA%B1%B0-%EB%B3%B4%EB%A9%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%A2%80-%EB%8B%A8%EC%88%9C%ED%95%B4%EB%B3%B4%EC%9E%84-gxjnu2rx#460910019",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T09:47:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T00:47:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -935551,7 +935631,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T09:44:26+09:00"
+      "slowAt": "2026-11-13T09:47:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -949772,7 +949852,8 @@
         "6680316",
         "6680322",
         "6680326",
-        "6680331"
+        "6680331",
+        "6680332"
       ]
     },
     "blind": {
