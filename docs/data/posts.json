@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T07:21:34+00:00",
+  "updatedAt": "2026-11-13T07:26:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -941728,6 +941728,85 @@
       "firstSeenAt": "2026-11-13T07:21:34+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107479,
+      "source": "blind",
+      "externalId": "cmt-460952031",
+      "title": "거울봐라",
+      "excerpt": "광수 왤케 설치지",
+      "author": "해**",
+      "company": "롯데칠성음료",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%99%A4%EC%BC%80-%EC%84%A4%EC%B9%98%EC%A7%80-sntd6pv2#460952031",
+      "postedLabel": "45분",
+      "postedAt": "2026-11-13T15:41:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:26:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107480,
+      "source": "blind",
+      "externalId": "cmt-460953170",
+      "title": "선마태아는 전문직에 목소리나 매너라도 좋지.. 광수는.....",
+      "excerpt": "광수 왤케 설치지",
+      "author": "j*****",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%99%A4%EC%BC%80-%EC%84%A4%EC%B9%98%EC%A7%80-sntd6pv2#460953170",
+      "postedLabel": "36분",
+      "postedAt": "2026-11-13T15:50:33+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:26:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107481,
+      "source": "blind",
+      "externalId": "cmt-460954133",
+      "title": "ㅈㄴ 심술 가득한 떡두꺼비",
+      "excerpt": "광수 왤케 설치지",
+      "author": "l*******",
+      "company": "대상웰라이프",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%99%A4%EC%BC%80-%EC%84%A4%EC%B9%98%EC%A7%80-sntd6pv2#460954133",
+      "postedLabel": "27분",
+      "postedAt": "2026-11-13T15:59:33+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:26:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107482,
+      "source": "qoo",
+      "externalId": "4404764370",
+      "title": "난 정숙이 묘하게 추구미가 명확해보여",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4404764370",
+      "postedLabel": "16:25",
+      "postedAt": "2026-11-13T16:25:00+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:26:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -941912,7 +941991,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T16:23:52+09:00"
+      "slowAt": "2026-11-13T16:26:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -967843,7 +967922,8 @@
         "4404577812",
         "4404654379",
         "4404676560",
-        "4404681525"
+        "4404681525",
+        "4404764370"
       ]
     },
     "keep": "v2",
