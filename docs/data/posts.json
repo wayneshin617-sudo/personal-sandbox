@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T08:25:39+00:00",
+  "updatedAt": "2026-11-13T08:26:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -942796,6 +942796,25 @@
       "firstSeenAt": "2026-11-13T08:25:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107533,
+      "source": "qoo",
+      "externalId": "4404828295",
+      "title": "영자 나솔에서 처음 본 캐릭터라 재밌고 매력있엌ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4404828295",
+      "postedLabel": "17:25",
+      "postedAt": "2026-11-13T17:25:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T08:26:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -942980,7 +942999,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T17:24:03+09:00"
+      "slowAt": "2026-11-13T17:26:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -968944,7 +968963,8 @@
         "4404654379",
         "4404676560",
         "4404681525",
-        "4404764370"
+        "4404764370",
+        "4404828295"
       ]
     },
     "keep": "v2",
