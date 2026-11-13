@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T14:55:45+00:00",
+  "updatedAt": "2026-11-13T14:56:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -946259,6 +946259,46 @@
       "firstSeenAt": "2026-11-13T14:55:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107709,
+      "source": "qoo",
+      "externalId": "cmt-4405200502",
+      "title": "@32 개웃겨ㅋㅋ 진짜 이건가ㅋㅋ",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405200502",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T22:55:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:56:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107710,
+      "source": "qoo",
+      "externalId": "cmt-4405201294",
+      "title": "@32 ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "내가 현생에서 들은 스포 말해도 돼??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405099079#4405201294",
+      "postedLabel": "",
+      "postedAt": "2026-11-13T22:56:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T14:56:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -946370,7 +946410,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-13T23:52:58+09:00"
+      "slowAt": "2026-11-13T23:56:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -960910,6 +960950,7 @@
         "6681661",
         "6681669",
         "6681677",
+        "6681683",
         "6681688",
         "6681693",
         "6681695",
@@ -960926,7 +960967,8 @@
         "6681779",
         "6681781",
         "6681791",
-        "6681802"
+        "6681802",
+        "6681803"
       ]
     },
     "blind": {
