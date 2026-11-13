@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-13T07:04:33+00:00",
+  "updatedAt": "2026-11-13T07:05:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -941391,6 +941391,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-13T07:04:33+00:00",
       "isSeed": false
+    },
+    {
+      "id": 107462,
+      "source": "blind",
+      "externalId": "cmt-460954805",
+      "title": "아무래도 순자는 정숙보다 레벨이 많이 높아보이니까",
+      "excerpt": "광수 좀 놀랍긴하다",
+      "author": "i*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%A2%80-%EB%86%80%EB%9E%8D%EA%B8%B4%ED%95%98%EB%8B%A4-o8p7fan2#460954805",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-13T16:05:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-13T07:05:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -941575,7 +941595,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-13T16:02:52+09:00"
+      "slowAt": "2026-11-13T16:05:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -956210,6 +956230,7 @@
         "/kr/post/%EA%B4%91%EC%88%98-%EC%A0%95%EC%88%99-%EC%96%B4%EC%9A%B8%EB%A6%AC%EB%84%A4-yugfxqjs",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%A0%95%EC%88%99-%EC%96%B4%EC%9A%B8%EB%A6%AC%EC%A7%80%EC%95%8A%EC%95%84-35tvxsim",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%A0%95%EC%88%99-%EC%98%81%EC%9E%90%EB%8A%94-%EC%99%B8%EB%AA%A8%EC%97%90-%EB%B9%84%ED%95%B4-%EC%9E%90%EC%A1%B4%EA%B0%90%EC%9D%B4-%EB%86%92%EC%9C%BC%EC%8B%9C%EB%84%A4-ers7n1jo",
+        "/kr/post/%EA%B4%91%EC%88%98-%EC%A2%80-%EB%86%80%EB%9E%8D%EA%B8%B4%ED%95%98%EB%8B%A4-o8p7fan2",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%BB%A4%ED%94%BC%EB%8A%94-%EC%9E%90%EA%B8%B0%EA%B0%80-%EC%A2%80-%EC%82%AC%EC%A7%80-wvoio6gb",
         "/kr/post/%EA%B4%91%EC%88%98-%ED%8C%94-efrc6vjh",
         "/kr/post/%EA%B4%91%EC%88%98-0%ED%91%9C%EC%98%88%EC%83%81-cf3hued8",
