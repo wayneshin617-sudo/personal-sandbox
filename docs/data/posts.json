@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T15:03:31+00:00",
+  "updatedAt": "2026-11-14T15:04:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -960370,6 +960370,25 @@
       "firstSeenAt": "2026-11-14T15:03:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108422,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A7%84%EC%A7%9C-%EC%97%86%EB%82%98-%EC%98%A4%EB%8A%98-%EC%A7%80%EB%82%98%EA%B0%80%EB%8A%94%EA%B2%8C-%EC%95%84%EC%89%BD%EB%84%A4-u30hr0ev",
+      "title": "진짜 없나 오늘 지나가는게 아쉽네",
+      "excerpt": "흠",
+      "author": "t*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%9C-%EC%97%86%EB%82%98-%EC%98%A4%EB%8A%98-%EC%A7%80%EB%82%98%EA%B0%80%EB%8A%94%EA%B2%8C-%EC%95%84%EC%89%BD%EB%84%A4-u30hr0ev",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T00:04:13+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-14T15:04:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -960481,7 +960500,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T00:01:13+09:00"
+      "slowAt": "2026-11-15T00:04:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -975412,6 +975431,7 @@
         "6683770",
         "6683771",
         "6683775",
+        "6683778",
         "6684009",
         "6684019",
         "6684030",
@@ -975433,7 +975453,8 @@
         "6684116",
         "6684122",
         "6684127",
-        "6684131"
+        "6684131",
+        "6684136"
       ]
     },
     "blind": {
