@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T03:00:22+00:00",
+  "updatedAt": "2026-11-14T03:01:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -952547,6 +952547,46 @@
       "firstSeenAt": "2026-11-14T03:00:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108026,
+      "source": "qoo",
+      "externalId": "cmt-4405480465",
+      "title": "@15 나도 절친 인프제 많아서 댓글 왜 인프제같다 하는지 알거같음ㅎ.. 내생각에 이유는 너무 주변 사람, 분위기 예민하게 신경쓰는 모습 조그만걸로 혼자 지레짐작하고 결론내리다가 호감떨어짐 나쁘게 안보이려고 개인 인터뷰에서조차 최대한 두루뭉술하고 중립적으로 얘기함",
+      "excerpt": "솔직히 영호 재미없어.....",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405233710#4405480465",
+      "postedLabel": "",
+      "postedAt": "2026-11-14T11:00:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T03:01:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108027,
+      "source": "blind",
+      "externalId": "cmt-461064307",
+      "title": "많이 못줘요 까지 장난 아니어써?",
+      "excerpt": "옥순 상철 의아했던 점",
+      "author": "i******",
+      "company": "어댑트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%83%81%EC%B2%A0-%EC%9D%98%EC%95%84%ED%96%88%EB%8D%98-%EC%A0%90-j137r82s#461064307",
+      "postedLabel": "45분",
+      "postedAt": "2026-11-14T11:16:29+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T03:01:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -952731,7 +952771,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-14T11:58:40+09:00"
+      "slowAt": "2026-11-14T12:01:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -967371,6 +967411,7 @@
         "6682390",
         "6682392",
         "6682393",
+        "6682399",
         "6682405",
         "6682408",
         "6682410",
@@ -967384,7 +967425,8 @@
         "6682453",
         "6682460",
         "6682462",
-        "6682480"
+        "6682480",
+        "6682484"
       ]
     },
     "blind": {
