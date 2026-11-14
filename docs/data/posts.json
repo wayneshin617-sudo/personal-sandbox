@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T03:39:26+00:00",
+  "updatedAt": "2026-11-14T03:43:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -953141,6 +953141,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-14T03:39:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108056,
+      "source": "dc",
+      "externalId": "6682556",
+      "title": "다둥이라서.. 대소사 생겼을떄 의지되고 좋다. 이거 왤케 공감안되지",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "59.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6682556&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-11-14T12:43:10+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T03:43:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108057,
+      "source": "blind",
+      "externalId": "cmt-461073847",
+      "title": "영숙이는 센척하는 건데 영자는 진짜 센거 같음 여러의미로..",
+      "excerpt": "영숙누나는 내가 감당 가능할 것 같은데",
+      "author": "부******",
+      "company": "포티투닷",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EB%88%84%EB%82%98%EB%8A%94-%EB%82%B4%EA%B0%80-%EA%B0%90%EB%8B%B9-%EA%B0%80%EB%8A%A5%ED%95%A0-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-ylhl0es2#461073847",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-14T12:43:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T03:43:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -953325,7 +953364,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-14T12:40:34+09:00"
+      "slowAt": "2026-11-14T12:43:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -967984,6 +968023,7 @@
         "6682447",
         "6682450",
         "6682453",
+        "6682455",
         "6682460",
         "6682462",
         "6682480",
@@ -967998,7 +968038,8 @@
         "6682521",
         "6682529",
         "6682531",
-        "6682548"
+        "6682548",
+        "6682549"
       ]
     },
     "blind": {
