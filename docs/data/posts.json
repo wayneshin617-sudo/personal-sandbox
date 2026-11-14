@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T08:49:01+00:00",
+  "updatedAt": "2026-11-14T08:50:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -957055,6 +957055,25 @@
       "firstSeenAt": "2026-11-14T08:49:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108254,
+      "source": "dc",
+      "externalId": "6683220",
+      "title": "확실히 애교 귀척 떨면 매력 반감 돼는것 같음",
+      "excerpt": "",
+      "author": "호랑이",
+      "company": "",
+      "ip": "119.69",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6683220&page=1",
+      "postedLabel": "17:49",
+      "postedAt": "2026-11-14T17:49:02+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T08:50:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -957239,7 +957258,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-14T17:46:44+09:00"
+      "slowAt": "2026-11-14T17:49:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -971945,6 +971964,7 @@
         "6682675",
         "6682676",
         "6682678",
+        "6682686",
         "6682704",
         "6682708",
         "6682712",
@@ -971983,6 +972003,7 @@
         "6682934",
         "6682938",
         "6682945",
+        "6682949",
         "6682966",
         "6682977",
         "6682979",
@@ -972004,6 +972025,7 @@
         "6683072",
         "6683078",
         "6683082",
+        "6683087",
         "6683091",
         "6683109",
         "6683111",
@@ -972023,7 +972045,8 @@
         "6683187",
         "6683197",
         "6683198",
-        "6683202"
+        "6683202",
+        "6683212"
       ]
     },
     "blind": {
@@ -972190,6 +972213,7 @@
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%83%81%EC%B2%A0-%EC%98%81%EC%88%99-%ED%85%90%EC%85%98%EC%B0%A8%EC%9D%B4%EC%8B%AC%ED%95%98%EB%84%A4-q78agb4v",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%8B%9C%EC%95%A0%ED%8B%80-%EC%83%81%EC%B2%A0-%EC%A7%84%EC%A7%9C-%EC%84%B1%EC%9D%98%EC%97%86%EB%84%A4-%ED%95%A0%EB%B0%B0%EA%B0%99%EC%95%84-mvcedkcc",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%95%88%EC%A0%95%ED%99%98%EB%A7%8C-%EB%AA%BB%ED%95%9C%EB%8B%A4%EA%B3%A0%ED%95%98%EB%8D%98%EB%8D%B0-mp2zu5ls",
+        "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%95%88%EC%A0%95%ED%99%98-MC-%EC%A7%84%EC%A7%9C-%EB%B3%84%EB%A1%9C%EB%84%A4-w0o8na4s",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%95%88-%EB%B3%BC%EB%9E%AC%EB%8A%94%EB%8D%B0-tbniypym",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%97%A0%EC%94%A8%EB%8A%94-trpxshma",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%97%AC%EC%B6%9C%EB%93%A4%EC%9D%80-%EB%8F%88%EC%9D%B4-%EA%B8%89%ED%95%A8-jlt5jb7k",
