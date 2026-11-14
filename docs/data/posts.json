@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T01:39:42+00:00",
+  "updatedAt": "2026-11-14T01:40:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -950734,6 +950734,46 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-11-14T01:39:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107935,
+      "source": "blind",
+      "externalId": "cmt-461058052",
+      "title": "이번 기수가 문신특집 아님? 여자 3명나 했던데ㅋㅋ",
+      "excerpt": "내 도파민을 위해... 해줬으면 하는 나솔 특집",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%B4-%EB%8F%84%ED%8C%8C%EB%AF%BC%EC%9D%84-%EC%9C%84%ED%95%B4-%ED%95%B4%EC%A4%AC%EC%9C%BC%EB%A9%B4-%ED%95%98%EB%8A%94-%EB%82%98%EC%86%94-%ED%8A%B9%EC%A7%91-6ayp6pvq#461058052",
+      "postedLabel": "15분",
+      "postedAt": "2026-11-14T10:25:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T01:40:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 107936,
+      "source": "blind",
+      "externalId": "cmt-461059853",
+      "title": "ㅇㅇ 난 나중에 맘커지고 말하는거보다 미리말하는게 조은거같음",
+      "excerpt": "상철 초반부터 가정사 얘기하는 거 좀 짠하네",
+      "author": "l********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%B4%88%EB%B0%98%EB%B6%80%ED%84%B0-%EA%B0%80%EC%A0%95%EC%82%AC-%EC%96%98%EA%B8%B0%ED%95%98%EB%8A%94-%EA%B1%B0-%EC%A2%80-%EC%A7%A0%ED%95%98%EB%84%A4-yed36q77#461059853",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-14T10:40:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T01:40:42+00:00",
       "isSeed": false,
       "kind": "reply"
     }
