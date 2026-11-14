@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T01:52:42+00:00",
+  "updatedAt": "2026-11-14T01:59:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -951194,6 +951194,44 @@
       "firstSeenAt": "2026-11-14T01:52:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107958,
+      "source": "qoo",
+      "externalId": "4405479949",
+      "title": "영철보면 강병규 생각나네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4405479949",
+      "postedLabel": "10:59",
+      "postedAt": "2026-11-14T10:59:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T01:59:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 107959,
+      "source": "dc",
+      "externalId": "6682395",
+      "title": "코스트코는 왜 한국을 사랑할까?",
+      "excerpt": "",
+      "author": "뚜껑",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6682395&page=1",
+      "postedLabel": "10:59",
+      "postedAt": "2026-11-14T10:59:18+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T01:59:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -951305,7 +951343,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-14T10:56:25+09:00"
+      "slowAt": "2026-11-14T10:59:25+09:00"
     },
     "ig": {
       "doneIds": [
@@ -965982,13 +966020,15 @@
         "6682298",
         "6682300",
         "6682301",
+        "6682305",
         "6682341",
         "6682349",
         "6682365",
         "6682375",
         "6682381",
         "6682385",
-        "6682390"
+        "6682390",
+        "6682392"
       ]
     },
     "blind": {
@@ -977645,7 +977685,8 @@
         "4405245412",
         "4405273210",
         "4405322500",
-        "4405381880"
+        "4405381880",
+        "4405479949"
       ]
     },
     "keep": "v2",
