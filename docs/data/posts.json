@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T23:37:18+00:00",
+  "updatedAt": "2026-11-14T23:38:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -962694,6 +962694,25 @@
       "comments": 2,
       "firstSeenAt": "2026-11-14T23:37:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108540,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%8B%A4%EB%AC%BC%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94%EB%8D%B0-yyg6c0i4",
+      "title": "실물로 보는 출연자들이 선택하는데",
+      "excerpt": "뭘자꾸 화면만 보고 누구 인기없는거 이해가 안가 누구 인기있는고 이해가 안가 이러고들 있음?",
+      "author": "l******",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%A4%EB%AC%BC%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94%EB%8D%B0-yyg6c0i4",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T08:37:59+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-14T23:38:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -962878,7 +962897,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T07:24:29+09:00"
+      "slowAt": "2026-11-15T08:37:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -977987,6 +978006,7 @@
         "6685053",
         "6685056",
         "6685074",
+        "6685075",
         "6685115"
       ]
     },
