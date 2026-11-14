@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T15:04:30+00:00",
+  "updatedAt": "2026-11-14T15:06:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -960389,6 +960389,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-14T15:04:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108423,
+      "source": "dc",
+      "externalId": "6684150",
+      "title": "또래 애들 집 살 생각 없음(30살)",
+      "excerpt": "",
+      "author": "solo",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6684150&page=1",
+      "postedLabel": "00:05",
+      "postedAt": "2026-11-15T00:05:30+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T15:06:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -975454,7 +975473,9 @@
         "6684122",
         "6684127",
         "6684131",
-        "6684136"
+        "6684136",
+        "6684139",
+        "6684142"
       ]
     },
     "blind": {
