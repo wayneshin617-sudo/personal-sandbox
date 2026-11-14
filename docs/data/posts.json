@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T08:46:01+00:00",
+  "updatedAt": "2026-11-14T08:49:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -957016,6 +957016,45 @@
       "firstSeenAt": "2026-11-14T08:46:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108252,
+      "source": "dc",
+      "externalId": "6683216",
+      "title": "연예인 특권의식 신격화 잘못됀것 같음",
+      "excerpt": "",
+      "author": "호랑이",
+      "company": "",
+      "ip": "119.69",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6683216&page=1",
+      "postedLabel": "17:47",
+      "postedAt": "2026-11-14T17:47:47+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T08:49:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108253,
+      "source": "blind",
+      "externalId": "cmt-461106575",
+      "title": "취했네",
+      "excerpt": "나랑",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%9E%91-8x4t4h25#461106575",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-14T17:48:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T08:49:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -957127,7 +957166,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-14T17:45:44+09:00"
+      "slowAt": "2026-11-14T17:48:44+09:00"
     },
     "ig": {
       "doneIds": [
@@ -971983,7 +972022,8 @@
         "6683182",
         "6683187",
         "6683197",
-        "6683198"
+        "6683198",
+        "6683202"
       ]
     },
     "blind": {
