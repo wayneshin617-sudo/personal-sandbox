@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T15:06:30+00:00",
+  "updatedAt": "2026-11-14T15:08:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -960408,6 +960408,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-14T15:06:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108424,
+      "source": "blind",
+      "externalId": "cmt-461158424",
+      "title": "2222 나도 그래서 연애를 안 함",
+      "excerpt": "상철 보고 생각난 전 연애",
+      "author": "!*********",
+      "company": "제주항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EB%B3%B4%EA%B3%A0-%EC%83%9D%EA%B0%81%EB%82%9C-%EC%A0%84-%EC%97%B0%EC%95%A0-lblxwizv#461158424",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T00:08:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T15:08:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -960592,7 +960612,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T00:05:13+09:00"
+      "slowAt": "2026-11-15T00:08:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -975452,6 +975472,8 @@
         "6683775",
         "6683778",
         "6683791",
+        "6683794",
+        "6683797",
         "6684009",
         "6684019",
         "6684030",
@@ -975477,7 +975499,9 @@
         "6684136",
         "6684139",
         "6684142",
-        "6684160"
+        "6684159",
+        "6684160",
+        "6684162"
       ]
     },
     "blind": {
