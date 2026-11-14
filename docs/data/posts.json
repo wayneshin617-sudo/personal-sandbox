@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T16:55:14+00:00",
+  "updatedAt": "2026-11-14T16:56:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -961793,6 +961793,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-14T16:55:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108494,
+      "source": "dc",
+      "externalId": "6684638",
+      "title": "박고싶어 환장한 니가 다 보여서",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6684638&page=1",
+      "postedLabel": "01:55",
+      "postedAt": "2026-11-15T01:55:44+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:56:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -961977,7 +961996,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T01:53:43+09:00"
+      "slowAt": "2026-11-15T01:56:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -976993,7 +977012,8 @@
         "6684614",
         "6684617",
         "6684622",
-        "6684624"
+        "6684624",
+        "6684635"
       ]
     },
     "blind": {
