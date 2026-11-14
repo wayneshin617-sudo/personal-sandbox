@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T16:21:14+00:00",
+  "updatedAt": "2026-11-14T16:22:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -961536,6 +961536,86 @@
       "firstSeenAt": "2026-11-14T16:21:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108481,
+      "source": "blind",
+      "externalId": "cmt-461168136",
+      "title": "순경 출신은 은퇴할때",
+      "excerpt": "6급 경찰",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/6%EA%B8%89-%EA%B2%BD%EC%B0%B0-se2fw3tg#461168136",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T01:21:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:22:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108482,
+      "source": "blind",
+      "externalId": "cmt-461168225",
+      "title": "하나..안하나 딱히 뭐 ㅎ",
+      "excerpt": "투표글 34정숙 라방 투표",
+      "author": "1********",
+      "company": "스파크플러스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%A0%95%EC%88%99-%EB%9D%BC%EB%B0%A9-g3m6vibs#461168225",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T01:21:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:22:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108483,
+      "source": "blind",
+      "externalId": "cmt-461168177",
+      "title": "오버워치 할래요?",
+      "excerpt": "게임같이 할 수 있는 사람 만나구 싶어요",
+      "author": "g*****",
+      "company": "넥슨게임즈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%8C%EC%9E%84%EA%B0%99%EC%9D%B4-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%82%98%EA%B5%AC-%EC%8B%B6%EC%96%B4%EC%9A%94-435bykgx#461168177",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T01:21:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:22:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108484,
+      "source": "blind",
+      "externalId": "cmt-461168237",
+      "title": "먼 겜하는데",
+      "excerpt": "게임같이 할 수 있는 사람 만나구 싶어요",
+      "author": "우******",
+      "company": "이마트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%8C%EC%9E%84%EA%B0%99%EC%9D%B4-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%82%98%EA%B5%AC-%EC%8B%B6%EC%96%B4%EC%9A%94-435bykgx#461168237",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T01:21:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:22:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -961720,7 +961800,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T01:18:33+09:00"
+      "slowAt": "2026-11-15T01:21:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -976712,7 +976792,8 @@
         "6684496",
         "6684509",
         "6684513",
-        "6684518"
+        "6684518",
+        "6684521"
       ]
     },
     "blind": {
