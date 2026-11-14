@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T08:10:01+00:00",
+  "updatedAt": "2026-11-14T08:14:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -955306,6 +955306,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-14T08:10:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108166,
+      "source": "blind",
+      "externalId": "cmt-461087440",
+      "title": "순자가 천인우 급이라니",
+      "excerpt": "34순자는 25 하닉상철 느낌",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%88%9C%EC%9E%90%EB%8A%94-25-%ED%95%98%EB%8B%89%EC%83%81%EC%B2%A0-%EB%8A%90%EB%82%8C-i8fix4l4#461087440",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-14T15:13:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T08:14:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108167,
+      "source": "dc",
+      "externalId": "cmt-11020779",
+      "title": "겟냐?",
+      "excerpt": "궁금한점: 17만 팔로워는 a4용지 저격으로 얻은거임?",
+      "author": "oo",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6683000&page=3#cmt_11020779",
+      "postedLabel": "11.14 16:26:51",
+      "postedAt": "2026-11-14T16:26:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T08:14:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -955490,7 +955530,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-14T17:10:44+09:00"
+      "slowAt": "2026-11-14T17:13:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -970186,12 +970226,14 @@
         "6682715",
         "6682722",
         "6682725",
+        "6682736",
         "6682817",
         "6682833",
         "6682966",
         "6682977",
         "6682979",
         "6682987",
+        "6683000",
         "6683091",
         "6683109",
         "6683111",
@@ -977068,6 +977110,7 @@
         "/kr/post/34%EC%83%81%EC%B2%A0%EA%B3%BC-34%EC%98%A5%EC%88%9C%EC%9D%B4-cas4y8sn",
         "/kr/post/34%EC%83%81%EC%B2%A0%EC%9D%B4%EA%B0%80-pokx3v17",
         "/kr/post/34%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%94%EC%96%B4-mkkbfzhj",
+        "/kr/post/34%EC%88%9C%EC%9E%90%EB%8A%94-25-%ED%95%98%EB%8B%89%EC%83%81%EC%B2%A0-%EB%8A%90%EB%82%8C-i8fix4l4",
         "/kr/post/34%EC%88%9C%EC%9E%90%EB%8B%98%EC%9D%80-%EB%91%98%EC%A7%B8-%EC%97%AC%EB%8F%99%EC%83%9D-%EB%B6%84%EC%9D%B4%EB%9E%91-%EB%88%88-%EA%B0%99%EC%9D%80-%EB%8D%B0%EC%84%9C-%EC%B0%9D%EC%9C%BC%EC%85%A8%EB%82%98%EB%B4%90%EC%9A%94-anov05m2",
         "/kr/post/34%EC%88%9C%EC%9E%90%EB%8B%98-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%82%98-%EC%B0%BE%EC%9D%8C-m50hd04q",
         "/kr/post/34%EC%88%9C%EC%9E%90%EB%8B%98-%EC%95%88-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B3%B3%EC%97%90-%ED%8C%90-56%EA%B0%9C-%EB%AC%B8%EC%8B%A0-%EC%98%88%EC%83%81-%EC%9C%84%EC%B9%98-%EA%B3%B5%EA%B0%9C%ED%95%B4-%EB%93%9C%EB%A6%B4%EA%B2%8C%EC%9A%94-6gxps5dn",
