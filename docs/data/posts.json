@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T10:24:38+00:00",
+  "updatedAt": "2026-11-14T10:27:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -958406,6 +958406,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-14T10:24:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108322,
+      "source": "dc",
+      "externalId": "cmt-11020953",
+      "title": "[2008 통계청] 남성 혼인상태별 자살률 (10만 명당) 40~49세: 미혼 120.3 vs 유배우 23.5 (5.1배) 50~59세: 미혼 212.1 vs 유배우 36.5 (5.8배) 20~39세 2.1배, 60~69세 4.1배, 70세 이상 3.4배 http://busan.pass.or.kr/SW_upload_file/SW_R_report/9qar5f",
+      "excerpt": "유부남의 울부짖음",
+      "author": "Palace0617",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6683280&page=2#cmt_11020953",
+      "postedLabel": "11.14 18:45:19",
+      "postedAt": "2026-11-14T18:45:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T10:27:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108323,
+      "source": "qoo",
+      "externalId": "4405881593",
+      "title": "아니 나솔나올때 사람 좋아하는데 시간이 걸리는편이라고 하는 사람좀 나오지마",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4405881593",
+      "postedLabel": "19:26",
+      "postedAt": "2026-11-14T19:26:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T10:27:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108324,
+      "source": "blind",
+      "externalId": "cmt-461117276",
+      "title": "구냥 성격이 타고난거얔ㅋㅋㅋㅋㅋ",
+      "excerpt": "근데 영숙이쳐럼 나이 많은데",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99%EC%9D%B4%EC%B3%90%EB%9F%BC-%EB%82%98%EC%9D%B4-%EB%A7%8E%EC%9D%80%EB%8D%B0-tags0kql#461117276",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-14T19:27:13+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T10:27:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -958517,7 +958576,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-14T19:24:21+09:00"
+      "slowAt": "2026-11-14T19:27:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -973416,6 +973475,7 @@
         "6683273",
         "6683277",
         "6683279",
+        "6683280",
         "6683284",
         "6683289",
         "6683293",
@@ -973426,7 +973486,8 @@
         "6683333",
         "6683335",
         "6683339",
-        "6683349"
+        "6683349",
+        "6683354"
       ]
     },
     "blind": {
@@ -985129,7 +985190,8 @@
         "4405381880",
         "4405479949",
         "4405621121",
-        "4405847429"
+        "4405847429",
+        "4405881593"
       ]
     },
     "keep": "v2",
