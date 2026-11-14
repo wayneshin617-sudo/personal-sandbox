@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T16:20:01+00:00",
+  "updatedAt": "2026-11-14T16:21:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -961476,6 +961476,66 @@
       "firstSeenAt": "2026-11-14T16:20:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108478,
+      "source": "qoo",
+      "externalId": "cmt-4406304962",
+      "title": "@4 ㅇㅈ",
+      "excerpt": "아니 나솔나올때 사람 좋아하는데 시간이 걸리는편이라고 하는 사람좀 나오지마",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4405881593#4406304962",
+      "postedLabel": "",
+      "postedAt": "2026-11-15T00:20:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:21:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108479,
+      "source": "blind",
+      "externalId": "cmt-461167963",
+      "title": "게임도 취향 엄청 타니까... 뭐 좋아하는데?",
+      "excerpt": "게임같이 할 수 있는 사람 만나구 싶어요",
+      "author": "아********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%8C%EC%9E%84%EA%B0%99%EC%9D%B4-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%82%98%EA%B5%AC-%EC%8B%B6%EC%96%B4%EC%9A%94-435bykgx#461167963",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-15T01:19:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:21:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108480,
+      "source": "blind",
+      "externalId": "cmt-461168100",
+      "title": "fps 쪽이요!",
+      "excerpt": "게임같이 할 수 있는 사람 만나구 싶어요",
+      "author": "l********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%8C%EC%9E%84%EA%B0%99%EC%9D%B4-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%82%98%EA%B5%AC-%EC%8B%B6%EC%96%B4%EC%9A%94-435bykgx#461168100",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T01:20:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T16:21:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -976651,7 +976711,8 @@
         "6684490",
         "6684496",
         "6684509",
-        "6684513"
+        "6684513",
+        "6684518"
       ]
     },
     "blind": {
