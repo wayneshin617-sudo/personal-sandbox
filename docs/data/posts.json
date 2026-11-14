@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T01:45:41+00:00",
+  "updatedAt": "2026-11-14T01:47:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -950975,6 +950975,26 @@
       "firstSeenAt": "2026-11-14T01:45:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 107947,
+      "source": "dc",
+      "externalId": "cmt-11020231",
+      "title": "존잘 존예는 없음 - dc App",
+      "excerpt": "34기 아직 안본눈인데",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6682375&page=1#cmt_11020231",
+      "postedLabel": "11.14 10:46:34",
+      "postedAt": "2026-11-14T10:46:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T01:47:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -951086,7 +951106,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-14T10:44:25+09:00"
+      "slowAt": "2026-11-14T10:47:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -965753,9 +965773,11 @@
         "6682280",
         "6682286",
         "6682289",
+        "6682290",
         "6682341",
         "6682349",
-        "6682365"
+        "6682365",
+        "6682375"
       ]
     },
     "blind": {
