@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T08:22:00+00:00",
+  "updatedAt": "2026-11-14T08:23:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -955904,6 +955904,45 @@
       "firstSeenAt": "2026-11-14T08:22:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108196,
+      "source": "blind",
+      "externalId": "cmt-461087376",
+      "title": "그래그래.. 그냥 지우자 ..",
+      "excerpt": "얘들이 이렇게 개념이없냐",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%98%EB%93%A4%EC%9D%B4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EA%B0%9C%EB%85%90%EC%9D%B4%EC%97%86%EB%83%90-s3qu4jg6#461087376",
+      "postedLabel": "3시간",
+      "postedAt": "2026-11-14T14:22:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T08:23:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108197,
+      "source": "dc",
+      "externalId": "6683157",
+      "title": "분당 양지마을 한양 17평 15.7억 부동산거래는 합리적일까?",
+      "excerpt": "",
+      "author": "뚜껑",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6683157&page=1",
+      "postedLabel": "17:21",
+      "postedAt": "2026-11-14T17:21:58+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-14T08:23:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -956088,7 +956127,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-14T17:19:43+09:00"
+      "slowAt": "2026-11-14T17:22:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -970784,6 +970823,7 @@
         "6682625",
         "6682628",
         "6682634",
+        "6682637",
         "6682704",
         "6682708",
         "6682712",
@@ -970791,12 +970831,14 @@
         "6682722",
         "6682725",
         "6682736",
+        "6682747",
         "6682817",
         "6682833",
         "6682867",
         "6682869",
         "6682872",
         "6682873",
+        "6682877",
         "6682966",
         "6682977",
         "6682979",
