@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-14T20:01:45+00:00",
+  "updatedAt": "2026-11-14T20:03:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -962161,6 +962161,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-14T20:01:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108513,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9C%A1%EB%8D%95-%ED%86%B5%ED%86%B5-%EB%9A%B1%EB%9A%B1-38ljeid1",
+      "title": "육덕 통통 뚱뚱",
+      "excerpt": "하신 여성분 대화해요 ㅎㅎㅎ",
+      "author": "i*********",
+      "company": "인천공항시설관리",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9C%A1%EB%8D%95-%ED%86%B5%ED%86%B5-%EB%9A%B1%EB%9A%B1-38ljeid1",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T05:03:29+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-14T20:03:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -962345,7 +962364,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T05:00:29+09:00"
+      "slowAt": "2026-11-15T05:03:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -977407,7 +977426,8 @@
         "6684950",
         "6684952",
         "6684964",
-        "6684973"
+        "6684973",
+        "6684980"
       ]
     },
     "blind": {
