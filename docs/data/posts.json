@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T17:25:16+00:00",
+  "updatedAt": "2026-11-15T17:29:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -972089,6 +972089,26 @@
       "firstSeenAt": "2026-11-15T17:25:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109016,
+      "source": "dc",
+      "externalId": "cmt-11024361",
+      "title": "스토리를 실시간으로 안올리고 주말동안 한일을 몰아서 올리기도 한단다,,,, - dc App",
+      "excerpt": "오늘 순자 스케줄",
+      "author": "팡팡",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687885&page=6#cmt_11024361",
+      "postedLabel": "11.15 22:34:37",
+      "postedAt": "2026-11-15T22:34:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T17:29:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -972273,7 +972293,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-16T02:25:55+09:00"
+      "slowAt": "2026-11-16T02:28:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -987820,10 +987840,13 @@
         "6687778",
         "6687872",
         "6687873",
+        "6687885",
         "6688035",
         "6688046",
         "6688050",
+        "6688053",
         "6688168",
+        "6688171",
         "6688226",
         "6688236",
         "6688296",
@@ -994338,6 +994361,7 @@
         "/kr/post/23-%EC%98%81%EC%88%99%EC%9D%80-%EC%99%B8%EB%AA%A8%EA%B0%80-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84%EC%9E%84-ur86zw3c",
         "/kr/post/24%EA%B8%B0%EC%83%81%EC%B2%A0%EC%9D%B4%EB%9E%91-6fgxaa17",
         "/kr/post/24%EA%B8%B0-%ED%95%98%EB%8B%89%EC%9D%B4%EB%82%AB%EB%82%98-prfks6fr",
+        "/kr/post/24%EC%98%A5%EC%88%9Cvs31%EC%98%A5%EC%88%9C-80rluxy7",
         "/kr/post/24-%EA%B4%91%EC%88%98-%EB%8B%AE%EC%9D%80%EA%BC%B4-msv2eedm",
         "/kr/post/24-%ED%98%84%EC%88%99-%EC%98%81%EC%8B%9D-%ED%99%95%EC%8B%A0%EC%9D%98-%ED%95%99%EA%B5%B0%EC%A7%80-%EB%AA%85%EB%AC%B8%EB%8C%80-%EC%83%81-%E3%85%8B%E3%85%8B-tu8vil3l",
         "/kr/post/25%EA%B8%B0-%EA%B2%B0%ED%98%BC-%EC%B6%A9%EA%B2%A9-s3zren43",
