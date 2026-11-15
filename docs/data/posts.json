@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T22:06:16+00:00",
+  "updatedAt": "2026-11-15T22:16:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -972647,6 +972647,26 @@
       "firstSeenAt": "2026-11-15T22:06:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109044,
+      "source": "dc",
+      "externalId": "cmt-11024963",
+      "title": "ㅋㅋ ㅇㅈ",
+      "excerpt": "순자보다 얘가 차라리 나음",
+      "author": "-1",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688426&page=1#cmt_11024963",
+      "postedLabel": "11.16 06:56:39",
+      "postedAt": "2026-11-16T06:56:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T22:16:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -972831,7 +972851,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-16T07:12:55+09:00"
+      "slowAt": "2026-11-16T07:15:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -988502,7 +988522,9 @@
         "6688365",
         "6688367",
         "6688390",
+        "6688395",
         "6688416",
+        "6688426",
         "6688431"
       ]
     },
