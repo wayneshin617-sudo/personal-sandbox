@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T04:37:59+00:00",
+  "updatedAt": "2026-11-15T04:41:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -965976,6 +965976,44 @@
       "firstSeenAt": "2026-11-15T04:37:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108706,
+      "source": "qoo",
+      "externalId": "4406738836",
+      "title": "아쉽다 왜 헤어졌을까 글까지보니 천생연분이었네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4406738836",
+      "postedLabel": "13:40",
+      "postedAt": "2026-11-15T13:40:00+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T04:41:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108707,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AD%EC%82%BC%EC%97%AD-%EA%B7%BC%EC%B2%98-2-3%EC%8B%9C-%EB%A1%9C%EC%86%8C-j4pjqgzs",
+      "title": "역삼역 근처 2-3시 로소",
+      "excerpt": "역삼역 근천데 로테이션소개팅 갈만한 곳 있나 6시에 약속 있어서 그전에 가고싶은데 ㅜㅜ",
+      "author": "a*****",
+      "company": "한국지역정보개발원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AD%EC%82%BC%EC%97%AD-%EA%B7%BC%EC%B2%98-2-3%EC%8B%9C-%EB%A1%9C%EC%86%8C-j4pjqgzs",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T13:41:10+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-15T04:41:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -966160,7 +966198,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T13:37:43+09:00"
+      "slowAt": "2026-11-15T13:41:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -993245,7 +993283,8 @@
         "4406682318",
         "4406710150",
         "4406722322",
-        "4406732445"
+        "4406732445",
+        "4406738836"
       ]
     },
     "keep": "v2",
