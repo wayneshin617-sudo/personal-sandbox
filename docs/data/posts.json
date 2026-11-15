@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T11:46:39+00:00",
+  "updatedAt": "2026-11-15T11:52:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -970041,6 +970041,26 @@
       "firstSeenAt": "2026-11-15T11:46:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108912,
+      "source": "qoo",
+      "externalId": "cmt-4407116614",
+      "title": "아... 진짜 나이먹고 뭐함......",
+      "excerpt": "카톡으로 해라...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4407026093#4407116614",
+      "postedLabel": "",
+      "postedAt": "2026-11-15T19:51:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:52:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -970152,7 +970172,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T20:49:12+09:00"
+      "slowAt": "2026-11-15T20:52:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -985701,7 +985721,8 @@
         "6687458",
         "6687464",
         "6687471",
-        "6687481"
+        "6687481",
+        "6687490"
       ]
     },
     "blind": {
