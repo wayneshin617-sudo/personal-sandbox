@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T05:22:55+00:00",
+  "updatedAt": "2026-11-15T05:26:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -966467,6 +966467,26 @@
       "firstSeenAt": "2026-11-15T05:22:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108731,
+      "source": "blind",
+      "externalId": "cmt-461218820",
+      "title": "우리나라 c컵이하가 70프로라 아마 힘들걸",
+      "excerpt": "우리 순자 이제 그만 놔주자",
+      "author": "q******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9A%B0%EB%A6%AC-%EC%88%9C%EC%9E%90-%EC%9D%B4%EC%A0%9C-%EA%B7%B8%EB%A7%8C-%EB%86%94%EC%A3%BC%EC%9E%90-rj2nntmb#461218820",
+      "postedLabel": "28분",
+      "postedAt": "2026-11-15T13:58:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T05:26:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -966651,7 +966671,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T14:22:40+09:00"
+      "slowAt": "2026-11-15T14:26:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -981984,7 +982004,8 @@
         "6686321",
         "6686342",
         "6686346",
-        "6686355"
+        "6686355",
+        "6686366"
       ]
     },
     "blind": {
