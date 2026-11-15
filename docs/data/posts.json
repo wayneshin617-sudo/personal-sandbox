@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T05:10:17+00:00",
+  "updatedAt": "2026-11-15T05:12:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -966169,6 +966169,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-15T05:10:17+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108716,
+      "source": "blind",
+      "externalId": "cmt-461219997",
+      "title": "저 말의 메신저만 공격당하지 메시지 부정하는 건 못봄",
+      "excerpt": "근데 진짜궁금한게 한국여자는 쌔고 일본여자는 순종적이다 그러자나",
+      "author": "우***",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A7%84%EC%A7%9C%EA%B6%81%EA%B8%88%ED%95%9C%EA%B2%8C-%ED%95%9C%EA%B5%AD%EC%97%AC%EC%9E%90%EB%8A%94-%EC%8C%94%EA%B3%A0-%EC%9D%BC%EB%B3%B8%EC%97%AC%EC%9E%90%EB%8A%94-%EC%88%9C%EC%A2%85%EC%A0%81%EC%9D%B4%EB%8B%A4-%EA%B7%B8%EB%9F%AC%EC%9E%90%EB%82%98-ulj0kxn4#461219997",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-15T14:11:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T05:12:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108717,
+      "source": "blind",
+      "externalId": "cmt-461220002",
+      "title": "아무생각도없다 일본여자에 대해서 잘 몰라서",
+      "excerpt": "근데 진짜궁금한게 한국여자는 쌔고 일본여자는 순종적이다 그러자나",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A7%84%EC%A7%9C%EA%B6%81%EA%B8%88%ED%95%9C%EA%B2%8C-%ED%95%9C%EA%B5%AD%EC%97%AC%EC%9E%90%EB%8A%94-%EC%8C%94%EA%B3%A0-%EC%9D%BC%EB%B3%B8%EC%97%AC%EC%9E%90%EB%8A%94-%EC%88%9C%EC%A2%85%EC%A0%81%EC%9D%B4%EB%8B%A4-%EA%B7%B8%EB%9F%AC%EC%9E%90%EB%82%98-ulj0kxn4#461220002",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T14:12:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T05:12:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -966353,7 +966393,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T14:08:47+09:00"
+      "slowAt": "2026-11-15T14:12:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -981677,6 +981717,7 @@
         "6686273",
         "6686277",
         "6686282",
+        "6686289",
         "6686291"
       ]
     },
