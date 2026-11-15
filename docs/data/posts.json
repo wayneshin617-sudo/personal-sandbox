@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T03:20:17+00:00",
+  "updatedAt": "2026-11-15T03:23:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -964407,6 +964407,46 @@
       "firstSeenAt": "2026-11-15T03:20:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108627,
+      "source": "blind",
+      "externalId": "cmt-461209348",
+      "title": "미드 얼마나 되는거임?",
+      "excerpt": "순자",
+      "author": "구******",
+      "company": "교원구몬",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-njl1z5xe#461209348",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T12:23:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T03:23:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108628,
+      "source": "blind",
+      "externalId": "cmt-461209382",
+      "title": "미드고 지랄이고 관심없음",
+      "excerpt": "순자",
+      "author": "g*****",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-njl1z5xe#461209382",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T12:23:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T03:23:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -979800,7 +979840,8 @@
         "6685918",
         "6685921",
         "6685931",
-        "6685938"
+        "6685938",
+        "6685944"
       ]
     },
     "blind": {
