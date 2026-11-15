@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T23:44:08+00:00",
+  "updatedAt": "2026-11-15T23:45:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -972864,6 +972864,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-15T23:44:08+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109055,
+      "source": "dc",
+      "externalId": "cmt-11025059",
+      "title": "주말 내내 바이럴 평일 아침부터 바이럴 이 개새꺄",
+      "excerpt": "바이럴 씨발새끼 멈출줄 모르네 ㄹㅇ",
+      "author": "바이럴 사냥꾼",
+      "company": "",
+      "ip": "218.51",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688552&page=1#cmt_11025059",
+      "postedLabel": "11.16 08:45:03",
+      "postedAt": "2026-11-16T08:45:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T23:45:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -972975,7 +972995,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T08:42:33+09:00"
+      "slowAt": "2026-11-16T08:45:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -988739,7 +988759,8 @@
         "6688504",
         "6688510",
         "6688536",
-        "6688543"
+        "6688543",
+        "6688552"
       ]
     },
     "blind": {
