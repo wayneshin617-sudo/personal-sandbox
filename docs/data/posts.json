@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T10:55:05+00:00",
+  "updatedAt": "2026-11-15T10:56:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -968737,6 +968737,45 @@
       "firstSeenAt": "2026-11-15T10:55:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108846,
+      "source": "dc",
+      "externalId": "6687272",
+      "title": "와 진짜 미쳤다 미쳤어",
+      "excerpt": "",
+      "author": "00",
+      "company": "",
+      "ip": "110.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687272&page=1",
+      "postedLabel": "19:54",
+      "postedAt": "2026-11-15T19:54:52+09:00",
+      "views": 12,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T10:56:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108847,
+      "source": "blind",
+      "externalId": "cmt-461255185",
+      "title": "솔까 공무원은 행시 아래는 다 똑같지 뭘..",
+      "excerpt": "나솔 신청했는데 수시인사로 6급 막 승진했거든?",
+      "author": "i*********",
+      "company": "삼성SDS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%8B%A0%EC%B2%AD%ED%96%88%EB%8A%94%EB%8D%B0-%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%EB%A1%9C-6%EA%B8%89-%EB%A7%89-%EC%8A%B9%EC%A7%84%ED%96%88%EA%B1%B0%EB%93%A0-t1cwe03x#461255185",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T19:55:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T10:56:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -984322,7 +984361,8 @@
         "6687255",
         "6687258",
         "6687262",
-        "6687264"
+        "6687264",
+        "6687267"
       ]
     },
     "blind": {
