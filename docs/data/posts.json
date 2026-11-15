@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T02:12:11+00:00",
+  "updatedAt": "2026-11-15T02:14:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -963776,6 +963776,66 @@
       "firstSeenAt": "2026-11-15T02:12:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108595,
+      "source": "blind",
+      "externalId": "cmt-461200182",
+      "title": "하자있어보임",
+      "excerpt": "남자 30살 모솔",
+      "author": "두**",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-30%EC%82%B4-%EB%AA%A8%EC%86%94-vtutcly6#461200182",
+      "postedLabel": "22분",
+      "postedAt": "2026-11-15T10:52:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T02:14:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108596,
+      "source": "blind",
+      "externalId": "cmt-461200829",
+      "title": "게시판도 못찾구 짝도 못 찾구",
+      "excerpt": "남자 30살 모솔",
+      "author": "e****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-30%EC%82%B4-%EB%AA%A8%EC%86%94-vtutcly6#461200829",
+      "postedLabel": "16분",
+      "postedAt": "2026-11-15T10:58:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T02:14:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108597,
+      "source": "blind",
+      "externalId": "cmt-461201639",
+      "title": "진심으로 개별로",
+      "excerpt": "남자 30살 모솔",
+      "author": "F*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-30%EC%82%B4-%EB%AA%A8%EC%86%94-vtutcly6#461201639",
+      "postedLabel": "7분",
+      "postedAt": "2026-11-15T11:07:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T02:14:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -963960,7 +964020,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T11:11:55+09:00"
+      "slowAt": "2026-11-15T11:14:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -979123,6 +979183,7 @@
         "6685270",
         "6685273",
         "6685275",
+        "6685280",
         "6685305",
         "6685314",
         "6685334",
@@ -979143,7 +979204,8 @@
         "6685490",
         "6685503",
         "6685512",
-        "6685521"
+        "6685521",
+        "6685536"
       ]
     },
     "blind": {
