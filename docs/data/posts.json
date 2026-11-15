@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T12:43:29+00:00",
+  "updatedAt": "2026-11-15T12:44:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -970790,6 +970790,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-15T12:43:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108950,
+      "source": "blind",
+      "externalId": "cmt-461270089",
+      "title": "헌포재질",
+      "excerpt": "34영철 잘생겻는데",
+      "author": "l*********",
+      "company": "삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0-%EC%9E%98%EC%83%9D%EA%B2%BB%EB%8A%94%EB%8D%B0-spi1xwdd#461270089",
+      "postedLabel": "2분",
+      "postedAt": "2026-11-15T21:42:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:44:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108951,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EC%86%94%EC%97%90-%EC%97%AC%EC%9E%90-%EC%9D%80%ED%96%89%EC%9B%90%EC%9D%80-%EC%95%88%EB%82%98%EC%99%94%EC%9D%8C-ude4sjhv",
+      "title": "나솔에 여자 은행원은 안나왔음??",
+      "excerpt": "새금말고 1금융권 은행원 남자는 좀 나온걸로 아는데",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%97%90-%EC%97%AC%EC%9E%90-%EC%9D%80%ED%96%89%EC%9B%90%EC%9D%80-%EC%95%88%EB%82%98%EC%99%94%EC%9D%8C-ude4sjhv",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-15T21:43:37+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-15T12:44:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -970974,7 +971013,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T21:41:46+09:00"
+      "slowAt": "2026-11-15T21:44:37+09:00"
     },
     "dc": {
       "doneIds": [
