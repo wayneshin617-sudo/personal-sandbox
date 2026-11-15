@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T05:33:01+00:00",
+  "updatedAt": "2026-11-15T05:42:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -966547,6 +966547,26 @@
       "firstSeenAt": "2026-11-15T05:33:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108735,
+      "source": "blind",
+      "externalId": "cmt-461222830",
+      "title": "34기 방영중인데, 31기 얘기가 이렇게나 올라오는게 신기함",
+      "excerpt": "순자 몸무게얘기",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%AC%B4%EA%B2%8C%EC%96%98%EA%B8%B0-tszlyk08#461222830",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T14:41:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T05:42:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -982082,7 +982102,9 @@
         "6686408",
         "6686416",
         "6686420",
-        "6686427"
+        "6686427",
+        "6686437",
+        "6686440"
       ]
     },
     "blind": {
@@ -984516,6 +984538,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%A9%94%EB%94%95%EC%9D%B8%EC%A4%84%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EB%9F%B4%EC%BB%A4%EB%8A%90%EB%82%8C%EB%82%A8-2utpzcmq",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4%EC%97%90-%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%A9%B4-ppg38u6z",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4-l1banj26",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%AC%B4%EA%B2%8C%EC%96%98%EA%B8%B0-tszlyk08",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%AC%B4%EA%B2%8C-%EB%AA%87%EA%B0%99%EC%95%84-upozmqwf",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EC%97%90-%EC%9D%B4%EB%A0%88%EC%A6%88%EB%AF%B8-%EC%9E%88%EC%96%B4%EB%8F%84-d17i2n2m",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0%E3%84%B7%E3%84%B7-klnivrq0",
