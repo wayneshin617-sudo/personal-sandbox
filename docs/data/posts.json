@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T12:32:04+00:00",
+  "updatedAt": "2026-11-15T12:33:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -970556,6 +970556,64 @@
       "firstSeenAt": "2026-11-15T12:32:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108938,
+      "source": "dc",
+      "externalId": "cmt-11024133",
+      "title": "구이가 아니고 찜이네.",
+      "excerpt": "화로에 올려진 생굴도 있노",
+      "author": "북핵2국가인정★남한러시아가스석유관연결",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687664&page=1#cmt_11024133",
+      "postedLabel": "11.15 21:32:43",
+      "postedAt": "2026-11-15T21:32:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:33:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108939,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B0%A4-%EB%AC%B8%ED%99%94-%EC%A2%80-%EC%95%84%EB%8A%94-%ED%98%95%EB%93%A4-%EB%8F%84%EC%99%80%EC%A4%98-%E3%85%A0%E3%85%A0-d338scl3",
+      "title": "밤 문화 좀 아는 형들 도와줘 ㅠㅠ",
+      "excerpt": "30 중반이고 30대 들어와서 연애 1도 없었고 일만 했고 순수하게 카페에서 대화하거나 술 밥 먹은지 언제인지 기억도 안나 남성 호르몬이 줄고 있는지 운동할 때 테스토도 안 느껴져 (병원가서 검사 받았는데 다행이 남성 호르몬은 5이상 나옴) 진짜 이 정도면 완전 스님아니야? 어디가서 말 한번 걸어 보기가 요즘 세상 분위기상 힘들다 ㄷㄷ 그냥 합법적으로 돈 주고 깔끔하게 술 한잔 하고 싶어 ㄹㅃ 강남이 괜찮아? 어디가 괜찮아? 예전에 소문으로는 가락동도 괜찮다던데 추천 좀 해줘 나 혼자 갈건데 가능하면 가격이랑 위치도 ㅠㅠ",
+      "author": "l*********",
+      "company": "미디어로그",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%A4-%EB%AC%B8%ED%99%94-%EC%A2%80-%EC%95%84%EB%8A%94-%ED%98%95%EB%93%A4-%EB%8F%84%EC%99%80%EC%A4%98-%E3%85%A0%E3%85%A0-d338scl3",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T21:33:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-15T12:33:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108940,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B6%81%EA%B8%88%ED%95%9C-%EA%B2%8C-%EC%9E%88%EC%9D%8C-e8425nph",
+      "title": "난 여자들한테 궁금한 게 있음",
+      "excerpt": "나도 여저임.. 근데 이번 기수 영호같은 사람을 처음부터 선택 안 하는 이유는 뭐야? 나도 취향이 소나무라 키 크고 점잖고 뭔가 선하게 생긴 남자를 좋아하는 편. 물론 처음부터 광수, 영수 같은 사람이 취향일 수도 있긴 한데, 뭐 그런 특이 취향은 영호같은 스타일을 옆에 두고도 발현되는건지 궁금",
+      "author": "김****",
+      "company": "매드엔진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B6%81%EA%B8%88%ED%95%9C-%EA%B2%8C-%EC%9E%88%EC%9D%8C-e8425nph",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T21:33:12+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-15T12:33:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -970740,7 +970798,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T21:30:20+09:00"
+      "slowAt": "2026-11-15T21:33:12+09:00"
     },
     "dc": {
       "doneIds": [
@@ -986220,6 +986278,7 @@
         "6687401",
         "6687404",
         "6687409",
+        "6687416",
         "6687424",
         "6687426",
         "6687435",
@@ -986253,7 +986312,9 @@
         "6687641",
         "6687651",
         "6687652",
-        "6687660"
+        "6687654",
+        "6687660",
+        "6687664"
       ]
     },
     "blind": {
