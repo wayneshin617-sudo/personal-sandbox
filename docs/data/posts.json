@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T11:28:06+00:00",
+  "updatedAt": "2026-11-15T11:30:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -969842,6 +969842,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-15T11:28:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108902,
+      "source": "dc",
+      "externalId": "6687402",
+      "title": "영호 현숙 최커 맞네 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "하이닉스의호흡",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687402&page=1",
+      "postedLabel": "20:29",
+      "postedAt": "2026-11-15T20:29:29+09:00",
+      "views": 18,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:30:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -970026,7 +970045,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T20:26:48+09:00"
+      "slowAt": "2026-11-15T20:29:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -985479,7 +985498,8 @@
         "6687374",
         "6687379",
         "6687383",
-        "6687395"
+        "6687395",
+        "6687400"
       ]
     },
     "blind": {
