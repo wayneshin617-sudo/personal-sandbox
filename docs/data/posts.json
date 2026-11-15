@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T11:25:06+00:00",
+  "updatedAt": "2026-11-15T11:26:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -969723,6 +969723,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-15T11:25:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108896,
+      "source": "qoo",
+      "externalId": "cmt-4407083528",
+      "title": "아니 근데 이쪽은 뭐가있었길래 갑자기 영호 글올리고 이러고있는거야??? 그사이 복습해보니 딱히 뭐 없던거같은디?",
+      "excerpt": "카톡으로 해라...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4407026093#4407083528",
+      "postedLabel": "",
+      "postedAt": "2026-11-15T19:25:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:26:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108897,
+      "source": "blind",
+      "externalId": "cmt-461259384",
+      "title": "옥순 입장문보니까 소설쓰고앉아있음 오그라들어 ㅋㅋㅋㅋ",
+      "excerpt": "재회도 안했다는데 왜 호텔앞에서 사진찍은거야?",
+      "author": "타******",
+      "company": "파라타항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%AC%ED%9A%8C%EB%8F%84-%EC%95%88%ED%96%88%EB%8B%A4%EB%8A%94%EB%8D%B0-%EC%99%9C-%ED%98%B8%ED%85%94%EC%95%9E%EC%97%90%EC%84%9C-%EC%82%AC%EC%A7%84%EC%B0%8D%EC%9D%80%EA%B1%B0%EC%95%BC-yjjyq2yf#461259384",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T20:25:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:26:05+00:00",
       "isSeed": false,
       "kind": "reply"
     }
