@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T03:23:17+00:00",
+  "updatedAt": "2026-11-15T03:27:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -964447,6 +964447,46 @@
       "firstSeenAt": "2026-11-15T03:23:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108629,
+      "source": "blind",
+      "externalId": "cmt-461205493",
+      "title": "영자가 사람보는 눈이랑 눈치가 백단인게 영철한테 비어보이는(?) 말 같은게 영호한테 있다잖아",
+      "excerpt": "이제보는데 영철은 영호한테 자격지심 진짜심하것다",
+      "author": "h***",
+      "company": "LG유플러스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EC%A0%9C%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EC%9E%90%EA%B2%A9%EC%A7%80%EC%8B%AC-%EC%A7%84%EC%A7%9C%EC%8B%AC%ED%95%98%EA%B2%83%EB%8B%A4-luyjkdne#461205493",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-15T11:45:01+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T03:27:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108630,
+      "source": "blind",
+      "externalId": "cmt-461209184",
+      "title": "잇몸한의사 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "이제보는데 영철은 영호한테 자격지심 진짜심하것다",
+      "author": "x********",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EC%A0%9C%EB%B3%B4%EB%8A%94%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%80-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EC%9E%90%EA%B2%A9%EC%A7%80%EC%8B%AC-%EC%A7%84%EC%A7%9C%EC%8B%AC%ED%95%98%EA%B2%83%EB%8B%A4-luyjkdne#461209184",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-15T12:21:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T03:27:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -964558,7 +964598,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T12:24:01+09:00"
+      "slowAt": "2026-11-15T12:27:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -979828,6 +979868,9 @@
         "6685597",
         "6685606",
         "6685615",
+        "6685629",
+        "6685632",
+        "6685635",
         "6685869",
         "6685870",
         "6685874",
@@ -979845,7 +979888,8 @@
         "6685938",
         "6685944",
         "6685947",
-        "6685950"
+        "6685950",
+        "6685958"
       ]
     },
     "blind": {
@@ -985309,6 +985353,7 @@
         "/kr/post/%EC%A0%84-%EC%95%A0%EC%9D%B8-%EC%9D%B4%EB%A6%84-%EB%A0%88%ED%84%B0%EB%A7%81%EB%A7%8C-%EC%95%84%EB%8B%98-%EB%90%98%EC%A7%80-gtliqk8e",
         "/kr/post/%EC%A0%88%EB%8C%80-%ED%8F%AC%EA%B8%B0-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%99%B8%EB%AA%A8-zyfyxlnc",
         "/kr/post/%EC%A0%8A%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A4%91-%EB%AA%B8%EC%97%90-%EC%88%98-%EB%B0%B1-%EC%88%98-%EC%B2%9C-%EB%A7%8C%EC%9B%90-%EC%96%B4%EC%B9%98-%EB%AC%B8%EC%8B%A0-%EC%9E%88%EB%8A%94%EB%8D%B0-%ED%8E%B8%EC%9D%98%EC%A0%90%EC%9D%B4%EB%82%98-%EC%96%B4%EB%94%94-%EB%9D%BC%EB%A9%98%EC%A7%91-%EC%95%8C%EB%B0%94-%EA%B0%99%EC%9D%80-%EA%B1%B0-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B1%B0-%EC%9D%B4%EC%83%81%ED%95%98%EB%8B%A8-%EC%83%9D%EA%B0%81-%EC%95%88%ED%95%B4%EB%B3%B4%EC%85%A8%EB%82%98%EC%9A%94-htv34q1h",
+        "/kr/post/%EC%A0%95%EB%B3%91%EA%B2%BD%ED%97%98%EC%9E%88%EB%8A%94-%EC%97%AC%EC%9E%90-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%B3%B8-31-%EC%98%A5%EC%88%9C-pnrpl51l",
         "/kr/post/%EC%A0%95%EC%88%99%EB%88%84%EB%82%98-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%EB%B6%84%EC%9C%84%EA%B8%B0%ED%8C%8C%EC%95%85-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80-%EB%8A%A5%EB%A0%A5-%ED%83%91%ED%8B%B0%EC%96%B4%EB%84%A4-7gvahxrm",
         "/kr/post/%EC%A0%95%EC%88%99%EB%88%84%EB%82%98-%EB%86%80%EB%9F%AC%EC%98%A8%EA%B1%B0-%EC%95%84%EB%8B%88%EC%97%88%EB%82%98-uleqiq4p",
         "/kr/post/%EC%A0%95%EC%88%99%EB%88%84%EB%82%98-%EC%82%B4%ED%95%9C%EB%B2%88-%EB%B9%BC%EB%B3%B4%EC%9E%90-fxtxtn2q",
