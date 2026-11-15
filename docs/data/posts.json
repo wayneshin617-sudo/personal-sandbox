@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T11:18:05+00:00",
+  "updatedAt": "2026-11-15T11:20:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -969587,6 +969587,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-15T11:18:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108889,
+      "source": "dc",
+      "externalId": "6687363",
+      "title": "웅앵웅 20만원에 긁히는거보니",
+      "excerpt": "",
+      "author": "1234",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687363&page=1",
+      "postedLabel": "20:18",
+      "postedAt": "2026-11-15T20:18:54+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:20:06+00:00",
       "isSeed": false
     }
   ],
