@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T11:45:12+00:00",
+  "updatedAt": "2026-11-15T11:46:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -970001,6 +970001,46 @@
       "firstSeenAt": "2026-11-15T11:45:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108910,
+      "source": "blind",
+      "externalId": "cmt-461256854",
+      "title": "주식이랑 똑같음 주식도 잃는 사람이 더 많지만 대박나는 사람들 보면서 희망과 기대를 안고 하는거처럼 나솔도 똑같음",
+      "excerpt": "나솔 나오면 얻는것보다 잃는게 더 많은 것 같다",
+      "author": "j******",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%82%98%EC%98%A4%EB%A9%B4-%EC%96%BB%EB%8A%94%EA%B2%83%EB%B3%B4%EB%8B%A4-%EC%9E%83%EB%8A%94%EA%B2%8C-%EB%8D%94-%EB%A7%8E%EC%9D%80-%EA%B2%83-%EA%B0%99%EB%8B%A4-1d0s5z1u#461256854",
+      "postedLabel": "39분",
+      "postedAt": "2026-11-15T20:07:21+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:46:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108911,
+      "source": "blind",
+      "externalId": "cmt-461257057",
+      "title": "그러네 진짱",
+      "excerpt": "나솔 나오면 얻는것보다 잃는게 더 많은 것 같다",
+      "author": "순***** 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%82%98%EC%98%A4%EB%A9%B4-%EC%96%BB%EB%8A%94%EA%B2%83%EB%B3%B4%EB%8B%A4-%EC%9E%83%EB%8A%94%EA%B2%8C-%EB%8D%94-%EB%A7%8E%EC%9D%80-%EA%B2%83-%EA%B0%99%EB%8B%A4-1d0s5z1u#461257057",
+      "postedLabel": "38분",
+      "postedAt": "2026-11-15T20:08:21+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:46:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -970112,7 +970152,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T20:43:29+09:00"
+      "slowAt": "2026-11-15T20:46:21+09:00"
     },
     "ig": {
       "doneIds": [
@@ -985627,6 +985667,7 @@
         "6687236",
         "6687243",
         "6687245",
+        "6687247",
         "6687250",
         "6687255",
         "6687258",
