@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T03:59:18+00:00",
+  "updatedAt": "2026-11-15T04:00:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -965362,6 +965362,25 @@
       "firstSeenAt": "2026-11-15T03:59:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108675,
+      "source": "dc",
+      "externalId": "6686080",
+      "title": "난 영숙이 젤 별로던데 쏙빠지고",
+      "excerpt": "",
+      "author": "..",
+      "company": "",
+      "ip": "221.167",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6686080&page=1",
+      "postedLabel": "12:59",
+      "postedAt": "2026-11-15T12:59:26+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T04:00:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -965473,7 +965492,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T12:57:01+09:00"
+      "slowAt": "2026-11-15T13:00:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -980810,7 +980829,8 @@
         "6686064",
         "6686065",
         "6686067",
-        "6686072"
+        "6686072",
+        "6686074"
       ]
     },
     "blind": {
