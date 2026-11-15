@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T17:35:11+00:00",
+  "updatedAt": "2026-11-15T17:42:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -972189,6 +972189,46 @@
       "firstSeenAt": "2026-11-15T17:35:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109021,
+      "source": "dc",
+      "externalId": "cmt-11024390",
+      "title": "존재하지도않다=존재한다",
+      "excerpt": "폐강순자는 이제 옥팔계랑 동급 된고야?",
+      "author": "귀여워",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687924&page=5#cmt_11024390",
+      "postedLabel": "11.15 22:42:54",
+      "postedAt": "2026-11-15T22:42:54+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T17:42:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109022,
+      "source": "dc",
+      "externalId": "cmt-11024410",
+      "title": "너야말로 옥까단을 순천지로 믿고 있으니 그리 보이나보다",
+      "excerpt": "폐강순자는 이제 옥팔계랑 동급 된고야?",
+      "author": "귀여워",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687924&page=5#cmt_11024410",
+      "postedLabel": "11.15 22:46:46",
+      "postedAt": "2026-11-15T22:46:46+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T17:42:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -987930,6 +987970,7 @@
         "6687904",
         "6687910",
         "6687920",
+        "6687924",
         "6688035",
         "6688046",
         "6688050",
@@ -987944,13 +987985,16 @@
         "6688181",
         "6688184",
         "6688186",
+        "6688189",
         "6688226",
         "6688236",
         "6688247",
         "6688255",
         "6688257",
+        "6688260",
         "6688296",
-        "6688299"
+        "6688299",
+        "6688310"
       ]
     },
     "blind": {
@@ -988700,6 +988744,7 @@
         "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-%EB%B0%A9%EA%B8%88-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EB%84%88%EB%AC%B4%ED%95%98%EB%84%A4-%EB%82%A8%ED%94%BC%EB%94%94-yb54kcnr",
         "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EC%B2%98%EC%9D%8C%EC%9C%BC%EB%A1%9C-i30pz14y",
         "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-%EB%B3%B4%EB%A9%B4-%EC%95%8C%EC%88%98-%EC%9E%88%EB%93%AF%EC%9D%B4-%EC%99%B8%EA%B5%AD%EC%9D%B8%EB%93%A4%EB%8F%84-%EB%B3%B4%EB%8A%94-%EB%88%88%EC%9D%80-%EB%8B%A4-%EB%98%91%EA%B0%99%EC%9D%8C-tm6blsaf",
+        "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-%EB%B9%84%EB%B9%84%EB%8B%98-%EC%A1%B0%EB%82%98%EB%8B%A8-%EC%9C%A0%ED%88%BD%EC%97%90-%EB%82%98%EC%98%A8%EA%B1%B0%EB%B3%B4%EB%8B%88-lyvh8t1m",
         "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%B0%B8-%EA%B4%9C%EC%B0%AE%EB%84%A4-aog1ti8b",
         "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-%EC%97%AC%EC%B6%9C%EB%93%A4%EC%9D%B4-%EC%B6%9C%EC%97%B0%EC%A0%84-%EC%9D%B4%EB%9F%B0-%ED%95%9C%EA%B5%AD%EB%82%A8%EC%9E%90%EB%A5%BC-%EA%B8%B0%EB%8C%80%ED%95%98%EA%B3%A0-%EB%82%98%EC%99%94%EC%9D%84%EA%B1%B4%EB%8D%B0-pycleb5i",
         "/kr/post/%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84-%EC%98%A4%EB%8A%98%ED%8E%B8-%EB%82%A8%EC%B6%9C%EB%B6%80%ED%84%B0-%EC%B6%A9%EA%B2%A9-c34zai42",
