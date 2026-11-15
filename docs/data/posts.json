@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T01:56:46+00:00",
+  "updatedAt": "2026-11-15T02:00:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -963559,6 +963559,25 @@
       "firstSeenAt": "2026-11-15T01:56:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108584,
+      "source": "dc",
+      "externalId": "6685476",
+      "title": "아침에 연락이 많이 와있어",
+      "excerpt": "",
+      "author": "마홈즈",
+      "company": "",
+      "ip": "210.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6685476&page=1",
+      "postedLabel": "10:59",
+      "postedAt": "2026-11-15T10:59:08+09:00",
+      "views": 12,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T02:00:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -963670,7 +963689,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T10:57:46+09:00"
+      "slowAt": "2026-11-15T11:00:22+09:00"
     },
     "ig": {
       "doneIds": [
@@ -978917,7 +978936,8 @@
         "6685439",
         "6685458",
         "6685465",
-        "6685470"
+        "6685470",
+        "6685481"
       ]
     },
     "blind": {
