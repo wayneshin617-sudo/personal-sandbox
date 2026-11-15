@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T11:00:05+00:00",
+  "updatedAt": "2026-11-15T11:01:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -969054,6 +969054,25 @@
       "firstSeenAt": "2026-11-15T11:00:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108862,
+      "source": "dc",
+      "externalId": "6687295",
+      "title": "블라인드에 글 써보라니까 ㅋㅋㅋㅋㅋㅋㅋ 북토크든 뭐든",
+      "excerpt": "",
+      "author": "1234",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687295&page=1",
+      "postedLabel": "20:00",
+      "postedAt": "2026-11-15T20:00:12+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T11:01:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -969165,7 +969184,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T19:57:48+09:00"
+      "slowAt": "2026-11-15T20:00:48+09:00"
     },
     "ig": {
       "doneIds": [
@@ -984621,6 +984640,7 @@
         "6687018",
         "6687028",
         "6687035",
+        "6687037",
         "6687081",
         "6687085",
         "6687089",
