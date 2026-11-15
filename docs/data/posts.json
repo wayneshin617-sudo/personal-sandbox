@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T02:05:47+00:00",
+  "updatedAt": "2026-11-15T02:07:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -963617,6 +963617,25 @@
       "firstSeenAt": "2026-11-15T02:05:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108587,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B8%EC%8A%A4%ED%83%80-%EB%B9%84%EA%B3%B5%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%EC%88%98%EB%A1%9C-%EA%B3%B5%EA%B0%9C%EB%90%98%EC%A7%80-rsapvzph",
+      "title": "인스타 비공이 어떻게 실수로 공개되지",
+      "excerpt": "공개되자마자 블라인드에 올라오는 건 팔로워가 이미 있던게 아니면 어떻게…?",
+      "author": "e****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B8%EC%8A%A4%ED%83%80-%EB%B9%84%EA%B3%B5%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%EC%88%98%EB%A1%9C-%EA%B3%B5%EA%B0%9C%EB%90%98%EC%A7%80-rsapvzph",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T11:06:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-15T02:07:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -963801,7 +963820,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T11:04:13+09:00"
+      "slowAt": "2026-11-15T11:06:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -978978,7 +978997,8 @@
         "6685470",
         "6685481",
         "6685487",
-        "6685490"
+        "6685490",
+        "6685503"
       ]
     },
     "blind": {
