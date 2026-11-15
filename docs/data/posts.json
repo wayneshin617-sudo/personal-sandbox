@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T23:45:26+00:00",
+  "updatedAt": "2026-11-15T23:51:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -972884,6 +972884,26 @@
       "firstSeenAt": "2026-11-15T23:45:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109056,
+      "source": "dc",
+      "externalId": "cmt-11025074",
+      "title": "똑같은 어휘 사용에 같은 내용 도배하는 씨발새끼들인건 안보이고?",
+      "excerpt": "아니 시발 통피에 바이럴이라고 써놓으면 누구라도 그렇게 뜨지",
+      "author": "바이럴 사냥꾼",
+      "company": "",
+      "ip": "218.51",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688563&page=1#cmt_11025074",
+      "postedLabel": "11.16 08:51:02",
+      "postedAt": "2026-11-16T08:51:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T23:51:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -973068,7 +973088,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-16T08:49:04+09:00"
+      "slowAt": "2026-11-16T08:51:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -988761,7 +988781,8 @@
         "6688536",
         "6688543",
         "6688552",
-        "6688554"
+        "6688554",
+        "6688563"
       ]
     },
     "blind": {
