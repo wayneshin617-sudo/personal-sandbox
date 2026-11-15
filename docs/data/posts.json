@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T12:33:30+00:00",
+  "updatedAt": "2026-11-15T12:34:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -970614,6 +970614,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-15T12:33:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108941,
+      "source": "dc",
+      "externalId": "cmt-11024135",
+      "title": "만약 구이라면 달걀도 구워먹으라고 주겠나? 달걀 굽다 터지게",
+      "excerpt": "화로에 올려진 생굴도 있노",
+      "author": "북핵2국가인정★남한러시아가스석유관연결",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687664&page=1#cmt_11024135",
+      "postedLabel": "11.15 21:34:11",
+      "postedAt": "2026-11-15T21:34:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:34:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108942,
+      "source": "blind",
+      "externalId": "cmt-461268811",
+      "title": "아 에바야 존잘들이 굳이 왜",
+      "excerpt": "영자 갸웃기네",
+      "author": "l******** 작성자",
+      "company": "아이에스시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90-%EA%B0%B8%EC%9B%83%EA%B8%B0%EB%84%A4-v07syk37#461268811",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T21:34:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:34:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108943,
+      "source": "blind",
+      "externalId": "cmt-461268794",
+      "title": "걍 키크고 점잖고 선하게 생긴 남자 별로안끌려서 ㅋ",
+      "excerpt": "난 여자들한테 궁금한 게 있음",
+      "author": "F*****",
+      "company": "스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B6%81%EA%B8%88%ED%95%9C-%EA%B2%8C-%EC%9E%88%EC%9D%8C-e8425nph#461268794",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T21:34:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:34:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -970725,7 +970785,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T21:31:46+09:00"
+      "slowAt": "2026-11-15T21:34:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -987316,6 +987376,7 @@
         "/kr/post/%EB%82%9C-%EC%88%9C%EC%9E%90-%EB%AC%B8%EC%8B%A0-%EB%B9%BC%EA%B3%A0%EB%8F%84-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%ED%99%94%EB%B2%95-%EB%B3%84%EB%A1%9C%EC%98%80%EC%9D%8C-n4pzahsm",
         "/kr/post/%EB%82%9C-%EC%95%84%EB%AC%B4%EB%A6%AC-%EC%A1%B0%EA%B1%B4-%EC%A2%8B%EA%B3%A0-%EC%9D%B4%EB%BB%90%EB%8F%84-wgeqitod",
         "/kr/post/%EB%82%9C-%EC%97%A0%EB%B9%84%ED%8B%B0%EC%95%84%EC%9D%B4%EC%B6%A9%EC%9E%84-jkejcf77",
+        "/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B6%81%EA%B8%88%ED%95%9C-%EA%B2%8C-%EC%9E%88%EC%9D%8C-e8425nph",
         "/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EC%A7%80%EB%A7%8C-nh7hglws",
         "/kr/post/%EB%82%9C-%EC%98%81%EC%88%99-%EC%A2%8B%EC%95%84%EC%A1%8C%EB%8B%A4-rpc2p3nf",
         "/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%BA%90%EB%A6%AD%ED%84%B0-%EA%B8%B0%EC%88%98%EB%A7%88%EB%8B%A4-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-%EB%B3%B8%EB%8B%A4-ew7nqkr3",
@@ -988212,6 +988273,7 @@
         "/kr/post/%EB%B0%95%EC%A0%95%ED%98%84%EC%9D%B4%EB%83%90-%EC%99%80-%EC%99%80-%EA%B1%B0%EB%A6%AC%EA%B2%8C-kiv75rz1",
         "/kr/post/%EB%B0%96%EC%97%90%EC%84%9C-%ED%8F%89%EC%83%9D-%EC%98%A4%EC%9E%91%EA%B5%90%EB%A7%8C-%ED%96%88%EC%9D%84-%EA%B1%B0-%EA%B0%99%EC%9D%80-%ED%97%A4%EA%B7%B8%EB%A6%AC%EB%93%9C%EC%A0%95%EC%88%99%EC%9D%B4-wi0yuml5",
         "/kr/post/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80-%EB%B0%94%EC%81%A0%EA%B9%8C-hk8xl18q",
+        "/kr/post/%EB%B0%A4-%EB%AC%B8%ED%99%94-%EC%A2%80-%EC%95%84%EB%8A%94-%ED%98%95%EB%93%A4-%EB%8F%84%EC%99%80%EC%A4%98-%E3%85%A0%E3%85%A0-d338scl3",
         "/kr/post/%EB%B0%A5%EB%B3%B4%EC%98%81-qtr6k1w7",
         "/kr/post/%EB%B0%A9%EA%B8%88-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%98%81%ED%98%B8-%EC%9E%85%EC%9E%A5-%EC%95%8C%EA%B2%A0%EB%8B%A4-rg8yh6sp",
         "/kr/post/%EB%B0%A9%EA%B8%88-%EC%96%B4%EC%A0%9C-%EB%B6%84%EB%9F%89-%EB%B3%B4%EA%B3%A0%EC%99%94%EB%8A%94%EB%8D%B0-wgw60541",
