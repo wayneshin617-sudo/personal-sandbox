@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T12:08:03+00:00",
+  "updatedAt": "2026-11-15T12:10:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -970300,6 +970300,25 @@
       "firstSeenAt": "2026-11-15T12:08:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108925,
+      "source": "dc",
+      "externalId": "6687567",
+      "title": "와 미우새에 영자 나온줄..",
+      "excerpt": "",
+      "author": "당근맨",
+      "company": "",
+      "ip": "14.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687567&page=1",
+      "postedLabel": "21:10",
+      "postedAt": "2026-11-15T21:10:35+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:10:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -970484,7 +970503,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T21:07:45+09:00"
+      "slowAt": "2026-11-15T21:10:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -985973,7 +985992,8 @@
         "6687538",
         "6687548",
         "6687551",
-        "6687558"
+        "6687558",
+        "6687560"
       ]
     },
     "blind": {
