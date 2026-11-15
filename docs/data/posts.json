@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T12:20:42+00:00",
+  "updatedAt": "2026-11-15T12:22:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -970417,6 +970417,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-15T12:20:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108931,
+      "source": "qoo",
+      "externalId": "cmt-4407155701",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋ이게뭐노",
+      "excerpt": "카톡으로 해라...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4407026093#4407155701",
+      "postedLabel": "",
+      "postedAt": "2026-11-15T20:20:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:22:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108932,
+      "source": "blind",
+      "externalId": "cmt-461266898",
+      "title": "외모가 의외네",
+      "excerpt": "34영숙이 결혼이 힘든 이유",
+      "author": "븅******",
+      "company": "동아ST",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%99%EC%9D%B4-%EA%B2%B0%ED%98%BC%EC%9D%B4-%ED%9E%98%EB%93%A0-%EC%9D%B4%EC%9C%A0-zp0i3tpa#461266898",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T21:21:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:22:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -970601,7 +970641,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T21:19:01+09:00"
+      "slowAt": "2026-11-15T21:21:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -986072,6 +986112,7 @@
         "6687361",
         "6687367",
         "6687374",
+        "6687375",
         "6687379",
         "6687383",
         "6687395",
@@ -986101,7 +986142,9 @@
         "6687586",
         "6687596",
         "6687603",
-        "6687604"
+        "6687604",
+        "6687617",
+        "6687618"
       ]
     },
     "blind": {
@@ -993110,6 +993153,7 @@
         "/kr/post/34%EC%98%81%EC%88%99%EC%9D%B4%EB%94%B4%EC%97%90%EB%8A%94-%EC%97%B4%EC%8B%AC%ED%9E%88-%EC%82%B4%EC%95%98%EB%8B%A4-%E3%85%8B%E3%85%8B-gi8d4bsc",
         "/kr/post/34%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-16%EC%83%81%EC%B2%A0-%EB%B6%99%EC%97%AC%EB%86%93%EA%B3%A0%EC%8B%B6%EB%8B%A4-dicng5zb",
         "/kr/post/34%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-22%EC%98%81%EC%88%99-%EB%B6%99%EC%9C%BC%EB%A9%B4-%EB%88%84%EA%B0%80-%EC%9D%B4%EA%B8%B8-%EA%B2%83-%EA%B0%99%EC%9D%8C-uotcppq1",
+        "/kr/post/34%EC%98%81%EC%88%99%EC%9D%B4-%EA%B2%B0%ED%98%BC%EC%9D%B4-%ED%9E%98%EB%93%A0-%EC%9D%B4%EC%9C%A0-zp0i3tpa",
         "/kr/post/34%EC%98%81%EC%88%99-%EA%B2%B0%ED%98%BC%ED%95%98%EB%A0%A4%EA%B3%A0-%EB%82%98%EC%98%A8%EA%B1%B0%EC%95%84%EB%8B%98-eph3tg47",
         "/kr/post/34%EC%98%81%EC%88%99-%EB%B3%B4%EC%9E%90%EB%A7%88%EC%9E%90-%EB%8A%90%EA%BB%B4%EC%A7%80%EC%A7%80%EC%95%8A%EC%9D%8C-gvad5lcn",
         "/kr/post/34%EC%98%81%EC%88%99-%EC%84%B1%EA%B2%A9-mhswzmsg",
