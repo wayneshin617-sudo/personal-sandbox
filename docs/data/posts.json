@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T10:51:05+00:00",
+  "updatedAt": "2026-11-15T10:52:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -968640,6 +968640,44 @@
       "firstSeenAt": "2026-11-15T10:51:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108841,
+      "source": "qoo",
+      "externalId": "4407116263",
+      "title": "아니 근데 나는 이번 기수 영호 얼굴 정말 내 완식이야...",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4407116263",
+      "postedLabel": "19:51",
+      "postedAt": "2026-11-15T19:51:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T10:52:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 108842,
+      "source": "dc",
+      "externalId": "6687263",
+      "title": "블라인드 여론이랑 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "1234",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687263&page=1",
+      "postedLabel": "19:51",
+      "postedAt": "2026-11-15T19:51:07+09:00",
+      "views": 17,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T10:52:02+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -968751,7 +968789,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T19:48:48+09:00"
+      "slowAt": "2026-11-15T19:51:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -984195,6 +984233,7 @@
         "6686850",
         "6686851",
         "6686879",
+        "6686885",
         "6686969",
         "6686977",
         "6686986",
@@ -996030,7 +996069,8 @@
         "4406848855",
         "4406857145",
         "4406972855",
-        "4407026093"
+        "4407026093",
+        "4407116263"
       ]
     },
     "keep": "v2",
