@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T18:01:11+00:00",
+  "updatedAt": "2026-11-15T18:02:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -972328,6 +972328,26 @@
       "firstSeenAt": "2026-11-15T18:01:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109028,
+      "source": "dc",
+      "externalId": "cmt-11024473",
+      "title": "헤어지라고 오늘도 빌어봅니다 ㅜㅜ",
+      "excerpt": "이 짤 보니까",
+      "author": "귀여워",
+      "company": "",
+      "ip": "118.219",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6687988&page=5#cmt_11024473",
+      "postedLabel": "11.15 23:03:06",
+      "postedAt": "2026-11-15T23:03:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T18:02:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -972512,7 +972532,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-16T02:58:54+09:00"
+      "slowAt": "2026-11-16T03:01:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -988086,6 +988106,7 @@
         "6687980",
         "6687985",
         "6687987",
+        "6687988",
         "6688035",
         "6688046",
         "6688050",
