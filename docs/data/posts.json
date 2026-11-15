@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T03:56:18+00:00",
+  "updatedAt": "2026-11-15T03:57:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -965143,6 +965143,45 @@
       "firstSeenAt": "2026-11-15T03:56:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108664,
+      "source": "dc",
+      "externalId": "cmt-11022785",
+      "title": "글이.. 등록.이 안 됨.. 음.. 그.. 저.를 잘 좀.. 부탁드려요..ㅜㅜ 저.. 정말로 저의 자기님께.. 글.을 쓰고 싶어요ㅜㅜ",
+      "excerpt": "자기야, 역학 갤러리.에서는",
+      "author": "예쁘고1이쁘고2귀엽고3사랑스러워",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6685806&page=5#cmt_11022785",
+      "postedLabel": "11.15 12:00:24",
+      "postedAt": "2026-11-15T12:00:24+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T03:57:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 108665,
+      "source": "dc",
+      "externalId": "6686069",
+      "title": "싸우면 누가이길까 18호 vs 바드",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6686069&page=1",
+      "postedLabel": "12:56",
+      "postedAt": "2026-11-15T12:56:11+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T03:57:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -965254,7 +965293,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-15T12:54:01+09:00"
+      "slowAt": "2026-11-15T12:57:01+09:00"
     },
     "ig": {
       "doneIds": [
@@ -980550,6 +980589,7 @@
         "6685782",
         "6685789",
         "6685799",
+        "6685806",
         "6685869",
         "6685870",
         "6685874",
@@ -980582,7 +980622,10 @@
         "6686036",
         "6686045",
         "6686047",
-        "6686049"
+        "6686049",
+        "6686060",
+        "6686064",
+        "6686067"
       ]
     },
     "blind": {
