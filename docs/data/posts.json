@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T04:00:17+00:00",
+  "updatedAt": "2026-11-15T04:10:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -965381,6 +965381,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-15T04:00:17+00:00",
       "isSeed": false
+    },
+    {
+      "id": 108676,
+      "source": "dc",
+      "externalId": "6686119",
+      "title": "ㅇㅈ",
+      "excerpt": "",
+      "author": "관리자",
+      "company": "",
+      "ip": "211.253",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6686119&page=1",
+      "postedLabel": "13:10",
+      "postedAt": "2026-11-15T13:10:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T04:10:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -965565,7 +965584,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T13:07:01+09:00"
+      "slowAt": "2026-11-15T13:10:11+09:00"
     },
     "dc": {
       "doneIds": [
