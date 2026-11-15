@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T12:37:47+00:00",
+  "updatedAt": "2026-11-15T12:39:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -970732,6 +970732,26 @@
       "firstSeenAt": "2026-11-15T12:37:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108947,
+      "source": "blind",
+      "externalId": "cmt-461269369",
+      "title": "마른남자 불호..?면...",
+      "excerpt": "난 여자들한테 궁금한 게 있음",
+      "author": "두**",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B6%81%EA%B8%88%ED%95%9C-%EA%B2%8C-%EC%9E%88%EC%9D%8C-e8425nph#461269369",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-15T21:38:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T12:39:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -970916,7 +970936,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T21:36:03+09:00"
+      "slowAt": "2026-11-15T21:38:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -986434,7 +986454,8 @@
         "6687654",
         "6687660",
         "6687664",
-        "6687684"
+        "6687684",
+        "6687685"
       ]
     },
     "blind": {
