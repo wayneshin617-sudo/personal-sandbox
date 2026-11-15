@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-15T04:29:54+00:00",
+  "updatedAt": "2026-11-15T04:31:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -965836,6 +965836,26 @@
       "firstSeenAt": "2026-11-15T04:29:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 108699,
+      "source": "blind",
+      "externalId": "cmt-461216022",
+      "title": "잔잔해서 선하고 좋아보이는데 진짜 차이인가보다",
+      "excerpt": "34 영식",
+      "author": "l********* 작성자",
+      "company": "법무법인(유한)대륜",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%8B%9D-vd7uhygm#461216022",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-15T13:29:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-15T04:31:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -966020,7 +966040,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-15T13:27:26+09:00"
+      "slowAt": "2026-11-15T13:30:52+09:00"
     },
     "dc": {
       "doneIds": [
@@ -981316,6 +981336,7 @@
         "6686137",
         "6686141",
         "6686157",
+        "6686165",
         "6686168"
       ]
     },
