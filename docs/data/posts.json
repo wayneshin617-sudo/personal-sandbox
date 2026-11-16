@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T08:58:02+00:00",
+  "updatedAt": "2026-11-16T09:01:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -976059,6 +976059,25 @@
       "firstSeenAt": "2026-11-16T08:58:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109217,
+      "source": "dc",
+      "externalId": "6689894",
+      "title": "와 아직도야???",
+      "excerpt": "",
+      "author": "딸랑딸랑고추",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6689894&page=1",
+      "postedLabel": "17:59",
+      "postedAt": "2026-11-16T17:59:59+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T09:01:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -976170,7 +976189,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T17:57:44+09:00"
+      "slowAt": "2026-11-16T18:00:44+09:00"
     },
     "ig": {
       "doneIds": [
@@ -992114,12 +992133,14 @@
         "6689243",
         "6689459",
         "6689464",
+        "6689467",
         "6689578",
         "6689585",
         "6689760",
         "6689764",
         "6689883",
-        "6689889"
+        "6689889",
+        "6689892"
       ]
     },
     "blind": {
