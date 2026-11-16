@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T03:33:55+00:00",
+  "updatedAt": "2026-11-16T03:34:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -974742,6 +974742,26 @@
       "firstSeenAt": "2026-11-16T03:33:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109150,
+      "source": "qoo",
+      "externalId": "cmt-4407849020",
+      "title": "왜 불편한가 했더니 이거였구나.",
+      "excerpt": "영철 영수는 호감간다면서 깎아내리네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4407791909#4407849020",
+      "postedLabel": "",
+      "postedAt": "2026-11-16T11:34:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T03:34:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -974853,7 +974873,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T12:31:11+09:00"
+      "slowAt": "2026-11-16T12:34:39+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1002625,7 +1002645,8 @@
         "4407314419",
         "4407738323",
         "4407738751",
-        "4407791909"
+        "4407791909",
+        "4407904872"
       ]
     },
     "keep": "v2",
