@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T00:05:07+00:00",
+  "updatedAt": "2026-11-16T00:06:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -972924,6 +972924,45 @@
       "firstSeenAt": "2026-11-16T00:05:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109058,
+      "source": "dc",
+      "externalId": "6688589",
+      "title": "너말이야 너 개사료 쳐먹는 바이럴 바로 너ㅋㅋ",
+      "excerpt": "",
+      "author": "바이럴 사냥꾼",
+      "company": "",
+      "ip": "218.51",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688589&page=1",
+      "postedLabel": "09:05",
+      "postedAt": "2026-11-16T09:05:30+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-16T00:06:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 109059,
+      "source": "dc",
+      "externalId": "cmt-11025102",
+      "title": "절! 대! 복창 못하는 효자 바이럴 개추ㅋㅋ 개사료만 쳐먹는 인생도 지 애미는 불쌍한줄 아나봐?ㅋㅋ",
+      "excerpt": "너말이야 너 개사료 쳐먹는 바이럴 바로 너ㅋㅋ",
+      "author": "바이럴 사냥꾼",
+      "company": "",
+      "ip": "218.51",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688589&page=1#cmt_11025102",
+      "postedLabel": "11.16 09:05:48",
+      "postedAt": "2026-11-16T09:05:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T00:06:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -973035,7 +973074,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T09:03:27+09:00"
+      "slowAt": "2026-11-16T09:06:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -988806,7 +988845,8 @@
         "6688554",
         "6688563",
         "6688577",
-        "6688579"
+        "6688579",
+        "6688589"
       ]
     },
     "blind": {
