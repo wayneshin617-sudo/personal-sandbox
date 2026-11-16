@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T02:06:10+00:00",
+  "updatedAt": "2026-11-16T02:09:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -973768,6 +973768,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-16T02:06:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109101,
+      "source": "dc",
+      "externalId": "6688898",
+      "title": "싸우면 누가이길까 18호 vs 사이타마",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688898&page=1",
+      "postedLabel": "11:08",
+      "postedAt": "2026-11-16T11:08:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T02:09:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -989682,6 +989701,7 @@
         "6688718",
         "6688727",
         "6688732",
+        "6688734",
         "6688847",
         "6688854",
         "6688856",
