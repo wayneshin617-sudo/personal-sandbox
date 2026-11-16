@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T02:48:33+00:00",
+  "updatedAt": "2026-11-16T02:56:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -974545,6 +974545,25 @@
       "firstSeenAt": "2026-11-16T02:48:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109140,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-%E3%84%B9%E3%85%87-f3d48p41",
+      "title": "예쁘긴 뒤지게 예쁘네 ㄹㅇ",
+      "excerpt": "얼굴로는 절대못까는 이유가 있네",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-%E3%84%B9%E3%85%87-f3d48p41",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-16T11:56:15+09:00",
+      "views": 78,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-16T02:56:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -974729,7 +974748,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-16T11:52:46+09:00"
+      "slowAt": "2026-11-16T11:56:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -995228,6 +995247,7 @@
         "/kr/post/%EC%98%88%EA%B3%A0%ED%8E%B8%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-sfwjzg02",
         "/kr/post/%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90%ED%95%9C%ED%85%8C-%EA%B0%80%EB%8A%94%EA%B1%B0-xrn5hoj3",
         "/kr/post/%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%98%81%EC%B2%A0-tqt2bnb2",
+        "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-%E3%84%B9%E3%85%87-f3d48p41",
         "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-%E3%85%8B%E3%85%8B-cz802bha",
         "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-5nhsuold",
         "/kr/post/%EC%98%88%EC%81%98%EA%B8%B4-%EB%92%A4%EC%A7%80%EA%B2%8C-%EC%98%88%EC%81%98%EB%84%A4-fpjakeut",
