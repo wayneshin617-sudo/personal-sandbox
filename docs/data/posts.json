@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T09:33:01+00:00",
+  "updatedAt": "2026-11-16T09:34:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -976515,6 +976515,45 @@
       "firstSeenAt": "2026-11-16T09:33:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109240,
+      "source": "dc",
+      "externalId": "6689941",
+      "title": "광수는 왜 차로 출근을 못 하나",
+      "excerpt": "",
+      "author": "글렌벤튼",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6689941&page=1",
+      "postedLabel": "18:33",
+      "postedAt": "2026-11-16T18:33:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T09:34:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 109241,
+      "source": "blind",
+      "externalId": "cmt-461378603",
+      "title": "진짜 너무너무 인프피같은데 본인피셜 infp 야 첫 면접때 말함",
+      "excerpt": "현숙 인프피 본인이 말한거야 추측이야?",
+      "author": "i*********",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%9D%B8%ED%94%84%ED%94%BC-%EB%B3%B8%EC%9D%B8%EC%9D%B4-%EB%A7%90%ED%95%9C%EA%B1%B0%EC%95%BC-%EC%B6%94%EC%B8%A1%EC%9D%B4%EC%95%BC-7lt757t4#461378603",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-16T18:33:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T09:34:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -976626,7 +976665,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T18:30:44+09:00"
+      "slowAt": "2026-11-16T18:33:44+09:00"
     },
     "ig": {
       "doneIds": [
@@ -992597,6 +992636,7 @@
         "6689659",
         "6689664",
         "6689671",
+        "6689680",
         "6689760",
         "6689764",
         "6689775",
@@ -992612,6 +992652,7 @@
         "6689822",
         "6689834",
         "6689837",
+        "6689841",
         "6689883",
         "6689889",
         "6689892",
