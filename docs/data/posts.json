@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T02:19:10+00:00",
+  "updatedAt": "2026-11-16T02:23:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -974127,6 +974127,25 @@
       "firstSeenAt": "2026-11-16T02:19:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109119,
+      "source": "dc",
+      "externalId": "6688932",
+      "title": "잠주5•은마재건축 조합원 평형신청으로 본 사업성의 단상",
+      "excerpt": "",
+      "author": "sososo",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688932&page=1",
+      "postedLabel": "11:22",
+      "postedAt": "2026-11-16T11:22:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T02:23:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -974238,7 +974257,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T11:19:53+09:00"
+      "slowAt": "2026-11-16T11:22:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -990053,6 +990072,7 @@
         "6688773",
         "6688779",
         "6688788",
+        "6688790",
         "6688847",
         "6688854",
         "6688856",
@@ -990070,7 +990090,8 @@
         "6688904",
         "6688916",
         "6688920",
-        "6688923"
+        "6688923",
+        "6688927"
       ]
     },
     "blind": {
