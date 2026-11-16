@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T11:01:33+00:00",
+  "updatedAt": "2026-11-16T11:02:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -977360,6 +977360,25 @@
       "firstSeenAt": "2026-11-16T11:01:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109283,
+      "source": "dc",
+      "externalId": "6690102",
+      "title": "광장극동 vs 올림픽선수기자촌 재건축",
+      "excerpt": "",
+      "author": "sososo",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6690102&page=1",
+      "postedLabel": "20:02",
+      "postedAt": "2026-11-16T20:02:03+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T11:02:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -977471,7 +977490,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T19:59:51+09:00"
+      "slowAt": "2026-11-16T20:02:39+09:00"
     },
     "ig": {
       "doneIds": [
@@ -993527,6 +993546,7 @@
         "6689993",
         "6689998",
         "6689999",
+        "6690003",
         "6690006",
         "6690016",
         "6690018",
@@ -993543,7 +993563,8 @@
         "6690082",
         "6690091",
         "6690094",
-        "6690095"
+        "6690095",
+        "6690101"
       ]
     },
     "blind": {
