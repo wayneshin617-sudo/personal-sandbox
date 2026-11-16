@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T00:19:21+00:00",
+  "updatedAt": "2026-11-16T00:20:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -973020,6 +973020,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-16T00:19:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109063,
+      "source": "qoo",
+      "externalId": "4407738323",
+      "title": "볼수록 옥순이가 괜찮은거같애",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4407738323",
+      "postedLabel": "09:19",
+      "postedAt": "2026-11-16T09:19:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T00:20:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 109064,
+      "source": "dc",
+      "externalId": "cmt-11025135",
+      "title": "바이럴 애미는 바이럴 차에 치여 죽어야된다고 절! 대! 복창 못하는 효자 바이럴 개추ㅋㅋ 개사료만 쳐먹는 인생도 지 애미는 불쌍한줄 아나봐?ㅋㅋ",
+      "excerpt": "왜 말을 못해? 설마 너..?",
+      "author": "바이럴 사냥꾼",
+      "company": "",
+      "ip": "218.51",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6688616&page=1#cmt_11025135",
+      "postedLabel": "11.16 09:19:51",
+      "postedAt": "2026-11-16T09:19:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T00:20:36+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -973204,7 +973243,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-16T09:17:48+09:00"
+      "slowAt": "2026-11-16T09:20:22+09:00"
     },
     "dc": {
       "doneIds": [
@@ -988907,7 +988946,8 @@
         "6688590",
         "6688593",
         "6688605",
-        "6688607"
+        "6688607",
+        "6688616"
       ]
     },
     "blind": {
@@ -996066,6 +996106,7 @@
         "/kr/post/34-%EC%88%9C%EC%9E%90-%EC%98%81%ED%98%B8%EB%8F%84-%EB%B3%B4%EA%B8%B0-%EC%A2%8B%EB%8B%A4-oywdn4et",
         "/kr/post/34-%EC%88%9C%EC%9E%90-7t7ami31",
         "/kr/post/34-%EC%88%9C%EC%9E%90-mgapjahy",
+        "/kr/post/34-%EC%98%81%EC%88%98-%EC%98%81%EC%88%99%EC%9D%80-%EC%A7%91%EC%97%90-%EC%9E%88%EB%8A%94-%EA%B5%AD%EC%96%B4%EC%82%AC%EC%A0%84%EC%9D%B4-%EA%B0%99%EC%9D%80%EA%B1%B4%EA%B0%80%EB%B4%84-542e4e58",
         "/kr/post/34-%EC%98%81%EC%88%99%EC%9D%80-%EA%B7%B8-%EB%8F%8C%EC%8B%B1-%EA%B7%B8-%EC%97%AC%EC%9E%90-%EC%95%8C%EC%A7%80-%EC%A7%AD%ED%8C%94%EB%8D%98-%EC%97%AC%EC%9E%90-624y2fuu",
         "/kr/post/34-%EC%98%81%EC%88%99%EC%9D%80-%EC%A7%84%EC%A7%9C-%EB%A7%89%EB%82%B4%EA%B0%99%EA%B8%B4%ED%95%98%EB%8B%A4-3eozu4wb",
         "/kr/post/34-%EC%98%81%EC%88%99%EC%9D%80-27%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%A8-ysd81wau",
@@ -1000753,7 +1000794,9 @@
         "4406972855",
         "4407026093",
         "4407116263",
-        "4407314419"
+        "4407314419",
+        "4407738323",
+        "4407738751"
       ]
     },
     "keep": "v2",
