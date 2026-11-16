@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T04:01:22+00:00",
+  "updatedAt": "2026-11-16T04:03:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -974981,6 +974981,46 @@
       "firstSeenAt": "2026-11-16T04:01:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109162,
+      "source": "blind",
+      "externalId": "cmt-461340705",
+      "title": "다 늙다리들이라서 가능성 낮음",
+      "excerpt": "나쏠 나왔던 출연자들 중 ai안경",
+      "author": "셀****",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%8F%A0-%EB%82%98%EC%99%94%EB%8D%98-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-%EC%A4%91-ai%EC%95%88%EA%B2%BD-lib0iiua#461340705",
+      "postedLabel": "19분",
+      "postedAt": "2026-11-16T12:44:35+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T04:03:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109163,
+      "source": "blind",
+      "externalId": "cmt-461342478",
+      "title": "넌 좀 써라",
+      "excerpt": "나쏠 나왔던 출연자들 중 ai안경",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%8F%A0-%EB%82%98%EC%99%94%EB%8D%98-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4-%EC%A4%91-ai%EC%95%88%EA%B2%BD-lib0iiua#461342478",
+      "postedLabel": "3분",
+      "postedAt": "2026-11-16T13:00:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T04:03:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -975165,7 +975205,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-16T13:01:04+09:00"
+      "slowAt": "2026-11-16T13:03:35+09:00"
     },
     "dc": {
       "doneIds": [
