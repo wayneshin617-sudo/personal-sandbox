@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-16T09:47:02+00:00",
+  "updatedAt": "2026-11-16T09:49:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -976830,6 +976830,26 @@
       "firstSeenAt": "2026-11-16T09:47:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109256,
+      "source": "blind",
+      "externalId": "cmt-461380216",
+      "title": "하 진짜 무슨 왤케 질질끌어..",
+      "excerpt": "이번주거 유튜브로 유출됐었다는데",
+      "author": "무**** 작성자",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EC%A3%BC%EA%B1%B0-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%A1%9C-%EC%9C%A0%EC%B6%9C%EB%90%90%EC%97%88%EB%8B%A4%EB%8A%94%EB%8D%B0-ied81ssm#461380216",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-16T18:48:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-16T09:49:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -976941,7 +976961,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-16T18:45:45+09:00"
+      "slowAt": "2026-11-16T18:48:45+09:00"
     },
     "ig": {
       "doneIds": [
@@ -992963,7 +992983,8 @@
         "6689931",
         "6689935",
         "6689943",
-        "6689946"
+        "6689946",
+        "6689965"
       ]
     },
     "blind": {
