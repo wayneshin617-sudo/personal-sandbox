@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T04:46:00+00:00",
+  "updatedAt": "2026-11-17T04:47:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -982498,6 +982498,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-17T04:46:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109546,
+      "source": "blind",
+      "externalId": "cmt-461487116",
+      "title": "애 갖고싶다고 하시던데 3회차인 이번엔 성공할지 흥미롭에 지켜보는중",
+      "excerpt": "이거 ai 아님?",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EA%B1%B0-ai-%EC%95%84%EB%8B%98-ycw0g5a6#461487116",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-17T13:46:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T04:47:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -982682,7 +982702,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-17T13:43:24+09:00"
+      "slowAt": "2026-11-17T13:46:46+09:00"
     },
     "dc": {
       "doneIds": [
