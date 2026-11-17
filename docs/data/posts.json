@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T20:09:08+00:00",
+  "updatedAt": "2026-11-17T20:13:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -985423,6 +985423,26 @@
       "firstSeenAt": "2026-11-17T20:09:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109694,
+      "source": "dc",
+      "externalId": "cmt-11029839",
+      "title": "새벽 3시에 이딴 글 처올리는 니 면상이 참 딱하다.",
+      "excerpt": "경수 아침에 일어나면 이 얼굴 마주하는거냐",
+      "author": "플레어69",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6693309&page=1#cmt_11029839",
+      "postedLabel": "11.18 03:15:19",
+      "postedAt": "2026-11-18T03:15:19+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T20:13:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1002069,6 +1002089,7 @@
         "6693304",
         "6693306",
         "6693308",
+        "6693309",
         "6693320",
         "6693339"
       ]
