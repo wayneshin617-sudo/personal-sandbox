@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T03:41:03+00:00",
+  "updatedAt": "2026-11-17T03:51:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -981764,6 +981764,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-17T03:41:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109509,
+      "source": "blind",
+      "externalId": "cmt-461480678",
+      "title": "보고만 있어도 답답해지누",
+      "excerpt": "3대 맹숙이들",
+      "author": "j******",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/3%EB%8C%80-%EB%A7%B9%EC%88%99%EC%9D%B4%EB%93%A4-6073yi2y#461480678",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-17T12:50:50+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T03:51:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -981875,7 +981895,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-17T12:47:29+09:00"
+      "slowAt": "2026-11-17T12:50:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -998131,6 +998151,7 @@
         "6691624",
         "6691629",
         "6691634",
+        "6691636",
         "6691647",
         "6691648",
         "6691651",
