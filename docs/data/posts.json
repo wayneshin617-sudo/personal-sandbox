@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T11:30:02+00:00",
+  "updatedAt": "2026-11-17T11:38:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -983699,6 +983699,26 @@
       "firstSeenAt": "2026-11-17T11:30:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109607,
+      "source": "blind",
+      "externalId": "cmt-461533282",
+      "title": "치과의사 쌤 나왔으면",
+      "excerpt": "나솔 리뷰어특집 어때?",
+      "author": "1*****",
+      "company": "제네웰",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%A6%AC%EB%B7%B0%EC%96%B4%ED%8A%B9%EC%A7%91-%EC%96%B4%EB%95%8C-6i1y5suy#461533282",
+      "postedLabel": "29분",
+      "postedAt": "2026-11-17T20:08:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T11:38:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -983883,7 +983903,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-17T20:34:46+09:00"
+      "slowAt": "2026-11-17T20:37:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1000195,7 +1000215,8 @@
         "6692607",
         "6692623",
         "6692631",
-        "6692640"
+        "6692640",
+        "6692651"
       ]
     },
     "blind": {
