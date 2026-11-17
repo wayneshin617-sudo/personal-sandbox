@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T04:01:13+00:00",
+  "updatedAt": "2026-11-17T04:05:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -982004,6 +982004,25 @@
       "firstSeenAt": "2026-11-17T04:01:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109521,
+      "source": "dc",
+      "externalId": "6691820",
+      "title": "순자산별 자동차 계급도",
+      "excerpt": "",
+      "author": "sososo",
+      "company": "",
+      "ip": "121.167",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6691820&page=1",
+      "postedLabel": "13:05",
+      "postedAt": "2026-11-17T13:05:14+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T04:05:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -998382,6 +998401,7 @@
         "6691665",
         "6691668",
         "6691674",
+        "6691677",
         "6691683",
         "6691689",
         "6691691",
@@ -998404,7 +998424,8 @@
         "6691799",
         "6691803",
         "6691808",
-        "6691811"
+        "6691811",
+        "6691817"
       ]
     },
     "blind": {
