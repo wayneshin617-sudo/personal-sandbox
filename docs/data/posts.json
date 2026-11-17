@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T12:01:03+00:00",
+  "updatedAt": "2026-11-17T12:05:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -983878,6 +983878,25 @@
       "firstSeenAt": "2026-11-17T12:01:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109616,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%9A%8C%EA%B3%84%EC%98%81%EC%88%98%EB%8A%94-%ED%98%BC%EC%9E%90-%EC%82%AC%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%8A%94%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-atnfn68h",
+      "title": "회계영수는 혼자 사는게 맞는거 같은데",
+      "excerpt": "관리된 본인에 취한 나잇값 못하는 중년아재가 그냥 사람은 착한 사람으로 남지 누굴 쌩고생 시키려고",
+      "author": "0******",
+      "company": "공인중개사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%98%81%EC%88%98%EB%8A%94-%ED%98%BC%EC%9E%90-%EC%82%AC%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%8A%94%EA%B1%B0-%EA%B0%99%EC%9D%80%EB%8D%B0-atnfn68h",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-17T21:04:46+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-17T12:05:02+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -984062,7 +984081,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-17T21:01:47+09:00"
+      "slowAt": "2026-11-17T21:04:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1000427,7 +1000446,8 @@
         "6692678",
         "6692679",
         "6692690",
-        "6692695"
+        "6692695",
+        "6692700"
       ]
     },
     "blind": {
