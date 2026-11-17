@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T11:05:06+00:00",
+  "updatedAt": "2026-11-17T11:08:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -983361,6 +983361,26 @@
       "comments": 3,
       "firstSeenAt": "2026-11-17T11:05:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109590,
+      "source": "dc",
+      "externalId": "cmt-11028679",
+      "title": "상철이가 살쪄도 이쁜 얼굴 있다하니 그럴수도 저럴수도.",
+      "excerpt": "옥순 ㅈㄴ이쁜거같은데",
+      "author": "북핵2국가인정★남한러시아가스석유관연결",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6692291&page=5#cmt_11028679",
+      "postedLabel": "11.17 17:11:38",
+      "postedAt": "2026-11-17T17:11:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T11:08:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -983545,7 +983565,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-17T20:04:51+09:00"
+      "slowAt": "2026-11-17T20:07:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -999801,10 +999821,12 @@
         "6691918",
         "6692139",
         "6692288",
+        "6692291",
         "6692409",
         "6692510",
         "6692513",
-        "6692586"
+        "6692586",
+        "6692588"
       ]
     },
     "blind": {
@@ -1000008,6 +1000030,7 @@
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%A0%9C%EC%9E%91%EC%A7%84%EB%93%A4%EC%95%84-mc%EB%93%A4-%EB%8C%80%EB%B3%B8%EC%9D%B4%EB%9D%BC%EB%8F%84-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%A3%BC%EB%93%A0%EC%A7%80-%ED%95%B4%EB%9D%BC-ttvy2fsu",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%B0%A8%EB%9D%BC%EB%A6%AC-%EA%B2%B0%ED%98%BC-%EC%95%88%ED%95%9C-%EB%82%A8%EC%9E%90%EB%A5%BC-%EC%B6%9C%EC%97%B0-%EC%8B%9C%EC%BC%9C%EB%B4%90%EB%9D%BC-i1sq7wc5",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%EC%B6%9C%EC%97%B0%EC%9E%90-%ED%99%A9%EA%B8%88%EB%B0%B8%EB%9F%B0%EC%8A%A4%EB%84%A4-e023nkzm",
+        "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%ED%9A%8C%EA%B3%84%EC%82%AC%EB%8A%94-%EC%A7%84%EC%A7%9C-%EB%B2%84%EA%B2%81%EB%84%A4-bow54wyz",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98-%EC%82%AC%EA%B3%BC%EB%AC%B8-%EC%98%AC%EB%9D%BC%EC%98%B4-41k52bc1",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-%ED%9D%A5%EB%AF%B8%EC%A7%84%EC%A7%84-b61kpsk5",
         "/kr/post/%EA%B3%84%EC%95%BD%EA%B2%B0%ED%98%BC-16%EC%83%81%EC%B2%A0-%EC%A0%95%EB%A7%90-%EB%B3%84%EB%A1%9C%EC%95%BC-cvs7koie",
