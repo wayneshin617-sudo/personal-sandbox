@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-17T04:29:13+00:00",
+  "updatedAt": "2026-11-17T04:30:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -982280,6 +982280,66 @@
       "firstSeenAt": "2026-11-17T04:29:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109535,
+      "source": "qoo",
+      "externalId": "cmt-4408986741",
+      "title": "눈 베렸네",
+      "excerpt": "헉.. 유튭으로 방금 봤는데 옷 뭐야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4408903424#4408986741",
+      "postedLabel": "",
+      "postedAt": "2026-11-17T12:29:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T04:30:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109536,
+      "source": "blind",
+      "externalId": "cmt-461485402",
+      "title": "전 영숙파",
+      "excerpt": "역사적으로 정숙이 진짜 미인이네",
+      "author": "퇴*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AD%EC%82%AC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%95%EC%88%99%EC%9D%B4-%EC%A7%84%EC%A7%9C-%EB%AF%B8%EC%9D%B8%EC%9D%B4%EB%84%A4-w8dmzsul#461485402",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-17T13:29:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T04:30:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109537,
+      "source": "blind",
+      "externalId": "cmt-461485384",
+      "title": "인팁과 다르게 엔팁은 강제로 사회성 장착 되는 경우가 많음 문제는 엔프피인데 지가 t라고 착각하기 시작하면 주변에 패악질 ㅈ됨",
+      "excerpt": "밑에 entp 글 보고 쓰는 진짜 걸러야될 인간 알려줌",
+      "author": "극********* 작성자",
+      "company": "연세대학교의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%91%EC%97%90-entp-%EA%B8%80-%EB%B3%B4%EA%B3%A0-%EC%93%B0%EB%8A%94-%EC%A7%84%EC%A7%9C-%EA%B1%B8%EB%9F%AC%EC%95%BC%EB%90%A0-%EC%9D%B8%EA%B0%84-%EC%95%8C%EB%A0%A4%EC%A4%8C-0na3s1te#461485384",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-17T13:29:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-17T04:30:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -982464,7 +982524,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-17T13:26:38+09:00"
+      "slowAt": "2026-11-17T13:29:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -998677,6 +998737,7 @@
         "6691720",
         "6691722",
         "6691725",
+        "6691729",
         "6691730",
         "6691744",
         "6691761",
