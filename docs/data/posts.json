@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T16:25:48+00:00",
+  "updatedAt": "2026-11-18T16:27:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -1023433,6 +1023433,65 @@
       "comments": 0,
       "firstSeenAt": "2026-11-18T16:25:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 111654,
+      "source": "qoo",
+      "externalId": "cmt-4410927808",
+      "title": "나도 현숙이랑 여출들 보려고 봄 너무 욕 먹어서 안쓰러워",
+      "excerpt": "걍 이번 기수 다 별 관심 없고 현숙만 귀엽다 이러면서 보고있음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4410915913#4410927808",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T00:26:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T16:27:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111655,
+      "source": "qoo",
+      "externalId": "cmt-4410928054",
+      "title": "진상 환자, 보호자 다년간 상대한 짬바..",
+      "excerpt": "순자 원래 성격은 쎌 것 같은데 잘 맞춰줌",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4410925440#4410928054",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T00:27:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T16:27:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111656,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EA%B0%9C%EA%B7%B8%EB%A7%A8-%EC%84%9C%ED%83%9C%ED%9B%88-%EB%8A%90%EB%82%8C-%EB%82%98%EB%84%A4-tnpsimg3",
+      "title": "영철 약간 개그맨 서태훈 느낌 나네",
+      "excerpt": "🍗",
+      "author": "뉴**",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EA%B0%9C%EA%B7%B8%EB%A7%A8-%EC%84%9C%ED%83%9C%ED%9B%88-%EB%8A%90%EB%82%8C-%EB%82%98%EB%84%A4-tnpsimg3",
+      "postedLabel": "2분",
+      "postedAt": "2026-11-19T01:25:05+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T16:27:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1023544,7 +1023603,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T01:24:17+09:00"
+      "slowAt": "2026-11-19T01:27:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1045207,6 +1045266,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%ED%83%80%EA%B9%9D%EA%B8%B4%ED%95%A8-2uzmeeio",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EA%B4%80%EC%83%81%EC%9D%B4-2uf846ew",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EC%83%88%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%95%99%EC%83%9D%EC%9D%B4-%EC%88%A0-%EC%B7%A8%ED%95%B4%EC%84%9C-8z02zr6c",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EC%84%9C%ED%83%9C%ED%9B%88-%EB%8A%90%EB%82%8C-%EB%82%98%EB%84%A4-tnpsimg3",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EA%B0%84-5zp0hfjz",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EC%86%8D%EC%B7%A8%EC%86%8C%EB%8A%94-%EC%9D%B4%ED%95%B4%EB%90%98%EB%8A%94%EB%94%94-iflpw44p",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%96%98%EA%B8%B0%EC%A4%91%EC%97%90-%EB%AF%B8%EC%95%88%ED%95%9C%EB%8D%B0-8inhkxo0",
