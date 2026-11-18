@@ -82,7 +82,7 @@ SOURCE_SECS = {
     "ig": 160,
 }
 COLLECT_SECS = sum(SOURCE_SECS.values())
-COLLECT_GEN = "v3"
+COLLECT_GEN = "v4"
 YT_GEN = "v2"
 DDG_URL = "https://html.duckduckgo.com/html/"
 BING_URL = "https://www.bing.com/search"
