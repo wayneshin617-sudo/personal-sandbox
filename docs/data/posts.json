@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T16:32:21+00:00",
+  "updatedAt": "2026-11-18T16:33:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -1023629,6 +1023629,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-18T16:32:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 111664,
+      "source": "qoo",
+      "externalId": "cmt-4410933025",
+      "title": "@1 ㅁㅈㅋㅋㅋㅋㅋ",
+      "excerpt": "순자 원래 성격은 쎌 것 같은데 잘 맞춰줌",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4410925440#4410933025",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T00:33:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T16:33:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111665,
+      "source": "qoo",
+      "externalId": "4410967978",
+      "title": "오늘 어땠음?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4410967978",
+      "postedLabel": "01:33",
+      "postedAt": "2026-11-19T01:33:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T16:33:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1023740,7 +1023779,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T01:30:05+09:00"
+      "slowAt": "2026-11-19T01:33:04+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1053780,7 +1053819,8 @@
         "4410948494",
         "4410964199",
         "4410966767",
-        "4410967236"
+        "4410967236",
+        "4410967978"
       ]
     },
     "keep": "v2",
