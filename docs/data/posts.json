@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T23:14:14+00:00",
+  "updatedAt": "2026-11-18T23:20:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -1026694,6 +1026694,26 @@
       "comments": 1,
       "firstSeenAt": "2026-11-18T23:14:14+00:00",
       "isSeed": false
+    },
+    {
+      "id": 111819,
+      "source": "blind",
+      "externalId": "cmt-461744427",
+      "title": "영수가 가장 솔직하게 웃으면서 농담해주는건데 영철이 뒤에서 욕하는게 더 구린거지ㅋㅋ 사람 볼줄 모르네",
+      "excerpt": "아 영호 뭔데 턱걸이 뭔데",
+      "author": "l******",
+      "company": "시공테크",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EC%98%81%ED%98%B8-%EB%AD%94%EB%8D%B0-%ED%84%B1%EA%B1%B8%EC%9D%B4-%EB%AD%94%EB%8D%B0-4zowkh8a#461744427",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T08:19:51+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T23:20:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1026878,7 +1026898,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T08:16:53+09:00"
+      "slowAt": "2026-11-19T08:19:51+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1044095,7 +1044115,8 @@
         "6699917",
         "6699925",
         "6699926",
-        "6699927"
+        "6699927",
+        "6699930"
       ]
     },
     "blind": {
