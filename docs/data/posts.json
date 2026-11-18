@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T15:51:37+00:00",
+  "updatedAt": "2026-11-18T15:52:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -1020292,6 +1020292,25 @@
       "firstSeenAt": "2026-11-18T15:51:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111496,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EB%8A%94%EA%B7%BC%EB%8D%B0-zxp2jnaj",
+      "title": "영호는근데",
+      "excerpt": "여출들이랑 대화할땐 안그런데 인터뷰할때 정면으로 보면 말할 때 입모양도 이상하고 왤케 웅얼거리는거같지",
+      "author": "g****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94%EA%B7%BC%EB%8D%B0-zxp2jnaj",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T00:52:19+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T15:52:37+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1020476,7 +1020495,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T00:48:51+09:00"
+      "slowAt": "2026-11-19T00:52:19+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1037477,7 +1037496,8 @@
         "6699173",
         "6699175",
         "6699180",
-        "6699183"
+        "6699183",
+        "6699190"
       ]
     },
     "blind": {
