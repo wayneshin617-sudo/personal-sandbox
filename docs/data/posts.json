@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T17:39:14+00:00",
+  "updatedAt": "2026-11-18T17:41:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -1025217,6 +1025217,45 @@
       "firstSeenAt": "2026-11-18T17:39:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111744,
+      "source": "blind",
+      "externalId": "cmt-461730467",
+      "title": "재방버고왓오여",
+      "excerpt": "같이 나솔보고 잘사람",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%99%EC%9D%B4-%EB%82%98%EC%86%94%EB%B3%B4%EA%B3%A0-%EC%9E%98%EC%82%AC%EB%9E%8C-3j5nb3v5#461730467",
+      "postedLabel": "18분",
+      "postedAt": "2026-11-19T02:23:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T17:41:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111745,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EC%B6%9C%EC%97%B0%EC%9E%90-%EC%95%85%ED%94%8C-%EC%9E%AC%ED%85%8C%ED%81%AC-%EB%9D%BC%EB%8B%88-8adf3ocf",
+      "title": "나는솔로 출연자 '악플 재테크' 라니..",
+      "excerpt": "나는솔로 출연자들이 나눈 대화라고 공개된 캡처인데 아니 방송이 장난임? 악플 고소를 두고 ‘주식보다 달달하겠다’, ‘재테크 가자’, ‘합의 안 해주면 500까지 땡길걸’ 같은 발언이 등장하는데.. 심지어 어느 커뮤에서 고소가 가능한지, 여러 명을 묶어서 진행하는 방법과 변호사 수임료까지 이야기함. 물론 악플에 법적으로 대응하는 건 정당한 권리임. 그런데 고소와 합의금을 이런 식으로 이야기하는 건 어떻게 봐야 할까?",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-%EC%B6%9C%EC%97%B0%EC%9E%90-%EC%95%85%ED%94%8C-%EC%9E%AC%ED%85%8C%ED%81%AC-%EB%9D%BC%EB%8B%88-8adf3ocf",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-19T02:40:39+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T17:41:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1025328,7 +1025367,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T02:38:57+09:00"
+      "slowAt": "2026-11-19T02:41:39+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1042527,7 +1042566,8 @@
         "6699554",
         "6699562",
         "6699563",
-        "6699569"
+        "6699569",
+        "6699571"
       ]
     },
     "blind": {
