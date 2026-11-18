@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T12:05:00+00:00",
+  "updatedAt": "2026-11-18T12:06:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -989377,6 +989377,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-18T12:05:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109895,
+      "source": "dc",
+      "externalId": "cmt-11031250",
+      "title": "나글로리는 더글로리에서 따온 말이에요?^.~",
+      "excerpt": "근데 왜 나글로리고 뉴스까지 탄거에오?? 라방 40만????",
+      "author": "귀여워",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6694692&page=1#cmt_11031250",
+      "postedLabel": "11.18 21:05:12",
+      "postedAt": "2026-11-18T21:05:12+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T12:06:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -989561,7 +989581,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-18T21:03:19+09:00"
+      "slowAt": "2026-11-18T21:06:10+09:00"
     },
     "dc": {
       "doneIds": [
