@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T15:53:52+00:00",
+  "updatedAt": "2026-11-18T15:55:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -1020389,6 +1020389,45 @@
       "firstSeenAt": "2026-11-18T15:53:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111501,
+      "source": "blind",
+      "externalId": "cmt-461724012",
+      "title": "엉ㅋㅋㅋ 지가 잘해보자고 몇시간 전에 말해놓고 애도 아니고 갑자기 취소 한다니깐. 착한 사람은 말못하고 상처 받을 수 있지",
+      "excerpt": "너 내일 안와도돼?",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%84%88-%EB%82%B4%EC%9D%BC-%EC%95%88%EC%99%80%EB%8F%84%EB%8F%BC-si3y2p7k#461724012",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T00:54:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T15:55:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111502,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-%EC%9E%90%EA%B8%B0-%EC%96%B4%EB%A5%B4%EC%8B%A0%EB%93%A4%ED%95%9C%ED%85%8C-%EC%82%B4%EA%B0%91%EA%B2%8C-%EC%9E%98%ED%95%9C%EB%8B%A4%EA%B3%A0-5opco72f",
+      "title": "영숙 자기 어르신들한테 살갑게 잘한다고",
+      "excerpt": "말귀 못알아 먹으면 똑같은말 100번도 설명해준다 그러길래 나도모르게 육성으로 어지간히 잘하것다 소리 나옴",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EC%9E%90%EA%B8%B0-%EC%96%B4%EB%A5%B4%EC%8B%A0%EB%93%A4%ED%95%9C%ED%85%8C-%EC%82%B4%EA%B0%91%EA%B2%8C-%EC%9E%98%ED%95%9C%EB%8B%A4%EA%B3%A0-5opco72f",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T00:54:51+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T15:55:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1020573,7 +1020612,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T00:52:19+09:00"
+      "slowAt": "2026-11-19T00:54:51+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1037577,7 +1037616,8 @@
         "6699181",
         "6699183",
         "6699190",
-        "6699192"
+        "6699192",
+        "6699199"
       ]
     },
     "blind": {
@@ -1040161,6 +1040201,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%A7%90%ED%95%98%EB%8A%94%EA%B1%B0-%EC%A2%80-%EB%9D%A0%EA%BB%8D%EC%A7%80%EC%95%8A%EC%95%84-i4e3tcrh",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%A7%A4%EB%A0%A5-nvdj4pqm",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%A9%94%EB%94%95%EC%9D%B8%EC%A4%84%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EB%9F%B4%EC%BB%A4%EB%8A%90%EB%82%8C%EB%82%A8-2utpzcmq",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B8%B8%EB%9E%98-%EB%82%9C%EB%A6%AC%EC%95%BC-2ssvz7gb",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4%EC%97%90-%EB%AC%B8%EC%8B%A0%EC%9D%B4%EB%A9%B4-ppg38u6z",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%A7%A4-l1banj26",
         "/kr/post/%EC%88%9C%EC%9E%90-%EB%AA%B8%EB%AC%B4%EA%B2%8C%EC%96%98%EA%B8%B0-tszlyk08",
