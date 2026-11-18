@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T18:44:09+00:00",
+  "updatedAt": "2026-11-18T18:45:09+00:00",
   "posts": [
     {
       "id": 1,
@@ -559740,6 +559740,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-18T18:44:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 35127,
+      "source": "yt",
+      "externalId": "Ugy6b1yMuLOgD7c13CF4AaABAg",
+      "title": "남의 속은 궁금해서 다 물어보고 정작 지 속은 감추고",
+      "excerpt": "[나는솔로 34기] 한두 달에 한 번 만날 거라면 영호는 대체 나솔에 왜 나온 걸까?",
+      "author": "@majinga-p5v",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=5ni54s3pTuQ&lc=Ugy6b1yMuLOgD7c13CF4AaABAg",
+      "postedLabel": "5일 전",
+      "postedAt": "2026-11-14T03:44:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T18:45:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 35128,
+      "source": "yt",
+      "externalId": "Ugwqk8x75gVts0EIPIZ4AaABAg",
+      "title": "전국 전 세계에 나 영호 여기있어요~~!!!라고 젠틀한 나 자신 광고하러 나온거임.",
+      "excerpt": "[나는솔로 34기] 한두 달에 한 번 만날 거라면 영호는 대체 나솔에 왜 나온 걸까?",
+      "author": "@한가람-j1l",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=5ni54s3pTuQ&lc=Ugwqk8x75gVts0EIPIZ4AaABAg",
+      "postedLabel": "3일 전",
+      "postedAt": "2026-11-16T03:44:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T18:45:02+00:00",
       "isSeed": false
     }
   ]
