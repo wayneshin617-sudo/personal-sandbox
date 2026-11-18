@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T12:03:34+00:00",
+  "updatedAt": "2026-11-18T12:05:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -989358,6 +989358,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-18T12:03:34+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109894,
+      "source": "dc",
+      "externalId": "6694695",
+      "title": "한국정서는 이뻐도 남괴롭히는건 용납이 안되나보네요 ㅜㅜ",
+      "excerpt": "",
+      "author": "귀여워",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6694695&page=1",
+      "postedLabel": "21:04",
+      "postedAt": "2026-11-18T21:04:32+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T12:05:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -989469,7 +989488,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-18T21:01:51+09:00"
+      "slowAt": "2026-11-18T21:04:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1006294,7 +1006313,8 @@
         "6694670",
         "6694680",
         "6694683",
-        "6694690"
+        "6694690",
+        "6694692"
       ]
     },
     "blind": {
@@ -1006654,6 +1006674,7 @@
         "/kr/post/%EA%B5%AD%ED%99%94-%EA%B7%80-%EB%A7%8C%EC%A7%80%EA%B8%B0-57cgyykk",
         "/kr/post/%EA%B5%AD%ED%99%94-%EB%B0%94%EC%A7%80%EC%97%90-%ED%9C%B4%EC%A7%80-%EB%8B%AC%EA%B3%A0-%EB%82%98%EC%98%A8-%EA%B1%B0-3h4u16pe",
         "/kr/post/%EA%B5%AD%ED%99%94-%ED%9C%B4%EC%A7%80%EB%AD%90%EC%95%BC-484f7nkv",
+        "/kr/post/%EA%B5%AD%ED%99%94-%ED%9C%B4%EC%A7%80-%EB%AD%90%EC%95%BC-4ocgdk4j",
         "/kr/post/%EA%B5%B0%EC%9E%90-%EC%84%B8%EB%AA%85-%ED%95%9C%EC%9E%94-%EB%8D%94%ED%95%98%EC%8B%A4-%EB%B6%84-ahqjjesc",
         "/kr/post/%EA%B5%B3%EC%9D%B4%EA%B5%B3%EC%9D%B4-%ED%95%9C%EB%AA%85%EB%A7%8C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-wdwpc2wh",
         "/kr/post/%EA%B6%81%EA%B8%88%ED%95%9C%EA%B1%B0-%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%EC%83%81%EC%B2%A0-e8bzof6k",
