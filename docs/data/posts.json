@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T17:50:22+00:00",
+  "updatedAt": "2026-11-18T17:53:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -1025415,6 +1025415,65 @@
       "firstSeenAt": "2026-11-18T17:50:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111754,
+      "source": "qoo",
+      "externalId": "cmt-4410980051",
+      "title": "근데 없는게 더 좋을거 같은게 다들 별로야.. 여출들이 아까워",
+      "excerpt": "이번 기수 현커 없을 것 같다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4410973122#4410980051",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T01:52:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T17:53:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111755,
+      "source": "blind",
+      "externalId": "cmt-461730701",
+      "title": "예고에.그런싣으로 편집햇엇음",
+      "excerpt": "저번에 유튜브에 유출된거 여기 물어봐도 됨?",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%80%EB%B2%88%EC%97%90-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EC%97%90-%EC%9C%A0%EC%B6%9C%EB%90%9C%EA%B1%B0-%EC%97%AC%EA%B8%B0-%EB%AC%BC%EC%96%B4%EB%B4%90%EB%8F%84-%EB%90%A8-wrikmlp4#461730701",
+      "postedLabel": "25분",
+      "postedAt": "2026-11-19T02:27:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T17:53:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111756,
+      "source": "qoo",
+      "externalId": "4411010058",
+      "title": "근데 영숙영식 러닝하는거 목격됐다는거 봤는데 그거 구라야???",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411010058",
+      "postedLabel": "02:51",
+      "postedAt": "2026-11-19T02:51:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T17:53:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1025526,7 +1025585,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T02:50:04+09:00"
+      "slowAt": "2026-11-19T02:52:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1042698,6 +1042757,7 @@
         "6699447",
         "6699448",
         "6699452",
+        "6699462",
         "6699464",
         "6699465",
         "6699466",
@@ -1042732,7 +1042792,9 @@
         "6699578",
         "6699582",
         "6699583",
-        "6699585"
+        "6699585",
+        "6699588",
+        "6699591"
       ]
     },
     "blind": {
@@ -1055661,7 +1055723,8 @@
         "4410966767",
         "4410967236",
         "4410967978",
-        "4410973122"
+        "4410973122",
+        "4411010058"
       ]
     },
     "keep": "v2",
