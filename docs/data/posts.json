@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T15:16:14+00:00",
+  "updatedAt": "2026-11-18T15:17:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -1018994,6 +1018994,84 @@
       "firstSeenAt": "2026-11-18T15:16:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111430,
+      "source": "qoo",
+      "externalId": "4410918513",
+      "title": "나솔은 근데 예고랑 본방이랑 다름",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4410918513",
+      "postedLabel": "00:16",
+      "postedAt": "2026-11-19T00:16:00+09:00",
+      "views": 42,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T15:17:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 111431,
+      "source": "blind",
+      "externalId": "cmt-461719303",
+      "title": "반반 합치면 좋겠다 물론 난 순자파",
+      "excerpt": "현숙이랑 순자랑 스타일이 완전 다른데",
+      "author": "앙*",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%88%9C%EC%9E%90%EB%9E%91-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%99%84%EC%A0%84-%EB%8B%A4%EB%A5%B8%EB%8D%B0-4bvlxk7r#461719303",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-19T00:16:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T15:17:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111432,
+      "source": "blind",
+      "externalId": "/kr/post/Byd-%EC%98%81%EC%9E%90%EA%B0%80-%EB%BD%91%EC%95%84%EC%A4%80-%EA%B1%B0-%EC%95%84%EB%8B%88%EB%83%90%EA%B6%81-nceb1rj5",
+      "title": "Byd 영자가 뽑아준 거 아니냐궁",
+      "excerpt": "ㅋㅋㅋㅋㅋ",
+      "author": "앙*",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/Byd-%EC%98%81%EC%9E%90%EA%B0%80-%EB%BD%91%EC%95%84%EC%A4%80-%EA%B1%B0-%EC%95%84%EB%8B%88%EB%83%90%EA%B6%81-nceb1rj5",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T00:17:11+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T15:17:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 111433,
+      "source": "blind",
+      "externalId": "cmt-461719453",
+      "title": "난 순살파",
+      "excerpt": "현숙이랑 순자랑 스타일이 완전 다른데",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%88%9C%EC%9E%90%EB%9E%91-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%99%84%EC%A0%84-%EB%8B%A4%EB%A5%B8%EB%8D%B0-4bvlxk7r#461719453",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T00:17:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T15:17:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1036111,9 +1036189,11 @@
         "6698945",
         "6698951",
         "6698953",
+        "6698956",
         "6698962",
         "6698963",
-        "6698964"
+        "6698964",
+        "6698978"
       ]
     },
     "blind": {
@@ -1048989,7 +1049069,8 @@
         "4410914031",
         "4410915913",
         "4410915978",
-        "4410917361"
+        "4410917361",
+        "4410918513"
       ]
     },
     "keep": "v2",
