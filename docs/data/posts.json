@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T12:07:52+00:00",
+  "updatedAt": "2026-11-18T12:09:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -989416,6 +989416,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-18T12:07:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109897,
+      "source": "blind",
+      "externalId": "cmt-461689808",
+      "title": "나도 궁금하다",
+      "excerpt": "나솔 라이브 이제 못 봄?",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%9D%B4%EC%A0%9C-%EB%AA%BB-%EB%B4%84-0xpuqei0#461689808",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-18T21:08:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T12:09:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109898,
+      "source": "dc",
+      "externalId": "6694710",
+      "title": "ㅋㅋㅋㅋ 진짜 귀엽네 키워드 몇개면 발작하네",
+      "excerpt": "",
+      "author": "귀여워",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6694710&page=1",
+      "postedLabel": "21:08",
+      "postedAt": "2026-11-18T21:08:47+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T12:09:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -989600,7 +989639,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-18T21:06:10+09:00"
+      "slowAt": "2026-11-18T21:09:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1006353,7 +1006392,8 @@
         "6694680",
         "6694683",
         "6694690",
-        "6694692"
+        "6694692",
+        "6694701"
       ]
     },
     "blind": {
@@ -1007212,6 +1007252,7 @@
         "/kr/post/%EB%82%98%EC%86%94-%EB%8B%A4%EB%91%A5%EC%9D%B4%ED%8A%B9%EC%A7%91-%ED%96%88%EC%9C%BC%EB%8B%88-cdzdaho4",
         "/kr/post/%EB%82%98%EC%86%94-%EB%8B%A4%EB%91%A5%EC%9D%B4-%ED%8A%B9%EC%A7%91-%EC%83%81%EC%B2%A0%EC%9D%B4-4jlzsh6m",
         "/kr/post/%EB%82%98%EC%86%94-%EB%8F%8C%EC%8B%B1-%EA%B8%B0%EC%88%98%EB%93%A4-%EC%9C%A0%EB%8F%85-%EC%9D%B4%EC%83%81%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EB%B6%84%EC%84%9D%ED%95%B4%EB%B4%A4%EB%8A%94%EB%8D%B0-87dg1ubi",
+        "/kr/post/%EB%82%98%EC%86%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%9D%B4%EC%A0%9C-%EB%AA%BB-%EB%B4%84-0xpuqei0",
         "/kr/post/%EB%82%98%EC%86%94-%EB%A6%AC%EB%B7%B0%EC%96%B4%ED%8A%B9%EC%A7%91-%EC%96%B4%EB%95%8C-6i1y5suy",
         "/kr/post/%EB%82%98%EC%86%94-%EB%A6%AC%EB%B7%B0%EC%96%B4-%EC%A4%91%EC%97%90-%EC%98%81%ED%98%B8-%EC%96%B4%EC%9E%A5%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%9A%B0%EA%B8%B0%EB%8D%98-%EC%82%AC%EB%9E%8C%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0-ljow8sye",
         "/kr/post/%EB%82%98%EC%86%94-%EB%A6%AC%EB%B7%B0%ED%94%84%EB%A1%9C-%EC%9B%83%EA%B8%B0%EB%84%A4-fyf3s75j",
