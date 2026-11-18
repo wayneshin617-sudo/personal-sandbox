@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T11:38:58+00:00",
+  "updatedAt": "2026-11-18T11:40:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -989045,6 +989045,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-18T11:38:58+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109878,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98-%EC%98%81%EC%88%98%EB%B3%B4%EB%8B%A4-%EC%96%B4%EA%B9%A8-%EB%84%93%EC%9D%8C-b0c3hpl7",
+      "title": "투표글 나 영수보다 어깨 넓음 투표",
+      "excerpt": "부러워?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%EC%98%81%EC%88%98%EB%B3%B4%EB%8B%A4-%EC%96%B4%EA%B9%A8-%EB%84%93%EC%9D%8C-b0c3hpl7",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T20:40:08+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T11:40:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 109879,
+      "source": "blind",
+      "externalId": "cmt-461685766",
+      "title": "영자한테 침 잘못맞음?",
+      "excerpt": "마지막 삼겹살 데이트때 영자 너무 식당 이모같네여 ㅜㅜ",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%88%EC%A7%80%EB%A7%89-%EC%82%BC%EA%B2%B9%EC%82%B4-%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%95%8C-%EC%98%81%EC%9E%90-%EB%84%88%EB%AC%B4-%EC%8B%9D%EB%8B%B9-%EC%9D%B4%EB%AA%A8%EA%B0%99%EB%84%A4%EC%97%AC-%E3%85%9C%E3%85%9C-w0kr80oo#461685766",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T20:40:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T11:40:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -989229,7 +989268,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-18T20:37:15+09:00"
+      "slowAt": "2026-11-18T20:40:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1005970,7 +1006009,8 @@
         "6694616",
         "6694618",
         "6694624",
-        "6694631"
+        "6694631",
+        "6694639"
       ]
     },
     "blind": {
@@ -1010772,6 +1010812,7 @@
         "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%9D%B5%EC%9E%A5%EB%A9%B4-47znpetu",
         "/kr/post/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%8B%9C%EC%B2%AD%EC%86%8C%EA%B0%90-4uhox6kt",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%82%98%EC%86%94%EC%96%98%EA%B8%B0-%EC%A2%80%EB%A7%8C-%ED%95%98%EB%8B%A4-%EC%9E%90%EC%8B%A4%EB%B6%84-p4cuc81n",
+        "/kr/post/%EC%98%A4%EB%8A%98-%EB%82%98%EC%86%94%ED%95%98%EB%8A%94%EB%82%A0-d1svqr5p",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%82%98%EC%86%94-%ED%95%98%EB%8A%94-%EB%82%A0-vg526eco",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%84%88%EB%AC%B4-%EC%9E%AC%EB%AF%B8%EC%97%86%EB%8B%A4-%EC%9E%98%EA%B9%8C%EB%A7%90%EA%B9%8C-%EA%B3%A0%EB%AF%BC%EC%A4%91-c52mjir1",
         "/kr/post/%EC%98%A4%EB%8A%98-%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%82%98-%ED%81%B4%EB%9F%BD%EA%B0%80%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-z67gcaab",
