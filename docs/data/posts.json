@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T09:59:03+00:00",
+  "updatedAt": "2026-11-18T10:01:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -988063,6 +988063,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-18T09:59:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109828,
+      "source": "dc",
+      "externalId": "cmt-11030993",
+      "title": "ㅇㅎ 언제사진이야. 닮은듯 안닮은듯",
+      "excerpt": "걸그룹 순자",
+      "author": "oo",
+      "company": "",
+      "ip": "58.231",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6694365&page=2#cmt_11030993",
+      "postedLabel": "11.18 18:23:32",
+      "postedAt": "2026-11-18T18:23:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T10:01:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -988174,7 +988194,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-18T18:57:46+09:00"
+      "slowAt": "2026-11-18T19:00:46+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1004917,6 +1004937,7 @@
         "6694341",
         "6694352",
         "6694362",
+        "6694365",
         "6694431",
         "6694438",
         "6694442"
