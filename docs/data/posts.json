@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T02:40:52+00:00",
+  "updatedAt": "2026-11-18T02:41:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -986530,6 +986530,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-18T02:40:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109750,
+      "source": "blind",
+      "externalId": "cmt-461622955",
+      "title": "Dd",
+      "excerpt": "부페인데 미국 팁 문화 ㄷㄷ",
+      "author": "P*****",
+      "company": "서울전자통신",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%80%ED%8E%98%EC%9D%B8%EB%8D%B0-%EB%AF%B8%EA%B5%AD-%ED%8C%81-%EB%AC%B8%ED%99%94-%E3%84%B7%E3%84%B7-k8ld5go5#461622955",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T11:41:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T02:41:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109751,
+      "source": "blind",
+      "externalId": "cmt-461622960",
+      "title": "최소15%야",
+      "excerpt": "부페인데 미국 팁 문화 ㄷㄷ",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%80%ED%8E%98%EC%9D%B8%EB%8D%B0-%EB%AF%B8%EA%B5%AD-%ED%8C%81-%EB%AC%B8%ED%99%94-%E3%84%B7%E3%84%B7-k8ld5go5#461622960",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T11:41:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T02:41:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109752,
+      "source": "blind",
+      "externalId": "cmt-461622970",
+      "title": "15년전엔 아니었음",
+      "excerpt": "부페인데 미국 팁 문화 ㄷㄷ",
+      "author": "d*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%80%ED%8E%98%EC%9D%B8%EB%8D%B0-%EB%AF%B8%EA%B5%AD-%ED%8C%81-%EB%AC%B8%ED%99%94-%E3%84%B7%E3%84%B7-k8ld5go5#461622970",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T11:41:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T02:41:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1003261,6 +1003321,7 @@
         "6693534",
         "6693536",
         "6693543",
+        "6693544",
         "6693573",
         "6693591",
         "6693594",
@@ -1003285,7 +1003346,8 @@
         "6693699",
         "6693701",
         "6693707",
-        "6693720"
+        "6693720",
+        "6693726"
       ]
     },
     "blind": {
@@ -1005304,6 +1005366,7 @@
         "/kr/post/%EB%B6%80%EC%97%AC-%EC%8B%9C%EA%B3%A8-%EA%B3%B5%EB%AC%B4%EC%9B%90%EB%93%A4-07hxp3x0",
         "/kr/post/%EB%B6%80%EC%9E%A5%EB%8B%98%EC%9D%B4-%EB%82%98%EB%B3%B4%EA%B3%A0-%EA%B2%B0%ED%98%BC-%EB%AA%BB%ED%96%88%EC%9D%84-%EA%B2%83-%EA%B0%99%EB%8B%A4%EA%B3%A0-%ED%96%88%EC%96%B4-83qj4wvr",
         "/kr/post/%EB%B6%80%EC%B2%98%EB%8B%98-%EB%91%90%EB%B6%80%EC%83%81%EC%9D%B4%EC%97%88%EB%84%A4-tv1bqcyz",
+        "/kr/post/%EB%B6%80%ED%8E%98%EC%9D%B8%EB%8D%B0-%EB%AF%B8%EA%B5%AD-%ED%8C%81-%EB%AC%B8%ED%99%94-%E3%84%B7%E3%84%B7-k8ld5go5",
         "/kr/post/%EB%B6%84%EC%9C%84%EA%B8%B0%EA%B0%80-%EC%A2%8B%EA%B8%B4-jp3ku6vp",
         "/kr/post/%EB%B6%88%EA%B3%BC-3%EB%8B%AC%EC%A0%84%EC%97%90-%EB%82%98%EC%99%94%EB%8A%94%EB%8D%B0-mz3yfwrp",
         "/kr/post/%EB%B6%88%EC%86%8C%EB%8A%94-%EC%98%A4%E3%85%91-%EC%B0%BE%EC%9D%8C-rj0o66mi",
