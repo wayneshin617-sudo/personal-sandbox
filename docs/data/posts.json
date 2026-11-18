@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T10:14:06+00:00",
+  "updatedAt": "2026-11-18T10:15:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -988263,6 +988263,26 @@
       "firstSeenAt": "2026-11-18T10:14:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109838,
+      "source": "qoo",
+      "externalId": "cmt-4410562719",
+      "title": "하 수요일이 왜이렇게 안오는지",
+      "excerpt": "오늘 나솔 한다 ㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4410482887#4410562719",
+      "postedLabel": "",
+      "postedAt": "2026-11-18T18:14:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T10:15:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -988447,7 +988467,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-18T19:11:50+09:00"
+      "slowAt": "2026-11-18T19:14:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1005117,6 +1005137,7 @@
         "6694258",
         "6694260",
         "6694266",
+        "6694270",
         "6694341",
         "6694352",
         "6694362",
