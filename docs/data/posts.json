@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T23:12:43+00:00",
+  "updatedAt": "2026-11-18T23:14:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -1026675,6 +1026675,25 @@
       "firstSeenAt": "2026-11-18T23:12:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111818,
+      "source": "dc",
+      "externalId": "6699925",
+      "title": "영숙이는 왜 으외로 참하냐",
+      "excerpt": "",
+      "author": "리토베르후번",
+      "company": "",
+      "ip": "125.249",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6699925&page=1",
+      "postedLabel": "08:13",
+      "postedAt": "2026-11-19T08:13:08+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-18T23:14:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1026859,7 +1026878,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T08:10:55+09:00"
+      "slowAt": "2026-11-19T08:13:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1044073,7 +1044092,8 @@
         "6699898",
         "6699909",
         "6699916",
-        "6699917"
+        "6699917",
+        "6699925"
       ]
     },
     "blind": {
