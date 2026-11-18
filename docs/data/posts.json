@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T04:22:18+00:00",
+  "updatedAt": "2026-11-18T04:30:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -986986,6 +986986,44 @@
       "firstSeenAt": "2026-11-18T04:22:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109773,
+      "source": "qoo",
+      "externalId": "4410238253",
+      "title": "돌싱앤모솔 보는 덬 잇니?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4410238253",
+      "postedLabel": "13:29",
+      "postedAt": "2026-11-18T13:29:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T04:30:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 109774,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%88%EB%87%BD-cb5uycqh",
+      "title": "안뇽",
+      "excerpt": "안녕하세요",
+      "author": "h*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%88%EB%87%BD-cb5uycqh",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T13:29:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T04:30:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -987170,7 +987208,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-18T13:26:27+09:00"
+      "slowAt": "2026-11-18T13:29:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1015854,7 +1015892,8 @@
         "4409382760",
         "4409536849",
         "4409836036",
-        "4409865898"
+        "4409865898",
+        "4410238253"
       ]
     },
     "keep": "v2",
