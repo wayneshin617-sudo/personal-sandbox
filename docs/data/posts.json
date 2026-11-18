@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T15:33:02+00:00",
+  "updatedAt": "2026-11-18T15:35:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -1019882,6 +1019882,65 @@
       "comments": 0,
       "firstSeenAt": "2026-11-18T15:33:02+00:00",
       "isSeed": false
+    },
+    {
+      "id": 111475,
+      "source": "qoo",
+      "externalId": "4410934201",
+      "title": "영호는 잘되가는 모든 여자에게서 거절할 명분을 찾는 느낌",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4410934201",
+      "postedLabel": "00:34",
+      "postedAt": "2026-11-19T00:34:00+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T15:35:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 111476,
+      "source": "blind",
+      "externalId": "cmt-461721673",
+      "title": "근데 진짜 17회차 편성이라면 그정도 반전은 있어야 함",
+      "excerpt": "저번에 유튜브에 유출된거 여기 물어봐도 됨?",
+      "author": "퇴*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%80%EB%B2%88%EC%97%90-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EC%97%90-%EC%9C%A0%EC%B6%9C%EB%90%9C%EA%B1%B0-%EC%97%AC%EA%B8%B0-%EB%AC%BC%EC%96%B4%EB%B4%90%EB%8F%84-%EB%90%A8-wrikmlp4#461721673",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T00:35:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T15:35:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111477,
+      "source": "blind",
+      "externalId": "cmt-461721620",
+      "title": "야 이건 168 158 만 놔도 애매한데 장난하냐",
+      "excerpt": "투표글 여자 외모 취향 선택해봐(남자들만) 투표",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-%EC%99%B8%EB%AA%A8-%EC%B7%A8%ED%96%A5-%EC%84%A0%ED%83%9D%ED%95%B4%EB%B4%90%EB%82%A8%EC%9E%90%EB%93%A4%EB%A7%8C-3njax4ai#461721620",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T00:35:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T15:35:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1019993,7 +1020052,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T00:32:45+09:00"
+      "slowAt": "2026-11-19T00:35:26+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1037038,7 +1037097,10 @@
         "6699074",
         "6699077",
         "6699083",
-        "6699088"
+        "6699088",
+        "6699091",
+        "6699093",
+        "6699097"
       ]
     },
     "blind": {
@@ -1049928,7 +1049990,8 @@
         "4410921405",
         "4410922500",
         "4410925440",
-        "4410928083"
+        "4410928083",
+        "4410934201"
       ]
     },
     "keep": "v2",
