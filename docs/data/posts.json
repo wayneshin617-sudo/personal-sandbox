@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T11:37:32+00:00",
+  "updatedAt": "2026-11-18T11:38:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -989006,6 +989006,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-18T11:37:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 109876,
+      "source": "blind",
+      "externalId": "cmt-461677979",
+      "title": "진심 옷 좀 입어라",
+      "excerpt": "징그럽고 짱남ㅋㅋㅋㅋ",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%95%EA%B7%B8%EB%9F%BD%EA%B3%A0-%EC%A7%B1%EB%82%A8%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-mwgi5azs#461677979",
+      "postedLabel": "57분",
+      "postedAt": "2026-11-18T19:41:41+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T11:38:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 109877,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A4%EB%8A%98-%EB%82%98%EC%86%94%ED%95%98%EB%8A%94%EB%82%A0-d1svqr5p",
+      "title": "오늘 나솔하는날",
+      "excerpt": "한편의 영화처럼 너무재밌음 ㅋㅋ",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EB%82%98%EC%86%94%ED%95%98%EB%8A%94%EB%82%A0-d1svqr5p",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T20:38:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T11:38:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -989117,7 +989156,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-18T20:35:48+09:00"
+      "slowAt": "2026-11-18T20:38:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1005911,6 +1005950,7 @@
         "6694514",
         "6694520",
         "6694522",
+        "6694523",
         "6694524",
         "6694530",
         "6694537",
