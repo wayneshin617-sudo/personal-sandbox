@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T19:45:44+00:00",
+  "updatedAt": "2026-11-18T19:48:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -1025751,6 +1025751,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-18T19:45:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 111771,
+      "source": "dc",
+      "externalId": "6699710",
+      "title": "리트가 판사되는 시험이냐 요새판사들 개판인데 ai로 판사돼서 부갤연갤놈들사..(118.235) 2026.11",
+      "excerpt": "",
+      "author": "노괴거린것들사레",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6699710&page=1",
+      "postedLabel": "04:47",
+      "postedAt": "2026-11-19T04:47:33+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-18T19:48:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 111772,
+      "source": "dc",
+      "externalId": "6699711",
+      "title": "옥순은 랜덤데이트 때 누구 남았는지 예감하고 있던듯 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6699711&page=1",
+      "postedLabel": "04:48",
+      "postedAt": "2026-11-19T04:48:08+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T19:48:44+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1025935,7 +1025973,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T04:45:25+09:00"
+      "slowAt": "2026-11-19T04:48:25+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1043111,7 +1043149,8 @@
         "6699655",
         "6699667",
         "6699679",
-        "6699691"
+        "6699691",
+        "6699710"
       ]
     },
     "blind": {
