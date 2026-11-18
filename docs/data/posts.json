@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T16:55:22+00:00",
+  "updatedAt": "2026-11-18T16:58:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1024323,6 +1024323,45 @@
       "firstSeenAt": "2026-11-18T16:55:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111699,
+      "source": "qoo",
+      "externalId": "cmt-4410950073",
+      "title": "이야기 영수 재미라도 있었지ㅋㅋㅋㅋ",
+      "excerpt": "영호 최종선택까지 이럴듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4410944653#4410950073",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T00:58:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T16:58:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111700,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EC%98%A5%EC%88%9C-%EB%81%9D%EB%82%9C%EA%B2%8C-%EC%95%84%EC%89%AC%EC%9B%80-trhc6w0g",
+      "title": "영호 옥순 끝난게 아쉬움",
+      "excerpt": "오늘꺼 보니깐 확실히 영호 옥순이 어울림 옥순은 확실히 영호 호감이 제일 커보였는데 영수 한방에 끝나버리네",
+      "author": "O*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%98%A5%EC%88%9C-%EB%81%9D%EB%82%9C%EA%B2%8C-%EC%95%84%EC%89%AC%EC%9B%80-trhc6w0g",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T01:58:04+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-18T16:58:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1024507,7 +1024546,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T01:55:04+09:00"
+      "slowAt": "2026-11-19T01:58:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1041591,7 +1041630,8 @@
         "6699465",
         "6699466",
         "6699469",
-        "6699471"
+        "6699471",
+        "6699476"
       ]
     },
     "blind": {
