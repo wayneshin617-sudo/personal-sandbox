@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T10:49:07+00:00",
+  "updatedAt": "2026-11-18T10:51:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -988481,6 +988481,26 @@
       "firstSeenAt": "2026-11-18T10:49:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109849,
+      "source": "blind",
+      "externalId": "cmt-461679048",
+      "title": "팩트임?? 한국에서도 된다고??",
+      "excerpt": "매주 올라오는 질문인데 그냥 속 시원하게 얘기 해라",
+      "author": "나*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%A4%EC%A3%BC-%EC%98%AC%EB%9D%BC%EC%98%A4%EB%8A%94-%EC%A7%88%EB%AC%B8%EC%9D%B8%EB%8D%B0-%EA%B7%B8%EB%83%A5-%EC%86%8D-%EC%8B%9C%EC%9B%90%ED%95%98%EA%B2%8C-%EC%96%98%EA%B8%B0-%ED%95%B4%EB%9D%BC-zpfe7fux#461679048",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T19:50:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T10:51:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -988665,7 +988685,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-18T19:47:50+09:00"
+      "slowAt": "2026-11-18T19:50:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1005361,6 +1005381,7 @@
         "6694421",
         "6694427",
         "6694431",
+        "6694434",
         "6694438",
         "6694442",
         "6694457",
@@ -1005377,7 +1005398,8 @@
         "6694520",
         "6694522",
         "6694524",
-        "6694530"
+        "6694530",
+        "6694537"
       ]
     },
     "blind": {
