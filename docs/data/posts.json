@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-18T10:02:03+00:00",
+  "updatedAt": "2026-11-18T10:03:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -988103,6 +988103,26 @@
       "firstSeenAt": "2026-11-18T10:02:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 109830,
+      "source": "blind",
+      "externalId": "cmt-461673140",
+      "title": "적당히라는걸 모르네 제작진도 참.",
+      "excerpt": "진짜 너무하네",
+      "author": "i********",
+      "company": "HD한국조선해양",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4%ED%95%98%EB%84%A4-7hvpkvrt#461673140",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-18T19:02:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-18T10:03:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -988287,7 +988307,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-18T18:59:46+09:00"
+      "slowAt": "2026-11-18T19:02:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1004959,6 +1004979,7 @@
         "6694352",
         "6694362",
         "6694365",
+        "6694366",
         "6694431",
         "6694438",
         "6694442"
