@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T03:16:26+00:00",
+  "updatedAt": "2026-11-19T03:19:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -1031755,6 +1031755,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-19T03:16:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112075,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C%EC%9E%84-6we1umkx",
+      "title": "순자 진짜임?",
+      "excerpt": "Real인가 저거?",
+      "author": "l*********",
+      "company": "SK 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C%EC%9E%84-6we1umkx",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T12:19:34+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T03:19:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112076,
+      "source": "blind",
+      "externalId": "cmt-461770866",
+      "title": "ㅇㅇ 동태눈ㅋㅋ",
+      "excerpt": "영호는 아무에게도 반하지 않았네",
+      "author": "쌍**",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EC%95%84%EB%AC%B4%EC%97%90%EA%B2%8C%EB%8F%84-%EB%B0%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%98%EB%84%A4-20f65h0n#461770866",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T12:19:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:19:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1031939,7 +1031978,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T12:16:08+09:00"
+      "slowAt": "2026-11-19T12:19:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1049254,6 +1049293,7 @@
         "6700241",
         "6700243",
         "6700247",
+        "6700249",
         "6700250",
         "6700253",
         "6700263",
@@ -1049279,7 +1049319,8 @@
         "6700360",
         "6700365",
         "6700370",
-        "6700374"
+        "6700374",
+        "6700382"
       ]
     },
     "blind": {
