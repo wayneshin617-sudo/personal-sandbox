@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T07:01:56+00:00",
+  "updatedAt": "2026-11-19T07:03:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -1038333,6 +1038333,45 @@
       "firstSeenAt": "2026-11-19T07:01:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112407,
+      "source": "dc",
+      "externalId": "6700847",
+      "title": "정숙은 뚱뚱하고 관리안하는걸 넘어서서",
+      "excerpt": "",
+      "author": "야옹이똥구멍킁카",
+      "company": "",
+      "ip": "211.212",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700847&page=1",
+      "postedLabel": "16:02",
+      "postedAt": "2026-11-19T16:02:11+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:03:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112408,
+      "source": "dc",
+      "externalId": "cmt-11033793",
+      "title": "무겁게 든다고 다 좋아하는건 아니자나 ㅋ",
+      "excerpt": "영호 턱걸이 이지랄하네 ㅋㅋㅋ",
+      "author": "HIRO",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700845&page=1#cmt_11033793",
+      "postedLabel": "11.19 16:02:21",
+      "postedAt": "2026-11-19T16:02:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:03:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1038517,7 +1038556,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T16:00:24+09:00"
+      "slowAt": "2026-11-19T16:02:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1055997,7 +1056036,8 @@
         "6700823",
         "6700828",
         "6700832",
-        "6700843"
+        "6700843",
+        "6700845"
       ]
     },
     "blind": {
