@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T13:17:15+00:00",
+  "updatedAt": "2026-11-19T13:18:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1050936,6 +1050936,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T13:17:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 113044,
+      "source": "dc",
+      "externalId": "6701725",
+      "title": "순자는 미드가 얼마나 큰거냐",
+      "excerpt": "",
+      "author": "공",
+      "company": "",
+      "ip": "112.157",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6701725&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-11-19T22:17:28+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T13:18:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113045,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%AC%EC%9E%90%EB%8F%84-%ED%82%A4%EC%BB%A4%EC%95%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EB%A7%90-lk43ck1n",
+      "title": "여자도 키커야한다는 말",
+      "excerpt": "이렇게 보니까 키는 큰 상관 없는듯 순자 다음으로는 젤 작은 옥순이 나은거 같아 현숙이 직각어깨인데 너무 넓어서 남자같고 자세가 별로네..",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EB%8F%84-%ED%82%A4%EC%BB%A4%EC%95%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EB%A7%90-lk43ck1n",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T22:17:58+09:00",
+      "views": 31,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T13:18:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1051120,7 +1051158,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T22:14:58+09:00"
+      "slowAt": "2026-11-19T22:17:58+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1068816,6 +1068854,7 @@
         "6701554",
         "6701563",
         "6701565",
+        "6701568",
         "6701578",
         "6701580",
         "6701582",
