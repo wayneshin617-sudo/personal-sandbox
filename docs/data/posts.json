@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:21:23+00:00",
+  "updatedAt": "2026-11-19T05:22:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1035299,6 +1035299,64 @@
       "firstSeenAt": "2026-11-19T05:21:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112254,
+      "source": "qoo",
+      "externalId": "cmt-4411447840",
+      "title": "ㄹㅇ",
+      "excerpt": "어장치는 출연자들은 매번 노잼",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411414595#4411447840",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T13:21:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:22:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112255,
+      "source": "dc",
+      "externalId": "6700641",
+      "title": "아 ㅆㅂ 깜짝이야",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700641&page=1",
+      "postedLabel": "14:21",
+      "postedAt": "2026-11-19T14:21:43+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:22:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112256,
+      "source": "qoo",
+      "externalId": "4411534997",
+      "title": "영호 박지성이야 뭐야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411534997",
+      "postedLabel": "14:22",
+      "postedAt": "2026-11-19T14:22:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:22:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1065924,7 +1065982,8 @@
         "4411414595",
         "4411488865",
         "4411494640",
-        "4411524854"
+        "4411524854",
+        "4411534997"
       ]
     },
     "keep": "v2",
