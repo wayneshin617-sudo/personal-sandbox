@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T03:21:06+00:00",
+  "updatedAt": "2026-11-19T03:23:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -1031814,6 +1031814,25 @@
       "firstSeenAt": "2026-11-19T03:21:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112078,
+      "source": "qoo",
+      "externalId": "4411376860",
+      "title": "이번 남출들 왤케 자적자면모가 도드라지지",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411376860",
+      "postedLabel": "12:22",
+      "postedAt": "2026-11-19T12:22:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:23:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1031998,7 +1032017,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T12:19:34+09:00"
+      "slowAt": "2026-11-19T12:23:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1062334,7 +1062353,8 @@
         "4411257489",
         "4411300531",
         "4411315438",
-        "4411336385"
+        "4411336385",
+        "4411376860"
       ]
     },
     "keep": "v2",
