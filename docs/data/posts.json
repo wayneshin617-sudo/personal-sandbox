@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T06:22:09+00:00",
+  "updatedAt": "2026-11-19T06:24:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -1037125,6 +1037125,66 @@
       "firstSeenAt": "2026-11-19T06:22:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112346,
+      "source": "qoo",
+      "externalId": "cmt-4411537284",
+      "title": "4애에서 줄었슈",
+      "excerpt": "영호 박지성이야 뭐야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411534997#4411537284",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T14:23:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:24:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112347,
+      "source": "qoo",
+      "externalId": "cmt-4411539349",
+      "title": "걍 순자한테 매력 느끼는거도 모를.. 그냥 둘다 관심 없는거같음.. 걍 그나마 1순위 현숙이랑 본인 좋아해주는 순자 두명 두고서 고민하는척 하다가 결국엔 선택 안하실듯 ..ㅋㅋ..",
+      "excerpt": "영호는 걍 외모 이상형은 현숙 같은데 그래서 계속 픽했고 때마다.. 인텁도 보면 현숙에 조금 더 비중 있다는 식으로 하고 근데 막상 데이트를 하면",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411494640#4411539349",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T14:24:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:24:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112348,
+      "source": "blind",
+      "externalId": "cmt-461792888",
+      "title": "저런 덴 여행으로 가끔 가고 싶지, 살고 싶진 않음.",
+      "excerpt": "상철 집 절경이긴하다",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%A7%91-%EC%A0%88%EA%B2%BD%EC%9D%B4%EA%B8%B4%ED%95%98%EB%8B%A4-ib26jijf#461792888",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T15:24:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:24:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1037236,7 +1037296,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T15:20:38+09:00"
+      "slowAt": "2026-11-19T15:24:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1054764,7 +1054824,8 @@
         "6700727",
         "6700730",
         "6700731",
-        "6700744"
+        "6700744",
+        "6700752"
       ]
     },
     "blind": {
