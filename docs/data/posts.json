@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:01:23+00:00",
+  "updatedAt": "2026-11-19T05:02:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -1034665,6 +1034665,46 @@
       "firstSeenAt": "2026-11-19T05:01:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112222,
+      "source": "dc",
+      "externalId": "cmt-11033319",
+      "title": "결혼하면 어쩐다 저쩐다 말은 걸러라~ 결혼 전 까지는 그 사람이 어떨지 속단 말길. 해봐야 안다.",
+      "excerpt": "영호는 남자들이 더 선호함",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700480&page=2#cmt_11033319",
+      "postedLabel": "11.19 13:11:44",
+      "postedAt": "2026-11-19T13:11:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:02:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112223,
+      "source": "blind",
+      "externalId": "cmt-461782722",
+      "title": "한 백성이 광장에서 퀸에게 망신을 주면, 퀸이 속상하지 않겠어요?",
+      "excerpt": "현숙 눈물 해석해줘",
+      "author": "i*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EB%88%88%EB%AC%BC-%ED%95%B4%EC%84%9D%ED%95%B4%EC%A4%98-he7enthk#461782722",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T14:02:08+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:02:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1034849,7 +1034889,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T13:59:08+09:00"
+      "slowAt": "2026-11-19T14:02:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1052238,6 +1052278,7 @@
         "6700470",
         "6700472",
         "6700475",
+        "6700480",
         "6700483",
         "6700484",
         "6700486",
