@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T07:57:59+00:00",
+  "updatedAt": "2026-11-19T08:00:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -1040376,6 +1040376,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T07:57:59+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112510,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%B0%EC%95%A0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9A%94-2k8h5zrq",
+      "title": "연애는 어떻게 해요",
+      "excerpt": "남들 다 연애하는데 왜 나만 못하지 연애 어떻게 해요 사람 어떻게 좋아해요",
+      "author": "이*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9A%94-2k8h5zrq",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T16:59:42+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T08:00:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112511,
+      "source": "blind",
+      "externalId": "cmt-461805421",
+      "title": "어울리게 잘 입던데",
+      "excerpt": "현숙이 나이 90인가 91 아니냐? 옷을 왜 대딩처럼",
+      "author": "G***",
+      "company": "SK이노베이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EB%82%98%EC%9D%B4-90%EC%9D%B8%EA%B0%80-91-%EC%95%84%EB%8B%88%EB%83%90-%EC%98%B7%EC%9D%84-%EC%99%9C-%EB%8C%80%EB%94%A9%EC%B2%98%EB%9F%BC-l65t5nay#461805421",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T16:59:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:00:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1040560,7 +1040599,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T16:56:41+09:00"
+      "slowAt": "2026-11-19T16:59:42+09:00"
     },
     "dc": {
       "doneIds": [
