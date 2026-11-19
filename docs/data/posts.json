@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T08:19:07+00:00",
+  "updatedAt": "2026-11-19T08:21:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -1041183,6 +1041183,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T08:19:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112551,
+      "source": "qoo",
+      "externalId": "cmt-4411712015",
+      "title": "오 이거 사람마다 다르게 보는구나 난 2로 봤음! 자기가 봤을땐 5대5가 아닌것같은데 다른 한쪽을 안 놔준다",
+      "excerpt": "영수가 영호 현숙 순자 5대5라고 하니까 영철이 안믿어요 한게 무슨 의미야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411680702#4411712015",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T16:21:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:21:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1041367,7 +1041387,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T17:17:49+09:00"
+      "slowAt": "2026-11-19T17:20:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1058875,6 +1058895,7 @@
         "6700892",
         "6700896",
         "6700902",
+        "6700903",
         "6700912",
         "6700916",
         "6700918",
