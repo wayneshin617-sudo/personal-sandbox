@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:22:22+00:00",
+  "updatedAt": "2026-11-19T05:23:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -1035357,6 +1035357,106 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T05:22:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112257,
+      "source": "qoo",
+      "externalId": "cmt-4411448672",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영호 최종선택까지 이럴듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4410944653#4411448672",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T13:22:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:23:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112258,
+      "source": "dc",
+      "externalId": "cmt-11033349",
+      "title": "ㄹㅇ 깜놀했음 보통 1개도 겨우 함",
+      "excerpt": "영수도 턱걸이 ㅈㄴ 잘하는거",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700514&page=3#cmt_11033349",
+      "postedLabel": "11.19 13:24:09",
+      "postedAt": "2026-11-19T13:24:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:23:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112259,
+      "source": "blind",
+      "externalId": "cmt-461781459",
+      "title": "누나 나랑 하자..",
+      "excerpt": "투표글 고졸생산직 34하닉상철 vs 대졸 33행시광수 투표",
+      "author": "ľ*********",
+      "company": "현대자동차",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%A0%EC%A1%B8%EC%83%9D%EC%82%B0%EC%A7%81-34%ED%95%98%EB%8B%89%EC%83%81%EC%B2%A0-vs-%EB%8C%80%EC%A1%B8-33%ED%96%89%EC%8B%9C%EA%B4%91%EC%88%98-wno8ul35#461781459",
+      "postedLabel": "32분",
+      "postedAt": "2026-11-19T13:51:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:23:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112260,
+      "source": "blind",
+      "externalId": "cmt-461781538",
+      "title": "2",
+      "excerpt": "투표글 고졸생산직 34하닉상철 vs 대졸 33행시광수 투표",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%A0%EC%A1%B8%EC%83%9D%EC%82%B0%EC%A7%81-34%ED%95%98%EB%8B%89%EC%83%81%EC%B2%A0-vs-%EB%8C%80%EC%A1%B8-33%ED%96%89%EC%8B%9C%EA%B4%91%EC%88%98-wno8ul35#461781538",
+      "postedLabel": "31분",
+      "postedAt": "2026-11-19T13:52:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:23:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112261,
+      "source": "dc",
+      "externalId": "cmt-11033555",
+      "title": "힘들게 구한 레어닉임",
+      "excerpt": "아 ㅆㅂ 깜짝이야",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700641&page=1#cmt_11033555",
+      "postedLabel": "11.19 14:23:11",
+      "postedAt": "2026-11-19T14:23:11+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:23:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1035541,7 +1035641,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T14:20:07+09:00"
+      "slowAt": "2026-11-19T14:23:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1052965,7 +1053065,9 @@
         "6700621",
         "6700628",
         "6700630",
-        "6700635"
+        "6700635",
+        "6700638",
+        "6700641"
       ]
     },
     "blind": {
