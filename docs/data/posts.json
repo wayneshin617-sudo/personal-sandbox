@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T08:28:11+00:00",
+  "updatedAt": "2026-11-19T08:31:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -1041519,6 +1041519,46 @@
       "firstSeenAt": "2026-11-19T08:28:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112568,
+      "source": "dc",
+      "externalId": "cmt-11033885",
+      "title": "근데 여출들도 이해가 안되긴함 실제로 연애는 불가능하잖아 3달에 2번쯤 만나자고 하는데... 그게 연애임?",
+      "excerpt": "영호한테 불만 생길수밖에 없긴함",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700933&page=3#cmt_11033885",
+      "postedLabel": "11.19 16:35:58",
+      "postedAt": "2026-11-19T16:35:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:31:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112569,
+      "source": "blind",
+      "externalId": "cmt-461809339",
+      "title": "이틀남았다",
+      "excerpt": "그래서 34기 현커 누군데?",
+      "author": "l********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EB%9E%98%EC%84%9C-34%EA%B8%B0-%ED%98%84%EC%BB%A4-%EB%88%84%EA%B5%B0%EB%8D%B0-avzvlk5v#461809339",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T17:30:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:31:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1059219,6 +1059259,7 @@
         "6700923",
         "6700929",
         "6700932",
+        "6700933",
         "6700937",
         "6700941",
         "6700947",
