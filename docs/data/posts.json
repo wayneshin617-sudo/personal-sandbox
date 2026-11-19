@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T11:23:28+00:00",
+  "updatedAt": "2026-11-19T11:24:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -1046408,6 +1046408,64 @@
       "firstSeenAt": "2026-11-19T11:23:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112815,
+      "source": "blind",
+      "externalId": "cmt-461825732",
+      "title": "한번씩 뒷머리묶을때 섹기도 엄청남",
+      "excerpt": "순자는 진짜 여자력이 타 출연자들을 압살하네",
+      "author": "l*******",
+      "company": "POSCO",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%97%AC%EC%9E%90%EB%A0%A5%EC%9D%B4-%ED%83%80-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EC%9D%84-%EC%95%95%EC%82%B4%ED%95%98%EB%84%A4-4kmajb5n#461825732",
+      "postedLabel": "34분",
+      "postedAt": "2026-11-19T19:50:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T11:24:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112816,
+      "source": "qoo",
+      "externalId": "4411985885",
+      "title": "아니 버건디립 지적하는 장면 보는데 상철 입술이야말로",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411985885",
+      "postedLabel": "20:24",
+      "postedAt": "2026-11-19T20:24:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T11:24:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112817,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99-%EC%96%B4%EC%BC%80-%EC%9A%94%EB%A6%AC%EB%82%98-%EC%A0%95%EB%A6%AC%ED%95%9C%EB%B2%88%EC%9D%84%EC%95%88%ED%95%98%EB%83%90-bdtn2nv7",
+      "title": "현숙 어케 요리나 정리한번을안하냐",
+      "excerpt": "노처녀 100프로본다 낼모르40이",
+      "author": "l****",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%96%B4%EC%BC%80-%EC%9A%94%EB%A6%AC%EB%82%98-%EC%A0%95%EB%A6%AC%ED%95%9C%EB%B2%88%EC%9D%84%EC%95%88%ED%95%98%EB%83%90-bdtn2nv7",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T20:24:26+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T11:24:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1046519,7 +1046577,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T20:21:54+09:00"
+      "slowAt": "2026-11-19T20:24:26+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1077337,7 +1077395,8 @@
         "4411943733",
         "4411950519",
         "4411951322",
-        "4411965874"
+        "4411965874",
+        "4411985885"
       ]
     },
     "keep": "v2",
