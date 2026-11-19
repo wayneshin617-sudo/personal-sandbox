@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T00:52:10+00:00",
+  "updatedAt": "2026-11-19T00:54:47+00:00",
   "posts": [
     {
       "id": 149,
@@ -1028132,6 +1028132,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T00:52:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 111892,
+      "source": "blind",
+      "externalId": "cmt-461755370",
+      "title": "눈 낮추거나 퐁퐁해야할듯 능력은 있어서",
+      "excerpt": "어제 광수 웃겼던점 ㅋㅋ",
+      "author": "폭**",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EA%B4%91%EC%88%98-%EC%9B%83%EA%B2%BC%EB%8D%98%EC%A0%90-%E3%85%8B%E3%85%8B-5wovu7at#461755370",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T09:54:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T00:54:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1028316,7 +1028336,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T09:51:53+09:00"
+      "slowAt": "2026-11-19T09:54:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1058529,7 +1058549,8 @@
         "4410967236",
         "4410967978",
         "4410973122",
-        "4411010058"
+        "4411010058",
+        "4411181958"
       ]
     },
     "keep": "v2",
