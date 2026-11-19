@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T08:58:29+00:00",
+  "updatedAt": "2026-11-19T08:59:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -1042133,6 +1042133,106 @@
       "firstSeenAt": "2026-11-19T08:58:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112599,
+      "source": "blind",
+      "externalId": "cmt-461805958",
+      "title": "거울을 봐봐 왜 못하는지;",
+      "excerpt": "연애는 어떻게 해요",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9A%94-2k8h5zrq#461805958",
+      "postedLabel": "56분",
+      "postedAt": "2026-11-19T17:03:40+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112600,
+      "source": "blind",
+      "externalId": "cmt-461806005",
+      "title": "아 그게 문젠건가 ?",
+      "excerpt": "연애는 어떻게 해요",
+      "author": "이******* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9A%94-2k8h5zrq#461806005",
+      "postedLabel": "55분",
+      "postedAt": "2026-11-19T17:04:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112601,
+      "source": "blind",
+      "externalId": "cmt-461807791",
+      "title": "그렇겠죠 ㅜㅜ ?",
+      "excerpt": "연애는 어떻게 해요",
+      "author": "이******* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9A%94-2k8h5zrq#461807791",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-19T17:17:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112602,
+      "source": "blind",
+      "externalId": "cmt-461807753",
+      "title": "그냥 사회생활하다보면 자연스레 생겨",
+      "excerpt": "연애는 어떻게 해요",
+      "author": "리**",
+      "company": "LS일렉트릭",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9A%94-2k8h5zrq#461807753",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-19T17:17:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112603,
+      "source": "blind",
+      "externalId": "cmt-461812492",
+      "title": "내가 남을 좋아하고 사랑하는 것도 그럴려고 노력해야 되는거임 사랑이 자동으로 뿅하는거 다 구라임 환상에서 깨어나세여",
+      "excerpt": "연애는 어떻게 해요",
+      "author": "!*******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9A%94-2k8h5zrq#461812492",
+      "postedLabel": "4분",
+      "postedAt": "2026-11-19T17:55:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1042244,7 +1042344,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T17:56:41+09:00"
+      "slowAt": "2026-11-19T17:59:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1059848,6 +1059948,7 @@
         "6701005",
         "6701009",
         "6701014",
+        "6701018",
         "6701031",
         "6701047",
         "6701054",
@@ -1059865,7 +1059966,8 @@
         "6701108",
         "6701118",
         "6701127",
-        "6701135"
+        "6701135",
+        "6701138"
       ]
     },
     "blind": {
@@ -1060818,6 +1060920,7 @@
         "/kr/post/%EB%82%98%EC%86%94-%EC%8B%A0%EC%B2%AD%ED%96%88%EB%8A%94%EB%8D%B0-%EC%88%98%EC%8B%9C%EC%9D%B8%EC%82%AC%EB%A1%9C-6%EA%B8%89-%EB%A7%89-%EC%8A%B9%EC%A7%84%ED%96%88%EA%B1%B0%EB%93%A0-t1cwe03x",
         "/kr/post/%EB%82%98%EC%86%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-ott-%EC%97%86%EC%A7%80%E3%85%A0%E3%85%A0-q2eug5n3",
         "/kr/post/%EB%82%98%EC%86%94-%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-%EB%82%98%EC%99%94%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4%EB%8A%94-%EB%B0%94%EB%9E%A8%EC%9D%B4-%EB%B0%A9%EA%B8%88-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%90-yxk0q1f1",
+        "/kr/post/%EB%82%98%EC%86%94-%EC%95%84%EC%A7%81%EB%8B%A4%EC%95%88%EB%B4%A4%EB%8A%94%EB%8D%B0-%ED%98%84%EC%88%99%EC%99%9C%EC%9A%B8%EC%96%B4-flud6fc0",
         "/kr/post/%EB%82%98%EC%86%94-%EC%95%88%EB%B3%B4%EB%8A%94-%EB%82%98%EC%95%8C%EB%AA%BB%EC%9D%B8%EB%8D%B0-in7opcoc",
         "/kr/post/%EB%82%98%EC%86%94-%EC%95%A0%EC%B2%AD%EC%9E%90-%EC%A4%91%EC%97%90-wcfkt1a0",
         "/kr/post/%EB%82%98%EC%86%94-%EC%96%B8%EC%A0%9C-v8ufqkj2",
