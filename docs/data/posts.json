@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T08:12:04+00:00",
+  "updatedAt": "2026-11-19T08:13:02+00:00",
   "posts": [
     {
       "id": 149,
@@ -1040947,6 +1040947,64 @@
       "comments": 0,
       "firstSeenAt": "2026-11-19T08:12:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112539,
+      "source": "qoo",
+      "externalId": "cmt-4411701415",
+      "title": "그 정도로'너 흑화 됐구나' 할 정도면 얼마나 순둥한거냐.... 이런 사람을 가지고..... 맘 아프다 흑...",
+      "excerpt": "현숙 영숙이랑 대화할 때 뭔가 귀엽다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411612657#4411701415",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T16:12:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:13:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112540,
+      "source": "qoo",
+      "externalId": "4411770499",
+      "title": "영호 현숙 산책 거절 안한거같음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411770499",
+      "postedLabel": "17:12",
+      "postedAt": "2026-11-19T17:12:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:13:02+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112541,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%9D%B8%EC%8A%A4%ED%83%80-4imi1gyv",
+      "title": "근데 34기는 왜 인스타",
+      "excerpt": "아직도 공개가 안되는거야? 다른 기수는 방송나오자마자 공개되던데 여기는 왜 한명도 인스타가 공개 안돼?",
+      "author": "E*****",
+      "company": "농심",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%9D%B8%EC%8A%A4%ED%83%80-4imi1gyv",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T17:12:46+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T08:13:02+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1058632,6 +1058690,7 @@
         "6700867",
         "6700876",
         "6700877",
+        "6700878",
         "6700881",
         "6700892",
         "6700902",
@@ -1063218,6 +1063277,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%AA%BB%EB%B4%90%EC%A3%BC%EA%B2%A0%EB%8B%A4-%EA%B0%9C%EC%A7%9C%EC%B9%98%EB%8A%94-%EC%83%89%ED%9E%88-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-7y7hw56d",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%AC%B4%EC%8A%A8-%EA%B3%B5%EB%AD%94%EC%9D%B4%EC%95%BC-2rbrsz5d",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%AC%B4%EC%8A%A8-%EC%A7%81%EB%A0%AC%EA%B3%B5%EB%AD%94%EC%9D%B4%EC%95%BC-2rbrsz5d",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EB%AD%90%EC%95%BC%EC%A7%84%EC%A7%9C-wwlafxgq",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%AD%90-%ED%95%9C%EA%B1%B8%EA%B9%8C-scwf52vh",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%AD%94%EA%B0%80-%EC%95%A0%EC%9E%94%ED%95%B4-y4vvkbal",
         "/kr/post/%EC%98%81%EC%B2%A0-%EB%AF%B8%EC%95%BC%EC%BD%94%EC%A7%80%EB%A7%88-%EC%97%AC%ED%96%89-%EC%A7%84%EC%A7%9C%EC%9D%BC%EA%B9%8C%EC%9A%94-is52u0mz",
@@ -1071709,7 +1071769,8 @@
         "4411680702",
         "4411720679",
         "4411726175",
-        "4411761015"
+        "4411761015",
+        "4411770499"
       ]
     },
     "keep": "v2",
