@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T02:28:58+00:00",
+  "updatedAt": "2026-11-19T02:29:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -1030209,6 +1030209,85 @@
       "firstSeenAt": "2026-11-19T02:28:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111997,
+      "source": "blind",
+      "externalId": "cmt-461762517",
+      "title": "사귀기보다 소개팅녀 이야기 잔뜩하는 느낌...",
+      "excerpt": "광수 전여친 거리는게 더 작위적",
+      "author": "망*",
+      "company": "SK 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%A0%84%EC%97%AC%EC%B9%9C-%EA%B1%B0%EB%A6%AC%EB%8A%94%EA%B2%8C-%EB%8D%94-%EC%9E%91%EC%9C%84%EC%A0%81-66h8uce8#461762517",
+      "postedLabel": "30분",
+      "postedAt": "2026-11-19T10:59:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:29:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111998,
+      "source": "blind",
+      "externalId": "cmt-461765220",
+      "title": "없을듯… 전여친 글로 배운티나….",
+      "excerpt": "광수 전여친 거리는게 더 작위적",
+      "author": "스**",
+      "company": "GSK Korea",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%A0%84%EC%97%AC%EC%B9%9C-%EA%B1%B0%EB%A6%AC%EB%8A%94%EA%B2%8C-%EB%8D%94-%EC%9E%91%EC%9C%84%EC%A0%81-66h8uce8#461765220",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-19T11:23:40+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:29:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111999,
+      "source": "qoo",
+      "externalId": "4411315438",
+      "title": "이번기수 스포 뭐야?????? 댓스포주의",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411315438",
+      "postedLabel": "11:29",
+      "postedAt": "2026-11-19T11:29:00+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:29:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112000,
+      "source": "blind",
+      "externalId": "cmt-461765817",
+      "title": "저런피부여자 거의보기힘들다",
+      "excerpt": "영수랑 비슷한 피부",
+      "author": "l*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%9C-%ED%94%BC%EB%B6%80-qq0u2bft#461765817",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T11:29:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:29:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1030320,7 +1030399,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T11:26:41+09:00"
+      "slowAt": "2026-11-19T11:29:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1060676,7 +1060755,8 @@
         "4411181958",
         "4411242216",
         "4411257489",
-        "4411300531"
+        "4411300531",
+        "4411315438"
       ]
     },
     "keep": "v2",
