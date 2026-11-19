@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:11:06+00:00",
+  "updatedAt": "2026-11-19T14:12:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1053857,6 +1053857,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T14:11:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 113193,
+      "source": "qoo",
+      "externalId": "4412176770",
+      "title": "진짜 아무도 안버는구나..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4412176770",
+      "postedLabel": "23:11",
+      "postedAt": "2026-11-19T23:11:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:12:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113194,
+      "source": "dc",
+      "externalId": "6702052",
+      "title": "진짜 술 작작 처먹지",
+      "excerpt": "",
+      "author": "디오니소스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702052&page=1",
+      "postedLabel": "23:11",
+      "postedAt": "2026-11-19T23:11:30+09:00",
+      "views": 17,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:12:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1053968,7 +1054006,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T23:09:32+09:00"
+      "slowAt": "2026-11-19T23:12:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1071773,6 +1071811,7 @@
         "6701696",
         "6701700",
         "6701702",
+        "6701709",
         "6701712",
         "6701713",
         "6701720",
@@ -1071802,7 +1071841,9 @@
         "6702002",
         "6702022",
         "6702032",
-        "6702034"
+        "6702034",
+        "6702039",
+        "6702046"
       ]
     },
     "blind": {
@@ -1085006,7 +1085047,8 @@
         "4412141532",
         "4412169505",
         "4412169660",
-        "4412172062"
+        "4412172062",
+        "4412176770"
       ]
     },
     "keep": "v2",
