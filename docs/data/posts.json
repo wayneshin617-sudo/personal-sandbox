@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:54:23+00:00",
+  "updatedAt": "2026-11-19T05:55:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -1036132,6 +1036132,45 @@
       "firstSeenAt": "2026-11-19T05:54:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112296,
+      "source": "dc",
+      "externalId": "cmt-11033642",
+      "title": "감히 천룡인에 대해 의문을 품다니 ㅎㄷㄷㄷㄷㄷ",
+      "excerpt": "수능 보니 이분은 정말 대단함",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700701&page=1#cmt_11033642",
+      "postedLabel": "11.19 14:54:34",
+      "postedAt": "2026-11-19T14:54:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:55:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112297,
+      "source": "dc",
+      "externalId": "6700703",
+      "title": "영숙이 쌘케가 아니라 동네 특성이야",
+      "excerpt": "",
+      "author": "놈짱",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700703&page=1",
+      "postedLabel": "14:54",
+      "postedAt": "2026-11-19T14:54:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:55:34+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1053755,7 +1053794,8 @@
         "6700665",
         "6700667",
         "6700671",
-        "6700677"
+        "6700677",
+        "6700701"
       ]
     },
     "blind": {
