@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T06:46:04+00:00",
+  "updatedAt": "2026-11-19T06:47:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -1037799,6 +1037799,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T06:46:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112380,
+      "source": "blind",
+      "externalId": "cmt-461795948",
+      "title": "문신녀다, 가능성을 열어둘 필요가 있다",
+      "excerpt": "투표글 이거 수술 아님?? 투표",
+      "author": "g*****",
+      "company": "KCC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EA%B1%B0-%EC%88%98%EC%88%A0-%EC%95%84%EB%8B%98-rnbcc5ip#461795948",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T15:47:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:47:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1055454,7 +1055474,8 @@
         "6700791",
         "6700797",
         "6700801",
-        "6700808"
+        "6700808",
+        "6700809"
       ]
     },
     "blind": {
