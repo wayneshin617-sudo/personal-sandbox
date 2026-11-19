@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T03:54:12+00:00",
+  "updatedAt": "2026-11-19T03:55:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -1032681,6 +1032681,45 @@
       "firstSeenAt": "2026-11-19T03:54:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112122,
+      "source": "qoo",
+      "externalId": "4411410734",
+      "title": "영호 왜 자꾸 5:5 라고 해??",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411410734",
+      "postedLabel": "12:54",
+      "postedAt": "2026-11-19T12:54:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:55:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112123,
+      "source": "dc",
+      "externalId": "cmt-11033269",
+      "title": "자신이 나솔을 보는지 피지컬100을 보는지 헷갈려 하는 중",
+      "excerpt": "영수 빨아제끼는 애들은 걸러라",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700466&page=1#cmt_11033269",
+      "postedLabel": "11.19 12:54:31",
+      "postedAt": "2026-11-19T12:54:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:55:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1032792,7 +1032831,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T12:51:43+09:00"
+      "slowAt": "2026-11-19T12:55:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1050161,6 +1050200,7 @@
         "6700178",
         "6700181",
         "6700188",
+        "6700192",
         "6700194",
         "6700196",
         "6700197",
@@ -1050230,7 +1050270,8 @@
         "6700448",
         "6700457",
         "6700460",
-        "6700463"
+        "6700463",
+        "6700466"
       ]
     },
     "blind": {
@@ -1063231,7 +1063272,8 @@
         "4411300531",
         "4411315438",
         "4411336385",
-        "4411376860"
+        "4411376860",
+        "4411410734"
       ]
     },
     "keep": "v2",
