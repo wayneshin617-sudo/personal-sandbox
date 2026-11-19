@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T03:39:10+00:00",
+  "updatedAt": "2026-11-19T03:41:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -1032305,6 +1032305,26 @@
       "firstSeenAt": "2026-11-19T03:39:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112103,
+      "source": "dc",
+      "externalId": "cmt-11032995",
+      "title": "외모가 큼 솔직히 - dc App",
+      "excerpt": "영철이 나오는 부분은 왜 다 재밌냐",
+      "author": "낙타가낙타를낙타",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700161&page=5#cmt_11032995",
+      "postedLabel": "11.19 11:03:09",
+      "postedAt": "2026-11-19T11:03:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:41:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1049776,6 +1049796,7 @@
         "6700149",
         "6700155",
         "6700160",
+        "6700161",
         "6700162",
         "6700168",
         "6700169",
