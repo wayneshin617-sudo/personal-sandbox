@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:09:50+00:00",
+  "updatedAt": "2026-11-19T14:11:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -1053818,6 +1053818,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-19T14:09:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 113191,
+      "source": "blind",
+      "externalId": "cmt-461849871",
+      "title": "블라자너 ㅋㅋㅋㅋ",
+      "excerpt": "모솔들만 여기있나보네",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AA%A8%EC%86%94%EB%93%A4%EB%A7%8C-%EC%97%AC%EA%B8%B0%EC%9E%88%EB%82%98%EB%B3%B4%EB%84%A4-8yiq76dg#461849871",
+      "postedLabel": "37분",
+      "postedAt": "2026-11-19T22:33:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:11:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113192,
+      "source": "dc",
+      "externalId": "6702037",
+      "title": "라트비아는 대체 어떤 곳이냐?",
+      "excerpt": "",
+      "author": "디오니소스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702037&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-11-19T23:09:46+09:00",
+      "views": 32,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:11:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1054002,7 +1054041,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T23:08:17+09:00"
+      "slowAt": "2026-11-19T23:10:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1071761,7 +1071800,9 @@
         "6701957",
         "6701997",
         "6702002",
-        "6702022"
+        "6702022",
+        "6702032",
+        "6702034"
       ]
     },
     "blind": {
@@ -1073277,6 +1073318,7 @@
         "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98%ED%95%9C%ED%85%8C-%EC%84%A0%ED%83%9D%EC%A7%80%EA%B0%80-%EC%9E%88%EC%9D%8C-%EB%88%84%EA%B5%AC-%EA%B3%A0%EB%A5%BC%EA%BA%BC-%EA%B0%99%EC%9D%8C-ninlz2rd",
         "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98-%EB%82%B4%EC%9A%A9-%EB%AA%A8%EB%A5%B4%EA%B3%A0%EB%B3%B4%EB%8A%94%EA%B1%B0-%EB%A7%9E%EB%83%90-53d0qebl",
         "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98-%EB%94%B1-%EB%B4%90%EB%8F%84-%EB%88%88%EC%8D%B9%EB%AC%B8%EC%8B%A0-%ED%96%88%EA%B5%AC%EB%A7%8C-dma3gxbo",
+        "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98-%EC%98%A4%EB%8A%98-z8ofkx4o",
         "/kr/post/%EB%8D%B0%ED%94%84%EC%BD%98-%EC%99%9C-%EC%98%81%EC%B2%A0%EB%B3%B4%EA%B3%A0-%EC%9E%84%EC%8B%9C%EC%99%84%EC%9D%B4-w70ktiup",
         "/kr/post/%EB%8D%B1%EC%8A%A4%EB%8A%94-%EB%AC%B8%EC%8B%A0%EC%B6%A9%EC%9D%B8%EB%8D%B0-%EC%99%9C-%EC%A2%8B%EC%95%84%ED%95%B4-gqjqrvq4",
         "/kr/post/%EB%8D%B1%EC%8A%A4%EC%B2%98%EB%9F%BC-%EB%8F%8C%ED%8C%8C%ED%95%B4%EB%82%98%EA%B0%80%EB%A9%B4-%EB%90%98%EC%A7%80%EC%95%8A%EC%9D%84%EA%B9%8C-5ql3dbvh",
