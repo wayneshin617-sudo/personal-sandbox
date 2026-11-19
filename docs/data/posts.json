@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T12:25:15+00:00",
+  "updatedAt": "2026-11-19T12:26:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -1048695,6 +1048695,46 @@
       "firstSeenAt": "2026-11-19T12:25:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112931,
+      "source": "blind",
+      "externalId": "cmt-461830821",
+      "title": "농식이나 34영호",
+      "excerpt": "17영식 20영식 27상철 31경수 34영호",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/17%EC%98%81%EC%8B%9D-20%EC%98%81%EC%8B%9D-27%EC%83%81%EC%B2%A0-31%EA%B2%BD%EC%88%98-34%EC%98%81%ED%98%B8-qv6tms14#461830821",
+      "postedLabel": "55분",
+      "postedAt": "2026-11-19T20:30:58+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:26:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112932,
+      "source": "blind",
+      "externalId": "cmt-461837301",
+      "title": "34영호",
+      "excerpt": "17영식 20영식 27상철 31경수 34영호",
+      "author": "!******",
+      "company": "셀트리온제약",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/17%EC%98%81%EC%8B%9D-20%EC%98%81%EC%8B%9D-27%EC%83%81%EC%B2%A0-31%EA%B2%BD%EC%88%98-34%EC%98%81%ED%98%B8-qv6tms14#461837301",
+      "postedLabel": "8분",
+      "postedAt": "2026-11-19T21:17:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:26:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1066555,7 +1066595,8 @@
         "6701565",
         "6701578",
         "6701580",
-        "6701582"
+        "6701582",
+        "6701587"
       ]
     },
     "blind": {
