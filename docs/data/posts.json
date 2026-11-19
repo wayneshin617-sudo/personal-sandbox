@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:14:56+00:00",
+  "updatedAt": "2026-11-19T14:16:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -1053953,6 +1053953,84 @@
       "comments": 0,
       "firstSeenAt": "2026-11-19T14:14:56+00:00",
       "isSeed": false
+    },
+    {
+      "id": 113198,
+      "source": "dc",
+      "externalId": "6702081",
+      "title": "아 진짜 싫다",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702081&page=1",
+      "postedLabel": "23:14",
+      "postedAt": "2026-11-19T23:14:57+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:16:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113199,
+      "source": "dc",
+      "externalId": "6702084",
+      "title": "옷 찢어지는준ㆍ",
+      "excerpt": "",
+      "author": "디오니소스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702084&page=1",
+      "postedLabel": "23:15",
+      "postedAt": "2026-11-19T23:15:03+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:16:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113200,
+      "source": "dc",
+      "externalId": "cmt-11034791",
+      "title": "사람 자체는 괜찮은듯 - dc App",
+      "excerpt": "레슬링은 매력이 없어서 그렇지 저기서 젤 괜찮지 않음?",
+      "author": "디오니소스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702082&page=1#cmt_11034791",
+      "postedLabel": "11.19 23:15:25",
+      "postedAt": "2026-11-19T23:15:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:16:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113201,
+      "source": "blind",
+      "externalId": "cmt-461856788",
+      "title": "영철도 영자한테 거절 안 하잖아ㅋㅋ",
+      "excerpt": "근데 영철 영호뒷담화는 어느정도 맞는말아니야?",
+      "author": "노****",
+      "company": "다이퀘스트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8%EB%92%B7%EB%8B%B4%ED%99%94%EB%8A%94-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84-%EB%A7%9E%EB%8A%94%EB%A7%90%EC%95%84%EB%8B%88%EC%95%BC-hnysq74y#461856788",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:15:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:16:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1054137,7 +1054215,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T23:13:23+09:00"
+      "slowAt": "2026-11-19T23:15:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1071904,7 +1071982,9 @@
         "6702039",
         "6702046",
         "6702071",
-        "6702079"
+        "6702075",
+        "6702079",
+        "6702082"
       ]
     },
     "blind": {
@@ -1072493,6 +1072573,7 @@
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%98%84%EC%88%99-%EC%98%81%EC%9E%90%EB%95%8C-fz3e6um0",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%97%86%EC%97%88%EC%96%B4%EB%8F%84-%EC%98%81%ED%98%B8-%ED%98%84%EC%88%99-%EC%9E%98-%EC%95%88%EB%90%90%EC%9D%84-%EA%B2%83-%EA%B0%99%EC%9D%8C-ukox0la2",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%98%81%EC%9E%90-%EB%91%98-%EB%8B%A4-%EC%A7%91%EC%B0%A9-%EC%A9%94-%EA%B1%B0-%EA%B0%99%EC%95%84%EC%84%9C-mzorjqdg",
+        "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8%EB%92%B7%EB%8B%B4%ED%99%94%EB%8A%94-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84-%EB%A7%9E%EB%8A%94%EB%A7%90%EC%95%84%EB%8B%88%EC%95%BC-hnysq74y",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%9A%95%ED%95%98%EA%B3%A0-%EC%8B%A4%EB%93%9C%EC%B9%98%EA%B3%A0-%EC%97%AC%EA%B8%B0%EC%84%9C-%EC%95%94%EB%A7%8C-%EC%9A%B0%EB%A6%AC%EB%81%BC%EB%A6%AC-%EC%8B%B8%EC%9B%8C%EB%B4%A4%EC%9E%90-z05dt8cp",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%9D%98%EC%99%B8%EB%A1%9C-%EC%96%B4%EB%A6%B0%EA%B2%8C-%EC%8B%A0%EA%B8%B0%ED%95%98%EB%84%A4-ylwvdsuv",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%B2%A0-%EC%B0%A8-%EB%84%A4%EB%B9%84-%EC%98%B5%EC%85%98%EC%97%86%EB%8A%94%EC%B0%A8%EC%9D%B8%EB%8D%B0-%ED%9C%B4%EB%8C%80%ED%8F%B0-%EA%B1%B0%EC%B9%98%EB%8C%80%EA%B9%8C%EC%A7%80-%EC%97%86%EB%8A%94%EA%B2%8C-%EB%A7%90%EC%9D%B4%EB%90%98%EB%82%98-8lo37eia",
