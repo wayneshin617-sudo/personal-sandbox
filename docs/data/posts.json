@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T07:00:40+00:00",
+  "updatedAt": "2026-11-19T07:01:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -1038294,6 +1038294,45 @@
       "firstSeenAt": "2026-11-19T07:00:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112405,
+      "source": "dc",
+      "externalId": "6700844",
+      "title": "4일차까지는 어장질 아니지 않냐?",
+      "excerpt": "",
+      "author": "HIRO",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700844&page=1",
+      "postedLabel": "16:00",
+      "postedAt": "2026-11-19T16:00:45+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:01:56+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112406,
+      "source": "dc",
+      "externalId": "cmt-11033788",
+      "title": "안보여",
+      "excerpt": "옥순이도 상당히 있음",
+      "author": "HIRO",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700843&page=1#cmt_11033788",
+      "postedLabel": "11.19 16:01:29",
+      "postedAt": "2026-11-19T16:01:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:01:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1038405,7 +1038444,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T15:58:11+09:00"
+      "slowAt": "2026-11-19T16:01:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1055957,7 +1055996,8 @@
         "6700822",
         "6700823",
         "6700828",
-        "6700832"
+        "6700832",
+        "6700843"
       ]
     },
     "blind": {
