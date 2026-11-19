@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T20:58:39+00:00",
+  "updatedAt": "2026-11-19T21:08:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -1058283,6 +1058283,25 @@
       "firstSeenAt": "2026-11-19T20:58:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113417,
+      "source": "qoo",
+      "externalId": "4412340585",
+      "title": "근데 순자 립지적 받고 담날 립 바꾼거 귀엽네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4412340585",
+      "postedLabel": "06:08",
+      "postedAt": "2026-11-20T06:08:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T21:08:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1058394,7 +1058413,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T06:05:39+09:00"
+      "slowAt": "2026-11-20T06:08:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1089599,7 +1089618,8 @@
         "4412218933",
         "4412220494",
         "4412254986",
-        "4412326186"
+        "4412326186",
+        "4412340585"
       ]
     },
     "keep": "v2",
