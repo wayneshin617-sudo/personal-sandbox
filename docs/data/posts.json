@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T07:52:59+00:00",
+  "updatedAt": "2026-11-19T07:53:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -1039980,6 +1039980,64 @@
       "firstSeenAt": "2026-11-19T07:52:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112490,
+      "source": "qoo",
+      "externalId": "cmt-4411674458",
+      "title": "아무도 맘에 없어보임",
+      "excerpt": "영호 너무한다 영철이 현숙한테 막 대할 때 나중에라도 같이 나가자고 하던가",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411664123#4411674458",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T15:53:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:53:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112491,
+      "source": "dc",
+      "externalId": "6700999",
+      "title": "이 사람 지금 라이브중인데",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700999&page=1",
+      "postedLabel": "16:52",
+      "postedAt": "2026-11-19T16:52:51+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:53:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112492,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-djm5s70l",
+      "title": "순자",
+      "excerpt": "학교 궁금하다 아산 학벌 많이보지?",
+      "author": "i*********",
+      "company": "대상",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-djm5s70l",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T16:53:41+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T07:53:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1040164,7 +1040222,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T16:50:41+09:00"
+      "slowAt": "2026-11-19T16:53:41+09:00"
     },
     "dc": {
       "doneIds": [
