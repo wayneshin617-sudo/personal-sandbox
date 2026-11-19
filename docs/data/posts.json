@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T10:45:56+00:00",
+  "updatedAt": "2026-11-19T10:49:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -1045543,6 +1045543,26 @@
       "firstSeenAt": "2026-11-19T10:45:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112771,
+      "source": "blind",
+      "externalId": "cmt-461825577",
+      "title": "필살기쓴거지",
+      "excerpt": "옥순 왜? 존재감 적지",
+      "author": "l********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%99%9C-%EC%A1%B4%EC%9E%AC%EA%B0%90-%EC%A0%81%EC%A7%80-tucnnwwp#461825577",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T19:49:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T10:49:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1045727,7 +1045747,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T19:45:41+09:00"
+      "slowAt": "2026-11-19T19:49:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1063333,7 +1063353,8 @@
         "6701300",
         "6701307",
         "6701313",
-        "6701323"
+        "6701323",
+        "6701333"
       ]
     },
     "blind": {
