@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:11:23+00:00",
+  "updatedAt": "2026-11-19T05:13:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -1035041,6 +1035041,46 @@
       "firstSeenAt": "2026-11-19T05:11:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112241,
+      "source": "dc",
+      "externalId": "cmt-11033490",
+      "title": "ㅈㄹ 똥싸네 ㅈ같이 태어났으면 10-20대도 ㅈ같은 못이고 골격 좋게 태어나고, 30-40대까지관리했으면 이쁜 몸이지",
+      "excerpt": "사실 30~40대 한국인 중에 몸매 좋은 사람 거의 없지",
+      "author": "00",
+      "company": "",
+      "ip": "211.241",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700621&page=1#cmt_11033490",
+      "postedLabel": "11.19 14:12:44",
+      "postedAt": "2026-11-19T14:12:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:13:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112242,
+      "source": "blind",
+      "externalId": "cmt-461784057",
+      "title": "D",
+      "excerpt": "순자 키 몇일것같아?",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%ED%82%A4-%EB%AA%87%EC%9D%BC%EA%B2%83%EA%B0%99%EC%95%84-0frbf0lg#461784057",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T14:13:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:13:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1052641,7 +1052681,8 @@
         "6700594",
         "6700604",
         "6700605",
-        "6700615"
+        "6700615",
+        "6700621"
       ]
     },
     "blind": {
