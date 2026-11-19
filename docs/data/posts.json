@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:36:23+00:00",
+  "updatedAt": "2026-11-19T05:41:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -1035794,6 +1035794,26 @@
       "firstSeenAt": "2026-11-19T05:36:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112279,
+      "source": "dc",
+      "externalId": "cmt-11033617",
+      "title": "턱걸이 도전해볼 엄두도 못내는 몸뚱아리 가진 병신들이라 그럼",
+      "excerpt": "념글 영호 턱걸이로 도태들 발작하는거 우끼놐ㅋㅋ",
+      "author": "00",
+      "company": "",
+      "ip": "211.241",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700671&page=1#cmt_11033617",
+      "postedLabel": "11.19 14:40:56",
+      "postedAt": "2026-11-19T14:40:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:41:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1035978,7 +1035998,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T14:38:08+09:00"
+      "slowAt": "2026-11-19T14:41:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1053410,7 +1053430,8 @@
         "6700642",
         "6700655",
         "6700665",
-        "6700667"
+        "6700667",
+        "6700671"
       ]
     },
     "blind": {
