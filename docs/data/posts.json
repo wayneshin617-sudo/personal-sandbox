@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T04:48:23+00:00",
+  "updatedAt": "2026-11-19T04:49:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1034469,6 +1034469,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T04:48:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112212,
+      "source": "qoo",
+      "externalId": "4411488865",
+      "title": "걍 순자는 이상형 영호 하나만 바라보고 있어서 제대로 못 즐기는거 같아서 노잼 됨",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411488865",
+      "postedLabel": "13:48",
+      "postedAt": "2026-11-19T13:48:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T04:49:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1065062,7 +1065081,8 @@
         "4411336385",
         "4411376860",
         "4411410734",
-        "4411414595"
+        "4411414595",
+        "4411488865"
       ]
     },
     "keep": "v2",
