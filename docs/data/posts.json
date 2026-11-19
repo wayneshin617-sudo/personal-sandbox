@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:02:01+00:00",
+  "updatedAt": "2026-11-19T14:03:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -1053274,6 +1053274,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T14:02:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 113163,
+      "source": "blind",
+      "externalId": "cmt-461853975",
+      "title": "문신은 과학이야",
+      "excerpt": "순자는 자꾸 뭐 되는 것마냥",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%9E%90%EA%BE%B8-%EB%AD%90-%EB%90%98%EB%8A%94-%EA%B2%83%EB%A7%88%EB%83%A5-od1adpo5#461853975",
+      "postedLabel": "5분",
+      "postedAt": "2026-11-19T22:58:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:03:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113164,
+      "source": "dc",
+      "externalId": "6701976",
+      "title": "규홍아 프로그램 섭외할 때 고백공격 금지사항",
+      "excerpt": "",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6701976&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-11-19T23:02:37+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:03:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113165,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%ED%81%AC%EA%B8%B0%EA%B0%80-%ED%81%B0%EB%8D%B0-%EB%84%88%EB%AC%B4-%EB%98%A5%EA%B7%B8%EB%9E%80-%EA%B3%B5%EA%B0%99%EC%9E%96%EC%95%84-4ueihx5l",
+      "title": "근데 크기가 큰데 너무 똥그란 공같잖아",
+      "excerpt": "무게가 크면 퍼지거나 처지는데 보완하기 위해서 아마 좀 두껍게 지지하고 강하게 모아주면서 모아서 위로 올려서 고정해주는? 브라를 착용해야 할 거임 그래야 저 똥그란 핏이 나올 거임 근데 그거 감안해도 너무 동그래서 공같다",
+      "author": "i******",
+      "company": "어댑트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%ED%81%AC%EA%B8%B0%EA%B0%80-%ED%81%B0%EB%8D%B0-%EB%84%88%EB%AC%B4-%EB%98%A5%EA%B7%B8%EB%9E%80-%EA%B3%B5%EA%B0%99%EC%9E%96%EC%95%84-4ueihx5l",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:03:08+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T14:03:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113166,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%84%A0%EB%9F%89%ED%95%9C-%EC%9D%BC%EB%B3%B8%EC%9D%B8-%EA%B3%A0%EB%AC%B8%ED%95%98%EB%84%A4-jzloyxap",
+      "title": "영식이 선량한 일본인 고문하네",
+      "excerpt": "그냥 조신히 월드콘이나 먹다 들어가지 좀;;",
+      "author": "청****",
+      "company": "두산",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%84%A0%EB%9F%89%ED%95%9C-%EC%9D%BC%EB%B3%B8%EC%9D%B8-%EA%B3%A0%EB%AC%B8%ED%95%98%EB%84%A4-jzloyxap",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:03:09+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T14:03:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1053458,7 +1053535,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T23:00:26+09:00"
+      "slowAt": "2026-11-19T23:03:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1071145,6 +1071222,7 @@
         "6701509",
         "6701518",
         "6701519",
+        "6701520",
         "6701522",
         "6701526",
         "6701530",
