@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T07:36:50+00:00",
+  "updatedAt": "2026-11-19T07:37:50+00:00",
   "posts": [
     {
       "id": 149,
@@ -1039522,6 +1039522,46 @@
       "firstSeenAt": "2026-11-19T07:36:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112467,
+      "source": "qoo",
+      "externalId": "cmt-4411654327",
+      "title": "ㅇㅇ노잼맞쥐",
+      "excerpt": "점점 노잼되가는건 영호탓이 진짜 큰듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411242216#4411654327",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T15:37:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:37:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112468,
+      "source": "blind",
+      "externalId": "cmt-461802552",
+      "title": "뭐가됐든 극복이 안되면 헤어지면 되는거고 다시만나기로 결정을 했으면 받아들이고 그냥만나는거고 너가 선택한 정답이 없는 결과에 대해 같은글 계속 올리면서 불평 그만",
+      "excerpt": "연애",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0-timswlfx#461802552",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T16:37:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T07:37:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1039633,7 +1039673,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T16:34:33+09:00"
+      "slowAt": "2026-11-19T16:37:33+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1057209,7 +1057249,8 @@
         "6700929",
         "6700932",
         "6700937",
-        "6700941"
+        "6700941",
+        "6700947"
       ]
     },
     "blind": {
