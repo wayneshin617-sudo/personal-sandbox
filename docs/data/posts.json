@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T00:47:03+00:00",
+  "updatedAt": "2026-11-19T00:49:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -1028035,6 +1028035,45 @@
       "firstSeenAt": "2026-11-19T00:47:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111887,
+      "source": "dc",
+      "externalId": "6700056",
+      "title": "순자는 잘난남자 못만나",
+      "excerpt": "",
+      "author": "리토베르후번",
+      "company": "",
+      "ip": "118.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700056&page=1",
+      "postedLabel": "09:48",
+      "postedAt": "2026-11-19T09:48:21+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T00:49:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 111888,
+      "source": "blind",
+      "externalId": "cmt-461754631",
+      "title": "정숙한테 방송분량 이야기 농담이었다 라고 한게 거짓말이었다는게 드러남 ㅋㅋ",
+      "excerpt": "어제 광수 웃겼던점 ㅋㅋ",
+      "author": "i*********",
+      "company": "대홍기획",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EA%B4%91%EC%88%98-%EC%9B%83%EA%B2%BC%EB%8D%98%EC%A0%90-%E3%85%8B%E3%85%8B-5wovu7at#461754631",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T09:49:20+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T00:49:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1028219,7 +1028258,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T09:46:45+09:00"
+      "slowAt": "2026-11-19T09:49:20+09:00"
     },
     "dc": {
       "doneIds": [
