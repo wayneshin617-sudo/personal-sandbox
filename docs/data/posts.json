@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:20:06+00:00",
+  "updatedAt": "2026-11-19T14:21:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -1054190,6 +1054190,105 @@
       "firstSeenAt": "2026-11-19T14:20:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113210,
+      "source": "blind",
+      "externalId": "cmt-461848998",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋ 빈라덴이 나오다니",
+      "excerpt": "34기 영철이 찌질하기보다는",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%B0%8C%EC%A7%88%ED%95%98%EA%B8%B0%EB%B3%B4%EB%8B%A4%EB%8A%94-6kin503e#461848998",
+      "postedLabel": "52분",
+      "postedAt": "2026-11-19T22:29:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:21:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113211,
+      "source": "blind",
+      "externalId": "cmt-461849528",
+      "title": "빈라덴도 부잣집에서 자랐지만 상처도 많고 맘이 여린 면이 있다는 CIA보고서?가 생각나서 당연이 영철 빈라덴 비교하는 건 아니고 맘이 여리다고 해서 맘이 여린 빈라덴 생각나서 씀",
+      "excerpt": "34기 영철이 찌질하기보다는",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%B0%8C%EC%A7%88%ED%95%98%EA%B8%B0%EB%B3%B4%EB%8B%A4%EB%8A%94-6kin503e#461849528",
+      "postedLabel": "49분",
+      "postedAt": "2026-11-19T22:32:10+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:21:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113212,
+      "source": "blind",
+      "externalId": "cmt-461856693",
+      "title": "ㅋㅋㅋㅋㅋ 그것도 하닉한테 ㅋㅋㅋㅋㅋ",
+      "excerpt": "순자",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-2eqrqcr7#461856693",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-19T23:15:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:21:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113213,
+      "source": "dc",
+      "externalId": "6702109",
+      "title": "역시 아시아의 축구는 갓본이지",
+      "excerpt": "",
+      "author": "디오니소스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702109&page=1",
+      "postedLabel": "23:19",
+      "postedAt": "2026-11-19T23:19:57+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:21:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113214,
+      "source": "blind",
+      "externalId": "cmt-461857705",
+      "title": "이게 맞지",
+      "excerpt": "순자",
+      "author": "l******** 작성자",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-2eqrqcr7#461857705",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:21:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:21:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1054374,7 +1054473,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T23:18:31+09:00"
+      "slowAt": "2026-11-19T23:21:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1072145,7 +1072244,8 @@
         "6702075",
         "6702079",
         "6702082",
-        "6702094"
+        "6702094",
+        "6702108"
       ]
     },
     "blind": {
