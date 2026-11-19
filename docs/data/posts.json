@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:13:23+00:00",
+  "updatedAt": "2026-11-19T05:15:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1035081,6 +1035081,65 @@
       "firstSeenAt": "2026-11-19T05:13:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112243,
+      "source": "qoo",
+      "externalId": "4411524854",
+      "title": "황당..질투를 못나게 표출하는건 보기 참 힘들다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411524854",
+      "postedLabel": "14:15",
+      "postedAt": "2026-11-19T14:15:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:15:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112244,
+      "source": "dc",
+      "externalId": "cmt-11033507",
+      "title": "나 지금 40대인데?",
+      "excerpt": "사실 30~40대 한국인 중에 몸매 좋은 사람 거의 없지",
+      "author": "00",
+      "company": "",
+      "ip": "211.241",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700621&page=1#cmt_11033507",
+      "postedLabel": "11.19 14:15:01",
+      "postedAt": "2026-11-19T14:15:01+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:15:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112245,
+      "source": "blind",
+      "externalId": "cmt-461784233",
+      "title": "영철이 간만에 홈런쳐서 좋더라",
+      "excerpt": "영철거사 일침",
+      "author": "l*********",
+      "company": "파라다이스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EA%B1%B0%EC%82%AC-%EC%9D%BC%EC%B9%A8-0anp6b2p#461784233",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T14:15:08+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:15:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1035192,7 +1035251,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T14:12:08+09:00"
+      "slowAt": "2026-11-19T14:15:08+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1052683,7 +1052742,8 @@
         "6700604",
         "6700605",
         "6700615",
-        "6700621"
+        "6700621",
+        "6700628"
       ]
     },
     "blind": {
@@ -1065699,7 +1065759,8 @@
         "4411410734",
         "4411414595",
         "4411488865",
-        "4411494640"
+        "4411494640",
+        "4411524854"
       ]
     },
     "keep": "v2",
