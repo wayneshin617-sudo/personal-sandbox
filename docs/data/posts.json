@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:18:23+00:00",
+  "updatedAt": "2026-11-19T05:20:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -1035200,6 +1035200,65 @@
       "firstSeenAt": "2026-11-19T05:18:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112249,
+      "source": "blind",
+      "externalId": "cmt-461779933",
+      "title": "나이쓰",
+      "excerpt": "34영식 회사가어디야?",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%8B%9D-%ED%9A%8C%EC%82%AC%EA%B0%80%EC%96%B4%EB%94%94%EC%95%BC-mzhb8455#461779933",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-19T13:38:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:20:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112250,
+      "source": "dc",
+      "externalId": "6700637",
+      "title": "어제 방송에서 영철 하남자 포인트 지리긴하네 ㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700637&page=1",
+      "postedLabel": "14:19",
+      "postedAt": "2026-11-19T14:19:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:20:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112251,
+      "source": "dc",
+      "externalId": "cmt-11033535",
+      "title": "진짜 흙철이 갤에 온건가 ㅋㅋㅋㅋㅋ - dc App",
+      "excerpt": "노잼 원인을 왜자꾸 영호탓 하냐고?",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700630&page=1#cmt_11033535",
+      "postedLabel": "11.19 14:20:11",
+      "postedAt": "2026-11-19T14:20:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:20:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1035384,7 +1035443,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T14:17:07+09:00"
+      "slowAt": "2026-11-19T14:20:07+09:00"
     },
     "dc": {
       "doneIds": [
