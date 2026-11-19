@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T12:34:13+00:00",
+  "updatedAt": "2026-11-19T12:35:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1049150,6 +1049150,86 @@
       "firstSeenAt": "2026-11-19T12:34:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112954,
+      "source": "qoo",
+      "externalId": "cmt-4411997092",
+      "title": "ㄱㄴㄲ 여출들이 다 아까운데 뭐래",
+      "excerpt": "영호 좋아하는 사람들은 원인을 다 여출한테 찾음 ㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411761015#4411997092",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T20:35:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:35:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112955,
+      "source": "blind",
+      "externalId": "cmt-461836390",
+      "title": "이미 2회에서부터 떼서 없다더라",
+      "excerpt": "영철아",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%95%84-714gcn7i#461836390",
+      "postedLabel": "23분",
+      "postedAt": "2026-11-19T21:11:58+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:35:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112956,
+      "source": "blind",
+      "externalId": "cmt-461839724",
+      "title": "보기만해도 수명이 늘어난다는 연구결과가 있어",
+      "excerpt": "어마 어마하신 순자님..",
+      "author": "l********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EB%A7%88-%EC%96%B4%EB%A7%88%ED%95%98%EC%8B%A0-%EC%88%9C%EC%9E%90%EB%8B%98-76fs7cgz#461839724",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T21:34:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:35:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112957,
+      "source": "blind",
+      "externalId": "cmt-461839696",
+      "title": "사이즈가 넘 달라보이던데",
+      "excerpt": "순자",
+      "author": "일** 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-tnowf6ly#461839696",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T21:34:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:35:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1066995,6 +1067075,7 @@
         "6701442",
         "6701446",
         "6701454",
+        "6701456",
         "6701460",
         "6701466",
         "6701472",
@@ -1067020,7 +1067101,8 @@
         "6701587",
         "6701595",
         "6701598",
-        "6701604"
+        "6701604",
+        "6701611"
       ]
     },
     "blind": {
