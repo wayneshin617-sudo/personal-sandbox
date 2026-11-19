@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:27:10+00:00",
+  "updatedAt": "2026-11-19T14:28:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -1054584,6 +1054584,83 @@
       "firstSeenAt": "2026-11-19T14:27:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113230,
+      "source": "dc",
+      "externalId": "6702175",
+      "title": "해골이 난 부끄럽다",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702175&page=1",
+      "postedLabel": "23:27",
+      "postedAt": "2026-11-19T23:27:18+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:28:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113231,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84-%EC%99%9C%EC%A0%80%EB%9E%B0%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-7%EC%98%81%ED%98%B8-vljh0vrf",
+      "title": "아 왜저랰ㅋㅋㅋㅋㅋ 7영호",
+      "excerpt": "ㄴㅋㄴㄴㅋㅋㅋㅋ바보같애 ㅠㅠㅠ",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EC%99%9C%EC%A0%80%EB%9E%B0%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-7%EC%98%81%ED%98%B8-vljh0vrf",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:27:51+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-19T14:28:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113232,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%AF%A4%EB%90%98%EB%A9%B4-%EC%A7%9C%EC%A6%9D%EB%82%98%EB%84%A4-dg5y8pwi",
+      "title": "영호는 진짜 이쯤되면 짜증나네",
+      "excerpt": "그래서 누가 1순위인데 3일차인데 아직도 안정해짐? 이사람저사람 재니까 다른 남자들도 뭘 못하잖아 ㅡㅡ 아진짜 답답하네",
+      "author": "글***",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%AF%A4%EB%90%98%EB%A9%B4-%EC%A7%9C%EC%A6%9D%EB%82%98%EB%84%A4-dg5y8pwi",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:27:52+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T14:28:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113233,
+      "source": "blind",
+      "externalId": "cmt-461858829",
+      "title": "수치다",
+      "excerpt": "아 왜저랰ㅋㅋㅋㅋㅋ 7영호",
+      "author": "k*******",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84-%EC%99%9C%EC%A0%80%EB%9E%B0%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-7%EC%98%81%ED%98%B8-vljh0vrf#461858829",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:27:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:28:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1072509,6 +1072586,7 @@
         "6701729",
         "6701733",
         "6701739",
+        "6701745",
         "6701746",
         "6701751",
         "6701752",
@@ -1072542,7 +1072620,8 @@
         "6702082",
         "6702094",
         "6702108",
-        "6702136"
+        "6702136",
+        "6702163"
       ]
     },
     "blind": {
@@ -1075593,6 +1075672,7 @@
         "/kr/post/%EC%95%84-%EC%98%A4%EB%8A%98-%EC%97%84%EC%B2%AD-%EC%9E%AC%EB%B0%8C%EB%84%A4-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-v0nfcj8m",
         "/kr/post/%EC%95%84-%EC%98%A4%EB%8A%98-25%EA%B8%B0-%EA%B2%B0%ED%98%BC%EC%86%8C%EC%8B%9D%EB%93%A3%EA%B3%A0-lgjzlvi1",
         "/kr/post/%EC%95%84-%EC%98%A5%EC%88%98%EB%8B%88-%EB%84%98-%EA%B7%80%EC%97%AC%EC%9A%B4%EB%8D%B0-vt2htssq",
+        "/kr/post/%EC%95%84-%EC%99%9C%EC%A0%80%EB%9E%B0%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-7%EC%98%81%ED%98%B8-vljh0vrf",
         "/kr/post/%EC%95%84-%EC%99%9C-%ED%8F%AC%EC%BB%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%85%B8%EB%9E%98-%EB%B0%94%EA%BF%A8%EC%96%B4%E3%85%A0%E3%85%A0-0h04cpkl",
         "/kr/post/%EC%95%84-%EC%99%A4%EC%BC%80-%EB%B3%B4%EA%B8%B0%EA%B0%80-%ED%9E%98%EB%93%A4%EC%A7%80-%EC%98%81%EC%B2%A0%EC%9D%B4-nm35jax5",
         "/kr/post/%EC%95%84-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EA%B0%9C%EB%85%B8%EC%9E%BC-%EC%8A%A4%EB%A9%9C-%E3%85%A1%E3%85%A1-xlwb3xqu",
