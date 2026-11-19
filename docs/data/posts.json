@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T21:58:33+00:00",
+  "updatedAt": "2026-11-19T22:04:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -1058421,6 +1058421,45 @@
       "firstSeenAt": "2026-11-19T21:58:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113424,
+      "source": "qoo",
+      "externalId": "4412348087",
+      "title": "나솔 본기수 왜 유튭에 안 올라오지?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4412348087",
+      "postedLabel": "07:04",
+      "postedAt": "2026-11-20T07:04:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T22:04:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113425,
+      "source": "blind",
+      "externalId": "cmt-461885326",
+      "title": "사진으론 거기도 섰어?",
+      "excerpt": "영호ㅋ 남자네 남자였어",
+      "author": "P******",
+      "company": "서울교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%E3%85%8B-%EB%82%A8%EC%9E%90%EB%84%A4-%EB%82%A8%EC%9E%90%EC%98%80%EC%96%B4-fwy3inlv#461885326",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T07:04:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T22:04:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1089745,7 +1089784,8 @@
         "4412220494",
         "4412254986",
         "4412326186",
-        "4412340585"
+        "4412340585",
+        "4412348087"
       ]
     },
     "keep": "v2",
