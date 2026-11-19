@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T12:08:15+00:00",
+  "updatedAt": "2026-11-19T12:09:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1047962,6 +1047962,46 @@
       "firstSeenAt": "2026-11-19T12:08:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112894,
+      "source": "blind",
+      "externalId": "cmt-461835885",
+      "title": "ㅇㅇㅇ",
+      "excerpt": "투표글 누가더이뻐? 투표",
+      "author": "l*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9D%B4%EB%BB%90-21v3cr6t#461835885",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T21:08:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:09:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112895,
+      "source": "blind",
+      "externalId": "cmt-461835830",
+      "title": "이뿨?",
+      "excerpt": "투표글 누가더이뻐? 투표",
+      "author": "i********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9D%B4%EB%BB%90-21v3cr6t#461835830",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T21:08:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:09:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1048146,7 +1048186,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T21:05:59+09:00"
+      "slowAt": "2026-11-19T21:08:58+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1065806,7 +1065846,8 @@
         "6701518",
         "6701519",
         "6701526",
-        "6701532"
+        "6701532",
+        "6701534"
       ]
     },
     "blind": {
