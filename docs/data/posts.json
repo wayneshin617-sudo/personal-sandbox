@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T06:20:54+00:00",
+  "updatedAt": "2026-11-19T06:22:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -1037083,6 +1037083,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-19T06:20:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112344,
+      "source": "dc",
+      "externalId": "cmt-11033590",
+      "title": "ㅇㅇ",
+      "excerpt": "아 ㅆㅂ 깜짝이야",
+      "author": "송해나",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700641&page=2#cmt_11033590",
+      "postedLabel": "11.19 14:28:29",
+      "postedAt": "2026-11-19T14:28:29+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:22:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112345,
+      "source": "dc",
+      "externalId": "cmt-11033594",
+      "title": "엇 중복이 되네 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "아 ㅆㅂ 깜짝이야",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700641&page=2#cmt_11033594",
+      "postedLabel": "11.19 14:30:02",
+      "postedAt": "2026-11-19T14:30:02+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:22:09+00:00",
       "isSeed": false,
       "kind": "reply"
     }
