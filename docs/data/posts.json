@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T02:44:57+00:00",
+  "updatedAt": "2026-11-19T02:45:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -1030782,6 +1030782,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-19T02:44:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112026,
+      "source": "blind",
+      "externalId": "cmt-461765937",
+      "title": "진짜 자기가 사귈거 아니니깐 광수 많이들 찍었네 ㅋㅋㅋ",
+      "excerpt": "투표글 한명 사귀기 투표",
+      "author": "j********",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%9C%EB%AA%85-%EC%82%AC%EA%B7%80%EA%B8%B0-8kmladd4#461765937",
+      "postedLabel": "16분",
+      "postedAt": "2026-11-19T11:29:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:45:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112027,
+      "source": "qoo",
+      "externalId": "4411336385",
+      "title": "아니 어제편 이제보는데 영호 현숙이 나가자고했는데 거절한거 뭐야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411336385",
+      "postedLabel": "11:45",
+      "postedAt": "2026-11-19T11:45:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:45:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1030966,7 +1031005,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T11:42:40+09:00"
+      "slowAt": "2026-11-19T11:45:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1048254,6 +1048293,7 @@
         "6700162",
         "6700168",
         "6700169",
+        "6700172",
         "6700174",
         "6700178",
         "6700181",
@@ -1050988,6 +1051028,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%81%EC%97%85-%EB%AD%90%EC%A7%80-paxvaxo5",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EA%B4%9C%EC%B0%AE%EB%84%A4-bhch7gjv",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EB%A7%90-%EC%9E%98%ED%95%9C%EB%8B%A4-8h3ms2g3",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EB%AD%90%EC%9E%84-4idfh23v",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EC%99%9C%EC%BC%80-%EC%9D%B4%EC%81%98%EB%83%90-0cxdcyn3",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-7q58ulur",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%AC%EC%97%90%EC%84%9C-%EB%82%98%EC%98%A4%EB%8A%94-%ED%86%B5%EC%B0%B0%EB%A0%A5-p6joebgo",
@@ -1061263,7 +1061304,8 @@
         "4411242216",
         "4411257489",
         "4411300531",
-        "4411315438"
+        "4411315438",
+        "4411336385"
       ]
     },
     "keep": "v2",
