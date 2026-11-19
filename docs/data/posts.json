@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:54:27+00:00",
+  "updatedAt": "2026-11-19T14:55:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -1055923,6 +1055923,25 @@
       "firstSeenAt": "2026-11-19T14:54:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113298,
+      "source": "dc",
+      "externalId": "6702337",
+      "title": "망도 버럭버럭 스시녀한테",
+      "excerpt": "",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702337&page=1",
+      "postedLabel": "23:54",
+      "postedAt": "2026-11-19T23:54:12+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-19T14:55:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1073892,7 +1073911,8 @@
         "6702311",
         "6702316",
         "6702324",
-        "6702333"
+        "6702333",
+        "6702337"
       ]
     },
     "blind": {
