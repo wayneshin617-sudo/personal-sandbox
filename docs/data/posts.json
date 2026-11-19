@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T15:02:33+00:00",
+  "updatedAt": "2026-11-19T15:03:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -1056219,6 +1056219,66 @@
       "firstSeenAt": "2026-11-19T15:02:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113313,
+      "source": "blind",
+      "externalId": "cmt-461864102",
+      "title": "먼가 지브리상이야",
+      "excerpt": "영호",
+      "author": "l********* 작성자",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-cq76luap#461864102",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T00:03:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T15:03:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113314,
+      "source": "blind",
+      "externalId": "cmt-461864114",
+      "title": "다들 거울은 보고 투표하는거지?",
+      "excerpt": "투표글 순자언니 어뗘? 투표",
+      "author": "l*********",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EC%96%B8%EB%8B%88-%EC%96%B4%EB%97%98-k8aq2wgi#461864114",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T00:03:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T15:03:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113315,
+      "source": "blind",
+      "externalId": "cmt-461864209",
+      "title": "이목구비는 확실히 미인임",
+      "excerpt": "투표글 순자언니 어뗘? 투표",
+      "author": "k*********",
+      "company": "스노우",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EC%96%B8%EB%8B%88-%EC%96%B4%EB%97%98-k8aq2wgi#461864209",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T00:03:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T15:03:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1056403,7 +1056463,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T00:00:12+09:00"
+      "slowAt": "2026-11-20T00:03:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1074191,6 +1074251,7 @@
         "6702333",
         "6702337",
         "6702338",
+        "6702341",
         "6702346"
       ]
     },
