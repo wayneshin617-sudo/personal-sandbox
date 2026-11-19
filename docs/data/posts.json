@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T12:21:15+00:00",
+  "updatedAt": "2026-11-19T12:22:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1048416,6 +1048416,85 @@
       "firstSeenAt": "2026-11-19T12:21:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112917,
+      "source": "blind",
+      "externalId": "cmt-461837340",
+      "title": "세상은 넓고 인간은 많다요",
+      "excerpt": "헤어지고싶다",
+      "author": "!*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%97%A4%EC%96%B4%EC%A7%80%EA%B3%A0%EC%8B%B6%EB%8B%A4-jv45b2nk#461837340",
+      "postedLabel": "3분",
+      "postedAt": "2026-11-19T21:18:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:22:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112918,
+      "source": "blind",
+      "externalId": "cmt-461837596",
+      "title": "헐 감정얘기하면 기분망쳤다그래? 이기적이네.. 빨리헤어져 당신시간도 소중함.. 나도 헤어지면 안될거같아서 꾸역꾸역참았는데 헤어지자마자 다정한사람 잘만남",
+      "excerpt": "헤어지고싶다",
+      "author": "n*****",
+      "company": "삼성전자 협력사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%97%A4%EC%96%B4%EC%A7%80%EA%B3%A0%EC%8B%B6%EB%8B%A4-jv45b2nk#461837596",
+      "postedLabel": "2분",
+      "postedAt": "2026-11-19T21:19:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:22:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112919,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B6%9C%EC%97%B0%EC%9E%90-%EA%B7%B8%EB%A0%A4%EB%B4%84-p10byw6e",
+      "title": "출연자 그려봄",
+      "excerpt": "ㅇㅇ",
+      "author": "s********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B6%9C%EC%97%B0%EC%9E%90-%EA%B7%B8%EB%A0%A4%EB%B4%84-p10byw6e",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T21:21:58+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T12:22:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112920,
+      "source": "blind",
+      "externalId": "cmt-461837744",
+      "title": "너무 숨막혀ㅜㅜ 이게 맞나라는 생각이 들어도.. 나한테 다시 화살이 올까봐 너무 힘들어 숨이 잘 안쉬어져..",
+      "excerpt": "헤어지고싶다",
+      "author": "l********* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%97%A4%EC%96%B4%EC%A7%80%EA%B3%A0%EC%8B%B6%EB%8B%A4-jv45b2nk#461837744",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T21:21:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T12:22:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1048527,7 +1048606,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T21:18:58+09:00"
+      "slowAt": "2026-11-19T21:21:58+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1066272,7 +1066351,8 @@
         "6701544",
         "6701553",
         "6701563",
-        "6701565"
+        "6701565",
+        "6701578"
       ]
     },
     "blind": {
