@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T03:49:47+00:00",
+  "updatedAt": "2026-11-19T03:50:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -1032483,6 +1032483,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T03:49:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112112,
+      "source": "dc",
+      "externalId": "cmt-11033258",
+      "title": "남적남",
+      "excerpt": "영호같은 멸치체형은 턱걸이 누구나해",
+      "author": "오잉",
+      "company": "",
+      "ip": "115.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700457&page=1#cmt_11033258",
+      "postedLabel": "11.19 12:50:21",
+      "postedAt": "2026-11-19T12:50:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:50:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112113,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-%EC%A7%84%EC%A7%9C-%EC%9E%AC%EB%B0%8C%EB%8B%A4-gnsm02hn",
+      "title": "나는 솔로 진짜 재밌다",
+      "excerpt": "현실에 있을 법한 다양한 사람 모아두고 합숙 시키면서 일주일동안 술먹고 뭐하고 각종 행동 더 하게하고 이것저것 행동 보면서 분석하게 욕하게되네 그 재미로 보게하는듯",
+      "author": "i*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-%EC%A7%84%EC%A7%9C-%EC%9E%AC%EB%B0%8C%EB%8B%A4-gnsm02hn",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T12:50:30+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T03:50:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1032667,7 +1032706,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T12:47:04+09:00"
+      "slowAt": "2026-11-19T12:50:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1050029,7 +1050068,8 @@
         "6700427",
         "6700432",
         "6700447",
-        "6700448"
+        "6700448",
+        "6700457"
       ]
     },
     "blind": {
