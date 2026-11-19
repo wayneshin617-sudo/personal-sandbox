@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T09:29:35+00:00",
+  "updatedAt": "2026-11-19T09:31:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1043184,6 +1043184,66 @@
       "firstSeenAt": "2026-11-19T09:29:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112652,
+      "source": "blind",
+      "externalId": "cmt-461816295",
+      "title": "누가 쓴건디",
+      "excerpt": "영호 그동안 미안했다",
+      "author": "게****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B7%B8%EB%8F%99%EC%95%88-%EB%AF%B8%EC%95%88%ED%96%88%EB%8B%A4-tez5xuvg#461816295",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-19T18:30:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T09:31:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112653,
+      "source": "dc",
+      "externalId": "cmt-11034108",
+      "title": "흙철이 왔노? - dc App",
+      "excerpt": "영철은 헌포 클럽을 너무..",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6701185&page=1#cmt_11034108",
+      "postedLabel": "11.19 18:30:52",
+      "postedAt": "2026-11-19T18:30:52+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T09:31:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112654,
+      "source": "blind",
+      "externalId": "cmt-461816416",
+      "title": "내가...자꾸 무슨 url을 직접 올리지말라면서 글 업로드 안댐",
+      "excerpt": "영호 그동안 미안했다",
+      "author": "쌍** 작성자",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B7%B8%EB%8F%99%EC%95%88-%EB%AF%B8%EC%95%88%ED%96%88%EB%8B%A4-tez5xuvg#461816416",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T18:31:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T09:31:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1043368,7 +1043428,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T18:27:50+09:00"
+      "slowAt": "2026-11-19T18:31:01+09:00"
     },
     "dc": {
       "doneIds": [
