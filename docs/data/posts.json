@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T08:15:06+00:00",
+  "updatedAt": "2026-11-19T08:17:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -1041045,6 +1041045,45 @@
       "firstSeenAt": "2026-11-19T08:15:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112544,
+      "source": "dc",
+      "externalId": "6701061",
+      "title": "영호가 진짜 몸 좋은 다정한 훈남",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6701061&page=1",
+      "postedLabel": "17:16",
+      "postedAt": "2026-11-19T17:16:04+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:17:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112545,
+      "source": "blind",
+      "externalId": "cmt-461807632",
+      "title": "낼모레다들40바라보는 늙크크들이니까 그럴수있지",
+      "excerpt": "근데 34기는 왜 인스타",
+      "author": "l****",
+      "company": "ex-안전보건공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-34%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%9D%B8%EC%8A%A4%ED%83%80-4imi1gyv#461807632",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T17:16:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:17:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1041156,7 +1041195,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T17:13:47+09:00"
+      "slowAt": "2026-11-19T17:16:48+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1058733,6 +1058772,7 @@
         "6700878",
         "6700881",
         "6700884",
+        "6700888",
         "6700892",
         "6700902",
         "6700912",
