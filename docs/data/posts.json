@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T05:20:23+00:00",
+  "updatedAt": "2026-11-19T05:21:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -1035259,6 +1035259,46 @@
       "firstSeenAt": "2026-11-19T05:20:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112252,
+      "source": "blind",
+      "externalId": "cmt-461782307",
+      "title": "오랜만에 꿀잼 기수 나온듯 ㅋㅋㅋ",
+      "excerpt": "나는 솔로 진짜 재밌다",
+      "author": "7******",
+      "company": "지학사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94-%EC%86%94%EB%A1%9C-%EC%A7%84%EC%A7%9C-%EC%9E%AC%EB%B0%8C%EB%8B%A4-gnsm02hn#461782307",
+      "postedLabel": "23분",
+      "postedAt": "2026-11-19T13:58:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:21:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112253,
+      "source": "dc",
+      "externalId": "cmt-11033536",
+      "title": "건대? 컴공? 이란 썰이 있음",
+      "excerpt": "34 영호 대학이랑 전공 뭐야?",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700635&page=1#cmt_11033536",
+      "postedLabel": "11.19 14:20:13",
+      "postedAt": "2026-11-19T14:20:13+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T05:21:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1035370,7 +1035410,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T14:18:07+09:00"
+      "slowAt": "2026-11-19T14:21:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1052844,6 +1052884,7 @@
         "6700500",
         "6700504",
         "6700505",
+        "6700512",
         "6700514",
         "6700517",
         "6700520",
@@ -1052865,7 +1052906,8 @@
         "6700615",
         "6700621",
         "6700628",
-        "6700630"
+        "6700630",
+        "6700635"
       ]
     },
     "blind": {
