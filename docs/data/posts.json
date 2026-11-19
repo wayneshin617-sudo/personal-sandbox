@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T10:01:19+00:00",
+  "updatedAt": "2026-11-19T10:07:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -1044040,6 +1044040,44 @@
       "firstSeenAt": "2026-11-19T10:01:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112695,
+      "source": "qoo",
+      "externalId": "4411899221",
+      "title": "광수 그렇게 방송욕심내는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411899221",
+      "postedLabel": "19:06",
+      "postedAt": "2026-11-19T19:06:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T10:07:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112696,
+      "source": "dc",
+      "externalId": "6701243",
+      "title": "영자는 볼수록 등신같네…",
+      "excerpt": "",
+      "author": "Zzz",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6701243&page=1",
+      "postedLabel": "19:06",
+      "postedAt": "2026-11-19T19:06:22+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T10:07:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1044224,7 +1044262,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T19:04:01+09:00"
+      "slowAt": "2026-11-19T19:07:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1061788,6 +1061826,7 @@
         "6701148",
         "6701149",
         "6701157",
+        "6701161",
         "6701163",
         "6701170",
         "6701171",
@@ -1074882,7 +1074921,8 @@
         "4411720679",
         "4411726175",
         "4411761015",
-        "4411770499"
+        "4411770499",
+        "4411899221"
       ]
     },
     "keep": "v2",
