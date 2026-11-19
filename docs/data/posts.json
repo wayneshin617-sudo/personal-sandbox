@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T03:57:35+00:00",
+  "updatedAt": "2026-11-19T03:58:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -1032780,6 +1032780,64 @@
       "firstSeenAt": "2026-11-19T03:57:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112127,
+      "source": "qoo",
+      "externalId": "cmt-4411351722",
+      "title": "어장맞지",
+      "excerpt": "점점 노잼되가는건 영호탓이 진짜 큰듯",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411242216#4411351722",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T11:57:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:58:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112128,
+      "source": "qoo",
+      "externalId": "4411414595",
+      "title": "어장치는 출연자들은 매번 노잼",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411414595",
+      "postedLabel": "12:58",
+      "postedAt": "2026-11-19T12:58:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T03:58:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112129,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-%E3%84%B1%E3%85%85-%EC%A7%84%EC%A7%9C-%EC%9E%90%EC%97%B0%EC%82%B0-%EB%A7%9E%EC%95%84-rreheta4",
+      "title": "순자 ㄱㅅ 진짜 자연산 맞아?",
+      "excerpt": "랜덤 데이트 할 때 보니 ㄱㅅ 때문에 상의가 말려 올라가서 거의 배꼽티가 돼 버렸던데... 개인적으로 이번 화 최고 명장면이었다고 생각함",
+      "author": "i*********",
+      "company": "국세청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%E3%84%B1%E3%85%85-%EC%A7%84%EC%A7%9C-%EC%9E%90%EC%97%B0%EC%82%B0-%EB%A7%9E%EC%95%84-rreheta4",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T12:58:30+09:00",
+      "views": 13,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T03:58:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1032891,7 +1032949,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T12:55:07+09:00"
+      "slowAt": "2026-11-19T12:58:30+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1050265,6 +1050323,7 @@
         "6700196",
         "6700197",
         "6700198",
+        "6700199",
         "6700200",
         "6700201",
         "6700203",
@@ -1050332,7 +1050391,8 @@
         "6700460",
         "6700463",
         "6700466",
-        "6700467"
+        "6700467",
+        "6700470"
       ]
     },
     "blind": {
@@ -1063334,7 +1063394,8 @@
         "4411315438",
         "4411336385",
         "4411376860",
-        "4411410734"
+        "4411410734",
+        "4411414595"
       ]
     },
     "keep": "v2",
