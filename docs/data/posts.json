@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T02:06:37+00:00",
+  "updatedAt": "2026-11-19T02:07:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -1029832,6 +1029832,25 @@
       "firstSeenAt": "2026-11-19T02:06:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 111978,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EB%84%88%EB%AC%B4%EC%A2%8B%EB%8B%A4%E3%85%8B%E3%85%8B%E3%85%8B-ifcmp8jd",
+      "title": "영철 너무좋다ㅋㅋㅋ",
+      "excerpt": "귀엽고 투명하고 잘생겼는데 싼마이야 ㅋㅋㅋㅋ 개좋아",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EB%84%88%EB%AC%B4%EC%A2%8B%EB%8B%A4%E3%85%8B%E3%85%8B%E3%85%8B-ifcmp8jd",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T11:07:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T02:07:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1030016,7 +1030035,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T11:05:05+09:00"
+      "slowAt": "2026-11-19T11:07:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1047306,7 +1047325,8 @@
         "6700201",
         "6700203",
         "6700208",
-        "6700214"
+        "6700214",
+        "6700219"
       ]
     },
     "blind": {
