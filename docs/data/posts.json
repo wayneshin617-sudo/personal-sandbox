@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T13:04:15+00:00",
+  "updatedAt": "2026-11-19T13:06:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1050559,6 +1050559,26 @@
       "firstSeenAt": "2026-11-19T13:04:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113025,
+      "source": "qoo",
+      "externalId": "cmt-4412028982",
+      "title": "안봐도 서사 문제 없을 정도..?ㅜ",
+      "excerpt": "이번주 노잼이야?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411951322#4412028982",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T21:05:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T13:06:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1050743,7 +1050763,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T22:02:59+09:00"
+      "slowAt": "2026-11-19T22:05:58+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1068456,7 +1068476,8 @@
         "6701677",
         "6701681",
         "6701691",
-        "6701692"
+        "6701692",
+        "6701696"
       ]
     },
     "blind": {
