@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T06:47:19+00:00",
+  "updatedAt": "2026-11-19T06:48:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -1037819,6 +1037819,85 @@
       "firstSeenAt": "2026-11-19T06:47:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112381,
+      "source": "qoo",
+      "externalId": "cmt-4411579801",
+      "title": "보면서 얼탱 맘이 있는데 안나가? 구라같음",
+      "excerpt": "아니 어제편 이제보는데 영호 현숙이 나가자고했는데 거절한거 뭐야",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4411336385#4411579801",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T14:48:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:48:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112382,
+      "source": "dc",
+      "externalId": "cmt-11033742",
+      "title": "영수 와써? 점심은 먹었고?",
+      "excerpt": "근데 영수가 ㅈㄴ 상남자 맞긴 한게",
+      "author": "딸랑딸랑고추",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700811&page=1#cmt_11033742",
+      "postedLabel": "11.19 15:47:46",
+      "postedAt": "2026-11-19T15:47:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:48:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112383,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%94%94-%EB%AC%B8%EC%8B%A0%EC%9D%84-%ED%95%9C%EB%8B%A4-=-%EB%82%98%EB%8A%94-%EB%82%B4-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%AA%B8%EC%9D%84-%EB%82%B4-%EC%9D%98%EC%A7%80%EB%A1%9C-%EB%B0%94%EA%BF%80-%EC%88%98-%EC%9E%88%EA%B3%A0-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%8B%B6%EB%8B%A4-toyr3nj7",
+      "title": "근디 문신을 한다 = 나는 내 태어난 몸을 내 의지로 바꿀 수 있고 바꾸고 싶다",
+      "excerpt": "-> 이런 멘탈리티면 의젖할 가능성은 높다고 생각함",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%94%94-%EB%AC%B8%EC%8B%A0%EC%9D%84-%ED%95%9C%EB%8B%A4-=-%EB%82%98%EB%8A%94-%EB%82%B4-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%AA%B8%EC%9D%84-%EB%82%B4-%EC%9D%98%EC%A7%80%EB%A1%9C-%EB%B0%94%EA%BF%80-%EC%88%98-%EC%9E%88%EA%B3%A0-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%8B%B6%EB%8B%A4-toyr3nj7",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T15:48:03+09:00",
+      "views": 7,
+      "recommends": 2,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T06:48:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112384,
+      "source": "blind",
+      "externalId": "cmt-461796061",
+      "title": "사진 너무 폭력적이네요 ㅎ",
+      "excerpt": "투표글 이거 수술 아님?? 투표",
+      "author": "||!ll|",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EA%B1%B0-%EC%88%98%EC%88%A0-%EC%95%84%EB%8B%98-rnbcc5ip#461796061",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T15:48:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T06:48:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1037930,7 +1038009,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T15:44:34+09:00"
+      "slowAt": "2026-11-19T15:48:03+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1055475,7 +1055554,8 @@
         "6700797",
         "6700801",
         "6700808",
-        "6700809"
+        "6700809",
+        "6700811"
       ]
     },
     "blind": {
