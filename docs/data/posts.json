@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T15:36:48+00:00",
+  "updatedAt": "2026-11-19T15:39:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -1056735,6 +1056735,46 @@
       "firstSeenAt": "2026-11-19T15:36:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113339,
+      "source": "qoo",
+      "externalId": "cmt-4412209185",
+      "title": "ㄴㄷ 근데 현커는 아닐거같오...",
+      "excerpt": "왜 난 순자영호 최커같냐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412169660#4412209185",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T23:38:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T15:39:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113340,
+      "source": "qoo",
+      "externalId": "cmt-4412209218",
+      "title": "영철은 그럴 그릇이 못되는듯...",
+      "excerpt": "영자영철 같은 커플 은근히 있음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412207823#4412209218",
+      "postedLabel": "",
+      "postedAt": "2026-11-19T23:38:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T15:39:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1056919,7 +1056959,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T00:36:29+09:00"
+      "slowAt": "2026-11-20T00:39:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1074702,6 +1074742,7 @@
         "6702265",
         "6702282",
         "6702288",
+        "6702294",
         "6702311",
         "6702316",
         "6702324",
