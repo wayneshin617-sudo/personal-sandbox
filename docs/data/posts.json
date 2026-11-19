@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T04:19:31+00:00",
+  "updatedAt": "2026-11-19T04:20:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -1033716,6 +1033716,45 @@
       "firstSeenAt": "2026-11-19T04:19:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112174,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%8B%9D-%ED%9A%8C%EC%82%AC%EA%B0%80%EC%96%B4%EB%94%94%EC%95%BC-mzhb8455",
+      "title": "34영식 회사가어디야?",
+      "excerpt": "글로벌스포츠브랜드 라고만 보이는데",
+      "author": "a*****",
+      "company": "LG유플러스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%8B%9D-%ED%9A%8C%EC%82%AC%EA%B0%80%EC%96%B4%EB%94%94%EC%95%BC-mzhb8455",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T13:20:26+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-19T04:20:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112175,
+      "source": "blind",
+      "externalId": "cmt-461777913",
+      "title": "나이키",
+      "excerpt": "34영식 회사가어디야?",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%8B%9D-%ED%9A%8C%EC%82%AC%EA%B0%80%EC%96%B4%EB%94%94%EC%95%BC-mzhb8455#461777913",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T13:20:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T04:20:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1033900,7 +1033939,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T13:16:59+09:00"
+      "slowAt": "2026-11-19T13:20:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1058981,6 +1059020,7 @@
         "/kr/post/34%EC%98%81%EC%8B%9D%EC%9D%B4-%EB%82%98%EC%9D%B4%EA%B0%80-40%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4%EB%8D%B0-x4ne32ko",
         "/kr/post/34%EC%98%81%EC%8B%9D-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-obswu3p7",
         "/kr/post/34%EC%98%81%EC%8B%9D-%EB%A9%80%EC%A9%A1%ED%95%98%EA%B2%8C-%EC%83%9D%EA%B2%A8%EA%B0%96%EA%B3%A0-2fwptbhn",
+        "/kr/post/34%EC%98%81%EC%8B%9D-%ED%9A%8C%EC%82%AC%EA%B0%80%EC%96%B4%EB%94%94%EC%95%BC-mzhb8455",
         "/kr/post/34%EC%98%81%EC%9E%90%EB%8A%94-%EB%8D%B0%EB%B9%8C%EC%8A%A4%ED%94%8C%EB%9E%9C-%EC%9D%B4%EB%9F%B0-%EA%B1%B0-benn0i4v",
         "/kr/post/34%EC%98%81%EC%9E%90%EB%A5%BC-%EB%82%A8%EC%9E%90%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EC%9E%90%EB%A9%B4-3xx5mglw",
         "/kr/post/34%EC%98%81%EC%9E%90%EC%9D%B8%EA%B0%80-%EA%B9%80%EC%98%81%EC%B2%A0-%EB%8B%AE%EC%9D%80-%ED%95%9C%EC%9D%98%EC%82%AC-%EC%96%B8%EB%8B%88-802w4f1g",
