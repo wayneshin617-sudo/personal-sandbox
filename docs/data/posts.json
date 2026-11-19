@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T13:36:05+00:00",
+  "updatedAt": "2026-11-19T13:37:29+00:00",
   "posts": [
     {
       "id": 149,
@@ -1052140,6 +1052140,44 @@
       "firstSeenAt": "2026-11-19T13:36:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113105,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98-%EC%9D%B4-%EC%A2%81%EB%B0%A5%EC%9D%B4-grboz7pl",
+      "title": "광수 이 좁밥이",
+      "excerpt": "국내기수에서 상좁밥이 쩌리들 사이에서 표좀 받고 외국인이라고 손 막 잡네 존나 더럽네",
+      "author": "l*********",
+      "company": "메리츠증권",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%9D%B4-%EC%A2%81%EB%B0%A5%EC%9D%B4-grboz7pl",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-19T22:36:11+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-19T13:37:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113106,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A5%BC-5gp2rpev",
+      "title": "한국어를",
+      "excerpt": "잘못해 저러는 거겠지 나 외국 살땐 안저러던데 ㅎㅎ",
+      "author": "뜨*********",
+      "company": "메가존클라우드",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A5%BC-5gp2rpev",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T22:37:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T13:37:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1052324,7 +1052362,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T22:34:30+09:00"
+      "slowAt": "2026-11-19T22:37:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1070055,7 +1070093,8 @@
         "6701751",
         "6701752",
         "6701756",
-        "6701787"
+        "6701787",
+        "6701797"
       ]
     },
     "blind": {
@@ -1070410,6 +1070449,7 @@
         "/kr/post/%EA%B4%91%EC%88%98-%EC%99%9C%EC%BC%80-%EC%9C%A4%EB%AF%BC%EC%88%98%EB%8B%AE%EC%9D%8C-v15tcisj",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%99%A4%EC%BC%80-%EC%84%A4%EC%B9%98%EC%A7%80-sntd6pv2",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%9D%B4%EC%83%81%ED%95%B4%E2%80%A6-j3fom174",
+        "/kr/post/%EA%B4%91%EC%88%98-%EC%9D%B4-%EC%A2%81%EB%B0%A5%EC%9D%B4-grboz7pl",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%BA%BC%EB%93%9C%EB%9F%AD%EA%B1%B0%EB%A6%AC%EB%8A%94%EA%B1%B0-%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9D%B4%EB%84%A4-auepu8gh",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%9E%98-%EC%82%90%EC%A7%88-%EA%B2%83-%EA%B0%99%EC%9D%8C-fnqvd2ju",
         "/kr/post/%EA%B4%91%EC%88%98-%EC%A0%84%EC%97%AC%EC%B9%9C-%EA%B1%B0%EB%A6%AC%EB%8A%94%EA%B2%8C-%EB%8D%94-%EC%9E%91%EC%9C%84%EC%A0%81-66h8uce8",
@@ -1077050,6 +1077090,7 @@
         "/kr/post/%ED%98%84%EC%88%99-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%EC%9D%B4-%EC%95%88-%EC%96%B4%EC%9A%B8%EB%A6%AC%EB%8A%94%EA%B1%B0-%EA%B0%99%EC%95%84-f53brvjt",
         "/kr/post/%ED%98%84%EC%88%99-%EC%8B%9C%EA%B3%84-%ED%8C%8C%EB%84%A4%EB%9D%BC%EC%9D%B4%EC%9D%B8%EA%B0%80-5y7706z1",
         "/kr/post/%ED%98%84%EC%88%99-%EC%8B%9C%EA%B3%84-%ED%8C%8C%EB%A0%88%EB%82%98%EC%9D%B4%EC%9D%B8%EA%B0%80-04iaay2u",
+        "/kr/post/%ED%98%84%EC%88%99-%EC%8B%AD%ED%94%84%ED%94%BC%EC%A7%80-0t70kbed",
         "/kr/post/%ED%98%84%EC%88%99-%EC%95%84%EC%B9%A8%EC%97%90-%ED%94%84%EB%9E%91%EC%8A%A4%EC%96%B4-%EA%B3%B5%EB%B6%80%ED%95%9C%EB%8B%A4%EA%B3%A0-%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%98%EB%82%98-js6vukng",
         "/kr/post/%ED%98%84%EC%88%99-%EC%95%BD%EA%B0%84-%EB%AA%A8%EC%95%84%EC%9D%B4%EB%8B%AE%EC%95%98%EB%84%A4-66ji48z4",
         "/kr/post/%ED%98%84%EC%88%99-%EC%95%BD%EA%B0%84-%EC%9D%B4%EB%AA%85%EB%B0%95-%EC%83%81%EC%9D%B8%EB%94%94-loirjs58",
