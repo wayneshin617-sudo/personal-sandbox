@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T08:03:00+00:00",
+  "updatedAt": "2026-11-19T08:03:58+00:00",
   "posts": [
     {
       "id": 149,
@@ -1040512,6 +1040512,65 @@
       "firstSeenAt": "2026-11-19T08:03:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112517,
+      "source": "qoo",
+      "externalId": "4411761015",
+      "title": "영호 좋아하는 사람들은 원인을 다 여출한테 찾음 ㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4411761015",
+      "postedLabel": "17:03",
+      "postedAt": "2026-11-19T17:03:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:03:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 112518,
+      "source": "blind",
+      "externalId": "cmt-461805904",
+      "title": "엥? 의사 여친 부인들 별로인 분들 널렸던데",
+      "excerpt": "투표글 근데 순자 정도면 전남친 리스트에 의사 몇명 있을 듯? 투표",
+      "author": "i********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%88%9C%EC%9E%90-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%A0%84%EB%82%A8%EC%B9%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90-%EC%9D%98%EC%82%AC-%EB%AA%87%EB%AA%85-%EC%9E%88%EC%9D%84-%EB%93%AF-pls5yoee#461805904",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T17:03:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:03:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112519,
+      "source": "blind",
+      "externalId": "cmt-461805852",
+      "title": "안봣구나? 몸매가 ㄷㄷ함",
+      "excerpt": "투표글 근데 순자 정도면 전남친 리스트에 의사 몇명 있을 듯? 투표",
+      "author": "|********",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%88%9C%EC%9E%90-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%A0%84%EB%82%A8%EC%B9%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90-%EC%9D%98%EC%82%AC-%EB%AA%87%EB%AA%85-%EC%9E%88%EC%9D%84-%EB%93%AF-pls5yoee#461805852",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T17:03:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T08:03:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1058212,7 +1058271,8 @@
         "6701002",
         "6701005",
         "6701009",
-        "6701014"
+        "6701014",
+        "6701031"
       ]
     },
     "blind": {
@@ -1071266,7 +1071326,8 @@
         "4411664123",
         "4411680702",
         "4411720679",
-        "4411726175"
+        "4411726175",
+        "4411761015"
       ]
     },
     "keep": "v2",
