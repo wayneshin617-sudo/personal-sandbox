@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T02:19:55+00:00",
+  "updatedAt": "2026-11-19T02:21:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -1030029,6 +1030029,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T02:19:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 111988,
+      "source": "dc",
+      "externalId": "cmt-11032975",
+      "title": "이분 몇기 옥순이죠??",
+      "excerpt": "존예롭다",
+      "author": "ㅇㅅㅇ",
+      "company": "",
+      "ip": "39.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700127&page=3#cmt_11032975",
+      "postedLabel": "11.19 10:54:48",
+      "postedAt": "2026-11-19T10:54:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:21:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 111989,
+      "source": "blind",
+      "externalId": "cmt-461764983",
+      "title": "여자면 진작 피부과가서 이것저것 다해봤을듯",
+      "excerpt": "영수랑 비슷한 피부",
+      "author": "j******",
+      "company": "치과의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%9C-%ED%94%BC%EB%B6%80-qq0u2bft#461764983",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T11:21:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T02:21:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1030213,7 +1030253,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T11:18:40+09:00"
+      "slowAt": "2026-11-19T11:21:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1047468,6 +1047508,7 @@
         "6699984",
         "6699996",
         "6700003",
+        "6700021",
         "6700022",
         "6700026",
         "6700033",
@@ -1047487,6 +1047528,7 @@
         "6700111",
         "6700122",
         "6700125",
+        "6700127",
         "6700133",
         "6700134",
         "6700139",
@@ -1047511,7 +1047553,8 @@
         "6700235",
         "6700238",
         "6700241",
-        "6700247"
+        "6700247",
+        "6700250"
       ]
     },
     "blind": {
