@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T13:56:49+00:00",
+  "updatedAt": "2026-11-19T13:58:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -1053098,6 +1053098,26 @@
       "firstSeenAt": "2026-11-19T13:56:49+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113154,
+      "source": "blind",
+      "externalId": "cmt-461853803",
+      "title": "상철이랑 고기 구워먹을때 말투 좀 그러더라",
+      "excerpt": "순자",
+      "author": "i*******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-2eqrqcr7#461853803",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T22:57:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T13:58:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1053282,7 +1053302,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-19T22:55:15+09:00"
+      "slowAt": "2026-11-19T22:57:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1071031,7 +1071051,8 @@
         "6701895",
         "6701896",
         "6701900",
-        "6701902"
+        "6701902",
+        "6701920"
       ]
     },
     "blind": {
@@ -1073625,6 +1073646,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%98%81%EC%B2%A0%ED%95%9C%ED%85%8C-x6aic0vg",
         "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%98%81%ED%98%B8-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%EB%8D%B0-725mkypc",
         "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%9E%90%EA%B8%B0%EA%B0%80-%EC%A7%91%EC%88%9C%EC%9D%B4%EC%9D%B8%EA%B1%B0-%EB%81%9D%EC%97%86%EC%9D%B4-%EA%B0%95%EC%A1%B0%ED%95%98%EB%84%A4-uwu42bke",
+        "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%9E%90%EA%BE%B8-%EB%AD%90-%EB%90%98%EB%8A%94-%EA%B2%83%EB%A7%88%EB%83%A5-od1adpo5",
         "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%9E%98%EC%83%9D%EB%82%A8%ED%95%9C%ED%85%8C%EB%8A%94-%EC%88%98%EC%9A%94%EC%97%86%EB%8A%94-%EC%99%B8%EB%AA%A8%EA%B0%99%EC%9D%8C-15xtrz7j",
         "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%A0%84%EC%8B%A0-%EC%8B%A4%EB%A3%A8%EC%97%A3%EB%B3%B4%EB%8B%88%EA%B9%8C-%ED%99%95%EC%8B%A4%ED%9E%88-vi2t00s2",
         "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-%EC%A7%81%EC%97%85%EB%8F%84-%EC%A2%8B%EA%B3%A0-ircbl4ve",
