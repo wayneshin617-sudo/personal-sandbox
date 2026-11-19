@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:35:14+00:00",
+  "updatedAt": "2026-11-19T14:37:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1055291,6 +1055291,45 @@
       "firstSeenAt": "2026-11-19T14:35:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113266,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%A7%9D%EB%8F%84-%EC%84%B1%EC%A7%88%EB%82%98%EC%98%A4%EB%84%A4-dnrgnvpt",
+      "title": "망도 성질나오네",
+      "excerpt": "어우",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%9D%EB%8F%84-%EC%84%B1%EC%A7%88%EB%82%98%EC%98%A4%EB%84%A4-dnrgnvpt",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:36:57+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-19T14:37:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113267,
+      "source": "blind",
+      "externalId": "cmt-461860290",
+      "title": "순진한지는 모르지",
+      "excerpt": "영수 진짜 개주책이다",
+      "author": "무*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%A7%84%EC%A7%9C-%EA%B0%9C%EC%A3%BC%EC%B1%85%EC%9D%B4%EB%8B%A4-1338m5eh#461860290",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:36:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:37:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1073253,7 +1073292,8 @@
         "6702136",
         "6702163",
         "6702203",
-        "6702204"
+        "6702204",
+        "6702265"
       ]
     },
     "blind": {
