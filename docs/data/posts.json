@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T04:20:44+00:00",
+  "updatedAt": "2026-11-19T04:21:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -1033755,6 +1033755,45 @@
       "firstSeenAt": "2026-11-19T04:20:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 112176,
+      "source": "blind",
+      "externalId": "cmt-461776593",
+      "title": "옥순이 글로리질 때도 이러셨나요?",
+      "excerpt": "영철 영호는 방송에 진심이다 ㅋㅋㅋ",
+      "author": "z*****",
+      "company": "LG에너지솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%98%81%ED%98%B8%EB%8A%94-%EB%B0%A9%EC%86%A1%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B4%EB%8B%A4-%E3%85%8B%E3%85%8B%E3%85%8B-zquh22fl#461776593",
+      "postedLabel": "14분",
+      "postedAt": "2026-11-19T13:07:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T04:21:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 112177,
+      "source": "dc",
+      "externalId": "6700512",
+      "title": "코디 바꿀때가 된듯",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6700512&page=1",
+      "postedLabel": "13:21",
+      "postedAt": "2026-11-19T13:21:11+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T04:21:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1051299,6 +1051338,7 @@
         "6700374",
         "6700382",
         "6700389",
+        "6700390",
         "6700394",
         "6700401",
         "6700408",
