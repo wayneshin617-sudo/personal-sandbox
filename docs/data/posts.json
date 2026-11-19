@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T14:37:15+00:00",
+  "updatedAt": "2026-11-19T14:38:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -1055330,6 +1055330,45 @@
       "firstSeenAt": "2026-11-19T14:37:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113268,
+      "source": "qoo",
+      "externalId": "4412207823",
+      "title": "영자영철 같은 커플 은근히 있음",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4412207823",
+      "postedLabel": "23:37",
+      "postedAt": "2026-11-19T23:37:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:38:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113269,
+      "source": "blind",
+      "externalId": "cmt-461860315",
+      "title": "저렇게 웃기만해? 좀 짜증나긴함..",
+      "excerpt": "망도 성질나오네",
+      "author": "일*******",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%9D%EB%8F%84-%EC%84%B1%EC%A7%88%EB%82%98%EC%98%A4%EB%84%A4-dnrgnvpt#461860315",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-19T23:37:57+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T14:38:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1055441,7 +1055480,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-19T23:34:55+09:00"
+      "slowAt": "2026-11-19T23:37:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1073293,7 +1073332,8 @@
         "6702163",
         "6702203",
         "6702204",
-        "6702265"
+        "6702265",
+        "6702282"
       ]
     },
     "blind": {
@@ -1074962,6 +1075002,7 @@
         "/kr/post/%EB%A7%9D%EB%8F%84-%EA%BA%BC%EB%93%9C%EB%9F%AD%EA%B1%B0%EB%A0%A4%EB%8F%84-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EB%B3%B4%EC%9E%90-%ED%98%95%EB%93%A4-wb085ttb",
         "/kr/post/%EB%A7%9D%EB%8F%84-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%B4%EC%95%BC-%EC%99%80-adtnw008",
         "/kr/post/%EB%A7%9D%EB%8F%84-%EB%B0%9C%EC%8B%B8%EC%9D%B4%EC%A6%88-%EC%95%88%EB%8B%A4-t7jqqmoy",
+        "/kr/post/%EB%A7%9D%EB%8F%84-%EC%84%B1%EC%A7%88%EB%82%98%EC%98%A4%EB%84%A4-dnrgnvpt",
         "/kr/post/%EB%A7%9D%EB%8F%84-%EC%86%8C%EA%B3%A0%EA%B8%B0-%EB%A8%B8%EB%AD%87%EA%B1%B0%EB%A6%AC%EB%8A%94%EA%B1%B0-3uc4tsxu",
         "/kr/post/%EB%A7%9D%EB%8F%84-%EC%98%A4%E3%85%91%EC%BC%80%EB%B0%98%EB%A7%90%EC%9D%84%ED%95%B4-yjjjkcdp",
         "/kr/post/%EB%A7%9D%EB%8F%84-%EC%99%9C-%EC%A0%80%EB%9E%98-umj657l4",
@@ -1086509,7 +1086550,8 @@
         "4412169505",
         "4412169660",
         "4412172062",
-        "4412176770"
+        "4412176770",
+        "4412207823"
       ]
     },
     "keep": "v2",
