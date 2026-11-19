@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-19T04:17:17+00:00",
+  "updatedAt": "2026-11-19T04:18:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -1033556,6 +1033556,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-19T04:17:17+00:00",
       "isSeed": false
+    },
+    {
+      "id": 112166,
+      "source": "blind",
+      "externalId": "cmt-461777603",
+      "title": "ㅋㅋㅋㅋㅋㅋ미취겟네",
+      "excerpt": "나 턱걸이 20개 함",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98-%ED%84%B1%EA%B1%B8%EC%9D%B4-20%EA%B0%9C-%ED%95%A8-ua2iunpr#461777603",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-19T13:17:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-19T04:18:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1051121,7 +1051141,8 @@
         "6700484",
         "6700486",
         "6700492",
-        "6700499"
+        "6700499",
+        "6700505"
       ]
     },
     "blind": {
