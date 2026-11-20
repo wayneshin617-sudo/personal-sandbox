@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T04:28:44+00:00",
+  "updatedAt": "2026-11-20T04:30:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -1062962,6 +1062962,25 @@
       "firstSeenAt": "2026-11-20T04:28:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113653,
+      "source": "dc",
+      "externalId": "6703274",
+      "title": "솔직히 34옥순이 재일 이쁘지 않음?",
+      "excerpt": "",
+      "author": "전문약사",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6703274&page=1",
+      "postedLabel": "13:29",
+      "postedAt": "2026-11-20T13:29:12+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T04:30:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1063073,7 +1063092,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T13:27:07+09:00"
+      "slowAt": "2026-11-20T13:29:48+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1081168,7 +1081187,8 @@
         "6703253",
         "6703258",
         "6703262",
-        "6703266"
+        "6703266",
+        "6703275"
       ]
     },
     "blind": {
