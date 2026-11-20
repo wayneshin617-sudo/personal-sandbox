@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T10:41:18+00:00",
+  "updatedAt": "2026-11-20T10:45:19+00:00",
   "posts": [
     {
       "id": 149,
@@ -1069612,6 +1069612,45 @@
       "firstSeenAt": "2026-11-20T10:41:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113988,
+      "source": "qoo",
+      "externalId": "cmt-4413017048",
+      "title": "@1 ㄹㅇ",
+      "excerpt": "영철 지팔지꼰이지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412974272#4413017048",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T18:45:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T10:45:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113989,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A8%ED%86%B5-%EC%88%9C%EC%9E%90-%EC%8A%B4-%EC%96%98%EA%B8%B0-%EB%BF%90%EC%9D%B4%EB%84%A4-chx40cue",
+      "title": "온통 순자 슴 얘기 뿐이네",
+      "excerpt": "내 여친이 순자보다 크다 훗",
+      "author": "H*****",
+      "company": "NEOPLE",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A8%ED%86%B5-%EC%88%9C%EC%9E%90-%EC%8A%B4-%EC%96%98%EA%B8%B0-%EB%BF%90%EC%9D%B4%EB%84%A4-chx40cue",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T19:45:02+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T10:45:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1069796,7 +1069835,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T19:42:03+09:00"
+      "slowAt": "2026-11-20T19:45:02+09:00"
     },
     "dc": {
       "doneIds": [
