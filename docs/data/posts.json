@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T05:29:31+00:00",
+  "updatedAt": "2026-11-20T05:35:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -1063793,6 +1063793,65 @@
       "firstSeenAt": "2026-11-20T05:29:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113695,
+      "source": "qoo",
+      "externalId": "cmt-4412640713",
+      "title": "그 장면이 무슨 시트콤 같아서 웃김 ㅋㅋㅋ",
+      "excerpt": "영호 턱걸이에서 약간 희열느껴졌어...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412576635#4412640713",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T13:34:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T05:35:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113696,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%9A%B4%EA%B2%8C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B2%8C-%EC%95%84%EB%8B%88%EA%B3%A0-hmp4zgfg",
+      "title": "현숙이가 운게 중요한게 아니고",
+      "excerpt": "영철이 반말 반존대 섞는 말투 사람들 대하는 태도 사람들과 어울리는 태도 자체가 싼마이 진상임... 아니 언제봤다고 꼽주고 하대하듯이 뭐하는거야 개매너에 너무 무례하자너 ;;; 나같아도 한번 쏘아붙이거나 아구창 돌리고 싶은데 못돌려서 눈물 나올거 같은데",
+      "author": "아****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4%EA%B0%80-%EC%9A%B4%EA%B2%8C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B2%8C-%EC%95%84%EB%8B%88%EA%B3%A0-hmp4zgfg",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T14:35:12+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T05:35:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113697,
+      "source": "blind",
+      "externalId": "cmt-461932817",
+      "title": "그정돈 아닌듯 무슨 상위 0.1프로",
+      "excerpt": "34순자가 나솔 역대 1위인거같아",
+      "author": "i*****",
+      "company": "유라코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%88%9C%EC%9E%90%EA%B0%80-%EB%82%98%EC%86%94-%EC%97%AD%EB%8C%80-1%EC%9C%84%EC%9D%B8%EA%B1%B0%EA%B0%99%EC%95%84-sijlvlj0#461932817",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T14:35:12+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T05:35:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1063904,7 +1063963,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T14:32:13+09:00"
+      "slowAt": "2026-11-20T14:35:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1082034,7 +1082093,8 @@
         "6703358",
         "6703360",
         "6703361",
-        "6703370"
+        "6703370",
+        "6703378"
       ]
     },
     "blind": {
