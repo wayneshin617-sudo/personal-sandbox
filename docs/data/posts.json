@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T05:16:30+00:00",
+  "updatedAt": "2026-11-20T05:17:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -1063476,6 +1063476,46 @@
       "firstSeenAt": "2026-11-20T05:16:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113679,
+      "source": "qoo",
+      "externalId": "cmt-4412621579",
+      "title": "그니까 ㅋㅋㅋ 남출들 영호보고 사기 떨어질만하겠더라 ㅋㅋㅋ",
+      "excerpt": "영호 턱걸이에서 약간 희열느껴졌어...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412576635#4412621579",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T13:16:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T05:17:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113680,
+      "source": "dc",
+      "externalId": "cmt-11036089",
+      "title": "둘이 그림체가 맞긴함",
+      "excerpt": "오이지 순자랑 망도 ㄷㄷ",
+      "author": "1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6703254&page=2#cmt_11036089",
+      "postedLabel": "11.20 13:19:05",
+      "postedAt": "2026-11-20T13:19:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T05:17:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1063587,7 +1063627,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T14:14:12+09:00"
+      "slowAt": "2026-11-20T14:17:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1081661,6 +1081701,7 @@
         "6703137",
         "6703140",
         "6703141",
+        "6703143",
         "6703144",
         "6703146",
         "6703149",
@@ -1081691,6 +1081732,7 @@
         "6703245",
         "6703249",
         "6703253",
+        "6703254",
         "6703258",
         "6703262",
         "6703266",
@@ -1081705,7 +1081747,8 @@
         "6703325",
         "6703327",
         "6703336",
-        "6703339"
+        "6703339",
+        "6703349"
       ]
     },
     "blind": {
