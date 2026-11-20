@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T15:32:09+00:00",
+  "updatedAt": "2026-11-20T15:53:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -1073936,6 +1073936,26 @@
       "firstSeenAt": "2026-11-20T15:32:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114206,
+      "source": "blind",
+      "externalId": "cmt-462014211",
+      "title": "자기들은 작으니까",
+      "excerpt": "아줌마들 왤케 순자 인기를 부정하고 싶어할까",
+      "author": "/*",
+      "company": "경동원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%A4%8C%EB%A7%88%EB%93%A4-%EC%99%A4%EC%BC%80-%EC%88%9C%EC%9E%90-%EC%9D%B8%EA%B8%B0%EB%A5%BC-%EB%B6%80%EC%A0%95%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%ED%95%A0%EA%B9%8C-b34k8i04#462014211",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T00:52:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T15:53:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1074120,7 +1074140,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T00:49:49+09:00"
+      "slowAt": "2026-11-21T00:52:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1092396,6 +1092416,7 @@
         "6704071",
         "6704073",
         "6704078",
+        "6704080",
         "6704085",
         "6704087",
         "6704094",
@@ -1095461,6 +1095482,7 @@
         "/kr/post/%EC%95%84%EC%A0%95%EC%88%99-%ED%88%AC%ED%84%B1%EB%B3%BC%EC%82%B4%EC%9E%90%EA%B3%A0-%EC%9D%BC%EC%96%B4%EB%82%9C-%EB%A8%B8%EB%A6%AC-wttxdqma",
         "/kr/post/%EC%95%84%EC%A4%8C%EB%A7%88%EB%93%A4%EC%9D%B8%EB%8D%B0-%EC%95%BD%EC%86%8D-%EC%9E%A1%EA%B3%A0-%EB%B3%B4%EB%8B%88%EA%B9%8C-tjfbll1p",
         "/kr/post/%EC%95%84%EC%A4%8C%EB%A7%88%EB%93%A4-%EC%99%9C%EC%9E%90%EA%BE%B8-%EC%98%81%EC%B2%A0-%EC%96%98%EA%B8%B0%ED%95%98%EB%83%90-60ic7f1p",
+        "/kr/post/%EC%95%84%EC%A4%8C%EB%A7%88%EB%93%A4-%EC%99%A4%EC%BC%80-%EC%88%9C%EC%9E%90-%EC%9D%B8%EA%B8%B0%EB%A5%BC-%EB%B6%80%EC%A0%95%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%ED%95%A0%EA%B9%8C-b34k8i04",
         "/kr/post/%EC%95%84%EC%A7%81%EB%8F%84-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-31%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90%EB%93%A4%EC%9D%98-%ED%95%B4%EB%AA%85-vjyzu62l",
         "/kr/post/%EC%95%84%EC%A7%81%EB%8F%84-%EB%A7%8C%EB%82%98%EB%8A%94%EA%B1%B0%EB%83%90-3n13ei7o",
         "/kr/post/%EC%95%84%EC%A7%81-%EB%B3%B8%EB%B0%A9-%EC%95%88-%EB%B4%A4%EA%B3%A0-zh37pu87",
