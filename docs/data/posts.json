@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T04:07:08+00:00",
+  "updatedAt": "2026-11-20T04:09:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -1062686,6 +1062686,45 @@
       "firstSeenAt": "2026-11-20T04:07:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113639,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90-yfhu7ppk",
+      "title": "34기 영자",
+      "excerpt": "좀 무섭다",
+      "author": "x*******",
+      "company": "동남정밀",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%9E%90-yfhu7ppk",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T13:09:32+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T04:09:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113640,
+      "source": "blind",
+      "externalId": "cmt-461922239",
+      "title": "문신있으면 데리고 놀다 버려도 죄책감 덜할거 같아서 그렁가",
+      "excerpt": "갑자기 문신녀순자 좋다는 분이 왤케 늘었죠",
+      "author": "급***",
+      "company": "신세계아이앤씨",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%91%EC%9E%90%EA%B8%B0-%EB%AC%B8%EC%8B%A0%EB%85%80%EC%88%9C%EC%9E%90-%EC%A2%8B%EB%8B%A4%EB%8A%94-%EB%B6%84%EC%9D%B4-%EC%99%A4%EC%BC%80-%EB%8A%98%EC%97%88%EC%A3%A0-dnqiorop#461922239",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T13:09:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T04:09:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1062870,7 +1062909,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T13:06:52+09:00"
+      "slowAt": "2026-11-20T13:09:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1080879,7 +1080918,8 @@
         "6703200",
         "6703206",
         "6703226",
-        "6703236"
+        "6703236",
+        "6703237"
       ]
     },
     "blind": {
