@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T17:43:37+00:00",
+  "updatedAt": "2026-11-20T17:44:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -1075320,6 +1075320,86 @@
       "firstSeenAt": "2026-11-20T17:43:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114276,
+      "source": "blind",
+      "externalId": "cmt-462023769",
+      "title": "눈팅",
+      "excerpt": "다들뭐해",
+      "author": "i********",
+      "company": "서울올림픽기념국민체육진흥공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EB%93%A4%EB%AD%90%ED%95%B4-7crn6ha0#462023769",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T02:44:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T17:44:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114277,
+      "source": "blind",
+      "externalId": "cmt-462023799",
+      "title": "죽는다",
+      "excerpt": "다들뭐해",
+      "author": "!******* 작성자",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EB%93%A4%EB%AD%90%ED%95%B4-7crn6ha0#462023799",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T02:44:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T17:44:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114278,
+      "source": "blind",
+      "externalId": "cmt-462023774",
+      "title": "누나나 소개팅해주라",
+      "excerpt": "다들뭐해",
+      "author": "i******",
+      "company": "한국무역협회",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EB%93%A4%EB%AD%90%ED%95%B4-7crn6ha0#462023774",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T02:44:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T17:44:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114279,
+      "source": "blind",
+      "externalId": "cmt-462023759",
+      "title": "ㅋㅋ여잔데",
+      "excerpt": "다들뭐해",
+      "author": "!******* 작성자",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8B%A4%EB%93%A4%EB%AD%90%ED%95%B4-7crn6ha0#462023759",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T02:44:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T17:44:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1075504,7 +1075584,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T02:41:19+09:00"
+      "slowAt": "2026-11-21T02:44:19+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1093821,7 +1093901,8 @@
         "6704176",
         "6704182",
         "6704187",
-        "6704189"
+        "6704189",
+        "6704192"
       ]
     },
     "blind": {
