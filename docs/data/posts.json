@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T16:20:07+00:00",
+  "updatedAt": "2026-11-20T16:26:14+00:00",
   "posts": [
     {
       "id": 149,
@@ -1074115,6 +1074115,44 @@
       "firstSeenAt": "2026-11-20T16:20:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114215,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%9E%90-%EC%96%B8%EB%8B%88-mf0l4o2f",
+      "title": "영자 언니",
+      "excerpt": "닮았어 당나귀",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90-%EC%96%B8%EB%8B%88-mf0l4o2f",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T01:25:55+09:00",
+      "views": 11,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T16:26:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 114216,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%8B%B0%ED%82%A4%ED%83%80%EC%B9%B4%ED%86%A0%ED%81%AC-uyeri8ba",
+      "title": "티키타카토크!",
+      "excerpt": "할사람~",
+      "author": "d********",
+      "company": "서민금융진흥원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%8B%B0%ED%82%A4%ED%83%80%EC%B9%B4%ED%86%A0%ED%81%AC-uyeri8ba",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T01:25:56+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T16:26:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1074299,7 +1074337,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T01:22:50+09:00"
+      "slowAt": "2026-11-21T01:25:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1092600,7 +1092638,8 @@
         "6704129",
         "6704132",
         "6704134",
-        "6704139"
+        "6704139",
+        "6704143"
       ]
     },
     "blind": {
