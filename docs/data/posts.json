@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T18:48:13+00:00",
+  "updatedAt": "2026-11-20T18:50:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -1075795,6 +1075795,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-20T18:48:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114300,
+      "source": "blind",
+      "externalId": "cmt-462026649",
+      "title": "인정?",
+      "excerpt": "영호인데",
+      "author": "헬******** 작성자",
+      "company": "KT M&S",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EC%9D%B8%EB%8D%B0-jda14cic#462026649",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T03:50:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T18:50:40+00:00",
       "isSeed": false,
       "kind": "reply"
     }
