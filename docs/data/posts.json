@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T08:15:20+00:00",
+  "updatedAt": "2026-11-20T08:18:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -1066274,6 +1066274,46 @@
       "firstSeenAt": "2026-11-20T08:15:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113820,
+      "source": "qoo",
+      "externalId": "cmt-4412819190",
+      "title": "뭐래",
+      "excerpt": "아 이번기수는 영호가 다 망쳐놓음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412809186#4412819190",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T16:17:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T08:18:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113821,
+      "source": "blind",
+      "externalId": "cmt-461954786",
+      "title": "모솔특집 출연자분인가",
+      "excerpt": "이민호 닮았단 소리 많이 듣습니다",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%AF%BC%ED%98%B8-%EB%8B%AE%EC%95%98%EB%8B%A8-%EC%86%8C%EB%A6%AC-%EB%A7%8E%EC%9D%B4-%EB%93%A3%EC%8A%B5%EB%8B%88%EB%8B%A4-du1xhm8i#461954786",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T17:18:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T08:18:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1066385,7 +1066425,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T17:15:03+09:00"
+      "slowAt": "2026-11-20T17:18:04+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1084567,6 +1084607,7 @@
         "6703512",
         "6703514",
         "6703516",
+        "6703517",
         "6703522",
         "6703526",
         "6703537",
@@ -1084580,7 +1084621,8 @@
         "6703574",
         "6703581",
         "6703582",
-        "6703593"
+        "6703593",
+        "6703605"
       ]
     },
     "blind": {
