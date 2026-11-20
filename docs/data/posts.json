@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T14:57:56+00:00",
+  "updatedAt": "2026-11-20T14:58:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -1073420,6 +1073420,25 @@
       "firstSeenAt": "2026-11-20T14:57:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114180,
+      "source": "qoo",
+      "externalId": "4413385856",
+      "title": "방송은 진짜 신중히..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4413385856",
+      "postedLabel": "23:57",
+      "postedAt": "2026-11-20T23:57:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T14:58:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1073604,7 +1073623,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T23:55:39+09:00"
+      "slowAt": "2026-11-20T23:58:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1105251,7 +1105270,8 @@
         "4413163777",
         "4413225793",
         "4413251657",
-        "4413354308"
+        "4413354308",
+        "4413385856"
       ]
     },
     "keep": "v2",
