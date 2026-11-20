@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T03:11:55+00:00",
+  "updatedAt": "2026-11-20T03:16:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -1062068,6 +1062068,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-20T03:11:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113608,
+      "source": "qoo",
+      "externalId": "cmt-4412507185",
+      "title": "ㅋㅋㅋ",
+      "excerpt": "지난번에 이어 이번주에도 물음표 뜬 영호영자 대화",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412383540#4412507185",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T11:16:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T03:16:56+00:00",
       "isSeed": false,
       "kind": "reply"
     }
