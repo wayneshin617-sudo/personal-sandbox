@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T11:05:18+00:00",
+  "updatedAt": "2026-11-20T11:06:35+00:00",
   "posts": [
     {
       "id": 149,
@@ -1069849,6 +1069849,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-20T11:05:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 114000,
+      "source": "qoo",
+      "externalId": "cmt-4413038508",
+      "title": "그럼 아닌거 같은사람은 쳐내던지.. 그리고 본인도 별로 알고 보거 싶은 행동도 없는거 같은데",
+      "excerpt": "근데 확실히 누구다 싶은게 없는 건데 그게 어장인가??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4413037871#4413038508",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T19:05:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T11:06:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114001,
+      "source": "qoo",
+      "externalId": "cmt-4413038842",
+      "title": "@1 쳐냈자나 정숙 영숙",
+      "excerpt": "근데 확실히 누구다 싶은게 없는 건데 그게 어장인가??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4413037871#4413038842",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T19:05:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T11:06:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114002,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EB%8C%80%EB%91%90%EC%95%BC-v05e2qvs",
+      "title": "현숙이 대두야?",
+      "excerpt": "평범해보이는디",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EB%8C%80%EB%91%90%EC%95%BC-v05e2qvs",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-20T20:05:19+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T11:06:35+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1070033,7 +1070092,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T20:03:47+09:00"
+      "slowAt": "2026-11-20T20:06:19+09:00"
     },
     "dc": {
       "doneIds": [
