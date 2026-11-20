@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T01:59:49+00:00",
+  "updatedAt": "2026-11-20T02:01:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -1060942,6 +1060942,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-20T01:59:49+00:00",
       "isSeed": false
+    },
+    {
+      "id": 113551,
+      "source": "blind",
+      "externalId": "cmt-461907468",
+      "title": "우물안에 개구리구나 싶음...ㅋㅋ",
+      "excerpt": "영수의 생각",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98%EC%9D%98-%EC%83%9D%EA%B0%81-ubenn5pt#461907468",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-20T11:00:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T02:01:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1061126,7 +1061146,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T10:58:06+09:00"
+      "slowAt": "2026-11-20T11:01:08+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1079064,6 +1079084,7 @@
         "6702906",
         "6702912",
         "6702916",
+        "6702923",
         "6702924",
         "6702925",
         "6702932",
@@ -1079080,7 +1079101,8 @@
         "6702987",
         "6702988",
         "6703002",
-        "6703010"
+        "6703010",
+        "6703017"
       ]
     },
     "blind": {
@@ -1086194,6 +1086216,7 @@
         "/kr/post/%ED%98%84%EC%88%99-%EC%99%B8%EB%AA%A8-%EC%A0%90%EC%A0%90-aqvoou0m",
         "/kr/post/%ED%98%84%EC%88%99-%EC%9A%95%ED%95%98%EB%8A%94%EA%B2%8C-%EC%9D%B4%ED%95%B4%EA%B0%80-%EC%95%88%EA%B0%90-kgvofjx4",
         "/kr/post/%ED%98%84%EC%88%99-%EC%9A%B0%EB%8A%94%EA%B1%B0%EC%9D%B4%ED%95%B4%EB%90%A8-jr5szzkr",
+        "/kr/post/%ED%98%84%EC%88%99-%EC%9A%B4%EA%B1%B0-100%ED%94%84%EB%A1%9C-%EC%98%81%EC%B2%A0%ED%83%93%EC%9D%80-%EC%95%84%EB%8B%8C%EB%93%AF-0wkwuco3",
         "/kr/post/%ED%98%84%EC%88%99-%EC%9A%B4%EB%8B%A4%EA%B3%A0-pgky8a2h",
         "/kr/post/%ED%98%84%EC%88%99-%EC%9B%A8%EC%9D%B4%ED%8A%B8-%ED%95%9C-%EA%B1%B0-%EB%A7%9E%EB%82%98-24jsqo60",
         "/kr/post/%ED%98%84%EC%88%99-%EC%9D%98%EC%99%B8%EB%A1%9C-%EC%97%AC%EC%9A%B0%EB%84%A4-btolidlo",
