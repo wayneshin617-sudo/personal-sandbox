@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T11:46:44+00:00",
+  "updatedAt": "2026-11-20T11:48:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -1070682,6 +1070682,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-20T11:46:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 114042,
+      "source": "blind",
+      "externalId": "cmt-461974222",
+      "title": "저거 귀척 아니고 원래 목소리같은데",
+      "excerpt": "옥순이 넘 귀여운거 아니냐",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%84%98-%EA%B7%80%EC%97%AC%EC%9A%B4%EA%B1%B0-%EC%95%84%EB%8B%88%EB%83%90-nw43di2t#461974222",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-20T20:05:44+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T11:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114043,
+      "source": "blind",
+      "externalId": "cmt-461979010",
+      "title": "나두 옥순 넘 귀엽더라 처신도 잘하고 심지도 있어 보임",
+      "excerpt": "옥순이 넘 귀여운거 아니냐",
+      "author": "이****",
+      "company": "미래에셋캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EB%84%98-%EA%B7%80%EC%97%AC%EC%9A%B4%EA%B1%B0-%EC%95%84%EB%8B%88%EB%83%90-nw43di2t#461979010",
+      "postedLabel": "8분",
+      "postedAt": "2026-11-20T20:39:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T11:48:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114044,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%84%9C%EC%9A%B8-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%EA%B0%88%EC%82%AC%EB%9E%8C-12a5i4cw",
+      "title": "서울 드라이브갈사람!!",
+      "excerpt": "드라이브갈사람!",
+      "author": "c*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%84%9C%EC%9A%B8-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%EA%B0%88%EC%82%AC%EB%9E%8C-12a5i4cw",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T20:47:43+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T11:48:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1070866,7 +1070925,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T20:45:08+09:00"
+      "slowAt": "2026-11-20T20:47:44+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1089055,6 +1089114,7 @@
         "6703768",
         "6703770",
         "6703775",
+        "6703787",
         "6703802",
         "6703809",
         "6703817",
