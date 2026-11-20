@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T07:15:52+00:00",
+  "updatedAt": "2026-11-20T07:17:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -1065204,6 +1065204,25 @@
       "firstSeenAt": "2026-11-20T07:15:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113766,
+      "source": "dc",
+      "externalId": "6703515",
+      "title": "와 순자...미쳤다",
+      "excerpt": "",
+      "author": "나다이새끼야",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6703515&page=1",
+      "postedLabel": "16:16",
+      "postedAt": "2026-11-20T16:16:49+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T07:17:13+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1065388,7 +1065407,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T16:14:13+09:00"
+      "slowAt": "2026-11-20T16:16:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1083472,6 +1083491,7 @@
         "6703417",
         "6703418",
         "6703421",
+        "6703426",
         "6703432",
         "6703437",
         "6703442",
