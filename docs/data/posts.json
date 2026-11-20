@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T05:14:30+00:00",
+  "updatedAt": "2026-11-20T05:15:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -1063436,6 +1063436,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-20T05:14:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 113677,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B7%BC%EB%8D%B0-%EB%84%88%EB%AC%B4-%EC%A7%88%EC%A7%88%EB%81%84%EB%8A%94%EA%B1%B0%EA%B0%99%EC%9D%8C-5vu1bqsj",
+      "title": "근데 너무 질질끄는거같음",
+      "excerpt": "34기 재밌게 보고 있긴한데 진도가 너무 늦어서 슬슬 지루해진다",
+      "author": "!(!:)/",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EB%84%88%EB%AC%B4-%EC%A7%88%EC%A7%88%EB%81%84%EB%8A%94%EA%B1%B0%EA%B0%99%EC%9D%8C-5vu1bqsj",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T14:15:12+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-20T05:15:30+00:00",
       "isSeed": false
     }
   ],
