@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T00:13:39+00:00",
+  "updatedAt": "2026-11-20T00:14:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -1059770,6 +1059770,45 @@
       "firstSeenAt": "2026-11-20T00:13:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113492,
+      "source": "blind",
+      "externalId": "cmt-461895611",
+      "title": "오..그런거같아",
+      "excerpt": "순자가 자연일거 같은 이유",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EA%B0%80-%EC%9E%90%EC%97%B0%EC%9D%BC%EA%B1%B0-%EA%B0%99%EC%9D%80-%EC%9D%B4%EC%9C%A0-gse7lzfu#461895611",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-20T09:13:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T00:14:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113493,
+      "source": "dc",
+      "externalId": "6702876",
+      "title": "정자세 풀업 1개도 못하는것들이 영호 폄하 하네 ㅋㅋ",
+      "excerpt": "",
+      "author": "이이",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6702876&page=1",
+      "postedLabel": "09:13",
+      "postedAt": "2026-11-20T09:13:41+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T00:14:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1059881,7 +1059920,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T09:11:22+09:00"
+      "slowAt": "2026-11-20T09:14:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1077874,7 +1077913,8 @@
         "6702853",
         "6702858",
         "6702862",
-        "6702865"
+        "6702865",
+        "6702873"
       ]
     },
     "blind": {
