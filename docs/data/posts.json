@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T13:48:44+00:00",
+  "updatedAt": "2026-11-20T13:50:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -1072466,6 +1072466,26 @@
       "firstSeenAt": "2026-11-20T13:48:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114132,
+      "source": "qoo",
+      "externalId": "cmt-4413226162",
+      "title": "ㅇㅇ이뻐",
+      "excerpt": "순자 57kg면",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4413225793#4413226162",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T21:49:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T13:50:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1072650,7 +1072670,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T22:47:09+09:00"
+      "slowAt": "2026-11-20T22:49:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1090896,7 +1090916,8 @@
         "6703988",
         "6703989",
         "6703990",
-        "6703999"
+        "6703999",
+        "6704012"
       ]
     },
     "blind": {
