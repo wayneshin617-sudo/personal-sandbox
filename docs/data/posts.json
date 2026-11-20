@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T15:23:05+00:00",
+  "updatedAt": "2026-11-20T15:32:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -1073916,6 +1073916,26 @@
       "firstSeenAt": "2026-11-20T15:23:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114205,
+      "source": "qoo",
+      "externalId": "cmt-4413358051",
+      "title": "확신을 안줌",
+      "excerpt": "근데 확실히 누구다 싶은게 없는 건데 그게 어장인가??",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4413037871#4413358051",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T23:32:03+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T15:32:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1074100,7 +1074120,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T00:28:51+09:00"
+      "slowAt": "2026-11-21T00:31:51+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1092380,7 +1092400,8 @@
         "6704108",
         "6704109",
         "6704112",
-        "6704118"
+        "6704118",
+        "6704119"
       ]
     },
     "blind": {
