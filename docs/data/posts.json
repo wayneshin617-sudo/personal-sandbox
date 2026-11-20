@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T10:51:12+00:00",
+  "updatedAt": "2026-11-20T10:52:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -1069710,6 +1069710,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-20T10:51:12+00:00",
       "isSeed": false
+    },
+    {
+      "id": 113993,
+      "source": "qoo",
+      "externalId": "cmt-4413023188",
+      "title": "말이 너무 많아",
+      "excerpt": "영철 지팔지꼰이지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412974272#4413023188",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T18:51:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T10:52:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113994,
+      "source": "blind",
+      "externalId": "cmt-461972451",
+      "title": "이 게시판 아닌듯",
+      "excerpt": "먹버 먹버 이러는데 맛있다 맛없다는 왜 안 됨?",
+      "author": "바***",
+      "company": "골프존",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A8%B9%EB%B2%84-%EB%A8%B9%EB%B2%84-%EC%9D%B4%EB%9F%AC%EB%8A%94%EB%8D%B0-%EB%A7%9B%EC%9E%88%EB%8B%A4-%EB%A7%9B%EC%97%86%EB%8B%A4%EB%8A%94-%EC%99%9C-%EC%95%88-%EB%90%A8-ovss7py1#461972451",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-20T19:52:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T10:52:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1069821,7 +1069861,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T19:49:37+09:00"
+      "slowAt": "2026-11-20T19:52:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1089803,6 +1089843,7 @@
         "/kr/post/%EB%A8%B8%EC%97%AC-%EB%82%98%EC%86%94%EC%99%9C-%EB%8B%A4%EC%8B%9C%ED%95%B4-gppddejt",
         "/kr/post/%EB%A8%B9%EA%B8%B0%EC%A0%84%EC%95%A0-%EC%A4%98%EC%95%BC%EC%A7%80-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-n8qabapp",
         "/kr/post/%EB%A8%B9%EA%B8%B0%EC%A0%84%EC%97%90-%EC%A4%98%EC%95%BC%EC%A7%80-u1ls2lil",
+        "/kr/post/%EB%A8%B9%EB%B2%84-%EB%A8%B9%EB%B2%84-%EC%9D%B4%EB%9F%AC%EB%8A%94%EB%8D%B0-%EB%A7%9B%EC%9E%88%EB%8B%A4-%EB%A7%9B%EC%97%86%EB%8B%A4%EB%8A%94-%EC%99%9C-%EC%95%88-%EB%90%A8-ovss7py1",
         "/kr/post/%EB%A8%BC-%EA%B0%9C%EC%86%8C%EB%A6%AC%EC%95%BC-%EA%B7%B8%EB%83%A5-%EC%96%BC%EA%B5%B4%EC%9D%B4%EC%95%BC-jkostio5",
         "/kr/post/%EB%A9%80%EB%A6%AC-%EC%A0%80%EB%A0%87%EA%B2%8C-%EC%8B%AC%ED%95%98%EB%A9%B4-%EB%84%88%EB%AC%B4-%EC%82%B4%EA%B8%B0-%ED%9E%98%EB%93%A4%EA%B2%A0%EB%8B%A4-%E3%85%9C%E3%85%9C%E3%85%9C-3cbkg2sg",
         "/kr/post/%EB%A9%80%EB%AF%B8%EA%B0%80%E2%80%A6-%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%82%98%EB%8A%94%EA%B2%8C-%EA%B0%80%EB%8A%A5%ED%95%B4-%ED%99%8D%EC%B2%9C%EA%B9%8C%EC%A7%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B0%90-3bur3cp2",
