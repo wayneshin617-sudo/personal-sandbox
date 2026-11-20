@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T03:02:56+00:00",
+  "updatedAt": "2026-11-20T03:05:56+00:00",
   "posts": [
     {
       "id": 149,
@@ -1061775,6 +1061775,25 @@
       "firstSeenAt": "2026-11-20T03:02:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113593,
+      "source": "dc",
+      "externalId": "6703123",
+      "title": "영철이 너무시러 혐오스러울정도",
+      "excerpt": "",
+      "author": "농약통",
+      "company": "",
+      "ip": "61.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6703123&page=1",
+      "postedLabel": "12:05",
+      "postedAt": "2026-11-20T12:05:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T03:05:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1061886,7 +1061905,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T12:02:39+09:00"
+      "slowAt": "2026-11-20T12:05:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1079942,7 +1079961,8 @@
         "6703066",
         "6703083",
         "6703097",
-        "6703101"
+        "6703101",
+        "6703122"
       ]
     },
     "blind": {
