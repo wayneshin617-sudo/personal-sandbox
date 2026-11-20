@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T05:09:30+00:00",
+  "updatedAt": "2026-11-20T05:10:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -1063319,6 +1063319,45 @@
       "firstSeenAt": "2026-11-20T05:09:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113671,
+      "source": "qoo",
+      "externalId": "cmt-4412615097",
+      "title": "근데 영철은 외모가 1순위같아",
+      "excerpt": "영자영철 같은 커플 은근히 있음",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4412207823#4412615097",
+      "postedLabel": "",
+      "postedAt": "2026-11-20T13:10:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T05:10:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113672,
+      "source": "dc",
+      "externalId": "6703331",
+      "title": "현숙이는 맘에도 없는 영철한테 왜 서운하냐 ㅋㅋ",
+      "excerpt": "",
+      "author": "공",
+      "company": "",
+      "ip": "112.157",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6703331&page=1",
+      "postedLabel": "14:10",
+      "postedAt": "2026-11-20T14:10:07+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T05:10:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1063503,7 +1063542,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T14:07:12+09:00"
+      "slowAt": "2026-11-20T14:10:12+09:00"
     },
     "dc": {
       "doneIds": [
