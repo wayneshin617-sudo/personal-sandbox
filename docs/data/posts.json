@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T03:48:21+00:00",
+  "updatedAt": "2026-11-20T03:57:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -1062587,6 +1062587,46 @@
       "firstSeenAt": "2026-11-20T03:48:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113634,
+      "source": "blind",
+      "externalId": "cmt-461914430",
+      "title": "뭐 이거 마시고 이따 시간되면 부르러 가겠다 정도는 돼야 완곡한 거절이지, 이거만 마시고 같이 나가자고 하면 그건 거절은 아니지..",
+      "excerpt": "왜자꾸 영호가 현숙 나가자는거 거절했다고 하냐",
+      "author": "O******* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%9C%EC%9E%90%EA%BE%B8-%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99-%EB%82%98%EA%B0%80%EC%9E%90%EB%8A%94%EA%B1%B0-%EA%B1%B0%EC%A0%88%ED%96%88%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%83%90-op26af57#461914430",
+      "postedLabel": "57분",
+      "postedAt": "2026-11-20T12:00:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T03:57:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113635,
+      "source": "blind",
+      "externalId": "cmt-461918679",
+      "title": "에이 거절이지",
+      "excerpt": "왜자꾸 영호가 현숙 나가자는거 거절했다고 하냐",
+      "author": "J******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%9C%EC%9E%90%EA%BE%B8-%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99-%EB%82%98%EA%B0%80%EC%9E%90%EB%8A%94%EA%B1%B0-%EA%B1%B0%EC%A0%88%ED%96%88%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%83%90-op26af57#461918679",
+      "postedLabel": "18분",
+      "postedAt": "2026-11-20T12:39:26+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T03:57:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1062698,7 +1062738,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-20T12:54:46+09:00"
+      "slowAt": "2026-11-20T12:57:27+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1080693,6 +1080733,7 @@
         "6702848",
         "6702853",
         "6702854",
+        "6702855",
         "6702858",
         "6702861",
         "6702862",
