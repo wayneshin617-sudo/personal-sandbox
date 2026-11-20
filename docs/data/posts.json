@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T00:55:51+00:00",
+  "updatedAt": "2026-11-20T00:59:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -1060385,6 +1060385,66 @@
       "firstSeenAt": "2026-11-20T00:55:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113523,
+      "source": "blind",
+      "externalId": "cmt-461895947",
+      "title": "오은영숙 짱",
+      "excerpt": "나는솔로 5대 팩폭",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-5%EB%8C%80-%ED%8C%A9%ED%8F%AD-gsh6oajy#461895947",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-20T09:16:45+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T00:59:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113524,
+      "source": "blind",
+      "externalId": "cmt-461896359",
+      "title": "1번이 너무 쎄다",
+      "excerpt": "나는솔로 5대 팩폭",
+      "author": "l*********",
+      "company": "서울시설공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-5%EB%8C%80-%ED%8C%A9%ED%8F%AD-gsh6oajy#461896359",
+      "postedLabel": "39분",
+      "postedAt": "2026-11-20T09:19:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T00:59:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113525,
+      "source": "blind",
+      "externalId": "cmt-461896535",
+      "title": "지가 왕인가요? 어디감",
+      "excerpt": "나는솔로 5대 팩폭",
+      "author": "l********",
+      "company": "진에어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-5%EB%8C%80-%ED%8C%A9%ED%8F%AD-gsh6oajy#461896535",
+      "postedLabel": "37분",
+      "postedAt": "2026-11-20T09:21:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T00:59:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1060569,7 +1060629,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T09:55:33+09:00"
+      "slowAt": "2026-11-20T09:58:45+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1078499,7 +1078559,8 @@
         "6702882",
         "6702889",
         "6702895",
-        "6702904"
+        "6702904",
+        "6702916"
       ]
     },
     "blind": {
