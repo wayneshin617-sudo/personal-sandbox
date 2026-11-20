@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T09:51:19+00:00",
+  "updatedAt": "2026-11-20T09:57:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -1068621,6 +1068621,45 @@
       "firstSeenAt": "2026-11-20T09:51:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 113938,
+      "source": "blind",
+      "externalId": "cmt-461961806",
+      "title": "공무원 너가 여자 볼줄 아는거지",
+      "excerpt": "여자 미드의 중요성 = 남자 체격의 중요성",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-%EB%AF%B8%EB%93%9C%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-=-%EB%82%A8%EC%9E%90-%EC%B2%B4%EA%B2%A9%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-htfx1ai6#461961806",
+      "postedLabel": "38분",
+      "postedAt": "2026-11-20T18:19:02+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T09:57:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 113939,
+      "source": "dc",
+      "externalId": "6703730",
+      "title": "1영호가 괜찮아보이긴 처음",
+      "excerpt": "",
+      "author": "..",
+      "company": "",
+      "ip": "221.167",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6703730&page=1",
+      "postedLabel": "18:56",
+      "postedAt": "2026-11-20T18:56:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T09:57:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1068805,7 +1068844,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-20T18:54:03+09:00"
+      "slowAt": "2026-11-20T18:57:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1100296,7 +1100335,8 @@
         "4412718403",
         "4412809186",
         "4412861016",
-        "4412974272"
+        "4412974272",
+        "4413029268"
       ]
     },
     "keep": "v2",
