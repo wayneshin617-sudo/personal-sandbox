@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-20T16:56:20+00:00",
+  "updatedAt": "2026-11-20T16:57:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -1074487,6 +1074487,26 @@
       "firstSeenAt": "2026-11-20T16:56:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114234,
+      "source": "dc",
+      "externalId": "cmt-11037235",
+      "title": "ㄷㄷ - dc App",
+      "excerpt": "아기 옥순이 보고 가실게여",
+      "author": "ㄴㄱ",
+      "company": "",
+      "ip": "211.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6704167&page=1#cmt_11037235",
+      "postedLabel": "11.21 01:57:22",
+      "postedAt": "2026-11-21T01:57:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-20T16:57:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1074598,7 +1074618,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-21T01:54:34+09:00"
+      "slowAt": "2026-11-21T01:57:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1092980,7 +1093000,8 @@
         "6704157",
         "6704159",
         "6704163",
-        "6704165"
+        "6704165",
+        "6704167"
       ]
     },
     "blind": {
