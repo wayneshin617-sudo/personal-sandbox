@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T02:56:49+00:00",
+  "updatedAt": "2026-11-21T03:05:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -1078245,6 +1078245,25 @@
       "firstSeenAt": "2026-11-21T02:56:49+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114424,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B4%91%EC%88%98-vs-24%EB%B2%99%EC%8B%9D-f5xpd3ow",
+      "title": "투표글 34광수 vs 24벙식 투표",
+      "excerpt": "여자들 누구 만날거임",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B4%91%EC%88%98-vs-24%EB%B2%99%EC%8B%9D-f5xpd3ow",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T12:05:31+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-21T03:05:49+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1078429,7 +1078448,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T12:02:32+09:00"
+      "slowAt": "2026-11-21T12:05:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1096832,7 +1096851,8 @@
         "6704455",
         "6704456",
         "6704460",
-        "6704463"
+        "6704463",
+        "6704466"
       ]
     },
     "blind": {
