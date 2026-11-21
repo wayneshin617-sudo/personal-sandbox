@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T14:14:48+00:00",
+  "updatedAt": "2026-11-21T14:16:17+00:00",
   "posts": [
     {
       "id": 149,
@@ -1088031,6 +1088031,25 @@
       "firstSeenAt": "2026-11-21T14:14:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114917,
+      "source": "dc",
+      "externalId": "6705235",
+      "title": "34기 모임썰",
+      "excerpt": "",
+      "author": "썰쟁이",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6705235&page=1",
+      "postedLabel": "23:15",
+      "postedAt": "2026-11-21T23:15:29+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T14:16:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1088215,7 +1088234,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T23:13:00+09:00"
+      "slowAt": "2026-11-21T23:15:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1106864,7 +1106883,8 @@
         "6705210",
         "6705219",
         "6705221",
-        "6705224"
+        "6705224",
+        "6705234"
       ]
     },
     "blind": {
