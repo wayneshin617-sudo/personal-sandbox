@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T17:47:25+00:00",
+  "updatedAt": "2026-11-21T18:00:25+00:00",
   "posts": [
     {
       "id": 149,
@@ -1090470,6 +1090470,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-21T17:47:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115040,
+      "source": "qoo",
+      "externalId": "cmt-4414306975",
+      "title": "내가 티비로 봐서 웃기긴함",
+      "excerpt": "근데 영수 좀 웃기지 않아?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4413163777#4414306975",
+      "postedLabel": "",
+      "postedAt": "2026-11-22T01:59:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T18:00:25+00:00",
       "isSeed": false,
       "kind": "reply"
     }
