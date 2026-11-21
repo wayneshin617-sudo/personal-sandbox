@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T08:36:00+00:00",
+  "updatedAt": "2026-11-21T08:36:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -1084277,6 +1084277,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-21T08:36:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 114728,
+      "source": "blind",
+      "externalId": "cmt-462091588",
+      "title": "빈유는 만질수가 없어",
+      "excerpt": "34기 순자",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%88%9C%EC%9E%90-drd2xsal#462091588",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T17:36:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T08:36:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1084461,7 +1084481,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T17:33:43+09:00"
+      "slowAt": "2026-11-21T17:36:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1102967,7 +1102987,8 @@
         "6704754",
         "6704761",
         "6704763",
-        "6704766"
+        "6704766",
+        "6704773"
       ]
     },
     "blind": {
@@ -1108033,6 +1108054,7 @@
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%82%AC%EB%9E%91%EC%97%90-%EB%B9%A0%EC%A1%8C%EC%9D%84-%EB%95%8C%EA%B0%80-%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4-mh57oi3u",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%88%9C%EC%9E%90-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B2%8C%EB%90%9C%EA%B1%B0-%EA%B3%B5%EA%B0%90%ED%95%A8-br0lvtyc",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%8B%9D%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EA%B0%80%EC%84%A4%EB%93%A4-%EB%AA%A8%EC%95%84%EB%B4%84-gthxuapd",
+        "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%98%81%EC%9E%90%EB%9E%91-%EC%96%98%EA%B8%B0%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%9B%83%EC%B0%B8%ED%95%98%EB%8A%94%EA%B2%8C-m4clmlpy",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%B1%99%EA%B8%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%96%B4%EB%8B%A4-zftprmog",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%B0%AC%EC%96%91%EB%B0%9B%EC%9D%84-%EC%A0%95%EB%8F%84%EB%A1%9C-%EC%9E%98%EC%83%9D%EA%B2%BC%EC%96%B4-b4h6pqaw",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%9E%98%EC%83%8C%EA%B8%B4%EA%B2%83%EB%8F%84-%EB%A7%9E%EB%8A%94%EB%8D%B0-%EC%98%81%ED%98%B8%EC%83%81%EC%9D%80-vwxnmp56",
