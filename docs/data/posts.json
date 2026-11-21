@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T08:04:00+00:00",
+  "updatedAt": "2026-11-21T08:07:00+00:00",
   "posts": [
     {
       "id": 149,
@@ -1083787,6 +1083787,45 @@
       "firstSeenAt": "2026-11-21T08:04:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114703,
+      "source": "dc",
+      "externalId": "6704749",
+      "title": "2기영숙이랑 34기 현숙 닮음",
+      "excerpt": "",
+      "author": "찬의타티스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6704749&page=1",
+      "postedLabel": "17:06",
+      "postedAt": "2026-11-21T17:06:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T08:07:00+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 114704,
+      "source": "blind",
+      "externalId": "cmt-462088582",
+      "title": "ㅇㅇ지금 하는 기수임 옥순도 상당한데 순자가 워낙;;",
+      "excerpt": "34기 현숙 완전 초딩몸",
+      "author": "Y*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%ED%98%84%EC%88%99-%EC%99%84%EC%A0%84-%EC%B4%88%EB%94%A9%EB%AA%B8-ch82w1hp#462088582",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T17:06:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T08:07:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1083971,7 +1084010,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T17:03:42+09:00"
+      "slowAt": "2026-11-21T17:06:43+09:00"
     },
     "dc": {
       "doneIds": [
