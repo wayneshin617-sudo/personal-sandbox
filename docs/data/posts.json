@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T22:59:07+00:00",
+  "updatedAt": "2026-11-21T23:00:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -1091424,6 +1091424,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-21T22:59:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115088,
+      "source": "dc",
+      "externalId": "6705544",
+      "title": "여자들이 원햇던 진짜 남자 곰상",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6705544&page=1",
+      "postedLabel": "07:59",
+      "postedAt": "2026-11-22T07:59:00+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T23:00:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 115089,
+      "source": "blind",
+      "externalId": "cmt-462162185",
+      "title": "20살도 아니고 30대 후반인데 저정도면 비정상 맞아....",
+      "excerpt": "이거 ㄹㅇ 아님?",
+      "author": "j******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EA%B1%B0-%E3%84%B9%E3%85%87-%EC%95%84%EB%8B%98-5yu33ptl#462162185",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T07:59:51+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T23:00:07+00:00",
       "isSeed": false,
       "kind": "reply"
     }
