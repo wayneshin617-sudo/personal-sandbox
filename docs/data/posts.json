@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T15:42:58+00:00",
+  "updatedAt": "2026-11-21T15:46:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -1089440,6 +1089440,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-21T15:42:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114988,
+      "source": "dc",
+      "externalId": "cmt-11038906",
+      "title": "얼굴도 괜찮은데",
+      "excerpt": "34순자 남초에서 ㅈㄴ 인기 많노",
+      "author": "dd",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6705258&page=1#cmt_11038906",
+      "postedLabel": "11.22 00:42:45",
+      "postedAt": "2026-11-22T00:42:45+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T15:46:59+00:00",
       "isSeed": false,
       "kind": "reply"
     }
