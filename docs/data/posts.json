@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T01:36:23+00:00",
+  "updatedAt": "2026-11-21T01:39:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -1077140,6 +1077140,26 @@
       "firstSeenAt": "2026-11-21T01:36:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114368,
+      "source": "blind",
+      "externalId": "cmt-462050552",
+      "title": "184",
+      "excerpt": "남자 키 작다고 하는 건",
+      "author": "a*****",
+      "company": "한독",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-%ED%82%A4-%EC%9E%91%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EA%B1%B4-yaa1g8rn#462050552",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T10:39:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T01:39:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1077324,7 +1077344,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T10:36:06+09:00"
+      "slowAt": "2026-11-21T10:39:01+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1095697,7 +1095717,8 @@
         "6704357",
         "6704361",
         "6704365",
-        "6704378"
+        "6704378",
+        "6704379"
       ]
     },
     "blind": {
