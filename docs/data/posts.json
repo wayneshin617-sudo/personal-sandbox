@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T07:04:01+00:00",
+  "updatedAt": "2026-11-21T07:05:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -1082653,6 +1082653,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-21T07:04:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 114646,
+      "source": "blind",
+      "externalId": "cmt-462082886",
+      "title": "회계산지 세무산지 직업 좋자나 한잔해",
+      "excerpt": "정숙이 메타인지는 ㄹㅇ 레전드다",
+      "author": "헬********",
+      "company": "KT M&S",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80%EB%8A%94-%E3%84%B9%E3%85%87-%EB%A0%88%EC%A0%84%EB%93%9C%EB%8B%A4-0k4gvtut#462082886",
+      "postedLabel": "2분",
+      "postedAt": "2026-11-21T16:03:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T07:05:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114647,
+      "source": "dc",
+      "externalId": "6704704",
+      "title": "영철 외모 존나 아깝다",
+      "excerpt": "",
+      "author": "찬의타티스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6704704&page=1",
+      "postedLabel": "16:04",
+      "postedAt": "2026-11-21T16:04:53+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T07:05:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1082837,7 +1082876,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T16:02:16+09:00"
+      "slowAt": "2026-11-21T16:05:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1101316,7 +1101355,8 @@
         "6704674",
         "6704678",
         "6704680",
-        "6704690"
+        "6704690",
+        "6704698"
       ]
     },
     "blind": {
