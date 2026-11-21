@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T14:05:53+00:00",
+  "updatedAt": "2026-11-21T14:07:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1087932,6 +1087932,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-21T14:05:53+00:00",
       "isSeed": false
+    },
+    {
+      "id": 114912,
+      "source": "blind",
+      "externalId": "cmt-462129791",
+      "title": "씹프피는 진짜 만나는거 아니다",
+      "excerpt": "현숙 예뻐서 좋아했는데",
+      "author": "I*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%98%88%EB%BB%90%EC%84%9C-%EC%A2%8B%EC%95%84%ED%96%88%EB%8A%94%EB%8D%B0-gnpunpuv#462129791",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T23:07:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T14:07:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1088116,7 +1088136,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T23:04:03+09:00"
+      "slowAt": "2026-11-21T23:07:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1106762,7 +1106782,8 @@
         "6705203",
         "6705206",
         "6705210",
-        "6705219"
+        "6705219",
+        "6705221"
       ]
     },
     "blind": {
@@ -1114022,6 +1114043,7 @@
         "/kr/post/%ED%98%84%EC%88%99-%EC%98%81%ED%98%B8-%EC%9E%98-%EB%90%90%EC%9D%8C-%EC%A2%8B%EA%B2%A0%EB%8A%94%EB%8D%B0-d04hx0dp",
         "/kr/post/%ED%98%84%EC%88%99-%EC%98%81%ED%98%B8-fkln6w5l",
         "/kr/post/%ED%98%84%EC%88%99-%EC%98%81%ED%98%B8-n5jbgwl3",
+        "/kr/post/%ED%98%84%EC%88%99-%EC%98%88%EB%BB%90%EC%84%9C-%EC%A2%8B%EC%95%84%ED%96%88%EB%8A%94%EB%8D%B0-gnpunpuv",
         "/kr/post/%ED%98%84%EC%88%99-%EC%98%88%EB%BB%90-%ED%95%A0%EB%A7%A4-%EA%B0%99%EC%A7%80-%EC%95%8A%EC%95%84-eifz6l7s",
         "/kr/post/%ED%98%84%EC%88%99-%EC%98%88%EC%81%98%EA%B8%B4%ED%95%B4-5dwexza1",
         "/kr/post/%ED%98%84%EC%88%99-%EC%98%A4%EB%8A%98-%EC%84%B1%EA%B9%94-%EB%8B%A4-%EB%82%98%EC%98%B4-kchsgtel",
