@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T16:35:05+00:00",
+  "updatedAt": "2026-11-21T16:36:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -1090038,6 +1090038,46 @@
       "firstSeenAt": "2026-11-21T16:35:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115018,
+      "source": "blind",
+      "externalId": "cmt-462147905",
+      "title": "멘헤라는 있던데",
+      "excerpt": "여긴 예쁜여자 없지?",
+      "author": "g******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B4-%EC%98%88%EC%81%9C%EC%97%AC%EC%9E%90-%EC%97%86%EC%A7%80-0m8q2j4q#462147905",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-22T01:35:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T16:36:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115019,
+      "source": "blind",
+      "externalId": "cmt-462147983",
+      "title": "예쁜데 여기있는 사람이 정상인이겠냐구 ㅠ 나도 집이 좋은데 연애는 노력해사 밖으로 나간다",
+      "excerpt": "여긴 예쁜여자 없지?",
+      "author": "l*********",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EA%B8%B4-%EC%98%88%EC%81%9C%EC%97%AC%EC%9E%90-%EC%97%86%EC%A7%80-0m8q2j4q#462147983",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T01:36:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T16:36:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1090222,7 +1090262,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T01:33:19+09:00"
+      "slowAt": "2026-11-22T01:36:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1108909,7 +1108949,8 @@
         "6705339",
         "6705342",
         "6705355",
-        "6705358"
+        "6705358",
+        "6705360"
       ]
     },
     "blind": {
