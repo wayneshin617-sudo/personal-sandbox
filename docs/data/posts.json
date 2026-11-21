@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T10:01:47+00:00",
+  "updatedAt": "2026-11-21T10:04:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1085213,6 +1085213,46 @@
       "firstSeenAt": "2026-11-21T10:01:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114775,
+      "source": "qoo",
+      "externalId": "cmt-4413881962",
+      "title": "ㄹㅇ 뭐눈엔 뭐만 보인다",
+      "excerpt": "영철이 영호뒷담하는거 하나도 공감이 안됨",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4413648622#4413881962",
+      "postedLabel": "",
+      "postedAt": "2026-11-21T18:04:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T10:04:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 114776,
+      "source": "dc",
+      "externalId": "cmt-11038325",
+      "title": "삼전하닉 너도 나도 산다고할때 끝물이다싶어서 그때 다팜",
+      "excerpt": "나솔갤줌들은 주식 안함?",
+      "author": "성실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6704808&page=2#cmt_11038325",
+      "postedLabel": "11.21 18:34:45",
+      "postedAt": "2026-11-21T18:34:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T10:04:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1085324,7 +1085364,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-21T19:01:30+09:00"
+      "slowAt": "2026-11-21T19:04:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1103935,7 +1103975,8 @@
         "6704857",
         "6704860",
         "6704863",
-        "6704868"
+        "6704868",
+        "6704873"
       ]
     },
     "blind": {
