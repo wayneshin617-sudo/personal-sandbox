@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T06:01:29+00:00",
+  "updatedAt": "2026-11-21T06:02:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -1081286,6 +1081286,64 @@
       "firstSeenAt": "2026-11-21T06:01:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114577,
+      "source": "dc",
+      "externalId": "6704632",
+      "title": "여자들도 남자 소두 좋아해?",
+      "excerpt": "",
+      "author": "트페미kmj자살",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6704632&page=1",
+      "postedLabel": "15:01",
+      "postedAt": "2026-11-21T15:01:33+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T06:02:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 114578,
+      "source": "qoo",
+      "externalId": "4413756058",
+      "title": "광수 전여친 이야기 하는 거 왤케..뭔가 왤케..오글거리지..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4413756058",
+      "postedLabel": "15:02",
+      "postedAt": "2026-11-21T15:02:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T06:02:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 114579,
+      "source": "blind",
+      "externalId": "cmt-462076990",
+      "title": "와.... 이런 사람이 있다고?? 영자는 인상만 봐도 기분 나빠지는 얼굴인데??",
+      "excerpt": "영자단은 없냐?",
+      "author": "1*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8B%A8%EC%9D%80-%EC%97%86%EB%83%90-6xfein1c#462076990",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T15:02:10+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T06:02:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1081397,7 +1081455,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-21T14:59:10+09:00"
+      "slowAt": "2026-11-21T15:02:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1099931,7 +1099989,8 @@
         "6704601",
         "6704606",
         "6704614",
-        "6704624"
+        "6704624",
+        "6704629"
       ]
     },
     "blind": {
@@ -1103977,6 +1104036,7 @@
         "/kr/post/%EC%98%81%EC%9E%90%EB%8B%98-%EC%A0%9C%EB%B0%9C-%EB%8B%B9%EC%9E%A5-%EC%8A%A4%ED%94%BC%EC%B9%98%ED%95%99%EC%9B%90-%EA%B0%80%EC%84%9C-%EB%B0%9C%EC%9D%8C%EB%B0%9C%EC%84%B1-%EA%B5%90%EC%A0%95%EC%A2%80-5op8xmvy",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8B%98-%EC%B2%AD%ED%95%99%EB%8F%99-%EA%B0%99%EC%9D%80-%EB%8A%90%EB%82%8C%EB%8A%90%EB%84%A4%EC%97%AC-0lug4vj4",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8B%98-%ED%95%9C%EC%9D%98%EC%82%AC%EC%9D%B8%EA%B1%B0-%EC%B9%98%EA%B3%A0%EB%8A%94-obwa6wd0",
+        "/kr/post/%EC%98%81%EC%9E%90%EB%8B%A8%EC%9D%80-%EC%97%86%EB%83%90-6xfein1c",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8F%84-%EA%B0%90%EC%A7%80%EB%8D%95%EC%A7%80%EB%8B%A4-ivbwthfz",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8F%84-%EC%B0%B8%E2%80%A6-5g32phyd",
         "/kr/post/%EC%98%81%EC%9E%90%EB%8F%84-%EC%BD%94-%ED%95%9C%EA%B1%B0%EC%9E%84-vfk888sw",
@@ -1113379,7 +1113439,8 @@
         "4413385856",
         "4413597493",
         "4413614974",
-        "4413648622"
+        "4413648622",
+        "4413756058"
       ]
     },
     "keep": "v2",
