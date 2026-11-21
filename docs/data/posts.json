@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T10:34:55+00:00",
+  "updatedAt": "2026-11-21T10:40:55+00:00",
   "posts": [
     {
       "id": 149,
@@ -1085691,6 +1085691,26 @@
       "firstSeenAt": "2026-11-21T10:34:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114799,
+      "source": "blind",
+      "externalId": "cmt-462103733",
+      "title": "저런게 진짜 가스라이팅이지",
+      "excerpt": "그것이 알고 싶다 지난거 봤는데",
+      "author": "j*********",
+      "company": "NC",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0-%EC%8B%B6%EB%8B%A4-%EC%A7%80%EB%82%9C%EA%B1%B0-%EB%B4%A4%EB%8A%94%EB%8D%B0-fcgtti1v#462103733",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-21T19:34:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T10:40:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1085875,7 +1085895,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T19:37:37+09:00"
+      "slowAt": "2026-11-21T19:40:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1104437,7 +1104457,8 @@
         "6704937",
         "6704938",
         "6704941",
-        "6704945"
+        "6704945",
+        "6704946"
       ]
     },
     "blind": {
