@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T03:05:49+00:00",
+  "updatedAt": "2026-11-21T03:07:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -1078264,6 +1078264,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-21T03:05:49+00:00",
       "isSeed": false
+    },
+    {
+      "id": 114425,
+      "source": "blind",
+      "externalId": "cmt-462060301",
+      "title": "생각이 없는",
+      "excerpt": "이숙캠 같은 거 보면",
+      "author": "L*****",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EC%88%99%EC%BA%A0-%EA%B0%99%EC%9D%80-%EA%B1%B0-%EB%B3%B4%EB%A9%B4-3wer3fhh#462060301",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T12:07:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T03:07:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1096852,7 +1096872,8 @@
         "6704456",
         "6704460",
         "6704463",
-        "6704466"
+        "6704466",
+        "6704468"
       ]
     },
     "blind": {
