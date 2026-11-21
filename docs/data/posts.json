@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T18:00:25+00:00",
+  "updatedAt": "2026-11-21T18:42:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1090492,6 +1090492,25 @@
       "firstSeenAt": "2026-11-21T18:00:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115041,
+      "source": "dc",
+      "externalId": "6705462",
+      "title": "갤 쳐망했네",
+      "excerpt": "",
+      "author": "40달러Again",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6705462&page=1",
+      "postedLabel": "03:40",
+      "postedAt": "2026-11-22T03:40:43+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T18:42:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1090603,7 +1090622,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-22T03:39:22+09:00"
+      "slowAt": "2026-11-22T03:42:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1109389,6 +1109408,7 @@
         "6705435",
         "6705438",
         "6705443",
+        "6705445",
         "6705446",
         "6705447",
         "6705456"
