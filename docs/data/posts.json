@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T16:48:24+00:00",
+  "updatedAt": "2026-11-21T16:51:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1090137,6 +1090137,45 @@
       "firstSeenAt": "2026-11-21T16:48:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115023,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%80-%EB%82%A8%EC%9E%90-5b2c3cop",
+      "title": "저 남자",
+      "excerpt": "쪽지o",
+      "author": "q*****",
+      "company": "삼성물산",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%80-%EB%82%A8%EC%9E%90-5b2c3cop",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-22T01:50:04+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-21T16:51:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 115024,
+      "source": "blind",
+      "externalId": "cmt-462149213",
+      "title": "너 남자 쪽지X",
+      "excerpt": "저 남자",
+      "author": "[********",
+      "company": "현대하이라이프",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%80-%EB%82%A8%EC%9E%90-5b2c3cop#462149213",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T01:51:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T16:51:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1090321,7 +1090360,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T01:48:06+09:00"
+      "slowAt": "2026-11-22T01:51:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1115323,6 +1115362,7 @@
         "/kr/post/%EC%A0%80%ED%9A%8C%EA%B3%84%EC%82%AC-%EB%AA%87%EC%82%B4%EC%9D%B4%EB%9E%98-80qi81o3",
         "/kr/post/%EC%A0%80%ED%9D%AC-%EB%91%98%EC%9D%80-%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-38djtjep",
         "/kr/post/%EC%A0%80-%E3%85%88%E3%84%B9%ED%95%98%EA%B3%A0-31%EA%B8%B0-%EA%B2%B0%ED%98%BC%EC%BB%A4%ED%94%8C-%EC%A7%A0-gv00iw3v",
+        "/kr/post/%EC%A0%80-%EB%82%A8%EC%9E%90-5b2c3cop",
         "/kr/post/%EC%A0%80-%EB%B6%84%EC%9D%80-%EB%AD%90%EC%A7%80-nye5aqgq",
         "/kr/post/%EC%A0%80-%EC%95%84%EC%A0%80%EC%94%A8-%EC%A7%84%EC%A7%9C-03265qie",
         "/kr/post/%EC%A0%80-%EC%95%88%EA%B2%BD%EC%9D%80-%EC%AB%8C-%EC%A7%84%EC%A7%9C-6tu1aug0",
