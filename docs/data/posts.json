@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T16:03:02+00:00",
+  "updatedAt": "2026-11-21T16:04:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -1089621,6 +1089621,26 @@
       "firstSeenAt": "2026-11-21T16:03:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114997,
+      "source": "blind",
+      "externalId": "cmt-462144645",
+      "title": "그렇군 알겟엉",
+      "excerpt": "영숙처럼 날씬하면서 탄탄한 몸 어케 만들어?",
+      "author": "l******* 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%B2%98%EB%9F%BC-%EB%82%A0%EC%94%AC%ED%95%98%EB%A9%B4%EC%84%9C-%ED%83%84%ED%83%84%ED%95%9C-%EB%AA%B8-%EC%96%B4%EC%BC%80-%EB%A7%8C%EB%93%A4%EC%96%B4-3lxv3hzo#462144645",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T01:03:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T16:04:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1089805,7 +1089825,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T01:00:44+09:00"
+      "slowAt": "2026-11-22T01:03:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1108473,6 +1108493,7 @@
         "6705258",
         "6705262",
         "6705265",
+        "6705267",
         "6705268",
         "6705277",
         "6705279",
