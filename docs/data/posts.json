@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T06:49:22+00:00",
+  "updatedAt": "2026-11-21T06:55:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -1082236,6 +1082236,25 @@
       "firstSeenAt": "2026-11-21T06:49:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114625,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A5%EC%88%9C-%EC%9D%B8%EA%B8%B0-%EA%B7%B8%EB%8B%A5%EC%9D%B8%EA%B2%8C-0axp7phj",
+      "title": "옥순 인기 그닥인게",
+      "excerpt": "귀엽긴한데 여자들한테 더 인기있는 스타일이야??",
+      "author": "o******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%9D%B8%EA%B8%B0-%EA%B7%B8%EB%8B%A5%EC%9D%B8%EA%B2%8C-0axp7phj",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-21T15:55:02+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-21T06:55:20+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1082347,7 +1082366,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-21T15:52:04+09:00"
+      "slowAt": "2026-11-21T15:55:02+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1100884,6 +1100903,7 @@
         "6704601",
         "6704606",
         "6704614",
+        "6704620",
         "6704624",
         "6704629",
         "6704632",
@@ -1100893,7 +1100913,8 @@
         "6704646",
         "6704661",
         "6704674",
-        "6704678"
+        "6704678",
+        "6704680"
       ]
     },
     "blind": {
