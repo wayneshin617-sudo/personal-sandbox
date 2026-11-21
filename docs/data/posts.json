@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-21T04:25:48+00:00",
+  "updatedAt": "2026-11-21T04:26:49+00:00",
   "posts": [
     {
       "id": 149,
@@ -1079396,6 +1079396,26 @@
       "firstSeenAt": "2026-11-21T04:25:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 114482,
+      "source": "dc",
+      "externalId": "cmt-11037840",
+      "title": "꿀잼임 ㅎ",
+      "excerpt": "볼것 많아서 좋음",
+      "author": "까불면쳐때림",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6704488&page=1#cmt_11037840",
+      "postedLabel": "11.21 12:39:52",
+      "postedAt": "2026-11-21T12:39:52+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-21T04:26:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1079580,7 +1079600,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-21T13:23:31+09:00"
+      "slowAt": "2026-11-21T13:26:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1098006,6 +1098026,7 @@
         "6704480",
         "6704484",
         "6704487",
+        "6704488",
         "6704491",
         "6704495",
         "6704496",
