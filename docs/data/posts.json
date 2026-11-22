@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T12:49:40+00:00",
+  "updatedAt": "2026-11-22T12:58:21+00:00",
   "posts": [
     {
       "id": 149,
@@ -1100659,6 +1100659,26 @@
       "firstSeenAt": "2026-11-22T12:49:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115554,
+      "source": "blind",
+      "externalId": "cmt-462249112",
+      "title": "실제로도 붕붕 떠있기 때문이지",
+      "excerpt": "영자는",
+      "author": "l*********",
+      "company": "스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-iele132i#462249112",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T21:58:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T12:58:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1100843,7 +1100863,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T21:55:04+09:00"
+      "slowAt": "2026-11-22T21:58:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1119872,7 +1119892,8 @@
         "6706358",
         "6706371",
         "6706377",
-        "6706388"
+        "6706388",
+        "6706391"
       ]
     },
     "blind": {
