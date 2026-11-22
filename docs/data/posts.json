@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T16:05:37+00:00",
+  "updatedAt": "2026-11-22T16:08:10+00:00",
   "posts": [
     {
       "id": 149,
@@ -1102620,6 +1102620,25 @@
       "firstSeenAt": "2026-11-22T16:05:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115653,
+      "source": "dc",
+      "externalId": "6706607",
+      "title": "여자마음을 몰라서 그러는데",
+      "excerpt": "",
+      "author": "메신",
+      "company": "",
+      "ip": "116.121",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6706607&page=1",
+      "postedLabel": "01:06",
+      "postedAt": "2026-11-23T01:06:41+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T16:08:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1102804,7 +1102823,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-23T01:05:21+09:00"
+      "slowAt": "2026-11-23T01:07:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1121894,6 +1121913,7 @@
         "6706572",
         "6706576",
         "6706577",
+        "6706579",
         "6706582",
         "6706589",
         "6706591",
