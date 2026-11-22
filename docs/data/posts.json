@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T13:28:26+00:00",
+  "updatedAt": "2026-11-22T13:31:26+00:00",
   "posts": [
     {
       "id": 149,
@@ -1100936,6 +1100936,26 @@
       "firstSeenAt": "2026-11-22T13:28:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115568,
+      "source": "blind",
+      "externalId": "cmt-462251982",
+      "title": "한국말인데 이해 안됨 수채화.......",
+      "excerpt": "영자는",
+      "author": "l********",
+      "company": "한국원자력연구원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%9E%90%EB%8A%94-iele132i#462251982",
+      "postedLabel": "13분",
+      "postedAt": "2026-11-22T22:18:08+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T13:31:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1101120,7 +1101140,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T22:28:08+09:00"
+      "slowAt": "2026-11-22T22:31:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1120160,7 +1120180,8 @@
         "6706424",
         "6706430",
         "6706454",
-        "6706463"
+        "6706463",
+        "6706467"
       ]
     },
     "blind": {
