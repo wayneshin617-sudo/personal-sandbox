@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T15:48:55+00:00",
+  "updatedAt": "2026-11-22T15:56:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -1102382,6 +1102382,45 @@
       "comments": 0,
       "firstSeenAt": "2026-11-22T15:48:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 115641,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%ED%98%B8-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98%EC%97%94%EC%A2%80%EC%95%84%EA%B9%9D%EA%B8%B4%ED%95%98%EB%8B%A4-akdzdunl",
+      "title": "34영호 이번기수엔좀아깝긴하다",
+      "excerpt": "뭐야 그 부산은행 영철나온 그런기수에 넣었어야할듯....",
+      "author": "o******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%ED%98%B8-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98%EC%97%94%EC%A2%80%EC%95%84%EA%B9%9D%EA%B8%B4%ED%95%98%EB%8B%A4-akdzdunl",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T00:56:20+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-22T15:56:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 115642,
+      "source": "blind",
+      "externalId": "cmt-462272458",
+      "title": "둘이 붙었으면 재밌었겠다",
+      "excerpt": "34영호 이번기수엔좀아깝긴하다",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%ED%98%B8-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98%EC%97%94%EC%A2%80%EC%95%84%EA%B9%9D%EA%B8%B4%ED%95%98%EB%8B%A4-akdzdunl#462272458",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T00:56:20+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T15:56:36+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1102493,7 +1102532,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-23T00:53:46+09:00"
+      "slowAt": "2026-11-23T00:56:20+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1129944,6 +1129983,7 @@
         "/kr/post/34%EC%98%81%ED%98%B8%EC%B2%98%EB%9F%BC-axseq0hi",
         "/kr/post/34%EC%98%81%ED%98%B8-%EA%B0%88%EB%B9%97%EC%82%B4-%EB%B0%94%EB%A5%B4%EB%8A%94%EA%B1%B0-%EC%98%A4%EB%B0%94%EC%95%84%EB%8B%98-chqrusam",
         "/kr/post/34%EC%98%81%ED%98%B8-%EB%8B%AE%EC%9D%80-%EC%97%B0%EC%98%88%EC%9D%B8-j3srpje7",
+        "/kr/post/34%EC%98%81%ED%98%B8-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98%EC%97%94%EC%A2%80%EC%95%84%EA%B9%9D%EA%B8%B4%ED%95%98%EB%8B%A4-akdzdunl",
         "/kr/post/34%EC%98%81%ED%98%B8-%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8D%94%EB%9D%BC-ilb5xpa5",
         "/kr/post/34%EC%98%81%ED%98%B8-%ED%94%84%EB%9E%91%EC%8A%A4it-%ED%9A%8C%EC%82%AC%EB%A9%B4-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84%EC%95%BC-2nnwl457",
         "/kr/post/34%EC%98%81%ED%98%B8-%ED%95%9C%EA%B5%AD%EC%97%90-%EC%9E%88%EB%8A%94-%ED%94%84%EB%9E%91%EC%8A%A4%EA%B3%84-%EC%A6%9D%EA%B6%8C%EC%82%AC%EB%A9%B4-dn3hjwkr",
