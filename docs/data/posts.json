@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T05:48:23+00:00",
+  "updatedAt": "2026-11-22T05:49:22+00:00",
   "posts": [
     {
       "id": 149,
@@ -1096285,6 +1096285,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-22T05:48:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 115333,
+      "source": "blind",
+      "externalId": "cmt-462199209",
+      "title": "누구임",
+      "excerpt": "와상철...",
+      "author": "x*****",
+      "company": "삼성물산",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80%EC%83%81%EC%B2%A0-wh241mi7#462199209",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T14:49:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T05:49:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115334,
+      "source": "blind",
+      "externalId": "cmt-462199229",
+      "title": "나도 내가 사랑하는 사람이 찌면 이해해줄 것 같아 본체는 그대로잖앙",
+      "excerpt": "와상철...",
+      "author": "우****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80%EC%83%81%EC%B2%A0-wh241mi7#462199229",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T14:49:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T05:49:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1096396,7 +1096436,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-22T14:46:06+09:00"
+      "slowAt": "2026-11-22T14:49:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1115291,7 +1115331,8 @@
         "6705820",
         "6705825",
         "6705826",
-        "6705835"
+        "6705835",
+        "6705838"
       ]
     },
     "blind": {
@@ -1120963,6 +1121004,7 @@
         "/kr/post/%EC%98%B7%EC%9D%B4-%ED%9D%B0%EC%83%89%EC%95%84%EB%8B%98-%EA%B2%80%EC%A0%95%EC%9D%B4%EA%B3%A0-pepm4amt",
         "/kr/post/%EC%99%80%EA%B7%BC%EB%8D%B0-%EC%98%81%EC%88%99%EC%9D%B4-%EB%B0%9C%EB%AC%B8%EC%8B%A0%EB%B3%B4%EB%8A%94%EB%8D%B0-%ED%86%A0%ED%95%A0%EA%B1%B0%EA%B0%99%EC%9D%80%EA%B1%B0%EC%A0%95%EC%83%81%EC%9E%84-flckix6m",
         "/kr/post/%EC%99%80%EA%BE%B8-%EC%A2%8B%EC%9D%80-%EC%95%A0%EA%B0%80-%EB%82%98%EC%8F%A0%EC%97%90-%EC%99%9C-%EB%82%98%EC%99%94%EB%82%98-%ED%96%88%EB%8A%94%EB%8D%B0%E2%80%A6-knpev1w1",
+        "/kr/post/%EC%99%80%EC%83%81%EC%B2%A0-wh241mi7",
         "/kr/post/%EC%99%80%EC%94%8C-%EC%95%84%EC%B9%A8%EC%97%90-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EC%95%BD%EC%86%8D-%EC%9E%A1%EC%9D%80%EA%B1%B8-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%8B%A4-%EC%9E%88%EB%8A%94-%EA%B1%B0%EC%8B%A4%EC%97%90%EC%84%9C-%EC%B7%A8%EC%86%8C%ED%95%98%EB%84%BC%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-cg8t5ca3",
         "/kr/post/%EC%99%80%EC%94%A8-%EB%B0%A9%EA%B8%88-%EC%8A%A4%ED%91%9C%EC%9C%A0%ED%8A%AD-%EB%8B%A4%EB%B3%B4%EA%B3%A0%EC%98%B4%E3%84%B1%E3%85%8B%E3%85%8B-0dzg0kee",
         "/kr/post/%EC%99%80%EC%9A%B0-25%EA%B8%B0-%EC%88%9C%EC%9E%90%EB%9E%91-%EC%98%81%EC%88%98-%EA%B2%B0%ED%98%BC%ED%95%9C%EB%8B%A4%EB%84%A4-%EC%98%AC%ED%95%B4-12%EC%9B%94-xc6kbss2",
