@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T03:11:56+00:00",
+  "updatedAt": "2026-11-22T03:13:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -1093789,6 +1093789,45 @@
       "firstSeenAt": "2026-11-22T03:11:56+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115207,
+      "source": "qoo",
+      "externalId": "4414472594",
+      "title": "헐 모솔 옥상커플 결혼 영상 봤는데",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4414472594",
+      "postedLabel": "12:13",
+      "postedAt": "2026-11-22T12:13:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T03:13:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 115208,
+      "source": "blind",
+      "externalId": "cmt-462184479",
+      "title": "앗 영상인데 캡쳐하느라구 그렇게 나왔네ㅜㅜ",
+      "excerpt": "모솔 옥순 상철 결혼",
+      "author": "7**** 작성자",
+      "company": "CJ",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AA%A8%EC%86%94-%EC%98%A5%EC%88%9C-%EC%83%81%EC%B2%A0-%EA%B2%B0%ED%98%BC-a4k0cxgk#462184479",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T12:13:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T03:13:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1093900,7 +1093939,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-22T12:10:38+09:00"
+      "slowAt": "2026-11-22T12:13:39+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1112737,6 +1112776,7 @@
         "6705627",
         "6705633",
         "6705635",
+        "6705641",
         "6705646",
         "6705652",
         "6705656",
@@ -1112748,7 +1112788,8 @@
         "6705684",
         "6705690",
         "6705692",
-        "6705698"
+        "6705698",
+        "6705704"
       ]
     },
     "blind": {
@@ -1126286,7 +1126327,8 @@
         "4414266955",
         "4414298296",
         "4414298704",
-        "4414301162"
+        "4414301162",
+        "4414472594"
       ]
     },
     "keep": "v2",
