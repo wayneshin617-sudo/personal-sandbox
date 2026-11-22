@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T06:39:44+00:00",
+  "updatedAt": "2026-11-22T06:42:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -1096682,6 +1096682,25 @@
       "firstSeenAt": "2026-11-22T06:39:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115353,
+      "source": "dc",
+      "externalId": "6705913",
+      "title": "내친구가 진짜 자연킹슴이었는데..",
+      "excerpt": "",
+      "author": "앟",
+      "company": "",
+      "ip": "221.152",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6705913&page=1",
+      "postedLabel": "15:41",
+      "postedAt": "2026-11-22T15:41:00+09:00",
+      "views": 9,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-22T06:42:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1096866,7 +1096885,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T15:39:26+09:00"
+      "slowAt": "2026-11-22T15:42:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1115710,7 +1115729,8 @@
         "6705903",
         "6705904",
         "6705906",
-        "6705907"
+        "6705907",
+        "6705913"
       ]
     },
     "blind": {
