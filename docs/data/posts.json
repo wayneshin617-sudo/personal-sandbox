@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T16:53:02+00:00",
+  "updatedAt": "2026-11-22T16:59:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -1102699,6 +1102699,25 @@
       "firstSeenAt": "2026-11-22T16:53:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115657,
+      "source": "dc",
+      "externalId": "6706646",
+      "title": "임마 지금 라방중인데",
+      "excerpt": "",
+      "author": "ㅁㅇㄹ스굉ㄹ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6706646&page=1",
+      "postedLabel": "01:57",
+      "postedAt": "2026-11-23T01:57:56+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T16:59:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1102883,7 +1102902,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-23T01:56:37+09:00"
+      "slowAt": "2026-11-23T01:59:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1122001,7 +1122020,8 @@
         "6706620",
         "6706632",
         "6706634",
-        "6706637"
+        "6706637",
+        "6706645"
       ]
     },
     "blind": {
