@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T01:25:47+00:00",
+  "updatedAt": "2026-11-22T01:26:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -1092657,6 +1092657,46 @@
       "firstSeenAt": "2026-11-22T01:25:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115150,
+      "source": "blind",
+      "externalId": "cmt-462173743",
+      "title": "본판이 못생기긴했어",
+      "excerpt": "무신사 보다가 순자봤다",
+      "author": "i********",
+      "company": "부산대학교교직원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B4%EC%8B%A0%EC%82%AC-%EB%B3%B4%EB%8B%A4%EA%B0%80-%EC%88%9C%EC%9E%90%EB%B4%A4%EB%8B%A4-acueq7aw#462173743",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T10:26:27+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T01:26:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115151,
+      "source": "blind",
+      "externalId": "cmt-462173706",
+      "title": "못알아볼 정도로 예뻐지시지 않았나..",
+      "excerpt": "무신사 보다가 순자봤다",
+      "author": "v**** 작성자",
+      "company": "국민건강보험공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B4%EC%8B%A0%EC%82%AC-%EB%B3%B4%EB%8B%A4%EA%B0%80-%EC%88%9C%EC%9E%90%EB%B4%A4%EB%8B%A4-acueq7aw#462173706",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T10:26:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T01:26:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1092841,7 +1092881,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T10:23:28+09:00"
+      "slowAt": "2026-11-22T10:26:28+09:00"
     },
     "dc": {
       "doneIds": [
