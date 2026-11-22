@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T07:43:34+00:00",
+  "updatedAt": "2026-11-22T07:46:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1097292,6 +1097292,26 @@
       "firstSeenAt": "2026-11-22T07:43:34+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115384,
+      "source": "dc",
+      "externalId": "cmt-11040249",
+      "title": "ㅇㅈ합니노",
+      "excerpt": "본방때 안예뻤으면 끝 아닌가?",
+      "author": "보추장아찌",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6705919&page=1#cmt_11040249",
+      "postedLabel": "11.22 15:48:31",
+      "postedAt": "2026-11-22T15:48:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T07:46:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1097403,7 +1097423,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-22T16:43:17+09:00"
+      "slowAt": "2026-11-22T16:46:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1116332,6 +1116352,7 @@
         "6705907",
         "6705913",
         "6705915",
+        "6705919",
         "6705921",
         "6705924",
         "6705929",
@@ -1116343,7 +1116364,8 @@
         "6705956",
         "6705960",
         "6705966",
-        "6705967"
+        "6705967",
+        "6705969"
       ]
     },
     "blind": {
