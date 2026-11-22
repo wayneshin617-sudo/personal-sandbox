@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T09:36:26+00:00",
+  "updatedAt": "2026-11-22T09:42:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1098143,6 +1098143,65 @@
       "firstSeenAt": "2026-11-22T09:36:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115427,
+      "source": "dc",
+      "externalId": "cmt-11040545",
+      "title": "이상할 정도로 일본을 좋아하는 ㅅㄲ",
+      "excerpt": "창순이 일본에 여친있냐",
+      "author": "ㅇㅅㅇ",
+      "company": "",
+      "ip": "39.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6706062&page=2#cmt_11040545",
+      "postedLabel": "11.22 18:28:30",
+      "postedAt": "2026-11-22T18:28:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T09:42:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115428,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EA%B0%99%EC%9D%80-%EB%82%A8%EC%9E%90-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%A0%95%EB%B3%91%EC%98%AC%EB%93%AF-fekzwwzl",
+      "title": "영호 같은 남자 만나면 정병올듯",
+      "excerpt": "외모나 인성 다 너무 좋긴한데 연인으로서는 모르겠다 잘 저런남자한테 빠지면 답도 없음 ㅠ",
+      "author": "!*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B0%99%EC%9D%80-%EB%82%A8%EC%9E%90-%EB%A7%8C%EB%82%98%EB%A9%B4-%EC%A0%95%EB%B3%91%EC%98%AC%EB%93%AF-fekzwwzl",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T18:42:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-22T09:42:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 115429,
+      "source": "blind",
+      "externalId": "cmt-462223499",
+      "title": "한달에 3번 주말마다. 난이게 호감있는 사이에 정상같거든. 근데 영호는 두달에 한번 만날생각이래서 의아했지",
+      "excerpt": "34기 영호",
+      "author": "⋆******** 작성자",
+      "company": "트리니티항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%ED%98%B8-d6th0gwm#462223499",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T18:42:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T09:42:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1098327,7 +1098386,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T18:39:05+09:00"
+      "slowAt": "2026-11-22T18:42:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1117237,6 +1117296,7 @@
         "6706056",
         "6706057",
         "6706060",
+        "6706062",
         "6706065",
         "6706068",
         "6706074",
@@ -1117256,7 +1117316,8 @@
         "6706137",
         "6706139",
         "6706140",
-        "6706145"
+        "6706145",
+        "6706146"
       ]
     },
     "blind": {
