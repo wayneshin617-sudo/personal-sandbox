@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T01:59:03+00:00",
+  "updatedAt": "2026-11-22T02:00:33+00:00",
   "posts": [
     {
       "id": 149,
@@ -1092936,6 +1092936,45 @@
       "firstSeenAt": "2026-11-22T01:59:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115164,
+      "source": "dc",
+      "externalId": "6705629",
+      "title": "부동산투자 시 실패하지 않을 금액대별 환금성 좋은 단지",
+      "excerpt": "",
+      "author": "우사기",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6705629&page=1",
+      "postedLabel": "10:58",
+      "postedAt": "2026-11-22T10:58:59+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T02:00:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 115165,
+      "source": "blind",
+      "externalId": "cmt-462176977",
+      "title": "현숙이 생각보다 성격이 무매력임..",
+      "excerpt": "무슨 순자는 중하위권 픽? 이러면서 현숙과 순자의 위치가 차이 많이 난다는 식의 의견들이 보이는데",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AC%B4%EC%8A%A8-%EC%88%9C%EC%9E%90%EB%8A%94-%EC%A4%91%ED%95%98%EC%9C%84%EA%B6%8C-%ED%94%BD-%EC%9D%B4%EB%9F%AC%EB%A9%B4%EC%84%9C-%ED%98%84%EC%88%99%EA%B3%BC-%EC%88%9C%EC%9E%90%EC%9D%98-%EC%9C%84%EC%B9%98%EA%B0%80-%EC%B0%A8%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EB%82%9C%EB%8B%A4%EB%8A%94-%EC%8B%9D%EC%9D%98-%EC%9D%98%EA%B2%AC%EB%93%A4%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-g2rfqbo4#462176977",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T11:00:15+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T02:00:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1093047,7 +1093086,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-22T10:57:17+09:00"
+      "slowAt": "2026-11-22T11:00:15+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1111876,7 +1111915,8 @@
         "6705616",
         "6705618",
         "6705620",
-        "6705621"
+        "6705621",
+        "6705625"
       ]
     },
     "blind": {
