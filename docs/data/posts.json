@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T11:15:33+00:00",
+  "updatedAt": "2026-11-22T11:17:34+00:00",
   "posts": [
     {
       "id": 149,
@@ -1099454,6 +1099454,25 @@
       "firstSeenAt": "2026-11-22T11:15:33+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115493,
+      "source": "dc",
+      "externalId": "6706268",
+      "title": "근데 시발",
+      "excerpt": "",
+      "author": "주당비휴틀딱",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6706268&page=1",
+      "postedLabel": "20:16",
+      "postedAt": "2026-11-22T20:16:47+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-22T11:17:34+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1099638,7 +1099657,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T20:14:15+09:00"
+      "slowAt": "2026-11-22T20:17:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1118627,7 +1118646,8 @@
         "6706245",
         "6706250",
         "6706252",
-        "6706261"
+        "6706261",
+        "6706268"
       ]
     },
     "blind": {
