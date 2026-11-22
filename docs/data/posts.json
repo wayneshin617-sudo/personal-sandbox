@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T13:33:27+00:00",
+  "updatedAt": "2026-11-22T13:34:28+00:00",
   "posts": [
     {
       "id": 149,
@@ -1100976,6 +1100976,45 @@
       "firstSeenAt": "2026-11-22T13:33:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115570,
+      "source": "qoo",
+      "externalId": "cmt-4414916804",
+      "title": "이번기수 여출들 진심 다 좋음ㅋㅋㅋㅋㅋ 다",
+      "excerpt": "자꾸 보니까 영자도 귀여워 ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4414803929#4414916804",
+      "postedLabel": "",
+      "postedAt": "2026-11-22T21:33:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T13:34:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115571,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%BC%EC%88%A0%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B3%BC%EA%B1%B0-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%8B%A4%EB%B6%84%5E%5E-5npk474x",
+      "title": "혼술하면서 볼거 추천해주실분^^",
+      "excerpt": "나솔다봐서 도파민이 부족해염><",
+      "author": "l********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%BC%EC%88%A0%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B3%BC%EA%B1%B0-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%8B%A4%EB%B6%84%5E%5E-5npk474x",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T22:34:10+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-22T13:34:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1101160,7 +1101199,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T22:31:09+09:00"
+      "slowAt": "2026-11-22T22:34:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1120185,6 +1120224,7 @@
         "6706335",
         "6706337",
         "6706339",
+        "6706342",
         "6706347",
         "6706349",
         "6706357",
@@ -1120203,7 +1120243,8 @@
         "6706454",
         "6706463",
         "6706467",
-        "6706469"
+        "6706469",
+        "6706478"
       ]
     },
     "blind": {
