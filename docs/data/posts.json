@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T07:35:27+00:00",
+  "updatedAt": "2026-11-22T07:36:48+00:00",
   "posts": [
     {
       "id": 149,
@@ -1097194,6 +1097194,45 @@
       "firstSeenAt": "2026-11-22T07:35:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115379,
+      "source": "qoo",
+      "externalId": "cmt-4414610230",
+      "title": "어서 나으시길!",
+      "excerpt": "헐 모솔 옥상커플 결혼 영상 봤는데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4414472594#4414610230",
+      "postedLabel": "",
+      "postedAt": "2026-11-22T15:35:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T07:36:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115380,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%A7%80%EC%95%8A%EB%82%98%EC%9A%94-10zf01gu",
+      "title": "이번 기수 옥순도 괜찮지않나요?",
+      "excerpt": "저번주 순자 몸매가 ㅎㄷㄷ 해서 진짜 압도되긴하는데 현숙은 알아서 인기많아서 사람들이 잘안다가가고, 옥순이 젤 낫지않나여?",
+      "author": "I*********",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%A7%80%EC%95%8A%EB%82%98%EC%9A%94-10zf01gu",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T16:36:31+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-22T07:36:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1097378,7 +1097417,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T16:33:48+09:00"
+      "slowAt": "2026-11-22T16:36:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1116241,7 +1116280,8 @@
         "6705937",
         "6705938",
         "6705953",
-        "6705956"
+        "6705956",
+        "6705960"
       ]
     },
     "blind": {
