@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T08:43:52+00:00",
+  "updatedAt": "2026-11-22T08:46:53+00:00",
   "posts": [
     {
       "id": 149,
@@ -1097785,6 +1097785,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-22T08:43:52+00:00",
       "isSeed": false
+    },
+    {
+      "id": 115409,
+      "source": "blind",
+      "externalId": "cmt-462218061",
+      "title": "옥팔계가 뭔데?",
+      "excerpt": "왜 옥팔계 편드는 애들은",
+      "author": "무******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%9C-%EC%98%A5%ED%8C%94%EA%B3%84-%ED%8E%B8%EB%93%9C%EB%8A%94-%EC%95%A0%EB%93%A4%EC%9D%80-uqmxzrjw#462218061",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T17:46:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-22T08:46:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1116870,7 +1116890,8 @@
         "6706049",
         "6706057",
         "6706060",
-        "6706065"
+        "6706065",
+        "6706068"
       ]
     },
     "blind": {
