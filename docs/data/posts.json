@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-22T05:46:23+00:00",
+  "updatedAt": "2026-11-22T05:48:23+00:00",
   "posts": [
     {
       "id": 149,
@@ -1096266,6 +1096266,25 @@
       "firstSeenAt": "2026-11-22T05:46:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115332,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%99%80%EC%83%81%EC%B2%A0-wh241mi7",
+      "title": "와상철...",
+      "excerpt": "사고로 약물중독때메 살쪗대 실망할수도있는데 옥순진짜착하다",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%80%EC%83%81%EC%B2%A0-wh241mi7",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-22T14:48:06+09:00",
+      "views": 31,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-22T05:48:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1096450,7 +1096469,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-22T14:45:05+09:00"
+      "slowAt": "2026-11-22T14:48:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1115271,7 +1115290,8 @@
         "6705817",
         "6705820",
         "6705825",
-        "6705826"
+        "6705826",
+        "6705835"
       ]
     },
     "blind": {
