@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T16:02:31+00:00",
+  "updatedAt": "2026-11-23T16:05:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -1115304,6 +1115304,44 @@
       "firstSeenAt": "2026-11-23T16:02:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116295,
+      "source": "dc",
+      "externalId": "6708337",
+      "title": "또 뭔 꿍꿍이냐",
+      "excerpt": "",
+      "author": "안철수덕후",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6708337&page=1",
+      "postedLabel": "01:04",
+      "postedAt": "2026-11-24T01:04:27+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T16:05:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116296,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99-%EB%B3%B4%EB%A9%B4%EB%B3%BC%EC%88%98%EB%A1%9D-%EC%A2%8B%EC%9D%80%EB%94%94-enzk8qvr",
+      "title": "영숙 보면볼수록 좋은디",
+      "excerpt": "현숙 얘기 들어줄때 너무 다정혀 ㅜ",
+      "author": "a********",
+      "company": "가톨릭중앙의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99-%EB%B3%B4%EB%A9%B4%EB%B3%BC%EC%88%98%EB%A1%9D-%EC%A2%8B%EC%9D%80%EB%94%94-enzk8qvr",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T01:05:14+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-23T16:05:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
