@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T01:57:15+00:00",
+  "updatedAt": "2026-11-23T01:59:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1104673,6 +1104673,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-23T01:57:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115757,
+      "source": "blind",
+      "externalId": "cmt-462302525",
+      "title": "내말이.. 보니깐 쓰니가 약간 멘헤라에 못생기거나 뭔가 좀 하자가 있어서 3중녀들한테 차단당하고 까인 적 많나봄 ㄷㄷ",
+      "excerpt": "34 현숙 마인드를 보면",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A5%BC-%EB%B3%B4%EB%A9%B4-x47766qg#462302525",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T10:58:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T01:59:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115758,
+      "source": "blind",
+      "externalId": "cmt-462302492",
+      "title": "저번회차안봄?",
+      "excerpt": "34 현숙 마인드를 보면",
+      "author": "j***** 작성자",
+      "company": "시큐아이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%ED%98%84%EC%88%99-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A5%BC-%EB%B3%B4%EB%A9%B4-x47766qg#462302492",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T10:58:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T01:59:15+00:00",
       "isSeed": false,
       "kind": "reply"
     }
