@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T17:36:26+00:00",
+  "updatedAt": "2026-11-23T17:45:42+00:00",
   "posts": [
     {
       "id": 149,
@@ -1116233,6 +1116233,25 @@
       "firstSeenAt": "2026-11-23T17:36:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116342,
+      "source": "dc",
+      "externalId": "6708488",
+      "title": "시골에 살아도 한국 시골에 사는게 낫지",
+      "excerpt": "",
+      "author": "폭렬이뷰",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6708488&page=1",
+      "postedLabel": "02:45",
+      "postedAt": "2026-11-24T02:45:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T17:45:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1116417,7 +1116436,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T02:42:47+09:00"
+      "slowAt": "2026-11-24T02:45:25+09:00"
     },
     "dc": {
       "doneIds": [
