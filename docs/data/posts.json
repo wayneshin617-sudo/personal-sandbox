@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T15:25:19+00:00",
+  "updatedAt": "2026-11-23T15:26:36+00:00",
   "posts": [
     {
       "id": 149,
@@ -1115064,6 +1115064,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T15:25:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116283,
+      "source": "qoo",
+      "externalId": "cmt-4416012393",
+      "title": "더러워...",
+      "excerpt": "피디는 반응 아예 안봄?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4416011714#4416012393",
+      "postedLabel": "",
+      "postedAt": "2026-11-23T23:26:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T15:26:36+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1115175,7 +1115195,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-24T00:23:43+09:00"
+      "slowAt": "2026-11-24T00:26:18+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1134757,7 +1134777,8 @@
         "6708243",
         "6708256",
         "6708269",
-        "6708271"
+        "6708271",
+        "6708277"
       ]
     },
     "blind": {
