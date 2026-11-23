@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T16:48:31+00:00",
+  "updatedAt": "2026-11-23T16:52:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -1116098,6 +1116098,25 @@
       "firstSeenAt": "2026-11-23T16:48:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116335,
+      "source": "dc",
+      "externalId": "6708428",
+      "title": "34영철 = 32영수",
+      "excerpt": "",
+      "author": "라갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6708428&page=1",
+      "postedLabel": "01:51",
+      "postedAt": "2026-11-24T01:51:19+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T16:52:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1116282,7 +1116301,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T01:49:13+09:00"
+      "slowAt": "2026-11-24T01:52:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1135833,7 +1135852,8 @@
         "6708403",
         "6708411",
         "6708413",
-        "6708424"
+        "6708424",
+        "6708426"
       ]
     },
     "blind": {
