@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:52:16+00:00",
+  "updatedAt": "2026-11-23T14:54:45+00:00",
   "posts": [
     {
       "id": 149,
@@ -1114270,6 +1114270,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T14:52:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116243,
+      "source": "qoo",
+      "externalId": "4416040962",
+      "title": "상철 마인드가 90대 할배같네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4416040962",
+      "postedLabel": "23:54",
+      "postedAt": "2026-11-23T23:54:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:54:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1114381,7 +1114400,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-23T23:51:59+09:00"
+      "slowAt": "2026-11-23T23:54:29+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1147704,7 +1147723,8 @@
         "4416035347",
         "4416035608",
         "4416035646",
-        "4416037836"
+        "4416037836",
+        "4416040962"
       ]
     },
     "keep": "v2",
