@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:37:17+00:00",
+  "updatedAt": "2026-11-23T14:39:51+00:00",
   "posts": [
     {
       "id": 149,
@@ -1113829,6 +1113829,44 @@
       "firstSeenAt": "2026-11-23T14:37:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116220,
+      "source": "qoo",
+      "externalId": "4416025474",
+      "title": "영수형님은 진짜 아무것도 모른다",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4416025474",
+      "postedLabel": "23:38",
+      "postedAt": "2026-11-23T23:38:00+09:00",
+      "views": 20,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:39:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116221,
+      "source": "dc",
+      "externalId": "6708033",
+      "title": "채영이 헤어는 왜저러냐;;;",
+      "excerpt": "",
+      "author": "누자베스",
+      "company": "",
+      "ip": "125.248",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6708033&page=1",
+      "postedLabel": "23:38",
+      "postedAt": "2026-11-23T23:38:19+09:00",
+      "views": 22,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:39:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1114013,7 +1114051,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-23T23:37:01+09:00"
+      "slowAt": "2026-11-23T23:39:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1147235,7 +1147273,9 @@
         "4416021538",
         "4416022439",
         "4416023972",
-        "4416024001"
+        "4416024001",
+        "4416025474",
+        "4416026280"
       ]
     },
     "keep": "v2",
