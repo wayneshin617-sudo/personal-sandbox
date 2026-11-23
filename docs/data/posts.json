@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:15:43+00:00",
+  "updatedAt": "2026-11-23T14:16:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -1113024,6 +1113024,44 @@
       "firstSeenAt": "2026-11-23T14:15:43+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116178,
+      "source": "qoo",
+      "externalId": "4416000797",
+      "title": "너무 터치가 많아",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4416000797",
+      "postedLabel": "23:16",
+      "postedAt": "2026-11-23T23:16:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:16:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116179,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98-%EA%B3%A8%ED%94%84%EA%B0%80%EC%A7%80%EA%B3%A0-%EC%97%BC%EB%B3%91%EB%96%A0%EB%8A%94%EA%B1%B0-%EC%A1%B4%EB%82%98-%EA%BC%B4%EB%B3%B4%EA%B8%B0%EC%8B%AB%EB%84%A4-chd4d5en",
+      "title": "계결 영수 골프가지고 염병떠는거 존나 꼴보기싫네",
+      "excerpt": "에휴",
+      "author": "|********",
+      "company": "한국도로공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98-%EA%B3%A8%ED%94%84%EA%B0%80%EC%A7%80%EA%B3%A0-%EC%97%BC%EB%B3%91%EB%96%A0%EB%8A%94%EA%B1%B0-%EC%A1%B4%EB%82%98-%EA%BC%B4%EB%B3%B4%EA%B8%B0%EC%8B%AB%EB%84%A4-chd4d5en",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T23:16:25+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-23T14:16:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1113208,7 +1113246,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-23T23:13:25+09:00"
+      "slowAt": "2026-11-23T23:16:25+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1132682,7 +1132720,8 @@
         "6707793",
         "6707801",
         "6707815",
-        "6707830"
+        "6707830",
+        "6707838"
       ]
     },
     "blind": {
@@ -1146391,7 +1146430,8 @@
         "4415979145",
         "4415984992",
         "4415992057",
-        "4415995858"
+        "4415995858",
+        "4416000797"
       ]
     },
     "keep": "v2",
