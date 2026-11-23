@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:19:08+00:00",
+  "updatedAt": "2026-11-23T14:20:09+00:00",
   "posts": [
     {
       "id": 149,
@@ -1113119,6 +1113119,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T14:19:08+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116183,
+      "source": "qoo",
+      "externalId": "4416004428",
+      "title": "지랄한다 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4416004428",
+      "postedLabel": "23:19",
+      "postedAt": "2026-11-23T23:19:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:20:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116184,
+      "source": "dc",
+      "externalId": "6707862",
+      "title": "저 볗신같은 남자는 하",
+      "excerpt": "",
+      "author": "누자베스",
+      "company": "",
+      "ip": "125.248",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6707862&page=1",
+      "postedLabel": "23:19",
+      "postedAt": "2026-11-23T23:19:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:20:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1113303,7 +1113341,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-23T23:16:25+09:00"
+      "slowAt": "2026-11-23T23:19:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1146492,7 +1146530,8 @@
         "4415995858",
         "4416000797",
         "4416002743",
-        "4416004059"
+        "4416004059",
+        "4416004428"
       ]
     },
     "keep": "v2",
