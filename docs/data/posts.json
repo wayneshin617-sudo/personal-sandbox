@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:23:39+00:00",
+  "updatedAt": "2026-11-23T14:24:57+00:00",
   "posts": [
     {
       "id": 149,
@@ -1113271,6 +1113271,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T14:23:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116191,
+      "source": "dc",
+      "externalId": "cmt-11042563",
+      "title": "꼴랑 400? 400은 벌어본적이 있냐",
+      "excerpt": "생활비 연5000준다고??",
+      "author": "우히히",
+      "company": "",
+      "ip": "221.144",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6707893&page=1#cmt_11042563",
+      "postedLabel": "11.23 23:24:01",
+      "postedAt": "2026-11-23T23:24:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:24:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1113382,7 +1113402,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-23T23:21:09+09:00"
+      "slowAt": "2026-11-23T23:24:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1132932,7 +1132952,8 @@
         "6707830",
         "6707838",
         "6707840",
-        "6707866"
+        "6707866",
+        "6707893"
       ]
     },
     "blind": {
