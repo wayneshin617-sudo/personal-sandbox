@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:17:54+00:00",
+  "updatedAt": "2026-11-23T14:19:08+00:00",
   "posts": [
     {
       "id": 149,
@@ -1113100,6 +1113100,25 @@
       "comments": 1,
       "firstSeenAt": "2026-11-23T14:17:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116182,
+      "source": "qoo",
+      "externalId": "4416004059",
+      "title": "담배도 그렇고 골프도 그렇고 저 사람은 결혼을 하면 안될 사람임",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4416004059",
+      "postedLabel": "23:19",
+      "postedAt": "2026-11-23T23:19:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:19:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1146471,7 +1146490,9 @@
         "4415984992",
         "4415992057",
         "4415995858",
-        "4416000797"
+        "4416000797",
+        "4416002743",
+        "4416004059"
       ]
     },
     "keep": "v2",
