@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T13:57:44+00:00",
+  "updatedAt": "2026-11-23T13:58:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1112478,6 +1112478,25 @@
       "firstSeenAt": "2026-11-23T13:57:44+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116150,
+      "source": "qoo",
+      "externalId": "4415979145",
+      "title": "그래도 안정환은 유부남 짬밥은 있네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4415979145",
+      "postedLabel": "22:58",
+      "postedAt": "2026-11-23T22:58:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T13:58:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1112662,7 +1112681,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-23T22:55:25+09:00"
+      "slowAt": "2026-11-23T22:58:25+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1145824,7 +1145843,8 @@
         "4415439232",
         "4415468892",
         "4415522133",
-        "4415961292"
+        "4415961292",
+        "4415979145"
       ]
     },
     "keep": "v2",
