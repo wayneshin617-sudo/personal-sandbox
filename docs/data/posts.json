@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:16:40+00:00",
+  "updatedAt": "2026-11-23T14:17:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -1113062,6 +1113062,44 @@
       "comments": 0,
       "firstSeenAt": "2026-11-23T14:16:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116180,
+      "source": "dc",
+      "externalId": "6707847",
+      "title": "생활비로 월 천씩 줄 수 있나?",
+      "excerpt": "",
+      "author": "ㅡ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6707847&page=1",
+      "postedLabel": "23:16",
+      "postedAt": "2026-11-23T23:16:44+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:17:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116181,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%8B%9C%EC%95%A0%ED%8B%80-%EC%83%81%EC%B2%A0%EC%9D%B4%EB%83%90-%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98%EB%83%90-wu2od5ik",
+      "title": "시애틀 상철이냐 회계사 영수냐",
+      "excerpt": "둘중 고른다면? 하... 모르겠다 그래도 영수가 나은가 바람만 안피면 그냥 아이키우고 살면될라나",
+      "author": "p*****",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%9C%EC%95%A0%ED%8B%80-%EC%83%81%EC%B2%A0%EC%9D%B4%EB%83%90-%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98%EB%83%90-wu2od5ik",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T23:17:36+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-23T14:17:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1113173,7 +1113211,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-23T23:14:25+09:00"
+      "slowAt": "2026-11-23T23:17:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1132721,7 +1132759,8 @@
         "6707801",
         "6707815",
         "6707830",
-        "6707838"
+        "6707838",
+        "6707840"
       ]
     },
     "blind": {
@@ -1132891,6 +1132930,7 @@
         "/kr/post/%EA%B2%BD%ED%97%98%EC%83%81-%EA%B0%84%ED%98%B8%EC%82%AC%EB%93%A4%EC%9D%B4-%EB%AC%B8%EC%8B%A0%EC%9D%B4-%EB%A7%8E%EC%95%98%EB%8D%98%EA%B1%B0%EA%B0%99%EC%9D%8C-zkb5mj0x",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EB%AC%BC%EB%B2%94%EC%83%81%EC%B2%A0%EB%B3%B4%EB%8B%A4-%EC%A0%95%EC%8B%A0%EB%B3%91%EC%9E%90-%EC%98%81%EC%88%98%EA%B0%80-%EB%8D%94-%ED%99%94%EB%82%98%EB%8D%98%EB%8D%B0-%EC%A0%95%EC%83%81%EC%9E%84-yz3ds3yi",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98%EB%9E%91-%EA%B5%AD%ED%99%94-8dwrlxwt",
+        "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98-%EA%B3%A8%ED%94%84%EA%B0%80%EC%A7%80%EA%B3%A0-%EC%97%BC%EB%B3%91%EB%96%A0%EB%8A%94%EA%B1%B0-%EC%A1%B4%EB%82%98-%EA%BC%B4%EB%B3%B4%EA%B8%B0%EC%8B%AB%EB%84%A4-chd4d5en",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%99%EA%B0%99%EC%9D%B4-%EB%A7%B9%ED%95%9C-%EC%97%AC%EC%9E%90%EB%8A%94-6m3etx5k",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%88%EA%B3%A0%ED%8E%B8-fb071shx",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%9E%AC%EB%B0%A9%EC%86%A1-%EC%8B%9C%EC%9E%91-hfb1cup4",
