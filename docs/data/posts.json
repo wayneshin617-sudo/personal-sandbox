@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:43:38+00:00",
+  "updatedAt": "2026-11-23T14:46:13+00:00",
   "posts": [
     {
       "id": 149,
@@ -1114000,6 +1114000,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T14:43:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116229,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%84%EC%9D%B4%EA%B5%AC-%EC%98%81%EC%88%98-%EB%A7%8E%EC%9D%B4-%EB%B9%84%EC%97%88%EB%84%A4-4ifsg07w",
+      "title": "아이구 영수 많이 비었네",
+      "excerpt": "아이고 곧 둥지틀거같은데ㅜ",
+      "author": "(*********",
+      "company": "리멤버앤컴퍼니",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EC%9D%B4%EA%B5%AC-%EC%98%81%EC%88%98-%EB%A7%8E%EC%9D%B4-%EB%B9%84%EC%97%88%EB%84%A4-4ifsg07w",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T23:45:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-23T14:46:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116230,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A4-%EB%A8%B8%EB%A6%AC%EB%AD%90%EC%95%BC-w5weu7lo",
+      "title": "오 머리뭐야?",
+      "excerpt": "이제야 틀었는데 여자mc머리 왜저래.. 놀랐잖아..",
+      "author": "!*********",
+      "company": "서울아산병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4-%EB%A8%B8%EB%A6%AC%EB%AD%90%EC%95%BC-w5weu7lo",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-23T23:45:56+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-23T14:46:13+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1114111,7 +1114149,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-23T23:43:23+09:00"
+      "slowAt": "2026-11-23T23:45:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1133672,7 +1133710,8 @@
         "6708061",
         "6708063",
         "6708073",
-        "6708082"
+        "6708082",
+        "6708117"
       ]
     },
     "blind": {
