@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:08:43+00:00",
+  "updatedAt": "2026-11-23T14:09:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -1112791,6 +1112791,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T14:08:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116166,
+      "source": "qoo",
+      "externalId": "4415992057",
+      "title": "샌드위치 안먹고 미역국 먹음 그래도 잘 먹는다고 좋아하고 관광지가서 대접도 못받고 하고싶은거 먹고싶은거 못해도 그냥 상철이 하는대로 하고",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4415992057",
+      "postedLabel": "23:09",
+      "postedAt": "2026-11-23T23:09:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:09:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116167,
+      "source": "dc",
+      "externalId": "6707799",
+      "title": "폭렬이 저 부인이 런친 거가 이해된다.",
+      "excerpt": "",
+      "author": "dd",
+      "company": "",
+      "ip": "27.1",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6707799&page=1",
+      "postedLabel": "23:09",
+      "postedAt": "2026-11-23T23:09:09+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:09:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1146149,7 +1146187,8 @@
         "4415522133",
         "4415961292",
         "4415979145",
-        "4415984992"
+        "4415984992",
+        "4415992057"
       ]
     },
     "keep": "v2",
