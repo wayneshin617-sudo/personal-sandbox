@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:21:23+00:00",
+  "updatedAt": "2026-11-23T14:22:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -1113195,6 +1113195,44 @@
       "comments": 0,
       "firstSeenAt": "2026-11-23T14:21:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116187,
+      "source": "qoo",
+      "externalId": "4416006634",
+      "title": "이혼한 아유를 알겠....",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4416006634",
+      "postedLabel": "23:21",
+      "postedAt": "2026-11-23T23:21:00+09:00",
+      "views": 17,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:22:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116188,
+      "source": "dc",
+      "externalId": "6707885",
+      "title": "여윽시 영포티 포티",
+      "excerpt": "",
+      "author": "친하게지내자",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6707885&page=1",
+      "postedLabel": "23:22",
+      "postedAt": "2026-11-23T23:22:12+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:22:37+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1132855,7 +1132893,8 @@
         "6707815",
         "6707830",
         "6707838",
-        "6707840"
+        "6707840",
+        "6707866"
       ]
     },
     "blind": {
@@ -1139285,6 +1139324,7 @@
         "/kr/post/%EC%A0%80-%E3%85%88%E3%84%B9%ED%95%98%EA%B3%A0-31%EA%B8%B0-%EA%B2%B0%ED%98%BC%EC%BB%A4%ED%94%8C-%EC%A7%A0-gv00iw3v",
         "/kr/post/%EC%A0%80-%EB%82%A8%EC%9E%90-5b2c3cop",
         "/kr/post/%EC%A0%80-%EB%B6%84%EC%9D%80-%EB%AD%90%EC%A7%80-nye5aqgq",
+        "/kr/post/%EC%A0%80-%EC%95%84%EC%A0%80%EC%94%A8%EB%8A%94-%EA%B2%B0%ED%98%BC%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%ED%98%BC%EC%9E%90-%EC%82%B4%EC%A7%80-ha4u0ycw",
         "/kr/post/%EC%A0%80-%EC%95%84%EC%A0%80%EC%94%A8-%EC%A7%84%EC%A7%9C-03265qie",
         "/kr/post/%EC%A0%80-%EC%95%88%EA%B2%BD%EC%9D%80-%EC%AB%8C-%EC%A7%84%EC%A7%9C-6tu1aug0",
         "/kr/post/%EC%A0%80-%EC%96%BC%EB%B9%A0-%EC%A7%84%EC%A7%9C-irei6783",
@@ -1146571,7 +1146611,8 @@
         "4416002743",
         "4416004059",
         "4416004428",
-        "4416005839"
+        "4416005839",
+        "4416006634"
       ]
     },
     "keep": "v2",
