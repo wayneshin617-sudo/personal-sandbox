@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T16:16:30+00:00",
+  "updatedAt": "2026-11-23T16:22:30+00:00",
   "posts": [
     {
       "id": 149,
@@ -1115401,6 +1115401,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T16:16:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116300,
+      "source": "dc",
+      "externalId": "cmt-11042681",
+      "title": "그건 또 싫다잖아 진짜 답없는 거지 ㅋㅋㅋ 그러면서 남자만 깜",
+      "excerpt": "돈못버는 남자랑 결혼하면 되지않아?",
+      "author": "날붕이",
+      "company": "",
+      "ip": "175.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6708373&page=1#cmt_11042681",
+      "postedLabel": "11.24 01:21:17",
+      "postedAt": "2026-11-24T01:21:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T16:22:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116301,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%AA%BB%ED%98%BC%EA%B0%99%EB%8B%A4-%EB%82%98-yf67dt17",
+      "title": "못혼같다 나",
+      "excerpt": "언제 결혼하니...내년 35살인데ㅠ 노처녀 다됐네",
+      "author": "*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%AA%BB%ED%98%BC%EA%B0%99%EB%8B%A4-%EB%82%98-yf67dt17",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T01:22:13+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-23T16:22:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1115585,7 +1115624,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T01:19:13+09:00"
+      "slowAt": "2026-11-24T01:22:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1135122,7 +1135161,9 @@
         "6708328",
         "6708341",
         "6708346",
-        "6708355"
+        "6708354",
+        "6708355",
+        "6708373"
       ]
     },
     "blind": {
