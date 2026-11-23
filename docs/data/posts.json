@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T03:35:40+00:00",
+  "updatedAt": "2026-11-23T03:39:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -1105925,6 +1105925,46 @@
       "firstSeenAt": "2026-11-23T03:35:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 115820,
+      "source": "qoo",
+      "externalId": "cmt-4415324757",
+      "title": "귀여워!!!",
+      "excerpt": "자꾸 보니까 영자도 귀여워 ㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4414803929#4415324757",
+      "postedLabel": "",
+      "postedAt": "2026-11-23T11:39:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T03:39:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 115821,
+      "source": "blind",
+      "externalId": "cmt-462308289",
+      "title": "부부끼리 보다니 재밌겠당",
+      "excerpt": "나솔 맨날했음 좋겠어",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%A7%A8%EB%82%A0%ED%96%88%EC%9D%8C-%EC%A2%8B%EA%B2%A0%EC%96%B4-xluiwy8m#462308289",
+      "postedLabel": "40분",
+      "postedAt": "2026-11-23T11:59:22+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T03:39:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1125323,6 +1125363,7 @@
         "6706943",
         "6706948",
         "6706953",
+        "6706955",
         "6706960",
         "6706970",
         "6706978",
@@ -1125340,7 +1125381,8 @@
         "6707040",
         "6707043",
         "6707049",
-        "6707051"
+        "6707051",
+        "6707052"
       ]
     },
     "blind": {
