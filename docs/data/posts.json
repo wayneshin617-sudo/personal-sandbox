@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-23T14:54:45+00:00",
+  "updatedAt": "2026-11-23T14:56:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -1114289,6 +1114289,86 @@
       "comments": null,
       "firstSeenAt": "2026-11-23T14:54:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116244,
+      "source": "qoo",
+      "externalId": "cmt-4415970694",
+      "title": "둘다싫어",
+      "excerpt": "광수는 곽튜브 떠오른다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4415247112#4415970694",
+      "postedLabel": "",
+      "postedAt": "2026-11-23T22:49:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:56:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116245,
+      "source": "blind",
+      "externalId": "cmt-462386909",
+      "title": "진짜깜놀함 .. 안정환이 젤이쁘네",
+      "excerpt": "오늘 채영이 머리 왜저래",
+      "author": "p*****",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EC%B1%84%EC%98%81%EC%9D%B4-%EB%A8%B8%EB%A6%AC-%EC%99%9C%EC%A0%80%EB%9E%98-41ywpjkr#462386909",
+      "postedLabel": "53분",
+      "postedAt": "2026-11-23T23:02:43+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:56:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116246,
+      "source": "blind",
+      "externalId": "cmt-462390527",
+      "title": "진짜 뭐임 ㅋㅋㅋㅋ 음방하다가 왔나..? 방송 보자마자 남편이랑 머리 왜저래? 했음ㅋㅋㅋ",
+      "excerpt": "오늘 채영이 머리 왜저래",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EC%B1%84%EC%98%81%EC%9D%B4-%EB%A8%B8%EB%A6%AC-%EC%99%9C%EC%A0%80%EB%9E%98-41ywpjkr#462390527",
+      "postedLabel": "27분",
+      "postedAt": "2026-11-23T23:28:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:56:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116247,
+      "source": "blind",
+      "externalId": "cmt-462393243",
+      "title": "징그러 깜놀",
+      "excerpt": "오늘 채영이 머리 왜저래",
+      "author": "j******",
+      "company": "한국종합기술",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EC%B1%84%EC%98%81%EC%9D%B4-%EB%A8%B8%EB%A6%AC-%EC%99%9C%EC%A0%80%EB%9E%98-41ywpjkr#462393243",
+      "postedLabel": "5분",
+      "postedAt": "2026-11-23T23:50:42+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-23T14:56:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1133966,7 +1134046,8 @@
         "6708138",
         "6708145",
         "6708158",
-        "6708188"
+        "6708188",
+        "6708204"
       ]
     },
     "blind": {
