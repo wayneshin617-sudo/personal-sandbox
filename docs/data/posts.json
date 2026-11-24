@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T13:07:50+00:00",
+  "updatedAt": "2026-11-24T13:10:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -1123033,6 +1123033,45 @@
       "firstSeenAt": "2026-11-24T13:07:50+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116686,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%91%EC%9E%90%EA%B8%B0-%EB%93%9C%EB%8A%94-%EC%83%9D%EA%B0%81%EC%9D%B8%EB%8D%B0-voylscjf",
+      "title": "갑자기 드는 생각인데",
+      "excerpt": "회계사영수 보면 볼수록 시험 어케 합격했나 싶은데 cpa냥이는 아닐까....",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%91%EC%9E%90%EA%B8%B0-%EB%93%9C%EB%8A%94-%EC%83%9D%EA%B0%81%EC%9D%B8%EB%8D%B0-voylscjf",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T22:10:07+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-24T13:10:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116687,
+      "source": "blind",
+      "externalId": "cmt-462508999",
+      "title": "머리가 좋아보임",
+      "excerpt": "회계사 되기 어렵지 않음?",
+      "author": "i******",
+      "company": "세무사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EB%90%98%EA%B8%B0-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EC%9D%8C-82jdu2vv#462508999",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T22:10:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T13:10:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1123217,7 +1123256,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T22:07:32+09:00"
+      "slowAt": "2026-11-24T22:10:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1143064,6 +1143103,7 @@
         "6709447",
         "6709448",
         "6709450",
+        "6709453",
         "6709455",
         "6709461",
         "6709462",
