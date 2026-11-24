@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T06:14:57+00:00",
+  "updatedAt": "2026-11-24T06:19:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1120203,6 +1120203,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-24T06:14:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116543,
+      "source": "blind",
+      "externalId": "cmt-462454903",
+      "title": "영자가 더 불쌍",
+      "excerpt": "나솔 이번기수 정주행중인데 현숙진짜 너무해",
+      "author": "s********",
+      "company": "NAVER",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%A0%95%EC%A3%BC%ED%96%89%EC%A4%91%EC%9D%B8%EB%8D%B0-%ED%98%84%EC%88%99%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4%ED%95%B4-zx66rlfh#462454903",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-24T14:37:23+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T06:19:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116544,
+      "source": "blind",
+      "externalId": "cmt-462456001",
+      "title": "영철이 일부러 영자 소외시켰잖아 똑같은거 아냐? 현숙도 영호만 바라보고..",
+      "excerpt": "나솔 이번기수 정주행중인데 현숙진짜 너무해",
+      "author": "j*********",
+      "company": "국세청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%A0%95%EC%A3%BC%ED%96%89%EC%A4%91%EC%9D%B8%EB%8D%B0-%ED%98%84%EC%88%99%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4%ED%95%B4-zx66rlfh#462456001",
+      "postedLabel": "30분",
+      "postedAt": "2026-11-24T14:49:22+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T06:19:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1120314,7 +1120354,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-24T15:16:24+09:00"
+      "slowAt": "2026-11-24T15:19:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1140138,7 +1140178,8 @@
         "6709098",
         "6709099",
         "6709110",
-        "6709116"
+        "6709116",
+        "6709123"
       ]
     },
     "blind": {
