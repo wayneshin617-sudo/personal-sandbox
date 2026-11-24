@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T15:06:39+00:00",
+  "updatedAt": "2026-11-24T15:08:01+00:00",
   "posts": [
     {
       "id": 149,
@@ -1124118,6 +1124118,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-24T15:06:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116741,
+      "source": "qoo",
+      "externalId": "4417041222",
+      "title": "돌싱모솔 본덬 있어??",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4417041222",
+      "postedLabel": "00:06",
+      "postedAt": "2026-11-25T00:06:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T15:08:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116742,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8F%8C%EC%8B%B1N%EB%AA%A8%EC%86%94-%EB%B3%B4%EB%8A%94%EC%82%AC%EB%9E%8C-%EC%9E%88%EC%96%B4-wzkvscpo",
+      "title": "돌싱N모솔 보는사람 있어?",
+      "excerpt": "남자 입장에서 까망콩보다 사월한테 더 끌릴수가 있어??! 비주얼 차이 큰거같은데... 신기해 까망콩 예쁜데 까매서 그런가???",
+      "author": "w**",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%8C%EC%8B%B1N%EB%AA%A8%EC%86%94-%EB%B3%B4%EB%8A%94%EC%82%AC%EB%9E%8C-%EC%9E%88%EC%96%B4-wzkvscpo",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T00:07:45+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-24T15:08:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1124229,7 +1124267,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-25T00:05:00+09:00"
+      "slowAt": "2026-11-25T00:07:45+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1158113,7 +1158151,8 @@
         "4416707958",
         "4416725076",
         "4416736084",
-        "4416826297"
+        "4416826297",
+        "4417041222"
       ]
     },
     "keep": "v2",
