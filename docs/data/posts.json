@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T13:53:26+00:00",
+  "updatedAt": "2026-11-24T13:56:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -1123346,6 +1123346,45 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-11-24T13:53:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116702,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EC%98%81%EC%88%98-voylscjf",
+      "title": "회계사영수",
+      "excerpt": "시험 어케 합격했나 싶은데 cpa냥이는 아닐까....",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC%EC%98%81%EC%88%98-voylscjf",
+      "postedLabel": "47분",
+      "postedAt": "2026-11-24T22:09:10+09:00",
+      "views": 266,
+      "recommends": 3,
+      "comments": 4,
+      "firstSeenAt": "2026-11-24T13:56:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116703,
+      "source": "blind",
+      "externalId": "cmt-462516076",
+      "title": "산만함 없엇으면 장학생으로 하버드 갓을듯",
+      "excerpt": "회계사 되기 어렵지 않음?",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EB%90%98%EA%B8%B0-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EC%9D%8C-82jdu2vv#462516076",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T22:56:10+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T13:56:27+00:00",
       "isSeed": false,
       "kind": "reply"
     }
