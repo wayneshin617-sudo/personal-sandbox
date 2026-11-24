@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T03:19:19+00:00",
+  "updatedAt": "2026-11-24T03:20:20+00:00",
   "posts": [
     {
       "id": 149,
@@ -1118718,6 +1118718,65 @@
       "firstSeenAt": "2026-11-24T03:19:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116468,
+      "source": "blind",
+      "externalId": "cmt-462440061",
+      "title": "나도 순자줌 문신깠다가 신고먹었는데",
+      "excerpt": "남자 입장에선 영숙보단 순자가 더 위험함",
+      "author": "i********* 작성자",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%A0-%EC%98%81%EC%88%99%EB%B3%B4%EB%8B%A8-%EC%88%9C%EC%9E%90%EA%B0%80-%EB%8D%94-%EC%9C%84%ED%97%98%ED%95%A8-yie52u8p#462440061",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-24T12:19:03+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T03:20:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116469,
+      "source": "dc",
+      "externalId": "6708886",
+      "title": "작품 할머니 와 쯔위",
+      "excerpt": "",
+      "author": "진....실,로",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6708886&page=1",
+      "postedLabel": "12:19",
+      "postedAt": "2026-11-24T12:19:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T03:20:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116470,
+      "source": "blind",
+      "externalId": "cmt-462440127",
+      "title": "상철한테 투잡 드립은 진짜… 대리수치왔음",
+      "excerpt": "남자 입장에선 영숙보단 순자가 더 위험함",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%A0-%EC%98%81%EC%88%99%EB%B3%B4%EB%8B%A8-%EC%88%9C%EC%9E%90%EA%B0%80-%EB%8D%94-%EC%9C%84%ED%97%98%ED%95%A8-yie52u8p#462440127",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T12:20:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T03:20:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1118902,7 +1118961,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T12:16:45+09:00"
+      "slowAt": "2026-11-24T12:20:04+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1138554,6 +1138613,7 @@
         "6708788",
         "6708792",
         "6708794",
+        "6708796",
         "6708800",
         "6708802",
         "6708804",
