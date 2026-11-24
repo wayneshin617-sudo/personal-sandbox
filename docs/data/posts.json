@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T06:03:08+00:00",
+  "updatedAt": "2026-11-24T06:06:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -1120125,6 +1120125,45 @@
       "firstSeenAt": "2026-11-24T06:03:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116539,
+      "source": "blind",
+      "externalId": "cmt-462455507",
+      "title": "술담배 다하면서 나이 4중 이상이면 애초에 2세 갖기가 힘들지 않을까? 육아 걱정할 필요 없어보여",
+      "excerpt": "헤비 골퍼, 스모커, 드링커…",
+      "author": "p*****",
+      "company": "신협중앙회",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%97%A4%EB%B9%84-%EA%B3%A8%ED%8D%BC-%EC%8A%A4%EB%AA%A8%EC%BB%A4-%EB%93%9C%EB%A7%81%EC%BB%A4%E2%80%A6-rs7dynxv#462455507",
+      "postedLabel": "22분",
+      "postedAt": "2026-11-24T14:43:49+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T06:06:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116540,
+      "source": "qoo",
+      "externalId": "4416497340",
+      "title": "ㅂㄴㅅ 운명공동체 주장하기엔 덜?부자야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4416497340",
+      "postedLabel": "15:05",
+      "postedAt": "2026-11-24T15:05:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T06:06:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1120309,7 +1120348,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T15:02:52+09:00"
+      "slowAt": "2026-11-24T15:05:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1140057,7 +1140096,8 @@
         "6709077",
         "6709081",
         "6709090",
-        "6709098"
+        "6709098",
+        "6709099"
       ]
     },
     "blind": {
@@ -1153873,7 +1153913,8 @@
         "4416366403",
         "4416428191",
         "4416465213",
-        "4416486054"
+        "4416486054",
+        "4416497340"
       ]
     },
     "keep": "v2",
