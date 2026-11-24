@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T13:56:27+00:00",
+  "updatedAt": "2026-11-24T13:57:27+00:00",
   "posts": [
     {
       "id": 149,
@@ -1123387,6 +1123387,25 @@
       "firstSeenAt": "2026-11-24T13:56:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116704,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EB%B2%88-34%ED%98%84%EC%88%99-%ED%8C%A8%EC%85%98-22%EC%98%A5%EC%88%9C%EC%9D%B4%EB%9E%91-%ED%95%A9%EC%84%B1%ED%95%B4%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%A7%84%EC%A7%9C-%EC%98%88%EC%81%98%EB%8B%A4-fiygsj50",
+      "title": "이번 34현숙 패션 22옥순이랑 합성해봤는데 진짜 예쁘다",
+      "excerpt": "뭔가 얼굴 작고 여리여리한 스타일이 입으면 잘 어울릴것 같아서 합성해봤는데 성공적",
+      "author": "!*********",
+      "company": "삼성의료원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-34%ED%98%84%EC%88%99-%ED%8C%A8%EC%85%98-22%EC%98%A5%EC%88%9C%EC%9D%B4%EB%9E%91-%ED%95%A9%EC%84%B1%ED%95%B4%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%A7%84%EC%A7%9C-%EC%98%88%EC%81%98%EB%8B%A4-fiygsj50",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T22:57:11+09:00",
+      "views": 76,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-24T13:57:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1123571,7 +1123590,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T22:54:09+09:00"
+      "slowAt": "2026-11-24T22:57:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1143480,7 +1143499,8 @@
         "6709676",
         "6709682",
         "6709684",
-        "6709693"
+        "6709693",
+        "6709701"
       ]
     },
     "blind": {
