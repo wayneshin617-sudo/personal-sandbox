@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T06:55:39+00:00",
+  "updatedAt": "2026-11-24T06:56:38+00:00",
   "posts": [
     {
       "id": 149,
@@ -1120381,6 +1120381,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-24T06:55:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116552,
+      "source": "qoo",
+      "externalId": "cmt-4416488414",
+      "title": "대부분 비용처리...",
+      "excerpt": "회계사 수입이 그렇게 많아?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4416428191#4416488414",
+      "postedLabel": "",
+      "postedAt": "2026-11-24T14:56:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T06:56:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116553,
+      "source": "blind",
+      "externalId": "cmt-462463189",
+      "title": "네놈 그만 해라",
+      "excerpt": "나솔 남출이 욕많이 먹는 이유",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EB%82%A8%EC%B6%9C%EC%9D%B4-%EC%9A%95%EB%A7%8E%EC%9D%B4-%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-bnndftwh#462463189",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T15:56:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T06:56:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1120565,7 +1120605,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T15:53:23+09:00"
+      "slowAt": "2026-11-24T15:56:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1141332,6 +1141372,7 @@
         "/kr/post/%EB%82%98%EC%86%94-%EB%82%98%EC%99%80%EC%84%9C-%EC%9A%95-%EC%95%88-%EB%A8%B9%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-r1h0z07q",
         "/kr/post/%EB%82%98%EC%86%94-%EB%82%A8%EC%9E%90%EB%93%A4-%EB%88%88-%EB%82%AE%EC%9D%80%EA%B1%B0-%EA%B0%99%EC%95%84-zoquzkb7",
         "/kr/post/%EB%82%98%EC%86%94-%EB%82%A8%EC%9E%90-%EB%B9%8C%EB%9F%B0-%EC%97%AC%EC%9E%90-%EB%B9%8C%EB%9F%B0-%ED%8A%B9%EC%A7%95-eg6qbco1",
+        "/kr/post/%EB%82%98%EC%86%94-%EB%82%A8%EC%B6%9C%EC%9D%B4-%EC%9A%95%EB%A7%8E%EC%9D%B4-%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-bnndftwh",
         "/kr/post/%EB%82%98%EC%86%94-%EB%84%88%EB%AC%B4-%EC%9E%AC%EB%B0%8C%EC%97%89-dzo7uo52",
         "/kr/post/%EB%82%98%EC%86%94-%EB%85%B8%EB%9E%98-%EB%B0%94%EB%80%90%EA%B1%B0-d8mow701",
         "/kr/post/%EB%82%98%EC%86%94-%EB%85%B8%EB%9E%98-%EB%B0%94%EB%80%90-%EA%B1%B0-%EB%84%88%EB%AC%B4-%EC%96%B4%EC%83%89%ED%95%B4-uzku8xlc",
