@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T04:50:19+00:00",
+  "updatedAt": "2026-11-24T04:52:44+00:00",
   "posts": [
     {
       "id": 149,
@@ -1119749,6 +1119749,46 @@
       "firstSeenAt": "2026-11-24T04:50:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116520,
+      "source": "blind",
+      "externalId": "cmt-462450337",
+      "title": "나르의 자존심. 그래도 사회에서는 고연봉 전문직으로 골프 자유롭게치고 하고싶은대로 살아왔는데 제동걸리는거 못참는거지",
+      "excerpt": "회계사 영수의 사고 흐름이 왜 저런지 설명 가능한 사람?",
+      "author": "힘내는 쿼카킁카🦫",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98%EC%9D%98-%EC%82%AC%EA%B3%A0-%ED%9D%90%EB%A6%84%EC%9D%B4-%EC%99%9C-%EC%A0%80%EB%9F%B0%EC%A7%80-%EC%84%A4%EB%AA%85-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%82%AC%EB%9E%8C-fw8b0lfk#462450337",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T13:52:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T04:52:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116521,
+      "source": "blind",
+      "externalId": "cmt-462450253",
+      "title": "자기중심적인 거지 뭐.. 어쨌든 나는 선. 내가 잘못됐단 생각은 안(못) 하는 거.",
+      "excerpt": "회계사 영수의 사고 흐름이 왜 저런지 설명 가능한 사람?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%EA%B3%84%EC%82%AC-%EC%98%81%EC%88%98%EC%9D%98-%EC%82%AC%EA%B3%A0-%ED%9D%90%EB%A6%84%EC%9D%B4-%EC%99%9C-%EC%A0%80%EB%9F%B0%EC%A7%80-%EC%84%A4%EB%AA%85-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%82%AC%EB%9E%8C-fw8b0lfk#462450253",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T13:52:28+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T04:52:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1119933,7 +1119973,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T13:49:04+09:00"
+      "slowAt": "2026-11-24T13:52:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1139635,6 +1139675,7 @@
         "6708917",
         "6708918",
         "6708921",
+        "6708924",
         "6708925",
         "6708930",
         "6708931",
