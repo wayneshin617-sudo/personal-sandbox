@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T11:26:46+00:00",
+  "updatedAt": "2026-11-24T11:32:46+00:00",
   "posts": [
     {
       "id": 149,
@@ -1122040,6 +1122040,26 @@
       "firstSeenAt": "2026-11-24T11:26:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116636,
+      "source": "blind",
+      "externalId": "cmt-462494411",
+      "title": "주세요~ 해바",
+      "excerpt": "아니 쪽지보내고싶은데무료로 준다는데 이건 도대체 언제줌?",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EC%AA%BD%EC%A7%80%EB%B3%B4%EB%82%B4%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%8D%B0%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%A4%80%EB%8B%A4%EB%8A%94%EB%8D%B0-%EC%9D%B4%EA%B1%B4-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%B8%EC%A0%9C%EC%A4%8C-hjqkycnl#462494411",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-24T20:32:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T11:32:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1122224,7 +1122244,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T20:29:30+09:00"
+      "slowAt": "2026-11-24T20:32:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1142087,7 +1142107,8 @@
         "6709511",
         "6709521",
         "6709523",
-        "6709528"
+        "6709528",
+        "6709537"
       ]
     },
     "blind": {
