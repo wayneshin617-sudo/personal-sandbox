@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T09:53:53+00:00",
+  "updatedAt": "2026-11-24T10:11:32+00:00",
   "posts": [
     {
       "id": 149,
@@ -1121408,6 +1121408,25 @@
       "firstSeenAt": "2026-11-24T09:53:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116604,
+      "source": "qoo",
+      "externalId": "4416725076",
+      "title": "상대방이 저 정도 취했으면 가서 재워라 제발",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4416725076",
+      "postedLabel": "19:11",
+      "postedAt": "2026-11-24T19:11:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T10:11:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1121519,7 +1121538,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-24T19:08:20+09:00"
+      "slowAt": "2026-11-24T19:11:17+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1155267,7 +1155286,8 @@
         "4416621512",
         "4416648011",
         "4416661527",
-        "4416707958"
+        "4416707958",
+        "4416725076"
       ]
     },
     "keep": "v2",
