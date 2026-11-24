@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T04:05:18+00:00",
+  "updatedAt": "2026-11-24T04:07:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1119332,6 +1119332,25 @@
       "firstSeenAt": "2026-11-24T04:05:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116499,
+      "source": "dc",
+      "externalId": "6708948",
+      "title": "Who is she/he?",
+      "excerpt": "",
+      "author": "마키마쨩",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6708948&page=1",
+      "postedLabel": "13:06",
+      "postedAt": "2026-11-24T13:06:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T04:07:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1119516,7 +1119535,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T13:04:03+09:00"
+      "slowAt": "2026-11-24T13:07:03+09:00"
     },
     "dc": {
       "doneIds": [
