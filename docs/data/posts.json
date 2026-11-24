@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T10:17:26+00:00",
+  "updatedAt": "2026-11-24T10:20:24+00:00",
   "posts": [
     {
       "id": 149,
@@ -1121446,6 +1121446,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-24T10:17:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116606,
+      "source": "dc",
+      "externalId": "6709474",
+      "title": "40대 여성들이 바라보는 젠슨황",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6709474&page=1",
+      "postedLabel": "19:19",
+      "postedAt": "2026-11-24T19:19:47+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T10:20:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1121557,7 +1121576,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-24T19:17:09+09:00"
+      "slowAt": "2026-11-24T19:20:07+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1141472,7 +1141491,8 @@
         "6709447",
         "6709462",
         "6709464",
-        "6709470"
+        "6709470",
+        "6709471"
       ]
     },
     "blind": {
