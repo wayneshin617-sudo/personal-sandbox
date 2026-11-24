@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T23:39:40+00:00",
+  "updatedAt": "2026-11-24T23:41:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -1125464,6 +1125464,46 @@
       "firstSeenAt": "2026-11-24T23:39:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116809,
+      "source": "blind",
+      "externalId": "cmt-462550948",
+      "title": "자극적인 제목인데 거의 무플 수준인거보면 얼마나 똥글인지 너 스스로 잘 알겠지?",
+      "excerpt": "여자 B컵 = 남자 키 170",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-B%EC%BB%B5-=-%EB%82%A8%EC%9E%90-%ED%82%A4-170-1zvdxqyf#462550948",
+      "postedLabel": "26분",
+      "postedAt": "2026-11-25T08:15:23+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T23:41:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116810,
+      "source": "blind",
+      "externalId": "cmt-462551281",
+      "title": "취향이 육덕이구나 아님 수술이거나",
+      "excerpt": "여자 B컵 = 남자 키 170",
+      "author": "I*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-B%EC%BB%B5-=-%EB%82%A8%EC%9E%90-%ED%82%A4-170-1zvdxqyf#462551281",
+      "postedLabel": "22분",
+      "postedAt": "2026-11-25T08:19:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T23:41:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1125648,7 +1125688,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T08:38:23+09:00"
+      "slowAt": "2026-11-25T08:41:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1145647,7 +1145687,8 @@
         "6709927",
         "6709938",
         "6709943",
-        "6709951"
+        "6709951",
+        "6709956"
       ]
     },
     "blind": {
