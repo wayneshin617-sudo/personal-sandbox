@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-24T00:14:37+00:00",
+  "updatedAt": "2026-11-24T00:35:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1117077,6 +1117077,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-24T00:14:37+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116385,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%A7%91%EC%95%88-%EC%96%B4%EB%A7%88%EC%96%B4%EB%A7%88%ED%95%98%EB%84%A4-64pwypf4",
+      "title": "영식이 집안 어마어마하네",
+      "excerpt": "34기 여출들 나중에 알면 후회할듯",
+      "author": "j********",
+      "company": "LG에너지솔루션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%A7%91%EC%95%88-%EC%96%B4%EB%A7%88%EC%96%B4%EB%A7%88%ED%95%98%EB%84%A4-64pwypf4",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-24T09:34:23+09:00",
+      "views": 22,
+      "recommends": null,
+      "comments": 2,
+      "firstSeenAt": "2026-11-24T00:35:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 116386,
+      "source": "blind",
+      "externalId": "cmt-462424042",
+      "title": "어떻길래?",
+      "excerpt": "영식이 집안 어마어마하네",
+      "author": "카*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%A7%91%EC%95%88-%EC%96%B4%EB%A7%88%EC%96%B4%EB%A7%88%ED%95%98%EB%84%A4-64pwypf4#462424042",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-24T09:34:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-24T00:35:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1117261,7 +1117300,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-24T09:32:24+09:00"
+      "slowAt": "2026-11-24T09:35:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1140967,6 +1141006,7 @@
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C-%EB%B2%BD%EB%8A%90%EA%BB%B4%EC%A7%84%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%95%9C%EA%B1%B0-%EA%B3%B5%EA%B0%90%EB%90%9C%EB%8B%A4-q2jwdnv3",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%98%81%ED%98%B8-02ghkoj4",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%A7%84%EA%B5%AD%EC%9D%B4%EB%84%A4-4z4oygea",
+        "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%A7%91%EC%95%88-%EC%96%B4%EB%A7%88%EC%96%B4%EB%A7%88%ED%95%98%EB%84%A4-64pwypf4",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%BC%80%EB%B9%88-%EB%8B%AE%EC%9D%8C-aj5yg4li",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%ED%82%A4%EB%A7%8C-m5g5uxn5",
         "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%ED%82%A4%EB%AA%87%EC%A0%95%EB%8F%84%EB%90%98%EB%B3%B4%EC%9E%84-rpz2olqf",
