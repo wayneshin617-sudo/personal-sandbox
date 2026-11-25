@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T19:42:36+00:00",
+  "updatedAt": "2026-11-25T19:47:54+00:00",
   "posts": [
     {
       "id": 149,
@@ -1172300,6 +1172300,44 @@
       "firstSeenAt": "2026-11-25T19:42:36+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119211,
+      "source": "qoo",
+      "externalId": "4418322940",
+      "title": "광수 되게 남초사이트 후기글 보는 것 같달까..",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418322940",
+      "postedLabel": "04:47",
+      "postedAt": "2026-11-26T04:47:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T19:47:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119212,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-%EB%A8%B8%EB%A6%AC%EA%B0%80-%EB%82%98%EC%81%98%EB%84%A4-lq4yxsf4",
+      "title": "상철은 머리가 나쁘네",
+      "excerpt": "순자 말도 지 맘대로 해석하고 옥순 말도 지 맘대로 해석함 그리고 그걸 다른 남자들에게 말하고; 무엇보다 자기는 여자 마음 떠보기만 하더니, 여자가 자기한테 분명한 반응이 없다고 섭섭해함",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-%EB%A8%B8%EB%A6%AC%EA%B0%80-%EB%82%98%EC%81%98%EB%84%A4-lq4yxsf4",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T04:47:38+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T19:47:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1172484,7 +1172522,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T04:44:57+09:00"
+      "slowAt": "2026-11-26T04:47:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1193247,7 +1193285,8 @@
         "6715691",
         "6715697",
         "6715704",
-        "6715710"
+        "6715710",
+        "6715711"
       ]
     },
     "blind": {
@@ -1208165,7 +1208204,8 @@
         "4418264524",
         "4418281124",
         "4418300584",
-        "4418312723"
+        "4418312723",
+        "4418322940"
       ]
     },
     "keep": "v2",
