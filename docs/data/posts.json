@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:40:32+00:00",
+  "updatedAt": "2026-11-25T13:42:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -1132674,6 +1132674,45 @@
       "firstSeenAt": "2026-11-25T13:40:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117174,
+      "source": "dc",
+      "externalId": "6711032",
+      "title": "바이브가 존나 잘 맞잖아 걍 사겨",
+      "excerpt": "",
+      "author": "Pai",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6711032&page=1",
+      "postedLabel": "22:41",
+      "postedAt": "2026-11-25T22:41:16+09:00",
+      "views": 12,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:42:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117175,
+      "source": "blind",
+      "externalId": "cmt-462653080",
+      "title": "가고싶다고 갔으면 10년전에 갔겠다",
+      "excerpt": "영수, 영숙 말대로 김제동도 어머니 살아계실때",
+      "author": "s*******",
+      "company": "농심",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-%EB%A7%90%EB%8C%80%EB%A1%9C-%EA%B9%80%EC%A0%9C%EB%8F%99%EB%8F%84-%EC%96%B4%EB%A8%B8%EB%8B%88-%EC%82%B4%EC%95%84%EA%B3%84%EC%8B%A4%EB%95%8C-5n6w2fod#462653080",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:41:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:42:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1132785,7 +1132824,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-25T22:38:48+09:00"
+      "slowAt": "2026-11-25T22:41:45+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1153202,7 +1153241,8 @@
         "6710953",
         "6710964",
         "6710982",
-        "6711015"
+        "6711015",
+        "6711030"
       ]
     },
     "blind": {
@@ -1157076,6 +1157116,7 @@
         "/kr/post/%EC%98%81%EC%88%98-%EC%96%98%EA%B8%B0%EB%82%98%EC%98%AC%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%9D%B4%ED%95%B4%EC%95%88%EB%90%98%EB%8A%94%EA%B2%8C-%EC%8B%9C%EB%88%84%EC%9D%B4-%EC%96%98%EA%B8%B4%EB%8D%B0-dksukkkq",
         "/kr/post/%EC%98%81%EC%88%98-%EC%97%AC%EC%9E%90%ED%95%9C%ED%85%8C-c3wuelbi",
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-4ovubv2y",
+        "/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-%EB%A7%90%EB%8C%80%EB%A1%9C-%EA%B9%80%EC%A0%9C%EB%8F%99%EB%8F%84-%EC%96%B4%EB%A8%B8%EB%8B%88-%EC%82%B4%EC%95%84%EA%B3%84%EC%8B%A4%EB%95%8C-5n6w2fod",
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-%EC%84%B8%EA%B8%B0%EC%9D%98-%EA%B2%B0%ED%98%BC-%EA%B0%80%EC%9E%90-52yw0feu",
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-%EC%99%84%EC%A0%84-%EA%B7%B8-%EC%B4%88%EB%A1%B1%EC%9D%B4-%ED%89%81%ED%89%81%EC%9D%B4-30%EB%8C%80-%EB%B2%84%EC%A0%84-%EC%95%84%EB%83%90-i47nph4v",
         "/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-v4evm51s",
@@ -1157665,6 +1157706,7 @@
         "/kr/post/%EC%98%81%EC%9E%90-rl6n0p2k",
         "/kr/post/%EC%98%81%EC%9E%90-z%E3%85%8B%E3%85%8B-e5wcunoi",
         "/kr/post/%EC%98%81%EC%9E%A8%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-nap1ygsm",
+        "/kr/post/%EC%98%81%EC%AA%BD%EC%9D%B4-%E3%85%85%E3%85%82%E3%85%8B%E3%85%8B%E3%85%8B-guauqaro",
         "/kr/post/%EC%98%81%EC%B2%98%EB%A6%AC-%EC%98%A4%EB%8A%98-%EC%A0%A4-%EC%A7%9C%EC%B3%A4%EB%8D%98-%EC%88%9C%EA%B0%84-k7jogtao",
         "/kr/post/%EC%98%81%EC%B2%A0%E2%99%A1%EC%98%81%EC%9E%90-11-%EA%B0%80%EB%9D%BC-xu4dbp7k",
         "/kr/post/%EC%98%81%EC%B2%A0%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-c30t0fx1",
