@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T11:20:12+00:00",
+  "updatedAt": "2026-11-25T11:21:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -1130599,6 +1130599,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-25T11:20:12+00:00",
       "isSeed": false
+    },
+    {
+      "id": 117068,
+      "source": "qoo",
+      "externalId": "cmt-4417845950",
+      "title": "ㄴㄷ.. 그래도 틀어놓고 있긴 할거같은데",
+      "excerpt": "지난주꺼 노잼이어서 좀 덜 기다려지긴하네 ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4417769901#4417845950",
+      "postedLabel": "",
+      "postedAt": "2026-11-25T19:21:19+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T11:21:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 117069,
+      "source": "blind",
+      "externalId": "cmt-462632709",
+      "title": "나피디 손에 걸렸으면 최소 707영철급 빌런 됐다",
+      "excerpt": "돌싱n모솔2 마시멜로",
+      "author": "!*********",
+      "company": "기아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%8C%EC%8B%B1n%EB%AA%A8%EC%86%942-%EB%A7%88%EC%8B%9C%EB%A9%9C%EB%A1%9C-57lgqg46#462632709",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T20:21:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T11:21:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1130783,7 +1130823,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T20:18:24+09:00"
+      "slowAt": "2026-11-25T20:21:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1150990,6 +1151030,7 @@
         "6710417",
         "6710422",
         "6710423",
+        "6710425",
         "6710427",
         "6710431",
         "6710432",
@@ -1152790,6 +1152831,7 @@
         "/kr/post/%EB%8F%8C%EC%8B%B1N%EB%AA%A8%EC%86%94-%EB%B3%B4%EB%8A%94%EC%82%AC%EB%9E%8C-%EC%9E%88%EC%96%B4-wzkvscpo",
         "/kr/post/%EB%8F%8C%EC%8B%B1N%EB%AA%A8%EC%86%94-%EC%9E%AC%EB%B0%8C%EC%9D%8C-lq1fuxcg",
         "/kr/post/%EB%8F%8C%EC%8B%B1n%EB%AA%A8%EC%86%94-%EB%82%98%EC%9D%B4%EB%B9%84%EB%B0%80%EB%85%80-q5rpkb5g",
+        "/kr/post/%EB%8F%8C%EC%8B%B1n%EB%AA%A8%EC%86%942-%EB%A7%88%EC%8B%9C%EB%A9%9C%EB%A1%9C-57lgqg46",
         "/kr/post/%EB%8F%99%EA%B1%B0-%ED%9B%84-%EC%9D%B4%EB%B3%84-em4svh46",
         "/kr/post/%EB%8F%99%EB%84%A4%EB%B0%A9%EB%84%A4-%EC%86%8C%EB%AC%B8%EB%82%B4%EA%B3%A0-qpsh6kew",
         "/kr/post/%EB%8F%99%EB%AC%BC-%EC%A2%8B%EC%95%84%ED%95%9C%EB%8B%A4%EA%B3%A0-%EB%8B%A4-%EC%B0%A9%ED%95%9C%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%95%84%EB%8B%8C%EA%B0%80%EB%B4%90-ndaw83ch",
