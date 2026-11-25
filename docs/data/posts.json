@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T16:40:18+00:00",
+  "updatedAt": "2026-11-25T16:41:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1168602,6 +1168602,66 @@
       "firstSeenAt": "2026-11-25T16:40:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119025,
+      "source": "qoo",
+      "externalId": "cmt-4418253860",
+      "title": "그니까...ㅠㅠ 나와서 좋은사람만났음 좋겠어 ㅠ",
+      "excerpt": "순자 응원하면서 보고 있어서 아쉬워 ㅠㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418248167#4418253860",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T00:40:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T16:41:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119026,
+      "source": "qoo",
+      "externalId": "cmt-4418254047",
+      "title": "담주 예고보면 영호는 현숙 같은데",
+      "excerpt": "아니 그래도 현숙 성격에 편지까지 쓰고 그럼 표현한 건데",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418253277#4418254047",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T00:40:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T16:41:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119027,
+      "source": "blind",
+      "externalId": "cmt-462675649",
+      "title": "와..현자다",
+      "excerpt": "영호가 서울에서 사달라 송파구 맛집 타령했으면",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C-%EC%82%AC%EB%8B%AC%EB%9D%BC-%EC%86%A1%ED%8C%8C%EA%B5%AC-%EB%A7%9B%EC%A7%91-%ED%83%80%EB%A0%B9%ED%96%88%EC%9C%BC%EB%A9%B4-gpg7yvnk#462675649",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T01:40:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T16:41:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1168786,7 +1168846,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T01:38:00+09:00"
+      "slowAt": "2026-11-26T01:40:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1189370,6 +1189430,7 @@
         "6715058",
         "6715061",
         "6715062",
+        "6715064",
         "6715066",
         "6715067",
         "6715076",
@@ -1189443,7 +1189504,8 @@
         "6715372",
         "6715380",
         "6715383",
-        "6715390"
+        "6715390",
+        "6715395"
       ]
     },
     "blind": {
