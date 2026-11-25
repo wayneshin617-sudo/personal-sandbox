@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T17:41:42+00:00",
+  "updatedAt": "2026-11-25T17:43:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -1171627,6 +1171627,66 @@
       "firstSeenAt": "2026-11-25T17:41:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119177,
+      "source": "qoo",
+      "externalId": "cmt-4418283935",
+      "title": "비주얼합은 최고야..ㅠㅠ 영자 표현대로 말간 수채화 느낌",
+      "excerpt": "영호 현숙 잘어울리긴한다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418255192#4418283935",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T01:25:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:43:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119178,
+      "source": "blind",
+      "externalId": "cmt-462674499",
+      "title": "아 그치.. 못생긴 남자는 죄가 없지.. 광수가 죄이긴 함 ㅠㅠ..",
+      "excerpt": "마지막에 험한거 봐서 진정이 안 되네",
+      "author": "i********* 작성자",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%88%EC%A7%80%EB%A7%89%EC%97%90-%ED%97%98%ED%95%9C%EA%B1%B0-%EB%B4%90%EC%84%9C-%EC%A7%84%EC%A0%95%EC%9D%B4-%EC%95%88-%EB%90%98%EB%84%A4-06kgx84v#462674499",
+      "postedLabel": "1시간",
+      "postedAt": "2026-11-26T01:42:39+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:43:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119179,
+      "source": "blind",
+      "externalId": "cmt-462677158",
+      "title": "못생겨도 되는대 광수는 밀당에 여자한테 별것을 요구함 애교 부탁해요도 아닌 해봐?말투부터 재섭슨",
+      "excerpt": "마지막에 험한거 봐서 진정이 안 되네",
+      "author": "방***",
+      "company": "서브원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A7%88%EC%A7%80%EB%A7%89%EC%97%90-%ED%97%98%ED%95%9C%EA%B1%B0-%EB%B4%90%EC%84%9C-%EC%A7%84%EC%A0%95%EC%9D%B4-%EC%95%88-%EB%90%98%EB%84%A4-06kgx84v#462677158",
+      "postedLabel": "38분",
+      "postedAt": "2026-11-26T02:04:47+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:43:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1171811,7 +1171871,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T02:39:58+09:00"
+      "slowAt": "2026-11-26T02:42:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1192525,7 +1192585,8 @@
         "6715521",
         "6715524",
         "6715526",
-        "6715528"
+        "6715528",
+        "6715543"
       ]
     },
     "blind": {
