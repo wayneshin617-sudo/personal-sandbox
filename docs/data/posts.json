@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T15:14:01+00:00",
+  "updatedAt": "2026-11-25T15:15:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1156570,6 +1156570,121 @@
       "firstSeenAt": "2026-11-25T15:14:01+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 118408,
+      "source": "dc",
+      "externalId": "6713973",
+      "title": "슈데 팝니다",
+      "excerpt": "",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6713973&page=1",
+      "postedLabel": "00:13",
+      "postedAt": "2026-11-26T00:13:48+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:15:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 118409,
+      "source": "qoo",
+      "externalId": "4418229361",
+      "title": "하루종일 나가서 놀고먹자ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4418229361",
+      "postedLabel": "00:14",
+      "postedAt": "2026-11-26T00:13:59+09:00",
+      "views": 21,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:15:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 118410,
+      "source": "qoo",
+      "externalId": "4418229442",
+      "title": "현커 스포 맞을것같음??",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4418229442",
+      "postedLabel": "00:14",
+      "postedAt": "2026-11-26T00:14:00+09:00",
+      "views": 30,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:15:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 118411,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%A2%8B%EC%9D%8C-hkuixfob",
+      "title": "난 공무원 좋음",
+      "excerpt": "9급 한정 얘기임 공무원 시험이 쉬운건 사실인데 일단 노력하고 경쟁했다는 그 자체가 좋음",
+      "author": "m*****",
+      "company": "서울시설공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%A2%8B%EC%9D%8C-hkuixfob",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T00:14:58+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-25T15:15:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 118412,
+      "source": "blind",
+      "externalId": "cmt-462666838",
+      "title": "공단주제 무슨ㅋㅋㅋ",
+      "excerpt": "난 공무원 좋음",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%A2%8B%EC%9D%8C-hkuixfob#462666838",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T00:14:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:15:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 118413,
+      "source": "qoo",
+      "externalId": "4418229603",
+      "title": "영수 영숙한테 안쓰네..... 아쉽",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418229603",
+      "postedLabel": "00:15",
+      "postedAt": "2026-11-26T00:15:00+09:00",
+      "views": 8,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:15:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1156754,7 +1156869,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T00:11:30+09:00"
+      "slowAt": "2026-11-26T00:14:58+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1177252,7 +1177367,11 @@
         "6713894",
         "6713902",
         "6713934",
-        "6713950"
+        "6713950",
+        "6713958",
+        "6713963",
+        "6713976",
+        "6713994"
       ]
     },
     "blind": {
@@ -1178533,6 +1178652,7 @@
         "/kr/post/%EB%82%9C%EC%98%A5%EC%88%9C%EC%9D%B4%EC%A2%8B%EB%84%A4-u5zuc54f",
         "/kr/post/%EB%82%9C%ED%95%B4%ED%95%98%EB%84%A4-aiclxzm8",
         "/kr/post/%EB%82%9C-%EA%B2%B0%ED%98%BC%EC%A0%84%EC%97%90-%EC%83%81%EB%8C%80%EB%B0%A9-%EC%A7%91%EC%95%88-%EC%9E%AC%EC%82%B0%EA%B0%81%EC%9D%84-%EC%95%84%EC%98%88-%EC%83%9D%EA%B0%81-%EC%95%88%ED%96%88%EB%8A%94%EB%8D%B0-nsfpxamp",
+        "/kr/post/%EB%82%9C-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%A2%8B%EC%9D%8C-hkuixfob",
         "/kr/post/%EB%82%9C-%EA%B4%91%EC%88%98%EC%A0%95%EC%88%99-%EC%A4%91%EC%97%90%EC%84%9C-%EC%A0%95%EC%88%99%EC%9D%B4-%EC%95%84%EA%B9%8C%EC%9B%8C-i2e3f3ox",
         "/kr/post/%EB%82%9C-%EA%B4%91%EC%88%98-%EA%B4%9C%EC%B0%AE%EC%95%84%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-%E3%85%8B%E3%85%8B%E3%85%8B-jxhtrbz1",
         "/kr/post/%EB%82%9C-%EA%B7%B8%EB%9E%98%EB%8F%84-%EC%98%81%EC%B2%A0-%EC%8B%AB%EC%A7%80%EB%8A%94-%EC%95%8A%EC%9D%8C-vu5hrx2x",
@@ -1180449,6 +1180569,7 @@
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A4%8C%EB%A7%88%EC%83%81-chr67ily",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%80%EB%82%9C-%EA%B8%B0%EC%88%98-%ED%98%84%EC%88%99%EC%9D%B4-%EB%B3%B4%EC%97%AC-%EC%9E%90%EA%BE%B8-zthdm7n8",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%80%EB%8F%84-%E3%85%8B%E3%85%8B%E3%85%8B-%EC%83%81%EC%B2%A0-%EC%96%B4%EC%9E%A5%EC%9D%B4%EB%A9%B4%EC%84%9C-vdupbgp2",
+        "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%80%EC%B3%90%EC%84%9C-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EC%96%B4%EB%91%90%EC%9B%8C%EC%A1%8B%EB%84%A4-y418xe7d",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%81%EC%97%85-%EB%AD%90%EC%A7%80-paxvaxo5",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C%EC%9E%84-6we1umkx",
         "/kr/post/%EC%88%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EA%B4%9C%EC%B0%AE%EB%84%A4-bhch7gjv",
@@ -1181211,6 +1181332,7 @@
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EA%B4%91%EC%97%AD%EB%8F%84%EB%B0%9C%EC%9D%84-%ED%95%9C%EA%B1%B0%EC%95%BC-a26c0q0t",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EA%B7%B8%EB%83%A5-%EA%B5%AD%ED%99%94%ED%95%9C%ED%85%8C-%EC%98%AC%EC%9D%B8%EC%9D%B4%EB%84%A4-8rdchs7g",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EB%82%B4%EB%A0%A4%EB%86%93%EA%B3%A0-%EB%B0%A9%EC%B2%AD%EA%B0%9D%EB%90%90%EB%84%A4%E3%85%8B%E3%85%8B-3ul7rw2q",
+        "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EB%A8%B8%EB%A6%AC=%EC%88%9C%EC%9E%90-%EB%B3%B8%EB%8A%A5=%EC%98%81%EC%88%99-dnctsb2e",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EB%A8%B9%EA%B8%88%EC%97%90-%EB%8B%A8%EB%A0%A8%EB%90%98%EC%96%B4-%EC%9E%88%EB%84%A4-pedzezn1",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EB%AD%94%EA%B0%80-%EC%88%AB%EC%82%AC%EC%9E%90-%EA%B0%99%EB%84%A4-xjxqrgqy",
         "/kr/post/%EC%98%81%EC%88%98%EB%8A%94-%EB%B0%A9%EC%B2%AD%EA%B0%9D%EC%9D%B4%EB%83%90-dpkbssxg",
@@ -1184222,6 +1184344,7 @@
         "/kr/post/%EC%A0%84-%EC%95%A0%EC%9D%B8-%EC%9D%B4%EB%A6%84-%EB%A0%88%ED%84%B0%EB%A7%81%EB%A7%8C-%EC%95%84%EB%8B%98-%EB%90%98%EC%A7%80-gtliqk8e",
         "/kr/post/%EC%A0%88%EB%8C%80-%ED%8F%AC%EA%B8%B0-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%99%B8%EB%AA%A8-zyfyxlnc",
         "/kr/post/%EC%A0%8A%EC%9D%80-%EC%97%AC%EC%9E%90%EB%93%A4-%EC%A4%91-%EB%AA%B8%EC%97%90-%EC%88%98-%EB%B0%B1-%EC%88%98-%EC%B2%9C-%EB%A7%8C%EC%9B%90-%EC%96%B4%EC%B9%98-%EB%AC%B8%EC%8B%A0-%EC%9E%88%EB%8A%94%EB%8D%B0-%ED%8E%B8%EC%9D%98%EC%A0%90%EC%9D%B4%EB%82%98-%EC%96%B4%EB%94%94-%EB%9D%BC%EB%A9%98%EC%A7%91-%EC%95%8C%EB%B0%94-%EA%B0%99%EC%9D%80-%EA%B1%B0-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B1%B0-%EC%9D%B4%EC%83%81%ED%95%98%EB%8B%A8-%EC%83%9D%EA%B0%81-%EC%95%88%ED%95%B4%EB%B3%B4%EC%85%A8%EB%82%98%EC%9A%94-htv34q1h",
+        "/kr/post/%EC%A0%95%EB%A6%AC%EB%A5%BC-%ED%96%88%EB%8A%94%EB%8D%B0-%EB%98%90-%EC%98%A4%EB%8B%88%EA%B9%8C-%EC%A0%80%EB%9F%AC%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EC%95%BC-4xrwzsg1",
         "/kr/post/%EC%A0%95%EB%B3%91%EA%B2%BD%ED%97%98%EC%9E%88%EB%8A%94-%EC%97%AC%EC%9E%90-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%B3%B8-31-%EC%98%A5%EC%88%9C-pnrpl51l",
         "/kr/post/%EC%A0%95%EC%88%98%EA%B8%B0-%EB%A8%B8%EB%A6%AC%EB%AC%B6%EB%8A%94%EA%B2%8C-8qt3rbfe",
         "/kr/post/%EC%A0%95%EC%88%99%EB%88%84%EB%82%98%EA%B0%80-%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%9C%EC%9D%BC-%EC%95%88%ED%83%80%EA%B9%8C%EC%9B%80-hxfoosty",
@@ -1191892,7 +1192015,10 @@
         "4418226892",
         "4418227264",
         "4418227731",
-        "4418228193"
+        "4418228193",
+        "4418229361",
+        "4418229442",
+        "4418229603"
       ]
     },
     "keep": "v2",
