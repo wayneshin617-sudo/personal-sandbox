@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T05:43:42+00:00",
+  "updatedAt": "2026-11-25T05:45:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -1128659,6 +1128659,26 @@
       "firstSeenAt": "2026-11-25T05:43:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116970,
+      "source": "qoo",
+      "externalId": "cmt-4417481527",
+      "title": "비용처리",
+      "excerpt": "회계사 수입이 그렇게 많아?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4416428191#4417481527",
+      "postedLabel": "",
+      "postedAt": "2026-11-25T13:44:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T05:45:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1128843,7 +1128863,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T14:41:55+09:00"
+      "slowAt": "2026-11-25T14:44:54+09:00"
     },
     "dc": {
       "doneIds": [
