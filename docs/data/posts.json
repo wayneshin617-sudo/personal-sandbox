@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:34:37+00:00",
+  "updatedAt": "2026-11-25T13:36:05+00:00",
   "posts": [
     {
       "id": 149,
@@ -1132329,6 +1132329,63 @@
       "firstSeenAt": "2026-11-25T13:34:37+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117156,
+      "source": "qoo",
+      "externalId": "4418088706",
+      "title": "영수 영숙 텐션 느껴지지 않아???",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4418088706",
+      "postedLabel": "22:34",
+      "postedAt": "2026-11-25T22:34:00+09:00",
+      "views": 9,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:36:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117157,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%91%98%EC%9D%B4-%EB%A7%8C%EB%82%98-pk252khx",
+      "title": "둘이 만나..",
+      "excerpt": "진짜 잘 어울려… 둘이 뭔 입덕 부정기도 아니고 ㅠ",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%91%98%EC%9D%B4-%EB%A7%8C%EB%82%98-pk252khx",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:35:49+09:00",
+      "views": 0,
+      "recommends": 3,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T13:36:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117158,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-nzh03h0u",
+      "title": "영숙이",
+      "excerpt": "치열 바르다 교정인가",
+      "author": "R*****",
+      "company": "유나이티드파슬서비스코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%99%EC%9D%B4-nzh03h0u",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:35:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T13:36:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1132440,7 +1132497,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-25T22:32:52+09:00"
+      "slowAt": "2026-11-25T22:35:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1152853,7 +1152910,8 @@
         "6710920",
         "6710924",
         "6710934",
-        "6710953"
+        "6710953",
+        "6710964"
       ]
     },
     "blind": {
@@ -1166827,7 +1166885,8 @@
         "4417769901",
         "4417904007",
         "4417966283",
-        "4418085540"
+        "4418085540",
+        "4418088706"
       ]
     },
     "keep": "v2",
