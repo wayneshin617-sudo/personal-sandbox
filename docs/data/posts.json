@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T16:50:18+00:00",
+  "updatedAt": "2026-11-25T16:51:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1169737,6 +1169737,85 @@
       "comments": 0,
       "firstSeenAt": "2026-11-25T16:50:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119082,
+      "source": "blind",
+      "externalId": "cmt-462674553",
+      "title": "둘이 피터지게 싸우고 이혼하더라도 둘이 결혼하는게 맞다 그래야 한번은 갔다왔다하지 서로가 아니면 받아줄사람 없으니 잘 합의해봐",
+      "excerpt": "아무리봐도 영숙이랑 영수가 넘 잘어울리는데",
+      "author": "k*******",
+      "company": "밀리언볼트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%AC%B4%EB%A6%AC%EB%B4%90%EB%8F%84-%EC%98%81%EC%88%99%EC%9D%B4%EB%9E%91-%EC%98%81%EC%88%98%EA%B0%80-%EB%84%98-%EC%9E%98%EC%96%B4%EC%9A%B8%EB%A6%AC%EB%8A%94%EB%8D%B0-oazon5ax#462674553",
+      "postedLabel": "25분",
+      "postedAt": "2026-11-26T01:25:59+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T16:51:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119083,
+      "source": "dc",
+      "externalId": "6715423",
+      "title": "영수 영숙 좀 잘 어울리긴 하는데 그게 좀",
+      "excerpt": "",
+      "author": "ㅇㅇ123",
+      "company": "",
+      "ip": "218.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715423&page=1",
+      "postedLabel": "01:50",
+      "postedAt": "2026-11-26T01:50:35+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T16:51:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119084,
+      "source": "blind",
+      "externalId": "cmt-462676257",
+      "title": "그만 쳐자고 지금 광수땜에 기분 쳐 안좋으니 일기장애다써 이런건",
+      "excerpt": "과거, 첫사랑과의 사랑 이야기 해줄게",
+      "author": "방***",
+      "company": "서브원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%BC%EA%B1%B0-%EC%B2%AB%EC%82%AC%EB%9E%91%EA%B3%BC%EC%9D%98-%EC%82%AC%EB%9E%91-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%B4%EC%A4%84%EA%B2%8C-buvubxal#462676257",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T01:50:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T16:51:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119085,
+      "source": "blind",
+      "externalId": "cmt-462676312",
+      "title": "나도 그 장면 쫌 짠했어 ㅠㅠ 그리도 다른 다둥이분들도 형제들이 의지 많이 된다고 하시니까.. 둘째를 낳아야 하는건가? 생각 들더라 ㅠㅠ",
+      "excerpt": "영수영숙이 인터뷰하는 외동 할아버지가 외롭지 이러는데",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98%EC%98%81%EC%88%99%EC%9D%B4-%EC%9D%B8%ED%84%B0%EB%B7%B0%ED%95%98%EB%8A%94-%EC%99%B8%EB%8F%99-%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%EA%B0%80-%EC%99%B8%EB%A1%AD%EC%A7%80-%EC%9D%B4%EB%9F%AC%EB%8A%94%EB%8D%B0-evow46b1#462676312",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T01:50:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T16:51:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1169848,7 +1169927,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T01:47:59+09:00"
+      "slowAt": "2026-11-26T01:50:59+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1190527,6 +1190606,8 @@
         "6715152",
         "6715156",
         "6715158",
+        "6715159",
+        "6715160",
         "6715169",
         "6715171",
         "6715173",
@@ -1190588,7 +1190669,9 @@
         "6715402",
         "6715404",
         "6715412",
-        "6715416"
+        "6715416",
+        "6715420",
+        "6715421"
       ]
     },
     "blind": {
@@ -1193332,6 +1193415,7 @@
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%BA%BC%EB%93%9C%EB%9F%AD%EB%8C%80%EB%8A%94-%EC%9D%B4%EC%9C%A0-7yza8e3z",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EA%BA%BC%EB%93%9C%EB%9F%AD-%EA%B0%9C%EC%9B%83%EA%B8%B4%EB%8B%A4-v7cc2l83",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EB%84%88-serb8tgq",
+        "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EB%88%88%EC%B9%98-%EC%99%9C%EC%BC%80-%EC%97%86%EB%83%90-sifqr00r",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EB%8B%AE%EC%9D%80%EA%B1%B0-%EC%B0%BE%EC%95%98%EB%8B%A4-nf13lhoe",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EB%A7%90%EC%A3%BC%EB%B3%80-%EC%9E%88%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%B3%B4%EA%B3%A0-%EB%86%80%EB%9E%8C-kqpishz6",
         "/kr/post/%EC%83%81%EC%B2%A0%EC%9D%B4-%EB%A7%90-%EB%A7%9E%EC%A7%80%EC%95%8A%EC%95%84-qmyx0mxy",
