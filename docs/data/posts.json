@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:19:41+00:00",
+  "updatedAt": "2026-11-25T13:22:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1132034,6 +1132034,66 @@
       "firstSeenAt": "2026-11-25T13:19:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117141,
+      "source": "blind",
+      "externalId": "cmt-462647271",
+      "title": "말투는 쉰내나는데 헉",
+      "excerpt": "20대인데 순자누나같은 사람만나고싶다",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/20%EB%8C%80%EC%9D%B8%EB%8D%B0-%EC%88%9C%EC%9E%90%EB%88%84%EB%82%98%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%A7%8C%EB%82%98%EA%B3%A0%EC%8B%B6%EB%8B%A4-fmjkfpgc#462647271",
+      "postedLabel": "19분",
+      "postedAt": "2026-11-25T22:03:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:22:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 117142,
+      "source": "dc",
+      "externalId": "cmt-11045628",
+      "title": "감사합니다 형님! - dc App",
+      "excerpt": "링크",
+      "author": "탐스런.",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710910&page=1#cmt_11045628",
+      "postedLabel": "11.25 22:21:45",
+      "postedAt": "2026-11-25T22:21:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:22:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 117143,
+      "source": "blind",
+      "externalId": "cmt-462650133",
+      "title": "애프터도 까인정도면 ㄴㄴ",
+      "excerpt": "애프터 까이고 다시 연락해본 사람 있나요?",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0%ED%94%84%ED%84%B0-%EA%B9%8C%EC%9D%B4%EA%B3%A0-%EB%8B%A4%EC%8B%9C-%EC%97%B0%EB%9D%BD%ED%95%B4%EB%B3%B8-%EC%82%AC%EB%9E%8C-%EC%9E%88%EB%82%98%EC%9A%94-dfm044ug#462650133",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:22:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:22:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1132218,7 +1132278,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T22:19:24+09:00"
+      "slowAt": "2026-11-25T22:22:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1152549,7 +1152609,8 @@
         "6710883",
         "6710891",
         "6710894",
-        "6710903"
+        "6710903",
+        "6710910"
       ]
     },
     "blind": {
