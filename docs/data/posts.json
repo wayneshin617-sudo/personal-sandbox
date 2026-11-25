@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T17:27:41+00:00",
+  "updatedAt": "2026-11-25T17:29:04+00:00",
   "posts": [
     {
       "id": 149,
@@ -1171128,6 +1171128,46 @@
       "firstSeenAt": "2026-11-25T17:27:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119152,
+      "source": "blind",
+      "externalId": "cmt-462677261",
+      "title": "일부러 그러는 걸텐데 옥순처럼",
+      "excerpt": "유독 광수에 이상한 사람 많이 넣네",
+      "author": "b*****",
+      "company": "롯데케미칼",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9C%A0%EB%8F%85-%EA%B4%91%EC%88%98%EC%97%90-%EC%9D%B4%EC%83%81%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%A7%8E%EC%9D%B4-%EB%84%A3%EB%84%A4-a7wadbw4#462677261",
+      "postedLabel": "22분",
+      "postedAt": "2026-11-26T02:06:44+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:29:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119153,
+      "source": "blind",
+      "externalId": "cmt-462677489",
+      "title": "26 이라크광수",
+      "excerpt": "유독 광수에 이상한 사람 많이 넣네",
+      "author": "a*******",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9C%A0%EB%8F%85-%EA%B4%91%EC%88%98%EC%97%90-%EC%9D%B4%EC%83%81%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%A7%8E%EC%9D%B4-%EB%84%A3%EB%84%A4-a7wadbw4#462677489",
+      "postedLabel": "18분",
+      "postedAt": "2026-11-26T02:10:45+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:29:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1171312,7 +1171352,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T02:25:58+09:00"
+      "slowAt": "2026-11-26T02:28:45+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1192017,7 +1192057,8 @@
         "6715495",
         "6715497",
         "6715501",
-        "6715509"
+        "6715509",
+        "6715511"
       ]
     },
     "blind": {
