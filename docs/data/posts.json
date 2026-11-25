@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:12:10+00:00",
+  "updatedAt": "2026-11-25T13:13:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1131701,6 +1131701,65 @@
       "firstSeenAt": "2026-11-25T13:12:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117124,
+      "source": "dc",
+      "externalId": "cmt-11045613",
+      "title": "ㄹㅇ - dc App",
+      "excerpt": "나는솔로 라이브로 보고싶다 ㅠ 티비없는 서러움",
+      "author": "탐스런.",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710891&page=1#cmt_11045613",
+      "postedLabel": "11.25 22:12:22",
+      "postedAt": "2026-11-25T22:12:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:13:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 117125,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%A0%88%EC%9D%B4%EB%94%94%EA%B0%80%EA%B0%80-%EC%9D%B4%EC%A0%9C-%EC%95%88%EB%82%98%EC%99%80-isfjiuhq",
+      "title": "레이디가가 이제 안나와?",
+      "excerpt": "ㅠㅠ아쉽다...",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%A0%88%EC%9D%B4%EB%94%94%EA%B0%80%EA%B0%80-%EC%9D%B4%EC%A0%9C-%EC%95%88%EB%82%98%EC%99%80-isfjiuhq",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:13:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T13:13:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117126,
+      "source": "blind",
+      "externalId": "cmt-462648638",
+      "title": "맥주는 없나요?",
+      "excerpt": "불닭볶음면에 도미노 사옴",
+      "author": "영*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%88%EB%8B%AD%EB%B3%B6%EC%9D%8C%EB%A9%B4%EC%97%90-%EB%8F%84%EB%AF%B8%EB%85%B8-%EC%82%AC%EC%98%B4-gv4qk8at#462648638",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:13:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:13:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1131885,7 +1131944,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T22:10:23+09:00"
+      "slowAt": "2026-11-25T22:13:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1152196,6 +1152255,7 @@
         "6710762",
         "6710769",
         "6710772",
+        "6710773",
         "6710778",
         "6710781",
         "6710782",
@@ -1152212,7 +1152272,8 @@
         "6710851",
         "6710866",
         "6710880",
-        "6710883"
+        "6710883",
+        "6710891"
       ]
     },
     "blind": {
@@ -1158774,6 +1158835,7 @@
         "/kr/post/%EC%A0%80%EB%B2%88%EC%A3%BC%EA%B1%B0-%EB%B3%B4%EB%8A%94%EC%A4%91%EC%9D%B8%EB%8D%B0-%EC%A0%95%EC%88%99%E3%85%8B%E3%85%8B-fxa1il6j",
         "/kr/post/%EC%A0%80%EB%B2%88%EC%A3%BC%ED%8E%B8-%EC%A7%80%EB%A3%A8%ED%95%B4%EC%84%9C-%EC%86%8D%EC%83%81%ED%95%98%EB%8B%A4-ucfwfkx4",
         "/kr/post/%EC%A0%80%EB%B2%88-%EC%82%AC%EA%B3%84-%EC%9D%B4%EB%B2%88-%EC%82%AC%EA%B3%84-%EB%82%A8%EC%9E%90-%EB%82%98%EC%9D%B4%EB%8C%80%EB%8A%94-%EB%B9%84%EC%8A%B7%ED%95%9C%EB%8D%B0-%EA%B4%80%EB%A6%AC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EA%B0%80-%E3%84%B7%E3%84%B7-xvapo77j",
+        "/kr/post/%EC%A0%80%EB%B2%88-%EC%A3%BC-%EB%B0%A9%EC%86%A1-%ED%88%AC%EC%9E%A1%EB%9B%B0%EB%9D%BC%EB%8A%94-%EC%88%9C%EC%9E%90-po2nmrlx",
         "/kr/post/%EC%A0%80%EB%B4%90-%EC%A0%80-%E3%85%86%E3%84%B4-0r3iry50",
         "/kr/post/%EC%A0%80%EC%82%AC%EB%9E%8C-%EC%A7%81%EC%97%85-%EB%AD%90%EC%95%BC-iabcjtl2",
         "/kr/post/%EC%A0%80%EC%83%88%EB%81%BC-%EC%B1%85%EB%A7%8E%EC%9D%B4-%EC%9D%BD%EC%9D%80%EA%B1%B0-%EB%A7%9E%EB%83%90-tle6a3rc",
