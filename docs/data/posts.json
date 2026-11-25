@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T15:56:55+00:00",
+  "updatedAt": "2026-11-25T15:58:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1164886,6 +1164886,45 @@
       "firstSeenAt": "2026-11-25T15:56:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 118838,
+      "source": "blind",
+      "externalId": "cmt-462671869",
+      "title": "엌ㅋㅋㅋㅋ 미안 웃으면 안되는데 왤케 글이 웃기지",
+      "excerpt": "광수 개시끼야....",
+      "author": "푸*****",
+      "company": "한국가스안전공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EA%B0%9C%EC%8B%9C%EB%81%BC%EC%95%BC-4zz4kgbu#462671869",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-26T00:56:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:58:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 118839,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%9E%90%EC%95%84%EB%A5%BC-%EC%9E%90%EA%BE%B8-%EA%B4%91%EC%88%98%ED%95%9C%ED%85%8C-%ED%88%AC%EC%98%81%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EB%85%B8-enyawwmi",
+      "title": "정숙이 자아를 자꾸 광수한테 투영하는 것 같노",
+      "excerpt": "너부터도 방송 욕심 있어보이는데..",
+      "author": "2*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%9E%90%EC%95%84%EB%A5%BC-%EC%9E%90%EA%BE%B8-%EA%B4%91%EC%88%98%ED%95%9C%ED%85%8C-%ED%88%AC%EC%98%81%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EB%85%B8-enyawwmi",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T00:57:59+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T15:58:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1165070,7 +1165109,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T00:55:11+09:00"
+      "slowAt": "2026-11-26T00:57:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1185674,7 +1185713,8 @@
         "6715190",
         "6715193",
         "6715195",
-        "6715201"
+        "6715201",
+        "6715205"
       ]
     },
     "blind": {
