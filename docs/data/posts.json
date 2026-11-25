@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T23:04:16+00:00",
+  "updatedAt": "2026-11-25T23:05:31+00:00",
   "posts": [
     {
       "id": 149,
@@ -1173440,6 +1173440,44 @@
       "comments": 0,
       "firstSeenAt": "2026-11-25T23:04:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119269,
+      "source": "dc",
+      "externalId": "6715818",
+      "title": "영호가 순자 현숙 사이에서 애매하게 구는거 정리해준다",
+      "excerpt": "",
+      "author": "런갤러7",
+      "company": "",
+      "ip": "1.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715818&page=1",
+      "postedLabel": "08:04",
+      "postedAt": "2026-11-26T08:04:36+09:00",
+      "views": 13,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T23:05:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119270,
+      "source": "qoo",
+      "externalId": "4418349151",
+      "title": "어제꺼 아직 안봤는데 잼써써?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418349151",
+      "postedLabel": "08:05",
+      "postedAt": "2026-11-26T08:05:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T23:05:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1173624,7 +1173662,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T08:02:40+09:00"
+      "slowAt": "2026-11-26T08:05:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1201640,6 +1201678,7 @@
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%9E%90%EC%95%84%EB%A5%BC-%EC%9E%90%EA%BE%B8-%EA%B4%91%EC%88%98%ED%95%9C%ED%85%8C-%ED%88%AC%EC%98%81%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EB%85%B8-enyawwmi",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%9E%98%ED%95%9C%EA%B1%B4-%EB%A7%9E%EB%8A%94%EB%8D%B0-pdj5ua5x",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%A0%80%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%98%A4%EC%A7%80%EB%9D%BC%ED%8D%BC%EC%95%84%EB%8B%88%EB%83%90-uiybej10",
+        "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%A1%B0%EC%83%81%EC%8B%A0%EC%9D%B4-%EA%B4%91%EC%88%98-%EB%A7%8C%EB%82%98%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%EC%86%90-%EB%8B%A4%EC%B9%98%EA%B2%8C-%ED%95%9C%EA%B1%B0%EA%B0%99%EB%8B%A4-e45telgc",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%A7%80%ED%95%9C%ED%85%8C-%EC%9D%98%EB%AF%B8%EC%97%86%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%9D%B4%EB%9D%BC-%ED%95%98%EB%8A%94%EA%B1%B0-%E3%85%88%E3%84%B4%EC%96%B4%EC%9D%B4%EC%97%86%EB%8B%A4-03c8dxs5",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%A7%84%EA%B5%AD%EC%9D%B4%EB%8B%A4-lx33814r",
         "/kr/post/%EC%A0%95%EC%88%99%EC%9D%B4-%EC%A7%84%EC%A7%9C-%EA%B4%91%EC%88%98%EB%9D%BC%EB%8F%84-%EC%95%84%EB%85%94%EC%9C%BC%EB%A9%B4-%EB%B0%A9%EC%86%A1-1%EB%8F%84-%EB%AA%BB%EB%82%98%EC%98%AC%EA%B1%B0-%EC%95%8C%EC%95%84%EC%84%9C-3sxetrra",
@@ -1209354,7 +1209393,8 @@
         "4418281124",
         "4418300584",
         "4418312723",
-        "4418322940"
+        "4418322940",
+        "4418349151"
       ]
     },
     "keep": "v2",
