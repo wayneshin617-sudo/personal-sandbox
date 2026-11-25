@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T23:05:31+00:00",
+  "updatedAt": "2026-11-25T23:08:06+00:00",
   "posts": [
     {
       "id": 149,
@@ -1173478,6 +1173478,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-25T23:05:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119271,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9D%B4%EC%AF%A4%EB%90%98%EB%A9%B4-%EA%B4%91%EC%88%98-%EC%A0%84%EC%97%AC%EC%B9%9C-%EC%96%98%EA%B8%B0%EB%8F%84-%EC%A2%80-%EB%93%A4%EC%96%B4%EB%B4%90%EC%95%BC-%ED%95%9C%EB%8B%A4-k2pd5640",
+      "title": "이쯤되면 광수 전여친 얘기도 좀 들어봐야 한다",
+      "excerpt": "방송 보면서 억울할수도 있음.. 아니면 광수가 말하는 전여친이 자기일거라고 생각도 못하고 있을수도….",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EC%AF%A4%EB%90%98%EB%A9%B4-%EA%B4%91%EC%88%98-%EC%A0%84%EC%97%AC%EC%B9%9C-%EC%96%98%EA%B8%B0%EB%8F%84-%EC%A2%80-%EB%93%A4%EC%96%B4%EB%B4%90%EC%95%BC-%ED%95%9C%EB%8B%A4-k2pd5640",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-26T08:06:47+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T23:08:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119272,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%84%EB%B3%B4%EB%8A%94%EB%82%A8%EB%85%80%EA%B0%80-%EC%A6%90%EB%B9%84%ED%95%9C-%EC%8B%9C%EB%8C%80-fxamnyy0",
+      "title": "간보는남녀가 즐비한 시대",
+      "excerpt": "연애하기싫어짐",
+      "author": "!********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%84%EB%B3%B4%EB%8A%94%EB%82%A8%EB%85%80%EA%B0%80-%EC%A6%90%EB%B9%84%ED%95%9C-%EC%8B%9C%EB%8C%80-fxamnyy0",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T08:07:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T23:08:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1173662,7 +1173700,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T08:05:15+09:00"
+      "slowAt": "2026-11-26T08:07:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1194455,7 +1194493,8 @@
         "6715786",
         "6715799",
         "6715803",
-        "6715806"
+        "6715806",
+        "6715819"
       ]
     },
     "blind": {
