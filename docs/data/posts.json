@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:09:09+00:00",
+  "updatedAt": "2026-11-25T13:10:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1131623,6 +1131623,25 @@
       "firstSeenAt": "2026-11-25T13:09:09+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117120,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%B6%88%EB%8B%AD%EB%B3%B6%EC%9D%8C%EB%A9%B4%EC%97%90-%EB%8F%84%EB%AF%B8%EB%85%B8-%EC%82%AC%EC%98%B4-gv4qk8at",
+      "title": "불닭볶음면에 도미노 사옴",
+      "excerpt": "먹으면서 봐야지 난 돼지야 ㅎㅎ",
+      "author": "R*****",
+      "company": "유나이티드파슬서비스코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B6%88%EB%8B%AD%EB%B3%B6%EC%9D%8C%EB%A9%B4%EC%97%90-%EB%8F%84%EB%AF%B8%EB%85%B8-%EC%82%AC%EC%98%B4-gv4qk8at",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:10:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T13:10:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1131807,7 +1131826,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T22:07:22+09:00"
+      "slowAt": "2026-11-25T22:10:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1152133,7 +1152152,8 @@
         "6710840",
         "6710851",
         "6710866",
-        "6710880"
+        "6710880",
+        "6710883"
       ]
     },
     "blind": {
