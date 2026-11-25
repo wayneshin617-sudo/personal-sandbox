@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T17:15:19+00:00",
+  "updatedAt": "2026-11-25T17:17:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1170590,6 +1170590,45 @@
       "firstSeenAt": "2026-11-25T17:15:19+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119125,
+      "source": "dc",
+      "externalId": "cmt-11046509",
+      "title": "요즘 여자들이 외모 많이 보는 것도 있지만 저건 그냥 나솔의 특성인 거기도 함 밖에 나가면 잘 만나고 다니지",
+      "excerpt": "하이닉스 밝히면 여자들이 줄 설 줄 알았는데",
+      "author": "날붕이",
+      "company": "",
+      "ip": "175.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715483&page=1#cmt_11046509",
+      "postedLabel": "11.26 02:16:29",
+      "postedAt": "2026-11-26T02:16:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:17:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119126,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EB%82%98%EA%B0%80%EC%84%9C-%EB%B0%94%EB%A1%9C-%EC%9D%BC%EB%B3%B8-%EA%B0%88-%EB%86%88%EC%9D%B4-%EC%99%9C-%EB%82%98%EC%98%A8%EA%B1%B0%EC%9E%84-vzb05cny",
+      "title": "영호는 나가서 바로 일본 갈 놈이 왜 나온거임",
+      "excerpt": "걍 방송에서 이미지관리해서 인기 끌라고 나왓나",
+      "author": "2*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EB%82%98%EA%B0%80%EC%84%9C-%EB%B0%94%EB%A1%9C-%EC%9D%BC%EB%B3%B8-%EA%B0%88-%EB%86%88%EC%9D%B4-%EC%99%9C-%EB%82%98%EC%98%A8%EA%B1%B0%EC%9E%84-vzb05cny",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T02:16:59+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T17:17:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1170774,7 +1170813,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T02:13:59+09:00"
+      "slowAt": "2026-11-26T02:16:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1191471,7 +1191510,9 @@
         "6715471",
         "6715474",
         "6715477",
-        "6715479"
+        "6715479",
+        "6715483",
+        "6715484"
       ]
     },
     "blind": {
