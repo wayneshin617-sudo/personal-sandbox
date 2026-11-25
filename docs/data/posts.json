@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:30:08+00:00",
+  "updatedAt": "2026-11-25T13:31:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1132213,6 +1132213,45 @@
       "firstSeenAt": "2026-11-25T13:30:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117150,
+      "source": "dc",
+      "externalId": "cmt-11045654",
+      "title": "그러게 요즘 브금 왜바뀜 - dc App",
+      "excerpt": "요즘 나솔브금들 좀 조까찌않냐?",
+      "author": "탐스런.",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710924&page=1#cmt_11045654",
+      "postedLabel": "11.25 22:30:28",
+      "postedAt": "2026-11-25T22:30:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:31:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 117151,
+      "source": "dc",
+      "externalId": "6710928",
+      "title": "시작한닷 내 도파민 34영철",
+      "excerpt": "",
+      "author": "라갤러",
+      "company": "",
+      "ip": "220.87",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710928&page=1",
+      "postedLabel": "22:30",
+      "postedAt": "2026-11-25T22:30:52+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:31:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1132397,7 +1132436,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T22:28:22+09:00"
+      "slowAt": "2026-11-25T22:31:22+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1152716,6 +1152755,7 @@
         "6710789",
         "6710795",
         "6710796",
+        "6710801",
         "6710802",
         "6710803",
         "6710811",
@@ -1152732,7 +1152772,8 @@
         "6710910",
         "6710914",
         "6710915",
-        "6710920"
+        "6710920",
+        "6710924"
       ]
     },
     "blind": {
