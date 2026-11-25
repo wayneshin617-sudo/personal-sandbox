@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T17:09:15+00:00",
+  "updatedAt": "2026-11-25T17:10:18+00:00",
   "posts": [
     {
       "id": 149,
@@ -1170472,6 +1170472,65 @@
       "firstSeenAt": "2026-11-25T17:09:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119119,
+      "source": "qoo",
+      "externalId": "cmt-4418274416",
+      "title": "비쥬얼합은 둘이 딱이야",
+      "excerpt": "영호 현숙 잘어울리긴한다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418255192#4418274416",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T01:08:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:10:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119120,
+      "source": "blind",
+      "externalId": "cmt-462676595",
+      "title": "매너 좋던대 왜 광수 보니 영식이ㅜ얼마나 가정고유교 잘 받은지",
+      "excerpt": "결혼은 무조건 영식같은 남자랑 하는게 맞음",
+      "author": "방***",
+      "company": "서브원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%B0%ED%98%BC%EC%9D%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%98%81%EC%8B%9D%EA%B0%99%EC%9D%80-%EB%82%A8%EC%9E%90%EB%9E%91-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EC%9D%8C-o5xzlvtv#462676595",
+      "postedLabel": "14분",
+      "postedAt": "2026-11-26T01:55:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:10:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119121,
+      "source": "dc",
+      "externalId": "6715469",
+      "title": "아.. 자야 겠다..",
+      "excerpt": "",
+      "author": "예쁘고1이쁘고2귀엽고3사랑스러워",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715469&page=1",
+      "postedLabel": "02:09",
+      "postedAt": "2026-11-26T02:09:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:10:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1191347,6 +1191406,7 @@
         "6715456",
         "6715458",
         "6715462",
+        "6715464",
         "6715466"
       ]
     },
