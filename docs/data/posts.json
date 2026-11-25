@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T22:35:55+00:00",
+  "updatedAt": "2026-11-25T22:37:12+00:00",
   "posts": [
     {
       "id": 149,
@@ -1172952,6 +1172952,65 @@
       "firstSeenAt": "2026-11-25T22:35:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119244,
+      "source": "qoo",
+      "externalId": "cmt-4418330882",
+      "title": "ㄹㅇ",
+      "excerpt": "순자를 직업 좋고 어르신들에게 살갑고 맏며느리감인 << 이래서 호감이라는 남출들 넘싫",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418262808#4418330882",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T06:36:43+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T22:37:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119245,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98%EB%8B%AE%EC%9D%80%EC%82%AC%EB%9E%8C-m166hero",
+      "title": "광수닮은사람",
+      "excerpt": "만나본 적 있는데 말과행동이 똑같네 선마태아같이 생겨서 못생긴 애들은 무조건 거른다 그 눈빛에 속쌍 느끼해서 보기싫음 목도없고",
+      "author": "!********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8B%AE%EC%9D%80%EC%82%AC%EB%9E%8C-m166hero",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T07:36:54+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T22:37:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119246,
+      "source": "blind",
+      "externalId": "cmt-462687855",
+      "title": "이 장면 정숙 넘 불쌍함 티비로 보는 우리도 이런데..",
+      "excerpt": "나는솔로 6년 역사에 처음나오는 대사",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%8A%94%EC%86%94%EB%A1%9C-6%EB%85%84-%EC%97%AD%EC%82%AC%EC%97%90-%EC%B2%98%EC%9D%8C%EB%82%98%EC%98%A4%EB%8A%94-%EB%8C%80%EC%82%AC-8lf5bkmh#462687855",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T07:36:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T22:37:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1173136,7 +1173195,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T07:34:19+09:00"
+      "slowAt": "2026-11-26T07:36:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1193924,7 +1193983,8 @@
         "6715766",
         "6715773",
         "6715781",
-        "6715785"
+        "6715785",
+        "6715786"
       ]
     },
     "blind": {
