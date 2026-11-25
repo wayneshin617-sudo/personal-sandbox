@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T11:44:14+00:00",
+  "updatedAt": "2026-11-25T11:45:15+00:00",
   "posts": [
     {
       "id": 149,
@@ -1130836,6 +1130836,26 @@
       "firstSeenAt": "2026-11-25T11:44:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117080,
+      "source": "blind",
+      "externalId": "cmt-462635864",
+      "title": "글설리",
+      "excerpt": "잠실새내",
+      "author": "v*****",
+      "company": "하나은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%A0%EC%8B%A4%EC%83%88%EB%82%B4-i20d76xu#462635864",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T20:44:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T11:45:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1151277,6 +1151297,7 @@
         "6710563",
         "6710567",
         "6710568",
+        "6710571",
         "6710576",
         "6710579",
         "6710583",
@@ -1151298,7 +1151319,8 @@
         "6710686",
         "6710701",
         "6710704",
-        "6710705"
+        "6710705",
+        "6710714"
       ]
     },
     "blind": {
