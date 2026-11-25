@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T02:02:03+00:00",
+  "updatedAt": "2026-11-25T02:04:03+00:00",
   "posts": [
     {
       "id": 149,
@@ -1126216,6 +1126216,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-25T02:02:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 116847,
+      "source": "blind",
+      "externalId": "cmt-462568986",
+      "title": "행동이 가볍다?모 그런느낌",
+      "excerpt": "여자 많이 만났을거 같다",
+      "author": "땅******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90-%EB%A7%8E%EC%9D%B4-%EB%A7%8C%EB%82%AC%EC%9D%84%EA%B1%B0-%EA%B0%99%EB%8B%A4-1a715y8d#462568986",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-25T11:02:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T02:04:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 116848,
+      "source": "blind",
+      "externalId": "cmt-462569055",
+      "title": "우리 남편은 회사일로만 롼딩가는데 거의 새벽이나 오전에 치고 점심먹으며 소맥한잔하고 끝나던데 사바사일듯",
+      "excerpt": "골프 안해서 모르는데",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%A8%ED%94%84-%EC%95%88%ED%95%B4%EC%84%9C-%EB%AA%A8%EB%A5%B4%EB%8A%94%EB%8D%B0-eg2gec8s#462569055",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T11:03:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T02:04:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1126400,7 +1126440,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T11:00:46+09:00"
+      "slowAt": "2026-11-25T11:03:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1146433,6 +1146473,7 @@
         "6710006",
         "6710007",
         "6710018",
+        "6710020",
         "6710024",
         "6710029",
         "6710031",
@@ -1146445,7 +1146486,8 @@
         "6710068",
         "6710077",
         "6710079",
-        "6710086"
+        "6710086",
+        "6710088"
       ]
     },
     "blind": {
