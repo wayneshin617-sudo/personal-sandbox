@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T06:07:45+00:00",
+  "updatedAt": "2026-11-25T06:10:41+00:00",
   "posts": [
     {
       "id": 149,
@@ -1128796,6 +1128796,25 @@
       "firstSeenAt": "2026-11-25T06:07:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 116977,
+      "source": "dc",
+      "externalId": "6710298",
+      "title": "야 내들 주식 안하냐",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710298&page=1",
+      "postedLabel": "15:08",
+      "postedAt": "2026-11-25T15:08:28+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T06:10:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1128907,7 +1128926,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-25T15:07:26+09:00"
+      "slowAt": "2026-11-25T15:10:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1149123,7 +1149142,8 @@
         "6710280",
         "6710286",
         "6710289",
-        "6710291"
+        "6710291",
+        "6710294"
       ]
     },
     "blind": {
