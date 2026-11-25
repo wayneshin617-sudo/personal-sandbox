@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T10:20:31+00:00",
+  "updatedAt": "2026-11-25T10:27:59+00:00",
   "posts": [
     {
       "id": 149,
@@ -1129906,6 +1129906,25 @@
       "firstSeenAt": "2026-11-25T10:20:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117033,
+      "source": "dc",
+      "externalId": "6710537",
+      "title": "와~~~경리 내년에 슈스될판이 열릴수도 있겠네 지금보단 더 유명해질뜻",
+      "excerpt": "",
+      "author": "ㅁㅁ",
+      "company": "",
+      "ip": "211.244",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710537&page=1",
+      "postedLabel": "19:27",
+      "postedAt": "2026-11-25T19:27:09+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T10:27:59+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1130090,7 +1130109,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T19:24:42+09:00"
+      "slowAt": "2026-11-25T19:27:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1150325,7 +1150344,8 @@
         "6710519",
         "6710521",
         "6710527",
-        "6710529"
+        "6710529",
+        "6710534"
       ]
     },
     "blind": {
