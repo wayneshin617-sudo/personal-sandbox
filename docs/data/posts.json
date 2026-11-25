@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T15:43:16+00:00",
+  "updatedAt": "2026-11-25T15:44:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -1164040,6 +1164040,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-25T15:43:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 118795,
+      "source": "qoo",
+      "externalId": "4418256639",
+      "title": "순자 담주 그냥 영철 선택하고 잼컨이나 줬으면",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418256639",
+      "postedLabel": "00:43",
+      "postedAt": "2026-11-26T00:43:00+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:44:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 118796,
+      "source": "blind",
+      "externalId": "cmt-462670484",
+      "title": "맞아 나 한평생 영식같은 남자가 이상형ㅠ",
+      "excerpt": "결혼은 무조건 영식같은 남자랑 하는게 맞음",
+      "author": "d******",
+      "company": "캐세이퍼시픽항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B2%B0%ED%98%BC%EC%9D%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%98%81%EC%8B%9D%EA%B0%99%EC%9D%80-%EB%82%A8%EC%9E%90%EB%9E%91-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EC%9D%8C-o5xzlvtv#462670484",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T00:43:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:44:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 118797,
+      "source": "blind",
+      "externalId": "cmt-462670425",
+      "title": "6일동안 그사람을 보려면 끌리는게 얼굴 키 이성적매력인데 영식은.... 6일안에 가치보이기가 어려움",
+      "excerpt": "난 영식이가 젤 나아보이는데",
+      "author": "a*******",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%81%EC%8B%9D%EC%9D%B4%EA%B0%80-%EC%A0%A4-%EB%82%98%EC%95%84%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-0si3nlaq#462670425",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T00:43:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:44:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 118798,
+      "source": "blind",
+      "externalId": "cmt-462670478",
+      "title": "난 방탈출 광수가 더 낫던데",
+      "excerpt": "여지껏 광수이름 받은 남출들 중에 괜찮은 광수는...",
+      "author": "h*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%A7%80%EA%BB%8F-%EA%B4%91%EC%88%98%EC%9D%B4%EB%A6%84-%EB%B0%9B%EC%9D%80-%EB%82%A8%EC%B6%9C%EB%93%A4-%EC%A4%91%EC%97%90-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B4%91%EC%88%98%EB%8A%94-jwn4svgc#462670478",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T00:44:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T15:44:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1164224,7 +1164303,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T00:40:32+09:00"
+      "slowAt": "2026-11-26T00:44:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1184800,7 +1184879,11 @@
         "6715058",
         "6715061",
         "6715062",
-        "6715067"
+        "6715066",
+        "6715067",
+        "6715076",
+        "6715078",
+        "6715079"
       ]
     },
     "blind": {
@@ -1186149,6 +1186232,7 @@
         "/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B6%81%EA%B8%88%ED%95%9C-%EA%B2%8C-%EC%9E%88%EC%9D%8C-e8425nph",
         "/kr/post/%EB%82%9C-%EC%97%AC%EC%9E%90%EC%A7%80%EB%A7%8C-nh7hglws",
         "/kr/post/%EB%82%9C-%EC%98%81%EC%88%99-%EC%A2%8B%EC%95%84%EC%A1%8C%EB%8B%A4-rpc2p3nf",
+        "/kr/post/%EB%82%9C-%EC%98%81%EC%8B%9D%EC%9D%B4%EA%B0%80-%EC%A0%A4-%EB%82%98%EC%95%84%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-0si3nlaq",
         "/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0%EA%B0%99%EC%9D%80-%EC%BA%90%EB%A6%AD%ED%84%B0-%EA%B8%B0%EC%88%98%EB%A7%88%EB%8B%A4-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-%EB%B3%B8%EB%8B%A4-ew7nqkr3",
         "/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-de4207ui",
         "/kr/post/%EB%82%9C-%EC%98%81%ED%98%B8%EA%B0%80-%EC%A0%A4-%EB%B3%84%EB%A1%9C%EA%B0%99%EC%9D%80%EB%8D%B0-03td13ui",
@@ -1199663,7 +1199747,8 @@
         "4418254956",
         "4418255192",
         "4418255995",
-        "4418256103"
+        "4418256103",
+        "4418256639"
       ]
     },
     "keep": "v2",
