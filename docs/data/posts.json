@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T09:48:59+00:00",
+  "updatedAt": "2026-11-25T10:05:39+00:00",
   "posts": [
     {
       "id": 149,
@@ -1129769,6 +1129769,44 @@
       "firstSeenAt": "2026-11-25T09:48:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117026,
+      "source": "dc",
+      "externalId": "6710512",
+      "title": "부동산투자 시 실패하지 않을 금액대별 환금성 좋은 단지",
+      "excerpt": "",
+      "author": "치이",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710512&page=1",
+      "postedLabel": "19:04",
+      "postedAt": "2026-11-25T19:04:34+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T10:05:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117027,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%88%AC%ED%94%8C%EB%9F%AC%EC%8A%A4-ktd8p7sg",
+      "title": "투플러스",
+      "excerpt": "첨엔 뭐 저런 사람이 다 있나 했는데 다큐 관점으로 보면 저게 진짜 현실인거 같다 나도 개차이고 집에오는 길에 필승 존나 크게 불렀던 기억이",
+      "author": "7***",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%88%AC%ED%94%8C%EB%9F%AC%EC%8A%A4-ktd8p7sg",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T19:05:22+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-25T10:05:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1129880,7 +1129918,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-25T19:02:23+09:00"
+      "slowAt": "2026-11-25T19:05:22+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1150177,7 +1150215,8 @@
         "6710477",
         "6710492",
         "6710495",
-        "6710507"
+        "6710507",
+        "6710511"
       ]
     },
     "blind": {
