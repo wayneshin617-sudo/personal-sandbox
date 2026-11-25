@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:33:07+00:00",
+  "updatedAt": "2026-11-25T13:34:37+00:00",
   "posts": [
     {
       "id": 149,
@@ -1132290,6 +1132290,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-25T13:33:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 117154,
+      "source": "dc",
+      "externalId": "6710949",
+      "title": "영수 씨발 몸만 테토고 마인드가 존나 에겐쫌팽이네",
+      "excerpt": "",
+      "author": "탐스런.",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710949&page=1",
+      "postedLabel": "22:33",
+      "postedAt": "2026-11-25T22:33:31+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:34:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117155,
+      "source": "dc",
+      "externalId": "cmt-11045661",
+      "title": "아까왔음 - dc App",
+      "excerpt": "링크햄 안오심?",
+      "author": "탐스런.",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710953&page=1#cmt_11045661",
+      "postedLabel": "11.25 22:34:19",
+      "postedAt": "2026-11-25T22:34:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:34:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1132474,7 +1132513,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T22:31:22+09:00"
+      "slowAt": "2026-11-25T22:34:20+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1152796,6 +1152835,7 @@
         "6710801",
         "6710802",
         "6710803",
+        "6710804",
         "6710811",
         "6710826",
         "6710828",
@@ -1152812,7 +1152852,8 @@
         "6710915",
         "6710920",
         "6710924",
-        "6710934"
+        "6710934",
+        "6710953"
       ]
     },
     "blind": {
