@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:22:39+00:00",
+  "updatedAt": "2026-11-25T13:25:40+00:00",
   "posts": [
     {
       "id": 149,
@@ -1132094,6 +1132094,65 @@
       "firstSeenAt": "2026-11-25T13:22:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 117144,
+      "source": "dc",
+      "externalId": "6710914",
+      "title": "랜데 오늘 어디가 제일 꿀잼일거같냐",
+      "excerpt": "",
+      "author": "탐스런.",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6710914&page=1",
+      "postedLabel": "22:24",
+      "postedAt": "2026-11-25T22:24:44+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:25:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117145,
+      "source": "blind",
+      "externalId": "cmt-462650529",
+      "title": "하이닉슨데 까인거면 찐거절인데 ㄴㄴ",
+      "excerpt": "애프터 까이고 다시 연락해본 사람 있나요?",
+      "author": "i*********",
+      "company": "서울주택도시개발공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0%ED%94%84%ED%84%B0-%EA%B9%8C%EC%9D%B4%EA%B3%A0-%EB%8B%A4%EC%8B%9C-%EC%97%B0%EB%9D%BD%ED%95%B4%EB%B3%B8-%EC%82%AC%EB%9E%8C-%EC%9E%88%EB%82%98%EC%9A%94-dfm044ug#462650529",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:25:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:25:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 117146,
+      "source": "blind",
+      "externalId": "cmt-462650632",
+      "title": "어차피 절대 불가. 차라리 로또 당첨 확률이 높음",
+      "excerpt": "애프터 까이고 다시 연락해본 사람 있나요?",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0%ED%94%84%ED%84%B0-%EA%B9%8C%EC%9D%B4%EA%B3%A0-%EB%8B%A4%EC%8B%9C-%EC%97%B0%EB%9D%BD%ED%95%B4%EB%B3%B8-%EC%82%AC%EB%9E%8C-%EC%9E%88%EB%82%98%EC%9A%94-dfm044ug#462650632",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-25T22:25:24+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:25:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1132278,7 +1132337,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-25T22:22:23+09:00"
+      "slowAt": "2026-11-25T22:25:24+09:00"
     },
     "dc": {
       "doneIds": [
