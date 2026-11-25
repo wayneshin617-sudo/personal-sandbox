@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T17:57:05+00:00",
+  "updatedAt": "2026-11-25T17:59:52+00:00",
   "posts": [
     {
       "id": 149,
@@ -1171805,6 +1171805,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-25T17:57:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119186,
+      "source": "blind",
+      "externalId": "cmt-462679711",
+      "title": "턱걸이까지 좋았다",
+      "excerpt": "영호 저게 진짜 착한거야?",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%A0%80%EA%B2%8C-%EC%A7%84%EC%A7%9C-%EC%B0%A9%ED%95%9C%EA%B1%B0%EC%95%BC-syjmiyab#462679711",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T02:59:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T17:59:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1171989,7 +1172009,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T02:56:47+09:00"
+      "slowAt": "2026-11-26T02:59:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -1192714,7 +1192734,8 @@
         "6715558",
         "6715569",
         "6715571",
-        "6715580"
+        "6715580",
+        "6715583"
       ]
     },
     "blind": {
