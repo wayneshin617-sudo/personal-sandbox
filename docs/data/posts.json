@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-25T13:31:39+00:00",
+  "updatedAt": "2026-11-25T13:33:07+00:00",
   "posts": [
     {
       "id": 149,
@@ -1132252,6 +1132252,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-25T13:31:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 117152,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%80%EC%A6%88%EC%95%84-gvsfjzw3",
+      "title": "가즈아",
+      "excerpt": "고고 나솔게 친구들",
+      "author": "(*******",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%EC%A6%88%EC%95%84-gvsfjzw3",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-25T22:31:52+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-25T13:33:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 117153,
+      "source": "qoo",
+      "externalId": "4418085540",
+      "title": "한다!!!",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "onair",
+      "url": "https://theqoo.net/iamsolo/4418085540",
+      "postedLabel": "22:32",
+      "postedAt": "2026-11-25T22:32:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-25T13:33:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -1132363,7 +1132401,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-25T22:29:52+09:00"
+      "slowAt": "2026-11-25T22:32:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -1152773,7 +1152811,8 @@
         "6710914",
         "6710915",
         "6710920",
-        "6710924"
+        "6710924",
+        "6710934"
       ]
     },
     "blind": {
@@ -1156851,6 +1156890,7 @@
         "/kr/post/%EC%98%81%EC%88%99-%EB%84%88%EB%AC%B4-%EB%B3%B4%EA%B8%B0%ED%9E%98%EB%93%A0%EB%8D%B0-wfxspyxu",
         "/kr/post/%EC%98%81%EC%88%99-%EB%84%88%EB%AE%A4-%EC%9D%B4%EC%81%98%EB%8B%B9-erpzcvnn",
         "/kr/post/%EC%98%81%EC%88%99-%EB%87%8C%EC%97%90-%EC%9A%B0%EB%8F%99%EC%82%AC%EB%A6%AC%EA%B0%80-%EB%93%A4%EC%97%88%EB%82%98-rm4tiq3l",
+        "/kr/post/%EC%98%81%EC%88%99-%EB%88%84%EB%82%98-%EC%B2%99%EC%B6%94-%EB%AC%B8%EC%8B%A0%EC%97%90-%EC%9D%B4%EC%96%B4-%EA%B0%80%EC%8A%B4%EB%8F%84-%EC%88%98%EC%88%A0%EA%B0%99%EC%A7%80%EC%95%8A%EC%9D%8C-oudca7a3",
         "/kr/post/%EC%98%81%EC%88%99-%EB%88%84%EB%82%98-1o5c7gay",
         "/kr/post/%EC%98%81%EC%88%99-%EB%88%88%EC%95%8C-%EC%9E%A5%EC%B0%A9%EC%9D%B4%EB%9D%BC%EB%8B%88-iiuhv8ya",
         "/kr/post/%EC%98%81%EC%88%99-%EB%8B%A4%EB%A5%B8-%EC%97%AC%EC%B6%9C%EC%9D%B4%EB%9E%91-%EA%B8%B0%EC%8B%B8%EC%9B%80-jcyxddmn",
@@ -1166745,7 +1166785,8 @@
         "4417661761",
         "4417769901",
         "4417904007",
-        "4417966283"
+        "4417966283",
+        "4418085540"
       ]
     },
     "keep": "v2",
