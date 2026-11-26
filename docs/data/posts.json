@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T10:27:03+00:00",
+  "updatedAt": "2026-11-26T10:28:02+00:00",
   "posts": [
     {
       "id": 95749,
@@ -536160,6 +536160,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T10:27:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123051,
+      "source": "dc",
+      "externalId": "cmt-11048827",
+      "title": "개솔 저기서 1등임 키크고마르고",
+      "excerpt": "현숙은 몸선이 여자로서 별로임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717170&page=2#cmt_11048827",
+      "postedLabel": "11.26 18:36:28",
+      "postedAt": "2026-11-26T18:36:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:28:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123052,
+      "source": "blind",
+      "externalId": "cmt-462761582",
+      "title": "어휘선택이나 말투는 이번계기로 좀 고치면 좋을듯",
+      "excerpt": "알면알수록 짠하고 마음도 여린듯~",
+      "author": "|********* 작성자",
+      "company": "KB손해보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%8C%EB%A9%B4%EC%95%8C%EC%88%98%EB%A1%9D-%EC%A7%A0%ED%95%98%EA%B3%A0-%EB%A7%88%EC%9D%8C%EB%8F%84-%EC%97%AC%EB%A6%B0%EB%93%AF-ig4ovcb5#462761582",
+      "postedLabel": "45분",
+      "postedAt": "2026-11-26T18:42:45+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:28:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123053,
+      "source": "blind",
+      "externalId": "cmt-462761487",
+      "title": "솔직한데 교양 수준 문제",
+      "excerpt": "알면알수록 짠하고 마음도 여린듯~",
+      "author": "j********",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%8C%EB%A9%B4%EC%95%8C%EC%88%98%EB%A1%9D-%EC%A7%A0%ED%95%98%EA%B3%A0-%EB%A7%88%EC%9D%8C%EB%8F%84-%EC%97%AC%EB%A6%B0%EB%93%AF-ig4ovcb5#462761487",
+      "postedLabel": "45분",
+      "postedAt": "2026-11-26T18:42:46+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:28:02+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -536271,7 +536331,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T19:24:46+09:00"
+      "slowAt": "2026-11-26T19:27:46+09:00"
     },
     "ig": {
       "doneIds": [
@@ -557624,6 +557684,7 @@
         "6717160",
         "6717161",
         "6717169",
+        "6717170",
         "6717185",
         "6717217",
         "6717227",
