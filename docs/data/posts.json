@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-26T00:04:13+00:00",
+  "updatedAt": "2026-11-26T00:05:16+00:00",
   "posts": [
     {
       "id": 149,
@@ -1174960,6 +1174960,26 @@
       "firstSeenAt": "2026-11-26T00:04:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119346,
+      "source": "dc",
+      "externalId": "cmt-11046965",
+      "title": "응 씹절벽껌딱지 어서오고",
+      "excerpt": "영호가 순자 현숙 사이에서 애매하게 구는거 정리해준다",
+      "author": "런갤러7",
+      "company": "",
+      "ip": "1.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715818&page=2#cmt_11046965",
+      "postedLabel": "11.26 08:17:31",
+      "postedAt": "2026-11-26T08:17:31+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:05:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -1195944,6 +1195964,7 @@
         "6715799",
         "6715803",
         "6715806",
+        "6715818",
         "6715819",
         "6715822",
         "6715826",
