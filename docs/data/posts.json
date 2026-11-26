@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:01:58+00:00",
+  "updatedAt": "2026-11-26T23:03:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -573140,6 +573140,25 @@
       "firstSeenAt": "2026-11-26T23:01:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124960,
+      "source": "dc",
+      "externalId": "6719016",
+      "title": "그래도 영철은 매력있지않냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719016&page=1",
+      "postedLabel": "08:02",
+      "postedAt": "2026-11-27T08:02:55+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:03:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -573324,7 +573343,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T08:00:38+09:00"
+      "slowAt": "2026-11-27T08:03:38+09:00"
     },
     "dc": {
       "doneIds": [
