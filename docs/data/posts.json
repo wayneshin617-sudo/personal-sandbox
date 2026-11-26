@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:44:50+00:00",
+  "updatedAt": "2026-11-26T15:46:02+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564657,6 +564657,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-26T15:44:50+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124521,
+      "source": "dc",
+      "externalId": "6718572",
+      "title": "도배하지마 쓰벌새꺄",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718572&page=1",
+      "postedLabel": "00:45",
+      "postedAt": "2026-11-27T00:45:26+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:46:02+00:00",
       "isSeed": false
     }
   ],
