@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T14:52:29+00:00",
+  "updatedAt": "2026-11-26T14:53:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -562569,6 +562569,104 @@
       "firstSeenAt": "2026-11-26T14:52:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124414,
+      "source": "dc",
+      "externalId": "6718450",
+      "title": "장미랑 레슬러랑 잘 됐음 좋겠다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.152",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718450&page=1",
+      "postedLabel": "23:52",
+      "postedAt": "2026-11-26T23:52:18+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:53:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124415,
+      "source": "dc",
+      "externalId": "cmt-11049314",
+      "title": "배불둑이 주윤발??",
+      "excerpt": "엔딩에 영식이 주윤발인데?ㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718431&page=1#cmt_11049314",
+      "postedLabel": "11.26 23:52:26",
+      "postedAt": "2026-11-26T23:52:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:53:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124416,
+      "source": "dc",
+      "externalId": "6718451",
+      "title": "르윈 디아즈 오늘 결장했노 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.179",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718451&page=1",
+      "postedLabel": "23:52",
+      "postedAt": "2026-11-26T23:52:40+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:53:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124417,
+      "source": "blind",
+      "externalId": "cmt-462809494",
+      "title": "완전 새로운 쪽이고 음 말하면 알만한 기업이긴 한데 좀 애매함 경력직으로 들어간게 아니라서",
+      "excerpt": "34 영철",
+      "author": "i********* 작성자",
+      "company": "코스알엑스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%B2%A0-5xovdxzu#462809494",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T23:53:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:53:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124418,
+      "source": "blind",
+      "externalId": "cmt-462809459",
+      "title": "ㅋㅋㅋ 이걸 넷플로 해외애들도 시청한다는거지?",
+      "excerpt": "작전변경 작전변경",
+      "author": "m*******",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%91%EC%A0%84%EB%B3%80%EA%B2%BD-%EC%9E%91%EC%A0%84%EB%B3%80%EA%B2%BD-srcj5xdq#462809459",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T23:53:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:53:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -562753,7 +562851,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T23:50:11+09:00"
+      "slowAt": "2026-11-26T23:53:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -584160,6 +584258,7 @@
         "6718401",
         "6718410",
         "6718429",
+        "6718431",
         "6718441",
         "6718442"
       ]
