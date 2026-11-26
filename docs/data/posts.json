@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T02:55:29+00:00",
+  "updatedAt": "2026-11-26T02:56:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -489396,6 +489396,65 @@
       "comments": 0,
       "firstSeenAt": "2026-11-26T02:55:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120660,
+      "source": "blind",
+      "externalId": "cmt-462714769",
+      "title": "어그로 댓글 금지",
+      "excerpt": "애교해봐가 어때서 ;;",
+      "author": "i*******",
+      "company": "한국철도공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0%EA%B5%90%ED%95%B4%EB%B4%90%EA%B0%80-%EC%96%B4%EB%95%8C%EC%84%9C-e8qw38ut#462714769",
+      "postedLabel": "5분",
+      "postedAt": "2026-11-26T11:51:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:56:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120661,
+      "source": "blind",
+      "externalId": "cmt-462715007",
+      "title": "광수니?",
+      "excerpt": "애교해봐가 어때서 ;;",
+      "author": "i*********",
+      "company": "NEOWIZ",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0%EA%B5%90%ED%95%B4%EB%B4%90%EA%B0%80-%EC%96%B4%EB%95%8C%EC%84%9C-e8qw38ut#462715007",
+      "postedLabel": "2분",
+      "postedAt": "2026-11-26T11:54:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:56:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120662,
+      "source": "dc",
+      "externalId": "6716250",
+      "title": "두꺼비좌 직업이 뭐임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "110.13",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716250&page=1",
+      "postedLabel": "11:55",
+      "postedAt": "2026-11-26T11:55:23+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:56:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -489507,7 +489566,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T11:53:13+09:00"
+      "slowAt": "2026-11-26T11:56:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -512209,6 +512268,7 @@
         "/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9D%B4%EC%81%A8-dgvh8hd1",
         "/kr/post/%EB%88%84%EA%B0%80%EB%8D%94%EC%9E%98%EC%83%9D-xvly6bc6",
         "/kr/post/%EB%88%84%EA%B0%80%EB%B3%B4%EB%A9%B4-%EB%B0%95%EC%82%AC-%EC%B6%9C%EC%8B%A0-%ED%95%98%EB%8B%89-%EA%B7%BC%EB%AC%B4%EC%9E%90%EC%9D%B8-%EB%93%AF-g8ktac11",
+        "/kr/post/%EB%88%84%EA%B0%80-%EA%B4%91%EC%88%98-%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%A7%8C%EB%93%A0%EA%B1%B0%EC%9E%84-qzceyl0c",
         "/kr/post/%EB%88%84%EA%B0%80-%EB%8D%94%EC%9D%B4%EB%BB%90-ohvo82t7",
         "/kr/post/%EB%88%84%EA%B0%80-%EB%8D%94-%EC%8B%AC%ED%95%A8-iu55rgpe",
         "/kr/post/%EB%88%84%EA%B0%80-%EB%8D%94-%EC%95%85%EB%A7%88-%EC%9D%B8%EA%B0%80-qcs5sb6q",
