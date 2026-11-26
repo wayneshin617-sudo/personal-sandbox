@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T14:02:23+00:00",
+  "updatedAt": "2026-11-26T14:03:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -554026,6 +554026,63 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T14:02:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123971,
+      "source": "dc",
+      "externalId": "6718050",
+      "title": "화들짝 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.98",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718050&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-11-26T23:02:09+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:03:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123972,
+      "source": "dc",
+      "externalId": "6718051",
+      "title": "성악은 그냥 짠함을 내포하고 잇는 듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.59",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718051&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-11-26T23:02:29+09:00",
+      "views": 14,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:03:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123973,
+      "source": "dc",
+      "externalId": "6718052",
+      "title": "필름끊긴거 미리 방송내보인거면 그나마 커버쳐준거네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "183.100",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718052&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-11-26T23:02:56+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:03:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -554210,7 +554267,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T23:00:05+09:00"
+      "slowAt": "2026-11-26T23:03:05+09:00"
     },
     "dc": {
       "doneIds": [
