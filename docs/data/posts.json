@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:50:46+00:00",
+  "updatedAt": "2026-11-26T23:51:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574300,6 +574300,45 @@
       "firstSeenAt": "2026-11-26T23:50:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125019,
+      "source": "dc",
+      "externalId": "6719046",
+      "title": "순천지들은 쓸데없는데 힘을뺌",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719046&page=1",
+      "postedLabel": "08:50",
+      "postedAt": "2026-11-27T08:50:39+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:51:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125020,
+      "source": "dc",
+      "externalId": "cmt-11050018",
+      "title": "푸딩도 못먹고살았는데 좀 만나자",
+      "excerpt": "영식이가 영숙을 왜 만나냐",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719045&page=1#cmt_11050018",
+      "postedLabel": "11.27 08:51:25",
+      "postedAt": "2026-11-27T08:51:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:51:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -574411,7 +574450,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T08:48:28+09:00"
+      "slowAt": "2026-11-27T08:51:28+09:00"
     },
     "ig": {
       "doneIds": [
@@ -595966,7 +596005,8 @@
         "6719029",
         "6719035",
         "6719037",
-        "6719042"
+        "6719042",
+        "6719045"
       ]
     },
     "blind": {
