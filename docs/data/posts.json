@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:06:30+00:00",
+  "updatedAt": "2026-11-26T15:07:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -563412,6 +563412,63 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T15:06:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124457,
+      "source": "qoo",
+      "externalId": "4419232600",
+      "title": "영호나 순자나 이해되는것이",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419232600",
+      "postedLabel": "00:06",
+      "postedAt": "2026-11-27T00:06:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:07:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124458,
+      "source": "dc",
+      "externalId": "6718481",
+      "title": "1찍 홍보대사 조옥순",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718481&page=1",
+      "postedLabel": "00:07",
+      "postedAt": "2026-11-27T00:07:04+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:07:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124459,
+      "source": "dc",
+      "externalId": "6718482",
+      "title": "예고 보니 영호는 현숙 좋아하는 거 같은데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "69.245",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718482&page=1",
+      "postedLabel": "00:07",
+      "postedAt": "2026-11-27T00:07:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:07:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -563523,7 +563580,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T00:04:10+09:00"
+      "slowAt": "2026-11-27T00:07:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -600313,7 +600370,8 @@
         "4419191388",
         "4419194041",
         "4419195350",
-        "4419218546"
+        "4419218546",
+        "4419232600"
       ]
     },
     "keep": "v2",
