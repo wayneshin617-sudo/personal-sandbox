@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:45:26+00:00",
+  "updatedAt": "2026-11-26T06:46:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -515425,6 +515425,46 @@
       "firstSeenAt": "2026-11-26T06:45:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121989,
+      "source": "dc",
+      "externalId": "cmt-11048256",
+      "title": "개재밌는데",
+      "excerpt": "34기 오늘도 안끝났음???",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "175.207",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716675&page=2#cmt_11048256",
+      "postedLabel": "11.26 14:52:26",
+      "postedAt": "2026-11-26T14:52:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:46:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121990,
+      "source": "dc",
+      "externalId": "cmt-11048432",
+      "title": "글게말야 이런 망상이라도 하면서 위안받길 - dc App",
+      "excerpt": "만약 이런 세상이 존재한다면 솔붕이들은 얼마나 절망할까",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716784&page=1#cmt_11048432",
+      "postedLabel": "11.26 15:45:57",
+      "postedAt": "2026-11-26T15:45:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:46:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -515536,7 +515576,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T15:42:58+09:00"
+      "slowAt": "2026-11-26T15:46:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -536734,6 +536774,7 @@
         "6716668",
         "6716670",
         "6716672",
+        "6716675",
         "6716676",
         "6716681",
         "6716682",
@@ -536773,7 +536814,8 @@
         "6716777",
         "6716778",
         "6716779",
-        "6716782"
+        "6716782",
+        "6716784"
       ]
     },
     "blind": {
