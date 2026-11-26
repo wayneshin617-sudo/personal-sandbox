@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:32:33+00:00",
+  "updatedAt": "2026-11-26T05:33:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -508292,6 +508292,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T05:32:33+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121625,
+      "source": "blind",
+      "externalId": "cmt-462727636",
+      "title": "원래 남자든 여자든 관심없는 이성 대할때 제일 냉철해지지",
+      "excerpt": "영철시는",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%8B%9C%EB%8A%94-fiqovg78#462727636",
+      "postedLabel": "47분",
+      "postedAt": "2026-11-26T13:46:31+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:33:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121626,
+      "source": "dc",
+      "externalId": "6716647",
+      "title": "영숙이랑 영식이 되면 영식이 애미애비 오열할듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716647&page=1",
+      "postedLabel": "14:32",
+      "postedAt": "2026-11-26T14:32:32+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:33:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121627,
+      "source": "dc",
+      "externalId": "6716648",
+      "title": "순자는 너무 커서 둔해보이고 줌마같음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716648&page=1",
+      "postedLabel": "14:32",
+      "postedAt": "2026-11-26T14:32:55+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:33:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121628,
+      "source": "dc",
+      "externalId": "6716649",
+      "title": "정숙 광수커플 나솔라방에서 환골탈태할듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "110.9",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716649&page=1",
+      "postedLabel": "14:32",
+      "postedAt": "2026-11-26T14:32:59+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:33:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -508403,7 +508480,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T14:29:53+09:00"
+      "slowAt": "2026-11-26T14:33:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -529560,7 +529637,8 @@
         "6716623",
         "6716628",
         "6716630",
-        "6716637"
+        "6716637",
+        "6716646"
       ]
     },
     "blind": {
