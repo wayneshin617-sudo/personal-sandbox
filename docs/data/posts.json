@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T12:29:30+00:00",
+  "updatedAt": "2026-11-26T12:30:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -544870,6 +544870,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T12:29:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123498,
+      "source": "dc",
+      "externalId": "cmt-11049048",
+      "title": "말하는게 얼굴 중앙에 힘을 다 실어서 말하는게 커엽다",
+      "excerpt": "34옥순이 예쁘다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717665&page=1#cmt_11049048",
+      "postedLabel": "11.26 21:29:48",
+      "postedAt": "2026-11-26T21:29:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:30:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -544981,7 +545001,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T21:27:13+09:00"
+      "slowAt": "2026-11-26T21:30:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -566387,7 +566407,8 @@
         "6717605",
         "6717616",
         "6717634",
-        "6717655"
+        "6717655",
+        "6717665"
       ]
     },
     "blind": {
