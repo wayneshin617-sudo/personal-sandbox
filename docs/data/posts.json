@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T03:40:46+00:00",
+  "updatedAt": "2026-11-26T03:41:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -495603,6 +495603,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T03:40:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120976,
+      "source": "dc",
+      "externalId": "6716367",
+      "title": "티비로만 보기에 외모 다 안보이는데 있긴있음ㅇㅇ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716367&page=1",
+      "postedLabel": "12:40",
+      "postedAt": "2026-11-26T12:40:48+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:41:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120977,
+      "source": "blind",
+      "externalId": "cmt-462719958",
+      "title": "아 ㅋㅋㅋ……",
+      "excerpt": "이 짤 생각나",
+      "author": "i*********",
+      "company": "LG디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4-%EC%A7%A4-%EC%83%9D%EA%B0%81%EB%82%98-vehdvgeg#462719958",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T12:41:31+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:41:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -495714,7 +495753,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T12:38:25+09:00"
+      "slowAt": "2026-11-26T12:41:31+09:00"
     },
     "ig": {
       "doneIds": [
