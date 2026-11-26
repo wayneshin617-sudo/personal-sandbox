@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T14:22:00+00:00",
+  "updatedAt": "2026-11-26T14:23:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -557651,6 +557651,82 @@
       "firstSeenAt": "2026-11-26T14:22:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124159,
+      "source": "dc",
+      "externalId": "6718224",
+      "title": "개저씨 지금 상황",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718224&page=1",
+      "postedLabel": "23:21",
+      "postedAt": "2026-11-26T23:21:56+09:00",
+      "views": 20,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:23:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124160,
+      "source": "dc",
+      "externalId": "6718226",
+      "title": "7영식 징그러움",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718226&page=1",
+      "postedLabel": "23:22",
+      "postedAt": "2026-11-26T23:22:02+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:23:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124161,
+      "source": "dc",
+      "externalId": "6718227",
+      "title": "나이50다되가지고 호강한다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718227&page=1",
+      "postedLabel": "23:22",
+      "postedAt": "2026-11-26T23:22:13+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:23:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124162,
+      "source": "dc",
+      "externalId": "6718229",
+      "title": "영호야 또 술이나 퍼마시자 할것두 없는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718229&page=1",
+      "postedLabel": "23:22",
+      "postedAt": "2026-11-26T23:22:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:23:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -579222,7 +579298,8 @@
         "6718162",
         "6718176",
         "6718194",
-        "6718206"
+        "6718206",
+        "6718223"
       ]
     },
     "blind": {
