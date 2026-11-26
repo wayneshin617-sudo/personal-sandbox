@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T12:32:32+00:00",
+  "updatedAt": "2026-11-26T12:33:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -545277,6 +545277,65 @@
       "firstSeenAt": "2026-11-26T12:32:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123519,
+      "source": "blind",
+      "externalId": "cmt-462781691",
+      "title": "못하거나 국결일듯",
+      "excerpt": "34기 출연자 결말 및 예상 결혼 시기",
+      "author": "두**",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%9E%90-%EA%B2%B0%EB%A7%90-%EB%B0%8F-%EC%98%88%EC%83%81-%EA%B2%B0%ED%98%BC-%EC%8B%9C%EA%B8%B0-lbuxhhx3#462781691",
+      "postedLabel": "18분",
+      "postedAt": "2026-11-26T21:15:13+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:33:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123520,
+      "source": "dc",
+      "externalId": "6717681",
+      "title": "여선택 데이트가 슈데 오후먼 영철 다대일임 무조건",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717681&page=1",
+      "postedLabel": "21:32",
+      "postedAt": "2026-11-26T21:32:14+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:33:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123521,
+      "source": "dc",
+      "externalId": "cmt-11049050",
+      "title": "사람이 아니네 ㄷㄷㄷ - dc App",
+      "excerpt": "아오이순자 댓글들 이거 ㄹㅇ임?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "112.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717673&page=1#cmt_11049050",
+      "postedLabel": "11.26 21:32:43",
+      "postedAt": "2026-11-26T21:32:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:33:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -545388,7 +545447,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T21:30:13+09:00"
+      "slowAt": "2026-11-26T21:33:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -566796,7 +566855,8 @@
         "6717616",
         "6717634",
         "6717655",
-        "6717665"
+        "6717665",
+        "6717673"
       ]
     },
     "blind": {
@@ -573185,6 +573245,7 @@
         "/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%ED%91%9C%EC%A0%95%EC%9D%B4-u8u58p3x",
         "/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-8u0ydl83",
         "/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-lbf5xudr",
+        "/kr/post/%EC%98%A5%EC%88%9C%EC%B2%98%EB%9F%BC-%EC%95%9E%EB%A8%B8%EB%A6%AC%EA%B8%B8%EA%B2%8C-%EC%BB%A4%ED%8A%BC%EC%B9%98%EB%8A%94%EA%B1%B0-850i0v5h",
         "/kr/post/%EC%98%A5%EC%88%9C%ED%8C%A8%EB%94%A9-%EB%AA%BD%ED%81%B4-%EC%96%B4%EB%8A%90%EB%AA%A8%EB%8D%B8%EC%9D%B8%EC%A7%80-%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-yb3g28db",
         "/kr/post/%EC%98%A5%EC%88%9C%ED%8C%A8%EB%94%A9-%EC%96%B4%EB%8A%90%EB%AA%A8%EB%8D%B8%EC%9D%B8%EC%A7%80-%EC%95%84%EB%8A%94%EC%82%AC%EB%9E%8C-yb3g28db",
         "/kr/post/%EC%98%A5%EC%88%9C%ED%95%9C%ED%85%8C%EC%84%9C-%EA%B9%80%ED%98%9C%EC%88%98-%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-nm1dlh8n",
