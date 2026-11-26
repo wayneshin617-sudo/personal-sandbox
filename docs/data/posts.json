@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T16:55:07+00:00",
+  "updatedAt": "2026-11-26T16:59:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -566838,6 +566838,26 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-26T16:55:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124633,
+      "source": "blind",
+      "externalId": "cmt-462823962",
+      "title": "벨링엄?",
+      "excerpt": "광수대사를 내 이상형이 한다면?",
+      "author": "I*********",
+      "company": "ex-삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8C%80%EC%82%AC%EB%A5%BC-%EB%82%B4-%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%B4-%ED%95%9C%EB%8B%A4%EB%A9%B4-85lrgpnx#462823962",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T01:58:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T16:59:07+00:00",
       "isSeed": false,
       "kind": "reply"
     }
