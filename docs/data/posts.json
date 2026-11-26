@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T00:53:40+00:00",
+  "updatedAt": "2026-11-26T00:54:40+00:00",
   "posts": [
     {
       "id": 95749,
@@ -475725,6 +475725,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T00:53:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119962,
+      "source": "dc",
+      "externalId": "6715980",
+      "title": "아무리봐도 모쏠인데..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715980&page=1",
+      "postedLabel": "09:53",
+      "postedAt": "2026-11-26T09:53:29+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:54:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -475836,7 +475855,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T09:51:21+09:00"
+      "slowAt": "2026-11-26T09:54:21+09:00"
     },
     "ig": {
       "doneIds": [
