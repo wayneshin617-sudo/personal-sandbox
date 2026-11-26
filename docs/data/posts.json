@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:10:18+00:00",
+  "updatedAt": "2026-11-26T05:11:26+00:00",
   "posts": [
     {
       "id": 95749,
@@ -506007,6 +506007,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T05:10:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121508,
+      "source": "dc",
+      "externalId": "6716593",
+      "title": "옥순이 볼수록 넘 이쁜데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716593&page=1",
+      "postedLabel": "14:10",
+      "postedAt": "2026-11-26T14:10:09+09:00",
+      "views": 11,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:11:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121509,
+      "source": "dc",
+      "externalId": "6716594",
+      "title": "옥순 누구닮았는지 생각중인데 아직도 안떠오름",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716594&page=1",
+      "postedLabel": "14:10",
+      "postedAt": "2026-11-26T14:10:49+09:00",
+      "views": 2,
+      "recommends": 2,
+      "comments": 1,
+      "firstSeenAt": "2026-11-26T05:11:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -506191,7 +506229,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T14:07:53+09:00"
+      "slowAt": "2026-11-26T14:11:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -527256,7 +527294,8 @@
         "6716578",
         "6716579",
         "6716587",
-        "6716591"
+        "6716591",
+        "6716594"
       ]
     },
     "blind": {
