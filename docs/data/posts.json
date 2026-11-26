@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T08:36:11+00:00",
+  "updatedAt": "2026-11-26T08:37:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -524681,6 +524681,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T08:36:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 122464,
+      "source": "dc",
+      "externalId": "cmt-11048554",
+      "title": "주위에 도전해볼 상대가 있긴 해?ㅋㅋㅋㅋㅋ - dc App",
+      "excerpt": "정숙이 보면 영자가 현명한게 맞다.",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716915&page=2#cmt_11048554",
+      "postedLabel": "11.26 16:40:05",
+      "postedAt": "2026-11-26T16:40:05+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:37:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122465,
+      "source": "dc",
+      "externalId": "cmt-11048596",
+      "title": "광수닮아서 감정이입하나봐",
+      "excerpt": "정숙이 보면 영자가 현명한게 맞다.",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716915&page=2#cmt_11048596",
+      "postedLabel": "11.26 16:54:52",
+      "postedAt": "2026-11-26T16:54:52+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:37:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122466,
+      "source": "dc",
+      "externalId": "6717046",
+      "title": "옥순이가 머리가 작긴 작네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.252",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717046&page=1",
+      "postedLabel": "17:35",
+      "postedAt": "2026-11-26T17:35:59+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:37:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -524792,7 +524851,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T17:33:30+09:00"
+      "slowAt": "2026-11-26T17:36:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -546084,6 +546143,7 @@
         "6716899",
         "6716908",
         "6716913",
+        "6716915",
         "6716918",
         "6716929",
         "6716932",
