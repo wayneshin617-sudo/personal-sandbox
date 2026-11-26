@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:41:47+00:00",
+  "updatedAt": "2026-11-26T05:42:45+00:00",
   "posts": [
     {
       "id": 95749,
@@ -509251,6 +509251,103 @@
       "firstSeenAt": "2026-11-26T05:41:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121674,
+      "source": "qoo",
+      "externalId": "4418678437",
+      "title": "슈데 게임 개노잼이네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418678437",
+      "postedLabel": "14:42",
+      "postedAt": "2026-11-26T14:41:59+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:42:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121675,
+      "source": "qoo",
+      "externalId": "4418678799",
+      "title": "영수 외모 이상형은 옥순이긴한가봐",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418678799",
+      "postedLabel": "14:42",
+      "postedAt": "2026-11-26T14:42:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:42:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121676,
+      "source": "dc",
+      "externalId": "cmt-11048220",
+      "title": "그건 광수가 들을 말인데?",
+      "excerpt": "정숙은 근데 눈을 너무 낮춘거 아니냐",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716668&page=1#cmt_11048220",
+      "postedLabel": "11.26 14:42:27",
+      "postedAt": "2026-11-26T14:42:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:42:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121677,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90-%EA%B0%9C%EC%97%AC%EC%9A%B0%EB%84%A4-bm7e1fvn",
+      "title": "순자 개여우네",
+      "excerpt": "상철이가 영호와의 데이트 어떘냐고 묻는데 애매하고 별로였다는 뉘앙스로 말함 분명 좋아서 계속 들떠있었으면서 ㅡ ㅡ 개여우에 지가 이쁜 줄 아네 아줌마가 이쁘다고 말 안해줬다고 ㅋㅋ",
+      "author": "1******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EA%B0%9C%EC%97%AC%EC%9A%B0%EB%84%A4-bm7e1fvn",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T14:42:31+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T05:42:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121678,
+      "source": "blind",
+      "externalId": "cmt-462733519",
+      "title": "이게맞지 ㅋㅋ",
+      "excerpt": "34영자가 만약 중소회사 다니는",
+      "author": "i*******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%8C%EC%95%BD-%EC%A4%91%EC%86%8C%ED%9A%8C%EC%82%AC-%EB%8B%A4%EB%8B%88%EB%8A%94-5v8hfazl#462733519",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T14:42:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:42:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -509362,7 +509459,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T14:39:31+09:00"
+      "slowAt": "2026-11-26T14:42:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -530530,7 +530627,8 @@
         "6716646",
         "6716650",
         "6716656",
-        "6716657"
+        "6716657",
+        "6716668"
       ]
     },
     "blind": {
@@ -545620,7 +545718,9 @@
         "4418595742",
         "4418604750",
         "4418617879",
-        "4418653404"
+        "4418653404",
+        "4418678437",
+        "4418678799"
       ]
     },
     "keep": "v2",
