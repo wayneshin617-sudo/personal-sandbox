@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T03:50:04+00:00",
+  "updatedAt": "2026-11-26T03:51:04+00:00",
   "posts": [
     {
       "id": 95749,
@@ -496738,6 +496738,65 @@
       "firstSeenAt": "2026-11-26T03:50:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121034,
+      "source": "blind",
+      "externalId": "cmt-462711514",
+      "title": "너무 비슷해서 근가봐",
+      "excerpt": "영수 영숙 둘이 잘 어울리는데",
+      "author": "l********",
+      "company": "NH농협은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%88%98-%EC%98%81%EC%88%99-%EB%91%98%EC%9D%B4-%EC%9E%98-%EC%96%B4%EC%9A%B8%EB%A6%AC%EB%8A%94%EB%8D%B0-7zqjpih7#462711514",
+      "postedLabel": "1시간",
+      "postedAt": "2026-11-26T11:50:44+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:51:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121035,
+      "source": "dc",
+      "externalId": "cmt-11047800",
+      "title": "순자가 더 윗급임 블라 나솔갤 등등 글 몇백개를 봣는데",
+      "excerpt": "34영수가 그랬잖아",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716391&page=1#cmt_11047800",
+      "postedLabel": "11.26 12:50:25",
+      "postedAt": "2026-11-26T12:50:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:51:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121036,
+      "source": "dc",
+      "externalId": "6716392",
+      "title": "영철이는 왕자병이여?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716392&page=1",
+      "postedLabel": "12:50",
+      "postedAt": "2026-11-26T12:50:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:51:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -496849,7 +496908,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T12:47:43+09:00"
+      "slowAt": "2026-11-26T12:50:48+09:00"
     },
     "ig": {
       "doneIds": [
@@ -517911,7 +517970,8 @@
         "6716370",
         "6716374",
         "6716376",
-        "6716388"
+        "6716388",
+        "6716391"
       ]
     },
     "blind": {
