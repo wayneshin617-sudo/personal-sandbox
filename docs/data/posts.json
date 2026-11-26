@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T10:58:03+00:00",
+  "updatedAt": "2026-11-26T10:59:00+00:00",
   "posts": [
     {
       "id": 95749,
@@ -538593,6 +538593,65 @@
       "firstSeenAt": "2026-11-26T10:58:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123175,
+      "source": "dc",
+      "externalId": "cmt-11048885",
+      "title": "이젠 남녀간에도 의리따윈 조금도 없다 페미들이 만든 계산적인 사랑의 시대가 왔음",
+      "excerpt": "당연히 늙으면 여자들이 노력해야 되는게 맞지 ㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717250&page=2#cmt_11048885",
+      "postedLabel": "11.26 19:03:07",
+      "postedAt": "2026-11-26T19:03:07+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:59:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123176,
+      "source": "dc",
+      "externalId": "cmt-11048894",
+      "title": "둘다 쳐 늙었으면 노인정이나가 남자나여자나 ㅋㅋ 쳐늙은이가 정신승리하는거보소 ㅋㅋ",
+      "excerpt": "당연히 늙으면 여자들이 노력해야 되는게 맞지 ㅋㅋ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "1.240",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717250&page=2#cmt_11048894",
+      "postedLabel": "11.26 19:11:24",
+      "postedAt": "2026-11-26T19:11:24+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:59:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123177,
+      "source": "qoo",
+      "externalId": "4419016925",
+      "title": "남자들 순자한테 왜 저래?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419016925",
+      "postedLabel": "19:58",
+      "postedAt": "2026-11-26T19:58:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:59:00+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -538777,7 +538836,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T19:55:47+09:00"
+      "slowAt": "2026-11-26T19:58:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -560068,6 +560127,7 @@
         "6717237",
         "6717241",
         "6717247",
+        "6717250",
         "6717256",
         "6717269",
         "6717278",
@@ -575263,7 +575323,8 @@
         "4418956870",
         "4418957729",
         "4418999028",
-        "4419005217"
+        "4419005217",
+        "4419016925"
       ]
     },
     "keep": "v2",
