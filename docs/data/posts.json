@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:33:47+00:00",
+  "updatedAt": "2026-11-26T05:34:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -508369,6 +508369,103 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T05:33:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121629,
+      "source": "dc",
+      "externalId": "cmt-11047994",
+      "title": "코메디가 따로없음 - dc App",
+      "excerpt": "늙녀들 올려치면서 한남들 까는거 웃기노 ㅋㅋㅋ",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716505&page=3#cmt_11047994",
+      "postedLabel": "11.26 13:33:27",
+      "postedAt": "2026-11-26T13:33:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:34:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121630,
+      "source": "blind",
+      "externalId": "cmt-462731236",
+      "title": "ㄹㅇ 옥팔계는 편집해주고 누군 안해주면 어이없음ㅋㅋㅋ",
+      "excerpt": "광수는 빨리 남피디 찾아가라",
+      "author": "d******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EB%B9%A8%EB%A6%AC-%EB%82%A8%ED%94%BC%EB%94%94-%EC%B0%BE%EC%95%84%EA%B0%80%EB%9D%BC-74qtbaof#462731236",
+      "postedLabel": "13분",
+      "postedAt": "2026-11-26T14:21:31+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:34:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121631,
+      "source": "dc",
+      "externalId": "6716650",
+      "title": "34상철은 무슨 대학교 무슨 과 졸업했어?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716650&page=1",
+      "postedLabel": "14:33",
+      "postedAt": "2026-11-26T14:33:32+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:34:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121632,
+      "source": "dc",
+      "externalId": "6716651",
+      "title": "잘생기고 돈많으면 나이상관없이 여자가대시개많이한다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "123.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716651&page=1",
+      "postedLabel": "14:33",
+      "postedAt": "2026-11-26T14:33:33+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:34:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121633,
+      "source": "dc",
+      "externalId": "6716652",
+      "title": "정숙 예쁜편이라는 애들 직접 만나서 면전에 대고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716652&page=1",
+      "postedLabel": "14:33",
+      "postedAt": "2026-11-26T14:33:51+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:34:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -508553,7 +508650,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T14:31:05+09:00"
+      "slowAt": "2026-11-26T14:34:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -529606,6 +529703,7 @@
         "6716490",
         "6716495",
         "6716502",
+        "6716505",
         "6716506",
         "6716509",
         "6716517",
