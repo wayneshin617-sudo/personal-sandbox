@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:41:18+00:00",
+  "updatedAt": "2026-11-26T23:42:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574028,6 +574028,26 @@
       "firstSeenAt": "2026-11-26T23:41:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125005,
+      "source": "dc",
+      "externalId": "cmt-11050001",
+      "title": "나동",
+      "excerpt": "요즘엔 돌싱N모솔 봄",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719035&page=1#cmt_11050001",
+      "postedLabel": "11.27 08:41:48",
+      "postedAt": "2026-11-27T08:41:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:42:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -574139,7 +574159,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T08:38:33+09:00"
+      "slowAt": "2026-11-27T08:41:59+09:00"
     },
     "ig": {
       "doneIds": [
@@ -595690,7 +595710,8 @@
         "6719019",
         "6719023",
         "6719027",
-        "6719029"
+        "6719029",
+        "6719035"
       ]
     },
     "blind": {
