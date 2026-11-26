@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T12:00:30+00:00",
+  "updatedAt": "2026-11-26T12:01:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -542425,6 +542425,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T12:00:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123372,
+      "source": "blind",
+      "externalId": "cmt-462776178",
+      "title": "상철? 영철말하는거아니지?",
+      "excerpt": "궁금",
+      "author": "d****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B6%81%EA%B8%88-6zk8j7nh#462776178",
+      "postedLabel": "26분",
+      "postedAt": "2026-11-26T20:35:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:01:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123373,
+      "source": "dc",
+      "externalId": "6717590",
+      "title": "34영철 결혼해 딸 낳으면..",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.106",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717590&page=1",
+      "postedLabel": "21:00",
+      "postedAt": "2026-11-26T21:00:21+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-26T12:01:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123374,
+      "source": "dc",
+      "externalId": "6717591",
+      "title": "58.29야 말은 바로 하자. 넌 근성이 아니라, 정신병이잖아.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717591&page=1",
+      "postedLabel": "21:00",
+      "postedAt": "2026-11-26T21:00:33+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:01:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123375,
+      "source": "dc",
+      "externalId": "cmt-11049017",
+      "title": "씨발련",
+      "excerpt": "34영철 결혼해 딸 낳으면..",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717590&page=1#cmt_11049017",
+      "postedLabel": "11.26 21:01:03",
+      "postedAt": "2026-11-26T21:01:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:01:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -542609,7 +542687,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T20:58:13+09:00"
+      "slowAt": "2026-11-26T21:01:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -563932,7 +564010,8 @@
         "6717538",
         "6717546",
         "6717566",
-        "6717571"
+        "6717571",
+        "6717590"
       ]
     },
     "blind": {
