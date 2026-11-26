@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T14:10:29+00:00",
+  "updatedAt": "2026-11-26T14:11:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -555170,6 +555170,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T14:10:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124030,
+      "source": "dc",
+      "externalId": "6718102",
+      "title": "근데 레슬러는 수입이 거의 없을건데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718102&page=1",
+      "postedLabel": "23:10",
+      "postedAt": "2026-11-26T23:10:29+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:11:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124031,
+      "source": "dc",
+      "externalId": "6718103",
+      "title": "장미 그만 웃어야함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718103&page=1",
+      "postedLabel": "23:10",
+      "postedAt": "2026-11-26T23:10:34+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:11:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124032,
+      "source": "dc",
+      "externalId": "6718104",
+      "title": "둘이닮았어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.245",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718104&page=1",
+      "postedLabel": "23:10",
+      "postedAt": "2026-11-26T23:10:46+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:11:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124033,
+      "source": "blind",
+      "externalId": "cmt-462802387",
+      "title": "그럴거 같아..ㅋㅋㅋ둘이 서로 호감도 있어 보이지만 좀 길게 대화한다치면 서로 엥하는 포인트가 있는 거 같음 ㅋㅋ",
+      "excerpt": "영호 현숙 최커O/ 현커X",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%ED%98%84%EC%88%99-%EC%B5%9C%EC%BB%A4O-%ED%98%84%EC%BB%A4X-r6jd7onj#462802387",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T23:11:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T14:11:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -555281,7 +555358,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T23:08:05+09:00"
+      "slowAt": "2026-11-26T23:11:12+09:00"
     },
     "ig": {
       "doneIds": [
@@ -576731,7 +576808,8 @@
         "6718056",
         "6718077",
         "6718087",
-        "6718093"
+        "6718093",
+        "6718099"
       ]
     },
     "blind": {
