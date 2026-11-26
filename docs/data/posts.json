@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:38:46+00:00",
+  "updatedAt": "2026-11-26T05:39:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -509076,6 +509076,45 @@
       "firstSeenAt": "2026-11-26T05:38:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121665,
+      "source": "dc",
+      "externalId": "cmt-11048065",
+      "title": "다음기수사람이없어서 그런가 ㅋㅋ 이번기수가 17화인가 18화분량이라던데 올해말인가 내년초까지한다들음 - dc App",
+      "excerpt": "이번 34기 뭔가 긴거같지않냐? 언제끝나 ㅅㅂ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "182.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716524&page=3#cmt_11048065",
+      "postedLabel": "11.26 13:46:39",
+      "postedAt": "2026-11-26T13:46:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:39:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121666,
+      "source": "dc",
+      "externalId": "6716664",
+      "title": "영호는 결혼원한다면서 선택은 ㅄ같이 하노 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716664&page=1",
+      "postedLabel": "14:38",
+      "postedAt": "2026-11-26T14:38:53+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:39:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -509187,7 +509226,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T14:36:31+09:00"
+      "slowAt": "2026-11-26T14:39:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -530322,6 +530361,7 @@
         "6716516",
         "6716517",
         "6716518",
+        "6716524",
         "6716526",
         "6716531",
         "6716533",
