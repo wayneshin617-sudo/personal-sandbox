@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T12:59:39+00:00",
+  "updatedAt": "2026-11-26T13:00:44+00:00",
   "posts": [
     {
       "id": 95749,
@@ -547835,6 +547835,46 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-26T12:59:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123651,
+      "source": "dc",
+      "externalId": "cmt-11049101",
+      "title": "영숙이 잘 잡았네",
+      "excerpt": "34기는 영호때문에 다 꼬였음...",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717758&page=1#cmt_11049101",
+      "postedLabel": "11.26 21:59:28",
+      "postedAt": "2026-11-26T21:59:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:00:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123652,
+      "source": "dc",
+      "externalId": "cmt-11049102",
+      "title": "빨리 결정했어도 여자들이 다른 남자들한테 안감ㅋㅋ",
+      "excerpt": "34기는 영호때문에 다 꼬였음...",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "124.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717758&page=1#cmt_11049102",
+      "postedLabel": "11.26 21:59:34",
+      "postedAt": "2026-11-26T21:59:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:00:44+00:00",
       "isSeed": false,
       "kind": "reply"
     }
