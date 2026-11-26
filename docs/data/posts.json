@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T02:02:24+00:00",
+  "updatedAt": "2026-11-26T02:03:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -482102,6 +482102,65 @@
       "firstSeenAt": "2026-11-26T02:02:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 120289,
+      "source": "dc",
+      "externalId": "6716121",
+      "title": "정숙이 못생기고 이성적인 매력이 없을 수 있음 근데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.167",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716121&page=1",
+      "postedLabel": "11:02",
+      "postedAt": "2026-11-26T11:02:44+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:03:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120290,
+      "source": "blind",
+      "externalId": "cmt-462708852",
+      "title": "동네 시장",
+      "excerpt": "34기 영숙 패딩 어디꺼일까",
+      "author": "9*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%ED%8C%A8%EB%94%A9-%EC%96%B4%EB%94%94%EA%BA%BC%EC%9D%BC%EA%B9%8C-xv4cqmlx#462708852",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T11:03:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:03:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120291,
+      "source": "blind",
+      "externalId": "cmt-462708926",
+      "title": "와이푸사주고싶대 ㅋㅋㅋ귀엽",
+      "excerpt": "34기 영숙 패딩 어디꺼일까",
+      "author": "l*******",
+      "company": "ex-스타벅스커피코리아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%ED%8C%A8%EB%94%A9-%EC%96%B4%EB%94%94%EA%BA%BC%EC%9D%BC%EA%B9%8C-xv4cqmlx#462708926",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T11:03:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:03:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -482213,7 +482272,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T11:00:06+09:00"
+      "slowAt": "2026-11-26T11:03:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -512050,6 +512109,7 @@
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%EC%88%9C%EC%9E%90%EB%8A%94-%EB%82%98%EC%86%94%EC%9D%80-%EB%AC%BC%EB%A1%A0-%EB%B0%96%EC%97%90%EC%84%9C%EB%8F%84-%EB%81%9D%EB%82%AC%EB%8B%A4-aeb44ydi",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%EC%98%81%EC%B2%A0-d55v1bx3",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%EC%B2%99%EC%B6%94%EB%AC%B8%EC%8B%A0-txc1qgnx",
+        "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-%ED%8C%A8%EB%94%A9-%EC%96%B4%EB%94%94%EA%BA%BC%EC%9D%BC%EA%B9%8C-xv4cqmlx",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99----%EC%B1%84%EC%8B%9D%EC%88%9C%EC%9E%90-%EB%8A%90%EB%82%8C-%EB%82%98%EB%84%A4-j5ajbb4t",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-16%EA%B8%B0-%EC%98%81%EC%88%99-%EC%A1%B4%EB%98%91%EC%9D%B4%EB%84%A4-puw0ovk4",
         "/kr/post/34%EA%B8%B0-%EC%98%81%EC%88%99-lbfiqr3n",
