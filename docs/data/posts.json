@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T16:16:06+00:00",
+  "updatedAt": "2026-11-26T16:18:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -565560,6 +565560,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T16:16:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124567,
+      "source": "dc",
+      "externalId": "cmt-11049418",
+      "title": "여자들 약자인척하는데 실상은 말 못하는 0~24개월만하겠냐? - dc App",
+      "excerpt": "어린이집 실태도 넷플릭스 올려야함",
+      "author": "안철수덕후",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718629&page=1#cmt_11049418",
+      "postedLabel": "11.27 01:17:01",
+      "postedAt": "2026-11-27T01:17:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T16:18:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -565744,7 +565764,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T01:14:48+09:00"
+      "slowAt": "2026-11-27T01:17:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -587180,7 +587200,8 @@
         "6718595",
         "6718599",
         "6718601",
-        "6718612"
+        "6718612",
+        "6718629"
       ]
     },
     "blind": {
