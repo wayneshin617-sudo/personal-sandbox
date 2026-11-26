@@ -16,7 +16,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: solo-collect-v5
+  group: solo-collect-v6
   cancel-in-progress: false
 
 jobs:
@@ -105,7 +105,7 @@ jobs:
           fi
         env:
           GH_TOKEN: ${{ github.token }}
-          COLLECT_GEN: v5
+          COLLECT_GEN: v6
           COLLECT_DEADLINE: "200"
       - name: Queue the next collect
         if: always()
