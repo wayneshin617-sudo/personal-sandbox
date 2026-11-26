@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:22:29+00:00",
+  "updatedAt": "2026-11-26T15:23:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564054,6 +564054,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T15:22:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124490,
+      "source": "qoo",
+      "externalId": "cmt-4419198452",
+      "title": "내가 굳이?? 이게 평생 지속될건데 라고 생각하면 뭐",
+      "excerpt": "각기수에서 인기남 인기녀 조합은 최커 현커되기 진짜 힘들어보인다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419195350#4419198452",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T23:22:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:23:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124491,
+      "source": "dc",
+      "externalId": "6718519",
+      "title": "나 영포티(진) 임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718519&page=1",
+      "postedLabel": "00:22",
+      "postedAt": "2026-11-27T00:22:21+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-26T15:23:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -564238,7 +564277,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T00:20:10+09:00"
+      "slowAt": "2026-11-27T00:23:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -585655,7 +585694,8 @@
         "6718467",
         "6718482",
         "6718512",
-        "6718513"
+        "6718513",
+        "6718519"
       ]
     },
     "blind": {
@@ -587715,6 +587755,7 @@
         "/kr/post/%EB%A1%AF%EB%8D%B0%EC%B9%A0%EC%84%B1%EC%9D%8C%EB%A3%8C%EB%8A%94-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EB%AF%B8%ED%8C%85%EB%8F%84%ED%95%B4-p46yht84",
         "/kr/post/%EB%A3%B0%EB%A3%A8-724hze3u",
         "/kr/post/%EB%A6%AC%EB%82%98%EB%A6%AC%EB%82%98%EB%9E%91-%EB%8F%99%EB%AC%BC%EB%B0%95%EC%82%AC%EB%9E%91-%EA%B7%B8%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%9C%EA%B1%B0%EC%98%80%EC%A7%80-bspgammv",
+        "/kr/post/%EB%A6%AC%EB%82%98%EB%A6%AC%EB%82%98-16%EA%B8%B0-%EC%98%81%EC%88%99-%EC%9E%90%EA%B8%B0-%EC%97%84%EB%A7%88-%EC%96%B8%EB%8B%88%EB%9E%91%EB%8F%84-%EC%86%90%EC%A0%88%ED%96%88%EB%8B%A4%EB%84%A4-%E3%84%B7-%E3%84%B7-diqakkfu",
         "/kr/post/%EB%A6%AC%EC%84%AD-%E3%85%8B%E3%85%8B-%EA%B5%AD%ED%99%94%EA%B0%99%EC%9D%80-%EC%97%AC%EC%9E%90%EB%9E%91-%EA%B2%B0%ED%98%BC%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%9C%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%84%A4-7d7oyd0v",
         "/kr/post/%EB%A6%AC%EC%8A%A4%ED%8E%99%ED%8A%B8-1%EA%B8%B0-%EC%98%81%ED%98%B8-%EB%AC%B8%EC%8B%A0%EA%B4%80-uebrrhpw",
         "/kr/post/%EB%A6%BD-%EC%83%89%EC%83%81-%EB%A7%90%ED%95%98%EC%A7%80-%EB%A7%90%EC%A7%80-%E3%85%9C%E3%85%9C-ufs0gvdm",
