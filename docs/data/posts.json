@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T17:17:47+00:00",
+  "updatedAt": "2026-11-26T17:21:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -567169,6 +567169,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-26T17:17:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124650,
+      "source": "dc",
+      "externalId": "6718721",
+      "title": "정영진<< 이사람은 유튜브로 돈 얼마나 벌까?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718721&page=1",
+      "postedLabel": "02:19",
+      "postedAt": "2026-11-27T02:19:43+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T17:21:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124651,
+      "source": "blind",
+      "externalId": "cmt-462825419",
+      "title": "영철이 잘생김",
+      "excerpt": "투표글 누가 더 잘생김? 투표",
+      "author": "방***",
+      "company": "서브원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80-%EB%8D%94-%EC%9E%98%EC%83%9D%EA%B9%80-78gfiksy#462825419",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T02:20:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T17:21:06+00:00",
       "isSeed": false,
       "kind": "reply"
     }
