@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:24:25+00:00",
+  "updatedAt": "2026-11-26T01:25:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -478635,6 +478635,26 @@
       "firstSeenAt": "2026-11-26T01:24:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 120111,
+      "source": "dc",
+      "externalId": "cmt-11047255",
+      "title": "영숙이랑 나머지를 비교하는건 말이 안되는 소리고 영자는 못생긴 여자, 정숙은 그냥 여자로 보이지 않는 수준임 정숙의 외모를 비하하거나 폄하하겠다는게 아니라 진짜 냉정하게 그렇게 보이는 수준임",
+      "excerpt": "정숙이 영숙 영자에 비해 별로인 외모인가",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "218.52",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716037&page=1#cmt_11047255",
+      "postedLabel": "11.26 10:24:59",
+      "postedAt": "2026-11-26T10:24:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:25:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -478819,7 +478839,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T10:22:06+09:00"
+      "slowAt": "2026-11-26T10:25:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -499680,7 +499700,8 @@
         "6716022",
         "6716025",
         "6716028",
-        "6716032"
+        "6716032",
+        "6716037"
       ]
     },
     "blind": {
