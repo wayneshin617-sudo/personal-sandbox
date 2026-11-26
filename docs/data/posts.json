@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T03:57:16+00:00",
+  "updatedAt": "2026-11-26T03:58:19+00:00",
   "posts": [
     {
       "id": 95749,
@@ -497440,6 +497440,102 @@
       "firstSeenAt": "2026-11-26T03:57:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121070,
+      "source": "dc",
+      "externalId": "cmt-11047820",
+      "title": "뭔소리야 망상장애 걸렷어? 아줌마",
+      "excerpt": "175.213 / 110.9 광수 아이피",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716406&page=1#cmt_11047820",
+      "postedLabel": "11.26 12:56:58",
+      "postedAt": "2026-11-26T12:56:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:58:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121071,
+      "source": "dc",
+      "externalId": "6716408",
+      "title": "미서랑 34광수보니까 인생 존나 불공평하노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716408&page=1",
+      "postedLabel": "12:57",
+      "postedAt": "2026-11-26T12:57:16+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:58:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121072,
+      "source": "dc",
+      "externalId": "6716409",
+      "title": "34기 출연자들 다 좋음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "14.32",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716409&page=1",
+      "postedLabel": "12:57",
+      "postedAt": "2026-11-26T12:57:34+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:58:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121073,
+      "source": "dc",
+      "externalId": "6716410",
+      "title": "날 미치게해줘!!!",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716410&page=1",
+      "postedLabel": "12:57",
+      "postedAt": "2026-11-26T12:57:36+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:58:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121074,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%80%EB%9F%B0-%EB%A9%98%ED%8A%B8%EB%A5%BC%ED%95%98%EC%A7%80-ibva61bc",
+      "title": "광수는 어떻게 저런 멘트를하지?",
+      "excerpt": "성장환경이 궁금해진다.",
+      "author": "I*********",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%80%EB%9F%B0-%EB%A9%98%ED%8A%B8%EB%A5%BC%ED%95%98%EC%A7%80-ibva61bc",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T12:58:03+09:00",
+      "views": 16,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T03:58:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -497624,7 +497720,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T12:54:57+09:00"
+      "slowAt": "2026-11-26T12:58:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -518621,7 +518717,8 @@
         "6716396",
         "6716400",
         "6716402",
-        "6716404"
+        "6716404",
+        "6716406"
       ]
     },
     "blind": {
