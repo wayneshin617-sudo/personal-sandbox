@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T12:33:31+00:00",
+  "updatedAt": "2026-11-26T12:34:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -545336,6 +545336,85 @@
       "firstSeenAt": "2026-11-26T12:33:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123522,
+      "source": "dc",
+      "externalId": "6717682",
+      "title": "현숙영호 미방 내놔!!!!!!!! ㅠㅠㅠ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717682&page=1",
+      "postedLabel": "21:33",
+      "postedAt": "2026-11-26T21:33:10+09:00",
+      "views": 14,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:34:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123523,
+      "source": "dc",
+      "externalId": "cmt-11049052",
+      "title": "웃기겠다 - dc App",
+      "excerpt": "여선택 데이트가 슈데 오후먼 영철 다대일임 무조건",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "118.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717681&page=1#cmt_11049052",
+      "postedLabel": "11.26 21:33:19",
+      "postedAt": "2026-11-26T21:33:19+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:34:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123524,
+      "source": "dc",
+      "externalId": "cmt-11049054",
+      "title": "순자 영호한테 또 갈것같음",
+      "excerpt": "여선택 데이트가 슈데 오후먼 영철 다대일임 무조건",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717681&page=1#cmt_11049054",
+      "postedLabel": "11.26 21:33:56",
+      "postedAt": "2026-11-26T21:33:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:34:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123525,
+      "source": "dc",
+      "externalId": "cmt-11049055",
+      "title": "예고 웃는거보면 다대일임 ㅋㅋ",
+      "excerpt": "여선택 데이트가 슈데 오후먼 영철 다대일임 무조건",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717681&page=1#cmt_11049055",
+      "postedLabel": "11.26 21:34:09",
+      "postedAt": "2026-11-26T21:34:09+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:34:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -545520,7 +545599,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T21:31:13+09:00"
+      "slowAt": "2026-11-26T21:34:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -566856,7 +566935,8 @@
         "6717634",
         "6717655",
         "6717665",
-        "6717673"
+        "6717673",
+        "6717681"
       ]
     },
     "blind": {
