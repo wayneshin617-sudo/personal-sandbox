@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:41:22+00:00",
+  "updatedAt": "2026-11-26T13:42:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -551328,6 +551328,84 @@
       "comments": 0,
       "firstSeenAt": "2026-11-26T13:41:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123831,
+      "source": "dc",
+      "externalId": "cmt-11049103",
+      "title": "ㅡ,ㅡ?",
+      "excerpt": "영철이 공무원시험 보러 갈 때 낀 안경",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717710&page=3#cmt_11049103",
+      "postedLabel": "11.26 21:59:57",
+      "postedAt": "2026-11-26T21:59:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:42:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123832,
+      "source": "dc",
+      "externalId": "6717942",
+      "title": "넷플로 외국 여자들이 보면 한국남자들 어떻게 생각할까",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717942&page=1",
+      "postedLabel": "22:41",
+      "postedAt": "2026-11-26T22:41:42+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:42:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123833,
+      "source": "dc",
+      "externalId": "6717945",
+      "title": "진짜 레전드 리젠이놐ㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717945&page=1",
+      "postedLabel": "22:41",
+      "postedAt": "2026-11-26T22:41:59+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:42:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123834,
+      "source": "blind",
+      "externalId": "cmt-462796825",
+      "title": "와 👍",
+      "excerpt": "광수",
+      "author": "p*****",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-qrc86qdi#462796825",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T22:42:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:42:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -551512,7 +551590,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T22:39:05+09:00"
+      "slowAt": "2026-11-26T22:42:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -572862,6 +572940,7 @@
         "6717692",
         "6717702",
         "6717709",
+        "6717710",
         "6717729",
         "6717741",
         "6717746",
@@ -573411,6 +573490,7 @@
         "/kr/post/%EA%B4%91%EC%88%98-l8ms1ku3",
         "/kr/post/%EA%B4%91%EC%88%98-nu2kran5",
         "/kr/post/%EA%B4%91%EC%88%98-ovfkvwrk",
+        "/kr/post/%EA%B4%91%EC%88%98-qrc86qdi",
         "/kr/post/%EA%B4%91%EC%88%98-r5occcg0",
         "/kr/post/%EA%B4%91%EC%88%98-uev1kd6m",
         "/kr/post/%EA%B4%91%EC%88%98-vs-%EC%83%81%EC%B2%A0-gafc386w",
