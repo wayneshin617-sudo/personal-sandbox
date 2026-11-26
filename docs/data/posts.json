@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:57:47+00:00",
+  "updatedAt": "2026-11-26T05:58:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -510701,6 +510701,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T05:57:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121748,
+      "source": "dc",
+      "externalId": "6716696",
+      "title": "영수 쫌 비열해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716696&page=1",
+      "postedLabel": "14:57",
+      "postedAt": "2026-11-26T14:57:40+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:58:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121749,
+      "source": "dc",
+      "externalId": "6716697",
+      "title": "부동산투자 시 실패하지 않을 금액대별 환금성 좋은 단지",
+      "excerpt": "",
+      "author": "우스",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716697&page=1",
+      "postedLabel": "14:57",
+      "postedAt": "2026-11-26T14:57:53+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:58:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121750,
+      "source": "dc",
+      "externalId": "6716698",
+      "title": "춘식아 가지마",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716698&page=1",
+      "postedLabel": "14:58",
+      "postedAt": "2026-11-26T14:58:14+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:58:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121751,
+      "source": "dc",
+      "externalId": "cmt-11048274",
+      "title": "서울은 90% 넘더라 유치원은 99% ADHD 남아비율이 높은 이유가 이와 관련 있을 수 있다 봄 남성위원회가 필요한 이유",
+      "excerpt": "학교선생님들 중에 여자가 더 많은 이유는",
+      "author": "안철수덕후",
+      "company": "",
+      "ip": "58.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716692&page=1#cmt_11048274",
+      "postedLabel": "11.26 14:58:29",
+      "postedAt": "2026-11-26T14:58:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:58:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510885,7 +510962,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T14:55:31+09:00"
+      "slowAt": "2026-11-26T14:58:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -531995,7 +532072,8 @@
         "6716684",
         "6716687",
         "6716688",
-        "6716689"
+        "6716689",
+        "6716692"
       ]
     },
     "blind": {
