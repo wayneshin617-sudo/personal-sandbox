@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:07:57+00:00",
+  "updatedAt": "2026-11-26T23:08:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -573217,6 +573217,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T23:07:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124964,
+      "source": "blind",
+      "externalId": "cmt-462835872",
+      "title": "갓닉스만 아니였으면….",
+      "excerpt": "상철같이 못생긴애들한테 여지주면 저렇게 되는거임",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EA%B0%99%EC%9D%B4-%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%95%A0%EB%93%A4%ED%95%9C%ED%85%8C-%EC%97%AC%EC%A7%80%EC%A3%BC%EB%A9%B4-%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%90%98%EB%8A%94%EA%B1%B0%EC%9E%84-fr66bkt1#462835872",
+      "postedLabel": "21분",
+      "postedAt": "2026-11-27T07:47:38+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:08:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124965,
+      "source": "dc",
+      "externalId": "6719019",
+      "title": "영호는 리스크때문에 수동공격적으로 행동하는거야.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719019&page=1",
+      "postedLabel": "08:08",
+      "postedAt": "2026-11-27T08:08:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:08:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124966,
+      "source": "blind",
+      "externalId": "cmt-462837754",
+      "title": "영자님은 상여자잖아 저렇게 돌진하기도 힘든데 멋짐 막말안하고 근데 광수님은",
+      "excerpt": "근데 광수랑 영자랑 뭐가 다름?",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EA%B4%91%EC%88%98%EB%9E%91-%EC%98%81%EC%9E%90%EB%9E%91-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A6%84-d50qw7wx#462837754",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T08:08:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:08:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -573328,7 +573387,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T08:05:38+09:00"
+      "slowAt": "2026-11-27T08:08:38+09:00"
     },
     "ig": {
       "doneIds": [
