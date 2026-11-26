@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T09:35:10+00:00",
+  "updatedAt": "2026-11-26T09:36:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -531348,6 +531348,84 @@
       "firstSeenAt": "2026-11-26T09:35:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 122805,
+      "source": "dc",
+      "externalId": "cmt-11048677",
+      "title": "요즘은 자기가 연애 안하고 방송보고 대리 연애하잖아",
+      "excerpt": "종편 새연프 참가자 모집하네 ㅎㅎ 개나소나 다 연프네",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717044&page=2#cmt_11048677",
+      "postedLabel": "11.26 17:38:41",
+      "postedAt": "2026-11-26T17:38:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:36:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122806,
+      "source": "dc",
+      "externalId": "6717197",
+      "title": "옥순이 이쁘다고 필러맞아서 울퉁불퉁 키도 158이하인듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717197&page=1",
+      "postedLabel": "18:35",
+      "postedAt": "2026-11-26T18:35:00+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:36:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122807,
+      "source": "dc",
+      "externalId": "6717198",
+      "title": "앞으로 최종선택의 의미는 밖에서 한번 만나주는거라 해라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "59.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717198&page=1",
+      "postedLabel": "18:35",
+      "postedAt": "2026-11-26T18:35:17+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:36:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122808,
+      "source": "blind",
+      "externalId": "cmt-462760789",
+      "title": "영식은.좀 인정하는데 상철은 음 호불호가 아주쎄게 걸릴듯",
+      "excerpt": "궁금",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B6%81%EA%B8%88-6zk8j7nh#462760789",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T18:35:52+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:36:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -531532,7 +531610,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T18:32:52+09:00"
+      "slowAt": "2026-11-26T18:35:52+09:00"
     },
     "dc": {
       "doneIds": [
@@ -552784,6 +552862,7 @@
         "6717031",
         "6717039",
         "6717042",
+        "6717044",
         "6717046",
         "6717055",
         "6717062",
