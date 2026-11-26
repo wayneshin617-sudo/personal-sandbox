@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:10:23+00:00",
+  "updatedAt": "2026-11-26T13:12:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -548343,6 +548343,85 @@
       "comments": 0,
       "firstSeenAt": "2026-11-26T13:10:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123677,
+      "source": "dc",
+      "externalId": "cmt-11049030",
+      "title": "찌질한 게 진짜 영철이가 쓴 글 같다",
+      "excerpt": "현직 의사인데 34영철 정도면 알파남 맞다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717616&page=2#cmt_11049030",
+      "postedLabel": "11.26 21:17:30",
+      "postedAt": "2026-11-26T21:17:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:12:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123678,
+      "source": "dc",
+      "externalId": "cmt-11049111",
+      "title": "이미 첫인상이나 청순한외모 좋아한다고 말했는데 뭘 말하래 ㅋㅋ",
+      "excerpt": "영호는 순자가 하는 행동 다 지켜봤고",
+      "author": "나갤러3",
+      "company": "",
+      "ip": "124.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717455&page=3#cmt_11049111",
+      "postedLabel": "11.26 22:08:20",
+      "postedAt": "2026-11-26T22:08:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:12:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123679,
+      "source": "dc",
+      "externalId": "6717798",
+      "title": "영호가 지금까지 간재비하던 남자중에 제일",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717798&page=1",
+      "postedLabel": "22:11",
+      "postedAt": "2026-11-26T22:11:56+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:12:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123680,
+      "source": "blind",
+      "externalId": "cmt-462791297",
+      "title": "진짜 그놈의 고민중 ㅋㅋㅋㅋ 아니 니가 뭔데 도대체… 여자한테 관심표현 처음 받아보는 거 티나ㅠ",
+      "excerpt": "34기 상철 디게 찌질하네ㅋㅋㅋㅋ",
+      "author": "l********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%83%81%EC%B2%A0-%EB%94%94%EA%B2%8C-%EC%B0%8C%EC%A7%88%ED%95%98%EB%84%A4%E3%85%8B%E3%85%8B%E3%85%8B%E3%85%8B-wd3mkptr#462791297",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T22:12:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:12:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -548527,7 +548606,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T22:09:05+09:00"
+      "slowAt": "2026-11-26T22:12:05+09:00"
     },
     "dc": {
       "doneIds": [
