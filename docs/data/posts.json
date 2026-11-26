@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:48:38+00:00",
+  "updatedAt": "2026-11-26T06:49:38+00:00",
   "posts": [
     {
       "id": 95749,
@@ -515581,6 +515581,103 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:48:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121997,
+      "source": "dc",
+      "externalId": "cmt-11048437",
+      "title": "모쏠일듯!! 모쏠친구들이 원래 푼수가많아",
+      "excerpt": "정숙은 왜이렇게 유쾌 재미를 추구하는거야?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716790&page=1#cmt_11048437",
+      "postedLabel": "11.26 15:48:28",
+      "postedAt": "2026-11-26T15:48:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:49:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121998,
+      "source": "dc",
+      "externalId": "cmt-11048438",
+      "title": "ㄹㅇ 그럴거같음 ㅇㅇㅇ",
+      "excerpt": "영자 빡돌면 마취침놓을거같음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716789&page=1#cmt_11048438",
+      "postedLabel": "11.26 15:48:46",
+      "postedAt": "2026-11-26T15:48:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:49:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121999,
+      "source": "dc",
+      "externalId": "6716793",
+      "title": "정숙 순자가 착하다는건 아니지만 이번주 불쌍하긴함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716793&page=1",
+      "postedLabel": "15:48",
+      "postedAt": "2026-11-26T15:48:49+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:49:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122000,
+      "source": "dc",
+      "externalId": "6716794",
+      "title": "영자 ㅡ 놓칠 순 있다고 절 놓칠 순 있다고요",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716794&page=1",
+      "postedLabel": "15:48",
+      "postedAt": "2026-11-26T15:48:51+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:49:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122001,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%8F%8C%EC%8B%B1-n-%EB%AA%A8%EC%86%942%EA%B0%80-34%EA%B8%B0%EB%B3%B4%EB%8B%A4-%EC%9E%BC%EB%94%B0-7yuy4o0d",
+      "title": "투표글 돌싱 n 모솔2가 34기보다 잼따 투표",
+      "excerpt": "ㅇㅈ?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%8F%8C%EC%8B%B1-n-%EB%AA%A8%EC%86%942%EA%B0%80-34%EA%B8%B0%EB%B3%B4%EB%8B%A4-%EC%9E%BC%EB%94%B0-7yuy4o0d",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T15:49:21+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T06:49:38+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -515692,7 +515789,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T15:46:10+09:00"
+      "slowAt": "2026-11-26T15:49:21+09:00"
     },
     "ig": {
       "doneIds": [
@@ -536932,7 +537029,9 @@
         "6716778",
         "6716779",
         "6716782",
-        "6716784"
+        "6716784",
+        "6716789",
+        "6716790"
       ]
     },
     "blind": {
