@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T04:42:49+00:00",
+  "updatedAt": "2026-11-26T04:43:49+00:00",
   "posts": [
     {
       "id": 95749,
@@ -503208,6 +503208,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-26T04:42:49+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121365,
+      "source": "dc",
+      "externalId": "cmt-11047790",
+      "title": "정석 존잘급은 나솔에 나온적이없음",
+      "excerpt": "영철이 일반인치고 잘생겼지만 존잘급은 아님",
+      "author": "나갤러4",
+      "company": "",
+      "ip": "222.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716370&page=3#cmt_11047790",
+      "postedLabel": "11.26 12:48:23",
+      "postedAt": "2026-11-26T12:48:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:43:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121366,
+      "source": "dc",
+      "externalId": "cmt-11047813",
+      "title": "ㄹㅇ ㅋㅋㅋ",
+      "excerpt": "영철이 일반인치고 잘생겼지만 존잘급은 아님",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716370&page=3#cmt_11047813",
+      "postedLabel": "11.26 12:55:13",
+      "postedAt": "2026-11-26T12:55:13+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:43:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121367,
+      "source": "dc",
+      "externalId": "cmt-11048044",
+      "title": "저기 저런건 존나 잘 맞히긴 하더라 자기 소신껏 쓰는 글은 맞는듯",
+      "excerpt": "양홍원 지금 사건 터지기전에 올라온 성지글",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "187.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716526&page=1#cmt_11048044",
+      "postedLabel": "11.26 13:43:26",
+      "postedAt": "2026-11-26T13:43:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:43:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -503392,7 +503452,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T13:40:32+09:00"
+      "slowAt": "2026-11-26T13:43:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -524429,7 +524489,8 @@
         "6716506",
         "6716509",
         "6716517",
-        "6716518"
+        "6716518",
+        "6716526"
       ]
     },
     "blind": {
@@ -528652,6 +528713,7 @@
         "/kr/post/%EC%98%81%EC%88%98-%EB%AD%94%EA%B0%80-%EC%A7%A0%ED%95%98%EB%84%A4-fm2fckdr",
         "/kr/post/%EC%98%81%EC%88%98-%EB%B0%98%EB%B0%94%EC%A7%80-%EC%9E%85%EA%B3%A0-%EB%8B%A4%EB%A6%AC%EA%B0%80-%EB%AC%B4%EC%8A%A8-%EC%8B%A0%EC%83%9D%EC%95%84-%EB%8B%A4%EB%A6%AC%EA%B0%99%EC%95%84-zcfqqxax",
         "/kr/post/%EC%98%81%EC%88%98-%EB%B0%9C%EC%96%B8%EC%9D%B4-%EB%85%BC%EB%9E%80%EC%9D%B4%EC%A7%80%EB%A7%8C-w7h2cl3f",
+        "/kr/post/%EC%98%81%EC%88%98-%EB%B3%84%EB%AA%85-fqkhlyaa",
         "/kr/post/%EC%98%81%EC%88%98-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-osk636ki",
         "/kr/post/%EC%98%81%EC%88%98-%EC%83%81%EC%B2%A0-%EC%98%81%EC%B2%A0-h2q7ao07",
         "/kr/post/%EC%98%81%EC%88%98-%EC%84%B1%EA%B2%A9-%EB%AA%BD%EB%AF%B8-5s2djhlg",
