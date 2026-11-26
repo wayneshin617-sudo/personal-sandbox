@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T21:31:08+00:00",
+  "updatedAt": "2026-11-26T21:34:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -572157,6 +572157,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T21:31:08+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124910,
+      "source": "dc",
+      "externalId": "cmt-11049832",
+      "title": "이년 잠들었노 ㅋㅋㅋ",
+      "excerpt": "▶️ IP 58.29 ◀️ 넌 삭제할 때까지 처맞을 줄 알아",
+      "author": "58.29",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718988&page=1#cmt_11049832",
+      "postedLabel": "11.27 06:33:05",
+      "postedAt": "2026-11-27T06:33:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T21:34:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124911,
+      "source": "dc",
+      "externalId": "6718997",
+      "title": "남자가 뭐라고 여기다 화풀인지 남미새 못말려",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718997&page=1",
+      "postedLabel": "06:33",
+      "postedAt": "2026-11-27T06:33:40+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T21:34:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -593805,6 +593844,7 @@
         "6718862",
         "6718871",
         "6718874",
+        "6718988",
         "6718992"
       ]
     },
