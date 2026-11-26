@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T21:34:09+00:00",
+  "updatedAt": "2026-11-26T21:35:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -572196,6 +572196,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T21:34:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124912,
+      "source": "dc",
+      "externalId": "6718998",
+      "title": "이거 짤로만 보다가 동영상보고 깜짝놀랬네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718998&page=1",
+      "postedLabel": "06:34",
+      "postedAt": "2026-11-27T06:34:08+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T21:35:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124913,
+      "source": "blind",
+      "externalId": "cmt-462831454",
+      "title": "ㅂㅌ 눈빛",
+      "excerpt": "광수 말이야..",
+      "author": "스***",
+      "company": "부광약품",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EB%A7%90%EC%9D%B4%EC%95%BC-x68xzxbz#462831454",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T06:34:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T21:35:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -572380,7 +572419,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T06:31:50+09:00"
+      "slowAt": "2026-11-27T06:34:50+09:00"
     },
     "dc": {
       "doneIds": [
