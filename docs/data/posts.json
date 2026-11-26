@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:04:57+00:00",
+  "updatedAt": "2026-11-26T23:06:56+00:00",
   "posts": [
     {
       "id": 95749,
@@ -573179,6 +573179,25 @@
       "firstSeenAt": "2026-11-26T23:04:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124962,
+      "source": "dc",
+      "externalId": "6719017",
+      "title": "영수가 자꾸 영철이랑 영자 엮으려는 이유",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719017&page=1",
+      "postedLabel": "08:06",
+      "postedAt": "2026-11-27T08:06:29+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:06:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -573363,7 +573382,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T08:03:38+09:00"
+      "slowAt": "2026-11-27T08:06:38+09:00"
     },
     "dc": {
       "doneIds": [
