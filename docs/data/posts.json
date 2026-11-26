@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T08:46:07+00:00",
+  "updatedAt": "2026-11-26T08:47:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -525623,6 +525623,44 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-26T08:46:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122512,
+      "source": "dc",
+      "externalId": "6717063",
+      "title": "설렘없는 결혼은 아무의미없음.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "82.41",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717063&page=1",
+      "postedLabel": "17:46",
+      "postedAt": "2026-11-26T17:46:22+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:47:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122513,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%96%B4%EC%A0%9C-%EB%B3%B4%EB%8B%A4-%EC%9E%A4%EB%8A%94%EB%8D%B0-qe6iay2s",
+      "title": "어제 보다 잤는데",
+      "excerpt": "영호 누구 선택할거 같아? 현숙? 순자?",
+      "author": "엉*****",
+      "company": "종근당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%B4%EC%A0%9C-%EB%B3%B4%EB%8B%A4-%EC%9E%A4%EB%8A%94%EB%8D%B0-qe6iay2s",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T17:46:52+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T08:47:09+00:00",
       "isSeed": false
     }
   ],
