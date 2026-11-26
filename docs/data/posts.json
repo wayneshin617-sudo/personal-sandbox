@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T11:48:30+00:00",
+  "updatedAt": "2026-11-26T11:49:30+00:00",
   "posts": [
     {
       "id": 95749,
@@ -541532,6 +541532,44 @@
       "comments": 23,
       "firstSeenAt": "2026-11-26T11:48:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123326,
+      "source": "dc",
+      "externalId": "6717556",
+      "title": "34기 이야기할게 뭐 있다고 ㅡ 3짤 요약 ㅡ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717556&page=1",
+      "postedLabel": "20:48",
+      "postedAt": "2026-11-26T20:48:55+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:49:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123327,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%98%84%EC%88%99%EB%8F%84-%EC%98%81%ED%98%B8%EA%B0%80-%EC%99%84%EC%A0%84%ED%9E%88-%EB%A7%98%EC%97%90-%EB%93%A0%EA%B1%B4-%EC%95%84%EB%8B%8C%EA%B1%B0%EC%A7%80-0psf8rk8",
+      "title": "현숙도 영호가 완전히 맘에 든건 아닌거지?",
+      "excerpt": "현숙 영호 둘다 서로가 엄청 맘에 드는건 아닌거같네",
+      "author": "d*****",
+      "company": "LG CNS",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EB%8F%84-%EC%98%81%ED%98%B8%EA%B0%80-%EC%99%84%EC%A0%84%ED%9E%88-%EB%A7%98%EC%97%90-%EB%93%A0%EA%B1%B4-%EC%95%84%EB%8B%8C%EA%B1%B0%EC%A7%80-0psf8rk8",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T20:49:13+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T11:49:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -541716,7 +541754,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T20:46:13+09:00"
+      "slowAt": "2026-11-26T20:49:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -563036,7 +563074,8 @@
         "6717507",
         "6717523",
         "6717525",
-        "6717538"
+        "6717538",
+        "6717546"
       ]
     },
     "blind": {
