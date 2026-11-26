@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:20:28+00:00",
+  "updatedAt": "2026-11-26T15:21:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -563957,6 +563957,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T15:20:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124485,
+      "source": "qoo",
+      "externalId": "cmt-4419196792",
+      "title": "영호 관련하면 이제까지 늘상 있어왔던 얘기도 무례다 궁예다 하며 고나리 컷이 높은거 같음",
+      "excerpt": "영호 그냥 현숙이면서 왜 모르겠다 하는거임?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419139213#4419196792",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T23:20:59+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:21:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124486,
+      "source": "dc",
+      "externalId": "6718516",
+      "title": "작약이 뭐가 이뻐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718516&page=1",
+      "postedLabel": "00:20",
+      "postedAt": "2026-11-27T00:20:54+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:21:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124487,
+      "source": "dc",
+      "externalId": "cmt-11049328",
+      "title": "ㄷㄷ",
+      "excerpt": "심리소장 34광수 실시간 리뷰 시작했다 ㄷㄷ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718513&page=1#cmt_11049328",
+      "postedLabel": "11.27 00:21:02",
+      "postedAt": "2026-11-27T00:21:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:21:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -585557,7 +585616,8 @@
         "6718463",
         "6718467",
         "6718482",
-        "6718512"
+        "6718512",
+        "6718513"
       ]
     },
     "blind": {
