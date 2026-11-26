@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T17:29:48+00:00",
+  "updatedAt": "2026-11-26T17:30:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -567348,6 +567348,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T17:29:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124659,
+      "source": "dc",
+      "externalId": "cmt-11049446",
+      "title": "순자야 자라",
+      "excerpt": "영호 현숙 아닌거같은데 표졍이",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718662&page=1#cmt_11049446",
+      "postedLabel": "11.27 01:53:51",
+      "postedAt": "2026-11-27T01:53:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T17:30:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124660,
+      "source": "blind",
+      "externalId": "cmt-462825625",
+      "title": "현숙같은애는 좀 뽑지마라. 전파낭비에 다른사람 출연기회 뺏는거. 그래서 그런가 회차 거듭할수록 분단위로 못생김이 드러남",
+      "excerpt": "현숙 최종선택의 의미가 소개팅을 하겠다 라니",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99-%EC%B5%9C%EC%A2%85%EC%84%A0%ED%83%9D%EC%9D%98-%EC%9D%98%EB%AF%B8%EA%B0%80-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%9D%84-%ED%95%98%EA%B2%A0%EB%8B%A4-%EB%9D%BC%EB%8B%88-j46s4djz#462825625",
+      "postedLabel": "7분",
+      "postedAt": "2026-11-27T02:23:37+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T17:30:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124661,
+      "source": "dc",
+      "externalId": "cmt-11049467",
+      "title": "영식도 사귀는건 몰라도 결혼은 어렵지 - dc App",
+      "excerpt": "34기 영숙은 판단 잘했네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718724&page=1#cmt_11049467",
+      "postedLabel": "11.27 02:30:03",
+      "postedAt": "2026-11-27T02:30:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T17:30:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -588976,13 +589036,15 @@
         "6718629",
         "6718646",
         "6718653",
+        "6718662",
         "6718671",
         "6718700",
         "6718701",
         "6718713",
         "6718714",
         "6718716",
-        "6718720"
+        "6718720",
+        "6718724"
       ]
     },
     "blind": {
