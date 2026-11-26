@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:48:16+00:00",
+  "updatedAt": "2026-11-26T15:49:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564792,6 +564792,26 @@
       "recommends": 2,
       "comments": null,
       "firstSeenAt": "2026-11-26T15:48:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124528,
+      "source": "dc",
+      "externalId": "cmt-11049357",
+      "title": "그니까 이번년도 기준으로 글쓴거잖아",
+      "excerpt": "먼가 슬픔....",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718566&page=1#cmt_11049357",
+      "postedLabel": "11.27 00:48:30",
+      "postedAt": "2026-11-27T00:48:30+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:49:29+00:00",
       "isSeed": false,
       "kind": "reply"
     }
