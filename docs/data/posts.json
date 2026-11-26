@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T18:29:09+00:00",
+  "updatedAt": "2026-11-26T18:30:10+00:00",
   "posts": [
     {
       "id": 95749,
@@ -568432,6 +568432,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-26T18:29:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124715,
+      "source": "dc",
+      "externalId": "6718799",
+      "title": "도배 이 벌레야 너 여기서 왜 사람 흉내내",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718799&page=1",
+      "postedLabel": "03:29",
+      "postedAt": "2026-11-27T03:29:10+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T18:30:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124716,
+      "source": "dc",
+      "externalId": "6718800",
+      "title": "친여동생한테 차단당하고 꺼드럭대지말라고 한소리듣는",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718800&page=1",
+      "postedLabel": "03:29",
+      "postedAt": "2026-11-27T03:29:22+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T18:30:10+00:00",
       "isSeed": false
     }
   ],
