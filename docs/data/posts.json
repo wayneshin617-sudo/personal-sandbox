@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T00:37:40+00:00",
+  "updatedAt": "2026-11-26T00:38:37+00:00",
   "posts": [
     {
       "id": 95749,
@@ -473992,6 +473992,83 @@
       "firstSeenAt": "2026-11-26T00:37:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 119874,
+      "source": "qoo",
+      "externalId": "4418398143",
+      "title": "영호현숙 진척있어?????",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418398143",
+      "postedLabel": "09:37",
+      "postedAt": "2026-11-26T09:37:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:38:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119875,
+      "source": "dc",
+      "externalId": "6715953",
+      "title": "마운자하지마 병남 그냥 뚱뚱한모습도",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715953&page=1",
+      "postedLabel": "09:37",
+      "postedAt": "2026-11-26T09:37:44+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:38:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119876,
+      "source": "dc",
+      "externalId": "cmt-11047130",
+      "title": "맞다 이런 애들 특징이 지가 해준거에 10배를 해줘도 감각이 없음 그냥 뇌가 빠가인거라 밑빠진 독에 물붓기임",
+      "excerpt": "결혼 못하는 애들 특징이 바로 사랑받고싶다 이거임",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715947&page=1#cmt_11047130",
+      "postedLabel": "11.26 09:37:50",
+      "postedAt": "2026-11-26T09:37:50+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:38:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119877,
+      "source": "dc",
+      "externalId": "6715954",
+      "title": "옥순 이쁘던데 실제로 보면 귀여울거같음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715954&page=1",
+      "postedLabel": "09:38",
+      "postedAt": "2026-11-26T09:38:11+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:38:37+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -509979,7 +510056,8 @@
         "4418300584",
         "4418312723",
         "4418322940",
-        "4418349151"
+        "4418349151",
+        "4418398143"
       ]
     },
     "keep": "v2",
