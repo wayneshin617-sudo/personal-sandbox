@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T19:45:24+00:00",
+  "updatedAt": "2026-11-26T19:46:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -571007,6 +571007,44 @@
       "firstSeenAt": "2026-11-26T19:45:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124850,
+      "source": "dc",
+      "externalId": "6718942",
+      "title": "질주름 변천사",
+      "excerpt": "",
+      "author": "58.29",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718942&page=1",
+      "postedLabel": "04:45",
+      "postedAt": "2026-11-27T04:45:49+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T19:46:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124851,
+      "source": "dc",
+      "externalId": "6718943",
+      "title": "발 뻗고 자고 있을텐데? 좃지랄하네 다중이 트젠년",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718943&page=1",
+      "postedLabel": "04:45",
+      "postedAt": "2026-11-27T04:45:49+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T19:46:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -571191,7 +571229,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T04:43:05+09:00"
+      "slowAt": "2026-11-27T04:46:06+09:00"
     },
     "dc": {
       "doneIds": [
