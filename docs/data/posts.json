@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:54:47+00:00",
+  "updatedAt": "2026-11-26T05:55:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -510468,6 +510468,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T05:54:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121736,
+      "source": "dc",
+      "externalId": "6716689",
+      "title": "코인하는놈만 봐라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.174",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716689&page=1",
+      "postedLabel": "14:54",
+      "postedAt": "2026-11-26T14:54:51+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:55:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121737,
+      "source": "dc",
+      "externalId": "6716690",
+      "title": "문신 뽕슴이 감히 킹카를 넘 보냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716690&page=1",
+      "postedLabel": "14:55",
+      "postedAt": "2026-11-26T14:55:01+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:55:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121738,
+      "source": "dc",
+      "externalId": "cmt-11048268",
+      "title": "진따 삘이지 뭔 일진임",
+      "excerpt": "옥순 약간 최약체 일진 느낌나지 않냐",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716688&page=1#cmt_11048268",
+      "postedLabel": "11.26 14:55:19",
+      "postedAt": "2026-11-26T14:55:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:55:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121739,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%B2%98%EB%9F%BC-%EB%8B%A4%EB%91%A5%EC%9D%B4%EC%9D%B8-%EB%82%A8%EC%9E%90-%EC%97%B0%EC%98%88%EC%9D%B8-brjasw4d",
+      "title": "34기 처럼 다둥이인 남자 연예인",
+      "excerpt": "자세한건 사진 아래 ㅇㅇ",
+      "author": "신****",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B2%98%EB%9F%BC-%EB%8B%A4%EB%91%A5%EC%9D%B4%EC%9D%B8-%EB%82%A8%EC%9E%90-%EC%97%B0%EC%98%88%EC%9D%B8-brjasw4d",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T14:55:31+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T05:55:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -510652,7 +510729,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T14:52:31+09:00"
+      "slowAt": "2026-11-26T14:55:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -531759,7 +531836,8 @@
         "6716681",
         "6716682",
         "6716684",
-        "6716687"
+        "6716687",
+        "6716688"
       ]
     },
     "blind": {
