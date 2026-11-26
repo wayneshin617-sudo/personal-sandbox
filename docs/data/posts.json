@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:52:47+00:00",
+  "updatedAt": "2026-11-26T05:53:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -510371,6 +510371,65 @@
       "firstSeenAt": "2026-11-26T05:52:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121731,
+      "source": "dc",
+      "externalId": "cmt-11048258",
+      "title": "광수처럼 애초에 가망 없었던것도 아니고 충분히 순자 옥순 둘 중 하나는 가능했는데 꺼드럭 자살골",
+      "excerpt": "34기 상철 광수는 꺼드럭대다가 혼돈으로 만들어버리네 ㅋㅋ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716684&page=1#cmt_11048258",
+      "postedLabel": "11.26 14:52:37",
+      "postedAt": "2026-11-26T14:52:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:53:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121732,
+      "source": "dc",
+      "externalId": "6716686",
+      "title": "상철 임영웅 닮았는데 왜 여출들 반응 미적지근하냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716686&page=1",
+      "postedLabel": "14:52",
+      "postedAt": "2026-11-26T14:52:43+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:53:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121733,
+      "source": "dc",
+      "externalId": "cmt-11048259",
+      "title": "광수 닮았노",
+      "excerpt": "이 더러운 면상가지고 거울은 안보는거야?",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716682&page=1#cmt_11048259",
+      "postedLabel": "11.26 14:52:43",
+      "postedAt": "2026-11-26T14:52:43+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:53:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -531660,7 +531719,8 @@
         "6716670",
         "6716676",
         "6716681",
-        "6716682"
+        "6716682",
+        "6716684"
       ]
     },
     "blind": {
