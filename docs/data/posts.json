@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:46:02+00:00",
+  "updatedAt": "2026-11-26T15:47:03+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564677,6 +564677,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T15:46:02+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124522,
+      "source": "dc",
+      "externalId": "6718574",
+      "title": "이분 두부상인데 왜 인기가 없노?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718574&page=1",
+      "postedLabel": "00:45",
+      "postedAt": "2026-11-27T00:45:51+09:00",
+      "views": 22,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:47:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124523,
+      "source": "dc",
+      "externalId": "cmt-11049353",
+      "title": "몇년생?",
+      "excerpt": "먼가 슬픔....",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718566&page=1#cmt_11049353",
+      "postedLabel": "11.27 00:46:39",
+      "postedAt": "2026-11-27T00:46:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:47:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -564788,7 +564827,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T00:43:21+09:00"
+      "slowAt": "2026-11-27T00:46:44+09:00"
     },
     "ig": {
       "doneIds": [
@@ -586287,7 +586326,8 @@
         "6718537",
         "6718544",
         "6718552",
-        "6718558"
+        "6718558",
+        "6718566"
       ]
     },
     "blind": {
