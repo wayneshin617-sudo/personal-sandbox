@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T08:39:09+00:00",
+  "updatedAt": "2026-11-26T08:40:10+00:00",
   "posts": [
     {
       "id": 95749,
@@ -524914,6 +524914,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T08:39:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 122476,
+      "source": "dc",
+      "externalId": "cmt-11048571",
+      "title": "어둠의 영호단임 상철영수영철 여출들 이야기보다 영호이야길 더 많이 함",
+      "excerpt": "누가 영호 생각 제일많이하는거 상철이라던데",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716919&page=2#cmt_11048571",
+      "postedLabel": "11.26 16:46:52",
+      "postedAt": "2026-11-26T16:46:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:40:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122477,
+      "source": "dc",
+      "externalId": "cmt-11048636",
+      "title": "영호한테 공감 많이 해 주더라",
+      "excerpt": "누가 영호 생각 제일많이하는거 상철이라던데",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716919&page=2#cmt_11048636",
+      "postedLabel": "11.26 17:12:52",
+      "postedAt": "2026-11-26T17:12:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:40:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122478,
+      "source": "dc",
+      "externalId": "6717054",
+      "title": "신탁사 광수 과학고-성균관대 나온 엘리트아님?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.74",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717054&page=1",
+      "postedLabel": "17:38",
+      "postedAt": "2026-11-26T17:38:57+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:40:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122479,
+      "source": "dc",
+      "externalId": "cmt-11048680",
+      "title": "왼쪽으로 갈수록 커지네",
+      "excerpt": "옥순이가 머리가 작긴 작네",
+      "author": "ㄴㄴㅇ",
+      "company": "",
+      "ip": "108.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717046&page=1#cmt_11048680",
+      "postedLabel": "11.26 17:39:47",
+      "postedAt": "2026-11-26T17:39:47+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:40:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -525025,7 +525104,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T17:36:52+09:00"
+      "slowAt": "2026-11-26T17:39:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -546320,6 +546399,7 @@
         "6716915",
         "6716917",
         "6716918",
+        "6716919",
         "6716929",
         "6716932",
         "6716942",
