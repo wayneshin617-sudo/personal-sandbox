@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T02:14:29+00:00",
+  "updatedAt": "2026-11-26T02:15:37+00:00",
   "posts": [
     {
       "id": 95749,
@@ -483271,6 +483271,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T02:14:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120349,
+      "source": "dc",
+      "externalId": "6716152",
+      "title": "근데 신기한건 주변에 광수같은 인간들이 장가 잘만감",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716152&page=1",
+      "postedLabel": "11:14",
+      "postedAt": "2026-11-26T11:14:52+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-26T02:15:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120350,
+      "source": "dc",
+      "externalId": "6716153",
+      "title": "셔터맨 남편이 출퇴근 시켜줄 때",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716153&page=1",
+      "postedLabel": "11:14",
+      "postedAt": "2026-11-26T11:14:53+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:15:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120351,
+      "source": "dc",
+      "externalId": "6716154",
+      "title": "와꾸차이",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "59.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716154&page=1",
+      "postedLabel": "11:15",
+      "postedAt": "2026-11-26T11:15:00+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:15:37+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120352,
+      "source": "dc",
+      "externalId": "cmt-11047424",
+      "title": "끼리끼림",
+      "excerpt": "근데 신기한건 주변에 광수같은 인간들이 장가 잘만감",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "59.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716152&page=1#cmt_11047424",
+      "postedLabel": "11.26 11:15:18",
+      "postedAt": "2026-11-26T11:15:18+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:15:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -504347,7 +504424,8 @@
         "6716138",
         "6716142",
         "6716148",
-        "6716149"
+        "6716149",
+        "6716152"
       ]
     },
     "blind": {
