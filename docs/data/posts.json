@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:23:48+00:00",
+  "updatedAt": "2026-11-26T06:24:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -513127,6 +513127,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:23:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121872,
+      "source": "dc",
+      "externalId": "cmt-11048370",
+      "title": "늙은 폐경에 가까운 여자가 더쓸모없어",
+      "excerpt": "최하위인종이랑 살면서 부끄럽지도않노",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716749&page=1#cmt_11048370",
+      "postedLabel": "11.26 15:23:34",
+      "postedAt": "2026-11-26T15:23:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:24:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121873,
+      "source": "dc",
+      "externalId": "6716751",
+      "title": "영숙은 아빠가 탯줄 보관한것만으로도 사랑한다고 느끼는",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716751&page=1",
+      "postedLabel": "15:23",
+      "postedAt": "2026-11-26T15:23:58+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:24:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121874,
+      "source": "dc",
+      "externalId": "cmt-11048373",
+      "title": "연락함",
+      "excerpt": "여자는 남자 관심 있으면 자주 웃냐? 아니면 매너 모드냐?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "169.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716750&page=1#cmt_11048373",
+      "postedLabel": "11.26 15:24:08",
+      "postedAt": "2026-11-26T15:24:08+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:24:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -513238,7 +513297,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T15:21:31+09:00"
+      "slowAt": "2026-11-26T15:24:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -534449,7 +534508,9 @@
         "6716736",
         "6716737",
         "6716740",
-        "6716744"
+        "6716744",
+        "6716749",
+        "6716750"
       ]
     },
     "blind": {
