@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-07T22:30:00+09:00",
-  "updatedAt": "2026-11-26T00:01:08+00:00",
+  "updatedAt": "2026-11-26T00:02:11+00:00",
   "posts": [
     {
       "id": 149,
@@ -1174879,6 +1174879,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-11-26T00:01:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119342,
+      "source": "blind",
+      "externalId": "cmt-462695143",
+      "title": "이치는 무슨;;",
+      "excerpt": "이쁜 여자가 어장하면",
+      "author": "i****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EC%81%9C-%EC%97%AC%EC%9E%90%EA%B0%80-%EC%96%B4%EC%9E%A5%ED%95%98%EB%A9%B4-rlt83qvc#462695143",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T09:01:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:02:11+00:00",
       "isSeed": false,
       "kind": "reply"
     }
