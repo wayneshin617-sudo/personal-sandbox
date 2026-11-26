@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:17:23+00:00",
+  "updatedAt": "2026-11-26T13:18:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -548883,6 +548883,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T13:17:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123705,
+      "source": "dc",
+      "externalId": "6717817",
+      "title": "영호 현숙 얼굴 닮은게 어울리는데? 둘이 성격도 비슷하고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717817&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-11-26T22:17:19+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:18:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123706,
+      "source": "dc",
+      "externalId": "6717818",
+      "title": "영호는 저래서 싱글인가봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717818&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-11-26T22:17:27+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:18:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123707,
+      "source": "dc",
+      "externalId": "cmt-11049126",
+      "title": "테슬라 모델y 아님?",
+      "excerpt": "34 영수 차종 이거 뭐야??",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717815&page=1#cmt_11049126",
+      "postedLabel": "11.26 22:17:46",
+      "postedAt": "2026-11-26T22:17:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:18:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123708,
+      "source": "dc",
+      "externalId": "6717819",
+      "title": "옥퇘지 회사 다닌다는거 구라아님?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717819&page=1",
+      "postedLabel": "22:17",
+      "postedAt": "2026-11-26T22:17:54+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:18:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -549067,7 +549144,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T22:15:05+09:00"
+      "slowAt": "2026-11-26T22:18:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -570418,7 +570495,8 @@
         "6717758",
         "6717771",
         "6717773",
-        "6717793"
+        "6717793",
+        "6717815"
       ]
     },
     "blind": {
