@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T02:44:30+00:00",
+  "updatedAt": "2026-11-26T02:45:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -487879,6 +487879,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T02:44:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120583,
+      "source": "dc",
+      "externalId": "cmt-11047355",
+      "title": "논지좀 흐리지마. 아니, 논지를 아예 모르나. 속으로 맘에 안드는건 자유인데 겉으로 남에게 무례할 권리는 없단는게 핵심이야",
+      "excerpt": "솔직히 광수 잘못만은 아닌듯",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.162",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715967&page=5#cmt_11047355",
+      "postedLabel": "11.26 10:52:32",
+      "postedAt": "2026-11-26T10:52:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:45:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120584,
+      "source": "qoo",
+      "externalId": "4418506379",
+      "title": "영자 완전 얼빠네ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418506379",
+      "postedLabel": "11:44",
+      "postedAt": "2026-11-26T11:44:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:45:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120585,
+      "source": "dc",
+      "externalId": "cmt-11047534",
+      "title": "백퍼",
+      "excerpt": "광수 근데 사귀면 막 야한 옷 입어달라고",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.227",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716221&page=1#cmt_11047534",
+      "postedLabel": "11.26 11:44:41",
+      "postedAt": "2026-11-26T11:44:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:45:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -488063,7 +488122,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T11:42:13+09:00"
+      "slowAt": "2026-11-26T11:45:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -508980,7 +509039,8 @@
         "6716211",
         "6716216",
         "6716218",
-        "6716220"
+        "6716220",
+        "6716221"
       ]
     },
     "blind": {
@@ -524011,7 +524071,8 @@
         "4418476806",
         "4418486346",
         "4418493584",
-        "4418503820"
+        "4418503820",
+        "4418506379"
       ]
     },
     "keep": "v2",
