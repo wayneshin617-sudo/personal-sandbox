@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:35:29+00:00",
+  "updatedAt": "2026-11-26T15:36:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564388,6 +564388,64 @@
       "firstSeenAt": "2026-11-26T15:35:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124507,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98%EB%8C%80%EC%82%AC%EB%A5%BC-%EB%82%B4-%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%B4-%ED%95%9C%EB%8B%A4%EB%A9%B4-85lrgpnx",
+      "title": "광수대사를 내 이상형이 한다면?",
+      "excerpt": "애교 보여줘 날 집착하게 만들어 줘!",
+      "author": "g******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8C%80%EC%82%AC%EB%A5%BC-%EB%82%B4-%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%B4-%ED%95%9C%EB%8B%A4%EB%A9%B4-85lrgpnx",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-27T00:35:10+09:00",
+      "views": 14,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T15:36:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124508,
+      "source": "dc",
+      "externalId": "6718544",
+      "title": "34광수 제일 광기로 느껴지는 점",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718544&page=1",
+      "postedLabel": "00:35",
+      "postedAt": "2026-11-27T00:35:39+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:36:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124509,
+      "source": "dc",
+      "externalId": "cmt-11049340",
+      "title": "자연인 이승윤 같아서 싫어",
+      "excerpt": "여자들 왜 34영수한테 이성적인 호감을 못느끼는 거냐",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718537&page=1#cmt_11049340",
+      "postedLabel": "11.27 00:35:59",
+      "postedAt": "2026-11-27T00:35:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:36:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -585994,7 +586052,8 @@
         "6718519",
         "6718524",
         "6718526",
-        "6718533"
+        "6718533",
+        "6718537"
       ]
     },
     "blind": {
