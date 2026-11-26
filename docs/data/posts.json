@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T02:47:29+00:00",
+  "updatedAt": "2026-11-26T02:48:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -488056,6 +488056,105 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T02:47:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120592,
+      "source": "qoo",
+      "externalId": "cmt-4418454758",
+      "title": "ㄹㅇ너무 큼..사람으로만 보면 분명 장점도 많으신 분이라 누나 7명 장벽만 아니면 지방에서 결혼 벌써 하셨을수도 있음ㅇㅇ 근데 진짜 저 장벽을 뛰어넘으려면 압도적인 장점이 있거나 단점이 거의 없어야하는데 그게 아니셔서ㅠ",
+      "excerpt": "영수는 누나가 7명인게 문제가 아니라",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418452470#4418454758",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T10:47:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:48:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120593,
+      "source": "blind",
+      "externalId": "cmt-462714286",
+      "title": "아직 사귀는사이도 아니잖아",
+      "excerpt": "애교해봐가 어때서 ;;",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0%EA%B5%90%ED%95%B4%EB%B4%90%EA%B0%80-%EC%96%B4%EB%95%8C%EC%84%9C-e8qw38ut#462714286",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-26T11:47:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:48:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120594,
+      "source": "dc",
+      "externalId": "6716227",
+      "title": "영수가 옥순이한테 접근하는거 너무 개저씨같음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716227&page=1",
+      "postedLabel": "11:47",
+      "postedAt": "2026-11-26T11:47:14+09:00",
+      "views": 11,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:48:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120595,
+      "source": "dc",
+      "externalId": "cmt-11047552",
+      "title": "그것보다도 삼백안이 ㄹㅇ",
+      "excerpt": "영자 잇몸은 진짜 적응이 안되는데....실물로 보면 나으려나....",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "110.13",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716226&page=1#cmt_11047552",
+      "postedLabel": "11.26 11:47:52",
+      "postedAt": "2026-11-26T11:47:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:48:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120596,
+      "source": "blind",
+      "externalId": "cmt-462714334",
+      "title": "광수니",
+      "excerpt": "애교해봐가 어때서 ;;",
+      "author": "j*******",
+      "company": "셀트리온",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0%EA%B5%90%ED%95%B4%EB%B4%90%EA%B0%80-%EC%96%B4%EB%95%8C%EC%84%9C-e8qw38ut#462714334",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T11:48:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T02:48:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -488240,7 +488339,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T11:45:13+09:00"
+      "slowAt": "2026-11-26T11:48:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -509160,7 +509259,8 @@
         "6716220",
         "6716221",
         "6716223",
-        "6716224"
+        "6716224",
+        "6716226"
       ]
     },
     "blind": {
