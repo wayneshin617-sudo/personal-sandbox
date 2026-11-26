@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:34:25+00:00",
+  "updatedAt": "2026-11-26T01:35:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -479472,6 +479472,104 @@
       "firstSeenAt": "2026-11-26T01:34:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 120154,
+      "source": "qoo",
+      "externalId": "4418442679",
+      "title": "예고에서 여자선택할때 왜 순자가 영호 걍 지나가는 것처럼 보이냐",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418442679",
+      "postedLabel": "10:34",
+      "postedAt": "2026-11-26T10:34:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:35:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120155,
+      "source": "dc",
+      "externalId": "cmt-11047281",
+      "title": "시팔ㅋㅋㅋ 어제.진짜 총체적 난국이었네",
+      "excerpt": "학벌이 중요한게 소통이 안됨",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716055&page=1#cmt_11047281",
+      "postedLabel": "11.26 10:34:08",
+      "postedAt": "2026-11-26T10:34:08+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:35:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120156,
+      "source": "dc",
+      "externalId": "cmt-11047284",
+      "title": "대학에서 배우는거 좃도없는것 같아도, 안나온애랑 그냥 수준이 다름",
+      "excerpt": "학벌이 중요한게 소통이 안됨",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716055&page=1#cmt_11047284",
+      "postedLabel": "11.26 10:34:26",
+      "postedAt": "2026-11-26T10:34:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:35:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120157,
+      "source": "dc",
+      "externalId": "6716059",
+      "title": "저 안에 18영호 하나 투척하면 34영호도 정리된다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.52",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716059&page=1",
+      "postedLabel": "10:34",
+      "postedAt": "2026-11-26T10:34:34+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:35:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120158,
+      "source": "blind",
+      "externalId": "cmt-462705594",
+      "title": "걍 현숙이나순자나 글케 크게맘에들진않음 그안에서선택해야하닠가 하는거지",
+      "excerpt": "영호는 처음부터 끝까지 현숙이야",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%81%9D%EA%B9%8C%EC%A7%80-%ED%98%84%EC%88%99%EC%9D%B4%EC%95%BC-jakcduqe#462705594",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T10:35:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:35:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -500524,7 +500622,8 @@
         "6716032",
         "6716037",
         "6716041",
-        "6716054"
+        "6716054",
+        "6716055"
       ]
     },
     "blind": {
@@ -515517,7 +515616,8 @@
         "4418411289",
         "4418430757",
         "4418431049",
-        "4418431564"
+        "4418431564",
+        "4418442679"
       ]
     },
     "keep": "v2",
