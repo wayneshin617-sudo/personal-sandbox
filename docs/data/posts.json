@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T11:18:52+00:00",
+  "updatedAt": "2026-11-26T11:19:52+00:00",
   "posts": [
     {
       "id": 95749,
@@ -539880,6 +539880,25 @@
       "firstSeenAt": "2026-11-26T11:18:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123241,
+      "source": "dc",
+      "externalId": "6717484",
+      "title": "소개팅 발언은 거절의 의미지요",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.164",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717484&page=1",
+      "postedLabel": "20:18",
+      "postedAt": "2026-11-26T20:18:58+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:19:52+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -539991,7 +540010,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T20:16:21+09:00"
+      "slowAt": "2026-11-26T20:19:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -561361,6 +561380,7 @@
         "6717278",
         "6717288",
         "6717296",
+        "6717308",
         "6717342",
         "6717373",
         "6717377",
