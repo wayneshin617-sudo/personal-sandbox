@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T08:10:08+00:00",
+  "updatedAt": "2026-11-26T08:11:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -522834,6 +522834,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T08:10:08+00:00",
       "isSeed": false
+    },
+    {
+      "id": 122369,
+      "source": "dc",
+      "externalId": "cmt-11048345",
+      "title": "[통계청 2011.9 발표] 혼인상태별 자살사망률 미혼은 유배우자의 3.8배 [출처] https://www.yna.co.kr/view/AKR20110909203800002",
+      "excerpt": "신은 장난꾸러기다 ㅋㅋ 사람들 제정신일때는 다들 멀쩡한데",
+      "author": "Palace0617",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716721&page=4#cmt_11048345",
+      "postedLabel": "11.26 15:18:01",
+      "postedAt": "2026-11-26T15:18:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:11:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122370,
+      "source": "dc",
+      "externalId": "6716992",
+      "title": "그라폰 만년필 닙 사이즈 추천",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "203.252",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716992&page=1",
+      "postedLabel": "17:10",
+      "postedAt": "2026-11-26T17:10:42+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:11:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122371,
+      "source": "dc",
+      "externalId": "6716993",
+      "title": "영수 남자다움을 내세우는데 중간중간 짜치는거",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716993&page=1",
+      "postedLabel": "17:10",
+      "postedAt": "2026-11-26T17:10:43+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:11:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122372,
+      "source": "dc",
+      "externalId": "cmt-11048628",
+      "title": "평균이고 대부분의 남자들은 저런 외모하고 결혼하게될건데",
+      "excerpt": "남자나 여자나 눈낮추면 봉변당함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716977&page=1#cmt_11048628",
+      "postedLabel": "11.26 17:10:48",
+      "postedAt": "2026-11-26T17:10:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:11:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -522945,7 +523023,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T17:07:44+09:00"
+      "slowAt": "2026-11-26T17:10:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -544171,6 +544249,7 @@
         "6716718",
         "6716719",
         "6716720",
+        "6716721",
         "6716722",
         "6716724",
         "6716725",
@@ -544240,7 +544319,8 @@
         "6716955",
         "6716958",
         "6716959",
-        "6716967"
+        "6716967",
+        "6716977"
       ]
     },
     "blind": {
