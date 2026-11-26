@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:42:18+00:00",
+  "updatedAt": "2026-11-26T23:43:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574048,6 +574048,64 @@
       "firstSeenAt": "2026-11-26T23:42:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125006,
+      "source": "dc",
+      "externalId": "6719036",
+      "title": "아줌마",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719036&page=1",
+      "postedLabel": "08:42",
+      "postedAt": "2026-11-27T08:42:17+09:00",
+      "views": 16,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:43:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125007,
+      "source": "dc",
+      "externalId": "6719037",
+      "title": "34영식이 강남키즈 전형적인 모습임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719037&page=1",
+      "postedLabel": "08:42",
+      "postedAt": "2026-11-27T08:42:49+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:43:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125008,
+      "source": "dc",
+      "externalId": "cmt-11050004",
+      "title": "어쩌라고 시발련아",
+      "excerpt": "요즘엔 돌싱N모솔 봄",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719035&page=1#cmt_11050004",
+      "postedLabel": "11.27 08:43:13",
+      "postedAt": "2026-11-27T08:43:13+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:43:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -574232,7 +574290,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T08:39:47+09:00"
+      "slowAt": "2026-11-27T08:43:28+09:00"
     },
     "dc": {
       "doneIds": [
