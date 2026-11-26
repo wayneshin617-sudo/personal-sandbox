@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:10:48+00:00",
+  "updatedAt": "2026-11-26T06:11:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -511838,6 +511838,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:10:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121806,
+      "source": "dc",
+      "externalId": "6716721",
+      "title": "신은 장난꾸러기다 ㅋㅋ 사람들 제정신일때는 다들 멀쩡한데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716721&page=1",
+      "postedLabel": "15:10",
+      "postedAt": "2026-11-26T15:10:46+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:11:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121807,
+      "source": "dc",
+      "externalId": "cmt-11048314",
+      "title": "눈치가 없으니 가늠해보는것에 휘둘리는것 - dc App",
+      "excerpt": "도쿄 간잽이는 저러고 살겠지",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716719&page=1#cmt_11048314",
+      "postedLabel": "11.26 15:11:05",
+      "postedAt": "2026-11-26T15:11:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:11:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121808,
+      "source": "dc",
+      "externalId": "cmt-11048316",
+      "title": "키야 저게 인생이지 줴줴이야",
+      "excerpt": "남자는 늙어도 어린 여자한테 끌릴 수밖에 없다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716720&page=1#cmt_11048316",
+      "postedLabel": "11.26 15:11:09",
+      "postedAt": "2026-11-26T15:11:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:11:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -533144,7 +533203,9 @@
         "6716707",
         "6716712",
         "6716716",
-        "6716718"
+        "6716718",
+        "6716719",
+        "6716720"
       ]
     },
     "blind": {
