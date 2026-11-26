@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T05:51:47+00:00",
+  "updatedAt": "2026-11-26T05:52:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -510332,6 +510332,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T05:51:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121729,
+      "source": "dc",
+      "externalId": "6716685",
+      "title": "시애틀상철: 애교 그런 이상한거 고만하고. 가만히 있어.",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716685&page=1",
+      "postedLabel": "14:51",
+      "postedAt": "2026-11-26T14:51:30+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:52:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121730,
+      "source": "dc",
+      "externalId": "cmt-11048255",
+      "title": "정숙??? 아니 애초에 정숙이 광수를 그정도로 좋아하질 않는제....",
+      "excerpt": "떠보면 상대가 차갑게 나온다는걸 모르나",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716681&page=1#cmt_11048255",
+      "postedLabel": "11.26 14:52:25",
+      "postedAt": "2026-11-26T14:52:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T05:52:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -510516,7 +510555,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T14:49:31+09:00"
+      "slowAt": "2026-11-26T14:52:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -531620,6 +531659,7 @@
         "6716668",
         "6716670",
         "6716676",
+        "6716681",
         "6716682"
       ]
     },
