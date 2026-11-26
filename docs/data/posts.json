@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T08:59:07+00:00",
+  "updatedAt": "2026-11-26T09:00:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -527220,6 +527220,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T08:59:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 122594,
+      "source": "qoo",
+      "externalId": "4418900917",
+      "title": "어제 회차 보고 있는데 왜 이렇게 늘어짐..?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418900917",
+      "postedLabel": "17:59",
+      "postedAt": "2026-11-26T17:59:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:00:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122595,
+      "source": "blind",
+      "externalId": "cmt-462756930",
+      "title": "나도 그부분 안좋게 보긴했는데 보다보니 자기만의 결핍으로 인해 과하게 본인한테 투자하다보니 그런건가 싶기도 함;;; 조금 이해가는 부분이 생겼다 정도",
+      "excerpt": "알면알수록 짠하고 마음도 여린듯~",
+      "author": "|********* 작성자",
+      "company": "KB손해보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%8C%EB%A9%B4%EC%95%8C%EC%88%98%EB%A1%9D-%EC%A7%A0%ED%95%98%EA%B3%A0-%EB%A7%88%EC%9D%8C%EB%8F%84-%EC%97%AC%EB%A6%B0%EB%93%AF-ig4ovcb5#462756930",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T17:59:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:00:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -527404,7 +527443,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T17:56:52+09:00"
+      "slowAt": "2026-11-26T17:59:52+09:00"
     },
     "dc": {
       "doneIds": [
@@ -548653,7 +548692,8 @@
         "6717062",
         "6717076",
         "6717088",
-        "6717096"
+        "6717096",
+        "6717105"
       ]
     },
     "blind": {
@@ -563794,7 +563834,8 @@
         "4418889363",
         "4418889611",
         "4418891616",
-        "4418900712"
+        "4418900712",
+        "4418900917"
       ]
     },
     "keep": "v2",
