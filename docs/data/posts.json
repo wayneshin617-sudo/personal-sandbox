@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:31:29+00:00",
+  "updatedAt": "2026-11-26T15:32:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564329,6 +564329,26 @@
       "firstSeenAt": "2026-11-26T15:31:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124504,
+      "source": "dc",
+      "externalId": "cmt-11049337",
+      "title": "나는.. 모국어가 한국어라서 그러한 지.. 순자님이 예쁘신 거 같음..",
+      "excerpt": "작약 vs 순자",
+      "author": "예쁘고1이쁘고2귀엽고3사랑스러워",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718524&page=1#cmt_11049337",
+      "postedLabel": "11.27 00:31:31",
+      "postedAt": "2026-11-27T00:31:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:32:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -564513,7 +564533,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T00:29:10+09:00"
+      "slowAt": "2026-11-27T00:32:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -585932,6 +585952,7 @@
         "6718512",
         "6718513",
         "6718519",
+        "6718524",
         "6718526"
       ]
     },
