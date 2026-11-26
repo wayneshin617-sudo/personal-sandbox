@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:06:48+00:00",
+  "updatedAt": "2026-11-26T06:07:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -511424,6 +511424,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:06:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121785,
+      "source": "dc",
+      "externalId": "6716715",
+      "title": "영수가 갈데가 없잖아 걍 아무것도 하지말아야 되냐??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.130",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716715&page=1",
+      "postedLabel": "15:06",
+      "postedAt": "2026-11-26T15:06:52+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:07:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121786,
+      "source": "dc",
+      "externalId": "cmt-11048300",
+      "title": "애들이 불쌍함 어디에서도 이방인 취급 당할 것 같아서",
+      "excerpt": "어린여자랑 국제결혼이 답인 이유 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "author": "안철수덕후",
+      "company": "",
+      "ip": "58.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716712&page=1#cmt_11048300",
+      "postedLabel": "11.26 15:07:00",
+      "postedAt": "2026-11-26T15:07:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:07:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -511608,7 +511647,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T15:04:31+09:00"
+      "slowAt": "2026-11-26T15:07:31+09:00"
     },
     "dc": {
       "doneIds": [
