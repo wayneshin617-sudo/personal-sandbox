@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T10:24:03+00:00",
+  "updatedAt": "2026-11-26T10:25:03+00:00",
   "posts": [
     {
       "id": 95749,
@@ -536082,6 +536082,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T10:24:03+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123047,
+      "source": "dc",
+      "externalId": "6717321",
+      "title": "얘들아!~ 34영철이 어디 써먹을데 없을까!?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717321&page=1",
+      "postedLabel": "19:24",
+      "postedAt": "2026-11-26T19:24:42+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:25:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123048,
+      "source": "blind",
+      "externalId": "cmt-462766359",
+      "title": "ㅋㅋㅋㅋ",
+      "excerpt": "방 꼬라지 뭐냐.",
+      "author": "심***",
+      "company": "의사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%B0%A9-%EA%BC%AC%EB%9D%BC%EC%A7%80-%EB%AD%90%EB%83%90-izxhl2ln#462766359",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T19:24:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:25:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -536193,7 +536232,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T19:21:46+09:00"
+      "slowAt": "2026-11-26T19:24:46+09:00"
     },
     "ig": {
       "doneIds": [
