@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:58:12+00:00",
+  "updatedAt": "2026-11-26T06:59:12+00:00",
   "posts": [
     {
       "id": 95749,
@@ -516539,6 +516539,123 @@
       "firstSeenAt": "2026-11-26T06:58:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 122046,
+      "source": "qoo",
+      "externalId": "cmt-4418698217",
+      "title": "ㄹㅇ 근데 옥순같은 외모면 마다할남자 없을거같아",
+      "excerpt": "영수 외모 이상형은 옥순이긴한가봐",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418678799#4418698217",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T14:58:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:59:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122047,
+      "source": "dc",
+      "externalId": "6716816",
+      "title": "영철은 부여군공무원이라 평생 거기서 살아야 한다고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716816&page=1",
+      "postedLabel": "15:57",
+      "postedAt": "2026-11-26T15:57:56+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-26T06:59:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122048,
+      "source": "dc",
+      "externalId": "6716817",
+      "title": "순자랑 현숙은 왜 여자끼리의 케미 아예없음?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716817&page=1",
+      "postedLabel": "15:57",
+      "postedAt": "2026-11-26T15:57:57+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:59:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122049,
+      "source": "dc",
+      "externalId": "cmt-11048452",
+      "title": "논산아니었나",
+      "excerpt": "영철은 부여군공무원이라 평생 거기서 살아야 한다고",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716816&page=1#cmt_11048452",
+      "postedLabel": "11.26 15:58:33",
+      "postedAt": "2026-11-26T15:58:33+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:59:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122050,
+      "source": "dc",
+      "externalId": "6716818",
+      "title": "마지막 예고편 예상",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "110.10",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716818&page=1",
+      "postedLabel": "15:58",
+      "postedAt": "2026-11-26T15:58:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:59:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122051,
+      "source": "dc",
+      "externalId": "cmt-11048455",
+      "title": "논산서 출퇴근한다",
+      "excerpt": "영철은 부여군공무원이라 평생 거기서 살아야 한다고",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716816&page=1#cmt_11048455",
+      "postedLabel": "11.26 15:58:58",
+      "postedAt": "2026-11-26T15:58:58+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:59:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -516650,7 +516767,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T15:55:45+09:00"
+      "slowAt": "2026-11-26T15:58:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -537899,7 +538016,8 @@
         "6716796",
         "6716800",
         "6716807",
-        "6716810"
+        "6716810",
+        "6716816"
       ]
     },
     "blind": {
