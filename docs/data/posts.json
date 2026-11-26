@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T21:29:09+00:00",
+  "updatedAt": "2026-11-26T21:31:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -572137,6 +572137,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-26T21:29:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124909,
+      "source": "dc",
+      "externalId": "6718995",
+      "title": "조만간 헤어지나보다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718995&page=1",
+      "postedLabel": "06:30",
+      "postedAt": "2026-11-27T06:30:02+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T21:31:08+00:00",
       "isSeed": false
     }
   ],
