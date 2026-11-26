@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T07:45:57+00:00",
+  "updatedAt": "2026-11-26T07:46:55+00:00",
   "posts": [
     {
       "id": 95749,
@@ -521082,6 +521082,103 @@
       "firstSeenAt": "2026-11-26T07:45:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 122279,
+      "source": "qoo",
+      "externalId": "4418819775",
+      "title": "광수 노답이다ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418819775",
+      "postedLabel": "16:45",
+      "postedAt": "2026-11-26T16:45:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:46:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122280,
+      "source": "dc",
+      "externalId": "6716940",
+      "title": "제가 키가 커서 남자분도",
+      "excerpt": "",
+      "author": "애국보수",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716940&page=1",
+      "postedLabel": "16:45",
+      "postedAt": "2026-11-26T16:45:49+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:46:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122281,
+      "source": "dc",
+      "externalId": "6716941",
+      "title": "한국에서 군대다녀온새끼들이 인기많다고 왕따시키는거 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716941&page=1",
+      "postedLabel": "16:45",
+      "postedAt": "2026-11-26T16:45:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:46:55+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122282,
+      "source": "dc",
+      "externalId": "cmt-11048569",
+      "title": "위치가 사람을 만든다고했는데 걍 그런상황인데 줌들 화났음 ㅋㅋ - dc App",
+      "excerpt": "근데 광수가 뭘 그렇게 잘못했는지 나만 모르겠냐",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716932&page=1#cmt_11048569",
+      "postedLabel": "11.26 16:46:11",
+      "postedAt": "2026-11-26T16:46:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:46:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122283,
+      "source": "blind",
+      "externalId": "cmt-462748239",
+      "title": "열심히 꾸미는데 금손은 아닌 거 같아",
+      "excerpt": "현숙이 왜 앞머리 맨날",
+      "author": "l*********",
+      "company": "하나투어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%99%9C-%EC%95%9E%EB%A8%B8%EB%A6%AC-%EB%A7%A8%EB%82%A0-3k3sxkde#462748239",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T16:46:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:46:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -521193,7 +521290,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T16:43:39+09:00"
+      "slowAt": "2026-11-26T16:46:39+09:00"
     },
     "ig": {
       "doneIds": [
@@ -542475,7 +542572,8 @@
         "6716899",
         "6716913",
         "6716918",
-        "6716929"
+        "6716929",
+        "6716932"
       ]
     },
     "blind": {
@@ -557593,7 +557691,8 @@
         "4418705402",
         "4418714386",
         "4418725439",
-        "4418725805"
+        "4418725805",
+        "4418819775"
       ]
     },
     "keep": "v2",
