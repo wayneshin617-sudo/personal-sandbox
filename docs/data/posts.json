@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T00:59:41+00:00",
+  "updatedAt": "2026-11-26T01:00:40+00:00",
   "posts": [
     {
       "id": 95749,
@@ -476112,6 +476112,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T00:59:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119982,
+      "source": "dc",
+      "externalId": "6715993",
+      "title": "영수 영숙은 영숙이 선 그은거야 데이트할 때",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715993&page=1",
+      "postedLabel": "09:59",
+      "postedAt": "2026-11-26T09:59:39+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:00:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119983,
+      "source": "dc",
+      "externalId": "cmt-11047187",
+      "title": "옷색깔도 지금보니 너무....각설이 공연하고 피곤해 쓰러진거같음",
+      "excerpt": "정숙아 술좀 줄이고 관리 좀 해라",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715991&page=1#cmt_11047187",
+      "postedLabel": "11.26 10:00:11",
+      "postedAt": "2026-11-26T10:00:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:00:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119984,
+      "source": "dc",
+      "externalId": "6715994",
+      "title": "현숙 영철일 겪고 영호한테까지 동태눈된거같냐ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "49.163",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715994&page=1",
+      "postedLabel": "10:00",
+      "postedAt": "2026-11-26T10:00:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:00:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -476223,7 +476281,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T09:57:21+09:00"
+      "slowAt": "2026-11-26T10:00:21+09:00"
     },
     "ig": {
       "doneIds": [
@@ -497141,7 +497199,8 @@
         "6715970",
         "6715973",
         "6715983",
-        "6715988"
+        "6715988",
+        "6715991"
       ]
     },
     "blind": {
