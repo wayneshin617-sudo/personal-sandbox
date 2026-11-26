@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:38:23+00:00",
+  "updatedAt": "2026-11-26T13:39:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -550997,6 +550997,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T13:38:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123814,
+      "source": "blind",
+      "externalId": "cmt-462796215",
+      "title": "장미님도 술취하셨나 ㅋㅋ 웃는게 엄청 호탕해",
+      "excerpt": "장미누나 무섭네....",
+      "author": "p*****",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%A5%EB%AF%B8%EB%88%84%EB%82%98-%EB%AC%B4%EC%84%AD%EB%84%A4-c2ghk6wl#462796215",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-26T22:38:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:39:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123815,
+      "source": "dc",
+      "externalId": "6717932",
+      "title": "착각 오지노",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.98",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717932&page=1",
+      "postedLabel": "22:38",
+      "postedAt": "2026-11-26T22:38:37+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:39:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123816,
+      "source": "dc",
+      "externalId": "6717934",
+      "title": "저기있으니 1영호가 잘생겨보임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717934&page=1",
+      "postedLabel": "22:38",
+      "postedAt": "2026-11-26T22:38:44+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:39:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123817,
+      "source": "dc",
+      "externalId": "6717935",
+      "title": "경리 오늘 좋으네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717935&page=1",
+      "postedLabel": "22:39",
+      "postedAt": "2026-11-26T22:39:02+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:39:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -551181,7 +551258,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T22:36:05+09:00"
+      "slowAt": "2026-11-26T22:39:05+09:00"
     },
     "dc": {
       "doneIds": [
