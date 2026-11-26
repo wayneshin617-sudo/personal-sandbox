@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T10:46:01+00:00",
+  "updatedAt": "2026-11-26T10:47:03+00:00",
   "posts": [
     {
       "id": 95749,
@@ -537867,6 +537867,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T10:46:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123138,
+      "source": "dc",
+      "externalId": "cmt-11048934",
+      "title": "진짜 이나라 시민의식은 나아질기미가 안보여",
+      "excerpt": "대마도, 한국인발 마운자로 배송 중단 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "115.138",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717377&page=1#cmt_11048934",
+      "postedLabel": "11.26 19:46:19",
+      "postedAt": "2026-11-26T19:46:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:47:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123139,
+      "source": "blind",
+      "externalId": "cmt-462769047",
+      "title": "하다못해 최근 돌싱 기수 영숙? 만 해도 외모로 보면 이번 기수 다 바를 거 같은데 ? 영호만큼 잘난 여출이 없단거지. 27도 남자들 단체 눕방한 것처럼",
+      "excerpt": "왜 자꾸 이번기수 여출을 내려치는 거",
+      "author": "o****",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%99%9C-%EC%9E%90%EA%BE%B8-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%97%AC%EC%B6%9C%EC%9D%84-%EB%82%B4%EB%A0%A4%EC%B9%98%EB%8A%94-%EA%B1%B0-lkwkqzg7#462769047",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T19:46:46+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:47:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123140,
+      "source": "dc",
+      "externalId": "6717380",
+      "title": "34옥순이랑 34현숙이 몸매 비교 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717380&page=1",
+      "postedLabel": "19:46",
+      "postedAt": "2026-11-26T19:46:47+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:47:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -538051,7 +538110,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T19:43:46+09:00"
+      "slowAt": "2026-11-26T19:46:46+09:00"
     },
     "dc": {
       "doneIds": [
@@ -559347,7 +559406,8 @@
         "6717288",
         "6717296",
         "6717342",
-        "6717373"
+        "6717373",
+        "6717377"
       ]
     },
     "blind": {
