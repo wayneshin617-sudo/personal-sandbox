@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T08:38:09+00:00",
+  "updatedAt": "2026-11-26T08:39:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -524818,6 +524818,102 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T08:38:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 122471,
+      "source": "qoo",
+      "externalId": "cmt-4418812272",
+      "title": "영호가 빨리 노선을 안잡으니까 그뒤도 뭔가 흐지부지라 점점 노잼임",
+      "excerpt": "어우 이번편 난 답답하고 노잼이다 ㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418714386#4418812272",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T16:38:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:39:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122472,
+      "source": "dc",
+      "externalId": "6717050",
+      "title": "58.29 트젠조현병새끼 내새연까지 와서 개념 주작질",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717050&page=1",
+      "postedLabel": "17:37",
+      "postedAt": "2026-11-26T17:37:59+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:39:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122473,
+      "source": "dc",
+      "externalId": "6717051",
+      "title": "58.29 트젠조현병새끼 내새연까지 와서 개념 주작질",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717051&page=1",
+      "postedLabel": "17:38",
+      "postedAt": "2026-11-26T17:38:06+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:39:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122474,
+      "source": "dc",
+      "externalId": "6717052",
+      "title": "58.29 트젠조현병새끼 내새연까지 와서 개념 주작질",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717052&page=1",
+      "postedLabel": "17:38",
+      "postedAt": "2026-11-26T17:38:13+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:39:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122475,
+      "source": "dc",
+      "externalId": "6717053",
+      "title": "58.29 트젠조현병새끼 내새연까지 와서 개념 주작질",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717053&page=1",
+      "postedLabel": "17:38",
+      "postedAt": "2026-11-26T17:38:23+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:39:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -525002,7 +525098,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T17:35:52+09:00"
+      "slowAt": "2026-11-26T17:38:52+09:00"
     },
     "dc": {
       "doneIds": [
@@ -546222,6 +546318,7 @@
         "6716908",
         "6716913",
         "6716915",
+        "6716917",
         "6716918",
         "6716929",
         "6716932",
