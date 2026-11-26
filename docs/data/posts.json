@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:27:25+00:00",
+  "updatedAt": "2026-11-26T01:28:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -478809,6 +478809,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T01:27:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120120,
+      "source": "dc",
+      "externalId": "6716046",
+      "title": "간잽이와 쩌리들되서 이번 기수 걍 망했음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716046&page=1",
+      "postedLabel": "10:28",
+      "postedAt": "2026-11-26T10:28:05+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:28:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -478993,7 +479012,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T10:25:06+09:00"
+      "slowAt": "2026-11-26T10:28:07+09:00"
     },
     "dc": {
       "doneIds": [
