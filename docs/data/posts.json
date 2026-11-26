@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T11:32:48+00:00",
+  "updatedAt": "2026-11-26T11:33:56+00:00",
   "posts": [
     {
       "id": 95749,
@@ -540617,6 +540617,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T11:32:48+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123279,
+      "source": "dc",
+      "externalId": "cmt-11049000",
+      "title": "58.29는 106.101과 동일인물이 아닌 것처럼 모르쇠로 일관하고 있는데, 의심의 여지가 없어보이며 혹여나 긴가민가하는 사람이 있을까봐 참고하라고 올려둔다.",
+      "excerpt": "운영자는 필독하시길) 58.29랑 106.101 동일인 증거.",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717507&page=1#cmt_11049000",
+      "postedLabel": "11.26 20:33:23",
+      "postedAt": "2026-11-26T20:33:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:33:56+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123280,
+      "source": "dc",
+      "externalId": "6717512",
+      "title": "순대국 아지매 처럼 생겨서",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.98",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717512&page=1",
+      "postedLabel": "20:33",
+      "postedAt": "2026-11-26T20:33:36+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:33:56+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -540801,7 +540840,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T20:30:26+09:00"
+      "slowAt": "2026-11-26T20:33:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -562114,7 +562153,8 @@
         "6717477",
         "6717484",
         "6717503",
-        "6717505"
+        "6717505",
+        "6717507"
       ]
     },
     "blind": {
