@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T04:18:48+00:00",
+  "updatedAt": "2026-11-26T04:19:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -500195,6 +500195,85 @@
       "firstSeenAt": "2026-11-26T04:18:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121211,
+      "source": "dc",
+      "externalId": "6716467",
+      "title": "광수는 게이라니까 시발",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716467&page=1",
+      "postedLabel": "13:19",
+      "postedAt": "2026-11-26T13:19:01+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:19:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121212,
+      "source": "dc",
+      "externalId": "cmt-11047915",
+      "title": "돈 없으면 당연히 못 가지 이게 말이야 방귀야 돈 좀 벌어라",
+      "excerpt": "업소 안 가는 남자 없다고 생각하고 사는게 맞다",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716464&page=1#cmt_11047915",
+      "postedLabel": "11.26 13:19:10",
+      "postedAt": "2026-11-26T13:19:10+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:19:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121213,
+      "source": "dc",
+      "externalId": "cmt-11047917",
+      "title": "개소리 ㅇㅇ 남자들이 업소 다가면 이리 유흥시장이 작을리없음",
+      "excerpt": "업소 안 가는 남자 없다고 생각하고 사는게 맞다",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716464&page=1#cmt_11047917",
+      "postedLabel": "11.26 13:19:29",
+      "postedAt": "2026-11-26T13:19:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:19:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121214,
+      "source": "blind",
+      "externalId": "cmt-462724254",
+      "title": "난 저런 자리에서 엉가남 못할거같은데...못한다는게 내가 엉가남일 정도로 혼자 모든 일 자처하는거는, 너무 혼자 튀려는거 같아서 못할듯. 여출들만해도 그 모습때매 영호한테 반한건데 다른 남출들 눈치보일거같음. 엉가남은 못하겠고 덜 무거운 남자는 되겠다",
+      "excerpt": "영호 직업이 그렇게 좋은거야?",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%A7%81%EC%97%85%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%A2%8B%EC%9D%80%EA%B1%B0%EC%95%BC-kdhfrhfv#462724254",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T13:19:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:19:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -500379,7 +500458,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T13:16:32+09:00"
+      "slowAt": "2026-11-26T13:19:31+09:00"
     },
     "dc": {
       "doneIds": [
