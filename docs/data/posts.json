@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T12:05:31+00:00",
+  "updatedAt": "2026-11-26T12:06:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -542873,6 +542873,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T12:05:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123395,
+      "source": "dc",
+      "externalId": "6717607",
+      "title": "러브라인 없이 재미 뽑아낸 33대영수",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717607&page=1",
+      "postedLabel": "21:05",
+      "postedAt": "2026-11-26T21:05:13+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:06:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123396,
+      "source": "dc",
+      "externalId": "6717608",
+      "title": "58.29 정병 트젠 ⛔️ 중계할때 존나 도배해야지 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717608&page=1",
+      "postedLabel": "21:05",
+      "postedAt": "2026-11-26T21:05:19+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:06:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123397,
+      "source": "dc",
+      "externalId": "cmt-11049019",
+      "title": "그러고도 남을 인간이지 ㅇㅇ",
+      "excerpt": "순자 갤 도배중",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717605&page=1#cmt_11049019",
+      "postedLabel": "11.26 21:05:31",
+      "postedAt": "2026-11-26T21:05:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T12:06:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -542984,7 +543042,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T21:03:13+09:00"
+      "slowAt": "2026-11-26T21:06:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -564381,7 +564439,8 @@
         "6717546",
         "6717566",
         "6717571",
-        "6717590"
+        "6717590",
+        "6717605"
       ]
     },
     "blind": {
