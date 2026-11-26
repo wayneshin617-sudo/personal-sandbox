@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:48:20+00:00",
+  "updatedAt": "2026-11-26T13:49:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -552136,6 +552136,64 @@
       "firstSeenAt": "2026-11-26T13:48:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123873,
+      "source": "dc",
+      "externalId": "cmt-11049091",
+      "title": "신발끈 풀릿노",
+      "excerpt": "영철이 방댕이 왤캐 크냐",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.212",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717729&page=3#cmt_11049091",
+      "postedLabel": "11.26 21:53:16",
+      "postedAt": "2026-11-26T21:53:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:49:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123874,
+      "source": "dc",
+      "externalId": "6717977",
+      "title": "저게 착하다고?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.194",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717977&page=1",
+      "postedLabel": "22:48",
+      "postedAt": "2026-11-26T22:48:10+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:49:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123875,
+      "source": "dc",
+      "externalId": "6717979",
+      "title": "저기나온 외국인 여출들은 혐한 생기겠다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717979&page=1",
+      "postedLabel": "22:48",
+      "postedAt": "2026-11-26T22:48:36+09:00",
+      "views": 10,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:49:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
