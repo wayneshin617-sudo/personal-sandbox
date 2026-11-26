@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T10:15:02+00:00",
+  "updatedAt": "2026-11-26T10:16:03+00:00",
   "posts": [
     {
       "id": 95749,
@@ -535574,6 +535574,83 @@
       "firstSeenAt": "2026-11-26T10:15:02+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123021,
+      "source": "dc",
+      "externalId": "6717298",
+      "title": "34 영식이 잘됐으면 좋겠다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717298&page=1",
+      "postedLabel": "19:15",
+      "postedAt": "2026-11-26T19:15:16+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:16:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123022,
+      "source": "dc",
+      "externalId": "6717299",
+      "title": "영자는 심각한 얼빠 몇주째냐 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717299&page=1",
+      "postedLabel": "19:15",
+      "postedAt": "2026-11-26T19:15:28+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:16:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123023,
+      "source": "dc",
+      "externalId": "6717300",
+      "title": "소개팅할때 개같은 경우 no.1",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717300&page=1",
+      "postedLabel": "19:15",
+      "postedAt": "2026-11-26T19:15:31+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:16:03+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123024,
+      "source": "dc",
+      "externalId": "cmt-11048900",
+      "title": "덕분에재밋자나ㅋㅋ",
+      "excerpt": "한의사녀 ㅋㅋㅋ 심각한 상사병 어쩌노 ㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.198",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717296&page=1#cmt_11048900",
+      "postedLabel": "11.26 19:15:35",
+      "postedAt": "2026-11-26T19:15:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T10:16:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -535685,7 +535762,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T19:12:46+09:00"
+      "slowAt": "2026-11-26T19:15:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -557046,7 +557123,8 @@
         "6717256",
         "6717269",
         "6717278",
-        "6717288"
+        "6717288",
+        "6717296"
       ]
     },
     "blind": {
