@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:20:47+00:00",
+  "updatedAt": "2026-11-26T06:21:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -512876,6 +512876,102 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:20:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121859,
+      "source": "blind",
+      "externalId": "cmt-462733047",
+      "title": "영숙이가 괜히 쎈척하고 기쎄게 나가는게 아님ㅋㅋㄱㅋ저런 언니들 밑에서 얼마나 많은 풍파를 겪으며 성장했을까ㅋㅋㅋㅋ 영숙이가 하는행동들이 이해되고 귀여움ㅋㅋㅋ",
+      "excerpt": "이번화 제일 웃겼던 장면",
+      "author": "!*********",
+      "company": "LS전선",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%ED%99%94-%EC%A0%9C%EC%9D%BC-%EC%9B%83%EA%B2%BC%EB%8D%98-%EC%9E%A5%EB%A9%B4-ptzk84s0#462733047",
+      "postedLabel": "44분",
+      "postedAt": "2026-11-26T14:37:31+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:21:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121860,
+      "source": "qoo",
+      "externalId": "4418725439",
+      "title": "이번기수 남자들 갈수록 재미도없고 정말 주제도 모르고",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418725439",
+      "postedLabel": "15:20",
+      "postedAt": "2026-11-26T15:20:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:21:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121861,
+      "source": "dc",
+      "externalId": "6716744",
+      "title": "너네 생각해봐 너가 8자매 막내야",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716744&page=1",
+      "postedLabel": "15:20",
+      "postedAt": "2026-11-26T15:20:35+09:00",
+      "views": 14,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:21:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121862,
+      "source": "qoo",
+      "externalId": "4418725805",
+      "title": "서울에서 사줘요?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418725805",
+      "postedLabel": "15:21",
+      "postedAt": "2026-11-26T15:21:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:21:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121863,
+      "source": "dc",
+      "externalId": "6716745",
+      "title": "분식은 진짜 예의가 아닌데 ㅅㅂ 아무리 그래도",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716745&page=1",
+      "postedLabel": "15:21",
+      "postedAt": "2026-11-26T15:21:24+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:21:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -512987,7 +513083,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T15:18:31+09:00"
+      "slowAt": "2026-11-26T15:21:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -549296,7 +549392,9 @@
         "4418678799",
         "4418687794",
         "4418705402",
-        "4418714386"
+        "4418714386",
+        "4418725439",
+        "4418725805"
       ]
     },
     "keep": "v2",
