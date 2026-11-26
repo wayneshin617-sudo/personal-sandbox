@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:56:46+00:00",
+  "updatedAt": "2026-11-26T23:58:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574436,6 +574436,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T23:56:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125026,
+      "source": "dc",
+      "externalId": "6719054",
+      "title": "어제처럼 미친 순천지년들 도배할때",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719054&page=1",
+      "postedLabel": "08:58",
+      "postedAt": "2026-11-27T08:58:08+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:58:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125027,
+      "source": "dc",
+      "externalId": "6719055",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "185.107",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719055&page=1",
+      "postedLabel": "08:58",
+      "postedAt": "2026-11-27T08:58:21+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:58:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -574620,7 +574658,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T08:55:28+09:00"
+      "slowAt": "2026-11-27T08:58:28+09:00"
     },
     "dc": {
       "doneIds": [
