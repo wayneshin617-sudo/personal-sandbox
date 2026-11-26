@@ -16,13 +16,13 @@ permissions:
   actions: write
 
 concurrency:
-  group: solo-collect-v4
+  group: solo-collect-v5
   cancel-in-progress: false
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 175
+    timeout-minutes: 110
     steps:
       - uses: actions/checkout@v4
         with:
@@ -39,8 +39,32 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           export GIT_TERMINAL_PROMPT=0
-          # 작업 제한(175분)보다 짧게 끝내서 다음 작업을 반드시 건다.
-          deadline=$((SECONDS + 145 * 60))
+
+          queue_next() {
+            pending=$(gh run list --workflow collect.yml --status queued --limit 5 --json databaseId --jq 'length' 2>/dev/null || echo 0)
+            case "$pending" in
+              ''|*[!0-9]*) pending=0 ;;
+            esac
+            if [ "$pending" -gt 0 ]; then
+              echo "다음 수집이 이미 대기 중"
+              return 0
+            fi
+            attempt=1
+            while [ "$attempt" -le 5 ]; do
+              if gh workflow run collect.yml --ref main; then
+                return 0
+              fi
+              sleep $((attempt * 2))
+              attempt=$((attempt + 1))
+            done
+            echo "다음 수집 요청 실패"
+            return 1
+          }
+
+          # 작업 제한(110분)보다 짧게 끝내고, 끝나기 3분 전에 다음 작업을 건다.
+          deadline=$((SECONDS + 90 * 60))
+          handoff=$((SECONDS + 87 * 60))
+          handed=0
           while [ "$SECONDS" -lt "$deadline" ]; do
             start=$SECONDS
             if timeout -k 10 40 git fetch --depth=1 origin main && timeout -k 10 20 git checkout -B main origin/main; then
@@ -68,17 +92,41 @@ jobs:
             else
               echo "git fetch/checkout 시간 초과, 다음 분에 다시 시도"
             fi
+            if [ "$handed" -eq 0 ] && [ "$SECONDS" -ge "$handoff" ]; then
+              queue_next && handed=1 || true
+            fi
             elapsed=$((SECONDS - start))
             if [ "$elapsed" -lt 60 ]; then
               sleep $((60 - elapsed))
             fi
           done
+          if [ "$handed" -eq 0 ]; then
+            queue_next || true
+          fi
         env:
           GH_TOKEN: ${{ github.token }}
-          COLLECT_GEN: v4
+          COLLECT_GEN: v5
           COLLECT_DEADLINE: "200"
       - name: Queue the next collect
         if: always()
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run collect.yml --ref main
+        run: |
+          set -u
+          pending=$(gh run list --workflow collect.yml --status queued --limit 5 --json databaseId --jq 'length' 2>/dev/null || echo 0)
+          case "$pending" in
+            ''|*[!0-9]*) pending=0 ;;
+          esac
+          if [ "$pending" -gt 0 ]; then
+            echo "다음 수집이 이미 대기 중"
+            exit 0
+          fi
+          for attempt in 1 2 3 4 5; do
+            if gh workflow run collect.yml --ref main; then
+              exit 0
+            fi
+            sleep $((attempt * 2))
+          done
+          echo "다음 수집 요청 실패"
+          exit 1

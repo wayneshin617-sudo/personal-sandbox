@@ -609,7 +609,7 @@ class SocialCollectTest(unittest.TestCase):
         )
 
 
-def sample(external_id, title, posted_at="2026-10-13T12:00:00+09:00"):
+def sample(external_id, title, posted_at="2026-11-13T12:00:00+09:00"):
     return {
         "source": "dc",
         "external_id": external_id,
@@ -633,16 +633,16 @@ class MergeTest(unittest.TestCase):
         board = empty_board()
         added = merge(
             board,
-            {"dc": [sample("2", "영호는 조용", "2026-10-13T12:05:00+09:00"), sample("1", "영숙 첫 글", "2026-10-13T12:00:00+09:00")]},
-            now="2026-10-13T03:00:00+00:00",
+            {"dc": [sample("2", "영호는 조용", "2026-11-13T12:05:00+09:00"), sample("1", "영숙 첫 글", "2026-11-13T12:00:00+09:00")]},
+            now="2026-11-13T03:00:00+00:00",
         )
         self.assertEqual(added, 2)
-        self.assertEqual(board["startedAt"], "2026-10-07T22:30:00+09:00")
+        self.assertEqual(board["startedAt"], "2026-11-01T00:00:00+09:00")
         self.assertEqual([post["externalId"] for post in board["posts"]], ["1", "2"])
         added = merge(
             board,
-            {"dc": [sample("3", "새 글", "2026-10-13T12:10:00+09:00"), sample("2", "영호는 조용", "2026-10-13T12:05:00+09:00")]},
-            now="2026-10-13T03:05:00+00:00",
+            {"dc": [sample("3", "새 글", "2026-11-13T12:10:00+09:00"), sample("2", "영호는 조용", "2026-11-13T12:05:00+09:00")]},
+            now="2026-11-13T03:05:00+00:00",
         )
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][-1]["title"], "새 글")
@@ -654,13 +654,59 @@ class MergeTest(unittest.TestCase):
             board,
             {
                 "dc": [
-                    sample("3", "이후", "2026-10-07T22:30:00+09:00"),
-                    sample("2", "이전", "2026-10-07T22:29:00+09:00"),
+                    sample("3", "이후", "2026-11-01T00:00:00+09:00"),
+                    sample("2", "이전", "2026-10-31T23:59:00+09:00"),
                 ]
             },
         )
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][0]["title"], "이후")
+
+    def test_purges_october_posts_already_stored(self):
+        board = empty_board()
+        board["posts"] = [
+            {
+                "id": 1,
+                "source": "dc",
+                "externalId": "old",
+                "title": "10월 글",
+                "excerpt": "",
+                "author": "ㅇㅇ",
+                "company": "",
+                "ip": "",
+                "badge": "",
+                "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=1",
+                "postedLabel": "10.31",
+                "postedAt": "2026-10-31T23:00:00+09:00",
+                "views": None,
+                "recommends": None,
+                "comments": None,
+                "firstSeenAt": "2026-10-31T14:00:00+00:00",
+                "isSeed": False,
+            },
+            {
+                "id": 2,
+                "source": "dc",
+                "externalId": "new",
+                "title": "11월 글",
+                "excerpt": "",
+                "author": "나갤러",
+                "company": "",
+                "ip": "",
+                "badge": "",
+                "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=2",
+                "postedLabel": "11.01",
+                "postedAt": "2026-11-01T00:10:00+09:00",
+                "views": None,
+                "recommends": None,
+                "comments": None,
+                "firstSeenAt": "2026-11-01T00:10:00+09:00",
+                "isSeed": False,
+            },
+        ]
+        added = merge(board, {"dc": []})
+        self.assertEqual(added, 0)
+        self.assertEqual([post["externalId"] for post in board["posts"]], ["new"])
 
     def test_blind_relative_times_keep_recent_posts_ahead_of_yesterday(self):
         now = datetime(2026, 10, 13, 15, 0, tzinfo=timezone(timedelta(hours=9)))
@@ -721,15 +767,15 @@ class MergeTest(unittest.TestCase):
         self.assertEqual(board["posts"], [])
 
     def test_theqoo_date_keeps_cutoff_day_and_drops_the_day_before(self):
-        now = datetime(2026, 10, 13, 15, 0, tzinfo=timezone(timedelta(hours=9)))
+        now = datetime(2026, 11, 13, 15, 0, tzinfo=timezone(timedelta(hours=9)))
         board = empty_board()
-        kept = sample("7", "7일", qoo_label_time("10.07", now).isoformat())
-        dropped = sample("6", "6일", qoo_label_time("10.06", now).isoformat())
+        kept = sample("1", "1일", qoo_label_time("11.01", now).isoformat())
+        dropped = sample("31", "31일", qoo_label_time("10.31", now).isoformat())
         kept["source"] = "qoo"
         dropped["source"] = "qoo"
         added = merge(board, {"qoo": [kept, dropped]})
         self.assertEqual(added, 1)
-        self.assertEqual(board["posts"][0]["title"], "7일")
+        self.assertEqual(board["posts"][0]["title"], "1일")
 
     def test_reply_targets_are_spread_across_hours(self):
         now = datetime(2026, 10, 20, 10, 0, tzinfo=KST)
@@ -748,10 +794,10 @@ class MergeTest(unittest.TestCase):
 
     def test_reply_keeps_kind_and_comment_id(self):
         board = empty_board()
-        item = sample("cmt-10960004", "영숙은 조용히 살더라", "2026-10-20T09:56:00+09:00")
+        item = sample("cmt-10960004", "영숙은 조용히 살더라", "2026-11-20T09:56:00+09:00")
         item["kind"] = "reply"
         item["author"] = "이봐"
-        added = merge(board, {"dc": [item]}, now="2026-10-20T01:00:00+00:00")
+        added = merge(board, {"dc": [item]}, now="2026-11-20T01:00:00+00:00")
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][0]["kind"], "reply")
         self.assertEqual(board["posts"][0]["externalId"], "cmt-10960004")
@@ -1245,7 +1291,7 @@ class SocialReplyTest(unittest.TestCase):
 
     def test_merge_keeps_threads_reply_with_parent_excerpt(self):
         board = empty_board()
-        item = sample("cmt-DeOpJlmEg-H", "기운이 밝아", "2026-10-08T18:30:00+09:00")
+        item = sample("cmt-DeOpJlmEg-H", "기운이 밝아", "2026-11-08T18:30:00+09:00")
         item["source"] = "threads"
         item["kind"] = "reply"
         item["excerpt"] = "나는솔로 34기 다둥이 특집 현숙"

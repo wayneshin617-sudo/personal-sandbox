@@ -286,12 +286,7 @@
   }
 
   function gallerySpamReason(post) {
-    if (!post || typeof post === "string") return "";
-    const author = String(post.author || "").trim();
-    if (!GALLERY_SPAM_RE.test(author)) return "";
-    if (author.startsWith("나갤")) return "나갤러";
-    if (author.startsWith("너갤")) return "너갤러";
-    return "ㅇㅇ";
+    return "";
   }
 
   function unrelatedReason(post) {
@@ -322,8 +317,6 @@
   function dropReason(post, options = {}) {
     if (post && typeof post !== "string" && (post.source || "") === "fb") return "페북";
     if (isBlockedYoutube(post)) return "유튜브:차단";
-    const spam = gallerySpamReason(post);
-    if (spam) return `도배:${spam}`;
     const wall = loginWallReason(post);
     if (wall) return `로그인:${wall}`;
     const text = postText(post);

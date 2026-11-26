@@ -1,6 +1,6 @@
 """게시판 목록을 읽어 docs/data/posts.json 에 쌓는다.
 
-모으기 시작 시각은 2026-10-07 22:30 KST 다.
+모으기 시작 시각은 2026-11-01 00:00 KST 다.
 이미 그 시각까지 들어가 있으면 첫 페이지만 보고, 없으면 그 시각까지 페이지를 넘긴다.
 """
 
@@ -43,7 +43,7 @@ META_PATH = ROOT / "docs" / "data" / "meta.json"
 YT_PATH = ROOT / "docs" / "data" / "youtube.json"
 
 KST = timezone(timedelta(hours=9))
-CUTOFF = datetime(2026, 10, 7, 22, 30, tzinfo=KST)
+CUTOFF = datetime(2026, 11, 1, 0, 0, tzinfo=KST)
 MAX_DC_PAGES = 400
 MAX_DC_REPLY_THREADS = 24
 MAX_QOO_REPLY_THREADS = 16
@@ -82,7 +82,7 @@ SOURCE_SECS = {
     "ig": 160,
 }
 COLLECT_SECS = sum(SOURCE_SECS.values())
-COLLECT_GEN = "v4"
+COLLECT_GEN = "v5"
 YT_GEN = "v2"
 DDG_URL = "https://html.duckduckgo.com/html/"
 BING_URL = "https://www.bing.com/search"
@@ -304,10 +304,12 @@ def merge(board: dict, fetched: dict[str, list[dict]], *, now: str | None = None
     """없던 글만 시간순으로 붙인다. 시작 시각보다 이전 글·사계 글은 넣지 않는다."""
     seen_at = now or utc_now()
     posts: list[dict] = board.setdefault("posts", [])
+    before = len(posts)
     posts[:] = [
         post
         for post in posts
-        if on_or_after_cutoff(post.get("postedAt") or "") and should_keep(post)
+        if on_or_after_cutoff(post.get("postedAt") or post.get("firstSeenAt") or "")
+        and should_keep(post)
     ]
     known = {(post["source"], post["externalId"]) for post in posts}
     next_id = max((post["id"] for post in posts), default=0)
@@ -338,7 +340,7 @@ def merge(board: dict, fetched: dict[str, list[dict]], *, now: str | None = None
     filled = fill_reply_excerpts(board)
     if filled:
         print(f"reply excerpts {filled}", flush=True)
-    if added or filled:
+    if added or filled or len(posts) != before:
         board["updatedAt"] = seen_at
     if reasons:
         print("filtered", sum(reasons.values()), dict(reasons.most_common(12)), flush=True)

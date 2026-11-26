@@ -167,7 +167,7 @@ _OK_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기
 _SOON_RE = re.compile(rf"({'|'.join(str(n) for n in sorted(SAGYE_OK_SEASONS))})기?순자?")
 _MISTER_SURNAME_RE = re.compile("미스터(?:" + "|".join(sorted(MISTER_SURNAMES, key=len, reverse=True)) + ")")
 
-# 고정 익명. ㅇ을 늘리거나 띄어 쓰거나, 나갤러/너갤러/나갤루에 숫자를 붙여도 같은 도배다.
+# 예전에 ㅇㅇ·나갤러를 걸렀던 패턴. 지금은 모은다.
 _GALLERY_SPAM_RE = re.compile(
     r"^(?:ㅇ(?:\s*ㅇ)*|나갤러\d*|너갤러\d*|나갤루\d*)(?:\([^)]*\))?$"
 )
@@ -460,17 +460,8 @@ def login_wall_reason(post: dict[str, Any] | str | None) -> str | None:
 
 
 def gallery_spam_reason(post: dict[str, Any] | str | None) -> str | None:
-    """ㅇ만 반복된 닉과 나갤러·너갤러·나갤루는 출처와 상관없이 모으지 않는다."""
-    if isinstance(post, str) or not post:
-        return None
-    author = (post.get("author") or "").strip()
-    if not _GALLERY_SPAM_RE.match(author):
-        return None
-    if author.startswith("나갤"):
-        return "나갤러"
-    if author.startswith("너갤"):
-        return "너갤러"
-    return "ㅇㅇ"
+    """ㅇㅇ·나갤러는 다시 모은다. 예전 필터 자리만 남겨 둔다."""
+    return None
 
 
 def unrelated_reason(post: dict[str, Any] | str | None) -> str | None:
@@ -517,9 +508,6 @@ def drop_reason(post: dict[str, Any] | str | None, *, swears: bool = False) -> s
         return "페북"
     if is_blocked_youtube(post):
         return "유튜브:차단"
-    spam = gallery_spam_reason(post)
-    if spam:
-        return f"도배:{spam}"
     wall = login_wall_reason(post)
     if wall:
         return f"로그인:{wall}"

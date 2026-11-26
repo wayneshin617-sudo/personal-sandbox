@@ -132,26 +132,23 @@ class SagyeTest(unittest.TestCase):
         self.assertFalse(should_keep(post))
         self.assertTrue(drop_reason(post).startswith("유튜브"))
 
-    def test_dc_gallery_spam_authors_are_dropped(self):
+    def test_dc_gallery_authors_are_kept(self):
         for author in (
             "ㅇ", "ㅇㅇ", "ㅇㅇㅇ", "ㅇㅇㅇㅇ", "ㅇ ㅇ",
             "나갤러", "나갤러1", "너갤러", "나갤루", "나갤루2",
             "ㅇㅇ(118.235)", "ㅇㅇㅇ(1.2)",
         ):
             post = {"source": "dc", "author": author, "title": "34기 영철 웃기네", "excerpt": ""}
-            self.assertFalse(should_keep(post), author)
-            self.assertTrue(drop_reason(post).startswith("도배"), author)
+            self.assertTrue(should_keep(post), author)
+            self.assertFalse((drop_reason(post) or "").startswith("도배"), author)
         kept = {"source": "dc", "author": "찢짜이밍사형", "title": "34기 영철 웃기네", "excerpt": ""}
         self.assertTrue(should_keep(kept))
         named = {"source": "dc", "author": "나솔갤", "title": "34기 영철 웃기네", "excerpt": ""}
         self.assertTrue(should_keep(named))
-        for author in ("ㅇㅇㄹ", "ㅇㅅㅇ", "ㅁㄴㅇㄹ", "ㅇ 창"):
-            near = {"source": "dc", "author": author, "title": "34기 영철 웃기네", "excerpt": ""}
-            self.assertTrue(should_keep(near), author)
         other = {"source": "qoo", "author": "ㅇㅇ", "title": "34기 영철 웃기네", "excerpt": ""}
-        self.assertFalse(should_keep(other))
+        self.assertTrue(should_keep(other))
         yt = {"source": "yt", "author": "ㅇㅇㅇ", "title": "영철", "excerpt": "[나는 SOLO] 34기", "url": "https://www.youtube.com/watch?v=solo34&lc=anon"}
-        self.assertFalse(should_keep(yt))
+        self.assertTrue(should_keep(yt))
 
     def test_unrelated_titles_and_other_shows(self):
         sagye_video = {
