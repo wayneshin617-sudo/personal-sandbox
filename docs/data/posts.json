@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:55:07+00:00",
+  "updatedAt": "2026-11-26T15:56:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -565049,6 +565049,26 @@
       "firstSeenAt": "2026-11-26T15:55:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124541,
+      "source": "dc",
+      "externalId": "cmt-11049367",
+      "title": "즐거운 사라 지금보면 별로 야한 소설도 아니던데 ㅋㅋ",
+      "excerpt": "맥날할머니가 어떤거냐면 마광수 아조씨같은사람임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718595&page=1#cmt_11049367",
+      "postedLabel": "11.27 00:55:43",
+      "postedAt": "2026-11-27T00:55:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:56:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -586662,7 +586682,8 @@
         "6718558",
         "6718566",
         "6718574",
-        "6718578"
+        "6718578",
+        "6718595"
       ]
     },
     "blind": {
