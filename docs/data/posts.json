@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T04:39:50+00:00",
+  "updatedAt": "2026-11-26T04:40:49+00:00",
   "posts": [
     {
       "id": 95749,
@@ -502972,6 +502972,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T04:39:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121353,
+      "source": "dc",
+      "externalId": "cmt-11048027",
+      "title": "나갤러(119.205) 그게 어장이면 연프는 어장장려프로그램이고 여장 안하면 구속되도록 해야함 - dc App",
+      "excerpt": "영호 어장 맞어 4명에 영자 옥순 넣었는데",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716518&page=1#cmt_11048027",
+      "postedLabel": "11.26 13:39:55",
+      "postedAt": "2026-11-26T13:39:55+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:40:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -503156,7 +503176,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T13:37:33+09:00"
+      "slowAt": "2026-11-26T13:40:32+09:00"
     },
     "dc": {
       "doneIds": [
