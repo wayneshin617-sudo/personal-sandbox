@@ -14,6 +14,7 @@ from app.collect import (
     JINA_TIMEOUT,
     JINA_URL,
     KST,
+    live_posts,
     SEARCH_TIMEOUT,
     SOCIAL_REPLY_LIMITS,
     SOURCE_SECS,
@@ -1300,6 +1301,41 @@ class SocialReplyTest(unittest.TestCase):
         self.assertEqual(added, 1)
         self.assertEqual(board["posts"][0]["kind"], "reply")
         self.assertEqual(board["posts"][0]["excerpt"], "나는솔로 34기 다둥이 특집 현숙")
+
+
+class LiveSliceTest(unittest.TestCase):
+    def test_keeps_eight_hour_window_and_tail(self):
+        now = datetime(2026, 11, 26, 12, 0, tzinfo=KST)
+        posts = []
+        for index in range(1, 8):
+            posts.append(
+                {
+                    "id": index,
+                    "postedAt": (now - timedelta(hours=20, minutes=index)).isoformat(),
+                    "title": f"old-{index}",
+                }
+            )
+        for index in range(8, 11):
+            posts.append(
+                {
+                    "id": index,
+                    "postedAt": (now - timedelta(hours=2, minutes=index)).isoformat(),
+                    "title": f"hot-{index}",
+                }
+            )
+        sliced = live_posts(posts, now=now, hours=8, tail=2)
+        ids = [post["id"] for post in sliced]
+        self.assertEqual(ids, [10, 9, 8])
+
+    def test_tail_keeps_older_feed_when_window_is_empty(self):
+        now = datetime(2026, 11, 26, 12, 0, tzinfo=KST)
+        posts = [
+            {"id": 1, "postedAt": (now - timedelta(hours=30)).isoformat()},
+            {"id": 2, "postedAt": (now - timedelta(hours=29)).isoformat()},
+            {"id": 3, "postedAt": (now - timedelta(hours=28)).isoformat()},
+        ]
+        sliced = live_posts(posts, now=now, hours=8, tail=2)
+        self.assertEqual([post["id"] for post in sliced], [2, 3])
 
 
 if __name__ == "__main__":

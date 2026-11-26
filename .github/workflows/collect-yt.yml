@@ -44,7 +44,7 @@ jobs:
           while [ "$SECONDS" -lt "$deadline" ]; do
             start=$SECONDS
             timeout -k 20 80 python -m app.collect --youtube-only || echo "유튜브 수집 실패, 다음 분에 다시 시도"
-            git add docs/data/youtube.json
+            git add docs/data/youtube.json docs/data/youtube-live.json
             if ! git diff --cached --quiet; then
               git commit -m "유튜브 댓글 반영"
               pushed=0

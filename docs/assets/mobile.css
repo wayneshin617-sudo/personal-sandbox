@@ -195,7 +195,6 @@ html.mobile .realtime-panel {
 }
 html.mobile #jump { bottom: calc(168px + env(safe-area-inset-bottom)); }
 
-html.mobile #pairing,
 html.mobile #profiles {
   padding: 8px 12px 12px;
 }

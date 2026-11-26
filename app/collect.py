@@ -39,8 +39,12 @@ from .parsers import (
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "docs" / "data" / "posts.json"
+LIVE_PATH = ROOT / "docs" / "data" / "live.json"
 META_PATH = ROOT / "docs" / "data" / "meta.json"
 YT_PATH = ROOT / "docs" / "data" / "youtube.json"
+YT_LIVE_PATH = ROOT / "docs" / "data" / "youtube-live.json"
+LIVE_HOURS = 8
+LIVE_TAIL = 400
 
 KST = timezone(timedelta(hours=9))
 CUTOFF = datetime(2026, 11, 1, 0, 0, tzinfo=KST)
@@ -121,12 +125,51 @@ def empty_board() -> dict:
 
 
 def load_board(path: Path) -> dict:
-    if not path.exists():
+    if not path.exists() or path.stat().st_size == 0:
         return empty_board()
-    data = json.loads(path.read_text(encoding="utf-8"))
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return empty_board()
     data.setdefault("posts", [])
     data["startedAt"] = CUTOFF.isoformat()
     return data
+
+
+def live_posts(
+    posts: list[dict],
+    now: datetime | None = None,
+    hours: int = LIVE_HOURS,
+    tail: int = LIVE_TAIL,
+) -> list[dict]:
+    """화면에 쓰는 짧은 목록. 8시간 실검 창 + 피드 꼬리만 남긴다."""
+    now = now or datetime.now(KST)
+    since = now - timedelta(hours=hours)
+    picked: dict[object, dict] = {}
+    for post in posts[-max(tail, 0) :]:
+        picked[post.get("id") if post.get("id") is not None else id(post)] = post
+    for post in posts:
+        at = parse_instant(post.get("postedAt") or post.get("firstSeenAt") or "")
+        if at is None or at < since:
+            continue
+        picked[post.get("id") if post.get("id") is not None else id(post)] = post
+
+    def sort_key(post: dict) -> tuple:
+        at = parse_instant(post.get("postedAt") or post.get("firstSeenAt") or "")
+        stamp = at or datetime.min.replace(tzinfo=timezone.utc)
+        return (stamp, post.get("id") or 0)
+
+    return sorted(picked.values(), key=sort_key)
+
+
+def write_live(path: Path, board: dict) -> None:
+    live = {
+        "startedAt": board.get("startedAt"),
+        "updatedAt": board.get("updatedAt"),
+        "posts": live_posts(board.get("posts") or []),
+    }
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(live, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
 
 
 def save_board(path: Path, board: dict) -> None:
@@ -144,6 +187,8 @@ def save_board(path: Path, board: dict) -> None:
     }
     META_PATH.parent.mkdir(parents=True, exist_ok=True)
     META_PATH.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if path == DATA_PATH:
+        write_live(LIVE_PATH, board)
 
 
 def parse_instant(value: str) -> datetime | None:
@@ -1625,6 +1670,7 @@ def export_youtube() -> None:
     board["updatedAt"] = utc_now()
     YT_PATH.parent.mkdir(parents=True, exist_ok=True)
     YT_PATH.write_text(json.dumps(board, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    write_live(YT_LIVE_PATH, board)
     print(f"youtube added {added} total {len(board['posts'])}")
 
 

@@ -1434,7 +1434,7 @@ function renderStatus(board, force) {
     if (sourceCount[post.source] != null) sourceCount[post.source] += 1;
     if (postDay(post) === today) todayCount += 1;
   }
-  document.querySelector("#stat-total").textContent = numberFormat.format(posts.length);
+  document.querySelector("#stat-total").textContent = numberFormat.format(board.count ?? posts.length);
   document.querySelector("#stat-live").textContent = numberFormat.format(todayCount);
   for (const source of ["dc", "blind", "qoo", "yt", "threads", "ig"]) {
     const el = document.querySelector("#source-" + source);
@@ -1461,16 +1461,25 @@ function replacePosts(posts) {
 
 async function pull() {
   if (!state.ready) showLoader();
-  const board = await loadBoard();
-  if (!board) return;
+  let board;
+  try {
+    board = await loadBoard();
+  } catch {
+    if (!state.ready) hideLoader();
+    throw new Error("목록을 불러오지 못했습니다");
+  }
+  if (!board) {
+    if (!state.ready) hideLoader();
+    return;
+  }
   const posts = board.posts || [];
   if (!state.ready) {
     replacePosts(posts);
-    renderStatus(board, true);
     stamp = board.updatedAt || "";
     state.ready = true;
     reload();
     hideLoader();
+    renderStatus(board, true);
     return;
   }
   if ((board.updatedAt || "") === stamp && posts.length === allPosts.length) {
@@ -1511,47 +1520,48 @@ async function pull() {
   updateNote();
 }
 
-async function loadBoard() {
-  const metaUrl = new URL("data/meta.json", document.baseURI);
-  metaUrl.searchParams.set("t", String(Date.now()));
-  try {
-    const metaResponse = await fetch(metaUrl, { cache: "no-store" });
-    if (metaResponse.ok) {
-      const meta = await metaResponse.json();
-      if (state.ready && (meta.updatedAt || "") === stamp) {
-        const extra = await loadYoutube();
-        if ((extra?.updatedAt || "") === ytStamp) {
-          paintSourceClock({ ...meta, youtubeUpdatedAt: ytStamp });
-          return null;
-        }
-        ytStamp = extra?.updatedAt || "";
-        return absorbYoutube({ ...meta, posts: allPosts }, extra);
-      }
-    }
-  } catch {
-    /* 메타가 없으면 목록 파일을 그대로 읽는다. */
-  }
-  const url = new URL("data/posts.json", document.baseURI);
+async function readJson(path) {
+  const url = new URL(path, document.baseURI);
   url.searchParams.set("t", String(Date.now()));
   const response = await fetch(url, { cache: "no-store" });
-  if (!response.ok) throw new Error("목록을 불러오지 못했습니다");
+  if (!response.ok) return null;
+  const text = await response.text();
+  if (!text.trim()) return null;
+  try {
+    return JSON.parse(text);
+  } catch {
+    return null;
+  }
+}
+
+async function loadBoard() {
+  const meta = await readJson("data/meta.json");
+  if (state.ready && meta && (meta.updatedAt || "") === stamp) {
+    const extra = await loadYoutube();
+    if ((extra?.updatedAt || "") === ytStamp) {
+      paintSourceClock({ ...meta, youtubeUpdatedAt: ytStamp });
+      return null;
+    }
+    ytStamp = extra?.updatedAt || "";
+    return absorbYoutube({ ...meta, posts: allPosts, count: meta.count }, extra);
+  }
   const extra = await loadYoutube();
   ytStamp = extra?.updatedAt || "";
-  return absorbYoutube(await response.json(), extra);
+  const source = (await readJson("data/live.json")) || (await readJson("data/posts.json"));
+  if (!source) throw new Error("목록을 불러오지 못했습니다");
+  const board = absorbYoutube(source, extra);
+  if (meta) {
+    board.startedAt = meta.startedAt || board.startedAt;
+    board.updatedAt = meta.updatedAt || board.updatedAt;
+    board.count = meta.count;
+  }
+  return board;
 }
 
 let ytStamp = "";
 
 async function loadYoutube() {
-  const url = new URL("data/youtube.json", document.baseURI);
-  url.searchParams.set("t", String(Date.now()));
-  try {
-    const response = await fetch(url, { cache: "no-store" });
-    if (!response.ok) return null;
-    return response.json();
-  } catch {
-    return null;
-  }
+  return (await readJson("data/youtube-live.json")) || (await readJson("data/youtube.json"));
 }
 
 function absorbYoutube(board, extra) {
@@ -1698,36 +1708,8 @@ setInterval(() => {
   pull().catch(() => {});
 }, 2000);
 
-const PAIR_COLORS = {
-  youngsoo: "#9eecf5",
-  youngho: "#a8f0e0",
-  youngsik: "#d4c4ff",
-  youngchul: "#ffe0a3",
-  gwangsoo: "#ffc4d4",
-  sangchul: "#b7d0ff",
-  youngsook: "#ffb4c8",
-  jeongsook: "#fff3a8",
-  soonja: "#b8f2c2",
-  youngja: "#ffd0a8",
-  oksoon: "#e4c6ff",
-  hyunsook: "#ffb8b0",
-};
-const RANK_LABEL = { 1: "1순위", 2: "2지망", 3: "3지망", 0: "관심" };
 const svgNS = "http://www.w3.org/2000/svg";
-const pairBoard = document.querySelector("#pair-board");
-const pairLines = document.querySelector("#pair-lines");
-const pairFocus = document.querySelector("#pair-focus");
-let pairData = null;
-let pairPinned = "";
 let pairRestoreRail = false;
-
-function pairPeople() {
-  return [...(pairData?.men || []), ...(pairData?.women || [])];
-}
-
-function pairPerson(id) {
-  return pairPeople().find((person) => person.id === id);
-}
 
 const PAIR_TYPE_LABEL = { dark: "악", normal: "노말", fairy: "페어리" };
 const PAIR_TYPE_NOTE = { dark: "악평", normal: "무난", fairy: "호평" };
@@ -1738,7 +1720,6 @@ function personTypes(person) {
   return list.filter((kind) => PAIR_TYPE_LABEL[kind]);
 }
 
-// Pokémon-style type emblems: a tinted disc with the type's symbol knocked out of it.
 function typeIcon(kind) {
   const svg = document.createElementNS(svgNS, "svg");
   svg.setAttribute("viewBox", "0 0 20 20");
@@ -1773,142 +1754,6 @@ function typeMark(kind, note) {
   label.textContent = note ? `${PAIR_TYPE_LABEL[kind]} · ${PAIR_TYPE_NOTE[kind]}` : PAIR_TYPE_LABEL[kind];
   mark.append(typeIcon(kind), label);
   return mark;
-}
-
-function laneOffsets(links) {
-  const groups = new Map();
-  const put = (key, link, field) => {
-    if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push({ link, field });
-  };
-  for (const link of links) {
-    put(`from:${link.from}`, link, "fromLane");
-    put(`to:${link.to}`, link, "toLane");
-  }
-  for (const group of groups.values()) {
-    group.forEach((item, index) => {
-      item.link[item.field] = index - (group.length - 1) / 2;
-    });
-  }
-}
-
-function curvePoint(t, p0, p1, p2, p3) {
-  const u = 1 - t;
-  return u * u * u * p0 + 3 * u * u * t * p1 + 3 * u * t * t * p2 + t * t * t * p3;
-}
-
-let pairLayouts = new Map();
-let pairLayoutKey = "";
-let pairBase = { w: 80, h: 100 };
-const PAIR_CARD_ASPECT = 58 / 72;
-
-function pairSide(id) {
-  return (pairData?.men || []).some((person) => person.id === id) ? "men" : "women";
-}
-
-function pairNear(id) {
-  const near = new Set([id]);
-  for (const link of pairData.links) {
-    if (link.from === id || link.to === id) {
-      near.add(link.from);
-      near.add(link.to);
-    }
-  }
-  return near;
-}
-
-function boardColumns(width, height) {
-  const gutter = Math.max(88, Math.min(width * 0.22, 240));
-  const colW = (width - gutter) / 2;
-  return {
-    men: { x: 0, y: 0, w: colW, h: height },
-    women: { x: width - colW, y: 0, w: colW, h: height },
-  };
-}
-
-function restingBase(width, height) {
-  const col = boardColumns(width, height).men;
-  const gap = 8;
-  let cardH = (height - gap * 5) / 6;
-  let cardW = cardH * PAIR_CARD_ASPECT;
-  if (cardW > col.w) {
-    cardW = col.w;
-    cardH = cardW / PAIR_CARD_ASPECT;
-  }
-  return { w: Math.max(46, cardW), h: Math.max(58, cardH) };
-}
-
-function stackBoxes(people, side, bounds, base) {
-  const boxes = {};
-  const count = people.length;
-  if (!count) return boxes;
-  const gap = count > 1 ? 8 : 0;
-  const aspect = base.w / base.h;
-  let cardH = (bounds.h - gap * (count - 1)) / count;
-  let cardW = cardH * aspect;
-  if (cardW > bounds.w) {
-    cardW = bounds.w;
-    cardH = cardW / aspect;
-  }
-  const stackH = cardH * count + gap * (count - 1);
-  let y = bounds.y + Math.max(0, (bounds.h - stackH) / 2);
-  const scale = cardW / base.w;
-  for (const person of people) {
-    const x = side === "men" ? bounds.x + bounds.w - cardW : bounds.x;
-    boxes[person.id] = { x, y, scale, opacity: 1 };
-    y += cardH + gap;
-  }
-  return boxes;
-}
-
-function layoutFor(focusId, width, height, base) {
-  const columns = boardColumns(width, height);
-  const near = focusId ? pairNear(focusId) : null;
-  const rest = {
-    ...stackBoxes(pairData.men, "men", columns.men, base),
-    ...stackBoxes(pairData.women, "women", columns.women, base),
-  };
-  if (!focusId) return { boxes: rest };
-  const boxes = {};
-  for (const [id, box] of Object.entries(rest)) boxes[id] = { ...box, opacity: 0 };
-  const men = pairData.men.filter((person) => near.has(person.id));
-  const women = pairData.women.filter((person) => near.has(person.id));
-  Object.assign(boxes, stackBoxes(men, "men", columns.men, base), stackBoxes(women, "women", columns.women, base));
-  return { boxes };
-}
-
-function pairCard(person) {
-  const button = document.createElement("button");
-  button.type = "button";
-  button.className = "pair-card";
-  button.dataset.id = person.id;
-  button.style.setProperty("--glow", PAIR_COLORS[person.id] || "#ffd0e0");
-  const photo = document.createElement("img");
-  const face = typeof BoardCast !== "undefined" ? BoardCast.face(person.id) : "";
-  photo.src = asset(face || person.photo);
-  photo.alt = "";
-  const name = document.createElement("strong");
-  name.textContent = person.name;
-  if (person.jjajang) {
-    const mark = document.createElement("img");
-    mark.className = "pair-jjajang";
-    mark.src = asset("assets/jjajang.svg");
-    mark.alt = "고독정식";
-    mark.title = "고독정식";
-    name.append(mark);
-  }
-  button.append(photo, name);
-  button.addEventListener("pointerenter", (event) => {
-    if (document.documentElement.classList.contains("mobile")) return;
-    if (event.pointerType !== "mouse") return;
-    highlightPairLines(person.id);
-  });
-  button.addEventListener("pointerleave", (event) => {
-    if (event.pointerType !== "mouse") return;
-    highlightPairLines("");
-  });
-  button.addEventListener("click", () => pinPair(person.id));
-  return button;
 }
 
 function pokeCard(person) {
@@ -1970,7 +1815,8 @@ function pokeCard(person) {
     ["나이", intro?.age || (person.year ? `${person.year}년생` : "")],
     ["직업", person.job || ""],
     ["가족", person.note || ""],
-  ]) {
+    ["취미", person.hobby || ""],
+  ].filter((row) => row[0] !== "취미" || row[1])) {
     const move = document.createElement("p");
     move.className = "poke-move";
     const label = document.createElement("b");
@@ -2007,13 +1853,9 @@ function pokeCard(person) {
   return root;
 }
 
-function renderPairing(data) {
-  pairData = data;
+function renderProfiles(data) {
   const label = `${data.label} · ${data.asOf}`;
-  document.querySelector("#pair-kicker").textContent = label;
   document.querySelector("#profile-kicker").textContent = label;
-  document.querySelector("#pair-men").replaceChildren(...data.men.map(pairCard));
-  document.querySelector("#pair-women").replaceChildren(...data.women.map(pairCard));
   document.querySelector("#poke-men").replaceChildren(...(data.men || []).map(pokeCard));
   document.querySelector("#poke-women").replaceChildren(...(data.women || []).map(pokeCard));
   document.querySelector("#type-legend").replaceChildren(
@@ -2023,200 +1865,18 @@ function renderPairing(data) {
       return item;
     }),
   );
-  pairLayoutKey = "";
-  if (!document.querySelector("#pairing").hidden) ensurePairLayouts();
   document.dispatchEvent(new Event("board-ready"));
-}
-
-function highlightPairLines(id) {
-  const active = pairLines.querySelector("g.on");
-  if (!active) return;
-  active.classList.toggle("hotting", Boolean(id));
-  for (const node of active.querySelectorAll(".pair-link, .pair-heart")) {
-    const owners = [node.dataset.from, node.dataset.to, ...(node.dataset.pair || "").split("|")];
-    node.classList.toggle("hot", Boolean(id) && owners.includes(id));
-  }
-}
-
-function edgePoint(box, side) {
-  const width = pairBase.w * box.scale;
-  const height = pairBase.h * box.scale;
-  return {
-    x: side === "men" ? box.x + width : box.x,
-    y: box.y + height / 2,
-  };
-}
-
-function paintPairLines(width, height) {
-  pairLines.setAttribute("viewBox", `0 0 ${width} ${height}`);
-  pairLines.replaceChildren();
-  const narrow = width < 700;
-  const heartScale = narrow ? 2.4 : 3.4;
-  for (const [key, layout] of pairLayouts) {
-    const focused = key !== "rest";
-    const size = focused ? (narrow ? 16 : 22) : (narrow ? 11 : 16);
-    const wing = focused ? (narrow ? 7 : 9.5) : (narrow ? 5 : 7);
-    const tipGap = focused ? 12 : 7;
-    const group = document.createElementNS(svgNS, "g");
-    group.dataset.focus = key;
-    if (key === (pairPinned || "rest")) group.setAttribute("class", "on");
-    const links = pairData.links
-      .filter((link) => layout.boxes[link.from]?.opacity && layout.boxes[link.to]?.opacity)
-      .map((link) => ({ ...link }));
-    laneOffsets(links);
-    // A heart only when both sides put each other first (solid line meets solid line).
-    const mutual = new Set();
-    for (const link of links) {
-      if (link.rank !== 1) continue;
-      if (links.some((other) => other.rank === 1 && other.from === link.to && other.to === link.from)) {
-        mutual.add([link.from, link.to].sort().join("|"));
-      }
-    }
-    const lane = Math.min(16, pairBase.h * 0.24);
-    const drawnHearts = new Set();
-    for (const link of links) {
-      const fromSide = pairSide(link.from);
-      const toSide = pairSide(link.to);
-      const start = edgePoint(layout.boxes[link.from], fromSide);
-      const end = edgePoint(layout.boxes[link.to], toSide);
-      const fromLeft = start.x < end.x;
-      const y1 = start.y + link.fromLane * lane;
-      const y2 = end.y + link.toLane * lane;
-      /* 화살촉은 카드 안쪽이 아니라 골 쪽에 둔다. 확대 카드 테두리/글로우에 안 가리게. */
-      const x1 = fromLeft ? start.x + tipGap : start.x - tipGap;
-      const x2 = fromLeft ? end.x - tipGap : end.x + tipGap;
-      const c1x = x1 + (x2 - x1) * 0.38;
-      const c2x = x1 + (x2 - x1) * 0.62;
-      const c1y = y1 + (y2 - y1) * 0.18;
-      const c2y = y2 - (y2 - y1) * 0.18;
-      const dx = x2 - c2x;
-      const dy = y2 - c2y;
-      const len = Math.hypot(dx, dy) || 1;
-      const ux = dx / len;
-      const uy = dy / len;
-      const color = PAIR_COLORS[link.from] || "#ffb4c8";
-      const solid = link.rank === 1;
-      const path = document.createElementNS(svgNS, "path");
-      path.setAttribute("d", `M ${x1} ${y1} C ${c1x} ${c1y}, ${c2x} ${c2y}, ${x2 - ux * size} ${y2 - uy * size}`);
-      path.setAttribute("fill", "none");
-      path.setAttribute("stroke", color);
-      path.setAttribute("stroke-linecap", "round");
-      path.setAttribute("stroke-width", solid ? (focused ? "1.7" : "1.25") : (focused ? "1.5" : "1.15"));
-      if (!solid) path.setAttribute("stroke-dasharray", focused ? "0.1 6" : "0.1 5.2");
-      path.dataset.from = link.from;
-      path.dataset.to = link.to;
-      path.setAttribute("class", "pair-link");
-      group.append(path);
-      const head = document.createElementNS(svgNS, "polygon");
-      head.setAttribute("points", [
-        `${x2},${y2}`,
-        `${x2 - ux * size - uy * wing},${y2 - uy * size + ux * wing}`,
-        `${x2 - ux * size + uy * wing},${y2 - uy * size - ux * wing}`,
-      ].join(" "));
-      head.setAttribute("fill", color);
-      head.setAttribute("stroke", color);
-      head.setAttribute("stroke-linejoin", "round");
-      head.setAttribute("stroke-width", focused ? "1.2" : "0.8");
-      head.dataset.from = link.from;
-      head.dataset.to = link.to;
-      head.setAttribute("class", "pair-link");
-      group.append(head);
-      const heartKey = [link.from, link.to].sort().join("|");
-      if (mutual.has(heartKey) && !drawnHearts.has(heartKey)) {
-        drawnHearts.add(heartKey);
-        const mx = curvePoint(0.5, x1, c1x, c2x, x2);
-        const my = curvePoint(0.5, y1, c1y, c2y, y2);
-        const heart = document.createElementNS(svgNS, "path");
-        heart.setAttribute("d", "M0 1.6C0 .4 1.05-.3 2.05.55 2.55-.45 4.05.15 4.05 1.55 4.05 3.15 2.15 4.25 0 5.7-2.15 4.25-4.05 3.15-4.05 1.55-4.05.15-2.55-.45-2.05.55-1.05-.3 0 .4 0 1.6Z");
-        heart.setAttribute("transform", `translate(${mx} ${my}) scale(${heartScale}) translate(0 -2.55)`);
-        heart.setAttribute("fill", "#ff6d93");
-        heart.setAttribute("stroke", "#14080d");
-        heart.setAttribute("stroke-width", String(1.1 / heartScale));
-        heart.setAttribute("class", "pair-heart");
-        heart.dataset.pair = heartKey;
-        group.append(heart);
-      }
-    }
-    pairLines.append(group);
-  }
-}
-
-function applyPairLayout(id, animate) {
-  const layout = pairLayouts.get(id || "rest");
-  if (!layout) return;
-  pairBoard.classList.toggle("anim", Boolean(animate));
-  pairBoard.classList.toggle("focusing", Boolean(id));
-  pairBoard.dataset.focus = id || "";
-  for (const card of pairBoard.querySelectorAll(".pair-card")) {
-    const box = layout.boxes[card.dataset.id];
-    card.style.transform = `translate3d(${box.x}px, ${box.y}px, 0) scale(${box.scale})`;
-    card.style.opacity = String(box.opacity);
-    card.style.pointerEvents = box.opacity ? "auto" : "none";
-    card.classList.toggle("near", Boolean(id) && box.opacity > 0);
-    card.classList.toggle("lit", card.dataset.id === id);
-    card.setAttribute("aria-pressed", String(card.dataset.id === id));
-  }
-  for (const group of pairLines.querySelectorAll("g")) {
-    group.classList.toggle("on", group.dataset.focus === (id || "rest"));
-  }
-}
-
-function ensurePairLayouts() {
-  const rect = pairBoard.getBoundingClientRect();
-  if (rect.width < 40 || rect.height < 40) return;
-  const key = `${Math.round(rect.width)}x${Math.round(rect.height)}`;
-  if (key === pairLayoutKey) return;
-  pairLayoutKey = key;
-  pairBase = restingBase(rect.width, rect.height);
-  pairBoard.style.setProperty("--pair-w", `${pairBase.w}px`);
-  pairBoard.style.setProperty("--pair-h", `${pairBase.h}px`);
-  pairLayouts = new Map([["rest", layoutFor("", rect.width, rect.height, pairBase)]]);
-  for (const person of pairPeople()) {
-    pairLayouts.set(person.id, layoutFor(person.id, rect.width, rect.height, pairBase));
-  }
-  paintPairLines(rect.width, rect.height);
-  applyPairLayout(pairPinned, false);
-}
-
-function focusCaption(id) {
-  if (!id) {
-    pairFocus.textContent = "";
-    return;
-  }
-  const person = pairPerson(id);
-  const outgoing = pairData.links.filter((link) => link.from === id);
-  const incoming = pairData.links.filter((link) => link.to === id);
-  const phrase = (link, toward) => {
-    const other = pairPerson(toward ? link.to : link.from);
-    return `${RANK_LABEL[link.rank] || ""} ${other?.name || ""}`.trim();
-  };
-  const parts = [`${person?.name || ""}`];
-  if (outgoing.length) parts.push(outgoing.map((link) => phrase(link, true)).join(" · "));
-  if (incoming.length) parts.push(`받은 마음 ${incoming.map((link) => phrase(link, false)).join(" · ")}`);
-  pairFocus.textContent = parts.join("  ·  ");
-}
-
-function pinPair(id, options = {}) {
-  if (options.force) pairPinned = id || "";
-  else pairPinned = pairPinned === id ? "" : id;
-  focusCaption(pairPinned);
-  ensurePairLayouts();
-  applyPairLayout(pairPinned, true);
-  document.dispatchEvent(new Event("board-chrome"));
 }
 
 function setStageView(name) {
   const stage = document.querySelector(".stage");
-  stage.classList.toggle("show-pair", name === "pair");
   stage.classList.toggle("show-profile", name === "profile");
   document.querySelector("#tab-feed").setAttribute("aria-selected", String(name === "feed"));
   document.querySelector("#tab-profile").setAttribute("aria-selected", String(name === "profile"));
-  document.querySelector("#tab-pair").setAttribute("aria-selected", String(name === "pair"));
-  document.querySelector("#pairing").hidden = name !== "pair";
   document.querySelector("#profiles").hidden = name !== "profile";
   const mobile = document.documentElement.classList.contains("mobile");
   const narrow = window.matchMedia("(max-width: 860px)").matches;
-  const sideView = name === "pair" || name === "profile";
+  const sideView = name === "profile";
   if (!mobile && sideView && narrow && !appEl.classList.contains("rail-closed")) {
     pairRestoreRail = true;
     setRailOpen(false);
@@ -2224,30 +1884,24 @@ function setStageView(name) {
     pairRestoreRail = false;
     setRailOpen(true);
   }
-  const hash = name === "pair" ? "#pairing" : name === "profile" ? "#profile" : "";
+  const hash = name === "profile" ? "#profile" : "";
   const next = `${location.pathname}${location.search}${hash}`;
   if (`${location.pathname}${location.search}${location.hash}` !== next && !mobile) history.replaceState(null, "", next);
   document.dispatchEvent(new Event("board-chrome"));
-  if (name === "pair") requestAnimationFrame(() => ensurePairLayouts());
 }
 
 document.querySelector("#tab-feed").addEventListener("click", () => setStageView("feed"));
 document.querySelector("#tab-profile").addEventListener("click", () => setStageView("profile"));
-document.querySelector("#tab-pair").addEventListener("click", () => setStageView("pair"));
 new ResizeObserver(() => {
-  const pairing = document.querySelector("#pairing");
-  if (pairing.hidden) return;
-  if (document.documentElement.classList.contains("mobile")) {
-    ensurePairLayouts();
-    return;
-  }
+  const profiles = document.querySelector("#profiles");
+  if (!profiles || profiles.hidden) return;
+  if (document.documentElement.classList.contains("mobile")) return;
   const narrow = window.matchMedia("(max-width: 860px)").matches;
   if (narrow && !appEl.classList.contains("rail-closed")) {
     pairRestoreRail = true;
     setRailOpen(false);
   }
-  ensurePairLayouts();
-}).observe(pairBoard);
+}).observe(document.querySelector("#profiles"));
 
 {
   const pairUrl = new URL("data/pairing.json", document.baseURI);
@@ -2255,9 +1909,8 @@ new ResizeObserver(() => {
   fetch(pairUrl, { cache: "no-store" })
   .then((response) => response.json())
   .then((data) => {
-    renderPairing(data);
-    if (location.hash === "#pairing") setStageView("pair");
-    else if (location.hash === "#profile") setStageView("profile");
+    renderProfiles(data);
+    if (location.hash === "#profile" || location.hash.startsWith("#pairing")) setStageView("profile");
   })
   .catch(() => {});
 }

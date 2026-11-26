@@ -18,7 +18,7 @@
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&family=Playfair+Display:ital,wght@1,700;1,800&display=swap">
-  <link rel="stylesheet" href="assets/app.css?v=18">
+  <link rel="stylesheet" href="assets/app.css?v=19">
 </head>
 <body>
   <div class="app">
@@ -102,7 +102,6 @@
       <div class="view-tabs" role="tablist" aria-label="화면">
         <button type="button" class="view-tab" id="tab-feed" role="tab" aria-selected="true">나솔 왈가왈부</button>
         <button type="button" class="view-tab" id="tab-profile" role="tab" aria-selected="false" aria-controls="profiles">현 기수 프로필</button>
-        <button type="button" class="view-tab" id="tab-pair" role="tab" aria-selected="false" aria-controls="pairing">사랑의 짝대기</button>
       </div>
       <section id="profiles" hidden>
         <header class="pair-head">
@@ -122,26 +121,6 @@
             <h3 class="poke-side-title">여자</h3>
             <div class="poke-grid" id="poke-women"></div>
           </section>
-        </div>
-      </section>
-      <section id="pairing" hidden>
-        <header class="pair-head">
-          <div>
-            <p class="pair-kicker" id="pair-kicker">34기</p>
-            <h2>사랑의 짝대기</h2>
-          </div>
-          <ul class="pair-legend">
-            <li><span class="legend-line solid"></span>1순위</li>
-            <li><span class="legend-line dash"></span>관심 · 2·3지망</li>
-            <li><svg class="legend-heart" viewBox="0 0 12 12" aria-hidden="true"><path d="M6 10.2C2.6 7.6 1 6.2 1 4.1 1 2.6 2.1 1.6 3.4 1.6c.8 0 1.5.4 2 1.1.5-.7 1.2-1.1 2-1.1C8.7 1.6 10 2.6 10 4.1c0 2.1-1.6 3.5-4 6.1z"/></svg>서로 1순위</li>
-          </ul>
-        </header>
-        <p class="pair-focus" id="pair-focus"></p>
-        <div class="pair-board" id="pair-board">
-          <ol class="pair-col men" id="pair-men"></ol>
-          <div class="pair-gap" aria-hidden="true"></div>
-          <ol class="pair-col women" id="pair-women"></ol>
-          <svg class="pair-lines" id="pair-lines"></svg>
         </div>
       </section>
       <div class="talk-split" id="talk-split">
@@ -203,9 +182,9 @@
   </div>
   <div id="bgm-host"></div>
   <script src="assets/filters.js?v=10"></script>
-  <script src="assets/cast.js?v=12"></script>
+  <script src="assets/cast.js?v=13"></script>
   <script src="assets/feed-scroll.js?v=5"></script>
-  <script src="assets/app.js?v=32"></script>
+  <script src="assets/app.js?v=33"></script>
   <script src="assets/bgm.js?v=4"></script>
 </body>
 </html>

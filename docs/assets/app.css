@@ -887,9 +887,6 @@ mark {
 
 .view-tab { white-space: nowrap; }
 
-.stage.show-pair .talk-split,
-.stage.show-pair #composer,
-.stage.show-pair #jump,
 .stage.show-profile .talk-split,
 .stage.show-profile #composer,
 .stage.show-profile #jump { display: none; }
@@ -973,19 +970,15 @@ mark {
 
 .fav-btn[aria-pressed="true"] { color: var(--gold); }
 
-#pairing,
 #profiles {
   flex: 1;
   min-height: 0;
   display: flex;
   flex-direction: column;
   padding: 8px 24px 10px;
+  overflow: auto;
 }
 
-#pairing { overflow: hidden; }
-#profiles { overflow: auto; }
-
-#pairing[hidden],
 #profiles[hidden] { display: none; }
 
 .pair-head {
@@ -1434,7 +1427,7 @@ mark {
   .view-tabs { width: calc(100% - 12px); padding: 10px 0 0; gap: 6px; }
   .app.rail-closed .view-tabs { padding-left: 40px; }
   .view-tab { padding: 8px 4px; font-size: 12px; }
-  #pairing, #profiles { padding: 8px 10px 8px; }
+  #profiles { padding: 8px 10px 8px; }
   .pair-head { align-items: flex-start; flex-direction: column; gap: 8px; }
   .pair-head h2 { font-size: 22px; }
   .pair-legend { justify-content: flex-start; }
@@ -1544,9 +1537,7 @@ mark {
   opacity: 0.42;
 }
 
-.stage.show-pair .solo-hot,
 .stage.show-profile .solo-hot,
-.stage.show-pair .solo-hearts,
 .stage.show-profile .solo-hearts {
   opacity: 0;
 }

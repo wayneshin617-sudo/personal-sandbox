@@ -2,12 +2,10 @@ const backButton = document.querySelector("#m-back");
 const titleEl = document.querySelector("#m-title");
 const railButton = document.querySelector("#m-rail");
 const appRoot = document.querySelector(".app");
-const board = document.querySelector("#pair-board");
 
 const VIEW_TITLE = {
   feed: "나솔 왈가왈부",
   profile: "현 기수 프로필",
-  pair: "사랑의 짝대기",
 };
 
 let navLock = false;
@@ -15,38 +13,28 @@ let primed = false;
 let lastKey = "";
 
 function currentView() {
-  if (document.querySelector("#tab-pair")?.getAttribute("aria-selected") === "true") return "pair";
   if (document.querySelector("#tab-profile")?.getAttribute("aria-selected") === "true") return "profile";
   return "feed";
 }
 
 function snapshot() {
   const railOpen = !appRoot.classList.contains("rail-closed");
-  const pin = board?.dataset.focus || "";
-  return `${railOpen ? "rail" : currentView()}|${pin}`;
+  return railOpen ? "rail" : currentView();
 }
 
 function urlFor(key) {
-  const [head, pin] = key.split("|");
   let hash = "";
-  if (head === "rail") hash = "#status";
-  else if (head === "profile") hash = "#profile";
-  else if (head === "pair") hash = pin ? `#pairing/${encodeURIComponent(pin)}` : "#pairing";
+  if (key === "rail") hash = "#status";
+  else if (key === "profile") hash = "#profile";
   return `${location.pathname}${location.search}${hash}`;
 }
 
 function syncBar() {
   const railOpen = !appRoot.classList.contains("rail-closed");
   const view = currentView();
-  const pin = board?.dataset.focus || "";
   if (railOpen) {
     backButton.hidden = false;
     titleEl.textContent = "현황";
-    return;
-  }
-  if (view === "pair" && pin) {
-    backButton.hidden = false;
-    titleEl.textContent = pairPerson(pin)?.name || VIEW_TITLE.pair;
     return;
   }
   backButton.hidden = true;
@@ -76,14 +64,8 @@ function applyHash() {
     setRailOpen(true);
   } else {
     if (!appRoot.classList.contains("rail-closed")) setRailOpen(false);
-    if (hash === "#profile") setStageView("profile");
-    else if (hash.startsWith("#pairing")) {
-      setStageView("pair");
-      const id = decodeURIComponent(hash.slice("#pairing".length).replace(/^\//, ""));
-      pinPair(id, { force: true });
-    } else {
-      setStageView("feed");
-    }
+    if (hash === "#profile" || hash.startsWith("#pairing")) setStageView("profile");
+    else setStageView("feed");
   }
   lastKey = snapshot();
   navLock = false;
@@ -92,15 +74,13 @@ function applyHash() {
 
 function stepBack() {
   const railOpen = !appRoot.classList.contains("rail-closed");
-  const pin = board?.dataset.focus || "";
-  if (!railOpen && !pin) return;
+  if (!railOpen) return;
   if (history.state?.pushed) {
     history.back();
     return;
   }
   navLock = true;
-  if (railOpen) setRailOpen(false);
-  else pinPair("", { force: true });
+  setRailOpen(false);
   lastKey = snapshot();
   history.replaceState({ key: lastKey, pushed: false }, "", urlFor(lastKey));
   navLock = false;
@@ -121,11 +101,7 @@ window.addEventListener("popstate", applyHash);
 document.addEventListener("board-ready", () => {
   navLock = true;
   if (location.hash === "#status") setRailOpen(true);
-  else if (location.hash.startsWith("#pairing")) {
-    setStageView("pair");
-    const id = decodeURIComponent(location.hash.slice("#pairing".length).replace(/^\//, ""));
-    if (id) pinPair(id, { force: true });
-  }
+  else if (location.hash === "#profile" || location.hash.startsWith("#pairing")) setStageView("profile");
   navLock = false;
   settle();
 }, { once: true });

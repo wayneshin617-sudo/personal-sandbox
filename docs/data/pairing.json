@@ -1,7 +1,7 @@
 {
   "season": 34,
   "label": "34기 다둥이 특집",
-  "asOf": "10월 21일 첫 데이트까지",
+  "asOf": "11월 25일 슈퍼데이트권까지",
   "men": [
     {
       "id": "youngsoo",
@@ -21,7 +21,7 @@
       "name": "영호",
       "type": "fairy",
       "year": 1991,
-      "job": "도쿄 증권사 IT",
+      "job": "외국계 증권사 일본 지사",
       "note": "3남매 장남",
       "photo": "assets/cast/youngho.webp",
       "types": [
@@ -37,7 +37,6 @@
       "hobby": "명상 · 템플스테이",
       "note": "누나 둘의 막내",
       "photo": "assets/cast/youngsik.webp",
-      "jjajang": true,
       "types": [
         "fairy"
       ]
@@ -47,7 +46,7 @@
       "name": "영철",
       "type": "normal",
       "year": 1990,
-      "job": "공무원",
+      "job": "7급 행정직 공무원",
       "hobby": "독서",
       "note": "누나 둘과 여동생",
       "photo": "assets/cast/youngchul.webp",
@@ -65,7 +64,6 @@
       "hobby": "방송댄스",
       "note": "누나 둘의 막내",
       "photo": "assets/cast/gwangsoo.webp",
-      "jjajang": true,
       "types": [
         "normal"
       ]
@@ -94,7 +92,8 @@
       "photo": "assets/cast/youngsook.webp",
       "types": [
         "dark"
-      ]
+      ],
+      "jjajang": true
     },
     {
       "id": "jeongsook",
@@ -131,7 +130,8 @@
       "photo": "assets/cast/youngja.webp",
       "types": [
         "dark"
-      ]
+      ],
+      "jjajang": true
     },
     {
       "id": "oksoon",
@@ -157,93 +157,6 @@
       "types": [
         "normal"
       ]
-    }
-  ],
-  "links": [
-    {
-      "from": "youngsoo",
-      "to": "soonja",
-      "rank": 1
-    },
-    {
-      "from": "youngsik",
-      "to": "soonja",
-      "rank": 1
-    },
-    {
-      "from": "gwangsoo",
-      "to": "soonja",
-      "rank": 1
-    },
-    {
-      "from": "youngho",
-      "to": "hyunsook",
-      "rank": 1
-    },
-    {
-      "from": "youngchul",
-      "to": "hyunsook",
-      "rank": 1
-    },
-    {
-      "from": "sangchul",
-      "to": "oksoon",
-      "rank": 1
-    },
-    {
-      "from": "sangchul",
-      "to": "hyunsook",
-      "rank": 0
-    },
-    {
-      "from": "youngsook",
-      "to": "youngho",
-      "rank": 1
-    },
-    {
-      "from": "jeongsook",
-      "to": "youngho",
-      "rank": 1
-    },
-    {
-      "from": "soonja",
-      "to": "youngho",
-      "rank": 1
-    },
-    {
-      "from": "youngja",
-      "to": "youngchul",
-      "rank": 1
-    },
-    {
-      "from": "oksoon",
-      "to": "sangchul",
-      "rank": 1
-    },
-    {
-      "from": "hyunsook",
-      "to": "youngchul",
-      "rank": 1
-    },
-    {
-      "from": "hyunsook",
-      "to": "youngsoo",
-      "rank": 0
-    },
-    {
-      "from": "youngsik",
-      "to": "youngsook",
-      "rank": 0
-    },
-    {
-      "from": "youngsook",
-      "to": "youngsik",
-      "rank": 0
-    },
-    {
-      "from": "soonja",
-      "to": "youngsoo",
-      "rank": 0
     }
   ]
 }
