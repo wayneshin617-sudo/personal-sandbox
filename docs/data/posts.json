@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:19:26+00:00",
+  "updatedAt": "2026-11-26T01:20:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -478130,6 +478130,83 @@
       "firstSeenAt": "2026-11-26T01:19:26+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 120085,
+      "source": "qoo",
+      "externalId": "4418430757",
+      "title": "첫째들은 다 본인이 좋아하는 사람한테만 끌리네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418430757",
+      "postedLabel": "10:19",
+      "postedAt": "2026-11-26T10:19:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:20:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120086,
+      "source": "dc",
+      "externalId": "6716029",
+      "title": "광수가 저러는건 정숙이 영호한테 애교부리듯이",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716029&page=1",
+      "postedLabel": "10:19",
+      "postedAt": "2026-11-26T10:19:33+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:20:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120087,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%ED%98%B8-%EA%B3%A0%EB%AF%BC-%EC%9D%B4%ED%95%B4%EB%90%98%EB%8A%94%EB%8D%B0-sulyno8t",
+      "title": "영호 고민 이해되는데",
+      "excerpt": "현숙: 본인이랑 아비투스가 맞음 대충 공부도 잘했고 성장지향형이고 진취적인게 본인이랑 결이 맞다고 생각할듯 근데 묘하게 이성간 텐션이 없음. 순자: 아비투스가 안맞음. 힘들때마다 문신한개씩 했단 이야기에 그럼 \"그런 고비가 5번있었냐?\"고 반문함 농담처럼 말했지만 여기서 이미 멘헤라 끼 느끼고 맘 접었을 가능성 농후 ㅋㅋㅋ 근데 이성간 텐션은 제일 좋고 잘맞춰줄거 같음. 사실은 둘다 안만나는게 맞음 ㅋㅋㅋㅋ결혼상대는 걸리는게 없어야되는데 연애전부터 걸리면..",
+      "author": "j********",
+      "company": "서울대학교병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B3%A0%EB%AF%BC-%EC%9D%B4%ED%95%B4%EB%90%98%EB%8A%94%EB%8D%B0-sulyno8t",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T10:20:06+09:00",
+      "views": 21,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T01:20:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120088,
+      "source": "blind",
+      "externalId": "cmt-462703795",
+      "title": "최종된것도 아니고 서로 재고있는데 무슨 자신감으로 저래 꺼드럭인지도 모르겠음....",
+      "excerpt": "상철 뭐여",
+      "author": "1*********",
+      "company": "유플러스아이티",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EB%AD%90%EC%97%AC-j6i2l44i#462703795",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T10:20:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:20:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -514156,7 +514233,8 @@
         "4418349151",
         "4418398143",
         "4418401130",
-        "4418411289"
+        "4418411289",
+        "4418430757"
       ]
     },
     "keep": "v2",
