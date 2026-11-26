@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:05:48+00:00",
+  "updatedAt": "2026-11-26T06:06:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -511345,6 +511345,85 @@
       "firstSeenAt": "2026-11-26T06:05:48+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121781,
+      "source": "dc",
+      "externalId": "cmt-11048148",
+      "title": "뭔일 있엇노?",
+      "excerpt": "촌장 편집자 저번에 영상 잘못올려서 짤린거 맞누 ㅋㅋㅋㅋ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.140",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716585&page=3#cmt_11048148",
+      "postedLabel": "11.26 14:07:31",
+      "postedAt": "2026-11-26T14:07:31+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:06:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121782,
+      "source": "blind",
+      "externalId": "cmt-462730987",
+      "title": "실수는 아니고 애초에 영수줄 생각이아니었을ㅋ가싶음",
+      "excerpt": "가족 전화통화 상철이 젤 재밌었음 ㅋㅋㅋ",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%80%EC%A1%B1-%EC%A0%84%ED%99%94%ED%86%B5%ED%99%94-%EC%83%81%EC%B2%A0%EC%9D%B4-%EC%A0%A4-%EC%9E%AC%EB%B0%8C%EC%97%88%EC%9D%8C-%E3%85%8B%E3%85%8B%E3%85%8B-styk8u7b#462730987",
+      "postedLabel": "48분",
+      "postedAt": "2026-11-26T14:18:32+09:00",
+      "views": null,
+      "recommends": 6,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:06:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121783,
+      "source": "dc",
+      "externalId": "cmt-11048219",
+      "title": "2주전에 어제 방송분 영상 실수로 올려버림.",
+      "excerpt": "촌장 편집자 저번에 영상 잘못올려서 짤린거 맞누 ㅋㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "113.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716585&page=3#cmt_11048219",
+      "postedLabel": "11.26 14:41:10",
+      "postedAt": "2026-11-26T14:41:10+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:06:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121784,
+      "source": "dc",
+      "externalId": "6716714",
+      "title": "강약약강을 보인다는건 나르시시스트일 확률이 높다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716714&page=1",
+      "postedLabel": "15:06",
+      "postedAt": "2026-11-26T15:06:03+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:06:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -511456,7 +511535,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T15:03:31+09:00"
+      "slowAt": "2026-11-26T15:06:32+09:00"
     },
     "ig": {
       "doneIds": [
@@ -532617,6 +532696,7 @@
         "6716578",
         "6716579",
         "6716582",
+        "6716585",
         "6716587",
         "6716591",
         "6716594",
