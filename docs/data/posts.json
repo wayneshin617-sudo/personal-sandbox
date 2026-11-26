@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:14:23+00:00",
+  "updatedAt": "2026-11-26T13:15:21+00:00",
   "posts": [
     {
       "id": 95749,
@@ -548595,6 +548595,102 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T13:14:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 123690,
+      "source": "qoo",
+      "externalId": "4419139213",
+      "title": "영호 그냥 현숙이면서 왜 모르겠다 하는거임?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419139213",
+      "postedLabel": "22:14",
+      "postedAt": "2026-11-26T22:14:00+09:00",
+      "views": 10,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:15:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123691,
+      "source": "dc",
+      "externalId": "6717806",
+      "title": "58.29 정병 트젠 ♿️ 지금 개처맞는 이유? 타연프 분탕질",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717806&page=1",
+      "postedLabel": "22:14",
+      "postedAt": "2026-11-26T22:14:12+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:15:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123692,
+      "source": "dc",
+      "externalId": "cmt-11049120",
+      "title": "1퍼나 찍고 나대라",
+      "excerpt": "돌싱N모솔이 더 재밌으면 개추",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717773&page=1#cmt_11049120",
+      "postedLabel": "11.26 22:14:46",
+      "postedAt": "2026-11-26T22:14:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:15:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123693,
+      "source": "dc",
+      "externalId": "6717808",
+      "title": "58.29 정병 트젠 ♿️ 지금 개처맞는 이유? 타연프 분탕질",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717808&page=1",
+      "postedLabel": "22:14",
+      "postedAt": "2026-11-26T22:14:55+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:15:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123694,
+      "source": "dc",
+      "externalId": "6717809",
+      "title": "58.29 정병 트젠 ♿️ 지금 개처맞는 이유? 타연프 분탕질",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717809&page=1",
+      "postedLabel": "22:15",
+      "postedAt": "2026-11-26T22:15:01+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:15:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -548779,7 +548875,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T22:12:05+09:00"
+      "slowAt": "2026-11-26T22:15:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -585360,7 +585456,8 @@
         "4419016925",
         "4419086827",
         "4419093323",
-        "4419102391"
+        "4419102391",
+        "4419139213"
       ]
     },
     "keep": "v2",
