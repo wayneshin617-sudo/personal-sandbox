@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T17:46:08+00:00",
+  "updatedAt": "2026-11-26T17:47:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -567682,6 +567682,26 @@
       "firstSeenAt": "2026-11-26T17:46:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124676,
+      "source": "dc",
+      "externalId": "cmt-11049479",
+      "title": "음 뭔가 내 지인은 나로 유추할까봐 정확한 대학명은 안 알려주겠지만, 서울 4년제는 나왔습니다",
+      "excerpt": "누나 많은 막내 아들은 귀하고 편하게 자랐을 거다?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.177",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718736&page=1#cmt_11049479",
+      "postedLabel": "11.27 02:46:34",
+      "postedAt": "2026-11-27T02:46:34+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T17:47:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -567866,7 +567886,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T02:43:50+09:00"
+      "slowAt": "2026-11-27T02:46:50+09:00"
     },
     "dc": {
       "doneIds": [
