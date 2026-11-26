@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:43:47+00:00",
+  "updatedAt": "2026-11-26T23:45:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574106,6 +574106,26 @@
       "firstSeenAt": "2026-11-26T23:43:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125009,
+      "source": "dc",
+      "externalId": "cmt-11050006",
+      "title": "좋은 아침 - dc App",
+      "excerpt": "요즘엔 돌싱N모솔 봄",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719035&page=1#cmt_11050006",
+      "postedLabel": "11.27 08:44:42",
+      "postedAt": "2026-11-27T08:44:42+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:45:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -574217,7 +574237,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T08:41:59+09:00"
+      "slowAt": "2026-11-27T08:45:28+09:00"
     },
     "ig": {
       "doneIds": [
@@ -595750,6 +595770,7 @@
         "6718724",
         "6718736",
         "6718788",
+        "6718812",
         "6718830",
         "6718862",
         "6718871",
