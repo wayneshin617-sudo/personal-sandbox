@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T08:02:57+00:00",
+  "updatedAt": "2026-11-26T08:03:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -522333,6 +522333,85 @@
       "firstSeenAt": "2026-11-26T08:02:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 122343,
+      "source": "dc",
+      "externalId": "cmt-11048487",
+      "title": "댓글이 웃겼네 ㅋㅋㅋ",
+      "excerpt": "이 댓글 잘 봐둬라ㅋㅋ 맞을듯",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716825&page=3#cmt_11048487",
+      "postedLabel": "11.26 16:18:22",
+      "postedAt": "2026-11-26T16:18:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:03:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122344,
+      "source": "dc",
+      "externalId": "cmt-11048511",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "이 댓글 잘 봐둬라ㅋㅋ 맞을듯",
+      "author": "아가도리",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716825&page=3#cmt_11048511",
+      "postedLabel": "11.26 16:24:13",
+      "postedAt": "2026-11-26T16:24:13+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:03:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122345,
+      "source": "dc",
+      "externalId": "6716973",
+      "title": "남자 간호사들도 되게 예민하더라 간호 자체가",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716973&page=1",
+      "postedLabel": "17:02",
+      "postedAt": "2026-11-26T17:02:44+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:03:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122346,
+      "source": "blind",
+      "externalId": "cmt-462750237",
+      "title": "후반부 광수가 치고 나간다.",
+      "excerpt": "이번 기수 좀 노잼인듯",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%A2%80-%EB%85%B8%EC%9E%BC%EC%9D%B8%EB%93%AF-wvn1mrie#462750237",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T17:03:39+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T08:03:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -522517,7 +522596,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T17:00:39+09:00"
+      "slowAt": "2026-11-26T17:03:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -543713,6 +543792,7 @@
         "6716816",
         "6716819",
         "6716820",
+        "6716825",
         "6716827",
         "6716828",
         "6716829",
