@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T07:56:58+00:00",
+  "updatedAt": "2026-11-26T07:57:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -521825,6 +521825,104 @@
       "firstSeenAt": "2026-11-26T07:56:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 122317,
+      "source": "blind",
+      "externalId": "cmt-462748513",
+      "title": "ㄱㅈㄷ은 아들이라고 저런 걸..",
+      "excerpt": "34기 처럼 다둥이인 남자 연예인",
+      "author": "l*********",
+      "company": "하나투어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%B2%98%EB%9F%BC-%EB%8B%A4%EB%91%A5%EC%9D%B4%EC%9D%B8-%EB%82%A8%EC%9E%90-%EC%97%B0%EC%98%88%EC%9D%B8-brjasw4d#462748513",
+      "postedLabel": "8분",
+      "postedAt": "2026-11-26T16:49:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:57:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122318,
+      "source": "dc",
+      "externalId": "6716959",
+      "title": "내 약혼녀가 존예녀인데 태운거 알면 결혼안함?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716959&page=1",
+      "postedLabel": "16:56",
+      "postedAt": "2026-11-26T16:56:45+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:57:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122319,
+      "source": "dc",
+      "externalId": "6716960",
+      "title": "나만 무섭냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716960&page=1",
+      "postedLabel": "16:57",
+      "postedAt": "2026-11-26T16:57:12+09:00",
+      "views": 15,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:57:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122320,
+      "source": "dc",
+      "externalId": "cmt-11048603",
+      "title": "하이닉스 다닌다고 동생한테 잔소리 존나하보지무",
+      "excerpt": "상철이뭐냐 동생도 꺼드럭거린다고하네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716958&page=1#cmt_11048603",
+      "postedLabel": "11.26 16:57:34",
+      "postedAt": "2026-11-26T16:57:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:57:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122321,
+      "source": "blind",
+      "externalId": "cmt-462749598",
+      "title": "이쁜데",
+      "excerpt": "이번기수 옥순 객관적으로 외모 어떤편이야?",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98-%EC%98%A5%EC%88%9C-%EA%B0%9D%EA%B4%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%99%B8%EB%AA%A8-%EC%96%B4%EB%96%A4%ED%8E%B8%EC%9D%B4%EC%95%BC-yzf24ong#462749598",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T16:57:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:57:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -522009,7 +522107,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T16:54:39+09:00"
+      "slowAt": "2026-11-26T16:57:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -543226,7 +543324,8 @@
         "6716944",
         "6716952",
         "6716954",
-        "6716955"
+        "6716955",
+        "6716958"
       ]
     },
     "blind": {
