@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T04:57:49+00:00",
+  "updatedAt": "2026-11-26T04:58:48+00:00",
   "posts": [
     {
       "id": 95749,
@@ -504397,6 +504397,103 @@
       "firstSeenAt": "2026-11-26T04:57:49+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 121426,
+      "source": "dc",
+      "externalId": "cmt-11047843",
+      "title": "두꺼비가 방송욕심만 가득해서 - dc App",
+      "excerpt": "광수 씨발새끼야 안면 함몰 되고 싶냐?",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "182.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716411&page=3#cmt_11047843",
+      "postedLabel": "11.26 13:04:26",
+      "postedAt": "2026-11-26T13:04:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:58:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121427,
+      "source": "dc",
+      "externalId": "cmt-11048103",
+      "title": "패드",
+      "excerpt": "순자 미드는 뽕일수가 없다",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716560&page=1#cmt_11048103",
+      "postedLabel": "11.26 13:56:46",
+      "postedAt": "2026-11-26T13:56:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:58:48+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121428,
+      "source": "dc",
+      "externalId": "6716562",
+      "title": "성인남녀간대화에서 애교부려봐는 처음들어봄",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716562&page=1",
+      "postedLabel": "13:57",
+      "postedAt": "2026-11-26T13:57:36+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:58:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121429,
+      "source": "dc",
+      "externalId": "6716563",
+      "title": "영수는 왤케 반말을해?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.91",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716563&page=1",
+      "postedLabel": "13:57",
+      "postedAt": "2026-11-26T13:57:37+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:58:48+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121430,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EA%B3%BC-%ED%98%84%EC%88%99-rz2dspyv",
+      "title": "34기 영철과 현숙",
+      "excerpt": "아니,,영철이 처세 ㅂㅅ같이 하는건 알겠는데, 현숙도 다대일 데이트때 영철에 대한 배려가 너무 없었다는거 나만 느끼는건가? 본인이 무슨 실수를 하는지 모르겠다는 저 눈빛 레알 극혐인데,, 여지껏 살면서 본인도 모르게 여러 사람에게 상처주며 살아왔을듯",
+      "author": "i*********",
+      "company": "LG이노텍",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%98%81%EC%B2%A0%EA%B3%BC-%ED%98%84%EC%88%99-rz2dspyv",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T13:58:33+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T04:58:48+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -504581,7 +504678,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T13:55:32+09:00"
+      "slowAt": "2026-11-26T13:58:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -525630,6 +525727,7 @@
         "6716545",
         "6716552",
         "6716558",
+        "6716560",
         "6716561"
       ]
     },
