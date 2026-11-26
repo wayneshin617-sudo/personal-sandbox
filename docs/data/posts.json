@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:49:29+00:00",
+  "updatedAt": "2026-11-26T15:51:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564814,6 +564814,85 @@
       "firstSeenAt": "2026-11-26T15:49:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124529,
+      "source": "dc",
+      "externalId": "cmt-11049359",
+      "title": "영포티부터는 쿨하게 지갑을 잘 열어야 환영받아",
+      "excerpt": "먼가 슬픔....",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718566&page=1#cmt_11049359",
+      "postedLabel": "11.27 00:50:45",
+      "postedAt": "2026-11-27T00:50:45+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:51:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124530,
+      "source": "dc",
+      "externalId": "cmt-11049360",
+      "title": "너 말 잘한다 ㅋㅋㅋㅋ",
+      "excerpt": "34기는 웃긴게 인기남 포지션인 놈이 광수처럼 해야 재밌는데",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718578&page=1#cmt_11049360",
+      "postedLabel": "11.27 00:50:59",
+      "postedAt": "2026-11-27T00:50:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:51:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124531,
+      "source": "dc",
+      "externalId": "6718587",
+      "title": "도태녀는 국결도 못해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "149.40",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718587&page=1",
+      "postedLabel": "00:51",
+      "postedAt": "2026-11-27T00:51:14+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:51:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 124532,
+      "source": "dc",
+      "externalId": "cmt-11049361",
+      "title": "그런건 없어 내맘대로 살거임",
+      "excerpt": "먼가 슬픔....",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718566&page=1#cmt_11049361",
+      "postedLabel": "11.27 00:51:17",
+      "postedAt": "2026-11-27T00:51:17+09:00",
+      "views": null,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:51:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -564998,7 +565077,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T00:47:57+09:00"
+      "slowAt": "2026-11-27T00:51:20+09:00"
     },
     "dc": {
       "doneIds": [
@@ -586425,7 +586504,8 @@
         "6718544",
         "6718552",
         "6718558",
-        "6718566"
+        "6718566",
+        "6718578"
       ]
     },
     "blind": {
