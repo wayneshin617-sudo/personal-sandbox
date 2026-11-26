@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T00:58:39+00:00",
+  "updatedAt": "2026-11-26T00:59:41+00:00",
   "posts": [
     {
       "id": 95749,
@@ -476035,6 +476035,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T00:58:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119978,
+      "source": "dc",
+      "externalId": "6715990",
+      "title": "최커 영호현숙임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715990&page=1",
+      "postedLabel": "09:58",
+      "postedAt": "2026-11-26T09:58:33+09:00",
+      "views": 12,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:59:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119979,
+      "source": "dc",
+      "externalId": "cmt-11047183",
+      "title": "영호는 골라도 되는 위치니까 재보는 거지 그게 안 되는 애들이 간보니까 웃긴 거",
+      "excerpt": "니들은 영호가 간잽이라고 생각하냐?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "180.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715988&page=1#cmt_11047183",
+      "postedLabel": "11.26 09:59:08",
+      "postedAt": "2026-11-26T09:59:08+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:59:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119980,
+      "source": "dc",
+      "externalId": "6715991",
+      "title": "정숙아 술좀 줄이고 관리 좀 해라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715991&page=1",
+      "postedLabel": "09:59",
+      "postedAt": "2026-11-26T09:59:09+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:59:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119981,
+      "source": "dc",
+      "externalId": "6715992",
+      "title": "아니근데 영호에서 광수한테간거 너무한거아니냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715992&page=1",
+      "postedLabel": "09:59",
+      "postedAt": "2026-11-26T09:59:12+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:59:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -497063,7 +497140,8 @@
         "6715969",
         "6715970",
         "6715973",
-        "6715983"
+        "6715983",
+        "6715988"
       ]
     },
     "blind": {
