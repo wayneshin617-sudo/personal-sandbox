@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:14:25+00:00",
+  "updatedAt": "2026-11-26T01:15:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -477518,6 +477518,45 @@
       "firstSeenAt": "2026-11-26T01:14:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 120054,
+      "source": "dc",
+      "externalId": "cmt-11047143",
+      "title": "억텐 너무 싫어 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영철 다둥이 찾으라니까 리포터를 하고있네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715908&page=3#cmt_11047143",
+      "postedLabel": "11.26 09:44:16",
+      "postedAt": "2026-11-26T09:44:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:15:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120055,
+      "source": "dc",
+      "externalId": "6716022",
+      "title": "영식은 남자들 영호 열등감 ㅂㅅ 수다 떨때",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "153.240",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716022&page=1",
+      "postedLabel": "10:14",
+      "postedAt": "2026-11-26T10:14:47+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:15:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -477629,7 +477668,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T10:12:06+09:00"
+      "slowAt": "2026-11-26T10:15:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -498532,6 +498571,7 @@
         "6715896",
         "6715900",
         "6715902",
+        "6715908",
         "6715914",
         "6715917",
         "6715924",
