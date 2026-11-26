@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:34:27+00:00",
+  "updatedAt": "2026-11-26T23:36:40+00:00",
   "posts": [
     {
       "id": 95749,
@@ -573831,6 +573831,46 @@
       "firstSeenAt": "2026-11-26T23:34:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124995,
+      "source": "dc",
+      "externalId": "cmt-11049978",
+      "title": "또시작2",
+      "excerpt": "남자가 뭐라고 여기다 화풀인지 남미새 못말려",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718997&page=1#cmt_11049978",
+      "postedLabel": "11.27 08:07:16",
+      "postedAt": "2026-11-27T08:07:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:36:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124996,
+      "source": "dc",
+      "externalId": "cmt-11049994",
+      "title": "키큰여자 좋아하나보네",
+      "excerpt": "나의 한결같은 여성 취향.JPG",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719027&page=1#cmt_11049994",
+      "postedLabel": "11.27 08:35:29",
+      "postedAt": "2026-11-27T08:35:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:36:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -574015,7 +574055,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T08:32:57+09:00"
+      "slowAt": "2026-11-27T08:36:21+09:00"
     },
     "dc": {
       "doneIds": [
@@ -595483,6 +595523,7 @@
         "6718991",
         "6718992",
         "6718995",
+        "6718997",
         "6719002",
         "6719005",
         "6719006",
