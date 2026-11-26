@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T15:36:29+00:00",
+  "updatedAt": "2026-11-26T15:38:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -564446,6 +564446,45 @@
       "firstSeenAt": "2026-11-26T15:36:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124510,
+      "source": "dc",
+      "externalId": "cmt-11049344",
+      "title": "정숙이 아예 차단해버렸어야 됐음",
+      "excerpt": "34광수 제일 광기로 느껴지는 점",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718544&page=1#cmt_11049344",
+      "postedLabel": "11.27 00:37:22",
+      "postedAt": "2026-11-27T00:37:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:38:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124511,
+      "source": "dc",
+      "externalId": "6718545",
+      "title": "도배하는 씹년아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "210.96",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718545&page=1",
+      "postedLabel": "00:37",
+      "postedAt": "2026-11-27T00:37:25+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T15:38:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -564630,7 +564669,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T00:35:10+09:00"
+      "slowAt": "2026-11-27T00:38:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -586053,7 +586092,8 @@
         "6718524",
         "6718526",
         "6718533",
-        "6718537"
+        "6718537",
+        "6718544"
       ]
     },
     "blind": {
