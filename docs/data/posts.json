@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T03:26:28+00:00",
+  "updatedAt": "2026-11-26T03:27:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -493798,6 +493798,103 @@
       "firstSeenAt": "2026-11-26T03:26:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 120884,
+      "source": "dc",
+      "externalId": "cmt-11047715",
+      "title": "광수야 점심이나 처먹어",
+      "excerpt": "냉정하게 광수 이정도면 살만 좀 빼도 외모 확 잘생겨질 타입임",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "175.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716324&page=1#cmt_11047715",
+      "postedLabel": "11.26 12:26:14",
+      "postedAt": "2026-11-26T12:26:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:27:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120885,
+      "source": "dc",
+      "externalId": "6716330",
+      "title": "볼수록 옥순이가 젤 괜찮음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716330&page=1",
+      "postedLabel": "12:26",
+      "postedAt": "2026-11-26T12:26:45+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:27:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120886,
+      "source": "dc",
+      "externalId": "cmt-11047719",
+      "title": "네그렇다고칩시다",
+      "excerpt": "남자는 진짜 늙어서 결혼안하면 불행해짐",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.198",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716329&page=1#cmt_11047719",
+      "postedLabel": "11.26 12:26:52",
+      "postedAt": "2026-11-26T12:26:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:27:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120887,
+      "source": "dc",
+      "externalId": "6716332",
+      "title": "광수는 진짜 개저씨 느낌이네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.113",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716332&page=1",
+      "postedLabel": "12:27",
+      "postedAt": "2026-11-26T12:27:02+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:27:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120888,
+      "source": "dc",
+      "externalId": "6716334",
+      "title": "하이닉스 상철과 아산 순자가 고급스럽지 않은건",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716334&page=1",
+      "postedLabel": "12:27",
+      "postedAt": "2026-11-26T12:27:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:27:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -493982,7 +494079,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T12:24:13+09:00"
+      "slowAt": "2026-11-26T12:27:13+09:00"
     },
     "dc": {
       "doneIds": [
@@ -514945,7 +515042,9 @@
         "6716311",
         "6716315",
         "6716316",
-        "6716319"
+        "6716319",
+        "6716324",
+        "6716329"
       ]
     },
     "blind": {
