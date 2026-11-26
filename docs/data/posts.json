@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T21:40:09+00:00",
+  "updatedAt": "2026-11-26T21:44:17+00:00",
   "posts": [
     {
       "id": 95749,
@@ -572292,6 +572292,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T21:40:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124917,
+      "source": "dc",
+      "externalId": "6719003",
+      "title": "33살 파이어족을 위한 6번째 은퇴점검",
+      "excerpt": "",
+      "author": "우스",
+      "company": "",
+      "ip": "39.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719003&page=1",
+      "postedLabel": "06:43",
+      "postedAt": "2026-11-27T06:43:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T21:44:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -572476,7 +572495,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T06:40:50+09:00"
+      "slowAt": "2026-11-27T06:43:58+09:00"
     },
     "dc": {
       "doneIds": [
