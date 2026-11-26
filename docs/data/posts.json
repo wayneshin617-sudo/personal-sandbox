@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T09:23:09+00:00",
+  "updatedAt": "2026-11-26T09:24:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -529407,6 +529407,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T09:23:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 122706,
+      "source": "blind",
+      "externalId": "cmt-462757461",
+      "title": "가족통화 못봤어?? 난 개폭소했는데 ㅋㅋㅋㅋ",
+      "excerpt": "이번 기수 좀 노잼인듯",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98-%EC%A2%80-%EB%85%B8%EC%9E%BC%EC%9D%B8%EB%93%AF-wvn1mrie#462757461",
+      "postedLabel": "19분",
+      "postedAt": "2026-11-26T18:04:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:24:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122707,
+      "source": "dc",
+      "externalId": "6717163",
+      "title": "ㅋㅋ 이번 광수도 그렇고 지난 분홍색 머리한 광수도",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717163&page=1",
+      "postedLabel": "18:23",
+      "postedAt": "2026-11-26T18:23:13+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:24:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -529591,7 +529630,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T18:20:52+09:00"
+      "slowAt": "2026-11-26T18:23:52+09:00"
     },
     "dc": {
       "doneIds": [
