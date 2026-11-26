@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T22:55:57+00:00",
+  "updatedAt": "2026-11-26T22:57:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -573001,6 +573001,45 @@
       "firstSeenAt": "2026-11-26T22:55:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124953,
+      "source": "dc",
+      "externalId": "cmt-11049976",
+      "title": "자식연 끊어야지",
+      "excerpt": "34 영식이 부모는 영숙이 데려오면 허파뒤집어지겠노",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719005&page=1#cmt_11049976",
+      "postedLabel": "11.27 07:47:11",
+      "postedAt": "2026-11-27T07:47:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T22:57:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124954,
+      "source": "dc",
+      "externalId": "6719013",
+      "title": "돼지티콘 4개 ㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719013&page=1",
+      "postedLabel": "07:56",
+      "postedAt": "2026-11-27T07:56:46+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T22:57:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -573185,7 +573224,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T07:54:39+09:00"
+      "slowAt": "2026-11-27T07:57:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -594653,6 +594692,7 @@
         "6718991",
         "6718992",
         "6719002",
+        "6719005",
         "6719006",
         "6719009",
         "6719011"
