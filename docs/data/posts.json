@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T04:55:49+00:00",
+  "updatedAt": "2026-11-26T04:56:49+00:00",
   "posts": [
     {
       "id": 95749,
@@ -504338,6 +504338,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T04:55:49+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121423,
+      "source": "dc",
+      "externalId": "6716561",
+      "title": "흉통이 큰거랑 그거랑 아예다름",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.22",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716561&page=1",
+      "postedLabel": "13:55",
+      "postedAt": "2026-11-26T13:55:43+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-26T04:56:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121424,
+      "source": "dc",
+      "externalId": "cmt-11048101",
+      "title": "속이는게 아니고 실제로 큰대. 85a도 지방량은 많음",
+      "excerpt": "흉통이 큰거랑 그거랑 아예다름",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716561&page=1#cmt_11048101",
+      "postedLabel": "11.26 13:56:24",
+      "postedAt": "2026-11-26T13:56:24+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:56:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -525541,6 +525580,7 @@
         "6716402",
         "6716404",
         "6716406",
+        "6716407",
         "6716410",
         "6716411",
         "6716422",
@@ -525569,7 +525609,8 @@
         "6716540",
         "6716545",
         "6716552",
-        "6716558"
+        "6716558",
+        "6716561"
       ]
     },
     "blind": {
