@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T03:12:29+00:00",
+  "updatedAt": "2026-11-26T03:13:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -491913,6 +491913,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T03:12:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120788,
+      "source": "dc",
+      "externalId": "cmt-11047423",
+      "title": "좋은 분석",
+      "excerpt": "외모는 정숙이 광수보다 더 아래긴할거임ㅇㅇ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716149&page=3#cmt_11047423",
+      "postedLabel": "11.26 11:14:51",
+      "postedAt": "2026-11-26T11:14:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:13:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120789,
+      "source": "dc",
+      "externalId": "cmt-11047655",
+      "title": "정숙이 왜 저머리로 나온걸까? 메이컵샵 갔다가 팔 다쳤다는데 거기서 헤어스타일 좀 추천받지",
+      "excerpt": "정숙이 파마머리하고 깁스까지 하니까",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.152",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716289&page=1#cmt_11047655",
+      "postedLabel": "11.26 12:12:33",
+      "postedAt": "2026-11-26T12:12:33+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:13:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120790,
+      "source": "dc",
+      "externalId": "6716291",
+      "title": "진짜 친구라면....정숙 친구들은 저 헤어스타일 멋있다고 해주면 안됨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716291&page=1",
+      "postedLabel": "12:12",
+      "postedAt": "2026-11-26T12:12:39+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:13:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120791,
+      "source": "dc",
+      "externalId": "cmt-11047658",
+      "title": "머리 달라지면 뭐 다를거같냐?",
+      "excerpt": "정숙이 파마머리하고 깁스까지 하니까",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716289&page=1#cmt_11047658",
+      "postedLabel": "11.26 12:13:11",
+      "postedAt": "2026-11-26T12:13:11+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T03:13:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -513045,7 +513124,8 @@
         "6716275",
         "6716281",
         "6716282",
-        "6716288"
+        "6716288",
+        "6716289"
       ]
     },
     "blind": {
