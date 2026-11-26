@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T17:44:08+00:00",
+  "updatedAt": "2026-11-26T17:46:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -567662,6 +567662,26 @@
       "firstSeenAt": "2026-11-26T17:44:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 124675,
+      "source": "dc",
+      "externalId": "cmt-11049478",
+      "title": "저기 그래서 어느대학가셨음? 진심 궁금해서",
+      "excerpt": "누나 많은 막내 아들은 귀하고 편하게 자랐을 거다?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "118.221",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6718736&page=1#cmt_11049478",
+      "postedLabel": "11.27 02:45:28",
+      "postedAt": "2026-11-27T02:45:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T17:46:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -567773,7 +567793,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T02:42:50+09:00"
+      "slowAt": "2026-11-27T02:45:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -589299,7 +589319,8 @@
         "6718716",
         "6718720",
         "6718723",
-        "6718724"
+        "6718724",
+        "6718736"
       ]
     },
     "blind": {
