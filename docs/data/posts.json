@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:40:04+00:00",
+  "updatedAt": "2026-11-26T06:41:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -514973,6 +514973,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:40:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121966,
+      "source": "qoo",
+      "externalId": "cmt-4418676705",
+      "title": "나 지금 보는중인데 이글 쓰러 들어옴 개노잼이다 진짜",
+      "excerpt": "이번 기수는 점점 노잼되다가 지난주부턴 안봐도 내용 이해 안될건 없는 느낌",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418604750#4418676705",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T14:40:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:41:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121967,
+      "source": "qoo",
+      "externalId": "cmt-4418677105",
+      "title": "지지부진 ㄹㅇ...... 진전이 없는데 재미가 있을리가 ㅠㅠ",
+      "excerpt": "이번 기수는 점점 노잼되다가 지난주부턴 안봐도 내용 이해 안될건 없는 느낌",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418604750#4418677105",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T14:40:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:41:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121968,
+      "source": "dc",
+      "externalId": "6716781",
+      "title": "알파남",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716781&page=1",
+      "postedLabel": "15:40",
+      "postedAt": "2026-11-26T15:40:22+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:41:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -515157,7 +515216,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T15:37:42+09:00"
+      "slowAt": "2026-11-26T15:40:53+09:00"
     },
     "dc": {
       "doneIds": [
