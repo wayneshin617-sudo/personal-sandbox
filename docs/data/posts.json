@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T00:55:40+00:00",
+  "updatedAt": "2026-11-26T00:56:38+00:00",
   "posts": [
     {
       "id": 95749,
@@ -475842,6 +475842,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T00:55:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 119968,
+      "source": "dc",
+      "externalId": "cmt-11047176",
+      "title": "주름도 확실히 빨리생기는듯",
+      "excerpt": "확실히 술좋아하는사람들이 살도 잘찌고 노화가 빨라",
+      "author": "헉흑혹",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715983&page=1#cmt_11047176",
+      "postedLabel": "11.26 09:55:35",
+      "postedAt": "2026-11-26T09:55:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:56:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 119969,
+      "source": "qoo",
+      "externalId": "4418411289",
+      "title": "데프콘이 광수한테 일침하는거 웃기네ㅋㅋ",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418411289",
+      "postedLabel": "09:56",
+      "postedAt": "2026-11-26T09:56:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:56:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 119970,
+      "source": "dc",
+      "externalId": "cmt-11047177",
+      "title": "30대 중후반 오면 술담배 안하고 운동만 한 애들이랑 격차 오진다 특히 여자들",
+      "excerpt": "확실히 술좋아하는사람들이 살도 잘찌고 노화가 빨라",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6715983&page=1#cmt_11047177",
+      "postedLabel": "11.26 09:56:11",
+      "postedAt": "2026-11-26T09:56:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T00:56:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -496869,7 +496928,8 @@
         "6715967",
         "6715969",
         "6715970",
-        "6715973"
+        "6715973",
+        "6715983"
       ]
     },
     "blind": {
@@ -511845,7 +511905,8 @@
         "4418322940",
         "4418349151",
         "4418398143",
-        "4418401130"
+        "4418401130",
+        "4418411289"
       ]
     },
     "keep": "v2",
