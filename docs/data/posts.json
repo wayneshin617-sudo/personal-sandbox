@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:32:24+00:00",
+  "updatedAt": "2026-11-26T13:33:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -550210,6 +550210,84 @@
       "firstSeenAt": "2026-11-26T13:32:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123773,
+      "source": "dc",
+      "externalId": "cmt-11049059",
+      "title": "내놔 ㅋㅋㅋ 1화부터 기다렸음 영호 현숙 단",
+      "excerpt": "현숙영호 미방 내놔!!!!!!!! ㅠㅠㅠ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717682&page=3#cmt_11049059",
+      "postedLabel": "11.26 21:35:51",
+      "postedAt": "2026-11-26T21:35:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:33:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123774,
+      "source": "dc",
+      "externalId": "cmt-11049075",
+      "title": "노잼",
+      "excerpt": "현숙영호 미방 내놔!!!!!!!! ㅠㅠㅠ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717682&page=3#cmt_11049075",
+      "postedLabel": "11.26 21:44:05",
+      "postedAt": "2026-11-26T21:44:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:33:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123775,
+      "source": "dc",
+      "externalId": "6717882",
+      "title": "영호야 왜 출연전에 브이로그 비공개 처리했노?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717882&page=1",
+      "postedLabel": "22:32",
+      "postedAt": "2026-11-26T22:32:42+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:33:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123776,
+      "source": "dc",
+      "externalId": "6717884",
+      "title": "시발 존나 막대하네 진짜 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717884&page=1",
+      "postedLabel": "22:33",
+      "postedAt": "2026-11-26T22:33:01+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T13:33:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -550394,7 +550472,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T22:30:05+09:00"
+      "slowAt": "2026-11-26T22:33:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -571736,6 +571814,7 @@
         "6717665",
         "6717673",
         "6717681",
+        "6717682",
         "6717691",
         "6717692",
         "6717702",
