@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:12:46+00:00",
+  "updatedAt": "2026-11-26T06:13:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -512054,6 +512054,104 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:12:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121817,
+      "source": "dc",
+      "externalId": "cmt-11047901",
+      "title": "가늘가늘이 뭐야 제발 아",
+      "excerpt": "옥순은 왜케 힘이 없냐",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "138.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716456&page=5#cmt_11047901",
+      "postedLabel": "11.26 13:15:55",
+      "postedAt": "2026-11-26T13:15:55+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:13:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121818,
+      "source": "dc",
+      "externalId": "cmt-11047940",
+      "title": "가늘가늘하다 형용사 몸매가 굵지 않고 꽤 가느다랗거나 좁다 - dc App",
+      "excerpt": "옥순은 왜케 힘이 없냐",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716456&page=5#cmt_11047940",
+      "postedLabel": "11.26 13:24:47",
+      "postedAt": "2026-11-26T13:24:47+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:13:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121819,
+      "source": "dc",
+      "externalId": "cmt-11048321",
+      "title": "그치 ㅋㅋㅋ - dc App",
+      "excerpt": "그니까 자기가 해야할일을 남한테 시켜서 이루려는애들",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716722&page=1#cmt_11048321",
+      "postedLabel": "11.26 15:12:45",
+      "postedAt": "2026-11-26T15:12:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:13:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121820,
+      "source": "dc",
+      "externalId": "6716724",
+      "title": "표정 왜이래?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "124.54",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716724&page=1",
+      "postedLabel": "15:12",
+      "postedAt": "2026-11-26T15:12:50+09:00",
+      "views": 19,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:13:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121821,
+      "source": "dc",
+      "externalId": "6716725",
+      "title": "옥순은 왜 영호랑 안만나는거임??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "49.168",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716725&page=1",
+      "postedLabel": "15:13",
+      "postedAt": "2026-11-26T15:13:28+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:13:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -512238,7 +512336,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T15:10:31+09:00"
+      "slowAt": "2026-11-26T15:13:31+09:00"
     },
     "dc": {
       "doneIds": [
@@ -533274,6 +533372,7 @@
         "6716450",
         "6716452",
         "6716453",
+        "6716456",
         "6716458",
         "6716459",
         "6716460",
@@ -533363,7 +533462,8 @@
         "6716716",
         "6716718",
         "6716719",
-        "6716720"
+        "6716720",
+        "6716722"
       ]
     },
     "blind": {
