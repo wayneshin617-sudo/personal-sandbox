@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:03:25+00:00",
+  "updatedAt": "2026-11-26T01:04:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -476484,6 +476484,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T01:03:25+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120001,
+      "source": "dc",
+      "externalId": "6716001",
+      "title": "원래 못생긴 여자가 최하위야 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716001&page=1",
+      "postedLabel": "10:03",
+      "postedAt": "2026-11-26T10:03:17+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:04:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120002,
+      "source": "dc",
+      "externalId": "6716002",
+      "title": "영호도 자기랑 반대되는 활달하고 텐션있는 사람 좋아할거 같은데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "169.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716002&page=1",
+      "postedLabel": "10:03",
+      "postedAt": "2026-11-26T10:03:29+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:04:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120003,
+      "source": "dc",
+      "externalId": "6716003",
+      "title": "광수는 단순해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.148",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716003&page=1",
+      "postedLabel": "10:03",
+      "postedAt": "2026-11-26T10:03:58+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:04:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120004,
+      "source": "blind",
+      "externalId": "cmt-462701748",
+      "title": "일단 난 그병원 안감",
+      "excerpt": "재방송 보는데",
+      "author": "l********",
+      "company": "국가철도공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%AC%EB%B0%A9%EC%86%A1-%EB%B3%B4%EB%8A%94%EB%8D%B0-b3mexaeu#462701748",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T10:04:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:04:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -476668,7 +476745,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T10:01:06+09:00"
+      "slowAt": "2026-11-26T10:04:06+09:00"
     },
     "dc": {
       "doneIds": [
