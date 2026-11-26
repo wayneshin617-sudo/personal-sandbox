@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T23:11:56+00:00",
+  "updatedAt": "2026-11-26T23:16:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -573335,6 +573335,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T23:11:56+00:00",
       "isSeed": false
+    },
+    {
+      "id": 124970,
+      "source": "dc",
+      "externalId": "cmt-11049968",
+      "title": "순수한 '사랑'이라는 감정으로 이성을 만나는건 한참 지났지...",
+      "excerpt": "40대 남자는 몇살까지 만날 수 있냐",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719008&page=1#cmt_11049968",
+      "postedLabel": "11.27 07:38:05",
+      "postedAt": "2026-11-27T07:38:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:16:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124971,
+      "source": "dc",
+      "externalId": "cmt-11049981",
+      "title": "설령 의도가 없었다고해도, ㅇㅅ이가 현재 온라인에서 어떤 별명으로 불리우고 있는지 모르진 않을거면서 저런 이모티콘을 사용한다는 자체도 노답인거지.",
+      "excerpt": "영호는 리스크때문에 수동공격적으로 행동하는거야.",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719019&page=1#cmt_11049981",
+      "postedLabel": "11.27 08:14:45",
+      "postedAt": "2026-11-27T08:14:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:16:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 124972,
+      "source": "dc",
+      "externalId": "cmt-11049982",
+      "title": "뭐가됐든 노답임",
+      "excerpt": "영호는 리스크때문에 수동공격적으로 행동하는거야.",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719019&page=1#cmt_11049982",
+      "postedLabel": "11.27 08:15:03",
+      "postedAt": "2026-11-27T08:15:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T23:16:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -573519,7 +573579,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T08:12:38+09:00"
+      "slowAt": "2026-11-27T08:15:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -594989,6 +595049,7 @@
         "6719002",
         "6719005",
         "6719006",
+        "6719008",
         "6719009",
         "6719011",
         "6719019"
