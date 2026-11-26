@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T04:30:51+00:00",
+  "updatedAt": "2026-11-26T04:31:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -501820,6 +501820,63 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T04:30:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121294,
+      "source": "dc",
+      "externalId": "6716501",
+      "title": "영수는 금사빠인 게 존나 짜침 포인트임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716501&page=1",
+      "postedLabel": "13:31",
+      "postedAt": "2026-11-26T13:31:00+09:00",
+      "views": 6,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:31:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121295,
+      "source": "qoo",
+      "externalId": "4418604750",
+      "title": "이번 기수는 점점 노잼되다가 지난주부턴 안봐도 내용 이해 안될건 없는 느낌",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4418604750",
+      "postedLabel": "13:31",
+      "postedAt": "2026-11-26T13:31:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:31:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 121296,
+      "source": "dc",
+      "externalId": "6716502",
+      "title": "영호가 영어권국가도 아니고 뭔메리트가 있는데 ?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716502&page=1",
+      "postedLabel": "13:31",
+      "postedAt": "2026-11-26T13:31:07+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T04:31:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -502004,7 +502061,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T13:28:32+09:00"
+      "slowAt": "2026-11-26T13:31:32+09:00"
     },
     "dc": {
       "doneIds": [
@@ -538103,7 +538160,8 @@
         "4418506379",
         "4418519224",
         "4418521995",
-        "4418595742"
+        "4418595742",
+        "4418604750"
       ]
     },
     "keep": "v2",
