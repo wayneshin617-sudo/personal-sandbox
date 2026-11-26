@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T11:52:30+00:00",
+  "updatedAt": "2026-11-26T11:54:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -541781,6 +541781,103 @@
       "firstSeenAt": "2026-11-26T11:52:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 123339,
+      "source": "blind",
+      "externalId": "cmt-462771741",
+      "title": "내말이 예쁜데 얼굴은 왜저리 커튼쳐놓는거야,,,",
+      "excerpt": "옥순 왜이렇게 웅얼웅얼거리냐",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C-%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9B%85%EC%96%BC%EC%9B%85%EC%96%BC%EA%B1%B0%EB%A6%AC%EB%83%90-7u0xtz7a#462771741",
+      "postedLabel": "48분",
+      "postedAt": "2026-11-26T20:06:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:54:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 123340,
+      "source": "dc",
+      "externalId": "6717568",
+      "title": "어린시절 사진 한장 공개 못하는게 진짜 흙 아닐까요",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717568&page=1",
+      "postedLabel": "20:53",
+      "postedAt": "2026-11-26T20:53:14+09:00",
+      "views": 12,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:54:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123341,
+      "source": "dc",
+      "externalId": "6717571",
+      "title": "34순자는 진짜네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.106",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717571&page=1",
+      "postedLabel": "20:53",
+      "postedAt": "2026-11-26T20:53:33+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:54:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123342,
+      "source": "dc",
+      "externalId": "6717573",
+      "title": "돼지년 지사진에 또 긁혔네 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717573&page=1",
+      "postedLabel": "20:53",
+      "postedAt": "2026-11-26T20:53:44+09:00",
+      "views": 7,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:54:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123343,
+      "source": "dc",
+      "externalId": "cmt-11049014",
+      "title": "남은 남자도 잇잖아",
+      "excerpt": "그냥 영호 옆에 있기 vs 광수한테 애교부리기",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717566&page=1#cmt_11049014",
+      "postedLabel": "11.26 20:53:50",
+      "postedAt": "2026-11-26T20:53:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T11:54:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -541892,7 +541989,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T20:51:13+09:00"
+      "slowAt": "2026-11-26T20:54:13+09:00"
     },
     "ig": {
       "doneIds": [
@@ -563286,7 +563383,8 @@
         "6717523",
         "6717525",
         "6717538",
-        "6717546"
+        "6717546",
+        "6717566"
       ]
     },
     "blind": {
