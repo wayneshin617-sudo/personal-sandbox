@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T07:57:57+00:00",
+  "updatedAt": "2026-11-26T07:58:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -521923,6 +521923,45 @@
       "firstSeenAt": "2026-11-26T07:57:57+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 122322,
+      "source": "dc",
+      "externalId": "6716961",
+      "title": "메타인지는 영자가 제일 높음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716961&page=1",
+      "postedLabel": "16:57",
+      "postedAt": "2026-11-26T16:57:38+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:58:57+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122323,
+      "source": "dc",
+      "externalId": "cmt-11048604",
+      "title": "ㅇㅇ 안함 그런 본성이랑 살면 상대방이 정신병 걸려 먼저 뒤짐",
+      "excerpt": "내 약혼녀가 존예녀인데 태운거 알면 결혼안함?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716959&page=1#cmt_11048604",
+      "postedLabel": "11.26 16:57:45",
+      "postedAt": "2026-11-26T16:57:45+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T07:58:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -522034,7 +522073,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T16:55:39+09:00"
+      "slowAt": "2026-11-26T16:58:39+09:00"
     },
     "ig": {
       "doneIds": [
@@ -543325,7 +543364,8 @@
         "6716952",
         "6716954",
         "6716955",
-        "6716958"
+        "6716958",
+        "6716959"
       ]
     },
     "blind": {
