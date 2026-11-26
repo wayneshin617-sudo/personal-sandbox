@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:47:24+00:00",
+  "updatedAt": "2026-11-26T01:48:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -480563,6 +480563,104 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T01:47:24+00:00",
       "isSeed": false
+    },
+    {
+      "id": 120210,
+      "source": "qoo",
+      "externalId": "cmt-4418404829",
+      "title": "나도 뒤로갈수록 노잼이더라고 먼가 아직도 잘 모르겟어요 고민중이에요 계속 이러니깐",
+      "excerpt": "어제꺼 아직 안봤는데 잼써써?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4418349151#4418404829",
+      "postedLabel": "",
+      "postedAt": "2026-11-26T09:47:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:48:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120211,
+      "source": "blind",
+      "externalId": "cmt-462699509",
+      "title": "심진화 느낌",
+      "excerpt": "근데 역대 여출중에서",
+      "author": "|*******",
+      "company": "LG유플러스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%97%AD%EB%8C%80-%EC%97%AC%EC%B6%9C%EC%A4%91%EC%97%90%EC%84%9C-vnvdogie#462699509",
+      "postedLabel": "1시간",
+      "postedAt": "2026-11-26T09:47:58+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:48:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120212,
+      "source": "dc",
+      "externalId": "6716083",
+      "title": "근데 영숙은 정체가 뭔지 존나 모르겠더라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "61.96",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716083&page=1",
+      "postedLabel": "10:47",
+      "postedAt": "2026-11-26T10:47:08+09:00",
+      "views": 14,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:48:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120213,
+      "source": "dc",
+      "externalId": "cmt-11047336",
+      "title": "본인도 J 성향이면 가능. P인 사람들은 절대 금지",
+      "excerpt": "Isfj 여자만나라",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "222.100",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716082&page=1#cmt_11047336",
+      "postedLabel": "11.26 10:47:46",
+      "postedAt": "2026-11-26T10:47:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:48:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120214,
+      "source": "dc",
+      "externalId": "6716085",
+      "title": "자기가 봤을때 방송분량 없다고생각해서 저러는거임 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.130",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716085&page=1",
+      "postedLabel": "10:48",
+      "postedAt": "2026-11-26T10:48:04+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:48:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -480674,7 +480772,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T10:45:06+09:00"
+      "slowAt": "2026-11-26T10:48:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -501620,7 +501718,8 @@
         "6716061",
         "6716064",
         "6716074",
-        "6716075"
+        "6716075",
+        "6716082"
       ]
     },
     "blind": {
