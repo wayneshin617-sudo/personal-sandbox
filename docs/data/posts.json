@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T09:11:07+00:00",
+  "updatedAt": "2026-11-26T09:12:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -528217,6 +528217,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T09:11:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 122645,
+      "source": "dc",
+      "externalId": "6717127",
+      "title": "영숙 불가리 시계 ㅎㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717127&page=1",
+      "postedLabel": "18:11",
+      "postedAt": "2026-11-26T18:11:40+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:12:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 122646,
+      "source": "dc",
+      "externalId": "cmt-11048752",
+      "title": "벼엉신 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "하.. 불송치 떴다.",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.167",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6717125&page=1#cmt_11048752",
+      "postedLabel": "11.26 18:11:40",
+      "postedAt": "2026-11-26T18:11:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:12:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122647,
+      "source": "blind",
+      "externalId": "cmt-462758263",
+      "title": "야쿠자들도 사업에 지장 생겨서 안하는 추세라고함",
+      "excerpt": "근데 전문직이나 상위티어 대겹 다니는 사람중에 문신한 사람 본적 있어????",
+      "author": "H*****",
+      "company": "NEOPLE",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%84%EB%AC%B8%EC%A7%81%EC%9D%B4%EB%82%98-%EC%83%81%EC%9C%84%ED%8B%B0%EC%96%B4-%EB%8C%80%EA%B2%B9-%EB%8B%A4%EB%8B%88%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%A4%91%EC%97%90-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%B3%B8%EC%A0%81-%EC%9E%88%EC%96%B4-fs2jgupr#462758263",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T18:11:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:12:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 122648,
+      "source": "blind",
+      "externalId": "cmt-462758227",
+      "title": "주변에 아예 없어. 솔직히 문신충이지 개인적으로 비호",
+      "excerpt": "근데 전문직이나 상위티어 대겹 다니는 사람중에 문신한 사람 본적 있어????",
+      "author": "o****",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%84%EB%AC%B8%EC%A7%81%EC%9D%B4%EB%82%98-%EC%83%81%EC%9C%84%ED%8B%B0%EC%96%B4-%EB%8C%80%EA%B2%B9-%EB%8B%A4%EB%8B%88%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%A4%91%EC%97%90-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%B3%B8%EC%A0%81-%EC%9E%88%EC%96%B4-fs2jgupr#462758227",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T18:11:53+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T09:12:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -528401,7 +528480,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-26T18:08:52+09:00"
+      "slowAt": "2026-11-26T18:11:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -549657,7 +549736,8 @@
         "6717105",
         "6717108",
         "6717112",
-        "6717123"
+        "6717123",
+        "6717125"
       ]
     },
     "blind": {
@@ -550479,6 +550559,7 @@
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%9D%BC%EB%B0%98%EC%9D%B8%EA%B8%B0%EC%A4%80-%EC%98%81%EC%B2%A0-%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8A%94%EB%8D%B0-nrlncejq",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%9E%98%EC%83%9D%EA%B8%B0%EA%B1%B0%EB%82%98-%EC%98%88%EC%81%9C%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%9B%90%EB%9E%98-%EC%9E%AC%EB%AF%B8%EA%B0%80%EC%97%86%EC%96%B4-3kmvzr4r",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%80%EC%A0%95%EB%8F%84%EB%A9%B4-%EB%8C%80%EB%B3%B8%EC%95%84%EB%8B%88%EC%95%BC-6nqnad8e",
+        "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%84%EB%AC%B8%EC%A7%81%EC%9D%B4%EB%82%98-%EC%83%81%EC%9C%84%ED%8B%B0%EC%96%B4-%EB%8C%80%EA%B2%B9-%EB%8B%A4%EB%8B%88%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%A4%91%EC%97%90-%EB%AC%B8%EC%8B%A0%ED%95%9C-%EC%82%AC%EB%9E%8C-%EB%B3%B8%EC%A0%81-%EC%9E%88%EC%96%B4-fs2jgupr",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%95%EC%88%99%EC%95%84-%EA%B7%B8%EA%B1%B8-%EC%84%A0%ED%83%9D%ED%95%98%EA%B3%A0%EB%82%98%EC%84%9C-%EA%B9%A8%EB%8B%AB%EB%8A%94-%EA%B1%B0%EB%8A%94-gy7u8sp3",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%B4-%EC%98%88%EC%81%98%EC%A7%80%EC%95%8A%EB%82%98-0pin6gds",
         "/kr/post/%EA%B7%BC%EB%8D%B0-%EC%A0%95%EC%88%99%EC%9D%B4-%EC%B6%A4-%EC%9E%98%EC%B6%94%EB%8A%94%EA%B1%B0%EC%95%BC-ej1i3suy",
