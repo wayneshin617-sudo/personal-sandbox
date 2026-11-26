@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T01:58:24+00:00",
+  "updatedAt": "2026-11-26T01:59:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -481729,6 +481729,85 @@
       "firstSeenAt": "2026-11-26T01:58:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 120270,
+      "source": "dc",
+      "externalId": "cmt-11047372",
+      "title": "여기 광수 상주함? 꾸준히 올라오네",
+      "excerpt": "근데 광수 살만 좀 삐면 잘생긴외모 아님???",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "1.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716112&page=1#cmt_11047372",
+      "postedLabel": "11.26 10:58:49",
+      "postedAt": "2026-11-26T10:58:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:59:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120271,
+      "source": "dc",
+      "externalId": "6716114",
+      "title": "영자 말투 백퍼 교포 맞는데 저런 애들 많이봐서 알어",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716114&page=1",
+      "postedLabel": "10:58",
+      "postedAt": "2026-11-26T10:58:55+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:59:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 120272,
+      "source": "blind",
+      "externalId": "cmt-462708450",
+      "title": "아.. 맞아. 시골 공무원 특유의 바이브. ㅋㅋ",
+      "excerpt": "난 영철이 좋다",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A2%8B%EB%8B%A4-6z5dhpwf#462708450",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T10:59:05+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:59:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 120273,
+      "source": "blind",
+      "externalId": "cmt-462708376",
+      "title": "시골 공무원 특유의 바이브 나와서 좋더라 ㅋㅋ 입만 좀만 다물고 있었어도 좋았을텐데",
+      "excerpt": "난 영철이 좋다",
+      "author": "k****",
+      "company": "아주뉴스코퍼레이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%A2%8B%EB%8B%A4-6z5dhpwf#462708376",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T10:59:06+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T01:59:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -502791,7 +502870,8 @@
         "6716082",
         "6716086",
         "6716091",
-        "6716105"
+        "6716105",
+        "6716112"
       ]
     },
     "blind": {
