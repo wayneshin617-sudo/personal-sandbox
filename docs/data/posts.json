@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T06:02:47+00:00",
+  "updatedAt": "2026-11-26T06:03:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -511131,6 +511131,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-26T06:02:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 121770,
+      "source": "dc",
+      "externalId": "cmt-11048285",
+      "title": "언급도하지마",
+      "excerpt": "갤 31정병 없는것만으로도 좋다구",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716705&page=1#cmt_11048285",
+      "postedLabel": "11.26 15:02:42",
+      "postedAt": "2026-11-26T15:02:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:03:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 121771,
+      "source": "dc",
+      "externalId": "6716707",
+      "title": "순자앞에선 생쥐 정숙앞에선 여포",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6716707&page=1",
+      "postedLabel": "15:03",
+      "postedAt": "2026-11-26T15:03:16+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-26T06:03:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -511242,7 +511281,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-26T15:00:31+09:00"
+      "slowAt": "2026-11-26T15:03:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -532428,7 +532467,8 @@
         "6716688",
         "6716689",
         "6716692",
-        "6716696"
+        "6716696",
+        "6716705"
       ]
     },
     "blind": {
