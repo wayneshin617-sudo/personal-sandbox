@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-26T13:09:22+00:00",
+  "updatedAt": "2026-11-26T13:10:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -548323,6 +548323,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-26T13:09:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 123676,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%95%A0-%EB%91%98%EC%9D%80-%EB%82%B3%EC%95%84%EC%95%BC%EA%B2%A0%EB%8B%A4-zczl08ae",
+      "title": "애 둘은 낳아야겠다",
+      "excerpt": "늘 하나만 낳아서 잘키우자 생각햇는데 하라버지가 나 혼자예요 하는데 마음 찡하네",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%A0-%EB%91%98%EC%9D%80-%EB%82%B3%EC%95%84%EC%95%BC%EA%B2%A0%EB%8B%A4-zczl08ae",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-26T22:10:05+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-26T13:10:23+00:00",
       "isSeed": false
     }
   ],
