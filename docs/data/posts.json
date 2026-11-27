@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:50:32+00:00",
+  "updatedAt": "2026-11-27T11:51:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -613044,6 +613044,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:50:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127003,
+      "source": "dc",
+      "externalId": "cmt-11050971",
+      "title": "걍 배불러서 그런거 같은데",
+      "excerpt": "현숙의 이 표정이 너무 불안해",
+      "author": "나갤러3",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719621&page=7#cmt_11050971",
+      "postedLabel": "11.27 19:05:18",
+      "postedAt": "2026-11-27T19:05:18+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:51:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127004,
+      "source": "dc",
+      "externalId": "cmt-11051202",
+      "title": "가독성 진짜 개구리네 조현병 있냐",
+      "excerpt": "34기 영호 순자 최커 답 나옴? 1:1 데이트에서 영호가 던진 질문 수준 ㄷㄷ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.221",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720132&page=1#cmt_11051202",
+      "postedLabel": "11.27 20:50:44",
+      "postedAt": "2026-11-27T20:50:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:51:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127005,
+      "source": "dc",
+      "externalId": "6720135",
+      "title": "마흔살 파이어족인데 그냥 이렇게 평생 살다가 가려고 생각중",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720135&page=1",
+      "postedLabel": "20:50",
+      "postedAt": "2026-11-27T20:50:48+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:51:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -613155,7 +613214,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T20:47:53+09:00"
+      "slowAt": "2026-11-27T20:51:14+09:00"
     },
     "ig": {
       "doneIds": [
