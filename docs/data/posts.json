@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:49:32+00:00",
+  "updatedAt": "2026-11-27T11:50:32+00:00",
   "posts": [
     {
       "id": 95749,
@@ -613005,6 +613005,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:49:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127001,
+      "source": "qoo",
+      "externalId": "cmt-4419909854",
+      "title": "@4 방도 아니고 숙소 들어가는데 인기척 안 냈다고 욕먹어야 하다니",
+      "excerpt": "영식이한테 디엠하고 싶다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419884613#4419909854",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T19:49:37+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:50:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127002,
+      "source": "dc",
+      "externalId": "6720134",
+      "title": "영호 표정이 현숙을 좋아함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720134&page=1",
+      "postedLabel": "20:49",
+      "postedAt": "2026-11-27T20:49:32+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:50:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -613189,7 +613228,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T20:46:49+09:00"
+      "slowAt": "2026-11-27T20:50:15+09:00"
     },
     "dc": {
       "doneIds": [
