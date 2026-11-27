@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:42:08+00:00",
+  "updatedAt": "2026-11-27T14:43:11+00:00",
   "posts": [
     {
       "id": 95749,
@@ -624671,6 +624671,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T14:42:08+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127595,
+      "source": "dc",
+      "externalId": "cmt-11051522",
+      "title": "ㄹㅇ",
+      "excerpt": "첫등방에 스포 요즘은 안해??",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720295&page=2#cmt_11051522",
+      "postedLabel": "11.27 22:57:34",
+      "postedAt": "2026-11-27T22:57:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:43:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127596,
+      "source": "qoo",
+      "externalId": "4420079405",
+      "title": "영호처럼 자기맘 숨기는 사람 매력떨어져",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4420079405",
+      "postedLabel": "23:42",
+      "postedAt": "2026-11-27T23:42:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:43:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127597,
+      "source": "dc",
+      "externalId": "6720366",
+      "title": "문닫는 가게 쳐들어가서 고무다라 갖고 나오노",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720366&page=1",
+      "postedLabel": "23:42",
+      "postedAt": "2026-11-27T23:42:28+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:43:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -624782,7 +624840,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T23:39:43+09:00"
+      "slowAt": "2026-11-27T23:42:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -646725,6 +646783,7 @@
         "6720288",
         "6720290",
         "6720293",
+        "6720295",
         "6720299",
         "6720302",
         "6720307",
@@ -662221,7 +662280,8 @@
         "4420014303",
         "4420017874",
         "4420022249",
-        "4420046458"
+        "4420046458",
+        "4420079405"
       ]
     },
     "keep": "v2",
