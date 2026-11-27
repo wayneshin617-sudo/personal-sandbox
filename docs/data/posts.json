@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:47:31+00:00",
+  "updatedAt": "2026-11-27T12:48:30+00:00",
   "posts": [
     {
       "id": 95749,
@@ -616814,6 +616814,85 @@
       "firstSeenAt": "2026-11-27T12:47:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127195,
+      "source": "dc",
+      "externalId": "cmt-11051301",
+      "title": "사실에 긁히는 순천지 ㅠ",
+      "excerpt": "순자 페라가모광고보다 이사진이 더 좋네뭘",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719997&page=4#cmt_11051301",
+      "postedLabel": "11.27 21:27:10",
+      "postedAt": "2026-11-27T21:27:10+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:48:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127196,
+      "source": "dc",
+      "externalId": "6720217",
+      "title": "결혼목적인사람들 무료미팅",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720217&page=1",
+      "postedLabel": "21:47",
+      "postedAt": "2026-11-27T21:47:19+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:48:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127197,
+      "source": "dc",
+      "externalId": "cmt-11051375",
+      "title": "ㅇㅇ",
+      "excerpt": "현숙 영호 짤인거 삼각때문임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720215&page=1#cmt_11051375",
+      "postedLabel": "11.27 21:47:19",
+      "postedAt": "2026-11-27T21:47:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:48:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127198,
+      "source": "blind",
+      "externalId": "cmt-462938377",
+      "title": "전문대 졸업한건 문제가 없는데 진짜 태도가 병이다",
+      "excerpt": "상철",
+      "author": "p***** 작성자",
+      "company": "한국아이큐비아",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-egpejrjr#462938377",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T21:48:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:48:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -616925,7 +617004,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T21:45:14+09:00"
+      "slowAt": "2026-11-27T21:48:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -638812,7 +638891,8 @@
         "6720204",
         "6720211",
         "6720212",
-        "6720214"
+        "6720214",
+        "6720215"
       ]
     },
     "blind": {
