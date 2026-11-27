@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:40:46+00:00",
+  "updatedAt": "2026-11-27T00:41:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -575943,6 +575943,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T00:40:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125103,
+      "source": "dc",
+      "externalId": "cmt-11050094",
+      "title": "ㄹㅌ 안경 때문에 그랬겠지",
+      "excerpt": "31경수는 더 좋은 여자 만날수있음",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719091&page=1#cmt_11050094",
+      "postedLabel": "11.27 09:40:29",
+      "postedAt": "2026-11-27T09:40:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:41:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -597627,7 +597647,8 @@
         "6719070",
         "6719072",
         "6719078",
-        "6719087"
+        "6719087",
+        "6719091"
       ]
     },
     "blind": {
