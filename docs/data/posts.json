@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T18:29:00+00:00",
+  "updatedAt": "2026-11-27T18:33:00+00:00",
   "posts": [
     {
       "id": 95749,
@@ -632449,6 +632449,26 @@
       "firstSeenAt": "2026-11-27T18:29:00+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127990,
+      "source": "dc",
+      "externalId": "cmt-11052103",
+      "title": "뻘에 고립된 시간 빌게이츠 독거노인이라 저지랄이라도 해서 외로움 달래는듯",
+      "excerpt": "말예쁘게 하라고 개지랄떨더니",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720501&page=1#cmt_11052103",
+      "postedLabel": "11.28 03:32:00",
+      "postedAt": "2026-11-28T03:32:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T18:33:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -632633,7 +632653,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T03:29:43+09:00"
+      "slowAt": "2026-11-28T03:32:43+09:00"
     },
     "dc": {
       "doneIds": [
@@ -654597,7 +654617,8 @@
         "6720487",
         "6720492",
         "6720497",
-        "6720498"
+        "6720498",
+        "6720501"
       ]
     },
     "blind": {
