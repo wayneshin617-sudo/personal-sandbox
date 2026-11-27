@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:31:29+00:00",
+  "updatedAt": "2026-11-27T08:32:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -598958,6 +598958,45 @@
       "firstSeenAt": "2026-11-27T08:31:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126279,
+      "source": "qoo",
+      "externalId": "cmt-4419747229",
+      "title": "난앙대",
+      "excerpt": "처음에 이성적 끌림이 없었어도 만나면서 생길수 있을까?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419669538#4419747229",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T16:31:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:32:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126280,
+      "source": "dc",
+      "externalId": "6719693",
+      "title": "취미 발레 1회가 2만원이네 북토크 보다 더 싸네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719693&page=1",
+      "postedLabel": "17:31",
+      "postedAt": "2026-11-27T17:31:34+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:32:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -599069,7 +599108,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T17:28:56+09:00"
+      "slowAt": "2026-11-27T17:32:12+09:00"
     },
     "ig": {
       "doneIds": [
