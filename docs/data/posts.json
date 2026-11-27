@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:37:23+00:00",
+  "updatedAt": "2026-11-27T11:38:30+00:00",
   "posts": [
     {
       "id": 95749,
@@ -611967,6 +611967,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:37:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126948,
+      "source": "dc",
+      "externalId": "cmt-11051057",
+      "title": "열등감 - dc App",
+      "excerpt": "영철이가 존잘인건 맞아",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719957&page=3#cmt_11051057",
+      "postedLabel": "11.27 19:40:57",
+      "postedAt": "2026-11-27T19:40:57+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:38:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126949,
+      "source": "dc",
+      "externalId": "6720110",
+      "title": "인스타에 자기가질문하고 답하는건 어떤정신병임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720110&page=1",
+      "postedLabel": "20:38",
+      "postedAt": "2026-11-27T20:38:09+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:38:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -612078,7 +612117,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T20:34:59+09:00"
+      "slowAt": "2026-11-27T20:38:11+09:00"
     },
     "ig": {
       "doneIds": [
