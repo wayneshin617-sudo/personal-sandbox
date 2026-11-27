@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T03:23:22+00:00",
+  "updatedAt": "2026-11-27T03:24:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -582915,6 +582915,64 @@
       "firstSeenAt": "2026-11-27T03:23:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125458,
+      "source": "qoo",
+      "externalId": "cmt-4419480379",
+      "title": "넷플 들어가더니 무리수를 두는데 노잼",
+      "excerpt": "이번에 슈데권은 거의 제작진픽인건데 너무 잘못 줬다고 생각",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419433167#4419480379",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T11:24:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:24:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125459,
+      "source": "dc",
+      "externalId": "6719249",
+      "title": "책껍데기만드는 사람이면 책껍데기 클럽을 해야지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719249&page=1",
+      "postedLabel": "12:23",
+      "postedAt": "2026-11-27T12:23:27+09:00",
+      "views": 7,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:24:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125460,
+      "source": "dc",
+      "externalId": "6719250",
+      "title": "정숙이 언니 인기 없는 이유 머임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719250&page=1",
+      "postedLabel": "12:23",
+      "postedAt": "2026-11-27T12:23:35+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:24:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -583026,7 +583084,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T12:21:00+09:00"
+      "slowAt": "2026-11-27T12:24:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -604650,7 +604708,8 @@
         "6719214",
         "6719216",
         "6719226",
-        "6719237"
+        "6719237",
+        "6719247"
       ]
     },
     "blind": {
