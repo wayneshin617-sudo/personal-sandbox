@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:17:58+00:00",
+  "updatedAt": "2026-11-27T13:18:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -618660,6 +618660,66 @@
       "firstSeenAt": "2026-11-27T13:17:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127289,
+      "source": "qoo",
+      "externalId": "cmt-4419973650",
+      "title": "현숙은 이쁘게 입고 얼쩡거리기가 최대의 플러팅이랬으니 저 정도면 최대치 맞는거 같아 ㅋㅋ",
+      "excerpt": "현숙이 영호한테 데이트신청할때 그 상황",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419973219#4419973650",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T21:18:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:18:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127290,
+      "source": "dc",
+      "externalId": "cmt-11051274",
+      "title": "보정으로 올린거같아",
+      "excerpt": "못생긴거 진짜ㅠㅠ입꼬리 올라간거 못보겠다ㅠㅠ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720174&page=2#cmt_11051274",
+      "postedLabel": "11.27 21:21:00",
+      "postedAt": "2026-11-27T21:21:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:18:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127291,
+      "source": "dc",
+      "externalId": "cmt-11051349",
+      "title": "왜케화났어 ㅋ 보정인거 알잖아.....",
+      "excerpt": "못생긴거 진짜ㅠㅠ입꼬리 올라간거 못보겠다ㅠㅠ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720174&page=2#cmt_11051349",
+      "postedLabel": "11.27 21:40:29",
+      "postedAt": "2026-11-27T21:40:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:18:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -618844,7 +618904,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T22:15:30+09:00"
+      "slowAt": "2026-11-27T22:18:41+09:00"
     },
     "dc": {
       "doneIds": [
@@ -640655,6 +640715,7 @@
         "6720169",
         "6720170",
         "6720172",
+        "6720174",
         "6720175",
         "6720176",
         "6720182",
