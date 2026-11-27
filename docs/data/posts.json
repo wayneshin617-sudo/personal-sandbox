@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T06:44:07+00:00",
+  "updatedAt": "2026-11-27T06:45:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -593762,6 +593762,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T06:44:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126012,
+      "source": "qoo",
+      "externalId": "cmt-4419652397",
+      "title": "그러네",
+      "excerpt": "34 영철 슈데 인터뷰한거 나만 별로였나ㅠㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419584521#4419652397",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T14:44:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:45:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126013,
+      "source": "blind",
+      "externalId": "cmt-462891396",
+      "title": "이게 맞지 현숙도 이쁘다기보단 무난 차분한 이미지뿐이지 영호도 그렇고 잘생 예쁨 느낌은 영철 옥순이 맞아",
+      "excerpt": "근데 솔직히 이번기수에 예쁜사람은 없지 않음??",
+      "author": "|*********",
+      "company": "티피",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%86%94%EC%A7%81%ED%9E%88-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98%EC%97%90-%EC%98%88%EC%81%9C%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%97%86%EC%A7%80-%EC%95%8A%EC%9D%8C-nwlcwram#462891396",
+      "postedLabel": "8분",
+      "postedAt": "2026-11-27T15:36:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:45:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126014,
+      "source": "dc",
+      "externalId": "cmt-11050610",
+      "title": "1. 자살추천 2.한강추천 - dc App",
+      "excerpt": "야 혹시 패션 쪽 관계자있냐? .gif",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.160",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719522&page=1#cmt_11050610",
+      "postedLabel": "11.27 15:44:23",
+      "postedAt": "2026-11-27T15:44:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:45:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -615571,7 +615631,8 @@
         "6719483",
         "6719487",
         "6719493",
-        "6719499"
+        "6719499",
+        "6719522"
       ]
     },
     "blind": {
