@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T03:43:28+00:00",
+  "updatedAt": "2026-11-27T03:44:33+00:00",
   "posts": [
     {
       "id": 95749,
@@ -584021,6 +584021,45 @@
       "firstSeenAt": "2026-11-27T03:43:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125514,
+      "source": "qoo",
+      "externalId": "cmt-4419499819",
+      "title": "@3 제작진은 이게 재밌다고 생각하나...? 이거 때문에 개노잼된건데",
+      "excerpt": "다음주 또 여자가 선택하네..;",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419450877#4419499819",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T11:43:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:44:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125515,
+      "source": "dc",
+      "externalId": "6719270",
+      "title": "피부 까만거 왜 좋아하나 모르겟음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719270&page=1",
+      "postedLabel": "12:43",
+      "postedAt": "2026-11-27T12:43:36+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:44:33+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -605761,7 +605800,8 @@
         "6719237",
         "6719247",
         "6719249",
-        "6719262"
+        "6719262",
+        "6719269"
       ]
     },
     "blind": {
