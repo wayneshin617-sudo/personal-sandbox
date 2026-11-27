@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:05:30+00:00",
+  "updatedAt": "2026-11-27T12:08:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -613689,6 +613689,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T12:05:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127036,
+      "source": "qoo",
+      "externalId": "cmt-4419922712",
+      "title": "@1 @2 이분 참 괜찮았는데 꺼드럭도 없고",
+      "excerpt": "하닉이 직장인사람은 나솔에 처음나오는거지?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419914343#4419922712",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T20:08:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:08:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127037,
+      "source": "dc",
+      "externalId": "cmt-11051118",
+      "title": "드가자ㅋ",
+      "excerpt": "폭렬 짭숙 2차전 시작함.. 인스타에 나옴 ㄷㄷ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720054&page=2#cmt_11051118",
+      "postedLabel": "11.27 20:10:51",
+      "postedAt": "2026-11-27T20:10:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:08:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127038,
+      "source": "dc",
+      "externalId": "6720155",
+      "title": "영호가 순자랑 밥먹을때 팔장끼고있잖아 저건 맘 없다는뜻",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720155&page=1",
+      "postedLabel": "21:07",
+      "postedAt": "2026-11-27T21:07:30+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:08:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -613873,7 +613932,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T21:05:14+09:00"
+      "slowAt": "2026-11-27T21:08:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -635634,6 +635693,7 @@
         "6720041",
         "6720052",
         "6720053",
+        "6720054",
         "6720056",
         "6720058",
         "6720061",
