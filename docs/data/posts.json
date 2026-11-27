@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T15:58:40+00:00",
+  "updatedAt": "2026-11-27T16:00:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -629003,6 +629003,86 @@
       "comments": 0,
       "firstSeenAt": "2026-11-27T15:58:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127815,
+      "source": "blind",
+      "externalId": "cmt-462964080",
+      "title": "지가 먼저 방어적으로 떠보고 원하는 대답이 안나오니까 부정적으로 해석을 하고... 해석만 부정적인게 아니고 .. 팩트를 왜곡하던데 ;; 순자가 언제 너한테 간다고 했냐 이시끼야",
+      "excerpt": "아니 상철 ㅈㄴ 자격지심있음???",
+      "author": "a******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EC%83%81%EC%B2%A0-%E3%85%88%E3%84%B4-%EC%9E%90%EA%B2%A9%EC%A7%80%EC%8B%AC%EC%9E%88%EC%9D%8C-ntq5qds6#462964080",
+      "postedLabel": "9분",
+      "postedAt": "2026-11-28T00:51:30+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:00:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127816,
+      "source": "blind",
+      "externalId": "cmt-462964901",
+      "title": "내말이 ㅋㅋㅋㅋㅋㅋㅋ 달면 삼키고 쓰면 주워담아서 흙바닥에굴리다가 아무랗게나던져버리네",
+      "excerpt": "아니 상철 ㅈㄴ 자격지심있음???",
+      "author": "k**** 작성자",
+      "company": "쿠쿠전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EC%83%81%EC%B2%A0-%E3%85%88%E3%84%B4-%EC%9E%90%EA%B2%A9%EC%A7%80%EC%8B%AC%EC%9E%88%EC%9D%8C-ntq5qds6#462964901",
+      "postedLabel": "2분",
+      "postedAt": "2026-11-28T00:58:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:00:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127817,
+      "source": "dc",
+      "externalId": "cmt-11051831",
+      "title": "오",
+      "excerpt": "잇몸성형이란걸 최근에 처음 알았음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720436&page=1#cmt_11051831",
+      "postedLabel": "11.28 00:59:53",
+      "postedAt": "2026-11-28T00:59:53+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:00:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127818,
+      "source": "blind",
+      "externalId": "cmt-462965052",
+      "title": "어차피 상철 순자는 안어울림 상철은 취미부자에 나돌아다니는거 좋아하던데 순자는 집순이이고 통제성향도있어서 혼자 나다니게 둘리가없음 너도 집에서 같이 있어라 할 스타일이라 맞지않음",
+      "excerpt": "아니 상철 ㅈㄴ 자격지심있음???",
+      "author": "k*******",
+      "company": "밀리언볼트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%95%84%EB%8B%88-%EC%83%81%EC%B2%A0-%E3%85%88%E3%84%B4-%EC%9E%90%EA%B2%A9%EC%A7%80%EC%8B%AC%EC%9E%88%EC%9D%8C-ntq5qds6#462965052",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T01:00:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:00:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -629187,7 +629267,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T00:57:17+09:00"
+      "slowAt": "2026-11-28T01:00:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -651108,7 +651188,8 @@
         "6720422",
         "6720423",
         "6720428",
-        "6720434"
+        "6720434",
+        "6720436"
       ]
     },
     "blind": {
