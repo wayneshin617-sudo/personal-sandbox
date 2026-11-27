@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:46:07+00:00",
+  "updatedAt": "2026-11-27T11:47:04+00:00",
   "posts": [
     {
       "id": 95749,
@@ -612472,6 +612472,124 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:46:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126974,
+      "source": "qoo",
+      "externalId": "cmt-4419907003",
+      "title": "둘이 다 잘맞는거같은데 둘중하나 제대로 당겨줄사람이 없음 서로 맴돌다 끝날꺼같아",
+      "excerpt": "영호 현숙 미방분",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419859537#4419907003",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T19:45:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:47:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126975,
+      "source": "dc",
+      "externalId": "cmt-11051073",
+      "title": "농식이도 값어치 떨어졌지 이제..",
+      "excerpt": "농식이 또 어그로 끄노",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719989&page=3#cmt_11051073",
+      "postedLabel": "11.27 19:53:14",
+      "postedAt": "2026-11-27T19:53:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:47:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126976,
+      "source": "dc",
+      "externalId": "cmt-11051101",
+      "title": "쟤가 진짜 관종 여미새 인듯",
+      "excerpt": "농식이 또 어그로 끄노",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719989&page=3#cmt_11051101",
+      "postedLabel": "11.27 20:05:00",
+      "postedAt": "2026-11-27T20:05:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:47:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126977,
+      "source": "dc",
+      "externalId": "cmt-11051195",
+      "title": "사실 니 발음이 맞음",
+      "excerpt": "레벨이라는 말 살면서 첨 들어. 레블 아님?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720124&page=1#cmt_11051195",
+      "postedLabel": "11.27 20:45:56",
+      "postedAt": "2026-11-27T20:45:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:47:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126978,
+      "source": "dc",
+      "externalId": "6720127",
+      "title": "영철이 논산 sns나 맡겨라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720127&page=1",
+      "postedLabel": "20:45",
+      "postedAt": "2026-11-27T20:45:58+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:47:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126979,
+      "source": "qoo",
+      "externalId": "4419950751",
+      "title": "영식영숙 최커될까?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419950751",
+      "postedLabel": "20:46",
+      "postedAt": "2026-11-27T20:46:00+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:47:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -612656,7 +612774,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T20:43:33+09:00"
+      "slowAt": "2026-11-27T20:46:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -634426,7 +634544,8 @@
         "6720115",
         "6720116",
         "6720119",
-        "6720120"
+        "6720120",
+        "6720124"
       ]
     },
     "blind": {
@@ -649866,7 +649985,8 @@
         "4419884613",
         "4419885411",
         "4419914343",
-        "4419931374"
+        "4419931374",
+        "4419950751"
       ]
     },
     "keep": "v2",
