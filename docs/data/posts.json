@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:54:17+00:00",
+  "updatedAt": "2026-11-27T13:55:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -621636,6 +621636,85 @@
       "firstSeenAt": "2026-11-27T13:54:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127441,
+      "source": "dc",
+      "externalId": "cmt-11051356",
+      "title": "ㄹㅇ",
+      "excerpt": "역시 키가 ㅈㄴ 중요하다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720141&page=3#cmt_11051356",
+      "postedLabel": "11.27 21:42:11",
+      "postedAt": "2026-11-27T21:42:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:55:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127442,
+      "source": "dc",
+      "externalId": "cmt-11051516",
+      "title": "지방은 보통 그렇고 서울은 아님",
+      "excerpt": "98년생인데 올해만 지인 3명결혼함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720311&page=1#cmt_11051516",
+      "postedLabel": "11.27 22:54:12",
+      "postedAt": "2026-11-27T22:54:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:55:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127443,
+      "source": "dc",
+      "externalId": "6720316",
+      "title": "일단 직업이고 나발이고 외모가 1순위 같다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720316&page=1",
+      "postedLabel": "22:54",
+      "postedAt": "2026-11-27T22:54:28+09:00",
+      "views": 3,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:55:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127444,
+      "source": "blind",
+      "externalId": "cmt-462948237",
+      "title": "1대1에서 하던데에...(쭈글)",
+      "excerpt": "순자 영호한테사투리안쓴다고 정색해노코",
+      "author": "쌍** 작성자",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C%EC%82%AC%ED%88%AC%EB%A6%AC%EC%95%88%EC%93%B4%EB%8B%A4%EA%B3%A0-%EC%A0%95%EC%83%89%ED%95%B4%EB%85%B8%EC%BD%94-yrql4p4w#462948237",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T22:55:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:55:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -621820,7 +621899,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T22:51:59+09:00"
+      "slowAt": "2026-11-27T22:55:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -643620,6 +643699,7 @@
         "6720132",
         "6720134",
         "6720135",
+        "6720141",
         "6720143",
         "6720145",
         "6720146",
@@ -643680,7 +643760,8 @@
         "6720299",
         "6720302",
         "6720307",
-        "6720309"
+        "6720309",
+        "6720311"
       ]
     },
     "blind": {
