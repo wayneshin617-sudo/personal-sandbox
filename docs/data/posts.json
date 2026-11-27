@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:05:20+00:00",
+  "updatedAt": "2026-11-27T01:06:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -576971,6 +576971,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T01:05:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125155,
+      "source": "qoo",
+      "externalId": "cmt-4419364335",
+      "title": "@9 아무래도 살면서 저렇게 동시다발적으로 만나는 경우가 잘 없다 보니 ㅋㅋ",
+      "excerpt": "영호 그냥 현숙이면서 왜 모르겠다 하는거임?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419139213#4419364335",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T09:05:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:06:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125156,
+      "source": "qoo",
+      "externalId": "cmt-4419364357",
+      "title": "@1 ㄹㅇ 러브라인과 관계없는 얘기는 다 쳐내고 내보는게 저런거",
+      "excerpt": "이번 기수는 간보기가 너무 심하고 순위에 내가 있고 없고를 너무 따지는 느낌",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419140450#4419364357",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T09:05:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:06:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125157,
+      "source": "dc",
+      "externalId": "6719111",
+      "title": "이렇게 나솔나오면 누가아까움?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "140.248",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719111&page=1",
+      "postedLabel": "10:06",
+      "postedAt": "2026-11-27T10:06:02+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:06:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125158,
+      "source": "dc",
+      "externalId": "cmt-11050129",
+      "title": "삼다수 10박스 준비해놨다..",
+      "excerpt": "곧 전쟁나겠네요. 비상용품 준비하세요.",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "210.95",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719110&page=1#cmt_11050129",
+      "postedLabel": "11.27 10:06:02",
+      "postedAt": "2026-11-27T10:06:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:06:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -577155,7 +577234,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T10:02:56+09:00"
+      "slowAt": "2026-11-27T10:06:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -598666,7 +598745,8 @@
         "6719103",
         "6719105",
         "6719106",
-        "6719109"
+        "6719109",
+        "6719110"
       ]
     },
     "blind": {
