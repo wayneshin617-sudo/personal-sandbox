@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:03:08+00:00",
+  "updatedAt": "2026-11-27T09:04:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -601744,6 +601744,26 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-27T09:03:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126423,
+      "source": "dc",
+      "externalId": "cmt-11050838",
+      "title": "키가 40센치 자랐대",
+      "excerpt": "옥순 보정이 아무리 심해도 순자만 할까",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719788&page=1#cmt_11050838",
+      "postedLabel": "11.27 18:03:26",
+      "postedAt": "2026-11-27T18:03:26+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:04:08+00:00",
       "isSeed": false,
       "kind": "reply"
     }
