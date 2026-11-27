@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T15:45:11+00:00",
+  "updatedAt": "2026-11-27T15:46:10+00:00",
   "posts": [
     {
       "id": 95749,
@@ -628630,6 +628630,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T15:45:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127796,
+      "source": "dc",
+      "externalId": "cmt-11051744",
+      "title": "눈빛에 따뜻함 만땅,설렌다 ㅋ",
+      "excerpt": "현숙 영호 짤인거 삼각때문임",
+      "author": "ㅇㅇㅇㅇ",
+      "company": "",
+      "ip": "211.107",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720215&page=4#cmt_11051744",
+      "postedLabel": "11.28 00:14:17",
+      "postedAt": "2026-11-28T00:14:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:46:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127797,
+      "source": "dc",
+      "externalId": "6720431",
+      "title": "34영자 보면서 이 사람 생각났음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720431&page=1",
+      "postedLabel": "00:45",
+      "postedAt": "2026-11-28T00:45:50+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:46:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127798,
+      "source": "blind",
+      "externalId": "cmt-462963408",
+      "title": "드라마 이입해서 보는 거랑 비슷한 거지",
+      "excerpt": "나솔에 자아의탁 하는 사람 많네",
+      "author": "분*******",
+      "company": "삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EC%97%90-%EC%9E%90%EC%95%84%EC%9D%98%ED%83%81-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%A7%8E%EB%84%A4-cuhpwdv2#462963408",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T00:45:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:46:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -628741,7 +628800,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T00:42:54+09:00"
+      "slowAt": "2026-11-28T00:45:54+09:00"
     },
     "ig": {
       "doneIds": [
