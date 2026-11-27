@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T02:42:51+00:00",
+  "updatedAt": "2026-11-27T02:43:50+00:00",
   "posts": [
     {
       "id": 95749,
@@ -581158,6 +581158,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-27T02:42:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125368,
+      "source": "dc",
+      "externalId": "cmt-11050242",
+      "title": "강남키즈의 아내와 자녀 살인사건 모르냐?",
+      "excerpt": "34영식이 강남키즈 전형적인 모습임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719037&page=3#cmt_11050242",
+      "postedLabel": "11.27 11:41:00",
+      "postedAt": "2026-11-27T11:41:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:43:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125369,
+      "source": "dc",
+      "externalId": "cmt-11050243",
+      "title": "뭐 질문만 하면 차단함",
+      "excerpt": "미저리 순자가 좀 음흉하기는 하더라",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719195&page=1#cmt_11050243",
+      "postedLabel": "11.27 11:43:10",
+      "postedAt": "2026-11-27T11:43:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:43:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -581342,7 +581382,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T11:40:21+09:00"
+      "slowAt": "2026-11-27T11:43:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -602881,7 +602921,8 @@
         "6719162",
         "6719168",
         "6719178",
-        "6719185"
+        "6719185",
+        "6719195"
       ]
     },
     "blind": {
@@ -604331,6 +604372,7 @@
         "/kr/post/%EB%82%9C-%EB%B3%B4%ED%97%98-%EC%98%81%EC%88%98-%EC%A2%8B%EA%B2%8C-%EB%B3%B4%EB%8A%94%EB%8D%B0-tmqicfsr",
         "/kr/post/%EB%82%9C-%EC%83%81%EC%B2%A0-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-l7du0ktf",
         "/kr/post/%EB%82%9C-%EC%83%81%EC%B2%A0-%EA%BA%BC%EB%93%9C%EB%9F%AD%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%EC%95%88%ED%95%A8-6ak1un1i",
+        "/kr/post/%EB%82%9C-%EC%84%9C%EC%96%91%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AC%B8%EC%8B%A0%ED%95%9C%EA%B1%B0%EB%8A%94-%ED%81%AC%EA%B2%8C-%EC%8B%A0%EA%B2%BD-%EC%95%88-%EC%93%B0%EC%9D%BC%EA%B1%B0-%EA%B0%99%EC%9D%8C-0s8z3crz",
         "/kr/post/%EB%82%9C-%EC%84%B1%ED%98%95%EB%8F%84-%EB%AC%B8%EC%8B%A0%EB%A7%8C%ED%81%BC-%EC%8B%AB%EC%9D%8C-quvgszkf",
         "/kr/post/%EB%82%9C-%EC%88%9C%EC%9E%90%EA%B0%80-%EC%A0%9C%EC%9D%BC-%EC%A2%8B%EB%8B%A4-ticrha04",
         "/kr/post/%EB%82%9C-%EC%88%9C%EC%9E%90%EB%8F%84-%EC%A2%80-%EC%8E%84%ED%95%B4-vz6j4m8a",
