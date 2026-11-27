@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:56:45+00:00",
+  "updatedAt": "2026-11-27T12:57:49+00:00",
   "posts": [
     {
       "id": 95749,
@@ -617287,6 +617287,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T12:56:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127219,
+      "source": "dc",
+      "externalId": "cmt-11051398",
+      "title": "고대여신을 눈앞에서보다니",
+      "excerpt": "34 영호 눈빛 비교",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720228&page=1#cmt_11051398",
+      "postedLabel": "11.27 21:57:20",
+      "postedAt": "2026-11-27T21:57:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:57:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -617398,7 +617418,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T21:54:25+09:00"
+      "slowAt": "2026-11-27T21:57:32+09:00"
     },
     "ig": {
       "doneIds": [
@@ -639233,6 +639253,7 @@
         "6720014",
         "6720016",
         "6720024",
+        "6720026",
         "6720027",
         "6720028",
         "6720029",
@@ -639293,7 +639314,8 @@
         "6720214",
         "6720215",
         "6720220",
-        "6720225"
+        "6720225",
+        "6720228"
       ]
     },
     "blind": {
