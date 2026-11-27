@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:41:31+00:00",
+  "updatedAt": "2026-11-27T12:42:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -616285,6 +616285,45 @@
       "firstSeenAt": "2026-11-27T12:41:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127168,
+      "source": "dc",
+      "externalId": "cmt-11050969",
+      "title": "별걸 다 걱정하네 에휴",
+      "excerpt": "모욕죄 넘쳐나네... 고소미 많네",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "116.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719862&page=5#cmt_11050969",
+      "postedLabel": "11.27 19:02:28",
+      "postedAt": "2026-11-27T19:02:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:42:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127169,
+      "source": "dc",
+      "externalId": "6720208",
+      "title": "34 현숙 현실적이고 솔직하네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720208&page=1",
+      "postedLabel": "21:41",
+      "postedAt": "2026-11-27T21:41:24+09:00",
+      "views": 20,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:42:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -616396,7 +616435,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T21:39:14+09:00"
+      "slowAt": "2026-11-27T21:42:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -638191,6 +638230,7 @@
         "6719852",
         "6719856",
         "6719857",
+        "6719862",
         "6719863",
         "6719864",
         "6719878",
