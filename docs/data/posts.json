@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:11:18+00:00",
+  "updatedAt": "2026-11-27T14:12:19+00:00",
   "posts": [
     {
       "id": 95749,
@@ -622656,6 +622656,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T14:11:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127493,
+      "source": "dc",
+      "externalId": "cmt-11051554",
+      "title": "정숙이니?",
+      "excerpt": "개ㅈ같이 생긴게",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720334&page=1#cmt_11051554",
+      "postedLabel": "11.27 23:11:13",
+      "postedAt": "2026-11-27T23:11:13+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:12:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -644711,7 +644731,8 @@
         "6720318",
         "6720322",
         "6720327",
-        "6720331"
+        "6720331",
+        "6720334"
       ]
     },
     "blind": {
