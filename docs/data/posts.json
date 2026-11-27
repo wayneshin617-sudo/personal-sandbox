@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:07:38+00:00",
+  "updatedAt": "2026-11-27T04:08:42+00:00",
   "posts": [
     {
       "id": 95749,
@@ -585293,6 +585293,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T04:07:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125579,
+      "source": "dc",
+      "externalId": "6719301",
+      "title": "쥐우성은 이여자 저여자 찍먹은해도 애낳아줄 여자는 절대 못만남",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719301&page=1",
+      "postedLabel": "13:08",
+      "postedAt": "2026-11-27T13:08:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:08:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125580,
+      "source": "blind",
+      "externalId": "cmt-462873124",
+      "title": "처음에 옥순이래서 어? 그랬는데 볼수록 괜찮더라 예쁘고",
+      "excerpt": "34옥순은",
+      "author": "O********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%A5%EC%88%9C%EC%9D%80-cz3hhr50#462873124",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T13:08:26+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:08:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -585404,7 +585443,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T13:05:17+09:00"
+      "slowAt": "2026-11-27T13:08:26+09:00"
     },
     "ig": {
       "doneIds": [
