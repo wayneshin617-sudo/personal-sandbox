@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:38:54+00:00",
+  "updatedAt": "2026-11-27T14:40:01+00:00",
   "posts": [
     {
       "id": 95749,
@@ -624573,6 +624573,46 @@
       "firstSeenAt": "2026-11-27T14:38:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127590,
+      "source": "dc",
+      "externalId": "cmt-11051566",
+      "title": "오구 오구 우리 현숙이 화낫떠??",
+      "excerpt": "이런 애들이 현숙 욕하는거임",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "183.99",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720290&page=2#cmt_11051566",
+      "postedLabel": "11.27 23:14:22",
+      "postedAt": "2026-11-27T23:14:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:40:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127591,
+      "source": "dc",
+      "externalId": "cmt-11051623",
+      "title": "경수가 갑이야",
+      "excerpt": "경수는 내년부터 순자 피코질 공격 받을거야",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720362&page=1#cmt_11051623",
+      "postedLabel": "11.27 23:38:48",
+      "postedAt": "2026-11-27T23:38:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:40:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -624684,7 +624724,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T23:36:31+09:00"
+      "slowAt": "2026-11-27T23:39:43+09:00"
     },
     "ig": {
       "doneIds": [
@@ -646647,7 +646687,8 @@
         "6720350",
         "6720351",
         "6720355",
-        "6720361"
+        "6720361",
+        "6720362"
       ]
     },
     "blind": {
