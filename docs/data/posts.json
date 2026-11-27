@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T05:52:07+00:00",
+  "updatedAt": "2026-11-27T05:53:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -591016,6 +591016,45 @@
       "firstSeenAt": "2026-11-27T05:52:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125871,
+      "source": "dc",
+      "externalId": "cmt-11050470",
+      "title": "지루해.....",
+      "excerpt": "영호가 왜 재미가없어??",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719348&page=2#cmt_11050470",
+      "postedLabel": "11.27 14:00:03",
+      "postedAt": "2026-11-27T14:00:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:53:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125872,
+      "source": "dc",
+      "externalId": "6719438",
+      "title": "피디는 모솔인거 이미 눈치깜",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719438&page=1",
+      "postedLabel": "14:52",
+      "postedAt": "2026-11-27T14:52:42+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:53:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -591200,7 +591239,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T14:49:49+09:00"
+      "slowAt": "2026-11-27T14:52:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -612802,6 +612841,7 @@
         "6719343",
         "6719344",
         "6719345",
+        "6719348",
         "6719351",
         "6719354",
         "6719373",
