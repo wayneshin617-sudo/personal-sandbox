@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T02:36:28+00:00",
+  "updatedAt": "2026-11-27T02:37:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -580923,6 +580923,85 @@
       "firstSeenAt": "2026-11-27T02:36:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125356,
+      "source": "dc",
+      "externalId": "cmt-11050183",
+      "title": "커피까지 사준 죄",
+      "excerpt": "정숙은 왜 광수한테 찍힌 것임?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719136&page=1#cmt_11050183",
+      "postedLabel": "11.27 10:50:40",
+      "postedAt": "2026-11-27T10:50:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:37:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125357,
+      "source": "blind",
+      "externalId": "cmt-462862503",
+      "title": "나는 첫화부터 옥순이가 젤 괜찮다고 그랬당",
+      "excerpt": "현숙이 의식하는 건 순자가 아니라 옥순일걸",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%98%EC%8B%9D%ED%95%98%EB%8A%94-%EA%B1%B4-%EC%88%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%98%A5%EC%88%9C%EC%9D%BC%EA%B1%B8-57zyor44#462862503",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T11:37:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:37:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125358,
+      "source": "dc",
+      "externalId": "6719189",
+      "title": "누가 더 유명함 에미넴 vs 호나우두",
+      "excerpt": "",
+      "author": "디바",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719189&page=1",
+      "postedLabel": "11:37",
+      "postedAt": "2026-11-27T11:37:09+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:37:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125359,
+      "source": "blind",
+      "externalId": "cmt-462862463",
+      "title": "실수 할 순 있는데, 진지하게 왜 그런지 이유를 모른다면...애도요",
+      "excerpt": "소개팅에서 2차",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%8C%EA%B0%9C%ED%8C%85%EC%97%90%EC%84%9C-2%EC%B0%A8-or7r268u#462862463",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T11:37:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:37:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -581107,7 +581186,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T11:34:09+09:00"
+      "slowAt": "2026-11-27T11:37:10+09:00"
     },
     "dc": {
       "doneIds": [
