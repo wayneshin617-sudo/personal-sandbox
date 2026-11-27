@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:10:31+00:00",
+  "updatedAt": "2026-11-27T12:11:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -613882,6 +613882,106 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T12:10:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127046,
+      "source": "qoo",
+      "externalId": "cmt-4419924894",
+      "title": "현숙 참 좋은데 말센스가 뭔가 포인트가 하나씩 어긋나는 느낌이네 안하면 좋을거 같은 재미없는 농담도 자꾸하고..",
+      "excerpt": "영호 현숙 미방분",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419859537#4419924894",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T20:11:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:11:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127047,
+      "source": "dc",
+      "externalId": "cmt-11051122",
+      "title": "제가 예측한 106.101대답안해도 되죠?",
+      "excerpt": "88.116님이나 106.101등 파생 아이디등 위주로",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720058&page=2#cmt_11051122",
+      "postedLabel": "11.27 20:14:08",
+      "postedAt": "2026-11-27T20:14:08+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:11:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127048,
+      "source": "dc",
+      "externalId": "cmt-11051163",
+      "title": "106.101님 댓글 포함 추가제출만 할게요",
+      "excerpt": "88.116님이나 106.101등 파생 아이디등 위주로",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720058&page=2#cmt_11051163",
+      "postedLabel": "11.27 20:33:44",
+      "postedAt": "2026-11-27T20:33:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:11:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127049,
+      "source": "dc",
+      "externalId": "cmt-11051232",
+      "title": "전혀 안 어울림",
+      "excerpt": "34영호랑 잘어울리는 여출",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720161&page=1#cmt_11051232",
+      "postedLabel": "11.27 21:10:19",
+      "postedAt": "2026-11-27T21:10:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:11:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127050,
+      "source": "blind",
+      "externalId": "cmt-462933140",
+      "title": "원래 연극하던 사람임 연극연출 공부하러 한국 유학왔다가 정착한거",
+      "excerpt": "작약 중국어 목소리 엄청 좋네",
+      "author": "신****",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%91%EC%95%BD-%EC%A4%91%EA%B5%AD%EC%96%B4-%EB%AA%A9%EC%86%8C%EB%A6%AC-%EC%97%84%EC%B2%AD-%EC%A2%8B%EB%84%A4-nhh1skot#462933140",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T21:11:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:11:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -614066,7 +614166,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T21:08:14+09:00"
+      "slowAt": "2026-11-27T21:11:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -635848,7 +635948,8 @@
         "6720143",
         "6720146",
         "6720148",
-        "6720152"
+        "6720152",
+        "6720161"
       ]
     },
     "blind": {
