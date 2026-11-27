@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:15:30+00:00",
+  "updatedAt": "2026-11-27T12:16:30+00:00",
   "posts": [
     {
       "id": 95749,
@@ -614294,6 +614294,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T12:15:30+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127067,
+      "source": "dc",
+      "externalId": "6720171",
+      "title": "외국인이라고 사리판단 못하는 줄 아네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.214",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720171&page=1",
+      "postedLabel": "21:15",
+      "postedAt": "2026-11-27T21:15:18+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:16:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127068,
+      "source": "dc",
+      "externalId": "cmt-11051248",
+      "title": "그 아재 헛소리 하루이틀임?",
+      "excerpt": "심리대화 지금 주장하고 있는 거 알려줄게",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720170&page=1#cmt_11051248",
+      "postedLabel": "11.27 21:15:41",
+      "postedAt": "2026-11-27T21:15:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:16:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127069,
+      "source": "dc",
+      "externalId": "6720172",
+      "title": "34 영호 장거리 문제 쉽지 않다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720172&page=1",
+      "postedLabel": "21:16",
+      "postedAt": "2026-11-27T21:16:01+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:16:30+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -636265,7 +636323,8 @@
         "6720148",
         "6720152",
         "6720161",
-        "6720166"
+        "6720166",
+        "6720170"
       ]
     },
     "blind": {
