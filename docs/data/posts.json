@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T23:07:15+00:00",
+  "updatedAt": "2026-11-27T23:10:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -634585,6 +634585,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T23:07:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128099,
+      "source": "dc",
+      "externalId": "6720552",
+      "title": "키 목소리 피부톤 이거 세개만 좋아도 훈남 이미지인데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720552&page=1",
+      "postedLabel": "08:08",
+      "postedAt": "2026-11-28T08:08:59+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:10:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128100,
+      "source": "blind",
+      "externalId": "cmt-462985348",
+      "title": "나는요 오빠가 좋은겨~~~~~",
+      "excerpt": "34기 순자 목소리",
+      "author": "g******",
+      "company": "삼성SDI",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%88%9C%EC%9E%90-%EB%AA%A9%EC%86%8C%EB%A6%AC-2a352dva#462985348",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T08:09:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:10:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -634769,7 +634808,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T08:06:56+09:00"
+      "slowAt": "2026-11-28T08:09:56+09:00"
     },
     "dc": {
       "doneIds": [
