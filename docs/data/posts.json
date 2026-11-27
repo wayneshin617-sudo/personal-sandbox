@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:32:05+00:00",
+  "updatedAt": "2026-11-27T10:33:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -606789,6 +606789,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T10:32:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126682,
+      "source": "dc",
+      "externalId": "cmt-11051022",
+      "title": "무식한거 보일때마다 얼마나 정떨어지는데 영자는 온니 얼굴이라 잘해봐라 상향혼의 기회야",
+      "excerpt": "영철이 그냥 눈좀 낮추고 영자랑 결혼했음 좋겠음",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719932&page=1#cmt_11051022",
+      "postedLabel": "11.27 19:32:09",
+      "postedAt": "2026-11-27T19:32:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:33:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126683,
+      "source": "dc",
+      "externalId": "6719936",
+      "title": "순자 페라가모시계 광고찍었네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719936&page=1",
+      "postedLabel": "19:32",
+      "postedAt": "2026-11-27T19:32:20+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:33:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -606973,7 +607012,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T19:29:47+09:00"
+      "slowAt": "2026-11-27T19:32:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -628697,7 +628736,8 @@
         "6719919",
         "6719926",
         "6719929",
-        "6719930"
+        "6719930",
+        "6719932"
       ]
     },
     "blind": {
