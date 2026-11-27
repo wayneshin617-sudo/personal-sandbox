@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T23:38:46+00:00",
+  "updatedAt": "2026-11-27T23:39:59+00:00",
   "posts": [
     {
       "id": 95749,
@@ -635527,6 +635527,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T23:38:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128147,
+      "source": "dc",
+      "externalId": "6720570",
+      "title": "pd가 영호 노잼에 질질끈다고 충청도식으로 돌려깠잖아?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720570&page=1",
+      "postedLabel": "08:39",
+      "postedAt": "2026-11-28T08:39:15+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:39:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128148,
+      "source": "dc",
+      "externalId": "cmt-11052304",
+      "title": "사람보는눈없네 앞에서무안주고 뒷담까고 노골적으로 사람평가질하고 사기꾼기질도 있어보여",
+      "excerpt": "근데 영철이 나쁜 사람 같지는 않아보임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720566&page=1#cmt_11052304",
+      "postedLabel": "11.28 08:39:25",
+      "postedAt": "2026-11-28T08:39:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:39:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -657705,7 +657744,8 @@
         "6720546",
         "6720555",
         "6720558",
-        "6720563"
+        "6720563",
+        "6720566"
       ]
     },
     "blind": {
