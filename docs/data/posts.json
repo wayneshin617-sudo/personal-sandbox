@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T19:39:34+00:00",
+  "updatedAt": "2026-11-27T19:41:34+00:00",
   "posts": [
     {
       "id": 95749,
@@ -632880,6 +632880,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T19:39:34+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128012,
+      "source": "dc",
+      "externalId": "cmt-11052112",
+      "title": "정성추",
+      "excerpt": "경수 비열하고 야비한 박쥐 같노",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720485&page=1#cmt_11052112",
+      "postedLabel": "11.28 03:44:23",
+      "postedAt": "2026-11-28T03:44:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T19:41:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128013,
+      "source": "dc",
+      "externalId": "cmt-11052153",
+      "title": "정리잘했네 ㅋㅋㅋ 사과도 자기가 정한 시기안에 안하면 사과가 아니랍니다. 충족하지 못하면 무조건 안.읽.씹 입니다.",
+      "excerpt": "경수 비열하고 야비한 박쥐 같노",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720485&page=1#cmt_11052153",
+      "postedLabel": "11.28 04:26:17",
+      "postedAt": "2026-11-28T04:26:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T19:41:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -633064,7 +633104,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T04:38:16+09:00"
+      "slowAt": "2026-11-28T04:41:16+09:00"
     },
     "dc": {
       "doneIds": [
