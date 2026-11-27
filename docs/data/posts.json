@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:55:31+00:00",
+  "updatedAt": "2026-11-27T11:56:32+00:00",
   "posts": [
     {
       "id": 95749,
@@ -613297,6 +613297,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:55:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127016,
+      "source": "dc",
+      "externalId": "6720144",
+      "title": "씨발 보면서 기분이 좆같아지네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.103",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720144&page=1",
+      "postedLabel": "20:55",
+      "postedAt": "2026-11-27T20:55:17+09:00",
+      "views": 20,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:56:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127017,
+      "source": "dc",
+      "externalId": "cmt-11051211",
+      "title": "https://economyfactory.com/young-ho-and-soon-ja-34th/",
+      "excerpt": "34기 영호 현숙 버리고 순자로 노선 확정한 이유 ㄹㅇ",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.154",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720143&page=1#cmt_11051211",
+      "postedLabel": "11.27 20:55:23",
+      "postedAt": "2026-11-27T20:55:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:56:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -613481,7 +613520,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T20:53:14+09:00"
+      "slowAt": "2026-11-27T20:56:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -635255,7 +635294,8 @@
         "6720119",
         "6720120",
         "6720124",
-        "6720132"
+        "6720132",
+        "6720143"
       ]
     },
     "blind": {
