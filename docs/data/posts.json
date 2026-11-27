@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:21:38+00:00",
+  "updatedAt": "2026-11-27T08:22:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -598491,6 +598491,104 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T08:21:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126255,
+      "source": "dc",
+      "externalId": "cmt-11050690",
+      "title": "ㅋㅋㅋ보통은 여자 혼자 쓰는 작고 예쁜걸 선물하지 - dc App",
+      "excerpt": "첫생일에 카메라선물이라니",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719572&page=2#cmt_11050690",
+      "postedLabel": "11.27 16:36:29",
+      "postedAt": "2026-11-27T16:36:29+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:22:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126256,
+      "source": "dc",
+      "externalId": "6719673",
+      "title": "1년 만나면서 비성수기 썩꼼 간게 다인게 너무...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719673&page=1",
+      "postedLabel": "17:21",
+      "postedAt": "2026-11-27T17:21:25+09:00",
+      "views": 8,
+      "recommends": 3,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T08:22:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126257,
+      "source": "dc",
+      "externalId": "6719674",
+      "title": "1인 장사도 아닌데 왜 못 쉬는걸까?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719674&page=1",
+      "postedLabel": "17:22",
+      "postedAt": "2026-11-27T17:22:15+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:22:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126258,
+      "source": "dc",
+      "externalId": "cmt-11050755",
+      "title": "꼼마 데려가는 것도 고마워할듯",
+      "excerpt": "1년 만나면서 비성수기 썩꼼 간게 다인게 너무...",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719673&page=1#cmt_11050755",
+      "postedLabel": "11.27 17:22:21",
+      "postedAt": "2026-11-27T17:22:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:22:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126259,
+      "source": "blind",
+      "externalId": "cmt-462904765",
+      "title": "순자나 귀엽게 생겼다고 했을때 내눈을 의심함",
+      "excerpt": "상철은 옥순때문에 망했어 ㅠ ㅠ",
+      "author": "|********* 작성자",
+      "company": "KB손해보험",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0%EC%9D%80-%EC%98%A5%EC%88%9C%EB%95%8C%EB%AC%B8%EC%97%90-%EB%A7%9D%ED%96%88%EC%96%B4-%E3%85%A0-%E3%85%A0-1b4v1t6q#462904765",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T17:22:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:22:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -598602,7 +598700,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T17:19:05+09:00"
+      "slowAt": "2026-11-27T17:22:22+09:00"
     },
     "ig": {
       "doneIds": [
@@ -620339,7 +620437,8 @@
         "6719650",
         "6719657",
         "6719661",
-        "6719670"
+        "6719670",
+        "6719673"
       ]
     },
     "blind": {
