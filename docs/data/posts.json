@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:25:55+00:00",
+  "updatedAt": "2026-11-27T08:27:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -598704,6 +598704,105 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T08:25:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126266,
+      "source": "blind",
+      "externalId": "cmt-462899547",
+      "title": "엥 ??이건또 뭔소리야",
+      "excerpt": "영철 퇴사",
+      "author": "i***** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%87%B4%EC%82%AC-wdpjxj6u#462899547",
+      "postedLabel": "46분",
+      "postedAt": "2026-11-27T16:40:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:27:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126267,
+      "source": "blind",
+      "externalId": "cmt-462899691",
+      "title": "옥순 현커썰 있던데 진짜인진 몰겠음",
+      "excerpt": "영철 퇴사",
+      "author": "l********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%87%B4%EC%82%AC-wdpjxj6u#462899691",
+      "postedLabel": "45분",
+      "postedAt": "2026-11-27T16:41:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:27:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126268,
+      "source": "dc",
+      "externalId": "6719683",
+      "title": "연말에 발레공연 많은데 거기라도 가자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719683&page=1",
+      "postedLabel": "17:25",
+      "postedAt": "2026-11-27T17:25:42+09:00",
+      "views": 13,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:27:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126269,
+      "source": "dc",
+      "externalId": "cmt-11050760",
+      "title": "당연히 수원이지 ㅋㅋ",
+      "excerpt": "미리보는 순경 크리스마스",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719682&page=1#cmt_11050760",
+      "postedLabel": "11.27 17:26:31",
+      "postedAt": "2026-11-27T17:26:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:27:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126270,
+      "source": "blind",
+      "externalId": "cmt-462905302",
+      "title": "병원 코디로 딱이야 특히 할머니들 상대하는 한의원이라면",
+      "excerpt": "영철 퇴사",
+      "author": "뽜*****",
+      "company": "서울아산병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%ED%87%B4%EC%82%AC-wdpjxj6u#462905302",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T17:26:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:27:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -598888,7 +598987,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T17:23:30+09:00"
+      "slowAt": "2026-11-27T17:26:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -620553,7 +620652,8 @@
         "6719657",
         "6719661",
         "6719670",
-        "6719673"
+        "6719673",
+        "6719682"
       ]
     },
     "blind": {
