@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:56:28+00:00",
+  "updatedAt": "2026-11-27T04:57:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -587494,6 +587494,66 @@
       "firstSeenAt": "2026-11-27T04:56:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125691,
+      "source": "dc",
+      "externalId": "cmt-11050456",
+      "title": "정숙아 탈주해라",
+      "excerpt": "너도 나한테 애교 부리고 싶어?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719351&page=1#cmt_11050456",
+      "postedLabel": "11.27 13:56:36",
+      "postedAt": "2026-11-27T13:56:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:57:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125692,
+      "source": "blind",
+      "externalId": "cmt-462878900",
+      "title": "ㄹㅇ",
+      "excerpt": "솔직히 잘생긴건",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%9E%98%EC%83%9D%EA%B8%B4%EA%B1%B4-mo1ioc7x#462878900",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T13:57:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:57:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125693,
+      "source": "blind",
+      "externalId": "cmt-462878938",
+      "title": "남자야? 여자야?",
+      "excerpt": "솔직히 잘생긴건",
+      "author": "l*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%9E%98%EC%83%9D%EA%B8%B4%EA%B1%B4-mo1ioc7x#462878938",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T13:57:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:57:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -587605,7 +587665,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T13:54:10+09:00"
+      "slowAt": "2026-11-27T13:57:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -609272,7 +609332,8 @@
         "6719334",
         "6719343",
         "6719344",
-        "6719345"
+        "6719345",
+        "6719351"
       ]
     },
     "blind": {
