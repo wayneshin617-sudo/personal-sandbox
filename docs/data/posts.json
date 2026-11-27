@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:32:28+00:00",
+  "updatedAt": "2026-11-27T04:34:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -586331,6 +586331,26 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-27T04:32:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125632,
+      "source": "dc",
+      "externalId": "cmt-11050329",
+      "title": "서로 무례햇는데 한녀 기분상해죄로 쥐우성만 욕 존나 먹음 ㅋㅋㅋ",
+      "excerpt": "근데 냉정하게 따져서 쥐우성이 엄청 잘못한것도 아님",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "112.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719262&page=2#cmt_11050329",
+      "postedLabel": "11.27 12:45:25",
+      "postedAt": "2026-11-27T12:45:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:34:28+00:00",
       "isSeed": false,
       "kind": "reply"
     }
