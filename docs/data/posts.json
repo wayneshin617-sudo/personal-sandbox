@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:22:21+00:00",
+  "updatedAt": "2026-11-27T07:23:20+00:00",
   "posts": [
     {
       "id": 95749,
@@ -595360,6 +595360,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T07:22:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126094,
+      "source": "dc",
+      "externalId": "cmt-11050671",
+      "title": "그냥 비지니스 파트너지 - dc App",
+      "excerpt": "경수 하는거 보면 결혼 생각 자체가 별로 없어",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719568&page=1#cmt_11050671",
+      "postedLabel": "11.27 16:22:10",
+      "postedAt": "2026-11-27T16:22:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:23:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126095,
+      "source": "dc",
+      "externalId": "6719572",
+      "title": "첫생일에 카메라선물이라니",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719572&page=1",
+      "postedLabel": "16:22",
+      "postedAt": "2026-11-27T16:22:14+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:23:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126096,
+      "source": "dc",
+      "externalId": "cmt-11050672",
+      "title": "제발등찍은거임 그냥 라방에서 최커이후 만남갖다가 각자 응원하는 사이됐다했음 지금 어리고이쁘고성격좋은 여자랑 결혼준비중일텐데",
+      "excerpt": "경수 하는거 보면 결혼 생각 자체가 별로 없어",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719568&page=1#cmt_11050672",
+      "postedLabel": "11.27 16:22:37",
+      "postedAt": "2026-11-27T16:22:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:23:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -595544,7 +595603,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T16:20:05+09:00"
+      "slowAt": "2026-11-27T16:23:05+09:00"
     },
     "dc": {
       "doneIds": [
