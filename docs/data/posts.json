@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:32:18+00:00",
+  "updatedAt": "2026-11-27T13:33:21+00:00",
   "posts": [
     {
       "id": 95749,
@@ -619935,6 +619935,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T13:32:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127354,
+      "source": "dc",
+      "externalId": "cmt-11051459",
+      "title": "영수광수는 몰라도 영식은 좀 아깝지 않나",
+      "excerpt": "영수영식광수 까고 영호 도박해보겠다고 한건 순자임",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720278&page=1#cmt_11051459",
+      "postedLabel": "11.27 22:32:55",
+      "postedAt": "2026-11-27T22:32:55+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:33:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -641966,7 +641986,8 @@
         "6720263",
         "6720268",
         "6720269",
-        "6720273"
+        "6720273",
+        "6720278"
       ]
     },
     "blind": {
