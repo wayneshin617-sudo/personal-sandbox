@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T15:27:10+00:00",
+  "updatedAt": "2026-11-27T15:28:12+00:00",
   "posts": [
     {
       "id": 95749,
@@ -627564,6 +627564,45 @@
       "firstSeenAt": "2026-11-27T15:27:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127742,
+      "source": "dc",
+      "externalId": "6720415",
+      "title": "다시 생각해도 경순은 천생연분 맞음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720415&page=1",
+      "postedLabel": "00:27",
+      "postedAt": "2026-11-28T00:27:12+09:00",
+      "views": 16,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:28:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127743,
+      "source": "blind",
+      "externalId": "cmt-462961002",
+      "title": "어떤이용?",
+      "excerpt": "영철이는",
+      "author": "약****** 작성자",
+      "company": "회계사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-od1u2o0j#462961002",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T00:27:54+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:28:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -627675,7 +627714,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T00:24:54+09:00"
+      "slowAt": "2026-11-28T00:27:54+09:00"
     },
     "ig": {
       "doneIds": [
