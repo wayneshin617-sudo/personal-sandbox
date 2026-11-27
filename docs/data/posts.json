@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:00:47+00:00",
+  "updatedAt": "2026-11-27T00:01:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574650,6 +574650,25 @@
       "firstSeenAt": "2026-11-27T00:00:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125037,
+      "source": "dc",
+      "externalId": "6719060",
+      "title": "현숙이는",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.215",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719060&page=1",
+      "postedLabel": "09:00",
+      "postedAt": "2026-11-27T09:00:46+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:01:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -574834,7 +574853,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T08:58:28+09:00"
+      "slowAt": "2026-11-27T09:01:28+09:00"
     },
     "dc": {
       "doneIds": [
