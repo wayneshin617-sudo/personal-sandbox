@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:11:05+00:00",
+  "updatedAt": "2026-11-27T11:13:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -610306,6 +610306,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:11:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126863,
+      "source": "blind",
+      "externalId": "cmt-462919582",
+      "title": "반올림40 쉽지않네",
+      "excerpt": "강남구청 2:2 있어?",
+      "author": "l********",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD-22-%EC%9E%88%EC%96%B4-unogoqew#462919582",
+      "postedLabel": "51분",
+      "postedAt": "2026-11-27T19:21:46+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:13:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126864,
+      "source": "blind",
+      "externalId": "cmt-462919598",
+      "title": "태그매치 가능한가요?",
+      "excerpt": "강남구청 2:2 있어?",
+      "author": "I*********",
+      "company": "ex-삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD-22-%EC%9E%88%EC%96%B4-unogoqew#462919598",
+      "postedLabel": "51분",
+      "postedAt": "2026-11-27T19:21:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:13:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126865,
+      "source": "dc",
+      "externalId": "6720062",
+      "title": "영수는 방송 할수록 매력이 없네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720062&page=1",
+      "postedLabel": "20:12",
+      "postedAt": "2026-11-27T20:12:09+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:13:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126866,
+      "source": "dc",
+      "externalId": "6720063",
+      "title": "지가 영철 2대1 데이트에서 꼽주고 수동공격 한건 생각 안 하고",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "61.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720063&page=1",
+      "postedLabel": "20:12",
+      "postedAt": "2026-11-27T20:12:20+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:13:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -610417,7 +610495,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T20:09:47+09:00"
+      "slowAt": "2026-11-27T20:12:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -632242,7 +632320,8 @@
         "6720034",
         "6720052",
         "6720053",
-        "6720056"
+        "6720056",
+        "6720058"
       ]
     },
     "blind": {
