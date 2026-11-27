@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:35:22+00:00",
+  "updatedAt": "2026-11-27T07:36:21+00:00",
   "posts": [
     {
       "id": 95749,
@@ -596040,6 +596040,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T07:35:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126129,
+      "source": "dc",
+      "externalId": "cmt-11050684",
+      "title": "종이가 뭔말임?",
+      "excerpt": "34정숙 성격 좋아 종이 안 꺼내잖아",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719595&page=1#cmt_11050684",
+      "postedLabel": "11.27 16:35:10",
+      "postedAt": "2026-11-27T16:35:10+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:36:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126130,
+      "source": "dc",
+      "externalId": "cmt-11050688",
+      "title": "사귀거나 결혼은 정숙이 맞지",
+      "excerpt": "34정숙 성격 좋아 종이 안 꺼내잖아",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719595&page=1#cmt_11050688",
+      "postedLabel": "11.27 16:35:39",
+      "postedAt": "2026-11-27T16:35:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:36:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126131,
+      "source": "dc",
+      "externalId": "cmt-11050689",
+      "title": "종이 = 멍석말이",
+      "excerpt": "34정숙 성격 좋아 종이 안 꺼내잖아",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719595&page=1#cmt_11050689",
+      "postedLabel": "11.27 16:35:53",
+      "postedAt": "2026-11-27T16:35:53+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:36:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -617867,7 +617927,8 @@
         "6719572",
         "6719573",
         "6719574",
-        "6719583"
+        "6719583",
+        "6719595"
       ]
     },
     "blind": {
