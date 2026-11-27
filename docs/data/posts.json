@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:03:22+00:00",
+  "updatedAt": "2026-11-27T08:04:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -597461,6 +597461,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T08:03:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126202,
+      "source": "dc",
+      "externalId": "cmt-11050673",
+      "title": "개씹공감함",
+      "excerpt": "광수 게이일꺼같음",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719296&page=4#cmt_11050673",
+      "postedLabel": "11.27 16:23:52",
+      "postedAt": "2026-11-27T16:23:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:04:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -597572,7 +597592,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T17:01:05+09:00"
+      "slowAt": "2026-11-27T17:04:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -619231,6 +619251,7 @@
         "6719282",
         "6719287",
         "6719289",
+        "6719296",
         "6719298",
         "6719299",
         "6719302",
