@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T05:28:38+00:00",
+  "updatedAt": "2026-11-27T05:29:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -589438,6 +589438,45 @@
       "firstSeenAt": "2026-11-27T05:28:38+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125791,
+      "source": "qoo",
+      "externalId": "4419637428",
+      "title": "하 광수 실환가 진짜",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419637428",
+      "postedLabel": "14:28",
+      "postedAt": "2026-11-27T14:28:00+09:00",
+      "views": 4,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:29:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125792,
+      "source": "blind",
+      "externalId": "cmt-462882963",
+      "title": "난 영철 외모는 그냥 보자마자 별로였고 그 일본에 사는 남자가 여자들이 좋아할 상이드만",
+      "excerpt": "근데 솔직히 이번기수에 예쁜사람은 없지 않음??",
+      "author": "l******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B7%BC%EB%8D%B0-%EC%86%94%EC%A7%81%ED%9E%88-%EC%9D%B4%EB%B2%88%EA%B8%B0%EC%88%98%EC%97%90-%EC%98%88%EC%81%9C%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%97%86%EC%A7%80-%EC%95%8A%EC%9D%8C-nwlcwram#462882963",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T14:29:32+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:29:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -626617,7 +626656,8 @@
         "4419507579",
         "4419584521",
         "4419612527",
-        "4419619551"
+        "4419619551",
+        "4419637428"
       ]
     },
     "keep": "v2",
