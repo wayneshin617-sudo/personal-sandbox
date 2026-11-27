@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:13:07+00:00",
+  "updatedAt": "2026-11-27T10:14:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -605760,6 +605760,64 @@
       "firstSeenAt": "2026-11-27T10:13:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126629,
+      "source": "dc",
+      "externalId": "6719904",
+      "title": "돌싱남들이 진짜 개차반인듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719904&page=1",
+      "postedLabel": "19:13",
+      "postedAt": "2026-11-27T19:13:12+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:14:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126630,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD-22-%EC%9E%88%EC%96%B4-unogoqew",
+      "title": "강남구청 2:2 있어?",
+      "excerpt": "나이는 90.91 여자",
+      "author": "K*****",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD-22-%EC%9E%88%EC%96%B4-unogoqew",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T19:13:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T10:14:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126631,
+      "source": "blind",
+      "externalId": "cmt-462918619",
+      "title": "이야 나이 쉽지않네..",
+      "excerpt": "강남구청 2:2 있어?",
+      "author": "3*********",
+      "company": "이마트24",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD-22-%EC%9E%88%EC%96%B4-unogoqew#462918619",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T19:13:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:14:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -605944,7 +606002,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T19:10:27+09:00"
+      "slowAt": "2026-11-27T19:13:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -627785,6 +627843,7 @@
         "/kr/post/%EA%B0%91-%EC%9D%84-%EC%9D%B4%EC%9A%94-hbn7lrcj",
         "/kr/post/%EA%B0%93%EC%98%81%EC%9E%90-l16cev27",
         "/kr/post/%EA%B0%94%EB%8B%A4%EC%98%A8-%ED%83%81%ED%98%95%EC%9D%B8%EA%B0%80-%EC%96%98%EB%8A%94-%EB%A6%AC%EB%B7%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%9A%B4%EB%8F%99-%ED%95%9C%EB%B2%88%EB%8F%84-%EC%95%88%ED%95%B4%EB%B4%A4%EB%82%98-35r4fk4c",
+        "/kr/post/%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD-22-%EC%9E%88%EC%96%B4-unogoqew",
         "/kr/post/%EA%B0%95%EB%82%A8%EC%97%AD%EC%97%90%EC%84%9C-22-%ED%95%9C%EC%9E%94-%ED%95%98%EC%8B%A4-%EC%97%AC%EC%84%B1%EB%B6%84-4qc4esid",
         "/kr/post/%EA%B0%95%EB%82%A8%EC%A2%8C%ED%8C%8C%EC%98%80%EC%96%B4-56p7wovx",
         "/kr/post/%EA%B0%95%EB%8F%99%EC%97%AD-mvd3wpm2",
