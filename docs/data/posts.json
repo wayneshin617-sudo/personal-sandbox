@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:51:21+00:00",
+  "updatedAt": "2026-11-27T07:52:20+00:00",
   "posts": [
     {
       "id": 95749,
@@ -597015,6 +597015,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T07:51:21+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126179,
+      "source": "qoo",
+      "externalId": "4419763367",
+      "title": "영식이 보면 볼수록 진짜 괜찮은 것 같아",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419763367",
+      "postedLabel": "16:51",
+      "postedAt": "2026-11-27T16:51:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:52:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126180,
+      "source": "dc",
+      "externalId": "cmt-11050707",
+      "title": "순자같은게 현숙 어젯밤처럼 장거리 문제 얘기하면서 뒤로 물러나고 영호는 순자로 갈거같음",
+      "excerpt": "현숙의 이 표정이 너무 불안해",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "49.171",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719621&page=1#cmt_11050707",
+      "postedLabel": "11.27 16:52:02",
+      "postedAt": "2026-11-27T16:52:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:52:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -597126,7 +597165,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T16:49:05+09:00"
+      "slowAt": "2026-11-27T16:52:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -618852,7 +618891,8 @@
         "6719596",
         "6719600",
         "6719602",
-        "6719606"
+        "6719606",
+        "6719621"
       ]
     },
     "blind": {
@@ -634255,7 +634295,8 @@
         "4419637428",
         "4419669538",
         "4419672793",
-        "4419676079"
+        "4419676079",
+        "4419763367"
       ]
     },
     "keep": "v2",
