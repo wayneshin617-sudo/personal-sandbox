@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:14:10+00:00",
+  "updatedAt": "2026-11-27T09:15:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -602408,6 +602408,63 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:14:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126457,
+      "source": "qoo",
+      "externalId": "4419831459",
+      "title": "오..영수님은 볼수록 남자인게 다행이네",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419831459",
+      "postedLabel": "18:14",
+      "postedAt": "2026-11-27T18:14:00+09:00",
+      "views": 5,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:15:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126458,
+      "source": "dc",
+      "externalId": "6719812",
+      "title": "영숙님 생각을 계속 하고 있던 경수님의 찡긋~♥ 애교",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719812&page=1",
+      "postedLabel": "18:14",
+      "postedAt": "2026-11-27T18:14:29+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:15:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126459,
+      "source": "dc",
+      "externalId": "6719813",
+      "title": "88.166 냐오섰고 다응 106101 아니면? ㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719813&page=1",
+      "postedLabel": "18:14",
+      "postedAt": "2026-11-27T18:14:38+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:15:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -602519,7 +602576,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T18:11:53+09:00"
+      "slowAt": "2026-11-27T18:14:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -639700,7 +639757,8 @@
         "4419763367",
         "4419768942",
         "4419809334",
-        "4419824589"
+        "4419824589",
+        "4419831459"
       ]
     },
     "keep": "v2",
