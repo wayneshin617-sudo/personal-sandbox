@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T19:24:34+00:00",
+  "updatedAt": "2026-11-27T19:26:34+00:00",
   "posts": [
     {
       "id": 95749,
@@ -632783,6 +632783,26 @@
       "firstSeenAt": "2026-11-27T19:24:34+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128007,
+      "source": "dc",
+      "externalId": "cmt-11052152",
+      "title": "성시경 콘서트 vip석 보다 비쌈. 임영웅 콘서트 vip석도 19만원임",
+      "excerpt": "이 바퀴벌레년 북토크 20만원은 진짜 역대급이구나",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720506&page=1#cmt_11052152",
+      "postedLabel": "11.28 04:25:34",
+      "postedAt": "2026-11-28T04:25:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T19:26:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -632967,7 +632987,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T04:23:16+09:00"
+      "slowAt": "2026-11-28T04:26:16+09:00"
     },
     "dc": {
       "doneIds": [
@@ -654935,7 +654955,8 @@
         "6720499",
         "6720501",
         "6720503",
-        "6720505"
+        "6720505",
+        "6720506"
       ]
     },
     "blind": {
