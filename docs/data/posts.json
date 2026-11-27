@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:58:51+00:00",
+  "updatedAt": "2026-11-27T00:59:59+00:00",
   "posts": [
     {
       "id": 95749,
@@ -576635,6 +576635,105 @@
       "firstSeenAt": "2026-11-27T00:58:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125138,
+      "source": "dc",
+      "externalId": "cmt-11050046",
+      "title": "아 맞네. 부모님 관련 타투 있었네.",
+      "excerpt": "주변전문직 중에 문신한사람 직접 본적있냐?",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "220.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719057&page=1#cmt_11050046",
+      "postedLabel": "11.27 09:09:39",
+      "postedAt": "2026-11-27T09:09:39+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125139,
+      "source": "dc",
+      "externalId": "cmt-11050048",
+      "title": "존나 드물긴해",
+      "excerpt": "주변전문직 중에 문신한사람 직접 본적있냐?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719057&page=1#cmt_11050048",
+      "postedLabel": "11.27 09:12:55",
+      "postedAt": "2026-11-27T09:12:55+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125140,
+      "source": "dc",
+      "externalId": "cmt-11050068",
+      "title": "지능이 딸리는애들이 문신한다그랬는데 글쓴이보다 똑똑한애들이 문신하는거보고 개념에 혼란이 왔나보네 ㅎ",
+      "excerpt": "주변전문직 중에 문신한사람 직접 본적있냐?",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "182.221",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719057&page=1#cmt_11050068",
+      "postedLabel": "11.27 09:20:14",
+      "postedAt": "2026-11-27T09:20:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125141,
+      "source": "dc",
+      "externalId": "6719106",
+      "title": "틱순자 투명하다 투명해",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719106&page=1",
+      "postedLabel": "09:58",
+      "postedAt": "2026-11-27T09:58:59+09:00",
+      "views": 10,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:59:59+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125142,
+      "source": "blind",
+      "externalId": "cmt-462850699",
+      "title": "영식 음흉하고 고집쎈건 어느포인트?",
+      "excerpt": "나솔게 최근 동향에 대한 주요인물 별 논평",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EC%B5%9C%EA%B7%BC-%EB%8F%99%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A3%BC%EC%9A%94%EC%9D%B8%EB%AC%BC-%EB%B3%84-%EB%85%BC%ED%8F%89-nxfafprq#462850699",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T09:59:42+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:59:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -576819,7 +576918,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T09:56:24+09:00"
+      "slowAt": "2026-11-27T09:59:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -598327,7 +598426,8 @@
         "6719091",
         "6719096",
         "6719099",
-        "6719103"
+        "6719103",
+        "6719105"
       ]
     },
     "blind": {
@@ -599410,6 +599510,7 @@
         "/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EC%83%81%EC%A3%BC%EB%9F%AC%EB%A1%9C%EC%84%9C-%EC%97%AC%EA%B8%B0-%EB%AC%B8%EC%8B%A0-%EC%98%B9%ED%98%B8%EC%9E%90%EB%93%A4-%EA%B8%80-%EC%93%B0%EB%8A%94%EA%B1%B0%EB%B3%B4%EB%A9%B4-j6novi35",
         "/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%ED%95%AB%ED%95%B4%EC%A7%80%EB%8A%94-%EC%88%9C%EA%B0%84-%EC%98%88%EC%83%81%ED%95%9C%EB%8B%A4-33sz48zq",
         "/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EC%A2%80-%EC%97%AD%ED%95%98%EB%8B%A4-i0cl35pq",
+        "/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EC%B5%9C%EA%B7%BC-%EB%8F%99%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A3%BC%EC%9A%94%EC%9D%B8%EB%AC%BC-%EB%B3%84-%EB%85%BC%ED%8F%89-nxfafprq",
         "/kr/post/%EB%82%98%EC%86%94%EB%82%98%EA%B0%80%EB%A9%B4-%EC%83%81%EC%B2%A0-%EC%9D%B4%EB%A6%84-%EB%B0%9B%EC%9D%84%EA%B1%B0-%EA%B0%99%EB%8B%A4%EB%8A%94%EB%A7%90-i03hd3qw",
         "/kr/post/%EB%82%98%EC%86%94%EB%82%98%EA%B0%80%EB%A9%B4-%EC%98%81%EC%B2%A0-%EC%9D%B4%EB%A6%84-%EB%B0%9B%EC%9D%84%EA%B1%B0-%EA%B0%99%EB%8B%A4%EB%8A%94%EB%A7%90-zzz222a8",
         "/kr/post/%EB%82%98%EC%86%94%EB%82%98%EA%B0%80%EC%84%9C-%EC%9D%B4%EC%83%81%ED%98%95-%EC%96%98%EA%B8%B0%ED%95%A0%EB%95%8C-2dqptjwr",
@@ -604265,6 +604366,7 @@
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EB%A7%A5%EC%A3%BC%EB%82%98%EA%B0%80%EB%9F%AC-%EC%95%88-%EB%82%98%EA%B0%84-%EC%9D%B4%EC%9C%A0-klkcoia3",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99%EC%9D%B4%EB%9E%91-%EB%A7%A5%EC%A3%BC%EB%A7%88%EC%8B%9C%EB%9F%AC-%EC%95%88-%EB%82%98%EA%B0%84-%EC%9D%B4%EC%9C%A0-klkcoia3",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-%EB%A7%88%EC%9D%8C-%EC%8B%9D%EC%9D%80%EA%B1%B4-%EA%B7%B8%EB%83%A5-%EB%8F%99%EC%A1%B1%ED%98%90%EC%98%A4%EC%9E%84-hqtauzr5",
+        "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C-%EB%B0%A5-%EC%82%AC%EB%8B%AC%EB%9D%BC%EA%B3%A0-%ED%95%9C-%EA%B2%83%EB%8F%84-%EB%A7%88%EC%9D%8C%EC%9D%B4-%EB%93%9C%EB%9F%AC%EB%82%9C%EA%B1%B8%EA%B9%8C-can0dll1",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-%EC%8B%9D%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EB%BB%98%EC%B6%94%EC%B8%A1-kycq3ukw",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-%EC%8B%9D%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EC%95%8C%EA%B1%B0-%EA%B0%99%EC%95%84-jvv7vimo",
         "/kr/post/%EC%98%81%ED%98%B8%EA%B0%80-%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-%ED%8C%8D%EC%8B%9D%EC%9D%80%EA%B1%B0%EB%8A%94-%EA%B7%B8%EB%83%A5-jyec1pog",
