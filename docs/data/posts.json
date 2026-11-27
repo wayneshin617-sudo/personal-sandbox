@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T05:49:07+00:00",
+  "updatedAt": "2026-11-27T05:50:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -590778,6 +590778,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T05:49:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125859,
+      "source": "blind",
+      "externalId": "cmt-462883144",
+      "title": "기골이 장백하면 더 남자다울 듯",
+      "excerpt": "솔직히 잘생긴건",
+      "author": "o*****",
+      "company": "한국팜비오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%9E%98%EC%83%9D%EA%B8%B4%EA%B1%B4-mo1ioc7x#462883144",
+      "postedLabel": "19분",
+      "postedAt": "2026-11-27T14:30:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:50:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125860,
+      "source": "dc",
+      "externalId": "6719435",
+      "title": "광수처럼 전여친 입에올리는 애들은 높은확률로 모쏠임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719435&page=1",
+      "postedLabel": "14:48",
+      "postedAt": "2026-11-27T14:48:56+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:50:06+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125861,
+      "source": "dc",
+      "externalId": "cmt-11050553",
+      "title": "조금 나은것 같긴하다",
+      "excerpt": "솔직히 34광보다 망도가",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.133",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719433&page=1#cmt_11050553",
+      "postedLabel": "11.27 14:49:25",
+      "postedAt": "2026-11-27T14:49:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:50:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125862,
+      "source": "blind",
+      "externalId": "cmt-462885388",
+      "title": "ㅋㅋㅋ",
+      "excerpt": "솔직히 잘생긴건",
+      "author": "b*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%9E%98%EC%83%9D%EA%B8%B4%EA%B1%B4-mo1ioc7x#462885388",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T14:49:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:50:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -590962,7 +591041,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T14:46:49+09:00"
+      "slowAt": "2026-11-27T14:49:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -612572,7 +612651,8 @@
         "6719393",
         "6719399",
         "6719402",
-        "6719427"
+        "6719427",
+        "6719433"
       ]
     },
     "blind": {
