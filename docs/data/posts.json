@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:06:06+00:00",
+  "updatedAt": "2026-11-27T09:07:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -601920,6 +601920,65 @@
       "firstSeenAt": "2026-11-27T09:06:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126432,
+      "source": "blind",
+      "externalId": "cmt-462909017",
+      "title": "영호 촬영끝나고 일본 바로 간다고 생각하면 신중한게 이해되긴함",
+      "excerpt": "34기 순자뿐만 아니라...",
+      "author": "T*******",
+      "company": "한국가스공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%88%9C%EC%9E%90%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-6kh22pzl#462909017",
+      "postedLabel": "12분",
+      "postedAt": "2026-11-27T17:54:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:07:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126433,
+      "source": "dc",
+      "externalId": "cmt-11050845",
+      "title": "일본에서 여자 만나면 되지 이제 적응도 한거 같은데 그럴려고 나온것도 있겠지",
+      "excerpt": "영호도 일본갈 여자구하면 외모 직업 나이 내려놔야함",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719795&page=1#cmt_11050845",
+      "postedLabel": "11.27 18:06:28",
+      "postedAt": "2026-11-27T18:06:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:07:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126434,
+      "source": "dc",
+      "externalId": "6719797",
+      "title": "선참에서 일본 간다 한 모양인데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719797&page=1",
+      "postedLabel": "18:06",
+      "postedAt": "2026-11-27T18:06:32+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:07:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -623793,7 +623852,8 @@
         "6719777",
         "6719780",
         "6719783",
-        "6719788"
+        "6719788",
+        "6719795"
       ]
     },
     "blind": {
