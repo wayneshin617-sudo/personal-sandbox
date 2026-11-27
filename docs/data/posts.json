@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T22:35:15+00:00",
+  "updatedAt": "2026-11-27T22:36:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -633997,6 +633997,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T22:35:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128069,
+      "source": "dc",
+      "externalId": "cmt-11052193",
+      "title": "각본은 무슨 영자가 각본대로 움직일사람임?",
+      "excerpt": "나솔 34기 보며 대본 다 있는 프로그램이라 느꼈음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720531&page=1#cmt_11052193",
+      "postedLabel": "11.28 07:04:26",
+      "postedAt": "2026-11-28T07:04:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T22:36:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128070,
+      "source": "dc",
+      "externalId": "6720540",
+      "title": "나솔 통틀어서 7 영호가 제일 낳네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.128",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720540&page=1",
+      "postedLabel": "07:35",
+      "postedAt": "2026-11-28T07:35:07+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T22:36:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -634108,7 +634147,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T07:32:56+09:00"
+      "slowAt": "2026-11-28T07:35:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -656160,6 +656199,7 @@
         "6720522",
         "6720524",
         "6720526",
+        "6720531",
         "6720532",
         "6720537"
       ]
