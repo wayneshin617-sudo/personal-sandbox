@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:58:08+00:00",
+  "updatedAt": "2026-11-27T08:59:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -601396,6 +601396,102 @@
       "firstSeenAt": "2026-11-27T08:58:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126405,
+      "source": "dc",
+      "externalId": "6719781",
+      "title": "곰보새끼 전투복만 보면 발정나는 이유 뭐임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719781&page=1",
+      "postedLabel": "17:57",
+      "postedAt": "2026-11-27T17:57:55+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:59:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126406,
+      "source": "dc",
+      "externalId": "cmt-11050827",
+      "title": "ㄹㅇ노괴들 할머니 다되감",
+      "excerpt": "늙녀들 올려치면서 한남들 까는거 웃기노 ㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719780&page=1#cmt_11050827",
+      "postedLabel": "11.27 17:58:23",
+      "postedAt": "2026-11-27T17:58:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:59:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126407,
+      "source": "dc",
+      "externalId": "6719782",
+      "title": "영수 옥순한테 하는거보면 음흉하고 불쾌함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719782&page=1",
+      "postedLabel": "17:58",
+      "postedAt": "2026-11-27T17:58:37+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:59:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126408,
+      "source": "dc",
+      "externalId": "6719783",
+      "title": "순자가 못생긴것도 있지만 허세끼때문에",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719783&page=1",
+      "postedLabel": "17:58",
+      "postedAt": "2026-11-27T17:58:40+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:59:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126409,
+      "source": "dc",
+      "externalId": "6719784",
+      "title": "상철 1픽이 옥순인건 맞음?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719784&page=1",
+      "postedLabel": "17:58",
+      "postedAt": "2026-11-27T17:58:44+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:59:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -601580,7 +601676,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T17:55:52+09:00"
+      "slowAt": "2026-11-27T17:58:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -623264,7 +623360,8 @@
         "6719758",
         "6719759",
         "6719766",
-        "6719777"
+        "6719777",
+        "6719780"
       ]
     },
     "blind": {
