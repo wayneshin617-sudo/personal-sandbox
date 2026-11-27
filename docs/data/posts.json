@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:52:20+00:00",
+  "updatedAt": "2026-11-27T07:53:21+00:00",
   "posts": [
     {
       "id": 95749,
@@ -597054,6 +597054,44 @@
       "firstSeenAt": "2026-11-27T07:52:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126181,
+      "source": "dc",
+      "externalId": "6719624",
+      "title": "하.. 노괴 씹년들 진짜 개빡치네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719624&page=1",
+      "postedLabel": "16:52",
+      "postedAt": "2026-11-27T16:52:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:53:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126182,
+      "source": "dc",
+      "externalId": "6719625",
+      "title": "확신하는데 광수는 뭘 잘못한지도 모를거다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "122.44",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719625&page=1",
+      "postedLabel": "16:52",
+      "postedAt": "2026-11-27T16:52:52+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:53:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -597238,7 +597276,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T16:50:05+09:00"
+      "slowAt": "2026-11-27T16:53:05+09:00"
     },
     "dc": {
       "doneIds": [
