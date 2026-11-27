@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T23:30:41+00:00",
+  "updatedAt": "2026-11-27T23:31:53+00:00",
   "posts": [
     {
       "id": 95749,
@@ -635256,6 +635256,45 @@
       "firstSeenAt": "2026-11-27T23:30:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128133,
+      "source": "dc",
+      "externalId": "cmt-11052289",
+      "title": "그개 맞지않음? 최커가 현커는 아니자나",
+      "excerpt": "현숙이는 최커는 그냥 장난으로 알고 잇네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720558&page=1#cmt_11052289",
+      "postedLabel": "11.28 08:30:32",
+      "postedAt": "2026-11-28T08:30:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:31:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128134,
+      "source": "dc",
+      "externalId": "6720560",
+      "title": "31 순까단들 34 현숙으로 타겟 변경햇으면 좋겟다.",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720560&page=1",
+      "postedLabel": "08:30",
+      "postedAt": "2026-11-28T08:30:54+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:31:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -635440,7 +635479,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T08:28:10+09:00"
+      "slowAt": "2026-11-28T08:31:35+09:00"
     },
     "dc": {
       "doneIds": [
@@ -657432,7 +657471,8 @@
         "6720543",
         "6720544",
         "6720546",
-        "6720555"
+        "6720555",
+        "6720558"
       ]
     },
     "blind": {
