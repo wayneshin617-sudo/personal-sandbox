@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:37:31+00:00",
+  "updatedAt": "2026-11-27T12:38:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -615827,6 +615827,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T12:37:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127145,
+      "source": "dc",
+      "externalId": "6720203",
+      "title": "웃을때 잇몸 보이는게 죄는 아닌데 본능적으로 싫은 이유가 뭘까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720203&page=1",
+      "postedLabel": "21:37",
+      "postedAt": "2026-11-27T21:37:42+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:38:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127146,
+      "source": "dc",
+      "externalId": "cmt-11051336",
+      "title": "여출은 중꺽마 광수편 여출들이 34기 니왔어야함 그랬으면 영호도 열심히했다 진짜 ㅋㅋㅋ",
+      "excerpt": "34기 여출들 외모 기수평균보다 살짝아래고",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720194&page=1#cmt_11051336",
+      "postedLabel": "11.27 21:37:50",
+      "postedAt": "2026-11-27T21:37:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:38:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -616011,7 +616050,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T21:35:14+09:00"
+      "slowAt": "2026-11-27T21:38:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -637793,6 +637832,7 @@
         "6720099",
         "6720103",
         "6720104",
+        "6720109",
         "6720115",
         "6720116",
         "6720119",
