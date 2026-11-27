@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:45:05+00:00",
+  "updatedAt": "2026-11-27T10:46:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -608049,6 +608049,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T10:45:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126747,
+      "source": "dc",
+      "externalId": "cmt-11050918",
+      "title": "침닦고말해",
+      "excerpt": "순자 ㅁㅊㄴ인게 인터뷰때 사장이 투잡 적극",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "58.79",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719746&page=4#cmt_11050918",
+      "postedLabel": "11.27 18:53:15",
+      "postedAt": "2026-11-27T18:53:15+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:46:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126748,
+      "source": "dc",
+      "externalId": "6719987",
+      "title": "도배 하지마라? 저주할거다",
+      "excerpt": "",
+      "author": "갤러",
+      "company": "",
+      "ip": "1.232",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719987&page=1",
+      "postedLabel": "19:44",
+      "postedAt": "2026-11-27T19:44:51+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:46:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126749,
+      "source": "dc",
+      "externalId": "6719988",
+      "title": "영철이같은애들 사업한다고 나댈확률 높은데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719988&page=1",
+      "postedLabel": "19:44",
+      "postedAt": "2026-11-27T19:44:59+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:46:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126750,
+      "source": "blind",
+      "externalId": "cmt-462922660",
+      "title": "ㅇㅇ 진심 졸라 이상하더라... 여자한테 관심 처음 받아봐서 신난 거 넘 구려...",
+      "excerpt": "34 상철이 메타인지 박살 났네",
+      "author": "j*********",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%83%81%EC%B2%A0%EC%9D%B4-%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80-%EB%B0%95%EC%82%B4-%EB%82%AC%EB%84%A4-xctuf7tp#462922660",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T19:45:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:46:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -608160,7 +608238,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T19:42:47+09:00"
+      "slowAt": "2026-11-27T19:45:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -629920,6 +629998,7 @@
         "6719713",
         "6719721",
         "6719735",
+        "6719746",
         "6719750",
         "6719758",
         "6719759",
