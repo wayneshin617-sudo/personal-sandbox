@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T20:59:31+00:00",
+  "updatedAt": "2026-11-27T21:08:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -633427,6 +633427,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T20:59:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128040,
+      "source": "dc",
+      "externalId": "cmt-11052183",
+      "title": "광수 175는 되어보이던데",
+      "excerpt": "ㄱㅅ 개빻고 뚱뚱하고 키작은데 뭔 자신감임?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "125.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720526&page=1#cmt_11052183",
+      "postedLabel": "11.28 06:07:45",
+      "postedAt": "2026-11-28T06:07:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T21:08:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -633611,7 +633631,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T06:05:14+09:00"
+      "slowAt": "2026-11-28T06:08:15+09:00"
     },
     "dc": {
       "doneIds": [
@@ -655586,7 +655606,8 @@
         "6720505",
         "6720506",
         "6720517",
-        "6720524"
+        "6720524",
+        "6720526"
       ]
     },
     "blind": {
