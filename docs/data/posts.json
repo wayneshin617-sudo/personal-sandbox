@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:31:28+00:00",
+  "updatedAt": "2026-11-27T04:32:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -586313,6 +586313,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T04:31:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125631,
+      "source": "dc",
+      "externalId": "cmt-11050404",
+      "title": "주목하고 잘 관찰 하시면106.101정체 아실듯ㅋ106.101댄글도 거의 포기 ㅋㅋㅋㅋㅈ",
+      "excerpt": "도배충 정병년 약올렸더니 밤새 도배하고 지쳐서 퍼자는 중",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719183&page=3#cmt_11050404",
+      "postedLabel": "11.27 13:25:17",
+      "postedAt": "2026-11-27T13:25:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:32:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -586497,7 +586517,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T13:29:10+09:00"
+      "slowAt": "2026-11-27T13:32:11+09:00"
     },
     "dc": {
       "doneIds": [
@@ -608041,6 +608061,7 @@
         "6719162",
         "6719168",
         "6719178",
+        "6719183",
         "6719185",
         "6719192",
         "6719195",
