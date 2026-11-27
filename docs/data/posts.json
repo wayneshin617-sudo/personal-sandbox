@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:54:28+00:00",
+  "updatedAt": "2026-11-27T04:55:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -587355,6 +587355,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T04:54:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125684,
+      "source": "dc",
+      "externalId": "6719351",
+      "title": "너도 나한테 애교 부리고 싶어?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719351&page=1",
+      "postedLabel": "13:54",
+      "postedAt": "2026-11-27T13:54:22+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:55:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125685,
+      "source": "dc",
+      "externalId": "cmt-11050453",
+      "title": "누나 있는 남자에 환상을 왜 갖냐? 그리고 TV 보고 또 그 환상이 왜 깨짐?",
+      "excerpt": "34기보고 누나있는 남자에 대한 환상 깨짐",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719345&page=1#cmt_11050453",
+      "postedLabel": "11.27 13:55:05",
+      "postedAt": "2026-11-27T13:55:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:55:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125686,
+      "source": "blind",
+      "externalId": "cmt-462878674",
+      "title": "영철 ㅈㄴ잘생겻음....",
+      "excerpt": "솔직히 잘생긴건",
+      "author": "i*********",
+      "company": "방사선사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%94%EC%A7%81%ED%9E%88-%EC%9E%98%EC%83%9D%EA%B8%B4%EA%B1%B4-mo1ioc7x#462878674",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T13:55:11+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:55:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -609132,7 +609191,8 @@
         "6719325",
         "6719334",
         "6719343",
-        "6719344"
+        "6719344",
+        "6719345"
       ]
     },
     "blind": {
