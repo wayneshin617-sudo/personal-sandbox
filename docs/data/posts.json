@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:36:21+00:00",
+  "updatedAt": "2026-11-27T07:37:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -596100,6 +596100,45 @@
       "firstSeenAt": "2026-11-27T07:36:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126132,
+      "source": "dc",
+      "externalId": "6719596",
+      "title": "남자가 36살까지 모솔이면 여자들이 그냥 거르냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.52",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719596&page=1",
+      "postedLabel": "16:36",
+      "postedAt": "2026-11-27T16:36:05+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T07:37:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126133,
+      "source": "dc",
+      "externalId": "cmt-11050691",
+      "title": "그런 질문을 하는 것 자체가 사람마다 다른데 여자로 묶어서 질문을 하네 니가 그러니 연애도 못하고 결혼도 못했지",
+      "excerpt": "남자가 36살까지 모솔이면 여자들이 그냥 거르냐?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719596&page=1#cmt_11050691",
+      "postedLabel": "11.27 16:36:58",
+      "postedAt": "2026-11-27T16:36:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:37:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -596211,7 +596250,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T16:34:05+09:00"
+      "slowAt": "2026-11-27T16:37:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -617917,6 +617956,7 @@
         "6719499",
         "6719508",
         "6719510",
+        "6719515",
         "6719522",
         "6719531",
         "6719534",
@@ -617928,7 +617968,8 @@
         "6719573",
         "6719574",
         "6719583",
-        "6719595"
+        "6719595",
+        "6719596"
       ]
     },
     "blind": {
