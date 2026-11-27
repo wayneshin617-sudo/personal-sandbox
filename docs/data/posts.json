@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T15:46:10+00:00",
+  "updatedAt": "2026-11-27T15:48:11+00:00",
   "posts": [
     {
       "id": 95749,
@@ -628689,6 +628689,26 @@
       "firstSeenAt": "2026-11-27T15:46:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127799,
+      "source": "dc",
+      "externalId": "cmt-11051674",
+      "title": "지는",
+      "excerpt": "이이경 표정봐 ㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.254",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720300&page=3#cmt_11051674",
+      "postedLabel": "11.27 23:56:30",
+      "postedAt": "2026-11-27T23:56:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:48:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -628873,7 +628893,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T00:44:54+09:00"
+      "slowAt": "2026-11-28T00:47:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -650749,6 +650769,7 @@
         "6720295",
         "6720296",
         "6720299",
+        "6720300",
         "6720302",
         "6720307",
         "6720309",
