@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T06:33:08+00:00",
+  "updatedAt": "2026-11-27T06:35:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -593431,6 +593431,84 @@
       "firstSeenAt": "2026-11-27T06:33:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125995,
+      "source": "dc",
+      "externalId": "cmt-11050575",
+      "title": "저렇게 해서 사겼었다잖아 쟁취했었다 하지 않았음?",
+      "excerpt": "근데 영자도 지독하다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719417&page=1#cmt_11050575",
+      "postedLabel": "11.27 15:04:44",
+      "postedAt": "2026-11-27T15:04:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:35:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125996,
+      "source": "blind",
+      "externalId": "cmt-462890720",
+      "title": "존예 존귀 너무 기염기염해 34살에 귀엽기 쉽지않음",
+      "excerpt": "34옥순은",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%A5%EC%88%9C%EC%9D%80-cz3hhr50#462890720",
+      "postedLabel": "4분",
+      "postedAt": "2026-11-27T15:30:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:35:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125997,
+      "source": "dc",
+      "externalId": "6719511",
+      "title": "9광수 설레게했던 여자 출연자ㄷㄷㄷ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "82.41",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719511&page=1",
+      "postedLabel": "15:33",
+      "postedAt": "2026-11-27T15:33:59+09:00",
+      "views": 12,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:35:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125998,
+      "source": "dc",
+      "externalId": "6719512",
+      "title": "무파마에 계란 넣으면 불법임?",
+      "excerpt": "",
+      "author": "송해나",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719512&page=1",
+      "postedLabel": "15:34",
+      "postedAt": "2026-11-27T15:34:35+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:35:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -593615,7 +593693,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T15:31:49+09:00"
+      "slowAt": "2026-11-27T15:34:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -615230,6 +615308,7 @@
         "6719393",
         "6719399",
         "6719402",
+        "6719417",
         "6719427",
         "6719433",
         "6719450",
