@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:43:22+00:00",
+  "updatedAt": "2026-11-27T07:44:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -596629,6 +596629,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T07:43:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126159,
+      "source": "dc",
+      "externalId": "cmt-11050703",
+      "title": "순자는 맏며느리감 면접본거고ㅋㅋ - dc App",
+      "excerpt": "영수 옥순 대하는거와 순자 대하는거 보면",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719602&page=1#cmt_11050703",
+      "postedLabel": "11.27 16:43:51",
+      "postedAt": "2026-11-27T16:43:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:44:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126160,
+      "source": "blind",
+      "externalId": "cmt-462899926",
+      "title": "키사기 프사기 방지",
+      "excerpt": "신규 소개팅앱 있다면 어떤기능 있었음 좋겠어?",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%A0%EA%B7%9C-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%95%B1-%EC%9E%88%EB%8B%A4%EB%A9%B4-%EC%96%B4%EB%96%A4%EA%B8%B0%EB%8A%A5-%EC%9E%88%EC%97%88%EC%9D%8C-%EC%A2%8B%EA%B2%A0%EC%96%B4-f5hzhd0l#462899926",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T16:44:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:44:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -596813,7 +596853,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T16:41:05+09:00"
+      "slowAt": "2026-11-27T16:44:05+09:00"
     },
     "dc": {
       "doneIds": [
