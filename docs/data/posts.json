@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:48:09+00:00",
+  "updatedAt": "2026-11-27T09:49:20+00:00",
   "posts": [
     {
       "id": 95749,
@@ -604235,6 +604235,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-27T09:48:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126551,
+      "source": "dc",
+      "externalId": "cmt-11050821",
+      "title": "그것도 과해써",
+      "excerpt": "순자야 여자애들 다 골로보내고 경수 얻어서",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719759&page=2#cmt_11050821",
+      "postedLabel": "11.27 17:56:16",
+      "postedAt": "2026-11-27T17:56:16+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:49:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126552,
+      "source": "blind",
+      "externalId": "cmt-462915564",
+      "title": "영호같은 남자가 그쪽한테 직진할일이 없으니 걱정마ㅋㅋ",
+      "excerpt": "뻥안치고 영호가 나한테 직진해도",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%BB%A5%EC%95%88%EC%B9%98%EA%B3%A0-%EC%98%81%ED%98%B8%EA%B0%80-%EB%82%98%ED%95%9C%ED%85%8C-%EC%A7%81%EC%A7%84%ED%95%B4%EB%8F%84-pqr8kdbg#462915564",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T18:49:04+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:49:20+00:00",
       "isSeed": false,
       "kind": "reply"
     }
