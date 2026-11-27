@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:49:09+00:00",
+  "updatedAt": "2026-11-27T08:50:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -600675,6 +600675,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T08:49:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126368,
+      "source": "dc",
+      "externalId": "6719758",
+      "title": "연차없어서 일본 못간다는건 진짜 개석나가네 와 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719758&page=1",
+      "postedLabel": "17:49",
+      "postedAt": "2026-11-27T17:49:00+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T08:50:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126369,
+      "source": "dc",
+      "externalId": "6719759",
+      "title": "순자야 여자애들 다 골로보내고 경수 얻어서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719759&page=1",
+      "postedLabel": "17:49",
+      "postedAt": "2026-11-27T17:49:01+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:50:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126370,
+      "source": "dc",
+      "externalId": "6719761",
+      "title": "안경점 혼자하는거 아니고 동업이라며?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719761&page=1",
+      "postedLabel": "17:49",
+      "postedAt": "2026-11-27T17:49:35+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:50:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126371,
+      "source": "dc",
+      "externalId": "cmt-11050807",
+      "title": "저런 말 하면서 지자신이 얼마나 초라할꺄",
+      "excerpt": "연차없어서 일본 못간다는건 진짜 개석나가네 와 ㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.254",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719758&page=1#cmt_11050807",
+      "postedLabel": "11.27 17:49:47",
+      "postedAt": "2026-11-27T17:49:47+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:50:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -600859,7 +600936,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T17:46:26+09:00"
+      "slowAt": "2026-11-27T17:49:52+09:00"
     },
     "dc": {
       "doneIds": [
@@ -622519,6 +622596,7 @@
         "6719602",
         "6719606",
         "6719612",
+        "6719619",
         "6719621",
         "6719630",
         "6719643",
@@ -622536,7 +622614,8 @@
         "6719711",
         "6719713",
         "6719721",
-        "6719735"
+        "6719735",
+        "6719758"
       ]
     },
     "blind": {
