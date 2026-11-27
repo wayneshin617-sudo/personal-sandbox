@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:53:17+00:00",
+  "updatedAt": "2026-11-27T13:54:17+00:00",
   "posts": [
     {
       "id": 95749,
@@ -621557,6 +621557,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T13:53:17+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127437,
+      "source": "dc",
+      "externalId": "cmt-11051399",
+      "title": "94",
+      "excerpt": "19정숙 매년 외모하락 심하네ㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720225&page=2#cmt_11051399",
+      "postedLabel": "11.27 21:57:23",
+      "postedAt": "2026-11-27T21:57:23+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:54:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127438,
+      "source": "dc",
+      "externalId": "cmt-11051515",
+      "title": "상철 1순위 옥순 아니여 ㅋㅋ",
+      "excerpt": "34 순자는 1순위 영호 2순위 상철...",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "124.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720309&page=1#cmt_11051515",
+      "postedLabel": "11.27 22:53:49",
+      "postedAt": "2026-11-27T22:53:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:54:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127439,
+      "source": "dc",
+      "externalId": "6720315",
+      "title": "31경수가 맨날 국밥만 사주니까 순자가 오늘은 비싼데 데려간네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720315&page=1",
+      "postedLabel": "22:53",
+      "postedAt": "2026-11-27T22:53:54+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:54:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127440,
+      "source": "blind",
+      "externalId": "cmt-462948060",
+      "title": "사투리 안 쓴다고 정색 언제 했지..?",
+      "excerpt": "순자 영호한테사투리안쓴다고 정색해노코",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90-%EC%98%81%ED%98%B8%ED%95%9C%ED%85%8C%EC%82%AC%ED%88%AC%EB%A6%AC%EC%95%88%EC%93%B4%EB%8B%A4%EA%B3%A0-%EC%A0%95%EC%83%89%ED%95%B4%EB%85%B8%EC%BD%94-yrql4p4w#462948060",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T22:54:00+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:54:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -643600,7 +643679,8 @@
         "6720293",
         "6720299",
         "6720302",
-        "6720307"
+        "6720307",
+        "6720309"
       ]
     },
     "blind": {
