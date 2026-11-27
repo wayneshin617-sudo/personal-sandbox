@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:54:42+00:00",
+  "updatedAt": "2026-11-27T12:55:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -617210,6 +617210,45 @@
       "firstSeenAt": "2026-11-27T12:54:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127215,
+      "source": "dc",
+      "externalId": "6720226",
+      "title": "34영호랑 11영철 누가 더 알파남임??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720226&page=1",
+      "postedLabel": "21:55",
+      "postedAt": "2026-11-27T21:55:18+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:55:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127216,
+      "source": "blind",
+      "externalId": "cmt-462939385",
+      "title": "만 23세 입사라길래 추측.. 틀렷구만..",
+      "excerpt": "상철",
+      "author": "w*****",
+      "company": "한국남부발전",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-egpejrjr#462939385",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T21:55:29+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:55:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -639091,6 +639130,7 @@
         "6719758",
         "6719759",
         "6719766",
+        "6719776",
         "6719777",
         "6719780",
         "6719783",
@@ -639213,7 +639253,8 @@
         "6720212",
         "6720214",
         "6720215",
-        "6720220"
+        "6720220",
+        "6720225"
       ]
     },
     "blind": {
