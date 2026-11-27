@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:24:32+00:00",
+  "updatedAt": "2026-11-27T11:25:38+00:00",
   "posts": [
     {
       "id": 95749,
@@ -611244,6 +611244,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:24:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126911,
+      "source": "qoo",
+      "externalId": "cmt-4419890819",
+      "title": "맞아 첨부터 괜찮앗는데 왜 인기없을까 했지 오히려 조용조용 다닌다고 뭐라하는 글도 봤음",
+      "excerpt": "영식이한테 디엠하고 싶다",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419884613#4419890819",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T19:24:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:25:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126912,
+      "source": "dc",
+      "externalId": "6720088",
+      "title": "농식아 눈 좀 낮춰라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720088&page=1",
+      "postedLabel": "20:24",
+      "postedAt": "2026-11-27T20:24:47+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T11:25:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126913,
+      "source": "dc",
+      "externalId": "6720089",
+      "title": "안사귀는데 며칠전 영식이 편지피드 다시공개한거야?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720089&page=1",
+      "postedLabel": "20:25",
+      "postedAt": "2026-11-27T20:25:12+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:25:38+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126914,
+      "source": "dc",
+      "externalId": "cmt-11051142",
+      "title": "누군데?",
+      "excerpt": "농식아 눈 좀 낮춰라",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720088&page=1#cmt_11051142",
+      "postedLabel": "11.27 20:25:20",
+      "postedAt": "2026-11-27T20:25:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:25:38+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -611355,7 +611433,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T20:22:06+09:00"
+      "slowAt": "2026-11-27T20:25:20+09:00"
     },
     "ig": {
       "doneIds": [
@@ -633188,7 +633266,8 @@
         "6720073",
         "6720075",
         "6720081",
-        "6720085"
+        "6720085",
+        "6720088"
       ]
     },
     "blind": {
