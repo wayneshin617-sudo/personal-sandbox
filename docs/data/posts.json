@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:31:22+00:00",
+  "updatedAt": "2026-11-27T07:32:21+00:00",
   "posts": [
     {
       "id": 95749,
@@ -595791,6 +595791,121 @@
       "firstSeenAt": "2026-11-27T07:31:22+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126116,
+      "source": "dc",
+      "externalId": "cmt-11050661",
+      "title": "꼽준다는 생각까지도 못간거 같아서 웃프던데",
+      "excerpt": "여섯시내고향 재질로 띄워봤자 이미 인성 드러났음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.212",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719510&page=2#cmt_11050661",
+      "postedLabel": "11.27 16:07:34",
+      "postedAt": "2026-11-27T16:07:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:32:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126117,
+      "source": "dc",
+      "externalId": "6719584",
+      "title": "트젠 정병 ▶️ IP 58.29 ◀️ 31기 어그로 IP는 다 이 새끼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719584&page=1",
+      "postedLabel": "16:31",
+      "postedAt": "2026-11-27T16:31:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:32:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126118,
+      "source": "dc",
+      "externalId": "6719585",
+      "title": "트젠 정병 ▶️ IP 58.29 ◀️ 31기 어그로 IP는 다 이 새끼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719585&page=1",
+      "postedLabel": "16:31",
+      "postedAt": "2026-11-27T16:31:49+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:32:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126119,
+      "source": "dc",
+      "externalId": "6719586",
+      "title": "트젠 정병 ▶️ IP 58.29 ◀️ 31기 어그로 IP는 다 이 새끼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719586&page=1",
+      "postedLabel": "16:31",
+      "postedAt": "2026-11-27T16:31:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:32:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126120,
+      "source": "dc",
+      "externalId": "6719587",
+      "title": "트젠 정병 ▶️ IP 58.29 ◀️ 31기 어그로 IP는 다 이 새끼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719587&page=1",
+      "postedLabel": "16:31",
+      "postedAt": "2026-11-27T16:31:57+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:32:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126121,
+      "source": "dc",
+      "externalId": "6719588",
+      "title": "트젠 정병 ▶️ IP 58.29 ◀️ 31기 어그로 IP는 다 이 새끼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719588&page=1",
+      "postedLabel": "16:32",
+      "postedAt": "2026-11-27T16:32:01+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:32:21+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -595975,7 +596090,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T16:29:06+09:00"
+      "slowAt": "2026-11-27T16:32:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -617606,6 +617721,7 @@
         "6719493",
         "6719499",
         "6719508",
+        "6719510",
         "6719522",
         "6719531",
         "6719534",
@@ -617615,7 +617731,8 @@
         "6719568",
         "6719572",
         "6719573",
-        "6719574"
+        "6719574",
+        "6719583"
       ]
     },
     "blind": {
