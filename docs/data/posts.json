@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:07:09+00:00",
+  "updatedAt": "2026-11-27T09:08:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -601979,6 +601979,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:07:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126435,
+      "source": "dc",
+      "externalId": "6719798",
+      "title": "미방분 보니깐 끝났네 현숙 영호 최커네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719798&page=1",
+      "postedLabel": "18:07",
+      "postedAt": "2026-11-27T18:07:14+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:08:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126436,
+      "source": "dc",
+      "externalId": "cmt-11050849",
+      "title": "리플리 ㅋㅋㅋㅋㅋㅋ경제적 자립ㅋㅋㅋㅋㅋ",
+      "excerpt": "선참에서 일본 간다 한 모양인데",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719797&page=1#cmt_11050849",
+      "postedLabel": "11.27 18:07:34",
+      "postedAt": "2026-11-27T18:07:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:08:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126437,
+      "source": "blind",
+      "externalId": "cmt-462910478",
+      "title": "생각 듣기 시러 …잇몸봐야 하잖아 ㅠㅠ",
+      "excerpt": "34 영자 진짜 너무 못생김",
+      "author": "u****** 작성자",
+      "company": "LG화학",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%9E%90-%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4-%EB%AA%BB%EC%83%9D%EA%B9%80-v5gmyvf2#462910478",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T18:07:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:08:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -602163,7 +602222,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T18:04:52+09:00"
+      "slowAt": "2026-11-27T18:07:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -623853,7 +623912,8 @@
         "6719780",
         "6719783",
         "6719788",
-        "6719795"
+        "6719795",
+        "6719797"
       ]
     },
     "blind": {
