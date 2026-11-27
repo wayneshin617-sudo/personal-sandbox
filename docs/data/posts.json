@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:21:27+00:00",
+  "updatedAt": "2026-11-27T01:22:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -577762,6 +577762,44 @@
       "firstSeenAt": "2026-11-27T01:21:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125195,
+      "source": "dc",
+      "externalId": "6719123",
+      "title": "순자님은 아직 진정성 있는 사과 못받았겠죠?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.201",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719123&page=1",
+      "postedLabel": "10:21",
+      "postedAt": "2026-11-27T10:21:22+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:22:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125196,
+      "source": "dc",
+      "externalId": "6719125",
+      "title": "광수는 3자장먹고 집에 갔어야 되는데 정숙이 괜히 선택해서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719125&page=1",
+      "postedLabel": "10:21",
+      "postedAt": "2026-11-27T10:21:59+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:22:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -577946,7 +577984,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T10:19:10+09:00"
+      "slowAt": "2026-11-27T10:22:10+09:00"
     },
     "dc": {
       "doneIds": [
