@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T03:13:15+00:00",
+  "updatedAt": "2026-11-27T03:14:16+00:00",
   "posts": [
     {
       "id": 95749,
@@ -582384,6 +582384,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T03:13:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125431,
+      "source": "dc",
+      "externalId": "cmt-11050272",
+      "title": "네다못 자존감낮은분",
+      "excerpt": "진짜 인생은 외모가 다구나",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.165",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719117&page=2#cmt_11050272",
+      "postedLabel": "11.27 12:02:11",
+      "postedAt": "2026-11-27T12:02:11+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:14:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125432,
+      "source": "dc",
+      "externalId": "6719235",
+      "title": "니 제로투는 보고 싶지 않아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719235&page=1",
+      "postedLabel": "12:13",
+      "postedAt": "2026-11-27T12:13:04+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:14:16+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125433,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EA%B4%91%EC%88%98%EC%99%80-%EB%8B%A4%EB%A5%B4%EA%B2%8C-%EC%A0%95%EC%83%81%EC%A0%81%EC%9D%B4%EC%98%80%EB%8D%98-%EA%B4%91%EC%88%98-%EB%AA%A8%EC%9D%8C-rbujk3yi",
+      "title": "34기 광수와 다르게 정상적이였던 광수 모음",
+      "excerpt": "사진은 5장만 첨부되기에 5장만 ㅇㅈㅇㅈ",
+      "author": "신****",
+      "company": "CJ제일제당",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EA%B4%91%EC%88%98%EC%99%80-%EB%8B%A4%EB%A5%B4%EA%B2%8C-%EC%A0%95%EC%83%81%EC%A0%81%EC%9D%B4%EC%98%80%EB%8D%98-%EA%B4%91%EC%88%98-%EB%AA%A8%EC%9D%8C-rbujk3yi",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T12:14:00+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-27T03:14:16+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -582568,7 +582626,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T12:10:59+09:00"
+      "slowAt": "2026-11-27T12:14:00+09:00"
     },
     "dc": {
       "doneIds": [
