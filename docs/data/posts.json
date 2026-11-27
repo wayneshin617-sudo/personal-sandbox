@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T05:36:35+00:00",
+  "updatedAt": "2026-11-27T05:37:34+00:00",
   "posts": [
     {
       "id": 95749,
@@ -589788,6 +589788,45 @@
       "firstSeenAt": "2026-11-27T05:36:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125809,
+      "source": "dc",
+      "externalId": "6719419",
+      "title": "근데 초반에 영철 옥순 현커썰 있지 않았나",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719419&page=1",
+      "postedLabel": "14:37",
+      "postedAt": "2026-11-27T14:37:05+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:37:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125810,
+      "source": "blind",
+      "externalId": "cmt-462883862",
+      "title": "ㅋㅋㅋㅋ 맞네",
+      "excerpt": "나솔 출연자 중 흙내 안나는 사람",
+      "author": "o**** 작성자",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0%EC%9E%90-%EC%A4%91-%ED%9D%99%EB%82%B4-%EC%95%88%EB%82%98%EB%8A%94-%EC%82%AC%EB%9E%8C-4jiv8zir#462883862",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T14:37:17+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:37:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -589972,7 +590011,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T14:33:55+09:00"
+      "slowAt": "2026-11-27T14:37:17+09:00"
     },
     "dc": {
       "doneIds": [
