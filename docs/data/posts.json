@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:25:30+00:00",
+  "updatedAt": "2026-11-27T12:27:30+00:00",
   "posts": [
     {
       "id": 95749,
@@ -615079,6 +615079,65 @@
       "firstSeenAt": "2026-11-27T12:25:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127107,
+      "source": "qoo",
+      "externalId": "cmt-4419936046",
+      "title": "시작부터 거짓말로 시작하더만 뭔 시장활성화 ㅋㅋㅋㅋㅋ 개인적으로 저런 사소한거를 왜 포장하는지 노이해",
+      "excerpt": "영철 인터뷰하는거 왜이렇게 작위적으로 보일끼?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419931374#4419936046",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T20:26:39+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:27:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127108,
+      "source": "dc",
+      "externalId": "6720186",
+      "title": "간호사랑 간호조무사는 왜 문신녀가많을까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720186&page=1",
+      "postedLabel": "21:26",
+      "postedAt": "2026-11-27T21:26:42+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T12:27:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127109,
+      "source": "dc",
+      "externalId": "cmt-11051300",
+      "title": "그냥 현자 인정",
+      "excerpt": "간호사랑 간호조무사는 왜 문신녀가많을까",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720186&page=1#cmt_11051300",
+      "postedLabel": "11.27 21:27:01",
+      "postedAt": "2026-11-27T21:27:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:27:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -615190,7 +615249,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T21:24:14+09:00"
+      "slowAt": "2026-11-27T21:27:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -637059,7 +637118,8 @@
         "6720175",
         "6720176",
         "6720182",
-        "6720183"
+        "6720183",
+        "6720186"
       ]
     },
     "blind": {
