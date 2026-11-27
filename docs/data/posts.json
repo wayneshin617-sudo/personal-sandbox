@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T03:19:16+00:00",
+  "updatedAt": "2026-11-27T03:20:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -582598,6 +582598,44 @@
       "firstSeenAt": "2026-11-27T03:19:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125442,
+      "source": "dc",
+      "externalId": "6719244",
+      "title": "부자될 줄 알았냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "134.82",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719244&page=1",
+      "postedLabel": "12:19",
+      "postedAt": "2026-11-27T12:19:14+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:20:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125443,
+      "source": "dc",
+      "externalId": "6719245",
+      "title": "그 장애인한테 열폭할만한 이유 좀 설명해줘",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719245&page=1",
+      "postedLabel": "12:19",
+      "postedAt": "2026-11-27T12:19:37+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:20:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -582782,7 +582820,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T12:16:59+09:00"
+      "slowAt": "2026-11-27T12:19:59+09:00"
     },
     "dc": {
       "doneIds": [
