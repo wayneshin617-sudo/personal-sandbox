@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:09:47+00:00",
+  "updatedAt": "2026-11-27T00:10:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574805,6 +574805,26 @@
       "firstSeenAt": "2026-11-27T00:09:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125045,
+      "source": "dc",
+      "externalId": "cmt-11050047",
+      "title": "너도 나오면 빌런된다 ㅋㅋㅋ 애초에 이 프로그램은 욕하려고 보는 프로그램인데 뭐 ㅋㅋ",
+      "excerpt": "34기도 출연자 절반이 빌런ㄷㄷ",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "220.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719065&page=1#cmt_11050047",
+      "postedLabel": "11.27 09:10:05",
+      "postedAt": "2026-11-27T09:10:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:10:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -574989,7 +575009,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T09:07:28+09:00"
+      "slowAt": "2026-11-27T09:10:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -596478,7 +596498,8 @@
         "6719046",
         "6719053",
         "6719057",
-        "6719061"
+        "6719061",
+        "6719065"
       ]
     },
     "blind": {
