@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T16:48:41+00:00",
+  "updatedAt": "2026-11-27T16:50:41+00:00",
   "posts": [
     {
       "id": 95749,
@@ -630622,6 +630622,26 @@
       "firstSeenAt": "2026-11-27T16:48:41+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127897,
+      "source": "dc",
+      "externalId": "cmt-11051769",
+      "title": "딱 지금 34영호가 하는짓이네",
+      "excerpt": "31영자는 이미 경수를 파악했네",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "183.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720371&page=2#cmt_11051769",
+      "postedLabel": "11.28 00:31:17",
+      "postedAt": "2026-11-28T00:31:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:50:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -630806,7 +630826,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T01:47:25+09:00"
+      "slowAt": "2026-11-28T01:50:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -652715,6 +652735,7 @@
         "6720362",
         "6720365",
         "6720368",
+        "6720371",
         "6720373",
         "6720375",
         "6720377",
