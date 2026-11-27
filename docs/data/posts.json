@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:56:05+00:00",
+  "updatedAt": "2026-11-27T09:57:04+00:00",
   "posts": [
     {
       "id": 95749,
@@ -604589,6 +604589,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-27T09:56:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126569,
+      "source": "dc",
+      "externalId": "6719878",
+      "title": "현숙도 처음엔 영철이었잖아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719878&page=1",
+      "postedLabel": "18:56",
+      "postedAt": "2026-11-27T18:56:43+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:57:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -604773,7 +604792,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T18:53:25+09:00"
+      "slowAt": "2026-11-27T18:56:48+09:00"
     },
     "dc": {
       "doneIds": [
@@ -628139,6 +628158,7 @@
         "/kr/post/%EB%82%A8%ED%94%BC%EB%94%94-yw11l1xy",
         "/kr/post/%EB%82%A8PD%EB%8A%94-%EB%85%BC%EB%9E%80%EA%B1%B0%EB%A6%AC-%EC%9D%BC%EB%B6%80%EB%9F%AC-%EC%84%AD%EC%99%B8%ED%95%98%EB%8A%94%EA%B1%B4%EA%B0%80-ruz1j0gd",
         "/kr/post/%EB%82%A8PD%EC%9D%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%82%AC%EB%9E%91-33bcfdbg",
+        "/kr/post/%EB%82%A8PD-%EC%B6%9C%EC%82%B0%EC%9C%A8-%EB%86%92%EC%9D%B4%EB%A0%A4%EA%B3%A0-%EC%95%A0-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EB%84%A4-1k0ln1pt",
         "/kr/post/%EB%82%A8pd%EA%B0%80-%EC%A7%84%EC%A7%9C-%EB%82%98%EC%81%9C%EA%B2%8C-g3j0jv0t",
         "/kr/post/%EB%82%A8pd%EB%8A%94-%EC%B0%8D%EC%9C%BC%EB%A9%B4%EC%84%9C-%EC%96%BC%EB%A7%88%EB%82%98-%ED%96%89%EB%B3%B5%ED%96%88%EC%9D%84%EA%B9%8C-vunqqpd8",
         "/kr/post/%EB%82%A8pd%EC%9D%98-%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%82%AC%EB%9E%91-j8ycmqyh",
