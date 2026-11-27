@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:17:21+00:00",
+  "updatedAt": "2026-11-27T08:18:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -598237,6 +598237,45 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-27T08:17:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126242,
+      "source": "dc",
+      "externalId": "cmt-11050677",
+      "title": "옥돼는 살뺐는데 뻐드렁니 꽉깨물고 모른척하네ㅋㅋ",
+      "excerpt": "누가 누가 보정으로 거짓말을 많이 할까? 순자vs옥순",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719492&page=3#cmt_11050677",
+      "postedLabel": "11.27 16:26:21",
+      "postedAt": "2026-11-27T16:26:21+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:18:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126243,
+      "source": "dc",
+      "externalId": "6719665",
+      "title": "데이트도 여자가 움직이는데 무슨ㅋ 호캉스며 해외여행ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719665&page=1",
+      "postedLabel": "17:17",
+      "postedAt": "2026-11-27T17:17:20+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:18:22+00:00",
       "isSeed": false
     }
   ],
