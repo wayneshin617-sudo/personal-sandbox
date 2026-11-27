@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:26:09+00:00",
+  "updatedAt": "2026-11-27T09:27:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -602987,6 +602987,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:26:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126487,
+      "source": "dc",
+      "externalId": "6719838",
+      "title": "존잘남으로 태어났어야 했는데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.61",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719838&page=1",
+      "postedLabel": "18:26",
+      "postedAt": "2026-11-27T18:26:08+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:27:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126488,
+      "source": "dc",
+      "externalId": "6719839",
+      "title": "팔계는 슴이 너무 없어",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "198.145",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719839&page=1",
+      "postedLabel": "18:26",
+      "postedAt": "2026-11-27T18:26:24+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:27:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -603098,7 +603136,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T18:23:54+09:00"
+      "slowAt": "2026-11-27T18:26:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -624870,7 +624908,8 @@
         "6719807",
         "6719809",
         "6719826",
-        "6719836"
+        "6719836",
+        "6719837"
       ]
     },
     "blind": {
