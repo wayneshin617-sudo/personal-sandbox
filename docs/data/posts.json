@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T16:19:16+00:00",
+  "updatedAt": "2026-11-27T16:21:41+00:00",
   "posts": [
     {
       "id": 95749,
@@ -629809,6 +629809,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T16:19:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127856,
+      "source": "dc",
+      "externalId": "cmt-11051813",
+      "title": "ㅋㅋㅋㅋ - dc App",
+      "excerpt": "이런거너무큐트하지안나",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720409&page=1#cmt_11051813",
+      "postedLabel": "11.28 00:55:09",
+      "postedAt": "2026-11-28T00:55:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:21:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127857,
+      "source": "dc",
+      "externalId": "6720452",
+      "title": "여자들이 좋아하는 남자 가수 목소리는 뭘까",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720452&page=1",
+      "postedLabel": "01:21",
+      "postedAt": "2026-11-28T01:21:24+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:21:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -629920,7 +629959,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T01:17:50+09:00"
+      "slowAt": "2026-11-28T01:21:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -651913,6 +651952,7 @@
         "6720402",
         "6720405",
         "6720406",
+        "6720409",
         "6720410",
         "6720412",
         "6720415",
