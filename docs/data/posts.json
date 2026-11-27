@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:54:06+00:00",
+  "updatedAt": "2026-11-27T10:55:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -608903,6 +608903,65 @@
       "firstSeenAt": "2026-11-27T10:54:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126791,
+      "source": "dc",
+      "externalId": "cmt-11051074",
+      "title": "싼티 좔좔...",
+      "excerpt": "페라가모 진짜 감 없네 ㅋㅋㅋ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "59.31",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720005&page=1#cmt_11051074",
+      "postedLabel": "11.27 19:54:14",
+      "postedAt": "2026-11-27T19:54:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:55:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126792,
+      "source": "dc",
+      "externalId": "6720014",
+      "title": "페라가모감없네 k2감없네 ㅋㅋㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720014&page=1",
+      "postedLabel": "19:54",
+      "postedAt": "2026-11-27T19:54:25+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:55:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126793,
+      "source": "blind",
+      "externalId": "cmt-462923695",
+      "title": "입닫고 꺼드럭 거리지만 않으면 상타치 맞음",
+      "excerpt": "영철이 잘생겼어? 진심으로? 😨",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9E%98%EC%83%9D%EA%B2%BC%EC%96%B4-%EC%A7%84%EC%8B%AC%EC%9C%BC%EB%A1%9C-%F0%9F%98%A8-82emat4c#462923695",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T19:54:47+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:55:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -609014,7 +609073,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T19:51:47+09:00"
+      "slowAt": "2026-11-27T19:54:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -630826,7 +630885,8 @@
         "6719989",
         "6719997",
         "6720000",
-        "6720004"
+        "6720004",
+        "6720005"
       ]
     },
     "blind": {
