@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:41:06+00:00",
+  "updatedAt": "2026-11-27T14:42:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -624652,6 +624652,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T14:41:06+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127594,
+      "source": "dc",
+      "externalId": "6720365",
+      "title": "나 도태남인데. 자기관리의 시작은 다이어트냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.52",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720365&page=1",
+      "postedLabel": "23:41",
+      "postedAt": "2026-11-27T23:41:09+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:42:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -624836,7 +624855,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T23:38:37+09:00"
+      "slowAt": "2026-11-27T23:41:49+09:00"
     },
     "dc": {
       "doneIds": [
