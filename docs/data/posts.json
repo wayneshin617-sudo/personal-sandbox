@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:29:57+00:00",
+  "updatedAt": "2026-11-27T11:32:03+00:00",
   "posts": [
     {
       "id": 95749,
@@ -611576,6 +611576,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:29:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126928,
+      "source": "qoo",
+      "externalId": "cmt-4419896707",
+      "title": "그니까 거짓말을 왜 하는거야",
+      "excerpt": "34 영철 슈데 인터뷰한거 나만 별로였나ㅠㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419584521#4419896707",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T19:31:55+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:32:03+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126929,
+      "source": "dc",
+      "externalId": "6720098",
+      "title": "광수햄 누나가 둘이라고했었나?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "194.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720098&page=1",
+      "postedLabel": "20:31",
+      "postedAt": "2026-11-27T20:31:37+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:32:03+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -611687,7 +611726,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T20:28:33+09:00"
+      "slowAt": "2026-11-27T20:31:46+09:00"
     },
     "ig": {
       "doneIds": [
