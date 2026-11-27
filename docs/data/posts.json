@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:49:28+00:00",
+  "updatedAt": "2026-11-27T01:51:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -578584,6 +578584,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T01:49:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125237,
+      "source": "dc",
+      "externalId": "cmt-11050119",
+      "title": "라방 때 모든 말이 구라임",
+      "excerpt": "이거 순자님이 적은 글이냐?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719101&page=1#cmt_11050119",
+      "postedLabel": "11.27 10:01:24",
+      "postedAt": "2026-11-27T10:01:24+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:51:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125238,
+      "source": "blind",
+      "externalId": "cmt-462856121",
+      "title": "지역들 가면,각 지자체한테 협찬 별도로 받긴하더라 그래서 지역 로고 끝날때 광고 뜨기도하고",
+      "excerpt": "34영철이는 왜 이렇게 습관적으로 거짓말을 하지",
+      "author": "o*****",
+      "company": "한국팜비오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%B2%A0%EC%9D%B4%EB%8A%94-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%8A%B5%EA%B4%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%84-%ED%95%98%EC%A7%80-7kno1gct#462856121",
+      "postedLabel": "6분",
+      "postedAt": "2026-11-27T10:45:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:51:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -600284,6 +600324,7 @@
         "6719096",
         "6719098",
         "6719099",
+        "6719101",
         "6719103",
         "6719105",
         "6719106",
