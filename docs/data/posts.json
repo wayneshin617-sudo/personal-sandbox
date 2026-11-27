@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T03:05:16+00:00",
+  "updatedAt": "2026-11-27T03:07:16+00:00",
   "posts": [
     {
       "id": 95749,
@@ -582249,6 +582249,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T03:05:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125424,
+      "source": "dc",
+      "externalId": "cmt-11050277",
+      "title": "수원에 맨날 밥해주러가고 경수 못헤어지겠네",
+      "excerpt": "팝업도 순자가 열어준거라 돈문제는 다 순자맘대로",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719226&page=1#cmt_11050277",
+      "postedLabel": "11.27 12:06:05",
+      "postedAt": "2026-11-27T12:06:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:07:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -603981,7 +604001,8 @@
         "6719209",
         "6719210",
         "6719214",
-        "6719216"
+        "6719216",
+        "6719226"
       ]
     },
     "blind": {
