@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:27:05+00:00",
+  "updatedAt": "2026-11-27T10:28:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -606556,6 +606556,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T10:27:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126670,
+      "source": "dc",
+      "externalId": "6719927",
+      "title": "88.166 얘는 길가다 순자한테 싸대기라도맞음?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719927&page=1",
+      "postedLabel": "19:27",
+      "postedAt": "2026-11-27T19:27:04+09:00",
+      "views": 5,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:28:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -606667,7 +606686,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T19:24:47+09:00"
+      "slowAt": "2026-11-27T19:27:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -628460,7 +628479,8 @@
         "6719904",
         "6719905",
         "6719907",
-        "6719919"
+        "6719919",
+        "6719926"
       ]
     },
     "blind": {
