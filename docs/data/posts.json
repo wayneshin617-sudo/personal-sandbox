@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T16:41:41+00:00",
+  "updatedAt": "2026-11-27T16:42:42+00:00",
   "posts": [
     {
       "id": 95749,
@@ -630485,6 +630485,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T16:41:41+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127890,
+      "source": "dc",
+      "externalId": "cmt-11051366",
+      "title": "무플방지위원회",
+      "excerpt": "나솔 출연해보고싶은 붕이들 있음?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720210&page=5#cmt_11051366",
+      "postedLabel": "11.27 21:44:44",
+      "postedAt": "2026-11-27T21:44:44+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:42:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127891,
+      "source": "dc",
+      "externalId": "6720456",
+      "title": "순자는 5일차에 까이는건가?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720456&page=1",
+      "postedLabel": "01:41",
+      "postedAt": "2026-11-28T01:41:37+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:42:42+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -630596,7 +630635,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T01:39:24+09:00"
+      "slowAt": "2026-11-28T01:42:25+09:00"
     },
     "ig": {
       "doneIds": [
@@ -652503,6 +652542,7 @@
         "6720195",
         "6720204",
         "6720208",
+        "6720210",
         "6720211",
         "6720212",
         "6720214",
@@ -652607,7 +652647,8 @@
         "6720441",
         "6720445",
         "6720448",
-        "6720451"
+        "6720451",
+        "6720453"
       ]
     },
     "blind": {
