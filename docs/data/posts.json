@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:08:05+00:00",
+  "updatedAt": "2026-11-27T11:09:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -610110,6 +610110,85 @@
       "firstSeenAt": "2026-11-27T11:08:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126853,
+      "source": "qoo",
+      "externalId": "cmt-4419876602",
+      "title": "느낌은 정말 비슷해 잘어울린다",
+      "excerpt": "영호 현숙 미방분",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419859537#4419876602",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T19:08:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:09:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126854,
+      "source": "qoo",
+      "externalId": "cmt-4419877290",
+      "title": "엄청 많잖아 친구였다가 사귀거나 결혼하는거 많이봄 절대 내타입 아닌 그런거 아니면 알고지내다 호감 생기는거 흔함",
+      "excerpt": "처음에 이성적 끌림이 없었어도 만나면서 생길수 있을까?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419669538#4419877290",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T19:09:01+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:09:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126855,
+      "source": "dc",
+      "externalId": "6720054",
+      "title": "폭렬 짭숙 2차전 시작함.. 인스타에 나옴 ㄷㄷ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720054&page=1",
+      "postedLabel": "20:08",
+      "postedAt": "2026-11-27T20:08:07+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:09:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126856,
+      "source": "blind",
+      "externalId": "cmt-462925335",
+      "title": "对啊。 怎么了？你喜欢我吗？",
+      "excerpt": "작약 중국어 목소리 엄청 좋네",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%91%EC%95%BD-%EC%A4%91%EA%B5%AD%EC%96%B4-%EB%AA%A9%EC%86%8C%EB%A6%AC-%EC%97%84%EC%B2%AD-%EC%A2%8B%EB%84%A4-nhh1skot#462925335",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T20:08:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:09:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -610294,7 +610373,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T20:05:47+09:00"
+      "slowAt": "2026-11-27T20:08:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -632041,7 +632120,8 @@
         "6720024",
         "6720029",
         "6720034",
-        "6720052"
+        "6720052",
+        "6720053"
       ]
     },
     "blind": {
