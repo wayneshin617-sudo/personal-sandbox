@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:31:27+00:00",
+  "updatedAt": "2026-11-27T01:32:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -577936,6 +577936,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T01:31:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125204,
+      "source": "dc",
+      "externalId": "cmt-11050123",
+      "title": "실물 자주 보는데 진짜 피식했을듯",
+      "excerpt": "31경수 솔직히 이 짤보면서 혼자 키득댔을걸",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719082&page=1#cmt_11050123",
+      "postedLabel": "11.27 10:03:42",
+      "postedAt": "2026-11-27T10:03:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:32:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125205,
+      "source": "blind",
+      "externalId": "cmt-462854459",
+      "title": "현숙이 신경쓰는건 자신 아닐까..",
+      "excerpt": "현숙이 의식하는 건 순자가 아니라 옥순일걸",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%98%EC%8B%9D%ED%95%98%EB%8A%94-%EA%B1%B4-%EC%88%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%98%A5%EC%88%9C%EC%9D%BC%EA%B1%B8-57zyor44#462854459",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T10:32:10+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:32:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -578047,7 +578087,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T10:29:10+09:00"
+      "slowAt": "2026-11-27T10:32:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -599627,6 +599667,7 @@
         "6719072",
         "6719078",
         "6719081",
+        "6719082",
         "6719087",
         "6719091",
         "6719096",
