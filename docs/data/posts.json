@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:34:28+00:00",
+  "updatedAt": "2026-11-27T04:35:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -586353,6 +586353,26 @@
       "firstSeenAt": "2026-11-27T04:34:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125633,
+      "source": "dc",
+      "externalId": "cmt-11050388",
+      "title": "씨발 저 팔 흔들때 진짜 씨발 아.. 존나 씨바아아알",
+      "excerpt": "광수는 무슨일이 있었길래 얼굴이 이리 변한거냐",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "61.252",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719263&page=2#cmt_11050388",
+      "postedLabel": "11.27 13:14:56",
+      "postedAt": "2026-11-27T13:14:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:35:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -586537,7 +586557,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T13:32:11+09:00"
+      "slowAt": "2026-11-27T13:35:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -608108,6 +608128,7 @@
         "6719257",
         "6719259",
         "6719262",
+        "6719263",
         "6719269",
         "6719276",
         "6719278",
