@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:46:43+00:00",
+  "updatedAt": "2026-11-27T08:48:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -600503,6 +600503,120 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T08:46:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126359,
+      "source": "qoo",
+      "externalId": "4419809334",
+      "title": "아래 글 보고 검색해보니까",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419809334",
+      "postedLabel": "17:46",
+      "postedAt": "2026-11-27T17:46:00+09:00",
+      "views": 6,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:48:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126360,
+      "source": "dc",
+      "externalId": "6719750",
+      "title": "마흔살 남자인데 내가 딱 또래 남자중 평균같더라.....",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.150",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719750&page=1",
+      "postedLabel": "17:46",
+      "postedAt": "2026-11-27T17:46:27+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:48:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126361,
+      "source": "dc",
+      "externalId": "6719751",
+      "title": "31경수 순자 일본여행은 어렵지 ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719751&page=1",
+      "postedLabel": "17:46",
+      "postedAt": "2026-11-27T17:46:33+09:00",
+      "views": 19,
+      "recommends": 5,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:48:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126362,
+      "source": "dc",
+      "externalId": "6719753",
+      "title": "지난 기수 순자는 왤케 까이냐",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719753&page=1",
+      "postedLabel": "17:47",
+      "postedAt": "2026-11-27T17:47:21+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:48:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126363,
+      "source": "dc",
+      "externalId": "6719754",
+      "title": "주말에 돈벌어야지 으데 여행이고ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719754&page=1",
+      "postedLabel": "17:47",
+      "postedAt": "2026-11-27T17:47:28+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:48:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126364,
+      "source": "dc",
+      "externalId": "6719755",
+      "title": "문신녀들은 알아서 출연하지마라 혼사길 막혀",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719755&page=1",
+      "postedLabel": "17:47",
+      "postedAt": "2026-11-27T17:47:30+09:00",
+      "views": 4,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:48:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -600614,7 +600728,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T17:45:19+09:00"
+      "slowAt": "2026-11-27T17:47:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -637773,7 +637887,8 @@
         "4419672793",
         "4419676079",
         "4419763367",
-        "4419768942"
+        "4419768942",
+        "4419809334"
       ]
     },
     "keep": "v2",
