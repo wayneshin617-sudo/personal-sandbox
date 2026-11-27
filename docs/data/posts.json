@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T02:56:16+00:00",
+  "updatedAt": "2026-11-27T02:57:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -581844,6 +581844,64 @@
       "firstSeenAt": "2026-11-27T02:56:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125403,
+      "source": "dc",
+      "externalId": "6719212",
+      "title": "[단독]경찰, 음주운전 낸시랭 불구속 송치…면허 취소 수준",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719212&page=1",
+      "postedLabel": "11:56",
+      "postedAt": "2026-11-27T11:56:08+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:57:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125404,
+      "source": "dc",
+      "externalId": "cmt-11050261",
+      "title": "보기만 해도 짜증난다 저 커플",
+      "excerpt": "경수의 X 엑스를 받아라~!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719210&page=1#cmt_11050261",
+      "postedLabel": "11.27 11:56:28",
+      "postedAt": "2026-11-27T11:56:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:57:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125405,
+      "source": "dc",
+      "externalId": "6719213",
+      "title": "외국 사는 새끼들은 알아서 좀 자르면 안되나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719213&page=1",
+      "postedLabel": "11:56",
+      "postedAt": "2026-11-27T11:56:52+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:57:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -581955,7 +582013,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T11:53:59+09:00"
+      "slowAt": "2026-11-27T11:56:59+09:00"
     },
     "ig": {
       "doneIds": [
@@ -603573,7 +603631,8 @@
         "6719185",
         "6719195",
         "6719206",
-        "6719209"
+        "6719209",
+        "6719210"
       ]
     },
     "blind": {
