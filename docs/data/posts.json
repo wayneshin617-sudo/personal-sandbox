@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T21:27:30+00:00",
+  "updatedAt": "2026-11-27T21:31:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -633603,6 +633603,26 @@
       "recommends": 1,
       "comments": null,
       "firstSeenAt": "2026-11-27T21:27:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128049,
+      "source": "dc",
+      "externalId": "cmt-11052149",
+      "title": "저렇게 들어주는게 테토임 ㅎㅎ저상태에서 바꿀거 일도없음",
+      "excerpt": "영식이 돋보였던 순간",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720421&page=3#cmt_11052149",
+      "postedLabel": "11.28 04:04:04",
+      "postedAt": "2026-11-28T04:04:04+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T21:31:31+00:00",
       "isSeed": false,
       "kind": "reply"
     }
