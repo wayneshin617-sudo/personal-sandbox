@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T18:02:00+00:00",
+  "updatedAt": "2026-11-27T18:03:00+00:00",
   "posts": [
     {
       "id": 95749,
@@ -632232,6 +632232,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T18:02:00+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127979,
+      "source": "dc",
+      "externalId": "cmt-11051880",
+      "title": "여자들 디엠 터지겠네",
+      "excerpt": "농식아 너 38이다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720151&page=6#cmt_11051880",
+      "postedLabel": "11.28 01:28:20",
+      "postedAt": "2026-11-28T01:28:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T18:03:00+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -632416,7 +632436,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T02:59:43+09:00"
+      "slowAt": "2026-11-28T03:02:43+09:00"
     },
     "dc": {
       "doneIds": [
