@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:25:22+00:00",
+  "updatedAt": "2026-11-27T07:26:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -595498,6 +595498,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T07:25:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126101,
+      "source": "dc",
+      "externalId": "cmt-11050676",
+      "title": "순자한테 성형했냐 맏며느리감 테스트와 완전 다르잖아 옥순이 이상형인거지",
+      "excerpt": "영수도 참 그런게",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719573&page=1#cmt_11050676",
+      "postedLabel": "11.27 16:25:40",
+      "postedAt": "2026-11-27T16:25:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:26:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126102,
+      "source": "dc",
+      "externalId": "6719574",
+      "title": "영호 옥순이한테 보복당할까봐 무서워서 또 이상한거 리그램했네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719574&page=1",
+      "postedLabel": "16:26",
+      "postedAt": "2026-11-27T16:26:02+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:26:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126103,
+      "source": "blind",
+      "externalId": "cmt-462897527",
+      "title": "술자리에서 친구와도 돼? 하면 은근 기대하다가 실망감이 여간 큰게 아니지 ㅋ",
+      "excerpt": "나쁜 얘긴데...",
+      "author": "무****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%81%9C-%EC%96%98%EA%B8%B4%EB%8D%B0-zx2bk8us#462897527",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T16:26:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:26:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -595682,7 +595741,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T16:23:05+09:00"
+      "slowAt": "2026-11-27T16:26:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -617319,7 +617378,8 @@
         "6719544",
         "6719552",
         "6719568",
-        "6719572"
+        "6719572",
+        "6719573"
       ]
     },
     "blind": {
