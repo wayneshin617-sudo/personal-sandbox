@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T05:08:28+00:00",
+  "updatedAt": "2026-11-27T05:09:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -588233,6 +588233,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T05:08:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125729,
+      "source": "qoo",
+      "externalId": "4419619551",
+      "title": "배반의장미 적응완료야",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419619551",
+      "postedLabel": "14:08",
+      "postedAt": "2026-11-27T14:08:00+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:09:25+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125730,
+      "source": "dc",
+      "externalId": "cmt-11050502",
+      "title": "나갤러(106.101) 뭐가 구라야 이번주꺼에서 싸우고 바로 반지 뺐는데? 정신 안차릴래?",
+      "excerpt": "쥐우성은 국결하는게 답이긴 함",
+      "author": "딸랑딸랑고추",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719354&page=1#cmt_11050502",
+      "postedLabel": "11.27 14:08:45",
+      "postedAt": "2026-11-27T14:08:45+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:09:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -588344,7 +588383,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T14:06:10+09:00"
+      "slowAt": "2026-11-27T14:09:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -625400,7 +625439,8 @@
         "4419456357",
         "4419507579",
         "4419584521",
-        "4419612527"
+        "4419612527",
+        "4419619551"
       ]
     },
     "keep": "v2",
