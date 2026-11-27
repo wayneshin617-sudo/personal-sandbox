@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T15:26:11+00:00",
+  "updatedAt": "2026-11-27T15:27:10+00:00",
   "posts": [
     {
       "id": 95749,
@@ -627506,6 +627506,64 @@
       "firstSeenAt": "2026-11-27T15:26:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127739,
+      "source": "dc",
+      "externalId": "6720413",
+      "title": "지금 나혼산 여자 나솔 출연자같은데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720413&page=1",
+      "postedLabel": "00:26",
+      "postedAt": "2026-11-28T00:26:02+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:27:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127740,
+      "source": "dc",
+      "externalId": "6720414",
+      "title": "요즘엔 옥순 결과가 젤궁금함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720414&page=1",
+      "postedLabel": "00:26",
+      "postedAt": "2026-11-28T00:26:10+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:27:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127741,
+      "source": "dc",
+      "externalId": "cmt-11051761",
+      "title": "꼼마팬션 트리거",
+      "excerpt": "경수랑 순자랑 같이 찍는 사진은 왜 전부 순자가 찍을까",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720412&page=1#cmt_11051761",
+      "postedLabel": "11.28 00:26:51",
+      "postedAt": "2026-11-28T00:26:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:27:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -627690,7 +627748,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T00:23:54+09:00"
+      "slowAt": "2026-11-28T00:26:54+09:00"
     },
     "dc": {
       "doneIds": [
@@ -649601,7 +649659,8 @@
         "6720399",
         "6720402",
         "6720406",
-        "6720410"
+        "6720410",
+        "6720412"
       ]
     },
     "blind": {
