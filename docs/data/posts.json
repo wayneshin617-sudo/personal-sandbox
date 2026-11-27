@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:51:28+00:00",
+  "updatedAt": "2026-11-27T04:52:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -587139,6 +587139,64 @@
       "firstSeenAt": "2026-11-27T04:51:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125673,
+      "source": "dc",
+      "externalId": "cmt-11050448",
+      "title": "능력있어도 못생기면 비참한 케이스가 더 많을듯..",
+      "excerpt": "남자가 잘생겨도 능력없으면 비참한 케이스많음",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "58.236",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719344&page=1#cmt_11050448",
+      "postedLabel": "11.27 13:51:27",
+      "postedAt": "2026-11-27T13:51:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:52:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125674,
+      "source": "dc",
+      "externalId": "6719345",
+      "title": "34기보고 누나있는 남자에 대한 환상 깨짐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "212.104",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719345&page=1",
+      "postedLabel": "13:51",
+      "postedAt": "2026-11-27T13:51:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:52:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125675,
+      "source": "dc",
+      "externalId": "6719346",
+      "title": "34영호는 볼수록 질리는 스타일",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719346&page=1",
+      "postedLabel": "13:52",
+      "postedAt": "2026-11-27T13:52:08+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:52:29+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -608915,7 +608973,8 @@
         "6719324",
         "6719325",
         "6719334",
-        "6719343"
+        "6719343",
+        "6719344"
       ]
     },
     "blind": {
