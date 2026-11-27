@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:46:10+00:00",
+  "updatedAt": "2026-11-27T09:47:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -604079,6 +604079,105 @@
       "firstSeenAt": "2026-11-27T09:46:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126543,
+      "source": "dc",
+      "externalId": "cmt-11050846",
+      "title": "8억집에 1억 대출이면 성공한 인생이지",
+      "excerpt": "마흔살 남자인데 내가 딱 또래 남자중 평균같더라.....",
+      "author": "123",
+      "company": "",
+      "ip": "211.203",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719750&page=2#cmt_11050846",
+      "postedLabel": "11.27 18:06:35",
+      "postedAt": "2026-11-27T18:06:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:47:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126544,
+      "source": "qoo",
+      "externalId": "4419859537",
+      "title": "영호 현숙 미방분",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419859537",
+      "postedLabel": "18:46",
+      "postedAt": "2026-11-27T18:46:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:47:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126545,
+      "source": "dc",
+      "externalId": "cmt-11050899",
+      "title": "오 현자",
+      "excerpt": "근데 영호가 순자 좋아한다고 생각하는 애들은",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719864&page=1#cmt_11050899",
+      "postedLabel": "11.27 18:46:14",
+      "postedAt": "2026-11-27T18:46:14+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:47:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126546,
+      "source": "blind",
+      "externalId": "cmt-462915307",
+      "title": "인신공격 심하시네요",
+      "excerpt": "뻥안치고 영호가 나한테 직진해도",
+      "author": "희**",
+      "company": "삼성E&A",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%BB%A5%EC%95%88%EC%B9%98%EA%B3%A0-%EC%98%81%ED%98%B8%EA%B0%80-%EB%82%98%ED%95%9C%ED%85%8C-%EC%A7%81%EC%A7%84%ED%95%B4%EB%8F%84-pqr8kdbg#462915307",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T18:46:52+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:47:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126547,
+      "source": "blind",
+      "externalId": "cmt-462915226",
+      "title": "ㅇㅇ여성호르몬 잔뜩 껴있는 얼굴같아 날티가 없다기보단 남성미가 없음",
+      "excerpt": "뻥안치고 영호가 나한테 직진해도",
+      "author": "w** 작성자",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%BB%A5%EC%95%88%EC%B9%98%EA%B3%A0-%EC%98%81%ED%98%B8%EA%B0%80-%EB%82%98%ED%95%9C%ED%85%8C-%EC%A7%81%EC%A7%84%ED%95%B4%EB%8F%84-pqr8kdbg#462915226",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T18:46:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:47:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -604263,7 +604362,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T18:43:53+09:00"
+      "slowAt": "2026-11-27T18:46:53+09:00"
     },
     "dc": {
       "doneIds": [
@@ -625950,6 +626049,7 @@
         "6719713",
         "6719721",
         "6719735",
+        "6719750",
         "6719758",
         "6719759",
         "6719766",
@@ -641385,7 +641485,8 @@
         "4419768942",
         "4419809334",
         "4419824589",
-        "4419831459"
+        "4419831459",
+        "4419859537"
       ]
     },
     "keep": "v2",
