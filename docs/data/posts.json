@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:24:05+00:00",
+  "updatedAt": "2026-11-27T10:25:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -606421,6 +606421,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T10:24:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126663,
+      "source": "dc",
+      "externalId": "6719920",
+      "title": "나솔보니까 못생기면 착하기라도 해야됨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719920&page=1",
+      "postedLabel": "19:24",
+      "postedAt": "2026-11-27T19:24:24+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:25:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126664,
+      "source": "dc",
+      "externalId": "6719921",
+      "title": "88.166 도배하다 긁힌듯ㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719921&page=1",
+      "postedLabel": "19:24",
+      "postedAt": "2026-11-27T19:24:46+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:25:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126665,
+      "source": "blind",
+      "externalId": "cmt-462920025",
+      "title": "가능",
+      "excerpt": "청담 2:2",
+      "author": "I*********",
+      "company": "아시아나에어포트",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B2%AD%EB%8B%B4-22-1fouq4yn#462920025",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T19:24:47+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:25:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -606532,7 +606590,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T19:21:47+09:00"
+      "slowAt": "2026-11-27T19:24:47+09:00"
     },
     "ig": {
       "doneIds": [
