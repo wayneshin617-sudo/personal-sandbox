@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:16:27+00:00",
+  "updatedAt": "2026-11-27T01:17:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -577665,6 +577665,25 @@
       "firstSeenAt": "2026-11-27T01:16:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125190,
+      "source": "qoo",
+      "externalId": "4419416303",
+      "title": "이번주 웃음터진건 혈육전화들",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419416303",
+      "postedLabel": "10:16",
+      "postedAt": "2026-11-27T10:16:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:17:25+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -577776,7 +577795,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T10:14:10+09:00"
+      "slowAt": "2026-11-27T10:17:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -614708,7 +614727,8 @@
         "4419218546",
         "4419232600",
         "4419272169",
-        "4419275225"
+        "4419275225",
+        "4419416303"
       ]
     },
     "keep": "v2",
