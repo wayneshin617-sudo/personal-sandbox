@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:58:21+00:00",
+  "updatedAt": "2026-11-27T07:59:19+00:00",
   "posts": [
     {
       "id": 95749,
@@ -597267,6 +597267,44 @@
       "firstSeenAt": "2026-11-27T07:58:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126192,
+      "source": "qoo",
+      "externalId": "4419768942",
+      "title": "영호 도쿄역에서 사진찍힌거 봤어?",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419768942",
+      "postedLabel": "16:58",
+      "postedAt": "2026-11-27T16:58:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:59:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126193,
+      "source": "dc",
+      "externalId": "6719632",
+      "title": "순자 첫째 야무지다 어필이 결혼 상대자 어필은 되도",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719632&page=1",
+      "postedLabel": "16:58",
+      "postedAt": "2026-11-27T16:58:14+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:59:19+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -597451,7 +597489,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T16:56:05+09:00"
+      "slowAt": "2026-11-27T16:59:05+09:00"
     },
     "dc": {
       "doneIds": [
@@ -634509,7 +634547,8 @@
         "4419669538",
         "4419672793",
         "4419676079",
-        "4419763367"
+        "4419763367",
+        "4419768942"
       ]
     },
     "keep": "v2",
