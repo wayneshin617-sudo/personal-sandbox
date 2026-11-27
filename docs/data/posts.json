@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:53:11+00:00",
+  "updatedAt": "2026-11-27T14:54:11+00:00",
   "posts": [
     {
       "id": 95749,
@@ -625743,6 +625743,45 @@
       "firstSeenAt": "2026-11-27T14:53:11+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127649,
+      "source": "dc",
+      "externalId": "cmt-11051527",
+      "title": "별로 비싼데 아닌거 같은데?",
+      "excerpt": "31경수가 맨날 국밥만 사주니까 순자가 오늘은 비싼데 데려간네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720315&page=2#cmt_11051527",
+      "postedLabel": "11.27 22:59:10",
+      "postedAt": "2026-11-27T22:59:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:54:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127650,
+      "source": "dc",
+      "externalId": "6720375",
+      "title": "내 기준 나솔 역대급 직업",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720375&page=1",
+      "postedLabel": "23:53",
+      "postedAt": "2026-11-27T23:53:06+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:54:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -625927,7 +625966,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T23:50:54+09:00"
+      "slowAt": "2026-11-27T23:53:54+09:00"
     },
     "dc": {
       "doneIds": [
