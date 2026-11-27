@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:43:29+00:00",
+  "updatedAt": "2026-11-27T04:44:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -586606,6 +586606,86 @@
       "firstSeenAt": "2026-11-27T04:43:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125646,
+      "source": "dc",
+      "externalId": "cmt-11050391",
+      "title": "니가 모르면 어쩔건데 ㅋㅋㅋ 너보다 인기많은데",
+      "excerpt": "피부 까만거 왜 좋아하나 모르겟음",
+      "author": "쿙",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719270&page=2#cmt_11050391",
+      "postedLabel": "11.27 13:19:26",
+      "postedAt": "2026-11-27T13:19:26+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:44:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125647,
+      "source": "dc",
+      "externalId": "cmt-11050398",
+      "title": "나갤러(112.222) 니가 모르겠다라는글에 모르면 어쩔건데라고한건데 글 못읽음?",
+      "excerpt": "피부 까만거 왜 좋아하나 모르겟음",
+      "author": "쿙",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719270&page=2#cmt_11050398",
+      "postedLabel": "11.27 13:23:12",
+      "postedAt": "2026-11-27T13:23:12+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:44:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125648,
+      "source": "dc",
+      "externalId": "cmt-11050403",
+      "title": "너 혹시 까맣냐ㅋㅋㅋㅋㅋㅋㅋ 내가 한녀 기분상하게 한거임? ㅋㅋㅋㅋㅋ",
+      "excerpt": "피부 까만거 왜 좋아하나 모르겟음",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719270&page=2#cmt_11050403",
+      "postedLabel": "11.27 13:25:09",
+      "postedAt": "2026-11-27T13:25:09+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:44:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125649,
+      "source": "dc",
+      "externalId": "cmt-11050412",
+      "title": "나갤러(112.222) 와.... 지금 신난거야......? 이런글 쓰는애들 유도하는게 이런거구나....",
+      "excerpt": "피부 까만거 왜 좋아하나 모르겟음",
+      "author": "쿙",
+      "company": "",
+      "ip": "59.15",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719270&page=2#cmt_11050412",
+      "postedLabel": "11.27 13:29:27",
+      "postedAt": "2026-11-27T13:29:27+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:44:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -586790,7 +586870,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T13:41:10+09:00"
+      "slowAt": "2026-11-27T13:44:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -608365,6 +608445,7 @@
         "6719263",
         "6719267",
         "6719269",
+        "6719270",
         "6719276",
         "6719278",
         "6719282",
