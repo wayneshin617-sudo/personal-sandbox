@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:49:31+00:00",
+  "updatedAt": "2026-11-27T12:50:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -616971,6 +616971,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-27T12:49:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127203,
+      "source": "dc",
+      "externalId": "cmt-11051357",
+      "title": "순자는?",
+      "excerpt": "영호 표정이 현숙을 좋아함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720134&page=2#cmt_11051357",
+      "postedLabel": "11.27 21:42:32",
+      "postedAt": "2026-11-27T21:42:32+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:50:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127204,
+      "source": "dc",
+      "externalId": "cmt-11051358",
+      "title": "순자볼땐 동태눈깔이던데",
+      "excerpt": "영호 표정이 현숙을 좋아함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720134&page=2#cmt_11051358",
+      "postedLabel": "11.27 21:42:50",
+      "postedAt": "2026-11-27T21:42:50+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:50:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -617155,7 +617195,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T21:47:14+09:00"
+      "slowAt": "2026-11-27T21:50:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -638948,6 +638988,7 @@
         "6720120",
         "6720124",
         "6720132",
+        "6720134",
         "6720143",
         "6720146",
         "6720148",
@@ -638970,7 +639011,8 @@
         "6720211",
         "6720212",
         "6720214",
-        "6720215"
+        "6720215",
+        "6720220"
       ]
     },
     "blind": {
@@ -644482,6 +644524,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%B2%AB%EB%82%A0%EC%97%90%EB%8A%94-%EC%A0%84%EB%91%90%EC%A7%80%ED%9C%98-%EB%9D%BC%EB%8D%94%EB%8B%88-vtc6wmmm",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%B4%9D%EC%9C%BC%EB%A1%9C-%EC%8F%B4%EB%B2%84%EB%A6%AC%EA%B3%A0%EC%8B%B6%EB%84%A4-ebfbsli5",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%B6%95%EA%B5%AC%EB%A5%BC-%EC%9E%98%ED%95%9C%EB%8B%A4%EA%B3%A0-iw7lkfbu",
+        "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%BA%90%EC%8A%A4%ED%8C%85%EB%8F%BC%EC%84%9C-%EA%B7%B8%EB%A7%8C%EB%91%94%EA%B1%B0-%EC%95%84%EB%85%80-7l78766q",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%82%A4-%EB%AA%87%EC%9E%84-kuzvbzoo",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%83%80%EC%BD%94%EC%A7%91-%EA%B0%80%EC%A1%B1-%EB%AA%85%EC%9D%98%EB%A1%9C-%EA%B2%B8%EC%97%85%EC%9E%84-vuh1r3bz",
         "/kr/post/%EC%98%81%EC%B2%A0%EC%9D%B4-%ED%87%B4%EC%82%AC-%EC%B0%90%EC%9D%B4%EB%84%A4-7ia37pgw",
