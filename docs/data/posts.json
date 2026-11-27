@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:09:43+00:00",
+  "updatedAt": "2026-11-27T10:10:44+00:00",
   "posts": [
     {
       "id": 95749,
@@ -605603,6 +605603,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T10:09:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126621,
+      "source": "blind",
+      "externalId": "cmt-462916922",
+      "title": "슴 사이즈",
+      "excerpt": "신규 소개팅앱 있다면 어떤기능 있었음 좋겠어?",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%8B%A0%EA%B7%9C-%EC%86%8C%EA%B0%9C%ED%8C%85%EC%95%B1-%EC%9E%88%EB%8B%A4%EB%A9%B4-%EC%96%B4%EB%96%A4%EA%B8%B0%EB%8A%A5-%EC%9E%88%EC%97%88%EC%9D%8C-%EC%A2%8B%EA%B2%A0%EC%96%B4-f5hzhd0l#462916922",
+      "postedLabel": "11분",
+      "postedAt": "2026-11-27T18:59:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:10:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126622,
+      "source": "dc",
+      "externalId": "6719901",
+      "title": "현숙 첨에는 외모 역대 Top3로 보였는데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719901&page=1",
+      "postedLabel": "19:10",
+      "postedAt": "2026-11-27T19:10:24+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:10:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126623,
+      "source": "blind",
+      "externalId": "cmt-462918214",
+      "title": "길거리에서 도를 아십니까 할 거 같은 관상",
+      "excerpt": "34 영자 진짜 너무 못생김",
+      "author": "q******",
+      "company": "삼천당제약",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%9E%90-%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4-%EB%AA%BB%EC%83%9D%EA%B9%80-v5gmyvf2#462918214",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T19:10:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:10:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -605787,7 +605846,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T19:06:59+09:00"
+      "slowAt": "2026-11-27T19:10:27+09:00"
     },
     "dc": {
       "doneIds": [
