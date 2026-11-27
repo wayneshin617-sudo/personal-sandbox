@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:09:08+00:00",
+  "updatedAt": "2026-11-27T09:10:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -602117,6 +602117,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:09:08+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126442,
+      "source": "dc",
+      "externalId": "6719801",
+      "title": "순자 입벌구라 자기가 뭔말했는지도 기억 못할듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719801&page=1",
+      "postedLabel": "18:09",
+      "postedAt": "2026-11-27T18:09:25+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:10:09+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126443,
+      "source": "dc",
+      "externalId": "cmt-11050852",
+      "title": "애 울겠다 - dc App",
+      "excerpt": "순자는 돌출입과 주걱턱이 동시에 있는 보기드문",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719799&page=1#cmt_11050852",
+      "postedLabel": "11.27 18:09:30",
+      "postedAt": "2026-11-27T18:09:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:10:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126444,
+      "source": "dc",
+      "externalId": "6719802",
+      "title": "일단 옥순이는 승무원 출신에 키도 173이잖아",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719802&page=1",
+      "postedLabel": "18:09",
+      "postedAt": "2026-11-27T18:09:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:10:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -623994,7 +624052,8 @@
         "6719788",
         "6719795",
         "6719797",
-        "6719798"
+        "6719798",
+        "6719799"
       ]
     },
     "blind": {
