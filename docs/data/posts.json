@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:40:17+00:00",
+  "updatedAt": "2026-11-27T13:41:19+00:00",
   "posts": [
     {
       "id": 95749,
@@ -620464,6 +620464,104 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T13:40:17+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127381,
+      "source": "qoo",
+      "externalId": "cmt-4419988686",
+      "title": "최커는 될듯",
+      "excerpt": "영식영숙 최커될까?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419950751#4419988686",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T21:40:18+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:41:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127382,
+      "source": "dc",
+      "externalId": "6720291",
+      "title": "34 순자도 성격 쎄네..",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720291&page=1",
+      "postedLabel": "22:40",
+      "postedAt": "2026-11-27T22:40:13+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:41:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127383,
+      "source": "dc",
+      "externalId": "cmt-11051479",
+      "title": "ㅇㅇ 현자",
+      "excerpt": "이런 애들이 현숙 욕하는거임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720290&page=1#cmt_11051479",
+      "postedLabel": "11.27 22:40:36",
+      "postedAt": "2026-11-27T22:40:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:41:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127384,
+      "source": "dc",
+      "externalId": "6720292",
+      "title": "34 현숙이 영호 거절하면??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720292&page=1",
+      "postedLabel": "22:40",
+      "postedAt": "2026-11-27T22:40:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:41:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127385,
+      "source": "blind",
+      "externalId": "cmt-462946022",
+      "title": "ㅋㅋ 정리 잘했네.",
+      "excerpt": "이번 기수는",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98%EB%8A%94-zvqv71t3#462946022",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T22:41:00+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:41:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -620575,7 +620673,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T22:38:00+09:00"
+      "slowAt": "2026-11-27T22:41:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -642501,7 +642599,8 @@
         "6720278",
         "6720279",
         "6720280",
-        "6720285"
+        "6720285",
+        "6720290"
       ]
     },
     "blind": {
