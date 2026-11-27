@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T16:47:42+00:00",
+  "updatedAt": "2026-11-27T16:48:41+00:00",
   "posts": [
     {
       "id": 95749,
@@ -630564,6 +630564,64 @@
       "firstSeenAt": "2026-11-27T16:47:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127894,
+      "source": "dc",
+      "externalId": "6720457",
+      "title": "남과 비교하며 살지마",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720457&page=1",
+      "postedLabel": "01:47",
+      "postedAt": "2026-11-28T01:47:31+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T16:48:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127895,
+      "source": "dc",
+      "externalId": "6720459",
+      "title": "34 영호가 잘못한건 아니자너",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.5",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720459&page=1",
+      "postedLabel": "01:48",
+      "postedAt": "2026-11-28T01:48:08+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:48:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127896,
+      "source": "dc",
+      "externalId": "cmt-11051922",
+      "title": "그러게 어차피 내인생 내껀데",
+      "excerpt": "남과 비교하며 살지마",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720457&page=1#cmt_11051922",
+      "postedLabel": "11.28 01:48:09",
+      "postedAt": "2026-11-28T01:48:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T16:48:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -630675,7 +630733,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T01:45:24+09:00"
+      "slowAt": "2026-11-28T01:48:24+09:00"
     },
     "ig": {
       "doneIds": [
@@ -652688,7 +652746,8 @@
         "6720445",
         "6720448",
         "6720451",
-        "6720453"
+        "6720453",
+        "6720457"
       ]
     },
     "blind": {
