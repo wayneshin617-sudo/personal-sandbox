@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:49:05+00:00",
+  "updatedAt": "2026-11-27T10:50:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -608476,6 +608476,85 @@
       "firstSeenAt": "2026-11-27T10:49:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126769,
+      "source": "qoo",
+      "externalId": "cmt-4419861823",
+      "title": "이걸로 영수한테 남은 미세 정 다 떨어짐",
+      "excerpt": "오..영수님은 볼수록 남자인게 다행이네",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419831459#4419861823",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T18:49:38+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:50:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126770,
+      "source": "dc",
+      "externalId": "cmt-11051066",
+      "title": "여자만 안달복달 근데 얼굴이 저정도로 납작할수가 있나",
+      "excerpt": "순자 페라가모광고보다 이사진이 더 좋네뭘",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719997&page=1#cmt_11051066",
+      "postedLabel": "11.27 19:49:03",
+      "postedAt": "2026-11-27T19:49:03+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:50:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126771,
+      "source": "dc",
+      "externalId": "cmt-11051067",
+      "title": "긁힌거봐",
+      "excerpt": "순자 페라가모광고보다 이사진이 더 좋네뭘",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719997&page=1#cmt_11051067",
+      "postedLabel": "11.27 19:49:28",
+      "postedAt": "2026-11-27T19:49:28+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:50:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126772,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98-%EC%8B%A0%EA%B8%B0-v6v3626m",
+      "title": "계결 영수 신기",
+      "excerpt": "존나 지맘대로 막사는 거 같은데 또 성실하게 살아온 거 같아 뭐지이사람은",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98-%EC%8B%A0%EA%B8%B0-v6v3626m",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T19:49:47+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-27T10:50:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -630396,7 +630475,8 @@
         "6719964",
         "6719968",
         "6719974",
-        "6719989"
+        "6719989",
+        "6719997"
       ]
     },
     "blind": {
