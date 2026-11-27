@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:02:18+00:00",
+  "updatedAt": "2026-11-27T14:03:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -622184,6 +622184,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T14:02:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127469,
+      "source": "dc",
+      "externalId": "6720328",
+      "title": "편집샵? 이런곳 아니냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720328&page=1",
+      "postedLabel": "23:02",
+      "postedAt": "2026-11-27T23:02:29+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:03:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127470,
+      "source": "dc",
+      "externalId": "cmt-11051536",
+      "title": "근데 그 말은 현숙이 영호를 완전 떨치겠다는 의지가 아니라 한두달에 한 번 이건 시작하는 연인 사이에는 문제있지 않냐 좀 더 빈도수를 높이는 그런 연애할 각오는 없느냐 하는 의도로 한말임 영호가 진정 현숙 자신을 좋아한다면 그 정도 성의는 보이겠지 아니면 너가 좋지만 너무 힘들다 그런 늬앙스 같음 뭐 반대의견 좋아요",
+      "excerpt": "현숙 영호는 최종적으로 현숙이...",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720322&page=1#cmt_11051536",
+      "postedLabel": "11.27 23:03:00",
+      "postedAt": "2026-11-27T23:03:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:03:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
