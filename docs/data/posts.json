@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:15:07+00:00",
+  "updatedAt": "2026-11-27T09:16:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -602465,6 +602465,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:15:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126460,
+      "source": "qoo",
+      "externalId": "cmt-4419781521",
+      "title": "@4 ㄴㄷ 이거때문에 그냥 ㅎ 하고 봤네ㅋㅋㅋ",
+      "excerpt": "나 방금 인스타에서 영호 순자",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419672793#4419781521",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T17:14:25+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:16:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126461,
+      "source": "dc",
+      "externalId": "cmt-11050863",
+      "title": "5일동안 스트레스 엄청나게 받았노",
+      "excerpt": "이게 마운자로 부작용 탈모면 순자는 어떻게 된거야?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "58.29",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719809&page=1#cmt_11050863",
+      "postedLabel": "11.27 18:15:15",
+      "postedAt": "2026-11-27T18:15:15+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:16:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126462,
+      "source": "dc",
+      "externalId": "6719815",
+      "title": "순자 진지하게 1위라고 본다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719815&page=1",
+      "postedLabel": "18:15",
+      "postedAt": "2026-11-27T18:15:30+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:16:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -624344,7 +624403,8 @@
         "6719797",
         "6719798",
         "6719799",
-        "6719807"
+        "6719807",
+        "6719809"
       ]
     },
     "blind": {
