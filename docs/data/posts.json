@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:22:10+00:00",
+  "updatedAt": "2026-11-27T09:23:10+00:00",
   "posts": [
     {
       "id": 95749,
@@ -602928,6 +602928,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:22:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126484,
+      "source": "qoo",
+      "externalId": "cmt-4419788461",
+      "title": "ㅁㅈ",
+      "excerpt": "34 영철 슈데 인터뷰한거 나만 별로였나ㅠㅠ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419584521#4419788461",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T17:22:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:23:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126485,
+      "source": "blind",
+      "externalId": "cmt-462912288",
+      "title": "김영철 닮은 나르시스트",
+      "excerpt": "34 영자 진짜 너무 못생김",
+      "author": "ㅘ*",
+      "company": "한국농어촌공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%9E%90-%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4-%EB%AA%BB%EC%83%9D%EA%B9%80-v5gmyvf2#462912288",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T18:22:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:23:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -603112,7 +603152,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T18:19:53+09:00"
+      "slowAt": "2026-11-27T18:22:53+09:00"
     },
     "dc": {
       "doneIds": [
