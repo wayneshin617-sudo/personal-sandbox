@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:50:05+00:00",
+  "updatedAt": "2026-11-27T10:51:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -608555,6 +608555,25 @@
       "comments": 0,
       "firstSeenAt": "2026-11-27T10:50:05+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126773,
+      "source": "dc",
+      "externalId": "6720000",
+      "title": "페레가모",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "14.41",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720000&page=1",
+      "postedLabel": "19:50",
+      "postedAt": "2026-11-27T19:50:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:51:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -608739,7 +608758,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T19:47:47+09:00"
+      "slowAt": "2026-11-27T19:50:47+09:00"
     },
     "dc": {
       "doneIds": [
@@ -630691,6 +630710,7 @@
         "/kr/post/%EA%B3%84%EA%B2%B0-%EB%AC%BC%EB%B2%94%EC%83%81%EC%B2%A0%EB%B3%B4%EB%8B%A4-%EC%A0%95%EC%8B%A0%EB%B3%91%EC%9E%90-%EC%98%81%EC%88%98%EA%B0%80-%EB%8D%94-%ED%99%94%EB%82%98%EB%8D%98%EB%8D%B0-%EC%A0%95%EC%83%81%EC%9E%84-yz3ds3yi",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98%EB%9E%91-%EA%B5%AD%ED%99%94-8dwrlxwt",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98-%EA%B3%A8%ED%94%84%EA%B0%80%EC%A7%80%EA%B3%A0-%EC%97%BC%EB%B3%91%EB%96%A0%EB%8A%94%EA%B1%B0-%EC%A1%B4%EB%82%98-%EA%BC%B4%EB%B3%B4%EA%B8%B0%EC%8B%AB%EB%84%A4-chd4d5en",
+        "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%98-%EC%8B%A0%EA%B8%B0-v6v3626m",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%81%EC%88%99%EA%B0%99%EC%9D%B4-%EB%A7%B9%ED%95%9C-%EC%97%AC%EC%9E%90%EB%8A%94-6m3etx5k",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%98%88%EA%B3%A0%ED%8E%B8-fb071shx",
         "/kr/post/%EA%B3%84%EA%B2%B0-%EC%9D%B4%EC%B1%84%EC%98%81-6zsjwmtz",
