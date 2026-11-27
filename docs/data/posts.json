@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:12:35+00:00",
+  "updatedAt": "2026-11-27T07:13:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -594891,6 +594891,104 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T07:12:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126070,
+      "source": "qoo",
+      "externalId": "cmt-4419677699",
+      "title": "인증 없으면 루머 아녀?",
+      "excerpt": "나 방금 인스타에서 영호 순자",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419672793#4419677699",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T15:12:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:13:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126071,
+      "source": "dc",
+      "externalId": "6719560",
+      "title": "트젠 정병 ▶️ IP 58.29 ◀️ 31기 어그로 IP는 다 이 새끼",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719560&page=1",
+      "postedLabel": "16:12",
+      "postedAt": "2026-11-27T16:12:20+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:13:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126072,
+      "source": "dc",
+      "externalId": "6719561",
+      "title": "보떼 상철은 영숙 같은 여자 만나서 조신하게 살아야함",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719561&page=1",
+      "postedLabel": "16:12",
+      "postedAt": "2026-11-27T16:12:53+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:13:46+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126073,
+      "source": "dc",
+      "externalId": "cmt-11050662",
+      "title": "많이봐라",
+      "excerpt": "돌모씽이 나솔보다 비주얼 딸려도 더 재밌네",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719552&page=1#cmt_11050662",
+      "postedLabel": "11.27 16:13:20",
+      "postedAt": "2026-11-27T16:13:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:13:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126074,
+      "source": "blind",
+      "externalId": "cmt-462895893",
+      "title": "영호 현숙이 제일 나은건 아니더라도 제일 별로라고 생각하는건, 쓴이 생각하는게 어딘가 일반적이진 않아보임.",
+      "excerpt": "나만 영호 현숙이 이번 기수에서 제일 별로임?",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EB%A7%8C-%EC%98%81%ED%98%B8-%ED%98%84%EC%88%99%EC%9D%B4-%EC%9D%B4%EB%B2%88-%EA%B8%B0%EC%88%98%EC%97%90%EC%84%9C-%EC%A0%9C%EC%9D%BC-%EB%B3%84%EB%A1%9C%EC%9E%84-pyximo6f#462895893",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T16:13:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:13:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -595075,7 +595173,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T16:10:08+09:00"
+      "slowAt": "2026-11-27T16:13:28+09:00"
     },
     "dc": {
       "doneIds": [
@@ -616708,7 +616806,8 @@
         "6719531",
         "6719534",
         "6719542",
-        "6719544"
+        "6719544",
+        "6719552"
       ]
     },
     "blind": {
