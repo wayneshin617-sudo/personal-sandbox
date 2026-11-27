@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:46:28+00:00",
+  "updatedAt": "2026-11-27T01:47:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -578466,6 +578466,45 @@
       "firstSeenAt": "2026-11-27T01:46:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125231,
+      "source": "qoo",
+      "externalId": "cmt-4419392767",
+      "title": "내가 순자였으면 진작 놔버렸을텐데ㅋㅋ",
+      "excerpt": "영호 그냥 현숙이면서 왜 모르겠다 하는거임?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419139213#4419392767",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T09:46:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:47:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125232,
+      "source": "dc",
+      "externalId": "6719145",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "155.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719145&page=1",
+      "postedLabel": "10:47",
+      "postedAt": "2026-11-27T10:47:06+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:47:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -578577,7 +578616,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T10:44:10+09:00"
+      "slowAt": "2026-11-27T10:47:09+09:00"
     },
     "ig": {
       "doneIds": [
