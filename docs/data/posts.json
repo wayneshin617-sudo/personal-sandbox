@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T03:24:27+00:00",
+  "updatedAt": "2026-11-27T03:26:36+00:00",
   "posts": [
     {
       "id": 95749,
@@ -582973,6 +582973,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T03:24:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125461,
+      "source": "dc",
+      "externalId": "6719252",
+      "title": "얼마나 멍청하면 저럴까?ㅋㅋ여러 다른사람들이 싫어한다는 생각자체를 못해ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719252&page=1",
+      "postedLabel": "12:26",
+      "postedAt": "2026-11-27T12:26:04+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:26:36+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125462,
+      "source": "dc",
+      "externalId": "6719253",
+      "title": "광수가 정숙에게 관심가지는거 자체가 이상하긴 하잖아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719253&page=1",
+      "postedLabel": "12:26",
+      "postedAt": "2026-11-27T12:26:06+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:26:36+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -583157,7 +583195,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T12:23:05+09:00"
+      "slowAt": "2026-11-27T12:26:20+09:00"
     },
     "dc": {
       "doneIds": [
@@ -604709,7 +604747,8 @@
         "6719216",
         "6719226",
         "6719237",
-        "6719247"
+        "6719247",
+        "6719249"
       ]
     },
     "blind": {
