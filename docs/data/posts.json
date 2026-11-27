@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:09:05+00:00",
+  "updatedAt": "2026-11-27T11:10:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -610189,6 +610189,26 @@
       "firstSeenAt": "2026-11-27T11:09:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126857,
+      "source": "dc",
+      "externalId": "cmt-11050992",
+      "title": "목 있는건 뭐야.???",
+      "excerpt": "순자 입벌구라 자기가 뭔말했는지도 기억 못할듯",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "36.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719801&page=4#cmt_11050992",
+      "postedLabel": "11.27 19:13:21",
+      "postedAt": "2026-11-27T19:13:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:10:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -610300,7 +610320,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T20:06:47+09:00"
+      "slowAt": "2026-11-27T20:09:47+09:00"
     },
     "ig": {
       "doneIds": [
@@ -632076,6 +632096,7 @@
         "6719797",
         "6719798",
         "6719799",
+        "6719801",
         "6719807",
         "6719809",
         "6719815",
