@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T15:56:34+00:00",
+  "updatedAt": "2026-11-27T15:57:33+00:00",
   "posts": [
     {
       "id": 95749,
@@ -628945,6 +628945,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T15:56:34+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127812,
+      "source": "dc",
+      "externalId": "6720436",
+      "title": "잇몸성형이란걸 최근에 처음 알았음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720436&page=1",
+      "postedLabel": "00:56",
+      "postedAt": "2026-11-28T00:56:19+09:00",
+      "views": 18,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:57:33+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127813,
+      "source": "dc",
+      "externalId": "cmt-11051820",
+      "title": "금융권 종사자 텔레BKj908 성공 궤도 오를 사람 좋은 프로젝트 제안 드림",
+      "excerpt": "행원들 혹시 있어?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.213",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720434&page=1#cmt_11051820",
+      "postedLabel": "11.28 00:56:54",
+      "postedAt": "2026-11-28T00:56:54+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:57:33+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -629129,7 +629168,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T00:54:04+09:00"
+      "slowAt": "2026-11-28T00:57:17+09:00"
     },
     "dc": {
       "doneIds": [
@@ -651049,7 +651088,8 @@
         "6720415",
         "6720422",
         "6720423",
-        "6720428"
+        "6720428",
+        "6720434"
       ]
     },
     "blind": {
