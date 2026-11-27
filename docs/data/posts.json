@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:07:18+00:00",
+  "updatedAt": "2026-11-27T13:08:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -617932,6 +617932,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T13:07:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127252,
+      "source": "qoo",
+      "externalId": "cmt-4419965739",
+      "title": "ㅠ 그래도 난 현커 나오면 자연스레 응원하게 돼서 한커플이라도 나왔음 좋겠긴해 영식 잔잔해서 영숙 잘 받아줄것같음",
+      "excerpt": "영식영숙 최커될까?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419950751#4419965739",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T21:07:30+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:08:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127253,
+      "source": "dc",
+      "externalId": "6720245",
+      "title": "간호사는 옆에서 환자가 대장 내시경하는중에도",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720245&page=1",
+      "postedLabel": "22:07",
+      "postedAt": "2026-11-27T22:07:21+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:08:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127254,
+      "source": "dc",
+      "externalId": "6720246",
+      "title": "??? : 날 질투나게 만들어봐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720246&page=1",
+      "postedLabel": "22:07",
+      "postedAt": "2026-11-27T22:07:59+09:00",
+      "views": 3,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-27T13:08:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -639945,7 +640003,8 @@
         "6720229",
         "6720230",
         "6720233",
-        "6720234"
+        "6720234",
+        "6720246"
       ]
     },
     "blind": {
