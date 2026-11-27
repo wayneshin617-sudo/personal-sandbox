@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:20:31+00:00",
+  "updatedAt": "2026-11-27T12:21:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -614786,6 +614786,84 @@
       "firstSeenAt": "2026-11-27T12:20:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127092,
+      "source": "dc",
+      "externalId": "cmt-11050751",
+      "title": "요번기수 현커제로일듯",
+      "excerpt": "34기 커플",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719672&page=7#cmt_11050751",
+      "postedLabel": "11.27 17:21:27",
+      "postedAt": "2026-11-27T17:21:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:21:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127093,
+      "source": "dc",
+      "externalId": "6720179",
+      "title": "현숙영호 대화 편집된건 나솔톤이 아니어서임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720179&page=1",
+      "postedLabel": "21:20",
+      "postedAt": "2026-11-27T21:20:31+09:00",
+      "views": 14,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:21:31+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127094,
+      "source": "dc",
+      "externalId": "cmt-11051273",
+      "title": "허리긴건 죄가아니다",
+      "excerpt": "34영호 진짜 상처 많이 받았을것 같다...",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720176&page=1#cmt_11051273",
+      "postedLabel": "11.27 21:20:58",
+      "postedAt": "2026-11-27T21:20:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:21:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127095,
+      "source": "dc",
+      "externalId": "6720180",
+      "title": "연예인 예능들보면 역겨워 ㅋㅋㅋㅋㅋㅋㅋㅋ 지들끼리 친목질 역겹지않낰ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720180&page=1",
+      "postedLabel": "21:20",
+      "postedAt": "2026-11-27T21:20:59+09:00",
+      "views": 3,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:21:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -614897,7 +614975,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T21:18:14+09:00"
+      "slowAt": "2026-11-27T21:21:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -636645,6 +636723,7 @@
         "6719661",
         "6719670",
         "6719671",
+        "6719672",
         "6719673",
         "6719682",
         "6719684",
@@ -636761,7 +636840,8 @@
         "6720166",
         "6720170",
         "6720172",
-        "6720175"
+        "6720175",
+        "6720176"
       ]
     },
     "blind": {
