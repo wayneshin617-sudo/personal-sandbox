@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T02:13:28+00:00",
+  "updatedAt": "2026-11-27T02:14:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -579960,6 +579960,65 @@
       "firstSeenAt": "2026-11-27T02:13:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125307,
+      "source": "dc",
+      "externalId": "cmt-11050161",
+      "title": "외모도지 외모만은 아니야",
+      "excerpt": "진짜 인생은 외모가 다구나",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719117&page=1#cmt_11050161",
+      "postedLabel": "11.27 10:30:17",
+      "postedAt": "2026-11-27T10:30:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:14:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125308,
+      "source": "dc",
+      "externalId": "cmt-11050166",
+      "title": "영철 잘생겼는데 외모가 다가 아니잖아?",
+      "excerpt": "진짜 인생은 외모가 다구나",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719117&page=1#cmt_11050166",
+      "postedLabel": "11.27 10:35:19",
+      "postedAt": "2026-11-27T10:35:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:14:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125309,
+      "source": "dc",
+      "externalId": "6719170",
+      "title": "나솔 이번기수보다 돌싱n모솔 기수가 더 재밌음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.222",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719170&page=1",
+      "postedLabel": "11:14",
+      "postedAt": "2026-11-27T11:14:00+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:14:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -580071,7 +580130,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T11:11:10+09:00"
+      "slowAt": "2026-11-27T11:14:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -601668,6 +601727,7 @@
         "6719110",
         "6719112",
         "6719115",
+        "6719117",
         "6719125",
         "6719130",
         "6719135",
