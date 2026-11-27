@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T22:41:15+00:00",
+  "updatedAt": "2026-11-27T22:42:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -634115,6 +634115,26 @@
       "firstSeenAt": "2026-11-27T22:41:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128075,
+      "source": "dc",
+      "externalId": "cmt-11052237",
+      "title": "보여지는 행동 기준으로 판단해도 충분하지. 다른 애들 못참고 미친짓하는 거 안보임?ㅋㅋ",
+      "excerpt": "근데 영식이 왜 괜찮다는거임?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "1.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720509&page=1#cmt_11052237",
+      "postedLabel": "11.28 07:41:51",
+      "postedAt": "2026-11-28T07:41:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T22:42:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -634226,7 +634246,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T07:38:57+09:00"
+      "slowAt": "2026-11-28T07:41:57+09:00"
     },
     "ig": {
       "doneIds": [
@@ -656274,6 +656294,7 @@
         "6720503",
         "6720505",
         "6720506",
+        "6720509",
         "6720517",
         "6720522",
         "6720524",
