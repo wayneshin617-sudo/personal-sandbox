@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:04:52+00:00",
+  "updatedAt": "2026-11-27T07:05:53+00:00",
   "posts": [
     {
       "id": 95749,
@@ -594600,6 +594600,26 @@
       "firstSeenAt": "2026-11-27T07:04:52+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126055,
+      "source": "dc",
+      "externalId": "cmt-11050658",
+      "title": "소설가 손창섭 선생님이네요 - dc App",
+      "excerpt": "남자 인물좋다보냐",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719544&page=1#cmt_11050658",
+      "postedLabel": "11.27 16:05:14",
+      "postedAt": "2026-11-27T16:05:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:05:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -594711,7 +594731,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T16:02:14+09:00"
+      "slowAt": "2026-11-27T16:05:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -616414,7 +616434,8 @@
         "6719522",
         "6719531",
         "6719534",
-        "6719542"
+        "6719542",
+        "6719544"
       ]
     },
     "blind": {
