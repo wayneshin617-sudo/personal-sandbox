@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:43:28+00:00",
+  "updatedAt": "2026-11-27T01:44:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -578347,6 +578347,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T01:43:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125225,
+      "source": "dc",
+      "externalId": "cmt-11050116",
+      "title": "개무례하노",
+      "excerpt": "광수 이 새끼 미친 새끼네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719096&page=1#cmt_11050116",
+      "postedLabel": "11.27 09:58:00",
+      "postedAt": "2026-11-27T09:58:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:44:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125226,
+      "source": "dc",
+      "externalId": "6719142",
+      "title": "나솔 노잼되고 방송 한지도 몰랐네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719142&page=1",
+      "postedLabel": "10:43",
+      "postedAt": "2026-11-27T10:43:54+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:44:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -578458,7 +578497,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T10:41:10+09:00"
+      "slowAt": "2026-11-27T10:44:10+09:00"
     },
     "ig": {
       "doneIds": [
