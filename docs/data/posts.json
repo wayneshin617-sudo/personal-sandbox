@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:10:46+00:00",
+  "updatedAt": "2026-11-27T00:11:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -574825,6 +574825,63 @@
       "firstSeenAt": "2026-11-27T00:10:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125046,
+      "source": "dc",
+      "externalId": "6719066",
+      "title": "영철처럼 잔잔바리구라치는 사람 위험함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.116",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719066&page=1",
+      "postedLabel": "09:10",
+      "postedAt": "2026-11-27T09:10:43+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:11:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125047,
+      "source": "dc",
+      "externalId": "6719067",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "135.136",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719067&page=1",
+      "postedLabel": "09:11",
+      "postedAt": "2026-11-27T09:11:09+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:11:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125048,
+      "source": "blind",
+      "externalId": "/kr/post/%ED%95%98%EB%8B%89-%EC%83%9D%EC%82%B0%EC%A7%81%EB%93%A4-%EC%88%98%EC%A4%80%EC%9D%B4-%EC%9B%90%EB%9E%98-%EC%A0%80%EB%9F%B0%EA%B1%B4%EA%B0%80-wosf3qj7",
+      "title": "하닉 생산직들 수준이 원래 저런건가",
+      "excerpt": "ㅋㅇㅇ",
+      "author": "1Ill1lIIIl",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%95%98%EB%8B%89-%EC%83%9D%EC%82%B0%EC%A7%81%EB%93%A4-%EC%88%98%EC%A4%80%EC%9D%B4-%EC%9B%90%EB%9E%98-%EC%A0%80%EB%9F%B0%EA%B1%B4%EA%B0%80-wosf3qj7",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T09:11:28+09:00",
+      "views": 0,
+      "recommends": 1,
+      "comments": 0,
+      "firstSeenAt": "2026-11-27T00:11:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
