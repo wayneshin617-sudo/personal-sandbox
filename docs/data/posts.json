@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:58:30+00:00",
+  "updatedAt": "2026-11-27T11:59:30+00:00",
   "posts": [
     {
       "id": 95749,
@@ -613514,6 +613514,26 @@
       "firstSeenAt": "2026-11-27T11:58:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127027,
+      "source": "dc",
+      "externalId": "cmt-11051151",
+      "title": "1년에 3번은 감",
+      "excerpt": "34영호는 그냥 보내줘야 함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719879&page=4#cmt_11051151",
+      "postedLabel": "11.27 20:30:54",
+      "postedAt": "2026-11-27T20:30:54+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:59:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -613698,7 +613718,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T20:56:15+09:00"
+      "slowAt": "2026-11-27T20:59:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -635453,6 +635473,7 @@
         "6720016",
         "6720024",
         "6720027",
+        "6720028",
         "6720029",
         "6720034",
         "6720052",
