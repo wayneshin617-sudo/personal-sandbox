@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:56:18+00:00",
+  "updatedAt": "2026-11-27T13:57:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -621793,6 +621793,45 @@
       "firstSeenAt": "2026-11-27T13:56:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127449,
+      "source": "dc",
+      "externalId": "6720319",
+      "title": "영호현숙은 현커 가능성 높음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720319&page=1",
+      "postedLabel": "22:56",
+      "postedAt": "2026-11-27T22:56:12+09:00",
+      "views": 16,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:57:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127450,
+      "source": "dc",
+      "externalId": "cmt-11051521",
+      "title": "그러게 너무 자세히 찍네 ㅋㅋㅋ",
+      "excerpt": "퐤강이 데이트식당 협찬 아님?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720318&page=1#cmt_11051521",
+      "postedLabel": "11.27 22:56:40",
+      "postedAt": "2026-11-27T22:56:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:57:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -643738,6 +643777,7 @@
         "6720007",
         "6720014",
         "6720016",
+        "6720022",
         "6720024",
         "6720026",
         "6720027",
@@ -643840,7 +643880,8 @@
         "6720307",
         "6720309",
         "6720311",
-        "6720315"
+        "6720315",
+        "6720318"
       ]
     },
     "blind": {
