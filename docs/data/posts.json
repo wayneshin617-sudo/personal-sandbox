@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T23:00:14+00:00",
+  "updatedAt": "2026-11-27T23:01:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -634469,6 +634469,45 @@
       "firstSeenAt": "2026-11-27T23:00:14+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128093,
+      "source": "dc",
+      "externalId": "cmt-11052234",
+      "title": "레오파드 불범은 상철을 찢어 - dc App",
+      "excerpt": "폭렬이 걍 동물 쫓아다니다가",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720514&page=1#cmt_11052234",
+      "postedLabel": "11.28 07:39:23",
+      "postedAt": "2026-11-28T07:39:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:01:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128094,
+      "source": "dc",
+      "externalId": "6720548",
+      "title": "현숙이 영호보다 잘벌거같은데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720548&page=1",
+      "postedLabel": "08:00",
+      "postedAt": "2026-11-28T08:00:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T23:01:15+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -634653,7 +634692,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T07:57:56+09:00"
+      "slowAt": "2026-11-28T08:00:56+09:00"
     },
     "dc": {
       "doneIds": [
@@ -656630,6 +656669,7 @@
         "6720505",
         "6720506",
         "6720509",
+        "6720514",
         "6720517",
         "6720522",
         "6720524",
