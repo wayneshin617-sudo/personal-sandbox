@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:23:10+00:00",
+  "updatedAt": "2026-11-27T09:26:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -602968,6 +602968,25 @@
       "firstSeenAt": "2026-11-27T09:23:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126486,
+      "source": "dc",
+      "externalId": "6719837",
+      "title": "조건만남으로 4억 번 여자",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719837&page=1",
+      "postedLabel": "18:25",
+      "postedAt": "2026-11-27T18:25:14+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:26:09+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -603152,7 +603171,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T18:22:53+09:00"
+      "slowAt": "2026-11-27T18:25:53+09:00"
     },
     "dc": {
       "doneIds": [
