@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T22:31:15+00:00",
+  "updatedAt": "2026-11-27T22:33:14+00:00",
   "posts": [
     {
       "id": 95749,
@@ -633938,6 +633938,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T22:31:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128066,
+      "source": "dc",
+      "externalId": "cmt-11052223",
+      "title": "전부까진 아님. 영철이 의사면 아이돌도 만나고, 영자가 지잡좆소면 평생모솔임",
+      "excerpt": "나솔보면 외모가 전부같아",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720537&page=1#cmt_11052223",
+      "postedLabel": "11.28 07:32:18",
+      "postedAt": "2026-11-28T07:32:18+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T22:33:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -634049,7 +634069,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T07:29:56+09:00"
+      "slowAt": "2026-11-28T07:32:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -656101,7 +656121,8 @@
         "6720522",
         "6720524",
         "6720526",
-        "6720532"
+        "6720532",
+        "6720537"
       ]
     },
     "blind": {
