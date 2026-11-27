@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:39:28+00:00",
+  "updatedAt": "2026-11-27T04:40:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -586509,6 +586509,44 @@
       "firstSeenAt": "2026-11-27T04:39:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125641,
+      "source": "dc",
+      "externalId": "6719335",
+      "title": "[부동산문학] 2-1. 저는 부동산말고 미국주식 할건데요?",
+      "excerpt": "",
+      "author": "우스",
+      "company": "",
+      "ip": "221.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719335&page=1",
+      "postedLabel": "13:39",
+      "postedAt": "2026-11-27T13:39:26+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:40:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125642,
+      "source": "dc",
+      "externalId": "6719336",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "146.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719336&page=1",
+      "postedLabel": "13:39",
+      "postedAt": "2026-11-27T13:39:52+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:40:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
