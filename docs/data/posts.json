@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:42:50+00:00",
+  "updatedAt": "2026-11-27T11:43:51+00:00",
   "posts": [
     {
       "id": 95749,
@@ -612259,6 +612259,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:42:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126963,
+      "source": "dc",
+      "externalId": "6720120",
+      "title": "현숙 욕하는 ㄴ들 그냥 도파민 중독된 앰생들임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720120&page=1",
+      "postedLabel": "20:42",
+      "postedAt": "2026-11-27T20:42:56+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:43:51+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126964,
+      "source": "dc",
+      "externalId": "cmt-11051184",
+      "title": "나만 그런게 아니네",
+      "excerpt": "와 영철 인터뷰미션은 못보겠다 ㄹㅇ로",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720119&page=1#cmt_11051184",
+      "postedLabel": "11.27 20:43:00",
+      "postedAt": "2026-11-27T20:43:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:43:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -612443,7 +612482,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T20:40:19+09:00"
+      "slowAt": "2026-11-27T20:43:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -634211,7 +634250,8 @@
         "6720099",
         "6720104",
         "6720115",
-        "6720116"
+        "6720116",
+        "6720119"
       ]
     },
     "blind": {
