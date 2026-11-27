@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T06:07:07+00:00",
+  "updatedAt": "2026-11-27T06:08:04+00:00",
   "posts": [
     {
       "id": 95749,
@@ -591909,6 +591909,104 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T06:07:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125917,
+      "source": "dc",
+      "externalId": "cmt-11050503",
+      "title": "아니 인터뷰에서 확신을 받았다잖아 그럼 자기가 1순위인거 아는거지",
+      "excerpt": "ㄴㄴ 현숙이 영호 선택함",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719372&page=2#cmt_11050503",
+      "postedLabel": "11.27 14:10:25",
+      "postedAt": "2026-11-27T14:10:25+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:08:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125918,
+      "source": "qoo",
+      "externalId": "4419672793",
+      "title": "나 방금 인스타에서 영호 순자",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419672793",
+      "postedLabel": "15:07",
+      "postedAt": "2026-11-27T15:07:00+09:00",
+      "views": 7,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:08:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125919,
+      "source": "dc",
+      "externalId": "6719467",
+      "title": "궁딩이 처진 여자들 진짜 많음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719467&page=1",
+      "postedLabel": "15:07",
+      "postedAt": "2026-11-27T15:07:11+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:08:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125920,
+      "source": "blind",
+      "externalId": "cmt-462887575",
+      "title": "ㄴㄴ 벙식이",
+      "excerpt": "남자들이 설렐 때 저런 표정인거야??",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%84%A4%EB%A0%90-%EB%95%8C-%EC%A0%80%EB%9F%B0-%ED%91%9C%EC%A0%95%EC%9D%B8%EA%B1%B0%EC%95%BC-bu15oycc#462887575",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T15:07:48+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:08:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125921,
+      "source": "blind",
+      "externalId": "cmt-462887596",
+      "title": "음 좀 덜 생긴 남자들은 분명히 그런 표정으로 너를 봤을거야 그치만 넌 그들을 보지않고 잘생긴 남자만 바라봤겠지 ㅋㅋㅋㅋㅋ",
+      "excerpt": "남자들이 설렐 때 저런 표정인거야??",
+      "author": "i*********",
+      "company": "한국수력원자력",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%84%A4%EB%A0%90-%EB%95%8C-%EC%A0%80%EB%9F%B0-%ED%91%9C%EC%A0%95%EC%9D%B8%EA%B1%B0%EC%95%BC-bu15oycc#462887596",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T15:07:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:08:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -592093,7 +592191,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T15:04:49+09:00"
+      "slowAt": "2026-11-27T15:07:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -613700,6 +613798,7 @@
         "6719351",
         "6719354",
         "6719361",
+        "6719372",
         "6719373",
         "6719374",
         "6719386",
@@ -629101,7 +629200,8 @@
         "4419612527",
         "4419619551",
         "4419637428",
-        "4419669538"
+        "4419669538",
+        "4419672793"
       ]
     },
     "keep": "v2",
