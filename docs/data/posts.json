@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T15:34:11+00:00",
+  "updatedAt": "2026-11-27T15:35:12+00:00",
   "posts": [
     {
       "id": 95749,
@@ -628076,6 +628076,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-27T15:34:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127768,
+      "source": "dc",
+      "externalId": "cmt-11051778",
+      "title": "나갤러(106.101) 블라인드는 순까글 꾸준히 올라왔었음 순천지들이 개지랄해서 그렇지",
+      "excerpt": "역시 나솔갤이 최고지 더 이상 피코질 따윈 안통함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720422&page=1#cmt_11051778",
+      "postedLabel": "11.28 00:34:10",
+      "postedAt": "2026-11-28T00:34:10+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:35:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127769,
+      "source": "dc",
+      "externalId": "cmt-11051779",
+      "title": "순팔계 인스타 스레드 블라 민심 다 나락갔던데 - dc App",
+      "excerpt": "역시 나솔갤이 최고지 더 이상 피코질 따윈 안통함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720422&page=1#cmt_11051779",
+      "postedLabel": "11.28 00:34:10",
+      "postedAt": "2026-11-28T00:34:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T15:35:12+00:00",
       "isSeed": false,
       "kind": "reply"
     }
