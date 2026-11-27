@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:36:06+00:00",
+  "updatedAt": "2026-11-27T10:37:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -607179,6 +607179,84 @@
       "firstSeenAt": "2026-11-27T10:36:06+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126702,
+      "source": "dc",
+      "externalId": "cmt-11050929",
+      "title": "표정이 아주 그냥",
+      "excerpt": "영호현숙 백퍼 최커다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "author": "나갤러3",
+      "company": "",
+      "ip": "58.79",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719711&page=4#cmt_11050929",
+      "postedLabel": "11.27 18:55:53",
+      "postedAt": "2026-11-27T18:55:53+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:37:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126703,
+      "source": "dc",
+      "externalId": "6719951",
+      "title": "영철이가 잘생기긴했지",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719951&page=1",
+      "postedLabel": "19:36",
+      "postedAt": "2026-11-27T19:36:33+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:37:05+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126704,
+      "source": "dc",
+      "externalId": "cmt-11051044",
+      "title": "불쌍하다 이런 글 남기는 니가",
+      "excerpt": "페레가모",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719944&page=1#cmt_11051044",
+      "postedLabel": "11.27 19:36:37",
+      "postedAt": "2026-11-27T19:36:37+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:37:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126705,
+      "source": "dc",
+      "externalId": "6719952",
+      "title": "트젠 정병 ▶️ IP 58.29 ◀️ 31기 빨고 까고 정신분열 ㅅㄲ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719952&page=1",
+      "postedLabel": "19:36",
+      "postedAt": "2026-11-27T19:36:42+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:37:05+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -607290,7 +607368,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T19:33:47+09:00"
+      "slowAt": "2026-11-27T19:36:46+09:00"
     },
     "ig": {
       "doneIds": [
@@ -629090,7 +629168,8 @@
         "6719930",
         "6719932",
         "6719936",
-        "6719940"
+        "6719940",
+        "6719944"
       ]
     },
     "blind": {
