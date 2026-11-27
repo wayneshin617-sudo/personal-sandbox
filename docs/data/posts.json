@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T03:36:05+00:00",
+  "updatedAt": "2026-11-27T03:37:10+00:00",
   "posts": [
     {
       "id": 95749,
@@ -583563,6 +583563,44 @@
       "firstSeenAt": "2026-11-27T03:36:05+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125491,
+      "source": "dc",
+      "externalId": "6719265",
+      "title": "회계사는 진짜 거래처때문에 한달 8번 골프 나가야해?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719265&page=1",
+      "postedLabel": "12:35",
+      "postedAt": "2026-11-27T12:35:59+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:37:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125492,
+      "source": "dc",
+      "externalId": "6719266",
+      "title": "장미 웃는거 역해서 못보겠네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719266&page=1",
+      "postedLabel": "12:36",
+      "postedAt": "2026-11-27T12:36:31+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T03:37:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -583674,7 +583712,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T12:33:44+09:00"
+      "slowAt": "2026-11-27T12:36:54+09:00"
     },
     "ig": {
       "doneIds": [
