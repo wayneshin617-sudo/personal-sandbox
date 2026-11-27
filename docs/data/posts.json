@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T20:15:34+00:00",
+  "updatedAt": "2026-11-27T20:21:34+00:00",
   "posts": [
     {
       "id": 95749,
@@ -633054,6 +633054,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-27T20:15:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128021,
+      "source": "dc",
+      "externalId": "6720519",
+      "title": "더글로리단 뒷북으로 발작하는거 개웃기네ㅋㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720519&page=1",
+      "postedLabel": "05:20",
+      "postedAt": "2026-11-28T05:20:23+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T20:21:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128022,
+      "source": "dc",
+      "externalId": "6720521",
+      "title": "닮은꼴",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "14.32",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720521&page=1",
+      "postedLabel": "05:20",
+      "postedAt": "2026-11-28T05:20:30+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T20:21:34+00:00",
       "isSeed": false
     }
   ],
