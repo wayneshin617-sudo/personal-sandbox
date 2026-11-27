@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:37:47+00:00",
+  "updatedAt": "2026-11-27T00:38:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -575866,6 +575866,45 @@
       "firstSeenAt": "2026-11-27T00:37:47+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125099,
+      "source": "dc",
+      "externalId": "cmt-11050053",
+      "title": "Sns으로 연락하고 결혼해",
+      "excerpt": "다 싫어했는데 나만 좋아했던 여출",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719033&page=1#cmt_11050053",
+      "postedLabel": "11.27 09:15:20",
+      "postedAt": "2026-11-27T09:15:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:38:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125100,
+      "source": "dc",
+      "externalId": "6719091",
+      "title": "31경수는 더 좋은 여자 만날수있음",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719091&page=1",
+      "postedLabel": "09:38",
+      "postedAt": "2026-11-27T09:38:25+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:38:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -597536,6 +597575,7 @@
         "6719023",
         "6719027",
         "6719029",
+        "6719033",
         "6719035",
         "6719037",
         "6719042",
