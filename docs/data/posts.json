@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:26:44+00:00",
+  "updatedAt": "2026-11-27T11:27:44+00:00",
   "posts": [
     {
       "id": 95749,
@@ -611399,6 +611399,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T11:26:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126919,
+      "source": "dc",
+      "externalId": "6720093",
+      "title": "누나 있는 남자들이 돈 많은 여자 노린다던데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720093&page=1",
+      "postedLabel": "20:26",
+      "postedAt": "2026-11-27T20:26:40+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:27:44+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126920,
+      "source": "dc",
+      "externalId": "cmt-11051143",
+      "title": "ㄹㅇ 아직도 정신못차렷노",
+      "excerpt": "농식아 눈 좀 낮춰라",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720088&page=1#cmt_11051143",
+      "postedLabel": "11.27 20:26:56",
+      "postedAt": "2026-11-27T20:26:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:27:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126921,
+      "source": "blind",
+      "externalId": "cmt-462927435",
+      "title": "외모는 1등임",
+      "excerpt": "작약 중국어 목소리 엄청 좋네",
+      "author": "l*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9E%91%EC%95%BD-%EC%A4%91%EA%B5%AD%EC%96%B4-%EB%AA%A9%EC%86%8C%EB%A6%AC-%EC%97%84%EC%B2%AD-%EC%A2%8B%EB%84%A4-nhh1skot#462927435",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T20:27:27+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:27:44+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -611583,7 +611642,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T20:24:13+09:00"
+      "slowAt": "2026-11-27T20:27:27+09:00"
     },
     "dc": {
       "doneIds": [
