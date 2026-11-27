@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:28:12+00:00",
+  "updatedAt": "2026-11-27T08:29:12+00:00",
   "posts": [
     {
       "id": 95749,
@@ -598842,6 +598842,25 @@
       "firstSeenAt": "2026-11-27T08:28:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126273,
+      "source": "dc",
+      "externalId": "6719687",
+      "title": "폐강이 아니라 완강입니다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719687&page=1",
+      "postedLabel": "17:28",
+      "postedAt": "2026-11-27T17:28:33+09:00",
+      "views": 6,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:29:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -598953,7 +598972,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T17:25:39+09:00"
+      "slowAt": "2026-11-27T17:28:56+09:00"
     },
     "ig": {
       "doneIds": [
@@ -620692,7 +620711,8 @@
         "6719661",
         "6719670",
         "6719673",
-        "6719682"
+        "6719682",
+        "6719684"
       ]
     },
     "blind": {
