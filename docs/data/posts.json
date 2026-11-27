@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:27:30+00:00",
+  "updatedAt": "2026-11-27T12:28:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -615138,6 +615138,25 @@
       "firstSeenAt": "2026-11-27T12:27:30+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127110,
+      "source": "dc",
+      "externalId": "6720189",
+      "title": "현숙은 어차피 영호랑 최커만되도 이득임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.117",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720189&page=1",
+      "postedLabel": "21:28",
+      "postedAt": "2026-11-27T21:28:13+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:28:31+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -637099,6 +637118,7 @@
         "6720082",
         "6720085",
         "6720088",
+        "6720095",
         "6720099",
         "6720104",
         "6720115",
