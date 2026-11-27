@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T04:20:29+00:00",
+  "updatedAt": "2026-11-27T04:21:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -585843,6 +585843,66 @@
       "firstSeenAt": "2026-11-27T04:20:29+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125607,
+      "source": "dc",
+      "externalId": "cmt-11050308",
+      "title": "여기거 왜돌길모솔광고하는거임???",
+      "excerpt": "다음달 재혼하는 돌싱N모솔 여자출연자 ㄷㄷㄷ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719246&page=2#cmt_11050308",
+      "postedLabel": "11.27 12:26:25",
+      "postedAt": "2026-11-27T12:26:25+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:21:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125608,
+      "source": "dc",
+      "externalId": "cmt-11050313",
+      "title": "광고가 아니라 두 프로그램이 비슷하니까 써봤다 나솔갤러중에 이거 보는애도 많음 - dc App",
+      "excerpt": "다음달 재혼하는 돌싱N모솔 여자출연자 ㄷㄷㄷ",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719246&page=2#cmt_11050313",
+      "postedLabel": "11.27 12:27:50",
+      "postedAt": "2026-11-27T12:27:50+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:21:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125609,
+      "source": "dc",
+      "externalId": "cmt-11050394",
+      "title": "영자는 광수가 딱임",
+      "excerpt": "놓칠까 걱정되는 여자",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719310&page=1#cmt_11050394",
+      "postedLabel": "11.27 13:21:04",
+      "postedAt": "2026-11-27T13:21:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T04:21:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -585954,7 +586014,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T13:18:10+09:00"
+      "slowAt": "2026-11-27T13:21:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -607591,6 +607651,7 @@
         "6719242",
         "6719243",
         "6719245",
+        "6719246",
         "6719247",
         "6719249",
         "6719262",
@@ -607601,7 +607662,8 @@
         "6719298",
         "6719302",
         "6719304",
-        "6719309"
+        "6719309",
+        "6719310"
       ]
     },
     "blind": {
