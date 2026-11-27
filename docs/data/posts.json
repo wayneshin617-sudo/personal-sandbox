@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:55:09+00:00",
+  "updatedAt": "2026-11-27T08:56:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -601159,6 +601159,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T08:55:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126393,
+      "source": "dc",
+      "externalId": "cmt-11050818",
+      "title": "카르띠에 시계 할부임 - dc App",
+      "excerpt": "순자 월세밀리고 명품사느라카드대출받아서 결혼못함",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "112.149",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719766&page=1#cmt_11050818",
+      "postedLabel": "11.27 17:55:08",
+      "postedAt": "2026-11-27T17:55:08+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:56:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126394,
+      "source": "dc",
+      "externalId": "6719777",
+      "title": "맞네 순자야 금토일 일본 여행 다녀와라",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719777&page=1",
+      "postedLabel": "17:55",
+      "postedAt": "2026-11-27T17:55:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:56:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126395,
+      "source": "blind",
+      "externalId": "/kr/post/34-%EC%98%81%EC%9E%90-%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4-%EB%AA%BB%EC%83%9D%EA%B9%80-v5gmyvf2",
+      "title": "34 영자 진짜 너무 못생김",
+      "excerpt": "손도 잡기 싫음",
+      "author": "u******",
+      "company": "LG화학",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34-%EC%98%81%EC%9E%90-%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4-%EB%AA%BB%EC%83%9D%EA%B9%80-v5gmyvf2",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T17:55:52+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-27T08:56:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -601343,7 +601401,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T17:52:52+09:00"
+      "slowAt": "2026-11-27T17:55:52+09:00"
     },
     "dc": {
       "doneIds": [
