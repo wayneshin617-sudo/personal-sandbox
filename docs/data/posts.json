@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:07:04+00:00",
+  "updatedAt": "2026-11-27T07:08:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -594658,6 +594658,44 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-27T07:07:04+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126058,
+      "source": "dc",
+      "externalId": "6719552",
+      "title": "돌모씽이 나솔보다 비주얼 딸려도 더 재밌네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719552&page=1",
+      "postedLabel": "16:06",
+      "postedAt": "2026-11-27T16:06:57+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:08:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126059,
+      "source": "dc",
+      "externalId": "6719554",
+      "title": "농식이 무물중",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719554&page=1",
+      "postedLabel": "16:07",
+      "postedAt": "2026-11-27T16:07:39+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:08:15+00:00",
       "isSeed": false
     }
   ],
