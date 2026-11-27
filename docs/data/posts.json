@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T06:59:10+00:00",
+  "updatedAt": "2026-11-27T07:00:21+00:00",
   "posts": [
     {
       "id": 95749,
@@ -594482,6 +594482,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T06:59:10+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126049,
+      "source": "dc",
+      "externalId": "6719545",
+      "title": "그 영숙 전혀 좋아하진 않지만",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "219.250",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719545&page=1",
+      "postedLabel": "15:59",
+      "postedAt": "2026-11-27T15:59:19+09:00",
+      "views": 11,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:00:21+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126050,
+      "source": "dc",
+      "externalId": "cmt-11050651",
+      "title": "조회수망이더라",
+      "excerpt": "34기 선배의 참견 오늘방송 예고스틸샷 뜸 스브스플러스",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719542&page=1#cmt_11050651",
+      "postedLabel": "11.27 15:59:31",
+      "postedAt": "2026-11-27T15:59:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:00:21+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -594666,7 +594705,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T15:56:41+09:00"
+      "slowAt": "2026-11-27T16:00:03+09:00"
     },
     "dc": {
       "doneIds": [
@@ -616294,7 +616333,8 @@
         "6719499",
         "6719522",
         "6719531",
-        "6719534"
+        "6719534",
+        "6719542"
       ]
     },
     "blind": {
