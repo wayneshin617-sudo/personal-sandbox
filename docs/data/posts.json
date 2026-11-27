@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:30:20+00:00",
+  "updatedAt": "2026-11-27T08:31:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -598900,6 +598900,64 @@
       "firstSeenAt": "2026-11-27T08:30:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126276,
+      "source": "dc",
+      "externalId": "6719691",
+      "title": "경수 진짜 순자가 니 시다바리냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719691&page=1",
+      "postedLabel": "17:30",
+      "postedAt": "2026-11-27T17:30:22+09:00",
+      "views": 8,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:31:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126277,
+      "source": "dc",
+      "externalId": "6719692",
+      "title": "정주행기수 추천 좀",
+      "excerpt": "",
+      "author": "주린3",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719692&page=1",
+      "postedLabel": "17:30",
+      "postedAt": "2026-11-27T17:30:33+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:31:29+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126278,
+      "source": "dc",
+      "externalId": "cmt-11050767",
+      "title": "정숙이 전공잔데 얼마나 하찮았을까ㅋㅋ그래도 그런걸로 말안함 - dc App",
+      "excerpt": "남들은 취미 발레 하면서 춤추는거 올리던데",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719688&page=1#cmt_11050767",
+      "postedLabel": "11.27 17:30:57",
+      "postedAt": "2026-11-27T17:30:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:31:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -620752,7 +620810,8 @@
         "6719673",
         "6719682",
         "6719684",
-        "6719687"
+        "6719687",
+        "6719688"
       ]
     },
     "blind": {
