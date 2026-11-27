@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T12:55:46+00:00",
+  "updatedAt": "2026-11-27T12:56:45+00:00",
   "posts": [
     {
       "id": 95749,
@@ -617249,6 +617249,44 @@
       "firstSeenAt": "2026-11-27T12:55:46+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127217,
+      "source": "qoo",
+      "externalId": "4419999011",
+      "title": "번복영철",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4419999011",
+      "postedLabel": "21:55",
+      "postedAt": "2026-11-27T21:55:00+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:56:45+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127218,
+      "source": "dc",
+      "externalId": "6720228",
+      "title": "34 영호 눈빛 비교",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720228&page=1",
+      "postedLabel": "21:55",
+      "postedAt": "2026-11-27T21:55:35+09:00",
+      "views": 23,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T12:56:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -617433,7 +617471,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T21:53:20+09:00"
+      "slowAt": "2026-11-27T21:56:30+09:00"
     },
     "dc": {
       "doneIds": [
@@ -639231,6 +639269,7 @@
         "6720134",
         "6720135",
         "6720143",
+        "6720145",
         "6720146",
         "6720148",
         "6720152",
@@ -654705,7 +654744,8 @@
         "4419931374",
         "4419950751",
         "4419973219",
-        "4419991519"
+        "4419991519",
+        "4419999011"
       ]
     },
     "keep": "v2",
