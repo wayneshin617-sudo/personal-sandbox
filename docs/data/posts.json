@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T21:50:31+00:00",
+  "updatedAt": "2026-11-27T21:54:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -633723,6 +633723,26 @@
       "firstSeenAt": "2026-11-27T21:50:31+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128055,
+      "source": "dc",
+      "externalId": "cmt-11052191",
+      "title": "영호 생태됨",
+      "excerpt": "영호 현숙 둘이 존나 귀엽네ㅋㅋㅋㅋ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720532&page=1#cmt_11052191",
+      "postedLabel": "11.28 06:54:03",
+      "postedAt": "2026-11-28T06:54:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T21:54:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -633834,7 +633854,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T06:51:14+09:00"
+      "slowAt": "2026-11-28T06:54:14+09:00"
     },
     "ig": {
       "doneIds": [
@@ -655884,7 +655904,8 @@
         "6720517",
         "6720522",
         "6720524",
-        "6720526"
+        "6720526",
+        "6720532"
       ]
     },
     "blind": {
