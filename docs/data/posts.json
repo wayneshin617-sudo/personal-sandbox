@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T02:49:16+00:00",
+  "updatedAt": "2026-11-27T02:50:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -581530,6 +581530,45 @@
       "firstSeenAt": "2026-11-27T02:49:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125387,
+      "source": "dc",
+      "externalId": "6719205",
+      "title": "<속보>으따메 장가발 본색 폭로 ㄷㄷ해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.162",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719205&page=1",
+      "postedLabel": "11:49",
+      "postedAt": "2026-11-27T11:49:28+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:50:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125388,
+      "source": "blind",
+      "externalId": "cmt-462863893",
+      "title": "서양이 개인주의 성향이 상대적으로 동양보다 강하니까 그렇지",
+      "excerpt": "난 서양사람들이 문신한거는 크게 신경 안 쓰일거 같음",
+      "author": "l*******",
+      "company": "해양환경공단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%9C-%EC%84%9C%EC%96%91%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AC%B8%EC%8B%A0%ED%95%9C%EA%B1%B0%EB%8A%94-%ED%81%AC%EA%B2%8C-%EC%8B%A0%EA%B2%BD-%EC%95%88-%EC%93%B0%EC%9D%BC%EA%B1%B0-%EA%B0%99%EC%9D%8C-0s8z3crz#462863893",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T11:49:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:50:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -581714,7 +581753,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T11:46:59+09:00"
+      "slowAt": "2026-11-27T11:49:58+09:00"
     },
     "dc": {
       "doneIds": [
