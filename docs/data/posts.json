@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:50:20+00:00",
+  "updatedAt": "2026-11-27T09:51:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -604296,6 +604296,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:50:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126554,
+      "source": "qoo",
+      "externalId": "cmt-4419812365",
+      "title": "@7 현숙이랑 최커관련 스포라도 있는줄",
+      "excerpt": "영호 도쿄역에서 사진찍힌거 봤어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419768942#4419812365",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T17:50:53+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:51:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126555,
+      "source": "dc",
+      "externalId": "cmt-11050901",
+      "title": "니 걱정이나",
+      "excerpt": "순자야 여자애들 다 골로보내고 경수 얻어서",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "58.79",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719759&page=2#cmt_11050901",
+      "postedLabel": "11.27 18:50:33",
+      "postedAt": "2026-11-27T18:50:33+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:51:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126556,
+      "source": "blind",
+      "externalId": "cmt-462915795",
+      "title": "전 남잔데요? 궁금해서 물어보는건데 무슨 자신감으로 혼자 상황 가정해서까지 글 쓰나 싶어서",
+      "excerpt": "뻥안치고 영호가 나한테 직진해도",
+      "author": "에*****",
+      "company": "한국미쓰비시전기오토메이션",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%BB%A5%EC%95%88%EC%B9%98%EA%B3%A0-%EC%98%81%ED%98%B8%EA%B0%80-%EB%82%98%ED%95%9C%ED%85%8C-%EC%A7%81%EC%A7%84%ED%95%B4%EB%8F%84-pqr8kdbg#462915795",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T18:51:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:51:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -604407,7 +604467,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T18:47:53+09:00"
+      "slowAt": "2026-11-27T18:51:14+09:00"
     },
     "ig": {
       "doneIds": [
