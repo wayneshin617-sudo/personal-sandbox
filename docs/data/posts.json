@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:17:46+00:00",
+  "updatedAt": "2026-11-27T00:18:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -575138,6 +575138,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T00:17:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125062,
+      "source": "dc",
+      "externalId": "cmt-11050063",
+      "title": "딱 좌좀갬성ㅋㅋ 오그라든다ㅋㅋ - dc App",
+      "excerpt": "돈없고 교육수준 낮은 정병들이 순천지하는구나",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719070&page=1#cmt_11050063",
+      "postedLabel": "11.27 09:18:21",
+      "postedAt": "2026-11-27T09:18:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:18:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -575249,7 +575269,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T09:15:28+09:00"
+      "slowAt": "2026-11-27T09:18:28+09:00"
     },
     "ig": {
       "doneIds": [
@@ -596813,7 +596833,8 @@
         "6719057",
         "6719061",
         "6719065",
-        "6719069"
+        "6719069",
+        "6719070"
       ]
     },
     "blind": {
