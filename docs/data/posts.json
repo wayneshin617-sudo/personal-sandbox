@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:40:28+00:00",
+  "updatedAt": "2026-11-27T01:42:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -578229,6 +578229,85 @@
       "firstSeenAt": "2026-11-27T01:40:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125219,
+      "source": "qoo",
+      "externalId": "cmt-4419389199",
+      "title": "이성적 끌림 아예 없는데 한쪽이 조건만 봐서 이어진 사이는 결국 바람이든 뭐든 문제생김",
+      "excerpt": "나아~는 영철영자 커플되면 좋을 것 같은게",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419194041#4419389199",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T09:42:08+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:42:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125220,
+      "source": "dc",
+      "externalId": "cmt-11050171",
+      "title": "ㅋㅋㅋ - dc App",
+      "excerpt": "정숙은 왜 광수한테 찍힌 것임?",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719136&page=1#cmt_11050171",
+      "postedLabel": "11.27 10:41:17",
+      "postedAt": "2026-11-27T10:41:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:42:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125221,
+      "source": "dc",
+      "externalId": "cmt-11050172",
+      "title": "선택한죄 - dc App",
+      "excerpt": "정숙은 왜 광수한테 찍힌 것임?",
+      "author": "조아마심",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719136&page=1#cmt_11050172",
+      "postedLabel": "11.27 10:41:38",
+      "postedAt": "2026-11-27T10:41:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:42:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125222,
+      "source": "dc",
+      "externalId": "6719140",
+      "title": "몽골인 결국 열등감폭발",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "114.70",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719140&page=1",
+      "postedLabel": "10:41",
+      "postedAt": "2026-11-27T10:41:57+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:42:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -599935,7 +600014,8 @@
         "6719115",
         "6719125",
         "6719130",
-        "6719135"
+        "6719135",
+        "6719136"
       ]
     },
     "blind": {
