@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:23:20+00:00",
+  "updatedAt": "2026-11-27T07:25:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -595419,6 +595419,85 @@
       "firstSeenAt": "2026-11-27T07:23:20+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126097,
+      "source": "blind",
+      "externalId": "cmt-462891410",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 2222222!!!!!!!!!!",
+      "excerpt": "나쁜 얘긴데...",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%81%9C-%EC%96%98%EA%B8%B4%EB%8D%B0-zx2bk8us#462891410",
+      "postedLabel": "48분",
+      "postedAt": "2026-11-27T15:37:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:25:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126098,
+      "source": "blind",
+      "externalId": "cmt-462891614",
+      "title": "아 삼성 진짜 뒤진다 ㅋㅋㅋ 자꾸 전부터 카리나 건드리는데 도발 개잘하네 ㅋㅋㅋㅋㅋ",
+      "excerpt": "나쁜 얘긴데...",
+      "author": "!*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%81%9C-%EC%96%98%EA%B8%B4%EB%8D%B0-zx2bk8us#462891614",
+      "postedLabel": "47분",
+      "postedAt": "2026-11-27T15:38:05+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:25:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126099,
+      "source": "dc",
+      "externalId": "cmt-11050674",
+      "title": "남이사 뭘 선물을 하든지 말든지",
+      "excerpt": "첫생일에 카메라선물이라니",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719572&page=1#cmt_11050674",
+      "postedLabel": "11.27 16:24:12",
+      "postedAt": "2026-11-27T16:24:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:25:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126100,
+      "source": "dc",
+      "externalId": "6719573",
+      "title": "영수도 참 그런게",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.216",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719573&page=1",
+      "postedLabel": "16:24",
+      "postedAt": "2026-11-27T16:24:20+09:00",
+      "views": 8,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:25:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -595530,7 +595609,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T16:22:05+09:00"
+      "slowAt": "2026-11-27T16:25:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -617239,7 +617318,8 @@
         "6719542",
         "6719544",
         "6719552",
-        "6719568"
+        "6719568",
+        "6719572"
       ]
     },
     "blind": {
