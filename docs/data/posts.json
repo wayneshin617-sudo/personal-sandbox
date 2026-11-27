@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:27:10+00:00",
+  "updatedAt": "2026-11-27T14:29:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -623845,6 +623845,85 @@
       "firstSeenAt": "2026-11-27T14:27:10+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127553,
+      "source": "dc",
+      "externalId": "cmt-11051599",
+      "title": "서울에서 밥먹고 지금 수원일텐데 주말동거 한두번임?",
+      "excerpt": "순자가 매번 수원 내려간다니깐 서울에서 만나는 경수 ㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720348&page=1#cmt_11051599",
+      "postedLabel": "11.27 23:28:23",
+      "postedAt": "2026-11-27T23:28:23+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:29:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127554,
+      "source": "dc",
+      "externalId": "6720349",
+      "title": "경수 순자 둘이 합쳐서 6만원어치 시킴",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720349&page=1",
+      "postedLabel": "23:28",
+      "postedAt": "2026-11-27T23:28:31+09:00",
+      "views": 15,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:29:15+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127555,
+      "source": "blind",
+      "externalId": "cmt-462953211",
+      "title": "재밌다기보단 답답함 그리고 광수 때매 열받고",
+      "excerpt": "34기 은근 재밌지않아?",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%9D%80%EA%B7%BC-%EC%9E%AC%EB%B0%8C%EC%A7%80%EC%95%8A%EC%95%84-lvtcg76p#462953211",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T23:28:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:29:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127556,
+      "source": "blind",
+      "externalId": "cmt-462953215",
+      "title": "적당한 빌런 적당한 훈남 적당한 러브라인 적당히 자극적이고 적당히 달달해",
+      "excerpt": "34기 은근 재밌지않아?",
+      "author": "l*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%9D%80%EA%B7%BC-%EC%9E%AC%EB%B0%8C%EC%A7%80%EC%95%8A%EC%95%84-lvtcg76p#462953215",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T23:28:57+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:29:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -624029,7 +624108,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T23:25:44+09:00"
+      "slowAt": "2026-11-27T23:28:57+09:00"
     },
     "dc": {
       "doneIds": [
@@ -645912,7 +645991,8 @@
         "6720336",
         "6720339",
         "6720342",
-        "6720344"
+        "6720344",
+        "6720348"
       ]
     },
     "blind": {
