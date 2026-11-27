@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T05:10:29+00:00",
+  "updatedAt": "2026-11-27T05:11:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -588291,6 +588291,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T05:10:29+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125732,
+      "source": "dc",
+      "externalId": "cmt-11050504",
+      "title": "무조건 옥순이지 한무당이든 뭐든 다 필요없고 옥순이지 23986190번 물어봐도 옥순임",
+      "excerpt": "한의원원장 영자vs 임상병리사 옥순",
+      "author": "딸랑딸랑고추",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719373&page=1#cmt_11050504",
+      "postedLabel": "11.27 14:10:31",
+      "postedAt": "2026-11-27T14:10:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T05:11:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -588475,7 +588495,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T14:08:10+09:00"
+      "slowAt": "2026-11-27T14:11:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -610073,7 +610093,8 @@
         "6719344",
         "6719345",
         "6719351",
-        "6719354"
+        "6719354",
+        "6719373"
       ]
     },
     "blind": {
