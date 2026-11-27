@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:48:28+00:00",
+  "updatedAt": "2026-11-27T01:49:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -578565,6 +578565,25 @@
       "firstSeenAt": "2026-11-27T01:48:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125236,
+      "source": "dc",
+      "externalId": "6719146",
+      "title": "국화가 좋아할스탈은 34기 영식같은 스탈",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "112.172",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719146&page=1",
+      "postedLabel": "10:48",
+      "postedAt": "2026-11-27T10:48:20+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:49:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -578749,7 +578768,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T10:46:10+09:00"
+      "slowAt": "2026-11-27T10:49:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -600274,7 +600293,8 @@
         "6719125",
         "6719130",
         "6719135",
-        "6719136"
+        "6719136",
+        "6719144"
       ]
     },
     "blind": {
@@ -600418,6 +600438,7 @@
         "/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%95%EC%88%99-uasfvmd4",
         "/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9C%BC%EB%A1%A0-%EC%A0%95%EC%88%99%EC%9D%B4-%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%84%98-%EB%B3%84%EB%A1%9C-icn8gz3y",
         "/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-%EB%82%A8%EC%B6%9C-%ED%9B%84%EA%B8%B0-ie05liwp",
+        "/kr/post/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-%EC%83%9D%EA%B0%81%EC%9D%B8%EB%8D%B0-14%EA%B8%B0-%EA%B4%91%EC%88%98%EB%8A%94-%EB%B3%BC%EB%95%8C%EB%A7%88%EB%8B%A4-%EA%B7%B8-%EA%B0%9C%EA%B7%B8%EB%A7%A8-%EC%96%91%EC%9B%90%EA%B2%BD%EC%9D%B4-%EC%83%9D%EA%B0%81%EB%82%A8-aa5u7f6i",
         "/kr/post/%EA%B0%9C%EC%B7%A8-%EC%97%AC%EC%B6%9C-%EC%99%B8%EB%AA%A8-%EC%B7%A8%ED%96%A5-a2rrjgen",
         "/kr/post/%EA%B0%9C%ED%86%A0%EB%82%98%EC%98%A8%EB%8B%A4-%EC%99%80-8bjkoq0o",
         "/kr/post/%EA%B0%9D%EA%B4%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%88%84%EA%B0%80-%EC%9D%B4%EC%81%A8-7v51u62s",
