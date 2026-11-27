@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T14:04:18+00:00",
+  "updatedAt": "2026-11-27T14:05:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -622242,6 +622242,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T14:04:18+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127472,
+      "source": "dc",
+      "externalId": "6720330",
+      "title": "드디어 취업했다 ㅎㅎ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720330&page=1",
+      "postedLabel": "23:04",
+      "postedAt": "2026-11-27T23:04:38+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:05:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127473,
+      "source": "dc",
+      "externalId": "6720331",
+      "title": "순자이쁨",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.152",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720331&page=1",
+      "postedLabel": "23:04",
+      "postedAt": "2026-11-27T23:04:42+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:05:18+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127474,
+      "source": "blind",
+      "externalId": "cmt-462949648",
+      "title": "근돼를 인정했으면 주기적인 반발이 안 나왔음",
+      "excerpt": "34영수 몸이 논쟁거리가 되나.....?",
+      "author": "C*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%EB%AA%B8%EC%9D%B4-%EB%85%BC%EC%9F%81%EA%B1%B0%EB%A6%AC%EA%B0%80-%EB%90%98%EB%82%98-4nfb0uo8#462949648",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T23:05:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:05:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127475,
+      "source": "dc",
+      "externalId": "cmt-11051545",
+      "title": "a4용지는 너무 과했어.....난 더글로리나 순자나 똑같다고 생각해",
+      "excerpt": "순자 사과 요구는 31입장에선 가불기이긴 해",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720327&page=1#cmt_11051545",
+      "postedLabel": "11.27 23:05:00",
+      "postedAt": "2026-11-27T23:05:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T14:05:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -622353,7 +622431,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T23:02:00+09:00"
+      "slowAt": "2026-11-27T23:05:00+09:00"
     },
     "ig": {
       "doneIds": [
@@ -644293,7 +644371,8 @@
         "6720311",
         "6720315",
         "6720318",
-        "6720322"
+        "6720322",
+        "6720327"
       ]
     },
     "blind": {
