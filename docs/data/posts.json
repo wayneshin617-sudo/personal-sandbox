@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T06:16:07+00:00",
+  "updatedAt": "2026-11-27T06:17:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -592591,6 +592591,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T06:16:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125952,
+      "source": "qoo",
+      "externalId": "cmt-4419626311",
+      "title": "@1 마졐ㅋㅋㅋㅌㅌㅌㅋㅋ",
+      "excerpt": "영호 1픽은 현숙 맞는거같은데 순자처럼 적극적이지는 않으니까",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419612527#4419626311",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T14:16:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:17:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125953,
+      "source": "dc",
+      "externalId": "cmt-11050546",
+      "title": "성격에 심각한 하자가 있자누 여자도 아무리 예뻐봐라 성격 저따위면 괜찮은 남자랑은 결혼 못함",
+      "excerpt": "그니까 결론적으로 영철이는 급이 매우매우높은거야",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "39.121",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719390&page=1#cmt_11050546",
+      "postedLabel": "11.27 14:44:59",
+      "postedAt": "2026-11-27T14:44:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:17:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125954,
+      "source": "blind",
+      "externalId": "cmt-462887210",
+      "title": "영호.영철 ㅡ 평범 이상 영식.상철ㅡ평범(상철은 키보는 사람에겐 평범 이상) 영수.광수 ㅡ평범이하",
+      "excerpt": "궁금",
+      "author": "i*********",
+      "company": "부산교통공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B6%81%EA%B8%88-bld6svmb#462887210",
+      "postedLabel": "12분",
+      "postedAt": "2026-11-27T15:04:49+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:17:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125955,
+      "source": "dc",
+      "externalId": "6719486",
+      "title": "당연히 늙으면 여자들이 노력해야 되는게 맞지 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719486&page=1",
+      "postedLabel": "15:16",
+      "postedAt": "2026-11-27T15:16:00+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:17:06+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -592775,7 +592854,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T15:13:49+09:00"
+      "slowAt": "2026-11-27T15:16:49+09:00"
     },
     "dc": {
       "doneIds": [
@@ -614386,6 +614465,7 @@
         "6719373",
         "6719374",
         "6719386",
+        "6719390",
         "6719393",
         "6719399",
         "6719402",
