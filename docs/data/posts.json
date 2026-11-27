@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:21:09+00:00",
+  "updatedAt": "2026-11-27T09:22:10+00:00",
   "posts": [
     {
       "id": 95749,
@@ -602850,6 +602850,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T09:21:09+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126480,
+      "source": "qoo",
+      "externalId": "cmt-4419787859",
+      "title": "개 길쭉하다",
+      "excerpt": "영호 도쿄역에서 사진찍힌거 봤어?",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419768942#4419787859",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T17:21:45+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:22:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126481,
+      "source": "dc",
+      "externalId": "6719833",
+      "title": "지금퇴근 귀가후 정리 ㅋㅋ",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719833&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-11-27T18:21:31+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:22:10+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126482,
+      "source": "dc",
+      "externalId": "cmt-11050871",
+      "title": "지돈으로 명품 사치품사고 해외여행다니면서 놀거 다놀다가 결혼할때되서 존경남 아파트찾는건 말이되고?",
+      "excerpt": "난 애초에 사별충들 믿지않음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719826&page=1#cmt_11050871",
+      "postedLabel": "11.27 18:21:45",
+      "postedAt": "2026-11-27T18:21:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:22:10+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126483,
+      "source": "dc",
+      "externalId": "6719834",
+      "title": "씨발 부서 사람들 우리부서 노괴 나한테 짬처리시키려고하나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719834&page=1",
+      "postedLabel": "18:21",
+      "postedAt": "2026-11-27T18:21:50+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:22:10+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -624731,7 +624809,8 @@
         "6719798",
         "6719799",
         "6719807",
-        "6719809"
+        "6719809",
+        "6719826"
       ]
     },
     "blind": {
