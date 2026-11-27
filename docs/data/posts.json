@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T11:21:17+00:00",
+  "updatedAt": "2026-11-27T11:22:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -611051,6 +611051,103 @@
       "firstSeenAt": "2026-11-27T11:21:17+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126901,
+      "source": "qoo",
+      "externalId": "cmt-4419887914",
+      "title": "잘어울려",
+      "excerpt": "영호 현숙 미방분",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419859537#4419887914",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T19:21:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:22:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126902,
+      "source": "dc",
+      "externalId": "6720079",
+      "title": "폭렬이는 짭숙이가 ㅅㅅ해줄때까지 저럴것같다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720079&page=1",
+      "postedLabel": "20:21",
+      "postedAt": "2026-11-27T20:21:32+09:00",
+      "views": 4,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:22:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126903,
+      "source": "dc",
+      "externalId": "6720080",
+      "title": "34 영호 현숙 둘이 결혼하면 잘살겠다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720080&page=1",
+      "postedLabel": "20:21",
+      "postedAt": "2026-11-27T20:21:38+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:22:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126904,
+      "source": "dc",
+      "externalId": "6720081",
+      "title": "바쁘면 나솔갤 잘 안 오게 됨",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720081&page=1",
+      "postedLabel": "20:22",
+      "postedAt": "2026-11-27T20:22:02+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:22:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126905,
+      "source": "dc",
+      "externalId": "cmt-11051133",
+      "title": "고대여신과 말섞는건 어떤기분일까",
+      "excerpt": "영호 이새키봐라",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720075&page=1#cmt_11051133",
+      "postedLabel": "11.27 20:22:03",
+      "postedAt": "2026-11-27T20:22:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T11:22:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -611162,7 +611259,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T20:18:47+09:00"
+      "slowAt": "2026-11-27T20:22:06+09:00"
     },
     "ig": {
       "doneIds": [
@@ -632992,7 +633089,8 @@
         "6720058",
         "6720061",
         "6720070",
-        "6720073"
+        "6720073",
+        "6720075"
       ]
     },
     "blind": {
