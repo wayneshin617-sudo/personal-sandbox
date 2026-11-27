@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:52:19+00:00",
+  "updatedAt": "2026-11-27T00:53:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -576438,6 +576438,85 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T00:52:19+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125128,
+      "source": "dc",
+      "externalId": "cmt-11050050",
+      "title": "아우디현숙은 공주병이아니라 공주다",
+      "excerpt": "34도 순자 옥순외엔 다이상함",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719049&page=1#cmt_11050050",
+      "postedLabel": "11.27 09:14:13",
+      "postedAt": "2026-11-27T09:14:13+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:53:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125129,
+      "source": "blind",
+      "externalId": "cmt-462847590",
+      "title": "눈이 너무 풀려있어 ㅋㅋ",
+      "excerpt": "광수는 샘스미스 냄새나는데..",
+      "author": "!*******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EC%83%98%EC%8A%A4%EB%AF%B8%EC%8A%A4-%EB%83%84%EC%83%88%EB%82%98%EB%8A%94%EB%8D%B0-e5mfx1ln#462847590",
+      "postedLabel": "19분",
+      "postedAt": "2026-11-27T09:34:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:53:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125130,
+      "source": "dc",
+      "externalId": "6719103",
+      "title": "틱순자는 나르치고 머리가 굉장히 나쁜편임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719103&page=1",
+      "postedLabel": "09:53",
+      "postedAt": "2026-11-27T09:53:01+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:53:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 125131,
+      "source": "blind",
+      "externalId": "cmt-462849947",
+      "title": "유 쎄이~~~ 암 크레이줴~",
+      "excerpt": "광수는 샘스미스 냄새나는데..",
+      "author": "I*********",
+      "company": "ex-삼정KPMG",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EB%8A%94-%EC%83%98%EC%8A%A4%EB%AF%B8%EC%8A%A4-%EB%83%84%EC%83%88%EB%82%98%EB%8A%94%EB%8D%B0-e5mfx1ln#462849947",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T09:53:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T00:53:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -576622,7 +576701,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T09:49:52+09:00"
+      "slowAt": "2026-11-27T09:53:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -598116,6 +598195,7 @@
         "6719045",
         "6719046",
         "6719047",
+        "6719049",
         "6719053",
         "6719057",
         "6719061",
