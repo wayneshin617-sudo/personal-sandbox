@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:24:16+00:00",
+  "updatedAt": "2026-11-27T13:25:17+00:00",
   "posts": [
     {
       "id": 95749,
@@ -619130,6 +619130,84 @@
       "firstSeenAt": "2026-11-27T13:24:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 127313,
+      "source": "dc",
+      "externalId": "cmt-11051361",
+      "title": "ㅋㅋㅋㅋ",
+      "excerpt": "농식아 눈 좀 낮춰라",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720088&page=3#cmt_11051361",
+      "postedLabel": "11.27 21:43:34",
+      "postedAt": "2026-11-27T21:43:34+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:25:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127314,
+      "source": "dc",
+      "externalId": "6720265",
+      "title": "야 영호가 일본여자 안만나봤겠음? 그게 직접 겪으면 환상 다 깨지고",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720265&page=1",
+      "postedLabel": "22:24",
+      "postedAt": "2026-11-27T22:24:44+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:25:17+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 127315,
+      "source": "dc",
+      "externalId": "cmt-11051441",
+      "title": "이새끼 그냥 결정사 가라",
+      "excerpt": "영호현숙 본방에서 편집한 건 영호 보호하기 위해서네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720263&page=1#cmt_11051441",
+      "postedLabel": "11.27 22:24:57",
+      "postedAt": "2026-11-27T22:24:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:25:17+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 127316,
+      "source": "blind",
+      "externalId": "/kr/post/34%EC%98%81%EC%88%98-%ED%95%9C%EB%B2%88%EC%94%A9-%EB%B3%B8%EC%84%B1-%EB%93%9C%EB%9F%AC%EB%82%B4%EB%8A%94%EA%B2%8C-eqppalm4",
+      "title": "34영수 한번씩 본성 드러내는게",
+      "excerpt": "후르륵 쩝쩝 튜닝했어요? 한의사야 야 공무원 너 박봉...현실적으로 생각해 사람 좋은듯 보이지만 본성이 시정잡배같아서 좀.. 이런 거 보면 남규홍이 그래도 나름 공정하게 편집한다 느껴짐 영수라는 사람의 장단점을 다 골고루 담은듯 초반에 콩나물국 삼둥이아빠재질 어필 보여주고 뒤에 다 까기",
+      "author": "i********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EC%98%81%EC%88%98-%ED%95%9C%EB%B2%88%EC%94%A9-%EB%B3%B8%EC%84%B1-%EB%93%9C%EB%9F%AC%EB%82%B4%EB%8A%94%EA%B2%8C-eqppalm4",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T22:25:00+09:00",
+      "views": 12,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-27T13:25:17+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -619314,7 +619392,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T22:22:00+09:00"
+      "slowAt": "2026-11-27T22:25:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -641156,7 +641234,8 @@
         "6720250",
         "6720253",
         "6720256",
-        "6720260"
+        "6720260",
+        "6720263"
       ]
     },
     "blind": {
