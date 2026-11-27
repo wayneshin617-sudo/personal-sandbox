@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T13:21:17+00:00",
+  "updatedAt": "2026-11-27T13:22:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -618953,6 +618953,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-27T13:21:17+00:00",
       "isSeed": false
+    },
+    {
+      "id": 127304,
+      "source": "blind",
+      "externalId": "cmt-462943246",
+      "title": "한방이 없어서 그래",
+      "excerpt": "영호 계속 고민하는게",
+      "author": "l*********",
+      "company": "딜로이트안진",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EA%B3%84%EC%86%8D-%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94%EA%B2%8C-lsk2dsu6#462943246",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T22:22:00+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T13:22:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -619137,7 +619157,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T22:18:41+09:00"
+      "slowAt": "2026-11-27T22:22:00+09:00"
     },
     "dc": {
       "doneIds": [
@@ -647142,6 +647162,7 @@
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B0%99%EC%9D%80-%EC%84%B1%EA%B2%A9%EC%9D%B4%EB%9E%91-%EA%B2%B0%ED%98%BC%ED%95%98%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%88%EB%8B%A4-285b1d20",
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B2%8C%EC%9D%B4%EB%8A%94%EC%95%84%EB%8B%88%EA%B2%A0%EC%A7%80-lzen0ths",
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B2%8C%EC%9D%B4-%EA%B0%99%EC%9D%80%EB%8D%B0-30wn8w5d",
+        "/kr/post/%EC%98%81%ED%98%B8-%EA%B3%84%EC%86%8D-%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94%EA%B2%8C-lsk2dsu6",
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B3%A0%EA%B8%B0%EC%A7%91%EC%97%90%EC%84%A0-%EA%B3%BC%ED%95%9C%EA%B1%B0-%EB%A7%9E%EC%9D%8C-yb0yvkrn",
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B3%A0%EB%AF%BC-%EC%9D%B4%ED%95%B4%EB%90%98%EB%8A%94%EB%8D%B0-sulyno8t",
         "/kr/post/%EC%98%81%ED%98%B8-%EA%B3%A0%EC%83%9D%EC%9D%B4-%EB%A7%8E%EB%84%A4-6tuqyglh",
