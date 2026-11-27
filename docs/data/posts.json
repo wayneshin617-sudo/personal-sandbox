@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T06:37:07+00:00",
+  "updatedAt": "2026-11-27T06:38:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -593607,6 +593607,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T06:37:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126004,
+      "source": "qoo",
+      "externalId": "cmt-4419645356",
+      "title": "불쾌해",
+      "excerpt": "하 광수 실환가 진짜",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419637428#4419645356",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T14:37:28+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:38:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126005,
+      "source": "dc",
+      "externalId": "6719516",
+      "title": "남자들 질투 뒷담화 상당하던데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719516&page=1",
+      "postedLabel": "15:36",
+      "postedAt": "2026-11-27T15:36:59+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:38:07+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126006,
+      "source": "dc",
+      "externalId": "6719517",
+      "title": "여성이 당한 성범죄를 고발하니 여성단체가 역으로 고발자를 비난한 이상한 사건",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719517&page=1",
+      "postedLabel": "15:37",
+      "postedAt": "2026-11-27T15:37:30+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T06:38:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -593791,7 +593849,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T15:34:49+09:00"
+      "slowAt": "2026-11-27T15:37:49+09:00"
     },
     "dc": {
       "doneIds": [
