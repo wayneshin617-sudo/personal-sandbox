@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T01:33:27+00:00",
+  "updatedAt": "2026-11-27T01:34:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -578015,6 +578015,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T01:33:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125208,
+      "source": "dc",
+      "externalId": "cmt-11050163",
+      "title": "사람이 아직 안들어 왔단다",
+      "excerpt": "옥천지들 순자 출판사 그만둔다 or 잘렸다는 말도 또 거짓이네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "14.41",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719130&page=1#cmt_11050163",
+      "postedLabel": "11.27 10:33:27",
+      "postedAt": "2026-11-27T10:33:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:34:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125209,
+      "source": "dc",
+      "externalId": "6719133",
+      "title": "광수 섹시하던데 정숙 제대로 빠질듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719133&page=1",
+      "postedLabel": "10:33",
+      "postedAt": "2026-11-27T10:33:48+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:34:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -578199,7 +578238,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-27T10:31:10+09:00"
+      "slowAt": "2026-11-27T10:34:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -599718,7 +599757,8 @@
         "6719109",
         "6719110",
         "6719115",
-        "6719125"
+        "6719125",
+        "6719130"
       ]
     },
     "blind": {
