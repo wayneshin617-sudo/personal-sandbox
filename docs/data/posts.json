@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T07:42:21+00:00",
+  "updatedAt": "2026-11-27T07:43:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -596570,6 +596570,65 @@
       "firstSeenAt": "2026-11-27T07:42:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126156,
+      "source": "qoo",
+      "externalId": "cmt-4419703603",
+      "title": "오 웃기다 진짜일수도 있고 가짜일수도 있고~~ㅋㅋㅋㅋㅋ 난 노인증 루머는 제작진이 뿌리는 거라고 생각해",
+      "excerpt": "나 방금 인스타에서 영호 순자",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4419672793#4419703603",
+      "postedLabel": "",
+      "postedAt": "2026-11-27T15:43:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:43:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126157,
+      "source": "dc",
+      "externalId": "cmt-11050701",
+      "title": "ㅇㅈ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영수 옥순 대하는거와 순자 대하는거 보면",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719602&page=1#cmt_11050701",
+      "postedLabel": "11.27 16:42:06",
+      "postedAt": "2026-11-27T16:42:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:43:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126158,
+      "source": "dc",
+      "externalId": "6719604",
+      "title": "소신발언) 그럼에도 쥐우성 형을 선택 해야 한다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719604&page=1",
+      "postedLabel": "16:42",
+      "postedAt": "2026-11-27T16:42:50+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T07:43:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -596681,7 +596740,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T16:40:05+09:00"
+      "slowAt": "2026-11-27T16:43:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -618402,7 +618461,8 @@
         "6719583",
         "6719595",
         "6719596",
-        "6719600"
+        "6719600",
+        "6719602"
       ]
     },
     "blind": {
