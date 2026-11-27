@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:00:22+00:00",
+  "updatedAt": "2026-11-27T08:01:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -597403,6 +597403,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-27T08:00:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 126199,
+      "source": "dc",
+      "externalId": "cmt-11050714",
+      "title": "옥순 9의 여자 순자 7의 여자 원래 번호 잘 따이는 남자.여자들이 다 저럼",
+      "excerpt": "34기 남자들이 진짜 하남자",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719630&page=1#cmt_11050714",
+      "postedLabel": "11.27 17:00:21",
+      "postedAt": "2026-11-27T17:00:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:01:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126200,
+      "source": "dc",
+      "externalId": "6719636",
+      "title": "순자속마음: 성수 팝업 임대료로 일본여행 뽕 제대로",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "88.166",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719636&page=1",
+      "postedLabel": "17:01",
+      "postedAt": "2026-11-27T17:01:03+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:01:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -597514,7 +597553,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T16:58:05+09:00"
+      "slowAt": "2026-11-27T17:01:05+09:00"
     },
     "ig": {
       "doneIds": [
@@ -619230,6 +619269,7 @@
         "6719534",
         "6719542",
         "6719544",
+        "6719548",
         "6719552",
         "6719568",
         "6719572",
@@ -619241,7 +619281,8 @@
         "6719600",
         "6719602",
         "6719606",
-        "6719621"
+        "6719621",
+        "6719630"
       ]
     },
     "blind": {
