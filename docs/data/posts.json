@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T02:51:15+00:00",
+  "updatedAt": "2026-11-27T02:52:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -581627,6 +581627,46 @@
       "comments": 0,
       "firstSeenAt": "2026-11-27T02:51:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 125392,
+      "source": "dc",
+      "externalId": "cmt-11050254",
+      "title": "34현숙이랑 비교할 필요도 없어 31영숙한테는 안그랬으니까",
+      "excerpt": "경수가 만약 현숙이라면 저럴 수 있을까?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719206&page=1#cmt_11050254",
+      "postedLabel": "11.27 11:51:38",
+      "postedAt": "2026-11-27T11:51:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:52:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125393,
+      "source": "blind",
+      "externalId": "cmt-462864056",
+      "title": "대화는 재미없긴하드라",
+      "excerpt": "영호 솔직히 노잼 아님?",
+      "author": "잉***",
+      "company": "서울특별시",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EC%86%94%EC%A7%81%ED%9E%88-%EB%85%B8%EC%9E%BC-%EC%95%84%EB%8B%98-z1enkz2p#462864056",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T11:51:58+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T02:52:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -590390,6 +590430,7 @@
         "6642352",
         "6642354",
         "6642356",
+        "6642359",
         "6642363",
         "6642371",
         "6642373",
@@ -603351,7 +603392,8 @@
         "6719168",
         "6719178",
         "6719185",
-        "6719195"
+        "6719195",
+        "6719206"
       ]
     },
     "blind": {
@@ -612377,6 +612419,7 @@
         "/kr/post/34%EA%B4%91%EC%88%98-%EB%84%88%EB%AC%B4-%EC%8B%AB%EB%8B%A4-tmvia3yh",
         "/kr/post/34%EA%B4%91%EC%88%98-%EB%88%88%EB%B9%9B%EC%9D%B4-%EC%A2%80-%EB%AC%B4%EC%84%9C%EC%9B%8C-ssc041ho",
         "/kr/post/34%EA%B4%91%EC%88%98-%EB%95%8C%EB%AC%B8%EC%97%90-%EB%82%98%EC%86%94-%EB%8B%A4%EC%8B%9C-%EB%B4%90%EC%95%BC%EA%B2%A0%EB%8B%A4-oh24vg02",
+        "/kr/post/34%EA%B4%91%EC%88%98-%EB%B0%A9%EC%86%A1-%EB%81%9D%EB%82%98%EA%B3%A0-%EB%94%94%EC%97%A0-%EC%98%A4%EB%A9%B4-p3zac8lc",
         "/kr/post/34%EA%B4%91%EC%88%98-%EB%B0%B1%ED%8D%BC-%EB%AA%A8%EC%8F%A0%EC%9D%B4%EB%8B%A4-3bh06w1w",
         "/kr/post/34%EA%B4%91%EC%88%98-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EB%95%8C%EB%B6%80%ED%84%B0-7%EB%88%84%EB%82%98%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%8E%84%ED%96%88%EC%9D%8C-fhqxl460",
         "/kr/post/34%EA%B4%91%EC%88%98-1em030lz",
