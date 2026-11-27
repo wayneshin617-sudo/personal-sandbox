@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T09:02:08+00:00",
+  "updatedAt": "2026-11-27T09:03:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -601687,6 +601687,65 @@
       "firstSeenAt": "2026-11-27T09:02:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126420,
+      "source": "dc",
+      "externalId": "cmt-11050737",
+      "title": "자아비대하셔",
+      "excerpt": "북토크 폐강 순자도 충격받았나봐",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719637&page=3#cmt_11050737",
+      "postedLabel": "11.27 17:16:03",
+      "postedAt": "2026-11-27T17:16:03+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:03:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 126421,
+      "source": "dc",
+      "externalId": "6719790",
+      "title": "니들 베트남 캄보디아 태국 국결 원하냐?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719790&page=1",
+      "postedLabel": "18:01",
+      "postedAt": "2026-11-27T18:01:59+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:03:08+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 126422,
+      "source": "dc",
+      "externalId": "cmt-11050837",
+      "title": "옥순은 살이라도 뺏지 ㅋㅋㅋ 순자는 체형 그대론데 저게 말이되나 ㅋㅋㅋㅋ",
+      "excerpt": "옥순 보정이 아무리 심해도 순자만 할까",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "39.7",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719788&page=1#cmt_11050837",
+      "postedLabel": "11.27 18:02:47",
+      "postedAt": "2026-11-27T18:02:47+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T09:03:08+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -601798,7 +601857,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T17:59:52+09:00"
+      "slowAt": "2026-11-27T18:02:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -623537,6 +623596,7 @@
         "6719626",
         "6719630",
         "6719635",
+        "6719637",
         "6719643",
         "6719650",
         "6719657",
@@ -623558,7 +623618,8 @@
         "6719766",
         "6719777",
         "6719780",
-        "6719783"
+        "6719783",
+        "6719788"
       ]
     },
     "blind": {
