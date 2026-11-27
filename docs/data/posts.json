@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T08:50:08+00:00",
+  "updatedAt": "2026-11-27T08:51:09+00:00",
   "posts": [
     {
       "id": 95749,
@@ -600752,6 +600752,26 @@
       "firstSeenAt": "2026-11-27T08:50:08+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 126372,
+      "source": "dc",
+      "externalId": "cmt-11050808",
+      "title": "그만해라 니도 왜케 잔인해",
+      "excerpt": "순자야 여자애들 다 골로보내고 경수 얻어서",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719759&page=1#cmt_11050808",
+      "postedLabel": "11.27 17:50:32",
+      "postedAt": "2026-11-27T17:50:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T08:51:09+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -600863,7 +600883,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-27T17:47:52+09:00"
+      "slowAt": "2026-11-27T17:50:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -622615,7 +622635,8 @@
         "6719713",
         "6719721",
         "6719735",
-        "6719758"
+        "6719758",
+        "6719759"
       ]
     },
     "blind": {
