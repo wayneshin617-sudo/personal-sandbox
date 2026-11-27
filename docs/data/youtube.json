@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T10:06:02+00:00",
+  "updatedAt": "2026-11-27T10:07:02+00:00",
   "posts": [
     {
       "id": 1,
@@ -153596,6 +153596,25 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-27T10:06:01+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 8085,
+      "source": "yt",
+      "externalId": "Ugxst-Q679_DtDEMQFl4AaABAg",
+      "title": "서로 비슷하게 답답한데 같은 성격끼리 만나면 결국 헤어지더라",
+      "excerpt": "[나는 SOLO] ※미방분※ 34기_서로를 향한 진심이 엿보이는 영호&현숙의 심야 토크!",
+      "author": "@솔-w9g",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.youtube.com/watch?v=BBZjzIWqXlc&lc=Ugxst-Q679_DtDEMQFl4AaABAg",
+      "postedLabel": "1분 전",
+      "postedAt": "2026-11-27T19:05:12+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T10:07:01+00:00",
       "isSeed": false
     }
   ]
