@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-27T00:59:59+00:00",
+  "updatedAt": "2026-11-27T01:01:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -576734,6 +576734,86 @@
       "firstSeenAt": "2026-11-27T00:59:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 125143,
+      "source": "dc",
+      "externalId": "cmt-11050075",
+      "title": "밥차리고 수발드는건 니 전문이자나 순자야",
+      "excerpt": "순천지 많노",
+      "author": "나갤러3",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719006&page=2#cmt_11050075",
+      "postedLabel": "11.27 09:24:24",
+      "postedAt": "2026-11-27T09:24:24+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:01:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125144,
+      "source": "dc",
+      "externalId": "cmt-11050112",
+      "title": "순자 빠는애들 진짜 얼마나 시궁창 인생일지 가늠조차 안됨 ㅠ",
+      "excerpt": "순천지 많노",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "218.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719006&page=2#cmt_11050112",
+      "postedLabel": "11.27 09:53:11",
+      "postedAt": "2026-11-27T09:53:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:01:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125145,
+      "source": "dc",
+      "externalId": "cmt-11050118",
+      "title": "순자 자리가 있다고는 아무도 말하지 않았다",
+      "excerpt": "틱순자 투명하다 투명해",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.81",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6719106&page=1#cmt_11050118",
+      "postedLabel": "11.27 10:00:38",
+      "postedAt": "2026-11-27T10:00:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:01:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 125146,
+      "source": "blind",
+      "externalId": "cmt-462850855",
+      "title": "영식이 음흉하고 고집 센 게 어느 장면에서 보였어? 난 못 본 거 같은데.",
+      "excerpt": "나솔게 최근 동향에 대한 주요인물 별 논평",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94%EA%B2%8C-%EC%B5%9C%EA%B7%BC-%EB%8F%99%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A3%BC%EC%9A%94%EC%9D%B8%EB%AC%BC-%EB%B3%84-%EB%85%BC%ED%8F%89-nxfafprq#462850855",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-27T10:00:49+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-27T01:01:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -598427,7 +598507,8 @@
         "6719096",
         "6719099",
         "6719103",
-        "6719105"
+        "6719105",
+        "6719106"
       ]
     },
     "blind": {
