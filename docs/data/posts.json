@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:01:43+00:00",
+  "updatedAt": "2026-11-28T07:02:55+00:00",
   "posts": [
     {
       "id": 95749,
@@ -651847,6 +651847,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T07:01:43+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128979,
+      "source": "dc",
+      "externalId": "cmt-11052751",
+      "title": "옥순이 영철 선택할 수도 있는데 나도 그럴 것 같긴 한데 히죽히죽 뒤에 물음표 보면 아닌 것 같기도 하고 작진들 물음표 쓸땐 보통 자막하고 다르더라고",
+      "excerpt": "담주 옥순이 영철선택한거맞는듯",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720824&page=2#cmt_11052751",
+      "postedLabel": "11.28 15:07:57",
+      "postedAt": "2026-11-28T15:07:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:02:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -652031,7 +652051,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T15:59:17+09:00"
+      "slowAt": "2026-11-28T16:02:38+09:00"
     },
     "dc": {
       "doneIds": [
@@ -674127,6 +674147,7 @@
         "6720819",
         "6720822",
         "6720823",
+        "6720824",
         "6720829",
         "6720830",
         "6720832",
