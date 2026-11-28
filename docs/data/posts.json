@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:56:28+00:00",
+  "updatedAt": "2026-11-28T11:57:41+00:00",
   "posts": [
     {
       "id": 95749,
@@ -665105,6 +665105,25 @@
       "firstSeenAt": "2026-11-28T11:56:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129654,
+      "source": "dc",
+      "externalId": "6721223",
+      "title": "나스닥·S&P 오랜만의 사나이테스트와 개인적인 매매전략",
+      "excerpt": "",
+      "author": "룬나",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721223&page=1",
+      "postedLabel": "20:57",
+      "postedAt": "2026-11-28T20:57:18+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:57:41+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -687553,7 +687572,8 @@
         "6721213",
         "6721214",
         "6721217",
-        "6721219"
+        "6721219",
+        "6721221"
       ]
     },
     "blind": {
