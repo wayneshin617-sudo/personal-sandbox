@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T14:27:07+00:00",
+  "updatedAt": "2026-11-28T14:28:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -671459,6 +671459,46 @@
       "firstSeenAt": "2026-11-28T14:27:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129977,
+      "source": "dc",
+      "externalId": "cmt-11053618",
+      "title": "ㅇㅇ",
+      "excerpt": "34현숙이 닮은사람 내 알고리즘에 뜸",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721318&page=1#cmt_11053618",
+      "postedLabel": "11.28 22:28:35",
+      "postedAt": "2026-11-28T22:28:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:28:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129978,
+      "source": "dc",
+      "externalId": "cmt-11053651",
+      "title": "ㅇㅇ",
+      "excerpt": "34현숙이 닮은사람 내 알고리즘에 뜸",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.114",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721318&page=1#cmt_11053651",
+      "postedLabel": "11.28 22:44:12",
+      "postedAt": "2026-11-28T22:44:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:28:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -671643,7 +671683,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T23:24:51+09:00"
+      "slowAt": "2026-11-28T23:27:50+09:00"
     },
     "dc": {
       "doneIds": [
@@ -693960,6 +694000,7 @@
         "6721306",
         "6721308",
         "6721312",
+        "6721318",
         "6721321",
         "6721325",
         "6721328",
