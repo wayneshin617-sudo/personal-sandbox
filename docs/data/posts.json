@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:37:33+00:00",
+  "updatedAt": "2026-11-28T08:39:42+00:00",
   "posts": [
     {
       "id": 95749,
@@ -655397,6 +655397,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T08:37:33+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129160,
+      "source": "dc",
+      "externalId": "6721008",
+      "title": "이 둘 왜케 닮음? 사촌이나 친형제임?",
+      "excerpt": "",
+      "author": "야야",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721008&page=1",
+      "postedLabel": "17:38",
+      "postedAt": "2026-11-28T17:38:34+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:39:42+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129161,
+      "source": "dc",
+      "externalId": "cmt-11053010",
+      "title": "ㅇㅇㅇㅈ",
+      "excerpt": "영호 현숙 와꾸합 좋음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721006&page=1#cmt_11053010",
+      "postedLabel": "11.28 17:39:21",
+      "postedAt": "2026-11-28T17:39:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:39:42+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -655581,7 +655620,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T17:36:05+09:00"
+      "slowAt": "2026-11-28T17:39:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -677749,7 +677788,8 @@
         "6720987",
         "6720992",
         "6720994",
-        "6720999"
+        "6720999",
+        "6721006"
       ]
     },
     "blind": {
