@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:57:58+00:00",
+  "updatedAt": "2026-11-28T07:58:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -653696,6 +653696,64 @@
       "firstSeenAt": "2026-11-28T07:57:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129073,
+      "source": "dc",
+      "externalId": "6720955",
+      "title": "블줌들 현숙한테 열폭 씹지린다 진짜",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720955&page=1",
+      "postedLabel": "16:57",
+      "postedAt": "2026-11-28T16:57:43+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T07:58:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129074,
+      "source": "dc",
+      "externalId": "6720956",
+      "title": "영호는 ㅅㅂ 계속 간만잴꺼면 왜나옴?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720956&page=1",
+      "postedLabel": "16:58",
+      "postedAt": "2026-11-28T16:58:04+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:58:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129075,
+      "source": "dc",
+      "externalId": "cmt-11052947",
+      "title": "현숙 까일게.익나? - dc App",
+      "excerpt": "블줌들 현숙한테 열폭 씹지린다 진짜",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.119",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720955&page=1#cmt_11052947",
+      "postedLabel": "11.28 16:58:16",
+      "postedAt": "2026-11-28T16:58:16+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:58:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -676013,6 +676071,7 @@
         "6720903",
         "6720904",
         "6720905",
+        "6720906",
         "6720915",
         "6720916",
         "6720923",
@@ -676028,7 +676087,8 @@
         "6720947",
         "6720948",
         "6720949",
-        "6720952"
+        "6720952",
+        "6720955"
       ]
     },
     "blind": {
