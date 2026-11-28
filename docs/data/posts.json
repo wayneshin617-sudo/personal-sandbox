@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T04:21:49+00:00",
+  "updatedAt": "2026-11-28T04:22:49+00:00",
   "posts": [
     {
       "id": 95749,
@@ -645177,6 +645177,84 @@
       "firstSeenAt": "2026-11-28T04:21:49+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128638,
+      "source": "dc",
+      "externalId": "6720740",
+      "title": "또 납작얼굴들이 현숙 공격하네ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720740&page=1",
+      "postedLabel": "13:21",
+      "postedAt": "2026-11-28T13:21:56+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T04:22:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128639,
+      "source": "dc",
+      "externalId": "6720741",
+      "title": "34영호 현숙 예고편보니",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720741&page=1",
+      "postedLabel": "13:22",
+      "postedAt": "2026-11-28T13:22:06+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:22:49+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128640,
+      "source": "dc",
+      "externalId": "cmt-11052629",
+      "title": "나솔에서 예쁘고 잘생기면 질투하는게 노괴년들 본능임 ㅋㅋ",
+      "excerpt": "또 납작얼굴들이 현숙 공격하네ㅋㅋ",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "220.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720740&page=1#cmt_11052629",
+      "postedLabel": "11.28 13:22:25",
+      "postedAt": "2026-11-28T13:22:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:22:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128641,
+      "source": "blind",
+      "externalId": "cmt-463016048",
+      "title": "근데 이미 출연자가 많으니까 나가보시는것도 좋아보여요",
+      "excerpt": "나솔 출연 제의왔는데.. 나가 말아",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0-%EC%A0%9C%EC%9D%98%EC%99%94%EB%8A%94%EB%8D%B0-%EB%82%98%EA%B0%80-%EB%A7%90%EC%95%84-vzayplna#463016048",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T13:22:31+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:22:49+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -645288,7 +645366,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T13:19:13+09:00"
+      "slowAt": "2026-11-28T13:22:31+09:00"
     },
     "ig": {
       "doneIds": [
@@ -667421,7 +667499,8 @@
         "6720722",
         "6720723",
         "6720726",
-        "6720733"
+        "6720733",
+        "6720740"
       ]
     },
     "blind": {
