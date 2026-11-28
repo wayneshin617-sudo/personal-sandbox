@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T22:05:22+00:00",
+  "updatedAt": "2026-11-28T22:07:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -681168,6 +681168,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T22:05:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130469,
+      "source": "dc",
+      "externalId": "cmt-11054490",
+      "title": "연예인급이다 이건 와 ㄷ",
+      "excerpt": "진짜 디지게 이쁘네 ㄷㄷㄷㄷㄷ",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "27.113",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721495&page=1#cmt_11054490",
+      "postedLabel": "11.29 06:32:39",
+      "postedAt": "2026-11-29T06:32:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T22:07:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681352,7 +681372,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T07:04:06+09:00"
+      "slowAt": "2026-11-29T07:07:06+09:00"
     },
     "dc": {
       "doneIds": [
