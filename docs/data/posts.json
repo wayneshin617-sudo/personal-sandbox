@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T13:50:08+00:00",
+  "updatedAt": "2026-11-28T13:51:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -670299,6 +670299,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T13:50:08+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129918,
+      "source": "dc",
+      "externalId": "cmt-11053676",
+      "title": "ㅇㅇ가성비 좆지림 3박4일 방송을 몇주째 우려먹노",
+      "excerpt": "나솔 관련 방송 다 며칠치를 아끼고 아껴서 몇달째 방송",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721337&page=1#cmt_11053676",
+      "postedLabel": "11.28 22:50:30",
+      "postedAt": "2026-11-28T22:50:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T13:51:07+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129919,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%A0%95%EC%88%99-%EC%84%B1%EA%B2%A9-%EC%A2%8B%EC%9D%80%EA%B1%B0-%EB%A7%9E%EC%95%84-qn43wr4t",
+      "title": "정숙 성격 좋은거 맞아?",
+      "excerpt": "형제자매 통화할때 마음에 드는 남자 없다고 한거 웃길라고 한건가?ㅋㅋ 다른 남출들 다 보고있는데 무슨 예의지? 정숙 성격 좋다고 하는거 다 여자들이지? 예전에 남초동아리에서 형님형님하면서 자기가 성격 좋은줄알고 남자 선배들한테 선넘던 뚱뚱이 생각남 ㅡㅡ 본인은 엄청 쿨하고 털털한줄아는데 ㅈㄴ부담스러웠음",
+      "author": "i******",
+      "company": "롯데쇼핑",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EC%84%B1%EA%B2%A9-%EC%A2%8B%EC%9D%80%EA%B1%B0-%EB%A7%9E%EC%95%84-qn43wr4t",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T22:50:50+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T13:51:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -670410,7 +670449,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T22:47:51+09:00"
+      "slowAt": "2026-11-28T22:50:50+09:00"
     },
     "ig": {
       "doneIds": [
@@ -692799,7 +692838,8 @@
         "6721325",
         "6721328",
         "6721331",
-        "6721334"
+        "6721334",
+        "6721337"
       ]
     },
     "blind": {
