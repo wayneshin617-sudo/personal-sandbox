@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:13:11+00:00",
+  "updatedAt": "2026-11-28T07:14:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -652119,6 +652119,45 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-28T07:13:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128993,
+      "source": "dc",
+      "externalId": "6720916",
+      "title": "34영철 공무원그만두고 내 친구네회사옴",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720916&page=1",
+      "postedLabel": "16:13",
+      "postedAt": "2026-11-28T16:13:10+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:14:24+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128994,
+      "source": "blind",
+      "externalId": "cmt-463033586",
+      "title": "무표정일 땐 그저 그런데 웃을때 좀...",
+      "excerpt": "나솔34영자",
+      "author": "죠*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%9434%EC%98%81%EC%9E%90-jzuvq5tq#463033586",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T16:14:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:14:24+00:00",
       "isSeed": false,
       "kind": "reply"
     }
