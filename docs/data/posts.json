@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:43:03+00:00",
+  "updatedAt": "2026-11-28T08:44:13+00:00",
   "posts": [
     {
       "id": 95749,
@@ -655594,6 +655594,102 @@
       "firstSeenAt": "2026-11-28T08:43:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129170,
+      "source": "dc",
+      "externalId": "6721012",
+      "title": "현숙은 도태남, 줌마들 둘다 발작시킬만하지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721012&page=1",
+      "postedLabel": "17:42",
+      "postedAt": "2026-11-28T17:42:54+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:44:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129171,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%A4%EB%8A%98-%EC%B2%AB%EB%AF%B8%ED%8C%85-4eis70r2",
+      "title": "오늘 첫미팅",
+      "excerpt": "완전 기대했는데 보는 순간 프사기... . 아 현타오네",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EC%B2%AB%EB%AF%B8%ED%8C%85-4eis70r2",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-28T17:42:55+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T08:44:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129172,
+      "source": "dc",
+      "externalId": "6721013",
+      "title": "확실히 한국여자들이 예쁘긴한것 같음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721013&page=1",
+      "postedLabel": "17:42",
+      "postedAt": "2026-11-28T17:42:56+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:44:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129173,
+      "source": "dc",
+      "externalId": "6721014",
+      "title": "현숙은 왠지 허약해보임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.96",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721014&page=1",
+      "postedLabel": "17:43",
+      "postedAt": "2026-11-28T17:43:19+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T08:44:13+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129174,
+      "source": "dc",
+      "externalId": "cmt-11053028",
+      "title": "너처럼 80kg인것보단 훨 나음",
+      "excerpt": "현숙은 왠지 허약해보임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721014&page=1#cmt_11053028",
+      "postedLabel": "11.28 17:43:40",
+      "postedAt": "2026-11-28T17:43:40+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:44:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -655705,7 +655801,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T17:40:33+09:00"
+      "slowAt": "2026-11-28T17:43:55+09:00"
     },
     "ig": {
       "doneIds": [
@@ -677948,7 +678044,8 @@
         "6720994",
         "6720999",
         "6721006",
-        "6721010"
+        "6721010",
+        "6721014"
       ]
     },
     "blind": {
