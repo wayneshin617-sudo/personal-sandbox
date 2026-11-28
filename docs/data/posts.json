@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T17:03:51+00:00",
+  "updatedAt": "2026-11-28T17:04:50+00:00",
   "posts": [
     {
       "id": 95749,
@@ -677454,6 +677454,46 @@
       "firstSeenAt": "2026-11-28T17:03:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 130281,
+      "source": "dc",
+      "externalId": "cmt-11054278",
+      "title": "한 명은 출산했고 한 명은 출산을 안 해서 변인통제가 안 됐음",
+      "excerpt": "남자입장에서 손연재랑 김연아 외모 티어자체가 다르지",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721435&page=1#cmt_11054278",
+      "postedLabel": "11.29 01:50:21",
+      "postedAt": "2026-11-29T01:50:21+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T17:04:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130282,
+      "source": "dc",
+      "externalId": "cmt-11054306",
+      "title": "ㄹㅇ 병신년들 자업자득이지 ㅋㅋ",
+      "excerpt": "요즘시대 여자도 키커야하는 절대적 이유",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "188.26",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721451&page=1#cmt_11054306",
+      "postedLabel": "11.29 02:04:30",
+      "postedAt": "2026-11-29T02:04:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T17:04:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -677638,7 +677678,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T02:01:33+09:00"
+      "slowAt": "2026-11-29T02:04:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -700027,7 +700067,8 @@
         "6721442",
         "6721443",
         "6721444",
-        "6721448"
+        "6721448",
+        "6721451"
       ]
     },
     "blind": {
