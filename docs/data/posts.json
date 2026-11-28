@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:24:45+00:00",
+  "updatedAt": "2026-11-28T07:25:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -652492,6 +652492,105 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T07:24:45+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129012,
+      "source": "dc",
+      "externalId": "cmt-11052817",
+      "title": "셔터맨으로 살것 같은데.....",
+      "excerpt": "영철 그냥 영자랑 결혼해라",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "110.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720855&page=2#cmt_11052817",
+      "postedLabel": "11.28 15:35:01",
+      "postedAt": "2026-11-28T15:35:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:25:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129013,
+      "source": "dc",
+      "externalId": "cmt-11052872",
+      "title": "뭔가 장사안될것같음",
+      "excerpt": "영철 그냥 영자랑 결혼해라",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.227",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720855&page=2#cmt_11052872",
+      "postedLabel": "11.28 15:57:15",
+      "postedAt": "2026-11-28T15:57:15+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:25:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129014,
+      "source": "dc",
+      "externalId": "6720930",
+      "title": "이정도면 키 190대는 되야 나오는 비율 아님 ??",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.72",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720930&page=1",
+      "postedLabel": "16:24",
+      "postedAt": "2026-11-28T16:24:42+09:00",
+      "views": 15,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T07:25:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129015,
+      "source": "dc",
+      "externalId": "cmt-11052900",
+      "title": "무슨 벌레임?",
+      "excerpt": "이정도면 키 190대는 되야 나오는 비율 아님 ??",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720930&page=1#cmt_11052900",
+      "postedLabel": "11.28 16:25:36",
+      "postedAt": "2026-11-28T16:25:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:25:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129016,
+      "source": "blind",
+      "externalId": "cmt-463034811",
+      "title": "응.존.나.",
+      "excerpt": "나솔34영자",
+      "author": "l*****",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%9434%EC%98%81%EC%9E%90-jzuvq5tq#463034811",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T16:25:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:25:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -652676,7 +652775,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T16:22:14+09:00"
+      "slowAt": "2026-11-28T16:25:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -674784,6 +674883,7 @@
         "6720846",
         "6720852",
         "6720854",
+        "6720855",
         "6720857",
         "6720859",
         "6720868",
@@ -674802,7 +674902,8 @@
         "6720916",
         "6720923",
         "6720925",
-        "6720926"
+        "6720926",
+        "6720930"
       ]
     },
     "blind": {
