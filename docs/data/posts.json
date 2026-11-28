@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:48:22+00:00",
+  "updatedAt": "2026-11-28T11:49:35+00:00",
   "posts": [
     {
       "id": 95749,
@@ -664632,6 +664632,106 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T11:48:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129630,
+      "source": "dc",
+      "externalId": "cmt-11053386",
+      "title": "s",
+      "excerpt": "34영호가 삭제시킨 브이로그 썸네일",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721213&page=1#cmt_11053386",
+      "postedLabel": "11.28 20:48:39",
+      "postedAt": "2026-11-28T20:48:39+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:49:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129631,
+      "source": "dc",
+      "externalId": "cmt-11053387",
+      "title": ",",
+      "excerpt": "34영호가 삭제시킨 브이로그 썸네일",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721213&page=1#cmt_11053387",
+      "postedLabel": "11.28 20:48:53",
+      "postedAt": "2026-11-28T20:48:53+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:49:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129632,
+      "source": "dc",
+      "externalId": "cmt-11053388",
+      "title": "ㅣ",
+      "excerpt": "34영호가 삭제시킨 브이로그 썸네일",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721213&page=1#cmt_11053388",
+      "postedLabel": "11.28 20:48:57",
+      "postedAt": "2026-11-28T20:48:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:49:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129633,
+      "source": "dc",
+      "externalId": "cmt-11053389",
+      "title": "ㅣ",
+      "excerpt": "34영호가 삭제시킨 브이로그 썸네일",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721213&page=1#cmt_11053389",
+      "postedLabel": "11.28 20:49:02",
+      "postedAt": "2026-11-28T20:49:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:49:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129634,
+      "source": "dc",
+      "externalId": "cmt-11053390",
+      "title": "d",
+      "excerpt": "34영호가 삭제시킨 브이로그 썸네일",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721213&page=1#cmt_11053390",
+      "postedLabel": "11.28 20:49:09",
+      "postedAt": "2026-11-28T20:49:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:49:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -664816,7 +664916,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T20:45:50+09:00"
+      "slowAt": "2026-11-28T20:49:17+09:00"
     },
     "dc": {
       "doneIds": [
@@ -687076,7 +687176,8 @@
         "6721201",
         "6721205",
         "6721206",
-        "6721210"
+        "6721210",
+        "6721213"
       ]
     },
     "blind": {
