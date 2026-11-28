@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T03:36:47+00:00",
+  "updatedAt": "2026-11-28T03:38:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -643724,6 +643724,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T03:36:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128564,
+      "source": "dc",
+      "externalId": "cmt-11052574",
+      "title": "쪽팔린줄은 아는거야? 글은 왜 다 지워쌌노",
+      "excerpt": "전국민이 이제 경수님이 순자님이랑 결혼해줄지 지켜보는 중",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720706&page=1#cmt_11052574",
+      "postedLabel": "11.28 12:37:46",
+      "postedAt": "2026-11-28T12:37:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T03:38:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128565,
+      "source": "dc",
+      "externalId": "6720709",
+      "title": "못생긴 승무원 많은 이유 알려줌",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720709&page=1",
+      "postedLabel": "12:37",
+      "postedAt": "2026-11-28T12:37:49+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T03:38:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -643835,7 +643874,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T12:35:29+09:00"
+      "slowAt": "2026-11-28T12:38:29+09:00"
     },
     "ig": {
       "doneIds": [
@@ -665954,7 +665993,8 @@
         "6720686",
         "6720687",
         "6720692",
-        "6720693"
+        "6720693",
+        "6720706"
       ]
     },
     "blind": {
