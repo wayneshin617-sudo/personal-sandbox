@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:42:53+00:00",
+  "updatedAt": "2026-11-28T01:43:53+00:00",
   "posts": [
     {
       "id": 95749,
@@ -639332,6 +639332,26 @@
       "firstSeenAt": "2026-11-28T01:42:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128341,
+      "source": "dc",
+      "externalId": "cmt-11052417",
+      "title": "영철 설명이 맞다 나는 솔로를 모를뿐더러 짝 찾는 프로그램에서 인터뷰한다고 하기 뭣해 솔직한 설명을 들으면 뭐라고? 이게 속내임",
+      "excerpt": "왜 거짓말을 하는 거야?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720638&page=1#cmt_11052417",
+      "postedLabel": "11.28 10:42:46",
+      "postedAt": "2026-11-28T10:42:46+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:43:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -639516,7 +639536,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T10:40:36+09:00"
+      "slowAt": "2026-11-28T10:43:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -661536,7 +661556,8 @@
         "6720618",
         "6720622",
         "6720630",
-        "6720635"
+        "6720635",
+        "6720638"
       ]
     },
     "blind": {
