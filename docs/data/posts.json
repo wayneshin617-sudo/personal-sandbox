@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:12:59+00:00",
+  "updatedAt": "2026-11-28T08:13:59+00:00",
   "posts": [
     {
       "id": 95749,
@@ -654066,6 +654066,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T08:12:59+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129092,
+      "source": "dc",
+      "externalId": "cmt-11052963",
+      "title": "딱히 현숙 호는 아닌데도 객관적인 스펙은 현숙이 우위지",
+      "excerpt": "영호가 한두달에 한번 만날 가치가 있음?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "220.87",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720967&page=1#cmt_11052963",
+      "postedLabel": "11.28 17:13:14",
+      "postedAt": "2026-11-28T17:13:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:13:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -676404,7 +676424,8 @@
         "6720955",
         "6720960",
         "6720961",
-        "6720965"
+        "6720965",
+        "6720967"
       ]
     },
     "blind": {
