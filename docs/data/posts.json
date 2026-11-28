@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:29:59+00:00",
+  "updatedAt": "2026-11-28T08:30:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -654969,6 +654969,103 @@
       "firstSeenAt": "2026-11-28T08:29:59+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129138,
+      "source": "dc",
+      "externalId": "cmt-11052991",
+      "title": "영자",
+      "excerpt": "영철이 현커 누군지 궁금하다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.229",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720987&page=1#cmt_11052991",
+      "postedLabel": "11.28 17:29:49",
+      "postedAt": "2026-11-28T17:29:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:30:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129139,
+      "source": "dc",
+      "externalId": "6720990",
+      "title": "경수 생각헤보니 ㅈㄴ괘씸하네 ㅋㅋ",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720990&page=1",
+      "postedLabel": "17:29",
+      "postedAt": "2026-11-28T17:29:56+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:30:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129140,
+      "source": "dc",
+      "externalId": "6720991",
+      "title": "순경 얘네는 선참찍을때 촬영겸데이트한다했을때부터 눈치챔",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720991&page=1",
+      "postedLabel": "17:30",
+      "postedAt": "2026-11-28T17:30:07+09:00",
+      "views": 7,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:30:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129141,
+      "source": "dc",
+      "externalId": "6720992",
+      "title": "정숙이 와꾸 심하긴해",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720992&page=1",
+      "postedLabel": "17:30",
+      "postedAt": "2026-11-28T17:30:25+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:30:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129142,
+      "source": "blind",
+      "externalId": "cmt-463041560",
+      "title": "먼저 절대 안해?? 맘에 있으면 잘 들어거셨나고 하던데",
+      "excerpt": "여자고 오늘 소개팅했음 지인소개로",
+      "author": "s*****",
+      "company": "트리니티항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EA%B3%A0-%EC%98%A4%EB%8A%98-%EC%86%8C%EA%B0%9C%ED%8C%85%ED%96%88%EC%9D%8C-%EC%A7%80%EC%9D%B8%EC%86%8C%EA%B0%9C%EB%A1%9C-sqqx71cg#463041560",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T17:30:41+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:30:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -655080,7 +655177,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T17:27:41+09:00"
+      "slowAt": "2026-11-28T17:30:41+09:00"
     },
     "ig": {
       "doneIds": [
@@ -677317,7 +677414,8 @@
         "6720970",
         "6720981",
         "6720983",
-        "6720986"
+        "6720986",
+        "6720987"
       ]
     },
     "blind": {
