@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T04:40:39+00:00",
+  "updatedAt": "2026-11-28T04:41:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -645689,6 +645689,25 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-28T04:40:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128664,
+      "source": "dc",
+      "externalId": "6720749",
+      "title": "현숙은 가까이서 보면 이쁜데",
+      "excerpt": "",
+      "author": "찬의타티스",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720749&page=1",
+      "postedLabel": "13:41",
+      "postedAt": "2026-11-28T13:41:22+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:41:39+00:00",
       "isSeed": false
     }
   ],
