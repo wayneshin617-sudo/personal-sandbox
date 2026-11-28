@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:55:21+00:00",
+  "updatedAt": "2026-11-28T08:56:20+00:00",
   "posts": [
     {
       "id": 95749,
@@ -656313,6 +656313,64 @@
       "firstSeenAt": "2026-11-28T08:55:21+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129207,
+      "source": "dc",
+      "externalId": "6721034",
+      "title": "영식 현숙 공주님안기",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "39.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721034&page=1",
+      "postedLabel": "17:55",
+      "postedAt": "2026-11-28T17:55:29+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:56:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129208,
+      "source": "dc",
+      "externalId": "6721035",
+      "title": "34 순자는 존나 애매하네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721035&page=1",
+      "postedLabel": "17:55",
+      "postedAt": "2026-11-28T17:55:47+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:56:20+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129209,
+      "source": "dc",
+      "externalId": "cmt-11053050",
+      "title": "파ㅇㅈㄹ 가능할 듯.",
+      "excerpt": "34순자 맏며느리감인건 맞지",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "93.118",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721032&page=1#cmt_11053050",
+      "postedLabel": "11.28 17:55:49",
+      "postedAt": "2026-11-28T17:55:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:56:20+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -656497,7 +656555,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T17:52:43+09:00"
+      "slowAt": "2026-11-28T17:56:02+09:00"
     },
     "dc": {
       "doneIds": [
@@ -678672,7 +678730,8 @@
         "6721014",
         "6721018",
         "6721024",
-        "6721030"
+        "6721030",
+        "6721032"
       ]
     },
     "blind": {
