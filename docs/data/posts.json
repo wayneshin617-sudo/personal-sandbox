@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T05:23:39+00:00",
+  "updatedAt": "2026-11-28T05:25:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -646984,6 +646984,84 @@
       "firstSeenAt": "2026-11-28T05:23:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128730,
+      "source": "dc",
+      "externalId": "6720783",
+      "title": "알아도 이런거는 모르는척 해주는게 예의임",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720783&page=1",
+      "postedLabel": "14:24",
+      "postedAt": "2026-11-28T14:24:36+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:25:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128731,
+      "source": "blind",
+      "externalId": "cmt-463022549",
+      "title": "출연",
+      "excerpt": "나솔 출연 제의왔는데.. 나가 말아",
+      "author": "i******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%EC%B6%9C%EC%97%B0-%EC%A0%9C%EC%9D%98%EC%99%94%EB%8A%94%EB%8D%B0-%EB%82%98%EA%B0%80-%EB%A7%90%EC%95%84-vzayplna#463022549",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T14:25:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:25:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128732,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%8B%A0%EA%B8%B0%ED%95%A8-i7vnuyzv",
+      "title": "영철 안잘생겼다고 하는게 제일 신기함",
+      "excerpt": "서울 번화가에서 하루에 최소 300명은 20~30대 보거든? 영철정도 하루에 1명 볼까말까임",
+      "author": "I*********",
+      "company": "약사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%8B%A0%EA%B8%B0%ED%95%A8-i7vnuyzv",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T14:25:23+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T05:25:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128733,
+      "source": "blind",
+      "externalId": "cmt-463022634",
+      "title": "애매하게 생김",
+      "excerpt": "영철 안잘생겼다고 하는게 제일 신기함",
+      "author": "바***",
+      "company": "골프존",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%8B%A0%EA%B8%B0%ED%95%A8-i7vnuyzv#463022634",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T14:25:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:25:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -647095,7 +647173,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T14:22:23+09:00"
+      "slowAt": "2026-11-28T14:25:23+09:00"
     },
     "ig": {
       "doneIds": [
@@ -669246,7 +669324,8 @@
         "6720764",
         "6720770",
         "6720773",
-        "6720777"
+        "6720777",
+        "6720780"
       ]
     },
     "blind": {
@@ -675000,6 +675079,7 @@
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%84%EC%A7%81-%EC%95%A0%EB%84%A4%E2%80%A6-jxu8ka5t",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EA%B2%BD-%EB%AD%90%EC%A7%80-nb3am6b5",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8A%94%EB%8D%B0-adzuvhy7",
+        "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%8B%A0%EA%B8%B0%ED%95%A8-i7vnuyzv",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%A0%95%EA%B0%90%EC%9D%80-%EC%9D%BC%EB%8B%A8-%EC%B1%99%EA%B2%A8%EB%91%90%EA%B3%A0-%EC%86%90%EC%9C%BC%EB%A1%9C-%EC%9E%A1%EC%9C%BC%EB%A9%B0-%EA%B0%80%EB%A7%8C%EC%9E%88%EC%96%B4-%EC%9D%B4-%EB%A7%90%ED%88%AC-xua0gvzr",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%ED%83%80%EA%B9%9D%EA%B8%B4%ED%95%A8-2uzmeeio",
         "/kr/post/%EC%98%81%EC%B2%A0-%EC%95%BD%EA%B0%84-%EA%B0%9C%EA%B7%B8%EB%A7%A8-%EC%84%9C%ED%83%9C%ED%9B%88-%EB%8A%90%EB%82%8C-%EB%82%98%EB%84%A4-tnpsimg3",
