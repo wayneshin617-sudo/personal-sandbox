@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:48:28+00:00",
+  "updatedAt": "2026-11-28T10:49:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -661741,6 +661741,45 @@
       "firstSeenAt": "2026-11-28T10:48:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129483,
+      "source": "dc",
+      "externalId": "6721150",
+      "title": "광고주들 보면 옥천지들은 그냥 타진요 취급인가봄",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721150&page=1",
+      "postedLabel": "19:48",
+      "postedAt": "2026-11-28T19:48:42+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:49:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129484,
+      "source": "dc",
+      "externalId": "cmt-11053261",
+      "title": "성균관이라는 얘기가 있음",
+      "excerpt": "광수 < 대학 어디임?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.237",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721146&page=1#cmt_11053261",
+      "postedLabel": "11.28 19:49:01",
+      "postedAt": "2026-11-28T19:49:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:49:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -661852,7 +661891,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T19:46:09+09:00"
+      "slowAt": "2026-11-28T19:49:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -684154,7 +684193,8 @@
         "6721134",
         "6721136",
         "6721142",
-        "6721144"
+        "6721144",
+        "6721146"
       ]
     },
     "blind": {
