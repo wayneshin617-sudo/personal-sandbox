@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:27:49+00:00",
+  "updatedAt": "2026-11-28T10:28:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -660617,6 +660617,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T10:27:49+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129426,
+      "source": "dc",
+      "externalId": "cmt-11053129",
+      "title": "야 아무리 그래도 먹는건 잘먹어야 힘을 내지",
+      "excerpt": "주식 조져서 편의점음식으로 저녁때움",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720935&page=3#cmt_11053129",
+      "postedLabel": "11.28 18:43:43",
+      "postedAt": "2026-11-28T18:43:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:28:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129427,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B4%88%EB%B0%98%EC%97%90-%EC%98%81%EC%88%99-%EC%9A%95-%EB%A7%8E%EC%9D%B4-%ED%96%88%EC%97%88%EC%9E%90%EB%82%98-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-xlvhcy83",
+      "title": "초반에 영숙 욕 많이 했었자나 사람들이",
+      "excerpt": "근데 난 왜 영숙 성격 나쁘다고 생각이 안들지ㅠㅜㅋㅋ 저기서도 다른 출연자들이 영숙한테 와서 조잘조잘 얘기하고 상담하는거 보면 우리한테 보여지는거랑 좀 다를 수 있을거 같고 그리고 얼굴 이쁘고 옷스타일도 내 취향이라 그런가 ㅎ",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B4%88%EB%B0%98%EC%97%90-%EC%98%81%EC%88%99-%EC%9A%95-%EB%A7%8E%EC%9D%B4-%ED%96%88%EC%97%88%EC%9E%90%EB%82%98-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-xlvhcy83",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T19:28:39+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T10:28:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -683018,7 +683057,8 @@
         "6721112",
         "6721118",
         "6721124",
-        "6721125"
+        "6721125",
+        "6721127"
       ]
     },
     "blind": {
