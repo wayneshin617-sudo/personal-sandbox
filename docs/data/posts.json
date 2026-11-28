@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:59:54+00:00",
+  "updatedAt": "2026-11-28T02:00:54+00:00",
   "posts": [
     {
       "id": 95749,
@@ -639938,6 +639938,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T01:59:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128372,
+      "source": "dc",
+      "externalId": "cmt-11052445",
+      "title": "못생김",
+      "excerpt": "승무원출신들 나이먹으면 장난아니겓 살찌네ㄷㄷㄷ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720657&page=1#cmt_11052445",
+      "postedLabel": "11.28 11:00:12",
+      "postedAt": "2026-11-28T11:00:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T02:00:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128373,
+      "source": "blind",
+      "externalId": "cmt-463001821",
+      "title": "왜 이렇게 화가 났어",
+      "excerpt": "원래 여기는 다 커피 먹자 그러는게 룰이야?",
+      "author": "k******** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9B%90%EB%9E%98-%EC%97%AC%EA%B8%B0%EB%8A%94-%EB%8B%A4-%EC%BB%A4%ED%94%BC-%EB%A8%B9%EC%9E%90-%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B2%8C-%EB%A3%B0%EC%9D%B4%EC%95%BC-h4cpsum8#463001821",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T11:00:35+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T02:00:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128374,
+      "source": "blind",
+      "externalId": "cmt-463001849",
+      "title": "얻어먹을줄 밖에 모르는 분들이욤",
+      "excerpt": "원래 여기는 다 커피 먹자 그러는게 룰이야?",
+      "author": "k*****",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9B%90%EB%9E%98-%EC%97%AC%EA%B8%B0%EB%8A%94-%EB%8B%A4-%EC%BB%A4%ED%94%BC-%EB%A8%B9%EC%9E%90-%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B2%8C-%EB%A3%B0%EC%9D%B4%EC%95%BC-h4cpsum8#463001849",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T11:00:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T02:00:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -662147,7 +662207,8 @@
         "6720638",
         "6720642",
         "6720646",
-        "6720650"
+        "6720650",
+        "6720657"
       ]
     },
     "blind": {
