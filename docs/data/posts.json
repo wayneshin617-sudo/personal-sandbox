@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T12:17:51+00:00",
+  "updatedAt": "2026-11-28T12:18:53+00:00",
   "posts": [
     {
       "id": 95749,
@@ -666836,6 +666836,64 @@
       "firstSeenAt": "2026-11-28T12:17:51+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129742,
+      "source": "dc",
+      "externalId": "6721260",
+      "title": "현숙이 이쁜건 아닌 듯",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.207",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721260&page=1",
+      "postedLabel": "21:18",
+      "postedAt": "2026-11-28T21:18:14+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:18:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129743,
+      "source": "dc",
+      "externalId": "6721261",
+      "title": "스튜어디스는 어디서 만나냐 개나소나 하는 일인데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721261&page=1",
+      "postedLabel": "21:18",
+      "postedAt": "2026-11-28T21:18:23+09:00",
+      "views": 1,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:18:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129744,
+      "source": "dc",
+      "externalId": "cmt-11053459",
+      "title": "양심이 뒤졌나 일녀 데려오는데 일 시킬 생각을 쳐하네ㅋㅋㅋㅋㅋ",
+      "excerpt": "일녀들 남자 돈 와꾸 안봄? ㄹㅇ?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721259&page=1#cmt_11053459",
+      "postedLabel": "11.28 21:18:27",
+      "postedAt": "2026-11-28T21:18:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:18:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -667020,7 +667078,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T21:15:36+09:00"
+      "slowAt": "2026-11-28T21:18:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -689301,7 +689359,8 @@
         "6721246",
         "6721248",
         "6721252",
-        "6721255"
+        "6721255",
+        "6721259"
       ]
     },
     "blind": {
