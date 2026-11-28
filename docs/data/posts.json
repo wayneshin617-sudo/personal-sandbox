@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T06:26:34+00:00",
+  "updatedAt": "2026-11-28T06:27:35+00:00",
   "posts": [
     {
       "id": 95749,
@@ -649752,6 +649752,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T06:26:34+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128872,
+      "source": "dc",
+      "externalId": "cmt-11052791",
+      "title": "20 에러",
+      "excerpt": "변우석 이번 팬미팅도 11만원이다",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720857&page=1#cmt_11052791",
+      "postedLabel": "11.28 15:26:25",
+      "postedAt": "2026-11-28T15:26:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T06:27:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128873,
+      "source": "dc",
+      "externalId": "6720858",
+      "title": "사레글 올리는 놈은 필히",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720858&page=1",
+      "postedLabel": "15:27",
+      "postedAt": "2026-11-28T15:27:12+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T06:27:35+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -672038,7 +672077,8 @@
         "6720841",
         "6720844",
         "6720846",
-        "6720852"
+        "6720852",
+        "6720857"
       ]
     },
     "blind": {
