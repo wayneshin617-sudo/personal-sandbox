@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T02:23:53+00:00",
+  "updatedAt": "2026-11-28T02:24:53+00:00",
   "posts": [
     {
       "id": 95749,
@@ -640309,6 +640309,45 @@
       "firstSeenAt": "2026-11-28T02:23:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128391,
+      "source": "dc",
+      "externalId": "cmt-11052458",
+      "title": "ㅇㄱㄹㅇ 좀 이상해 정신상태가",
+      "excerpt": "상철 이놈은 그냥 다 본인이 말아먹은 거 아닌가",
+      "author": "ㅇㅅㅇ",
+      "company": "",
+      "ip": "39.124",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720627&page=1#cmt_11052458",
+      "postedLabel": "11.28 11:14:18",
+      "postedAt": "2026-11-28T11:14:18+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T02:24:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128392,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-162%EC%97%90-57%ED%82%A4%EB%A1%9C%EA%B3%A0-%EB%82%98%EB%8A%94-50%ED%82%A4%EB%A1%9C%EC%9D%B8%EB%8D%B0-%EC%99%9C-%ED%84%B1%EC%82%B4-%EB%B3%BC%EC%82%B4-%EB%A7%8E%EC%9D%80%EA%B1%B0%EC%A7%80%E3%85%9C%E3%85%9C-02ep0xdn",
+      "title": "순자는 162?에 57키로고 나는 50키로인데 왜 턱살 볼살 많은거지ㅜㅜ",
+      "excerpt": "순자는 턱선이 날렵하잖아 나는 볼살 턱살 많아서 턱선이 모호한데 이건 뭘 해야돼? ㅜㅜㅜ사람마다 다른거야?",
+      "author": "|*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%88%9C%EC%9E%90%EB%8A%94-162%EC%97%90-57%ED%82%A4%EB%A1%9C%EA%B3%A0-%EB%82%98%EB%8A%94-50%ED%82%A4%EB%A1%9C%EC%9D%B8%EB%8D%B0-%EC%99%9C-%ED%84%B1%EC%82%B4-%EB%B3%BC%EC%82%B4-%EB%A7%8E%EC%9D%80%EA%B1%B0%EC%A7%80%E3%85%9C%E3%85%9C-02ep0xdn",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T11:24:36+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T02:24:53+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -662513,6 +662552,7 @@
         "6720615",
         "6720618",
         "6720622",
+        "6720627",
         "6720630",
         "6720635",
         "6720638",
