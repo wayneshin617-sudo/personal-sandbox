@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T15:15:23+00:00",
+  "updatedAt": "2026-11-28T15:16:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -674103,6 +674103,66 @@
       "comments": 0,
       "firstSeenAt": "2026-11-28T15:15:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130111,
+      "source": "dc",
+      "externalId": "cmt-11053899",
+      "title": "지랄하네 ㅋㅋㅋ - dc App",
+      "excerpt": "옥순이나 옥천지들이 열폭해 미치는이유",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721309&page=2#cmt_11053899",
+      "postedLabel": "11.28 23:34:48",
+      "postedAt": "2026-11-28T23:34:48+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T15:16:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130112,
+      "source": "dc",
+      "externalId": "cmt-11054067",
+      "title": "싼티나는 문신은 절대하면안되능.. - dc App",
+      "excerpt": "이쁘고 안이쁘고보다 일단 사람은 귀티가 나야 대접받음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721400&page=1#cmt_11054067",
+      "postedLabel": "11.29 00:16:06",
+      "postedAt": "2026-11-29T00:16:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T15:16:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130113,
+      "source": "blind",
+      "externalId": "cmt-463089906",
+      "title": "ㅇㅈ",
+      "excerpt": "일본 불량 연애 컨셉으로 막장 특집 한번 해줘라",
+      "author": "i********",
+      "company": "SK하이닉스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9D%BC%EB%B3%B8-%EB%B6%88%EB%9F%89-%EC%97%B0%EC%95%A0-%EC%BB%A8%EC%85%89%EC%9C%BC%EB%A1%9C-%EB%A7%89%EC%9E%A5-%ED%8A%B9%EC%A7%91-%ED%95%9C%EB%B2%88-%ED%95%B4%EC%A4%98%EB%9D%BC-p5iulsgp#463089906",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-29T00:16:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T15:16:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -674287,7 +674347,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T00:13:07+09:00"
+      "slowAt": "2026-11-29T00:16:07+09:00"
     },
     "dc": {
       "doneIds": [
@@ -696607,6 +696667,7 @@
         "6721305",
         "6721306",
         "6721308",
+        "6721309",
         "6721312",
         "6721318",
         "6721321",
@@ -696647,7 +696708,8 @@
         "6721393",
         "6721394",
         "6721395",
-        "6721396"
+        "6721396",
+        "6721400"
       ]
     },
     "blind": {
@@ -704012,6 +704074,7 @@
         "/kr/post/%EC%9D%BC%EB%9D%BC%EC%9D%B4%EB%A6%B4%EB%A6%AC%EA%B0%80-%EB%A7%8E%EC%9D%B4-%EC%A2%8B%EC%9D%80-%ED%9A%8C%EC%82%AC%EC%95%BC-72ymv6gq",
         "/kr/post/%EC%9D%BC%EB%9D%BC%EC%9D%B4%EB%A6%B4%EB%A6%AC%EA%B0%80-%ED%81%B0-%ED%9A%8C%EC%82%AC%EB%8A%94-%EB%A7%9E%EB%8A%94%EB%8D%B0-re73ytys",
         "/kr/post/%EC%9D%BC%EB%9D%BC%EC%9D%B4-%EB%A6%B4%EB%A6%AC%EA%B0%80-%EC%98%81%EC%B2%A0%EC%9D%B4%EB%9E%91-%EC%82%AC%EA%B7%80%EB%8A%94%EA%B1%B4-%EC%A2%80-%EC%95%84%EA%B9%9D%EB%8B%A4-jnkutw00",
+        "/kr/post/%EC%9D%BC%EB%B3%B8-%EB%B6%88%EB%9F%89-%EC%97%B0%EC%95%A0-%EC%BB%A8%EC%85%89%EC%9C%BC%EB%A1%9C-%EB%A7%89%EC%9E%A5-%ED%8A%B9%EC%A7%91-%ED%95%9C%EB%B2%88-%ED%95%B4%EC%A4%98%EB%9D%BC-p5iulsgp",
         "/kr/post/%EC%9D%BC%EB%B3%B8-%EC%97%AC%EC%9E%90%EB%8F%84-%EC%9D%B4%EC%83%81%ED%98%95-%EC%A1%B4%EA%B2%BD%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%82%A8%EC%9E%90%EB%9D%BC%EB%84%A4-zoon72el",
         "/kr/post/%EC%9D%BC%EB%B6%80-%EB%AC%B8%EC%8B%A0%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%A7%9C%EC%B9%98%EA%B2%8C-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94%EA%B2%8C-%EB%AD%90%EB%83%90%EB%A9%B4-z2iac58s",
         "/kr/post/%EC%9D%BC%EC%A0%95%EC%A2%80-%EC%A7%9C%EC%A4%98-41i3kpa5",
