@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T04:33:40+00:00",
+  "updatedAt": "2026-11-28T04:35:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -645552,6 +645552,66 @@
       "firstSeenAt": "2026-11-28T04:33:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128657,
+      "source": "dc",
+      "externalId": "cmt-11052602",
+      "title": "승무원은 업계 특성상 유지비를 미친듯이 씀. 꾸미는 비용도 그렇고 저 퍼듐비 해외체류하면서 다쓰고 더쓰는 사람들이 허다함.",
+      "excerpt": "전직 승무원의 대한항공 실수령액 공개",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720705&page=1#cmt_11052602",
+      "postedLabel": "11.28 13:03:51",
+      "postedAt": "2026-11-28T13:03:51+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:35:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128658,
+      "source": "dc",
+      "externalId": "cmt-11052641",
+      "title": "개소리 ㄴㄴ 잘 모으는 애들은 잘만 모음",
+      "excerpt": "전직 승무원의 대한항공 실수령액 공개",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "220.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720705&page=1#cmt_11052641",
+      "postedLabel": "11.28 13:32:24",
+      "postedAt": "2026-11-28T13:32:24+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:35:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128659,
+      "source": "dc",
+      "externalId": "cmt-11052642",
+      "title": "인조미가 커서 호불호가 크지, 첫인상에 순자,현숙보다 밀린거 보면 답 나오잖아.",
+      "excerpt": "34옥순은 뭔가 이쁜거같으면서도 아닌거같기도",
+      "author": "ㅇㅇㅇ",
+      "company": "",
+      "ip": "220.94",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720745&page=1#cmt_11052642",
+      "postedLabel": "11.28 13:35:22",
+      "postedAt": "2026-11-28T13:35:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:35:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -667789,6 +667849,7 @@
         "6720693",
         "6720695",
         "6720703",
+        "6720705",
         "6720706",
         "6720710",
         "6720714",
@@ -667798,7 +667859,8 @@
         "6720723",
         "6720726",
         "6720733",
-        "6720740"
+        "6720740",
+        "6720745"
       ]
     },
     "blind": {
