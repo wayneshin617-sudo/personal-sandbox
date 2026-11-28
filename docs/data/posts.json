@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:11:39+00:00",
+  "updatedAt": "2026-11-28T10:12:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -660047,6 +660047,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T10:11:39+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129397,
+      "source": "dc",
+      "externalId": "cmt-11053162",
+      "title": "순자임?",
+      "excerpt": "그 커플 조롱받는 이유는 남자때문이지",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721053&page=1#cmt_11053162",
+      "postedLabel": "11.28 18:58:10",
+      "postedAt": "2026-11-28T18:58:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:12:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129398,
+      "source": "dc",
+      "externalId": "cmt-11053176",
+      "title": "저런거 곧이 곧대로 믿지마라",
+      "excerpt": "손연재 남편 돈 얼마나 많은지 감도 안잡히노 ㄹㅇ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721109&page=1#cmt_11053176",
+      "postedLabel": "11.28 19:12:10",
+      "postedAt": "2026-11-28T19:12:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:12:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -682425,6 +682465,7 @@
         "6721045",
         "6721048",
         "6721050",
+        "6721053",
         "6721055",
         "6721063",
         "6721069",
@@ -682436,7 +682477,8 @@
         "6721093",
         "6721095",
         "6721101",
-        "6721103"
+        "6721103",
+        "6721109"
       ]
     },
     "blind": {
