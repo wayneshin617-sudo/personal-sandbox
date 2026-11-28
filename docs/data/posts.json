@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T22:11:32+00:00",
+  "updatedAt": "2026-11-28T22:12:33+00:00",
   "posts": [
     {
       "id": 95749,
@@ -681286,6 +681286,25 @@
       "firstSeenAt": "2026-11-28T22:11:32+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 130475,
+      "source": "dc",
+      "externalId": "6721519",
+      "title": "평가좀",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721519&page=1",
+      "postedLabel": "07:11",
+      "postedAt": "2026-11-29T07:11:37+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T22:12:33+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -681397,7 +681416,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-29T07:09:06+09:00"
+      "slowAt": "2026-11-29T07:12:16+09:00"
     },
     "ig": {
       "doneIds": [
