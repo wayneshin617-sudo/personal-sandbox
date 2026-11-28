@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T04:47:40+00:00",
+  "updatedAt": "2026-11-28T04:48:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -645922,6 +645922,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T04:47:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128676,
+      "source": "dc",
+      "externalId": "6720759",
+      "title": "광수는",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.126",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720759&page=1",
+      "postedLabel": "13:47",
+      "postedAt": "2026-11-28T13:47:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:48:39+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128677,
+      "source": "dc",
+      "externalId": "cmt-11052659",
+      "title": "2010년대 스타일 ㅇㅈ",
+      "excerpt": "34 영철 존잘이긴한데",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "172.225",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720758&page=1#cmt_11052659",
+      "postedLabel": "11.28 13:47:49",
+      "postedAt": "2026-11-28T13:47:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:48:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -646106,7 +646145,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T13:45:23+09:00"
+      "slowAt": "2026-11-28T13:48:23+09:00"
     },
     "dc": {
       "doneIds": [
@@ -668173,7 +668212,8 @@
         "6720740",
         "6720745",
         "6720747",
-        "6720755"
+        "6720755",
+        "6720758"
       ]
     },
     "blind": {
