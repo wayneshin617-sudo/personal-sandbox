@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:28:28+00:00",
+  "updatedAt": "2026-11-28T09:29:34+00:00",
   "posts": [
     {
       "id": 95749,
@@ -657900,6 +657900,65 @@
       "firstSeenAt": "2026-11-28T09:28:28+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129288,
+      "source": "dc",
+      "externalId": "cmt-11053080",
+      "title": "영호는 인기남 아님",
+      "excerpt": "영호는 인기남인데도 남출들이랑 친한데 경수는",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "221.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720989&page=2#cmt_11053080",
+      "postedLabel": "11.28 18:12:51",
+      "postedAt": "2026-11-28T18:12:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:29:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129289,
+      "source": "dc",
+      "externalId": "6721070",
+      "title": "34 현숙이가 영철이 왜 내친거야??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721070&page=1",
+      "postedLabel": "18:28",
+      "postedAt": "2026-11-28T18:28:46+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:29:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129290,
+      "source": "blind",
+      "externalId": "cmt-463047317",
+      "title": "잘 모르겠는데 여자엄청 좋아해보이는데",
+      "excerpt": "광수에게서 은은하게 게이 향 풍겨",
+      "author": "i*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98%EC%97%90%EA%B2%8C%EC%84%9C-%EC%9D%80%EC%9D%80%ED%95%98%EA%B2%8C-%EA%B2%8C%EC%9D%B4-%ED%96%A5-%ED%92%8D%EA%B2%A8-v3zt33tn#463047317",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T18:29:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:29:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658011,7 +658070,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T18:26:04+09:00"
+      "slowAt": "2026-11-28T18:29:17+09:00"
     },
     "ig": {
       "doneIds": [
@@ -680254,6 +680313,7 @@
         "6720983",
         "6720986",
         "6720987",
+        "6720989",
         "6720992",
         "6720994",
         "6720999",
