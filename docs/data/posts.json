@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T22:09:22+00:00",
+  "updatedAt": "2026-11-28T22:10:25+00:00",
   "posts": [
     {
       "id": 95749,
@@ -681207,6 +681207,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T22:09:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130471,
+      "source": "dc",
+      "externalId": "cmt-11054514",
+      "title": "김연아가 상향하면 인간이 있긴 함?",
+      "excerpt": "김연아는 자산가인데 상향혼이 왜 필요하냐",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721516&page=1#cmt_11054514",
+      "postedLabel": "11.29 07:09:21",
+      "postedAt": "2026-11-29T07:09:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T22:10:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130472,
+      "source": "blind",
+      "externalId": "cmt-463111189",
+      "title": "맘에 들었으면 해봐 ㅎㅎㅎ 저정도는 단순 예의는 아님",
+      "excerpt": "소개팅 애프터 잡힌건가?",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%95%A0%ED%94%84%ED%84%B0-%EC%9E%A1%ED%9E%8C%EA%B1%B4%EA%B0%80-cl6v7yid#463111189",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-29T07:10:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T22:10:25+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681391,7 +681431,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T07:07:06+09:00"
+      "slowAt": "2026-11-29T07:10:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -703811,7 +703851,8 @@
         "6721496",
         "6721498",
         "6721501",
-        "6721504"
+        "6721504",
+        "6721516"
       ]
     },
     "blind": {
