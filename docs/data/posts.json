@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T20:53:20+00:00",
+  "updatedAt": "2026-11-28T20:54:29+00:00",
   "posts": [
     {
       "id": 95749,
@@ -679668,6 +679668,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T20:53:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130393,
+      "source": "dc",
+      "externalId": "cmt-11054431",
+      "title": "난 영수 좋음",
+      "excerpt": "근데 영수는 왜캐 인기가 없냐?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.236",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721394&page=2#cmt_11054431",
+      "postedLabel": "11.29 05:17:51",
+      "postedAt": "2026-11-29T05:17:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T20:54:29+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -679852,7 +679872,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T05:50:54+09:00"
+      "slowAt": "2026-11-29T05:54:12+09:00"
     },
     "dc": {
       "doneIds": [
