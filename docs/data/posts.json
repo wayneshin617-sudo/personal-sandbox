@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:40:27+00:00",
+  "updatedAt": "2026-11-28T10:41:26+00:00",
   "posts": [
     {
       "id": 95749,
@@ -661368,6 +661368,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T10:40:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129464,
+      "source": "dc",
+      "externalId": "cmt-11053137",
+      "title": "전혀아님 입열기전 첫인상부터 쳐발림",
+      "excerpt": "영철이 외모만보면 영호보다 나은데",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721084&page=1#cmt_11053137",
+      "postedLabel": "11.28 18:46:36",
+      "postedAt": "2026-11-28T18:46:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:41:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129465,
+      "source": "dc",
+      "externalId": "6721142",
+      "title": "영호가 노선을 빨리 정해서 직진했으면",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721142&page=1",
+      "postedLabel": "19:40",
+      "postedAt": "2026-11-28T19:40:20+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T10:41:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129466,
+      "source": "dc",
+      "externalId": "cmt-11053249",
+      "title": "처음부터 다 영호한데 몰려가지고 균형이 안잡힘 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "영호가 노선을 빨리 정해서 직진했으면",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "182.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721142&page=1#cmt_11053249",
+      "postedLabel": "11.28 19:40:56",
+      "postedAt": "2026-11-28T19:40:56+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:41:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -683762,6 +683821,7 @@
         "6721079",
         "6721081",
         "6721083",
+        "6721084",
         "6721087",
         "6721089",
         "6721093",
@@ -683777,7 +683837,8 @@
         "6721127",
         "6721131",
         "6721134",
-        "6721136"
+        "6721136",
+        "6721142"
       ]
     },
     "blind": {
