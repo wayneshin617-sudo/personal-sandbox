@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:59:46+00:00",
+  "updatedAt": "2026-11-28T10:00:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -659437,6 +659437,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T09:59:46+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129366,
+      "source": "dc",
+      "externalId": "6721099",
+      "title": "영호보다 영식이가 재밌는 이유",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721099&page=1",
+      "postedLabel": "19:00",
+      "postedAt": "2026-11-28T19:00:10+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:00:46+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -659621,7 +659640,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T18:57:13+09:00"
+      "slowAt": "2026-11-28T19:00:29+09:00"
     },
     "dc": {
       "doneIds": [
