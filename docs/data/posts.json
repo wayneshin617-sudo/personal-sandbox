@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T13:19:44+00:00",
+  "updatedAt": "2026-11-28T13:20:41+00:00",
   "posts": [
     {
       "id": 95749,
@@ -669261,6 +669261,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T13:19:44+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129865,
+      "source": "qoo",
+      "externalId": "4420755069",
+      "title": "광수는 진짜 보기 힘들다...",
+      "excerpt": "",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "잡담",
+      "url": "https://theqoo.net/iamsolo/4420755069",
+      "postedLabel": "22:19",
+      "postedAt": "2026-11-28T22:19:00+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T13:20:41+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129866,
+      "source": "blind",
+      "externalId": "cmt-463074678",
+      "title": "두 명 있는 것 '같다'가 못박는 거임?ㅋㅋ",
+      "excerpt": "영호 배려심 많은 사람 맞아?",
+      "author": "i****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8-%EB%B0%B0%EB%A0%A4%EC%8B%AC-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C-%EB%A7%9E%EC%95%84-rf3nzo2h#463074678",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T22:20:26+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T13:20:41+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -669445,7 +669484,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T22:16:58+09:00"
+      "slowAt": "2026-11-28T22:20:26+09:00"
     },
     "dc": {
       "doneIds": [
@@ -707333,7 +707372,8 @@
         "4420195149",
         "4420230656",
         "4420508784",
-        "4420696050"
+        "4420696050",
+        "4420755069"
       ]
     },
     "keep": "v2",
