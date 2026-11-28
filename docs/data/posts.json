@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T03:16:47+00:00",
+  "updatedAt": "2026-11-28T03:18:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -643034,6 +643034,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T03:16:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128529,
+      "source": "dc",
+      "externalId": "cmt-11052558",
+      "title": "정상이니까 꼭가라 ㅋㅋㅋㅋㅋㅋㅋㅋ 디엠 꼭보내",
+      "excerpt": "나 01년생인데 34영식한테 시집가고 싶은거",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720693&page=1#cmt_11052558",
+      "postedLabel": "11.28 12:17:58",
+      "postedAt": "2026-11-28T12:17:58+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T03:18:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128530,
+      "source": "dc",
+      "externalId": "6720697",
+      "title": "사는게 뭔지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720697&page=1",
+      "postedLabel": "12:18",
+      "postedAt": "2026-11-28T12:18:14+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T03:18:47+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -643218,7 +643257,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T12:15:29+09:00"
+      "slowAt": "2026-11-28T12:18:29+09:00"
     },
     "dc": {
       "doneIds": [
@@ -665262,7 +665301,8 @@
         "6720681",
         "6720686",
         "6720687",
-        "6720692"
+        "6720692",
+        "6720693"
       ]
     },
     "blind": {
