@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:21:18+00:00",
+  "updatedAt": "2026-11-28T07:22:32+00:00",
   "posts": [
     {
       "id": 95749,
@@ -652414,6 +652414,25 @@
       "firstSeenAt": "2026-11-28T07:21:18+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129008,
+      "source": "dc",
+      "externalId": "6720926",
+      "title": "미국에서는 교포가 조선족 같은거임?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "221.140",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720926&page=1",
+      "postedLabel": "16:21",
+      "postedAt": "2026-11-28T16:21:39+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T07:22:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -652598,7 +652617,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T16:19:44+09:00"
+      "slowAt": "2026-11-28T16:22:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -674722,7 +674741,8 @@
         "6720915",
         "6720916",
         "6720923",
-        "6720925"
+        "6720925",
+        "6720926"
       ]
     },
     "blind": {
