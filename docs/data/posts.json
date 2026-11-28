@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T06:05:35+00:00",
+  "updatedAt": "2026-11-28T06:06:35+00:00",
   "posts": [
     {
       "id": 95749,
@@ -649016,6 +649016,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T06:05:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128834,
+      "source": "dc",
+      "externalId": "6720828",
+      "title": "안경수 재고 어쩌냐 다들 뿔테에서 바꾼대",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720828&page=1",
+      "postedLabel": "15:05",
+      "postedAt": "2026-11-28T15:05:50+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T06:06:35+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128835,
+      "source": "blind",
+      "externalId": "cmt-463026874",
+      "title": "뭔 소리야",
+      "excerpt": "최태원이 하닉을 인수하지 않았다면",
+      "author": "방***",
+      "company": "서브원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B5%9C%ED%83%9C%EC%9B%90%EC%9D%B4-%ED%95%98%EB%8B%89%EC%9D%84-%EC%9D%B8%EC%88%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4-w33bnz6s#463026874",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T15:06:17+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T06:06:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
