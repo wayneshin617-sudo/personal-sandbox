@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T14:18:07+00:00",
+  "updatedAt": "2026-11-28T14:19:06+00:00",
   "posts": [
     {
       "id": 95749,
@@ -671282,6 +671282,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T14:18:07+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129968,
+      "source": "dc",
+      "externalId": "cmt-11053629",
+      "title": "엠시들 잡소리만 하는데 다 없애버려 자막도 없는 말 달지 말고",
+      "excerpt": "이이경은 없으나 마나 아니냐?",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "138.199",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721312&page=1#cmt_11053629",
+      "postedLabel": "11.28 22:34:22",
+      "postedAt": "2026-11-28T22:34:22+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:19:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129969,
+      "source": "blind",
+      "externalId": "cmt-463082353",
+      "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "투표글 누가 더 나음 얼굴 ? 투표",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%84%EA%B0%80-%EB%8D%94-%EB%82%98%EC%9D%8C-%EC%96%BC%EA%B5%B4-6peju2u2#463082353",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T23:18:50+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:19:06+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -671466,7 +671506,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T23:15:51+09:00"
+      "slowAt": "2026-11-28T23:18:50+09:00"
     },
     "dc": {
       "doneIds": [
