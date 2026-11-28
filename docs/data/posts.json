@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T04:08:38+00:00",
+  "updatedAt": "2026-11-28T04:10:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -644747,6 +644747,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T04:08:38+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128616,
+      "source": "blind",
+      "externalId": "cmt-463013173",
+      "title": "혼기도 꽉 찼는데 저래서 언제 장가 가려는지 아직도 20대 때 밀당식 연애를 하려고하남",
+      "excerpt": "상철 생산직인가?",
+      "author": "i*********",
+      "company": "카카오",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%83%81%EC%B2%A0-%EC%83%9D%EC%82%B0%EC%A7%81%EC%9D%B8%EA%B0%80-40bjqhpx#463013173",
+      "postedLabel": "19분",
+      "postedAt": "2026-11-28T12:51:28+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:10:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128617,
+      "source": "dc",
+      "externalId": "6720730",
+      "title": "미국 이민 간사람들이나 유학간 사람들 왜이렇게 한국에 관심이 많아?",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720730&page=1",
+      "postedLabel": "13:09",
+      "postedAt": "2026-11-28T13:09:32+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:10:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128618,
+      "source": "dc",
+      "externalId": "cmt-11052608",
+      "title": "구글 평점이었어 네이버로 못함.",
+      "excerpt": "경수는 그때 순자랑 안사겼으면 안경점 망했다",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720690&page=1#cmt_11052608",
+      "postedLabel": "11.28 13:10:30",
+      "postedAt": "2026-11-28T13:10:30+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:10:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -644931,7 +644990,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T13:07:12+09:00"
+      "slowAt": "2026-11-28T13:10:28+09:00"
     },
     "dc": {
       "doneIds": [
