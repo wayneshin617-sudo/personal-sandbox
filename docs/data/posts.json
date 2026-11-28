@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T00:23:15+00:00",
+  "updatedAt": "2026-11-28T00:24:15+00:00",
   "posts": [
     {
       "id": 95749,
@@ -636677,6 +636677,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T00:23:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128206,
+      "source": "dc",
+      "externalId": "cmt-11052295",
+      "title": "옛날에 운동하는 간호사도 아산병원이였던거같은데 기수가 기억이안남 약간 정지선 쉐프랑 비슷하게 생겼는데",
+      "excerpt": "아산병원 간호사는 순자말곤 없음?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "116.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720556&page=1#cmt_11052295",
+      "postedLabel": "11.28 08:36:12",
+      "postedAt": "2026-11-28T08:36:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:24:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128207,
+      "source": "dc",
+      "externalId": "cmt-11052358",
+      "title": "ㅋㅋㅋㅋ - dc App",
+      "excerpt": "남규홍 어렸을때 광수라는 사람한테 쳐맞고댕김?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "125.176",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720599&page=1#cmt_11052358",
+      "postedLabel": "11.28 09:23:17",
+      "postedAt": "2026-11-28T09:23:17+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:24:15+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658856,13 +658896,15 @@
         "6720546",
         "6720550",
         "6720555",
+        "6720556",
         "6720558",
         "6720563",
         "6720566",
         "6720571",
         "6720577",
         "6720583",
-        "6720594"
+        "6720594",
+        "6720599"
       ]
     },
     "blind": {
