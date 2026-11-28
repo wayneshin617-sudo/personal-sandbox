@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T00:40:15+00:00",
+  "updatedAt": "2026-11-28T00:41:13+00:00",
   "posts": [
     {
       "id": 95749,
@@ -637031,6 +637031,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T00:40:15+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128224,
+      "source": "dc",
+      "externalId": "cmt-11052334",
+      "title": "곧 40인데 개선될까? 맨날 틀리는 한자라도 제발 그만 쓰길",
+      "excerpt": "외모가 잘생겨도 영철이처럼 입에서 날티나면 진짜 없어보이네",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720571&page=1#cmt_11052334",
+      "postedLabel": "11.28 09:01:04",
+      "postedAt": "2026-11-28T09:01:04+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:41:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -637215,7 +637235,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T09:37:59+09:00"
+      "slowAt": "2026-11-28T09:40:58+09:00"
     },
     "dc": {
       "doneIds": [
