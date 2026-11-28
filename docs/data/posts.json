@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:46:23+00:00",
+  "updatedAt": "2026-11-28T08:47:32+00:00",
   "posts": [
     {
       "id": 95749,
@@ -655826,6 +655826,44 @@
       "firstSeenAt": "2026-11-28T08:46:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129182,
+      "source": "dc",
+      "externalId": "6721020",
+      "title": "현숙 보니 어깨도 넓네?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "222.96",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721020&page=1",
+      "postedLabel": "17:46",
+      "postedAt": "2026-11-28T17:46:54+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:47:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129183,
+      "source": "dc",
+      "externalId": "6721021",
+      "title": "이번에 나솔보는데 좀 방 드럽긴하더라",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721021&page=1",
+      "postedLabel": "17:47",
+      "postedAt": "2026-11-28T17:47:03+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:47:32+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -655937,7 +655975,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T17:43:55+09:00"
+      "slowAt": "2026-11-28T17:47:15+09:00"
     },
     "ig": {
       "doneIds": [
