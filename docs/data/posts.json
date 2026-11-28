@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T21:19:23+00:00",
+  "updatedAt": "2026-11-28T21:22:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -680239,6 +680239,45 @@
       "firstSeenAt": "2026-11-28T21:19:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 130422,
+      "source": "dc",
+      "externalId": "6721499",
+      "title": "존잘 취객남 등장에",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.217",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721499&page=1",
+      "postedLabel": "06:21",
+      "postedAt": "2026-11-29T06:21:52+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T21:22:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 130423,
+      "source": "blind",
+      "externalId": "cmt-463109725",
+      "title": "정말?",
+      "excerpt": "소개팅 애프터 잡힌건가?",
+      "author": "e***** 작성자",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%95%A0%ED%94%84%ED%84%B0-%EC%9E%A1%ED%9E%8C%EA%B1%B4%EA%B0%80-cl6v7yid#463109725",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-29T06:22:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T21:22:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -680423,7 +680462,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T06:19:06+09:00"
+      "slowAt": "2026-11-29T06:22:06+09:00"
     },
     "dc": {
       "doneIds": [
