@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T12:04:54+00:00",
+  "updatedAt": "2026-11-28T12:05:54+00:00",
   "posts": [
     {
       "id": 95749,
@@ -665698,6 +665698,83 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T12:04:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129684,
+      "source": "dc",
+      "externalId": "6721234",
+      "title": "근데 북토크 진짜 이건좀 소름돋긴하네..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "218.37",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721234&page=1",
+      "postedLabel": "21:04",
+      "postedAt": "2026-11-28T21:04:58+09:00",
+      "views": 10,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:05:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129685,
+      "source": "dc",
+      "externalId": "6721235",
+      "title": "난 인터넷으로 여성을 배웠음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721235&page=1",
+      "postedLabel": "21:05",
+      "postedAt": "2026-11-28T21:05:02+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:05:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129686,
+      "source": "dc",
+      "externalId": "cmt-11053415",
+      "title": "알빠노",
+      "excerpt": "어휴 상여우xx 끝까지 스킨쉽 1도 없네ㅋ 지독한놈",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721233&page=1#cmt_11053415",
+      "postedLabel": "11.28 21:05:05",
+      "postedAt": "2026-11-28T21:05:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:05:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129687,
+      "source": "dc",
+      "externalId": "6721236",
+      "title": "무속인이 나솔 몇기 정숙이지?? 쓰레드에 자주보이네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "58.237",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721236&page=1",
+      "postedLabel": "21:05",
+      "postedAt": "2026-11-28T21:05:15+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:05:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -688152,7 +688229,8 @@
         "6721221",
         "6721224",
         "6721228",
-        "6721232"
+        "6721232",
+        "6721233"
       ]
     },
     "blind": {
