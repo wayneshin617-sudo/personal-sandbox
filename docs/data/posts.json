@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T21:42:22+00:00",
+  "updatedAt": "2026-11-28T21:43:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -680993,6 +680993,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T21:42:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130460,
+      "source": "dc",
+      "externalId": "6721506",
+      "title": "가정교육이 이래 중요한거죠",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721506&page=1",
+      "postedLabel": "06:42",
+      "postedAt": "2026-11-29T06:42:47+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T21:43:22+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 130461,
+      "source": "dc",
+      "externalId": "cmt-11054496",
+      "title": "300으로 그게 되노 ? 해외는 호텔방 하나만 돈백 수두룩한데",
+      "excerpt": "인스타나 카톡보면 여자애들",
+      "author": "ㅎㅎ",
+      "company": "",
+      "ip": "118.128",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721504&page=1#cmt_11054496",
+      "postedLabel": "11.29 06:42:48",
+      "postedAt": "2026-11-29T06:42:48+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T21:43:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681177,7 +681216,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T06:40:06+09:00"
+      "slowAt": "2026-11-29T06:43:06+09:00"
     },
     "dc": {
       "doneIds": [
