@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:00:26+00:00",
+  "updatedAt": "2026-11-28T11:01:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -662269,6 +662269,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T11:00:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129510,
+      "source": "dc",
+      "externalId": "6721166",
+      "title": "순자 이번 봄에도 기대된다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "114.207",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721166&page=1",
+      "postedLabel": "20:00",
+      "postedAt": "2026-11-28T20:00:13+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:01:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129511,
+      "source": "dc",
+      "externalId": "cmt-11053284",
+      "title": "방송 되고 피드백 해야할 듯 근데 피디가 영철이 맘에 든거같아서 방송에서 계속 보게 되겠더라",
+      "excerpt": "여자가볼때 영철이 잘생겼는데 안타까움",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721161&page=1#cmt_11053284",
+      "postedLabel": "11.28 20:00:51",
+      "postedAt": "2026-11-28T20:00:51+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:01:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -662380,7 +662419,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T19:58:09+09:00"
+      "slowAt": "2026-11-28T20:01:09+09:00"
     },
     "ig": {
       "doneIds": [
@@ -684689,7 +684728,8 @@
         "6721146",
         "6721154",
         "6721155",
-        "6721157"
+        "6721157",
+        "6721161"
       ]
     },
     "blind": {
