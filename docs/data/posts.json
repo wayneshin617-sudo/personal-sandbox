@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:52:11+00:00",
+  "updatedAt": "2026-11-28T09:53:18+00:00",
   "posts": [
     {
       "id": 95749,
@@ -658980,6 +658980,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T09:52:11+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129343,
+      "source": "dc",
+      "externalId": "cmt-11053102",
+      "title": "댓글에 누가 목굵은 김성균이라고 ㅋㅋㅋㅋ",
+      "excerpt": "34순자 진짜 맏며느리상같았는데 뒤에 보니까 전혀",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "183.99",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721029&page=2#cmt_11053102",
+      "postedLabel": "11.28 18:26:41",
+      "postedAt": "2026-11-28T18:26:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:53:18+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129344,
+      "source": "dc",
+      "externalId": "6721095",
+      "title": "광수보다보면 영철은 걍 선녀임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721095&page=1",
+      "postedLabel": "18:52",
+      "postedAt": "2026-11-28T18:52:37+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:53:18+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -681347,6 +681386,7 @@
         "6721018",
         "6721023",
         "6721024",
+        "6721029",
         "6721030",
         "6721032",
         "6721035",
