@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T16:38:50+00:00",
+  "updatedAt": "2026-11-28T16:39:50+00:00",
   "posts": [
     {
       "id": 95749,
@@ -676602,6 +676602,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T16:38:50+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130238,
+      "source": "dc",
+      "externalId": "cmt-11054154",
+      "title": "와 그럼 김연아는 대체 얼마나 부자인거 ㄷㄷㄷ",
+      "excerpt": "손연재 남편이 30억 기부했는데 김연아 남편보다 훨낫지",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "123.214",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721422&page=1#cmt_11054154",
+      "postedLabel": "11.29 00:53:20",
+      "postedAt": "2026-11-29T00:53:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T16:39:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130239,
+      "source": "dc",
+      "externalId": "cmt-11054226",
+      "title": "김연아는천억부자임 비교가안됨",
+      "excerpt": "손연재 남편이 30억 기부했는데 김연아 남편보다 훨낫지",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721422&page=1#cmt_11054226",
+      "postedLabel": "11.29 01:17:28",
+      "postedAt": "2026-11-29T01:17:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T16:39:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -676713,7 +676753,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-29T01:36:34+09:00"
+      "slowAt": "2026-11-29T01:39:33+09:00"
     },
     "ig": {
       "doneIds": [
@@ -699163,6 +699203,7 @@
         "6721415",
         "6721418",
         "6721421",
+        "6721422",
         "6721423",
         "6721428",
         "6721431",
