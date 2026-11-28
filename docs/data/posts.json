@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:32:27+00:00",
+  "updatedAt": "2026-11-28T11:33:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -663925,6 +663925,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T11:32:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129594,
+      "source": "dc",
+      "externalId": "cmt-11053236",
+      "title": "Pdf따서 옥순 언냐한테 보낼게",
+      "excerpt": "와 옥수니 개이뻐",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "175.206",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721132&page=1#cmt_11053236",
+      "postedLabel": "11.28 19:35:32",
+      "postedAt": "2026-11-28T19:35:32+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:33:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129595,
+      "source": "blind",
+      "externalId": "cmt-463056241",
+      "title": "ㅇㅇ마즘",
+      "excerpt": "영식이 나이들어보인다고 하는데",
+      "author": "a********",
+      "company": "기업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9D%B8%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-6lfklabt#463056241",
+      "postedLabel": "38분",
+      "postedAt": "2026-11-28T19:55:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:33:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129596,
+      "source": "blind",
+      "externalId": "cmt-463056710",
+      "title": "얼굴이 나이들었다기보다? 전체적인 분위기가 그래 ㅠ 힘이 없어보여 그런가?",
+      "excerpt": "영식이 나이들어보인다고 하는데",
+      "author": "o*********",
+      "company": "인천광역시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9D%B8%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-6lfklabt#463056710",
+      "postedLabel": "34분",
+      "postedAt": "2026-11-28T19:59:09+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:33:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -664109,7 +664169,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T20:30:09+09:00"
+      "slowAt": "2026-11-28T20:33:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -686345,6 +686405,7 @@
         "6721126",
         "6721127",
         "6721131",
+        "6721132",
         "6721134",
         "6721136",
         "6721142",
