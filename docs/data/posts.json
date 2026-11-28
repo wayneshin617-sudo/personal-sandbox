@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T05:02:39+00:00",
+  "updatedAt": "2026-11-28T05:03:40+00:00",
   "posts": [
     {
       "id": 95749,
@@ -646332,6 +646332,26 @@
       "firstSeenAt": "2026-11-28T05:02:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128697,
+      "source": "dc",
+      "externalId": "cmt-11052681",
+      "title": "직업 + 첼로 + 영호와썸",
+      "excerpt": "근데 블라에서 34현숙이를 유독 까는이유가 뭐노?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720770&page=1#cmt_11052681",
+      "postedLabel": "11.28 14:02:28",
+      "postedAt": "2026-11-28T14:02:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:03:40+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -646516,7 +646536,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T14:00:23+09:00"
+      "slowAt": "2026-11-28T14:03:24+09:00"
     },
     "dc": {
       "doneIds": [
@@ -668587,7 +668607,8 @@
         "6720758",
         "6720761",
         "6720763",
-        "6720764"
+        "6720764",
+        "6720770"
       ]
     },
     "blind": {
