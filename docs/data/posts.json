@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:28:57+00:00",
+  "updatedAt": "2026-11-28T10:29:57+00:00",
   "posts": [
     {
       "id": 95749,
@@ -660656,6 +660656,65 @@
       "comments": 0,
       "firstSeenAt": "2026-11-28T10:28:57+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129428,
+      "source": "dc",
+      "externalId": "cmt-11053121",
+      "title": "일단 직업이 비호감인거 같고 사람들 앞에서 너무 확정된듯 나대니까 정떨어졌지 본인 마음은 그만큼이 아닌데.",
+      "excerpt": "34 현숙이가 영철이 왜 내친거야??",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.141",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721070&page=1#cmt_11053121",
+      "postedLabel": "11.28 18:38:26",
+      "postedAt": "2026-11-28T18:38:26+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:29:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129429,
+      "source": "dc",
+      "externalId": "cmt-11053123",
+      "title": "영철이가 천천히 다가 섰어야 하는데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "34 현숙이가 영철이 왜 내친거야??",
+      "author": "나갤러",
+      "company": "",
+      "ip": "182.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721070&page=1#cmt_11053123",
+      "postedLabel": "11.28 18:39:21",
+      "postedAt": "2026-11-28T18:39:21+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:29:57+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129430,
+      "source": "dc",
+      "externalId": "6721130",
+      "title": "34순자랑 진심으로 사귀고싶다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.36",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721130&page=1",
+      "postedLabel": "19:29",
+      "postedAt": "2026-11-28T19:29:09+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:29:57+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -660840,7 +660899,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T19:26:24+09:00"
+      "slowAt": "2026-11-28T19:29:39+09:00"
     },
     "dc": {
       "doneIds": [
@@ -683043,6 +683102,7 @@
         "6721066",
         "6721068",
         "6721069",
+        "6721070",
         "6721071",
         "6721073",
         "6721079",
@@ -691019,6 +691079,7 @@
         "/kr/post/%EC%B2%AD%EC%88%9C%ED%95%98%EB%A0%A4%EB%A9%B4-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-5so1a8su",
         "/kr/post/%EC%B2%AD%EC%A3%BC-%EA%B8%B0%EC%97%85-%EB%8B%A4%EB%8B%88%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4-58klaoie",
         "/kr/post/%EC%B2%BC%EB%A1%9C-%ED%95%A0-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%9E%AC%EB%A0%A5%EA%B0%80-%EC%A7%91%EC%95%88-%EC%95%84%EB%8B%8C%EA%B0%80-cqjj8wpu",
+        "/kr/post/%EC%B4%88%EB%B0%98%EC%97%90-%EC%98%81%EC%88%99-%EC%9A%95-%EB%A7%8E%EC%9D%B4-%ED%96%88%EC%97%88%EC%9E%90%EB%82%98-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-xlvhcy83",
         "/kr/post/%EC%B4%88%EB%B0%98%EC%97%90-%EC%98%81%EC%B2%A0%EC%9D%B4-%EC%9B%90%EB%A7%A8%EC%87%BC%EB%A1%9C-%EC%9E%AC%EB%B0%8C%EC%97%88%EB%8A%94%EB%8D%B0-kjh28ovy",
         "/kr/post/%EC%B4%88%EB%B0%98-%EC%98%81%EC%8B%9D-%EB%84%88%EB%AC%B4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-%EC%99%A4%EC%BA%90-%EB%B9%84%EC%A4%91%EC%9D%B4-%EC%A0%81%EC%A7%80-y8cmgiss",
         "/kr/post/%EC%B4%89%EC%83%88-%EA%B0%99%EC%9D%80-%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%91%9C%ED%98%84%EC%9D%B4-%EB%A7%9E%EB%82%98-1nuckw84",
