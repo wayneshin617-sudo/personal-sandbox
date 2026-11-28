@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T17:21:51+00:00",
+  "updatedAt": "2026-11-28T17:22:50+00:00",
   "posts": [
     {
       "id": 95749,
@@ -677591,6 +677591,26 @@
       "comments": 0,
       "firstSeenAt": "2026-11-28T17:21:51+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130288,
+      "source": "blind",
+      "externalId": "cmt-463101105",
+      "title": "ㅋㅋㅋ이게 뭔 글이야 ㅋㅋㅋㅋㅋㅋ",
+      "excerpt": "눈을 세모 네모로 뜨는 방법 좀 알려주실 분",
+      "author": "이******",
+      "company": "스타트업",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%88%88%EC%9D%84-%EC%84%B8%EB%AA%A8-%EB%84%A4%EB%AA%A8%EB%A1%9C-%EB%9C%A8%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A2%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%8B%A4-%EB%B6%84-q2wlynmd#463101105",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-29T02:22:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T17:22:50+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -677775,7 +677795,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T02:19:33+09:00"
+      "slowAt": "2026-11-29T02:22:33+09:00"
     },
     "dc": {
       "doneIds": [
@@ -702026,6 +702046,7 @@
         "/kr/post/%EB%88%88%EC%8D%B9%EB%AC%B8%EC%8B%A0%EB%8F%84-%EB%AC%B8%EC%8B%A0%EC%9E%84-u78fwfrp",
         "/kr/post/%EB%88%88%EC%8D%B9-%EB%AC%B8%EC%8B%A0%EB%8F%84-%EC%95%84%EB%8B%88%EA%B3%A0-%ED%87%B4%ED%8F%90%EC%83%B5-%EA%B0%99%EC%9D%80%EB%8D%B0-%EC%B0%BE%EC%95%84%EA%B0%80%EC%84%9C-elbiexvo",
         "/kr/post/%EB%88%88%EC%99%9C%EC%A0%80%EB%9F%AC%EB%83%90-sgl4vhg4",
+        "/kr/post/%EB%88%88%EC%9D%84-%EC%84%B8%EB%AA%A8-%EB%84%A4%EB%AA%A8%EB%A1%9C-%EB%9C%A8%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A2%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%8B%A4-%EB%B6%84-q2wlynmd",
         "/kr/post/%EB%88%88%EC%9D%B4-%EC%84%B1%EA%B9%94%EC%9E%88%EC%96%B4%EB%B3%B4%EC%9D%B4%EB%84%A4-303ytjgy",
         "/kr/post/%EB%88%88-%EA%B0%9C%EA%B0%9C%ED%92%80%EB%A0%A4%EC%84%9C-v53whwmu",
         "/kr/post/%EB%88%88-%EC%99%9C%EC%A0%80%EB%A0%87%EA%B2%8C-%EB%96%A0-puvb0pk2",
