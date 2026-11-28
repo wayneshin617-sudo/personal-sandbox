@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T04:55:40+00:00",
+  "updatedAt": "2026-11-28T04:57:40+00:00",
   "posts": [
     {
       "id": 95749,
@@ -646139,6 +646139,63 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T04:55:40+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128687,
+      "source": "dc",
+      "externalId": "6720766",
+      "title": "광수 모쏠이지?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.233",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720766&page=1",
+      "postedLabel": "13:56",
+      "postedAt": "2026-11-28T13:56:46+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:57:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128688,
+      "source": "dc",
+      "externalId": "6720767",
+      "title": "돌싱n모솔이 요즘 더 재밌어",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.55",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720767&page=1",
+      "postedLabel": "13:56",
+      "postedAt": "2026-11-28T13:56:51+09:00",
+      "views": 2,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T04:57:40+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128689,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%B5%9C%ED%83%9C%EC%9B%90%EC%9D%B4-%ED%95%98%EB%8B%89%EC%9D%84-%EC%9D%B8%EC%88%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4-w33bnz6s",
+      "title": "최태원이 하닉을 인수하지 않았다면",
+      "excerpt": "상철은 꺼드럭거리지 않았을까?",
+      "author": "1********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%B5%9C%ED%83%9C%EC%9B%90%EC%9D%B4-%ED%95%98%EB%8B%89%EC%9D%84-%EC%9D%B8%EC%88%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4-w33bnz6s",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T13:57:24+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T04:57:40+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -646323,7 +646380,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T13:54:24+09:00"
+      "slowAt": "2026-11-28T13:57:24+09:00"
     },
     "dc": {
       "doneIds": [
