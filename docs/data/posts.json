@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:35:23+00:00",
+  "updatedAt": "2026-11-28T08:36:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -655320,6 +655320,64 @@
       "firstSeenAt": "2026-11-28T08:35:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129156,
+      "source": "dc",
+      "externalId": "6721004",
+      "title": "34기 영자 vs 정숙 누가 낫냐",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "116.127",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721004&page=1",
+      "postedLabel": "17:35",
+      "postedAt": "2026-11-28T17:35:45+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:36:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129157,
+      "source": "dc",
+      "externalId": "6721005",
+      "title": "이 사람을 단지 좋다 안좋다를 떠나서",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721005&page=1",
+      "postedLabel": "17:35",
+      "postedAt": "2026-11-28T17:35:50+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:36:23+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129158,
+      "source": "blind",
+      "externalId": "cmt-463042122",
+      "title": "先",
+      "excerpt": "여자고 오늘 소개팅했음 지인소개로",
+      "author": "0*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EC%9E%90%EA%B3%A0-%EC%98%A4%EB%8A%98-%EC%86%8C%EA%B0%9C%ED%8C%85%ED%96%88%EC%9D%8C-%EC%A7%80%EC%9D%B8%EC%86%8C%EA%B0%9C%EB%A1%9C-sqqx71cg#463042122",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T17:36:05+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:36:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -655504,7 +655562,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T17:32:41+09:00"
+      "slowAt": "2026-11-28T17:36:05+09:00"
     },
     "dc": {
       "doneIds": [
