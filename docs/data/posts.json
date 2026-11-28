@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:46:58+00:00",
+  "updatedAt": "2026-11-28T07:47:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -653399,6 +653399,26 @@
       "firstSeenAt": "2026-11-28T07:46:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129058,
+      "source": "dc",
+      "externalId": "cmt-11052931",
+      "title": "22",
+      "excerpt": "정주행할만한 기수 추천 좀 해줘",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720948&page=1#cmt_11052931",
+      "postedLabel": "11.28 16:47:00",
+      "postedAt": "2026-11-28T16:47:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:47:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -653583,7 +653603,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T16:44:40+09:00"
+      "slowAt": "2026-11-28T16:47:40+09:00"
     },
     "dc": {
       "doneIds": [
