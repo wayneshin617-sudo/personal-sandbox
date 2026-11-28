@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:59:42+00:00",
+  "updatedAt": "2026-11-28T09:00:53+00:00",
   "posts": [
     {
       "id": 95749,
@@ -656566,6 +656566,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T08:59:42+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129220,
+      "source": "dc",
+      "externalId": "cmt-11053056",
+      "title": "너 그거 도파민 중독이야",
+      "excerpt": "34기 왜이리 노잼이지",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "59.14",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721041&page=1#cmt_11053056",
+      "postedLabel": "11.28 17:59:41",
+      "postedAt": "2026-11-28T17:59:41+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:00:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129221,
+      "source": "dc",
+      "externalId": "6721042",
+      "title": "퐤강이 욕먹는거 지분 90%는 남자 때문이야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721042&page=1",
+      "postedLabel": "18:00",
+      "postedAt": "2026-11-28T18:00:33+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:00:53+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129222,
+      "source": "dc",
+      "externalId": "cmt-11053059",
+      "title": "재밌는데 갤에서 쿵짝쿵짝이 안되네 ㅜㅜ - dc App",
+      "excerpt": "34기 왜이리 노잼이지",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "182.227",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721041&page=1#cmt_11053059",
+      "postedLabel": "11.28 18:00:35",
+      "postedAt": "2026-11-28T18:00:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:00:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -656677,7 +656736,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T17:57:12+09:00"
+      "slowAt": "2026-11-28T18:00:35+09:00"
     },
     "ig": {
       "doneIds": [
@@ -678928,7 +678987,8 @@
         "6721030",
         "6721032",
         "6721035",
-        "6721036"
+        "6721036",
+        "6721041"
       ]
     },
     "blind": {
