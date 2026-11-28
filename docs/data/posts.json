@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:22:26+00:00",
+  "updatedAt": "2026-11-28T10:23:26+00:00",
   "posts": [
     {
       "id": 95749,
@@ -660420,6 +660420,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T10:22:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129416,
+      "source": "dc",
+      "externalId": "cmt-11053110",
+      "title": "왕건은 유튜브 스트리밍으로 보는게 잼",
+      "excerpt": "너넨 요즘 나솔 말고 뭐보냐?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "119.197",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721064&page=1#cmt_11053110",
+      "postedLabel": "11.28 18:29:26",
+      "postedAt": "2026-11-28T18:29:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:23:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129417,
+      "source": "dc",
+      "externalId": "6721123",
+      "title": "손연재 남편은 보석을 볼 줄 아는 남자지",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721123&page=1",
+      "postedLabel": "19:22",
+      "postedAt": "2026-11-28T19:22:53+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:23:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -660604,7 +660643,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T19:19:55+09:00"
+      "slowAt": "2026-11-28T19:23:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -682803,6 +682842,7 @@
         "6721059",
         "6721062",
         "6721063",
+        "6721064",
         "6721069",
         "6721071",
         "6721073",
