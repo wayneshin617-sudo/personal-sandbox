@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:22:12+00:00",
+  "updatedAt": "2026-11-28T01:23:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -638350,6 +638350,46 @@
       "firstSeenAt": "2026-11-28T01:22:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128291,
+      "source": "dc",
+      "externalId": "cmt-11052401",
+      "title": "생산직은 아무리 돈 많아도 꺼림",
+      "excerpt": "하이닉스 다닌다고 하면 의자왕 되는줄 알았겠지..",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "222.113",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720622&page=1#cmt_11052401",
+      "postedLabel": "11.28 10:23:04",
+      "postedAt": "2026-11-28T10:23:04+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:23:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128292,
+      "source": "blind",
+      "externalId": "cmt-462997682",
+      "title": "나도 안정형 사람같아서 영식 좋은데",
+      "excerpt": "남출 중에 영식 너무 괜찮은데",
+      "author": "땅******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%B6%9C-%EC%A4%91%EC%97%90-%EC%98%81%EC%8B%9D-%EB%84%88%EB%AC%B4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-6a15sqja#462997682",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:23:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:23:22+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -660551,7 +660591,8 @@
         "6720613",
         "6720614",
         "6720615",
-        "6720618"
+        "6720618",
+        "6720622"
       ]
     },
     "blind": {
