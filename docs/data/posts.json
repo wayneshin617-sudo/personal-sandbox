@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T03:42:47+00:00",
+  "updatedAt": "2026-11-28T03:43:47+00:00",
   "posts": [
     {
       "id": 95749,
@@ -643858,6 +643858,45 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-28T03:42:47+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128571,
+      "source": "blind",
+      "externalId": "cmt-462999519",
+      "title": "영식 분위기가 넘 좋은듯",
+      "excerpt": "남출 중에 영식 너무 괜찮은데",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%B6%9C-%EC%A4%91%EC%97%90-%EC%98%81%EC%8B%9D-%EB%84%88%EB%AC%B4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-6a15sqja#462999519",
+      "postedLabel": "2시간",
+      "postedAt": "2026-11-28T10:43:24+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T03:43:47+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128572,
+      "source": "dc",
+      "externalId": "6720717",
+      "title": "34영호야 내가 충고한마디 한다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720717&page=1",
+      "postedLabel": "12:42",
+      "postedAt": "2026-11-28T12:42:56+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T03:43:47+00:00",
       "isSeed": false
     }
   ],
