@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:34:58+00:00",
+  "updatedAt": "2026-11-28T07:35:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -653084,6 +653084,45 @@
       "firstSeenAt": "2026-11-28T07:34:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129042,
+      "source": "dc",
+      "externalId": "cmt-11052826",
+      "title": "솔직히 시청자들도 영호 어장질한다고 욕하잖아 ㅋㅋㅋ",
+      "excerpt": "34 남출들 뒷담화 할수도 있지",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.198",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720874&page=2#cmt_11052826",
+      "postedLabel": "11.28 15:37:31",
+      "postedAt": "2026-11-28T15:37:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:35:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129043,
+      "source": "dc",
+      "externalId": "6720942",
+      "title": "옥순 이 정도면 이쁜거 아님?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "125.184",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720942&page=1",
+      "postedLabel": "16:34",
+      "postedAt": "2026-11-28T16:34:48+09:00",
+      "views": 11,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:35:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -653268,7 +653307,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T16:32:40+09:00"
+      "slowAt": "2026-11-28T16:35:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -675384,6 +675423,7 @@
         "6720865",
         "6720868",
         "6720870",
+        "6720874",
         "6720875",
         "6720876",
         "6720877",
