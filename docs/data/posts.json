@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:13:12+00:00",
+  "updatedAt": "2026-11-28T09:14:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -657131,6 +657131,66 @@
       "firstSeenAt": "2026-11-28T09:13:12+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129249,
+      "source": "dc",
+      "externalId": "cmt-11052897",
+      "title": "뜡뜡 시발아 - dc App",
+      "excerpt": "이건 육덕임 뚱뚱임?",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720917&page=2#cmt_11052897",
+      "postedLabel": "11.28 16:22:25",
+      "postedAt": "2026-11-28T16:22:25+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:14:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129250,
+      "source": "dc",
+      "externalId": "cmt-11053081",
+      "title": "삼전하닉 성과금 보고와라",
+      "excerpt": "금융감독원 한국은행 vs 삼성 하이닉스 직원",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721055&page=1#cmt_11053081",
+      "postedLabel": "11.28 18:13:06",
+      "postedAt": "2026-11-28T18:13:06+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:14:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129251,
+      "source": "dc",
+      "externalId": "cmt-11053084",
+      "title": "삼성은 메모리한정 - dc App",
+      "excerpt": "금융감독원 한국은행 vs 삼성 하이닉스 직원",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721055&page=1#cmt_11053084",
+      "postedLabel": "11.28 18:13:54",
+      "postedAt": "2026-11-28T18:13:54+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:14:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -679454,6 +679514,7 @@
         "6720912",
         "6720915",
         "6720916",
+        "6720917",
         "6720919",
         "6720923",
         "6720925",
@@ -679498,7 +679559,8 @@
         "6721044",
         "6721045",
         "6721048",
-        "6721050"
+        "6721050",
+        "6721055"
       ]
     },
     "blind": {
