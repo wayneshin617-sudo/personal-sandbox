@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T00:45:16+00:00",
+  "updatedAt": "2026-11-28T00:47:16+00:00",
   "posts": [
     {
       "id": 95749,
@@ -637291,6 +637291,26 @@
       "firstSeenAt": "2026-11-28T00:45:16+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128237,
+      "source": "dc",
+      "externalId": "cmt-11052337",
+      "title": "ㅋㅋㅋ",
+      "excerpt": "애교좀부려봐 우리 사이 긴장 풀렸어",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.140",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720574&page=1#cmt_11052337",
+      "postedLabel": "11.28 09:03:30",
+      "postedAt": "2026-11-28T09:03:30+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:47:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -637475,7 +637495,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T09:43:59+09:00"
+      "slowAt": "2026-11-28T09:46:59+09:00"
     },
     "dc": {
       "doneIds": [
@@ -659476,6 +659496,7 @@
         "6720563",
         "6720566",
         "6720571",
+        "6720574",
         "6720577",
         "6720583",
         "6720594",
