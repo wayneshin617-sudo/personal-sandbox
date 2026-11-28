@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:55:24+00:00",
+  "updatedAt": "2026-11-28T09:56:31+00:00",
   "posts": [
     {
       "id": 95749,
@@ -659059,6 +659059,26 @@
       "firstSeenAt": "2026-11-28T09:55:24+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129347,
+      "source": "dc",
+      "externalId": "cmt-11053154",
+      "title": "너무 나대지 않고 천천히 다가 갔으면 아쉽다 ㅋㅋㅋㅋㅋ",
+      "excerpt": "광수보다보면 영철은 걍 선녀임",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "182.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721095&page=1#cmt_11053154",
+      "postedLabel": "11.28 18:56:00",
+      "postedAt": "2026-11-28T18:56:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:56:31+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681444,7 +681464,8 @@
         "6721079",
         "6721087",
         "6721089",
-        "6721093"
+        "6721093",
+        "6721095"
       ]
     },
     "blind": {
