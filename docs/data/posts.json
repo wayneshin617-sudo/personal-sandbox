@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T00:21:15+00:00",
+  "updatedAt": "2026-11-28T00:22:14+00:00",
   "posts": [
     {
       "id": 95749,
@@ -636600,6 +636600,64 @@
       "firstSeenAt": "2026-11-28T00:21:15+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128202,
+      "source": "dc",
+      "externalId": "cmt-11052338",
+      "title": "영호 아니였으면 이시청률 안나왔지",
+      "excerpt": "34 노잼 주범은 영호가 맞다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720555&page=1#cmt_11052338",
+      "postedLabel": "11.28 09:04:50",
+      "postedAt": "2026-11-28T09:04:50+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:22:14+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128203,
+      "source": "dc",
+      "externalId": "6720597",
+      "title": "34광수 리얼 개구리 페페같음",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "58.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720597&page=1",
+      "postedLabel": "09:21",
+      "postedAt": "2026-11-28T09:21:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:22:14+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128204,
+      "source": "dc",
+      "externalId": "6720598",
+      "title": "현숙 너무 까칠해보이는데",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720598&page=1",
+      "postedLabel": "09:21",
+      "postedAt": "2026-11-28T09:21:24+09:00",
+      "views": 6,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:22:14+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -636711,7 +636769,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T09:18:58+09:00"
+      "slowAt": "2026-11-28T09:21:58+09:00"
     },
     "ig": {
       "doneIds": [
