@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:00:53+00:00",
+  "updatedAt": "2026-11-28T09:03:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -656625,6 +656625,63 @@
       "firstSeenAt": "2026-11-28T09:00:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129223,
+      "source": "dc",
+      "externalId": "6721044",
+      "title": "34현숙이가 호감인 이유...",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721044&page=1",
+      "postedLabel": "18:02",
+      "postedAt": "2026-11-28T18:02:31+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T09:03:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129224,
+      "source": "dc",
+      "externalId": "6721045",
+      "title": "모욕죄랑 명예훼손죄는 형사처벌하면 안돼",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721045&page=1",
+      "postedLabel": "18:03",
+      "postedAt": "2026-11-28T18:03:00+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:03:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129225,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9D%B8%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-6lfklabt",
+      "title": "영식이 나이들어보인다고 하는데",
+      "excerpt": "힘없어 보이는 건 맞는데 나이는 제 나이로 보임 ㅋㅋ 88년생이던데 그냥 그만큼 나이가 든 모습이라고 생각. 동년배인데 그보다 나이든 얼굴 천지임. 동안이 아닌거지 내년에 마흔이라고 생각하면 납득 가능한 얼굴임. 오히려 관리 잘한 편",
+      "author": "l********",
+      "company": "차병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9D%B8%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-6lfklabt",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T18:03:11+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T09:03:28+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -656736,7 +656793,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T18:00:35+09:00"
+      "slowAt": "2026-11-28T18:03:11+09:00"
     },
     "ig": {
       "doneIds": [
@@ -678988,7 +679045,8 @@
         "6721032",
         "6721035",
         "6721036",
-        "6721041"
+        "6721041",
+        "6721044"
       ]
     },
     "blind": {
