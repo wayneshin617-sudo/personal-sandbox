@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T22:12:33+00:00",
+  "updatedAt": "2026-11-28T22:16:53+00:00",
   "posts": [
     {
       "id": 95749,
@@ -681305,6 +681305,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T22:12:33+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130476,
+      "source": "dc",
+      "externalId": "cmt-11054519",
+      "title": "왜 - dc App",
+      "excerpt": "평가좀",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721519&page=1#cmt_11054519",
+      "postedLabel": "11.29 07:16:03",
+      "postedAt": "2026-11-29T07:16:03+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T22:16:53+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -681489,7 +681509,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T07:13:23+09:00"
+      "slowAt": "2026-11-29T07:16:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -703910,7 +703930,8 @@
         "6721498",
         "6721501",
         "6721504",
-        "6721516"
+        "6721516",
+        "6721519"
       ]
     },
     "blind": {
