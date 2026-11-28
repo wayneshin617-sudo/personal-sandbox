@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T08:49:42+00:00",
+  "updatedAt": "2026-11-28T08:50:52+00:00",
   "posts": [
     {
       "id": 95749,
@@ -655980,6 +655980,105 @@
       "firstSeenAt": "2026-11-28T08:49:42+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129190,
+      "source": "blind",
+      "externalId": "cmt-463043385",
+      "title": "게시판 잘못 찾아온거 보니까 강남가는 길도 잃어버릴 것 같군..",
+      "excerpt": "피지컬 좋은 훈남",
+      "author": "i*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%94%BC%EC%A7%80%EC%BB%AC-%EC%A2%8B%EC%9D%80-%ED%9B%88%EB%82%A8-omhbbkn4#463043385",
+      "postedLabel": "1분",
+      "postedAt": "2026-11-28T17:49:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:50:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129191,
+      "source": "dc",
+      "externalId": "cmt-11053040",
+      "title": "ㅋㅋㅋㅋ",
+      "excerpt": "순자한테 고소당하더라도 표현의자유 포기못하겠다",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721024&page=1#cmt_11053040",
+      "postedLabel": "11.28 17:49:59",
+      "postedAt": "2026-11-28T17:49:59+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:50:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129192,
+      "source": "dc",
+      "externalId": "6721025",
+      "title": "퐤강이가 왜 스타인지 알겄다 34여출들 너무 착하다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721025&page=1",
+      "postedLabel": "17:50",
+      "postedAt": "2026-11-28T17:50:15+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:50:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129193,
+      "source": "blind",
+      "externalId": "cmt-463043409",
+      "title": "아니야 ㅋㅋ 나솔 게시판에 쓴거 맞아",
+      "excerpt": "피지컬 좋은 훈남",
+      "author": "l******** 작성자",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%94%BC%EC%A7%80%EC%BB%AC-%EC%A2%8B%EC%9D%80-%ED%9B%88%EB%82%A8-omhbbkn4#463043409",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T17:50:33+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:50:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129194,
+      "source": "blind",
+      "externalId": "cmt-463043446",
+      "title": "형은 하닉에서 만나?",
+      "excerpt": "피지컬 좋은 훈남",
+      "author": "l******** 작성자",
+      "company": "대한항공",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%94%BC%EC%A7%80%EC%BB%AC-%EC%A2%8B%EC%9D%80-%ED%9B%88%EB%82%A8-omhbbkn4#463043446",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T17:50:34+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T08:50:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -656091,7 +656190,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T17:47:15+09:00"
+      "slowAt": "2026-11-28T17:50:34+09:00"
     },
     "ig": {
       "doneIds": [
@@ -678319,6 +678418,7 @@
         "6720947",
         "6720948",
         "6720949",
+        "6720951",
         "6720952",
         "6720955",
         "6720960",
@@ -678336,7 +678436,8 @@
         "6721006",
         "6721010",
         "6721014",
-        "6721018"
+        "6721018",
+        "6721024"
       ]
     },
     "blind": {
