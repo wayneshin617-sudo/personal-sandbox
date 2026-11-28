@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:14:26+00:00",
+  "updatedAt": "2026-11-28T11:15:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -662979,6 +662979,64 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T11:14:26+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129546,
+      "source": "dc",
+      "externalId": "6721179",
+      "title": "영호는 그정도 아니다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721179&page=1",
+      "postedLabel": "20:14",
+      "postedAt": "2026-11-28T20:14:31+09:00",
+      "views": 10,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:15:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129547,
+      "source": "dc",
+      "externalId": "6721180",
+      "title": "문신 안하는 이유 레전드 사례",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "220.84",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721180&page=1",
+      "postedLabel": "20:15",
+      "postedAt": "2026-11-28T20:15:06+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:15:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129548,
+      "source": "blind",
+      "externalId": "cmt-463058329",
+      "title": "광마태아",
+      "excerpt": "광수 전여친은 반성해라",
+      "author": "R*****",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%A0%84%EC%97%AC%EC%B9%9C%EC%9D%80-%EB%B0%98%EC%84%B1%ED%95%B4%EB%9D%BC-78278m1h#463058329",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T20:15:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:15:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -663163,7 +663221,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T20:12:10+09:00"
+      "slowAt": "2026-11-28T20:15:09+09:00"
     },
     "dc": {
       "doneIds": [
