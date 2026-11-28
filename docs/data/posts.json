@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T15:09:23+00:00",
+  "updatedAt": "2026-11-28T15:10:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -673887,6 +673887,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T15:09:23+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130100,
+      "source": "dc",
+      "externalId": "cmt-11054057",
+      "title": "영철이냐",
+      "excerpt": "영철이나 광수같은 남자 안전이별 쉽지 않을수도",
+      "author": "나갤러",
+      "company": "",
+      "ip": "116.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721396&page=1#cmt_11054057",
+      "postedLabel": "11.29 00:09:40",
+      "postedAt": "2026-11-29T00:09:40+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T15:10:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130101,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%9B%90%EB%9E%98-3tie8ozf",
+      "title": "원래",
+      "excerpt": "존예랑 살아도 평범녀랑 바람나는거지 그게 남자야 새로운 여자를 만나고 썸타고 등등 하는게 도파민이고 결혼해서 살다가 다른 사랑하는 사람이 생길수도 있는거고 그럼 자연스럽게 이혼도 하고 문득 나는솔로 보다가 나가보고 싶은 욕망이 꿈틀거린다",
+      "author": "l*********",
+      "company": "국민은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9B%90%EB%9E%98-3tie8ozf",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-29T00:10:07+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T15:10:24+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -674071,7 +674110,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T00:07:07+09:00"
+      "slowAt": "2026-11-29T00:10:07+09:00"
     },
     "dc": {
       "doneIds": [
