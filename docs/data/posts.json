@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:41:31+00:00",
+  "updatedAt": "2026-11-28T09:42:37+00:00",
   "posts": [
     {
       "id": 95749,
@@ -658507,6 +658507,66 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T09:41:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129319,
+      "source": "dc",
+      "externalId": "cmt-11053027",
+      "title": "구라지 꼭 허언증있는새끼들있더라",
+      "excerpt": "난 20대에 강사로 2억 모은게 더 이해불가",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721011&page=2#cmt_11053027",
+      "postedLabel": "11.28 17:43:27",
+      "postedAt": "2026-11-28T17:43:27+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:42:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129320,
+      "source": "blind",
+      "externalId": "cmt-463043988",
+      "title": "프로토스는 사기가 맞긴해",
+      "excerpt": "오늘 첫미팅",
+      "author": "시밸롬",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EC%B2%AB%EB%AF%B8%ED%8C%85-4eis70r2#463043988",
+      "postedLabel": "47분",
+      "postedAt": "2026-11-28T17:55:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:42:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129321,
+      "source": "blind",
+      "externalId": "cmt-463045005",
+      "title": "뭔 말이야",
+      "excerpt": "오늘 첫미팅",
+      "author": "i****** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%A4%EB%8A%98-%EC%B2%AB%EB%AF%B8%ED%8C%85-4eis70r2#463045005",
+      "postedLabel": "36분",
+      "postedAt": "2026-11-28T18:06:20+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:42:37+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658618,7 +658678,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T18:39:06+09:00"
+      "slowAt": "2026-11-28T18:42:20+09:00"
     },
     "ig": {
       "doneIds": [
@@ -680868,6 +680928,7 @@
         "6721001",
         "6721006",
         "6721010",
+        "6721011",
         "6721014",
         "6721018",
         "6721024",
