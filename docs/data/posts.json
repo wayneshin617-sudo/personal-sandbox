@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:51:04+00:00",
+  "updatedAt": "2026-11-28T09:52:11+00:00",
   "posts": [
     {
       "id": 95749,
@@ -658941,6 +658941,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T09:51:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129341,
+      "source": "dc",
+      "externalId": "cmt-11053147",
+      "title": "밑에는 강호동?",
+      "excerpt": "34순자의 가장 큰 실수",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721089&page=1#cmt_11053147",
+      "postedLabel": "11.28 18:51:36",
+      "postedAt": "2026-11-28T18:51:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:52:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129342,
+      "source": "dc",
+      "externalId": "6721094",
+      "title": "광수 << 마운자로 맞으면 나솔 하석진",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721094&page=1",
+      "postedLabel": "18:51",
+      "postedAt": "2026-11-28T18:51:51+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:52:11+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -659052,7 +659091,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T18:48:40+09:00"
+      "slowAt": "2026-11-28T18:51:53+09:00"
     },
     "ig": {
       "doneIds": [
@@ -681323,7 +681362,8 @@
         "6721071",
         "6721073",
         "6721079",
-        "6721087"
+        "6721087",
+        "6721089"
       ]
     },
     "blind": {
