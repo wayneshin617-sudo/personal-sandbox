@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T14:21:07+00:00",
+  "updatedAt": "2026-11-28T14:22:08+00:00",
   "posts": [
     {
       "id": 95749,
@@ -671380,6 +671380,25 @@
       "firstSeenAt": "2026-11-28T14:21:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129973,
+      "source": "dc",
+      "externalId": "6721358",
+      "title": "34기 여출들 존나 드럽네",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721358&page=1",
+      "postedLabel": "23:20",
+      "postedAt": "2026-11-28T23:20:57+09:00",
+      "views": 14,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:22:08+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -671564,7 +671583,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T23:18:50+09:00"
+      "slowAt": "2026-11-28T23:21:50+09:00"
     },
     "dc": {
       "doneIds": [
