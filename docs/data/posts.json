@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T06:09:35+00:00",
+  "updatedAt": "2026-11-28T06:10:34+00:00",
   "posts": [
     {
       "id": 95749,
@@ -649133,6 +649133,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T06:09:35+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128840,
+      "source": "dc",
+      "externalId": "6720833",
+      "title": "순자 북클럽 20만원이고 경수 안경테 20만원인데",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720833&page=1",
+      "postedLabel": "15:10",
+      "postedAt": "2026-11-28T15:10:06+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T06:10:34+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128841,
+      "source": "dc",
+      "externalId": "cmt-11052758",
+      "title": "연차가 먼상관 ㅋㅋ",
+      "excerpt": "순자경수 크리스마스 변명 떴다!",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720830&page=1#cmt_11052758",
+      "postedLabel": "11.28 15:10:14",
+      "postedAt": "2026-11-28T15:10:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T06:10:34+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -649244,7 +649283,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T15:07:17+09:00"
+      "slowAt": "2026-11-28T15:10:17+09:00"
     },
     "ig": {
       "doneIds": [
@@ -671410,7 +671449,8 @@
         "6720811",
         "6720819",
         "6720823",
-        "6720829"
+        "6720829",
+        "6720830"
       ]
     },
     "blind": {
