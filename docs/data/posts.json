@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T03:28:47+00:00",
+  "updatedAt": "2026-11-28T03:29:46+00:00",
   "posts": [
     {
       "id": 95749,
@@ -643490,6 +643490,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T03:28:47+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128552,
+      "source": "dc",
+      "externalId": "cmt-11052492",
+      "title": "순자는 만만한 상대가 아니라 끝까지 버틸듯",
+      "excerpt": "결혼에 대해 긍정도 부정도 하지않는 애매모호한 상태로",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "121.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720667&page=1#cmt_11052492",
+      "postedLabel": "11.28 11:31:01",
+      "postedAt": "2026-11-28T11:31:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T03:29:46+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -643601,7 +643621,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T12:26:29+09:00"
+      "slowAt": "2026-11-28T12:29:29+09:00"
     },
     "ig": {
       "doneIds": [
@@ -665710,6 +665730,7 @@
         "6720657",
         "6720662",
         "6720666",
+        "6720667",
         "6720668",
         "6720671",
         "6720673",
