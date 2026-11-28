@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:09:58+00:00",
+  "updatedAt": "2026-11-28T09:11:05+00:00",
   "posts": [
     {
       "id": 95749,
@@ -656994,6 +656994,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T09:09:58+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129242,
+      "source": "dc",
+      "externalId": "cmt-11053075",
+      "title": "껄껄껄 좀 그쪽마인드던데 남자라면 다 느꼇을거라고본다",
+      "excerpt": "영숙이는 초반 분량이 찐 성격이고",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721048&page=1#cmt_11053075",
+      "postedLabel": "11.28 18:10:10",
+      "postedAt": "2026-11-28T18:10:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:11:05+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -679359,7 +679379,8 @@
         "6721036",
         "6721041",
         "6721044",
-        "6721045"
+        "6721045",
+        "6721048"
       ]
     },
     "blind": {
