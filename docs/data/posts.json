@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:09:27+00:00",
+  "updatedAt": "2026-11-28T11:10:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -662740,6 +662740,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T11:09:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129534,
+      "source": "dc",
+      "externalId": "cmt-11053180",
+      "title": "키 158",
+      "excerpt": "나솔 최고 알파남.jpg",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721107&page=2#cmt_11053180",
+      "postedLabel": "11.28 19:13:19",
+      "postedAt": "2026-11-28T19:13:19+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:10:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -662851,7 +662871,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T20:07:09+09:00"
+      "slowAt": "2026-11-28T20:10:10+09:00"
     },
     "ig": {
       "doneIds": [
@@ -685147,6 +685167,7 @@
         "6721102",
         "6721103",
         "6721104",
+        "6721107",
         "6721109",
         "6721110",
         "6721112",
