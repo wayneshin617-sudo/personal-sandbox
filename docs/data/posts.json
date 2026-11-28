@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T22:40:55+00:00",
+  "updatedAt": "2026-11-28T22:46:55+00:00",
   "posts": [
     {
       "id": 95749,
@@ -681638,6 +681638,26 @@
       "firstSeenAt": "2026-11-28T22:40:55+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 130493,
+      "source": "dc",
+      "externalId": "cmt-11054530",
+      "title": "여자 관종 어그로가 더 많은데",
+      "excerpt": "남자는 관종 많은데 왜 여자 관종 어그로꾼은 거의없음?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.226",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721526&page=1#cmt_11054530",
+      "postedLabel": "11.29 07:46:11",
+      "postedAt": "2026-11-29T07:46:11+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T22:46:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -704245,7 +704265,8 @@
         "6721504",
         "6721516",
         "6721519",
-        "6721520"
+        "6721520",
+        "6721526"
       ]
     },
     "blind": {
