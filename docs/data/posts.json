@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T21:22:23+00:00",
+  "updatedAt": "2026-11-28T21:23:24+00:00",
   "posts": [
     {
       "id": 95749,
@@ -680276,6 +680276,46 @@
       "recommends": null,
       "comments": null,
       "firstSeenAt": "2026-11-28T21:22:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130424,
+      "source": "blind",
+      "externalId": "cmt-463109730",
+      "title": "그래? 저기에 물고 담주에 시간되시냐 물어보면 에바야?",
+      "excerpt": "소개팅 애프터 잡힌건가?",
+      "author": "e***** 작성자",
+      "company": "비공개",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%95%A0%ED%94%84%ED%84%B0-%EC%9E%A1%ED%9E%8C%EA%B1%B4%EA%B0%80-cl6v7yid#463109730",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-29T06:23:06+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T21:23:24+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130425,
+      "source": "blind",
+      "externalId": "cmt-463109742",
+      "title": "응 맘에들면 바로 담에 언제 시간 되냐 함",
+      "excerpt": "소개팅 애프터 잡힌건가?",
+      "author": "|********",
+      "company": "ex-미래에셋자산운용",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%86%8C%EA%B0%9C%ED%8C%85-%EC%95%A0%ED%94%84%ED%84%B0-%EC%9E%A1%ED%9E%8C%EA%B1%B4%EA%B0%80-cl6v7yid#463109742",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-29T06:23:07+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T21:23:24+00:00",
       "isSeed": false,
       "kind": "reply"
     }
