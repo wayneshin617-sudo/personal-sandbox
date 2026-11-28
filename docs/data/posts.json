@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T12:21:54+00:00",
+  "updatedAt": "2026-11-28T12:22:54+00:00",
   "posts": [
     {
       "id": 95749,
@@ -667131,6 +667131,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T12:21:54+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129757,
+      "source": "dc",
+      "externalId": "6721267",
+      "title": "승무원은 남자로 치면 의사급 직업이라 보면 되",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721267&page=1",
+      "postedLabel": "21:21",
+      "postedAt": "2026-11-28T21:21:57+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:22:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129758,
+      "source": "dc",
+      "externalId": "cmt-11053469",
+      "title": "사촌 사이 꼬라지",
+      "excerpt": "우리 사촌누나 멍청한년 아니냐 직업 좋은데 결혼을 안함",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721266&page=1#cmt_11053469",
+      "postedLabel": "11.28 21:22:21",
+      "postedAt": "2026-11-28T21:22:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:22:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129759,
+      "source": "dc",
+      "externalId": "6721269",
+      "title": "10초만 공개하고 삭제함",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "205.147",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721269&page=1",
+      "postedLabel": "21:22",
+      "postedAt": "2026-11-28T21:22:33+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:22:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129760,
+      "source": "dc",
+      "externalId": "cmt-11053470",
+      "title": "결혼하고 애키우는 유부 중소기업녀가 더 성공한 인생",
+      "excerpt": "우리 사촌누나 멍청한년 아니냐 직업 좋은데 결혼을 안함",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721266&page=1#cmt_11053470",
+      "postedLabel": "11.28 21:22:35",
+      "postedAt": "2026-11-28T21:22:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:22:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -667242,7 +667320,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T21:19:36+09:00"
+      "slowAt": "2026-11-28T21:22:36+09:00"
     },
     "ig": {
       "doneIds": [
@@ -689598,7 +689676,8 @@
         "6721252",
         "6721255",
         "6721259",
-        "6721260"
+        "6721260",
+        "6721266"
       ]
     },
     "blind": {
