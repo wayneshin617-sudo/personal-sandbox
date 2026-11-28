@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:12:25+00:00",
+  "updatedAt": "2026-11-28T01:13:32+00:00",
   "posts": [
     {
       "id": 95749,
@@ -637918,6 +637918,65 @@
       "firstSeenAt": "2026-11-28T01:12:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128269,
+      "source": "dc",
+      "externalId": "cmt-11052396",
+      "title": "58.29는 자기도 스스로 관찰하고 느끼고 생각해서 글을 쓰고 싶을테고, 그런 글로서 추천도 많이 받고 지지받고 싶어할텐데, 그게 안되거든. 될 수가 없는 애라서, 좋은 글보면 어떻게든 망쳐놓고 싶겠지.",
+      "excerpt": "58.29는 나솔갤에 인생베팅한 앤데, 개념글 상태보고 울겠다.",
+      "author": "나갤러",
+      "company": "",
+      "ip": "112.173",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720618&page=1#cmt_11052396",
+      "postedLabel": "11.28 10:12:10",
+      "postedAt": "2026-11-28T10:12:10+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:13:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128270,
+      "source": "blind",
+      "externalId": "/kr/post/%EB%82%A8%EC%B6%9C-%EC%A4%91%EC%97%90-%EC%98%81%EC%8B%9D-%EB%84%88%EB%AC%B4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-6a15sqja",
+      "title": "남출 중에 영식 너무 괜찮은데",
+      "excerpt": "여출들이 너무 보는 눈이 없네 외모도 깔끔하니 직업도 좋고 학벌도 좋고 그리고 언행도 단정하고... 결혼은 저런 남자와 해야하는거 아님?",
+      "author": "f*********",
+      "company": "기업은행",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%A8%EC%B6%9C-%EC%A4%91%EC%97%90-%EC%98%81%EC%8B%9D-%EB%84%88%EB%AC%B4-%EA%B4%9C%EC%B0%AE%EC%9D%80%EB%8D%B0-6a15sqja",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:13:16+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T01:13:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128271,
+      "source": "blind",
+      "externalId": "cmt-462996658",
+      "title": "무슨 뜻이야? 찾아도 안나오내ㅠ",
+      "excerpt": "얘네 아직도 싸워?",
+      "author": "m*****",
+      "company": "커리어케어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%96%98%EB%84%A4-%EC%95%84%EC%A7%81%EB%8F%84-%EC%8B%B8%EC%9B%8C-80iahjfn#462996658",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:13:16+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:13:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -660116,7 +660175,8 @@
         "6720612",
         "6720613",
         "6720614",
-        "6720615"
+        "6720615",
+        "6720618"
       ]
     },
     "blind": {
