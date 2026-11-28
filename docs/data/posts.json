@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T05:25:39+00:00",
+  "updatedAt": "2026-11-28T05:26:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -647062,6 +647062,86 @@
       "firstSeenAt": "2026-11-28T05:25:39+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128734,
+      "source": "dc",
+      "externalId": "cmt-11052618",
+      "title": "모쏠이냐?비행기값이 더 비쌈 말만 저렇고 서울오면 영호가 낼수도",
+      "excerpt": "나도 영호가 밥사달라고 한게 좀 걸리더라",
+      "author": "나갤러3",
+      "company": "",
+      "ip": "39.120",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720629&page=3#cmt_11052618",
+      "postedLabel": "11.28 13:13:14",
+      "postedAt": "2026-11-28T13:13:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:26:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128735,
+      "source": "dc",
+      "externalId": "cmt-11052704",
+      "title": "34기는 기대됨 왜냐면 영호님의 선택을 너무 늦게 해서 누굴지 현재는 현숙님 같은데 혹시 또 반전이 있을지도?",
+      "excerpt": "34기는 최소 10회 차까지 하겠네",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "175.114",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720781&page=1#cmt_11052704",
+      "postedLabel": "11.28 14:26:20",
+      "postedAt": "2026-11-28T14:26:20+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:26:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128736,
+      "source": "blind",
+      "externalId": "cmt-463022663",
+      "title": "방송 카메라로 본인 얼굴 함 비춰줘야함..",
+      "excerpt": "영철 안잘생겼다고 하는게 제일 신기함",
+      "author": "l*********",
+      "company": "간호사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%8B%A0%EA%B8%B0%ED%95%A8-i7vnuyzv#463022663",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T14:26:22+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:26:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128737,
+      "source": "blind",
+      "externalId": "cmt-463022706",
+      "title": "애초메 얼굴작고 키큰비율도 몇없어 상위권맞음",
+      "excerpt": "영철 안잘생겼다고 하는게 제일 신기함",
+      "author": "I*********",
+      "company": "대한적십자사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%B2%A0-%EC%95%88%EC%9E%98%EC%83%9D%EA%B2%BC%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%8B%A0%EA%B8%B0%ED%95%A8-i7vnuyzv#463022706",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T14:26:23+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:26:39+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -669325,7 +669405,8 @@
         "6720770",
         "6720773",
         "6720777",
-        "6720780"
+        "6720780",
+        "6720781"
       ]
     },
     "blind": {
