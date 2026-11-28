@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T00:50:16+00:00",
+  "updatedAt": "2026-11-28T00:53:16+00:00",
   "posts": [
     {
       "id": 95749,
@@ -637349,6 +637349,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T00:50:16+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128240,
+      "source": "blind",
+      "externalId": "cmt-462990522",
+      "title": "그니까 ㅋㅋ 저럴거면 뭐하로 나옴? 그냥 소개팅하는거랑 뭔차이",
+      "excerpt": "현숙한테",
+      "author": "l*********",
+      "company": "동아ST",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-x04f6exl#462990522",
+      "postedLabel": "42분",
+      "postedAt": "2026-11-28T09:10:59+09:00",
+      "views": null,
+      "recommends": 4,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:53:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128241,
+      "source": "blind",
+      "externalId": "cmt-462990724",
+      "title": "나이가 이제 적은 나이가 아닌데… 참 ㅋㅋ",
+      "excerpt": "현숙한테",
+      "author": "i*********",
+      "company": "삼성디스플레이",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%98%84%EC%88%99%ED%95%9C%ED%85%8C-x04f6exl#462990724",
+      "postedLabel": "40분",
+      "postedAt": "2026-11-28T09:12:59+09:00",
+      "views": null,
+      "recommends": 3,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T00:53:16+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -637533,7 +637573,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T09:50:00+09:00"
+      "slowAt": "2026-11-28T09:52:59+09:00"
     },
     "dc": {
       "doneIds": [
