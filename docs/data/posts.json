@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:21:04+00:00",
+  "updatedAt": "2026-11-28T01:22:12+00:00",
   "posts": [
     {
       "id": 95749,
@@ -638311,6 +638311,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T01:21:04+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128289,
+      "source": "dc",
+      "externalId": "6720625",
+      "title": "짭숙은 최근까지도 남규홍이 재활용 하는 캐릭터인데",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "220.123",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720625&page=1",
+      "postedLabel": "10:20",
+      "postedAt": "2026-11-28T10:20:51+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:22:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128290,
+      "source": "blind",
+      "externalId": "cmt-462997610",
+      "title": "ㅋㅋ 걍자기입맛대로지 뭐",
+      "excerpt": "나솔 특",
+      "author": "q******",
+      "company": "서울특별시교육청",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%ED%8A%B9-kn4tk1x2#462997610",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:21:56+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:22:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -638495,7 +638534,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T10:18:40+09:00"
+      "slowAt": "2026-11-28T10:21:56+09:00"
     },
     "dc": {
       "doneIds": [
