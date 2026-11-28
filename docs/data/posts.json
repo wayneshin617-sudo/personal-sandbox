@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:24:22+00:00",
+  "updatedAt": "2026-11-28T01:25:30+00:00",
   "posts": [
     {
       "id": 95749,
@@ -638428,6 +638428,64 @@
       "comments": 0,
       "firstSeenAt": "2026-11-28T01:24:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128295,
+      "source": "dc",
+      "externalId": "6720627",
+      "title": "상철 이놈은 그냥 다 본인이 말아먹은 거 아닌가",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720627&page=1",
+      "postedLabel": "10:24",
+      "postedAt": "2026-11-28T10:24:10+09:00",
+      "views": 14,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:25:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128296,
+      "source": "dc",
+      "externalId": "6720628",
+      "title": "앞으로 나올 삼전닉스 생산직들은 생각이 많겠네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720628&page=1",
+      "postedLabel": "10:24",
+      "postedAt": "2026-11-28T10:24:59+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:25:30+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128297,
+      "source": "blind",
+      "externalId": "cmt-462997930",
+      "title": "맞긴해 회피형을 만들어놓고 그반응 싫다고하는듯 여자가 바쁘고 썅년처럼 행동하면 회피 안해",
+      "excerpt": "회피형 싫다고 하는 여자들 치고",
+      "author": "중*******",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%ED%9A%8C%ED%94%BC%ED%98%95-%EC%8B%AB%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4-%EC%B9%98%EA%B3%A0-5kinz7aj#462997930",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:25:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:25:30+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -638612,7 +638670,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T10:21:56+09:00"
+      "slowAt": "2026-11-28T10:25:14+09:00"
     },
     "dc": {
       "doneIds": [
@@ -669370,6 +669428,7 @@
         "/kr/post/%ED%9A%8C%EC%82%ACcc-dfeaativ",
         "/kr/post/%ED%9A%8C%EC%9E%A5%EB%8B%98%EC%9D%B4-%EC%97%AC%EB%9F%BF-%EC%9E%A5%EA%B0%80%EB%B3%B4%EB%82%B4%EC%A3%BC%EC%8B%9C%EB%84%A4-3dihizgk",
         "/kr/post/%ED%9A%8C%ED%94%BC%ED%98%95%EB%A7%8C-%EA%BC%AC%EC%9D%B8%EB%8B%A4%EB%8A%94%EA%B1%B4-0rrdxc5u",
+        "/kr/post/%ED%9A%8C%ED%94%BC%ED%98%95-%EC%8B%AB%EB%8B%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%97%AC%EC%9E%90%EB%93%A4-%EC%B9%98%EA%B3%A0-5kinz7aj",
         "/kr/post/%ED%9A%8C%ED%94%BC%ED%98%95-%EC%97%B0%EC%9D%B8-%ED%8A%B9%EC%A7%95-4y0jiv6r",
         "/kr/post/%ED%9A%A8%EC%97%B0%EC%9D%B4-%EC%A0%80%EB%9E%98%EC%9D%B4%EB%BB%A4%EB%82%98-um0mut2z",
         "/kr/post/%ED%9B%84%EB%A3%A8%EB%A3%A9-%EC%A9%9D%EC%A9%9D-onpefy6f",
