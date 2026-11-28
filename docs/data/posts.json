@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:28:27+00:00",
+  "updatedAt": "2026-11-28T11:30:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -663727,6 +663727,26 @@
       "firstSeenAt": "2026-11-28T11:28:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129584,
+      "source": "dc",
+      "externalId": "cmt-11053357",
+      "title": "유명한 실험잇자나 무인도에 남자없이 여자만 들어가고 놔둿더니 화장안하고 치마안입었다는거 자기만족이면 왜안함ㅋㅋ 남자가없으니까",
+      "excerpt": "여자한테 굳이 꾸미라고 할 필요없음",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721193&page=1#cmt_11053357",
+      "postedLabel": "11.28 20:30:01",
+      "postedAt": "2026-11-28T20:30:01+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:30:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -663911,7 +663931,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T20:27:10+09:00"
+      "slowAt": "2026-11-28T20:30:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -686163,7 +686183,8 @@
         "6721183",
         "6721185",
         "6721190",
-        "6721191"
+        "6721191",
+        "6721193"
       ]
     },
     "blind": {
