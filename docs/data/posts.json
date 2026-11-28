@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:46:27+00:00",
+  "updatedAt": "2026-11-28T10:47:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -661661,6 +661661,45 @@
       "recommends": 0,
       "comments": null,
       "firstSeenAt": "2026-11-28T10:46:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129479,
+      "source": "dc",
+      "externalId": "6721148",
+      "title": "방정리 안하는거랑 환경이랑 뭔 상관?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721148&page=1",
+      "postedLabel": "19:46",
+      "postedAt": "2026-11-28T19:46:40+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:47:28+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129480,
+      "source": "blind",
+      "externalId": "cmt-463055307",
+      "title": "차은우가 해도 별로네 정말 박보검이 해도 오글거림",
+      "excerpt": "?? : 정숙 이제 상처받을 준비해",
+      "author": "l********",
+      "company": "차병원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A0%95%EC%88%99-%EC%9D%B4%EC%A0%9C-%EC%83%81%EC%B2%98%EB%B0%9B%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%B4-vulf87el#463055307",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T19:47:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:47:28+00:00",
       "isSeed": false,
       "kind": "reply"
     }
