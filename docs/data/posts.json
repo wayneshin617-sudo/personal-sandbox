@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T05:36:20+00:00",
+  "updatedAt": "2026-11-28T05:37:19+00:00",
   "posts": [
     {
       "id": 95749,
@@ -647537,6 +647537,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T05:36:20+00:00",
       "isSeed": false
+    },
+    {
+      "id": 128758,
+      "source": "dc",
+      "externalId": "6720790",
+      "title": "34 영수는 덩치 좋던데",
+      "excerpt": "",
+      "author": "미스미스터",
+      "company": "",
+      "ip": "218.146",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720790&page=1",
+      "postedLabel": "14:36",
+      "postedAt": "2026-11-28T14:36:23+09:00",
+      "views": 5,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:37:19+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128759,
+      "source": "blind",
+      "externalId": "cmt-463023793",
+      "title": "되게 못된 생각이면 이런 글을 안쓰시면 됩니다.",
+      "excerpt": "되게 못된 생각이긴 한데",
+      "author": "8****",
+      "company": "ex-삼성자산운용",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%90%98%EA%B2%8C-%EB%AA%BB%EB%90%9C-%EC%83%9D%EA%B0%81%EC%9D%B4%EA%B8%B4-%ED%95%9C%EB%8D%B0-kpybjfx6#463023793",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T14:37:03+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:37:19+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -647721,7 +647760,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T14:33:48+09:00"
+      "slowAt": "2026-11-28T14:37:03+09:00"
     },
     "dc": {
       "doneIds": [
