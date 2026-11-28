@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T12:31:54+00:00",
+  "updatedAt": "2026-11-28T12:32:54+00:00",
   "posts": [
     {
       "id": 95749,
@@ -667463,6 +667463,65 @@
       "firstSeenAt": "2026-11-28T12:31:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129774,
+      "source": "dc",
+      "externalId": "6721282",
+      "title": "옥순하고 영호는 비주얼이 너무 좋아서 놀랬슴",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "119.205",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721282&page=1",
+      "postedLabel": "21:31",
+      "postedAt": "2026-11-28T21:31:50+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": 1,
+      "firstSeenAt": "2026-11-28T12:32:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129775,
+      "source": "blind",
+      "externalId": "cmt-463068230",
+      "title": "방통위 신고 빗발칠듯",
+      "excerpt": "진짜 교양없는 특집 한번 해주면 안되나",
+      "author": "i********",
+      "company": "삼광의료재단",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%A7%84%EC%A7%9C-%EA%B5%90%EC%96%91%EC%97%86%EB%8A%94-%ED%8A%B9%EC%A7%91-%ED%95%9C%EB%B2%88-%ED%95%B4%EC%A3%BC%EB%A9%B4-%EC%95%88%EB%90%98%EB%82%98-bk6afcfh#463068230",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T21:32:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:32:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129776,
+      "source": "dc",
+      "externalId": "cmt-11053502",
+      "title": "몇기 말하는거냐?",
+      "excerpt": "옥순하고 영호는 비주얼이 너무 좋아서 놀랬슴",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721282&page=1#cmt_11053502",
+      "postedLabel": "11.28 21:32:36",
+      "postedAt": "2026-11-28T21:32:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:32:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -689934,7 +689993,8 @@
         "6721260",
         "6721266",
         "6721273",
-        "6721280"
+        "6721280",
+        "6721282"
       ]
     },
     "blind": {
