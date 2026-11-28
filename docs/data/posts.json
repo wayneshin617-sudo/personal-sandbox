@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T18:49:22+00:00",
+  "updatedAt": "2026-11-28T18:53:22+00:00",
   "posts": [
     {
       "id": 95749,
@@ -678740,6 +678740,25 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T18:49:22+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130346,
+      "source": "dc",
+      "externalId": "6721471",
+      "title": "등 ㅁㅌㅊ?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.161",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721471&page=1",
+      "postedLabel": "03:52",
+      "postedAt": "2026-11-29T03:52:22+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T18:53:22+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -678924,7 +678943,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T03:50:05+09:00"
+      "slowAt": "2026-11-29T03:53:06+09:00"
     },
     "dc": {
       "doneIds": [
