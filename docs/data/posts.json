@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:39:53+00:00",
+  "updatedAt": "2026-11-28T01:40:52+00:00",
   "posts": [
     {
       "id": 95749,
@@ -639174,6 +639174,65 @@
       "firstSeenAt": "2026-11-28T01:39:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128333,
+      "source": "dc",
+      "externalId": "cmt-11052413",
+      "title": "사회는 결과가 전부다 게이야 ㅋㅋㅋ",
+      "excerpt": "4년제대학나온여자가 고졸생산직한테",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "149.88",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720635&page=1#cmt_11052413",
+      "postedLabel": "11.28 10:40:26",
+      "postedAt": "2026-11-28T10:40:26+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:40:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128334,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%97%B0%EC%95%A0%EC%95%88%ED%95%B4-5w04tsjf",
+      "title": "연애안해",
+      "excerpt": "도태 에겐남 지겹다",
+      "author": "l*********",
+      "company": "삼성전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%B0%EC%95%A0%EC%95%88%ED%95%B4-5w04tsjf",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:40:36+09:00",
+      "views": 1,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T01:40:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128335,
+      "source": "blind",
+      "externalId": "cmt-462999639",
+      "title": "와 쓰니 현자구나ㅋㅋㅋㅋㅋ이번기수도ㅋㅋㅋㅋ",
+      "excerpt": "나솔 특",
+      "author": "i********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%82%98%EC%86%94-%ED%8A%B9-kn4tk1x2#462999639",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:40:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:40:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -639358,7 +639417,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T10:37:36+09:00"
+      "slowAt": "2026-11-28T10:40:36+09:00"
     },
     "dc": {
       "doneIds": [
@@ -661377,7 +661436,8 @@
         "6720615",
         "6720618",
         "6720622",
-        "6720630"
+        "6720630",
+        "6720635"
       ]
     },
     "blind": {
