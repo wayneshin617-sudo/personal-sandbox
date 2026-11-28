@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:33:58+00:00",
+  "updatedAt": "2026-11-28T07:34:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -653043,6 +653043,45 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-11-28T07:33:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129040,
+      "source": "dc",
+      "externalId": "6720939",
+      "title": "부동산투자 시 실패하지 않을 금액대별 환금성 좋은 단지",
+      "excerpt": "",
+      "author": "룬나",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720939&page=1",
+      "postedLabel": "16:34",
+      "postedAt": "2026-11-28T16:34:10+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:34:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129041,
+      "source": "blind",
+      "externalId": "cmt-463035734",
+      "title": "간맘에 대존잼",
+      "excerpt": "34기 어때요",
+      "author": "1********",
+      "company": "롯데캐피탈",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%96%B4%EB%95%8C%EC%9A%94-7k2fhlh3#463035734",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T16:34:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:34:58+00:00",
       "isSeed": false,
       "kind": "reply"
     }
