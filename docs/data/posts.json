@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:37:58+00:00",
+  "updatedAt": "2026-11-28T07:38:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -653162,6 +653162,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T07:37:58+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129046,
+      "source": "dc",
+      "externalId": "cmt-11052922",
+      "title": "보통 설득하는이유가 - dc App",
+      "excerpt": "옥순 이 정도면 이쁜거 아님?",
+      "author": "바실",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720942&page=1#cmt_11052922",
+      "postedLabel": "11.28 16:38:02",
+      "postedAt": "2026-11-28T16:38:02+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:38:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129047,
+      "source": "dc",
+      "externalId": "6720944",
+      "title": "34기 여출들은 영호한테 죄책감 유발 작전은 안쓰잖아",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720944&page=1",
+      "postedLabel": "16:38",
+      "postedAt": "2026-11-28T16:38:11+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:38:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129048,
+      "source": "blind",
+      "externalId": "cmt-463036199",
+      "title": "탄식",
+      "excerpt": "되지도 않는 레슬러가 노코멘트. 하니까",
+      "author": "m*****",
+      "company": "커리어케어",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EB%90%98%EC%A7%80%EB%8F%84-%EC%95%8A%EB%8A%94-%EB%A0%88%EC%8A%AC%EB%9F%AC%EA%B0%80-%EB%85%B8%EC%BD%94%EB%A9%98%ED%8A%B8-%ED%95%98%EB%8B%88%EA%B9%8C-3rbjo8t1#463036199",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T16:38:40+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:38:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -653346,7 +653405,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T16:35:40+09:00"
+      "slowAt": "2026-11-28T16:38:40+09:00"
     },
     "dc": {
       "doneIds": [
@@ -675483,7 +675542,8 @@
         "6720931",
         "6720936",
         "6720938",
-        "6720940"
+        "6720940",
+        "6720942"
       ]
     },
     "blind": {
