@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T09:27:28+00:00",
+  "updatedAt": "2026-11-28T09:28:28+00:00",
   "posts": [
     {
       "id": 95749,
@@ -657860,6 +657860,46 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T09:27:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129286,
+      "source": "dc",
+      "externalId": "cmt-11052996",
+      "title": "난 컵라면",
+      "excerpt": "주식 조져서 편의점음식으로 저녁때움",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.229",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720935&page=2#cmt_11052996",
+      "postedLabel": "11.28 17:31:47",
+      "postedAt": "2026-11-28T17:31:47+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:28:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129287,
+      "source": "dc",
+      "externalId": "cmt-11053103",
+      "title": "초반에 너무 무리수 둔거 아니냐??",
+      "excerpt": "난 34영철이가 이해됨...",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "182.208",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721069&page=1#cmt_11053103",
+      "postedLabel": "11.28 18:27:14",
+      "postedAt": "2026-11-28T18:27:14+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T09:28:28+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -658044,7 +658084,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T18:24:57+09:00"
+      "slowAt": "2026-11-28T18:28:10+09:00"
     },
     "dc": {
       "doneIds": [
@@ -680232,7 +680272,8 @@
         "6721048",
         "6721050",
         "6721055",
-        "6721063"
+        "6721063",
+        "6721069"
       ]
     },
     "blind": {
