@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T16:57:49+00:00",
+  "updatedAt": "2026-11-28T16:58:51+00:00",
   "posts": [
     {
       "id": 95749,
@@ -677278,6 +677278,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T16:57:49+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130272,
+      "source": "dc",
+      "externalId": "cmt-11054286",
+      "title": "그거 다 하면 얼굴이 아프겟다 이마 코한게 꼴보기 시름",
+      "excerpt": "34영숙 성형 젤 마니한거 아니냐?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.223",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721448&page=1#cmt_11054286",
+      "postedLabel": "11.29 01:57:45",
+      "postedAt": "2026-11-29T01:57:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T16:58:51+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130273,
+      "source": "dc",
+      "externalId": "6721450",
+      "title": "피갤에 상주해서 김연아까짓하는 다중이 솔로갤 도배중인거니",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "115.40",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721450&page=1",
+      "postedLabel": "01:58",
+      "postedAt": "2026-11-29T01:58:18+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T16:58:51+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -677462,7 +677501,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T01:55:34+09:00"
+      "slowAt": "2026-11-29T01:58:34+09:00"
     },
     "dc": {
       "doneIds": [
@@ -699850,7 +699889,8 @@
         "6721435",
         "6721442",
         "6721443",
-        "6721444"
+        "6721444",
+        "6721448"
       ]
     },
     "blind": {
