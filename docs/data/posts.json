@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T12:29:54+00:00",
+  "updatedAt": "2026-11-28T12:30:54+00:00",
   "posts": [
     {
       "id": 95749,
@@ -667364,6 +667364,45 @@
       "firstSeenAt": "2026-11-28T12:29:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129769,
+      "source": "dc",
+      "externalId": "6721281",
+      "title": "옥순이 이쁘다는 영수 말이야",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "180.67",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721281&page=1",
+      "postedLabel": "21:30",
+      "postedAt": "2026-11-28T21:30:17+09:00",
+      "views": 4,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:30:54+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129770,
+      "source": "dc",
+      "externalId": "cmt-11053496",
+      "title": "9광수가 잘생겼지 ㅋㅋ + 의사잖어 더 잘생겨보임",
+      "excerpt": "9광수 vs 치과영호 누가 더 잘생김???",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721280&page=1#cmt_11053496",
+      "postedLabel": "11.28 21:30:36",
+      "postedAt": "2026-11-28T21:30:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:30:54+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -667548,7 +667587,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T21:27:36+09:00"
+      "slowAt": "2026-11-28T21:30:37+09:00"
     },
     "dc": {
       "doneIds": [
@@ -689833,7 +689872,8 @@
         "6721259",
         "6721260",
         "6721266",
-        "6721273"
+        "6721273",
+        "6721280"
       ]
     },
     "blind": {
