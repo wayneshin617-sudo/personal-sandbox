@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T05:49:25+00:00",
+  "updatedAt": "2026-11-28T05:50:26+00:00",
   "posts": [
     {
       "id": 95749,
@@ -648100,6 +648100,44 @@
       "firstSeenAt": "2026-11-28T05:49:25+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128787,
+      "source": "dc",
+      "externalId": "6720807",
+      "title": "시발 토할것같네 진짜",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720807&page=1",
+      "postedLabel": "14:49",
+      "postedAt": "2026-11-28T14:49:42+09:00",
+      "views": 4,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:50:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128788,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%99%9C-%EC%9D%B8%EA%B8%B0%EA%B0%80-%EC%97%86%EC%A7%80-5shctha4",
+      "title": "영식이 왜 인기가 없지?",
+      "excerpt": "똑똑하고 나이스한데 조용조용한 형들 인기 많을 것 같은데",
+      "author": "!*********",
+      "company": "새회사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%EC%8B%9D%EC%9D%B4-%EC%99%9C-%EC%9D%B8%EA%B8%B0%EA%B0%80-%EC%97%86%EC%A7%80-5shctha4",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T14:50:09+09:00",
+      "views": 3,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T05:50:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -648284,7 +648322,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T14:46:52+09:00"
+      "slowAt": "2026-11-28T14:50:09+09:00"
     },
     "dc": {
       "doneIds": [
