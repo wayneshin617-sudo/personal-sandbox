@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T20:49:01+00:00",
+  "updatedAt": "2026-11-28T20:50:01+00:00",
   "posts": [
     {
       "id": 95749,
@@ -679591,6 +679591,45 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T20:49:01+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130389,
+      "source": "qoo",
+      "externalId": "cmt-4420967449",
+      "title": "헉 나 옵세션 좋아하는데 재밌겠다 봐야지!",
+      "excerpt": "박지선 교수님 나는솔로 애청자래ㅋㅋㅋㅋㅋ",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4420910581#4420967449",
+      "postedLabel": "",
+      "postedAt": "2026-11-29T04:49:21+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T20:50:01+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130390,
+      "source": "dc",
+      "externalId": "6721486",
+      "title": "망도 바퀴벌레 거지새끼 얼굴보고 토나온다",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721486&page=1",
+      "postedLabel": "05:49",
+      "postedAt": "2026-11-29T05:49:06+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T20:50:01+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -679702,7 +679741,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-29T05:46:25+09:00"
+      "slowAt": "2026-11-29T05:49:45+09:00"
     },
     "ig": {
       "doneIds": [
