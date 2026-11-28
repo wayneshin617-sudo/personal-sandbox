@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:20:04+00:00",
+  "updatedAt": "2026-11-28T01:21:04+00:00",
   "posts": [
     {
       "id": 95749,
@@ -638272,6 +638272,45 @@
       "firstSeenAt": "2026-11-28T01:20:04+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128287,
+      "source": "dc",
+      "externalId": "cmt-11052391",
+      "title": "밤새 저러고 쳐 자러갔나보네ㅋㅋㅋ애잔하다",
+      "excerpt": "더글로리단 뒷북으로 발작하는거 개웃기네ㅋㅋㅋ",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720519&page=2#cmt_11052391",
+      "postedLabel": "11.28 10:09:15",
+      "postedAt": "2026-11-28T10:09:15+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:21:04+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 128288,
+      "source": "dc",
+      "externalId": "6720624",
+      "title": "데프콘 팔자주름",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "125.177",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720624&page=1",
+      "postedLabel": "10:20",
+      "postedAt": "2026-11-28T10:20:15+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:21:04+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -638383,7 +638422,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T10:17:32+09:00"
+      "slowAt": "2026-11-28T10:20:48+09:00"
     },
     "ig": {
       "doneIds": [
@@ -660437,6 +660476,7 @@
         "6720509",
         "6720514",
         "6720517",
+        "6720519",
         "6720522",
         "6720524",
         "6720526",
