@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T05:08:40+00:00",
+  "updatedAt": "2026-11-28T05:09:39+00:00",
   "posts": [
     {
       "id": 95749,
@@ -646551,6 +646551,25 @@
       "firstSeenAt": "2026-11-28T05:08:40+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128708,
+      "source": "dc",
+      "externalId": "6720773",
+      "title": "뉴비인데 몇기가 가장 재밌냐?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "183.109",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720773&page=1",
+      "postedLabel": "14:08",
+      "postedAt": "2026-11-28T14:08:43+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T05:09:39+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -646735,7 +646754,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T14:06:23+09:00"
+      "slowAt": "2026-11-28T14:09:23+09:00"
     },
     "dc": {
       "doneIds": [
