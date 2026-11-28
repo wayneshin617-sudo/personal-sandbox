@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:47:58+00:00",
+  "updatedAt": "2026-11-28T07:48:59+00:00",
   "posts": [
     {
       "id": 95749,
@@ -653419,6 +653419,46 @@
       "firstSeenAt": "2026-11-28T07:47:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129059,
+      "source": "dc",
+      "externalId": "cmt-11052934",
+      "title": "그럼 갤에와서 바이럴을 하지마 이 멍청한년아",
+      "excerpt": "순자는 숨만 쉬어도 욕먹는듯ㅋㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720949&page=1#cmt_11052934",
+      "postedLabel": "11.28 16:47:49",
+      "postedAt": "2026-11-28T16:47:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:48:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129060,
+      "source": "dc",
+      "externalId": "cmt-11052935",
+      "title": "순자&순천지 피코질 징글징글 질린다 진짜",
+      "excerpt": "순자는 숨만 쉬어도 욕먹는듯ㅋㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720949&page=1#cmt_11052935",
+      "postedLabel": "11.28 16:48:42",
+      "postedAt": "2026-11-28T16:48:42+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:48:59+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -653530,7 +653570,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T16:45:40+09:00"
+      "slowAt": "2026-11-28T16:48:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -675747,7 +675787,8 @@
         "6720942",
         "6720944",
         "6720947",
-        "6720948"
+        "6720948",
+        "6720949"
       ]
     },
     "blind": {
