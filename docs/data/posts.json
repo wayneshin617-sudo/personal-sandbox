@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:22:32+00:00",
+  "updatedAt": "2026-11-28T07:24:45+00:00",
   "posts": [
     {
       "id": 95749,
@@ -652433,6 +652433,65 @@
       "comments": 1,
       "firstSeenAt": "2026-11-28T07:22:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129009,
+      "source": "dc",
+      "externalId": "cmt-11052799",
+      "title": "회사에서 야근도 안시키는데 야근핑계 비행기 1시간30분이면 가는걸 연차핑계 팔이피플 할려고 회사는 뒷전이면서 일 많이하는척은 존나 해요 ㅋㅋ",
+      "excerpt": "순자 방송나와서 일본갈꺼라고 뻥친거야??",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.246",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720854&page=2#cmt_11052799",
+      "postedLabel": "11.28 15:29:49",
+      "postedAt": "2026-11-28T15:29:49+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:24:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129010,
+      "source": "blind",
+      "externalId": "cmt-463033321",
+      "title": "너처럼 가만히 있어도 나쁜행동 안 하고 착하게 행동하면 괜찮다고 말하는 사람들이 있으니까 저런 회피형이 당당하게 사는 거야. 방관도 엄연히 이기적인 거임.",
+      "excerpt": "영호는 간잽이함으로써 여자들의 시간도 뺏고 그 여자들 바라보는 남자들 시간도 뺐네",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%98%81%ED%98%B8%EB%8A%94-%EA%B0%84%EC%9E%BD%EC%9D%B4%ED%95%A8%EC%9C%BC%EB%A1%9C%EC%8D%A8-%EC%97%AC%EC%9E%90%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84%EB%8F%84-%EB%BA%8F%EA%B3%A0-%EA%B7%B8-%EC%97%AC%EC%9E%90%EB%93%A4-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EB%82%A8%EC%9E%90%EB%93%A4-%EC%8B%9C%EA%B0%84%EB%8F%84-%EB%BA%90%EB%84%A4-tyyrlwvt#463033321",
+      "postedLabel": "13분",
+      "postedAt": "2026-11-28T16:11:28+09:00",
+      "views": null,
+      "recommends": 2,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:24:45+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129011,
+      "source": "dc",
+      "externalId": "6720929",
+      "title": "순자는 강의팔이만 안하면 광고 잘들어오노",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720929&page=1",
+      "postedLabel": "16:24",
+      "postedAt": "2026-11-28T16:24:19+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:24:45+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -652544,7 +652603,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T16:21:01+09:00"
+      "slowAt": "2026-11-28T16:24:28+09:00"
     },
     "ig": {
       "doneIds": [
@@ -674724,6 +674783,7 @@
         "6720844",
         "6720846",
         "6720852",
+        "6720854",
         "6720857",
         "6720859",
         "6720868",
