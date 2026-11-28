@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:59:27+00:00",
+  "updatedAt": "2026-11-28T11:00:26+00:00",
   "posts": [
     {
       "id": 95749,
@@ -662192,6 +662192,83 @@
       "firstSeenAt": "2026-11-28T10:59:27+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129506,
+      "source": "dc",
+      "externalId": "cmt-11053237",
+      "title": "영호 때문에 더 재미있었을 34기가 노잼됨",
+      "excerpt": "영호보다 영식이가 재밌는 이유",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721099&page=2#cmt_11053237",
+      "postedLabel": "11.28 19:35:43",
+      "postedAt": "2026-11-28T19:35:43+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:00:26+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129507,
+      "source": "dc",
+      "externalId": "6721161",
+      "title": "여자가볼때 영철이 잘생겼는데 안타까움",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "1.238",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721161&page=1",
+      "postedLabel": "19:59",
+      "postedAt": "2026-11-28T19:59:16+09:00",
+      "views": 7,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:00:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129508,
+      "source": "dc",
+      "externalId": "6721163",
+      "title": "최태원 동거녀 무보정",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "115.90",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721163&page=1",
+      "postedLabel": "19:59",
+      "postedAt": "2026-11-28T19:59:45+09:00",
+      "views": 6,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:00:26+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129509,
+      "source": "dc",
+      "externalId": "6721165",
+      "title": "34순자 호감이면 개추",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.151",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721165&page=1",
+      "postedLabel": "20:00",
+      "postedAt": "2026-11-28T20:00:09+09:00",
+      "views": 0,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:00:26+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -662376,7 +662453,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T19:57:09+09:00"
+      "slowAt": "2026-11-28T20:00:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -684594,6 +684671,7 @@
         "6721094",
         "6721095",
         "6721097",
+        "6721099",
         "6721101",
         "6721103",
         "6721109",
