@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:09:32+00:00",
+  "updatedAt": "2026-11-28T10:10:32+00:00",
   "posts": [
     {
       "id": 95749,
@@ -659931,6 +659931,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T10:09:32+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129391,
+      "source": "dc",
+      "externalId": "cmt-11053082",
+      "title": "둘이 합치면 누가 먹겠소? 고맙소",
+      "excerpt": "나 예전 일하는데서 돼옥순 비슷한 아줌마 있었는데 어떤 아재가",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "116.125",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721050&page=1#cmt_11053082",
+      "postedLabel": "11.28 18:13:08",
+      "postedAt": "2026-11-28T18:13:08+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:10:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129392,
+      "source": "dc",
+      "externalId": "6721107",
+      "title": "나솔 최고 알파남.jpg",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "115.21",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721107&page=1",
+      "postedLabel": "19:09",
+      "postedAt": "2026-11-28T19:09:35+09:00",
+      "views": 13,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:10:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129393,
+      "source": "blind",
+      "externalId": "/kr/post/%EA%B4%91%EC%88%98-%EA%B0%9C%EC%9B%83%EA%B8%B0%EB%85%B8%E3%85%8B%E3%85%8B-jlu5oewh",
+      "title": "광수 개웃기노ㅋㅋ",
+      "excerpt": "자기를 안달나게 해달래ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 송해나: 미쳤네 진짜 찐반응 왜케 웃김 아니 얼굴 독두꺼비같이 생겨가지고 그것도 처흘러내려 개빻아가지고 치명적인척 진짜 줘패고싶노",
+      "author": "!*******",
+      "company": "LG전자",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EA%B0%9C%EC%9B%83%EA%B8%B0%EB%85%B8%E3%85%8B%E3%85%8B-jlu5oewh",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T19:10:14+09:00",
+      "views": 2,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T10:10:32+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129394,
+      "source": "blind",
+      "externalId": "cmt-463051311",
+      "title": "나도 잘 보고 있긴한데 중반이후로 좀 루즈하긴 함",
+      "excerpt": "34기 어때요",
+      "author": "i*******",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%96%B4%EB%95%8C%EC%9A%94-7k2fhlh3#463051311",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T19:10:14+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:10:32+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -660115,7 +660193,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T19:07:00+09:00"
+      "slowAt": "2026-11-28T19:10:14+09:00"
     },
     "dc": {
       "doneIds": [
