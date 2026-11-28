@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T14:42:58+00:00",
+  "updatedAt": "2026-11-28T14:44:12+00:00",
   "posts": [
     {
       "id": 95749,
@@ -672407,6 +672407,84 @@
       "firstSeenAt": "2026-11-28T14:42:58+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 130025,
+      "source": "dc",
+      "externalId": "cmt-11053658",
+      "title": "배아파서 응급실갈듯",
+      "excerpt": "순자 왠지 남자가 ㄹㅇ바람펴도",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721329&page=1#cmt_11053658",
+      "postedLabel": "11.28 22:46:09",
+      "postedAt": "2026-11-28T22:46:09+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:44:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130026,
+      "source": "dc",
+      "externalId": "cmt-11053667",
+      "title": "아니지 여자만 족치겠지 남자는 보약 다려먹이고",
+      "excerpt": "순자 왠지 남자가 ㄹㅇ바람펴도",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.38",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721329&page=1#cmt_11053667",
+      "postedLabel": "11.28 22:48:05",
+      "postedAt": "2026-11-28T22:48:05+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:44:12+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130027,
+      "source": "dc",
+      "externalId": "6721380",
+      "title": "여출 전체적으로 괜찮았던건 연상연하 특집이엇나",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721380&page=1",
+      "postedLabel": "23:42",
+      "postedAt": "2026-11-28T23:42:56+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:44:12+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 130028,
+      "source": "blind",
+      "externalId": "/kr/post/%EC%82%AC%EB%9E%91-%EB%8B%A4%EB%93%A4-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-je80equc",
+      "title": "사랑 다들 하고 있나요?",
+      "excerpt": "가능한 만큼만 날 받아줘요 이게 이렇게 어려운지 이제야 알았어요.",
+      "author": "드***",
+      "company": "도드람양돈서비스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%82%AC%EB%9E%91-%EB%8B%A4%EB%93%A4-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-je80equc",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T23:43:55+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T14:44:12+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -672591,7 +672669,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T23:40:27+09:00"
+      "slowAt": "2026-11-28T23:43:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -694833,6 +694911,7 @@
         "6721136",
         "6721142",
         "6721144",
+        "6721145",
         "6721146",
         "6721154",
         "6721155",
@@ -694916,6 +694995,7 @@
         "6721325",
         "6721327",
         "6721328",
+        "6721329",
         "6721331",
         "6721334",
         "6721337",
@@ -694931,7 +695011,8 @@
         "6721359",
         "6721360",
         "6721363",
-        "6721365"
+        "6721365",
+        "6721378"
       ]
     },
     "blind": {
