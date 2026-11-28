@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:50:28+00:00",
+  "updatedAt": "2026-11-28T10:51:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -661799,6 +661799,44 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T10:50:28+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129486,
+      "source": "dc",
+      "externalId": "6721153",
+      "title": "경수가 양심없는거 보니 순자도 홍보용으로 이용중인거",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721153&page=1",
+      "postedLabel": "19:50",
+      "postedAt": "2026-11-28T19:50:32+09:00",
+      "views": 4,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:51:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129487,
+      "source": "dc",
+      "externalId": "6721154",
+      "title": "34기만큼 더치페이스 안되는 기수도 없다",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721154&page=1",
+      "postedLabel": "19:50",
+      "postedAt": "2026-11-28T19:50:59+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:51:27+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -661983,7 +662021,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T19:48:10+09:00"
+      "slowAt": "2026-11-28T19:51:09+09:00"
     },
     "dc": {
       "doneIds": [
