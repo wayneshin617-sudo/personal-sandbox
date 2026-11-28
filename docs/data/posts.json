@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T12:55:54+00:00",
+  "updatedAt": "2026-11-28T12:56:54+00:00",
   "posts": [
     {
       "id": 95749,
@@ -668095,6 +668095,25 @@
       "firstSeenAt": "2026-11-28T12:55:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129806,
+      "source": "dc",
+      "externalId": "6721297",
+      "title": "지고지순",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.184",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721297&page=1",
+      "postedLabel": "21:56",
+      "postedAt": "2026-11-28T21:56:17+09:00",
+      "views": 5,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:56:54+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
