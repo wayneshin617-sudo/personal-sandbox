@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T11:17:27+00:00",
+  "updatedAt": "2026-11-28T11:18:27+00:00",
   "posts": [
     {
       "id": 95749,
@@ -663194,6 +663194,84 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T11:17:27+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129557,
+      "source": "blind",
+      "externalId": "cmt-463054321",
+      "title": "영철도 안돼",
+      "excerpt": "여동생 둔 블라오빠들은 34기 남자 누가 젤 맘에 들어?",
+      "author": "!*********",
+      "company": "한국전력공사",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%97%AC%EB%8F%99%EC%83%9D-%EB%91%94-%EB%B8%94%EB%9D%BC%EC%98%A4%EB%B9%A0%EB%93%A4%EC%9D%80-34%EA%B8%B0-%EB%82%A8%EC%9E%90-%EB%88%84%EA%B0%80-%EC%A0%A4-%EB%A7%98%EC%97%90-%EB%93%A4%EC%96%B4-yjn2q56a#463054321",
+      "postedLabel": "40분",
+      "postedAt": "2026-11-28T19:38:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:18:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129558,
+      "source": "dc",
+      "externalId": "6721184",
+      "title": "젠슨황은 왜 노괴들이랑 불륜했을까??",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.239",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721184&page=1",
+      "postedLabel": "20:17",
+      "postedAt": "2026-11-28T20:17:30+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:18:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129559,
+      "source": "dc",
+      "externalId": "6721186",
+      "title": "30대 중반 여자를 만나서 결혼 하라고?",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "121.164",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721186&page=1",
+      "postedLabel": "20:17",
+      "postedAt": "2026-11-28T20:17:33+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:18:27+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129560,
+      "source": "blind",
+      "externalId": "cmt-463058696",
+      "title": "아 욕나와",
+      "excerpt": "광수 전여친은 반성해라",
+      "author": "l*********",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EA%B4%91%EC%88%98-%EC%A0%84%EC%97%AC%EC%B9%9C%EC%9D%80-%EB%B0%98%EC%84%B1%ED%95%B4%EB%9D%BC-78278m1h#463058696",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T20:18:09+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T11:18:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -663378,7 +663456,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T20:15:09+09:00"
+      "slowAt": "2026-11-28T20:18:09+09:00"
     },
     "dc": {
       "doneIds": [
@@ -685623,7 +685701,8 @@
         "6721163",
         "6721169",
         "6721174",
-        "6721179"
+        "6721179",
+        "6721183"
       ]
     },
     "blind": {
