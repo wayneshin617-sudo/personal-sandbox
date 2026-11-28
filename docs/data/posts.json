@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T13:57:07+00:00",
+  "updatedAt": "2026-11-28T13:58:07+00:00",
   "posts": [
     {
       "id": 95749,
@@ -670476,6 +670476,25 @@
       "firstSeenAt": "2026-11-28T13:57:07+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129927,
+      "source": "dc",
+      "externalId": "6721342",
+      "title": "안정환 빼라... 프로그램이랑 안맞는다..",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "1.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721342&page=1",
+      "postedLabel": "22:57",
+      "postedAt": "2026-11-28T22:57:45+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T13:58:07+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -670660,7 +670679,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T22:54:51+09:00"
+      "slowAt": "2026-11-28T22:57:51+09:00"
     },
     "dc": {
       "doneIds": [
@@ -692980,7 +692999,8 @@
         "6721334",
         "6721337",
         "6721338",
-        "6721339"
+        "6721339",
+        "6721341"
       ]
     },
     "blind": {
