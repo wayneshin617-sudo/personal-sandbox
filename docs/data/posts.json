@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T12:32:54+00:00",
+  "updatedAt": "2026-11-28T12:33:55+00:00",
   "posts": [
     {
       "id": 95749,
@@ -667522,6 +667522,25 @@
       "firstSeenAt": "2026-11-28T12:32:54+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129777,
+      "source": "dc",
+      "externalId": "6721283",
+      "title": "주말되니까 귀신같이 도태농도 짙은글 많네",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "223.62",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721283&page=1",
+      "postedLabel": "21:33",
+      "postedAt": "2026-11-28T21:33:17+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T12:33:55+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -667706,7 +667725,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T21:30:37+09:00"
+      "slowAt": "2026-11-28T21:33:36+09:00"
     },
     "dc": {
       "doneIds": [
