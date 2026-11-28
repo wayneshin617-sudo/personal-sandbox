@@ -1,0 +1,2767 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>회식 장소 고르기 · 경기 광주</title>
+<meta name="description" content="경기 광주 회식 후보를 네이버 지도와 사진으로 비교하고 고르는 페이지">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2303c75a'/%3E%3Cpath d='M16 6a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.6a2.6 2.6 0 1 1 0-5.2 2.6 2.6 0 0 1 0 5.2z' fill='%23fff'/%3E%3C/svg%3E">
+<style>
+:root{
+  --green:#03c75a;--green-d:#02a54b;--green-l:#e8f9ef;
+  --ink:#1e1e23;--ink2:#505058;--ink3:#8a8a93;--line:#e6e8eb;--bg:#f5f6f8;
+  --star:#ff6b3d;--warn:#fff4e5;--warn-ink:#9a5b00;--err:#fdecec;--err-ink:#b42318;
+  --radius:14px;--shadow:0 6px 24px rgba(20,24,31,.12);
+  font-family:Pretendard,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",system-ui,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;color:var(--ink);background:var(--bg);font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;cursor:pointer}
+a{color:inherit}
+img{display:block}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+/* 상단 */
+.top{height:60px;display:flex;align-items:center;gap:12px;padding:0 18px;background:#fff;border-bottom:1px solid var(--line);position:relative;z-index:5}
+.brand{display:flex;align-items:center;gap:10px;min-width:0}
+.brand .logo{width:32px;height:32px;border-radius:9px;background:var(--green);display:grid;place-items:center;flex:none}
+.brand h1{margin:0;font-size:18px;letter-spacing:-.3px;white-space:nowrap}
+.brand span{color:var(--ink3);font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top .grow{flex:1}
+.pick-btn{display:flex;align-items:center;gap:8px;height:38px;padding:0 14px;border-radius:19px;border:1px solid var(--line);background:#fff;font-weight:600}
+.pick-btn b{color:var(--green-d)}
+.pick-btn:hover{border-color:var(--green)}
+
+/* 본문 */
+.app{display:flex;height:calc(100% - 60px);position:relative}
+.list{width:380px;flex:none;display:flex;flex-direction:column;background:#fff;border-right:1px solid var(--line);z-index:3}
+.detail{width:420px;flex:none;background:#fff;border-right:1px solid var(--line);overflow-y:auto;z-index:2;display:none;position:relative}
+.app.has-detail .detail{display:block}
+.mapwrap{flex:1;position:relative;min-width:0;isolation:isolate}
+#map{width:100%;height:100%;background:#e9ecef}
+
+/* 검색 · 필터 */
+.tools{padding:14px 16px 10px;border-bottom:1px solid var(--line)}
+.search{display:flex;align-items:center;gap:8px;height:44px;border:2px solid var(--green);border-radius:10px;padding:0 12px}
+.search input{flex:1;border:0;outline:0;font:inherit;font-size:15px;min-width:0;background:transparent}
+.search button{border:0;background:none;color:var(--ink3);font-size:18px;line-height:1;padding:4px;display:none}
+.search.filled button{display:block}
+.chips{display:flex;gap:6px;overflow-x:auto;padding:12px 0 2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;height:32px;padding:0 12px;border-radius:16px;border:1px solid var(--line);background:#fff;font-size:13px;color:var(--ink2)}
+.chip[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:#fff;font-weight:600}
+.sortbar{display:flex;align-items:center;justify-content:space-between;padding:8px 2px 0;color:var(--ink3);font-size:12.5px}
+.sortbar select{border:0;background:none;font:inherit;color:var(--ink2);font-weight:600;cursor:pointer}
+.cards{flex:1;overflow-y:auto}
+.empty{padding:40px 20px;text-align:center;color:var(--ink3)}
+
+/* 후보 카드 */
+.card{padding:16px;border-bottom:1px solid var(--line);cursor:pointer;position:relative;outline:none}
+.card:hover,.card:focus-visible{background:#fafbfc}
+.card.on{background:var(--green-l)}
+.card .row1{display:flex;align-items:baseline;gap:6px;padding-right:44px}
+.card .num{flex:none;width:20px;height:20px;border-radius:50%;background:var(--ink);color:#fff;font-size:11px;font-weight:700;display:grid;place-items:center;transform:translateY(-1px)}
+.card.on .num{background:var(--green)}
+.card h3{margin:0;font-size:16.5px;letter-spacing:-.3px;color:#0d47a1}
+.card .cat{color:var(--ink3);font-size:13px;white-space:nowrap}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px;margin-top:4px;font-size:13px;color:var(--ink2)}
+.star{color:var(--star);font-weight:700}
+.star::before{content:"★ "}
+.dot::before{content:"·";margin-right:10px;color:#c5c8ce}
+.tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px}
+.tag{font-size:12px;padding:2px 7px;border-radius:5px;background:#f1f3f5;color:var(--ink2)}
+.tag.g{background:var(--green-l);color:var(--green-d);font-weight:600}
+.thumbs{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;margin-top:10px;border-radius:10px;overflow:hidden}
+.thumbs .ph{aspect-ratio:1/1}
+.heart{position:absolute;top:12px;right:12px;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:#fff;display:grid;place-items:center}
+.heart svg{width:20px;height:20px;fill:none;stroke:var(--ink3);stroke-width:2}
+.heart[aria-pressed=true]{border-color:var(--green);background:var(--green)}
+.heart[aria-pressed=true] svg{stroke:#fff}
+
+/* 사진 공통 */
+.ph{position:relative;background:#eef0f3;overflow:hidden}
+.ph img{width:100%;height:100%;object-fit:cover;transition:transform .25s}
+.ph.fail{display:grid;place-items:center;text-align:center;font-size:11.5px;color:var(--err-ink);background:var(--err);padding:6px}
+button.ph{border:0;padding:0}
+button.ph:hover img{transform:scale(1.04)}
+
+/* 상세 */
+.d-close{position:sticky;top:0;z-index:2;display:flex;justify-content:flex-end;height:0}
+.d-close button{margin:10px;width:36px;height:36px;border-radius:50%;border:0;background:rgba(0,0,0,.55);color:#fff;font-size:20px;line-height:1}
+.hero{display:grid;grid-template-columns:2fr 1fr 1fr;grid-template-rows:1fr 1fr;gap:3px;height:250px}
+.hero .ph:first-child{grid-row:span 2}
+.hero .more{position:absolute;inset:0;background:rgba(0,0,0,.45);color:#fff;font-weight:700;font-size:15px;display:grid;place-items:center}
+.d-body{padding:18px 20px 28px}
+.d-head small{color:var(--ink3)}
+.d-head h2{margin:2px 0 4px;font-size:22px;letter-spacing:-.5px}
+.d-head .meta{font-size:14px}
+.rating-src{margin-top:6px;font-size:12px;color:var(--ink3)}
+.actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:16px 0 4px}
+.btn{height:44px;display:flex;align-items:center;justify-content:center;gap:6px;border-radius:10px;border:1px solid var(--line);background:#fff;text-decoration:none;font-weight:600;font-size:14px}
+.btn:hover{border-color:#c9ccd1}
+.btn.primary{grid-column:1/-1;background:var(--green);border-color:var(--green);color:#fff;font-size:15px}
+.btn.primary:hover{background:var(--green-d)}
+.btn.primary.done{background:#fff;color:var(--green-d);border-color:var(--green)}
+.sec{border-top:8px solid var(--bg);margin:18px -20px 0;padding:18px 20px 0}
+.sec h4{margin:0 0 10px;font-size:15.5px}
+.kv{display:grid;grid-template-columns:72px 1fr;gap:8px 10px;font-size:13.5px}
+.kv dt{color:var(--ink3)}
+.kv dd{margin:0;color:var(--ink2);white-space:pre-line;word-break:keep-all}
+.hours{margin:0;padding:0;list-style:none}
+.menu{list-style:none;margin:0;padding:0}
+.menu li{display:flex;justify-content:space-between;gap:12px;padding:8px 0;border-bottom:1px dashed var(--line);font-size:13.5px}
+.menu li:last-child{border-bottom:0}
+.menu .price{flex:none;font-weight:700}
+.kw{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.kw li{position:relative;padding:7px 10px;border-radius:8px;background:#f6f7f9;font-size:13px;display:flex;justify-content:space-between;overflow:hidden}
+.kw li i{position:absolute;inset:0 auto 0 0;background:#e3f6ea;z-index:0}
+.kw li span{position:relative}
+.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:4px}
+.gallery .ph{aspect-ratio:1/1;border-radius:6px}
+.gallery .cap{position:absolute;left:0;right:0;bottom:0;padding:14px 6px 4px;background:linear-gradient(transparent,rgba(0,0,0,.6));color:#fff;font-size:11px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.short{margin-top:8px;padding:10px 12px;border-radius:8px;background:var(--warn);color:var(--warn-ink);font-size:12.5px}
+.evidence{font-size:13px;color:var(--ink2);margin:0 0 10px}
+.links{display:flex;flex-direction:column;gap:6px}
+.links a{display:flex;justify-content:space-between;padding:10px 12px;border-radius:8px;border:1px solid var(--line);text-decoration:none;font-size:13px}
+.links a:hover{border-color:var(--green)}
+.links a span:last-child{color:var(--ink3)}
+
+/* 지도 위 요소 */
+.map-tools{position:absolute;right:14px;top:14px;display:flex;flex-direction:column;gap:8px;z-index:1}
+.map-tools button{height:38px;padding:0 14px;border-radius:19px;border:1px solid var(--line);background:#fff;box-shadow:var(--shadow);font-weight:600;font-size:13px}
+.map-msg{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:min(440px,90%);background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);padding:20px 22px;z-index:2;font-size:13.5px;color:var(--ink2);display:none}
+.map-msg.show{display:block}
+.map-msg strong{display:block;color:var(--err-ink);font-size:15px;margin-bottom:6px}
+.map-msg code{font-size:12px;background:#f3f4f6;padding:1px 5px;border-radius:4px;word-break:break-all}
+.pin{position:relative;transform:translate(-50%,-100%);display:flex;flex-direction:column;align-items:center;cursor:pointer;user-select:none}
+.pin .bub{display:flex;align-items:center;gap:6px;padding:5px 10px 5px 5px;border-radius:18px;background:#fff;border:2px solid var(--green);box-shadow:0 3px 10px rgba(0,0,0,.18);white-space:nowrap;font-size:12.5px;font-weight:700;color:var(--ink)}
+.pin .n{width:20px;height:20px;border-radius:50%;background:var(--green);color:#fff;display:grid;place-items:center;font-size:11px}
+.pin .s{color:var(--star);font-weight:700}
+.pin .tail{width:10px;height:10px;background:#fff;border-right:2px solid var(--green);border-bottom:2px solid var(--green);transform:translateY(-6px) rotate(45deg)}
+.pin .lbl{display:inline}
+.zoom-out .pin .lbl{display:none}
+.zoom-out .pin .bub{padding:5px}
+.pin.on{z-index:10}
+.pin.on .bub{background:var(--green);color:#fff;transform:scale(1.08)}
+.pin.on .n{background:#fff;color:var(--green-d)}
+.pin.on .s{color:#fff}
+.pin.on .lbl{display:inline}
+.pin.on .bub{padding:5px 10px 5px 5px}
+.pin.on .tail{background:var(--green)}
+.pin.hover .bub{border-color:var(--ink)}
+.cluster{transform:translate(-50%,-50%);min-width:46px;height:46px;padding:0 12px;border-radius:23px;background:var(--ink);color:#fff;border:3px solid #fff;box-shadow:0 3px 12px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;white-space:nowrap;cursor:pointer}
+.cluster.on{background:var(--green)}
+
+/* 내 선택 */
+.drawer{position:fixed;inset:0;z-index:30;display:none}
+.drawer.show{display:block}
+.drawer .dim{position:absolute;inset:0;background:rgba(0,0,0,.35)}
+.drawer .panel{position:absolute;right:0;top:0;bottom:0;width:min(400px,100%);background:#fff;display:flex;flex-direction:column;box-shadow:var(--shadow)}
+.drawer header{display:flex;align-items:center;justify-content:space-between;padding:16px 18px;border-bottom:1px solid var(--line)}
+.drawer header h3{margin:0;font-size:17px}
+.drawer header button{border:0;background:none;font-size:22px;line-height:1}
+.drawer .body{flex:1;overflow-y:auto;padding:16px 18px}
+.notice{padding:12px 14px;border-radius:10px;background:var(--warn);color:var(--warn-ink);font-size:13px;margin-bottom:14px}
+.picked{list-style:none;padding:0;margin:0 0 16px}
+.picked li{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
+.picked .ph{width:52px;height:52px;border-radius:8px;flex:none}
+.picked div{flex:1;min-width:0}
+.picked b{display:block;font-size:14px}
+.picked small{color:var(--ink3)}
+.picked button{border:1px solid var(--line);background:#fff;border-radius:8px;height:32px;padding:0 10px;font-size:12.5px}
+.drawer .foot{padding:14px 18px;border-top:1px solid var(--line);display:grid;gap:8px}
+.toast{position:fixed;left:50%;bottom:28px;transform:translate(-50%,20px);background:var(--ink);color:#fff;padding:10px 16px;border-radius:20px;font-size:13.5px;opacity:0;transition:.2s;z-index:60;pointer-events:none}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+
+/* 사진 확대 */
+.lb{position:fixed;inset:0;z-index:50;background:rgba(10,10,12,.94);display:none;flex-direction:column;color:#fff}
+.lb.show{display:flex}
+.lb-top{display:flex;align-items:center;justify-content:space-between;padding:14px 18px;font-size:14px}
+.lb-top button{border:0;background:none;color:#fff;font-size:26px;line-height:1;padding:4px 8px}
+.lb-stage{flex:1;position:relative;display:flex;align-items:center;justify-content:center;min-height:0;padding:0 64px}
+.lb-stage img{max-width:100%;max-height:100%;object-fit:contain;border-radius:4px}
+.lb-stage .fail{color:#ffb4ab;text-align:center}
+.lb-nav{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;border-radius:50%;border:0;background:rgba(255,255,255,.14);color:#fff;font-size:24px}
+.lb-nav:hover{background:rgba(255,255,255,.26)}
+.lb-prev{left:10px}.lb-next{right:10px}
+.lb-cap{padding:12px 18px 6px;text-align:center;font-size:13.5px;color:#d7d7db}
+.lb-cap a{color:#8fe3b0}
+.lb-strip{display:flex;gap:6px;justify-content:center;padding:8px 12px 16px;overflow-x:auto}
+.lb-strip button{flex:none;width:54px;height:54px;padding:0;border:2px solid transparent;border-radius:6px;overflow:hidden;opacity:.55;background:#333}
+.lb-strip button.on{border-color:var(--green);opacity:1}
+.lb-strip img{width:100%;height:100%;object-fit:cover}
+
+/* 모바일 */
+.mobile-back{display:none}
+@media (max-width:1100px){
+  .detail{position:absolute;left:380px;top:0;bottom:0;box-shadow:var(--shadow)}
+}
+@media (max-width:760px){
+  .top{height:54px;padding:0 12px}
+  .brand span{display:none}
+  .brand h1{font-size:16px}
+  .app{flex-direction:column;height:calc(100% - 54px)}
+  .mapwrap{flex:none;height:38vh;order:-1}
+  .list{width:auto;flex:1;min-height:0;border-right:0}
+  .detail{position:fixed;inset:0;width:auto;z-index:20;box-shadow:none}
+  .hero{height:220px}
+  .lb-stage{padding:0 8px}
+  .lb-nav{background:rgba(0,0,0,.4)}
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <div class="logo" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#fff" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.6A2.6 2.6 0 1 1 12 6.4a2.6 2.6 0 0 1 0 5.2z"/></svg></div>
+    <h1>회식 장소 고르기</h1>
+    <span id="subtitle"></span>
+  </div>
+  <div class="grow"></div>
+  <button class="pick-btn" id="openPicks" type="button">내 선택 <b id="pickCount">0</b></button>
+</header>
+
+<div class="app" id="app">
+  <section class="list" aria-label="후보 목록">
+    <div class="tools">
+      <label class="search" id="searchBox">
+        <span class="sr">후보 검색</span>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#03c75a" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="상호, 메뉴, 지역 검색 (예: 곱창, 룸)" autocomplete="off">
+        <button type="button" id="clearQ" aria-label="검색어 지우기">×</button>
+      </label>
+      <div class="chips" id="chips" role="group" aria-label="지역 필터"></div>
+      <div class="sortbar">
+        <span id="count"></span>
+        <label>정렬 <select id="sort">
+          <option value="default">기본순</option>
+          <option value="score">별점 높은순</option>
+          <option value="reviews">리뷰 많은순</option>
+        </select></label>
+      </div>
+    </div>
+    <div class="cards" id="cards"></div>
+  </section>
+
+  <section class="detail" id="detail" aria-label="식당 상세"></section>
+
+  <section class="mapwrap" aria-label="지도">
+    <div id="map"></div>
+    <div class="map-tools">
+      <button type="button" id="fitAll">전체 보기</button>
+    </div>
+    <div class="map-msg" id="mapMsg" role="alert"></div>
+  </section>
+</div>
+
+<div class="drawer" id="drawer" aria-hidden="true">
+  <div class="dim" data-close></div>
+  <div class="panel" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+    <header><h3 id="drawerTitle">내가 고른 후보</h3><button type="button" data-close aria-label="닫기">×</button></header>
+    <div class="body">
+      <div class="notice">이 선택은 <b>지금 쓰는 브라우저에만</b> 저장됩니다. 팀 전체 투표 집계는 아직 없습니다. 아래 버튼으로 문구를 복사해 단톡방에 붙여 넣어 주세요.</div>
+      <ul class="picked" id="picked"></ul>
+    </div>
+    <div class="foot">
+      <button class="btn primary" type="button" id="copyMine">내 선택 문구 복사</button>
+      <button class="btn" type="button" id="copyAll">전체 후보 목록 복사 (단톡 투표 만들기용)</button>
+    </div>
+  </div>
+</div>
+
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="사진 크게 보기">
+  <div class="lb-top"><span id="lbTitle"></span><button type="button" id="lbClose" aria-label="닫기">×</button></div>
+  <div class="lb-stage" id="lbStage">
+    <button class="lb-nav lb-prev" type="button" id="lbPrev" aria-label="이전 사진">‹</button>
+    <img id="lbImg" alt="">
+    <button class="lb-nav lb-next" type="button" id="lbNext" aria-label="다음 사진">›</button>
+  </div>
+  <div class="lb-cap" id="lbCap"></div>
+  <div class="lb-strip" id="lbStrip"></div>
+</div>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+const PLACES = /*PLACES_START*/[
+ {
+  "id": "2048789372",
+  "name": "신백옥양꼬치 경안점",
+  "naverName": "신백옥양꼬치 경안점",
+  "givenName": "신백옥양꼬치",
+  "group": "처음 후보",
+  "category": "양꼬치",
+  "area": "경안동",
+  "roadAddress": "경기 광주시 광주대로55번길 7 2층",
+  "jibunAddress": "경기 광주시 경안동 18-1",
+  "lat": 37.4115148,
+  "lng": 127.2593304,
+  "phone": "0507-1461-9319",
+  "conveniences": [
+   "단체 이용 가능",
+   "무선 인터넷",
+   "예약",
+   "남/녀 화장실 구분",
+   "유아의자",
+   "주차"
+  ],
+  "seats": [
+   {
+    "name": "룸",
+    "desc": "최소 10명 ~ 최대 12명"
+   },
+   {
+    "name": "단체석",
+    "desc": "최소 1명 ~ 최대 80명"
+   },
+   {
+    "name": "카운터석",
+    "desc": ""
+   },
+   {
+    "name": "연인석",
+    "desc": ""
+   },
+   {
+    "name": "입식",
+    "desc": ""
+   },
+   {
+    "name": "1인석",
+    "desc": ""
+   }
+  ],
+  "parking": "[경기광주맛집][경안동맛집] 신백옥양꼬치 경안점 주차 안내\n\n본 건물 주차장 최대 6대 주차 가능\n\n가게 주차장이 만차일 경우\n경안동 인쌩맥주 맞은편 디디주차장을 이용해주세요.\n\n주차 후 사진을 찍어 직원에게 보여주시면\n1시간 3,000원 주차 지원해드립니다.\n\n※ 테이블당 1대 기준\n\n저희 매장을 방문 해 주시는 모든 손님분들께 진심으로 감사드립니다.\n\n한번 방문 하시고 안오시는 매장이 아닌 가족,지인분들과 편하게 방문 하실 수 있도록 항상 최고의 서비스, 최선의 응대로 손님 한분 한분 소중하게 모시겠습니다.\n\n감사합니다!",
+  "hours": [
+   {
+    "day": "수",
+    "text": "17:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "목",
+    "text": "17:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "금",
+    "text": "17:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "토",
+    "text": "15:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "일",
+    "text": "12:00~22:00 · 라스트오더 21:00"
+   },
+   {
+    "day": "월",
+    "text": "17:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "화",
+    "text": "정기휴무 (매주 화요일)"
+   }
+  ],
+  "intro": "꿔바로우와 함께하는 즐거움",
+  "menus": [
+   {
+    "name": "양고기 손질 10시간의 차이",
+    "price": "가격 변동",
+    "recommend": false
+   },
+   {
+    "name": "고수무료",
+    "price": "무료",
+    "recommend": false
+   },
+   {
+    "name": "토마토 계란탕 무료",
+    "price": "무료",
+    "recommend": false
+   },
+   {
+    "name": "정통 오리지널 양꼬치",
+    "price": "17,000원",
+    "recommend": false
+   },
+   {
+    "name": "커플 가성비 세트(2인)",
+    "price": "58,000원",
+    "recommend": false
+   },
+   {
+    "name": "시그니처 삼색 꿔바로우",
+    "price": "25,000원",
+    "recommend": false
+   },
+   {
+    "name": "유타오",
+    "price": "5,000원",
+    "recommend": false
+   },
+   {
+    "name": "크림 뚱보샤",
+    "price": "14,000원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.91,
+   "visitorReviews": 2070,
+   "blogReviews": 557,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 1920
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 1634
+   },
+   {
+    "text": "매장이 넓어요",
+    "count": 858
+   },
+   {
+    "text": "친절해요",
+    "count": 820
+   },
+   {
+    "text": "인테리어가 멋져요",
+    "count": 623
+   }
+  ],
+  "bookingUrl": "https://m.booking.naver.com/booking/6/bizes/1604147",
+  "placeUrl": "https://map.naver.com/p/entry/place/2048789372",
+  "sources": [
+   {
+    "label": "제공된 네이버 지도 링크",
+    "url": "https://naver.me/xdj0CXxr"
+   }
+  ],
+  "matchNote": "제공된 짧은 지도 링크가 이 매장(플레이스 2048789372)으로 연결됩니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260819_246/1787143729704F5A19_JPEG/DSC08834.jpg",
+    "caption": "신백옥양꼬치 경안점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/2048789372/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260819_268/1787143729571Chi2Y_JPEG/DSC08674.jpg",
+    "caption": "신백옥양꼬치 경안점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/2048789372/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjEwMTFfMjQz/MDAxNzkxNzE1MDM4MTAx.jR0buw5pcUoxws6QkywAY2-fNtuioHbQC-1nCzVxe2kg.r19hOt0EkqopCwHTTbllMeNs8ZX-6jHDwOgc240YX6cg.JPEG/DCD91C63-C1F5-4C34-9EE0-524AC6A4B0EB.jpeg",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "Guri0",
+    "date": "2026.10.11",
+    "link": "https://m.place.naver.com/restaurant/2048789372/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA1MjZfMTYy/MDAxNzc5NzUyMDg0MDc0.1Sc1q1h-Bh-zlrC49HOwzOXGZR3hJbVUCDEJ6TAs420g.WCEnvDB1L-3i4ujE0GiSgczDdDXhUg2bIJSH01E17kUg.JPEG/IMG%EF%BC%BF8547.jpg/900x1200",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "이녜",
+    "date": "2026.05.27",
+    "link": "https://blog.naver.com/in_hye0128/224297725992"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA2MTVfMjU1/MDAxNzgxNTA4NTU5MjA4.YeI3U2n2daLduP2wy6Ca987ICt_AJ9v8vtoroXy8a7Ag.h-E0XbmRa7Lm8vyLA_bV3_yOWomxptjXdEEAIMDjFMAg.JPEG/%EC%8B%A0%EB%B0%B1%EC%98%A5_%EC%96%91%EA%BC%AC%EC%B9%98_15.jpg/2048x1702",
+    "caption": "어향육슬",
+    "kind": "방문자",
+    "author": "쭙쓰쭙쓰",
+    "date": "2026.06.15",
+    "link": "https://blog.naver.com/syj3933/224316618489"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA4MDNfMjQz/MDAxNzg1NzEzODI3MTIy.LKW_zvr6sMP75oOFRp4-ss7iFbFi56mzKfYtF71R-Ygg.T_YTcwZuAg6lqe0ISXhqcqMxfkoStOTUobSqb4_J97Ig.JPEG/IMG%EF%BC%BF3274.jpg/900x676",
+    "caption": "옥수수온면",
+    "kind": "방문자",
+    "author": "깜자도리",
+    "date": "2026.08.06",
+    "link": "https://blog.naver.com/dpfud767/224369616590"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA4MDFfMTE5/MDAxNzg1NTg1OTUzOTA5.ICMWp0zhgLWrA1-t_I73KQ4yecg9oKhTMUpfHM5QAE4g.T4MD44heKPlew1GyuH1Cp_ShV6q3ZMqk1DyTZNT6cLIg.JPEG/IMG_6278.JPG/6000x3368",
+    "caption": "꿔바로우",
+    "kind": "방문자",
+    "author": "혜스츄립",
+    "date": "2026.08.01",
+    "link": "https://blog.naver.com/joah_09/224365112252"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA1MDJfOTMg/MDAxNzc3NzA1OTE4ODgz._8-gyUvnE1x2qhOD36ZwtFgWCUfZWHkR6m2t8e0cEbwg.UUoRx4skCiHnusY2WS6dW2fZiKmKMogFz-hBxly-aLgg.PNG/image.png/750x500",
+    "caption": "향라닭날개",
+    "kind": "방문자",
+    "author": "앤디스톤",
+    "date": "2026.05.02",
+    "link": "https://blog.naver.com/and_this_stone/224272518700"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAyMDdfMTg0/MDAxNzcwNDI3NTU1ODY0.7QePssWU-ditNsnEVEI0wDrIa2XyY-wTcwURA1itLSwg.hZ8Go65K-qz614bPunkm1a7068f_mEsEmEXCsKEZ1LUg.PNG/image.png/1023x1024",
+    "caption": "양갈비",
+    "kind": "방문자",
+    "author": "mm",
+    "date": "2026.02.07",
+    "link": "https://blog.naver.com/mnadiflw/224174921737"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260528_217/177996114385173Ge7_JPEG/1eeffd2a-0a0a-4469-a825-24dbb508a1b3.jpg",
+    "caption": "양고기 손질 10시간의 차이",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/2048789372/photo"
+   }
+  ]
+ },
+ {
+  "id": "1158089499",
+  "name": "제주덕구 경기광주점",
+  "naverName": "제주덕구 경기광주점",
+  "givenName": "제주덕구",
+  "group": "처음 후보",
+  "category": "육류,고기요리",
+  "area": "경안동",
+  "roadAddress": "경기 광주시 광주대로71번길 20-22 1, 2층",
+  "jibunAddress": "경기 광주시 경안동 66-4",
+  "lat": 37.4124664,
+  "lng": 127.2584116,
+  "phone": "0507-1355-6446",
+  "conveniences": [
+   "단체 이용 가능",
+   "무선 인터넷",
+   "남/녀 화장실 구분",
+   "대기공간",
+   "예약",
+   "포장",
+   "유아의자",
+   "간편결제",
+   "주차"
+  ],
+  "seats": [
+   {
+    "name": "룸",
+    "desc": "12명 이하"
+   },
+   {
+    "name": "입식",
+    "desc": ""
+   },
+   {
+    "name": "루프탑",
+    "desc": ""
+   },
+   {
+    "name": "단체석",
+    "desc": "12명 이하"
+   }
+  ],
+  "parking": "매장 입구 앞 공터 주차장 이용 가능합니다.\n\n매장 전화문의 주시면 친절하게 답변드리겠습니다.",
+  "hours": [
+   {
+    "day": "수",
+    "text": "11:00~22:00"
+   },
+   {
+    "day": "목",
+    "text": "11:00~22:00"
+   },
+   {
+    "day": "금",
+    "text": "11:00~23:00"
+   },
+   {
+    "day": "토",
+    "text": "11:00~23:00"
+   },
+   {
+    "day": "일",
+    "text": "11:00~22:00"
+   },
+   {
+    "day": "월",
+    "text": "11:00~22:00"
+   },
+   {
+    "day": "화",
+    "text": "11:00~22:00"
+   }
+  ],
+  "intro": "직접 구워주는 편안한 고기 한 상",
+  "menus": [
+   {
+    "name": "[점심특선] 제주 생고기 김치찌개",
+    "price": "10,000원",
+    "recommend": false
+   },
+   {
+    "name": "제주오겹살(200g)",
+    "price": "19,000원",
+    "recommend": false
+   },
+   {
+    "name": "제주목살(200g)",
+    "price": "19,000원",
+    "recommend": false
+   },
+   {
+    "name": "꽃갈비살",
+    "price": "19,000원",
+    "recommend": false
+   },
+   {
+    "name": "제주산멜조림",
+    "price": "8,000원",
+    "recommend": false
+   },
+   {
+    "name": "제주항정살(160g)",
+    "price": "19,000원",
+    "recommend": false
+   },
+   {
+    "name": "제주가브리살(160g)",
+    "price": "19,000원",
+    "recommend": false
+   },
+   {
+    "name": "열무 비빔국수",
+    "price": "8,000원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.86,
+   "visitorReviews": 1432,
+   "blogReviews": 336,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 1335
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 1191
+   },
+   {
+    "text": "인테리어가 멋져요",
+    "count": 694
+   },
+   {
+    "text": "친절해요",
+    "count": 530
+   },
+   {
+    "text": "직접 잘 구워줘요",
+    "count": 323
+   }
+  ],
+  "bookingUrl": "https://m.booking.naver.com/booking/6/bizes/1331570",
+  "placeUrl": "https://map.naver.com/p/entry/place/1158089499",
+  "sources": [
+   {
+    "label": "hoshea1 블로그",
+    "url": "https://blog.naver.com/hoshea1/224430217833"
+   }
+  ],
+  "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20250228_94/1740742524284UUj4z_JPEG/DSC06715.jpg",
+    "caption": "제주덕구 경기광주점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1158089499/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20251227_78/1766773629021qKo8U_JPEG/23110.jpg",
+    "caption": "제주덕구 경기광주점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1158089499/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjEwMDlfMjQw/MDAxNzkxNDc0ODgwMjg1.jQrBu3EDDI-vj1x8eCZcj9qRf_IXucJy1BJwQzvGBuYg.9KM75T7bGGtzyEIW4cAxyn5vTl3Ip_RDRKPtFowh3kIg.JPEG/IMG%EF%BC%BF4007.jpg/900x676",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "잉정",
+    "date": "2026.10.09",
+    "link": "https://blog.naver.com/greenote_/224436027689"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA4MThfMjgg/MDAxNzg3MDMyODcyODQ3.OoA3js0EYHGtCNG8y-yMI6VpZi0VtFQbsuayt5DjT1kg.5Lw2aAs0bjF7h-l3WviNnaovUTgcSXTqNvnpvsvOMv0g.JPEG/IMG_5242.JPG/900x675",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "구름이",
+    "date": "2026.08.18",
+    "link": "https://blog.naver.com/hanyong386/224382233897"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA5MTZfNjAg/MDAxNzg5NTM3MDc4MDgy.xOhg2y-uAYfjwUSDMLMzgLUH2UCWmcyj-qEvBHR5hF8g.S40yaQK5c4-BIR_dO3Ifw8MC4oPHnrVWHsN9IbVq7mwg.JPEG/IMG%EF%BC%BF3965.JPG/900x1200",
+    "caption": "항정살",
+    "kind": "방문자",
+    "author": "니니비니",
+    "date": "2026.09.16",
+    "link": "https://blog.naver.com/ninibni/224413757523"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA5MTZfMTE1/MDAxNzg5NTM3MDc3OTQx.lTxq0RmOev39X-tISm_hiTjFor_KzKYwGgqdAU-yeyAg.H2JJZ0uztlLJuyWdsg-qsx4g-D-ZtEqj_fxMZFOqBK8g.JPEG/IMG%EF%BC%BF3963.JPG/900x1200",
+    "caption": "볶음밥",
+    "kind": "방문자",
+    "author": "니니비니",
+    "date": "2026.09.16",
+    "link": "https://blog.naver.com/ninibni/224413757523"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTEyMThfMjAw/MDAxNzY2MDU0MjY1NDgz.DxDHPz6c0pEb4U4VsT1H1iU0P7mX3oJJ8CLlB_nzsJog.NHn9PzxoNVx4PI-RnwET7QH9h7AuXLl1lBpkUiix5A8g.JPEG/60890581-EF65-4B9A-BB48-64A3A75DC464.jpeg",
+    "caption": "오겹살",
+    "kind": "방문자",
+    "author": "뽄나",
+    "date": "2025.12.17",
+    "link": "https://m.place.naver.com/restaurant/1158089499/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAxMTRfMTg0/MDAxNzY4NDAwOTk5OTk4.Nh2Cy_daLKhiBs7BgxIALstu8tDsIdForNiYd0Udprsg.T7JlVhysblNAzX-cpMc-kdH5-WH3kX3lLBrBR-BQFG4g.JPEG/IMG%EF%BC%BF0398.jpg/900x1200",
+    "caption": "김치말이국수",
+    "kind": "방문자",
+    "author": "다찌",
+    "date": "2026.01.15",
+    "link": "https://blog.naver.com/sun_ca_kr/224147207780"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTA3MjlfMjMx/MDAxNzUzNzg4MDc5NTc0.tlus9R4DMl3hK4IB_c--Dek4xF8YDYBkA4FIoWkeiRIg.Ooyyiqk68hAQmul-Ov73O-mILv2qzW5mq6MY1qrnX2Ag.JPEG/20250729_201750.jpg.jpg",
+    "caption": "찌개",
+    "kind": "방문자",
+    "author": "미르1138",
+    "date": "2025.07.29",
+    "link": "https://m.place.naver.com/restaurant/1158089499/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260809_209/1786274389793YcOnS_JPEG/1000000252.jpg",
+    "caption": "[점심특선] 제주 생고기 김치찌개",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1158089499/photo"
+   }
+  ]
+ },
+ {
+  "id": "1943239597",
+  "name": "고반식당 광주경안점",
+  "naverName": "고반식당 광주경안점",
+  "givenName": "고반",
+  "group": "처음 후보",
+  "category": "육류,고기요리",
+  "area": "역동",
+  "roadAddress": "경기 광주시 중앙로 95-11 2호동 1층",
+  "jibunAddress": "경기 광주시 역동 8-31",
+  "lat": 37.4079046,
+  "lng": 127.258275,
+  "phone": "0507-1386-1540",
+  "conveniences": [
+   "단체 이용 가능",
+   "예약",
+   "남/녀 화장실 구분",
+   "무선 인터넷",
+   "주차"
+  ],
+  "seats": [
+   {
+    "name": "룸",
+    "desc": "최소 6명 ~ 최대 18명"
+   },
+   {
+    "name": "단체석",
+    "desc": "최소 2명 ~ 최대 108명"
+   }
+  ],
+  "parking": "고반식당광주경안점 주차안내 입니다\n\n*주차타워- 광주 중앙로 95-11\n2시간 무료 / 이후 30분당 1000원\n오후 9시까지 이용가능 대형차랑(산타페 ,카니발 등) 이용불가\n\n☆ 매장 건물에 위치 하여 편리하고\n일찍 도착하시는 분들이 사용하시기에 편합니다\n\n*경안시장 공영주차장- 광주 중앙로 103-5\n1시간30분 무료 이후 10분당 300원\n12시까지 가능 1일 최대 7000원 / 평일 주말 모두 이용가능 차종무관\n\n☆주차장에서 새마을금고 사잇길로 1분거리\n 차종 요일 제약이 없어 많이 이용하십니다\n\n*새빛주차장-역동 15-19\n 1시간30분 무료 이후 10분당 500원\n오후 6시-10시 1일 최대 30,000원 / 평일 저녁만 가능 차종무관\n\n☆주차장에서 2분거리\n평일 저녁에만 사용 가능 합니다",
+  "hours": [
+   {
+    "day": "수",
+    "text": "16:00~23:00 · 라스트오더 22:30"
+   },
+   {
+    "day": "목",
+    "text": "16:00~23:00 · 라스트오더 22:30"
+   },
+   {
+    "day": "금",
+    "text": "16:00~23:00 · 라스트오더 22:30"
+   },
+   {
+    "day": "토",
+    "text": "12:00~23:00 · 라스트오더 22:30"
+   },
+   {
+    "day": "일",
+    "text": "12:00~23:00 · 라스트오더 22:30"
+   },
+   {
+    "day": "월",
+    "text": "16:00~23:00 · 라스트오더 22:30"
+   },
+   {
+    "day": "화",
+    "text": "16:00~23:00 · 라스트오더 22:30"
+   }
+  ],
+  "intro": "",
+  "menus": [
+   {
+    "name": "한마리모둠",
+    "price": "118,000원",
+    "recommend": false
+   },
+   {
+    "name": "패밀리모둠",
+    "price": "85,000원",
+    "recommend": false
+   },
+   {
+    "name": "커플모둠",
+    "price": "52,000원",
+    "recommend": false
+   },
+   {
+    "name": "스페셜 한우 모둠",
+    "price": "135,000원",
+    "recommend": false
+   },
+   {
+    "name": "명품 숙성 생삼겹살",
+    "price": "16,000원",
+    "recommend": false
+   },
+   {
+    "name": "숙성생목살",
+    "price": "16,000원",
+    "recommend": false
+   },
+   {
+    "name": "명품 돈치맛살 (항정살)",
+    "price": "18,000원",
+    "recommend": false
+   },
+   {
+    "name": "엄선한 등심덧살(가브리살)",
+    "price": "17,000원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.93,
+   "visitorReviews": 3832,
+   "blogReviews": 443,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 3277
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 2965
+   },
+   {
+    "text": "친절해요",
+    "count": 1671
+   },
+   {
+    "text": "직접 잘 구워줘요",
+    "count": 1631
+   },
+   {
+    "text": "매장이 넓어요",
+    "count": 1487
+   }
+  ],
+  "bookingUrl": "https://m.booking.naver.com/booking/6/bizes/896515",
+  "placeUrl": "https://map.naver.com/p/entry/place/1943239597",
+  "sources": [
+   {
+    "label": "seohoun98 블로그",
+    "url": "https://blog.naver.com/seohoun98/224329238891"
+   }
+  ],
+  "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20250917_115/1758121039921JjI0S_GIF/ezgif.com-optimize_%B9%F6%C0%FC_3.gif",
+    "caption": "고반식당 광주경안점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1943239597/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20240312_166/1710214920257mFi2P_JPEG/18.jpg",
+    "caption": "고반식당 광주경안점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1943239597/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjEwMDVfMTU2/MDAxNzkxMTk5MzA5OTQ5.h9qriSM41Y_vUe3n4R6ComXmjQRrsKOZJCrUm-_exYgg.aVg9eHucgFMApfz59_Y7v0tdla5go8fFOXrrt3J4IUIg.JPEG/37186C10-532A-4C97-A806-FB02B2D19783.jpeg",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "mumuKim",
+    "date": "2026.10.05",
+    "link": "https://m.place.naver.com/restaurant/1943239597/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA0MTJfMTUg/MDAxNzc1OTg0ODMyMjEw.1kYTY9NIFo-5RWJLOmcDyvUvQz_fAwFkXVCsAoDK_cAg.8uPb7OMKywUQNrfCf6173BdN21FCacaKz3KjFk4ctLMg.JPEG/20260412_180658.jpg/4000x3000",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "제이로",
+    "date": "2026.04.16",
+    "link": "https://blog.naver.com/unilv3/224254927684"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA0MTNfMjA5/MDAxNzc2MDUxNjQ3MTY1.x5ZAyVxeqChItmISpWUIIsUSYLJiNCE3ecyjAwEZ1CIg.kD9w_LRCRwCoLrUiZRc6C1VPjXCmECAxYLf204BGb8Mg.JPEG/IMG%EF%BC%BF8876.jpg/676x676",
+    "caption": "계란찜",
+    "kind": "방문자",
+    "author": "예룽",
+    "date": "2026.04.15",
+    "link": "https://blog.naver.com/dudpfls123/224252861849"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjA0MTRfMjU1/MDAxNzc2MTM3OTc2NzA4.GWW27ZwigZ533kyXGvyg--I5J9po5MLoIEaxV_ItrREg.o7LfY_gZlfGiyk6JGBxt5f8zlm2MtxIls57FBOJRmiQg.JPEG/IMG_8858.jpeg",
+    "caption": "삼겹살",
+    "kind": "방문자",
+    "author": "옐링0",
+    "date": "2026.04.12",
+    "link": "https://m.place.naver.com/restaurant/1943239597/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA2MjlfMTI1/MDAxNzgyNzM4Nzg3MjEy.6lKpJhuO0Nx8Bt9geO3tttdZvvPDBV28cCicTy4c1e8g._2DQdnySb2R42EAihbqe0KLfObFHc9zeBlWr-LB-0pog.JPEG/R3010647.JPG/4800x3200",
+    "caption": "냉면",
+    "kind": "방문자",
+    "author": "헬로바",
+    "date": "2026.07.01",
+    "link": "https://blog.naver.com/ssk1207p/224333122441"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTA5MjdfNTQg/MDAxNzU4OTY3NTk0OTQ2.t3Q0wxOw7pvKXQUcOzo3gYNZ2Zjy8w4NtwkcslNRurog.bgNvCfVB66fj6L-20ABUf6YFpK59DrqQe2ZiFZYV5wsg.JPEG/20250927_184004.jpg.jpg",
+    "caption": "찌개",
+    "kind": "방문자",
+    "author": "주영의 Riding Table",
+    "date": "2025.09.27",
+    "link": "https://m.place.naver.com/restaurant/1943239597/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAzMjlfMjg1/MDAxNzc0NzgwNDk0NTgx.LQG4W5dAmdIDcFY6-2kJVt-xlyJCkXVeqvsiMjfJL5Eg.JZx_AHnEgyY6NTHXyfj3s_-sAKm_NZRXuHHLnYRRYMUg.JPEG/IMG%EF%BC%BF3305.jpg/900x1200",
+    "caption": "돼지껍데기",
+    "kind": "방문자",
+    "author": "밥상히",
+    "date": "2026.04.02",
+    "link": "https://blog.naver.com/dydrms9004/224238265513"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260619_202/17818462714803MHq7_JPEG/%B3%D7%C0%CC%B9%F6_1080_%C7%D1%B8%B6%B8%AE_%B8%F0%B5%D2.jpg",
+    "caption": "한마리모둠",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1943239597/photo"
+   }
+  ]
+ },
+ {
+  "id": "1817041375",
+  "name": "초월상회",
+  "naverName": "초월상회",
+  "givenName": "초월상회",
+  "group": "처음 후보",
+  "category": "육류,고기요리",
+  "area": "초월읍",
+  "roadAddress": "경기 광주시 초월읍 경충대로 892-9 초월상회",
+  "jibunAddress": "경기 광주시 초월읍 산이리 80-5",
+  "lat": 37.3634121,
+  "lng": 127.3149728,
+  "phone": "031-762-6389",
+  "conveniences": [
+   "예약",
+   "남/녀 화장실 구분",
+   "단체 이용 가능",
+   "유아의자",
+   "간편결제",
+   "주차",
+   "반려동물 동반"
+  ],
+  "seats": [
+   {
+    "name": "룸",
+    "desc": "최소 10명 ~ 최대 16명"
+   }
+  ],
+  "parking": "",
+  "hours": [
+   {
+    "day": "수",
+    "text": "16:00~22:00 · 라스트오더 21:10"
+   },
+   {
+    "day": "목",
+    "text": "16:00~22:00 · 라스트오더 21:10"
+   },
+   {
+    "day": "금",
+    "text": "16:00~22:00 · 라스트오더 21:10"
+   },
+   {
+    "day": "토",
+    "text": "12:00~22:00 · 라스트오더 21:10"
+   },
+   {
+    "day": "일",
+    "text": "12:00~22:00 · 라스트오더 21:10"
+   },
+   {
+    "day": "월",
+    "text": "정기휴무 (매주 월요일)"
+   },
+   {
+    "day": "화",
+    "text": "16:00~22:00 · 라스트오더 21:10"
+   }
+  ],
+  "intro": "소 살치살의 부드러움과 갈비살의 풍미",
+  "menus": [
+   {
+    "name": "오겹살",
+    "price": "17,000원",
+    "recommend": false
+   },
+   {
+    "name": "목살",
+    "price": "17,000원",
+    "recommend": false
+   },
+   {
+    "name": "가브리살",
+    "price": "21,000원",
+    "recommend": false
+   },
+   {
+    "name": "항정살",
+    "price": "23,000원",
+    "recommend": false
+   },
+   {
+    "name": "낙엽살",
+    "price": "13,000원",
+    "recommend": false
+   },
+   {
+    "name": "소 꽃살",
+    "price": "35,900원",
+    "recommend": false
+   },
+   {
+    "name": "소 살치살",
+    "price": "27,900원",
+    "recommend": false
+   },
+   {
+    "name": "소 갈비살",
+    "price": "23,900원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.4,
+   "visitorReviews": 351,
+   "blogReviews": 128,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 200
+   },
+   {
+    "text": "친절해요",
+    "count": 111
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 63
+   },
+   {
+    "text": "주차하기 편해요",
+    "count": 60
+   },
+   {
+    "text": "재료가 신선해요",
+    "count": 57
+   }
+  ],
+  "bookingUrl": "",
+  "placeUrl": "https://map.naver.com/p/entry/place/1817041375",
+  "sources": [],
+  "matchNote": "링크 없이 상호만 제공되어 네이버 플레이스 검색으로 찾았습니다. 경기광주에서 같은 이름의 음식점은 이 한 곳입니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20230402_269/1680411045357lE2Hj_JPEG/B93756C3-ABB6-4420-9218-AA77D74938B6.jpeg",
+    "caption": "초월상회",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1817041375/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20230402_252/1680411045021Oq774_JPEG/0203D254-75CE-4D9B-92E1-69EF0D87B55F.jpeg",
+    "caption": "초월상회",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1817041375/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA1MDJfMTE0/MDAxNzc3NzA1NzczNTk2.63AzLIw1K2OyjZ_fkr5hG8eBq_GvF1d07CEs5E53Vmcg.v4zhax7XhzhEk0y2dgZVj8qE4be2wbVcpTUn3luPFqwg.JPEG/20260426_173155.jpg/1080x810",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "시원e맘",
+    "date": "2026.05.02",
+    "link": "https://blog.naver.com/sujong0720/224272508746"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjAyMDJfOTAg/MDAxNzcwMDQyOTIwNzc5.gxVMNTqKJP9JIpWUO-kMmHkxcjRhU5V1uN4YS0q6_pUg.pXNF1Yh-v5Lb1IMGmCO5ZHfI_3_Ggdqo22JLzm0NVQYg.JPEG/20260131_154606.jpg.jpg",
+    "caption": "항정살",
+    "kind": "방문자",
+    "author": "쑤기바옹",
+    "date": "2026.01.31",
+    "link": "https://m.place.naver.com/restaurant/1817041375/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA1MDJfMjM4/MDAxNzc3NzA1NzcyNzU1.4OYPMF_ok-zpkaQy_oD0lEPqODI_RbkVKq2JwjD2KcYg.VyeDBUZls1-lUfxLZ6P_I3vcz5jBV5dsIPAvaz0i3Lwg.JPEG/20260426_173148.jpg/1080x810",
+    "caption": "찌개",
+    "kind": "방문자",
+    "author": "시원e맘",
+    "date": "2026.05.02",
+    "link": "https://blog.naver.com/sujong0720/224272508746"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA0MjdfMjk0/MDAxNzc3MjczOTc0NzQ5.wagT8KfcAbet293glnf0MPfU8oOkKEEMLfI9-tPW59cg.eZenJjNIW7jnNRReeoPBwLpZabpOb7YdM_GVqdW4XwIg.JPEG/900_20260426_153516.jpg/900x900",
+    "caption": "외부",
+    "kind": "방문자",
+    "author": "Hee",
+    "date": "2026.04.27",
+    "link": "https://blog.naver.com/dtgdtg1222/224266975242"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA2MTNfMTMx/MDAxNzgxMzExMDI5MTg3.Gr_wydMP0dVepjzMVcZKI2Jx9Cd_SiQfJAeNfhx8kRQg.lpsGpHOoNWc1OXmVk2vWReXX8_2uPbuiuHYrvANVs9Yg.JPEG/550_20260523_210515.jpg/550x733",
+    "caption": "",
+    "kind": "방문자",
+    "author": "민통통",
+    "date": "2026.06.13",
+    "link": "https://blog.naver.com/mmmiinj_/224314619378"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA2MDVfMTc0/MDAxNzgwNjQ2OTY4NDI0.qa0HNdkdlV-QOFPpC9sqx00bE3PTEnLCOr37i_Q9sM4g.jARLM7dbqt_ZfVnlugQ65F4mCSDgamReCu8eG7gulE4g.JPEG/550_20260523_184041.jpg/550x733",
+    "caption": "",
+    "kind": "방문자",
+    "author": "민통통",
+    "date": "2026.06.13",
+    "link": "https://blog.naver.com/mmmiinj_/224314619378"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20241001_294/1727756965457TxBaO_JPEG/IMG_5834.jpeg",
+    "caption": "오겹살",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1817041375/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260916_245/1789545834484URIxC_JPEG/7619AED8-5083-4207-A0D4-FD394BFE509B.jpg",
+    "caption": "메뉴판",
+    "kind": "업체 등록 메뉴판",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1817041375/photo"
+   }
+  ]
+ },
+ {
+  "id": "1995663191",
+  "name": "삼본식당 곤지암본점",
+  "naverName": "삼본식당 곤지암본점",
+  "givenName": "삼본식당",
+  "group": "경안동 후보",
+  "category": "한식",
+  "area": "도척면",
+  "roadAddress": "경기 광주시 도척면 도척윗로 205 1층",
+  "jibunAddress": "경기 광주시 도척면 궁평리 543-4",
+  "lat": 37.3366573,
+  "lng": 127.3197183,
+  "phone": "0507-1340-2209",
+  "conveniences": [
+   "단체 이용 가능",
+   "포장",
+   "예약",
+   "유아의자",
+   "무선 인터넷",
+   "남/녀 화장실 구분",
+   "배달",
+   "대기공간",
+   "간편결제",
+   "주차"
+  ],
+  "seats": [
+   {
+    "name": "단체석",
+    "desc": "최소 2명 ~ 최대 40명"
+   },
+   {
+    "name": "입식",
+    "desc": ""
+   },
+   {
+    "name": "룸",
+    "desc": "10명 이하"
+   }
+  ],
+  "parking": "매장 앞 30대 이상 동시 주차 가능. 매장 앞 뿐만 아니라 옆 매장인 '대가 부대찌개'의 주차장도 편하게 이용해주세요.",
+  "hours": [
+   {
+    "day": "수",
+    "text": "11:00~21:00 (브레이크 15:30~17:00) · 라스트오더 14:30, 20:00"
+   },
+   {
+    "day": "목",
+    "text": "11:00~21:00 (브레이크 15:30~17:00) · 라스트오더 14:30, 20:00"
+   },
+   {
+    "day": "금(10/16)",
+    "text": "11:00~22:00 (브레이크 12:00~17:00)"
+   },
+   {
+    "day": "토",
+    "text": "11:00~21:00 (브레이크 15:30~17:00) · 라스트오더 14:30, 20:00"
+   },
+   {
+    "day": "일",
+    "text": "11:00~21:00 (브레이크 15:30~17:00) · 라스트오더 14:30, 20:00"
+   },
+   {
+    "day": "월",
+    "text": "정기휴무 (매주 월요일)"
+   },
+   {
+    "day": "화",
+    "text": "11:00~21:00 (브레이크 15:30~17:00) · 라스트오더 14:30, 20:00"
+   }
+  ],
+  "intro": "화담숲 나들이의 필수 코스",
+  "menus": [
+   {
+    "name": "하루100인분 한정 매운등갈비찜",
+    "price": "16,000원",
+    "recommend": false
+   },
+   {
+    "name": "정통 마라소스 마라등갈비찜",
+    "price": "17,000원",
+    "recommend": false
+   },
+   {
+    "name": "갈비찜에 넣어먹는 육즙가득 물만두튀김",
+    "price": "무료",
+    "recommend": false
+   },
+   {
+    "name": "매운등갈비 밀키트 (1인)",
+    "price": "16,000원",
+    "recommend": false
+   },
+   {
+    "name": "해발800m 정선 곤드레솥밥",
+    "price": "4,000원",
+    "recommend": false
+   },
+   {
+    "name": "맵지않고 달콤 부드러운 양념갈비",
+    "price": "13,000원",
+    "recommend": false
+   },
+   {
+    "name": "농장직송 초신선 유정란 폭탄계란찜",
+    "price": "5,000원",
+    "recommend": false
+   },
+   {
+    "name": "36cm 대왕 메밀배추전",
+    "price": "5,000원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.91,
+   "visitorReviews": 2319,
+   "blogReviews": 2095,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 1855
+   },
+   {
+    "text": "친절해요",
+    "count": 1030
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 931
+   },
+   {
+    "text": "매장이 청결해요",
+    "count": 815
+   },
+   {
+    "text": "가성비가 좋아요",
+    "count": 654
+   }
+  ],
+  "bookingUrl": "https://m.booking.naver.com/booking/6/bizes/1259126",
+  "placeUrl": "https://map.naver.com/p/entry/place/1995663191",
+  "sources": [
+   {
+    "label": "syol07 블로그",
+    "url": "https://m.blog.naver.com/syol07/224365902789"
+   }
+  ],
+  "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다. 제공하신 메모대로 경안동이 아니라 도척면(곤지암)에 있습니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260622_165/1782128046721ytuGY_JPEG/%B0%A5%BA%F1%C2%F2_%C0%B0%BC%F6%BA%D7%B4%C2_%C4%C6.jpg",
+    "caption": "삼본식당 곤지암본점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1995663191/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260917_59/1789628441604IbNoe_JPEG/%B8%B8%BC%AE%BB%E7%C1%F82.jpg",
+    "caption": "삼본식당 곤지암본점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1995663191/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjEwMTJfMTQg/MDAxNzkxODA4NTUwMDI4.cm5heqT_rvvAENc6wfm8Gls9ICLglqTCpruKrbfdfF4g.GbgJ6C1YC5S2WdePDpeW5PCf7IGNb0fwUKl8rL5YMJ4g.JPEG/IMG%EF%BC%BF5953.JPG/900x676",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "핸지",
+    "date": "2026.10.12",
+    "link": "https://blog.naver.com/haenzzzi/224439488050"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA4MTRfMTE1/MDAxNzg2NjY4MjEyOTQz.Qjxdawue03vzC7fW0RMA3ESU2jvXEEXkc-BmcLCRoQ8g.I-BbQyp7SASK6WYToISqD71751MiKAcZPcjgAhqgl3kg.JPEG/20260603_125642.jpg/4000x3000",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "시원e맘",
+    "date": "2026.08.14",
+    "link": "https://blog.naver.com/sujong0720/224378220184"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjA3MDdfOCAg/MDAxNzgzNDAxOTUxMTky.jL6PBiDoTLTemtSPIic3G5SVb47YNjFwrzw-HEYAfuog.4i5krE6d_NMOzZxhE07bX9fFUrHCHCLiucbt5pBQUvsg.JPEG/20260707_113720.jpg.jpg",
+    "caption": "계란찜",
+    "kind": "방문자",
+    "author": "땡땡69",
+    "date": "2026.07.07",
+    "link": "https://m.place.naver.com/restaurant/1995663191/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjEwMTJfMjI2/MDAxNzkxODA4MzkxODQ4.RfzHf10rtk98MsHZMf1_stMQtAUJKdSLzo7sLo80IUMg.Mu5D1kWhH8YJ9UtHQhOrsF6brkvvLreQ509t9pAzZq0g.JPEG/IMG%EF%BC%BF5968.JPG/900x676",
+    "caption": "외부",
+    "kind": "방문자",
+    "author": "핸지",
+    "date": "2026.10.12",
+    "link": "https://blog.naver.com/haenzzzi/224439488050"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjEwMTJfMTU1/MDAxNzkxODA4MjI0MTQ5.jCQXDGZpRJ0SaCHIW_C9w3xfT1Lz4KFNjMozBk0Rdckg.ZlV2kk-rV0PPj8xFXHsPxLPsaqwQeB-jouOZ3dEGR4Eg.JPEG/IMG%EF%BC%BF5951.JPG/680x424",
+    "caption": "메뉴판",
+    "kind": "방문자",
+    "author": "핸지",
+    "date": "2026.10.12",
+    "link": "https://blog.naver.com/haenzzzi/224439488050"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjEwMTNfMTY5/MDAxNzkxODg5MTQxMTI2.Z8ai8X0k9XAObiYVzK1KEImhkVMJUKJz9yLiDspTIZwg.tMlirehMo0fHTwgjaMbcGGmyLc384zETRolC86do1oUg.JPEG/20261013_194801.jpg.jpg",
+    "caption": "방문자리뷰",
+    "kind": "방문자",
+    "author": "조드루",
+    "date": "2026.10.13",
+    "link": "https://m.place.naver.com/restaurant/1995663191/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260622_200/1782131616695CYzXN_JPEG/%B0%A5%BA%F1%C2%F2_%C0%B0%BC%F6%BA%D7%B4%C2_%C4%C6.jpg",
+    "caption": "하루100인분 한정 매운등갈비찜",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1995663191/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260622_197/17821316114387LgMA_JPEG/%B5%EE%B0%A5%BA%F1%B5%E9%BE%EE%BF%C3%B8%AE%B4%C2_%C4%C6.jpg",
+    "caption": "하루100인분 한정 매운등갈비찜",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1995663191/photo"
+   }
+  ]
+ },
+ {
+  "id": "1995250951",
+  "name": "군자대한곱창 광주경안점",
+  "naverName": "군자대한곱창 광주경안점",
+  "givenName": "군자대한곱창",
+  "group": "경안동 후보",
+  "category": "곱창,막창,양",
+  "area": "경안동",
+  "roadAddress": "경기 광주시 광주대로55번길 7 1층",
+  "jibunAddress": "경기 광주시 경안동 18-1",
+  "lat": 37.4115438,
+  "lng": 127.2593942,
+  "phone": "",
+  "conveniences": [
+   "단체 이용 가능",
+   "포장",
+   "예약",
+   "무선 인터넷",
+   "유아의자",
+   "간편결제",
+   "주차"
+  ],
+  "seats": [
+   {
+    "name": "단체석",
+    "desc": "최소 12명 ~ 최대 30명"
+   }
+  ],
+  "parking": "",
+  "hours": [
+   {
+    "day": "수",
+    "text": "16:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "목",
+    "text": "16:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "금",
+    "text": "14:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "토",
+    "text": "14:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "일",
+    "text": "14:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "월",
+    "text": "16:00~01:00 · 라스트오더 00:00"
+   },
+   {
+    "day": "화",
+    "text": "16:00~01:00 · 라스트오더 00:00"
+   }
+  ],
+  "intro": "",
+  "menus": [
+   {
+    "name": "한우모둠곱창",
+    "price": "24,900원",
+    "recommend": false
+   },
+   {
+    "name": "대한모둠곱창",
+    "price": "21,900원",
+    "recommend": false
+   },
+   {
+    "name": "한우소곱창",
+    "price": "22,900원",
+    "recommend": false
+   },
+   {
+    "name": "한우소대창",
+    "price": "19,900원",
+    "recommend": false
+   },
+   {
+    "name": "소곱창",
+    "price": "18,900원",
+    "recommend": false
+   },
+   {
+    "name": "소막창",
+    "price": "18,900원",
+    "recommend": false
+   },
+   {
+    "name": "특양구이",
+    "price": "20,900원",
+    "recommend": false
+   },
+   {
+    "name": "한우곱창전골",
+    "price": "14,900원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.88,
+   "visitorReviews": 1171,
+   "blogReviews": 1331,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 1137
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 631
+   },
+   {
+    "text": "친절해요",
+    "count": 566
+   },
+   {
+    "text": "양이 많아요",
+    "count": 314
+   },
+   {
+    "text": "매장이 청결해요",
+    "count": 310
+   }
+  ],
+  "bookingUrl": "",
+  "placeUrl": "https://map.naver.com/p/entry/place/1995250951",
+  "sources": [
+   {
+    "label": "kiran1025 블로그",
+    "url": "https://blog.naver.com/kiran1025/224235756177"
+   }
+  ],
+  "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다. 신백옥양꼬치 경안점과 같은 건물(1층)입니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260311_170/17731944088765n2cR_PNG/%BF%AC%C3%E2%281%29.png",
+    "caption": "군자대한곱창 광주경안점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1995250951/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260311_258/1773194424302UWQ0c_PNG/%BF%AC%C3%E2%282%29.png",
+    "caption": "군자대한곱창 광주경안점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1995250951/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA5MjJfMjQ5/MDAxNzkwMDMyNDkxNDYx.-xNN-MHGKQl9BDGisRoUGyIuNCJqNjEa86sevrwlkXog.4p2g1-WzFvqr2okG57kK3D1l55sjGZ1YVJR_k5i8Cp0g.JPEG/900_20260921_192602.jpg/900x1200",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "호호님",
+    "date": "2026.09.25",
+    "link": "https://blog.naver.com/ej6316448/224422387797"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjAyMTBfMTkz/MDAxNzcwNjUzMjE0MzAw.cZUGjjKGZgogOumVAFR8RX5g5jCIBlPlxTEXXCIjMEMg.i_5wnhyNmAmLeZLiYtwRwT9UrnwGe6XvRX2h_2aVp34g.JPEG/1000066983.jpg.jpg",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "amy****",
+    "date": "2026.02.10",
+    "link": "https://m.place.naver.com/restaurant/1995250951/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTEwMDNfMjkg/MDAxNzU5NDY4OTgwMDgy.A6xKdg4HOm-GYaIdUjDGa3dxu4borNCPeis4K4t8ZAog.1xwGweKuTqzRqqQgp3SPW36cFi6h_io5BWoSXfBiBvUg.JPEG/18ECF84E-F127-4559-8C49-C834C2BFB451.jpeg",
+    "caption": "곱창",
+    "kind": "방문자",
+    "author": "Salty",
+    "date": "2025.10.03",
+    "link": "https://m.place.naver.com/restaurant/1995250951/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjA2MDVfMTc5/MDAxNzgwNjU1OTc0NjI1.Yf5jxmaauK-_oz1xtHRp872Kvn-499zFCNwiktaw8qcg.qofaVytjIMw9LPGR1jNbJ0x0nM9DWapvB7bwWphdGFwg.JPEG/1000045926.jpg.jpg",
+    "caption": "계란찜",
+    "kind": "방문자",
+    "author": "주영의 Riding Table",
+    "date": "2026.06.05",
+    "link": "https://m.place.naver.com/restaurant/1995250951/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTA3MDFfMTM1/MDAxNzUxMzU3MTMzNTYz.GQQIKY4L2ul8EzeBXnRL8dMF7gfi2y3MVSk2F3FBtjMg.HbWh_gmfwg2pKbem_8xl0uFkbkpOIOhTNcNbvJ151qwg.JPEG/1000041388.jpg.jpg",
+    "caption": "김치말이국수",
+    "kind": "방문자",
+    "author": "장군평강맘",
+    "date": "2025.07.01",
+    "link": "https://m.place.naver.com/restaurant/1995250951/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNTEwMTZfMTk2/MDAxNzYwNTcyNjY5ODU1.IicUcNL1gp5UquX4og_a90TVaxkEqHxzhHAMwjxHz4sg.Wa0qYMjakMX_WOCdvfVoRIQJXgoJv7BoArrXGxXgl1cg.JPEG/IMG%EF%BC%BF2793.jpg/900x1200",
+    "caption": "전골",
+    "kind": "방문자",
+    "author": "밥상히",
+    "date": "2025.10.22",
+    "link": "https://blog.naver.com/dydrms9004/224049866823"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAzMzFfMTM2/MDAxNzc0OTMyMDkxNjQy.zGHqueG3Ohxuc95C9pkq36UzpVzJOpMclGl9D7s8OHAg.Nmv7VFiDAp6ALYZnMAK_-IzjHTspzL53dOl4hn3kBRog.JPEG/KakaoTalk_20260331_112327168.jpg/1566x881",
+    "caption": "대창",
+    "kind": "방문자",
+    "author": "기란",
+    "date": "2026.04.08",
+    "link": "https://blog.naver.com/kiran1025/224235756177"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260311_282/1773193186285JqUso_PNG/%C7%D1%BF%EC%B8%F0%B5%D2%B0%F6%C3%A2%281%29.png",
+    "caption": "한우모둠곱창",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1995250951/photo"
+   }
+  ]
+ },
+ {
+  "id": "1293381603",
+  "name": "고굽연구소",
+  "naverName": "고굽연구소",
+  "givenName": "고굽연구소",
+  "group": "경안동 후보",
+  "category": "육류,고기요리",
+  "area": "경안동",
+  "roadAddress": "경기 광주시 경안로41번길 7-7 1층",
+  "jibunAddress": "경기 광주시 경안동 36-18",
+  "lat": 37.4092866,
+  "lng": 127.2567853,
+  "phone": "0507-1418-5997",
+  "conveniences": [
+   "단체 이용 가능",
+   "무선 인터넷",
+   "예약",
+   "남/녀 화장실 구분",
+   "유아의자",
+   "주차"
+  ],
+  "seats": [
+   {
+    "name": "입식",
+    "desc": ""
+   },
+   {
+    "name": "단체석",
+    "desc": "최소 4명 ~ 최대 22명"
+   },
+   {
+    "name": "테라스",
+    "desc": ""
+   }
+  ],
+  "parking": "매장 앞 3대 주차 가능합니다. 매장 앞 자리가 없을 시\n경안시장 공영주차장 이용해 주시면 감사드리겠습니다.\n*주차권은 테이블 당 1대 지원해 드리고 있습니다.",
+  "hours": [
+   {
+    "day": "수",
+    "text": "11:40~22:30 · 라스트오더 21:25"
+   },
+   {
+    "day": "목",
+    "text": "11:40~22:30 · 라스트오더 21:25"
+   },
+   {
+    "day": "금",
+    "text": "11:40~22:30 · 라스트오더 21:25"
+   },
+   {
+    "day": "토",
+    "text": "10:40~22:30 · 라스트오더 21:25"
+   },
+   {
+    "day": "일",
+    "text": "10:40~22:30 · 라스트오더 21:25"
+   },
+   {
+    "day": "월",
+    "text": "11:40~22:30 · 라스트오더 21:25"
+   },
+   {
+    "day": "화",
+    "text": "11:40~22:30 · 라스트오더 21:25"
+   }
+  ],
+  "intro": "훈연향 가득한 육즙 머금은 숙성 고기",
+  "menus": [
+   {
+    "name": "숙성 소갈비살 250g",
+    "price": "23,000원",
+    "recommend": false
+   },
+   {
+    "name": "숙성 살치살 250g",
+    "price": "33,500원",
+    "recommend": false
+   },
+   {
+    "name": "숙성 LA갈비 250g",
+    "price": "23,500원",
+    "recommend": false
+   },
+   {
+    "name": "숙성 오겹살 250g",
+    "price": "19,500원",
+    "recommend": false
+   },
+   {
+    "name": "숙성 등심덧살 250g",
+    "price": "20,000원",
+    "recommend": false
+   },
+   {
+    "name": "숙성 항정살 250g",
+    "price": "20,000원",
+    "recommend": false
+   },
+   {
+    "name": "숙성 갈매기살 250g",
+    "price": "20,000원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.92,
+   "visitorReviews": 1578,
+   "blogReviews": 3896,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 1170
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 991
+   },
+   {
+    "text": "친절해요",
+    "count": 599
+   },
+   {
+    "text": "특별한 메뉴가 있어요",
+    "count": 446
+   },
+   {
+    "text": "양이 많아요",
+    "count": 403
+   }
+  ],
+  "bookingUrl": "https://m.booking.naver.com/booking/6/bizes/1446578",
+  "placeUrl": "https://map.naver.com/p/entry/place/1293381603",
+  "sources": [
+   {
+    "label": "niningssu 블로그",
+    "url": "https://m.blog.naver.com/niningssu/222420187141"
+   }
+  ],
+  "matchNote": "블로그 본문에 첨부된 지도가 이 매장입니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260612_82/1781230053433xjnwL_JPEG/DSC05199.jpg",
+    "caption": "고굽연구소",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260612_275/1781230053662yTBp5_JPEG/DSC05027.jpg",
+    "caption": "고굽연구소",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjEwMTFfMjky/MDAxNzkxNjgzNTU4NTg4.SzQVa_1cNBcbqNSz7P8VIsCPzju4ddB1GwCTTERatrog.gk-2S4lSJAJlEtMileAAu3m1ooTxWSUsGUa3sUB4e60g.JPEG/20261005_164955.jpg/2576x1679",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "미세스조",
+    "date": "2026.10.11",
+    "link": "https://blog.naver.com/mrszo/224437834012"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTEyMTVfOTkg/MDAxNzY1NzY4MDQ2NTY1.I7L4GfKKGqkEzYe2HvmWPEUi6oB3MBvfZynwRDCckTQg.Q1-W1IAzxOVJHp5bzNyEkc3ZAX7fZK4g3P256FgqGbUg.JPEG/20251212_135522.jpg.jpg",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "알하나야채하나",
+    "date": "2025.12.12",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA4MTVfNDAg/MDAxNzg2NzYzOTA2ODgz.Xj4EmrkZ_X1Arm-yt8ddCiWv-Os2IygjaYrcvbQ_xKUg.vOyyg7dBDGpK6iGn5ixQqgGbigBpdh7oBV8aTfhcRNYg.JPEG/IMG_6491.JPG/6000x3368",
+    "caption": "항정살",
+    "kind": "방문자",
+    "author": "혜스츄립",
+    "date": "2026.08.15",
+    "link": "https://blog.naver.com/joah_09/224379385113"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTExMTRfMTA2/MDAxNzYzMTIxMTgyOTE0.zsO1acFGmS-7iV6fyhzMMWMwMlAIJA1zYFEKdSpB258g.nR2iDcsUozm2L0-xQ_pzYIMNnp_yRc8-hKXhlfbkOl4g.JPEG/20251114_203409.jpg.jpg",
+    "caption": "살치살",
+    "kind": "방문자",
+    "author": "주영의 Riding Table",
+    "date": "2025.11.14",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfNTAg/MDAxNzg4MDYzNDk2NTkx.1C0uG7W9543M9xLRN_xzGLvrxFHUcudjBhIcMS_-gdAg.Sb5BX2SF3dbC0nm4adUPMVTTuYbpGc4dEebWMimtrsog.JPEG/20260830_125205.jpg.jpg",
+    "caption": "오겹살",
+    "kind": "방문자",
+    "author": "miy****",
+    "date": "2026.08.30",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjA0MjRfMjYy/MDAxNzc2OTU3NTEwODg3.h-pfF21JdQQxinfrJF18IG7FZVdaXs3nqkdFjUTf3KMg.PBQq245ouylNt8yVkal7unBADyDHJ0bwHEvKQZwro58g.JPEG/review_photo_1.jpg",
+    "caption": "갈매기살",
+    "kind": "방문자",
+    "author": "tpro****",
+    "date": "2026.04.23",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjAzMDZfMjY3/MDAxNzcyNzg4Nzc2MTE0.4EvT_zfiSn14h1bP1Aai9RH08WM4Tmy-A4nqeva_N8kg.gbr4QQy50ovVuPm5zA-1MJee6nCJtKN8eCNllYzwsY0g.JPEG/20260306_181853.jpg.jpg",
+    "caption": "소갈비",
+    "kind": "방문자",
+    "author": "ygjkk77761",
+    "date": "2026.03.05",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20241104_192/1730706619441B5Tbw_JPEG/4-min.jpg",
+    "caption": "숙성 소갈비살 250g",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/1293381603/photo"
+   }
+  ]
+ },
+ {
+  "id": "2089603955",
+  "name": "바베큐팩토리 남한산성점",
+  "naverName": "바베큐팩토리 남한산성점",
+  "givenName": "바베큐팩토리",
+  "group": "글램핑 고기집",
+  "category": "육류,고기요리",
+  "area": "남한산성면",
+  "roadAddress": "경기 광주시 남한산성면 남한산성로 504-9 바베큐 팩토리 남한산성",
+  "jibunAddress": "경기 광주시 남한산성면 검복리 99",
+  "lat": 37.4670646,
+  "lng": 127.2068723,
+  "phone": "0507-1396-4305",
+  "conveniences": [
+   "단체 이용 가능",
+   "예약",
+   "반려동물 동반",
+   "유아시설 (놀이방)",
+   "남/녀 화장실 구분",
+   "유아의자",
+   "주차"
+  ],
+  "seats": [],
+  "parking": "매장 주차장 및 만차 시 검복리 2주차장을 이용 부탁드립니다",
+  "hours": [
+   {
+    "day": "수",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "목",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "금",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "토",
+    "text": "11:00~22:00 (브레이크 14:00~15:00, 18:00~19:00)"
+   },
+   {
+    "day": "일",
+    "text": "11:00~22:00 (브레이크 14:00~15:00, 18:00~19:00)"
+   },
+   {
+    "day": "월",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "화",
+    "text": "12:00~22:00"
+   }
+  ],
+  "intro": "친절한 서비스와 깔끔한 시설의 조화",
+  "menus": [
+   {
+    "name": "평일 이밴트",
+    "price": "무료",
+    "recommend": false
+   },
+   {
+    "name": "샐러드바(야채) 숯",
+    "price": "무료",
+    "recommend": false
+   },
+   {
+    "name": "🥩보성녹돈 생삼겹살(100g)",
+    "price": "9,500원",
+    "recommend": false
+   },
+   {
+    "name": "🥩보성녹돈 목살(100g)",
+    "price": "9,500원",
+    "recommend": false
+   },
+   {
+    "name": "제주 흙돼지 목살 (100g)",
+    "price": "11,000원",
+    "recommend": false
+   },
+   {
+    "name": "🥩 보성녹돈 생오겹살 (100g)",
+    "price": "10,500원",
+    "recommend": false
+   },
+   {
+    "name": "제주 흙돼지 오겹살",
+    "price": "12,000원",
+    "recommend": false
+   },
+   {
+    "name": "🥩보성녹돈 가브리살(100g)",
+    "price": "11,500원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.87,
+   "visitorReviews": 1090,
+   "blogReviews": 48,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 722
+   },
+   {
+    "text": "고기 질이 좋아요",
+    "count": 670
+   },
+   {
+    "text": "인테리어가 멋져요",
+    "count": 459
+   },
+   {
+    "text": "친절해요",
+    "count": 429
+   },
+   {
+    "text": "매장이 넓어요",
+    "count": 366
+   }
+  ],
+  "bookingUrl": "https://m.booking.naver.com/booking/6/bizes/1594510",
+  "placeUrl": "https://map.naver.com/p/entry/place/2089603955",
+  "sources": [
+   {
+    "label": "some419 블로그",
+    "url": "https://blog.naver.com/some419/224389979589"
+   }
+  ],
+  "matchNote": "블로그 본문의 네이버 플레이스 링크가 이 매장입니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20261006_1/1791295396867pPMxf_JPEG/%C0%D4%C0%E5%B7%E150_%C8%B0%C0%CE%BC%F6%C1%A4%BA%D0_%2810.6%29.jpg",
+    "caption": "바베큐팩토리 남한산성점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/2089603955/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20261013_248/1791902331811lfI4G_JPEG/KakaoTalk_20260824_175530845_02.jpg",
+    "caption": "바베큐팩토리 남한산성점",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/2089603955/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjEwMTFfMjQx/MDAxNzkxNzAxNjQ4Nzgy.82Kgpw5Pon1_a2gWy-LYy4zKbAmYI5AvGJ6gRqP3Ifsg._dYgCAmDOecflo2qh4_BkmeVweJpXKjWSYMk3PtB1zsg.JPEG/8AB168E9-D20F-4B45-AC01-EBD90EEDEC59.jpeg",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "gag****",
+    "date": "2026.10.11",
+    "link": "https://m.place.naver.com/restaurant/2089603955/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAzMjZfMTIg/MDAxNzc0NTA5MTkxNjcy.7AC3Ndf0I8DMeLDLM3ccaWJoDaB9J8S4-mC6iXWQZGwg.NiYpa5nHQtaH7E_hNcgkcgNYsdDexF8tde22Y8F165Mg.JPEG/KakaoTalk_20260326_160848182_11.jpg/3024x4032",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "slowg",
+    "date": "2026.03.26",
+    "link": "https://blog.naver.com/dltmfqlee/224230789656"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAzMjZfMjky/MDAxNzc0NTA5MTkwMDM3.K9PlGN1kFlF2_EWA4YIR0JxcIIwOIt59khcgRXy8z5og.Z3LLhx_AocMg74kXcekEiLvA-OOmSwCTJ0WIlGiItEQg.JPEG/KakaoTalk_20260326_160848182_07.jpg/3024x4032",
+    "caption": "항정살",
+    "kind": "방문자",
+    "author": "slowg",
+    "date": "2026.03.26",
+    "link": "https://blog.naver.com/dltmfqlee/224230789656"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAzMzFfMTQ2/MDAxNzc0ODk0ODU3NTUz.ru_9uk5XypF9FiN97Gps_rnbZvRe3kjGGAN7XdsEyvkg.Nt1nbrzpFcI9QoCY_6SV61l1yaoMUr50uLegYoByXW0g.JPEG/20260330_193112.jpg/3000x2250",
+    "caption": "목살",
+    "kind": "방문자",
+    "author": "여행하는 우유밍",
+    "date": "2026.04.06",
+    "link": "https://blog.naver.com/woo_uuming/224235126463"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjAzMjhfMTYy/MDAxNzc0NjI3MjQyNzMz.MVU5NJyrTEBn5e3L7hJpEID4PSKBIfcMWPw0P3abjAUg.llpHbrIACnjx7ZTDhAopKeZYFG9cODwA9NDrwyoT-gog.JPEG/KakaoTalk_20260327_172225031_05.jpg/4032x3024",
+    "caption": "삼겹살",
+    "kind": "방문자",
+    "author": "꼬미",
+    "date": "2026.04.06",
+    "link": "https://blog.naver.com/hndwsene/224243193501"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjAzMjlfMTQz/MDAxNzc0NzY2MDExNTI3.UktdT49ApyPa6ttkc4JRAB_aobEJQ4ZQwtqC9a6qN_Ag.KEWFIRry8qRM7eaRw_KKuS-USu1YslGT3WKhPuf7vQUg.JPEG/1000379284.jpg.jpg",
+    "caption": "등심",
+    "kind": "방문자",
+    "author": "북경반점85",
+    "date": "2026.03.29",
+    "link": "https://m.place.naver.com/restaurant/2089603955/photo"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNjA5MTNfMjkz/MDAxNzg5MjgyMjY0MDUz.UQRfP1z93AkLFUZd4v7xEcReUgWlKEf2MhnLR3Nrsukg.bvVkuoyACEv_GbpIC-l7PwekMLZ3K5vP23ud1xknmKMg.JPEG/1000045966.jpg.jpg",
+    "caption": "오겹살",
+    "kind": "방문자",
+    "author": "sun****",
+    "date": "2026.09.13",
+    "link": "https://m.place.naver.com/restaurant/2089603955/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20261007_277/1791335441820GwP33_JPEG/%C0%D4%C0%E5%B7%E150_%C8%B0%C0%CE%BC%F6%C1%A4%BA%D0_%2810.6%29.jpg",
+    "caption": "평일 이밴트",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/2089603955/photo"
+   }
+  ]
+ },
+ {
+  "id": "973306698",
+  "name": "뜨락바베큐 (구 설맥바베큐)",
+  "naverName": "뜨락바베큐",
+  "givenName": "뜨락바베큐 · 설맥바베큐",
+  "group": "글램핑 고기집",
+  "category": "육류,고기요리",
+  "area": "남한산성면",
+  "roadAddress": "경기 광주시 남한산성면 회안대로1583번길 41",
+  "jibunAddress": "경기 광주시 남한산성면 엄미리 230-2",
+  "lat": 37.4742327,
+  "lng": 127.2421226,
+  "phone": "0507-1347-4491",
+  "conveniences": [
+   "예약",
+   "단체 이용 가능",
+   "무선 인터넷",
+   "반려동물 동반",
+   "남/녀 화장실 구분",
+   "유아의자",
+   "대기공간",
+   "유아시설 (놀이방)",
+   "주차"
+  ],
+  "seats": [
+   {
+    "name": "룸",
+    "desc": "8명 이하"
+   },
+   {
+    "name": "단체석",
+    "desc": "16명 이하"
+   }
+  ],
+  "parking": "",
+  "hours": [
+   {
+    "day": "수",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "목",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "금",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "토",
+    "text": "11:00~23:00"
+   },
+   {
+    "day": "일",
+    "text": "11:00~22:00"
+   },
+   {
+    "day": "월",
+    "text": "12:00~22:00"
+   },
+   {
+    "day": "화",
+    "text": "정기휴무 (매주 화요일)"
+   }
+  ],
+  "intro": "반려동물과 함께하는 특별한 외식 장소",
+  "menus": [
+   {
+    "name": "바베큐 2인세트",
+    "price": "70,000원",
+    "recommend": false
+   },
+   {
+    "name": "냉삼 2인 SET",
+    "price": "54,000원",
+    "recommend": false
+   },
+   {
+    "name": "오뎅탕",
+    "price": "15,000원",
+    "recommend": false
+   },
+   {
+    "name": "감자전",
+    "price": "20,000원",
+    "recommend": false
+   },
+   {
+    "name": "즉석떡볶이",
+    "price": "18,000원",
+    "recommend": false
+   },
+   {
+    "name": "쥐포",
+    "price": "12,000원",
+    "recommend": false
+   },
+   {
+    "name": "노가리",
+    "price": "12,000원",
+    "recommend": false
+   },
+   {
+    "name": "무뼈닭발",
+    "price": "18,000원",
+    "recommend": false
+   }
+  ],
+  "rating": {
+   "platform": "네이버 방문자 별점",
+   "score": 4.42,
+   "visitorReviews": 454,
+   "blogReviews": 1052,
+   "checkedAt": "2026-10-14"
+  },
+  "keywords": [
+   {
+    "text": "음식이 맛있어요",
+    "count": 205
+   },
+   {
+    "text": "단체모임 하기 좋아요",
+    "count": 111
+   },
+   {
+    "text": "뷰가 좋아요",
+    "count": 108
+   },
+   {
+    "text": "친절해요",
+    "count": 106
+   },
+   {
+    "text": "매장이 넓어요",
+    "count": 105
+   }
+  ],
+  "bookingUrl": "",
+  "placeUrl": "https://map.naver.com/p/entry/place/973306698",
+  "sources": [
+   {
+    "label": "pfrim 네이버 클립",
+    "url": "https://m.blog.naver.com/pfrim/clip/14032904"
+   },
+   {
+    "label": "설맥바베큐 방문기",
+    "url": "https://www.matboardchart.com/2025/06/seolmaek-bbq-glamping-review.html"
+   }
+  ],
+  "matchNote": "두 후보를 하나로 합쳤습니다. 네이버에서 '설맥바베큐'를 검색하면 이 매장만 나오고, 이 매장 리뷰에 '설맥바베큐 경기 광주시 남한산성면 회안대로1583번길 41'(같은 주소)이 남아 있습니다. 설맥바베큐 방문기 원문은 사이트 차단으로 열어 보지 못했습니다.",
+  "photos": [
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260912_117/1789180942884WdytT_JPEG/463.jpg",
+    "caption": "뜨락바베큐",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/973306698/photo"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20260921_144/1789976996026s78Wv_JPEG/557.jpg",
+    "caption": "뜨락바베큐",
+    "kind": "업체 등록",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/973306698/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjEwMTJfMjg0/MDAxNzkxNzkzNTU0Njgw.uFYBLNsujJpjXZccYUbBw7yrkottV0nL-cPDC86NdpAg.Vt6LoPLdIy81kdCW1wiEI_WpJQnReoF4HoHtlqHtYE4g.JPEG/900_1791793552980.jpg/900x675",
+    "caption": "내부",
+    "kind": "방문자",
+    "author": "김피티",
+    "date": "2026.10.12",
+    "link": "https://blog.naver.com/kwh1084/224439262571"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA0MDJfMjMy/MDAxNzc1MTA5NTMzMjIz.NT53TbHMbP9SCxMq4NXqJ7LPR81859w6bA_clulPtOkg.RydOr5pefeVnJd4RHZj2G5rEVnXomL86vkvZ_cln6Agg.JPEG/900%EF%BC%BF20260402%EF%BC%BF122517.jpg/900x1599",
+    "caption": "음식·음료",
+    "kind": "방문자",
+    "author": "이도맘",
+    "date": "2026.04.07",
+    "link": "https://blog.naver.com/yoo2do/224243706302"
+   },
+   {
+    "url": "https://pup-review-phinf.pstatic.net/MjAyNTA2MThfNjMg/MDAxNzUwMjI1OTUyNjI0.-zgGK_3GBOWqb4fHz30H4VVj6F_JCQrG0YehyxVDynAg.rwpxMSDLMiZ1VsnyTMaPcG8AGaR44TLdNX9yV9BZvncg.JPEG/20250607_181600.jpg.jpg",
+    "caption": "바비큐",
+    "kind": "방문자",
+    "author": "ㅇㄹ34",
+    "date": "2025.06.18",
+    "link": "https://m.place.naver.com/restaurant/973306698/photo"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA4MTdfMTIg/MDAxNzg2OTc0ODUwOTE5.YTcq-xljRvoeGFWfJhMWiG4O4pKFoXHpbkyT6fTdfBMg.OOC1SASJiFDPVEGF-ODp9KGQ3dnJpJwJIB6Pz_tohF0g.JPEG/IMG%EF%BC%BF1472.jpg/1200x900",
+    "caption": "삼겹살",
+    "kind": "방문자",
+    "author": "위례부부",
+    "date": "2026.08.17",
+    "link": "https://blog.naver.com/pslymm/224381550325"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA2MTRfMjU1/MDAxNzgxMzgyOTAzOTA4.vATgKM-jWSPnLn1srnmwhsEHpaAulK18ANz7OrwM68wg.NN9xwOSY-CnV8ttpv4MSsqPYeE06DkyyJJS5oDsv4Kcg.JPEG/900_20260613_124119.jpg/900x1599",
+    "caption": "떡볶이",
+    "kind": "방문자",
+    "author": "파란하늘시은맘",
+    "date": "2026.06.14",
+    "link": "https://blog.naver.com/yppah428/224315303345"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjA0MzBfMTU5/MDAxNzc3NTEyMDU2MjEz.rkTPzWzfPVIpQuS4cFlRWHIdAwPU4gUVVfdEX1tE1dog.nBJSTHKgyCsUX4MgYQfm6NosYc4thfsqq7gmwwIdAxMg.JPEG/20260429_171335.jpg/4000x3000",
+    "caption": "노가리",
+    "kind": "방문자",
+    "author": "치이즈",
+    "date": "2026.05.01",
+    "link": "https://blog.naver.com/bokgil6323/224270147562"
+   },
+   {
+    "url": "https://blogfiles.pstatic.net/MjAyNjEwMTJfMTk3/MDAxNzkxNzg1NzI4NjE2.yoFbzlg0_xJvJNKlea93p60j-8SyxUXPVp4rCJpbBAkg.7l0g6ZDbglLTUXTxUyRPl0T5JmZ-n_d05SEasFbFQHIg.JPEG/900_20261011_115729.jpg/900x675",
+    "caption": "외부",
+    "kind": "방문자",
+    "author": "뚱이",
+    "date": "2026.10.12",
+    "link": "https://blog.naver.com/pt_hjs/224439206039"
+   },
+   {
+    "url": "https://ldb-phinf.pstatic.net/20230531_299/1685494367353tJk8J_JPEG/KakaoTalk_20230524_144313167_04.jpg",
+    "caption": "바베큐 2인세트",
+    "kind": "업체 등록 메뉴",
+    "author": "",
+    "date": "",
+    "link": "https://m.place.naver.com/restaurant/973306698/photo"
+   }
+  ]
+ }
+]/*PLACES_END*/;
+const NAVER_CLIENT_ID = 'bkcgk65wgb';
+const PICK_KEY = 'DinnerVote.picks.v2';
+const PHOTO_GOAL = 10;
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt = n => (n ?? 0).toLocaleString('ko-KR');
+const img = (url, w) => 'https://search.pstatic.net/common/?autoRotate=true&type=' + w + '&src=' + encodeURIComponent(url);
+PLACES.forEach((p, i) => { p.no = i + 1; });
+
+const state = { q: '', area: '전체', sort: 'default', selected: null, picks: loadPicks(), lb: null };
+let map = null, markers = {};
+
+function loadPicks() {
+  try { return JSON.parse(localStorage.getItem(PICK_KEY)) || []; } catch { return []; }
+}
+function savePicks() {
+  try { localStorage.setItem(PICK_KEY, JSON.stringify(state.picks)); } catch { toast('브라우저 저장이 막혀 있어 새로고침하면 선택이 사라집니다'); }
+  $('pickCount').textContent = state.picks.length;
+}
+function togglePick(id) {
+  const i = state.picks.indexOf(id);
+  if (i >= 0) state.picks.splice(i, 1); else state.picks.push(id);
+  savePicks();
+  renderCards();
+  if (state.selected === id) renderDetail();
+  renderPicks();
+  const p = byId(id);
+  toast(i >= 0 ? `${p.name} 선택을 뺐습니다` : `${p.name}을(를) 골랐습니다`);
+}
+const byId = id => PLACES.find(p => p.id === id);
+const isPicked = id => state.picks.includes(id);
+
+/* 사진 */
+function photoTag(p, idx, w, extra = '') {
+  const ph = p.photos[idx];
+  return `<button type="button" class="ph" data-photo="${p.id}:${idx}" aria-label="${esc(p.name)} 사진 ${idx + 1} 크게 보기">` +
+    `<img loading="lazy" src="${esc(img(ph.url, w))}" alt="${esc(p.name + ' ' + (ph.caption || '사진'))}" data-fail>${extra}</button>`;
+}
+document.addEventListener('error', e => {
+  const t = e.target;
+  if (t.tagName === 'IMG' && t.hasAttribute('data-fail')) {
+    const box = t.closest('.ph');
+    if (box) { box.classList.add('fail'); box.innerHTML = '사진을 불러오지 못했습니다'; }
+  }
+}, true);
+
+/* 목록 */
+function areas() {
+  const set = [];
+  PLACES.forEach(p => { if (!set.includes(p.area)) set.push(p.area); });
+  return ['전체', ...set];
+}
+function renderChips() {
+  $('chips').innerHTML = areas().map(a => {
+    const n = a === '전체' ? PLACES.length : PLACES.filter(p => p.area === a).length;
+    return `<button type="button" class="chip" aria-pressed="${state.area === a}" data-area="${esc(a)}">${esc(a)} ${n}</button>`;
+  }).join('');
+}
+function haystack(p) {
+  return [p.name, p.naverName, p.givenName, p.category, p.area, p.roadAddress, p.jibunAddress, p.group,
+    ...p.menus.map(m => m.name), ...p.seats.map(s => s.name), ...p.conveniences].join(' ').toLowerCase();
+}
+function visible() {
+  const q = state.q.trim().toLowerCase();
+  let list = PLACES.filter(p => (state.area === '전체' || p.area === state.area) && (!q || q.split(/\s+/).every(w => haystack(p).includes(w))));
+  if (state.sort === 'score') list = [...list].sort((a, b) => (b.rating.score || 0) - (a.rating.score || 0));
+  if (state.sort === 'reviews') list = [...list].sort((a, b) => (b.rating.visitorReviews || 0) - (a.rating.visitorReviews || 0));
+  return list;
+}
+function seatTags(p) {
+  return p.seats.filter(s => /룸|단체/.test(s.name)).map(s => `<span class="tag g">${esc(s.name)}${s.desc ? ' ' + esc(s.desc) : ''}</span>`).join('');
+}
+function renderCards() {
+  const list = visible();
+  $('count').textContent = `후보 ${list.length}곳`;
+  if (!list.length) { $('cards').innerHTML = '<div class="empty">조건에 맞는 후보가 없습니다.</div>'; syncMarkers(list); return; }
+  $('cards').innerHTML = list.map(p => `
+    <article class="card${state.selected === p.id ? ' on' : ''}" data-id="${p.id}" tabindex="0" aria-label="${esc(p.name)}">
+      <div class="row1"><span class="num">${p.no}</span><h3>${esc(p.name)}</h3><span class="cat">${esc(p.category)}</span></div>
+      <div class="meta">
+        ${p.rating.score ? `<span class="star">${p.rating.score.toFixed(2)}</span>` : '<span>별점 없음</span>'}
+        <span>방문자 리뷰 ${fmt(p.rating.visitorReviews)}</span>
+        <span class="dot">${esc(p.area)}</span>
+      </div>
+      <div class="tags">${seatTags(p)}${p.conveniences.includes('주차') ? '<span class="tag">주차</span>' : ''}${p.conveniences.includes('예약') ? '<span class="tag">예약</span>' : ''}</div>
+      <div class="thumbs">${p.photos.slice(0, 3).map((_, i) => photoTag(p, i, 'f320_320')).join('')}</div>
+      <button type="button" class="heart" data-pick="${p.id}" aria-pressed="${isPicked(p.id)}" aria-label="${esc(p.name)} ${isPicked(p.id) ? '선택 취소' : '고르기'}">
+        <svg viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l1 1.1L12 21l7.8-7.5 1-1.1a5.5 5.5 0 0 0 0-7.8z"/></svg>
+      </button>
+    </article>`).join('');
+  syncMarkers(list);
+}
+
+/* 상세 */
+function renderDetail() {
+  const p = byId(state.selected);
+  $('app').classList.toggle('has-detail', !!p);
+  if (!p) { $('detail').innerHTML = ''; return; }
+  const n = p.photos.length;
+  const hero = p.photos.slice(0, 5).map((_, i) => photoTag(p, i, i ? 'f320_320' : 'w750',
+    i === 4 && n > 5 ? `<span class="more">+${n - 5}</span>` : '')).join('');
+  const seats = p.seats.length ? p.seats.map(s => s.name + (s.desc ? ` (${s.desc})` : '')).join(', ') : '정보 없음';
+  const hours = p.hours.length ? `<ul class="hours">${p.hours.map(h => `<li>${esc(h.day)} ${esc(h.text)}</li>`).join('')}</ul>` : '정보 없음';
+  const maxKw = Math.max(1, ...p.keywords.map(k => k.count));
+  $('detail').innerHTML = `
+    <div class="d-close"><button type="button" id="closeDetail" aria-label="상세 닫기">×</button></div>
+    <div class="hero">${hero}</div>
+    <div class="d-body">
+      <div class="d-head">
+        <small>후보 ${p.no} · ${esc(p.group)} · ${esc(p.area)}</small>
+        <h2>${esc(p.name)}</h2>
+        <div class="meta">
+          ${p.rating.score ? `<span class="star">${p.rating.score.toFixed(2)}</span>` : '<span>별점 없음</span>'}
+          <span>방문자 리뷰 ${fmt(p.rating.visitorReviews)}</span>
+          <span class="dot">블로그 리뷰 ${fmt(p.rating.blogReviews)}</span>
+          <span class="dot">${esc(p.category)}</span>
+        </div>
+        <div class="rating-src">${esc(p.rating.platform)} (5점 만점) · ${esc(p.rating.checkedAt)} 확인</div>
+      </div>
+      <div class="actions">
+        <button type="button" class="btn primary${isPicked(p.id) ? ' done' : ''}" data-pick="${p.id}">${isPicked(p.id) ? '✓ 고른 후보 (다시 누르면 취소)' : '이 곳으로 고르기'}</button>
+        <a class="btn" href="${esc(p.placeUrl)}" target="_blank" rel="noopener">네이버 지도에서 보기</a>
+        ${p.bookingUrl ? `<a class="btn" href="${esc(p.bookingUrl)}" target="_blank" rel="noopener">네이버 예약</a>` : (p.phone ? `<a class="btn" href="tel:${esc(p.phone)}">전화 ${esc(p.phone)}</a>` : '')}
+      </div>
+
+      <div class="sec">
+        <h4>회식 체크</h4>
+        <dl class="kv">
+          <dt>좌석</dt><dd>${esc(seats)}</dd>
+          <dt>주소</dt><dd>${esc(p.roadAddress)}<br><span style="color:var(--ink3)">지번 ${esc(p.jibunAddress)}</span></dd>
+          ${p.phone ? `<dt>전화</dt><dd><a href="tel:${esc(p.phone)}">${esc(p.phone)}</a></dd>` : ''}
+          <dt>영업시간</dt><dd>${hours}</dd>
+          <dt>주차</dt><dd>${esc(p.parking || (p.conveniences.includes('주차') ? '주차 가능 (상세 정보 없음)' : '정보 없음'))}</dd>
+          <dt>편의</dt><dd>${esc(p.conveniences.join(', ') || '정보 없음')}</dd>
+        </dl>
+      </div>
+
+      ${p.menus.length ? `<div class="sec"><h4>메뉴</h4><ul class="menu">${p.menus.map(m => `<li><span>${esc(m.name)}</span><span class="price">${esc(m.price || '-')}</span></li>`).join('')}</ul></div>` : ''}
+
+      ${p.keywords.length ? `<div class="sec"><h4>방문자들이 많이 고른 키워드</h4><ul class="kw">${p.keywords.map(k => `<li><i style="width:${Math.round(k.count / maxKw * 100)}%"></i><span>${esc(k.text)}</span><span>${fmt(k.count)}</span></li>`).join('')}</ul></div>` : ''}
+
+      <div class="sec">
+        <h4>사진 ${n}장</h4>
+        <div class="gallery">${p.photos.map((ph, i) => photoTag(p, i, 'f320_320', `<span class="cap">${esc(ph.caption || ph.kind)}</span>`)).join('')}</div>
+        ${n < PHOTO_GOAL ? `<div class="short">목표 ${PHOTO_GOAL}장 중 ${n}장만 확보했습니다. 네이버 플레이스에 등록된 사진이 부족합니다.</div>` : ''}
+      </div>
+
+      <div class="sec">
+        <h4>후보 확인 근거</h4>
+        <p class="evidence">${p.givenName !== p.naverName ? `제공하신 이름: <b>${esc(p.givenName)}</b> → 네이버 등록명: <b>${esc(p.naverName)}</b><br>` : ''}${esc(p.matchNote)}</p>
+        <div class="links">
+          <a href="${esc(p.placeUrl)}" target="_blank" rel="noopener"><span>네이버 플레이스 (별점·사진 출처)</span><span>↗</span></a>
+          ${p.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener"><span>${esc(s.label)} (제공하신 원문)</span><span>↗</span></a>`).join('')}
+        </div>
+      </div>
+    </div>`;
+  $('detail').scrollTop = 0;
+}
+
+function select(id, { pan = true } = {}) {
+  state.selected = id;
+  renderCards();
+  renderDetail();
+  recluster();
+  const p = byId(id);
+  if (p && map && pan) {
+    if (map.getZoom() < 15) map.setZoom(15, false);
+    map.panTo(new naver.maps.LatLng(p.lat, p.lng));
+  }
+  const card = document.querySelector(`.card[data-id="${id}"]`);
+  if (card) card.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+}
+
+/* 지도 */
+function showMapError(title, body) {
+  const m = $('mapMsg');
+  m.innerHTML = `<strong>${esc(title)}</strong>${body}`;
+  m.classList.add('show');
+}
+function pinHtml(p, offset) {
+  return `<div class="pin" data-pin="${p.id}" style="margin-top:${offset * 34}px"><div class="bub"><span class="n">${p.no}</span><span class="lbl">${esc(p.name.replace(/\s*\(.*\)$/, ''))}</span>${p.rating.score ? `<span class="s lbl">★${p.rating.score.toFixed(1)}</span>` : ''}</div><div class="tail"></div></div>`;
+}
+function initMap() {
+  if (!window.naver || !naver.maps || !naver.maps.Map) {
+    showMapError('네이버 지도 스크립트가 준비되지 않았습니다', '<p>스크립트는 받았지만 지도 기능이 만들어지지 않았습니다. 새로고침 후에도 같으면 브라우저 콘솔(F12) 오류를 확인해 주세요.</p>');
+    return;
+  }
+  map = new naver.maps.Map('map', {
+    center: new naver.maps.LatLng(37.41, 127.26), zoom: 12,
+    zoomControl: true, zoomControlOptions: { position: naver.maps.Position.RIGHT_BOTTOM, style: naver.maps.ZoomControlStyle.SMALL },
+    mapDataControl: false, scaleControl: true,
+  });
+  const seen = {};
+  PLACES.forEach(p => {
+    const offset = seen[siteKey(p)] = (seen[siteKey(p)] ?? -1) + 1;
+    const marker = new naver.maps.Marker({
+      position: new naver.maps.LatLng(p.lat, p.lng), map: null,
+      icon: { content: pinHtml(p, offset), anchor: new naver.maps.Point(0, 0) },
+      title: p.name, zIndex: 100 - p.no,
+    });
+    naver.maps.Event.addListener(marker, 'click', () => select(p.id, { pan: false }));
+    markers[p.id] = marker;
+  });
+  naver.maps.Event.addListener(map, 'zoom_changed', () => $('map').classList.toggle('zoom-out', map.getZoom() < 14));
+  naver.maps.Event.addListener(map, 'idle', recluster);
+  $('map').classList.toggle('zoom-out', map.getZoom() < 14);
+  new ResizeObserver(() => {
+    const el = $('map');
+    if (el.clientWidth && el.clientHeight) map.setSize(new naver.maps.Size(el.clientWidth, el.clientHeight));
+  }).observe($('map'));
+  fitAll();
+  recluster();
+}
+const siteKey = p => p.site;
+PLACES.forEach(p => {
+  const near = PLACES.find(q => q.site && Math.hypot((q.lat - p.lat) * 111000, (q.lng - p.lng) * 88000) < 25);
+  p.site = near ? near.site : p.id;
+});
+function fitTo(list) {
+  if (!map || !list.length) return;
+  const lats = list.map(p => p.lat), lngs = list.map(p => p.lng);
+  if (Math.max(...lats) - Math.min(...lats) < 0.0015 && Math.max(...lngs) - Math.min(...lngs) < 0.0015) {
+    map.morph(new naver.maps.LatLng(lats[0], lngs[0]), 17);
+    return;
+  }
+  map.fitBounds(new naver.maps.LatLngBounds(
+    new naver.maps.LatLng(Math.min(...lats), Math.min(...lngs)),
+    new naver.maps.LatLng(Math.max(...lats), Math.max(...lngs))), { top: 80, right: 90, bottom: 60, left: 60 });
+}
+function fitAll() {
+  fitTo(visible().length ? visible() : PLACES);
+}
+let clusterMarkers = [];
+function recluster() {
+  if (!map) return;
+  clusterMarkers.forEach(m => m.setMap(null));
+  clusterMarkers = [];
+  const proj = map.getProjection();
+  const labels = map.getZoom() >= 14;
+  const sites = {};
+  visible().forEach(p => (sites[siteKey(p)] ||= []).push(p));
+  const groups = [];
+  Object.values(sites).forEach(ps => {
+    const pt = proj.fromCoordToOffset(new naver.maps.LatLng(ps[0].lat, ps[0].lng));
+    const g = groups.find(g => Math.abs(g.pt.x - pt.x) < (labels ? 150 : 46) && Math.abs(g.pt.y - pt.y) < (labels ? 40 * Math.max(g.n, ps.length) : 46));
+    if (g) { g.ps.push(...ps); g.n++; } else groups.push({ pt, ps: [...ps], n: 1 });
+  });
+  Object.values(markers).forEach(m => m.setMap(null));
+  groups.forEach(g => {
+    if (g.n === 1) { g.ps.forEach(p => markers[p.id].setMap(map)); return; }
+    const lat = g.ps.reduce((a, p) => a + p.lat, 0) / g.ps.length;
+    const lng = g.ps.reduce((a, p) => a + p.lng, 0) / g.ps.length;
+    const on = g.ps.some(p => p.id === state.selected);
+    const cm = new naver.maps.Marker({
+      position: new naver.maps.LatLng(lat, lng), map, zIndex: 900,
+      title: g.ps.map(p => p.name).join(', '),
+      icon: { content: `<div class="cluster${on ? ' on' : ''}" title="눌러서 확대">${g.ps.map(p => p.no).sort((a, b) => a - b).join('·')} <span style="opacity:.75;margin-left:6px">${g.ps.length}곳</span></div>`, anchor: new naver.maps.Point(0, 0) },
+    });
+    naver.maps.Event.addListener(cm, 'click', () => fitTo(g.ps));
+    clusterMarkers.push(cm);
+  });
+  highlightMarkers();
+}
+function syncMarkers() {
+  recluster();
+}
+function highlightMarkers() {
+  Object.entries(markers).forEach(([id, m]) => {
+    m.setZIndex(id === state.selected ? 1000 : 100 - byId(id).no);
+    const el = m.getElement && m.getElement();
+    const pin = el && el.querySelector('.pin');
+    if (pin) pin.classList.toggle('on', id === state.selected);
+  });
+}
+window.navermap_authFailure = function () {
+  showMapError('네이버 지도 인증에 실패했습니다',
+    `<p>지금 주소 <code>${esc(location.origin)}</code>가 네이버 클라우드 Maps Application(Client ID <code>${NAVER_CLIENT_ID}</code>)의 Web 서비스 URL에 등록되어 있지 않거나, Dynamic Map이 꺼져 있을 때 나오는 오류입니다.</p>`);
+};
+function loadNaverMaps() {
+  const s = document.createElement('script');
+  s.src = 'https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=' + NAVER_CLIENT_ID;
+  s.onload = initMap;
+  s.onerror = () => showMapError('네이버 지도 스크립트를 받지 못했습니다',
+    '<p><code>oapi.map.naver.com</code> 요청이 실패했습니다. 인터넷 연결이나 광고 차단 확장 프로그램이 이 주소를 막고 있는지 확인해 주세요.</p>');
+  document.head.appendChild(s);
+}
+
+/* 사진 확대 */
+function openLightbox(id, idx) {
+  state.lb = { id, idx };
+  renderLightbox();
+  $('lb').classList.add('show');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+  state.lb = null;
+  $('lb').classList.remove('show');
+  document.body.style.overflow = '';
+}
+function stepLightbox(d) {
+  if (!state.lb) return;
+  const n = byId(state.lb.id).photos.length;
+  state.lb.idx = (state.lb.idx + d + n) % n;
+  renderLightbox();
+}
+function renderLightbox() {
+  const p = byId(state.lb.id), i = state.lb.idx, ph = p.photos[i];
+  $('lbTitle').textContent = `${p.name} · ${i + 1} / ${p.photos.length}`;
+  const im = $('lbImg');
+  const old = $('lbStage').querySelector('.fail'); if (old) old.remove();
+  im.style.display = '';
+  const failed = () => {
+    im.style.display = 'none';
+    $('lbStage').insertAdjacentHTML('beforeend', '<div class="fail">사진을 불러오지 못했습니다.<br>아래 원문 링크에서 확인해 주세요.</div>');
+  };
+  const proxied = img(ph.url, 'w750');
+  const direct = /(^|\.)(ldb-phinf|pup-review-phinf)\.pstatic\.net$/.test(new URL(ph.url).hostname);
+  im.onerror = direct ? () => { im.onerror = failed; im.src = proxied; } : failed;
+  im.src = direct ? ph.url : proxied;
+  im.alt = `${p.name} ${ph.caption || ''}`;
+  const who = [ph.kind, ph.author, ph.date].filter(Boolean).join(' · ');
+  $('lbCap').innerHTML = `${esc(ph.caption || '')}${ph.caption ? ' — ' : ''}${esc(who)} · <a href="${esc(ph.link)}" target="_blank" rel="noopener">원문 보기 ↗</a>`;
+  $('lbStrip').innerHTML = p.photos.map((x, j) => `<button type="button" class="${j === i ? 'on' : ''}" data-lb="${j}" aria-label="사진 ${j + 1}"><img src="${esc(img(x.url, 'f320_320'))}" alt=""></button>`).join('');
+  const on = $('lbStrip').querySelector('.on'); if (on) on.scrollIntoView({ inline: 'center', block: 'nearest' });
+}
+
+/* 내 선택 */
+function renderPicks() {
+  const list = state.picks.map(byId).filter(Boolean);
+  $('picked').innerHTML = list.length ? list.map(p => `
+    <li>${p.photos[0] ? `<div class="ph"><img src="${esc(img(p.photos[0].url, 'f320_320'))}" alt="" data-fail></div>` : ''}
+      <div><b>${esc(p.name)}</b><small>★${p.rating.score?.toFixed(2) ?? '-'} · ${esc(p.area)} · ${esc(p.category)}</small></div>
+      <button type="button" data-pick="${p.id}">빼기</button></li>`).join('')
+    : '<li style="border:0;color:var(--ink3)">아직 고른 후보가 없습니다. 목록의 하트나 상세의 "이 곳으로 고르기"를 눌러 주세요.</li>';
+}
+function openDrawer(show) {
+  $('drawer').classList.toggle('show', show);
+  $('drawer').setAttribute('aria-hidden', String(!show));
+  if (show) renderPicks();
+}
+const naverLink = p => p.placeUrl;
+async function copy(text, done) {
+  try { await navigator.clipboard.writeText(text); toast(done); }
+  catch {
+    const t = document.createElement('textarea'); t.value = text; document.body.appendChild(t); t.select();
+    const ok = document.execCommand('copy'); t.remove(); toast(ok ? done : '복사하지 못했습니다');
+  }
+}
+let toastTimer;
+function toast(msg) {
+  const t = $('toast'); t.textContent = msg; t.classList.add('show');
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove('show'), 1800);
+}
+
+/* 이벤트 */
+$('q').addEventListener('input', e => { state.q = e.target.value; $('searchBox').classList.toggle('filled', !!state.q); renderCards(); });
+$('clearQ').addEventListener('click', () => { $('q').value = ''; state.q = ''; $('searchBox').classList.remove('filled'); renderCards(); $('q').focus(); });
+$('sort').addEventListener('change', e => { state.sort = e.target.value; renderCards(); });
+$('chips').addEventListener('click', e => {
+  const b = e.target.closest('[data-area]'); if (!b) return;
+  state.area = b.dataset.area; renderChips(); renderCards(); fitAll();
+});
+document.addEventListener('click', e => {
+  const pick = e.target.closest('[data-pick]');
+  if (pick) { e.stopPropagation(); togglePick(pick.dataset.pick); return; }
+  const ph = e.target.closest('[data-photo]');
+  if (ph) { e.stopPropagation(); const [id, i] = ph.dataset.photo.split(':'); openLightbox(id, +i); return; }
+  const lbt = e.target.closest('[data-lb]');
+  if (lbt) { state.lb.idx = +lbt.dataset.lb; renderLightbox(); return; }
+  const card = e.target.closest('.card');
+  if (card) { select(card.dataset.id); return; }
+  if (e.target.closest('#closeDetail')) { state.selected = null; renderCards(); renderDetail(); highlightMarkers(); return; }
+  if (e.target.closest('[data-close]')) openDrawer(false);
+});
+$('cards').addEventListener('keydown', e => {
+  const card = e.target.closest('.card');
+  if (card && (e.key === 'Enter' || e.key === ' ') && e.target === card) { e.preventDefault(); select(card.dataset.id); }
+});
+$('cards').addEventListener('mouseover', e => {
+  const card = e.target.closest('.card');
+  document.querySelectorAll('.pin.hover').forEach(x => x.classList.remove('hover'));
+  if (card) { const pin = document.querySelector(`.pin[data-pin="${card.dataset.id}"]`); if (pin) pin.classList.add('hover'); }
+});
+$('fitAll').addEventListener('click', fitAll);
+$('openPicks').addEventListener('click', () => openDrawer(true));
+$('lbClose').addEventListener('click', closeLightbox);
+$('lbPrev').addEventListener('click', () => stepLightbox(-1));
+$('lbNext').addEventListener('click', () => stepLightbox(1));
+$('lb').addEventListener('click', e => { if (e.target === $('lb') || e.target === $('lbStage')) closeLightbox(); });
+let touchX = null;
+$('lbStage').addEventListener('touchstart', e => { touchX = e.touches[0].clientX; }, { passive: true });
+$('lbStage').addEventListener('touchend', e => {
+  if (touchX === null) return;
+  const dx = e.changedTouches[0].clientX - touchX; touchX = null;
+  if (Math.abs(dx) > 40) stepLightbox(dx < 0 ? 1 : -1);
+});
+document.addEventListener('keydown', e => {
+  if (state.lb) {
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowLeft') stepLightbox(-1);
+    if (e.key === 'ArrowRight') stepLightbox(1);
+  } else if (e.key === 'Escape') {
+    if ($('drawer').classList.contains('show')) openDrawer(false);
+    else if (state.selected) { state.selected = null; renderCards(); renderDetail(); highlightMarkers(); }
+  }
+});
+$('copyMine').addEventListener('click', () => {
+  const list = state.picks.map(byId).filter(Boolean);
+  if (!list.length) { toast('먼저 후보를 골라 주세요'); return; }
+  copy('[회식 장소] 제가 고른 곳\n' + list.map(p => `- ${p.name} (★${p.rating.score?.toFixed(2) ?? '-'}, ${p.area}) ${naverLink(p)}`).join('\n'), '내 선택 문구를 복사했습니다');
+});
+$('copyAll').addEventListener('click', () => {
+  copy('[회식 장소 후보]\n' + PLACES.map(p => `${p.no}. ${p.name} · ${p.category} · ${p.area} · ★${p.rating.score?.toFixed(2) ?? '-'}\n   ${naverLink(p)}`).join('\n') + '\n\n사진·지도로 비교: ' + location.href.split('#')[0], '전체 후보 목록을 복사했습니다');
+});
+
+$('subtitle').textContent = `경기 광주 후보 ${PLACES.length}곳 · 네이버 지도`;
+$('pickCount').textContent = state.picks.length;
+renderChips();
+renderCards();
+if (matchMedia('(min-width: 761px)').matches && PLACES.length) select(PLACES[0].id, { pan: false });
+loadNaverMaps();
+</script>
+</body>
+</html>
