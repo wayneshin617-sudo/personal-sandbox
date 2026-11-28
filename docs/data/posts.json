@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T07:29:31+00:00",
+  "updatedAt": "2026-11-28T07:30:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -652867,6 +652867,65 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T07:29:31+00:00",
       "isSeed": false
+    },
+    {
+      "id": 129031,
+      "source": "dc",
+      "externalId": "cmt-11052816",
+      "title": "늙고 병들어서",
+      "excerpt": "30대가 20대보다 훨씬 표독스러운 이유가 뭐임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "125.143",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720865&page=2#cmt_11052816",
+      "postedLabel": "11.28 15:34:52",
+      "postedAt": "2026-11-28T15:34:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:30:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129032,
+      "source": "dc",
+      "externalId": "cmt-11052856",
+      "title": "맞아 남자도 그렇더라 남자들이 자기 나이 객관화를 훨씬 못함 그리고 인생에 큰 기대가 없어보임",
+      "excerpt": "30대가 20대보다 훨씬 표독스러운 이유가 뭐임",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "180.66",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720865&page=2#cmt_11052856",
+      "postedLabel": "11.28 15:51:01",
+      "postedAt": "2026-11-28T15:51:01+09:00",
+      "views": null,
+      "recommends": 1,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T07:30:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129033,
+      "source": "blind",
+      "externalId": "/kr/post/34%EA%B8%B0-%EC%96%B4%EB%95%8C%EC%9A%94-7k2fhlh3",
+      "title": "34기 어때요",
+      "excerpt": "1화보다 말았는데 재밌나요 오랜만에 도파민 필요해서",
+      "author": "I******",
+      "company": "넥슨네트웍스",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/34%EA%B8%B0-%EC%96%B4%EB%95%8C%EC%9A%94-7k2fhlh3",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T16:30:40+09:00",
+      "views": 0,
+      "recommends": null,
+      "comments": 0,
+      "firstSeenAt": "2026-11-28T07:30:58+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -652978,7 +653037,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T16:27:55+09:00"
+      "slowAt": "2026-11-28T16:30:40+09:00"
     },
     "ig": {
       "doneIds": [
@@ -675164,6 +675223,7 @@
         "6720859",
         "6720860",
         "6720861",
+        "6720865",
         "6720868",
         "6720875",
         "6720876",
@@ -675182,7 +675242,8 @@
         "6720925",
         "6720926",
         "6720930",
-        "6720931"
+        "6720931",
+        "6720936"
       ]
     },
     "blind": {
