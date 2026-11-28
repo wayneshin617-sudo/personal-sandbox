@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T19:30:27+00:00",
+  "updatedAt": "2026-11-28T19:31:41+00:00",
   "posts": [
     {
       "id": 95749,
@@ -679015,6 +679015,26 @@
       "recommends": 3,
       "comments": null,
       "firstSeenAt": "2026-11-28T19:30:27+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130360,
+      "source": "qoo",
+      "externalId": "cmt-4420960841",
+      "title": "@1 ㄴㄷ",
+      "excerpt": "광수는 진짜 보기 힘들다...",
+      "author": "무명의 더쿠",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://theqoo.net/iamsolo/4420755069#4420960841",
+      "postedLabel": "",
+      "postedAt": "2026-11-29T03:31:13+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T19:31:41+00:00",
       "isSeed": false,
       "kind": "reply"
     }
