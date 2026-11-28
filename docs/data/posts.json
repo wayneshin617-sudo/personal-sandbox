@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T20:18:55+00:00",
+  "updatedAt": "2026-11-28T20:24:55+00:00",
   "posts": [
     {
       "id": 95749,
@@ -679375,6 +679375,26 @@
       "comments": null,
       "firstSeenAt": "2026-11-28T20:18:55+00:00",
       "isSeed": false
+    },
+    {
+      "id": 130378,
+      "source": "dc",
+      "externalId": "cmt-11054429",
+      "title": "https://m.dcinside.com/board/iamsolo/6681570",
+      "excerpt": "현숙은 옷을 항상 걸쳐입는 이유가뭐임?",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "222.236",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721410&page=2#cmt_11054429",
+      "postedLabel": "11.29 05:13:52",
+      "postedAt": "2026-11-29T05:13:52+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T20:24:55+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -679486,7 +679506,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-29T05:21:39+09:00"
+      "slowAt": "2026-11-29T05:24:38+09:00"
     },
     "ig": {
       "doneIds": [
@@ -701934,6 +701954,7 @@
         "6721397",
         "6721400",
         "6721406",
+        "6721410",
         "6721413",
         "6721415",
         "6721416",
