@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:04:03+00:00",
+  "updatedAt": "2026-11-28T10:05:11+00:00",
   "posts": [
     {
       "id": 95749,
@@ -659616,6 +659616,124 @@
       "firstSeenAt": "2026-11-28T10:04:03+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129375,
+      "source": "dc",
+      "externalId": "6721101",
+      "title": "실시간 공항인데 이거 34현숙맞지?",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721101&page=1",
+      "postedLabel": "19:04",
+      "postedAt": "2026-11-28T19:04:20+09:00",
+      "views": 10,
+      "recommends": 1,
+      "comments": 4,
+      "firstSeenAt": "2026-11-28T10:05:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129376,
+      "source": "dc",
+      "externalId": "6721102",
+      "title": "광수는 못생긴 둘째치고 왜케 치명적인 척을 하는거임",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "117.111",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721102&page=1",
+      "postedLabel": "19:04",
+      "postedAt": "2026-11-28T19:04:21+09:00",
+      "views": 3,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:05:11+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 129377,
+      "source": "dc",
+      "externalId": "cmt-11053170",
+      "title": "ㅋ",
+      "excerpt": "실시간 공항인데 이거 34현숙맞지?",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721101&page=1#cmt_11053170",
+      "postedLabel": "11.28 19:04:28",
+      "postedAt": "2026-11-28T19:04:28+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:05:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129378,
+      "source": "dc",
+      "externalId": "cmt-11053171",
+      "title": "ㅋㅋ",
+      "excerpt": "실시간 공항인데 이거 34현숙맞지?",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721101&page=1#cmt_11053171",
+      "postedLabel": "11.28 19:04:31",
+      "postedAt": "2026-11-28T19:04:31+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:05:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129379,
+      "source": "dc",
+      "externalId": "cmt-11053172",
+      "title": "ㅋㅋㅋ",
+      "excerpt": "실시간 공항인데 이거 34현숙맞지?",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721101&page=1#cmt_11053172",
+      "postedLabel": "11.28 19:04:38",
+      "postedAt": "2026-11-28T19:04:38+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:05:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 129380,
+      "source": "dc",
+      "externalId": "cmt-11053173",
+      "title": "ㅋㅋㅋㅋ",
+      "excerpt": "실시간 공항인데 이거 34현숙맞지?",
+      "author": "나갤러",
+      "company": "",
+      "ip": "124.50",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721101&page=1#cmt_11053173",
+      "postedLabel": "11.28 19:04:45",
+      "postedAt": "2026-11-28T19:04:45+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:05:11+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -659727,7 +659845,7 @@
         "DeiRNuamSJL",
         "DfEwLWjk6B5"
       ],
-      "slowAt": "2026-11-28T19:01:37+09:00"
+      "slowAt": "2026-11-28T19:04:52+09:00"
     },
     "ig": {
       "doneIds": [
@@ -682003,7 +682121,8 @@
         "6721087",
         "6721089",
         "6721093",
-        "6721095"
+        "6721095",
+        "6721101"
       ]
     },
     "blind": {
