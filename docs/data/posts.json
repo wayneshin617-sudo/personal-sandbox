@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T01:53:53+00:00",
+  "updatedAt": "2026-11-28T01:54:52+00:00",
   "posts": [
     {
       "id": 95749,
@@ -639741,6 +639741,45 @@
       "firstSeenAt": "2026-11-28T01:53:53+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128362,
+      "source": "dc",
+      "externalId": "6720653",
+      "title": "나솔 남자경우",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "121.130",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720653&page=1",
+      "postedLabel": "10:54",
+      "postedAt": "2026-11-28T10:54:13+09:00",
+      "views": 1,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:54:52+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 128363,
+      "source": "blind",
+      "externalId": "cmt-463001178",
+      "title": "한전 얘들은 뭐에 긁힌거지",
+      "excerpt": "원래 여기는 다 커피 먹자 그러는게 룰이야?",
+      "author": "k******** 작성자",
+      "company": "공무원",
+      "ip": "",
+      "badge": "",
+      "url": "https://www.teamblind.com/kr/post/%EC%9B%90%EB%9E%98-%EC%97%AC%EA%B8%B0%EB%8A%94-%EB%8B%A4-%EC%BB%A4%ED%94%BC-%EB%A8%B9%EC%9E%90-%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B2%8C-%EB%A3%B0%EC%9D%B4%EC%95%BC-h4cpsum8#463001178",
+      "postedLabel": "방금",
+      "postedAt": "2026-11-28T10:54:36+09:00",
+      "views": null,
+      "recommends": null,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T01:54:52+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -661948,7 +661987,8 @@
         "6720635",
         "6720638",
         "6720642",
-        "6720646"
+        "6720646",
+        "6720650"
       ]
     },
     "blind": {
