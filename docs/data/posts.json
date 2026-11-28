@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T10:19:13+00:00",
+  "updatedAt": "2026-11-28T10:20:13+00:00",
   "posts": [
     {
       "id": 95749,
@@ -660362,6 +660362,26 @@
       "firstSeenAt": "2026-11-28T10:19:13+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 129413,
+      "source": "dc",
+      "externalId": "cmt-11053161",
+      "title": "없으니까",
+      "excerpt": "이번 기수는 사진이나 목격담이 없네",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "14.37",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721062&page=1#cmt_11053161",
+      "postedLabel": "11.28 18:57:35",
+      "postedAt": "2026-11-28T18:57:35+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T10:20:13+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -660546,7 +660566,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T19:16:41+09:00"
+      "slowAt": "2026-11-28T19:19:55+09:00"
     },
     "dc": {
       "doneIds": [
@@ -682743,6 +682763,7 @@
         "6721053",
         "6721055",
         "6721059",
+        "6721062",
         "6721063",
         "6721069",
         "6721071",
@@ -682756,7 +682777,8 @@
         "6721103",
         "6721109",
         "6721110",
-        "6721112"
+        "6721112",
+        "6721118"
       ]
     },
     "blind": {
