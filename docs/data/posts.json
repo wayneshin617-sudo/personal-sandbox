@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T14:56:45+00:00",
+  "updatedAt": "2026-11-28T14:57:58+00:00",
   "posts": [
     {
       "id": 95749,
@@ -673372,6 +673372,85 @@
       "firstSeenAt": "2026-11-28T14:56:45+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 130074,
+      "source": "dc",
+      "externalId": "cmt-11053850",
+      "title": "다리가지고지랄이야",
+      "excerpt": "안정환 빼라... 프로그램이랑 안맞는다..",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "106.101",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721342&page=2#cmt_11053850",
+      "postedLabel": "11.28 23:27:36",
+      "postedAt": "2026-11-28T23:27:36+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:57:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130075,
+      "source": "dc",
+      "externalId": "6721395",
+      "title": "나솔 글래머 특집하라!",
+      "excerpt": "",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "118.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721395&page=1",
+      "postedLabel": "23:56",
+      "postedAt": "2026-11-28T23:56:50+09:00",
+      "views": 9,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:57:58+00:00",
+      "isSeed": false
+    },
+    {
+      "id": 130076,
+      "source": "dc",
+      "externalId": "cmt-11054007",
+      "title": "당연 인기없어 보이는데......보는눈이 ?",
+      "excerpt": "근데 영수는 왜캐 인기가 없냐?",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "218.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721394&page=1#cmt_11054007",
+      "postedLabel": "11.28 23:57:00",
+      "postedAt": "2026-11-28T23:57:00+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:57:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130077,
+      "source": "dc",
+      "externalId": "cmt-11054008",
+      "title": "피부를 봐라 어느정도껏이어야지 - dc App",
+      "excerpt": "근데 영수는 왜캐 인기가 없냐?",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "211.235",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721394&page=1#cmt_11054008",
+      "postedLabel": "11.28 23:57:12",
+      "postedAt": "2026-11-28T23:57:12+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T14:57:58+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -673556,7 +673635,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-28T23:54:15+09:00"
+      "slowAt": "2026-11-28T23:57:42+09:00"
     },
     "dc": {
       "doneIds": [
@@ -695892,6 +695971,7 @@
         "6721339",
         "6721340",
         "6721341",
+        "6721342",
         "6721346",
         "6721348",
         "6721351",
@@ -695909,7 +695989,8 @@
         "6721386",
         "6721390",
         "6721392",
-        "6721393"
+        "6721393",
+        "6721394"
       ]
     },
     "blind": {
