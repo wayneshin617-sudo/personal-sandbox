@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T15:21:23+00:00",
+  "updatedAt": "2026-11-28T15:22:23+00:00",
   "posts": [
     {
       "id": 95749,
@@ -674440,6 +674440,65 @@
       "firstSeenAt": "2026-11-28T15:21:23+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 130128,
+      "source": "dc",
+      "externalId": "cmt-11053483",
+      "title": "옥퇘지니?",
+      "excerpt": "승무원은 남자로 치면 의사급 직업이라 보면 되",
+      "author": "나갤러1",
+      "company": "",
+      "ip": "223.39",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721267&page=3#cmt_11053483",
+      "postedLabel": "11.28 21:26:32",
+      "postedAt": "2026-11-28T21:26:32+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T15:22:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130129,
+      "source": "dc",
+      "externalId": "cmt-11053671",
+      "title": "그건아니지......",
+      "excerpt": "승무원은 남자로 치면 의사급 직업이라 보면 되",
+      "author": "나갤러2",
+      "company": "",
+      "ip": "218.234",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721267&page=3#cmt_11053671",
+      "postedLabel": "11.28 22:49:57",
+      "postedAt": "2026-11-28T22:49:57+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T15:22:23+00:00",
+      "isSeed": false,
+      "kind": "reply"
+    },
+    {
+      "id": 130130,
+      "source": "dc",
+      "externalId": "6721404",
+      "title": "대물이랑 글래머특집하면좋긴할듯",
+      "excerpt": "",
+      "author": "나갤러",
+      "company": "",
+      "ip": "211.33",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6721404&page=1",
+      "postedLabel": "00:21",
+      "postedAt": "2026-11-29T00:21:53+09:00",
+      "views": 2,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T15:22:23+00:00",
+      "isSeed": false
     }
   ],
   "socialCrawl": {
@@ -674624,7 +674683,7 @@
         "DfYVRN5E9jw",
         "DfYiZLiH9uW"
       ],
-      "slowAt": "2026-11-29T00:19:07+09:00"
+      "slowAt": "2026-11-29T00:22:06+09:00"
     },
     "dc": {
       "doneIds": [
@@ -696923,6 +696982,7 @@
         "6721260",
         "6721265",
         "6721266",
+        "6721267",
         "6721270",
         "6721273",
         "6721280",
