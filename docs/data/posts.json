@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-11-01T00:00:00+09:00",
-  "updatedAt": "2026-11-28T06:56:35+00:00",
+  "updatedAt": "2026-11-28T06:57:35+00:00",
   "posts": [
     {
       "id": 95749,
@@ -651691,6 +651691,26 @@
       "firstSeenAt": "2026-11-28T06:56:35+00:00",
       "isSeed": false,
       "kind": "reply"
+    },
+    {
+      "id": 128971,
+      "source": "dc",
+      "externalId": "cmt-11052871",
+      "title": "기념일에만 가서해야지",
+      "excerpt": "가난해서 자취방 섹만 하면 호텔못가지 돈아까워서",
+      "author": "ㅇㅇ",
+      "company": "",
+      "ip": "",
+      "badge": "",
+      "url": "https://gall.dcinside.com/board/view/?id=iamsolo&no=6720903&page=1#cmt_11052871",
+      "postedLabel": "11.28 15:56:21",
+      "postedAt": "2026-11-28T15:56:21+09:00",
+      "views": null,
+      "recommends": 0,
+      "comments": null,
+      "firstSeenAt": "2026-11-28T06:57:35+00:00",
+      "isSeed": false,
+      "kind": "reply"
     }
   ],
   "socialCrawl": {
@@ -673991,7 +674011,8 @@
         "6720890",
         "6720895",
         "6720897",
-        "6720899"
+        "6720899",
+        "6720903"
       ]
     },
     "blind": {
